@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_AlphaAnimalSpawnMultiplier>Multiplicador de comunalidade do Alpha Animals</AA_AlphaAnimalSpawnMultiplier>
+  <AA_AlphaAnimalSpawnMultiplierTooltip>Este multiplicador afetará a geração (comunalidades) de TODOS os animais deste mod. Por exemplo, se definido como 0,5, os animais do mod aparecerão pela metade da frequência padrão (que é 1). Se definido como 2, você terá o dobro da frequência padrão, e assim por diante. Isso afeta apenas o surgimento de animais selvagens.</AA_AlphaAnimalSpawnMultiplierTooltip>
+  <AA_AlphaCargoPodCrash>Você detectou uma cápsula de carga caindo nas proximidades. Animais exóticos em cativeiro parecem estar lá dentro.\n\nQuem sabe, mas talvez você encontre algo útil nos destroços.</AA_AlphaCargoPodCrash>
+  <AA_AnimalDoingWeirdJob>Animal está ocupado fazendo um trabalho.</AA_AnimalDoingWeirdJob>
+  <AA_AntiInsectoidShockTroop>Tropa de Choque Anti-Insectoides</AA_AntiInsectoidShockTroop>
+  <AA_AntiInsectoidShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal também possui ataques dilacerantes que produzem danos extras contra insetóides.</AA_AntiInsectoidShockTroopDesc>
+  <AA_ArmouredTankDesc>Animais "tanque" são especializados em combate corpo a corpo. Esses animais têm alto dano de ataque, boa resistência, alta saúde ou outras habilidades que lhes permitem sobreviver na linha de frente.</AA_ArmouredTankDesc>
+  <AA_Artillery>Artilharia</AA_Artillery>
+  <AA_ArtilleryDesc>Este animal atacará com ataques explosivos à distância muito perigosos.</AA_ArtilleryDesc>
+  <AA_AsexualCloning>{0} clonou a si mesmo.</AA_AsexualCloning>
+  <AA_AsexualHatched>{0} se reproduziu assexuadamente.</AA_AsexualHatched>
+  <AA_AsexualHatchedEgg>{0} esporulou.</AA_AsexualHatchedEgg>
+  <AA_BlueGel>Produção de Gel Azul</AA_BlueGel>
+  <AA_Boomer>Boomer</AA_Boomer>
+  <AA_BoomerDesc>Este animal explode ao morrer.</AA_BoomerDesc>
+  <AA_CancelDestroyFlamingoEggsDesc>Cancele uma ordem de serviço para quebrar este ovo o mais rápido possível</AA_CancelDestroyFlamingoEggsDesc>
+  <AA_CancelDestroyFlamingoEggsLabel>Cancelar ovo esmagador</AA_CancelDestroyFlamingoEggsLabel>
+  <AA_Charge>Cobrar!</AA_Charge>
+  <AA_ChargeAndSkewer>Carregue e espete!</AA_ChargeAndSkewer>
+  <AA_ChargeAndSkewerFailed>Falha na carga e no espeto</AA_ChargeAndSkewerFailed>
+  <AA_ChargeFailed>Falha na cobrança</AA_ChargeFailed>
+  <AA_CinderSilkDesc>Produção de seda cinzenta</AA_CinderSilkDesc>
+  <AA_ClawFrenzy>Frenesi de garras!</AA_ClawFrenzy>
+  <AA_ClawFrenzyFailed>Frenesi de garras fracassado</AA_ClawFrenzyFailed>
+  <AA_ClutchmotherNotTameable>A mãe da ninhada é selvagem demais para ser domesticada!</AA_ClutchmotherNotTameable>
+  <AA_CocoonInsectSpawnIn>Inseto emergente em: {0}</AA_CocoonInsectSpawnIn>
+  <AA_DOTShockTroop>Tropa de Choque DOT</AA_DOTShockTroop>
+  <AA_DamageRanged>Atacante de longo alcance</AA_DamageRanged>
+  <AA_DamageRangedDOT>Atacante de longo alcance DOT</AA_DamageRangedDOT>
+  <AA_DamageRangedDOTDesc>Este animal usa ataques à distância para causar danos aos atacantes. Esses ataques causam danos ao longo do tempo. Tê-los em combate corpo a corpo pode não ser o melhor uso para eles.</AA_DamageRangedDOTDesc>
+  <AA_DamageRangedDesc>Este animal usa ataques à distância para causar danos aos atacantes. Tê-los em combate corpo a corpo pode não ser o melhor uso para eles.</AA_DamageRangedDesc>
+  <AA_DamageRangedElectric>Atacante elétrico de longo alcance</AA_DamageRangedElectric>
+  <AA_DamageRangedElectricDesc>Este animal usa ataques à distância para causar danos aos atacantes. Esses ataques causam danos elétricos, que podem causar ataques cardíacos. Tê-los em combate corpo a corpo pode não ser o melhor uso para eles.</AA_DamageRangedElectricDesc>
+  <AA_DamageRangedFire>Atacante de Fogo à Distância</AA_DamageRangedFire>
+  <AA_DamageRangedFireDesc>Este animal usa ataques à distância para causar danos aos atacantes. Esses ataques incendiaram os inimigos. Tê-los em combate corpo a corpo pode não ser o melhor uso para eles.</AA_DamageRangedFireDesc>
+  <AA_DamageRangedPoison>Atacante de Combate à Distância Venenoso</AA_DamageRangedPoison>
+  <AA_DamageRangedPoisonDesc>Este animal usa ataques à distância para causar danos aos atacantes. Esses ataques causam danos tóxicos. Tê-los em combate corpo a corpo pode não ser o melhor uso para eles.</AA_DamageRangedPoisonDesc>
+  <AA_DestroyFlamingoEggsDesc>Coloque uma ordem de serviço na fila para quebrar este ovo o mais rápido possível</AA_DestroyFlamingoEggsDesc>
+  <AA_DestroyFlamingoEggsLabel>Esmagar Ovo</AA_DestroyFlamingoEggsLabel>
+  <AA_Detonate>Detonar</AA_Detonate>
+  <AA_DetonateDesc>Force este animal a detonar. Isso matará o animal e causará uma explosão.</AA_DetonateDesc>
+  <AA_DigestionTime>Será consumido em {0}</AA_DigestionTime>
+  <AA_DisableAnimal>Desativar {0}</AA_DisableAnimal>
+  <AA_DisablingStrike>Desativando ataque!</AA_DisablingStrike>
+  <AA_DisablingStrikeFailed>Falha ao desativar aviso</AA_DisablingStrikeFailed>
+  <AA_EMPBlow>Golpe EMP!</AA_EMPBlow>
+  <AA_EMPBlowFailed>Golpe EMP falhou</AA_EMPBlowFailed>
+  <AA_EMPShockTroop>Tropa de Choque EMP</AA_EMPShockTroop>
+  <AA_EMPShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal tem um ataque EMP que causa danos adicionais contra mecanóides.</AA_EMPShockTroopDesc>
+  <AA_EcholocativeFeedbackReason>O estado catatônico foi causado por um feedback ecolocativo. O som repentino e avassalador provou ser demais para suportar.</AA_EcholocativeFeedbackReason>
+  <AA_Farm>Animal de fazenda</AA_Farm>
+  <AA_FarmBloodDesc>Este é um animal de fazenda que produz embalagens hemogênicas.</AA_FarmBloodDesc>
+  <AA_FarmBuildingAndMilkDesc>Este é um animal de fazenda que produz materiais de construção e leite.</AA_FarmBuildingAndMilkDesc>
+  <AA_FarmBuildingDesc>Este é um animal de fazenda que produz materiais de construção.</AA_FarmBuildingDesc>
+  <AA_FarmChemfuelDesc>Este é um animal de fazenda que produz combustível químico.</AA_FarmChemfuelDesc>
+  <AA_FarmDrugsDesc>Este é um animal de fazenda que produz drogas.</AA_FarmDrugsDesc>
+  <AA_FarmFoodDesc>Este é um animal de fazenda que produz alimentos.</AA_FarmFoodDesc>
+  <AA_FarmImplantsDesc>Este é um animal de fazenda que produz implantes.</AA_FarmImplantsDesc>
+  <AA_FarmMedicineDesc>Este é um animal de fazenda que produz medicamentos.</AA_FarmMedicineDesc>
+  <AA_FarmMilkDesc>Este é um animal de fazenda que produz leite.</AA_FarmMilkDesc>
+  <AA_FarmRandomDesc>Este é um animal de fazenda que produz coisas aleatórias.</AA_FarmRandomDesc>
+  <AA_FarmWoolAndEggsDesc>Este é um animal de fazenda que produz lã/têxteis e ovos.</AA_FarmWoolAndEggsDesc>
+  <AA_FarmWoolAndMilkDesc>Este é um animal de fazenda que produz lã/têxteis e leite.</AA_FarmWoolAndMilkDesc>
+  <AA_FarmWoolDesc>Este é um animal de fazenda que produz lã/têxteis.</AA_FarmWoolDesc>
+  <AA_FireyShockTroop>Tropa de Choque Firey</AA_FireyShockTroop>
+  <AA_FireyShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal também possui ataques que incendeiam os inimigos.</AA_FireyShockTroopDesc>
+  <AA_GallatrossNotTameable>O Gallatross Moribundo é indomável e retorna rapidamente à natureza, esperando para morrer</AA_GallatrossNotTameable>
+  <AA_HemogenPackDesc>Pacote de hemogênio em</AA_HemogenPackDesc>
+  <AA_HiveInvalidPosition>Uma entrada de colmeia não pode ser construída aqui</AA_HiveInvalidPosition>
+  <AA_HuskNotTameable>A Casca Fúngica existe apenas para espalhar sua infecção fúngica, não pode ser domesticada</AA_HuskNotTameable>
+  <AA_InfectiousShockTroop>Tropa de Choque Infecciosa</AA_InfectiousShockTroop>
+  <AA_InfectiousShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal também tem ataques que são infectados em uma taxa muito maior do que o normal.</AA_InfectiousShockTroopDesc>
+  <AA_KO>NO!</AA_KO>
+  <AA_KOFailed>Nocaute falhou</AA_KOFailed>
+  <AA_Larva>Larva</AA_Larva>
+  <AA_LarvaDesc>Este animal é uma forma larval, não adequada para combate. Você deve mantê-lo bem defendido se quiser que ele se transforme na forma adulta.</AA_LarvaDesc>
+  <AA_LarvaeTimeSpawn>É hora de gerar novas larvas pretas: {0}</AA_LarvaeTimeSpawn>
+  <AA_LegSkip>Pular perna!</AA_LegSkip>
+  <AA_LegSkipFailed>Falha no salto de perna</AA_LegSkipFailed>
+  <AA_LetterAnimaliskEnters>Uma enorme criatura parecida com uma aranha com runas arcanas gravadas em seu exoesqueleto vagueia por este território.\n\nEsta criatura é um Animalisk, um inseto herbívoro gigantesco que devora grama e árvores de Anima.</AA_LetterAnimaliskEnters>
+  <AA_LetterBehemothPasses>Um pequeno rebanho de gigantes vagou pela área.\n\nEssas criaturas gigantescas têm um apetite voraz e um sopro de fogo muito perigoso que provavelmente poderia incendiar uma floresta inteira.\n\nEles são comumente usados ​​como bestas de carga por uma raça temível conhecida como Forsaken.</AA_LetterBehemothPasses>
+  <AA_LetterFungalHusk>Cadáveres inchados e cambaleantes, animados por um terrível fungo armado, entraram neste território!\n\nNão deixe que eles ataquem seus colonos, ou eles serão afetados por uma infecção fúngica de ação rápida que pode matar rapidamente se não for tratada.</AA_LetterFungalHusk>
+  <AA_LetterLabelAlphaCargoPodCrash>Pod de carga Alpha Animals</AA_LetterLabelAlphaCargoPodCrash>
+  <AA_LetterLabelAnimaliskEnters>Animalisco avistado</AA_LetterLabelAnimaliskEnters>
+  <AA_LetterLabelBehemothPasses>Gigante raro</AA_LetterLabelBehemothPasses>
+  <AA_LetterLabelFungalHusk>Cascas de Fungos</AA_LetterLabelFungalHusk>
+  <AA_LetterLabelMatureFleshbeast>Devorado inteiro</AA_LetterLabelMatureFleshbeast>
+  <AA_LetterLabelMechanoidSappers>Sapadores Mecanóides</AA_LetterLabelMechanoidSappers>
+  <AA_LetterLabelMime>Mime revelado</AA_LetterLabelMime>
+  <AA_LetterMatureFleshbeast>Uma criatura grotesca engoliu {0} todo! Se você agir rapidamente, talvez ainda possa economizar {0_objective}.</AA_LetterMatureFleshbeast>
+  <AA_LetterMechanoidSappers>Um antigo montador mecanóide, anteriormente camuflado, apareceu misteriosamente nas proximidades.\n\nUm enxame de mecanóides surge, preparando-se rapidamente para um ataque.\n\nUm desses mecanóides é um Demolidor perigoso, então eles provavelmente irão direto para as paredes!</AA_LetterMechanoidSappers>
+  <AA_LetterMime>{0} era um mímico o tempo todo! {0_possessive} a fome extrema era demais para {0_objective}, e {0_pronoun} atacará o resto dos colonos para tentar saciá-lo.</AA_LetterMime>
+  <AA_Luciferium>Produção de Lucifério</AA_Luciferium>
+  <AA_MealNutrientPaste>Produção de pasta nutritiva</AA_MealNutrientPaste>
+  <AA_MeleeWeaponNeeded>Caster requer uma arma corpo a corpo</AA_MeleeWeaponNeeded>
+  <AA_MimeNotTameable>O Mime se recusa a ser domesticado</AA_MimeNotTameable>
+  <AA_MothSilkDesc>Produção de seda de mariposa</AA_MothSilkDesc>
+  <AA_MountArmoured>Montagem Blindada</AA_MountArmoured>
+  <AA_MountArmouredDesc>Este animal pode ser montado pelos colonos, proporcionando um considerável aumento de defesa devido à armadura extra, além de poder atacar corpo a corpo junto com seu cavaleiro. Lembre-se que toda essa interação só estará disponível se você tiver o Giddy Up! mod instalado. E se não, o que você está esperando?</AA_MountArmouredDesc>
+  <AA_MountFast>Montagem rápida</AA_MountFast>
+  <AA_MountFastArmoured>Montagem Blindada e Rápida</AA_MountFastArmoured>
+  <AA_MountFastArmouredDesc>Este animal pode ser montado pelos colonos, proporcionando um considerável aumento de velocidade, um aumento de defesa devido à armadura extra, além de poder atacar corpo a corpo junto com seu cavaleiro. Lembre-se que toda essa interação só estará disponível se você tiver o Giddy Up! mod instalado. E se não, o que você está esperando?</AA_MountFastArmouredDesc>
+  <AA_MountFastDesc>Este animal pode ser montado pelos colonos, proporcionando um aumento considerável de velocidade, além de poder atacar corpo a corpo junto com seu cavaleiro. Lembre-se que toda essa interação só estará disponível se você tiver o Giddy Up! mod instalado. E se não, o que você está esperando?</AA_MountFastDesc>
+  <AA_MutantImplantsDesc>Hora de extirpar o implante</AA_MutantImplantsDesc>
+  <AA_No>Não</AA_No>
+  <AA_NoMoreLarvaeAllowed>Nenhuma larva mais pode desovar, pois a colônia já possui 4 insetoides Colmeia Negra ou mais</AA_NoMoreLarvaeAllowed>
+  <AA_NoRanged>Este animal não possui ataques à distância. Para ordenar que ele ataque, ele precisa ser treinado em Guarda e Ataque, depois precisa ser designado para seguir um mestre quando for convocado e/ou trabalhando. O botão “liberar” na barra de comandos do mestre fará com que o animal ataque corpo a corpo.</AA_NoRanged>
+  <AA_NotTameable>Esta criatura é indomável</AA_NotTameable>
+  <AA_OnlyBlackHive>Esta habilidade deve ter como alvo um inseto Colmeia Negra</AA_OnlyBlackHive>
+  <AA_OnlyNumberAllowed>Apenas {0} permitido por mapa</AA_OnlyNumberAllowed>
+  <AA_OnlyOneHivePerMap>Apenas uma entrada de colmeia pode ser construída</AA_OnlyOneHivePerMap>
+  <AA_PackAnimal>Animal de carga</AA_PackAnimal>
+  <AA_PackAnimalDesc>Este é um animal de carga e pode carregar mais peso em caravanas do que o normal.</AA_PackAnimalDesc>
+  <AA_ParalizingRanged>Combate à distância paralisante</AA_ParalizingRanged>
+  <AA_ParalyzingRangedDesc>Animais de "alcance paralisante" usam ataques de longo alcance para imobilizar os atacantes. Tê-los em combate corpo a corpo pode não ser o melhor uso para eles.</AA_ParalyzingRangedDesc>
+  <AA_ParalyzingShockTroop>Tropa de choque paralisante</AA_ParalyzingShockTroop>
+  <AA_ParalyzingShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal também possui ataques que podem ser usados ​​para imobilizar os atacantes.</AA_ParalyzingShockTroopDesc>
+  <AA_Pest>Praga</AA_Pest>
+  <AA_PestDesc>Este animal é geralmente considerado uma praga e não é nada útil para se ter na colônia. Ou tem efeitos puramente prejudiciais ou necessidades que superam a sua utilidade. Você pode encontrar um nicho de uso para eles!</AA_PestDesc>
+  <AA_Pet>Bicho de estimação</AA_Pet>
+  <AA_PetDesc>Este animal é um animal de estimação. Ele não é fofo?</AA_PetDesc>
+  <AA_PlantConversionRadius>Raio de conversão da planta</AA_PlantConversionRadius>
+  <AA_PoisonShockTroop>Tropa de Choque Venenoso</AA_PoisonShockTroop>
+  <AA_PoisonShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal tem um ataque corpo a corpo que causa acúmulo tóxico.</AA_PoisonShockTroopDesc>
+  <AA_PrimaryRole>Função principal</AA_PrimaryRole>
+  <AA_PsychicSlice>Fatia psíquica!</AA_PsychicSlice>
+  <AA_PsychicSliceFailed>Fatia psíquica falhada</AA_PsychicSliceFailed>
+  <AA_RadiusExpandRate>Taxa de expansão</AA_RadiusExpandRate>
+  <AA_RandomItems>Montagem de recursos em</AA_RandomItems>
+  <AA_Ranged>Este animal usa ataques à distância e só usará ataques corpo a corpo se o inimigo entrar no alcance corpo a corpo. Para ordenar que ele ataque, ele precisa ser treinado em Guarda e Ataque, depois precisa ser designado para seguir um mestre quando for convocado e/ou trabalhando. O botão “liberar” na barra de comandos do mestre fará com que o animal procure uma cobertura apropriada e use seu ataque à distância.</AA_Ranged>
+  <AA_RangedAttacks>Usa ataques à distância</AA_RangedAttacks>
+  <AA_RegeneratingShockTroop>Regenerando a tropa de choque</AA_RegeneratingShockTroop>
+  <AA_RegeneratingShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal regenera sua saúde, tornando-o mais durável.</AA_RegeneratingShockTroopDesc>
+  <AA_Reset>Redefinir multiplicador</AA_Reset>
+  <AA_SeasonalWoolDesc>Produção de lã camaleão</AA_SeasonalWoolDesc>
+  <AA_SecondaryRole>Papel Secundário</AA_SecondaryRole>
+  <AA_ShockTroop>Tropa de Choque</AA_ShockTroop>
+  <AA_ShockTroopDOTDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal tem um ataque corpo a corpo que causa danos ao longo do tempo.</AA_ShockTroopDOTDesc>
+  <AA_ShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.</AA_ShockTroopDesc>
+  <AA_Skewer>Espeto!</AA_Skewer>
+  <AA_SkewerFailed>Espeto falhado</AA_SkewerFailed>
+  <AA_SpinCut>Corte giratório!</AA_SpinCut>
+  <AA_SpinCutFailed>Falha no corte de rotação</AA_SpinCutFailed>
+  <AA_StomachContents>{0} criaturas engolidas inteiras. </AA_StomachContents>
+  <AA_Tank>Tanque</AA_Tank>
+  <AA_TimeToMetamorphosis>Hora de metamorfose: {0}</AA_TimeToMetamorphosis>
+  <AA_UraniumCrystalsDesc>Afrouxamento do cristal de urânio</AA_UraniumCrystalsDesc>
+  <AA_Utility>Utilitário</AA_Utility>
+  <AA_UtilityBeautyDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. No entanto, aumentará a beleza da sua colônia.</AA_UtilityBeautyDesc>
+  <AA_UtilityHealthDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. No entanto, ajudará a saúde dos seus colonos, seja curando feridas ou fortalecendo-as de alguma forma.</AA_UtilityHealthDesc>
+  <AA_UtilityMoodDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. No entanto, aumentará o humor de seus colonos, seja por meio de carinho ou outras habilidades alternativas.</AA_UtilityMoodDesc>
+  <AA_UtilityPowerDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. No entanto, produzirá itens que podem ser usados ​​para construir geradores de energia.</AA_UtilityPowerDesc>
+  <AA_UtilityRechargerDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. Ele recarregará periodicamente as baterias próximas.</AA_UtilityRechargerDesc>
+  <AA_UtilityRecycling>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. Ele comerá têxteis, livrando-se de itens indesejados para regular a riqueza da sua colônia.</AA_UtilityRecycling>
+  <AA_UtilityTemperatureDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. No entanto, irá ajudá-lo a controlar o calor da sua colônia.</AA_UtilityTemperatureDesc>
+  <AA_UtilityWorkerDesc>Este animal não é adequado para o combate, sendo bastante fraco fisicamente. No entanto, ajudará os seus colonos em determinadas tarefas (Mineração, Colheita, Limpeza, etc.), reduzindo consideravelmente a sua carga de trabalho.</AA_UtilityWorkerDesc>
+  <AA_VFEI_CreatingCocoon>{0} para criar casulo</AA_VFEI_CreatingCocoon>
+  <AA_VenomousTankDesc>Animais "tanque" são especializados em combate corpo a corpo. Esses animais têm alto dano de ataque, boa resistência, muita saúde ou outras habilidades que lhes permitem sobreviver na linha de frente.\n\nEste animal também tem poderosos ataques venenosos.</AA_VenomousTankDesc>
+  <AA_Wood>Hora de “cortar” árvores</AA_Wood>
+  <AA_Yes>Sim</AA_Yes>
+  <BlizzariskClutchMother>Uma enorme criatura semelhante a uma aranha chamada Blizzarisk, adaptada a climas frios, vagueia por este território.\n\nEste Blizzarisk parece ser de tamanho muito maior do que o normal e carrega uma ninhada de ovos nas costas. Isto soa como uma receita para o desastre se não for resolvido rapidamente.</BlizzariskClutchMother>
+  <BoomthreadDesc>Produção de Boomthread</BoomthreadDesc>
+  <CactipineDropPod>O ar ruge com o som inconfundível de uma cápsula de lançamento durante a reentrada. Os scanners detectam sinais de vida no interior, mas são sinais de vida REALMENTE estranhos, como se o scanner não pudesse dizer se é vida animal ou vegetal.</CactipineDropPod>
+  <ChunkSlagSteelDesc>Afrouxamento de pedaço de aço</ChunkSlagSteelDesc>
+  <DevilstrandDesc>Produção de Devilstrand</DevilstrandDesc>
+  <DunealiskClutchMother>Uma enorme criatura semelhante a uma aranha chamada Dunealisk, adaptada a climas quentes, vagueia por este território.\n\nEste Dunealisk parece ser de tamanho muito maior do que o normal e carrega uma ninhada de ovos nas costas. Isto soa como uma receita para o desastre se não for resolvido rapidamente.</DunealiskClutchMother>
+  <FeraliskClutchMother>Uma enorme criatura parecida com uma aranha chamada Feralisk vagueia por este território.\n\nEste Feralisk parece ser muito maior do que o normal e carrega uma ninhada de ovos nas costas. Isto soa como uma receita para o desastre se não for resolvido rapidamente.</FeraliskClutchMother>
+  <HyperweaveDesc>Produção de hipertecido</HyperweaveDesc>
+  <LetterBlackHiveAttack>Os insetoides na borda são organismos geneticamente alterados, concebidos para combater invasões mecanóides. A Colmeia Negra era a melhor das melhores, projetada para ser muito mais agressiva que o normal e capaz de sitiar fortalezas mecanóides inexpugnáveis. As espécies de insetoides existentes foram melhoradas e várias novas espécies foram criadas e adicionadas à Colmeia para aumentar sua letalidade.\n\nUm grupo de insetoides da Colmeia Negra abriu um túnel até este local e atacará sua base imediatamente.</LetterBlackHiveAttack>
+  <LetterBumbledroneMigration>Um pequeno grupo de bumbledrones, liderado por uma rainha dos bumbledrones, entrou nesta área.\n\nBumbledrones geralmente não são agressivos, a menos que sejam ameaçados.\n\nEles provavelmente deixarão esta área depois de um tempo em busca de um lugar mais silencioso, já que a colônia é muito barulhenta para eles.</LetterBumbledroneMigration>
+  <LetterColossalAerofleetPasses>Uma estranha criatura flutuante salta ao longe, tropeçando na paisagem.\n\nUma pequena horda de espécimes menores parece ser atraída por ela e a segue a uma curta distância.\n\nEles parecem ser em sua maioria inofensivos e provavelmente deixarão a área quando se alimentarem.</LetterColossalAerofleetPasses>
+  <LetterGallatrossPasses>As lendas falam de uma criatura tão grande e poderosa que tribos inteiras fugiram ao vê-la. Tais lendas foram inspiradas no Gallatross, uma criatura imensa com um apetite voraz. Talvez esteja de alguma forma relacionado ao indescritível Thrumbo? Tais questões são provavelmente impossíveis de responder.</LetterGallatrossPasses>
+  <LetterLabelBlackHiveAttack>Ataque de colmeia negra</LetterLabelBlackHiveAttack>
+  <LetterLabelBlizzariskClutchMother>Mãe de embreagem Blizzarisk</LetterLabelBlizzariskClutchMother>
+  <LetterLabelBumbledroneMigration>Migração de Bumbledrone</LetterLabelBumbledroneMigration>
+  <LetterLabelCactipinePod>Cápsula de queda estranha</LetterLabelCactipinePod>
+  <LetterLabelColossalAerofleetPasses>Aerofrota Colossal</LetterLabelColossalAerofleetPasses>
+  <LetterLabelDunealiskClutchMother>Mãe embreagem Duneask</LetterLabelDunealiskClutchMother>
+  <LetterLabelFeraliskClutchMother>Mãe embreagem Feralisk</LetterLabelFeraliskClutchMother>
+  <LetterLabelGallatrossPasses>Galatross vagueia</LetterLabelGallatrossPasses>
+  <LetterLabelManhuntingArcticLion>Perseguindo Leão do Ártico</LetterLabelManhuntingArcticLion>
+  <LetterLabelSkyAsteroid>Asteróide estranho</LetterLabelSkyAsteroid>
+  <LetterLabelSummitCrab>Caranguejo do cume</LetterLabelSummitCrab>
+  <LetterSkyAsteroid>Um pequeno e estranho asteróide parece ter entrado na atmosfera deste planeta. O impacto é iminente.</LetterSkyAsteroid>
+  <ManhuntingArcticLion>Um leão ártico está perseguindo um de seus colonos nas sombras.\n\nEle ficará quase invisível até decidir atacar e ser danificado por seus colonos. Os colonos recrutados e alertas e com defesas automáticas serão capazes de detectá-lo, então você deve se preparar rapidamente! \n\nOs leões do Ártico são criaturas temíveis e geneticamente modificadas, criadas para combate em climas frios.</ManhuntingArcticLion>
+  <MedicinalQuillDesc>Crescimento de pena medicinal</MedicinalQuillDesc>
+  <NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
+  <NocturnalAnimals.BodyClock_Description>Determina quando o animal dorme e quando está acordado.\n\nAnimais diurnos dormem durante a noite e ficam acordados durante o dia, enquanto animais noturnos dormem durante o dia e ficam acordados durante a noite. Os animais crepusculares são ativos principalmente durante o anoitecer.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>Diurno</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
+  <RawMushrooms>Crescimento de cogumelos crus</RawMushrooms>
+  <StoneBlockDesc>Afrouxamento aleatório de bloco de pedra</StoneBlockDesc>
+  <StoneChunkDesc>Afrouxamento aleatório de pedaço de pedra</StoneChunkDesc>
+  <SummitCrab>O chão treme quando um enorme caranguejo eremita que vive dentro de uma enorme pedra se arrasta por esta região.\n\nO gigantesco pedregulho não é hostil, mas é quase imune a tiros e destruirá qualquer coisa em seu caminho se não for detido.</SummitCrab>
+  <SynthreadDesc>Produção de fibra sintética</SynthreadDesc>
+  <VFEI2_BlackInsectJelly>Plenitude de gelatina preta de inseto:</VFEI2_BlackInsectJelly>
+  <allowAerofleet>Permitir migrações colossais da frota aérea</allowAerofleet>
+  <allowAlphaMechanoids>Permitir mecanóides Alfa em ataques, clusters, etc.</allowAlphaMechanoids>
+  <allowAnimalisk>Permitir Animalisco (apenas com Royalty, de qualquer forma)</allowAnimalisk>
+  <allowAsteroids>Permitir impacto de asteróides da enguia do céu de Arcturan</allowAsteroids>
+  <allowBehemoth>Permitir evento errante do Behemoth</allowBehemoth>
+  <allowBlackHive>Permitir ataques do Colmeia Negra</allowBlackHive>
+  <allowBumbledrones>Permitir migrações da rainha do bumbledrone</allowBumbledrones>
+  <allowCactipineDroppods>Permitir evento droppod Cactipine</allowCactipineDroppods>
+  <allowFrostmiteCorpses>Permitir que as geadas cavem cadáveres por conta própria</allowFrostmiteCorpses>
+  <allowFungalHusk>Permitir evento de ataque Fungal Husk</allowFungalHusk>
+  <allowGallatross>Permitir migrações de gallatross</allowGallatross>
+  <allowHelixienCorpseEffect>Permitir efeito Helixien (desative se houver erros devido a outros mods)</allowHelixienCorpseEffect>
+  <allowMechanoidSappers>Permitir evento de sapadores mecanóides</allowMechanoidSappers>
+  <allowMime>Permitir que Mime Wanderer participe do evento</allowMime>
+  <allowSpiderClutchMothers>Permitir evento de mães de embreagem de aranha</allowSpiderClutchMothers>
+  <allowStalkingLions>Permitir ataques de Stalking Arctic Lion</allowStalkingLions>
+  <allowSummitCrab>Permitir evento de caranguejo do cume</allowSummitCrab>
+  <allowVanillaAnimals>Permitir animais de caça básicos (afeta apenas crias selvagens)</allowVanillaAnimals>
+  <alternatePokemonGraphics>Use gráficos alternativos "fofos" para animais selecionados, por Roidgy</alternatePokemonGraphics>
+  <alternatePokemonGraphics_Desc>Se estiver ativo, animais selecionados usarão a retextura legal de Roidgy. Os seguintes animais têm uma retextura: Agaripão, Agarípode, Leão Ártico, Dragão Decomposto, Ave do Deserto, Gallatross, Gigantelope, Corredor terrestre, Verme mamute, Megalouse, Colosso micóide, Colosso coberto de vegetação, Radyak, Leão da areia e Thermadon </alternatePokemonGraphics_Desc>
+  <removeAnimalParticles>Remova partículas de animais</removeAnimalParticles>
+</LanguageData>

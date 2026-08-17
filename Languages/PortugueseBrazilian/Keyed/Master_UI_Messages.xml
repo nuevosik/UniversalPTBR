@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<FailedToBoardGravship>{PAWN_nameDef} não pode embarcar em {1}</FailedToBoardGravship>
+	<FailedToLeaveGravship>{PAWN_nameDef} não pode sair de {1}</FailedToLeaveGravship>
+	<ViewRange>Alcance de visão</ViewRange>
+	<ViewRangeDesc>Visualizar o alcance atual da nave no mapa-múndi.</ViewRangeDesc>
+
+	<IP_UnderThreshold>{0} no output. (abaixo de {1})</IP_UnderThreshold>
+	<IP_NoThreshold>Sem limite no output.</IP_NoThreshold>
+	<IP_Count>Contagem:</IP_Count>
+	<IP_NoCount>Sem contagem</IP_NoCount>
+	<IP_InputAmount>Quantidade de input: {0}</IP_InputAmount>
+	<IP_OutputAmount>Quantidade de output: {0}</IP_OutputAmount>
+	<IP_NoOutputAmount>Sem quantidade de output</IP_NoOutputAmount>
+	<IP_Speed>Velocidade: {0}</IP_Speed>
+	<IP_Speed_Tooltip>A velocidade de processamento é determinada pela temperatura, nível de luz e chuva.</IP_Speed_Tooltip>
+	<IP_ProcessTime>Tempo de processamento: {0}</IP_ProcessTime>
+	<IP_Input>{0} ({1})</IP_Input>
+	<IP_Input_Tooltip>{0} ({1}) no input</IP_Input_Tooltip>
+	<IP_Output_Tooltip>{0} ({1}) no output</IP_Output_Tooltip>
+	<IP_Output_NextItem>{0} ({1} unidades)</IP_Output_NextItem>
+	<IP_Output_NextItem_Tooltip>{0} ({1} unidades) no próximo output</IP_Output_NextItem_Tooltip>
+	<IP_Output_NextItem_NoAmount>{0} (sem output)</IP_Output_NextItem_NoAmount>
+	</LanguageData>

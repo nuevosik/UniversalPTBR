@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEFactory_AllowInserting>Permitir inserção</VFEFactory_AllowInserting>
+  <VFEFactory_AllowInsertingDesc>Permita que os colonos insiram itens manualmente neste depósito de fábrica.</VFEFactory_AllowInsertingDesc>
+  <VFEFactory_AllowTaking>Permitir tomar</VFEFactory_AllowTaking>
+  <VFEFactory_AllowTakingDesc>Permita que os colonos retirem itens deste depósito de fábrica.</VFEFactory_AllowTakingDesc>
+  <VFEFactory_AlreadyLinked>Não é possível vincular: já vinculado.</VFEFactory_AlreadyLinked>
+  <VFEFactory_AutocycleWhenGrown>Autociclo quando crescido</VFEFactory_AutocycleWhenGrown>
+  <VFEFactory_AutocycleWhenGrownDesc>Habilite ou desabilite um ciclo automático de colheita/semeadura quando as culturas na zona atingirem 100% de maturidade.</VFEFactory_AutocycleWhenGrownDesc>
+  <VFEFactory_AutofarmerObstructed>O Autofarmer não pode iniciar devido a um objeto grande obstruindo seu caminho.</VFEFactory_AutofarmerObstructed>
+  <VFEFactory_Autoharvesting>Colheita automática</VFEFactory_Autoharvesting>
+  <VFEFactory_AutoharvestingDesc>Ative ou desative a colheita automática e o corte de plantas na zona designada.</VFEFactory_AutoharvestingDesc>
+  <VFEFactory_Autosowing>Semeadura automática</VFEFactory_Autosowing>
+  <VFEFactory_AutosowingDesc>Habilite ou desabilite a semeadura automática da cultura selecionada.</VFEFactory_AutosowingDesc>
+  <VFEFactory_BabyFoodOutput>10 comida para bebê por 0,25 nutrição</VFEFactory_BabyFoodOutput>
+  <VFEFactory_Butchery>Carne do cadáver em forma de carne picada processada</VFEFactory_Butchery>
+  <VFEFactory_ButcheryEntity>Carne do cadáver em forma de carne torcida</VFEFactory_ButcheryEntity>
+  <VFEFactory_ButcheryHuman>Carne do cadáver em forma de carne humana</VFEFactory_ButcheryHuman>
+  <VFEFactory_ButcheryInsect>Carne do cadáver em forma de carne de inseto</VFEFactory_ButcheryInsect>
+  <VFEFactory_CancelAutofarmer>Cancelar</VFEFactory_CancelAutofarmer>
+  <VFEFactory_CancelAutofarmerDesc>Cancele o processo e faça com que o autofarmer retorne à plataforma.</VFEFactory_CancelAutofarmerDesc>
+  <VFEFactory_CannotHaulFromConveyor>Não é possível transportar do transportador</VFEFactory_CannotHaulFromConveyor>
+  <VFEFactory_Cans>20 latas por 1 nutrição</VFEFactory_Cans>
+  <VFEFactory_CantLinkSelf>Não é possível vincular: Não é possível vincular a si mesmo.</VFEFactory_CantLinkSelf>
+  <VFEFactory_ChangeDirection>Mudar de direção</VFEFactory_ChangeDirection>
+  <VFEFactory_ChangeDirectionDesc>Mude a direção desta correia transportadora.</VFEFactory_ChangeDirectionDesc>
+  <VFEFactory_ChemfuelPerNutrition>1 unidade de combustível químico por 0,1 de nutrição</VFEFactory_ChemfuelPerNutrition>
+  <VFEFactory_CommandBreakLink>Quebrar link</VFEFactory_CommandBreakLink>
+  <VFEFactory_CommandBreakLinkDesc>Desvincule a entrada e saída de um transportador subterrâneo, permitindo o estabelecimento de novas ligações.</VFEFactory_CommandBreakLinkDesc>
+  <VFEFactory_CommandCreateLink>Criar link</VFEFactory_CommandCreateLink>
+  <VFEFactory_CommandCreateLinkDesc>Conecte uma entrada e saída de um transportador subterrâneo para permitir a passagem dos itens.</VFEFactory_CommandCreateLinkDesc>
+  <VFEFactory_CommandSelectLinked>Selecione vinculado</VFEFactory_CommandSelectLinked>
+  <VFEFactory_CommandSelectLinkedDesc>Mostre e selecione a estrutura vinculada.</VFEFactory_CommandSelectLinkedDesc>
+  <VFEFactory_ConnectionMissing>Não funciona devido à falta de um link para uma saída de transportador subterrâneo.</VFEFactory_ConnectionMissing>
+  <VFEFactory_DecreaseZone>Diminuir zona</VFEFactory_DecreaseZone>
+  <VFEFactory_DecreaseZoneDesc>Contrate a zona em que o autocultivo irá colher e semear.</VFEFactory_DecreaseZoneDesc>
+  <VFEFactory_DirectionEast>Leste</VFEFactory_DirectionEast>
+  <VFEFactory_DirectionNorth>Norte</VFEFactory_DirectionNorth>
+  <VFEFactory_DirectionSouth>Sul</VFEFactory_DirectionSouth>
+  <VFEFactory_DirectionWest>Oeste</VFEFactory_DirectionWest>
+  <VFEFactory_FactoryNotWorking>Esta fábrica não está funcionando no momento.</VFEFactory_FactoryNotWorking>
+  <VFEFactory_FilterBelt>cinto de filtro</VFEFactory_FilterBelt>
+  <VFEFactory_ForceHaul>Forçar transporte</VFEFactory_ForceHaul>
+  <VFEFactory_HaulFromConveyor>Transportar do transportador</VFEFactory_HaulFromConveyor>
+  <VFEFactory_IncreaseZone>Aumentar zona</VFEFactory_IncreaseZone>
+  <VFEFactory_IncreaseZoneDesc>Amplie a zona em que o autocultivo irá colher e semear.</VFEFactory_IncreaseZoneDesc>
+  <VFEFactory_InvalidConveyorConfiguration>Configuração de transportador inválida: Um transportador não pode ter 2 ou mais entradas e 2 ou mais saídas.</VFEFactory_InvalidConveyorConfiguration>
+  <VFEFactory_ItemsUnderground>Itens subterrâneos: {0}</VFEFactory_ItemsUnderground>
+  <VFEFactory_KibbleOutput>24 ração por 1 nutrição</VFEFactory_KibbleOutput>
+  <VFEFactory_MasonryBlocks>20 blocos da mesma pedra que o pedaço usado</VFEFactory_MasonryBlocks>
+  <VFEFactory_MassProducedMealOutput>4 refeições por 2 nutrição</VFEFactory_MassProducedMealOutput>
+  <VFEFactory_MergerBelt>cinto de fusão</VFEFactory_MergerBelt>
+  <VFEFactory_Metals>Metais aleatórios</VFEFactory_Metals>
+  <VFEFactory_NeedsFish>Precisa ser construído sobre água que sustente os peixes</VFEFactory_NeedsFish>
+  <VFEFactory_NeedsWater>Precisa ser construído sobre água</VFEFactory_NeedsWater>
+  <VFEFactory_NotValidTarget>Não é possível vincular: {0} não é um destino de link válido.</VFEFactory_NotValidTarget>
+  <VFEFactory_OutputOnLand>A produção da piscicultura precisa estar em terra</VFEFactory_OutputOnLand>
+  <VFEFactory_Overclock>sobrecarga: {0}</VFEFactory_Overclock>
+  <VFEFactory_OverclockDesc>Aumente o uso de energia para operar em um ritmo mais rápido. {0}</VFEFactory_OverclockDesc>
+  <VFEFactory_OverclockWindowLabel>Produção de sobrecarga</VFEFactory_OverclockWindowLabel>
+  <VFEFactory_PemmicanOutput>32 pemmican por 1 nutrição</VFEFactory_PemmicanOutput>
+  <VFEFactory_RandomFishAmount>1 a 3 peixes</VFEFactory_RandomFishAmount>
+  <VFEFactory_RefuelingPort>porto de reabastecimento</VFEFactory_RefuelingPort>
+  <VFEFactory_SplitterBelt>cinto divisor</VFEFactory_SplitterBelt>
+  <VFEFactory_StartAutofarmer>Começar</VFEFactory_StartAutofarmer>
+  <VFEFactory_StartAutofarmerDesc>Inicie o autofarmer agora. Ele se moverá pela zona designada, colhendo e semeando. Ele retornará à plataforma do autofarmer quando terminar.</VFEFactory_StartAutofarmerDesc>
+  <VFEFactory_SteelPerBodySize>10 aços por tamanho de corpo</VFEFactory_SteelPerBodySize>
+  <VFEFactory_SurvivalMealOutput>4 refeições por 2,4 nutrição</VFEFactory_SurvivalMealOutput>
+  <VFEFactory_TabSplitterFilter>Filtro</VFEFactory_TabSplitterFilter>
+  <VFEFactory_VariableOutput>Saída variável</VFEFactory_VariableOutput>
+</LanguageData>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE.AbilitiesList>Psicocasts incluídos:</VPE.AbilitiesList>
+  <VPE.All>Todos</VPE.All>
+  <VPE.AllowShrink>Permitir encolher?</VPE.AllowShrink>
+  <VPE.AllowShrink.Desc>Permitir que os dispositivos de psicocast sejam reduzidos à metade do tamanho quando houver muitos deles.</VPE.AllowShrink.Desc>
+  <VPE.AlreadyHasPsycast>Já sabe {0}</VPE.AlreadyHasPsycast>
+  <VPE.AlreadyPsyring>Já está usando uma psyring</VPE.AlreadyPsyring>
+  <VPE.AlreadyResearch>Já pesquisei</VPE.AlreadyResearch>
+  <VPE.CancelSkipbarrier>Cancelar Ignorar Barreira</VPE.CancelSkipbarrier>
+  <VPE.CancelSkipbarrierDesc>Clique para cancelar Skipbarrier no rodízio.</VPE.CancelSkipbarrierDesc>
+  <VPE.ChangeFocusGain>Escalar o ganho de foco psicológico básico com pontos de estatísticas?</VPE.ChangeFocusGain>
+  <VPE.ChangeFocusGain.Desc>Se ativado, o ganho de foco psicológico básico antes de qualquer foco pode ser aumentado gastando pontos de estatísticas.</VPE.ChangeFocusGain.Desc>
+  <VPE.ClickRemove>Clique para remover</VPE.ClickRemove>
+  <VPE.ClickToUnlock>Clique para desbloquear</VPE.ClickToUnlock>
+  <VPE.Contents>Conteúdo:</VPE.Contents>
+  <VPE.CreatePsyringButton>Criar psyring</VPE.CreatePsyringButton>
+  <VPE.CreatePsyringTitle>Escolha o psicocast:</VPE.CreatePsyringTitle>
+  <VPE.CreatePsyset>Criar psicoconjunto</VPE.CreatePsyset>
+  <VPE.CurrentChanneling>Atualmente canalizando {0}</VPE.CurrentChanneling>
+  <VPE.DestroySkipdoor>Destruir</VPE.DestroySkipdoor>
+  <VPE.DestroySkipdoor.Desc>Destrua esta porta de salto. Ela não poderá mais ser usada, mas também não afetará mais o calor máximo de {0}.</VPE.DestroySkipdoor.Desc>
+  <VPE.DevMode>Modo de desenvolvedor</VPE.DevMode>
+  <VPE.EarnXP>Ganhe experiência de psicocaster meditando.</VPE.EarnXP>
+  <VPE.Edit>Editar</VPE.Edit>
+  <VPE.EmpireAngeredDesc>O Império descobriu que você estava retirando {0} Eltex às escondidas. Eles consideram isso uma violação da lei imperial, e suas relações pioraram.</VPE.EmpireAngeredDesc>
+  <VPE.EmpireAngeredTitle>Império irritado</VPE.EmpireAngeredTitle>
+  <VPE.FactionRelationReducedInfo>A boa vontade com {FACTION_name} agora é {1}. (Reduzida em {2})</VPE.FactionRelationReducedInfo>
+  <VPE.FocusTypes>Tipos de foco:</VPE.FocusTypes>
+  <VPE.Gifting>presentear</VPE.Gifting>
+  <VPE.GiftingEltexWarning>Oferecer Eltex é contra a lei imperial. Isto pode ou não afetar suas relações com o Império no futuro.</VPE.GiftingEltexWarning>
+  <VPE.GroupFocus>{0} outros peões próximos</VPE.GroupFocus>
+  <VPE.Hover>Voo psíquico</VPE.Hover>
+  <VPE.Locked>Bloqueado</VPE.Locked>
+  <VPE.LockedLocked>Bloqueado: não pode ser desbloqueado com pontos</VPE.LockedLocked>
+  <VPE.LockedTitle>Bloqueado: requer um título real</VPE.LockedTitle>
+  <VPE.MaxLevel>Nível máximo de psicocaster</VPE.MaxLevel>
+  <VPE.MaxQuality>Qualidade máxima: {0}</VPE.MaxQuality>
+  <VPE.MustBeAlly>O alvo deve estar na mesma facção.</VPE.MustBeAlly>
+  <VPE.MustBeAllyOrNeutral>O alvo deve ser aliado ou neutro.</VPE.MustBeAllyOrNeutral>
+  <VPE.MustBeCorpse>O alvo deve ser um cadáver.</VPE.MustBeCorpse>
+  <VPE.MustBeCorpseHumanlike>O cadáver deve ser humano.</VPE.MustBeCorpseHumanlike>
+  <VPE.MustBeDamaged>O alvo deve estar danificado</VPE.MustBeDamaged>
+  <VPE.MustBeDowned>O alvo deve ser abatido.</VPE.MustBeDowned>
+  <VPE.MustBeInDark>O alvo deve estar no escuro</VPE.MustBeInDark>
+  <VPE.MustBePsycaster>Deve ser um psicocaster</VPE.MustBePsycaster>
+  <VPE.MustBeSteelSlag>Escória de aço alvo</VPE.MustBeSteelSlag>
+  <VPE.MustBeStoneChunk>Mire em um pedaço de pedra</VPE.MustBeStoneChunk>
+  <VPE.MustConsumePower>Deve consumir energia.</VPE.MustConsumePower>
+  <VPE.MustEltex>Deve ter Eltex como alvo</VPE.MustEltex>
+  <VPE.MustHaveDamagedEquipment>O equipamento do alvo deve estar danificado.</VPE.MustHaveDamagedEquipment>
+  <VPE.MustHaveHeatAmount>Deve ter pelo menos {0} calor neural.</VPE.MustHaveHeatAmount>
+  <VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef} deve ter familiares vivos.</VPE.MustHaveLivingFamilyMembers>
+  <VPE.MustHavePsychicLevel>O alvo deve ter pelo menos um nível de psicocast.</VPE.MustHavePsychicLevel>
+  <VPE.MustHaveQuality>A meta deve ter qualidade</VPE.MustHaveQuality>
+  <VPE.MustTargetBattery>Deve ter como alvo uma bateria ou um mecanóide diabólico</VPE.MustTargetBattery>
+  <VPE.MuteSkipdoor>Silenciar som do Skipdoor</VPE.MuteSkipdoor>
+  <VPE.Nearby>Próximo</VPE.Nearby>
+  <VPE.NoAnimals>Não é possível segmentar animais</VPE.NoAnimals>
+  <VPE.NoAvailableFingers>Não há dedos disponíveis.</VPE.NoAvailableFingers>
+  <VPE.NoChunks>Nenhum pedaço próximo</VPE.NoChunks>
+  <VPE.NotEnoughHeat>Não há calor neural suficiente disponível.</VPE.NotEnoughHeat>
+  <VPE.NotEnoughPoints>Não há pontos suficientes disponíveis</VPE.NotEnoughPoints>
+  <VPE.NotPsycaster>Não é um psicocaster</VPE.NotPsycaster>
+  <VPE.PackSummon>Pacote convocado!</VPE.PackSummon>
+  <VPE.PackSummon.Desc>Um bando de animais selvagens foi convocado por {0} para defender a colônia.</VPE.PackSummon.Desc>
+  <VPE.Points>Pontos disponíveis para gastar: {0}</VPE.Points>
+  <VPE.PsyLevel>Nível de psicocaster: {0}</VPE.PsyLevel>
+  <VPE.PsySetDesc>Ir para o próximo psicoconjunto. Clique com o botão direito para escolher um específico.\nAtual: {0}, Próximo: {1}</VPE.PsySetDesc>
+  <VPE.PsySetNext>Próximo psicoconjunto</VPE.PsySetNext>
+  <VPE.PsySetPrev>Psicoconjunto anterior</VPE.PsySetPrev>
+  <VPE.PsycasterRaidDescription>{0}\n\nCapturar psicocasters é uma estratégia viável e pode ser considerada benéfica.</VPE.PsycasterRaidDescription>
+  <VPE.PsycasterSpawnAdditional>Fator de força do psicocaster Basilicus Bestower</VPE.PsycasterSpawnAdditional>
+  <VPE.PsycasterSpawnBaseChance>Chance de surgimento do psicocaster Basilicus Bestower</VPE.PsycasterSpawnBaseChance>
+  <VPE.PsycasterStats>Atributos do psicocaster</VPE.PsycasterStats>
+  <VPE.Psycasts>Psicocasts</VPE.Psycasts>
+  <VPE.PsychicComaDuration>Coma psíquico para</VPE.PsychicComaDuration>
+  <VPE.PsylinkGained>Nível de psylink obtido: {0}</VPE.PsylinkGained>
+  <VPE.PsylinkGained.Desc>{0} ganhou um novo nível de psylink. Ao atingir esse nível, {1} aumentou ligeiramente seus atributos relacionados a psicocasts. {1} agora também pode alocar um ponto para aprender um novo psicocast, melhorar ainda mais os atributos de psicocast ou desbloquear um novo foco de meditação.\n\nA experiência de psicocast necessária para o próximo nível é: {2}.</VPE.PsylinkGained.Desc>
+  <VPE.PsysetCustomize>Personalizar psicoconjuntos</VPE.PsysetCustomize>
+  <VPE.PsysetDesc>Arraste e solte os psicocasts aprendidos nos psicoconjuntos, entre os quais você pode alternar durante o jogo.</VPE.PsysetDesc>
+  <VPE.QualityTooHigh>A qualidade do alvo é alta demais; deve ser inferior a {0}.</VPE.QualityTooHigh>
+  <VPE.Remove>Remover</VPE.Remove>
+  <VPE.Rename>Renomear</VPE.Rename>
+  <VPE.RenameSkipdoor>Renomear</VPE.RenameSkipdoor>
+  <VPE.RenameSkipdoor.Desc>Renomeie este skipdoor.</VPE.RenameSkipdoor.Desc>
+  <VPE.Research>Deve ser pesquisável</VPE.Research>
+  <VPE.SellingEltexWarning>Vender Eltex é contra a lei imperial. Isto pode ou não afetar suas relações com o Império no futuro.</VPE.SellingEltexWarning>
+  <VPE.SmallMode>Modo pequeno da interface do usuário</VPE.SmallMode>
+  <VPE.SmallMode.Desc>No modo compacto, os atributos são movidos para uma dica de ferramenta e os psicoconjuntos são movidos para uma janela separada. Se marcado, o modo compacto será forçado. Se desmarcado, o modo compacto será desativado. Se parcialmente marcado (linha amarela), o comportamento padrão será permitido (o modo compacto ficará ativo se sua resolução vertical for inferior a 1080).</VPE.SmallMode.Desc>
+  <VPE.SpendPoints>Gaste pontos para desbloquear novos caminhos, desbloquear psicocasts, desbloquear focos de meditação, melhorar estatísticas, etc.</VPE.SpendPoints>
+  <VPE.StatsReport_BodiesConsumed>Corpos consumidos: +{0}</VPE.StatsReport_BodiesConsumed>
+  <VPE.StopHurricane>Pare o furacão</VPE.StopHurricane>
+  <VPE.SuccessChance>Chance de sucesso</VPE.SuccessChance>
+  <VPE.TeleportTo>Teleporte para {0}</VPE.TeleportTo>
+  <VPE.ThingsOfLevel>{0} coisas em nível {1}</VPE.ThingsOfLevel>
+  <VPE.TooCheap>Valor insuficiente, deve valer pelo menos US$ 1 por item.</VPE.TooCheap>
+  <VPE.Trading>negociação</VPE.Trading>
+  <VPE.Unlock>Desbloquear</VPE.Unlock>
+  <VPE.UnlockedByPoints>Desbloqueado com pontos de psicocaster</VPE.UnlockedByPoints>
+  <VPE.Untitled>Sem título</VPE.Untitled>
+  <VPE.Upgrade>Atualizar</VPE.Upgrade>
+  <VPE.UseAltBackground>Use fundos alternativos</VPE.UseAltBackground>
+  <VPE.WealthNearby>{0} de riqueza nas proximidades, de um total de {1}</VPE.WealthNearby>
+  <VPE.XPPerPercent>XP de psicocaster por % de foco psíquico ganho</VPE.XPPerPercent>
+  <VPEP.CannotHaveMorePuppets>Não é possível ter mais bonecos devido ao limite de bonecos.</VPEP.CannotHaveMorePuppets>
+  <VPEP.DegradePsycast>Foi causado pelo psicocast Degrade.</VPEP.DegradePsycast>
+  <VPEP.MindJumpText>{Puppeteer_nameDef} morreu. Antes {Puppeteer_pronoun} morreu, {Puppeteer_pronoun} usou a habilidade de salto mental em {NewPuppeteer_nameDef}. Agora {NewPuppeteer_nameDef} é um novo marionetista.</VPEP.MindJumpText>
+  <VPEP.MindJumpTitle>Salto mental</VPEP.MindJumpTitle>
+  <VPEP.NoPuppets>Sem fantoches.</VPEP.NoPuppets>
+  <VPEP.Puppets>Fantoches</VPEP.Puppets>
+  <VPEP.PuppetsGizmoTip>Um marionetista só pode sustentar uma marionete se tiver capacidade psíquica suficiente para fazê-lo. Ganhe mais capacidade psíquica para sustentar mais fantoches lançando divisão mental, mas tenha em mente que isso enviará o marionetista e todos os seus fantoches para uma situação difícil. {0} coma.\n\nCapacidade psíquica: {1}</VPEP.PuppetsGizmoTip>
+  <VPEP.PuppetsUsage>Fantoches atuais:</VPEP.PuppetsUsage>
+  <VPEP.TargetCannotBeSameFactionAsCaster>O alvo não pode ser colono.</VPEP.TargetCannotBeSameFactionAsCaster>
+  <VPEP.TargetIsPuppetAlready>O alvo já é uma marionete.</VPEP.TargetIsPuppetAlready>
+  <VPEP.TargetMustBePrisonerOrSlave>O alvo deve ser prisioneiro ou escravo.</VPEP.TargetMustBePrisonerOrSlave>
+  <VPEP.TargetMustBePuppetOfCaster>O alvo deve ser uma marionete do lançador.</VPEP.TargetMustBePuppetOfCaster>
+  <VPEP.TargetMustBeSameFactionAsCaster>O alvo deve ser prisioneiro ou colono.</VPEP.TargetMustBeSameFactionAsCaster>
+  <VPEP.TargetMustHaveBrainLeech>O alvo deve ter sanguessuga cerebral do lançador.</VPEP.TargetMustHaveBrainLeech>
+  <VPE_BreakLink>Quebrar link</VPE_BreakLink>
+  <VPE_BreakLinkDesc>Quebre o link e mate imediatamente esta construção</VPE_BreakLinkDesc>
+  <VanillaPsycastsExpanded>psicocasts Vanilla expandidos</VanillaPsycastsExpanded>
+</LanguageData>

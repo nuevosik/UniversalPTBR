@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VBE_Always>Sempre</VBE_Always>
+  <VBE_AlwaysDesc>Sempre proibido cair frutas automaticamente</VBE_AlwaysDesc>
+  <VBE_AmbrandyFailurePower>O ambrandy estragou devido a uma falha de energia na destilaria de ambrandy</VBE_AmbrandyFailurePower>
+  <VBE_CancelBringingAmbMust>Cancelar trazendo obrigação</VBE_CancelBringingAmbMust>
+  <VBE_CancelBringingAmbMustDesc>Cancele trazer mosto de ambrandy para a destilaria de ambrandy.</VBE_CancelBringingAmbMustDesc>
+  <VBE_CancelBringingGinMush>Cancelar trazer mingau</VBE_CancelBringingGinMush>
+  <VBE_CancelBringingGinMushDesc>Cancele trazer gin mingau para o gin ainda.</VBE_CancelBringingGinMushDesc>
+  <VBE_CancelBringingMustOrWhiskey>Cancele trazer purê ou mosto de uísque para o barril de uísque.</VBE_CancelBringingMustOrWhiskey>
+  <VBE_CancelBringingSyrup>Cancelar trazer xarope</VBE_CancelBringingSyrup>
+  <VBE_CancelBringingSyrupDesc>Cancele levar xarope para a fonte de refrigerante.</VBE_CancelBringingSyrupDesc>
+  <VBE_CancelBringingTequilaMust>Cancelar trazendo obrigação</VBE_CancelBringingTequilaMust>
+  <VBE_CancelBringingTequilaMustDesc>Cancele trazer mosto de tequila para o barril de tequila.</VBE_CancelBringingTequilaMustDesc>
+  <VBE_CancelBringingVodkaMust>Cancelar trazer purê</VBE_CancelBringingVodkaMust>
+  <VBE_CancelBringingVodkaMustDesc>Cancele trazer purê de vodca para o tambor de vodca.</VBE_CancelBringingVodkaMustDesc>
+  <VBE_CiderCurrentlyFrozen>Esta cidra não fermentada está congelada e não amadurecerá em cidra</VBE_CiderCurrentlyFrozen>
+  <VBE_CiderCurrentlyRefrigerated>Esta cidra não fermentada é refrigerada e não amadurecerá em cidra tão rápido quanto poderia (amadurece em {0})</VBE_CiderCurrentlyRefrigerated>
+  <VBE_CiderMaturing>Cidra amadurecendo</VBE_CiderMaturing>
+  <VBE_CiderMaturingCorrectly>Esta cidra não fermentada está amadurecendo em sidra corretamente (amadurece em {0})</VBE_CiderMaturingCorrectly>
+  <VBE_HomeArea>Área inicial</VBE_HomeArea>
+  <VBE_HomeAreaDesc>Somente é proibido deixar cair frutas automaticamente se a árvore estiver na área de origem</VBE_HomeAreaDesc>
+  <VBE_InsertAmbMustDesc>Deve inserir</VBE_InsertAmbMustDesc>
+  <VBE_InsertGinMushDesc>Cogumelo para inserir</VBE_InsertGinMushDesc>
+  <VBE_InsertMustOrWhiskeyDesc>Purê ou Whisky para Inserir</VBE_InsertMustOrWhiskeyDesc>
+  <VBE_InsertSyrupDesc>Xarope para inserir</VBE_InsertSyrupDesc>
+  <VBE_InsertTequilaMustDesc>Deve inserir</VBE_InsertTequilaMustDesc>
+  <VBE_InsertVodkaMustDesc>Amasse para inserir</VBE_InsertVodkaMustDesc>
+  <VBE_MushCurrentlyFrozen>Este mingau está congelado e não amadurecerá em mosto de ambrandy</VBE_MushCurrentlyFrozen>
+  <VBE_MushCurrentlyRefrigerated>Este mingau é refrigerado e não amadurece em mosto de ambrandy tão rápido quanto poderia (amadurece em {0})</VBE_MushCurrentlyRefrigerated>
+  <VBE_MushDryingCorrectly>Este mingau está amadurecendo corretamente em mosto de ambrandy (amadurece em {0})</VBE_MushDryingCorrectly>
+  <VBE_MushRipening>Amadurecimento de cogumelo</VBE_MushRipening>
+  <VBE_Never>Nunca</VBE_Never>
+  <VBE_NeverDesc>Nunca proíba frutas que caíram automaticamente</VBE_NeverDesc>
+  <VBE_RemoveAmbrandy>Remover Ambrandy ({0})</VBE_RemoveAmbrandy>
+  <VBE_RemoveAmbrandyDesc>Remova o ambrandy da destilaria de ambrandy. O ambrandy será adquirido com o nível de qualidade atual ({0})</VBE_RemoveAmbrandyDesc>
+  <VBE_StartInsertion>Traga xarope</VBE_StartInsertion>
+  <VBE_StartInsertionAmbMust>Trazer obrigação</VBE_StartInsertionAmbMust>
+  <VBE_StartInsertionAmbMustDesc>Leve o mosto de ambrandy para a destilaria de ambrandy para iniciar a fermentação</VBE_StartInsertionAmbMustDesc>
+  <VBE_StartInsertionDesc>Leve uma calda para a fonte de refrigerante para iniciar o processamento</VBE_StartInsertionDesc>
+  <VBE_StartInsertionGinMush>Traga cogumelo</VBE_StartInsertionGinMush>
+  <VBE_StartInsertionGinMushDesc>Traga o gin mingau para o gin ainda para iniciar o processo de fermentação</VBE_StartInsertionGinMushDesc>
+  <VBE_StartInsertionMustOrWhiskey>Traga purê ou uísque</VBE_StartInsertionMustOrWhiskey>
+  <VBE_StartInsertionMustOrWhiskeyDesc>Leve o mosto ao barril de whisky para iniciar a fermentação ou o whisky para iniciar o processo de envelhecimento duplo</VBE_StartInsertionMustOrWhiskeyDesc>
+  <VBE_StartInsertionTequilaMust>Trazer obrigação</VBE_StartInsertionTequilaMust>
+  <VBE_StartInsertionTequilaMustDesc>Traga o mosto de tequila para o barril de tequila para iniciar o processo de fermentação</VBE_StartInsertionTequilaMustDesc>
+  <VBE_StartInsertionVodkaMust>Traga purê</VBE_StartInsertionVodkaMust>
+  <VBE_StartInsertionVodkaMustDesc>Leve o purê de vodca ao tambor de vodca para iniciar o processo de fermentação</VBE_StartInsertionVodkaMustDesc>
+  <VBE_SyrupFailurePower>O refrigerante estragou devido a uma falha de energia na fonte de refrigerante</VBE_SyrupFailurePower>
+  <VBE_UnforbidDroppedFruit>Frutas caídas não proibidas</VBE_UnforbidDroppedFruit>
+  <VCE_AmbrandyNotWorking>Esta destilaria de ambrandy não está funcionando no momento</VCE_AmbrandyNotWorking>
+  <VCE_GinStillNotWorking>Este gin ainda não está funcionando no momento</VCE_GinStillNotWorking>
+  <VCE_SodaFountainNotWorking>Esta fonte de refrigerante não está funcionando no momento</VCE_SodaFountainNotWorking>
+  <VCE_SyrupFailurePowerWarning>A mistura de xarope está estragando rapidamente devido à falta de combustível na fonte de refrigerante</VCE_SyrupFailurePowerWarning>
+  <VCE_TequilaBarrelNotWorking>Este barril de tequila não está funcionando no momento</VCE_TequilaBarrelNotWorking>
+  <VCE_VodkaDrumNotWorking>Este tambor de vodka não está funcionando no momento</VCE_VodkaDrumNotWorking>
+  <VCE_WhiskeyCaskNotWorking>Este barril de whisky não está funcionando no momento</VCE_WhiskeyCaskNotWorking>
+</LanguageData>

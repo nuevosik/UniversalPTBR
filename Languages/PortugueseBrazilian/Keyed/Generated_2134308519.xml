@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCE_CancelBringingMilk>Cancelar trazer leite</VCE_CancelBringingMilk>
+  <VCE_CancelBringingMilkDesc>Cancele levar leite para a prensa de queijo.</VCE_CancelBringingMilkDesc>
+  <VCE_CancelBringingSoup>Cancelar trazer sopa</VCE_CancelBringingSoup>
+  <VCE_CancelBringingSoupDesc>Cancele levar sopa para a panela elétrica.</VCE_CancelBringingSoupDesc>
+  <VCE_CheeseFinished>Um queijo terminou de amadurecer na prensa de queijo</VCE_CheeseFinished>
+  <VCE_CheeseInProgress>A prensa de queijo está pressionando {0}. Estará pronto com {1} qualidade em {2}</VCE_CheeseInProgress>
+  <VCE_CheesePressEmpty>A prensa de queijo está vazia agora</VCE_CheesePressEmpty>
+  <VCE_CheesePressFilled>Prensa de queijo recheada com {0}</VCE_CheesePressFilled>
+  <VCE_CheesePressNotWorking>Esta prensa de queijo não está funcionando no momento</VCE_CheesePressNotWorking>
+  <VCE_CheesePressWorking>A prensa de queijo está funcionando:</VCE_CheesePressWorking>
+  <VCE_CheeseReady>Este queijo atingiu o grau de maturação desejado e aguarda a coleta</VCE_CheeseReady>
+  <VCE_CholesterolDescDeepFried>Consumir alimentos fritos causa colesterol. Cada ingestão de tal refeição aumentará o colesterol do colono em 1,5%.</VCE_CholesterolDescDeepFried>
+  <VCE_CholesterolEffect>Pressão alta</VCE_CholesterolEffect>
+  <VCE_CholesterolEffectDesc>Consumir refeições que incluam este condimento causa colesterol. Cada ingestão de tal refeição aumentará o colesterol do colono em 1%.</VCE_CholesterolEffectDesc>
+  <VCE_CholesterolEffectDescDouble>Consumir refeições que incluam este condimento causa colesterol. Cada ingestão de tal refeição aumentará o colesterol do colono em 2%.</VCE_CholesterolEffectDescDouble>
+  <VCE_CholesterolEffectDescOneAndHalfPoint>Consumir refeições que incluam este condimento causa colesterol. Cada ingestão de tal refeição aumentará o colesterol do colono em 1,5%.</VCE_CholesterolEffectDescOneAndHalfPoint>
+  <VCE_CondimentEffects>Efeitos de condimentos</VCE_CondimentEffects>
+  <VCE_CondimentEffectsAgave>O néctar de agave é um néctar fino e semidoce, conhecido por suas propriedades curativas e antiinflamatórias. Consumir refeições que incluam este condimento proporciona um aumento de 15% na velocidade de ganho de imunidade por 12 horas.</VCE_CondimentEffectsAgave>
+  <VCE_CondimentEffectsButter>Consumir refeições que incluem este condimento cria uma sensação de fumaça sem riscos de dependência.</VCE_CondimentEffectsButter>
+  <VCE_CondimentEffectsJelly>Consumir refeições que incluam esse condimento aumenta o humor em 10 por 12 horas.</VCE_CondimentEffectsJelly>
+  <VCE_CondimentEffectsKetchup>Consumir refeições que incluam este condimento aumenta o humor em 3 por 12 horas.</VCE_CondimentEffectsKetchup>
+  <VCE_CondimentEffectsMayo>A maionese, embora terrível para você, adiciona um sabor agradável e é muito densa em termos calóricos. Consumir refeições que incluam este condimento reduz a taxa de fome em 15% durante 12 horas.</VCE_CondimentEffectsMayo>
+  <VCE_CondimentEffectsNanites>Consumir refeições que incluam este condimento aumenta a manipulação em 1% durante 12 horas. O colono será ressuscitado se for morto durante esse período.</VCE_CondimentEffectsNanites>
+  <VCE_CondimentEffectsSalt>Consumir refeições que incluam este condimento aumenta o humor em 5 por 12 horas.</VCE_CondimentEffectsSalt>
+  <VCE_CondimentEffectsSauce>Embora molhos picantes particularmente fortes doam no início, eles são conhecidos por anestesiar a dor e causar suor quente logo após o consumo. Consumir refeições que incluam este condimento aumenta a resistência à dor em 15% e a resistência ao frio em 10ºC durante 12 horas. O humor será reduzido em 3.</VCE_CondimentEffectsSauce>
+  <VCE_CondimentEffectsSpices>Uma variedade de especiarias aromáticas e picantes. Consumir refeições que incluam este condimento aumenta o status de manipulação em 10% por 12 horas.</VCE_CondimentEffectsSpices>
+  <VCE_CondimentEffectsSugar>O açúcar é facilmente convertido em energia pelo corpo, o que pode resultar em uma boa explosão de energia. Consumir refeições que incluam este condimento aumenta o status de movimento em 15% por 12 horas.</VCE_CondimentEffectsSugar>
+  <VCE_CondimentEffectsSyrup>Consumir refeições que incluam esse condimento aumenta o humor em 7 por 12 horas.</VCE_CondimentEffectsSyrup>
+  <VCE_CondimentEffectsTitle>Agindo como condimento</VCE_CondimentEffectsTitle>
+  <VCE_DiabetesDessertFineDesc>Consumir esta refeição causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes do colono em 1,5%.</VCE_DiabetesDessertFineDesc>
+  <VCE_DiabetesDessertGourmetDesc>Consumir esta refeição causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes dos colonos em 3,5%.</VCE_DiabetesDessertGourmetDesc>
+  <VCE_DiabetesDessertLavishDesc>Consumir esta refeição causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes dos colonos em 2,5%.</VCE_DiabetesDessertLavishDesc>
+  <VCE_DiabetesDessertSimpleDesc>Consumir esta refeição causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes do colono em 0,5%.</VCE_DiabetesDessertSimpleDesc>
+  <VCE_DiabetesEffect>Diabetes</VCE_DiabetesEffect>
+  <VCE_DiabetesEffectDescHalfPoint>Consumir refeições que incluam este condimento causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes do colono em 0,5%.</VCE_DiabetesEffectDescHalfPoint>
+  <VCE_DiabetesEffectDescOneAndHalfPoint>Consumir refeições que incluam este condimento causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes do colono em 1,5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
+  <VCE_DiabetesEffectDescThreeQuarterPoint>Consumir refeições que incluam este condimento causa Diabetes. Cada ingestão de tal refeição aumentará o diabetes do colono em 0,75%.</VCE_DiabetesEffectDescThreeQuarterPoint>
+  <VCE_Engage>Cozinhar Sopa</VCE_Engage>
+  <VCE_EngageDesc>Comece a cozinhar a sopa. Esse processo leva 3 dias e não pode ser interrompido, caso contrário a sopa será destruída.</VCE_EngageDesc>
+  <VCE_EngageMilk>Pressione no queijo</VCE_EngageMilk>
+  <VCE_EngageMilkDesc>Comece a pressionar o leite no queijo. Este processo leva um tempo variável e a qualidade do queijo aumentará com a maturação. Você pode removê-lo a qualquer momento após o período inicial.</VCE_EngageMilkDesc>
+  <VCE_HealthEffects>Efeitos na saúde</VCE_HealthEffects>
+  <VCE_HighBloodPressureEffect>TODO</VCE_HighBloodPressureEffect>
+  <VCE_HighBloodPressureEffectDesc>TODO</VCE_HighBloodPressureEffectDesc>
+  <VCE_HighBloodPressureEffectDescCanned>TODO</VCE_HighBloodPressureEffectDescCanned>
+  <VCE_InsertMilk>Selecione Leite</VCE_InsertMilk>
+  <VCE_InsertMilkDesc>Selecione Leite para pressionar na prensa de queijo. Diferentes leites podem produzir diferentes tipos de queijo.</VCE_InsertMilkDesc>
+  <VCE_InsertMilkVariable>Inserir {0}</VCE_InsertMilkVariable>
+  <VCE_InsertSoup>inserir sopa</VCE_InsertSoup>
+  <VCE_InsertSoupDesc>Sopa para cozinhar</VCE_InsertSoupDesc>
+  <VCE_MilkImproperlyDefined>Este leite foi definido incorretamente para funcionar com a prensa de queijo, entre em contato com o autor do mod de leite</VCE_MilkImproperlyDefined>
+  <VCE_NoEffect>Sem efeitos para a saúde</VCE_NoEffect>
+  <VCE_NoEffectDesc>Consumir refeições que incluam este condimento não causa efeitos negativos à saúde.</VCE_NoEffectDesc>
+  <VCE_NoMilksFound>Nenhum leite desse tipo foi encontrado neste mapa.</VCE_NoMilksFound>
+  <VCE_NoSoupsFound>Nenhuma sopa desse tipo foi encontrada neste mapa.</VCE_NoSoupsFound>
+  <VCE_NotPowered>A panela elétrica não está ligada</VCE_NotPowered>
+  <VCE_RemoveCheese>Remover Queijo ({0})</VCE_RemoveCheese>
+  <VCE_RemoveCheeseDesc>Retire o queijo da prensa de queijo. O queijo estará pronto no nível de qualidade atual ({0})</VCE_RemoveCheeseDesc>
+  <VCE_RemoveMilk>Remover Leite</VCE_RemoveMilk>
+  <VCE_RemoveMilkDesc>Retire o leite da prensa. Isso só pode ser feito antes de você começar a pressioná-lo.</VCE_RemoveMilkDesc>
+  <VCE_RemoveSoup>Remover sopa</VCE_RemoveSoup>
+  <VCE_RemoveSoupDesc>Retire a sopa da panela. Isso só pode ser feito antes de começar a cozinhar.</VCE_RemoveSoupDesc>
+  <VCE_ResourcePercentage> (preenchido em {0} de {1})</VCE_ResourcePercentage>
+  <VCE_SelectMilk>Selecione um tipo de leite a ser prensado</VCE_SelectMilk>
+  <VCE_SelectSoup>Selecione um tipo de sopa a ser preparada</VCE_SelectSoup>
+  <VCE_SoupFailurePower>A sopa estragou devido a uma falha de energia na panela elétrica</VCE_SoupFailurePower>
+  <VCE_SoupFailurePowerWarning>A sopa está estragando rápido por falta de combustível na panela elétrica</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFinished>Uma sopa terminou de cozinhar na panela elétrica</VCE_SoupFinished>
+  <VCE_SoupInProgress>Um {0} está cozinhando. Estará pronto em {1}</VCE_SoupInProgress>
+  <VCE_SoupPotNotWorking>Esta panela elétrica não está funcionando no momento.</VCE_SoupPotNotWorking>
+  <VCE_SoupReady>Uma sopa terminou de cozinhar e está esperando para ser recolhida</VCE_SoupReady>
+  <VCE_StartInsertion>Trazer Sopa</VCE_StartInsertion>
+  <VCE_StartInsertionDesc>Leve uma sopa à panela elétrica para começar a cozinhar</VCE_StartInsertionDesc>
+  <VCE_StartInsertionMilk>Trazer Leite</VCE_StartInsertionMilk>
+  <VCE_StartInsertionMilkDesc>Leve o leite para a prensa de queijo para começar a prensar</VCE_StartInsertionMilkDesc>
+  <VCE_UncookedSoupFine>sopa fina</VCE_UncookedSoupFine>
+  <VCE_UncookedSoupFine_InsertSoup>insira sopa fina</VCE_UncookedSoupFine_InsertSoup>
+  <VCE_UncookedSoupGourmet>sopa gourmet</VCE_UncookedSoupGourmet>
+  <VCE_UncookedSoupGourmet_InsertSoup>inserir sopa gourmet</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_UncookedSoupLavish>sopa generosa</VCE_UncookedSoupLavish>
+  <VCE_UncookedSoupLavish_InsertSoup>insira sopa generosa</VCE_UncookedSoupLavish_InsertSoup>
+  <VCE_UncookedSoupSimple>sopa simples</VCE_UncookedSoupSimple>
+  <VCE_UncookedSoupSimple_InsertSoup>insira sopa simples</VCE_UncookedSoupSimple_InsertSoup>
+  <VCE_WaitTillJobsEnd>Espere até que a sopa seja levada à panela elétrica ou cancele o trabalho.</VCE_WaitTillJobsEnd>
+  <VCE_WaitTillJobsEndMilk>Espere até que o leite seja levado à prensa de queijo ou cancele o trabalho.</VCE_WaitTillJobsEndMilk>
+</LanguageData>

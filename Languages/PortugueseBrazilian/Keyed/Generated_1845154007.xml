@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_Armed>Armado</VFES_Armed>
+  <VFES_ArtilleryInvalidFiringMode>A artilharia não pode disparar nesta direção.</VFES_ArtilleryInvalidFiringMode>
+  <VFES_ArtilleryInvalidGroundToGround>A artilharia não pode disparar de solo a solo</VFES_ArtilleryInvalidGroundToGround>
+  <VFES_ArtilleryInvalidGroundToSpace>A artilharia não pode disparar do planeta para o espaço.</VFES_ArtilleryInvalidGroundToSpace>
+  <VFES_ArtilleryInvalidSpaceToGround>A artilharia não pode disparar do espaço para o solo.</VFES_ArtilleryInvalidSpaceToGround>
+  <VFES_ArtilleryInvalidSpaceToSpace>A artilharia não pode disparar de espaço em espaço.</VFES_ArtilleryInvalidSpaceToSpace>
+  <VFES_ArtilleryNeedsVisibleMap>A artilharia precisa ter como alvo um mapa visível e explorado.</VFES_ArtilleryNeedsVisibleMap>
+  <VFES_ArtilleryOutOfRange>O alvo está fora do alcance.</VFES_ArtilleryOutOfRange>
+  <VFES_CommandToggleAllowAutoRefuelSecondary>Alternar munição de reabastecimento automático</VFES_CommandToggleAllowAutoRefuelSecondary>
+  <VFES_Deploy>Implantar</VFES_Deploy>
+  <VFES_DeployDesc>Implante a estrutura do estado submerso.</VFES_DeployDesc>
+  <VFES_DesignatorRearmTraps>Armadilhas de rearmamento</VFES_DesignatorRearmTraps>
+  <VFES_DesignatorRearmTraps_Description>Designe armadilhas para serem rearmadas pelos colonos.</VFES_DesignatorRearmTraps_Description>
+  <VFES_ManSecondary> (secundário)</VFES_ManSecondary>
+  <VFES_MessageMustDesignateRearmables>Deve designar armadilhas rearmáveis.</VFES_MessageMustDesignateRearmables>
+  <VFES_NeedsManned>Precisa ser tripulado.</VFES_NeedsManned>
+  <VFES_NeedsRearming>Precisa de rearmamento</VFES_NeedsRearming>
+  <VFES_OnCooldown>No resfriamento: {0}</VFES_OnCooldown>
+  <VFES_SecondaryFuel>Combustível secundário</VFES_SecondaryFuel>
+  <VFES_SetWorldTarget>Definir meta mundial</VFES_SetWorldTarget>
+  <VFES_SetWorldTargetDesc>Defina o alvo no mapa mundial para a artilharia disparar. Os tiros disparados sobre o mapa mundial são menos precisos. Só pode disparar em locais revelados.</VFES_SetWorldTargetDesc>
+  <VFES_Submerge>Submergir</VFES_Submerge>
+  <VFES_SubmergeDesc>Submerja a estrutura no solo, tornando muito mais difícil sofrer danos.</VFES_SubmergeDesc>
+  <VFESecurity.AmmoCrate>Caixa de munição</VFESecurity.AmmoCrate>
+  <VFESecurity.Armed>Armado</VFESecurity.Armed>
+  <VFESecurity.ArtileryDestruction>{0} destruição da artilharia</VFESecurity.ArtileryDestruction>
+  <VFESecurity.ArtileryHitDestroyedMessage>O projétil de artilharia destruiu o {0} localização.</VFESecurity.ArtileryHitDestroyedMessage>
+  <VFESecurity.ArtileryHitMessage>O projétil de artilharia atingiu o {0} localização. ({1} destruição).</VFESecurity.ArtileryHitMessage>
+  <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Ao enviar um ataque de artilharia contra a parte de negociação das negociações de paz, as relações entre você e {0} azedaram. Eles podem enviar um grupo de ataque em retaliação.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+  <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>Provocado {0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+  <VFESecurity.ArtilleryStrikeSettlement_Letter>Retaliação de artilharia</VFESecurity.ArtilleryStrikeSettlement_Letter>
+  <VFESecurity.ArtilleryStrikeSettlement_LetterText>Devido à sua provocação por meio de um ataque de artilharia, o grupo {0} em {1} decidiu revidar contra seus assentamentos usando a própria artilharia!\n\nEsse bombardeio continuará por alguns dias ou até que você destrua o assentamento.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+  <VFESecurity.CommandTargetTileFailNoArtillery>Esse {0} não possui artilharia adequada.</VFESecurity.CommandTargetTileFailNoArtillery>
+  <VFESecurity.DesignatorRearmTraps>Rearmar</VFESecurity.DesignatorRearmTraps>
+  <VFESecurity.DesignatorRearmTraps_Description>Marque armadilhas rearmáveis ​​desarmadas para serem rearmadas por seus colonos.</VFESecurity.DesignatorRearmTraps_Description>
+  <VFESecurity.GoodwillChangedReason_ArtilleryStrike>atacado pela artilharia</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+  <VFESecurity.LetterFactionBaseDefeatedStrike>A base inimiga {0} foi destruída.</VFESecurity.LetterFactionBaseDefeatedStrike>
+  <VFESecurity.MessageMustDesignateRearmables>Deve designar armadilhas rearmáveis ​​desarmadas.</VFESecurity.MessageMustDesignateRearmables>
+  <VFESecurity.MessageTargetWorldTileInvalid>A área segmentada é inválida.</VFESecurity.MessageTargetWorldTileInvalid>
+  <VFESecurity.MessageTargetWorldTileOutOfRange>A área segmentada está fora do {0} alcance.</VFESecurity.MessageTargetWorldTileOutOfRange>
+  <VFESecurity.Message_ArtilleryBombardmentEnded>{0} de {1} pararam de bombardear seus assentamentos.</VFESecurity.Message_ArtilleryBombardmentEnded>
+  <VFESecurity.NeedsRearming>Precisa de rearmamento</VFESecurity.NeedsRearming>
+  <VFESecurity.PsychicPylonExposure>Exposição do poste psíquico</VFESecurity.PsychicPylonExposure>
+  <VFESecurity.Settlement>povoado</VFESecurity.Settlement>
+  <VFESecurity.Submerged>submerso</VFESecurity.Submerged>
+  <VFESecurity.TargetMap>Mapa de destino</VFESecurity.TargetMap>
+  <VFESecurity.TargetOutpost>Posto avançado alvo</VFESecurity.TargetOutpost>
+  <VFESecurity.TargetPeaceTalks>Almejar negociações de paz</VFESecurity.TargetPeaceTalks>
+  <VFESecurity.TargetSettlement>Liquidação alvo</VFESecurity.TargetSettlement>
+  <VFESecurity.TargetSite>Site de destino</VFESecurity.TargetSite>
+  <VFESecurity.TargetWorldFlyingObject>Não é possível mirar em objetos voadores.</VFESecurity.TargetWorldFlyingObject>
+  <VFESecurity.TargetWorldTile>Bloco do mundo alvo</VFESecurity.TargetWorldTile>
+  <VFESecurity.TargetWorldTileEmpty>Área alvo (não terá efeito)</VFESecurity.TargetWorldTileEmpty>
+  <VFESecurity.TargetWorldTileOutOfRange>O bloco está fora do alcance.</VFESecurity.TargetWorldTileOutOfRange>
+  <VFESecurity.TargetWorldTileSameTile>Não é possível segmentar o mesmo bloco.</VFESecurity.TargetWorldTileSameTile>
+  <VFESecurity.TargetWorldTile_Description>Selecione um bloco de mundo para isso {0} para atirar.</VFESecurity.TargetWorldTile_Description>
+  <VFESecurity.TargetWorldTile_DescriptionShort>Selecione uma peça de mundo para atirar.</VFESecurity.TargetWorldTile_DescriptionShort>
+  <VFESecurity.WorldTileRange>Gama de peças mundiais</VFESecurity.WorldTileRange>
+</LanguageData>
