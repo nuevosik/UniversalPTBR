@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSE_ArmorPenetrationFactor.description>Um coeficiente que aumenta a perfuração da armadura nos ataques do colono.</VSE_ArmorPenetrationFactor.description>
+  <VSE_ArmorPenetrationFactor.label>coeficiente de perfuração da reserva</VSE_ArmorPenetrationFactor.label>
+  <VSE_ArtQuality.description>Um bônus para a qualidade da obra de arte criada por este colono.</VSE_ArtQuality.description>
+  <VSE_ArtQuality.label>bônus para a qualidade da obra de arte</VSE_ArtQuality.label>
+  <VSE_ArtSpeed.description>Um coeficiente que aumenta a velocidade de criação de uma obra de arte.</VSE_ArtSpeed.description>
+  <VSE_ArtSpeed.label>bônus para a velocidade de criação de arte</VSE_ArtSpeed.label>
+  <VSE_AttackOnFailChanceFactor.description>Um coeficiente que reduz a chance de um animal atacar um colono em uma tentativa falhada de adestramento.</VSE_AttackOnFailChanceFactor.description>
+  <VSE_AttackOnFailChanceFactor.label>taxa de agressividade animal ao falhar a domação</VSE_AttackOnFailChanceFactor.label>
+  <VSE_ComponentCraftingSpeed.description>O quão rápido este colono pode criar componentes (tanto convencionais como avançados).</VSE_ComponentCraftingSpeed.description>
+  <VSE_ComponentCraftingSpeed.label>velocidade de artesanato</VSE_ComponentCraftingSpeed.label>
+  <VSE_ConstructQuality.description>Um bônus para a qualidade dos objetos construídos por este colono.</VSE_ConstructQuality.description>
+  <VSE_ConstructQuality.label>bônus para a qualidade da construção</VSE_ConstructQuality.label>
+  <VSE_CraftingQuality.description>Um bônus à qualidade do artesanato não artístico produzido por este peão.</VSE_CraftingQuality.description>
+  <VSE_CraftingQuality.label>bônus de qualidade de elaboração</VSE_CraftingQuality.label>
+  <VSE_FloorSpeed.description>O quão rápido é que este colono arruma o chão.</VSE_FloorSpeed.description>
+  <VSE_FloorSpeed.label>velocidade de pavimento</VSE_FloorSpeed.label>
+  <VSE_MeleeCooldownFactor.description>Um coeficiente que diminui o tempo entre os ataques deste colono em combate corpo a corpo.</VSE_MeleeCooldownFactor.description>
+  <VSE_MeleeCooldownFactor.label>taxa de recarga em combate próximo</VSE_MeleeCooldownFactor.label>
+  <VSE_PeaceTalksChance.description>O quão provável é que este colono tenha sucesso nas negociações de paz.</VSE_PeaceTalksChance.description>
+  <VSE_PeaceTalksChance.label>chance de diálogo bem-sucedido</VSE_PeaceTalksChance.label>
+  <VSE_RecruitRate.description>O quão rápido este colono pode recrutar prisioneiros.</VSE_RecruitRate.description>
+  <VSE_RecruitRate.label>velocidade de recrutamento</VSE_RecruitRate.label>
+  <VSE_RepairSpeed.description>O quão rápido este colono está a reparar os objetos.</VSE_RepairSpeed.description>
+  <VSE_RepairSpeed.label>velocidade de reparação</VSE_RepairSpeed.label>
+  <VSE_RockChunkChance.description>A hipótese de que este colono ganhe um resíduo de rocha ao atravessar rochas naturais.</VSE_RockChunkChance.description>
+  <VSE_RockChunkChance.label>chance de cavar uma pedra</VSE_RockChunkChance.label>
+  <VSE_RoofSpeed.description>O quão rápido o colono está a construir o telhado.</VSE_RoofSpeed.description>
+  <VSE_RoofSpeed.label>velocidade de construção do telhado</VSE_RoofSpeed.label>
+  <VSE_TailoringSpeed.description>O quão rápido este colono está a costurar roupas.</VSE_TailoringSpeed.description>
+  <VSE_TailoringSpeed.label>velocidade de costura</VSE_TailoringSpeed.label>
+  <VSE_WeaponCreationSpeed.description>O quão rápido o colono produz armas.</VSE_WeaponCreationSpeed.description>
+  <VSE_WeaponCreationSpeed.label>velocidade de criação de armas</VSE_WeaponCreationSpeed.label>
+</LanguageData>

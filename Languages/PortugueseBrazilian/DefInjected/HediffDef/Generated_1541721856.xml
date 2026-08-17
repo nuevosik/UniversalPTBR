@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AAVPE_Electrified.description>Esse colono ou animal tinha seu sangue carregado com potencial de entropia reversa, permitindo-lhes recarregar baterias elétricas simplesmente por estar perto deles. Essa mudança é permanente e bastante traumática.</AAVPE_Electrified.description>
+  <AAVPE_Electrified.label>eletrificado</AAVPE_Electrified.label>
+  <AAVPE_Exploder.description>Nódulos de chemfuel implantados psiquicamente farão com que essa pessoa ou animal exploda quando morto.</AAVPE_Exploder.description>
+  <AAVPE_Exploder.label>nódulos de combustível químico</AAVPE_Exploder.label>
+  <AAVPE_FungalSkin.description>Vários fungos gigantes estão brotando da pele dessa pessoa ou animal. Esses fungos não lhes causam dor e fornecem uma quantidade considerável de armadura natural, ao custo de torná-los MUITO vulneráveis ​​ao fogo.</AAVPE_FungalSkin.description>
+  <AAVPE_FungalSkin.label>pele fúngica</AAVPE_FungalSkin.label>
+  <AAVPE_Hover.description>Voo psíquico limitado que permite a este colono ou animal saltar e planar pequenas distâncias sobre o terreno. Eles ignorarão os custos de movimentação do terreno durante a duração da habilidade.</AAVPE_Hover.description>
+  <AAVPE_Hover.label>voo psíquico</AAVPE_Hover.label>
+  <AAVPE_KO.description>Esta pessoa foi atingida por tanta energia psíquica que não consegue se mover.</AAVPE_KO.description>
+  <AAVPE_KO.label>nocauteado</AAVPE_KO.label>
+  <AAVPE_KO.labelNoun>nocauteado</AAVPE_KO.labelNoun>
+  <AAVPE_LightSustenance.description>Este colono ou animal teve parte de sua pele substituída por matéria vegetal, eliminando quase totalmente sua necessidade de alimentação, mas exigindo que ficasse constantemente exposto à luz para seu sustento. Essa mudança é permanente e bastante traumática.</AAVPE_LightSustenance.description>
+  <AAVPE_LightSustenance.label>necessidade reduzida de comer</AAVPE_LightSustenance.label>
+  <AAVPE_Regeneration.description>Este colono ou animal possui um campo de regeneração psiquicamente ativo, permitindo-lhes curar suas feridas muito mais rápido do que o normal.</AAVPE_Regeneration.description>
+  <AAVPE_Regeneration.label>regeneração</AAVPE_Regeneration.label>
+  <AAVPE_StrengthenBlackHive.description>Este inseto Colmeia Negra foi fortalecido e será mais proficiente em combate.</AAVPE_StrengthenBlackHive.description>
+  <AAVPE_StrengthenBlackHive.label>insetoide fortalecido</AAVPE_StrengthenBlackHive.label>
+  <AA_AcidBuildup_AgainstMechs.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial. Isso afetará até mesmo os mecanóides que geralmente são imunes ao ácido!</AA_AcidBuildup_AgainstMechs.description>
+  <AA_AcidBuildup_AgainstMechs.label>queimadura ácida</AA_AcidBuildup_AgainstMechs.label>
+  <AA_AcidBuildup_AgainstMechs.stages.0.label>menor, recebendo queimaduras</AA_AcidBuildup_AgainstMechs.stages.0.label>
+  <AA_AcidBuildup_AgainstMechs.stages.1.label>moderado, recebendo queimaduras</AA_AcidBuildup_AgainstMechs.stages.1.label>
+  <AA_AcidBuildup_AgainstMechs.stages.2.label>grave, recebendo queimaduras</AA_AcidBuildup_AgainstMechs.stages.2.label>
+  <AA_AnoleGrown.comps.0.tools.0.label>garras</AA_AnoleGrown.comps.0.tools.0.label>
+  <AA_AnoleGrown.description>Um coquetel instável de hormônios de crescimento e mecanismos biomecânicos está causando um crescimento descontrolado das células desta criatura. Isso aumentará muito o seu metabolismo, combatendo o poder e a resistência por algumas horas. Depois ele ficará exausto e precisará de comida extra para recuperar energia.</AA_AnoleGrown.description>
+  <AA_AnoleGrown.label>crescimento explosivo</AA_AnoleGrown.label>
+  <AA_AnoleGrownExhausted.description>Esta criatura foi recentemente sujeita a um crescimento anômalo, exaurindo-a e deixando-a com uma fome voraz. Não será capaz de ativar novamente esse crescimento explosivo até que essa condição passe.</AA_AnoleGrownExhausted.description>
+  <AA_AnoleGrownExhausted.label>crescimento explosivo (exausto)</AA_AnoleGrownExhausted.label>
+  <AA_AteBlackTruffleIngredient.description>Comi trufas negras. Uma deliciosa e valiosa variedade de fungos.</AA_AteBlackTruffleIngredient.description>
+  <AA_AteBlackTruffleIngredient.label>consumiu trufa negra (da refeição)</AA_AteBlackTruffleIngredient.label>
+  <AA_AteFinestClothes.description>Este Angel Moth consumiu recentemente roupas de qualidade Lendária.</AA_AteFinestClothes.description>
+  <AA_AteFinestClothes.label>festejou com roupas lendárias</AA_AteFinestClothes.label>
+  <AA_BurrowingUnderSand.description>Este Sand Prowler está escavando sob a areia, o que o torna muito resistente a danos. Eu odeio areia. É claro, violento e irritante. E chega a todos os lugares.</AA_BurrowingUnderSand.description>
+  <AA_BurrowingUnderSand.label>cavando sob a areia</AA_BurrowingUnderSand.label>
+  <AA_CarryWeight1.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight1.description>
+  <AA_CarryWeight1.label>peso extra (horrível)</AA_CarryWeight1.label>
+  <AA_CarryWeight2.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight2.description>
+  <AA_CarryWeight2.label>peso de transporte extra (ruim)</AA_CarryWeight2.label>
+  <AA_CarryWeight3.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight3.description>
+  <AA_CarryWeight3.label>peso de transporte extra (normal)</AA_CarryWeight3.label>
+  <AA_CarryWeight4.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight4.description>
+  <AA_CarryWeight4.label>peso de transporte extra (bom)</AA_CarryWeight4.label>
+  <AA_CarryWeight5.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight5.description>
+  <AA_CarryWeight5.label>peso de transporte extra (excelente)</AA_CarryWeight5.label>
+  <AA_CarryWeight6.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight6.description>
+  <AA_CarryWeight6.label>peso extra (obra-prima)</AA_CarryWeight6.label>
+  <AA_CarryWeight7.description>Esta criatura pode carregar peso extra tanto durante o transporte quanto em caravanas.</AA_CarryWeight7.description>
+  <AA_CarryWeight7.label>peso de transporte extra (lendário)</AA_CarryWeight7.label>
+  <AA_CorpseFeast.description>Este animal recentemente se alimentou de cadáveres humanos em decomposição. A carne mais saborosa.</AA_CorpseFeast.description>
+  <AA_CorpseFeast.label>festejou com cadáveres humanos</AA_CorpseFeast.label>
+  <AA_CrushingEverything.description>Se eu fosse você, não entraria no caminho de um furioso Summit Crab...</AA_CrushingEverything.description>
+  <AA_CrushingEverything.label>esmagando tudo em seu caminho</AA_CrushingEverything.label>
+  <AA_DesertPelt.description>Este animal possui uma bela pelagem desértica, o que lhe confere grande resistência ao calor.</AA_DesertPelt.description>
+  <AA_DesertPelt.label>pele do deserto</AA_DesertPelt.label>
+  <AA_EatenACorpse.description>Erins adora um cadáver bom e saboroso. Comer um cadáver fresco proporcionará ao Erin um aumento considerável em sua saúde por quase meio dia.</AA_EatenACorpse.description>
+  <AA_EatenACorpse.label>comi um cadáver</AA_EatenACorpse.label>
+  <AA_EcholocativeFeedbackLoop.description>Essa pessoa depende da ecolocalização em vez da visão normal, mas fatores ambientais, como explosões fortes, podem causar um ciclo de feedback debilitante, causando sobrecarga sensorial e confusão, levando-a a um estado catatônico.</AA_EcholocativeFeedbackLoop.description>
+  <AA_EcholocativeFeedbackLoop.label>ciclo de feedback ecolocativo</AA_EcholocativeFeedbackLoop.label>
+  <AA_Electric.description>Um choque elétrico perigoso. Pode causar danos ao coração e intensidades mais altas aumentam a possibilidade de ataque cardíaco.</AA_Electric.description>
+  <AA_Electric.label>choque elétrico</AA_Electric.label>
+  <AA_Electric.stages.0.label>inicial</AA_Electric.stages.0.label>
+  <AA_Electric.stages.1.label>chocado</AA_Electric.stages.1.label>
+  <AA_Electric.stages.2.label>muito chocado</AA_Electric.stages.2.label>
+  <AA_Electric.stages.3.label>paralisado</AA_Electric.stages.3.label>
+  <AA_FertilizedTerrain.description>Esta lula da areia fertilizou recentemente algum terreno arenoso.</AA_FertilizedTerrain.description>
+  <AA_FertilizedTerrain.label>terreno fertilizado</AA_FertilizedTerrain.label>
+  <AA_GatheredResource.description>Este colono reuniu recentemente um recurso animal.</AA_GatheredResource.description>
+  <AA_GatheredResource.label>recurso animal reunido</AA_GatheredResource.label>
+  <AA_HorrifyingDread.description>Uma sensação primitiva de medo e terror causada pela presença de uma grotesca lula presa nas proximidades.</AA_HorrifyingDread.description>
+  <AA_HorrifyingDread.label>pavor horrível</AA_HorrifyingDread.label>
+  <AA_InvisibleArcticLion.description>Este leão ártico está perseguindo sua presa e... Ei, como você está lendo isso, seu trapaceiro??</AA_InvisibleArcticLion.description>
+  <AA_InvisibleArcticLion.label>perseguição</AA_InvisibleArcticLion.label>
+  <AA_JunglePelt.description>Este animal ostenta uma bela pelagem de selva, o que lhe confere uma ligeira resistência ao calor.</AA_JunglePelt.description>
+  <AA_JunglePelt.label>pele da selva</AA_JunglePelt.label>
+  <AA_Kamikaze.description>Bum.</AA_Kamikaze.description>
+  <AA_Kamikaze.label>detonação repentina</AA_Kamikaze.label>
+  <AA_Kamikaze.stages.0.label>inicial oculto</AA_Kamikaze.stages.0.label>
+  <AA_Kamikaze.stages.1.label>crítico</AA_Kamikaze.stages.1.label>
+  <AA_LockJawDisease.description>Doença dolorosa e desconfortável que inflama a mandíbula, dificultando muito a alimentação ou a fala. A doença desaparecerá depois de ter sido tratada com sucesso um determinado número de vezes.</AA_LockJawDisease.description>
+  <AA_LockJawDisease.label>doença do trismo</AA_LockJawDisease.label>
+  <AA_LowRest.description>Esta criatura tem pouca necessidade de dormir e pode ficar acordada por muito tempo.</AA_LowRest.description>
+  <AA_LowRest.label>precisa de muito pouco sono</AA_LowRest.label>
+  <AA_MalevolentEye.description>Um olho malévolo e injetado de sangue está emergindo desta ferida, piscando e olhando descontroladamente ao redor. Sem tratamento, causará o apodrecimento do tecido local, causando eventualmente envenenamento do sangue e morte. No entanto, eles permitirão que os aflitos vejam através deles.</AA_MalevolentEye.description>
+  <AA_MalevolentEye.label>olho malévolo</AA_MalevolentEye.label>
+  <AA_MalevolentEye.labelNoun>um olho malévolo</AA_MalevolentEye.labelNoun>
+  <AA_MalevolentEye.stages.0.label>menor</AA_MalevolentEye.stages.0.label>
+  <AA_MalevolentEye.stages.1.label>principal</AA_MalevolentEye.stages.1.label>
+  <AA_MalevolentEye.stages.2.label>extremo</AA_MalevolentEye.stages.2.label>
+  <AA_MalevolentEye.stages.3.label>extremo</AA_MalevolentEye.stages.3.label>
+  <AA_MechDisruption.description>A mira, velocidade e agilidade deste mecanóide estão sendo interrompidas por um edifício disruptor biomecanóide próximo.</AA_MechDisruption.description>
+  <AA_MechDisruption.label>interrupção mecânica</AA_MechDisruption.label>
+  <AA_MechanoidRendingClaws.comps.0.tools.0.label>mecanóide rasgando garras</AA_MechanoidRendingClaws.comps.0.tools.0.label>
+  <AA_MechanoidRendingClaws.description>Garras afiadas especialmente projetadas para rasgar metais e eletrônicos, infligindo danos extras de EMP aos mecanóides, interrompendo temporariamente seus sistemas e causando danos elétricos adicionais.</AA_MechanoidRendingClaws.description>
+  <AA_MechanoidRendingClaws.label>mecanóide rasgando garras</AA_MechanoidRendingClaws.label>
+  <AA_MimeHediff.description>Afinal, este colono pode não ser uma pessoa real...</AA_MimeHediff.description>
+  <AA_MimeHediff.label>escondido à vista de todos</AA_MimeHediff.label>
+  <AA_MutantArm.comps.0.tools.0.label>punho</AA_MutantArm.comps.0.tools.0.label>
+  <AA_MutantArm.description>Este braço se contorce e se dobra de maneiras estranhas e não naturais, como se tivesse vontade própria. Algo parece... estranho nisso, como se não fosse uma criação completamente natural.</AA_MutantArm.description>
+  <AA_MutantArm.label>braço mutante</AA_MutantArm.label>
+  <AA_MutantArm.labelNoun>um braço mutante</AA_MutantArm.labelNoun>
+  <AA_MutantEye.description>Este olho pisca sozinho constantemente, como um tique nervoso, e um segundo conjunto de pálpebras verticais parece estar presente atrás das pálpebras humanas normais. Algo parece... estranho nisso, como se não fosse uma criação completamente natural.</AA_MutantEye.description>
+  <AA_MutantEye.label>olho mutante</AA_MutantEye.label>
+  <AA_MutantEye.labelNoun>um olho mutante</AA_MutantEye.labelNoun>
+  <AA_MutantLeg.description>Esta perna parece estar coberta por uma secreção escorregadia que escorre constantemente de todos os poros. Algo parece... estranho nisso, como se não fosse uma criação completamente natural.</AA_MutantLeg.description>
+  <AA_MutantLeg.label>perna mutante</AA_MutantLeg.label>
+  <AA_MutantLeg.labelNoun>uma perna mutante</AA_MutantLeg.labelNoun>
+  <AA_NoPain.description>Esta criatura tem uma sensibilidade reduzida à dor e leva mais tempo para ser derrubada devido à dor.</AA_NoPain.description>
+  <AA_NoPain.label>sem sensibilidade à dor</AA_NoPain.label>
+  <AA_Nocturnal.description>Animal noturno obsoleto Hediff. Isso nunca deveria aparecer no jogo.</AA_Nocturnal.description>
+  <AA_Nocturnal.label>animal noturno</AA_Nocturnal.label>
+  <AA_Paralysis.description>Uma toxina de ação rápida corre pelas veias desta criatura, paralisando seus músculos. O efeito desaparecerá depois de um tempo.</AA_Paralysis.description>
+  <AA_Paralysis.label>paralisia</AA_Paralysis.label>
+  <AA_Paralysis.stages.0.label>inicial</AA_Paralysis.stages.0.label>
+  <AA_Paralysis.stages.1.label>atordoado</AA_Paralysis.stages.1.label>
+  <AA_Paralysis.stages.2.label>muito atordoado</AA_Paralysis.stages.2.label>
+  <AA_Paralysis.stages.3.label>paralisado</AA_Paralysis.stages.3.label>
+  <AA_PermanentBurn.comps.1.permanentLabel>queimadura permanente</AA_PermanentBurn.comps.1.permanentLabel>
+  <AA_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</AA_PermanentBurn.description>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>Queimado</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Queimado</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+  <AA_PermanentBurn.label>queimadura permanente</AA_PermanentBurn.label>
+  <AA_PermanentBurn.labelNoun>uma queimadura permanente</AA_PermanentBurn.labelNoun>
+  <AA_PsionicallyNuzzled.description>Abençoado por um Animus Vox.</AA_PsionicallyNuzzled.description>
+  <AA_PsionicallyNuzzled.label>com o nariz psinicamente aninhado</AA_PsionicallyNuzzled.label>
+  <AA_RechargingBatteries.description>Esta criatura recarregou recentemente uma bateria próxima.</AA_RechargingBatteries.description>
+  <AA_RechargingBatteries.label>recarregando baterias</AA_RechargingBatteries.label>
+  <AA_Resurrection.description>Este animal pode sobreviver a até 9 ferimentos fatais, voltando dos mortos.</AA_Resurrection.description>
+  <AA_Resurrection.label>levante-se do seu túmulo!</AA_Resurrection.label>
+  <AA_SwarmlingImplantation.description>Afetado pela implantação do Swarmling. Se a doença não for tratada adequadamente, ou se a criatura morrer quando estiver suficientemente avançada, as larvas Swarming irão devorá-la por dentro e eclodir de seu cadáver.</AA_SwarmlingImplantation.description>
+  <AA_SwarmlingImplantation.label>implantação em enxame</AA_SwarmlingImplantation.label>
+  <AA_SwarmlingImplantation.stages.0.label>menor</AA_SwarmlingImplantation.stages.0.label>
+  <AA_SwarmlingImplantation.stages.1.label>principal</AA_SwarmlingImplantation.stages.1.label>
+  <AA_SwarmlingImplantation.stages.2.label>extremo</AA_SwarmlingImplantation.stages.2.label>
+  <AA_SwarmlingImplantation.stages.3.label>extremo</AA_SwarmlingImplantation.stages.3.label>
+  <AA_TheHeuristicEye.description>Este olho analisa o que o rodeia com disciplina cuidadosamente planeada, sem perder nenhum detalhe.</AA_TheHeuristicEye.description>
+  <AA_TheHeuristicEye.label>o olho heurístico</AA_TheHeuristicEye.label>
+  <AA_TheHeuristicEye.labelNoun>um olho heurístico</AA_TheHeuristicEye.labelNoun>
+  <AA_TheMeretriciousEye.description>Esse olho berrante parece ter vida própria, tentando chamar a atenção de outras pessoas com piscadelas cuidadosamente direcionadas e olhares furtivos e sensuais que acenam com um falso fascínio. Permite que seu hospedeiro se recupere mais rapidamente da exaustão psíquica.</AA_TheMeretriciousEye.description>
+  <AA_TheMeretriciousEye.label>o olho meretrício</AA_TheMeretriciousEye.label>
+  <AA_TheMeretriciousEye.labelNoun>um olho meretrício</AA_TheMeretriciousEye.labelNoun>
+  <AA_TheNumbingEye.description>Este estranho olho mutante é coberto por densas placas ósseas em vez de uma pálpebra carnuda normal e parece ser quase imune à dor.</AA_TheNumbingEye.description>
+  <AA_TheNumbingEye.label>o olho entorpecido</AA_TheNumbingEye.label>
+  <AA_TheNumbingEye.labelNoun>um olho entorpecido</AA_TheNumbingEye.labelNoun>
+  <AA_TheOmniscientEye.description>Um olho injetado de sangue com pupila triangular. Este horrível olho mutante confere o dom de uma visão psíquica aprimorada.</AA_TheOmniscientEye.description>
+  <AA_TheOmniscientEye.label>o olho onisciente</AA_TheOmniscientEye.label>
+  <AA_TheOmniscientEye.labelNoun>um olho onisciente</AA_TheOmniscientEye.labelNoun>
+  <AA_TheQuiescentEye.description>Um olho que nunca pisca, mantendo-se úmido por meios desconhecidos. Ele permeia seu hospedeiro com uma sensação de calma sobrenatural.</AA_TheQuiescentEye.description>
+  <AA_TheQuiescentEye.label>o olho quieto</AA_TheQuiescentEye.label>
+  <AA_TheQuiescentEye.labelNoun>um olho quieto</AA_TheQuiescentEye.labelNoun>
+  <AA_TheRecalcitrantEye.description>Um estranho olho mutante que nunca está totalmente aberto, sendo na maioria das vezes parcialmente coberto por uma pálpebra de aparência doentia. Estranhamente, ele proporciona visão normal e ao mesmo tempo protege seu hospedeiro de ataques psíquicos.</AA_TheRecalcitrantEye.description>
+  <AA_TheRecalcitrantEye.label>o olho recalcitrante</AA_TheRecalcitrantEye.label>
+  <AA_TheRecalcitrantEye.labelNoun>um olho recalcitrante</AA_TheRecalcitrantEye.labelNoun>
+  <AA_TheSpasmodicEye.description>Um olho que não para de piscar incontrolavelmente. Embora extremamente perturbador e desconcertante, permite que seu hospedeiro lance mais poderes psíquicos antes da exaustão.</AA_TheSpasmodicEye.description>
+  <AA_TheSpasmodicEye.label>o olho espasmódico</AA_TheSpasmodicEye.label>
+  <AA_TheSpasmodicEye.labelNoun>um olho espasmódico</AA_TheSpasmodicEye.labelNoun>
+  <AA_ToxicBuildup.description>Toxinas na corrente sanguínea. Isto pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.
+\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.
+\nAo contrário do acúmulo tóxico do jogo base, as criaturas que morrem com esse dano tóxico podem ser comidas.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.label>acúmulo tóxico</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.stages.0.label>inicial</AA_ToxicBuildup.stages.0.label>
+  <AA_ToxicBuildup.stages.1.label>inicial</AA_ToxicBuildup.stages.1.label>
+  <AA_ToxicBuildup.stages.2.label>menor</AA_ToxicBuildup.stages.2.label>
+  <AA_ToxicBuildup.stages.3.label>moderado</AA_ToxicBuildup.stages.3.label>
+  <AA_ToxicBuildup.stages.4.label>sério</AA_ToxicBuildup.stages.4.label>
+  <AA_ToxicBuildup.stages.5.label>extremo</AA_ToxicBuildup.stages.5.label>
+  <AA_VirulentFungalInfection.description>Infecção fúngica em uma ferida. Sem tratamento, a infecção avançará a um ritmo surpreendente, matando os doentes em poucas horas. Felizmente, é muito fácil de tratar e será mantido contido e desaparecerá desde que um médico o trate rapidamente e com uma qualidade de tratamento decente.</AA_VirulentFungalInfection.description>
+  <AA_VirulentFungalInfection.label>infecção fúngica virulenta</AA_VirulentFungalInfection.label>
+  <AA_VirulentFungalInfection.labelNoun>uma infecção fúngica virulenta</AA_VirulentFungalInfection.labelNoun>
+  <AA_VirulentFungalInfection.stages.0.label>menor</AA_VirulentFungalInfection.stages.0.label>
+  <AA_VirulentFungalInfection.stages.1.label>principal</AA_VirulentFungalInfection.stages.1.label>
+  <AA_VirulentFungalInfection.stages.2.label>extremo</AA_VirulentFungalInfection.stages.2.label>
+  <AA_VirulentFungalInfection.stages.3.label>extremo</AA_VirulentFungalInfection.stages.3.label>
+  <AA_WinterPelt.description>Este animal possui uma bela pelagem de inverno, o que lhe confere boa resistência ao frio.</AA_WinterPelt.description>
+  <AA_WinterPelt.label>pele de inverno</AA_WinterPelt.label>
+  <VFEI2_BlackEmpressSpawn.description>Uma semente insetoide em gestação. A partir de um ovo pequeno, ele absorverá rapidamente os nutrientes e crescerá, causando lentamente mais dor ao hospedeiro. Ele rapidamente assumirá o controle do sistema nervoso, crescerá e se estenderá por todo o corpo do hospedeiro até estar pronto para emergir pela caixa torácica, matando o hospedeiro. Durante seu crescimento, a semente absorve memórias do hospedeiro, o que tornará o insetóide amigável à sua colônia.</VFEI2_BlackEmpressSpawn.description>
+  <VFEI2_BlackEmpressSpawn.label>prole da Imperatriz Negra</VFEI2_BlackEmpressSpawn.label>
+  <VFEI2_BlackEmpressSpawn.stages.0.label>ovo</VFEI2_BlackEmpressSpawn.stages.0.label>
+  <VFEI2_BlackEmpressSpawn.stages.1.label>larva</VFEI2_BlackEmpressSpawn.stages.1.label>
+  <VFEI2_BlackEmpressSpawn.stages.2.label>pupa</VFEI2_BlackEmpressSpawn.stages.2.label>
+  <VFEI2_BlackEmpressSpawn.stages.3.label>juvenil</VFEI2_BlackEmpressSpawn.stages.3.label>
+</LanguageData>

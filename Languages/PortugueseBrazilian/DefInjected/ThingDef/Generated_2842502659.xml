@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_Apparel_EltexCape.description>Uma longa capa de desenho místico. Ele fica pendurado em um lado do tronco. Seus materiais especiais aumentam a sensibilidade psíquica do usuário e dissipam o calor neural.</VPE_Apparel_EltexCape.description>
+  <VPE_Apparel_EltexCape.label>capa de eltex</VPE_Apparel_EltexCape.label>
+  <VPE_Apparel_EltexMask.description>Uma máscara artisticamente impressionante que emana energia psíquica. Esconde o rosto do usuário, mas oferece pouca proteção física. Seus materiais especiais aumentam a sensibilidade psíquica do usuário e dissipam o calor neural.</VPE_Apparel_EltexMask.description>
+  <VPE_Apparel_EltexMask.label>máscara eltex</VPE_Apparel_EltexMask.label>
+  <VPE_Apparel_PlateArmorPrestige.description>Placas sólidas de armadura sobrepostas cobrem todo o corpo, do pescoço aos pés.\n\nArmaduras de prestígio caras e bonitas como essa geralmente são feitas para pessoas de alto status. Os fios Eltex incorporados também aumentam a sensibilidade psíquica do usuário.</VPE_Apparel_PlateArmorPrestige.description>
+  <VPE_Apparel_PlateArmorPrestige.label>armadura de placas de prestígio</VPE_Apparel_PlateArmorPrestige.label>
+  <VPE_BallLightning.label>relâmpago de bola</VPE_BallLightning.label>
+  <VPE_Bolt.description>Um raio lançado por um staticlord</VPE_Bolt.description>
+  <VPE_Bolt.label>parafuso</VPE_Bolt.label>
+  <VPE_BrambleSpawner.label>emergente</VPE_BrambleSpawner.label>
+  <VPE_ChainBolt.label>parafuso de corrente</VPE_ChainBolt.label>
+  <VPE_Darkness.label>escuridão</VPE_Darkness.label>
+  <VPE_Decoy.label>chamariz</VPE_Decoy.label>
+  <VPE_Eltex.description>Um mineral extremamente misterioso que é maleável e serve como canal físico para psicocasts. Como o psicocasting se origina de motores arquotecnológicos, alguns especulam que esses minerais foram fabricados pelos arquotécnicos ou que eles desenvolveram seus motores usando esse estranho mineral.</VPE_Eltex.description>
+  <VPE_Eltex.label>Eltex</VPE_Eltex.label>
+  <VPE_EltexOre.description>Rocha contendo pedaços de eltex.</VPE_EltexOre.description>
+  <VPE_EltexOre.label>minério de eltex</VPE_EltexOre.label>
+  <VPE_EyeBlast.label>explosão ocular</VPE_EyeBlast.label>
+  <VPE_Filth_Metal.label>escória metálica</VPE_Filth_Metal.label>
+  <VPE_Filth_Rock.label>escombros de rocha</VPE_Filth_Rock.label>
+  <VPE_FireBeam.label>feixe de fogo</VPE_FireBeam.label>
+  <VPE_FireTornado.label>tornado de fogo</VPE_FireTornado.label>
+  <VPE_Flameball.description>Uma bola de fogo lançada por um conflagrador</VPE_Flameball.description>
+  <VPE_Flameball.label>bola de fogo</VPE_Flameball.label>
+  <VPE_FrostRay.label>raio de gelo</VPE_FrostRay.label>
+  <VPE_HeatPearls.description>Pérolas de calor místico criadas por um tecnomante em um processo de condensação de calor psíquico em uma forma física. Eles podem ser jogados em outros psicocasters para liberar uma quantidade insana de calor psíquico, desativando sua habilidade de psicocasting por um curto período.</VPE_HeatPearls.description>
+  <VPE_HeatPearls.label>pérolas de calor</VPE_HeatPearls.label>
+  <VPE_HeatPearls.verbs.0.label>jogue pérola de calor</VPE_HeatPearls.verbs.0.label>
+  <VPE_HurricaneMaker.label>criador de furacões</VPE_HurricaneMaker.label>
+  <VPE_IceCrystal.description>Um pequeno cristal de gelo que esfria a temperatura do ambiente. Pode ajudar a congelar itens perecíveis.</VPE_IceCrystal.description>
+  <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
+  <VPE_IceSpike.description>Um pico de gelo lançado pelo Frostshaper.</VPE_IceSpike.description>
+  <VPE_IceSpike.label>pico de gelo</VPE_IceSpike.label>
+  <VPE_IceWall.description>Uma parede frágil feita de gelo. Ele vai derreter com o calor.</VPE_IceWall.description>
+  <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
+  <VPE_MeleeWeapon_EltexDagger.description>Uma adaga medieval enfeitada com materiais de foco psíquico. Embora melhore a sensibilidade psíquica e a dissipação de calor neural do usuário, ela também serve como uma excelente arma corpo a corpo, pois segue a mesma ideia de qualquer outra faca: um cabo para segurar e uma lâmina afiada para cortar.</VPE_MeleeWeapon_EltexDagger.description>
+  <VPE_MeleeWeapon_EltexDagger.label>adaga eltex</VPE_MeleeWeapon_EltexDagger.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.0.label>lidar</VPE_MeleeWeapon_EltexDagger.tools.0.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.1.label>lâmina</VPE_MeleeWeapon_EltexDagger.tools.1.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.2.label>apontar</VPE_MeleeWeapon_EltexDagger.tools.2.label>
+  <VPE_MeleeWeapon_EltexMace.description>Uma maça medieval enfeitada com materiais de foco psíquico. Embora melhore a sensibilidade psíquica e a dissipação de calor neural do usuário, também serve como uma excelente arma corpo a corpo, projetada para golpes eficientes e impactos mortais.</VPE_MeleeWeapon_EltexMace.description>
+  <VPE_MeleeWeapon_EltexMace.label>maça Eltex</VPE_MeleeWeapon_EltexMace.label>
+  <VPE_MeleeWeapon_EltexMace.tools.0.label>lidar</VPE_MeleeWeapon_EltexMace.tools.0.label>
+  <VPE_MeleeWeapon_EltexMace.tools.1.label>cabeça</VPE_MeleeWeapon_EltexMace.tools.1.label>
+  <VPE_MeleeWeapon_EltexSword.description>Uma espada medieval enfeitada com materiais de foco psíquico. Embora aumente a sensibilidade psíquica do usuário e a dissipação de calor neural, também serve como uma excelente arma corpo a corpo. Bom para esfaquear ou cortar. É leve e ágil, o que às vezes permite vencer armas maiores e mais pesadas.</VPE_MeleeWeapon_EltexSword.description>
+  <VPE_MeleeWeapon_EltexSword.label>espada eltex</VPE_MeleeWeapon_EltexSword.label>
+  <VPE_MeleeWeapon_EltexSword.tools.0.label>lidar</VPE_MeleeWeapon_EltexSword.tools.0.label>
+  <VPE_MeleeWeapon_EltexSword.tools.1.label>apontar</VPE_MeleeWeapon_EltexSword.tools.1.label>
+  <VPE_MeleeWeapon_EltexSword.tools.2.label>borda</VPE_MeleeWeapon_EltexSword.tools.2.label>
+  <VPE_Psyring.description>Um anel Eltex criado por um tecnomante habilidoso. Ele contém o conhecimento de um psicocast específico e pode ser usado por outros psicocasters para lançá-lo.</VPE_Psyring.description>
+  <VPE_Psyring.label>psiring</VPE_Psyring.label>
+  <VPE_RockConstruct.description>Um pedaço de rocha, animado por uma poderosa energia psíquica. Ele fará trabalhos simples pela colônia incansavelmente e com a máxima dedicação.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psicaster de lançar outras habilidades.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.label>construção rochosa</VPE_RockConstruct.label>
+  <VPE_RockConstruct.tools.0.label>cabeça</VPE_RockConstruct.tools.0.label>
+  <VPE_Shrineshield_Large.label>grande escudo do santuário</VPE_Shrineshield_Large.label>
+  <VPE_Shrineshield_Small.label>pequeno santuário</VPE_Shrineshield_Small.label>
+  <VPE_Skipdoor.description>Um ponto de entrada psíquico para uma rede de portais.</VPE_Skipdoor.description>
+  <VPE_Skipdoor.label>portinhola</VPE_Skipdoor.label>
+  <VPE_SkyChanger.label>trocador de céu</VPE_SkyChanger.label>
+  <VPE_SmallMeteorite_Incoming.label>pequeno meteorito</VPE_SmallMeteorite_Incoming.label>
+  <VPE_SoulFromSky.label>alma</VPE_SoulFromSky.label>
+  <VPE_SteelConstruct.description>Um pedaço de escória de aço, animado por uma poderosa energia psíquica. Ele enfrentará ameaças próximas e defenderá o mestre de qualquer dano que possa acontecer a ele.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psicaster de lançar outras habilidades.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.label>construção em aço</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.tools.0.label>cabeça</VPE_SteelConstruct.tools.0.label>
+  <VPE_SummonedSkeleton.description>Uma casca psiquicamente reanimada de um indivíduo falecido. Extremamente agressivo, mas logo murchará e se transformará em nada.</VPE_SummonedSkeleton.description>
+  <VPE_SummonedSkeleton.label>esqueleto</VPE_SummonedSkeleton.label>
+  <VPE_SummonedSkeleton.tools.0.label>punho esquerdo</VPE_SummonedSkeleton.tools.0.label>
+  <VPE_SummonedSkeleton.tools.1.label>punho direito</VPE_SummonedSkeleton.tools.1.label>
+  <VPE_TimeSphere.label>esfera do tempo</VPE_TimeSphere.label>
+  <VPE_TreeSpawner.label>emergente</VPE_TreeSpawner.label>
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+  <VPE_WildPlantSpawner.label>emergente</VPE_WildPlantSpawner.label>
+</LanguageData>

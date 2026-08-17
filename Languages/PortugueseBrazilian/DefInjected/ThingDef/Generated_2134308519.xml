@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCE_AgaveNectar.description>Um néctar fino e semidoce, conhecido pelas suas propriedades cicatrizantes e anti-inflamatórias. Embora mais saudável que o açúcar, o seu elevado teor de frutose pode ser prejudicial se ingerido constantemente.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.label>néctar de agave</VCE_AgaveNectar.label>
+  <VCE_Allspice.description>Uma videira anômala e frondosa que produz pequenos frutos verdes e desagradáveis. Quando moídas finamente durante o cozimento, as frutas liberam um sabor complexo e apimentado, perfeito para temperar pratos.</VCE_Allspice.description>
+  <VCE_Allspice.label>planta de pimenta da Jamaica</VCE_Allspice.label>
+  <VCE_CannedAP.description>Ovos cozidos selados a vácuo e protegidos em aço podem efetivamente prolongar a vida útil indefinidamente. Embora seja comestível direto da lata, é muito mais nutritivo misturado em uma refeição e aquecido.\n\nOs produtos enlatados são uma forma de conservar os alimentos e usá-los como ingrediente posteriormente, não como refeição final.</VCE_CannedAP.description>
+  <VCE_CannedAP.label>ovos enlatados</VCE_CannedAP.label>
+  <VCE_CannedFish.description>Peixe selado a vácuo e preso em aço pode efetivamente prolongar a vida útil indefinidamente. Embora seja comestível direto da lata, é muito mais nutritivo misturado em uma refeição e aquecido.\n\nOs produtos enlatados são uma forma de conservar os alimentos e usá-los como ingrediente posteriormente, não como refeição final.</VCE_CannedFish.description>
+  <VCE_CannedFish.label>peixe enlatado</VCE_CannedFish.label>
+  <VCE_CannedFruit.description>Frutas cozidas e conservadas em recipiente durável e hermeticamente fechado. Os alimentos conservados duram indefinidamente sem refrigeração.\n\nAs frutas diferem dos produtos hortifrutigranjeiros porque são especificamente necessárias na produção de sobremesas.\n\nOs produtos enlatados são concebidos como uma forma de conservar os alimentos e utilizá-los como ingrediente mais tarde, e não como um ingrediente. última refeição.</VCE_CannedFruit.description>
+  <VCE_CannedFruit.label>fruta enlatada</VCE_CannedFruit.label>
+  <VCE_CannedMeat.description>A carne selada a vácuo e protegida em aço pode efetivamente prolongar a vida útil indefinidamente. Embora seja comestível direto da lata, é muito mais nutritivo misturado em uma refeição e aquecido.\n\nOs produtos enlatados são uma forma de conservar os alimentos e usá-los como ingrediente posteriormente, não como refeição final.</VCE_CannedMeat.description>
+  <VCE_CannedMeat.label>carne enlatada</VCE_CannedMeat.label>
+  <VCE_CannedProduce.description>Produzir selado a vácuo e protegido em uma lata de aço, prolongando efetivamente a vida útil indefinidamente. Embora seja comestível direto da lata, é muito mais nutritivo misturado em uma refeição e aquecido.\n\nOs produtos enlatados são uma forma de conservar os alimentos e usá-los como ingrediente posteriormente, não como refeição final.</VCE_CannedProduce.description>
+  <VCE_CannedProduce.label>produtos enlatados</VCE_CannedProduce.label>
+  <VCE_CanningMachine.description>Uma máquina de enlatar é um aparelho para armazenar alimentos conservados dentro de latas metálicas. Cada operação de enlatamento necessita de uma certa quantidade de Aço.</VCE_CanningMachine.description>
+  <VCE_CanningMachine.label>máquina de conservas</VCE_CanningMachine.label>
+  <VCE_Cheese.description>O queijo é um produto lácteo derivado do leite e produzido em uma ampla gama de sabores, texturas e formas pela coagulação da proteína caseína do leite. O queijo é valorizado pela sua portabilidade, longa vida e alto teor de gordura, proteína, cálcio e fósforo. É mais compacto e tem vida útil mais longa que o leite.\n\n&lt;color=#E5E54C&gt;Mecânica de jogo:&lt;/color&gt; O impacto do consumo de queijo no humor dependerá da qualidade, de -7 a +15.</VCE_Cheese.description>
+  <VCE_Cheese.label>queijo</VCE_Cheese.label>
+  <VCE_CheesePress.description>Uma prensa de queijo é um dispositivo para extrair o soro da coalhada ao fazer queijo. A prensagem influencia a dureza e a textura do queijo e também determina o formato do bloco ou roda do queijo. Esta prensa funciona também como câmara de maturação, pelo que quanto mais tempo o queijo ficar a amadurecer, maior será a sua qualidade.</VCE_CheesePress.description>
+  <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
+  <VCE_ChocolateSyrup.description>Uma mistura de cacau, água e açúcar, formando uma calda agridoce, ideal para revestir sobremesas. Embora ainda não seja bom para você, a calda de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.label>calda de chocolate</VCE_ChocolateSyrup.label>
+  <VCE_CondimentPrepTable.description>Mesa de trabalho para cortar, fatiar e preparar condimentos utilizados em receitas gourmet.</VCE_CondimentPrepTable.description>
+  <VCE_CondimentPrepTable.label>mesa de preparação de condimentos</VCE_CondimentPrepTable.label>
+  <VCE_CookedSoupFine.description>Uma sopa complexa preparada com cuidado a partir de uma vasta seleção de ingredientes.</VCE_CookedSoupFine.description>
+  <VCE_CookedSoupFine.label>sopa boa</VCE_CookedSoupFine.label>
+  <VCE_CookedSoupGourmet.description>Uma obra de arte culinária, caracterizada pela preparação requintada e até elaborada e pela apresentação de uma sopa esteticamente equilibrada, embora em pouca quantidade.</VCE_CookedSoupGourmet.description>
+  <VCE_CookedSoupGourmet.label>sopa gourmet</VCE_CookedSoupGourmet.label>
+  <VCE_CookedSoupLavish.description>Uma obra-prima das artes culinárias, esta sopa nutre o corpo, a mente e a alma.</VCE_CookedSoupLavish.description>
+  <VCE_CookedSoupLavish.label>sopa generosa</VCE_CookedSoupLavish.label>
+  <VCE_CookedSoupSimple.description>Uma sopa simples cozida lentamente com alguns ingredientes.</VCE_CookedSoupSimple.description>
+  <VCE_CookedSoupSimple.label>sopa simples</VCE_CookedSoupSimple.label>
+  <VCE_DeepFriedBigMeat.description>A carne é amaciada, cortada em filés e enrolada em uma massa grossa antes de ser submersa em óleo quente e frita. O resultado é um alimento crocante, pouco saudável, mas saboroso — não tão nutritivo quanto uma refeição, porém muito agradável de comer. Fritar a carne também reduz sua validade, a menos que ela seja congelada.</VCE_DeepFriedBigMeat.description>
+  <VCE_DeepFriedBigMeat.label>carne frita</VCE_DeepFriedBigMeat.label>
+  <VCE_DeepFriedFish.description>O peixe é amaciado, cortado em filés e enrolado em uma massa grossa antes de ser submerso em óleo quente e frito. O resultado é um alimento crocante, pouco saudável, mas saboroso — não tão nutritivo quanto uma refeição, porém muito agradável de comer. Fritar o peixe também reduz sua validade, a menos que ele seja congelado.</VCE_DeepFriedFish.description>
+  <VCE_DeepFriedFish.label>peixe frito</VCE_DeepFriedFish.label>
+  <VCE_DeepFriedVegetables.description>Legumes cortados em juliana e depois secos antes de serem mergulhados em óleo quente até dourar. Por mais crocantes e agradáveis que sejam, essas guloseimas fritas não são tão fartas quanto uma refeição normal, nem tão saudáveis. Fritar vegetais neste caso também reduz o prazo de validade, a menos que sejam congelados.</VCE_DeepFriedVegetables.description>
+  <VCE_DeepFriedVegetables.label>legumes fritos</VCE_DeepFriedVegetables.label>
+  <VCE_DeepFrier.description>Uma fritadeira é um eletrodoméstico usado para fritar. Fritar é um método de cozinhar submergindo os alimentos em óleo em fogo alto, normalmente entre temperaturas de 350 °F e 375 °F (175 °C a 190 °C).</VCE_DeepFrier.description>
+  <VCE_DeepFrier.label>fritadeira</VCE_DeepFrier.label>
+  <VCE_DigestibleResurrectorNanites.description>Uma mistura de Mundo Brilhante de alta tecnologia, imprópria para beber diretamente devido ao sabor amargo e um leve caso de hemorragia intraventricular. No entanto, quando cozinhados adequadamente nos alimentos, estes efeitos parecem inexplicavelmente anulados. Quaisquer peões com este presente após a morte serão imediatamente revividos como que por milagre.</VCE_DigestibleResurrectorNanites.description>
+  <VCE_DigestibleResurrectorNanites.label>nanites ressuscitadores digeríveis</VCE_DigestibleResurrectorNanites.label>
+  <VCE_ElectricPot.description>A panela elétrica, também chamada de panela térmica, é um pequeno eletrodoméstico utilizado para ferver água e mantê-la em temperatura constante. Normalmente é usado para cozinhar sopa por um longo período de tempo. Os ingredientes são submersos em água e deixados para cozinhar por um longo período, permitindo que os sabores dos ingredientes se aprofundem gradualmente e se misturem com o tempo.\n\nA sopa em uma panela elétrica sem energia estragará extremamente rapidamente. Cuidado com as explosões solares!</VCE_ElectricPot.description>
+  <VCE_ElectricPot.label>panela elétrica</VCE_ElectricPot.label>
+  <VCE_FineBake.description>Um assado complexo montado com cuidado a partir de uma ampla seleção de ingredientes e farinhas.</VCE_FineBake.description>
+  <VCE_FineBake.label>assado bom</VCE_FineBake.label>
+  <VCE_FineDessert.description>Uma sobremesa complexa elaborada com cuidado a partir de uma ampla seleção de ingredientes.</VCE_FineDessert.description>
+  <VCE_FineDessert.label>sobremesa fina</VCE_FineDessert.label>
+  <VCE_FineGrill.description>Uma complexa carne grelhada preparada com cuidado a partir de uma ampla seleção de ingredientes. Muito fartas, as carnes grelhadas permitem que as pessoas não sintam fome por muito tempo. Congelá-los estraga esse efeito.</VCE_FineGrill.description>
+  <VCE_FineGrill.label>grelhado fina</VCE_FineGrill.label>
+  <VCE_Flour.description>Farinha de trigo, usada na panificação. A farinha de trigo demora muito para estragar, se armazenada em ambiente seco. Foi produzido a partir de trigo geneticamente modificado para se transformar suavemente em farinha com um simples toque.</VCE_Flour.description>
+  <VCE_Flour.label>farinha</VCE_Flour.label>
+  <VCE_GourmetBake.description>Uma obra de arte culinária, caracterizada pela preparação requintada e até elaborada e pela apresentação de um assado esteticamente equilibrado, embora em baixa quantidade.</VCE_GourmetBake.description>
+  <VCE_GourmetBake.label>assado gourmet</VCE_GourmetBake.label>
+  <VCE_GourmetDessert.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada e até elaborada de uma sobremesa esteticamente equilibrada, embora em pouca quantidade.</VCE_GourmetDessert.description>
+  <VCE_GourmetDessert.label>sobremesa gourmet</VCE_GourmetDessert.label>
+  <VCE_GourmetGrill.description>Uma obra de arte culinária, caracterizada pela preparação requintada e até elaborada e pela apresentação de uma carne grelhada esteticamente equilibrada, embora em baixa quantidade. Muito fartas, as carnes grelhadas permitem que as pessoas não sintam fome por muito tempo. Congelá-los estraga esse efeito.</VCE_GourmetGrill.description>
+  <VCE_GourmetGrill.label>grelhado gourmet</VCE_GourmetGrill.label>
+  <VCE_Grill.description>Uma grelha é um dispositivo que cozinha alimentos aplicando calor por baixo. Esta é uma churrasqueira a lenha que precisa de madeira como combustível para funcionar.</VCE_Grill.description>
+  <VCE_Grill.label>grelha</VCE_Grill.label>
+  <VCE_HotSauce.description>Um molho potente e picante feito misturando e fervendo pimentas e outras especiarias. Embora molhos picantes particularmente fortes doam no início, eles são conhecidos por anestesiar a dor e causar suor quente logo após o consumo.</VCE_HotSauce.description>
+  <VCE_HotSauce.label>molho picante</VCE_HotSauce.label>
+  <VCE_InsectJellyPreserves.description>Geléia de insetos cortada com adoçante e selada como conserva. Muito rico e doce, ao mesmo tempo que é surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.label>geléia de insetos em conserva</VCE_InsectJellyPreserves.label>
+  <VCE_Ketchup.description>Um molho espesso feito de tomate cozido, salgado e picante, com um sabor adocicado. Perfeito para refeições de carne ou frituras.</VCE_Ketchup.description>
+  <VCE_Ketchup.label>ketchup</VCE_Ketchup.label>
+  <VCE_LavishBake.description>Uma obra-prima das artes culinárias, este assado nutre o corpo, a mente e a alma.</VCE_LavishBake.description>
+  <VCE_LavishBake.label>assado luxuoso</VCE_LavishBake.label>
+  <VCE_LavishDessert.description>Obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.</VCE_LavishDessert.description>
+  <VCE_LavishDessert.label>sobremesa luxuosa</VCE_LavishDessert.label>
+  <VCE_LavishGrill.description>Obra-prima das artes culinárias, esta carne grelhada nutre o corpo, a mente e a alma. Muito fartas, as carnes grelhadas permitem que as pessoas não sintam fome por muito tempo. Congelá-los estraga esse efeito.</VCE_LavishGrill.description>
+  <VCE_LavishGrill.label>grelhado exuberante</VCE_LavishGrill.label>
+  <VCE_Mayo.description>Uma emulsão espessa de ovo, óleo e outras ervas. A maionese, embora terrível para você, adiciona um sabor agradável e é muito densa em termos calóricos.</VCE_Mayo.description>
+  <VCE_Mayo.label>maionese</VCE_Mayo.label>
+  <VCE_MealGourmet.description>Uma obra de arte culinária, caracterizada por uma preparação e apresentação refinada e até elaborada.</VCE_MealGourmet.description>
+  <VCE_MealGourmet.label>refeição gourmet</VCE_MealGourmet.label>
+  <VCE_RawSpices.description>Uma variedade de especiarias aromáticas e picantes, acrescenta várias notas afiadas na língua e dá um pouco de vitalidade ao seu passo.</VCE_RawSpices.description>
+  <VCE_RawSpices.label>especiarias</VCE_RawSpices.label>
+  <VCE_RawSugar.description>Açúcar de cana cristalino simples, acrescenta uma doçura muito desejada. O açúcar é facilmente convertido em energia pelo corpo, o que pode resultar em uma boa explosão de energia.</VCE_RawSugar.description>
+  <VCE_RawSugar.label>açúcar</VCE_RawSugar.label>
+  <VCE_RuinedFineGrill.description>Uma complexa carne grelhada preparada com cuidado a partir de uma ampla seleção de ingredientes. Esta grelha foi congelada e, como tal, ainda é comestível, mas muito menos recheada. Não fornecerá o bônus "bem alimentado".</VCE_RuinedFineGrill.description>
+  <VCE_RuinedFineGrill.label>grelhado fina arruinada</VCE_RuinedFineGrill.label>
+  <VCE_RuinedGourmetGrill.description>TODO</VCE_RuinedGourmetGrill.description>
+  <VCE_RuinedGourmetGrill.label>grelhado gourmet arruinada</VCE_RuinedGourmetGrill.label>
+  <VCE_RuinedLavishGrill.description>Obra-prima das artes culinárias, esta carne grelhada nutre o corpo, a mente e a alma. Esta grelha foi congelada e, como tal, ainda é comestível, mas muito menos recheada. Não fornecerá o bônus "bem alimentado".</VCE_RuinedLavishGrill.description>
+  <VCE_RuinedLavishGrill.label>grelhado luxuosa em ruínas</VCE_RuinedLavishGrill.label>
+  <VCE_RuinedSimpleGrill.description>Uma simples carne grelhada preparada com poucos ingredientes. Esta grelha foi congelada e, como tal, ainda é comestível, mas muito menos recheada. Não fornecerá o bônus "bem alimentado".</VCE_RuinedSimpleGrill.description>
+  <VCE_RuinedSimpleGrill.label>grelhado simples estragada</VCE_RuinedSimpleGrill.label>
+  <VCE_Salt.description>O sal-gema, assim como o sal comum, realça o perfil de sabor de outros ingredientes com os quais é cozido.</VCE_Salt.description>
+  <VCE_Salt.label>sal</VCE_Salt.label>
+  <VCE_SimpleBake.description>Um assado simples, preparado rapidamente com alguns ingredientes e farinha.</VCE_SimpleBake.description>
+  <VCE_SimpleBake.label>assado simples</VCE_SimpleBake.label>
+  <VCE_SimpleDessert.description>Uma sobremesa simples feita rapidamente com algumas frutas e outros ingredientes.</VCE_SimpleDessert.description>
+  <VCE_SimpleDessert.label>sobremesa simples</VCE_SimpleDessert.label>
+  <VCE_SimpleGrill.description>Uma simples carne grelhada preparada com poucos ingredientes. Muito fartas, as carnes grelhadas permitem que as pessoas não sintam fome por muito tempo. Congelá-los estraga esse efeito.</VCE_SimpleGrill.description>
+  <VCE_SimpleGrill.label>grelhado simples</VCE_SimpleGrill.label>
+  <VCE_SmokeleafButter.description>Substância espessa e gordurosa produzida pela agitação do leite em um creme muito espesso, combinado com óleo de folha de fumaça e permitindo que ele endureça. Muito prejudicial à saúde e atinge um pouco mais forte do que um baseado.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.label>manteiga de folha de fumo</VCE_SmokeleafButter.label>
+  <VCE_Sugarcane.description>Uma grama tropical alta e espessa com caules articulados. Embora não seja exatamente a coisa mais nutritiva para comer por si só, esta cana-de-açúcar geneticamente modificada é facilmente transformada em açúcar e depois usada para uma variedade de criações culinárias – especialmente sobremesas.</VCE_Sugarcane.description>
+  <VCE_Sugarcane.label>planta de cana-de-açúcar</VCE_Sugarcane.label>
+  <VCE_UncookedSoupFine.description>Uma boa sopa crua. Isso precisa ser cozido em uma panela elétrica para ser comestível.</VCE_UncookedSoupFine.description>
+  <VCE_UncookedSoupFine.label>sopa boa crua</VCE_UncookedSoupFine.label>
+  <VCE_UncookedSoupGourmet.description>Uma sopa gourmet crua. Isso precisa ser cozido em uma panela elétrica para ser comestível.</VCE_UncookedSoupGourmet.description>
+  <VCE_UncookedSoupGourmet.label>sopa gourmet crua</VCE_UncookedSoupGourmet.label>
+  <VCE_UncookedSoupLavish.description>Uma sopa generosa e crua. Isso precisa ser cozido em uma panela elétrica para ser comestível.</VCE_UncookedSoupLavish.description>
+  <VCE_UncookedSoupLavish.label>sopa generosa crua</VCE_UncookedSoupLavish.label>
+  <VCE_UncookedSoupSimple.description>Uma sopa simples e crua. Isso precisa ser cozido em uma panela elétrica para ser comestível.</VCE_UncookedSoupSimple.description>
+  <VCE_UncookedSoupSimple.label>sopa simples crua</VCE_UncookedSoupSimple.label>
+  <VCE_Wheat.description>Uma planta de cereal âmbar que leva quase uma estação inteira de cultivo para dar frutos. Embora frágil e demorado, este trigo foi geneticamente modificado para se transformar suavemente em farinha com um simples toque.</VCE_Wheat.description>
+  <VCE_Wheat.label>planta de trigo</VCE_Wheat.label>
+</LanguageData>

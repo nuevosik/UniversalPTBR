@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_Flee.beginLetter>{0} está fugindo.</VPE_Flee.beginLetter>
+  <VPE_Flee.beginLetterLabel>fugir</VPE_Flee.beginLetterLabel>
+  <VPE_Flee.label>fugindo</VPE_Flee.label>
+  <VPE_Flee.recoveryMessage>{0} não está mais fugindo.</VPE_Flee.recoveryMessage>
+  <VPE_Manhunter.beginLetter>{0} está furioso!</VPE_Manhunter.beginLetter>
+  <VPE_Manhunter.label>raiva</VPE_Manhunter.label>
+  <VPE_Manhunter.recoveryMessage>{0} a raiva chegou ao fim.</VPE_Manhunter.recoveryMessage>
+  <VPE_ManhunterTerritorial.beginLetter>{0} tornou-se um caçador territorial!</VPE_ManhunterTerritorial.beginLetter>
+  <VPE_ManhunterTerritorial.label>caçador territorial</VPE_ManhunterTerritorial.label>
+  <VPE_ManhunterTerritorial.recoveryMessage>{0} os instintos de defesa territorial do país chegaram ao fim.</VPE_ManhunterTerritorial.recoveryMessage>
+  <VPE_Wander_Sad.beginLetter>{0} quebrou e está vagando em tristeza.</VPE_Wander_Sad.beginLetter>
+  <VPE_Wander_Sad.beginLetterLabel>triste caminhada</VPE_Wander_Sad.beginLetterLabel>
+  <VPE_Wander_Sad.label>triste vagando</VPE_Wander_Sad.label>
+  <VPE_Wander_Sad.recoveryMessage>{0} não está mais vagando em tristeza.</VPE_Wander_Sad.recoveryMessage>
+</LanguageData>

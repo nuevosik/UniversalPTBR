@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VBE_Ambrandy.description>Também conhecido como ambrandy “sol líquido” é um licor destilado e duas vezes fermentado do mais alto calibre. Sabe-se que os aristocratas do Mundo Brilhante enviam milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar alguém às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão artística, ao mesmo tempo que amortece a seção do cérebro que controla as emoções.\n\nAté a garrafa em si é uma beleza de se ver, quando atingida mesmo com a menor quantidade de manchas douradas claras são vistas dançando no líquido dentro, como brasas subindo de uma fogueira. Embora o Ambrandy possa ser misturado em coquetéis, os poucos que tiveram o privilégio de bebê-lo dizem que é melhor sozinho.</VBE_Ambrandy.description>
+  <VBE_Ambrandy.ingestible.ingestCommandString>Bebida {0}</VBE_Ambrandy.ingestible.ingestCommandString>
+  <VBE_Ambrandy.ingestible.ingestReportString>Beber {0}.</VBE_Ambrandy.ingestible.ingestReportString>
+  <VBE_Ambrandy.label>ambrandy</VBE_Ambrandy.label>
+  <VBE_AmbrandyDistillery.description>Uma destilaria dourada de artesanato muito delicado destinada ao envelhecimento da ambrosia em forma potável.</VBE_AmbrandyDistillery.description>
+  <VBE_AmbrandyDistillery.label>destilaria de ambrandy</VBE_AmbrandyDistillery.label>
+  <VBE_AmbrandyMush.description>A ambrosia fatiada e prensada pode ser deixada sozinha para amadurecer e se transformar em mosto para ser posteriormente destilada em um licor extremamente fino.</VBE_AmbrandyMush.description>
+  <VBE_AmbrandyMush.label>mingau de ambrosia</VBE_AmbrandyMush.label>
+  <VBE_AmbrandyMust.description>Ambrosia totalmente amadurecida, liquefeita em essencialmente um suco espesso e deixada sozinha para desenvolver bactérias para fermentação. Pronto para ser destilado em forma potável.</VBE_AmbrandyMust.description>
+  <VBE_AmbrandyMust.label>ambrandy deve</VBE_AmbrandyMust.label>
+  <VBE_Bar.description>Uma bancada um tanto ornamentada, repleta até a borda com diferentes recipientes e dispositivos para fazer uma variedade de bebidas. Uma caixa de gelo, uma série de torneiras, mangueiras e carbonatadores significam que qualquer pessoa que cuide dela pode fabricar cerveja muito mais rápido do que em uma cervejaria rudimentar.</VBE_Bar.description>
+  <VBE_Bar.label>bar</VBE_Bar.label>
+  <VBE_Cider.description>Uma bebida pouco alcoólica que pretende ser refrescante e frutada. Por mais que alguém tente, é inútil tentar ficar embriagado apenas com cidra, por isso é popular entre aqueles com vício anterior. Curiosamente, muitos o elogiam por supostas propriedades antioxidantes.</VBE_Cider.description>
+  <VBE_Cider.ingestible.ingestCommandString>Bebida {0}</VBE_Cider.ingestible.ingestCommandString>
+  <VBE_Cider.ingestible.ingestReportString>Beber {0}.</VBE_Cider.ingestible.ingestReportString>
+  <VBE_Cider.label>cidra</VBE_Cider.label>
+  <VBE_Cigarettes.description>Um pequeno tubo de papel enrolado recheado com folhas de tabaco. Oferece uma breve euforia e também estimulação mental, e é muito viciante. O odor pungente geralmente é desagradável no início, mas torna-se muito mais agradável à medida que o fumante fica mais viciado. Pode ser fabricado sem equipamento, em um local de artesanato.</VBE_Cigarettes.description>
+  <VBE_Cigarettes.ingestible.ingestCommandString>Fumaça {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+  <VBE_Cigarettes.ingestible.ingestReportString>Fumar {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+  <VBE_Cigarettes.ingestible.ingestReportStringEat>Consumindo {0}.</VBE_Cigarettes.ingestible.ingestReportStringEat>
+  <VBE_Cigarettes.label>cigarros</VBE_Cigarettes.label>
+  <VBE_Cigars.description>Uma folha gorda e seca de tabaco recheada até a borda com mais folhas de tabaco e uma folha de ouro enrolada em volta. Os charutos têm uma apresentação historicamente elegante e geralmente só são acessíveis por aqueles que se misturam regularmente com a elite do mundo brilhante. Os charutos costumam ser aromatizados com frutas cítricas ou baunilha para tornar seu sabor e odor menos acre.</VBE_Cigars.description>
+  <VBE_Cigars.ingestible.ingestCommandString>Fumaça {0}</VBE_Cigars.ingestible.ingestCommandString>
+  <VBE_Cigars.ingestible.ingestReportString>Fumar {0}.</VBE_Cigars.ingestible.ingestReportString>
+  <VBE_Cigars.ingestible.ingestReportStringEat>Consumindo {0}.</VBE_Cigars.ingestible.ingestReportStringEat>
+  <VBE_Cigars.label>charutos</VBE_Cigars.label>
+  <VBE_DoubleWhiskey.description>O resultado do envelhecimento do whisky mais uma vez num barril secundário não utilizado ou pouco utilizado. Os perfis de sabor são mais fortes e a queimação na garganta é notavelmente reduzida. O aumento do tempo de envelhecimento do whisky fino geralmente retrata um sentimento de mercantilismo e classe entre os seus consumidores.</VBE_DoubleWhiskey.description>
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Bebida {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>Beber {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+  <VBE_DoubleWhiskey.label>whisky de dupla idade</VBE_DoubleWhiskey.label>
+  <VBE_EnergyDrink.description>Uma bebida azeda e efervescente finalizada com um toque de amargor. A combinação de açúcar e cafeína significa uma explosão de energia inicial, mas com uma queda posterior. Sabor residual notável de radiação.</VBE_EnergyDrink.description>
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Bebida {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <VBE_EnergyDrink.ingestible.ingestReportString>Beber {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+  <VBE_EnergyDrink.label>bebida energética</VBE_EnergyDrink.label>
+  <VBE_FineCocktail.description>Um coquetel fino e complexo, misturado com precisão a partir de vários ingredientes.</VBE_FineCocktail.description>
+  <VBE_FineCocktail.label>coquetel fino</VBE_FineCocktail.label>
+  <VBE_Gin.description>Uma bebida espirituosa particularmente suave e incolor, aromaticamente falando esta garrafa tem um aroma a pinheiro, bem como subtis notas frutadas. Este licor tem fama de ser alegre e divertido de beber e de causar o que se conhece como “embriaguez do gin”, durante a qual se sente maior empatia e compreensão.</VBE_Gin.description>
+  <VBE_Gin.ingestible.ingestCommandString>Bebida {0}</VBE_Gin.ingestible.ingestCommandString>
+  <VBE_Gin.ingestible.ingestReportString>Beber {0}.</VBE_Gin.ingestible.ingestReportString>
+  <VBE_Gin.label>Gin</VBE_Gin.label>
+  <VBE_GinMush.description>Uma mistura límpida mas turva de frutas silvestres espremidas e grãos diversos, pronta para ser fermentada.</VBE_GinMush.description>
+  <VBE_GinMush.label>mingau de gim</VBE_GinMush.label>
+  <VBE_GinStill.description>Um dispositivo de destilação industrial totalmente metálico, destinado a purificar e fermentar o gin em uma forma potável. O design metálico significa que o envelhecimento é possível numa ampla gama de temperaturas e condições.</VBE_GinStill.description>
+  <VBE_GinStill.label>gim ainda</VBE_GinStill.label>
+  <VBE_GoJuiceStock.description>Um cubo gelatinizado de Go-Juice, que pode ser digerido em vez de injetado. Embora possa ser usado em qualquer refeição, muitas vezes é derretido em sopas ou usado como espessante em coquetéis. Fornece uma versão bastante diluída da droga sem risco de vícios.</VBE_GoJuiceStock.description>
+  <VBE_GoJuiceStock.label>caldo de suco</VBE_GoJuiceStock.label>
+  <VBE_GourmetCocktail.description>Um verdadeiro milagre da mixologia. Todos os fatores deste coquetel, desde a temperatura do copo, a escolha do instrumento de agitação e o tipo de guarnição, foram calculados com precisão para o máximo sabor e corpo possíveis.</VBE_GourmetCocktail.description>
+  <VBE_GourmetCocktail.label>coquetel gourmet</VBE_GourmetCocktail.label>
+  <VBE_HotCoffee.description>Uma bebida quente e amarga geralmente complementada com leite e açúcar. Um favorito entre estudantes e funcionários de escritório em toda a galáxia devido ao alto teor de cafeína e ao aroma agradável.</VBE_HotCoffee.description>
+  <VBE_HotCoffee.ingestible.ingestCommandString>Bebida {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+  <VBE_HotCoffee.ingestible.ingestReportString>Beber {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+  <VBE_HotCoffee.label>café</VBE_HotCoffee.label>
+  <VBE_IceCoffee.description>Um café gelado e gelado. O café gelado é preferido por muitos em climas mais quentes; curiosamente, ele também suaviza os sabores amargos e realça um sabor sutil de nozes. Assim como sua contraparte calorosa, é onipresente entre estudantes e profissionais em toda a galáxia.</VBE_IceCoffee.description>
+  <VBE_IceCoffee.ingestible.ingestCommandString>Bebida {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+  <VBE_IceCoffee.ingestible.ingestReportString>Beber {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+  <VBE_IceCoffee.label>Café gelado</VBE_IceCoffee.label>
+  <VBE_Juice.description>Sucos de frutas, azedos e picantes, podem ser feitos a partir de uma fruta singular ou de uma variedade mista - também conhecido como suco medley. Muitas bebidas podem ser preparadas ou misturadas usando sucos como base. Embora não seja mais nutritiva do que a fruta sem suco, é muito mais fácil de armazenar e transportar.</VBE_Juice.description>
+  <VBE_Juice.label>suco</VBE_Juice.label>
+  <VBE_LavishCocktail.description>Uma obra-prima da encarnação do bartender, este coquetel foi misturado com uma grande variedade de ingredientes e resfriado com perfeição antes de ser meticulosamente agitado e servido.</VBE_LavishCocktail.description>
+  <VBE_LavishCocktail.label>coquetel luxuoso</VBE_LavishCocktail.label>
+  <VBE_LuciferiumPowder.description>Um pó muito fino feito de luciferium. Geralmente colocam-se bordas de bebidas alcoólicas em bares frequentados por ricos e poderosos. Fornece uma versão bastante diluída da droga sem risco de vícios.</VBE_LuciferiumPowder.description>
+  <VBE_LuciferiumPowder.label>pó de luciferium</VBE_LuciferiumPowder.label>
+  <VBE_Plant_Coffee.description>Arbusto rasteiro de origem tropical, pontilhado por pequenos frutos avermelhados quando totalmente crescido. Os caroços dessas frutas são conhecidos sucintamente como “grãos de café” e podem ser torrados para realçar um sabor robusto e amargo, além da cafeína natural. Este gênero específico foi criado seletivamente para um amadurecimento rápido em comparação com sua contraparte antiga.</VBE_Plant_Coffee.description>
+  <VBE_Plant_Coffee.label>planta de café</VBE_Plant_Coffee.label>
+  <VBE_Plant_Tea.description>Um arbusto muito frondoso e particularmente fácil de cultivar. Desde o início da humanidade, descobriu-se que as folhas dessas plantas podem ser fervidas em uma variedade de chás terrosos e calmantes. Este gênero específico foi criado seletivamente para um amadurecimento rápido em comparação com sua contraparte antiga.</VBE_Plant_Tea.description>
+  <VBE_Plant_Tea.label>grama de chá</VBE_Plant_Tea.label>
+  <VBE_Plant_Tobacco.description>Uma planta baixa e de folhas largas que prospera em climas quentes. As folhas de tabaco podem ser secas facilmente para depois serem enroladas e fumadas, proporcionando um leve efeito estimulante.</VBE_Plant_Tobacco.description>
+  <VBE_Plant_Tobacco.label>planta de tabaco</VBE_Plant_Tobacco.label>
+  <VBE_RawCoffee.description>Os caroços dos frutos do cafeeiro, conhecidos sucintamente como “grãos de café”. Podem ser torrados para realçar um sabor robusto e amargo, além de cafeína natural.</VBE_RawCoffee.description>
+  <VBE_RawCoffee.label>grãos de café</VBE_RawCoffee.label>
+  <VBE_RawTea.description>As folhas da planta do chá. Eles podem ser fervidos em uma variedade de bebidas terrosas e calmantes.</VBE_RawTea.description>
+  <VBE_RawTea.label>folhas de chá</VBE_RawTea.label>
+  <VBE_RawTobacco.description>As folhas da planta do tabaco. As folhas de tabaco podem ser secas facilmente para depois serem enroladas e fumadas, proporcionando um leve efeito estimulante.</VBE_RawTobacco.description>
+  <VBE_RawTobacco.label>folhas de tabaco</VBE_RawTobacco.label>
+  <VBE_SimpleCocktail.description>Um coquetel simples misturado rapidamente a partir de uma dupla de ingredientes.</VBE_SimpleCocktail.description>
+  <VBE_SimpleCocktail.label>coquetel simples</VBE_SimpleCocktail.label>
+  <VBE_Soda.description>Uma bebida muito doce e semicítrica, melhor apreciada gelada. Embora não seja exatamente nutritivo, o açúcar é bem-vindo e a efervescência é bastante refrescante.</VBE_Soda.description>
+  <VBE_Soda.ingestible.ingestCommandString>Bebida {0}</VBE_Soda.ingestible.ingestCommandString>
+  <VBE_Soda.ingestible.ingestReportString>Beber {0}.</VBE_Soda.ingestible.ingestReportString>
+  <VBE_Soda.label>refrigerante</VBE_Soda.label>
+  <VBE_SodaFountain.description>Uma unidade completa de fabricação de refrigerantes. O xarope é bem misturado com água, gaseificado e depois resfriado profundamente antes de ser dispensado em frascos esterilizados.</VBE_SodaFountain.description>
+  <VBE_SodaFountain.label>fonte de refrigerante</VBE_SodaFountain.label>
+  <VBE_SodaSyrup.description>Uma mistura espessa e repugnantemente doce feita fervendo ácido cítrico e açúcares naturais - geralmente derivado direto da cana-de-açúcar ou como xarope de milho. Deve ser cortado com água e deixado carbonatar brevemente em ambiente fechado antes do consumo.</VBE_SodaSyrup.description>
+  <VBE_SodaSyrup.label>xarope de refrigerante</VBE_SodaSyrup.label>
+  <VBE_Tea.description>Uma bebida agradável e aromática preparada mergulhando um saquinho de folhas de chá em água fervente. O chá pode variar de perfis de sabor cítrico a amargo e picante. O chá tem sido uma das bebidas favoritas da humanidade desde os tempos antigos e acredita-se que possua muitas propriedades curativas naturais.</VBE_Tea.description>
+  <VBE_Tea.ingestible.ingestCommandString>Bebida {0}</VBE_Tea.ingestible.ingestCommandString>
+  <VBE_Tea.ingestible.ingestReportString>Beber {0}.</VBE_Tea.ingestible.ingestReportString>
+  <VBE_Tea.label>chá</VBE_Tea.label>
+  <VBE_Tequila.description>Um licor fermentado feito de seiva de agave, um favorito dos bandidos selvagens e turbulentos e também dos lutadores de muffalo. Inclui um lanche rico em proteínas no fundo da garrafa que se acredita trazer boa sorte. Os bebedores são conhecidos por se destacarem em combates prolongados.</VBE_Tequila.description>
+  <VBE_Tequila.ingestible.ingestCommandString>Bebida {0}</VBE_Tequila.ingestible.ingestCommandString>
+  <VBE_Tequila.ingestible.ingestReportString>Beber {0}.</VBE_Tequila.ingestible.ingestReportString>
+  <VBE_Tequila.label>tequila</VBE_Tequila.label>
+  <VBE_TequilaBarrel.description>Uma pequena unidade combinada de alambique e fermentador, perfeita para guardar atrás do balcão de um bar quente, mas não se sai muito bem na chuva.</VBE_TequilaBarrel.description>
+  <VBE_TequilaBarrel.label>barril de tequila</VBE_TequilaBarrel.label>
+  <VBE_TequilaMust.description>Uma mistura fina de suco de seiva de agave ou figo da Índia e starter de carne de inseto, pronta para ser cortada e fermentada em barril.</VBE_TequilaMust.description>
+  <VBE_TequilaMust.label>tequila deve</VBE_TequilaMust.label>
+  <VBE_UnfermentedCider.description>Cidra não fermentada com entrada em garrafa hermética. Se deixado sozinho para desenvolver as bactérias adequadas, o resultado final será uma bebida alcoólica fraca.</VBE_UnfermentedCider.description>
+  <VBE_UnfermentedCider.label>cidra não fermentada</VBE_UnfermentedCider.label>
+  <VBE_Vodka.description>Um álcool claro e quase sem sabor feito de batatas fermentadas. Embora a vodka seja potável sozinha, ela é mais conhecida por ser um agente de mistura perfeito e por causar níveis absurdamente altos de ousadia naqueles que optam por bebê-la.</VBE_Vodka.description>
+  <VBE_Vodka.ingestible.ingestCommandString>Bebida {0}</VBE_Vodka.ingestible.ingestCommandString>
+  <VBE_Vodka.ingestible.ingestReportString>Beber {0}.</VBE_Vodka.ingestible.ingestReportString>
+  <VBE_Vodka.label>vodka</VBE_Vodka.label>
+  <VBE_VodkaDrum.description>Um recipiente barato destinado ao armazenamento de água adaptado para ser hermético para fermentação de curto prazo.</VBE_VodkaDrum.description>
+  <VBE_VodkaDrum.label>tambor de vodca</VBE_VodkaDrum.label>
+  <VBE_VodkaMash.description>Um purê espesso e amiláceo de batata crua e uma entrada, pronto para ser fermentado.</VBE_VodkaMash.description>
+  <VBE_VodkaMash.label>purê de vodca</VBE_VodkaMash.label>
+  <VBE_WakeUpPowder.description>Uma forma de despertar triturada e em pó, surpreendentemente doce e às vezes usada como substituto do açúcar em sobremesas ou dissolvida no café expresso matinal. Fornece uma versão bastante diluída da droga sem risco de vícios.</VBE_WakeUpPowder.description>
+  <VBE_WakeUpPowder.label>pó de despertar</VBE_WakeUpPowder.label>
+  <VBE_Whiskey.description>Um potente licor destilado de grãos fermentados. Os sabores do barril de envelhecimento tendem a permear mais esta bebida espirituosa do que outras. Um sabor amadeirado, quase esfumaçado, é pronunciado por toda parte. Uísques simples são estereotipadamente associados a trabalhadores manuais rudes e trabalhadores árduos, uma visão comum em mundos a vapor por toda a galáxia.</VBE_Whiskey.description>
+  <VBE_Whiskey.ingestible.ingestCommandString>Bebida {0}</VBE_Whiskey.ingestible.ingestCommandString>
+  <VBE_Whiskey.ingestible.ingestReportString>Beber {0}.</VBE_Whiskey.ingestible.ingestReportString>
+  <VBE_Whiskey.label>uísque</VBE_Whiskey.label>
+  <VBE_WhiskeyCask.description>Um enorme barril destinado a envelhecer um grande volume de whisky de uma só vez. Sabores amadeirados naturais são transmitidos à mistura à medida que o próprio barril absorve uma porção do líquido durante o processo de fermentação. Qualquer luz solar (ou luz acima de 50% de brilho) que atinja o barril pode retardar o processo de fermentação ou até mesmo arruinar todo o lote.</VBE_WhiskeyCask.description>
+  <VBE_WhiskeyCask.label>barril de uísque</VBE_WhiskeyCask.label>
+  <VBE_WhiskeyMash.description>Uma mistura rica em amido e principalmente líquida com pedaços de polpa espalhados por toda parte. Pronto para envelhecer.</VBE_WhiskeyMash.description>
+  <VBE_WhiskeyMash.label>purê de uísque</VBE_WhiskeyMash.label>
+</LanguageData>

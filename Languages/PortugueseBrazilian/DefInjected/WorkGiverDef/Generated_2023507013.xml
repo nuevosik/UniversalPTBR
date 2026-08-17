@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <PS_BringToProcessor.gerund>trazendo ingredientes para</PS_BringToProcessor.gerund>
+  <PS_BringToProcessor.label>leve o ingrediente ao processador</PS_BringToProcessor.label>
+  <PS_BringToProcessor.verb>trazer ingredientes para</PS_BringToProcessor.verb>
+  <PS_DrainOutOfStorage.gerund>drenando do armazenamento</PS_DrainOutOfStorage.gerund>
+  <PS_DrainOutOfStorage.label>drenar do armazenamento</PS_DrainOutOfStorage.label>
+  <PS_DrainOutOfStorage.verb>drenar do armazenamento</PS_DrainOutOfStorage.verb>
+  <PS_FillStorage.gerund>armazenamento de enchimento</PS_FillStorage.gerund>
+  <PS_FillStorage.label>preencher armazenamento</PS_FillStorage.label>
+  <PS_FillStorage.verb>preencher armazenamento</PS_FillStorage.verb>
+  <PS_PickUpProcessor.gerund>pegando o resultado de</PS_PickUpProcessor.gerund>
+  <PS_PickUpProcessor.label>pegar o resultado do processador</PS_PickUpProcessor.label>
+  <PS_PickUpProcessor.verb>pegar o resultado de</PS_PickUpProcessor.verb>
+  <VEF_AnimalResource.gerund>coletando recursos animais de</VEF_AnimalResource.gerund>
+  <VEF_AnimalResource.label>reunir recursos animais</VEF_AnimalResource.label>
+  <VEF_AnimalResource.verb>coletar recursos animais de</VEF_AnimalResource.verb>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.label>entregar recursos para projetos</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+  <VEF_Art_ConstructDeliverResourcesToFrames.label>entregar recursos aos frames</VEF_Art_ConstructDeliverResourcesToFrames.label>
+  <VEF_Art_ConstructFinishFrames.label>construir quadros colocados</VEF_Art_ConstructFinishFrames.label>
+  <VEF_DestroyItems.gerund>destruindo itens</VEF_DestroyItems.gerund>
+  <VEF_DestroyItems.label>destruir itens</VEF_DestroyItems.label>
+  <VEF_DestroyItems.verb>destruir itens</VEF_DestroyItems.verb>
+  <VEF_ExtractFlower.gerund>extraindo</VEF_ExtractFlower.gerund>
+  <VEF_ExtractFlower.label>extrair flor</VEF_ExtractFlower.label>
+  <VEF_ExtractFlower.verb>extrair</VEF_ExtractFlower.verb>
+  <VEF_RefuelSecondary.gerund>reabastecimento</VEF_RefuelSecondary.gerund>
+  <VEF_RefuelSecondary.label>reabastecer munição</VEF_RefuelSecondary.label>
+  <VEF_RefuelSecondary.verb>reabastecer</VEF_RefuelSecondary.verb>
+  <VEF_RemoveWeeds.gerund>removendo ervas daninhas</VEF_RemoveWeeds.gerund>
+  <VEF_RemoveWeeds.label>remover ervas daninhas</VEF_RemoveWeeds.label>
+  <VEF_RemoveWeeds.verb>remover ervas daninhas</VEF_RemoveWeeds.verb>
+  <VFE_Loot.gerund>saque</VFE_Loot.gerund>
+  <VFE_Loot.label>saquear objetos</VFE_Loot.label>
+  <VFE_Loot.verb>saque</VFE_Loot.verb>
+  <VFE_StudyBuilding.gerund>estudo</VFE_StudyBuilding.gerund>
+  <VFE_StudyBuilding.label>estudar um prédio</VFE_StudyBuilding.label>
+  <VFE_StudyBuilding.verb>estudar</VFE_StudyBuilding.verb>
+</LanguageData>

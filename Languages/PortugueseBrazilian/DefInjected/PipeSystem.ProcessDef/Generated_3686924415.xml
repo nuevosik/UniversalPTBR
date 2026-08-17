@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEFactory_AlloyBronze.description>Use calor intenso para fundir e combinar aço com minerais de um pedaço de pedra para forjar uma liga de bronze.</VFEFactory_AlloyBronze.description>
+  <VFEFactory_AlloyBronze.label>Liga de bronze a partir de pedaços de aço e pedra</VFEFactory_AlloyBronze.label>
+  <VFEFactory_AlloyBronze.labelOverride>Liga de bronze a partir de pedaços de aço e pedra</VFEFactory_AlloyBronze.labelOverride>
+  <VFEFactory_AlloyGravlite.description>Use calor intenso para combinar plasteel e vacstone, forjando a liga ultraleve de gravlita.</VFEFactory_AlloyGravlite.description>
+  <VFEFactory_AlloyGravlite.label>Gravlite de liga de vacstone e plasteel</VFEFactory_AlloyGravlite.label>
+  <VFEFactory_AlloyGravlite.labelOverride>Gravlite de liga de vacstone e plasteel</VFEFactory_AlloyGravlite.labelOverride>
+  <VFEFactory_AlloyPlasteel.description>Use alto calor e pressão para ligar aço, combustível químico e ouro em plasteel puro.</VFEFactory_AlloyPlasteel.description>
+  <VFEFactory_AlloyPlasteel.label>Plasteel de liga de aço, chemfuel e ouro</VFEFactory_AlloyPlasteel.label>
+  <VFEFactory_AlloyPlasteel.labelOverride>Plasteel de liga de aço, chemfuel e ouro</VFEFactory_AlloyPlasteel.labelOverride>
+  <VFEFactory_AlloySkySteel.description>Use calor intenso para fundir e combine aço com gel azul para forjar aço celeste.</VFEFactory_AlloySkySteel.description>
+  <VFEFactory_AlloySkySteel.label>Liga de aço céu</VFEFactory_AlloySkySteel.label>
+  <VFEFactory_AlloySkySteel.labelOverride>Liga de aço céu</VFEFactory_AlloySkySteel.labelOverride>
+  <VFEFactory_AlloyStainlessSteel.description>Use calor intenso para fundir e combinar aço com impurezas de urânio para forjar aço inoxidável.</VFEFactory_AlloyStainlessSteel.description>
+  <VFEFactory_AlloyStainlessSteel.label>Liga de aço inoxidável</VFEFactory_AlloyStainlessSteel.label>
+  <VFEFactory_AlloyStainlessSteel.labelOverride>Liga de aço inoxidável</VFEFactory_AlloyStainlessSteel.labelOverride>
+  <VFEFactory_AssembleAdvancedComponent.description>Monte um componente avançado.</VFEFactory_AssembleAdvancedComponent.description>
+  <VFEFactory_AssembleAdvancedComponent.label>Faça um componente avançado</VFEFactory_AssembleAdvancedComponent.label>
+  <VFEFactory_AssembleAdvancedComponent.labelOverride>Faça um componente avançado</VFEFactory_AssembleAdvancedComponent.labelOverride>
+  <VFEFactory_AssembleComponent.description>Monte um componente.</VFEFactory_AssembleComponent.description>
+  <VFEFactory_AssembleComponent.label>Faça um componente</VFEFactory_AssembleComponent.label>
+  <VFEFactory_AssembleComponent.labelOverride>Faça um componente</VFEFactory_AssembleComponent.labelOverride>
+  <VFEFactory_AstrofuelFromChemfuel.description>Faça um lote de astrocombustível de alta qualidade refinando o combustível químico.</VFEFactory_AstrofuelFromChemfuel.description>
+  <VFEFactory_AstrofuelFromChemfuel.label>Faça astrocombustível a partir de chemfuel</VFEFactory_AstrofuelFromChemfuel.label>
+  <VFEFactory_AstrofuelFromChemfuel.labelOverride>Faça astrocombustível a partir de chemfuel</VFEFactory_AstrofuelFromChemfuel.labelOverride>
+  <VFEFactory_BlueGel_To_Hexagel.description>Faça um cubo cristalizado de hexagel comprimindo o gel azul sob alta pressão.</VFEFactory_BlueGel_To_Hexagel.description>
+  <VFEFactory_BlueGel_To_Hexagel.label>Comprimir gel azul em hexagel</VFEFactory_BlueGel_To_Hexagel.label>
+  <VFEFactory_BrewPsychiteTea.description>Prepare um lote de chá psiquita com folhas psicóides.</VFEFactory_BrewPsychiteTea.description>
+  <VFEFactory_BrewPsychiteTea.label>Prepare um lote de chá de psiquita</VFEFactory_BrewPsychiteTea.label>
+  <VFEFactory_BrewPsychiteTea.labelOverride>Prepare um lote de chá de psiquita</VFEFactory_BrewPsychiteTea.labelOverride>
+  <VFEFactory_BurnApparel.description>Queime roupas indesejadas para destruí-las completamente.</VFEFactory_BurnApparel.description>
+  <VFEFactory_BurnApparel.label>Queime roupas</VFEFactory_BurnApparel.label>
+  <VFEFactory_BurnApparel.labelOverride>Queime roupas</VFEFactory_BurnApparel.labelOverride>
+  <VFEFactory_BurnDrug.description>Queime drogas indesejadas para destruí-las completamente.</VFEFactory_BurnDrug.description>
+  <VFEFactory_BurnDrug.label>Queimar drogas</VFEFactory_BurnDrug.label>
+  <VFEFactory_BurnDrug.labelOverride>Queimar drogas</VFEFactory_BurnDrug.labelOverride>
+  <VFEFactory_BurnWeapon.description>Queime uma arma indesejada para destruí-la completamente.</VFEFactory_BurnWeapon.description>
+  <VFEFactory_BurnWeapon.label>Arma queimada</VFEFactory_BurnWeapon.label>
+  <VFEFactory_BurnWeapon.labelOverride>Arma queimada</VFEFactory_BurnWeapon.labelOverride>
+  <VFEFactory_CreateObsidian.description>Use calor extremo e processos de resfriamento rápido para transformar pedaços de pedra não refinados em obsidiana.</VFEFactory_CreateObsidian.description>
+  <VFEFactory_CreateObsidian.label>Crie obsidiana a partir de pedaços de pedra</VFEFactory_CreateObsidian.label>
+  <VFEFactory_CreateObsidian.labelOverride>Crie obsidiana a partir de pedaços de pedra</VFEFactory_CreateObsidian.labelOverride>
+  <VFEFactory_CremateAnimal.description>Crema o cadáver de um animal para destruí-lo completamente.</VFEFactory_CremateAnimal.description>
+  <VFEFactory_CremateAnimal.label>Animal cremado</VFEFactory_CremateAnimal.label>
+  <VFEFactory_CremateAnimal.labelOverride>Animal cremado</VFEFactory_CremateAnimal.labelOverride>
+  <VFEFactory_CremateEntities.description>Cremar o cadáver de uma entidade para destruí-la completamente.</VFEFactory_CremateEntities.description>
+  <VFEFactory_CremateEntities.label>Cremar entidade</VFEFactory_CremateEntities.label>
+  <VFEFactory_CremateEntities.labelOverride>Cremar entidade</VFEFactory_CremateEntities.labelOverride>
+  <VFEFactory_CremateHumanlike.description>Cremar um cadáver humano para destruí-lo completamente.</VFEFactory_CremateHumanlike.description>
+  <VFEFactory_CremateHumanlike.label>Cremar humano</VFEFactory_CremateHumanlike.label>
+  <VFEFactory_CremateHumanlike.labelOverride>Cremar humano</VFEFactory_CremateHumanlike.labelOverride>
+  <VFEFactory_CremateHumanoidHybrids.description>Crema o cadáver de um híbrido humanóide para destruí-lo completamente.</VFEFactory_CremateHumanoidHybrids.description>
+  <VFEFactory_CremateHumanoidHybrids.label>Cremar híbrido humanóide</VFEFactory_CremateHumanoidHybrids.label>
+  <VFEFactory_CremateHumanoidHybrids.labelOverride>Cremar híbrido humanóide</VFEFactory_CremateHumanoidHybrids.labelOverride>
+  <VFEFactory_CremateHybrids.description>Crema o cadáver de um modelo ou híbrido para destruí-lo completamente.</VFEFactory_CremateHybrids.description>
+  <VFEFactory_CremateHybrids.label>Cremar modelo ou híbrido</VFEFactory_CremateHybrids.label>
+  <VFEFactory_CremateHybrids.labelOverride>Cremar modelo ou híbrido</VFEFactory_CremateHybrids.labelOverride>
+  <VFEFactory_DigForCragstoneChunk.description>Cave para colher um pedaço de pedra rochosa.</VFEFactory_DigForCragstoneChunk.description>
+  <VFEFactory_DigForCragstoneChunk.label>Cave para colher um pedaço de pedra rochosa</VFEFactory_DigForCragstoneChunk.label>
+  <VFEFactory_DigForGraniteChunk.description>Cave para colher um pedaço de granito.</VFEFactory_DigForGraniteChunk.description>
+  <VFEFactory_DigForGraniteChunk.label>Cave para colher um pedaço de granito</VFEFactory_DigForGraniteChunk.label>
+  <VFEFactory_DigForLimestoneChunk.description>Cave para colher um pedaço de calcário.</VFEFactory_DigForLimestoneChunk.description>
+  <VFEFactory_DigForLimestoneChunk.label>Cave para colher um pedaço de calcário</VFEFactory_DigForLimestoneChunk.label>
+  <VFEFactory_DigForMarbleChunk.description>Cave para colher um pedaço de mármore.</VFEFactory_DigForMarbleChunk.description>
+  <VFEFactory_DigForMarbleChunk.label>Cave para colher um pedaço de mármore</VFEFactory_DigForMarbleChunk.label>
+  <VFEFactory_DigForMetals.description>Procure metais aleatórios. O tipo de metal extraído depende da profunda semelhança do recurso. O valor depende do rendimento normal desse depósito.</VFEFactory_DigForMetals.description>
+  <VFEFactory_DigForMetals.label>Cavar em busca de metais</VFEFactory_DigForMetals.label>
+  <VFEFactory_DigForMetals.labelOverride>Cavar em busca de metais</VFEFactory_DigForMetals.labelOverride>
+  <VFEFactory_DigForMudstoneChunk.description>Cave para colher um pedaço de lamito.</VFEFactory_DigForMudstoneChunk.description>
+  <VFEFactory_DigForMudstoneChunk.label>Cave para colher um pedaço de lamito</VFEFactory_DigForMudstoneChunk.label>
+  <VFEFactory_DigForOnyxglassChunk.description>Cave para colher um pedaço de vidro ônix.</VFEFactory_DigForOnyxglassChunk.description>
+  <VFEFactory_DigForOnyxglassChunk.label>Cave para colher um pedaço de vidro de ônix</VFEFactory_DigForOnyxglassChunk.label>
+  <VFEFactory_DigForRoseQuartzChunk.description>Cave para colher um pedaço de quartzo rosa.</VFEFactory_DigForRoseQuartzChunk.description>
+  <VFEFactory_DigForRoseQuartzChunk.label>Cave para colher um pedaço de quartzo rosa</VFEFactory_DigForRoseQuartzChunk.label>
+  <VFEFactory_DigForSandstoneChunk.description>Cave para colher um pedaço de arenito.</VFEFactory_DigForSandstoneChunk.description>
+  <VFEFactory_DigForSandstoneChunk.label>Cave para colher um pedaço de arenito</VFEFactory_DigForSandstoneChunk.label>
+  <VFEFactory_DigForSlateChunk.description>Cave para colher um pedaço de ardósia.</VFEFactory_DigForSlateChunk.description>
+  <VFEFactory_DigForSlateChunk.label>Cave para colher um pedaço de ardósia</VFEFactory_DigForSlateChunk.label>
+  <VFEFactory_DigForSlimeStoneChunk.description>Cave para colher um pedaço de limo endurecido.</VFEFactory_DigForSlimeStoneChunk.description>
+  <VFEFactory_DigForSlimeStoneChunk.label>Cave para colher um pedaço de limo endurecido</VFEFactory_DigForSlimeStoneChunk.label>
+  <VFEFactory_MakeArmorPiercingShells.description>Combine aço e combustível químico para criar projéteis perfurantes.</VFEFactory_MakeArmorPiercingShells.description>
+  <VFEFactory_MakeArmorPiercingShells.label>Faça projéteis perfurantes</VFEFactory_MakeArmorPiercingShells.label>
+  <VFEFactory_MakeBabyFood.description>Faça comida para bebês, um purê vegetariano nutricionalmente balanceado para bebês. Embora seja fácil de fazer em grandes quantidades, apenas os bebês apreciam seu sabor suave e textura pastosa.</VFEFactory_MakeBabyFood.description>
+  <VFEFactory_MakeBabyFood.label>Faça comida para bebê</VFEFactory_MakeBabyFood.label>
+  <VFEFactory_MakeBabyFood.labelOverride>Faça comida para bebê</VFEFactory_MakeBabyFood.labelOverride>
+  <VFEFactory_MakeBeerFromHops.description>Amasse rapidamente o lúpulo no mosto e depois fermente em cerveja usando processos automatizados.</VFEFactory_MakeBeerFromHops.description>
+  <VFEFactory_MakeBeerFromHops.label>Faça um lote de cerveja com lúpulo</VFEFactory_MakeBeerFromHops.label>
+  <VFEFactory_MakeBeerFromHops.labelOverride>Faça um lote de cerveja com lúpulo</VFEFactory_MakeBeerFromHops.labelOverride>
+  <VFEFactory_MakeCannedEggs.description>Armazene os ovos cozidos com segurança em uma lata de aço. Enlatar alimentos prolonga sua vida útil quase indefinidamente. Serão produzidas 20 latas para cada alimento consumido, então, por exemplo, 4 ovos de galinha e um aço produzirão 20 latas.</VFEFactory_MakeCannedEggs.description>
+  <VFEFactory_MakeCannedEggs.label>Faça ovos enlatados</VFEFactory_MakeCannedEggs.label>
+  <VFEFactory_MakeCannedEggs.labelOverride>Faça ovos enlatados</VFEFactory_MakeCannedEggs.labelOverride>
+  <VFEFactory_MakeCannedFish.description>Armazene o peixe com segurança em uma lata de aço. Enlatar alimentos prolonga sua vida útil quase indefinidamente. Serão produzidas 20 latas para cada alimento consumido, então, por exemplo, 4 salmão e um aço produzirão 20 latas.</VFEFactory_MakeCannedFish.description>
+  <VFEFactory_MakeCannedFish.label>Faça peixe enlatado</VFEFactory_MakeCannedFish.label>
+  <VFEFactory_MakeCannedFish.labelOverride>Faça peixe enlatado</VFEFactory_MakeCannedFish.labelOverride>
+  <VFEFactory_MakeCannedFruit.description>Armazene frutas com segurança em uma lata de aço. Enlatar alimentos prolonga sua vida útil quase indefinidamente. As frutas em conserva podem ser utilizadas na produção de sobremesas. Serão produzidas 20 latas para cada alimento consumido, então, por exemplo, 20 maçãs mais um aço produzirão 20 latas.</VFEFactory_MakeCannedFruit.description>
+  <VFEFactory_MakeCannedFruit.label>Faça frutas enlatadas</VFEFactory_MakeCannedFruit.label>
+  <VFEFactory_MakeCannedFruit.labelOverride>Faça frutas enlatadas</VFEFactory_MakeCannedFruit.labelOverride>
+  <VFEFactory_MakeCannedMeat.description>Armazene com segurança a carne crua em uma lata de aço. Canning estende sua vida útil quase indefinidamente. Serão produzidas 20 latas para cada alimento consumido, então 20 carnes mais um aço produzirão 20 latas.</VFEFactory_MakeCannedMeat.description>
+  <VFEFactory_MakeCannedMeat.label>Faça carne enlatada</VFEFactory_MakeCannedMeat.label>
+  <VFEFactory_MakeCannedMeat.labelOverride>Faça carne enlatada</VFEFactory_MakeCannedMeat.labelOverride>
+  <VFEFactory_MakeCannedProduce.description>Armazene vegetais com segurança em uma lata de aço. Enlatar alimentos prolonga sua vida útil quase indefinidamente. Serão produzidas 20 latas para cada alimento consumido, então, por exemplo, 20 milho mais um aço produzirão 20 latas.</VFEFactory_MakeCannedProduce.description>
+  <VFEFactory_MakeCannedProduce.label>Faça produtos enlatados</VFEFactory_MakeCannedProduce.label>
+  <VFEFactory_MakeCannedProduce.labelOverride>Faça produtos enlatados</VFEFactory_MakeCannedProduce.labelOverride>
+  <VFEFactory_MakeCannedSoup.description>Armazene com segurança a sopa pré-cozida em latas de aço. Enlatar alimentos prolonga sua vida útil quase indefinidamente. A sopa enlatada não traz os benefícios de ser fina ou luxuosa.</VFEFactory_MakeCannedSoup.description>
+  <VFEFactory_MakeCannedSoup.label>Faça sopa enlatada</VFEFactory_MakeCannedSoup.label>
+  <VFEFactory_MakeCannedSoup.labelOverride>Faça sopa enlatada</VFEFactory_MakeCannedSoup.labelOverride>
+  <VFEFactory_MakeChemfuelFromCanola.description>Faça um lote de combustível químico extraindo biocombustível de flores de canola.</VFEFactory_MakeChemfuelFromCanola.description>
+  <VFEFactory_MakeChemfuelFromCanola.label>Faça combustível químico com canola</VFEFactory_MakeChemfuelFromCanola.label>
+  <VFEFactory_MakeChemfuelFromCanola.labelOverride>Faça combustível químico com canola</VFEFactory_MakeChemfuelFromCanola.labelOverride>
+  <VFEFactory_MakeChemfuelFromMushroomWood.description>Faça um lote de combustível químico extraindo e condensando o gás dos talos dos cogumelos.</VFEFactory_MakeChemfuelFromMushroomWood.description>
+  <VFEFactory_MakeChemfuelFromMushroomWood.label>Faça 25 chemfuel com 50 talos de cogumelo</VFEFactory_MakeChemfuelFromMushroomWood.label>
+  <VFEFactory_MakeChemfuelFromMushroomWood.labelOverride>Faça chemfuel com talos de cogumelo</VFEFactory_MakeChemfuelFromMushroomWood.labelOverride>
+  <VFEFactory_MakeChemfuelFromOrganics.description>Faça um lote de combustível químico extraindo biocombustível de matérias-primas orgânicas. O processo consumirá 30 itens alimentares e produzirá 1 combustível químico para cada 0,1 nutriente consumido. Por exemplo, 30 batatas produzirão 15 combustíveis químicos, enquanto 30 refeições simples (0,9 nutrição) produzirão 270 combustíveis químicos.</VFEFactory_MakeChemfuelFromOrganics.description>
+  <VFEFactory_MakeChemfuelFromOrganics.label>Faça chemfuel a partir de produtos orgânicos</VFEFactory_MakeChemfuelFromOrganics.label>
+  <VFEFactory_MakeChemfuelFromOrganics.labelOverride>Faça chemfuel a partir de produtos orgânicos</VFEFactory_MakeChemfuelFromOrganics.labelOverride>
+  <VFEFactory_MakeChemfuelFromRedWood.description>Faça um lote de combustível químico extraindo e condensando gás de madeira de toras de madeira vermelha.</VFEFactory_MakeChemfuelFromRedWood.description>
+  <VFEFactory_MakeChemfuelFromRedWood.label>Faça 25 chemfuel com 50 toras de madeira vermelha</VFEFactory_MakeChemfuelFromRedWood.label>
+  <VFEFactory_MakeChemfuelFromRedWood.labelOverride>Faça chemfuel com toras de madeira vermelha</VFEFactory_MakeChemfuelFromRedWood.labelOverride>
+  <VFEFactory_MakeChemfuelFromWood.description>Faça um lote de combustível químico extraindo e condensando o gás de madeira das toras.</VFEFactory_MakeChemfuelFromWood.description>
+  <VFEFactory_MakeChemfuelFromWood.label>Faça combustível químico a partir de madeira</VFEFactory_MakeChemfuelFromWood.label>
+  <VFEFactory_MakeChemfuelFromWood.labelOverride>Faça combustível químico a partir de madeira</VFEFactory_MakeChemfuelFromWood.labelOverride>
+  <VFEFactory_MakeChocoLiquor.description>Fermente o chocolate em licor de chocolate usando processos automatizados.</VFEFactory_MakeChocoLiquor.description>
+  <VFEFactory_MakeChocoLiquor.label>Faça um lote de licor de chocolate</VFEFactory_MakeChocoLiquor.label>
+  <VFEFactory_MakeChocoLiquor.labelOverride>Faça um lote de licor de chocolate</VFEFactory_MakeChocoLiquor.labelOverride>
+  <VFEFactory_MakeClusterShells.description>Combine aço e combustível químico para criar conchas agrupadas.</VFEFactory_MakeClusterShells.description>
+  <VFEFactory_MakeClusterShells.label>Faça conchas de cluster</VFEFactory_MakeClusterShells.label>
+  <VFEFactory_MakeCoffeeLiquor.description>Fermente o café em licor de café usando processos automatizados.</VFEFactory_MakeCoffeeLiquor.description>
+  <VFEFactory_MakeCoffeeLiquor.label>Faça um lote de licor de café</VFEFactory_MakeCoffeeLiquor.label>
+  <VFEFactory_MakeCoffeeLiquor.labelOverride>Faça um lote de licor de café</VFEFactory_MakeCoffeeLiquor.labelOverride>
+  <VFEFactory_MakeDeadlifeShells.description>Use bioferrita para criar conchas de vida morta.</VFEFactory_MakeDeadlifeShells.description>
+  <VFEFactory_MakeDeadlifeShells.label>Faça conchas de vida morta</VFEFactory_MakeDeadlifeShells.label>
+  <VFEFactory_MakeEMPShells.description>Combine aço e componentes para criar conchas EMP.</VFEFactory_MakeEMPShells.description>
+  <VFEFactory_MakeEMPShells.label>Faça projéteis EMP</VFEFactory_MakeEMPShells.label>
+  <VFEFactory_MakeFirefoamShells.description>Use aço para criar conchas de espuma.</VFEFactory_MakeFirefoamShells.description>
+  <VFEFactory_MakeFirefoamShells.label>Faça conchas de espuma</VFEFactory_MakeFirefoamShells.label>
+  <VFEFactory_MakeGinFromBerries.description>Amasse rapidamente frutas cruas em mingau de gin e depois fermente em gin usando processos automatizados.</VFEFactory_MakeGinFromBerries.description>
+  <VFEFactory_MakeGinFromBerries.label>Faça um lote de gim com frutas cruas</VFEFactory_MakeGinFromBerries.label>
+  <VFEFactory_MakeGinFromBerries.labelOverride>Faça um lote de gim com frutas cruas</VFEFactory_MakeGinFromBerries.labelOverride>
+  <VFEFactory_MakeHighExplosiveShells.description>Combine aço e combustível químico para criar projéteis altamente explosivos.</VFEFactory_MakeHighExplosiveShells.description>
+  <VFEFactory_MakeHighExplosiveShells.label>Faça projéteis altamente explosivos</VFEFactory_MakeHighExplosiveShells.label>
+  <VFEFactory_MakeIncendiaryShells.description>Combine aço e combustível químico para criar projéteis incendiários.</VFEFactory_MakeIncendiaryShells.description>
+  <VFEFactory_MakeIncendiaryShells.label>Faça projéteis incendiários</VFEFactory_MakeIncendiaryShells.label>
+  <VFEFactory_MakeKibble.description>Faça ração animal combinando carne crua e plantas. Serão produzidos 24 ração para cada alimento consumido, então 15 vegetais e 15 carnes produzirão 36 ração.</VFEFactory_MakeKibble.description>
+  <VFEFactory_MakeKibble.label>Faça ração</VFEFactory_MakeKibble.label>
+  <VFEFactory_MakeKibble.labelOverride>Faça ração</VFEFactory_MakeKibble.labelOverride>
+  <VFEFactory_MakeKibbleFromHay.description>Faça ração animal combinando carne crua e feno. Sempre produzirá 36 ração.</VFEFactory_MakeKibbleFromHay.description>
+  <VFEFactory_MakeKibbleFromHay.label>Faça ração com feno</VFEFactory_MakeKibbleFromHay.label>
+  <VFEFactory_MakeKibbleFromHay.labelOverride>Faça ração com feno</VFEFactory_MakeKibbleFromHay.labelOverride>
+  <VFEFactory_MakeMassProducedMeal.description>Cozinhe refeições simples e produzidas em massa a partir de uma combinação de ingredientes de carne e vegetais. Um total de 2 refeições resultará em 4 refeições produzidas em massa.</VFEFactory_MakeMassProducedMeal.description>
+  <VFEFactory_MakeMassProducedMeal.label>Faça refeições produzidas em massa</VFEFactory_MakeMassProducedMeal.label>
+  <VFEFactory_MakeMassProducedMeal.labelOverride>Faça refeições produzidas em massa</VFEFactory_MakeMassProducedMeal.labelOverride>
+  <VFEFactory_MakeMedicine.description>Faça um lote de remédio com pano, fitoterápico e neutroamina.</VFEFactory_MakeMedicine.description>
+  <VFEFactory_MakeMedicine.label>Faça um lote de remédio</VFEFactory_MakeMedicine.label>
+  <VFEFactory_MakeMedicine.labelOverride>Faça um lote de remédio</VFEFactory_MakeMedicine.labelOverride>
+  <VFEFactory_MakePatchleather.description>Faça patchleather com couro inserido.</VFEFactory_MakePatchleather.description>
+  <VFEFactory_MakePatchleather.label>Faça patchleather</VFEFactory_MakePatchleather.label>
+  <VFEFactory_MakePemmican.description>Faça pemmican, uma combinação preservada de carne e alimentos vegetais. Não tem um sabor incrível, mas dura muito tempo sem refrigeração. Serão produzidos 32 pemmicanos para cada alimento consumido, então 5 vegetais e 5 carnes produzirão 16 pemmicanos.</VFEFactory_MakePemmican.description>
+  <VFEFactory_MakePemmican.label>Faça pemmican</VFEFactory_MakePemmican.label>
+  <VFEFactory_MakePemmican.labelOverride>Faça pemmican</VFEFactory_MakePemmican.labelOverride>
+  <VFEFactory_MakePumpkinCoffee.description>Faça café com especiarias de abóbora, um café genérico barato, produzido em massa, misturado com uma variedade de especiarias, estranhamente excluindo qualquer abóbora real.</VFEFactory_MakePumpkinCoffee.description>
+  <VFEFactory_MakePumpkinCoffee.label>Faça café com especiarias de abóbora</VFEFactory_MakePumpkinCoffee.label>
+  <VFEFactory_MakePumpkinCoffee.labelOverride>Faça café com especiarias de abóbora</VFEFactory_MakePumpkinCoffee.labelOverride>
+  <VFEFactory_MakeSakeFromRice.description>Amasse rapidamente o arroz cru e depois fermente-o em saquê usando processos automatizados.</VFEFactory_MakeSakeFromRice.description>
+  <VFEFactory_MakeSakeFromRice.label>Faça um lote de saquê com arroz cru</VFEFactory_MakeSakeFromRice.label>
+  <VFEFactory_MakeSakeFromRice.labelOverride>Faça um lote de saquê com arroz cru</VFEFactory_MakeSakeFromRice.labelOverride>
+  <VFEFactory_MakeShrapnelShells.description>Use aço para criar projéteis de estilhaços.</VFEFactory_MakeShrapnelShells.description>
+  <VFEFactory_MakeShrapnelShells.label>Faça conchas de estilhaços</VFEFactory_MakeShrapnelShells.label>
+  <VFEFactory_MakeSimpleSoup.description>Prepare uma sopa simples e crua, feita rapidamente com alguns ingredientes.</VFEFactory_MakeSimpleSoup.description>
+  <VFEFactory_MakeSimpleSoup.label>Prepare uma sopa simples</VFEFactory_MakeSimpleSoup.label>
+  <VFEFactory_MakeSimpleSoup.labelOverride>Prepare uma sopa simples</VFEFactory_MakeSimpleSoup.labelOverride>
+  <VFEFactory_MakeSmokeShells.description>Use aço para criar conchas de fumaça.</VFEFactory_MakeSmokeShells.description>
+  <VFEFactory_MakeSmokeShells.label>Faça conchas de fumaça</VFEFactory_MakeSmokeShells.label>
+  <VFEFactory_MakeSoda.description>Faça xarope de refrigerante diluindo suco de fruta concentrado e infundindo carbonatação.</VFEFactory_MakeSoda.description>
+  <VFEFactory_MakeSoda.label>Faça um lote de refrigerante com suco</VFEFactory_MakeSoda.label>
+  <VFEFactory_MakeSoda.labelOverride>Faça um lote de refrigerante com suco</VFEFactory_MakeSoda.labelOverride>
+  <VFEFactory_MakeStoneBlocks.description>Corte pedaços de rocha em blocos de pedra utilizáveis.</VFEFactory_MakeStoneBlocks.description>
+  <VFEFactory_MakeStoneBlocks.label>Corte 20 blocos de um pedaço de pedra</VFEFactory_MakeStoneBlocks.label>
+  <VFEFactory_MakeStoneBlocks.labelOverride>Faça quaisquer blocos de pedra</VFEFactory_MakeStoneBlocks.labelOverride>
+  <VFEFactory_MakeSurvivalMeal.description>Prepare refeições de sobrevivência embaladas com uma combinação de ingredientes de carne e plantas. Grande parte dos ingredientes é desperdiçada no processo de preservação. Um total de 2,4 nutrientes perfaz 4 refeições de sobrevivência.</VFEFactory_MakeSurvivalMeal.description>
+  <VFEFactory_MakeSurvivalMeal.label>Faça refeição de sobrevivência</VFEFactory_MakeSurvivalMeal.label>
+  <VFEFactory_MakeSurvivalMeal.labelOverride>Faça refeição de sobrevivência</VFEFactory_MakeSurvivalMeal.labelOverride>
+  <VFEFactory_MakeSynthread.description>Tecer fibra sintética de tecido e fibras sintéticas.</VFEFactory_MakeSynthread.description>
+  <VFEFactory_MakeSynthread.label>Faça fibra sintética</VFEFactory_MakeSynthread.label>
+  <VFEFactory_MakeTarShells.description>Combine aço e asfalto para criar cascas de alcatrão.</VFEFactory_MakeTarShells.description>
+  <VFEFactory_MakeTarShells.label>Faça cascas de alcatrão</VFEFactory_MakeTarShells.label>
+  <VFEFactory_MakeTequilaFromAgave.description>Amasse rapidamente o agave em mosto de tequila e depois fermente em tequila usando processos automatizados.</VFEFactory_MakeTequilaFromAgave.description>
+  <VFEFactory_MakeTequilaFromAgave.label>Faça um lote de tequila de agave</VFEFactory_MakeTequilaFromAgave.label>
+  <VFEFactory_MakeTequilaFromAgave.labelOverride>Faça um lote de tequila de agave</VFEFactory_MakeTequilaFromAgave.labelOverride>
+  <VFEFactory_MakeToxShells.description>Combine aço e combustível químico para criar conchas tóxicas.</VFEFactory_MakeToxShells.description>
+  <VFEFactory_MakeToxShells.label>Faça conchas tóxicas</VFEFactory_MakeToxShells.label>
+  <VFEFactory_MakeVodkaFromPotatoes.description>Amasse rapidamente as batatas até formar purê de vodca e depois fermente até formar vodca usando processos automatizados.</VFEFactory_MakeVodkaFromPotatoes.description>
+  <VFEFactory_MakeVodkaFromPotatoes.label>Faça um lote de vodka com batatas</VFEFactory_MakeVodkaFromPotatoes.label>
+  <VFEFactory_MakeVodkaFromPotatoes.labelOverride>Faça um lote de vodka com batatas</VFEFactory_MakeVodkaFromPotatoes.labelOverride>
+  <VFEFactory_MakeWhiskeyFromCorn.description>Fermentar rapidamente o milho em mosto de uísque e depois fermentar em uísque usando processos automatizados.</VFEFactory_MakeWhiskeyFromCorn.description>
+  <VFEFactory_MakeWhiskeyFromCorn.label>Faça um lote de whisky de milho</VFEFactory_MakeWhiskeyFromCorn.label>
+  <VFEFactory_MakeWhiskeyFromCorn.labelOverride>Faça um lote de whisky de milho</VFEFactory_MakeWhiskeyFromCorn.labelOverride>
+  <VFEFactory_Make_HexagelCore.description>Crie núcleos hexagel usando hexagel e urânio como estabilizador.</VFEFactory_Make_HexagelCore.description>
+  <VFEFactory_Make_HexagelCore.label>Faça núcleos hexagel</VFEFactory_Make_HexagelCore.label>
+  <VFEFactory_MinceCorpses.description>Corte os cadáveres em carne picada crua e comestível, adequada para cozinhar ou processamento posterior.</VFEFactory_MinceCorpses.description>
+  <VFEFactory_MinceCorpses.label>Picar cadáveres</VFEFactory_MinceCorpses.label>
+  <VFEFactory_MinceCorpses.labelOverride>Picar cadáveres</VFEFactory_MinceCorpses.labelOverride>
+  <VFEFactory_MinceEntityCorpses.description>Corte cadáveres de entidades em carne retorcida.</VFEFactory_MinceEntityCorpses.description>
+  <VFEFactory_MinceEntityCorpses.label>Picar cadáveres de entidades</VFEFactory_MinceEntityCorpses.label>
+  <VFEFactory_MinceEntityCorpses.labelOverride>Picar cadáveres de entidades</VFEFactory_MinceEntityCorpses.labelOverride>
+  <VFEFactory_MinceHumanCorpses.description>Corte cadáveres humanos em carne humana crua. Isto pode irritar os colonos, dependendo das suas crenças ideológicas. Os equipamentos serão todos descartados.</VFEFactory_MinceHumanCorpses.description>
+  <VFEFactory_MinceHumanCorpses.label>Picar cadáveres humanos</VFEFactory_MinceHumanCorpses.label>
+  <VFEFactory_MinceHumanCorpses.labelOverride>Picar cadáveres humanos</VFEFactory_MinceHumanCorpses.labelOverride>
+  <VFEFactory_MinceHumanoidHybridCorpses.description>Corte cadáveres híbridos humanóides em carne humana crua. Isto pode irritar os colonos, dependendo das suas crenças ideológicas.</VFEFactory_MinceHumanoidHybridCorpses.description>
+  <VFEFactory_MinceHumanoidHybridCorpses.label>Picar cadáveres híbridos humanóides</VFEFactory_MinceHumanoidHybridCorpses.label>
+  <VFEFactory_MinceHumanoidHybridCorpses.labelOverride>Picar cadáveres híbridos humanóides</VFEFactory_MinceHumanoidHybridCorpses.labelOverride>
+  <VFEFactory_MinceHybridCorpses.description>Corte cadáveres híbridos em carne picada crua e comestível, adequada para cozinhar ou processamento posterior.</VFEFactory_MinceHybridCorpses.description>
+  <VFEFactory_MinceHybridCorpses.label>Picar cadáveres híbridos</VFEFactory_MinceHybridCorpses.label>
+  <VFEFactory_MinceHybridCorpses.labelOverride>Picar cadáveres híbridos</VFEFactory_MinceHybridCorpses.labelOverride>
+  <VFEFactory_MinceInsectoidCorpses.description>Corte cadáveres de insetoides em carne crua de insetos.</VFEFactory_MinceInsectoidCorpses.description>
+  <VFEFactory_MinceInsectoidCorpses.label>Picar cadáveres insetóides</VFEFactory_MinceInsectoidCorpses.label>
+  <VFEFactory_MinceInsectoidCorpses.labelOverride>Picar cadáveres insetóides</VFEFactory_MinceInsectoidCorpses.labelOverride>
+  <VFEFactory_RefineUraniumCrystals.description>Extraia materiais úteis de cristais de urânio não refinados.</VFEFactory_RefineUraniumCrystals.description>
+  <VFEFactory_RefineUraniumCrystals.label>Refinar cristais de urânio</VFEFactory_RefineUraniumCrystals.label>
+  <VFEFactory_RollCigar.description>Enrole tabaco e ouro em um charuto.</VFEFactory_RollCigar.description>
+  <VFEFactory_RollCigar.label>Charuto de rolo</VFEFactory_RollCigar.label>
+  <VFEFactory_RollCigar.labelOverride>Charuto de rolo</VFEFactory_RollCigar.labelOverride>
+  <VFEFactory_RollCigarettes.description>Enrole o tabaco em cigarros.</VFEFactory_RollCigarettes.description>
+  <VFEFactory_RollCigarettes.label>Enrole cigarros</VFEFactory_RollCigarettes.label>
+  <VFEFactory_RollCigarettes.labelOverride>Enrole cigarros</VFEFactory_RollCigarettes.labelOverride>
+  <VFEFactory_RollJoint.description>Enrole a folha de fumaça em um baseado</VFEFactory_RollJoint.description>
+  <VFEFactory_RollJoint.label>Enrole juntas de folha de fumaça</VFEFactory_RollJoint.label>
+  <VFEFactory_RollJoint.labelOverride>Enrole juntas de folha de fumaça</VFEFactory_RollJoint.labelOverride>
+  <VFEFactory_ShredDrone.description>Use várias ferramentas e moedores integrados para transformar um drone em aço. 10 aços serão extraídos para cada tamanho de corpo do drone.</VFEFactory_ShredDrone.description>
+  <VFEFactory_ShredDrone.label>Destruir drone</VFEFactory_ShredDrone.label>
+  <VFEFactory_ShredDrone.labelOverride>Destruir drone</VFEFactory_ShredDrone.labelOverride>
+  <VFEFactory_ShredMechanoid.description>Use várias ferramentas e moedores integrados para transformar um mecanóide em aço. 10 aços serão extraídos por 1 tamanho de corpo do mecanóide.</VFEFactory_ShredMechanoid.description>
+  <VFEFactory_ShredMechanoid.label>Mecanóide de destruição</VFEFactory_ShredMechanoid.label>
+  <VFEFactory_ShredMechanoid.labelOverride>Mecanóide de destruição</VFEFactory_ShredMechanoid.labelOverride>
+  <VFEFactory_SmeltApparel.description>Use calor e eletroímãs fortes para transformar roupas em recursos úteis. Esta operação produzirá 25% dos materiais utilizados na confecção do vestuário, excluindo quaisquer componentes ou componentes avançados.</VFEFactory_SmeltApparel.description>
+  <VFEFactory_SmeltApparel.label>Cheirava roupas</VFEFactory_SmeltApparel.label>
+  <VFEFactory_SmeltApparel.labelOverride>Cheirava roupas</VFEFactory_SmeltApparel.labelOverride>
+  <VFEFactory_SmeltMechanoid.description>Use calor extremo para extrair aço de cadáveres mecanóides. 10 aços serão extraídos por 1 tamanho de corpo do mecanóide.</VFEFactory_SmeltMechanoid.description>
+  <VFEFactory_SmeltMechanoid.label>Fundir aço do mecanóide</VFEFactory_SmeltMechanoid.label>
+  <VFEFactory_SmeltMechanoid.labelOverride>Fundir aço do mecanóide</VFEFactory_SmeltMechanoid.labelOverride>
+  <VFEFactory_SmeltMetalFromChunk.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de pedra.</VFEFactory_SmeltMetalFromChunk.description>
+  <VFEFactory_SmeltMetalFromChunk.label>Extraia metal de pedaço de pedra</VFEFactory_SmeltMetalFromChunk.label>
+  <VFEFactory_SmeltMetalFromChunk.labelOverride>Extraia metal de pedaço de pedra</VFEFactory_SmeltMetalFromChunk.labelOverride>
+  <VFEFactory_SmeltMetalFromMechSlag.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de escória mecanóide.</VFEFactory_SmeltMetalFromMechSlag.description>
+  <VFEFactory_SmeltMetalFromMechSlag.label>Fundir metal a partir de escória mecanóide</VFEFactory_SmeltMetalFromMechSlag.label>
+  <VFEFactory_SmeltMetalFromMechSlag.labelOverride>Fundir metal a partir de escória mecanóide</VFEFactory_SmeltMetalFromMechSlag.labelOverride>
+  <VFEFactory_SmeltMetalFromSlag.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de escória.</VFEFactory_SmeltMetalFromSlag.description>
+  <VFEFactory_SmeltMetalFromSlag.label>Fundir metal da escória</VFEFactory_SmeltMetalFromSlag.label>
+  <VFEFactory_SmeltMetalFromSlag.labelOverride>Fundir metal da escória</VFEFactory_SmeltMetalFromSlag.labelOverride>
+  <VFEFactory_SmeltWeapon.description>Use calor e eletroímãs fortes para transformar armas em recursos úteis. Esta operação produzirá 25% dos materiais usados ​​para fabricar a arma, excluindo quaisquer componentes ou componentes avançados.</VFEFactory_SmeltWeapon.description>
+  <VFEFactory_SmeltWeapon.label>Fundir armas</VFEFactory_SmeltWeapon.label>
+  <VFEFactory_SmeltWeapon.labelOverride>Fundir armas</VFEFactory_SmeltWeapon.labelOverride>
+  <VFEFactory_SynthesizeAgePills.description>Sintetize um lote de antibióticos a partir de folhas psicóides e fitoterápicos.</VFEFactory_SynthesizeAgePills.description>
+  <VFEFactory_SynthesizeAgePills.label>Sintetize pílulas de idade</VFEFactory_SynthesizeAgePills.label>
+  <VFEFactory_SynthesizeAgePills.labelOverride>Sintetize pílulas de idade</VFEFactory_SynthesizeAgePills.labelOverride>
+  <VFEFactory_SynthesizeAntibiotics.description>Sintetize um lote de antibióticos a partir de folhas psicóides e fitoterápicos.</VFEFactory_SynthesizeAntibiotics.description>
+  <VFEFactory_SynthesizeAntibiotics.label>Sintetize um lote de antibióticos</VFEFactory_SynthesizeAntibiotics.label>
+  <VFEFactory_SynthesizeAntibiotics.labelOverride>Sintetize um lote de antibióticos</VFEFactory_SynthesizeAntibiotics.labelOverride>
+  <VFEFactory_SynthesizeFlake.description>Sintetize um lote de flocos de folhas psicóides.</VFEFactory_SynthesizeFlake.description>
+  <VFEFactory_SynthesizeFlake.label>Sintetize um lote de flocos</VFEFactory_SynthesizeFlake.label>
+  <VFEFactory_SynthesizeFlake.labelOverride>Sintetize um lote de flocos</VFEFactory_SynthesizeFlake.labelOverride>
+  <VFEFactory_SynthesizeGoJuice.description>Sintetize um lote de suco de neutroamina e yayo.</VFEFactory_SynthesizeGoJuice.description>
+  <VFEFactory_SynthesizeGoJuice.label>Sintetize um lote de go-juice</VFEFactory_SynthesizeGoJuice.label>
+  <VFEFactory_SynthesizeGoJuice.labelOverride>Sintetize um lote de go-juice</VFEFactory_SynthesizeGoJuice.labelOverride>
+  <VFEFactory_SynthesizeNeutroamine.description>Sintetize neutroamina a partir de combustível químico e gordura animal fundida.</VFEFactory_SynthesizeNeutroamine.description>
+  <VFEFactory_SynthesizeNeutroamine.label>Sintetizar neutroamina</VFEFactory_SynthesizeNeutroamine.label>
+  <VFEFactory_SynthesizeNeutroamine.labelOverride>Sintetizar neutroamina</VFEFactory_SynthesizeNeutroamine.labelOverride>
+  <VFEFactory_SynthesizePenoxycyline.description>Sintetize penoxicilina a partir de neutroamina.</VFEFactory_SynthesizePenoxycyline.description>
+  <VFEFactory_SynthesizePenoxycyline.label>Sintetizar penoxicilina</VFEFactory_SynthesizePenoxycyline.label>
+  <VFEFactory_SynthesizePenoxycyline.labelOverride>Sintetizar penoxicilina</VFEFactory_SynthesizePenoxycyline.labelOverride>
+  <VFEFactory_SynthesizeWakeUp.description>Sintetize um lote de despertar a partir de neutroamina.</VFEFactory_SynthesizeWakeUp.description>
+  <VFEFactory_SynthesizeWakeUp.label>Sintetize um lote de despertar</VFEFactory_SynthesizeWakeUp.label>
+  <VFEFactory_SynthesizeWakeUp.labelOverride>Sintetize um lote de despertar</VFEFactory_SynthesizeWakeUp.labelOverride>
+  <VFEFactory_SynthesizeYayo.description>Sintetize um lote de yayo a partir de folhas psicóides.</VFEFactory_SynthesizeYayo.description>
+  <VFEFactory_SynthesizeYayo.label>Sintetize um lote de yayo</VFEFactory_SynthesizeYayo.label>
+  <VFEFactory_SynthesizeYayo.labelOverride>Sintetize um lote de yayo</VFEFactory_SynthesizeYayo.labelOverride>
+</LanguageData>

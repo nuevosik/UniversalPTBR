@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <VFES_Gun_PointDefense.verbs.Verb_Shoot.label>arma de defesa de ponto</VFES_Gun_PointDefense.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_AntiAir.comps.CompRefuelable.fuelGizmoLabel>Munição</VFES_Turret_AntiAir.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AntiAir.comps.CompRefuelable.fuelLabel>Munição</VFES_Turret_AntiAir.comps.CompRefuelable.fuelLabel>
+
+  <Gun_AutomatedMortar.verbs.Verb_Shoot.label>morteiro automatizado</Gun_AutomatedMortar.verbs.Verb_Shoot.label>
+  
+  <VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>peça de artilharia</VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>
+
+  
+  <VFES_Turret_Artillery.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_Artillery.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Artillery.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Artillery.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Artillery.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano reforçado</VFES_Turret_Artillery.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelGizmoLabel>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelLabel>Disparos até a troca do cano</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelLabel>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfFuelMessage>Necessita de novo cano reforçado</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfSecondaryFuelMessage>Sem granadas</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfSecondaryFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>Granadas carregadas</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>Munição</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>
+
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>Necessita de bioferrita</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>
+
+  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>metralhadora de mini-torreta oculta</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_Concealed.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_Concealed.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>Disparos até a troca do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>Necessita de novo emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>canhão graser</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  
+  <VFES_Mote_WideGraserBeamBase.label>Partícula</VFES_Mote_WideGraserBeamBase.label>
+
+  <Gun_TeslaBlaster.verbs.Verb_Shoot.label>canhão tesla</Gun_TeslaBlaster.verbs.Verb_Shoot.label>
+  
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>catapulta</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  
+  <VFES_Complex_Charge.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Complex_Charge.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_Charge.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Complex_Charge.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_Charge.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Complex_Charge.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Complex_Hmg.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Complex_Hmg.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_Hmg.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Complex_Hmg.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_Hmg.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Complex_Hmg.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Complex_Minigun.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Complex_Minigun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_Minigun.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Complex_Minigun.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_Minigun.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Complex_Minigun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>MP</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>arma de mini-torreta militar</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>balista</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>arma de mini-torreta de carga</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>arma de mini-torreta de chamas</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>arma de mini-torreta militar</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>arma de torreta de canhão eletromagnético</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>ofuscar</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+  
+  <VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>arma de mini-torreta de escopeta</VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>Virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Necessita de virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Combustível restante</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Combustível restante</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Necessita de combustível químico</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Minigun.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_Minigun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>autocanhão duplo</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>
+
+  <VFES_Mote_SpotLight.label>Partícula</VFES_Mote_SpotLight.label>
+  
+</LanguageData>

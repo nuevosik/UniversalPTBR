@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <VEF_AcidBuildup.stages.minor_receiving_burns.label>menor, recebendo queimaduras</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+  <VEF_AcidBuildup.stages.moderate_receiving_burns.label>moderada, recebendo queimaduras</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+  <VEF_AcidBuildup.stages.serious_receiving_burns.label>séria, recebendo queimaduras</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de queimadura ácida</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_LightSustenance.stages.adequate_light.label>luz adequada</VEF_LightSustenance.stages.adequate_light.label>
+  <VEF_LightSustenance.stages.poor_light_levels.label>níveis de luz pobres</VEF_LightSustenance.stages.poor_light_levels.label>
+  <VEF_LightSustenance.stages.very_low_light_levels.label>níveis de luz muito baixos</VEF_LightSustenance.stages.very_low_light_levels.label>
+  <VEF_LightSustenance.stages.lack_of_sunlight.label>falta de luz solar</VEF_LightSustenance.stages.lack_of_sunlight.label>
+  <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>extrema falta de sustento</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+
+  <VEF_ToxicBuildup.stages.initial-0.label>inicial</VEF_ToxicBuildup.stages.initial-0.label>
+  <VEF_ToxicBuildup.stages.initial-1.label>inicial</VEF_ToxicBuildup.stages.initial-1.label>
+  <VEF_ToxicBuildup.stages.minor.label>menor</VEF_ToxicBuildup.stages.minor.label>
+  <VEF_ToxicBuildup.stages.moderate.label>moderada</VEF_ToxicBuildup.stages.moderate.label>
+  <VEF_ToxicBuildup.stages.serious.label>séria</VEF_ToxicBuildup.stages.serious.label>
+  <VEF_ToxicBuildup.stages.extreme.label>extrema</VEF_ToxicBuildup.stages.extreme.label>
+
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>menor</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>menor</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <VFEP_HypothermicSlowdown.stages.serious.label>séria</VFEP_HypothermicSlowdown.stages.serious.label>
+  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+  <VEF_Kamikaze.stages.initialhidden.label>inicial-oculta</VEF_Kamikaze.stages.initialhidden.label>
+  <VEF_Kamikaze.stages.critical.label>crítica</VEF_Kamikaze.stages.critical.label>
+
+  <VGE_EngineeringCommand.label>comando de engenharia</VGE_EngineeringCommand.label>
+  <VGE_EngineeringCommand.description>As velocidades de manutenção e construção da gravinave são aumentadas graças a esta pessoa estar usando a habilidade de comando de engenharia.</VGE_EngineeringCommand.description>
+
+  <VGE_EngineeringCommandBuff.label>comando de engenharia</VGE_EngineeringCommandBuff.label>
+  <VGE_EngineeringCommandBuff.description>As velocidades de manutenção e construção da gravinave desta pessoa são aumentadas graças a estar perto de alguém que está usando a habilidade de comando de engenharia.</VGE_EngineeringCommandBuff.description>
+
+</LanguageData>

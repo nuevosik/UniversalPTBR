@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VVE_Acceleration_High.description>Com rápida aceleração, avançamos aos trancos e barrancos, aproveitando o dia com paixão.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Todos os veículos possuem Multiplicador de Velocidade Mundial: x1,25</VVE_Acceleration_High.description>
+  <VVE_Acceleration_High.label>alto</VVE_Acceleration_High.label>
+  <VVE_Acceleration_Standard.description>Nossos veículos se movem com equilíbrio, nem muito rápido nem muito lento.</VVE_Acceleration_Standard.description>
+  <VVE_Acceleration_Standard.label>padrão</VVE_Acceleration_Standard.label>
+  <VVE_Acceleration_SundayDriver.description>Um ritmo medido mantém o mundo em equilíbrio e nos dá tempo para saborear a jornada.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Todos os veículos possuem Multiplicador de Velocidade Mundial: x0,8</VVE_Acceleration_SundayDriver.description>
+  <VVE_Acceleration_SundayDriver.label>motorista de domingo</VVE_Acceleration_SundayDriver.label>
+  <VVE_Driving_Allowed.description>Navegar pelo mundo em veículos é uma prática aceita em nossa comunidade.</VVE_Driving_Allowed.description>
+  <VVE_Driving_Allowed.label>permitido</VVE_Driving_Allowed.label>
+  <VVE_Driving_Approved.comps.0.description>Dirigiu um veículo terrestre</VVE_Driving_Approved.comps.0.description>
+  <VVE_Driving_Approved.description>Cada viagem em terra afirma o nosso espírito e alegria partilhados.</VVE_Driving_Approved.description>
+  <VVE_Driving_Approved.label>aprovado</VVE_Driving_Approved.label>
+  <VVE_Driving_Forbidden.description>Atravessar o terreno em veículos é uma violação das nossas crenças fundamentais.</VVE_Driving_Forbidden.description>
+  <VVE_Driving_Forbidden.label>proibido</VVE_Driving_Forbidden.label>
+  <VVE_Driving_Horrible.comps.0.description>Dirigiu um veículo terrestre</VVE_Driving_Horrible.comps.0.description>
+  <VVE_Driving_Horrible.description>Consideramos que pisar num veículo terrestre é uma ofensa profunda aos nossos valores.</VVE_Driving_Horrible.description>
+  <VVE_Driving_Horrible.label>horrível</VVE_Driving_Horrible.label>
+  <VVE_Driving_Required.comps.1.thoughtStageDescriptions.0>Roadrage (1 dia sem dirigir)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.0>
+  <VVE_Driving_Required.comps.1.thoughtStageDescriptions.1>Roadrage (5 dias sem dirigir)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.1>
+  <VVE_Driving_Required.comps.1.thoughtStageDescriptions.2>Roadrage (10 dias sem dirigir)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.2>
+  <VVE_Driving_Required.comps.1.thoughtStageDescriptions.3>Roadrage (20 dias sem dirigir)</VVE_Driving_Required.comps.1.thoughtStageDescriptions.3>
+  <VVE_Driving_Required.description>Nosso povo acredita na necessidade do movimento, não dirigir é negligenciar o dever para consigo mesmo.</VVE_Driving_Required.description>
+  <VVE_Driving_Required.label>obrigatório</VVE_Driving_Required.label>
+  <VVE_Flying_Allowed.description>Os céus estão abertos para nós, como deveriam estar para todos os que desejam atravessá-los.</VVE_Flying_Allowed.description>
+  <VVE_Flying_Allowed.label>permitido</VVE_Flying_Allowed.label>
+  <VVE_Flying_Approved.comps.0.description>Viajou em um veículo aéreo</VVE_Flying_Approved.comps.0.description>
+  <VVE_Flying_Approved.description>Acreditamos que voar nos aproxima coletivamente do divino.</VVE_Flying_Approved.description>
+  <VVE_Flying_Approved.label>aprovado</VVE_Flying_Approved.label>
+  <VVE_Flying_Forbidden.description>Voar pelos céus é uma afronta às nossas tradições e crenças.</VVE_Flying_Forbidden.description>
+  <VVE_Flying_Forbidden.label>proibido</VVE_Flying_Forbidden.label>
+  <VVE_Flying_Horrible.comps.0.description>Viajou em um veículo aéreo</VVE_Flying_Horrible.comps.0.description>
+  <VVE_Flying_Horrible.description>Acreditamos que subir aos céus perturba o equilíbrio natural.</VVE_Flying_Horrible.description>
+  <VVE_Flying_Horrible.label>horrível</VVE_Flying_Horrible.label>
+  <VVE_Flying_Required.comps.1.thoughtStageDescriptions.0>Aerofilia (1 dia sem voar)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.0>
+  <VVE_Flying_Required.comps.1.thoughtStageDescriptions.1>Aerofilia (5 dias sem voar)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.1>
+  <VVE_Flying_Required.comps.1.thoughtStageDescriptions.2>Aerofilia (10 dias sem voar)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.2>
+  <VVE_Flying_Required.comps.1.thoughtStageDescriptions.3>Aerofilia (20 dias sem voar)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.3>
+  <VVE_Flying_Required.description>A pureza do espírito encontra-se entre as nuvens; é preciso experimentar regularmente a liberdade de voar.</VVE_Flying_Required.description>
+  <VVE_Flying_Required.label>obrigatório</VVE_Flying_Required.label>
+  <VVE_FuelEfficiency_Efficient.description>Nossos veículos são otimizados para uso mínimo de combustível.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Este preceito diminui FuelConsumptionRate (se presente) no veículo em 50%.</VVE_FuelEfficiency_Efficient.description>
+  <VVE_FuelEfficiency_Efficient.label>eficiente</VVE_FuelEfficiency_Efficient.label>
+  <VVE_FuelEfficiency_Inefficient.description>Nossos veículos têm maior consumo de combustível.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Este preceito aumenta FuelConsumptionRate (se presente) no veículo em 50%.</VVE_FuelEfficiency_Inefficient.description>
+  <VVE_FuelEfficiency_Inefficient.label>ineficiente</VVE_FuelEfficiency_Inefficient.label>
+  <VVE_FuelEfficiency_Standard.description>Nosso consumo de combustível continua tradicional.</VVE_FuelEfficiency_Standard.description>
+  <VVE_FuelEfficiency_Standard.label>padrão</VVE_FuelEfficiency_Standard.label>
+  <VVE_ImpactDamage_High.description>Acreditamos que a potência de um veículo é verdadeiramente sentida em seu impacto formidável.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - O dano causado ao atropelar pessoas é multiplicado por x1,25</VVE_ImpactDamage_High.description>
+  <VVE_ImpactDamage_High.label>alto</VVE_ImpactDamage_High.label>
+  <VVE_MaxSpeed_Increased.description>Valorizamos veículos que transcendem os limites tradicionais.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - A velocidade máxima dos veículos é aumentada em um multiplicador de x1,2.</VVE_MaxSpeed_Increased.description>
+  <VVE_MaxSpeed_Increased.label>aumentou</VVE_MaxSpeed_Increased.label>
+  <VVE_Sailing_Allowed.description>Os oceanos e os rios são caminhos que podemos percorrer, desde que respeitemos a sua profundidade.</VVE_Sailing_Allowed.description>
+  <VVE_Sailing_Allowed.label>permitido</VVE_Sailing_Allowed.label>
+  <VVE_Sailing_Approved.comps.0.description>Navegou em um veículo marítimo</VVE_Sailing_Approved.comps.0.description>
+  <VVE_Sailing_Approved.description>Acreditamos que a Vela nos aproxima coletivamente do divino.</VVE_Sailing_Approved.description>
+  <VVE_Sailing_Approved.label>aprovado</VVE_Sailing_Approved.label>
+  <VVE_Sailing_Forbidden.description>As águas sagradas não devem ser perturbadas pelos nossos navios.</VVE_Sailing_Forbidden.description>
+  <VVE_Sailing_Forbidden.label>proibido</VVE_Sailing_Forbidden.label>
+  <VVE_Sailing_Horrible.comps.0.description>Navegou em um veículo marítimo</VVE_Sailing_Horrible.comps.0.description>
+  <VVE_Sailing_Horrible.description>Consideramos as águas sagradas; navegá-los parece profundamente errado para nós.</VVE_Sailing_Horrible.description>
+  <VVE_Sailing_Horrible.label>horrível</VVE_Sailing_Horrible.label>
+  <VVE_Sailing_Required.comps.1.thoughtStageDescriptions.0>Chamado das sereias (1 dia sem navegar)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.0>
+  <VVE_Sailing_Required.comps.1.thoughtStageDescriptions.1>Toque das sereias (5 dias sem navegar)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.1>
+  <VVE_Sailing_Required.comps.1.thoughtStageDescriptions.2>Toque de sereia (10 dias sem navegar)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.2>
+  <VVE_Sailing_Required.comps.1.thoughtStageDescriptions.3>Toque de sereia (20 dias sem navegar)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.3>
+  <VVE_Sailing_Required.description>Nossas almas estão entrelaçadas com os ritmos das águas; devemos navegar para estarmos verdadeiramente vivos.</VVE_Sailing_Required.description>
+  <VVE_Sailing_Required.label>obrigatório</VVE_Sailing_Required.label>
+  <VVE_SmallSpaces_Horrible.description>Ficar em ambientes apertados é uma afronta às nossas liberdades.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Duplica pensamentos negativos sobre espaços pequenos. Os pensamentos positivos sobre áreas espaçosas não são afetados.</VVE_SmallSpaces_Horrible.description>
+  <VVE_SmallSpaces_Horrible.label>horrível</VVE_SmallSpaces_Horrible.label>
+  <VVE_VehicleRepairs_Fast.description>Reparamos com urgência, entendendo o papel vital que nossos veículos desempenham em nossas vidas.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Adiciona +1 às limitações do trabalho de reparo em um veículo (desde que "Vários peões por trabalho" esteja ativo nas configurações do Mod).</VVE_VehicleRepairs_Fast.description>
+  <VVE_VehicleRepairs_Fast.label>rápido</VVE_VehicleRepairs_Fast.label>
+  <VVE_VehicleRepairs_Slow.description>Os reparos são um ritual cuidadoso, que não deve ser feito às pressas, mas realizado com reverência.</VVE_VehicleRepairs_Slow.description>
+  <VVE_VehicleRepairs_Slow.label>lento</VVE_VehicleRepairs_Slow.label>
+  <VVE_VehicleRepairs_Standard.description>A nossa abordagem às reparações é equilibrada, garantindo que os veículos são restaurados ao seu estado legítimo.</VVE_VehicleRepairs_Standard.description>
+  <VVE_VehicleRepairs_Standard.label>padrão</VVE_VehicleRepairs_Standard.label>
+</LanguageData>

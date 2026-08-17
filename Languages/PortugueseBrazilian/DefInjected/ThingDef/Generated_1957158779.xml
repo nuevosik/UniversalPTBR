@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE_Ecosystem.description>Cultiva plantas rapidamente em um ecossistema artificial e selado. Requer uma grande quantidade de energia para funcionar; as plantas morrerão se a energia for cortada.\n\nContém uma lâmpada solar embutida para fornecer luz para as plantas.</VFE_Ecosystem.description>
+  <VFE_Ecosystem.label>ecossistema artificial</VFE_Ecosystem.label>
+  <VFE_Ecosystem_Tilable.description>Cultiva plantas rapidamente em um ecossistema artificial e selado que pode ser configurado para cultivar com eficácia até mesmo plantas exigentes. Requer uma grande quantidade de energia para funcionar; as plantas morrerão se a energia for cortada. Contém uma lâmpada solar embutida para iluminar as plantas.\n\nEsta versão é modular e pode ser montada em qualquer formato necessário.</VFE_Ecosystem_Tilable.description>
+  <VFE_Ecosystem_Tilable.label>ecossistema artificial utilizável</VFE_Ecosystem_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Um banho artificial de nutrientes para o cultivo de plantas. As bombas de nutrientes devem funcionar continuamente; as plantas morrerão se a energia for cortada.\n\nEsta versão é modular e pode ser montada em qualquer formato necessário.</VFE_Hydroponics_Tilable.description>
+  <VFE_Hydroponics_Tilable.label>bacia hidropônica lavável</VFE_Hydroponics_Tilable.label>
+  <VFE_PlanterBox.description>Cultiva plantas em uma caixa com terra. Não requer energia para funcionar.</VFE_PlanterBox.description>
+  <VFE_PlanterBox.label>caixa de plantador</VFE_PlanterBox.label>
+  <VFE_PlanterBox_Tilable.description>Cultiva plantas em uma caixa com terra. Não requer energia para funcionar.\n\nPode ser construído em qualquer formato desejado.</VFE_PlanterBox_Tilable.description>
+  <VFE_PlanterBox_Tilable.label>caixa de plantador lavável</VFE_PlanterBox_Tilable.label>
+  <VFE_Scarecrow.description>Uma figura humanóide feita de feno, vestida com roupas velhas para deter os animais em um grande raio. Animais pequenos terão muito medo de se aproximar.</VFE_Scarecrow.description>
+  <VFE_Scarecrow.label>espantalho</VFE_Scarecrow.label>
+  <VFE_Sprinkler.description>Um aspersor de água, fornecendo água a uma área ao seu redor. Melhora o crescimento das plantas vizinhas.</VFE_Sprinkler.description>
+  <VFE_Sprinkler.label>aspersor</VFE_Sprinkler.label>
+</LanguageData>

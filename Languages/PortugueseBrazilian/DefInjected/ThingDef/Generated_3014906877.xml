@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bullet_Bulldog_MainTurret.label>concha altamente explosiva</Bullet_Bulldog_MainTurret.label>
+  <Bullet_Roadkill_MainTurret.label>concha altamente explosiva</Bullet_Roadkill_MainTurret.label>
+  <Rocket_Scytheman_MainTurret.label>foguete enxameador</Rocket_Scytheman_MainTurret.label>
+  <VVE_CarAlternator.description>O alternador é uma peça extremamente vital do motor para qualquer veículo que possua sistemas elétricos. Alguns sistemas muito básicos podem escapar e alguns veículos mais complexos podem exigir mais de um.</VVE_CarAlternator.description>
+  <VVE_CarAlternator.label>alternador de carro</VVE_CarAlternator.label>
+  <VVE_CarBattery.description>Uma bateria recarregável isolada e fiação que alimenta inúmeras funções eletrônicas. Atua como um protetor contra surtos de tensão para sistemas eletrônicos e várias baterias podem aumentar ou até mesmo substituir o motor de um veículo.</VVE_CarBattery.description>
+  <VVE_CarBattery.label>bateria de carro</VVE_CarBattery.label>
+  <VVE_CarExhaust.description>Uma série de tubos, catalisadores e acessórios que transferem o escapamento do motor do carro para longe da cabine do motorista. Motores que serão submetidos a muito esforço requerem mais escapamentos.</VVE_CarExhaust.description>
+  <VVE_CarExhaust.label>escapamento do carro</VVE_CarExhaust.label>
+  <VVE_CarFuelTank.description>Sistemas de armazenamento e injeção de combustível cuidadosamente fabricados. Ideal para veículos que necessitam de maior capacidade de combustível ou até mesmo aumento do consumo de combustível sem aumentar a probabilidade de vazamentos de gás ou danos ao motor.</VVE_CarFuelTank.description>
+  <VVE_CarFuelTank.label>tanque de combustível do carro</VVE_CarFuelTank.label>
+  <VVE_CarRadiator.description>Uma série de tubulações, tubos, ventiladores, bombas e o próprio radiador, prontos para serem instalados em um veículo que deverá suportar cargas pesadas. Quanto mais o motor tiver que trabalhar, mais radiadores serão necessários para mantê-lo resfriado.</VVE_CarRadiator.description>
+  <VVE_CarRadiator.label>radiador de carro</VVE_CarRadiator.label>
+  <VVE_CarSuspension.description>Uma série de transmissões, molas e amortecedores que redirecionam ou reduzem as forças transferidas através das rodas. Geralmente, quanto maior a massa e a capacidade de carga do veículo, mais suspensões são necessárias.</VVE_CarSuspension.description>
+  <VVE_CarSuspension.label>suspensão do carro</VVE_CarSuspension.label>
+  <VVE_CarTransmission.description>Um sistema de transmissão automática dedicado, delicadamente usinado a partir de materiais endurecidos e duráveis. Devido ao seu design comparativamente complexo, estes são necessários em veículos que requerem imenso torque ou velocidades de rotação excessivas.</VVE_CarTransmission.description>
+  <VVE_CarTransmission.label>transmissão do carro</VVE_CarTransmission.label>
+  <VVE_CarWheel.description>Uma das tecnologias mais antigas desenvolvidas pelo homem, a roda retira a potência do motor e a traduz em movimento. Como as rodas não apenas devem mover o veículo na direção necessária, mas também suportar o peso combinado, veículos maiores e mais pesados ​​podem precisar de várias ou dezenas delas.</VVE_CarWheel.description>
+  <VVE_CarWheel.label>roda de carro</VVE_CarWheel.label>
+  <VVE_CarWiring.description>Peças de fiação reforçadas e usinadas para melhorar a condução elétrica. Normalmente exigido em veículos que possuem muitos sistemas eletrônicos sincronizados ou delicados.</VVE_CarWiring.description>
+  <VVE_CarWiring.label>fiação do carro</VVE_CarWiring.label>
+  <VVE_EngineBlock.description>Literalmente a peça que faz um veículo se mover em primeiro lugar, nenhum veículo pode ser montado sem ela. Veículos excessivamente grandes ou pesados ​​podem exigir mais de um.</VVE_EngineBlock.description>
+  <VVE_EngineBlock.label>bloco do motor</VVE_EngineBlock.label>
+  <VVE_GarageAutoDoor.description>Divide quartos. A operação elétrica permite que a porta abra sem interação manual, permitindo a passagem de veículos.</VVE_GarageAutoDoor.description>
+  <VVE_GarageAutoDoor.label>porta de garagem automática (1x4)</VVE_GarageAutoDoor.label>
+  <VVE_GarageAutoDoorLarge.label>porta de garagem automática (1x5)</VVE_GarageAutoDoorLarge.label>
+  <VVE_GarageBench.description>Estação de trabalho especializada para montagem de peças de veículos. Para aqueles que estão desesperados, carros enferrujados e blocos de motor podem ser recuperados para obter quaisquer peças restantes em funcionamento.</VVE_GarageBench.description>
+  <VVE_GarageBench.label>banco de garagem</VVE_GarageBench.label>
+  <VVE_GarageCabinet.description>Um prático gabinete que contém um monte de ferramentas extras de vários tamanhos e funções. Aumenta a velocidade de trabalho quando colocado próximo a uma bancada de garagem. Uma bancada pode utilizar até dois armários de garagem.</VVE_GarageCabinet.description>
+  <VVE_GarageCabinet.label>armário de garagem</VVE_GarageCabinet.label>
+  <VVE_GarageDoor.description>Divide quartos. A operação manual permite que as pessoas o abram, deixando passar os veículos.</VVE_GarageDoor.description>
+  <VVE_GarageDoor.label>portão de garagem (1x4)</VVE_GarageDoor.label>
+  <VVE_GarageDoorLarge.label>portão de garagem (1x5)</VVE_GarageDoorLarge.label>
+  <VVE_RefuelingPump.description>Uma bomba de reabastecimento que reabastecerá automaticamente os veículos movidos a combustível químico que estiverem no local de interação. Precisa ser abastecido com combustível químico.</VVE_RefuelingPump.description>
+  <VVE_RefuelingPump.label>bomba de reabastecimento</VVE_RefuelingPump.label>
+  <VVE_TankTrap.description>Uma fortificação defensiva para parar veículos. Oferece pouca cobertura e pode ser percorrido a pé, mas não é percorrível por veículos.</VVE_TankTrap.description>
+  <VVE_TankTrap.label>armadilha para tanque</VVE_TankTrap.label>
+</LanguageData>

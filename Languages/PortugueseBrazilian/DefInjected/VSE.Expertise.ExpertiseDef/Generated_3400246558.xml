@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Architect.description>Especialização em criar edifícios complexos e bonitos.</Architect.description>
+  <Architect.label>Arquitetura</Architect.label>
+  <BattlefieldMedic.description>Especialização em tratamento rápido e cuidados médicos eficientes.</BattlefieldMedic.description>
+  <BattlefieldMedic.label>Primeiros socorros</BattlefieldMedic.label>
+  <Blunt.description>Especialização em combate corpo a corpo armado e veloz.</Blunt.description>
+  <Blunt.label>Duelo</Blunt.label>
+  <Butcher.description>Especialização em abater animais mortos.</Butcher.description>
+  <Butcher.label>Abate</Butcher.label>
+  <CloseQuarters.description>Especialização em mirar ao disparar armas de longo alcance de alta e baixa tecnologia.</CloseQuarters.description>
+  <CloseQuarters.label>Mira</CloseQuarters.label>
+  <Driller.description>Especialização em usar uma perfuradora profunda para extrair recursos com mais eficiência.</Driller.description>
+  <Driller.label>Perfuração</Driller.label>
+  <DrugChef.description>Especialização em criar drogas.</DrugChef.description>
+  <DrugChef.label>Produção de drogas</DrugChef.label>
+  <Flooring.description>Especialização em construir pisos.</Flooring.description>
+  <Flooring.label>Pavimentação</Flooring.label>
+  <Forager.description>Especialização em viver da terra e coletar os frutos da floresta.</Forager.description>
+  <Forager.label>Coleta</Forager.label>
+  <Foreman.description>Especialização em construir rapidamente e com eficiência uma grande quantidade de edifícios.</Foreman.description>
+  <Foreman.label>Construção</Foreman.label>
+  <Geologist.description>Especialização em conhecer rochas e obter mais blocos de pedra ao escavar.</Geologist.description>
+  <Geologist.label>Geologia</Geologist.label>
+  <GreenThumb.description>Especialização em semear e colher rapidamente grandes quantidades de plantas.</GreenThumb.description>
+  <GreenThumb.label>Semeadura</GreenThumb.label>
+  <Gunner.description>Especialização em recarregar armas de longo alcance de alta e baixa tecnologia.</Gunner.description>
+  <Gunner.label>Recarga</Gunner.label>
+  <Hacker.description>Especialização em invadir terminais e sistemas antigos.</Hacker.description>
+  <Hacker.label>Invasão</Hacker.label>
+  <HarvesterCareful.description>Especialização em garantir que nenhuma parte da planta seja desperdiçada durante a colheita.</HarvesterCareful.description>
+  <HarvesterCareful.label>Colheita</HarvesterCareful.label>
+  <Hunter.description>Especialização na arte da caça.</Hunter.description>
+  <Hunter.label>Caça</Hunter.label>
+  <IndustrialChef.description>Especialização em preparar grandes quantidades de refeições para alimentar muitas pessoas rapidamente.</IndustrialChef.description>
+  <IndustrialChef.label>Cozinha em massa</IndustrialChef.label>
+  <IndustrialProcessExpert.description>Especialização em fabricar componentes com eficiência.</IndustrialProcessExpert.description>
+  <IndustrialProcessExpert.label>Fabricação</IndustrialProcessExpert.label>
+  <InfectiousDiseaseExpert.description>Especialização em cuidar de pacientes doentes que sofrem de várias enfermidades.</InfectiousDiseaseExpert.description>
+  <InfectiousDiseaseExpert.label>Enfermagem</InfectiousDiseaseExpert.label>
+  <MechanoidExpert.description>Especialização em tudo relacionado a mecanóides, incluindo triturá-los e desmontá-los.</MechanoidExpert.description>
+  <MechanoidExpert.label>Desmontagem de mecanóides</MechanoidExpert.label>
+  <Negotiator.description>Especialização em conduzir negociações e realizar comércio.</Negotiator.description>
+  <Negotiator.label>Negociação</Negotiator.label>
+  <OreExpert.description>Especialização em extrair minério e encontrar maiores quantidades dele.</OreExpert.description>
+  <OreExpert.label>Prospecção</OreExpert.label>
+  <Pharmacologist.description>Especialização em criar drogas complexas com eficiência.</Pharmacologist.description>
+  <Pharmacologist.label>Síntese</Pharmacologist.label>
+  <Precision.description>Especialização em precisão ao disparar armas de longo alcance de alta e baixa tecnologia.</Precision.description>
+  <Precision.label>Tiro de precisão</Precision.label>
+  <Proselytizer.description>Especialização em converter outras pessoas à sua forma de pensar.</Proselytizer.description>
+  <Proselytizer.label>Proselitismo</Proselytizer.label>
+  <QualityExpert.description>Especialização em criar obras de arte de maior qualidade.</QualityExpert.description>
+  <QualityExpert.label>Qualidade artística</QualityExpert.label>
+  <QuantityExpert.description>Especialização em criar obras de arte de forma rápida e eficiente.</QuantityExpert.description>
+  <QuantityExpert.label>Quantidade artística</QuantityExpert.label>
+  <Rancher.description>Especialização na criação de animais e na coleta de produtos animais.</Rancher.description>
+  <Rancher.label>Pecuária</Rancher.label>
+  <Repairman.description>Especialização em reparar estruturas quebradas e danificadas.</Repairman.description>
+  <Repairman.label>Reparos</Repairman.label>
+  <Researcher.description>Especialização em pesquisar novas tecnologias.</Researcher.description>
+  <Researcher.label>Pesquisa</Researcher.label>
+  <Sharp.description>Especialização em perfurar armaduras ao usar armas brancas cortantes.</Sharp.description>
+  <Sharp.label>Perfuração</Sharp.label>
+  <Surgeon.description>Especialização em realizar cirurgias seguras e eficazes.</Surgeon.description>
+  <Surgeon.label>Cirurgia</Surgeon.label>
+  <Tailor.description>Especialização em confeccionar roupas excelentes.</Tailor.description>
+  <Tailor.label>Alfaiataria</Tailor.label>
+  <Tamer.description>Especialização em domesticar animais selvagens.</Tamer.description>
+  <Tamer.label>Domesticação</Tamer.label>
+  <TopChef.description>Especialização em criar refeições seguras para consumo em qualquer ambiente.</TopChef.description>
+  <TopChef.label>Higiene alimentar</TopChef.label>
+  <Trainer.description>Especialização em cuidar e treinar os animais da colônia.</Trainer.description>
+  <Trainer.label>Adestramento</Trainer.label>
+  <Treespeaker.description>Especialização em comunicar-se psiquicamente e podar as árvores Gauranlen.</Treespeaker.description>
+  <Treespeaker.label>Poda</Treespeaker.label>
+  <Tunneller.description>Especialização em escavar túneis e cavernas enormes.</Tunneller.description>
+  <Tunneller.label>Escavação de túneis</Tunneller.label>
+  <VSE_DarkStudy.description>Especialização em analisar e aprender com entidades e absorver conhecimento obscuro.</VSE_DarkStudy.description>
+  <VSE_DarkStudy.label>Estudo sombrio</VSE_DarkStudy.label>
+  <VSE_Lovin.description>Especialização em amor e impacto social.</VSE_Lovin.description>
+  <VSE_Lovin.label>Amor</VSE_Lovin.label>
+  <VSE_Operating.description>Especialização em realizar cirurgias com rapidez e eficiência.</VSE_Operating.description>
+  <VSE_Operating.label>Cirurgia rápida</VSE_Operating.label>
+  <VSE_Smoothing.description>Especialização em alisar superfícies como paredes e pisos.</VSE_Smoothing.description>
+  <VSE_Smoothing.label>Alisamento</VSE_Smoothing.label>
+  <VSE_Sniping.description>Especialização em disparar armas de longo alcance a distâncias muito maiores.</VSE_Sniping.description>
+  <VSE_Sniping.label>Atirador de elite</VSE_Sniping.label>
+  <VSE_Striking.description>Especialização em acertar ataques corpo a corpo com precisão.</VSE_Striking.description>
+  <VSE_Striking.label>Golpes</VSE_Striking.label>
+  <VSE_Writing.description>Especialização em ler e escrever livros em tempo hábil.</VSE_Writing.description>
+  <VSE_Writing.label>Escrita</VSE_Writing.label>
+  <Warden.description>Especialização em lidar com prisioneiros e escravos, recrutá-los e prendê-los quando necessário.</Warden.description>
+  <Warden.label>Guarda</Warden.label>
+  <Weaponsmith.description>Especialização em criar armas excelentes.</Weaponsmith.description>
+  <Weaponsmith.label>Fabricação de armas</Weaponsmith.label>
+</LanguageData>

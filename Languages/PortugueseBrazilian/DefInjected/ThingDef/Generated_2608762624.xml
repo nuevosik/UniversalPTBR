@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEArch_AnimalGate.description>Uma porta com um portão fácil de abrir para que possa ser empurrado por animais. Permite a passagem de animais, mas não isola o ambiente. Portões para animais são frequentemente usados ​​como entradas de celeiros em climas mais quentes.</VFEArch_AnimalGate.description>
+  <VFEArch_AnimalGate.label>portão de animais</VFEArch_AnimalGate.label>
+  <VFEArch_ArmoredDoor.description>Divide quartos. As portas blindadas devem ser abertas manualmente, o que retarda as pessoas. As portas blindadas são quase totalmente resistentes a explosões e dificilmente sofrem danos causados ​​por métodos de arrombamento.</VFEArch_ArmoredDoor.description>
+  <VFEArch_ArmoredDoor.label>porta blindada</VFEArch_ArmoredDoor.label>
+  <VFEArch_ArmoredWall.description>Uma parede pesada e intransponível com múltiplas camadas de armadura. Quase completamente resistente a explosivos e quaisquer ferramentas de violação.</VFEArch_ArmoredWall.description>
+  <VFEArch_ArmoredWall.label>parede blindada</VFEArch_ArmoredWall.label>
+  <VFEArch_BrickFence.description>Uma cerca de tijolos formava altos pilares de tijolos e uma cerca curta entre eles, usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.</VFEArch_BrickFence.description>
+  <VFEArch_BrickFence.label>cerca de tijolo</VFEArch_BrickFence.label>
+  <VFEArch_CellDoor.description>Uma porta lenta que separa dois quartos. As portas das celas não podem ser atacadas por prisioneiros.</VFEArch_CellDoor.description>
+  <VFEArch_CellDoor.label>porta da cela</VFEArch_CellDoor.label>
+  <VFEArch_CellWall.description>Um muro intransponível composto por grades de prisão. Não pode ser atacado por prisioneiros.</VFEArch_CellWall.description>
+  <VFEArch_CellWall.label>parede celular</VFEArch_CellWall.label>
+  <VFEArch_ChainlinkFence.description>Uma cerca de metal feita de postes unidos por folhas de arame usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.</VFEArch_ChainlinkFence.description>
+  <VFEArch_ChainlinkFence.label>cerca de arame</VFEArch_ChainlinkFence.label>
+  <VFEArch_FineWall.description>Uma parede linda e intransponível. Capaz de sustentar um telhado.</VFEArch_FineWall.description>
+  <VFEArch_FineWall.label>parede fina</VFEArch_FineWall.label>
+  <VFEArch_HedgeWall.description>Um muro intransponível feito de cerca viva falsa. Muito inflamável.</VFEArch_HedgeWall.description>
+  <VFEArch_HedgeWall.label>parede de cerca viva</VFEArch_HedgeWall.label>
+  <VFEArch_InvisibleFence.description>Uma cerca invisível, para jogadores que desejam criar seus próprios currais sem cercas, ou fazer com que rios ou árvores funcionem como barreiras de cerca. Não tem nenhum custo de caminho - portanto, não retarda os peões que desejam atravessá-lo.</VFEArch_InvisibleFence.description>
+  <VFEArch_InvisibleFence.label>cerca invisível</VFEArch_InvisibleFence.label>
+  <VFEArch_LogWall.description>Uma parede de toras de madeira colocadas horizontalmente, para uma sensação agradável e caseira. Capaz de sustentar um telhado.</VFEArch_LogWall.description>
+  <VFEArch_LogWall.label>parede de toras</VFEArch_LogWall.label>
+  <VFEArch_LowFence.description>Cerca feita de postes unidos por travessas, usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.</VFEArch_LowFence.description>
+  <VFEArch_LowFence.label>cerca baixa</VFEArch_LowFence.label>
+  <VFEArch_PicketFence.description>Cerca feita de postes unidos por tábuas verticais de madeira chamadas estacas, usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.
+	
+As cercas de estacas são consideravelmente mais bonitas do que as alternativas e evocam uma sensação agradável e caseira.</VFEArch_PicketFence.description>
+  <VFEArch_PicketFence.label>cerca de piquete</VFEArch_PicketFence.label>
+  <VFEArch_SingleDoor.description>Divide quartos. Portas simples devem ser abertas manualmente, o que retarda as pessoas. A quantidade de desaceleração não depende do material da porta.</VFEArch_SingleDoor.description>
+  <VFEArch_SingleDoor.label>porta única</VFEArch_SingleDoor.label>
+  <VFEArch_SingleDoor_Flipped.label>porta única (invertida)</VFEArch_SingleDoor_Flipped.label>
+</LanguageData>

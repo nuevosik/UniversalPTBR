@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bulldog_MainTurret.description>Um canhão grande e de longo alcance, capaz de disparar projéteis explosivos a média distância. Geralmente montado em tanques Bulldog.</Bulldog_MainTurret.description>
+  <Bulldog_MainTurret.fireModes.0.label>Tiro único</Bulldog_MainTurret.fireModes.0.label>
+  <Bulldog_MainTurret.label>canhão de buldogue</Bulldog_MainTurret.label>
+  <Highwayman_MainTurret.description>Um canhão minitorre de ligação dupla com blindagem leve. Geralmente montado em veículos blindados de transporte de pessoal Highwaymen. Precisa ser recarregado com aço. Só pode atirar em curto alcance, mas não tem problemas em atirar contra inimigos que atacam o veículo em combate corpo a corpo.</Highwayman_MainTurret.description>
+  <Highwayman_MainTurret.fireModes.0.label>Explodido</Highwayman_MainTurret.fireModes.0.label>
+  <Highwayman_MainTurret.label>torre de salteador</Highwayman_MainTurret.label>
+  <Roadkill_MainTurret.description>Um canhão capaz de disparar projéteis explosivos de tanques a média distância. Geralmente montado em tanques Roadkill. Precisa ser recarregado com aço. Não é possível atirar enquanto se move. Tem um alcance decente, mas não consegue atingir inimigos muito próximos.</Roadkill_MainTurret.description>
+  <Roadkill_MainTurret.fireModes.0.label>Tiro único</Roadkill_MainTurret.fireModes.0.label>
+  <Roadkill_MainTurret.label>canhão de atropelamento</Roadkill_MainTurret.label>
+  <Scytheman_MainTurret.description>Um lançador impreciso, capaz de disparar duas barragens de foguetes cobrindo uma grande área. A torre não dispara até que alguém ordene que ela atire. É muito eficaz contra grandes grupos de combatentes mais fracos, mas menos eficaz contra um pequeno número de alvos blindados. Disparos extensos podem superaquecer e desativar a torre.</Scytheman_MainTurret.description>
+  <Scytheman_MainTurret.fireModes.0.label>Explodido</Scytheman_MainTurret.fireModes.0.label>
+  <Scytheman_MainTurret.label>Torre de enxame de foguetes</Scytheman_MainTurret.label>
+  <Tango_MainTurret.description>Uma pesada torre automática montada em um Tango APC. Seus projéteis de grande calibre causam grandes danos em distâncias significativas, mas são imprecisos e consomem muita munição.</Tango_MainTurret.description>
+  <Tango_MainTurret.fireModes.0.label>Solteiro</Tango_MainTurret.fireModes.0.label>
+  <Tango_MainTurret.fireModes.1.label>Explodido</Tango_MainTurret.fireModes.1.label>
+  <Tango_MainTurret.label>canhão automático de tango</Tango_MainTurret.label>
+  <Toad_MainTurret.description>Uma torre de morteiro que lança todos os tipos de projéteis, normalmente montada em cápsulas de cerco do Toad. Embora possa infligir danos devastadores, a imprecisão inerente do morteiro o torna mais útil para atacar grandes fortificações do que grupos de inimigos no campo.</Toad_MainTurret.description>
+  <Toad_MainTurret.fireModes.0.label>Solteiro</Toad_MainTurret.fireModes.0.label>
+  <Toad_MainTurret.label>artilharia de sapo</Toad_MainTurret.label>
+  <VVE_Bunsen_MainTurret.description>Uma torre lança-chamas de médio alcance com blindagem leve, geralmente montada em tanques Bunsen. Recebe combustível diretamente do tanque químico do veículo. Bastante devastador contra a infantaria, o lança-chamas Bunsen luta contra alvos blindados.</VVE_Bunsen_MainTurret.description>
+  <VVE_Bunsen_MainTurret.fireModes.0.label>Vomito de Fogo</VVE_Bunsen_MainTurret.fireModes.0.label>
+  <VVE_Bunsen_MainTurret.label>lança-chamas bunsen</VVE_Bunsen_MainTurret.label>
+</LanguageData>

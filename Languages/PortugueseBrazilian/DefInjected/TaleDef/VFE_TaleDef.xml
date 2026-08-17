@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <Tale_UsedComputer.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] focando intensamente no [OBJECT_label] à sua frente</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] olhando furiosamente para um [OBJECT_label]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] divertindo-se em um [OBJECT_label]</li>
+    <li>image-&gt;[PAWN_nameFull] posicionado sobre o [OBJECT_label], [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] digitando pesadamente no [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;concentrando-se</li>
+    <li>circumstance_phrase-&gt;com seu corpo solto e relaxado</li>
+    <li>circumstance_phrase-&gt;reclinado em sua cadeira</li>
+    <li>desc_sentence-&gt;Uma aurora [Color] brilha ao fundo.</li>
+    <li>desc_sentence-&gt;Ao longe, uma [Community] é visível.</li>
+    <li>desc_sentence-&gt;Ao longe, um(a) [TerrainFeature] é visível.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] está focado na tela.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] ergue-se sobre a cena.</li>
+  </Tale_UsedComputer.rulePack.rulesStrings>
+  
+  <Tale_UsedPunchingBag.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] descontando sua raiva em um [OBJECT_label]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] olhando furiosamente para um [OBJECT_label]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] divertindo-se em um [OBJECT_label]</li>
+    <li>image-&gt;[PAWN_nameFull] posicionado sobre o [OBJECT_label], [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] socando o [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;tenso de energia</li>
+    <li>circumstance_phrase-&gt;com seu corpo solto e relaxado</li>
+    <li>circumstance_phrase-&gt;massageando suavemente os pulsos</li>
+    <li>circumstance_phrase-&gt;[angstyverb] com uma expressão [AdjectiveAngsty]</li>
+    <li>circumstance_phrase-&gt;enrolando fita nas mãos</li>
+    <li>circumstance_phrase-&gt;[angstyverb]</li>
+    <li>desc_sentence-&gt;Uma aurora [Color] brilha ao fundo.</li>
+    <li>desc_sentence-&gt;Ao longe, uma [Community] é visível.</li>
+    <li>desc_sentence-&gt;Ao longe, um(a) [TerrainFeature] é visível.</li>
+    <li>desc_sentence-&gt;os traços de [PAWN_nameDef] estão exagerados.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] ergue-se sobre a cena.</li>
+  </Tale_UsedPunchingBag.rulePack.rulesStrings>
+  
+</LanguageData>

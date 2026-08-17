@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_AdrenalineRush.description>Induz psiquicamente uma onda de adrenalina no lançador, bloqueando toda a dor e aumentando sua visão, audição e movimento. Dura cerca de trinta segundos dependendo da sensibilidade psíquica do usuário.</VPE_AdrenalineRush.description>
+  <VPE_AdrenalineRush.label>adrenalina</VPE_AdrenalineRush.label>
+  <VPE_Age.description>Suga de forma muito ineficiente a força vital de um alvo vivo, envelhecendo o lançador em 2 anos e envelhecendo o outro em 10. Efeitos colaterais muito debilitantes para a vítima e considerado uma ação hostil pelos aliados.</VPE_Age.description>
+  <VPE_Age.label>idade</VPE_Age.label>
+  <VPE_AggressiveHeatDump.description>Despeja instantaneamente todo o seu calor neural em um alvo, fazendo-o explodir com uma área de efeito relativa ao calor perdido. Uma boa declaração de guerra.</VPE_AggressiveHeatDump.description>
+  <VPE_AggressiveHeatDump.label>descarga de calor agressiva</VPE_AggressiveHeatDump.label>
+  <VPE_AnimalAllies.description>Infunde uma grande área com força vital harmônica que influencia o comportamento dos animais, fazendo com que eles ataquem aqueles hostis ao lançador por um período que aumenta com sua sensibilidade psíquica.</VPE_AnimalAllies.description>
+  <VPE_AnimalAllies.label>aliados animais</VPE_AnimalAllies.label>
+  <VPE_Assassinate.description>Vincula a sombra do lançador a um alvo em áreas escuras, permitindo que ele salte para frente e para trás várias vezes para atacar corpo a corpo. A quantidade de acertos depende da sensibilidade psíquica do lançador.</VPE_Assassinate.description>
+  <VPE_Assassinate.label>assassinar</VPE_Assassinate.label>
+  <VPE_BallLightning.description>O lançador comprime uma bola de eletricidade condensada que se moverá lentamente para um local designado. Alguns segundos após o lançamento, ele começará a descarregar em alvos próximos com raios de eletricidade vivos.</VPE_BallLightning.description>
+  <VPE_BallLightning.label>relâmpago de bola</VPE_BallLightning.label>
+  <VPE_Beckon.description>Comande psiquicamente o alvo para se aproximar do lançador.</VPE_Beckon.description>
+  <VPE_Beckon.label>acenar</VPE_Beckon.label>
+  <VPE_BendProbability.description>Cria uma onda de escala cósmica que forçará algo a acontecer.</VPE_BendProbability.description>
+  <VPE_BendProbability.label>probabilidade de curvatura</VPE_BendProbability.label>
+  <VPE_Berserk.description>Induz uma psicose frenética na mente do alvo, fazendo com que ele ataque qualquer pessoa próxima. Eles recuperam a racionalidade após 15 segundos, dependendo da sua sensibilidade psíquica.</VPE_Berserk.description>
+  <VPE_Berserk.label>furioso</VPE_Berserk.label>
+  <VPE_BerserkPulse.description>Gera uma onda avassaladora de raiva não direcionada em todos que estão perto do ponto alvo. Considerado um ato evidente de agressão e dura vários segundos.</VPE_BerserkPulse.description>
+  <VPE_BerserkPulse.label>pulso frenético</VPE_BerserkPulse.label>
+  <VPE_BladeFocus.description>Aumenta psiquicamente as fibras musculares, ligamentos e articulações dos braços do lançador, dobrando sua velocidade de ataque corpo a corpo por aproximadamente dois minutos, dependendo de sua sensibilidade psíquica.</VPE_BladeFocus.description>
+  <VPE_BladeFocus.label>foco da lâmina</VPE_BladeFocus.label>
+  <VPE_BlindingPulse.description>Induza ruído nos centros visuais do cérebro, obscurecendo a visão de todos que estão próximos do ponto alvo. Dura meio minuto, afetado pela sensibilidade psíquica.</VPE_BlindingPulse.description>
+  <VPE_BlindingPulse.label>pulso ofuscante</VPE_BlindingPulse.label>
+  <VPE_Bliss.description>Após um breve período de meditação, induza uma sensação de serenidade no alvo que atinge a magnitude máxima perto do final do efeito. À medida que a sensação calmante se torna mais pronunciada, será mais difícil concentrar-se, mas isso não é considerado uma ação maliciosa.</VPE_Bliss.description>
+  <VPE_Bliss.label>bênção</VPE_Bliss.label>
+  <VPE_Blizzard.description>Usando skipgates de pressão diferencial, skipgates ligados à água e nós de entropia psíquica, cria uma nevasca rodopiante longe do lançador. Aqueles expostos à tempestade experimentam visão, movimentação e manipulação reduzidas, bem como acúmulo de hipotermia e frio cortante. A duração varia de acordo com a sensibilidade psíquica do lançador e o coloca em coma.</VPE_Blizzard.description>
+  <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
+  <VPE_Bolt.description>Lança um raio fraco de eletricidade para atingir uma pequena área alvo, a uma distância que aumenta com a sensibilidade psíquica. Queima em ataques diretos e inflige dano de EMP em área.</VPE_Bolt.description>
+  <VPE_Bolt.label>parafuso</VPE_Bolt.label>
+  <VPE_BrambleMaze.description>Infunde uma área fértil com energia vital caótica, fazendo brotar brotos de amoreiras que murcham após 12 horas.</VPE_BrambleMaze.description>
+  <VPE_BrambleMaze.label>labirinto de espinheiro</VPE_BrambleMaze.label>
+  <VPE_BreatheFlame.description>Cospe um líquido inflamável que se inflama imediatamente, junto com tudo que as chamas tocam.</VPE_BreatheFlame.description>
+  <VPE_BreatheFlame.label>respirar chama</VPE_BreatheFlame.label>
+  <VPE_Burden.description>Retarde o alvo por um curto período, suprimindo a atividade motora do cérebro. Considerada uma ação hostil e afetada pela sensibilidade psíquica do alvo.</VPE_Burden.description>
+  <VPE_Burden.label>fardo</VPE_Burden.label>
+  <VPE_ChainBolt.description>Dispara um raio de eletricidade vivo em um alvo que pode vazar para alvos próximos, cuja quantidade aumenta com a sensibilidade psíquica. Causa pequenas queimaduras e danos de EMP.</VPE_ChainBolt.description>
+  <VPE_ChainBolt.label>parafuso de corrente</VPE_ChainBolt.label>
+  <VPE_ChaosSkip.description>Teleporte o alvo para uma posição aleatória de onde ele começou, a distância aumentando de acordo com a sensibilidade psíquica do lançador. Atordoa o alvo por um segundo e é considerada uma ação hostil.</VPE_ChaosSkip.description>
+  <VPE_ChaosSkip.label>caos pular</VPE_ChaosSkip.label>
+  <VPE_Chunkskip.description>Pule os 5 pedaços de rocha ou escória para espalhá-los perto do ponto alvo. Isto é útil para produzir cobertura durante operações ofensivas.</VPE_Chunkskip.description>
+  <VPE_Chunkskip.label>pular pedaço</VPE_Chunkskip.label>
+  <VPE_ColdZone.description>Faz com que uma área manifeste nós de entropia psíquica pelas próximas 24 horas, baixando drasticamente a temperatura.</VPE_ColdZone.description>
+  <VPE_ColdZone.label>zona fria</VPE_ColdZone.label>
+  <VPE_ConjureHeatPearls.description>Converte o calor neural do lançador em pérolas metafísicas comprimidas. Completamente inofensivo, mas libera uma quantidade enorme de calor neural em uma pequena área quando quebrado.</VPE_ConjureHeatPearls.description>
+  <VPE_ConjureHeatPearls.label>conjurar pérolas de calor</VPE_ConjureHeatPearls.label>
+  <VPE_ConsumeBodies.description>Retira psiquicamente toda a força vital restante dos cadáveres humanóides próximos e armazena a essência como um amortecedor permanente de acúmulo de calor neural.</VPE_ConsumeBodies.description>
+  <VPE_ConsumeBodies.label>consumir corpos</VPE_ConsumeBodies.label>
+  <VPE_ControlledFrenzy.description>Aumenta psiquicamente a destreza e o desejo de matar do lançador, dobrando sua produção de dano com todas as armas. Cada morte reduz o calor do lançador em 10 e reinicia a duração do frenesi.</VPE_ControlledFrenzy.description>
+  <VPE_ControlledFrenzy.label>frenesi controlado</VPE_ControlledFrenzy.label>
+  <VPE_Corpsetalk.description>Mire em um cadáver e aproprie-se temporariamente das habilidades da vítima para compensar as deficiências do lançador. O efeito dura uma temporada antes de voltar ao normal.</VPE_Corpsetalk.description>
+  <VPE_Corpsetalk.label>conversa de cadáver</VPE_Corpsetalk.label>
+  <VPE_CraftPsyRing.description>Altera psiquicamente a forma de um pedaço de eltex para o formato de um anel, que é imbuído do conhecimento de psicocasting do lançador. Quando usado por outro psicocaster, isso permite temporariamente que ele use esse conhecimento para realizar o psicocast armazenado sem prática.</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.label>psiring artesanal</VPE_CraftPsyRing.label>
+  <VPE_CraftTimeskip.description>Usando timeskipping muito preciso, move o item desejado para o estado final, como se o criador tivesse continuado trabalhando nele. Envelhece biologicamente o lançador em um ano inteiro.</VPE_CraftTimeskip.description>
+  <VPE_CraftTimeskip.label>criar timeskip</VPE_CraftTimeskip.label>
+  <VPE_CropBurst.description>Infunde energia vital em uma área fértil, fazendo com que brotem culturas plantáveis ​​que terminam o crescimento em relação à sensibilidade psíquica do lançador.</VPE_CropBurst.description>
+  <VPE_CropBurst.label>explosão de colheita</VPE_CropBurst.label>
+  <VPE_Darkness.description>Selecione uma área alvo para gerar um orbe de escuridão completamente ofuscante, cuja duração aumenta de acordo com a sensibilidade psíquica do lançador. Toda a visão é bloqueada e qualquer ataque interno ou de passagem será totalmente perdido.</VPE_Darkness.description>
+  <VPE_Darkness.label>escuridão</VPE_Darkness.label>
+  <VPE_Darkvision.description>Dá ao peão alvo uma membrana nictitante que permite que ele enxergue igualmente bem no escuro e durante o dia. A duração varia de acordo com a sensibilidade psíquica do alvo.</VPE_Darkvision.description>
+  <VPE_Darkvision.label>visão no escuro</VPE_Darkvision.label>
+  <VPE_Deathshield.description>Bloqueia a força vital do alvo tocado por um dia, evitando que ele morra. Após esse período, eles podem morrer devido a ferimentos acumulados, perda de sangue ou perda de membros ou órgãos.</VPE_Deathshield.description>
+  <VPE_Deathshield.label>escudo mortal</VPE_Deathshield.label>
+  <VPE_Decoy.description>Cria um campo localizado de desarmonia óptica para viajar e permanecer no local desejado, com duração escalonada com sensibilidade psíquica. A ilusão atrairá a ira de todos os inimigos.</VPE_Decoy.description>
+  <VPE_Decoy.label>chamariz</VPE_Decoy.label>
+  <VPE_DrainPsyessence.description>Mirar em um peão com talento psíquico abatido induz um intenso ruído psíquico harmônico para liquefazer sua carne e convertê-la em essência psíquica para ser absorvida pelo lançador como seu próprio talento psíquico acumulado. Os momentos finais de desintegração psíquica serão sentidos por todos num raio de muitos quilómetros, causando consequências diplomáticas com todas as facções.</VPE_DrainPsyessence.description>
+  <VPE_DrainPsyessence.label>drenar a psiessência</VPE_DrainPsyessence.label>
+  <VPE_Eclipse.description>Ao colocar estrategicamente um orbe de escuridão ofuscante no alto do céu, o lançador pode efetivamente causar um eclipse espontâneo.</VPE_Eclipse.description>
+  <VPE_Eclipse.label>eclipse</VPE_Eclipse.label>
+  <VPE_EnchantQuality.description>Manipular psiquicamente um objeto ou estrutura para melhorar sua qualidade geral. A qualidade máxima depende da sensibilidade psíquica.</VPE_EnchantQuality.description>
+  <VPE_EnchantQuality.label>encantar qualidade</VPE_EnchantQuality.label>
+  <VPE_EnergyDump.description>Elimina o acúmulo de fadiga em um alvo próximo e o deixa completamente revigorado. Em troca, o lançador fica completamente exausto e precisando de uma boa soneca.</VPE_EnergyDump.description>
+  <VPE_EnergyDump.label>despejo de energia</VPE_EnergyDump.label>
+  <VPE_Enthrall.description>Retira psiquicamente a força vital do alvo falecido e a infunde diretamente em seus ossos, animando-os por um dia inteiro. O único instinto restante é infligir dor aos inimigos do lançador.</VPE_Enthrall.description>
+  <VPE_Enthrall.label>encantar</VPE_Enthrall.label>
+  <VPE_EssenceTransfer.description>Infunde a força vital de outra pessoa próxima em um animal da colônia, ligando-os e colocando o lançador em coma. Caso a pessoa vinculada morra, o animal vinculado irá para o seu lado e transferirá para ela sua própria essência de vida harmonizada, morrendo após a conclusão. Se o animal vinculado morrer primeiro, o efeito será perdido e só poderá haver um link por vez.</VPE_EssenceTransfer.description>
+  <VPE_EssenceTransfer.label>transferência de essência</VPE_EssenceTransfer.label>
+  <VPE_Explosion.description>Acende uma pequena quantidade de química profunda abaixo da área alvo, que é liberada para a superfície em uma explosão. Queima a área e derrama o excesso de líquido.</VPE_Explosion.description>
+  <VPE_Explosion.label>explosão</VPE_Explosion.label>
+  <VPE_EyeBlast.description>Emulando uma estrela, o lançador comprime um gás altamente energizado que escapa na direção desejada, com dano escalonado com sensibilidade psíquica. Incendeia uma área pequena, mas distante.</VPE_EyeBlast.description>
+  <VPE_EyeBlast.label>explosão ocular</VPE_EyeBlast.label>
+  <VPE_Farskip.description>Passe o lançador, junto com qualquer pessoa que esteja perto dele, para um aliado disposto em um local distante. Isso pode enviar pessoas para longe do planeta, e as pessoas ignoradas sempre aparecerão perto de um aliado aleatório no mapa de destino e ficarão atordoadas por alguns segundos após a jornada.</VPE_Farskip.description>
+  <VPE_Farskip.label>farskip</VPE_Farskip.label>
+  <VPE_FireBeam.description>Tentativas de recriar o poder de uma estrela dentro de uma coluna concentrada de oxigênio quase liquefeito. A emissão de plasma resultante é tão poderosa que apenas os sistemas de armas mais avançados podem comparar. A concentração longa e intensa termina com o lançador entrando em coma.</VPE_FireBeam.description>
+  <VPE_FireBeam.label>feixe de fogo</VPE_FireBeam.label>
+  <VPE_FireShield.description>Cria uma aura de chamas ardentes ao redor do alvo por um tempo, impedindo-o de ser imolado e incendiando qualquer um que tente atacá-lo corpo a corpo. A duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_FireShield.description>
+  <VPE_FireShield.label>escudo de fogo</VPE_FireShield.label>
+  <VPE_FiringFocus.description>Aumenta psiquicamente as mãos, os olhos e a velocidade de reação do lançador, reduzindo o tempo de recarga do ataque à distância em 80% por aproximadamente dois minutos, dependendo de sua sensibilidade psíquica.</VPE_FiringFocus.description>
+  <VPE_FiringFocus.label>foco de disparo</VPE_FiringFocus.label>
+  <VPE_FlameTornado.description>Tentativas de recriar o poder de uma estrela dentro de um vórtice de oxigênio concentrado. A confusão de reações que ocorrem cria subprodutos inflamáveis ​​em seu rastro, ao mesmo tempo que deixa sua trajetória completamente imprevisível.</VPE_FlameTornado.description>
+  <VPE_FlameTornado.label>tornado de fogo</VPE_FlameTornado.label>
+  <VPE_Flameball.description>Lança um orbe de chamas condensadas, semelhante a uma granada, que explode com o impacto. O alcance aumenta de acordo com a sensibilidade psíquica do lançador.</VPE_Flameball.description>
+  <VPE_Flameball.label>bola de fogo</VPE_Flameball.label>
+  <VPE_Flashstorm.description>Use skipgates concentrados de pressão diferencial na atmosfera para gerar uma tempestade localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</VPE_Flashstorm.description>
+  <VPE_Flashstorm.label>tempestade</VPE_Flashstorm.label>
+  <VPE_Focus.description>Focalize psiquicamente a mente do alvo por um minuto, aumentando sua visão, audição e capacidade de movimento.</VPE_Focus.description>
+  <VPE_Focus.label>foco</VPE_Focus.label>
+  <VPE_FrostRay.description>Empurre um fluxo concentrado de entropia psíquica por alguns segundos, induzindo rapidamente cortes e hipotermia. A duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_FrostRay.description>
+  <VPE_FrostRay.label>raio de gelo</VPE_FrostRay.label>
+  <VPE_Ghostwalk.description>Reveste o lançador com uma camada de atrofia psíquica temporária, permitindo-lhe caminhar através de estruturas sem impedimentos e sem danificar nada. A duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_Ghostwalk.description>
+  <VPE_Ghostwalk.label>caminhada fantasma</VPE_Ghostwalk.label>
+  <VPE_GroupLink.description>Cria uma esfera de sugestão psíquica ao redor do lançador, ligando todos os peões dentro do lançador e permitindo que qualquer psicocast “Palavra de” alvo afete todos os outros. O efeito termina quando os vinculados saem do alcance.</VPE_GroupLink.description>
+  <VPE_GroupLink.label>link do grupo</VPE_GroupLink.label>
+  <VPE_GuardianSkipbarrier.description>Gere uma comporta esférica ao redor do lançador que envia todos os projéteis ao nível do solo para algum lugar distante, durando enquanto eles puderem gerenciar o acúmulo de calor. Pessoas e itens não são afetados. É preciso muita concentração para mantê-lo, portanto, o lançador precisa estar atento aos seus passos.</VPE_GuardianSkipbarrier.description>
+  <VPE_GuardianSkipbarrier.label>guardião skipbarrier</VPE_GuardianSkipbarrier.label>
+  <VPE_GuidedShot.description>Projeta uma aura psíquica por alguns momentos que permite ao lançador alterar o caminho de qualquer bala que disparar, efetivamente dobrando o alcance da arma e garantindo acertos durante todo o tempo. Escalas de duração com sensibilidade psíquica do lançador.</VPE_GuidedShot.description>
+  <VPE_GuidedShot.label>tiro guiado</VPE_GuidedShot.label>
+  <VPE_Haywire.description>Submete uma área a interferência psíquica, reconfigurando temporariamente até 3 sistemas de armas automatizados para proteger o lançador e seus aliados. A duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_Haywire.description>
+  <VPE_Haywire.label>descontrolado</VPE_Haywire.label>
+  <VPE_HealthSwap.description>Através da lei da troca equivalente, retorna a vitalidade do alvo primário à sua origem, transferindo todos os objetos estranhos e ferimentos para o alvo secundário.</VPE_HealthSwap.description>
+  <VPE_HealthSwap.label>troca de saúde</VPE_HealthSwap.label>
+  <VPE_HeatFocus.description>Inicia a meditação harmônica que converte todo o calor acumulado em foco psicológico após 10 segundos. Não é possível sobrecarregar o foco psíquico nem o despejo de calor.</VPE_HeatFocus.description>
+  <VPE_HeatFocus.label>foco de calor</VPE_HeatFocus.label>
+  <VPE_Hurricane.description>O lançador muda o clima à força - usando comportas de pressão diferencial generalizadas - para uma chuva torrencial com ventos com força de furacão, que dura enquanto o lançador puder gerenciar o acúmulo de calor e parar instantaneamente à vontade. Aqueles que estão ao ar livre experimentarão limitações progressivamente severas de visão, movimento e manipulação, a ponto de pararem completamente.</VPE_Hurricane.description>
+  <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
+  <VPE_IceBlock.description>Combinando nós de entropia psíquica e uma comporta ligada a um oceano, criando um grande bloco de gelo que se forma no local alvo. Frágil e pode derreter se a temperatura estiver acima de zero.</VPE_IceBlock.description>
+  <VPE_IceBlock.label>bloco de gelo</VPE_IceBlock.label>
+  <VPE_IceBreath.description>Inspire um fluxo de entropia psíquica, o frio resultante cortando e induzindo a hipotermia aumentando com a distância até o alvo.</VPE_IceBreath.description>
+  <VPE_IceBreath.label>respire gelo</VPE_IceBreath.label>
+  <VPE_IceCrystal.description>Cria um nó de entropia psíquica na forma de um cristal, sugando o calor da sala pelos próximos 5 dias.</VPE_IceCrystal.description>
+  <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
+  <VPE_IceShield.description>Cria uma aura de entropia psíquica ao redor do alvo por um tempo, impedindo-o de sentir frio e induzindo hipotermia em qualquer um que tente atacá-lo corpo a corpo. Escalas de duração com sensibilidade psíquica do lançador.</VPE_IceShield.description>
+  <VPE_IceShield.label>escudo de gelo</VPE_IceShield.label>
+  <VPE_IceSpike.description>Condensa vapor com entropia psíquica em um pingente de gelo lançado contra um alvo, o dano e a precisão aumentando com a sensibilidade psíquica.</VPE_IceSpike.description>
+  <VPE_IceSpike.label>pico de gelo</VPE_IceSpike.label>
+  <VPE_IceWall.description>Combinando nós de entropia psíquica e portais em miniatura ligados a um oceano, criando uma parede circular de gelo que se forma ao redor do lançador. Frágil e pode derreter se a temperatura estiver acima de zero.</VPE_IceWall.description>
+  <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
+  <VPE_IntensifyShadows.description>Vincula a sombra do lançador à sombra e infunde-a com uma escuridão ofuscante, mergulhando todas as áreas do mapa com menos de 50% de níveis de luz na escuridão total. A duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_IntensifyShadows.description>
+  <VPE_IntensifyShadows.label>intensificar sombras</VPE_IntensifyShadows.label>
+  <VPE_Invisibility.description>Manipule psiquicamente os centros visuais de todos os que estão próximos, tornando-os incapazes de perceber um determinado indivíduo por um curto período de tempo.</VPE_Invisibility.description>
+  <VPE_Invisibility.label>invisibilidade</VPE_Invisibility.label>
+  <VPE_Killskip.description>Teletransporta-se para o alvo e executa um ataque corpo a corpo, enfraquecido ou aumentado pela habilidade corpo a corpo do lançador. Se o alvo for morto, teletransporta-se para o próximo inimigo mais próximo sem nenhum custo e ataca novamente, até que não haja mais nada para matar.</VPE_Killskip.description>
+  <VPE_Killskip.label>killskip</VPE_Killskip.label>
+  <VPE_Liferot.description>Induz psiquicamente necrose em massa aleatória em um alvo, expondo as partes afetadas do corpo à infecção e induzindo vômito. A duração varia de acordo com a sensibilidade psíquica do alvo e é uma ação abertamente hostil.</VPE_Liferot.description>
+  <VPE_Liferot.label>podridão da vida</VPE_Liferot.label>
+  <VPE_LocationSwap.description>Usando skipgates de precisão, troca as posições do lançador e de um alvo visível.</VPE_LocationSwap.description>
+  <VPE_LocationSwap.label>troca de localização</VPE_LocationSwap.label>
+  <VPE_LuckTransfer.description>Cria uma ruptura no equilíbrio cármico, transferindo o carma negativo do primeiro alvo para o segundo alvo, bem como recebendo seu carma positivo. Afeta apenas o combate e a duração varia de acordo com a sensibilidade psíquica do primeiro alvo.</VPE_LuckTransfer.description>
+  <VPE_LuckTransfer.label>transferência de sorte</VPE_LuckTransfer.label>
+  <VPE_ManhunterPulse.description>Conduza animais em uma grande área à fúria da caça humana usando um pulso psíquico, com duração de um minuto. Considerada uma declaração de guerra se afetar os animais de uma caravana.</VPE_ManhunterPulse.description>
+  <VPE_ManhunterPulse.label>pulso do caçador</VPE_ManhunterPulse.label>
+  <VPE_MassBeckon.description>Comande psiquicamente os alvos dentro de uma área para se aproximarem do lançador.</VPE_MassBeckon.description>
+  <VPE_MassBeckon.label>massa acena</VPE_MassBeckon.label>
+  <VPE_MassChaosSkip.description>Pule todos perto de um ponto alvo para um local aleatório próximo. Considerado um incômodo, pois pode colocar aliados em perigo.</VPE_MassChaosSkip.description>
+  <VPE_MassChaosSkip.label>caos em massa pular</VPE_MassChaosSkip.label>
+  <VPE_MassHallucination.description>Criando uma enorme explosão de sugestão psíquica, convence os peões próximos de que os quartos são os melhores que poderiam ser. O lançador entra em coma e o efeito resultante dura cinco dias.</VPE_MassHallucination.description>
+  <VPE_MassHallucination.label>alucinação em massa</VPE_MassHallucination.label>
+  <VPE_Mend.description>Manipular psiquicamente um objeto ou estrutura para restaurar sua condição. Requer alta sensibilidade psíquica para qualquer restauração significativa.</VPE_Mend.description>
+  <VPE_Mend.label>consertar</VPE_Mend.label>
+  <VPE_MeteorShower.description>Salta e imola meteoróides em órbita para atingir uma área designada. O número de impactos varia de acordo com a sensibilidade psíquica.</VPE_MeteorShower.description>
+  <VPE_MeteorShower.label>chuva de meteoros</VPE_MeteorShower.label>
+  <VPE_MindBreak.description>Usando ruído psíquico harmônico concentrado, lobotomiza o alvo e o transforma em um servo inquieto e servo. Muito desvalorizado por suas antigas facções.</VPE_MindBreak.description>
+  <VPE_MindBreak.label>pausa mental</VPE_MindBreak.label>
+  <VPE_MindWipe.description>Induza uma amnésia retrógrada instantânea e inofensiva no alvo, eliminando todas as memórias, laços sociais e habilidades adquiridas fora de sua história de fundo. Eles também sentem uma forte afinidade com a colônia do conjurador e alegria em redescobrir as alegrias da vida sem compromisso.</VPE_MindWipe.description>
+  <VPE_MindWipe.label>limpar a mente</VPE_MindWipe.label>
+  <VPE_Mindcontrol.description>Domina psiquicamente um alvo por um breve período, aumentando sua sensibilidade psíquica, dando ao lançador um segundo corpo. No entanto, é difícil ser duas pessoas ao mesmo tempo.</VPE_Mindcontrol.description>
+  <VPE_Mindcontrol.label>controle da mente</VPE_Mindcontrol.label>
+  <VPE_NeuralHeatDetonation.description>De forma eficiente, mas indiscriminada, despeja todo o calor neural do lançador em uma explosão longe de si, sendo o tamanho relativo ao calor perdido.</VPE_NeuralHeatDetonation.description>
+  <VPE_NeuralHeatDetonation.label>detonação de calor neural</VPE_NeuralHeatDetonation.label>
+  <VPE_NeuralHeatDump.description>Descarregue instantaneamente todo o seu calor neural em um aliado consciente. Como efeito colateral, o alvo entrará em coma debilitante e inofensivo por cerca de um dia. O alvo deve aceitar ativamente a invasão psíquica, para que apenas aliados conscientes possam ser o alvo.</VPE_NeuralHeatDump.description>
+  <VPE_NeuralHeatDump.label>descarga de calor neural</VPE_NeuralHeatDump.label>
+  <VPE_Neuroquake.description>Encontre uma descontinuidade no campo psíquico e desdobre-a, liberando uma enorme quantidade de energia psíquica. Todas as criaturas ao alcance, mas fora do círculo interno seguro, ficarão violentamente loucas. Lançar isso leva 12 segundos de meditação e, depois, o lançador entrará em coma psíquico. Os ecos perturbadores do neuroquake infligirão dor a todos num raio de muitos quilómetros, causando consequências diplomáticas com todas as facções.</VPE_Neuroquake.description>
+  <VPE_Neuroquake.label>neuroquaque</VPE_Neuroquake.label>
+  <VPE_Neuroquake.modExtensions.0.message>Se você usar o neuroquake, todos nesta região sentirão o eco do neuroquake, você perderá a boa vontade com todas as facções não hostis.\n\nNeuroquake leva 12 segundos para ser lançado e não pode ser interrompido. Quando concluído, o lançador entrará em coma psíquico por até 5 dias.\n\nTodos ao alcance, exceto aqueles em um pequeno círculo ao redor do lançador, serão afetados.\n\nVocê realmente deseja lançar Neuroquake?</VPE_Neuroquake.modExtensions.0.message>
+  <VPE_Nightstep.description>Liga brevemente aliados próximos à sombra de um colono distante para teletransportá-los instantaneamente, mesmo através do planeta, desde que não estejam sobrecarregados. Só pode ser lançado à noite e atordoa temporariamente o lançador.</VPE_Nightstep.description>
+  <VPE_Nightstep.label>passo noturno</VPE_Nightstep.label>
+  <VPE_Obscure.description>Cria um campo de desarmonia óptica ao redor do lançador, fazendo com que os aliados afetados que estão na escuridão fiquem completamente invisíveis. Atacar quebra a ilusão.</VPE_Obscure.description>
+  <VPE_Obscure.label>obscurecer</VPE_Obscure.label>
+  <VPE_Overshield.description>Gere uma cancela esférica em um alvo que envia todos os projéteis ao nível do solo para algum lugar distante, com duração escalonada de acordo com a sensibilidade psíquica do alvo. Pessoas e itens não são afetados.</VPE_Overshield.description>
+  <VPE_Overshield.label>escudo protetor</VPE_Overshield.label>
+  <VPE_Painblock.description>Limite severamente as vias de dor no cérebro do alvo por alguns minutos. Isso pode permitir que uma pessoa se mova e aja mesmo com ferimentos graves que normalmente a incapacitariam.</VPE_Painblock.description>
+  <VPE_Painblock.label>analgésico</VPE_Painblock.label>
+  <VPE_ParalysisPulse.description>Emite uma nuvem de partículas negras do conjurador, que aflige a todos, inclusive o conjurador, dentro da área com abasia paralítica por um dia inteiro. O raio aumenta de acordo com a sensibilidade psíquica do lançador.</VPE_ParalysisPulse.description>
+  <VPE_ParalysisPulse.label>pulso de paralisia</VPE_ParalysisPulse.label>
+  <VPE_PlantTimeskip.description>Faz crescer todas as plantas em um raio ao redor do rodízio, avançando sua maturidade no equivalente a 7 dias. Envelhece biologicamente o lançador em um ano inteiro.</VPE_PlantTimeskip.description>
+  <VPE_PlantTimeskip.label>timeskip da planta</VPE_PlantTimeskip.label>
+  <VPE_Power.description>Altera metafisicamente a entrada de energia do equipamento designado para extrair energia diretamente das flutuações na espuma quântica por alguns dias. Escalas de duração com sensibilidade psíquica.</VPE_Power.description>
+  <VPE_Power.label>poder</VPE_Power.label>
+  <VPE_PowerLeap.description>Aumenta drasticamente as pernas, pés e coluna do lançador para poder saltar grandes distâncias e pousar sem ferimentos, a distância melhorando com a sensibilidade psíquica do usuário.</VPE_PowerLeap.description>
+  <VPE_PowerLeap.label>salto de poder</VPE_PowerLeap.label>
+  <VPE_PsychicDrone.description>Cria uma enorme aura de drone psíquico ao redor do lançador sintonizado com os hostis, frequentemente deixando-os loucos até que superem a ruptura. A duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_PsychicDrone.description>
+  <VPE_PsychicDrone.label>drone psíquico</VPE_PsychicDrone.label>
+  <VPE_PsychicGuidance.description>Amortece a visão, audição, movimento e manipulação do lançador em troca de sobrecarregar as próprias habilidades físicas do alvo.</VPE_PsychicGuidance.description>
+  <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
+  <VPE_PsychicShock.description>Choca psiquicamente a mente do alvo com imagens caóticas, bloqueando a percepção coerente e deixando-o em um estado de choque psíquico. Existe o risco de danos cerebrais e é abertamente hostil.</VPE_PsychicShock.description>
+  <VPE_PsychicShock.label>choque psíquico</VPE_PsychicShock.label>
+  <VPE_QuenchFlames.description>Converte um depósito local de deepchem em espuma retardante de fogo que é espalhada pelo usuário em uma grande área.</VPE_QuenchFlames.description>
+  <VPE_QuenchFlames.label>extinguir chamas</VPE_QuenchFlames.label>
+  <VPE_RaidPause.description>Dependendo da sensibilidade psíquica do lançador, retarda todos os invasores no mapa até a parada completa por até cinco minutos. Atacar qualquer invasor afetado faz com que todos eles voltem à ação.</VPE_RaidPause.description>
+  <VPE_RaidPause.label>pausa na invasão</VPE_RaidPause.label>
+  <VPE_Recharge.description>Ajusta cuidadosa e delicadamente um fluxo de eletricidade para uma bateria tocada para carregá-la com 100 kW ou o equivalente a 100 Wd/s. A duração da carga depende da sensibilidade psíquica do lançador.</VPE_Recharge.description>
+  <VPE_Recharge.label>recarregar</VPE_Recharge.label>
+  <VPE_RegrowLimbs.description>Induz um coma psíquico regenerativo no alvo que dura um dia inteiro. A energia psíquica auxilia o alvo regenerando lentamente quaisquer membros perdidos.</VPE_RegrowLimbs.description>
+  <VPE_RegrowLimbs.label>regenerar membros</VPE_RegrowLimbs.label>
+  <VPE_Resurrect.description>Ao sacrificar um dedo natural, o lançador é capaz de imitar os efeitos do soro mecânico ressuscitador em qualquer cadáver não dessecado, a energia psíquica reparando tecidos quebrados e trazendo o corpo de volta à vida. O alvo ficará incapacitado e sua lealdade permanecerá a mesma. Quanto menos preservado estiver o corpo, maior será a probabilidade de o alvo sofrer efeitos colaterais negativos. A concentração longa e intensa termina com o lançador entrando em coma.</VPE_Resurrect.description>
+  <VPE_Resurrect.label>ressuscitar</VPE_Resurrect.label>
+  <VPE_ReunionFarskip.description>Após um curto período de meditação e seguido de coma, ele acessa a linhagem sanguínea de um alvo para fazer com que todos os membros vivos da família se aproximem, nocauteados por choque psíquico. No entanto, isso não muda seus relacionamentos e é considerado rude por todas as outras facções.</VPE_ReunionFarskip.description>
+  <VPE_ReunionFarskip.label>reunião farskip</VPE_ReunionFarskip.label>
+  <VPE_ReverseEngineer.description>Manipular psiquicamente um objeto ou estrutura para aprender sua história e princípios, aniquilando-o no processo. Extremamente cansativo, fazendo com que o lançador entre em coma temporário.</VPE_ReverseEngineer.description>
+  <VPE_ReverseEngineer.label>engenharia reversa</VPE_ReverseEngineer.label>
+  <VPE_RockConstruct.description>Comprime uma parte da tolerância neural ao calor do lançador em cristais metafísicos e depois os implanta em um pedaço de pedra. Cria uma construção capaz de tarefas simples. Quebrar os cristais restaura a tolerância ao calor.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.label>construção rochosa</VPE_RockConstruct.label>
+  <VPE_SeasonTimeskip.description>Bloqueia o planeta inteiro em uma desaceleração induzida psiquicamente durante toda a temporada, efetivamente avançando uma temporada. Efeito quase instantâneo, muito extenuante e coloca o lançador em coma, além de envelhecê-lo biologicamente por um ano inteiro.</VPE_SeasonTimeskip.description>
+  <VPE_SeasonTimeskip.label>timeskip da temporada</VPE_SeasonTimeskip.label>
+  <VPE_SelfExplosion.description>Expele gás pressurizado e inflamável do lançador que se inflama imediatamente. Alta chance de incendiar aqueles que estão no local da explosão, mas causa pouco dano sem prejudicar o lançador.</VPE_SelfExplosion.description>
+  <VPE_SelfExplosion.label>auto explosão</VPE_SelfExplosion.label>
+  <VPE_ShadowFocus.description>A emissão de partículas de escuridão absorvente permite ao lançador aumentar sua sensibilidade psíquica, que aumenta inversamente com o nível de luz local.</VPE_ShadowFocus.description>
+  <VPE_ShadowFocus.label>foco na sombra</VPE_ShadowFocus.label>
+  <VPE_Shadowskip.description>Vincular o lançador à sua própria sombra permite que ele se teletransporte para uma área escura, mesmo que não consiga ver o local.</VPE_Shadowskip.description>
+  <VPE_Shadowskip.label>salto de sombra</VPE_Shadowskip.label>
+  <VPE_ShieldAnimals.description>Gera skipgates esféricos em todos os animais da colônia ao alcance, que envia todos os projéteis de entrada e saída ao nível do solo para algum lugar distante. Pessoas e itens não são afetados e a duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_ShieldAnimals.description>
+  <VPE_ShieldAnimals.label>proteger animais</VPE_ShieldAnimals.label>
+  <VPE_Shrineshield.description>Gere uma comporta esférica em um santuário natural que envia qualquer projétil que entra e sai, incluindo morteiros, para algum lugar distante. Pessoas e itens não são afetados e o tamanho da esfera depende do tamanho do santuário, enquanto a duração varia de acordo com a sensibilidade psíquica do lançador.</VPE_Shrineshield.description>
+  <VPE_Shrineshield.label>escudo do santuário</VPE_Shrineshield.label>
+  <VPE_SkillRoll.description>Inicia uma mudança no conhecimento e nas habilidades acumuladas do alvo, tentando reequilibrá-los de forma um tanto caótica com alguma orientação benéfica. A tensão coloca o lançador em coma.</VPE_SkillRoll.description>
+  <VPE_SkillRoll.label>rolagem de habilidade</VPE_SkillRoll.label>
+  <VPE_Skip.description>Teleporte o alvo para uma posição desejada, a distância aumentando de acordo com a sensibilidade psíquica do lançador, a partir de seu ponto inicial. Isto é considerado uma ação hostil.</VPE_Skip.description>
+  <VPE_Skip.label>pular</VPE_Skip.label>
+  <VPE_Skipdoor.description>Cria uma abertura para uma rede de skipgates que podem ser colocadas em qualquer local com presença permanente. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a utilizem e que diferentes psicocasters possam contribuir com ela. No entanto, os pontos de entrada são sensíveis a perturbações físicas que podem causar o seu colapso.</VPE_Skipdoor.description>
+  <VPE_Skipdoor.label>portinhola</VPE_Skipdoor.label>
+  <VPE_Skipshield.description>Gere uma comporta esférica que envia todos os projéteis de entrada e saída ao nível do solo para algum lugar distante. Pessoas e itens não são afetados. Escalas de duração com sensibilidade psíquica do lançador.</VPE_Skipshield.description>
+  <VPE_Skipshield.label>escudo</VPE_Skipshield.label>
+  <VPE_Smokepop.description>Pule as partículas de poeira sob a superfície do solo para formar uma nuvem espessa. Isso reduz a precisão de qualquer tiro disparado através dele e evita que as torres travem totalmente.</VPE_Smokepop.description>
+  <VPE_Smokepop.label>fumaça</VPE_Smokepop.label>
+  <VPE_SnapFreeze.description>Cria partículas de entropia psíquica e portais em miniatura para reservatórios de água acima de todos os alvos em uma pequena área, envolvendo-os em gelo. As vítimas sofrerão hipotermia, mas o gelo pode derreter prematuramente se a temperatura estiver acima de zero.</VPE_SnapFreeze.description>
+  <VPE_SnapFreeze.label>congelamento instantâneo</VPE_SnapFreeze.label>
+  <VPE_SolarPinhole.description>Gere uma passagem microscópica ligada ao núcleo de uma estrela próxima por alguns dias. O material solar vaza pela picada no espaço-tempo, iluminando e aquecendo a área circundante até fechar. A luz é suficiente para trabalhar, mas não o suficiente para cultivar plantas.</VPE_SolarPinhole.description>
+  <VPE_SolarPinhole.label>furo solar</VPE_SolarPinhole.label>
+  <VPE_SootheFemale.description>Envia um sinal para um motor distante de felicidade para começar a projetar um drone psíquico positivo, ao mesmo tempo que manipula um amplificador orbital que afeta apenas mulheres.</VPE_SootheFemale.description>
+  <VPE_SootheFemale.label>calma psíquica (feminino)</VPE_SootheFemale.label>
+  <VPE_SootheMale.description>Envia um sinal para um motor distante de felicidade para começar a projetar um drone psíquico positivo, ao mesmo tempo que manipula um amplificador orbital que afeta apenas homens.</VPE_SootheMale.description>
+  <VPE_SootheMale.label>calma psíquica (masculino)</VPE_SootheMale.label>
+  <VPE_SpeedBoost.description>Aumenta psiquicamente as fibras musculares, ligamentos e articulações das pernas do lançador, triplicando sua velocidade de movimento por aproximadamente dois minutos, dependendo de sua sensibilidade psíquica.</VPE_SpeedBoost.description>
+  <VPE_SpeedBoost.label>aumento de velocidade</VPE_SpeedBoost.label>
+  <VPE_Stabilize.description>Coloca temporariamente o sistema cardiovascular do alvo em êxtase, o que o impede de sangrar por um tempo, aumentando com a sensibilidade psíquica do lançador.</VPE_Stabilize.description>
+  <VPE_Stabilize.label>estabilizar</VPE_Stabilize.label>
+  <VPE_StaticAura.description>O lançador designa um alvo próximo para receber uma aura de eletricidade crescente, que infligirá efeitos EMP em qualquer coisa estranha que ele se aproxime, incluindo estruturas, peões e objetos elétricos.</VPE_StaticAura.description>
+  <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
+  <VPE_StaticPulse.description>O lançador despeja uma enorme quantidade de voltagem no ar circundante, causando uma explosão de EMP em um raio enorme que, de outra forma, seria inofensivo.</VPE_StaticPulse.description>
+  <VPE_StaticPulse.label>pulso estático</VPE_StaticPulse.label>
+  <VPE_StealVitality.description>Suga vitalidade de uma fonte próxima, transferindo o fator de cura natural, velocidade de movimento e consciência do alvo para o lançador por um dia inteiro. Considerada uma ação abertamente hostil.</VPE_StealVitality.description>
+  <VPE_StealVitality.label>roubar vitalidade</VPE_StealVitality.label>
+  <VPE_SteelConstruct.description>Comprime uma parte da tolerância neural ao calor do lançador em cristais metafísicos e depois os implanta em escória de aço. Cria uma construção que protege o lançador. Quebrar os cristais restaura a tolerância ao calor.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.label>construção em aço</VPE_SteelConstruct.label>
+  <VPE_Stun.description>Interrompe momentaneamente a função motora do cérebro do alvo, impedindo qualquer movimento. Isso dura alguns segundos e é considerado uma ação hostil.</VPE_Stun.description>
+  <VPE_Stun.label>atordoar</VPE_Stun.label>
+  <VPE_SummonPack.description>Envia um pulso de força vital para a região, induzindo agressão territorial de caça humana a numerosos animais que aparecerão para defender a colônia. Assim que todos os invasores forem derrotados, os animais retornarão para suas casas. A força relativa das criaturas invocadas é influenciada pela sensibilidade psíquica do conjurador.</VPE_SummonPack.description>
+  <VPE_SummonPack.label>pacote de convocação</VPE_SummonPack.label>
+  <VPE_Thunderbolt.description>Invoca um raio para atingir um alvo, causando queimaduras em ataques diretos e uma área maior de dano EMP. O raio de impacto aumenta de acordo com a sensibilidade psíquica do lançador, até um máximo de 12 células.</VPE_Thunderbolt.description>
+  <VPE_Thunderbolt.label>raio</VPE_Thunderbolt.label>
+  <VPE_TimeReversal.description>Desvia ineficientemente a força vital para um alvo vivo, envelhecendo o lançador em 5 anos e diminuindo o envelhecimento do outro em 10. Tem uma idade mínima, remove penalidades relacionadas à idade e coloca o lançador em coma.</VPE_TimeReversal.description>
+  <VPE_TimeReversal.label>reversão do tempo</VPE_TimeReversal.label>
+  <VPE_TimeSphere.description>Comprime psiquicamente o fluxo do tempo em uma área. Envelhece rapidamente os seres vivos, as plantas florescem e murcham e as estruturas começam a se desintegrar devido ao estresse bizarro.</VPE_TimeSphere.description>
+  <VPE_TimeSphere.label>esfera do tempo</VPE_TimeSphere.label>
+  <VPE_Timequake.description>Encontre uma descontinuidade no campo psíquico e comprima-a, liberando uma enorme perturbação temporal. Cada criatura ao alcance, mas fora do círculo interno seguro, experimentará um envelhecimento rápido e as estruturas serão deformadas. Lançar isso leva 20 segundos de meditação e, depois, o lançador entrará em coma psíquico. Os perturbadores ecos do terremoto causarão dor a todos por muitos quilômetros ao redor, causando consequências diplomáticas com todas as facções.</VPE_Timequake.description>
+  <VPE_Timequake.label>terremoto temporal</VPE_Timequake.label>
+  <VPE_Timequake.modExtensions.2.message>Se você usar o timequake, todos nesta região sentirão o eco do timequake, você perderá a boa vontade com todas as facções não hostis.\n\nTimequake leva 20 segundos para ser lançado e não pode ser interrompido. Quando concluído, o lançador entrará em coma psíquico por até 5 dias.\n\nTodos, exceto aqueles em um pequeno círculo ao redor do lançador, serão afetados.\n\nVocê realmente deseja lançar Timequake?</VPE_Timequake.modExtensions.2.message>
+  <VPE_TimeskipMeditation.description>Coloca o lançador em coma autoinfligido enquanto ele ganha uma quantidade considerável de experiência para seu próximo nível de psicocast e recupera o foco psíquico completo. Envelhece biologicamente o lançador em cinco anos.</VPE_TimeskipMeditation.description>
+  <VPE_TimeskipMeditation.label>meditação timeskip</VPE_TimeskipMeditation.label>
+  <VPE_Transmutation.description>Através da lei da troca equivalente, converte um (pilha de) item(s) direcionado(s) em um item de valor igual ou inferior. Completamente imprevisível.</VPE_Transmutation.description>
+  <VPE_Transmutation.label>transmutação</VPE_Transmutation.label>
+  <VPE_TransmuteStone.description>Designa uma área de pedra que terá seus minerais trocados por um único tipo aleatório de estratos subterrâneos.</VPE_TransmuteStone.description>
+  <VPE_TransmuteStone.label>pedra de transmutação</VPE_TransmuteStone.label>
+  <VPE_TreeSprout.description>Infunde uma área fértil com potente energia vital, fazendo com que brotem árvores nativas totalmente crescidas. O raio efetivo aumenta com a sensibilidade psíquica, até um máximo de 8 peças.</VPE_TreeSprout.description>
+  <VPE_TreeSprout.label>broto de árvore</VPE_TreeSprout.label>
+  <VPE_Vortex.description>Manifesta um vórtice aberto de eletricidade de alta voltagem - redirecionado via skipgate de uma tempestade nebulosa - em uma área alvo com um grande efeito. Dificulta severamente o movimento e a manipulação proporcionalmente, com o efeito mais forte no centro.</VPE_Vortex.description>
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+  <VPE_Wallraise.description>Forme uma parede temporária removendo entulho e terra das profundezas do solo. Alcance decente e útil para bloquear a linha de visão e movimento por algumas horas.</VPE_Wallraise.description>
+  <VPE_Wallraise.label>levantamento de parede</VPE_Wallraise.label>
+  <VPE_Waterskip.description>Mergulhe um alvo em água, extinguindo incêndios e causando curto-circuito em qualquer estrutura elétrica. A água é arqueotecnologicamente ignorada de corpos d'água distantes ou aquíferos subterrâneos, com a quantidade ignorada aumentando com a sensibilidade psíquica.</VPE_Waterskip.description>
+  <VPE_Waterskip.label>salto aquático</VPE_Waterskip.label>
+  <VPE_WordofAlliance.description>Fale palavras de amizade e benefícios a um alvo próximo usando sugestões psíquicas, persuadindo-o a melhorar suas relações. Ineficaz contra hostilidade e escalas com alta sensibilidade psíquica.</VPE_WordofAlliance.description>
+  <VPE_WordofAlliance.label>palavra de aliança</VPE_WordofAlliance.label>
+  <VPE_WordofAnimals.description>Acalme um animal usando sugestões psíquicas, seja acalmando um animal caçador ou domesticando-o. Dependendo da sensibilidade psíquica do lançador e do tamanho do corpo de um animal, o tiro psicológico pode sair pela culatra e transformar o caçador de animais.</VPE_WordofAnimals.description>
+  <VPE_WordofAnimals.label>palavra de animais</VPE_WordofAnimals.label>
+  <VPE_WordofFear.description>Induz pânico ao sobrecarregar seu sistema de resposta de voo por uma duração que aumenta com sua sensibilidade psíquica. Considerada uma ação hostil.</VPE_WordofFear.description>
+  <VPE_WordofFear.label>palavra de medo</VPE_WordofFear.label>
+  <VPE_WordofForetelling.description>Sussurros psíquicos sobre o que está por vir. Os peões das colônias são inspirados, os neutros ou amigos melhoram as relações, os prisioneiros perdem a resistência e os inimigos recuam da sua condenação. Envelhece biologicamente o lançador em um ano inteiro.</VPE_WordofForetelling.description>
+  <VPE_WordofForetelling.label>palavra de predição</VPE_WordofForetelling.label>
+  <VPE_WordofHealing.description>Estimula psiquicamente as capacidades regenerativas de uma pessoa, triplicando efetivamente seu fator de cura natural por alguns dias.</VPE_WordofHealing.description>
+  <VPE_WordofHealing.label>palavra de cura</VPE_WordofHealing.label>
+  <VPE_WordofImmunity.description>Estimula psiquicamente o sistema imunológico de uma pessoa, efetivamente quase dobrando a velocidade de ganho de imunidade por alguns dias.</VPE_WordofImmunity.description>
+  <VPE_WordofImmunity.label>palavra de imunidade</VPE_WordofImmunity.label>
+  <VPE_WordofInspiration.description>Fale palavras que incentivem a criatividade enquanto sobrecarrega psiquicamente a mente do alvo com novas ideias. O alvo experimentará uma inspiração aleatória apropriada para ele.</VPE_WordofInspiration.description>
+  <VPE_WordofInspiration.label>palavra de inspiração</VPE_WordofInspiration.label>
+  <VPE_WordofJoy.description>Fale palavras alegres e calmantes para alguém enquanto usa sugestões psíquicas para implantar um ciclo de alegria em sua mente. O joyfuzz suprimirá pensamentos e sensações desconfortáveis ​​no alvo para melhorar o humor. Isso tem o efeito colateral de entorpecer a sensação e a tomada de decisões, o que reduz a consciência.</VPE_WordofJoy.description>
+  <VPE_WordofJoy.label>palavra de alegria</VPE_WordofJoy.label>
+  <VPE_WordofLove.description>Fale sobre as virtudes românticas de alguém enquanto usa a sugestão psíquica para implantar o desejo romântico no ouvinte. Durante os dias seguintes, o ouvinte sentirá atração romântica induzida psiquicamente pela outra pessoa. Isso aumenta muito a opinião e os torna muito mais propensos a tentar avanços românticos e propostas de casamento, se tiverem oportunidade. Este poder pode ser usado para conectar duas outras pessoas, induzir amor pelo conjurador ou forçar alguém a amar outra pessoa.</VPE_WordofLove.description>
+  <VPE_WordofLove.label>palavra de amor</VPE_WordofLove.label>
+  <VPE_WordofPain.description>Induz ruído nos centros de dor do cérebro do alvo e superestimula suas terminações nervosas, aumentando sua sensibilidade psíquica.</VPE_WordofPain.description>
+  <VPE_WordofPain.label>palavra de dor</VPE_WordofPain.label>
+  <VPE_WordofProductivity.description>Usar palavras de motivação com um grande impulso ao metabolismo torna o alvo tocado um membro mais produtivo da sociedade nos próximos dias. Considerada uma ação hostil e a duração é afetada pela sensibilidade psíquica do alvo.</VPE_WordofProductivity.description>
+  <VPE_WordofProductivity.label>palavra de produtividade</VPE_WordofProductivity.label>
+  <VPE_WordofProgress.description>Fale palavras que incentivem a capacidade de resolução de problemas enquanto hipercarrega psiquicamente a mente do alvo com uma visão aguçada. O alvo experimentará o dobro da velocidade de pesquisa e ganho de habilidade intelectual por 5 dias, aumentando de acordo com sua sensibilidade psíquica.</VPE_WordofProgress.description>
+  <VPE_WordofProgress.label>palavra de progresso</VPE_WordofProgress.label>
+  <VPE_WordofProtection.description>Usando ruído psíquico harmônico, altera fisicamente o corpo do alvo para ser mais durável e resistente a danos. Dura muito tempo e varia de acordo com a sensibilidade psíquica do lançador.</VPE_WordofProtection.description>
+  <VPE_WordofProtection.label>palavra de proteção</VPE_WordofProtection.label>
+  <VPE_WordofSerenity.description>Use palavras calmantes e sugestões psíquicas para encerrar uma ruptura mental de uma pessoa ou animal. O alvo cairá em um breve sono psíquico. O custo do foco psicológico depende da intensidade da ruptura mental do alvo.</VPE_WordofSerenity.description>
+  <VPE_WordofSerenity.label>palavra de serenidade</VPE_WordofSerenity.label>
+  <VPE_WordofTrust.description>Fale com o prisioneiro enquanto usa sugestões psíquicas para reduzir sua resistência ao recrutamento. Este psicocast só pode reduzir a resistência de um prisioneiro, mas não pode recrutá-lo.</VPE_WordofTrust.description>
+  <VPE_WordofTrust.label>palavra de confiança</VPE_WordofTrust.label>
+</LanguageData>
