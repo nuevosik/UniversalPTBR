@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Tradução Vanilla Expanded (PT-BR)</name>
+  <author>Rafael Naymaier</author>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>GitHubVersion.TraducaoVanillaExpanded.PTBR</packageId>
+  <description>Tradução para Português Brasileiro da série Vanilla Expanded. Em constante atualização para abranger todo o conteúdo disponível.</description>
+
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld</packageId>
+      <displayName>RimWorld</displayName>
+    </li>
+  </modDependencies>
+  
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Ludeon.RimWorld.Anomaly</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>OskarPotocki.VFE.Empire</li>
+    <li>OskarPotocki.VFE.Pirates</li>
+    <li>OskarPotocki.VFE.Insectoid2</li>
+    <li>OskarPotocki.VFE.Classical</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
+    <li>OskarPotocki.VFE.Medieval2</li>
+    <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.saurid</li>
+    <li>vanillaexpanded.gravship</li>
+    <li>vanillaracesexpanded.archon</li>
+    <li>vanillaracesexpanded.fungoid</li>
+    <li>vanillaracesexpanded.starjack</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>vanillaracesexpanded.pigskin</li>
+    <li>vanillaracesexpanded.waster</li>
+    <li>vanillaracesexpanded.hussar</li>
+    <li>vanillaracesexpanded.phytokin</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>vanillaracesexpanded.lycanthrope</li>
+    <li>vanillaracesexpanded.android</li>
+    <li>VanillaExpanded.VFECore</li>
+    <li>VanillaExpanded.VFEFarming</li>
+    <li>VanillaExpanded.VFEMedical</li>
+    <li>VanillaExpanded.VFEArchitect</li>
+    <li>VanillaExpanded.VFEProduction</li>
+    <li>VanillaExpanded.VFESpacer</li>
+    <li>VanillaExpanded.VFEArt</li>
+    <li>VanillaExpanded.VFEPower</li>
+    <li>VanillaExpanded.VFESecurity</li>
+    <li>VanillaExpanded.VARME</li>
+    <li>VanillaExpanded.VNutrientE</li>
+    <li>VanillaExpanded.Temperature</li>
+    <li>VanillaExpanded.VPlantsE</li>
+    <li>VanillaExpanded.VanillaTraitsExpanded</li>
+    <li>vanillaquestsexpanded.generator</li>
+    <li>vanillaquestsexpanded.ancients</li>
+    <li>vanillaquestsexpanded.deadlife</li>
+    <li>vanillaquestsexpanded.cryptoforge</li>
+    <li>SmashPhil.VehicleFramework</li>
+    <li>OskarPotocki.VanillaVehiclesExpanded</li>
+    <li>OskarPotocki.VanillaVehiclesExpandedTier3</li>
+    <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
+    <li>VanillaExpanded.VExplorationE</li>
+    <li>VanillaExpanded.VAnomalyEInsanity</li>
+    <li>sarg.alphaanimals</li>
+    <li>vanillaexpanded.vfefactory</li>
+    <li>vanillaexpanded.vfearchitect</li>
+    <li>vanillaexpanded.vfecore</li>
+    <li>vanillaexpanded.vfemedical</li>
+    <li>vanillaexpanded.vfesecurity</li>
+    <li>vanillaexpanded.vfeproduction</li>
+    <li>vanillaexpanded.vcef</li>
+    <li>vanillaexpanded.vee</li>
+    <li>vanillaexpanded.vfefarming</li>
+    <li>vanillaexpanded.vtexe</li>
+    <li>vanillaexpanded.vfepower</li>
+    <li>vanillaexpanded.vcooke</li>
+    <li>vanillaexpanded.vplantse</li>
+    <li>vanillaexpanded.vbrewe</li>
+    <li>vanillaexpanded.vpersonaweaponse</li>
+    <li>vanillaexpanded.vpsycastse</li>
+    <li>vanillaexpanded.vanillabackstoriesexpanded</li>
+    <li>vanillaexpanded.vanillaanimalsexpanded</li>
+    <li>vanillaexpanded.recycling</li>
+    <li>vanillaexpanded.vanillaaspirationsexpanded</li>
+    <li>vanillaexpanded.skills</li>
+  </loadAfter>
+</ModMetaData>
