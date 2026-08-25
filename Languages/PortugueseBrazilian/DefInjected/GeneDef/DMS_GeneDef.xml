@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DMS_Gene_MechanoidAffinity.label>afinidade mecanoide</DMS_Gene_MechanoidAffinity.label>
+  <DMS_Gene_MechanoidAffinity.description>Aumenta a eficiência de controle de mecanoides em {0}%. Compatível com xenotipo industrial.</DMS_Gene_MechanoidAffinity.description>
+  <DMS_Gene_HemogenEfficient.label>hemogênio eficiente</DMS_Gene_HemogenEfficient.label>
+  <DMS_Gene_HemogenEfficient.description>Reduz consumo de hemogênio ao instalar biônicos em {PAWN_name} para {0} por operação.</DMS_Gene_HemogenEfficient.description>
+</LanguageData>

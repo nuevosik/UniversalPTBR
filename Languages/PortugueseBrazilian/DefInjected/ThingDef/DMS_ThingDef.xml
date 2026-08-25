@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DMS_Mech_Tarbosaurus.label>tarbossauro mecanizado</DMS_Mech_Tarbosaurus.label>
+  <DMS_Mech_Tarbosaurus.description>Unidade pesada de assalto da Nara Industries. Equipe com armas pesadas via clique direito quando o mecanoide estiver selecionado.\nPode transportar {0} com capacidade de carga dedicada.</DMS_Mech_Tarbosaurus.description>
+  <DMS_Mech_Protector.label>protetor mecanizado</DMS_Mech_Protector.label>
+  <DMS_Mech_Protector.description>Mecanoide de escolta com blindagem reativa. Requer {0} para rearme após disparo.</DMS_Mech_Protector.description>
+  <DMS_Mech_Grenadier.label>granadeiro mecanizado</DMS_Mech_Grenadier.label>
+  <DMS_Mech_Grenadier.description>Especialista em demolição. Dispare a carga com {PAWN_name} selecionado e alvo em {0}.</DMS_Mech_Grenadier.description>
+  <DMS_ExoSuit_Heavy.label>exo-esqueleto pesado</DMS_ExoSuit_Heavy.label>
+  <DMS_ExoSuit_Heavy.description>Exo-esqueleto tático que amplifica força e estabilidade. Use {PAWN_possessive} traje para operações de guindaste na gantry.</DMS_ExoSuit_Heavy.description>
+  <DMS_ExoSuit_Light.label>exo-esqueleto leve</DMS_ExoSuit_Light.label>
+  <DMS_ExoSuit_Light.description>Versão ágil do exo-esqueleto para reconhecimento. Integra-se ao dock point de manutenção.</DMS_ExoSuit_Light.description>
+  <DMS_Bionic_EconomyArm.label>braço biônico econômico</DMS_Bionic_EconomyArm.label>
+  <DMS_Bionic_EconomyArm.description>Prótese barata com desempenho reduzido. Instalação exige {0} de hemogênio e causa dor residual em {PAWN_objective}.</DMS_Bionic_EconomyArm.description>
+  <DMS_Gantry.label>gantry de montagem</DMS_Gantry.label>
+  <DMS_Gantry.description>Estação de montagem de mecanoides. Produz {0} unidades por ciclo.\nConsome {1} componentes industriais.</DMS_Gantry.description>
+  <DMS_DockPoint.label>ponto de ancoragem</DMS_DockPoint.label>
+  <DMS_DockPoint.description>Interface de acoplagem para mecanoides em manutenção. Conecte {PAWN_label} para recarga automática.</DMS_DockPoint.description>
+</LanguageData>

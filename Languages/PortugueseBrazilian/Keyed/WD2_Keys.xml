@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WD_OutpostEstablished>Posto avançado estabelecido em {0}.</WD_OutpostEstablished>
+  <WD_CaravanLaunched>Caravana lançada de {0} para {1}.</WD_CaravanLaunched>
+  <WD_GoodwillIncreased>Boa vontade com {0} aumentada em {1}.</WD_GoodwillIncreased>
+  <WD_GoodwillDecreased>Boa vontade com {0} reduzida em {1}.</WD_GoodwillDecreased>
+  <WD_CaravanArrived>Caravana chegou a {0} após {1} dias de viagem.</WD_CaravanArrived>
+  <WD_RoadBuilt>Estrada construída entre {0} e {1}.</WD_RoadBuilt>
+  <WD_OutpostUnderAttack>Posto avançado em {0} está sob ataque por {1}!</WD_OutpostUnderAttack>
+  <WD_OutpostDestroyed>Posto avançado em {0} foi destruído por {1}.</WD_OutpostDestroyed>
+  <WD_DashboardTitle>Painel de Dominação Mundial</WD_DashboardTitle>
+  <WD_DashboardDesc>Gerencie postos avançados, caravanas e diplomacia. Selecione um posto avançado em {0} para detalhes.\nCaravanas ativas: {1}</WD_DashboardDesc>
+  <WD_ConfigRequiresRestart>Alterar {0} requer reiniciar o jogo.</WD_ConfigRequiresRestart>
+  <WD_ExpertAssigned>Especialista {PAWN_name} designado ao posto avançado {0}.</WD_ExpertAssigned>
+  <WD_CaravanInventory>Inventário da caravana: {0} — capacidade restante {1}.</WD_CaravanInventory>
+  <WD_TrapTriggered>Armadilha em {0} ativada contra {PAWN_label}! Dano causado: {1}.</WD_TrapTriggered>
+  <WD_RoadBlockActive>Bloqueio em {0} interceptou caravana vinda de {1}.</WD_RoadBlockActive>
+  <WD_MaxGoodwillReached>Boa vontade máxima (200) atingida com {0}.</WD_MaxGoodwillReached>
+  <WD_AllianceFormed>Aliança formada com {0}. Bônus underdog ativo: {1}%.</WD_AllianceFormed>
+  <WD_WarDeclared>Guerra declarada contra {0} por {1}.</WD_WarDeclared>
+</LanguageData>

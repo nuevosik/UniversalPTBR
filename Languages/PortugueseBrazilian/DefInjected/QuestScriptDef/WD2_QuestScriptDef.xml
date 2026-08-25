@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WD_Quest_OutpostDefense.label>defesa do posto avançado</WD_Quest_OutpostDefense.label>
+  <WD_Quest_OutpostDefense.description>Defenda o posto avançado em {0} contra {1} invasores por {2} dias. Recompensa: {PAWN_name} recruta prisioneiro capturado.</WD_Quest_OutpostDefense.description>
+  <WD_Quest_CaravanEscort.label>escolta de caravana</WD_Quest_CaravanEscort.label>
+  <WD_Quest_CaravanEscort.description>Escolte a caravana de {0} para {1}. Se {PAWN_label} cair, a caravana retorna automaticamente.</WD_Quest_CaravanEscort.description>
+</LanguageData>

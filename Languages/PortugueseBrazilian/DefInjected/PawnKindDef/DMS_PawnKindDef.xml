@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DMS_PawnKind_NaraOperative.label>operativo Nara</DMS_PawnKind_NaraOperative.label>
+  <DMS_PawnKind_NaraOperative.description>Soldado cibernético equipado com exo-esqueleto leve e {0} granadas de pulso.</DMS_PawnKind_NaraOperative.description>
+  <DMS_PawnKind_MechPilot.label>piloto de mecanoide</DMS_PawnKind_MechPilot.label>
+  <DMS_PawnKind_MechPilot.description>Controla o tarbossauro via vínculo neural. Se {PAWN_name} cair, o mecanoide entra em modo autônomo por {0} segundos.</DMS_PawnKind_MechPilot.description>
+</LanguageData>
