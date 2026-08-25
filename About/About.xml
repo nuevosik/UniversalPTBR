@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Tradução Vanilla Expanded (PT-BR)</name>
+  <name>Tradução Universal (PT-BR)</name>
   <author>Rafael Naymaier</author>
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
-  <packageId>GitHubVersion.TraducaoVanillaExpanded.PTBR</packageId>
-  <description>Tradução para Português Brasileiro da série Vanilla Expanded. Em constante atualização para abranger todo o conteúdo disponível.</description>
+  <packageId>GitHubVersion.TraducaoUniversal.PTBR</packageId>
+  <description>Tradução para Português Brasileiro — Vanilla Expanded + mods universais curados (The Dead Man's Switch, World Domination 2.0 e mais). Em constante atualização para abranger todo o conteúdo disponível.</description>
 
   <modDependencies>
     <li>
@@ -91,5 +91,7 @@
     <li>vanillaexpanded.recycling</li>
     <li>vanillaexpanded.vanillaaspirationsexpanded</li>
     <li>vanillaexpanded.skills</li>
+    <li>Aoba.DeadMansSwitch</li>
+    <li>LikewiseHH.WorldDomination2</li>
   </loadAfter>
 </ModMetaData>

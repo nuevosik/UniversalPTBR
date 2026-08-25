@@ -1,5 +1,7 @@
 # Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
 
+> **Migrado para UniversalPTBR:** este repositório foi renomeado de `VanillaExpandedPTBR` para `UniversalPTBR` (`packageId` novo: `GitHubVersion.TraducaoUniversal.PTBR`). O item antigo da Workshop recebeu redirect. Assine o novo item.
+
 Olá! Bem-vindo ao meu projeto de tradução para a comunidade de RimWorld.
 
 Este repositório contém os arquivos de tradução para o Português do Brasil (PT-BR) de uma seleção de *mods* da popular série Vanilla Expanded.
