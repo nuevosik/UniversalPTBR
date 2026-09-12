@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <AskForPopUp>Adicionar facção(ões)</AskForPopUp>
-  <AskForPopUpExplained>Clique aqui para ser perguntado para cada facção se você deseja que ela seja adicionada ao seu jogo</AskForPopUpExplained>
+  <AskForPopUpExplained>Clique aqui para ser consultado sobre a adição de cada facção ao seu jogo</AskForPopUpExplained>
   <CSGLog>Habilite o log de depuração de geração de estrutura: </CSGLog>
   <CSGTitle>Geração de estrutura personalizada:</CSGTitle>
   <CanAddXFaction>{0} facções podem ser adicionadas ao seu save atual</CanAddXFaction>
   <FDTitle>Descoberta de facção</FDTitle>
-  <IP_BringIngredients>Trazer Ingredientes</IP_BringIngredients>
+  <IP_BringIngredients>Trazer ingredientes</IP_BringIngredients>
   <IP_BringIngredientsDesc>Trazer ingredientes para iniciar o processo</IP_BringIngredientsDesc>
-  <IP_CancelIngredients>Cancelar Trazer Ingredientes</IP_CancelIngredients>
-  <IP_CancelIngredientsDesc>Cancelar trazer ingredientes para este edifício</IP_CancelIngredientsDesc>
+  <IP_CancelIngredients>Cancelar transporte de ingredientes</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Cancelar o transporte de ingredientes para este edifício</IP_CancelIngredientsDesc>
   <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
   <IP_ChooseIngredient>Escolher Ingrediente</IP_ChooseIngredient>
   <IP_ChooseIngredientFourth>Escolha o quarto ingrediente</IP_ChooseIngredientFourth>
@@ -18,12 +18,12 @@
   <IP_ChooseOutput>Escolha a saída</IP_ChooseOutput>
   <IP_ChooseQualityAuto>Escolha a qualidade automática</IP_ChooseQualityAuto>
   <IP_FilledWith>{0} está cheio de {1}</IP_FilledWith>
-  <IP_FilledWithFourth>{0} A quarta vaga de está preenchida com {1}</IP_FilledWithFourth>
-  <IP_FilledWithSecond>{0}'s O 2º compartimento está cheio de {1}</IP_FilledWithSecond>
-  <IP_FilledWithThird>{0}'s O 3º compartimento está cheio de {1}</IP_FilledWithThird>
+  <IP_FilledWithFourth>{0}: o 4º compartimento está cheio de {1}</IP_FilledWithFourth>
+  <IP_FilledWithSecond>{0}: o 2º compartimento está cheio de {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>{0}: o 3º compartimento está cheio de {1}</IP_FilledWithThird>
   <IP_GenericProductFinished>Um produto terminou o processamento e está aguardando para ser recolhido</IP_GenericProductFinished>
   <IP_IngredientImproperlyDefined>Um dos ingredientes foi definido incorretamente para funcionar com o processador de itens, entre em contato com o autor da modificação</IP_IngredientImproperlyDefined>
-  <IP_IngredientPercentage> (preenchido em {0} de {1})</IP_IngredientPercentage>
+  <IP_IngredientPercentage> (preenchido: {0} de {1})</IP_IngredientPercentage>
   <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
   <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
   <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
@@ -42,7 +42,7 @@
   <IP_NoPowerDestroysWarning>{0} necessita de energia para começar a funcionar</IP_NoPowerDestroysWarning>
   <IP_NoRecipesHere>Nenhuma receita modificada encontrada para esta fábrica</IP_NoRecipesHere>
   <IP_Output>Saída {0}</IP_Output>
-  <IP_OutputDesc>O processador produzirá {0}. Precisa ser alimentado {1}</IP_OutputDesc>
+  <IP_OutputDesc>O processador produzirá {0}. É necessário fornecer {1}.</IP_OutputDesc>
   <IP_OutputVariable>Saída {0} de {1}</IP_OutputVariable>
   <IP_OutsideLightRange>O processo nesta máquina está sendo interrompido devido a um nível inadequado de luz e será prejudicado em breve</IP_OutsideLightRange>
   <IP_OverThreshold> Aguardando a saída ser limpa. O limite de saída é {0}</IP_OverThreshold>
@@ -64,7 +64,7 @@
   <IP_SetAutoQuality>Defina a qualidade para extração do produto. Quando o produto atingir essa qualidade, um colono irá recuperá-lo automaticamente e carregá-lo para um estoque, se disponível. Se não for definido, os produtos serão extraídos manualmente ou com qualidade lendária.</IP_SetAutoQuality>
   <IP_SpoiledDueToLight>O produto desta máquina estragou-se devido a um nível de luz inadequado</IP_SpoiledDueToLight>
   <IP_SpoiledDueToRain>O produto nesta máquina estragou devido ao mau tempo</IP_SpoiledDueToRain>
-  <IP_SpoiledDueToWrongTemp>O produto estragou devido a uma temperatura inadequada. Necessidades entre {0} e {1} ºC</IP_SpoiledDueToWrongTemp>
+  <IP_SpoiledDueToWrongTemp>O produto estragou devido a uma temperatura inadequada. A temperatura deve ficar entre {0} e {1} ºC.</IP_SpoiledDueToWrongTemp>
   <IP_TempRangeInThisMachine>O processo atual precisa de uma temperatura entre {0} e {1} ºC</IP_TempRangeInThisMachine>
   <IP_TemperatureDestroysWarning>{0} necessita de uma temperatura adequada ({1} - {2}) para começar a funcionar</IP_TemperatureDestroysWarning>
   <IP_ToggleAuto>Aquisição Automática de Ingredientes</IP_ToggleAuto>
@@ -74,13 +74,13 @@
   <IP_WrongTemp>O processo nesta máquina está sendo interrompido devido a uma temperatura inadequada e será danificado em breve</IP_WrongTemp>
   <KCSG.Add>Adicionar</KCSG.Add>
   <KCSG.AllowFoggedPosition>Permitir posição embaçada</KCSG.AllowFoggedPosition>
-  <KCSG.CantEnter>Não é possível entrar {0}</KCSG.CantEnter>
-  <KCSG.Enter>Digitar {0}</KCSG.Enter>
+  <KCSG.CantEnter>Não é possível entrar em {0}</KCSG.CantEnter>
+  <KCSG.Enter>Entrar em {0}</KCSG.Enter>
   <KCSG.Mapcontains>O mapa contém</KCSG.Mapcontains>
   <KCSG.Remove>Remover</KCSG.Remove>
   <KCSG.SpawnNearCenter>Surgir perto do centro</KCSG.SpawnNearCenter>
   <KCSG.SpawnPartOfEnnemyFaction>Gerar parte da facção inimiga</KCSG.SpawnPartOfEnnemyFaction>
-  <MVCF.Cooldown>Ainda em espera. {0} esquerda.</MVCF.Cooldown>
+  <MVCF.Cooldown>Ainda em espera. Restante: {0}.</MVCF.Cooldown>
   <MVCF.Setting>Estrutura de Combate Multi-Verbo</MVCF.Setting>
   <MVCF.Settings.Debug>Modo de desenvolvedor</MVCF.Settings.Debug>
   <MVCF.Settings.LogLevel>Nível de registro:</MVCF.Settings.LogLevel>
@@ -165,8 +165,8 @@
   <Outposts.TooClose>Muito perto do assentamento ou outro posto avançado, deve haver pelo menos 1 peça entre eles.</Outposts.TooClose>
   <Outposts.TotalSkill>Cumulativo {0} habilidade: {1}</Outposts.TotalSkill>
   <Outposts.WillProduce.0>Produzirá alguns itens em {0}</Outposts.WillProduce.0>
-  <Outposts.WillProduce.1>Produzirá {0}  {1} em {2}</Outposts.WillProduce.1>
-  <Outposts.WillProduce.2>Produzirá {0}  {1} e {2}  {3} em {4}</Outposts.WillProduce.2>
+  <Outposts.WillProduce.1>Produzirá {0} {1} em {2}</Outposts.WillProduce.1>
+  <Outposts.WillProduce.2>Produzirá {0} {1} e {2} {3} em {4}</Outposts.WillProduce.2>
   <Outposts.WillProduce.N>Produzirá o seguinte em {0}:\n {1}</Outposts.WillProduce.N>
   <PipeSystem_AddProcess>Adicionar processo</PipeSystem_AddProcess>
   <PipeSystem_AllowManualRefill>Permitir recarga manual</PipeSystem_AllowManualRefill>
@@ -178,7 +178,7 @@
   <PipeSystem_AugmentStackDescB>Aumente o tamanho máximo da pilha de saída em 10.</PipeSystem_AugmentStackDescB>
   <PipeSystem_CancelCurrentProcess>Cancelar processo atual</PipeSystem_CancelCurrentProcess>
   <PipeSystem_CantExtract>Não é possível extrair: os tanques estão cheios</PipeSystem_CantExtract>
-  <PipeSystem_CantPlaceHere>{0} só pode ser colocado no {1} depósito. Use um scanner de penetração no solo para encontrar os depósitos.</PipeSystem_CantPlaceHere>
+  <PipeSystem_CantPlaceHere>{0} só pode ser colocado no depósito de {1}. Use um scanner de penetração no solo para encontrar os depósitos.</PipeSystem_CantPlaceHere>
   <PipeSystem_ChooseResult>Escolha o resultado</PipeSystem_ChooseResult>
   <PipeSystem_ChooseResultDesc>Escolha o resultado do processador.</PipeSystem_ChooseResultDesc>
   <PipeSystem_Consumption>{0} consumo</PipeSystem_Consumption>
@@ -193,7 +193,7 @@
   <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
   <PipeSystem_DecreaseStackDesc>Diminua o tamanho máximo da pilha de saída em 1.</PipeSystem_DecreaseStackDesc>
   <PipeSystem_DecreaseStackDescB>Diminua o tamanho máximo da pilha de saída em 10.</PipeSystem_DecreaseStackDescB>
-  <PipeSystem_ExcessStored>{0} excesso líquido/armazenado na rede: {1}  {3}/d/ {2}  {3}</PipeSystem_ExcessStored>
+  <PipeSystem_ExcessStored>{0} excesso líquido/armazenado na rede: {1} {3}/d/ {2} {3}</PipeSystem_ExcessStored>
   <PipeSystem_ExtractAtCurrentQuality>Extrair com a qualidade atual</PipeSystem_ExtractAtCurrentQuality>
   <PipeSystem_ExtractAtCurrentQuality_Desc>Extraia o produto com a qualidade atual.</PipeSystem_ExtractAtCurrentQuality_Desc>
   <PipeSystem_ExtractingAtCurrent>Extração do produto com a qualidade atual</PipeSystem_ExtractingAtCurrent>
@@ -222,9 +222,9 @@
   <PipeSystem_ProcessNeedsAwfulAtLeast>O processo precisa avançar pelo menos até o tempo de qualidade péssimo, que é {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
   <PipeSystem_Processes>Processos</PipeSystem_Processes>
   <PipeSystem_ProcessorBuffer>Tampão: {0}</PipeSystem_ProcessorBuffer>
-  <PipeSystem_Produce>Produzir {0}  {1} de {2}  {3}.</PipeSystem_Produce>
-  <PipeSystem_ProduceLabel>Produzir {0}  {1} usando:</PipeSystem_ProduceLabel>
-  <PipeSystem_Producing>Produzindo {0}  {1}. Progresso do ciclo: {2}.</PipeSystem_Producing>
+  <PipeSystem_Produce>Produzir {0} {1} de {2} {3}.</PipeSystem_Produce>
+  <PipeSystem_ProduceLabel>Produzir {0} {1} usando:</PipeSystem_ProduceLabel>
+  <PipeSystem_Producing>Produzindo {0} {1}. Progresso do ciclo: {2}.</PipeSystem_Producing>
   <PipeSystem_Product>Produto</PipeSystem_Product>
   <PipeSystem_Production>{0} produção</PipeSystem_Production>
   <PipeSystem_ProductionExplained>O valor por dia de {0} este edifício produzirá para o {1} grade.</PipeSystem_ProductionExplained>
@@ -321,7 +321,7 @@
 Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros durante um ano inteiro.</VEF.HiringDesc>
   <VEF.HuntDescription>Enquanto estiver ativado, os personagens se moverão automaticamente para atacar alvos próximos.\n\nVocê pode clicar com o botão direito neste botão para ativar o disparo automático para TODAS as habilidades no peão selecionado.</VEF.HuntDescription>
   <VEF.LongTerm>Contratos de longo prazo são significativamente mais caros</VEF.LongTerm>
-  <VEF.MechsSection>Mecanóides</VEF.MechsSection>
+  <VEF.MechsSection>Mecanoides</VEF.MechsSection>
   <VEF.MinCapacityLevel>mín {MIN}%</VEF.MinCapacityLevel>
   <VEF.Name>Nome</VEF.Name>
   <VEF.NoRefund>O cancelamento do seu contrato não reembolsará a prata que você gastou nele.</VEF.NoRefund>
@@ -345,7 +345,7 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VEF.Value>Valor</VEF.Value>
   <VEF.Weapons.Stat_Thing_MaterialPerCharge>Munição por carga</VEF.Weapons.Stat_Thing_MaterialPerCharge>
   <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>A quantidade de {0} por carga, essa habilidade precisa ser recarregada.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
-  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0}  {1} por carga (total {2} encargos)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} por carga (total {2} encargos)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
   <VEF.WeatherDamages>Danos climáticos</VEF.WeatherDamages>
   <VEF_Always>Sempre</VEF_Always>
   <VEF_AlwaysDesc>Minérios extraídos por peões são sempre proibidos</VEF_AlwaysDesc>
@@ -390,7 +390,7 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VEF_UnforbidMinedOres>Minérios extraídos não proibidos</VEF_UnforbidMinedOres>
   <VEF_VerboseLogging>Registro detalhado</VEF_VerboseLogging>
   <VEF_WarningEggExplodes>Atenção, este ovo explode ao eclodir!</VEF_WarningEggExplodes>
-  <VEF_WhileCaravaning>Durante a caravana, produz {0}  {1} todo: </VEF_WhileCaravaning>
+  <VEF_WhileCaravaning>Durante a caravana, produz {0} {1} todo: </VEF_WhileCaravaning>
   <VFE.ChangeColorTo>Mude a cor para {0}</VFE.ChangeColorTo>
   <VFE.ChangeVisualDesc>Defina um visual específico para a construção ou item.</VFE.ChangeVisualDesc>
   <VFE.ChangeVisualLabel>Alterar visual</VFE.ChangeVisualLabel>
@@ -412,7 +412,7 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VFECore.StatsReport_Unpowered>Sem energia</VFECore.StatsReport_Unpowered>
   <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} ficou sem energia e foi deixado para trás.</VFEM.CaravanMachineRanOutPower>
   <VFEM.DroneGainsName>O nome do drone agora é {0}.</VFEM.DroneGainsName>
-  <VFEMRideableMachineTip>Este andróide é montável. As pessoas em uma caravana montarão os animais/droides mais rápidos disponíveis, melhorando a velocidade da caravana como um todo.</VFEMRideableMachineTip>
+  <VFEMRideableMachineTip>Este androide é montável. As pessoas em uma caravana montarão os animais/droides mais rápidos disponíveis, melhorando a velocidade da caravana como um todo.</VFEMRideableMachineTip>
   <VFEMechAttachTurret>Anexar torre</VFEMechAttachTurret>
   <VFEMechAttachTurretDesc>Construa uma torre no topo desta plataforma móvel. Isto exigirá que um colono forneça recursos iguais ao custo normal de construção daquela torre.</VFEMechAttachTurretDesc>
   <VFEMechForceRecharge>Forçar recarga</VFEMechForceRecharge>
