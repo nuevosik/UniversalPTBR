@@ -1,10 +1,10 @@
-# Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
+# Tradução Universal (PT-BR) — Vanilla Expanded e Mods Curados
 
 > **Migrado para UniversalPTBR:** este repositório foi renomeado de `VanillaExpandedPTBR` para `UniversalPTBR` (`packageId` novo: `GitHubVersion.TraducaoUniversal.PTBR`). O item antigo da Workshop recebeu redirect. Assine o novo item.
 
 Olá! Bem-vindo ao meu projeto de tradução para a comunidade de RimWorld.
 
-Este repositório contém os arquivos de tradução para o Português do Brasil (PT-BR) de uma seleção de *mods* da popular série Vanilla Expanded.
+Este repositório contém os arquivos de tradução para o Português do Brasil (PT-BR) de uma seleção de *mods* da popular série Vanilla Expanded, além de mods universais curados como *The Dead Man's Switch* e *World Domination 2.0*.
 
 Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni coragem pra fazer. 
 É também minha **primeira experiência com tradução e *modding***, e estou muito animado em contribuir para a comunidade brasileira!
@@ -13,7 +13,7 @@ Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni cora
 
 ## ✨ Mods Atualmente Traduzidos
 
-A tradução já abrange os seguintes módulos do Vanilla Expanded. Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
+A tradução já abrange os seguintes módulos do Vanilla Expanded e mods universais curados. Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
 
 | Mod Traduzido | Descrição |
 | :--- | :--- |
@@ -47,6 +47,8 @@ A tradução já abrange os seguintes módulos do Vanilla Expanded. Para cada um
 | **Vanilla Armour Expanded** | Coleção de novas armaduras e equipamentos de defesa. |
 | **Vanilla Nutrient Paste Expanded** | Sistemas e tubulações de pasta de nutrientes. |
 | **Vanilla Temperature Expanded** | Novos sistemas de aquecimento, resfriamento e ventilação. |
+| **The Dead Man's Switch** | Facção, genes, itens e missões. |
+| **World Domination 2.0** | Facções, objetos de mundo e missões. |
 ---
 
 ## 📝 Sobre o Projeto
@@ -65,7 +67,7 @@ Para instalar manualmente a tradução:
 
 1.  Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/releases/latest)
 2.  Extraia o conteúdo.
-3.  Copie a pasta resultante **`Tradução Vanilla Expanded PT-BR`** para o diretório de *mods* do RimWorld:
+3.  Copie a pasta resultante **`Tradução Universal (PT-BR)`** para o diretório de *mods* do RimWorld:
 
     > `...\Steam\steamapps\common\RimWorld\Mods\`
 
@@ -75,7 +77,7 @@ Para instalar manualmente a tradução:
 
 Para a maneira mais fácil de instalar a tradução, inscreva-se no item da Steam Workshop:
 
-🔗 [Steam Workshop::Tradução Vanilla Expanded (PT-BR)](https://steamcommunity.com/sharedfiles/filedetails/?id=3643091941)
+🔗 [Steam Workshop::Tradução Universal (PT-BR)](https://steamcommunity.com/sharedfiles/filedetails/?id=3643091941)
 
 ## 🤝 Contribuições
 
