@@ -17,7 +17,7 @@
   <AAVPE_Regeneration.label>regeneração</AAVPE_Regeneration.label>
   <AAVPE_StrengthenBlackHive.description>Este inseto Colmeia Negra foi fortalecido e será mais proficiente em combate.</AAVPE_StrengthenBlackHive.description>
   <AAVPE_StrengthenBlackHive.label>insetoide fortalecido</AAVPE_StrengthenBlackHive.label>
-  <AA_AcidBuildup_AgainstMechs.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial. Isso afetará até mesmo os mecanóides que geralmente são imunes ao ácido!</AA_AcidBuildup_AgainstMechs.description>
+  <AA_AcidBuildup_AgainstMechs.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial. Isso afetará até mesmo os mecanoides que geralmente são imunes ao ácido!</AA_AcidBuildup_AgainstMechs.description>
   <AA_AcidBuildup_AgainstMechs.label>queimadura ácida</AA_AcidBuildup_AgainstMechs.label>
   <AA_AcidBuildup_AgainstMechs.stages.0.label>menor, recebendo queimaduras</AA_AcidBuildup_AgainstMechs.stages.0.label>
   <AA_AcidBuildup_AgainstMechs.stages.1.label>moderado, recebendo queimaduras</AA_AcidBuildup_AgainstMechs.stages.1.label>
@@ -88,11 +88,11 @@
   <AA_MalevolentEye.stages.1.label>principal</AA_MalevolentEye.stages.1.label>
   <AA_MalevolentEye.stages.2.label>extremo</AA_MalevolentEye.stages.2.label>
   <AA_MalevolentEye.stages.3.label>extremo</AA_MalevolentEye.stages.3.label>
-  <AA_MechDisruption.description>A mira, velocidade e agilidade deste mecanóide estão sendo interrompidas por um edifício disruptor biomecanóide próximo.</AA_MechDisruption.description>
+  <AA_MechDisruption.description>A mira, velocidade e agilidade deste mecanoide estão sendo interrompidas por um edifício disruptor biomecanoide próximo.</AA_MechDisruption.description>
   <AA_MechDisruption.label>interrupção mecânica</AA_MechDisruption.label>
-  <AA_MechanoidRendingClaws.comps.0.tools.0.label>mecanóide rasgando garras</AA_MechanoidRendingClaws.comps.0.tools.0.label>
-  <AA_MechanoidRendingClaws.description>Garras afiadas especialmente projetadas para rasgar metais e eletrônicos, infligindo danos extras de EMP aos mecanóides, interrompendo temporariamente seus sistemas e causando danos elétricos adicionais.</AA_MechanoidRendingClaws.description>
-  <AA_MechanoidRendingClaws.label>mecanóide rasgando garras</AA_MechanoidRendingClaws.label>
+  <AA_MechanoidRendingClaws.comps.0.tools.0.label>mecanoide rasgando garras</AA_MechanoidRendingClaws.comps.0.tools.0.label>
+  <AA_MechanoidRendingClaws.description>Garras afiadas especialmente projetadas para rasgar metais e eletrônicos, infligindo danos extras de EMP aos mecanoides, interrompendo temporariamente seus sistemas e causando danos elétricos adicionais.</AA_MechanoidRendingClaws.description>
+  <AA_MechanoidRendingClaws.label>mecanoide rasgando garras</AA_MechanoidRendingClaws.label>
   <AA_MimeHediff.description>Afinal, este colono pode não ser uma pessoa real...</AA_MimeHediff.description>
   <AA_MimeHediff.label>escondido à vista de todos</AA_MimeHediff.label>
   <AA_MutantArm.comps.0.tools.0.label>punho</AA_MutantArm.comps.0.tools.0.label>
@@ -173,7 +173,7 @@
   <AA_VirulentFungalInfection.stages.3.label>extremo</AA_VirulentFungalInfection.stages.3.label>
   <AA_WinterPelt.description>Este animal possui uma bela pelagem de inverno, o que lhe confere boa resistência ao frio.</AA_WinterPelt.description>
   <AA_WinterPelt.label>pele de inverno</AA_WinterPelt.label>
-  <VFEI2_BlackEmpressSpawn.description>Uma semente insetoide em gestação. A partir de um ovo pequeno, ele absorverá rapidamente os nutrientes e crescerá, causando lentamente mais dor ao hospedeiro. Ele rapidamente assumirá o controle do sistema nervoso, crescerá e se estenderá por todo o corpo do hospedeiro até estar pronto para emergir pela caixa torácica, matando o hospedeiro. Durante seu crescimento, a semente absorve memórias do hospedeiro, o que tornará o insetóide amigável à sua colônia.</VFEI2_BlackEmpressSpawn.description>
+  <VFEI2_BlackEmpressSpawn.description>Uma semente insetoide em gestação. A partir de um ovo pequeno, ele absorverá rapidamente os nutrientes e crescerá, causando lentamente mais dor ao hospedeiro. Ele rapidamente assumirá o controle do sistema nervoso, crescerá e se estenderá por todo o corpo do hospedeiro até estar pronto para emergir pela caixa torácica, matando o hospedeiro. Durante seu crescimento, a semente absorve memórias do hospedeiro, o que tornará o insetoide amigável à sua colônia.</VFEI2_BlackEmpressSpawn.description>
   <VFEI2_BlackEmpressSpawn.label>prole da Imperatriz Negra</VFEI2_BlackEmpressSpawn.label>
   <VFEI2_BlackEmpressSpawn.stages.0.label>ovo</VFEI2_BlackEmpressSpawn.stages.0.label>
   <VFEI2_BlackEmpressSpawn.stages.1.label>larva</VFEI2_BlackEmpressSpawn.stages.1.label>
