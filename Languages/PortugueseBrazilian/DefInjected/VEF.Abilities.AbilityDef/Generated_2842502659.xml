@@ -46,7 +46,7 @@
   <VPE_ColdZone.label>zona fria</VPE_ColdZone.label>
   <VPE_ConjureHeatPearls.description>Converte o calor neural do lançador em pérolas metafísicas comprimidas. Completamente inofensivo, mas libera uma quantidade enorme de calor neural em uma pequena área quando quebrado.</VPE_ConjureHeatPearls.description>
   <VPE_ConjureHeatPearls.label>conjurar pérolas de calor</VPE_ConjureHeatPearls.label>
-  <VPE_ConsumeBodies.description>Retira psiquicamente toda a força vital restante dos cadáveres humanóides próximos e armazena a essência como um amortecedor permanente de acúmulo de calor neural.</VPE_ConsumeBodies.description>
+  <VPE_ConsumeBodies.description>Retira psiquicamente toda a força vital restante dos cadáveres humanoides próximos e armazena a essência como um amortecedor permanente de acúmulo de calor neural.</VPE_ConsumeBodies.description>
   <VPE_ConsumeBodies.label>consumir corpos</VPE_ConsumeBodies.label>
   <VPE_ControlledFrenzy.description>Aumenta psiquicamente a destreza e o desejo de matar do lançador, dobrando sua produção de dano com todas as armas. Cada morte reduz o calor do lançador em 10 e reinicia a duração do frenesi.</VPE_ControlledFrenzy.description>
   <VPE_ControlledFrenzy.label>frenesi controlado</VPE_ControlledFrenzy.label>
@@ -66,7 +66,7 @@
   <VPE_Deathshield.label>escudo mortal</VPE_Deathshield.label>
   <VPE_Decoy.description>Cria um campo localizado de desarmonia óptica para viajar e permanecer no local desejado, com duração escalonada com sensibilidade psíquica. A ilusão atrairá a ira de todos os inimigos.</VPE_Decoy.description>
   <VPE_Decoy.label>chamariz</VPE_Decoy.label>
-  <VPE_DrainPsyessence.description>Mirar em um peão com talento psíquico abatido induz um intenso ruído psíquico harmônico para liquefazer sua carne e convertê-la em essência psíquica para ser absorvida pelo lançador como seu próprio talento psíquico acumulado. Os momentos finais de desintegração psíquica serão sentidos por todos num raio de muitos quilómetros, causando consequências diplomáticas com todas as facções.</VPE_DrainPsyessence.description>
+  <VPE_DrainPsyessence.description>Mirar em um peão com talento psíquico abatido induz um intenso ruído psíquico harmônico para liquefazer sua carne e convertê-la em essência psíquica para ser absorvida pelo lançador como seu próprio talento psíquico acumulado. Os momentos finais de desintegração psíquica serão sentidos por todos num raio de muitos quilômetros, causando consequências diplomáticas com todas as facções.</VPE_DrainPsyessence.description>
   <VPE_DrainPsyessence.label>drenar a psiessência</VPE_DrainPsyessence.label>
   <VPE_Eclipse.description>Ao colocar estrategicamente um orbe de escuridão ofuscante no alto do céu, o lançador pode efetivamente causar um eclipse espontâneo.</VPE_Eclipse.description>
   <VPE_Eclipse.label>eclipse</VPE_Eclipse.label>
@@ -150,7 +150,7 @@
   <VPE_MassHallucination.label>alucinação em massa</VPE_MassHallucination.label>
   <VPE_Mend.description>Manipular psiquicamente um objeto ou estrutura para restaurar sua condição. Requer alta sensibilidade psíquica para qualquer restauração significativa.</VPE_Mend.description>
   <VPE_Mend.label>consertar</VPE_Mend.label>
-  <VPE_MeteorShower.description>Salta e imola meteoróides em órbita para atingir uma área designada. O número de impactos varia de acordo com a sensibilidade psíquica.</VPE_MeteorShower.description>
+  <VPE_MeteorShower.description>Salta e imola meteoroides em órbita para atingir uma área designada. O número de impactos varia de acordo com a sensibilidade psíquica.</VPE_MeteorShower.description>
   <VPE_MeteorShower.label>chuva de meteoros</VPE_MeteorShower.label>
   <VPE_MindBreak.description>Usando ruído psíquico harmônico concentrado, lobotomiza o alvo e o transforma em um servo inquieto e servo. Muito desvalorizado por suas antigas facções.</VPE_MindBreak.description>
   <VPE_MindBreak.label>pausa mental</VPE_MindBreak.label>
@@ -162,7 +162,7 @@
   <VPE_NeuralHeatDetonation.label>detonação de calor neural</VPE_NeuralHeatDetonation.label>
   <VPE_NeuralHeatDump.description>Descarregue instantaneamente todo o seu calor neural em um aliado consciente. Como efeito colateral, o alvo entrará em coma debilitante e inofensivo por cerca de um dia. O alvo deve aceitar ativamente a invasão psíquica, para que apenas aliados conscientes possam ser o alvo.</VPE_NeuralHeatDump.description>
   <VPE_NeuralHeatDump.label>descarga de calor neural</VPE_NeuralHeatDump.label>
-  <VPE_Neuroquake.description>Encontre uma descontinuidade no campo psíquico e desdobre-a, liberando uma enorme quantidade de energia psíquica. Todas as criaturas ao alcance, mas fora do círculo interno seguro, ficarão violentamente loucas. Lançar isso leva 12 segundos de meditação e, depois, o lançador entrará em coma psíquico. Os ecos perturbadores do neuroquake infligirão dor a todos num raio de muitos quilómetros, causando consequências diplomáticas com todas as facções.</VPE_Neuroquake.description>
+  <VPE_Neuroquake.description>Encontre uma descontinuidade no campo psíquico e desdobre-a, liberando uma enorme quantidade de energia psíquica. Todas as criaturas ao alcance, mas fora do círculo interno seguro, ficarão violentamente loucas. Lançar isso leva 12 segundos de meditação e, depois, o lançador entrará em coma psíquico. Os ecos perturbadores do neuroquake infligirão dor a todos num raio de muitos quilômetros, causando consequências diplomáticas com todas as facções.</VPE_Neuroquake.description>
   <VPE_Neuroquake.label>neuroquaque</VPE_Neuroquake.label>
   <VPE_Neuroquake.modExtensions.0.message>Se você usar o neuroquake, todos nesta região sentirão o eco do neuroquake, você perderá a boa vontade com todas as facções não hostis.\n\nNeuroquake leva 12 segundos para ser lançado e não pode ser interrompido. Quando concluído, o lançador entrará em coma psíquico por até 5 dias.\n\nTodos ao alcance, exceto aqueles em um pequeno círculo ao redor do lançador, serão afetados.\n\nVocê realmente deseja lançar Neuroquake?</VPE_Neuroquake.modExtensions.0.message>
   <VPE_Nightstep.description>Liga brevemente aliados próximos à sombra de um colono distante para teletransportá-los instantaneamente, mesmo através do planeta, desde que não estejam sobrecarregados. Só pode ser lançado à noite e atordoa temporariamente o lançador.</VPE_Nightstep.description>

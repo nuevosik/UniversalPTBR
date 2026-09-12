@@ -26,7 +26,7 @@
   <VFEFactory_AstrofuelFromChemfuel.labelOverride>Faça astrocombustível a partir de chemfuel</VFEFactory_AstrofuelFromChemfuel.labelOverride>
   <VFEFactory_BlueGel_To_Hexagel.description>Faça um cubo cristalizado de hexagel comprimindo o gel azul sob alta pressão.</VFEFactory_BlueGel_To_Hexagel.description>
   <VFEFactory_BlueGel_To_Hexagel.label>Comprimir gel azul em hexagel</VFEFactory_BlueGel_To_Hexagel.label>
-  <VFEFactory_BrewPsychiteTea.description>Prepare um lote de chá psiquita com folhas psicóides.</VFEFactory_BrewPsychiteTea.description>
+  <VFEFactory_BrewPsychiteTea.description>Prepare um lote de chá psiquita com folhas psicoides.</VFEFactory_BrewPsychiteTea.description>
   <VFEFactory_BrewPsychiteTea.label>Prepare um lote de chá de psiquita</VFEFactory_BrewPsychiteTea.label>
   <VFEFactory_BrewPsychiteTea.labelOverride>Prepare um lote de chá de psiquita</VFEFactory_BrewPsychiteTea.labelOverride>
   <VFEFactory_BurnApparel.description>Queime roupas indesejadas para destruí-las completamente.</VFEFactory_BurnApparel.description>
@@ -50,9 +50,9 @@
   <VFEFactory_CremateHumanlike.description>Cremar um cadáver humano para destruí-lo completamente.</VFEFactory_CremateHumanlike.description>
   <VFEFactory_CremateHumanlike.label>Cremar humano</VFEFactory_CremateHumanlike.label>
   <VFEFactory_CremateHumanlike.labelOverride>Cremar humano</VFEFactory_CremateHumanlike.labelOverride>
-  <VFEFactory_CremateHumanoidHybrids.description>Crema o cadáver de um híbrido humanóide para destruí-lo completamente.</VFEFactory_CremateHumanoidHybrids.description>
-  <VFEFactory_CremateHumanoidHybrids.label>Cremar híbrido humanóide</VFEFactory_CremateHumanoidHybrids.label>
-  <VFEFactory_CremateHumanoidHybrids.labelOverride>Cremar híbrido humanóide</VFEFactory_CremateHumanoidHybrids.labelOverride>
+  <VFEFactory_CremateHumanoidHybrids.description>Crema o cadáver de um híbrido humanoide para destruí-lo completamente.</VFEFactory_CremateHumanoidHybrids.description>
+  <VFEFactory_CremateHumanoidHybrids.label>Cremar híbrido humanoide</VFEFactory_CremateHumanoidHybrids.label>
+  <VFEFactory_CremateHumanoidHybrids.labelOverride>Cremar híbrido humanoide</VFEFactory_CremateHumanoidHybrids.labelOverride>
   <VFEFactory_CremateHybrids.description>Crema o cadáver de um modelo ou híbrido para destruí-lo completamente.</VFEFactory_CremateHybrids.description>
   <VFEFactory_CremateHybrids.label>Cremar modelo ou híbrido</VFEFactory_CremateHybrids.label>
   <VFEFactory_CremateHybrids.labelOverride>Cremar modelo ou híbrido</VFEFactory_CremateHybrids.labelOverride>
@@ -206,15 +206,15 @@
   <VFEFactory_MinceHumanCorpses.description>Corte cadáveres humanos em carne humana crua. Isto pode irritar os colonos, dependendo das suas crenças ideológicas. Os equipamentos serão todos descartados.</VFEFactory_MinceHumanCorpses.description>
   <VFEFactory_MinceHumanCorpses.label>Picar cadáveres humanos</VFEFactory_MinceHumanCorpses.label>
   <VFEFactory_MinceHumanCorpses.labelOverride>Picar cadáveres humanos</VFEFactory_MinceHumanCorpses.labelOverride>
-  <VFEFactory_MinceHumanoidHybridCorpses.description>Corte cadáveres híbridos humanóides em carne humana crua. Isto pode irritar os colonos, dependendo das suas crenças ideológicas.</VFEFactory_MinceHumanoidHybridCorpses.description>
-  <VFEFactory_MinceHumanoidHybridCorpses.label>Picar cadáveres híbridos humanóides</VFEFactory_MinceHumanoidHybridCorpses.label>
-  <VFEFactory_MinceHumanoidHybridCorpses.labelOverride>Picar cadáveres híbridos humanóides</VFEFactory_MinceHumanoidHybridCorpses.labelOverride>
+  <VFEFactory_MinceHumanoidHybridCorpses.description>Corte cadáveres híbridos humanoides em carne humana crua. Isto pode irritar os colonos, dependendo das suas crenças ideológicas.</VFEFactory_MinceHumanoidHybridCorpses.description>
+  <VFEFactory_MinceHumanoidHybridCorpses.label>Picar cadáveres híbridos humanoides</VFEFactory_MinceHumanoidHybridCorpses.label>
+  <VFEFactory_MinceHumanoidHybridCorpses.labelOverride>Picar cadáveres híbridos humanoides</VFEFactory_MinceHumanoidHybridCorpses.labelOverride>
   <VFEFactory_MinceHybridCorpses.description>Corte cadáveres híbridos em carne picada crua e comestível, adequada para cozinhar ou processamento posterior.</VFEFactory_MinceHybridCorpses.description>
   <VFEFactory_MinceHybridCorpses.label>Picar cadáveres híbridos</VFEFactory_MinceHybridCorpses.label>
   <VFEFactory_MinceHybridCorpses.labelOverride>Picar cadáveres híbridos</VFEFactory_MinceHybridCorpses.labelOverride>
   <VFEFactory_MinceInsectoidCorpses.description>Corte cadáveres de insetoides em carne crua de insetos.</VFEFactory_MinceInsectoidCorpses.description>
-  <VFEFactory_MinceInsectoidCorpses.label>Picar cadáveres insetóides</VFEFactory_MinceInsectoidCorpses.label>
-  <VFEFactory_MinceInsectoidCorpses.labelOverride>Picar cadáveres insetóides</VFEFactory_MinceInsectoidCorpses.labelOverride>
+  <VFEFactory_MinceInsectoidCorpses.label>Picar cadáveres insetoides</VFEFactory_MinceInsectoidCorpses.label>
+  <VFEFactory_MinceInsectoidCorpses.labelOverride>Picar cadáveres insetoides</VFEFactory_MinceInsectoidCorpses.labelOverride>
   <VFEFactory_RefineUraniumCrystals.description>Extraia materiais úteis de cristais de urânio não refinados.</VFEFactory_RefineUraniumCrystals.description>
   <VFEFactory_RefineUraniumCrystals.label>Refinar cristais de urânio</VFEFactory_RefineUraniumCrystals.label>
   <VFEFactory_RollCigar.description>Enrole tabaco e ouro em um charuto.</VFEFactory_RollCigar.description>
@@ -229,34 +229,34 @@
   <VFEFactory_ShredDrone.description>Use várias ferramentas e moedores integrados para transformar um drone em aço. 10 aços serão extraídos para cada tamanho de corpo do drone.</VFEFactory_ShredDrone.description>
   <VFEFactory_ShredDrone.label>Destruir drone</VFEFactory_ShredDrone.label>
   <VFEFactory_ShredDrone.labelOverride>Destruir drone</VFEFactory_ShredDrone.labelOverride>
-  <VFEFactory_ShredMechanoid.description>Use várias ferramentas e moedores integrados para transformar um mecanóide em aço. 10 aços serão extraídos por 1 tamanho de corpo do mecanóide.</VFEFactory_ShredMechanoid.description>
-  <VFEFactory_ShredMechanoid.label>Mecanóide de destruição</VFEFactory_ShredMechanoid.label>
-  <VFEFactory_ShredMechanoid.labelOverride>Mecanóide de destruição</VFEFactory_ShredMechanoid.labelOverride>
+  <VFEFactory_ShredMechanoid.description>Use várias ferramentas e moedores integrados para transformar um mecanoide em aço. 10 aços serão extraídos por 1 tamanho de corpo do mecanoide.</VFEFactory_ShredMechanoid.description>
+  <VFEFactory_ShredMechanoid.label>Mecanoide de destruição</VFEFactory_ShredMechanoid.label>
+  <VFEFactory_ShredMechanoid.labelOverride>Mecanoide de destruição</VFEFactory_ShredMechanoid.labelOverride>
   <VFEFactory_SmeltApparel.description>Use calor e eletroímãs fortes para transformar roupas em recursos úteis. Esta operação produzirá 25% dos materiais utilizados na confecção do vestuário, excluindo quaisquer componentes ou componentes avançados.</VFEFactory_SmeltApparel.description>
   <VFEFactory_SmeltApparel.label>Cheirava roupas</VFEFactory_SmeltApparel.label>
   <VFEFactory_SmeltApparel.labelOverride>Cheirava roupas</VFEFactory_SmeltApparel.labelOverride>
-  <VFEFactory_SmeltMechanoid.description>Use calor extremo para extrair aço de cadáveres mecanóides. 10 aços serão extraídos por 1 tamanho de corpo do mecanóide.</VFEFactory_SmeltMechanoid.description>
-  <VFEFactory_SmeltMechanoid.label>Fundir aço do mecanóide</VFEFactory_SmeltMechanoid.label>
-  <VFEFactory_SmeltMechanoid.labelOverride>Fundir aço do mecanóide</VFEFactory_SmeltMechanoid.labelOverride>
+  <VFEFactory_SmeltMechanoid.description>Use calor extremo para extrair aço de cadáveres mecanoides. 10 aços serão extraídos por 1 tamanho de corpo do mecanoide.</VFEFactory_SmeltMechanoid.description>
+  <VFEFactory_SmeltMechanoid.label>Fundir aço do mecanoide</VFEFactory_SmeltMechanoid.label>
+  <VFEFactory_SmeltMechanoid.labelOverride>Fundir aço do mecanoide</VFEFactory_SmeltMechanoid.labelOverride>
   <VFEFactory_SmeltMetalFromChunk.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de pedra.</VFEFactory_SmeltMetalFromChunk.description>
   <VFEFactory_SmeltMetalFromChunk.label>Extraia metal de pedaço de pedra</VFEFactory_SmeltMetalFromChunk.label>
   <VFEFactory_SmeltMetalFromChunk.labelOverride>Extraia metal de pedaço de pedra</VFEFactory_SmeltMetalFromChunk.labelOverride>
-  <VFEFactory_SmeltMetalFromMechSlag.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de escória mecanóide.</VFEFactory_SmeltMetalFromMechSlag.description>
-  <VFEFactory_SmeltMetalFromMechSlag.label>Fundir metal a partir de escória mecanóide</VFEFactory_SmeltMetalFromMechSlag.label>
-  <VFEFactory_SmeltMetalFromMechSlag.labelOverride>Fundir metal a partir de escória mecanóide</VFEFactory_SmeltMetalFromMechSlag.labelOverride>
+  <VFEFactory_SmeltMetalFromMechSlag.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de escória mecanoide.</VFEFactory_SmeltMetalFromMechSlag.description>
+  <VFEFactory_SmeltMetalFromMechSlag.label>Fundir metal a partir de escória mecanoide</VFEFactory_SmeltMetalFromMechSlag.label>
+  <VFEFactory_SmeltMetalFromMechSlag.labelOverride>Fundir metal a partir de escória mecanoide</VFEFactory_SmeltMetalFromMechSlag.labelOverride>
   <VFEFactory_SmeltMetalFromSlag.description>Use calor e eletroímãs fortes para extrair metal útil de pedaços de escória.</VFEFactory_SmeltMetalFromSlag.description>
   <VFEFactory_SmeltMetalFromSlag.label>Fundir metal da escória</VFEFactory_SmeltMetalFromSlag.label>
   <VFEFactory_SmeltMetalFromSlag.labelOverride>Fundir metal da escória</VFEFactory_SmeltMetalFromSlag.labelOverride>
   <VFEFactory_SmeltWeapon.description>Use calor e eletroímãs fortes para transformar armas em recursos úteis. Esta operação produzirá 25% dos materiais usados ​​para fabricar a arma, excluindo quaisquer componentes ou componentes avançados.</VFEFactory_SmeltWeapon.description>
   <VFEFactory_SmeltWeapon.label>Fundir armas</VFEFactory_SmeltWeapon.label>
   <VFEFactory_SmeltWeapon.labelOverride>Fundir armas</VFEFactory_SmeltWeapon.labelOverride>
-  <VFEFactory_SynthesizeAgePills.description>Sintetize um lote de antibióticos a partir de folhas psicóides e fitoterápicos.</VFEFactory_SynthesizeAgePills.description>
+  <VFEFactory_SynthesizeAgePills.description>Sintetize um lote de antibióticos a partir de folhas psicoides e fitoterápicos.</VFEFactory_SynthesizeAgePills.description>
   <VFEFactory_SynthesizeAgePills.label>Sintetize pílulas de idade</VFEFactory_SynthesizeAgePills.label>
   <VFEFactory_SynthesizeAgePills.labelOverride>Sintetize pílulas de idade</VFEFactory_SynthesizeAgePills.labelOverride>
-  <VFEFactory_SynthesizeAntibiotics.description>Sintetize um lote de antibióticos a partir de folhas psicóides e fitoterápicos.</VFEFactory_SynthesizeAntibiotics.description>
+  <VFEFactory_SynthesizeAntibiotics.description>Sintetize um lote de antibióticos a partir de folhas psicoides e fitoterápicos.</VFEFactory_SynthesizeAntibiotics.description>
   <VFEFactory_SynthesizeAntibiotics.label>Sintetize um lote de antibióticos</VFEFactory_SynthesizeAntibiotics.label>
   <VFEFactory_SynthesizeAntibiotics.labelOverride>Sintetize um lote de antibióticos</VFEFactory_SynthesizeAntibiotics.labelOverride>
-  <VFEFactory_SynthesizeFlake.description>Sintetize um lote de flocos de folhas psicóides.</VFEFactory_SynthesizeFlake.description>
+  <VFEFactory_SynthesizeFlake.description>Sintetize um lote de flocos de folhas psicoides.</VFEFactory_SynthesizeFlake.description>
   <VFEFactory_SynthesizeFlake.label>Sintetize um lote de flocos</VFEFactory_SynthesizeFlake.label>
   <VFEFactory_SynthesizeFlake.labelOverride>Sintetize um lote de flocos</VFEFactory_SynthesizeFlake.labelOverride>
   <VFEFactory_SynthesizeGoJuice.description>Sintetize um lote de suco de neutroamina e yayo.</VFEFactory_SynthesizeGoJuice.description>
@@ -271,7 +271,7 @@
   <VFEFactory_SynthesizeWakeUp.description>Sintetize um lote de despertar a partir de neutroamina.</VFEFactory_SynthesizeWakeUp.description>
   <VFEFactory_SynthesizeWakeUp.label>Sintetize um lote de despertar</VFEFactory_SynthesizeWakeUp.label>
   <VFEFactory_SynthesizeWakeUp.labelOverride>Sintetize um lote de despertar</VFEFactory_SynthesizeWakeUp.labelOverride>
-  <VFEFactory_SynthesizeYayo.description>Sintetize um lote de yayo a partir de folhas psicóides.</VFEFactory_SynthesizeYayo.description>
+  <VFEFactory_SynthesizeYayo.description>Sintetize um lote de yayo a partir de folhas psicoides.</VFEFactory_SynthesizeYayo.description>
   <VFEFactory_SynthesizeYayo.label>Sintetize um lote de yayo</VFEFactory_SynthesizeYayo.label>
   <VFEFactory_SynthesizeYayo.labelOverride>Sintetize um lote de yayo</VFEFactory_SynthesizeYayo.labelOverride>
 </LanguageData>

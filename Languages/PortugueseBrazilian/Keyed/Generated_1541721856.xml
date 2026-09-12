@@ -5,7 +5,7 @@
   <AA_AlphaCargoPodCrash>Você detectou uma cápsula de carga caindo nas proximidades. Animais exóticos em cativeiro parecem estar lá dentro.\n\nQuem sabe, mas talvez você encontre algo útil nos destroços.</AA_AlphaCargoPodCrash>
   <AA_AnimalDoingWeirdJob>Animal está ocupado fazendo um trabalho.</AA_AnimalDoingWeirdJob>
   <AA_AntiInsectoidShockTroop>Tropa de Choque Anti-Insectoides</AA_AntiInsectoidShockTroop>
-  <AA_AntiInsectoidShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal também possui ataques dilacerantes que produzem danos extras contra insetóides.</AA_AntiInsectoidShockTroopDesc>
+  <AA_AntiInsectoidShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal também possui ataques dilacerantes que produzem danos extras contra insetoides.</AA_AntiInsectoidShockTroopDesc>
   <AA_ArmouredTankDesc>Animais "tanque" são especializados em combate corpo a corpo. Esses animais têm alto dano de ataque, boa resistência, alta saúde ou outras habilidades que lhes permitem sobreviver na linha de frente.</AA_ArmouredTankDesc>
   <AA_Artillery>Artilharia</AA_Artillery>
   <AA_ArtilleryDesc>Este animal atacará com ataques explosivos à distância muito perigosos.</AA_ArtilleryDesc>
@@ -48,7 +48,7 @@
   <AA_EMPBlow>Golpe EMP!</AA_EMPBlow>
   <AA_EMPBlowFailed>Golpe EMP falhou</AA_EMPBlowFailed>
   <AA_EMPShockTroop>Tropa de Choque EMP</AA_EMPShockTroop>
-  <AA_EMPShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal tem um ataque EMP que causa danos adicionais contra mecanóides.</AA_EMPShockTroopDesc>
+  <AA_EMPShockTroopDesc>Os animais da "Tropa de Choque" são especializados em alta velocidade e em algumas habilidades que adicionam utilidade ao combate corpo a corpo. Eles podem não ser muito resistentes ou ter muita saúde, mas se usados ​​corretamente podem ter efeitos devastadores.\n\nEste animal tem um ataque EMP que causa danos adicionais contra mecanoides.</AA_EMPShockTroopDesc>
   <AA_EcholocativeFeedbackReason>O estado catatônico foi causado por um feedback ecolocativo. O som repentino e avassalador provou ser demais para suportar.</AA_EcholocativeFeedbackReason>
   <AA_Farm>Animal de fazenda</AA_Farm>
   <AA_FarmBloodDesc>Este é um animal de fazenda que produz embalagens hemogênicas.</AA_FarmBloodDesc>
@@ -87,10 +87,10 @@
   <AA_LetterLabelBehemothPasses>Gigante raro</AA_LetterLabelBehemothPasses>
   <AA_LetterLabelFungalHusk>Cascas de Fungos</AA_LetterLabelFungalHusk>
   <AA_LetterLabelMatureFleshbeast>Devorado inteiro</AA_LetterLabelMatureFleshbeast>
-  <AA_LetterLabelMechanoidSappers>Sapadores Mecanóides</AA_LetterLabelMechanoidSappers>
+  <AA_LetterLabelMechanoidSappers>Sapadores Mecanoides</AA_LetterLabelMechanoidSappers>
   <AA_LetterLabelMime>Mime revelado</AA_LetterLabelMime>
   <AA_LetterMatureFleshbeast>Uma criatura grotesca engoliu {0} todo! Se você agir rapidamente, talvez ainda possa economizar {0_objective}.</AA_LetterMatureFleshbeast>
-  <AA_LetterMechanoidSappers>Um antigo montador mecanóide, anteriormente camuflado, apareceu misteriosamente nas proximidades.\n\nUm enxame de mecanóides surge, preparando-se rapidamente para um ataque.\n\nUm desses mecanóides é um Demolidor perigoso, então eles provavelmente irão direto para as paredes!</AA_LetterMechanoidSappers>
+  <AA_LetterMechanoidSappers>Um antigo montador mecanoide, anteriormente camuflado, apareceu misteriosamente nas proximidades.\n\nUm enxame de mecanoides surge, preparando-se rapidamente para um ataque.\n\nUm desses mecanoides é um Demolidor perigoso, então eles provavelmente irão direto para as paredes!</AA_LetterMechanoidSappers>
   <AA_LetterMime>{0} era um mímico o tempo todo! {0_possessive} a fome extrema era demais para {0_objective}, e {0_pronoun} atacará o resto dos colonos para tentar saciá-lo.</AA_LetterMime>
   <AA_Luciferium>Produção de Lucifério</AA_Luciferium>
   <AA_MealNutrientPaste>Produção de pasta nutritiva</AA_MealNutrientPaste>
@@ -168,7 +168,7 @@
   <DunealiskClutchMother>Uma enorme criatura semelhante a uma aranha chamada Dunealisk, adaptada a climas quentes, vagueia por este território.\n\nEste Dunealisk parece ser de tamanho muito maior do que o normal e carrega uma ninhada de ovos nas costas. Isto soa como uma receita para o desastre se não for resolvido rapidamente.</DunealiskClutchMother>
   <FeraliskClutchMother>Uma enorme criatura parecida com uma aranha chamada Feralisk vagueia por este território.\n\nEste Feralisk parece ser muito maior do que o normal e carrega uma ninhada de ovos nas costas. Isto soa como uma receita para o desastre se não for resolvido rapidamente.</FeraliskClutchMother>
   <HyperweaveDesc>Produção de hipertecido</HyperweaveDesc>
-  <LetterBlackHiveAttack>Os insetoides na borda são organismos geneticamente alterados, concebidos para combater invasões mecanóides. A Colmeia Negra era a melhor das melhores, projetada para ser muito mais agressiva que o normal e capaz de sitiar fortalezas mecanóides inexpugnáveis. As espécies de insetoides existentes foram melhoradas e várias novas espécies foram criadas e adicionadas à Colmeia para aumentar sua letalidade.\n\nUm grupo de insetoides da Colmeia Negra abriu um túnel até este local e atacará sua base imediatamente.</LetterBlackHiveAttack>
+  <LetterBlackHiveAttack>Os insetoides na borda são organismos geneticamente alterados, concebidos para combater invasões mecanoides. A Colmeia Negra era a melhor das melhores, projetada para ser muito mais agressiva que o normal e capaz de sitiar fortalezas mecanoides inexpugnáveis. As espécies de insetoides existentes foram melhoradas e várias novas espécies foram criadas e adicionadas à Colmeia para aumentar sua letalidade.\n\nUm grupo de insetoides da Colmeia Negra abriu um túnel até este local e atacará sua base imediatamente.</LetterBlackHiveAttack>
   <LetterBumbledroneMigration>Um pequeno grupo de bumbledrones, liderado por uma rainha dos bumbledrones, entrou nesta área.\n\nBumbledrones geralmente não são agressivos, a menos que sejam ameaçados.\n\nEles provavelmente deixarão esta área depois de um tempo em busca de um lugar mais silencioso, já que a colônia é muito barulhenta para eles.</LetterBumbledroneMigration>
   <LetterColossalAerofleetPasses>Uma estranha criatura flutuante salta ao longe, tropeçando na paisagem.\n\nUma pequena horda de espécimes menores parece ser atraída por ela e a segue a uma curta distância.\n\nEles parecem ser em sua maioria inofensivos e provavelmente deixarão a área quando se alimentarem.</LetterColossalAerofleetPasses>
   <LetterGallatrossPasses>As lendas falam de uma criatura tão grande e poderosa que tribos inteiras fugiram ao vê-la. Tais lendas foram inspiradas no Gallatross, uma criatura imensa com um apetite voraz. Talvez esteja de alguma forma relacionado ao indescritível Thrumbo? Tais questões são provavelmente impossíveis de responder.</LetterGallatrossPasses>
@@ -181,9 +181,9 @@
   <LetterLabelFeraliskClutchMother>Mãe embreagem Feralisk</LetterLabelFeraliskClutchMother>
   <LetterLabelGallatrossPasses>Galatross vagueia</LetterLabelGallatrossPasses>
   <LetterLabelManhuntingArcticLion>Perseguindo Leão do Ártico</LetterLabelManhuntingArcticLion>
-  <LetterLabelSkyAsteroid>Asteróide estranho</LetterLabelSkyAsteroid>
+  <LetterLabelSkyAsteroid>Asteroide estranho</LetterLabelSkyAsteroid>
   <LetterLabelSummitCrab>Caranguejo do cume</LetterLabelSummitCrab>
-  <LetterSkyAsteroid>Um pequeno e estranho asteróide parece ter entrado na atmosfera deste planeta. O impacto é iminente.</LetterSkyAsteroid>
+  <LetterSkyAsteroid>Um pequeno e estranho asteroide parece ter entrado na atmosfera deste planeta. O impacto é iminente.</LetterSkyAsteroid>
   <ManhuntingArcticLion>Um leão ártico está perseguindo um de seus colonos nas sombras.\n\nEle ficará quase invisível até decidir atacar e ser danificado por seus colonos. Os colonos recrutados e alertas e com defesas automáticas serão capazes de detectá-lo, então você deve se preparar rapidamente! \n\nOs leões do Ártico são criaturas temíveis e geneticamente modificadas, criadas para combate em climas frios.</ManhuntingArcticLion>
   <MedicinalQuillDesc>Crescimento de pena medicinal</MedicinalQuillDesc>
   <NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
@@ -198,9 +198,9 @@
   <SynthreadDesc>Produção de fibra sintética</SynthreadDesc>
   <VFEI2_BlackInsectJelly>Plenitude de gelatina preta de inseto:</VFEI2_BlackInsectJelly>
   <allowAerofleet>Permitir migrações colossais da frota aérea</allowAerofleet>
-  <allowAlphaMechanoids>Permitir mecanóides Alfa em ataques, clusters, etc.</allowAlphaMechanoids>
+  <allowAlphaMechanoids>Permitir mecanoides Alfa em ataques, clusters, etc.</allowAlphaMechanoids>
   <allowAnimalisk>Permitir Animalisco (apenas com Royalty, de qualquer forma)</allowAnimalisk>
-  <allowAsteroids>Permitir impacto de asteróides da enguia do céu de Arcturan</allowAsteroids>
+  <allowAsteroids>Permitir impacto de asteroides da enguia do céu de Arcturan</allowAsteroids>
   <allowBehemoth>Permitir evento errante do Behemoth</allowBehemoth>
   <allowBlackHive>Permitir ataques do Colmeia Negra</allowBlackHive>
   <allowBumbledrones>Permitir migrações da rainha do bumbledrone</allowBumbledrones>
@@ -209,13 +209,13 @@
   <allowFungalHusk>Permitir evento de ataque Fungal Husk</allowFungalHusk>
   <allowGallatross>Permitir migrações de gallatross</allowGallatross>
   <allowHelixienCorpseEffect>Permitir efeito Helixien (desative se houver erros devido a outros mods)</allowHelixienCorpseEffect>
-  <allowMechanoidSappers>Permitir evento de sapadores mecanóides</allowMechanoidSappers>
+  <allowMechanoidSappers>Permitir evento de sapadores mecanoides</allowMechanoidSappers>
   <allowMime>Permitir que Mime Wanderer participe do evento</allowMime>
   <allowSpiderClutchMothers>Permitir evento de mães de embreagem de aranha</allowSpiderClutchMothers>
   <allowStalkingLions>Permitir ataques de Stalking Arctic Lion</allowStalkingLions>
   <allowSummitCrab>Permitir evento de caranguejo do cume</allowSummitCrab>
   <allowVanillaAnimals>Permitir animais de caça básicos (afeta apenas crias selvagens)</allowVanillaAnimals>
   <alternatePokemonGraphics>Use gráficos alternativos "fofos" para animais selecionados, por Roidgy</alternatePokemonGraphics>
-  <alternatePokemonGraphics_Desc>Se estiver ativo, animais selecionados usarão a retextura legal de Roidgy. Os seguintes animais têm uma retextura: Agaripão, Agarípode, Leão Ártico, Dragão Decomposto, Ave do Deserto, Gallatross, Gigantelope, Corredor terrestre, Verme mamute, Megalouse, Colosso micóide, Colosso coberto de vegetação, Radyak, Leão da areia e Thermadon </alternatePokemonGraphics_Desc>
+  <alternatePokemonGraphics_Desc>Se estiver ativo, animais selecionados usarão a retextura legal de Roidgy. Os seguintes animais têm uma retextura: Agaripão, Agarípode, Leão Ártico, Dragão Decomposto, Ave do Deserto, Gallatross, Gigantelope, Corredor terrestre, Verme mamute, Megalouse, Colosso micoide, Colosso coberto de vegetação, Radyak, Leão da areia e Thermadon </alternatePokemonGraphics_Desc>
   <removeAnimalParticles>Remova partículas de animais</removeAnimalParticles>
 </LanguageData>
