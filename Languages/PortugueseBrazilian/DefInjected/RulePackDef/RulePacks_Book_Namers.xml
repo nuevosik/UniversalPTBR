@@ -9,9 +9,9 @@
 	
 	<li>body->O trabalho é conhecido pela sua clareza e argumentação persuasiva</li>
 	<li>body->Alguns críticos referem que o seu [style] é um pouco [adj], mas o conteúdo é inegável</li>
-	<li>body->Apesar de muito criticado pela comunidade académica, vendeu bem ao público em geral</li>
+	<li>body->Apesar de muito criticado pela comunidade acadêmica, vendeu bem ao público em geral</li>
 	<li>body->Tornou-se um texto de referência em muitos cursos universitários</li>
-	<li>body->O [style] do autor é tão [adj] quanto o tópico que está a abordar</li>
+	<li>body->O [style] do autor é tão [adj] quanto o tópico que está abordando</li>
 	<li>body->O autor [wrote] este livro depois de ser exilado de [place]</li>
 	<li>body->O autor [wrote] este livro para se opor à [movement]</li>
 	<li>body->A natureza [adj] e [adj] da sua prosa [made] o livro um dos mais populares da [era]</li>
@@ -132,10 +132,10 @@
 	<li>desc->A história de vida do grande [title] [person]. [body].</li>
 	
 	<li>body->Escrito em [writing_year], quando [person] estava no auge da sua carreira</li>
-	<li>body->O livro é [adj] mas honesto sobre os aspetos menos admiráveis da vida do [title]</li>
+	<li>body->O livro é [adj] mas honesto sobre os aspectos menos admiráveis da vida do [title]</li>
 	<li>body->O [person] mais tarde processou o autor por difamação, mas sem sucesso</li>
 	<li>body->Contém o famoso capítulo em que o [title] [chapter_about]</li>
-	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anônima</li>
 	<li>body->Esta cópia contém algumas notas nas margens que [reveal] sobre [person]</li>
 	<li>body->[PersonName] [surname] afirmou que o livro era uma "invenção maliciosa, sem uma única palavra de verdade"</li>
 	
@@ -159,7 +159,7 @@
 	<li>chapter_about->abandonou o seu primeiro filho</li>
 	<li>chapter_about->cometeu fraude com os seus impostos</li>
 	<li>chapter_about->usou a sua posição para seduzir [PersonName] [surname]</li>
-	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controlo</li>
+	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controle</li>
 	
 	<li>action->fugir para o espaço profundo</li>
 	<li>action->viver disfarçado</li>
@@ -242,7 +242,7 @@
 	<li>adj_cookery->ácidos</li>
 
 	<li>desc->Uma peça de ficção [genre] do aclamado autor [PersonName] [surname]. [body].</li>
-	<li>desc->O [novel_type] que abalou [place] aquando da sua publicação. [body].</li>
+	<li>desc->O [novel_type] que abalou [place] quando da sua publicação. [body].</li>
 	<li>desc->Uma peça de ficção que documenta os [adventures] de [PersonName] [surname]. [body].</li>
 	
 	<li>body->Os críticos [critic_reaction] do seu [adj] uso da linguagem</li>
@@ -309,11 +309,11 @@
 	<li>desc->Uma coleção de ensaios de [historical_person] sobre [topic]. [body].</li>
 	
 	<li>body->O autor era conhecido por defender o [faction] sobre o [faction]</li>
-	<li>body->O livro é muito respeitado em círculos académicos, mas [adj] ao público em geral</li>
+	<li>body->O livro é muito respeitado em círculos acadêmicos, mas [adj] ao público em geral</li>
 	<li>body->O livro foi proibido em [place] por ser "subversivo"</li>
 	<li>body->Inclui o famoso ensaio [essay_name]</li>
 	<li>body->O livro foi escrito pelo autor depois de fugir da [historical_event]</li>
-	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anônima</li>
 	<li>body->Contém o famoso capítulo em que o [historical_person] [chapter_about]</li>
 	
 	<li>adj->lisonjeira</li>
@@ -339,7 +339,7 @@
 	<li>chapter_about->abandonou o seu primeiro filho</li>
 	<li>chapter_about->cometeu fraude com os seus impostos</li>
 	<li>chapter_about->usou a sua posição para seduzir [PersonName] [surname]</li>
-	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controlo</li>
+	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controle</li>
 
 	<li>desc->Um guia prático e [adj] sobre [topic]. [body].</li>
 	<li>desc->Um manual [adj] para [topic]. [body].</li>
@@ -351,7 +351,7 @@
 	<li>body->O livro foi proibido em [place] por ser [reason]</li>
 	<li>body->Inclui o famoso [chapter] em que o autor [chapter_about]</li>
 	<li>body->O livro foi escrito pelo autor depois de [reason_for_writing]</li>
-	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anônima</li>
 	<li>body->É um livro muito útil, e as notas nas margens indicam que o proprietário original o usou extensivamente</li>
 	
 	<li>topic->construção de assentamentos em [biome]</li>
@@ -411,7 +411,7 @@
 	<li>body->O livro foi proibido em [place] por ser "subversivo"</li>
 	<li>body->Inclui o famoso ensaio [essay_name]</li>
 	<li>body->O livro foi escrito pelo autor depois de fugir da [historical_event]</li>
-	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anônima</li>
 	<li>body->Contém o famoso capítulo em que o [general] [chapter_about]</li>
 	
 	<li>adj->lisonjeiro</li>
@@ -447,10 +447,10 @@
 	<li>chapter_about->abandonou o seu primeiro filho</li>
 	<li>chapter_about->cometeu fraude com os seus impostos</li>
 	<li>chapter_about->usou a sua posição para seduzir [PersonName] [surname]</li>
-	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controlo</li>
+	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controle</li>
 
 	<li>desc->Um [adj_novel] romance de [PersonName] [surname]. [body].</li>
-	<li>desc->O [novel_type] que abalou [place] aquando da sua publicação. [body].</li>
+	<li>desc->O [novel_type] que abalou [place] quando da sua publicação. [body].</li>
 	<li>desc->Uma peça de ficção que documenta os [adventures] de [PersonName] [surname]. [body].</li>
 	
 	<li>body->Os críticos [critic_reaction] do seu [adj] uso da linguagem</li>
@@ -467,7 +467,7 @@
 	<li>adj_novel->tolo</li>
 
 	<li>desc->Uma coleção de poesia [adj] por [PersonName] [surname]. [body].</li>
-	<li>desc->Uma obra poética [adj] que abalou [place] aquando da sua publicação. [body].</li>
+	<li>desc->Uma obra poética [adj] que abalou [place] quando da sua publicação. [body].</li>
 	<li>desc->Os poemas de [PersonName] [surname], repletos de [emotion]. [body].</li>
 	
 	<li>body->Os críticos [critic_reaction] do seu [adj] uso da linguagem</li>
@@ -495,9 +495,9 @@
 	
 	<li>body->O trabalho é conhecido pela sua clareza e argumentação persuasiva</li>
 	<li>body->Alguns críticos referem que o seu [style] é um pouco [adj], mas o conteúdo é inegável</li>
-	<li>body->Apesar de muito criticado pela comunidade académica, vendeu bem ao público em geral</li>
+	<li>body->Apesar de muito criticado pela comunidade acadêmica, vendeu bem ao público em geral</li>
 	<li>body->Tornou-se um texto de referência em muitos cursos universitários</li>
-	<li>body->O [style] do autor é tão [adj] quanto o tópico que está a abordar</li>
+	<li>body->O [style] do autor é tão [adj] quanto o tópico que está abordando</li>
 	<li>body->O autor [wrote] este livro depois de ser exilado de [place]</li>
 	<li>body->O autor [wrote] este livro para se opor à [movement]</li>
 	<li>body->A natureza [adj] e [adj] da sua prosa [made] o livro um dos mais populares da [era]</li>
