@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VCE_AgaveNectar.description>Um néctar fino e semidoce, conhecido pelas suas propriedades cicatrizantes e anti-inflamatórias. Embora mais saudável que o açúcar, o seu elevado teor de frutose pode ser prejudicial se ingerido constantemente.</VCE_AgaveNectar.description>
-  <VCE_AgaveNectar.label>néctar de agave</VCE_AgaveNectar.label>
   <VCE_Allspice.description>Uma videira anômala e frondosa que produz pequenos frutos verdes e desagradáveis. Quando moídas finamente durante o cozimento, as frutas liberam um sabor complexo e apimentado, perfeito para temperar pratos.</VCE_Allspice.description>
   <VCE_Allspice.label>planta de pimenta da Jamaica</VCE_Allspice.label>
   <VCE_CannedAP.description>Ovos cozidos selados a vácuo e protegidos em aço podem efetivamente prolongar a vida útil indefinidamente. Embora seja comestível direto da lata, é muito mais nutritivo misturado em uma refeição e aquecido.\n\nOs produtos enlatados são uma forma de conservar os alimentos e usá-los como ingrediente posteriormente, não como refeição final.</VCE_CannedAP.description>
@@ -17,11 +15,8 @@
   <VCE_CanningMachine.description>Uma máquina de enlatar é um aparelho para armazenar alimentos conservados dentro de latas metálicas. Cada operação de enlatamento necessita de uma certa quantidade de Aço.</VCE_CanningMachine.description>
   <VCE_CanningMachine.label>máquina de conservas</VCE_CanningMachine.label>
   <VCE_Cheese.description>O queijo é um produto lácteo derivado do leite e produzido em uma ampla gama de sabores, texturas e formas pela coagulação da proteína caseína do leite. O queijo é valorizado pela sua portabilidade, longa vida e alto teor de gordura, proteína, cálcio e fósforo. É mais compacto e tem vida útil mais longa que o leite.\n\n&lt;color=#E5E54C&gt;Mecânica de jogo:&lt;/color&gt; O impacto do consumo de queijo no humor dependerá da qualidade, de -7 a +15.</VCE_Cheese.description>
-  <VCE_Cheese.label>queijo</VCE_Cheese.label>
   <VCE_CheesePress.description>Uma prensa de queijo é um dispositivo para extrair o soro da coalhada ao fazer queijo. A prensagem influencia a dureza e a textura do queijo e também determina o formato do bloco ou roda do queijo. Esta prensa funciona também como câmara de maturação, pelo que quanto mais tempo o queijo ficar a amadurecer, maior será a sua qualidade.</VCE_CheesePress.description>
   <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
-  <VCE_ChocolateSyrup.description>Uma mistura de cacau, água e açúcar, formando uma calda agridoce, ideal para revestir sobremesas. Embora ainda não seja bom para você, a calda de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
-  <VCE_ChocolateSyrup.label>calda de chocolate</VCE_ChocolateSyrup.label>
   <VCE_CondimentPrepTable.description>Mesa de trabalho para cortar, fatiar e preparar condimentos utilizados em receitas gourmet.</VCE_CondimentPrepTable.description>
   <VCE_CondimentPrepTable.label>mesa de preparação de condimentos</VCE_CondimentPrepTable.label>
   <VCE_CookedSoupFine.description>Uma sopa complexa preparada com cuidado a partir de uma vasta seleção de ingredientes.</VCE_CookedSoupFine.description>
@@ -60,20 +55,12 @@
   <VCE_GourmetGrill.label>grelhado gourmet</VCE_GourmetGrill.label>
   <VCE_Grill.description>Uma grelha é um dispositivo que cozinha alimentos aplicando calor por baixo. Esta é uma churrasqueira a lenha que precisa de madeira como combustível para funcionar.</VCE_Grill.description>
   <VCE_Grill.label>grelha</VCE_Grill.label>
-  <VCE_HotSauce.description>Um molho potente e picante feito misturando e fervendo pimentas e outras especiarias. Embora molhos picantes particularmente fortes doam no início, eles são conhecidos por anestesiar a dor e causar suor quente logo após o consumo.</VCE_HotSauce.description>
-  <VCE_HotSauce.label>molho picante</VCE_HotSauce.label>
-  <VCE_InsectJellyPreserves.description>Geleia de insetos cortada com adoçante e selada como conserva. Muito rica e doce, ao mesmo tempo que é surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
-  <VCE_InsectJellyPreserves.label>geleia de insetos em conserva</VCE_InsectJellyPreserves.label>
-  <VCE_Ketchup.description>Um molho espesso feito de tomate cozido, salgado e picante, com um sabor adocicado. Perfeito para refeições de carne ou frituras.</VCE_Ketchup.description>
-  <VCE_Ketchup.label>ketchup</VCE_Ketchup.label>
   <VCE_LavishBake.description>Uma obra-prima das artes culinárias, este assado nutre o corpo, a mente e a alma.</VCE_LavishBake.description>
   <VCE_LavishBake.label>assado luxuoso</VCE_LavishBake.label>
   <VCE_LavishDessert.description>Obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.</VCE_LavishDessert.description>
   <VCE_LavishDessert.label>sobremesa luxuosa</VCE_LavishDessert.label>
   <VCE_LavishGrill.description>Obra-prima das artes culinárias, esta carne grelhada nutre o corpo, a mente e a alma. Muito fartas, as carnes grelhadas permitem que as pessoas não sintam fome por muito tempo. Congelá-los estraga esse efeito.</VCE_LavishGrill.description>
   <VCE_LavishGrill.label>grelhado exuberante</VCE_LavishGrill.label>
-  <VCE_Mayo.description>Uma emulsão espessa de ovo, óleo e outras ervas. A maionese, embora terrível para você, adiciona um sabor agradável e é muito densa em termos calóricos.</VCE_Mayo.description>
-  <VCE_Mayo.label>maionese</VCE_Mayo.label>
   <VCE_MealGourmet.description>Uma obra de arte culinária, caracterizada por uma preparação e apresentação refinada e até elaborada.</VCE_MealGourmet.description>
   <VCE_MealGourmet.label>refeição gourmet</VCE_MealGourmet.label>
   <VCE_RawSpices.description>Uma variedade de especiarias aromáticas e picantes, acrescenta várias notas afiadas na língua e dá um pouco de vitalidade ao seu passo.</VCE_RawSpices.description>
@@ -96,8 +83,6 @@
   <VCE_SimpleDessert.label>sobremesa simples</VCE_SimpleDessert.label>
   <VCE_SimpleGrill.description>Uma simples carne grelhada preparada com poucos ingredientes. Muito fartas, as carnes grelhadas permitem que as pessoas não sintam fome por muito tempo. Congelá-los estraga esse efeito.</VCE_SimpleGrill.description>
   <VCE_SimpleGrill.label>grelhado simples</VCE_SimpleGrill.label>
-  <VCE_SmokeleafButter.description>Substância espessa e gordurosa produzida pela agitação do leite em um creme muito espesso, combinado com óleo de folha de fumaça e permitindo que ele endureça. Muito prejudicial à saúde e atinge um pouco mais forte do que um baseado.</VCE_SmokeleafButter.description>
-  <VCE_SmokeleafButter.label>manteiga de folha de fumo</VCE_SmokeleafButter.label>
   <VCE_Sugarcane.description>Uma grama tropical alta e espessa com caules articulados. Embora não seja exatamente a coisa mais nutritiva para comer por si só, esta cana-de-açúcar geneticamente modificada é facilmente transformada em açúcar e depois usada para uma variedade de criações culinárias – especialmente sobremesas.</VCE_Sugarcane.description>
   <VCE_Sugarcane.label>planta de cana-de-açúcar</VCE_Sugarcane.label>
   <VCE_UncookedSoupFine.description>Uma boa sopa crua. Isso precisa ser cozido em uma panela elétrica para ser comestível.</VCE_UncookedSoupFine.description>

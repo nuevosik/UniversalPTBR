@@ -14,8 +14,6 @@
   <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedOutLabel>
   <VEF_AcidBurn.label>queimadura ácida</VEF_AcidBurn.label>
   <VEF_AcidBurn.labelNoun>uma queimadura ácida</VEF_AcidBurn.labelNoun>
-  <VEF_ControlledInvisibility.description>Envolto em um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description>
-  <VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label>
   <VEF_Kamikaze.description>Bum.</VEF_Kamikaze.description>
   <VEF_Kamikaze.label>detonação repentina</VEF_Kamikaze.label>
   <VEF_Kamikaze.stages.0.label>inicial oculto</VEF_Kamikaze.stages.0.label>
@@ -31,7 +29,6 @@
   <VEF_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</VEF_PermanentBurn.description>
   <VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedLabel>
   <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
-  <VEF_PermanentBurn.label>queimadura permanente</VEF_PermanentBurn.label>
   <VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun>
   <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isto pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.
 \nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.

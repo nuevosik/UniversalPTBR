@@ -58,7 +58,6 @@
   <AA_EcholocativeFeedbackLoop.description>Essa pessoa depende da ecolocalização em vez da visão normal, mas fatores ambientais, como explosões fortes, podem causar um ciclo de feedback debilitante, causando sobrecarga sensorial e confusão, levando-a a um estado catatônico.</AA_EcholocativeFeedbackLoop.description>
   <AA_EcholocativeFeedbackLoop.label>ciclo de feedback ecolocativo</AA_EcholocativeFeedbackLoop.label>
   <AA_Electric.description>Um choque elétrico perigoso. Pode causar danos ao coração e intensidades mais altas aumentam a possibilidade de ataque cardíaco.</AA_Electric.description>
-  <AA_Electric.label>choque elétrico</AA_Electric.label>
   <AA_Electric.stages.0.label>inicial</AA_Electric.stages.0.label>
   <AA_Electric.stages.1.label>chocado</AA_Electric.stages.1.label>
   <AA_Electric.stages.2.label>muito chocado</AA_Electric.stages.2.label>
@@ -119,7 +118,6 @@
   <AA_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</AA_PermanentBurn.description>
   <AA_PermanentBurn.injuryProps.destroyedLabel>Queimado</AA_PermanentBurn.injuryProps.destroyedLabel>
   <AA_PermanentBurn.injuryProps.destroyedOutLabel>Queimado</AA_PermanentBurn.injuryProps.destroyedOutLabel>
-  <AA_PermanentBurn.label>queimadura permanente</AA_PermanentBurn.label>
   <AA_PermanentBurn.labelNoun>uma queimadura permanente</AA_PermanentBurn.labelNoun>
   <AA_PsionicallyNuzzled.description>Abençoado por um Animus Vox.</AA_PsionicallyNuzzled.description>
   <AA_PsionicallyNuzzled.label>com o nariz psinicamente aninhado</AA_PsionicallyNuzzled.label>

@@ -11,28 +11,14 @@
   <VRE_HornAttack.description>Estes chifres podem ser usados para dilacerar inimigos em combate se estiver desarmado.</VRE_HornAttack.description>
   <VRE_HornAttack.comps.HediffComp_VerbGiver.tools.megaspider_horns.label>chifres de megaranha</VRE_HornAttack.comps.HediffComp_VerbGiver.tools.megaspider_horns.label>
   
-  <VRE_InsectMandibles.label>mandíbulas de inseto</VRE_InsectMandibles.label>
-  <VRE_InsectMandibles.description>Mandíbulas de inseto muito fortes, permitindo que esta pessoa consuma alimentos significativamente mais rápido. Ela também poderá usar estas mandíbulas em combate se estiver desarmada.</VRE_InsectMandibles.description>
   <VRE_InsectMandibles.comps.HediffComp_VerbGiver.tools.insect_mandibles.label>mandíbulas de inseto</VRE_InsectMandibles.comps.HediffComp_VerbGiver.tools.insect_mandibles.label>
   
-  <VRE_RipperBlades.label>lâmina-rasgadora</VRE_RipperBlades.label>
-  <VRE_RipperBlades.description>Uma lâmina-rasgadora longa e mortal que reduz drasticamente a velocidade de trabalho, enquanto pode ser usada em combate corpo a corpo para rasgar ao meio até mesmo inimigos blindados.</VRE_RipperBlades.description>
   <VRE_RipperBlades.comps.HediffComp_VerbGiver.tools.ripperblade.label>lâmina-rasgadora</VRE_RipperBlades.comps.HediffComp_VerbGiver.tools.ripperblade.label>
 
-  <VRE_AcidBlood.label>sangue ácido</VRE_AcidBlood.label>
-  <VRE_AcidBlood.description>Esta pessoa possui uma toxina altamente concentrada em seu sangue. Ao sangrar, ela emite grandes quantidades de gás tóxico e, após a morte, seus equipamentos serão destruídos pelo ácido.</VRE_AcidBlood.description>
 
-  <VRE_Dormant.label>dormente</VRE_Dormant.label>
-  <VRE_Dormant.description>Esta pessoa tem atividade e agressividade reduzidas e passa a maior parte do tempo em estado de dormência. O metabolismo de tal indivíduo também é reduzido, permitindo que consuma menos nutrição para se manter vivo.</VRE_Dormant.description>
   
-  <VRE_InefficientMidgut.label>intestino médio ineficiente</VRE_InefficientMidgut.label>
-  <VRE_InefficientMidgut.description>Esta pessoa possui um ácido muito ineficiente em seu intestino médio, tornando mais difícil a absorção de nutrientes. Ela sentirá fome significativamente mais rápido, mas será capaz de consumir mais.</VRE_InefficientMidgut.description>
 
-  <VRE_LowOctopamine.label>baixa octopamina</VRE_LowOctopamine.label>
-  <VRE_LowOctopamine.description>Baixas quantidades de octopamina causam diminuição do estado de alerta e dos níveis de atividade, bem como depressão.</VRE_LowOctopamine.description>
   
-  <VRE_Serotonin.label>serotonina elevada</VRE_Serotonin.label>
-  <VRE_Serotonin.description>Grandes quantidades de serotonina causam grande felicidade ao custo de uma consciência reduzida.</VRE_Serotonin.description>
 
   <VREInsector_Hover.label>planar</VREInsector_Hover.label>
   <VREInsector_Hover.description>Voo limitado que permite a este colono saltar e planar pequenas distâncias sobre o terreno. Ele ignorará os custos de movimento do terreno ao se mover.</VREInsector_Hover.description>
@@ -64,8 +50,6 @@
   <VRE_ChestburstPregnancyHediff.label>gravidez de rompimento torácico requer implantação</VRE_ChestburstPregnancyHediff.label>
   <VRE_ChestburstPregnancyHediff.description>Quando um colono com o gene de gravidez de rompimento torácico engravida, ele precisa designar outro indivíduo (voluntário ou não) para implantar o feto. Assim que o feto amadurece, ele irromperá da caixa torácica da vítima, matando o hospedeiro. Se isso não for feito antes do início do segundo trimestre (6 dias), a gravidez será interrompida.</VRE_ChestburstPregnancyHediff.description>
   
-  <VRE_Parthenogenesis.label>partenogênese</VRE_Parthenogenesis.label>
-  <VRE_Parthenogenesis.description>Esta pessoa pode auto-engravidar, gerando descendentes sem um segundo progenitor. Órgãos reprodutores especializados geram um feto internamente, que é armazenado em uma estrutura semelhante a um ovipositor até estar pronto para o nascimento. Isso permite que os portadores propaguem rapidamente sua espécie de forma autônoma.</VRE_Parthenogenesis.description>
 
   <VRE_InsectJellyProduction.label>produção de geleia</VRE_InsectJellyProduction.label>
   <VRE_InsectJellyProduction.description>Esta pessoa possui grandes sacos de geleia presentes no abdômen inferior, permitindo-lhe produzir periodicamente a valiosa geleia de inseto.</VRE_InsectJellyProduction.description>

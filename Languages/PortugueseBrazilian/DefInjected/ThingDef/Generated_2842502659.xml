@@ -24,7 +24,6 @@
   <VPE_FireTornado.label>tornado de fogo</VPE_FireTornado.label>
   <VPE_Flameball.description>Uma bola de fogo lançada por um conflagrador</VPE_Flameball.description>
   <VPE_Flameball.label>bola de fogo</VPE_Flameball.label>
-  <VPE_FrostRay.label>raio de gelo</VPE_FrostRay.label>
   <VPE_HeatPearls.description>Pérolas de calor místico criadas por um tecnomante em um processo de condensação de calor psíquico em uma forma física. Eles podem ser jogados em outros psicocasters para liberar uma quantidade insana de calor psíquico, desativando sua habilidade de psicocasting por um curto período.</VPE_HeatPearls.description>
   <VPE_HeatPearls.label>pérolas de calor</VPE_HeatPearls.label>
   <VPE_HeatPearls.verbs.0.label>jogue pérola de calor</VPE_HeatPearls.verbs.0.label>
@@ -52,7 +51,6 @@
   <VPE_Psyring.description>Um anel Eltex criado por um tecnomante habilidoso. Ele contém o conhecimento de um psicocast específico e pode ser usado por outros psicocasters para lançá-lo.</VPE_Psyring.description>
   <VPE_Psyring.label>psiring</VPE_Psyring.label>
   <VPE_RockConstruct.description>Um pedaço de rocha, animado por uma poderosa energia psíquica. Ele fará trabalhos simples pela colônia incansavelmente e com a máxima dedicação.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psicaster de lançar outras habilidades.</VPE_RockConstruct.description>
-  <VPE_RockConstruct.label>construção rochosa</VPE_RockConstruct.label>
   <VPE_RockConstruct.tools.0.label>cabeça</VPE_RockConstruct.tools.0.label>
   <VPE_Shrineshield_Large.label>grande escudo do santuário</VPE_Shrineshield_Large.label>
   <VPE_Shrineshield_Small.label>pequeno santuário</VPE_Shrineshield_Small.label>
@@ -62,14 +60,11 @@
   <VPE_SmallMeteorite_Incoming.label>pequeno meteorito</VPE_SmallMeteorite_Incoming.label>
   <VPE_SoulFromSky.label>alma</VPE_SoulFromSky.label>
   <VPE_SteelConstruct.description>Um pedaço de escória de aço, animado por uma poderosa energia psíquica. Ele enfrentará ameaças próximas e defenderá o mestre de qualquer dano que possa acontecer a ele.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psicaster de lançar outras habilidades.</VPE_SteelConstruct.description>
-  <VPE_SteelConstruct.label>construção em aço</VPE_SteelConstruct.label>
   <VPE_SteelConstruct.tools.0.label>cabeça</VPE_SteelConstruct.tools.0.label>
   <VPE_SummonedSkeleton.description>Uma casca psiquicamente reanimada de um indivíduo falecido. Extremamente agressivo, mas logo murchará e se transformará em nada.</VPE_SummonedSkeleton.description>
-  <VPE_SummonedSkeleton.label>esqueleto</VPE_SummonedSkeleton.label>
   <VPE_SummonedSkeleton.tools.0.label>punho esquerdo</VPE_SummonedSkeleton.tools.0.label>
   <VPE_SummonedSkeleton.tools.1.label>punho direito</VPE_SummonedSkeleton.tools.1.label>
   <VPE_TimeSphere.label>esfera do tempo</VPE_TimeSphere.label>
   <VPE_TreeSpawner.label>emergente</VPE_TreeSpawner.label>
-  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
   <VPE_WildPlantSpawner.label>emergente</VPE_WildPlantSpawner.label>
 </LanguageData>

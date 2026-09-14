@@ -181,7 +181,6 @@
   <VGE_SealantGoop.label>massa selante</VGE_SealantGoop.label>
   <VGE_SealantGoop.description>Um grumo de massa selante pegajosa e de endurecimento rápido. Usado para tapar rapidamente brechas no casco em um aperto.</VGE_SealantGoop.description>
   
-  <VGE_SealantPopper.label>lançador de selante</VGE_SealantPopper.label>
   <VGE_SealantPopper.description>Quando detecta níveis de vácuo acima de 25%, este dispositivo de segurança explode e libera uma gosma selante de rápida expansão. A substância solidifica-se rapidamente, vedando buracos e falhas para restaurar a pressão no cômodo. Também pode ser acionado manualmente.</VGE_SealantPopper.description>
   <VGE_SealantPopper.comps.CompUsable.useLabel>acionar {0_label}</VGE_SealantPopper.comps.CompUsable.useLabel>
   
@@ -367,15 +366,12 @@
   <VGE_OxyalgaePlant.label>planta de oxialgas</VGE_OxyalgaePlant.label>
   <VGE_OxyalgaePlant.description>Uma planta aquática de crescimento rápido cultivada em hidroponia e usada para gerar oxigênio quando convertida em oxigenador de algas. Apodrece rapidamente quando colhida, tornando o processamento imediato essencial.</VGE_OxyalgaePlant.description>
 
-  <VGE_Astronaut.label>astronauta</VGE_Astronaut.label>
   <VGE_Astronaut.description>Um mecanoide de tamanho médio projetado para realizar tarefas de construção e combate a incêndios em órbita. Pode realizar ataques corpo a corpo contundentes, se necessário. Não é afetado pelas baixas velocidades de travessia espacial.</VGE_Astronaut.description>
   <VGE_Astronaut.tools.torso.label>tronco</VGE_Astronaut.tools.torso.label>
 
-  <VGE_Astropede.label>astrópede</VGE_Astropede.label>
   <VGE_Astropede.description>mecanoide pesadamente blindados adaptados para a guerra em gravidade zero. Astrópedes flutuam silenciosamente pelo espaço usando estabilizadores gravitacionais, liberando barragens cinéticas explosivas de suas lanças de massa miniaturizadas. Seu perfil flutuante os torna ideais para assaltos a bordo de naves e violações de estações, embora sua lenta velocidade de movimento os deixe vulneráveis a fogo concentrado.</VGE_Astropede.description>
   <VGE_Astropede.tools.head.label>cabeça</VGE_Astropede.tools.head.label>
 
-  <VGE_Hunter.label>caçador</VGE_Hunter.label>
   <VGE_Hunter.description>Um mecanoide de combate rápido, do tamanho humano, projetado para a guerra em gravidade zero. Ele flutua sem esforço pelo espaço, aproximando-se do alvo antes de liberar salvas devastadoras do lançador de javalis duplos. Embora os mísseis atinjam com precisão letal, seu curto alcance força os caçadores a uma proximidade perigosa com o inimigo.</VGE_Hunter.description>
   <VGE_Hunter.tools.head.label>cabeça</VGE_Hunter.tools.head.label>
 

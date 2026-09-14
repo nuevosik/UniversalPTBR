@@ -4,7 +4,6 @@
   <VREA_ElectromagneticShock.label>choque eletromagnético</VREA_ElectromagneticShock.label>
   <VREA_ElectromagneticShock.description>Um choque eletromagnético.</VREA_ElectromagneticShock.description>
   
-  <VREA_EMPBurn.label>queimadura de PEM</VREA_EMPBurn.label>
   <VREA_EMPBurn.description>Uma queimadura causada por pulso eletromagnético.</VREA_EMPBurn.description>
   <VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de queimadura de PEM</VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <VREA_EMPBurn.injuryProps.destroyedLabel>Queimado (PEM)</VREA_EMPBurn.injuryProps.destroyedLabel>
@@ -76,7 +75,6 @@
   <VREA_Reactor.description>Um reator instalado.</VREA_Reactor.description>
   <VREA_Reactor.labelNoun>um reator</VREA_Reactor.labelNoun>
 
-  <VREA_Freeze.label>congelamento</VREA_Freeze.label>
   <VREA_Freeze.description>Tecido congelado causado pela exposição ao frio sem proteção adequada. O congelamento é muito doloroso e as partes do corpo afetadas são frequentemente perdidas.</VREA_Freeze.description>
   <VREA_Freeze.injuryProps.destroyedLabel>Perdido por congelamento</VREA_Freeze.injuryProps.destroyedLabel>
   <VREA_Freeze.labelNounPretty>{0} no(a) {1}</VREA_Freeze.labelNounPretty>

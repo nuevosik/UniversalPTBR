@@ -6,8 +6,6 @@
   <VFEM2_Mead.ingestible.ingestCommandString>Beber {0}</VFEM2_Mead.ingestible.ingestCommandString>
   <VFEM2_Mead.ingestible.ingestReportString>Bebendo {0}.</VFEM2_Mead.ingestible.ingestReportString>
 
-  <VFEM2_Wine.label>vinho</VFEM2_Wine.label>
-  <VFEM2_Wine.description>Uma garrafa grande de uma bebida alcoólica forte feita de uvas fermentadas. O consumo excessivo pode levar a apagões alcoólicos e, com o tempo, ao vício. Consumir vinho aumenta a sensibilidade psíquica.</VFEM2_Wine.description>
   <VFEM2_Wine.ingestible.ingestCommandString>Beber {0}</VFEM2_Wine.ingestible.ingestCommandString>
   <VFEM2_Wine.ingestible.ingestReportString>Bebendo {0}.</VFEM2_Wine.ingestible.ingestReportString>
 
@@ -240,98 +238,66 @@
   
   <VFEM_Mote_CombatCommandLinkLine.label>partícula</VFEM_Mote_CombatCommandLinkLine.label>
 
-  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
-  <VFEM2_HemogenDraught.description>Um líquido carmesim rico, fabricado a partir de pacotes de hemogênio concentrados. Quando o usuário a bebe, ela aprimora todas as características e habilidades ligadas à sua natureza hemogênica, impulsionando as capacidades físicas e mentais. Além disso, esta poção reabastece o suprimento de hemogênio do usuário ao longo do tempo, mantendo sua vitalidade e melhorando sua função geral.</VFEM2_HemogenDraught.description>
   <VFEM2_HemogenDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_HemogenDraught.comps.CompUsable.useLabel>
   <VFEM2_HemogenDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
   <VFEM2_HemogenDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_HemogenDraught.ingestible.ingestReportString>
 
-  <VFEM2_ClarityDraught.label>poção de clareza</VFEM2_ClarityDraught.label>
-  <VFEM2_ClarityDraught.description>Um líquido azul-claro que brilha com uma efervescência sutil. Quando o usuário a bebe, ela restaura parte do seu foco psíquico e aumenta sua sensibilidade psíquica, permitindo um processamento mental mais claro e uma percepção aguçada. No entanto, esse aumento na atividade mental eleva significativamente a taxa de fome do usuário, fazendo com que ele precise comer com mais frequência. Além disso, o zumbido mental implacável da poção leva a uma queda perceptível no humor devido ao fluxo avassalador de pensamentos.</VFEM2_ClarityDraught.description>
   <VFEM2_ClarityDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
   <VFEM2_ClarityDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
   <VFEM2_ClarityDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ClarityDraught.ingestible.ingestReportString>
 
-  <VFEM2_AmnesiaDraught.label>poção de amnésia</VFEM2_AmnesiaDraught.label>
-  <VFEM2_AmnesiaDraught.description>Um líquido branco e cristalino. Quando o usuário a bebe, faz com que ele perca a memória rapidamente. Este efeito faz com que memórias negativas e positivas desapareçam muito mais rápido do que o normal, levando a uma experiência transitória dos eventos da vida. Embora isso possa aliviar o fardo de memórias dolorosas, também diminui a alegria e o aprendizado obtidos em experiências positivas.</VFEM2_AmnesiaDraught.description>
   <VFEM2_AmnesiaDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_AmnesiaDraught.comps.CompUsable.useLabel>
   <VFEM2_AmnesiaDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_AmnesiaDraught.ingestible.ingestCommandString>
   <VFEM2_AmnesiaDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_AmnesiaDraught.ingestible.ingestReportString>
   
-  <VFEM2_AntitoxDraught.label>poção antitoxina</VFEM2_AntitoxDraught.label>
-  <VFEM2_AntitoxDraught.description>Um líquido azul-pavão claro e vibrante. Quando o usuário a bebe, ela aumenta sua resistência a toxinas, fortalecendo seu corpo contra substâncias nocivas. Além disso, esta poção trabalha ativamente para remover qualquer acúmulo tóxico existente no sistema do usuário, purificando seu corpo e prevenindo os efeitos prejudiciais das toxinas.</VFEM2_AntitoxDraught.description>
   <VFEM2_AntitoxDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_AntitoxDraught.comps.CompUsable.useLabel>
   <VFEM2_AntitoxDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_AntitoxDraught.ingestible.ingestCommandString>
   <VFEM2_AntitoxDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_AntitoxDraught.ingestible.ingestReportString>
   
-  <VFEM2_ComaDraught.label>poção de coma</VFEM2_ComaDraught.label>
-  <VFEM2_ComaDraught.description>Um líquido índigo profundo. Quando o usuário a bebe, ela induz um coma quimicamente controlado, retardando significativamente seu metabolismo. Este estado permite que o corpo conserve energia e potencialmente auxilie em processos de cura sob condições controladas.</VFEM2_ComaDraught.description>
   <VFEM2_ComaDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ComaDraught.comps.CompUsable.useLabel>
   <VFEM2_ComaDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ComaDraught.ingestible.ingestCommandString>
   <VFEM2_ComaDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ComaDraught.ingestible.ingestReportString>
   
-  <VFEM2_EfficiencyDraught.label>poção de eficiência</VFEM2_EfficiencyDraught.label>
-  <VFEM2_EfficiencyDraught.description>Um líquido cinza-ardósia que, quando bebido, aumenta a velocidade de trabalho global do usuário e reduz o esgotamento de sua energia, permitindo que trabalhe mais rápido e por mais tempo sem se sentir cansado. No entanto, o intenso aumento na produtividade traz um risco significativo, aumentando a chance de um ataque cardíaco devido ao esforço do corpo. Após os efeitos da poção diminuírem, o usuário experimenta um aumento acentuado na velocidade com que fica sonolento, necessitando de descanso imediato para se recuperar.</VFEM2_EfficiencyDraught.description>
   <VFEM2_EfficiencyDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_EfficiencyDraught.comps.CompUsable.useLabel>
   <VFEM2_EfficiencyDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_EfficiencyDraught.ingestible.ingestCommandString>
   <VFEM2_EfficiencyDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_EfficiencyDraught.ingestible.ingestReportString>
   
-  <VFEM2_FertilityDraught.label>poção de fertilidade</VFEM2_FertilityDraught.label>
-  <VFEM2_FertilityDraught.description>Um líquido suave de cor rosa-claro. Quando o usuário a bebe, ela aumenta artificialmente sua fertilidade, dando até mesmo àqueles que são estéreis uma chance de conceber. Este ligeiro aumento na fertilidade abre a possibilidade para indivíduos ou casais que lutam contra a infertilidade de se tornarem pais, focando no aprimoramento dos processos reprodutivos naturais.</VFEM2_FertilityDraught.description>
   <VFEM2_FertilityDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_FertilityDraught.comps.CompUsable.useLabel>
   <VFEM2_FertilityDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_FertilityDraught.ingestible.ingestCommandString>
   <VFEM2_FertilityDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_FertilityDraught.ingestible.ingestReportString>
   
-  <VFEM2_FocusDraught.label>poção de foco</VFEM2_FocusDraught.label>
-  <VFEM2_FocusDraught.description>Um líquido turquesa revigorante que, quando bebido, aumenta significativamente as habilidades de aprendizado do usuário, permitindo que absorvam e retenham mais informações rapidamente. Além disso, a poção aumenta a eficiência ao comer e descansar, permitindo nutrição e recuperação mais rápidas. Também impulsiona o acúmulo de foco psíquico, melhorando a clareza mental e as habilidades psíquicas. No entanto, assim que os efeitos da poção começam a desaparecer, esses aprimoramentos se revertem, levando à diminuição da capacidade de aprendizado, taxas de alimentação e descanso mais lentas e foco psíquico reduzido.</VFEM2_FocusDraught.description>
   <VFEM2_FocusDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_FocusDraught.comps.CompUsable.useLabel>
   <VFEM2_FocusDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_FocusDraught.ingestible.ingestCommandString>
   <VFEM2_FocusDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_FocusDraught.ingestible.ingestReportString>
   
-  <VFEM2_HealingDraught.label>poção de cura</VFEM2_HealingDraught.label>
-  <VFEM2_HealingDraught.description>Um líquido vermelho vibrante. Quando o usuário a bebe, ela aumenta muito a taxa de cicatrização de ferimentos, acelerando o processo de fechamento de feridas e reparo tecidual. Esta poção funciona impulsionando os mecanismos naturais de cura do corpo, tornando a recuperação de lesões muito mais rápida.</VFEM2_HealingDraught.description>
   <VFEM2_HealingDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_HealingDraught.comps.CompUsable.useLabel>
   <VFEM2_HealingDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_HealingDraught.ingestible.ingestCommandString>
   <VFEM2_HealingDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_HealingDraught.ingestible.ingestReportString>
   
-  <VFEM2_ImmunizationDraught.label>poção de imunização</VFEM2_ImmunizationDraught.label>
-  <VFEM2_ImmunizationDraught.description>Uma bebida de cor âmbar com minúsculas partículas flutuando que reforça o sistema imunológico de quem a bebe. Embora ajude a combater doenças melhor, o lado negativo é que faz o usuário se sentir muito mais cansado após bebê-la, além de fazer com que o usuário sinta sono muito mais rápido do que o habitual. Os efeitos da poção são mais fortes imediatamente após o consumo e depois desaparecem lentamente ao longo dos dias seguintes.</VFEM2_ImmunizationDraught.description>
   <VFEM2_ImmunizationDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ImmunizationDraught.comps.CompUsable.useLabel>
   <VFEM2_ImmunizationDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ImmunizationDraught.ingestible.ingestCommandString>
   <VFEM2_ImmunizationDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ImmunizationDraught.ingestible.ingestReportString>
   
-  <VFEM2_InspirationDraught.label>poção de inspiração</VFEM2_InspirationDraught.label>
-  <VFEM2_InspirationDraught.description>Um líquido radiante de cor dourada. Quando o usuário a bebe, ela fornece clareza mental, aguçando seu foco especificamente na aquisição de novos conhecimentos em áreas pelas quais é apaixonado. No entanto, a poção vem ao custo de capacidades de combate diminuídas, já que a atenção do usuário é desviada da proeza física para buscas intelectuais.</VFEM2_InspirationDraught.description>
   <VFEM2_InspirationDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_InspirationDraught.comps.CompUsable.useLabel>
   <VFEM2_InspirationDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_InspirationDraught.ingestible.ingestCommandString>
   <VFEM2_InspirationDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_InspirationDraught.ingestible.ingestReportString>
   
-  <VFEM2_PainkillerDraught.label>poção analgésica</VFEM2_PainkillerDraught.label>
-  <VFEM2_PainkillerDraught.description>Um líquido azul-claro conhecido como Poção Analgésica. Quando o usuário a bebe, ela reduz efetivamente sua sensação de dor, proporcionando alívio de desconfortos e ferimentos. No entanto, os componentes sedativos da poção também diminuem a produtividade e o foco do usuário, tornando mais difícil se concentrar e completar tarefas com eficiência. Isso a torna adequada para períodos de recuperação, mas menos ideal quando é necessário esforço mental ou físico ativo.</VFEM2_PainkillerDraught.description>
   <VFEM2_PainkillerDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_PainkillerDraught.comps.CompUsable.useLabel>
   <VFEM2_PainkillerDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_PainkillerDraught.ingestible.ingestCommandString>
   <VFEM2_PainkillerDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_PainkillerDraught.ingestible.ingestReportString>
   
-  <VFEM2_PoisonDraught.label>poção de veneno</VFEM2_PoisonDraught.label>
-  <VFEM2_PoisonDraught.description>Um líquido verde escuro e sinistro. Quando consumida, reduz drasticamente a consciência do usuário, induzindo um coma quimicamente forçado. Este estado não apenas incapacita o indivíduo, mas também inicia uma rápida deterioração de seus órgãos. Os efeitos desta poção são graves e irreversíveis, levando inevitavelmente à morte.</VFEM2_PoisonDraught.description>
   <VFEM2_PoisonDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_PoisonDraught.comps.CompUsable.useLabel>
   <VFEM2_PoisonDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_PoisonDraught.ingestible.ingestCommandString>
   <VFEM2_PoisonDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_PoisonDraught.ingestible.ingestReportString>
   
-  <VFEM2_StoneskinDraught.label>poção de pele de pedra</VFEM2_StoneskinDraught.label>
-  <VFEM2_StoneskinDraught.description>Um líquido cinza-ardósia profundo. Quando o usuário a bebe, sua pele passa por uma transformação dramática, engrossando e endurecendo para se assemelhar a uma armadura embutida. Toda a epiderme torna-se resistente o suficiente para resistir a queimaduras, enquanto placas externas de queratina articuladas se formam sobre o corpo, incluindo a cabeça e o rosto, fornecendo proteção adicional. Este formidável escudo físico torna extremamente difícil infligir dano físico ao usuário. No entanto, a aparência das placas e da pele endurecida reduz significativamente a atratividade física do usuário, impactando suas interações sociais.</VFEM2_StoneskinDraught.description>
   <VFEM2_StoneskinDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_StoneskinDraught.comps.CompUsable.useLabel>
   <VFEM2_StoneskinDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_StoneskinDraught.ingestible.ingestCommandString>
   <VFEM2_StoneskinDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_StoneskinDraught.ingestible.ingestReportString>
   
-  <VFEM2_StrengthDraught.label>poção de força</VFEM2_StrengthDraught.label>
-  <VFEM2_StrengthDraught.description>Um líquido vermelho profundo e marcante. Quando o usuário a bebe, ela aumenta significativamente sua força física, dando-lhe o poder de realizar feitos que normalmente não conseguiria. No entanto, a poção também aumenta o limiar de colapso mental do usuário, tornando-o mais propenso ao estresse psicológico. Além disso, o intenso surto de força aumenta a probabilidade de conflitos, levando a uma chance maior de brigas sociais.</VFEM2_StrengthDraught.description>
   <VFEM2_StrengthDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_StrengthDraught.comps.CompUsable.useLabel>
   <VFEM2_StrengthDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_StrengthDraught.ingestible.ingestCommandString>
   <VFEM2_StrengthDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_StrengthDraught.ingestible.ingestReportString>
   
-  <VFEM2_TorturerDraught.label>poção do torturador</VFEM2_TorturerDraught.label>
-  <VFEM2_TorturerDraught.description>Um líquido roxo escuro e agourento. Quando o usuário a bebe, ela induz uma dor intensa, incapacitando-o a ponto de tornar o movimento impossível. Para prisioneiros, essa agonia intensa causa um declínio rápido em sua vontade de resistir, quebrando quaisquer barreiras mentais que possam ter. No caso de escravos, a poção suprime completamente seu espírito, deixando-os inteiramente submissos. Esta poção é usada com cautela devido aos seus efeitos extremos.</VFEM2_TorturerDraught.description>
   <VFEM2_TorturerDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_TorturerDraught.comps.CompUsable.useLabel>
   <VFEM2_TorturerDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_TorturerDraught.ingestible.ingestCommandString>
   <VFEM2_TorturerDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_TorturerDraught.ingestible.ingestReportString>

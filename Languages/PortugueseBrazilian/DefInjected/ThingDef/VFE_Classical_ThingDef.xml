@@ -27,8 +27,6 @@
   <VFEC_TheatreStage.label>palco de teatro</VFEC_TheatreStage.label>
   <VFEC_TheatreStage.description>Um palco de madeira levemente decorado, destinado a fornecer espaço para adereços e atores criarem cenas envolventes. Tais apresentações são muito divertidas tanto para quem está no palco quanto para quem as assiste.</VFEC_TheatreStage.description>
   
-  <VFEC_Thermaebath.label>termas</VFEC_Thermaebath.label>
-  <VFEC_Thermaebath.description>Um banho de pedra aquecido muito grande, destinado a ser compartilhado por vários usuários. Proporciona um alívio temporário de um mundo que, de outra forma, seria desconfortável. Em grande número, sabe-se que os banhistas se perdem no momento e compartilham mais do que normalmente compartilhariam.</VFEC_Thermaebath.description>
 
   <VFEC_Beacon.label>sinalizador</VFEC_Beacon.label>
   <VFEC_Beacon.description>Uma grande pilha de madeira colocada cuidadosamente sobre uma plataforma alta. Uma vez acesa, um fogo de queima lenta brilhará intensamente por 3 dias. Acender este sinalizador indicará a uma facção aliada que seu assentamento precisa de ajuda; engenheiros militares auxiliares geralmente chegam logo em seguida e lutarão e construirão ao seu lado. Deve ser totalmente reconstruído após se apagar. A ajuda só pode ser solicitada uma vez por vez, e apenas a cada 3 dias.</VFEC_Beacon.description>
@@ -36,8 +34,6 @@
   <VFEC_ConcretePress.label>prensa de cimento</VFEC_ConcretePress.label>
   <VFEC_ConcretePress.description>Uma bacia de pedra aberta e muito resistente, destinada a curar e moldar em blocos uma mistura de argila, areia e pedra em pó conhecida como cimento.</VFEC_ConcretePress.description>
   
-  <VFEC_CraftingBench.label>bancada de artesanato</VFEC_CraftingBench.label>
-  <VFEC_CraftingBench.description>Uma bancada simples abastecida com ferramentas igualmente simples, destinada a auxiliar na fabricação de bens e armas primitivas.</VFEC_CraftingBench.description>
   
   <VFEC_MeatDryingRack.label>varal de secagem de carne</VFEC_MeatDryingRack.label>
   <VFEC_MeatDryingRack.description>Uma estrutura de madeira sólida com uma série de ganchos de metal pendurados em uma viga central para pendurar pedaços de carne. A carne pendurada secará ao ar muito lentamente com o tempo, permitindo uma forma de preservação indefinida. O processo de secagem pode ser acelerado por um ambiente quente.</VFEC_MeatDryingRack.description>
@@ -91,7 +87,6 @@
 
   <VFEC_MoteCenturionLink.label>elo de centurião</VFEC_MoteCenturionLink.label>
 
-  <VFEC_Opium.label>ópio</VFEC_Opium.label>
   <VFEC_Opium.description>Um analgésico particularmente forte e viciante, capaz de anular inteiramente a dor de alguém. Recomenda-se que, se alguém começar a usar esta droga, torne-se um usuário diário, pois a abstinência é extremamente difícil de lidar e começa rapidamente.</VFEC_Opium.description>
   <VFEC_Opium.ingestible.ingestCommandString>Usar {0}</VFEC_Opium.ingestible.ingestCommandString>
   <VFEC_Opium.ingestible.ingestReportString>Usando {0}.</VFEC_Opium.ingestible.ingestReportString>

@@ -8,15 +8,6 @@
     <match Class="PatchOperationSequence">
       <operations>
         <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/label</xpath>
-          <value><label>cauda propulsora espacial</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/description</xpath>
-          <value><description>Os portadores deste gene possuem uma cauda muscular especializada que atua como um órgão de propulsão, permitindo que se lancem por grandes distâncias no vácuo do espaço. Esta habilidade não funciona dentro de atmosferas.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
           <xpath>Defs/GeneDef[defName="VREStarjack_Cryostasis"]/label</xpath>
           <value><label>criostase biológica</label></value>
         </li>
@@ -50,33 +41,6 @@
         <li Class="PatchOperationReplace">
           <xpath>Defs/GeneDef[defName="VREStarjack_VacuumResistance_Total"]/description</xpath>
           <value><description>Sistemas circulatórios e respiratórios reforçados impedem que a hipóxia se acumule rapidamente, permitindo a sobrevivência prolongada no vácuo espacial.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Extreme"]/label</xpath>
-          <value><label>intolerância total ao oxigênio</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Extreme"]/description</xpath>
-          <value><description>Estes indivíduos não sobrevivem em ambientes ricos em oxigênio. A exposição a atmosferas respiráveis causa falência pulmonar imediata e morte eventual.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Intense"]/label</xpath>
-          <value><label>sensibilidade severa ao oxigênio</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Intense"]/description</xpath>
-          <value><description>Ambientes oxigenados causam dor intensa e debilitação física. O ar respirável provoca falta de ar e fraqueza extrema, dificultando a sobrevivência planetária.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Mild"]/label</xpath>
-          <value><label>sensibilidade leve ao oxigênio</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Mild"]/description</xpath>
-          <value><description>Estes portadores sentem um leve desconforto em atmosferas ricas em oxigênio, manifestado como fadiga respiratória e cansaço mental persistente.</description></value>
         </li>
 
         <li Class="PatchOperationReplace">

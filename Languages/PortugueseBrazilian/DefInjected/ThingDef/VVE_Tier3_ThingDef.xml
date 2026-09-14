@@ -129,8 +129,6 @@
   <VVE_Burya.properties.roles.0.label>Motorista</VVE_Burya.properties.roles.0.label>
   <VVE_Burya.properties.roles.1.label>Atirador</VVE_Burya.properties.roles.1.label>
 
-  <VVE_Cherokee.label>Cherokee</VVE_Cherokee.label>
-  <VVE_Cherokee.description>Uma aeronave de transporte pesado, o Cherokee é uma monstruosidade da engenharia aeronáutica. Muito lento devido ao seu tamanho, igualmente sedento por combustível e ostenta uma capacidade de carga massiva. Planeje adequadamente.\n\nUm helicóptero de transporte dedicado com um compartimento de carga modificado, requer dois pilotos para operar e reabastecimento frequente. No entanto, nada chega perto do seu nível de transporte de carga bruta em seu nível tecnológico.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x2\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Cherokee.description>
   <VVE_Cherokee.components.0.label>Motor dianteiro</VVE_Cherokee.components.0.label>
   <VVE_Cherokee.components.1.label>Motor traseiro</VVE_Cherokee.components.1.label>
   <VVE_Cherokee.components.2.label>Roda de pouso frontal esq.</VVE_Cherokee.components.2.label>
@@ -241,8 +239,6 @@
   <VVE_Lightning.properties.roles.0.label>Motorista</VVE_Lightning.properties.roles.0.label>
   <VVE_Lightning.properties.roles.1.label>Passageiro</VVE_Lightning.properties.roles.1.label>
 
-  <VVE_Louie.label>Louie</VVE_Louie.label>
-  <VVE_Louie.description>Uma aeronave de transporte blindada, o Louie é um modo de transporte móvel robusto e ágil. Não requer pista de pouso e não se despedaçará ao primeiro sinal de fogo.\n\nUm helicóptero de uso relativamente geral, possui excelente capacidade de carga e de passageiros. Tem alguma blindagem para uma aeronave, permitindo que ele se desloque e extraia tropas de zonas de conflito.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Louie.description>
   <VVE_Louie.components.0.label>Patim de pouso esquerdo</VVE_Louie.components.0.label>
   <VVE_Louie.components.1.label>Patim de pouso direito</VVE_Louie.components.1.label>
   <VVE_Louie.components.2.label>Estabilizador horizontal esquerdo</VVE_Louie.components.2.label>

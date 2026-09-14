@@ -1,112 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <AEXP_Anaconda.description>A sucuri é a espécie de cobra mais pesada e uma das mais longas conhecidas, atingindo comprimento de 5 metros. Eles são uma espécie principalmente noturna que tende a passar a maior parte de sua vida dentro ou perto da água.</AEXP_Anaconda.description>
-  <AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
   <AEXP_Anaconda.tools.1.label>cabeça</AEXP_Anaconda.tools.1.label>
   <AEXP_ArcticCoyote.description>Um pequeno canino nativo da tundra e das florestas boreais. É capaz de caçar presas muito maiores e costuma ser encontrado em matilhas, semelhante a um lobo.</AEXP_ArcticCoyote.description>
-  <AEXP_ArcticCoyote.label>coiote ártico</AEXP_ArcticCoyote.label>
   <AEXP_ArcticCoyote.tools.0.label>garra esquerda</AEXP_ArcticCoyote.tools.0.label>
   <AEXP_ArcticCoyote.tools.1.label>garra direita</AEXP_ArcticCoyote.tools.1.label>
   <AEXP_ArcticCoyote.tools.3.label>cabeça</AEXP_ArcticCoyote.tools.3.label>
   <AEXP_Beagle.description>Um pequeno cão farejador desenvolvido principalmente para caçar lebres. Sua inteligência e lealdade fazem dele um companheiro valioso na caça.</AEXP_Beagle.description>
-  <AEXP_Beagle.label>beagle</AEXP_Beagle.label>
   <AEXP_Beagle.race.meatLabel>carne de cachorro</AEXP_Beagle.race.meatLabel>
   <AEXP_Beagle.tools.0.label>garra esquerda</AEXP_Beagle.tools.0.label>
   <AEXP_Beagle.tools.1.label>garra direita</AEXP_Beagle.tools.1.label>
   <AEXP_Beagle.tools.2.label>dentinhos fofos</AEXP_Beagle.tools.2.label>
   <AEXP_Beagle.tools.3.label>cabeça</AEXP_Beagle.tools.3.label>
   <AEXP_Beaver.description>Um grande roedor semiaquático com cauda plana em forma de remo e patas traseiras palmadas. Os castores são conhecidos por suas habilidades inatas de construção, construindo suas casas, ou "alojamentos", com gravetos, galhos, pedras e lama em lagos, riachos e deltas de rios. Os castores são conhecidos por construir barragens em riachos e construir seus alojamentos nas lagoas artificiais que se formam.</AEXP_Beaver.description>
-  <AEXP_Beaver.label>castor</AEXP_Beaver.label>
   <AEXP_Beaver.tools.0.label>garra esquerda</AEXP_Beaver.tools.0.label>
   <AEXP_Beaver.tools.1.label>garra direita</AEXP_Beaver.tools.1.label>
   <AEXP_Beaver.tools.3.label>cabeça</AEXP_Beaver.tools.3.label>
   <AEXP_BeaverDam.description>Barragens de castores ou represas de castores são barragens construídas por castores para fornecer lagoas como proteção contra predadores como coiotes, lobos e ursos, e para fornecer fácil acesso a alimentos durante o inverno.</AEXP_BeaverDam.description>
   <AEXP_BeaverDam.label>barragem de castores</AEXP_BeaverDam.label>
   <AEXP_BlackBear.description>Mamífero onívoro de médio porte adaptado a climas frios. A gordura espessa e o pelo dos ursos os mantêm aquecidos no inverno.\n\nEmbora sua dieta habitual consista em peixes, frutas vermelhas, mel e carne de animais eliminados, o urso-negro é capaz de usar sua enorme força e garras mortais para matar presas vivas. Eles são surpreendentemente rápidos para criaturas tão pesadas.</AEXP_BlackBear.description>
-  <AEXP_BlackBear.label>urso preto</AEXP_BlackBear.label>
   <AEXP_Boombat.description>Devido a algum experimento insano, esses roedores fofos e fofinhos criam uma poderosa explosão que inicia o fogo quando mortos.</AEXP_Boombat.description>
-  <AEXP_Boombat.label>bumbat</AEXP_Boombat.label>
   <AEXP_Boombat.tools.0.label>garra esquerda</AEXP_Boombat.tools.0.label>
   <AEXP_Boombat.tools.1.label>garra direita</AEXP_Boombat.tools.1.label>
   <AEXP_Boombat.tools.3.label>cabeça</AEXP_Boombat.tools.3.label>
   <AEXP_Camel.description>Um grande mamífero terrestre adaptado a ambientes áridos. Domesticada desde a antiguidade, a sua lã e o seu couro são excepcionalmente bons para isolar do calor do deserto e o seu leite é bastante nutritivo. Ele pode ser usado como animal de carga, mas duas corcundas tornam seu passeio extremamente desconfortável.\n\nAo armazenar água em suas grandes corcovas e recuperar a umidade da respiração enquanto expira, ele pode passar semanas sem beber.</AEXP_Camel.description>
-  <AEXP_Camel.label>camelo</AEXP_Camel.label>
   <AEXP_Camel.tools.0.label>casco esquerdo</AEXP_Camel.tools.0.label>
   <AEXP_Camel.tools.1.label>casco direito</AEXP_Camel.tools.1.label>
   <AEXP_Camel.tools.3.label>cabeça</AEXP_Camel.tools.3.label>
   <AEXP_CatAbyssinian.description>Um gato arbustivo esbelto, de ossatura fina e de tamanho médio.</AEXP_CatAbyssinian.description>
-  <AEXP_CatAbyssinian.label>gato abissínio</AEXP_CatAbyssinian.label>
   <AEXP_CatAbyssinian.tools.0.label>garra esquerda</AEXP_CatAbyssinian.tools.0.label>
   <AEXP_CatAbyssinian.tools.1.label>garra direita</AEXP_CatAbyssinian.tools.1.label>
   <AEXP_CatAbyssinian.tools.3.label>cabeça</AEXP_CatAbyssinian.tools.3.label>
   <AEXP_CatBengal.description>Um híbrido domesticado de gato doméstico e leopardo tropical.</AEXP_CatBengal.description>
-  <AEXP_CatBengal.label>gato de bengala</AEXP_CatBengal.label>
   <AEXP_CatBengal.tools.0.label>garra esquerda</AEXP_CatBengal.tools.0.label>
   <AEXP_CatBengal.tools.1.label>garra direita</AEXP_CatBengal.tools.1.label>
   <AEXP_CatBengal.tools.3.label>cabeça</AEXP_CatBengal.tools.3.label>
   <AEXP_CatBritishShorthair.description>Uma versão com pedigree de um gato britânico normal, com corpo distintamente atarracado, pelagem densa e rosto muito largo. Embora tenham uma aparência relativamente poderosa devido ao peito grande e às patas enormes, esses gatos são absolutamente inofensivos.</AEXP_CatBritishShorthair.description>
-  <AEXP_CatBritishShorthair.label>gato de pelo curto britânico</AEXP_CatBritishShorthair.label>
   <AEXP_CatBritishShorthair.tools.0.label>garra esquerda</AEXP_CatBritishShorthair.tools.0.label>
   <AEXP_CatBritishShorthair.tools.1.label>garra direita</AEXP_CatBritishShorthair.tools.1.label>
   <AEXP_CatBritishShorthair.tools.3.label>cabeça</AEXP_CatBritishShorthair.tools.3.label>
   <AEXP_CatMaineCoon.description>Sendo o maior gato domesticado, possui uma aparência física distinta e valiosas habilidades de caça. É um gato grande e sociável, por isso recebeu o apelido de “o gigante gentil”.</AEXP_CatMaineCoon.description>
-  <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
   <AEXP_CatMaineCoon.tools.0.label>garra esquerda</AEXP_CatMaineCoon.tools.0.label>
   <AEXP_CatMaineCoon.tools.1.label>garra direita</AEXP_CatMaineCoon.tools.1.label>
   <AEXP_CatMaineCoon.tools.3.label>cabeça</AEXP_CatMaineCoon.tools.3.label>
   <AEXP_CatMunchkin.description>Também conhecido como gato salsicha, esta nova raça de gato tem pernas distintamente curtas. De natureza doce, brincalhão e orientado para as pessoas, estes gatos são companheiros perfeitos para pessoas com estilo de vida preguiçoso.</AEXP_CatMunchkin.description>
-  <AEXP_CatMunchkin.label>gato munchkin</AEXP_CatMunchkin.label>
   <AEXP_CatMunchkin.tools.0.label>garra esquerda</AEXP_CatMunchkin.tools.0.label>
   <AEXP_CatMunchkin.tools.1.label>garra direita</AEXP_CatMunchkin.tools.1.label>
   <AEXP_CatMunchkin.tools.3.label>cabeça</AEXP_CatMunchkin.tools.3.label>
   <AEXP_CatNorwegianForest.description>Um gato adaptado a climas muito frios devido à pelagem brilhante e que solta água.</AEXP_CatNorwegianForest.description>
-  <AEXP_CatNorwegianForest.label>gato da floresta norueguês</AEXP_CatNorwegianForest.label>
   <AEXP_CatNorwegianForest.tools.0.label>garra esquerda</AEXP_CatNorwegianForest.tools.0.label>
   <AEXP_CatNorwegianForest.tools.1.label>garra direita</AEXP_CatNorwegianForest.tools.1.label>
   <AEXP_CatNorwegianForest.tools.3.label>cabeça</AEXP_CatNorwegianForest.tools.3.label>
   <AEXP_CatPersian.description>Gato de pelo comprido originário de gatos selvagens do deserto, os gatos persas são majestosos, inteligentes e ágeis, o que os torna excelentes para caçar pequenos roedores e pássaros.</AEXP_CatPersian.description>
-  <AEXP_CatPersian.label>gato persa</AEXP_CatPersian.label>
   <AEXP_CatPersian.tools.0.label>garra esquerda</AEXP_CatPersian.tools.0.label>
   <AEXP_CatPersian.tools.1.label>garra direita</AEXP_CatPersian.tools.1.label>
   <AEXP_CatPersian.tools.3.label>cabeça</AEXP_CatPersian.tools.3.label>
   <AEXP_CatSiamese.description>Um gato com cabeça distintamente triangular, olhos azuis e corpo longo e musculoso, conhecido pela sua natureza social.</AEXP_CatSiamese.description>
-  <AEXP_CatSiamese.label>gato siamês</AEXP_CatSiamese.label>
   <AEXP_CatSiamese.tools.0.label>garra esquerda</AEXP_CatSiamese.tools.0.label>
   <AEXP_CatSiamese.tools.1.label>garra direita</AEXP_CatSiamese.tools.1.label>
   <AEXP_CatSiamese.tools.3.label>cabeça</AEXP_CatSiamese.tools.3.label>
   <AEXP_CatSomali.description>Um gato do mato, compartilhando a mesma família do gato abissínio. Possui cauda espessa e olhos amendoados.</AEXP_CatSomali.description>
-  <AEXP_CatSomali.label>gato somali</AEXP_CatSomali.label>
   <AEXP_CatSomali.tools.0.label>garra esquerda</AEXP_CatSomali.tools.0.label>
   <AEXP_CatSomali.tools.1.label>garra direita</AEXP_CatSomali.tools.1.label>
   <AEXP_CatSomali.tools.3.label>cabeça</AEXP_CatSomali.tools.3.label>
   <AEXP_CatSphynx.description>Um gato conhecido pela falta de pelo, desenvolvido devido à criação seletiva. Por serem quentes ao toque, perdem facilmente a temperatura corporal, o que os faz procurar fontes de calor.</AEXP_CatSphynx.description>
-  <AEXP_CatSphynx.label>gato esfinge</AEXP_CatSphynx.label>
   <AEXP_CatSphynx.tools.0.label>garra esquerda</AEXP_CatSphynx.tools.0.label>
   <AEXP_CatSphynx.tools.1.label>garra direita</AEXP_CatSphynx.tools.1.label>
   <AEXP_CatSphynx.tools.3.label>cabeça</AEXP_CatSphynx.tools.3.label>
   <AEXP_Cheetah.description>Esses gatos são magros e esguios, o que lhes permite atingir velocidades incríveis. Eles têm pelo de cor castanha com manchas pretas sólidas e redondas, pernas muito longas, uma cauda longa e estreita para equilíbrio e um peito profundo que contém pulmões grandes.</AEXP_Cheetah.description>
-  <AEXP_Cheetah.label>chita</AEXP_Cheetah.label>
   <AEXP_Chihuahua.description>Um cachorro pequeno, um pouco maior que um rato. Nos tempos antigos, eram consideradas reencarnações de diferentes divindades e até hoje são consideradas sagradas.</AEXP_Chihuahua.description>
-  <AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
   <AEXP_Chihuahua.tools.0.label>garra esquerda</AEXP_Chihuahua.tools.0.label>
   <AEXP_Chihuahua.tools.1.label>garra direita</AEXP_Chihuahua.tools.1.label>
   <AEXP_Chihuahua.tools.2.label>dentinhos fofos</AEXP_Chihuahua.tools.2.label>
   <AEXP_Chihuahua.tools.3.label>cabeça</AEXP_Chihuahua.tools.3.label>
   <AEXP_Corgi.description>Historicamente usados ​​para pastorear gado, os Corgis rapidamente se tornaram populares nos mundos imperiais e são reconhecidos como um símbolo da realeza.</AEXP_Corgi.description>
-  <AEXP_Corgi.label>corgi</AEXP_Corgi.label>
   <AEXP_Corgi.tools.0.label>garra esquerda</AEXP_Corgi.tools.0.label>
   <AEXP_Corgi.tools.1.label>garra direita</AEXP_Corgi.tools.1.label>
   <AEXP_Corgi.tools.2.label>dentinhos fofos</AEXP_Corgi.tools.2.label>
   <AEXP_Corgi.tools.3.label>cabeça</AEXP_Corgi.tools.3.label>
   <AEXP_Coyote.description>Um lobo da pradaria nativo de áreas desérticas e matagais. É capaz de caçar presas muito maiores e costuma ser encontrado em matilhas, semelhante a um lobo.</AEXP_Coyote.description>
-  <AEXP_Coyote.label>coiote</AEXP_Coyote.label>
   <AEXP_Coyote.tools.0.label>garra esquerda</AEXP_Coyote.tools.0.label>
   <AEXP_Coyote.tools.1.label>garra direita</AEXP_Coyote.tools.1.label>
   <AEXP_Coyote.tools.3.label>cabeça</AEXP_Coyote.tools.3.label>
   <AEXP_Crocodile.description>Grande réptil semi-aquático, encontrado com mais frequência nas margens dos rios. Seus instintos predatórios combinados com uma mandíbula extremamente forte permitem-lhes atacar presas muito maiores. Os crocodilos mais velhos podem atingir tamanhos monstruosos.</AEXP_Crocodile.description>
-  <AEXP_Crocodile.label>crocodilo</AEXP_Crocodile.label>
   <AEXP_DesertTortoise.description>Este réptil fortemente blindado que vive no deserto é conhecido por sua velocidade de movimento lenta e sua concha extremamente dura e plana, tornando-o difícil de matar. As tartarugas do deserto, apesar de seu pequeno tamanho, são ótimos animais de combate e relativamente fáceis de domesticar.</AEXP_DesertTortoise.description>
-  <AEXP_DesertTortoise.label>tartaruga do deserto</AEXP_DesertTortoise.label>
   <AEXP_DesertTortoise.tools.0.label>bico</AEXP_DesertTortoise.tools.0.label>
   <AEXP_DesertTortoise.tools.1.label>cabeça</AEXP_DesertTortoise.tools.1.label>
   <AEXP_EggAnacondaFertilized.description>Um ovo de sucuri fertilizado. Se tudo correr bem, ele deverá eclodir e se transformar em uma anaconda. Pode ser comido cru, mas fica muito melhor cozido.</AEXP_EggAnacondaFertilized.description>
@@ -138,55 +115,44 @@
   <AEXP_EggWildGooseUnfertilized.description>Um ovo de ganso selvagem não fertilizado. Pode ser comido cru, mas fica muito, muito melhor cozido.</AEXP_EggWildGooseUnfertilized.description>
   <AEXP_EggWildGooseUnfertilized.label>ovo de ganso selvagem (não fervido).</AEXP_EggWildGooseUnfertilized.label>
   <AEXP_FrenchBulldog.description>Originalmente usados ​​​​para bull-baiting, que é um ato de colocar uma espécie de animal contra touros, esses buldogues são adversários ferozes e, devido ao seu pequeno tamanho corporal, são rápidos, ágeis e letais.</AEXP_FrenchBulldog.description>
-  <AEXP_FrenchBulldog.label>buldogue francês</AEXP_FrenchBulldog.label>
   <AEXP_FrenchBulldog.tools.0.label>garra esquerda</AEXP_FrenchBulldog.tools.0.label>
   <AEXP_FrenchBulldog.tools.1.label>garra direita</AEXP_FrenchBulldog.tools.1.label>
   <AEXP_FrenchBulldog.tools.2.label>dentinhos fofos</AEXP_FrenchBulldog.tools.2.label>
   <AEXP_FrenchBulldog.tools.3.label>cabeça</AEXP_FrenchBulldog.tools.3.label>
   <AEXP_GermanShepherd.description>Um cão de trabalho de grande porte. Fáceis de treinar e bons em seguir instruções, eles são frequentemente vistos acompanhando as forças policiais do mundo brilhante e os agricultores do mundo rim.</AEXP_GermanShepherd.description>
-  <AEXP_GermanShepherd.label>pastor alemão</AEXP_GermanShepherd.label>
   <AEXP_GermanShepherd.tools.0.label>garra esquerda</AEXP_GermanShepherd.tools.0.label>
   <AEXP_GermanShepherd.tools.1.label>garra direita</AEXP_GermanShepherd.tools.1.label>
   <AEXP_GermanShepherd.tools.2.label>morder</AEXP_GermanShepherd.tools.2.label>
   <AEXP_GermanShepherd.tools.3.label>cabeça</AEXP_GermanShepherd.tools.3.label>
   <AEXP_GilaMonster.description>Um tipo de lagarto grande e de movimento lento, encontrado principalmente no deserto, conhecido por sua mordida altamente venenosa que inflige um grave acúmulo tóxico em suas presas. Os estrangeiros até hoje acreditam em histórias que afirmam que este lagarto é uma cria do inferno e que seu mau hálito é letal.</AEXP_GilaMonster.description>
-  <AEXP_GilaMonster.label>monstro gila</AEXP_GilaMonster.label>
   <AEXP_GilaMonster.tools.0.label>garra esquerda</AEXP_GilaMonster.tools.0.label>
   <AEXP_GilaMonster.tools.1.label>garra direita</AEXP_GilaMonster.tools.1.label>
   <AEXP_GilaMonster.tools.2.label>dentes</AEXP_GilaMonster.tools.2.label>
   <AEXP_GilaMonster.tools.3.label>cabeça</AEXP_GilaMonster.tools.3.label>
   <AEXP_Giraffe.description>A girafa é um dos mamíferos mais altos da galáxia, usando seu longo pescoço para alcançar folhas e galhos indisponíveis para herbívoros menores.</AEXP_Giraffe.description>
-  <AEXP_Giraffe.label>girafa</AEXP_Giraffe.label>
   <AEXP_Giraffe.tools.0.label>casco esquerdo</AEXP_Giraffe.tools.0.label>
   <AEXP_Giraffe.tools.1.label>casco direito</AEXP_Giraffe.tools.1.label>
   <AEXP_Giraffe.tools.3.label>cabeça</AEXP_Giraffe.tools.3.label>
   <AEXP_GreatDane.description>Uma das maiores espécies de cães, os Dogues Alemães são dignos, elegantes e fortes.</AEXP_GreatDane.description>
-  <AEXP_GreatDane.label>Dogue Alemão</AEXP_GreatDane.label>
   <AEXP_GreatDane.tools.0.label>garra esquerda</AEXP_GreatDane.tools.0.label>
   <AEXP_GreatDane.tools.1.label>garra direita</AEXP_GreatDane.tools.1.label>
   <AEXP_GreatDane.tools.3.label>cabeça</AEXP_GreatDane.tools.3.label>
   <AEXP_Hedgehog.description>Os ouriços são mamíferos diminutos com rostos em formato de cone, pernas curtas e corpos cobertos por espinhos semelhantes a porcos-espinhos. Quando em perigo, o ouriço rola em forma de bola de modo que os espinhos cobrem toda a área exposta do corpo e protegem o animal dos predadores.</AEXP_Hedgehog.description>
-  <AEXP_Hedgehog.label>ouriço</AEXP_Hedgehog.label>
   <AEXP_Hedgehog.tools.0.label>garra esquerda</AEXP_Hedgehog.tools.0.label>
   <AEXP_Hedgehog.tools.1.label>garra direita</AEXP_Hedgehog.tools.1.label>
   <AEXP_Hedgehog.tools.3.label>cabeça</AEXP_Hedgehog.tools.3.label>
   <AEXP_Hyena.description>Um grande carnívoro semelhante a um cachorro, encontrado com mais frequência em matagais e desertos. Tropo comum nas lendas tribais, o riso produzido por esses animais pode semear medo durante as longas noites do deserto.</AEXP_Hyena.description>
-  <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
   <AEXP_Hyena.tools.0.label>garra esquerda</AEXP_Hyena.tools.0.label>
   <AEXP_Hyena.tools.1.label>garra direita</AEXP_Hyena.tools.1.label>
   <AEXP_Hyena.tools.3.label>cabeça</AEXP_Hyena.tools.3.label>
   <AEXP_IndianElephant.description>O elefante indiano é um dos maiores animais terrestres não modificados. Em geral, os elefantes indianos são menores, têm orelhas menores, mas crânios relativamente mais largos e trombas maiores do que os elefantes africanos, e têm o ponto mais alto do corpo na cabeça.</AEXP_IndianElephant.description>
-  <AEXP_IndianElephant.label>elefante indiano</AEXP_IndianElephant.label>
   <AEXP_IndianElephant.tools.0.label>pé esquerdo</AEXP_IndianElephant.tools.0.label>
   <AEXP_IndianElephant.tools.1.label>pé direito</AEXP_IndianElephant.tools.1.label>
   <AEXP_IndianElephant.tools.2.label>cabeça</AEXP_IndianElephant.tools.2.label>
   <AEXP_Jaguar.description>Uma grande espécie de felino e o único membro existente do Panthera nativo das Américas na velha Terra. Este gato malhado se assemelha muito ao leopardo, mas geralmente é maior e mais resistente. A onça-pintada gosta de nadar e é em grande parte um predador solitário, oportunista, que persegue e embosca no topo da cadeia alimentar.</AEXP_Jaguar.description>
-  <AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
   <AEXP_Kangaroo.description>Canguru é um marsupial grande, de tamanho humano, com pernas fortes e braços poderosos. É preferido pelos caçadores tribais devido à sua carne macia e couro resistente ao calor. Os cangurus são adversários poderosos em combate corpo a corpo e podem ser facilmente treinados para se tornarem supersoldados animais.</AEXP_Kangaroo.description>
-  <AEXP_Kangaroo.label>canguru</AEXP_Kangaroo.label>
   <AEXP_Kangaroo.tools.3.label>cabeça</AEXP_Kangaroo.tools.3.label>
   <AEXP_Koala.description>Os coalas são facilmente reconhecíveis por seu corpo robusto e cabeças grandes e redondas com orelhas fofas. Eles normalmente habitam florestas áridas e temperadas, mas raramente podem ser vistos em áreas tropicais. Favorecidos pelas famílias reais, os coalas são ótimos animais domésticos devido ao seu maravilhoso efeito de focinho.</AEXP_Koala.description>
-  <AEXP_Koala.label>coala</AEXP_Koala.label>
   <AEXP_Koala.tools.0.label>garra esquerda</AEXP_Koala.tools.0.label>
   <AEXP_Koala.tools.1.label>garra direita</AEXP_Koala.tools.1.label>
   <AEXP_Koala.tools.3.label>cabeça</AEXP_Koala.tools.3.label>
@@ -197,87 +163,70 @@
   <AEXP_Leather_Wildebeest.description>Pele e couro de gnu grosso, mas quebradiço. Embora forneça algum grau de proteção contra danos, a longevidade geral do item diminui.</AEXP_Leather_Wildebeest.description>
   <AEXP_Leather_Wildebeest.label>pele de gnu</AEXP_Leather_Wildebeest.label>
   <AEXP_Lemur.description>Pequenos primatas, os lêmures são arborícolas e geralmente noturnos. Eles têm focinho pontudo, olhos grandes e cauda longa. Embora sejam criaturas sociais, são tradicionalmente considerados menos inteligentes que outros primatas, uma vez que não apresentam comportamentos de uso de ferramentas na natureza.</AEXP_Lemur.description>
-  <AEXP_Lemur.label>lêmure</AEXP_Lemur.label>
   <AEXP_Lemur.race.meatLabel>carne de primata</AEXP_Lemur.race.meatLabel>
   <AEXP_Lemur.tools.0.label>punho esquerdo</AEXP_Lemur.tools.0.label>
   <AEXP_Lemur.tools.1.label>punho direito</AEXP_Lemur.tools.1.label>
   <AEXP_Lemur.tools.3.label>cabeça</AEXP_Lemur.tools.3.label>
   <AEXP_Lion.description>Rei do reino animal, o leão é um gato musculoso, de peito largo, cabeça curta e juba proeminente. Sendo a maior espécie de felino, os leões são excelentes animais de combate, apesar de sua selvageria.</AEXP_Lion.description>
-  <AEXP_Lion.label>leão</AEXP_Lion.label>
   <AEXP_Lion.tools.0.label>garra esquerda</AEXP_Lion.tools.0.label>
   <AEXP_Lion.tools.1.label>garra direita</AEXP_Lion.tools.1.label>
   <AEXP_Lion.tools.3.label>cabeça</AEXP_Lion.tools.3.label>
   <AEXP_Mandrill.description>Os mandris são um dos maiores de todos os macacos. São primatas tímidos e reclusos que vivem apenas em florestas tropicais. Os mandris são extremamente coloridos, talvez mais do que qualquer outro mamífero. Eles são facilmente identificáveis ​​pela pele azul e vermelha do rosto e pelas nádegas em tons vivos.</AEXP_Mandrill.description>
-  <AEXP_Mandrill.label>mandril</AEXP_Mandrill.label>
   <AEXP_Mandrill.tools.0.label>punho esquerdo</AEXP_Mandrill.tools.0.label>
   <AEXP_Mandrill.tools.1.label>punho direito</AEXP_Mandrill.tools.1.label>
   <AEXP_Mandrill.tools.3.label>cabeça</AEXP_Mandrill.tools.3.label>
   <AEXP_MegaWolverine.description>Um predador gigante geneticamente modificado com patas enormes para dilacerar as presas. O pelo grosso permite-lhe sobreviver aos climas mais frios, enquanto a sua força lhe permite caçar até os maiores mamíferos para se alimentar.</AEXP_MegaWolverine.description>
-  <AEXP_MegaWolverine.label>megawolverine</AEXP_MegaWolverine.label>
   <AEXP_MegaWolverine.tools.0.label>garra esquerda</AEXP_MegaWolverine.tools.0.label>
   <AEXP_MegaWolverine.tools.1.label>garra direita</AEXP_MegaWolverine.tools.1.label>
   <AEXP_MegaWolverine.tools.3.label>cabeça</AEXP_MegaWolverine.tools.3.label>
   <AEXP_Megascorpion.description>Um escorpião gigante geneticamente modificado. Uma vez criado como uma ferramenta de assassinato perfeita, nem sempre é visto retornando ao seu habitat natural - o deserto. Um veneno muito potente em seu ferrão o ajuda a atacar presas ainda maiores. Uma criatura eusocial, não pode reproduzir-se individualmente.</AEXP_Megascorpion.description>
-  <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
   <AEXP_Megascorpion.tools.0.label>ferrão</AEXP_Megascorpion.tools.0.label>
   <AEXP_Megascorpion.tools.1.label>mandíbulas</AEXP_Megascorpion.tools.1.label>
   <AEXP_Megascorpion.tools.2.label>cabeça</AEXP_Megascorpion.tools.2.label>
   <AEXP_Platypus.description>O ornitorrinco é o único representante sobrevivente de sua família animal. São mamíferos com cauda de castor e bico de pato, conhecidos por botarem ovos. É um animal onívoro, capaz de matar pequenos roedores com suas venenosas esporas de tornozelo.</AEXP_Platypus.description>
-  <AEXP_Platypus.label>ornitorrinco</AEXP_Platypus.label>
   <AEXP_Platypus.tools.0.label>garra esquerda</AEXP_Platypus.tools.0.label>
   <AEXP_Platypus.tools.1.label>garra direita</AEXP_Platypus.tools.1.label>
   <AEXP_Platypus.tools.4.label>cabeça</AEXP_Platypus.tools.4.label>
   <AEXP_Poodle.description>Cães grandes e mimados, historicamente usados ​​para a caça de pássaros, agora residem principalmente em palácios imperiais e jardins reais.</AEXP_Poodle.description>
-  <AEXP_Poodle.label>poodle</AEXP_Poodle.label>
   <AEXP_Poodle.tools.0.label>garra esquerda</AEXP_Poodle.tools.0.label>
   <AEXP_Poodle.tools.1.label>garra direita</AEXP_Poodle.tools.1.label>
   <AEXP_Poodle.tools.3.label>cabeça</AEXP_Poodle.tools.3.label>
   <AEXP_Pug.description>Um cão pequeno com características fisicamente distintas, rosto enrugado, focinho curto e cauda enrolada. São conhecidos por serem extremamente sociáveis ​​e amigáveis, porém devido a anos de alterações genéticas têm uma vida útil muito curta. Seja qual for a vida que tenham, eles sempre animarão as pessoas ao seu redor.</AEXP_Pug.description>
-  <AEXP_Pug.label>pug</AEXP_Pug.label>
   <AEXP_Pug.tools.0.label>garra esquerda</AEXP_Pug.tools.0.label>
   <AEXP_Pug.tools.1.label>garra direita</AEXP_Pug.tools.1.label>
   <AEXP_Pug.tools.2.label>dentinhos fofos</AEXP_Pug.tools.2.label>
   <AEXP_Pug.tools.3.label>cabeça</AEXP_Pug.tools.3.label>
   <AEXP_Rattlesnake.description>Uma cobra altamente venenosa, cujo nome vem de um chocalho na ponta da cauda. O som gerado soa como um alerta para qualquer predador, porém caso não funcione, as presas venenosas da cascavel infligem uma toxina extremamente dolorosa.</AEXP_Rattlesnake.description>
-  <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
   <AEXP_Rattlesnake.tools.0.label>presas de veneno</AEXP_Rattlesnake.tools.0.label>
   <AEXP_Rattlesnake.tools.1.label>cabeça</AEXP_Rattlesnake.tools.1.label>
   <AEXP_RedPanda.description>O panda vermelho é um pequeno mamífero, um pouco maior que um gato doméstico, com corpo semelhante ao de um urso e pelo grosso e avermelhado. A barriga e os membros são pretos e há manchas brancas na lateral da cabeça e acima dos olhos pequenos. Os pandas vermelhos são animais muito habilidosos e acrobáticos que ficam predominantemente nas árvores. É um animal solitário, ativo principalmente do anoitecer ao amanhecer, embora possa ser bastante afetuoso se devidamente domesticado.</AEXP_RedPanda.description>
-  <AEXP_RedPanda.label>panda vermelho</AEXP_RedPanda.label>
   <AEXP_RedPanda.tools.0.label>punho esquerdo</AEXP_RedPanda.tools.0.label>
   <AEXP_RedPanda.tools.1.label>punho direito</AEXP_RedPanda.tools.1.label>
   <AEXP_RedPanda.tools.3.label>cabeça</AEXP_RedPanda.tools.3.label>
   <AEXP_Rottweiler.description>Um grande cão doméstico e uma das raças de pastoreio mais antigas. Sendo um dos cães mais trabalhadores, é um companheiro perfeito para agricultores e pastores de gado.</AEXP_Rottweiler.description>
-  <AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
   <AEXP_Rottweiler.tools.0.label>garra esquerda</AEXP_Rottweiler.tools.0.label>
   <AEXP_Rottweiler.tools.1.label>garra direita</AEXP_Rottweiler.tools.1.label>
   <AEXP_Rottweiler.tools.3.label>cabeça</AEXP_Rottweiler.tools.3.label>
   <AEXP_Shih-Tzu.description>Um cachorro de brinquedo oriental, o Shih-Tzu tem cabelos extremamente longos e macios. Embora sejam um tanto inúteis, acariciá-los proporciona grande conforto às pessoas.</AEXP_Shih-Tzu.description>
-  <AEXP_Shih-Tzu.label>shih-tzu</AEXP_Shih-Tzu.label>
   <AEXP_Shih-Tzu.tools.0.label>garra esquerda</AEXP_Shih-Tzu.tools.0.label>
   <AEXP_Shih-Tzu.tools.1.label>garra direita</AEXP_Shih-Tzu.tools.1.label>
   <AEXP_Shih-Tzu.tools.2.label>dentinhos fofos</AEXP_Shih-Tzu.tools.2.label>
   <AEXP_Shih-Tzu.tools.3.label>cabeça</AEXP_Shih-Tzu.tools.3.label>
   <AEXP_Tapir.description>Grande mamífero herbívoro, com formato semelhante ao de um porco, com tronco nasal curto, as antas habitam regiões de selva e floresta.</AEXP_Tapir.description>
-  <AEXP_Tapir.label>anta</AEXP_Tapir.label>
   <AEXP_Tapir.tools.1.label>cabeça</AEXP_Tapir.tools.1.label>
   <AEXP_WelshTerrier.description>Cão de caça, o Welsh Terrier é perfeito para pequenos roedores, raposas e texugos. Devido à sua inteligência são perfeitos para encontrar caminhos, sempre capazes de voltar para casa depois de correrem para a floresta.</AEXP_WelshTerrier.description>
-  <AEXP_WelshTerrier.label>terrier galês</AEXP_WelshTerrier.label>
   <AEXP_WelshTerrier.tools.0.label>garra esquerda</AEXP_WelshTerrier.tools.0.label>
   <AEXP_WelshTerrier.tools.1.label>garra direita</AEXP_WelshTerrier.tools.1.label>
   <AEXP_WelshTerrier.tools.3.label>cabeça</AEXP_WelshTerrier.tools.3.label>
   <AEXP_WildGoose.description>Um ganso cinza não domesticado. Em comparação com seus irmãos domesticados, que foram selecionados ao longo de milhares de anos por seu tamanho maior, os gansos selvagens não põem tantos ovos e são conhecidos por seu temperamento agressivo. A paz nunca foi uma opção.</AEXP_WildGoose.description>
-  <AEXP_WildGoose.label>ganso selvagem</AEXP_WildGoose.label>
   <AEXP_WildGoose.tools.0.label>garras</AEXP_WildGoose.tools.0.label>
   <AEXP_WildGoose.tools.1.label>bico</AEXP_WildGoose.tools.1.label>
   <AEXP_WildGoose.tools.2.label>cabeça</AEXP_WildGoose.tools.2.label>
   <AEXP_Wildebeest.description>Também chamada de Gnu, esta vaca selvagem ganhou seu nome com seus chifres ameaçadores, barba pontuda e cabeça grande. Esses animais são conhecidos por suas migrações e pelo tamanho de seus rebanhos.\n\nDevido à sua natureza selvagem, produz leite em um ritmo muito mais lento do que uma vaca padrão.</AEXP_Wildebeest.description>
-  <AEXP_Wildebeest.label>gnu</AEXP_Wildebeest.label>
   <AEXP_Wildebeest.tools.1.label>cabeça</AEXP_Wildebeest.tools.1.label>
   <AEXP_Wildebeest.tools.2.label>casco esquerdo</AEXP_Wildebeest.tools.2.label>
   <AEXP_Wildebeest.tools.3.label>casco direito</AEXP_Wildebeest.tools.3.label>
   <AEXP_Zebra.description>Membro da família dos cavalos, nativo de áreas áridas e desérticas. Embora não tenha o mesmo tamanho corporal de um cavalo, devido a anos de evolução é um dos animais com cascos mais rápidos.</AEXP_Zebra.description>
-  <AEXP_Zebra.label>zebra</AEXP_Zebra.label>
   <AEXP_Zebra.tools.0.label>cabeça</AEXP_Zebra.tools.0.label>
   <AEXP_Zebra.tools.1.label>casco esquerdo</AEXP_Zebra.tools.1.label>
   <AEXP_Zebra.tools.2.label>casco direito</AEXP_Zebra.tools.2.label>

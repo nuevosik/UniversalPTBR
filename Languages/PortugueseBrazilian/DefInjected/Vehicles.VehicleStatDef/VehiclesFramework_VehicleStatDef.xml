@@ -11,15 +11,12 @@
   <BodyIntegrity.label>Integridade Estrutural</BodyIntegrity.label>
   <BodyIntegrity.description>A média da saúde de todas as peças do veículo. Se a integridade do veículo chegar a 0, ele se desintegrará em uma fração do seu custo de construção.</BodyIntegrity.description>
   
-  <CargoCapacity.label>Carga</CargoCapacity.label>
   <CargoCapacity.description>A quantidade de peso que este veículo pode carregar como carga.</CargoCapacity.description>
   <CargoCapacity.formatString>{0} kg</CargoCapacity.formatString>
   
-  <Mass.label>Massa</Mass.label>
   <Mass.description>A massa física deste veículo.</Mass.description>
   <Mass.formatString>{0} kg</Mass.formatString>
   
-  <MoveSpeed.label>Velocidade de Movimento</MoveSpeed.label>
   <MoveSpeed.description>Velocidade de movimento em quadrados por segundo.</MoveSpeed.description>
   <MoveSpeed.formatString>{0} q/s</MoveSpeed.formatString>
   <MoveSpeed.parts.0.formatString>{0} / {1}</MoveSpeed.parts.0.formatString>

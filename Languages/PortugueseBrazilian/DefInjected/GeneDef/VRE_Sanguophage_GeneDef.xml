@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_Ecstasy.label>Êxtase</VRE_Ecstasy.label>
-  <VRE_Ecstasy.description>Concede ao alvo uma sensação de êxtase extremo por um curto período, o
-    que faz com que desenvolva uma paixão intensa pelo conjurador.</VRE_Ecstasy.description>
   <VRE_Ecstasy.labelShortAdj>extasiador</VRE_Ecstasy.labelShortAdj>
   <VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>êxta</VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>
   <VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>sedu</VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>
@@ -12,10 +9,6 @@
   <VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>extasiador</VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>
   <VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>prazer</VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>
 
-  <VRE_HeartCrush.label>Esmagar Coração</VRE_HeartCrush.label>
-  <VRE_HeartCrush.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e
-  cobrindo a área com sangue. Só funciona em criaturas com massa corporal de 2.0 ou inferior.
-  Criaturas maiores ainda sofrerão ferimentos severos.</VRE_HeartCrush.description>
   <VRE_HeartCrush.customEffectDescriptions.0>Funciona apenas em criaturas com tamanho corporal de
   2.0 ou inferior. Criaturas maiores ainda sofrerão ferimentos severos.</VRE_HeartCrush.customEffectDescriptions.0>
   <VRE_HeartCrush.labelShortAdj>esmagador</VRE_HeartCrush.labelShortAdj>
@@ -24,9 +17,6 @@
   <VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>cardíaco</VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>
   <VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>esmagador</VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>
 
-  <VRE_FilterInfection.label>Filtrar Infecção</VRE_FilterInfection.label>
-  <VRE_FilterInfection.description>Põe as mãos em um alvo e ajuda-o a combater suas infecções.
-    Funciona em animais ou colonos.</VRE_FilterInfection.description>
   <VRE_FilterInfection.labelShortAdj>filtrador</VRE_FilterInfection.labelShortAdj>
   <VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>limpo</VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>
   <VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>estéril</VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>
@@ -34,34 +24,20 @@
   <VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>limpador</VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>
   <VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>purificador</VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>
 
-  <VRE_Hemosmosis.label>Hemósmose</VRE_Hemosmosis.label>
-  <VRE_Hemosmosis.description>Absorve o sangue circundante e o transforma em hemogênio.</VRE_Hemosmosis.description>
   <VRE_Hemosmosis.labelShortAdj>osmótico</VRE_Hemosmosis.labelShortAdj>
   <VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>hemo</VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>
   <VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>osmose</VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>
   <VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>hemo</VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>
   <VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>circulante</VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>
 
-  <VRE_Resurrect.label>Ressurreição</VRE_Resurrect.label>
-  <VRE_Resurrect.description>Usa Arquitas na corrente sanguínea para infundir o corpo de um cadáver
-    com nova vida, reparando estruturas celulares degeneradas e ativando funções vitais. Quanto mais
-    velho e pior preservado for o cadáver, maior a probabilidade de retornar com perda de memória ou
-    problemas de saúde. Esta habilidade parece esgotar as Arquitas de alguma forma, por isso só pode
-    ser usada muito raramente.</VRE_Resurrect.description>
   <VRE_Resurrect.labelShortAdj>ressurgente</VRE_Resurrect.labelShortAdj>
   <VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>ressuscita</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
-  <VRE_ToxicCloud.label>Nuvem Tóxica</VRE_ToxicCloud.label>
-  <VRE_ToxicCloud.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos
-    pulmões. O gás é letal para quase todas as formas de vida orgânica.</VRE_ToxicCloud.description>
   <VRE_ToxicCloud.labelShortAdj>tóxico</VRE_ToxicCloud.labelShortAdj>
   <VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>nuvem</VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>
   <VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>veneno</VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>
   <VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>tóxico</VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>
   <VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>venenoso</VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>
 
-  <VRE_ViscuousGoo.label>Gosma Viscosa</VRE_ViscuousGoo.label>
-  <VRE_ViscuousGoo.description>Ejeta um projétil que explode no impacto, criando uma grande
-    quantidade de sujeira que desacelera severamente quem tenta se mover através dela.</VRE_ViscuousGoo.description>
   <VRE_ViscuousGoo.labelShortAdj>viscoso</VRE_ViscuousGoo.labelShortAdj>
   <VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>gosm</VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>
   <VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>grud</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>

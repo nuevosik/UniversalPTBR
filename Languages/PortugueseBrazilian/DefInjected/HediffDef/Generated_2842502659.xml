@@ -52,8 +52,6 @@
   <VPE_Haywire.label>descontrolado</VPE_Haywire.label>
   <VPE_Healing.description>Impulso de cura induzido psiquicamente.</VPE_Healing.description>
   <VPE_Healing.label>cura psíquica</VPE_Healing.label>
-  <VPE_Hurricane.description>Um furacão está causando dificuldade de movimentação e visão.</VPE_Hurricane.description>
-  <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
   <VPE_IceBlock.description>Esta entidade está completamente congelada em um bloco de gelo e não será capaz de se mover até derreter.</VPE_IceBlock.description>
   <VPE_IceBlock.label>sólido congelado</VPE_IceBlock.label>
   <VPE_IceShield.description>Um escudo psíquico que protege da hipotermia e do congelamento dos inimigos que interagem com ele.</VPE_IceShield.description>
@@ -110,7 +108,6 @@
   <VPE_Rot.description>Uma podridão.</VPE_Rot.description>
   <VPE_Rot.injuryProps.destroyedLabel>Apodreceu</VPE_Rot.injuryProps.destroyedLabel>
   <VPE_Rot.injuryProps.destroyedOutLabel>Apodreceu</VPE_Rot.injuryProps.destroyedOutLabel>
-  <VPE_Rot.label>podridão</VPE_Rot.label>
   <VPE_Rot.labelNoun>uma podridão</VPE_Rot.labelNoun>
   <VPE_Sacrificed.description>Remoção de membro induzida psiquicamente causada por um poderoso psicocast. Esta parte do corpo não crescerá novamente em nenhuma circunstância, mesmo após o uso de poderosos artefatos de cura.</VPE_Sacrificed.description>
   <VPE_Sacrificed.label>sacrificado</VPE_Sacrificed.label>

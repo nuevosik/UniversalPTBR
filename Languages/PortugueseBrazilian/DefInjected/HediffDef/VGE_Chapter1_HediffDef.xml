@@ -19,17 +19,10 @@
   <VEF_ToxicBuildup.stages.serious.label>séria</VEF_ToxicBuildup.stages.serious.label>
   <VEF_ToxicBuildup.stages.extreme.label>extrema</VEF_ToxicBuildup.stages.extreme.label>
 
-  <VFEP_HypothermicSlowdown.stages.minor-0.label>menor</VFEP_HypothermicSlowdown.stages.minor-0.label>
-  <VFEP_HypothermicSlowdown.stages.minor-1.label>menor</VFEP_HypothermicSlowdown.stages.minor-1.label>
-  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
-  <VFEP_HypothermicSlowdown.stages.serious.label>séria</VFEP_HypothermicSlowdown.stages.serious.label>
-  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
 
   <VEF_Kamikaze.stages.initialhidden.label>inicial-oculta</VEF_Kamikaze.stages.initialhidden.label>
   <VEF_Kamikaze.stages.critical.label>crítica</VEF_Kamikaze.stages.critical.label>
 
-  <VGE_EngineeringCommand.label>comando de engenharia</VGE_EngineeringCommand.label>
-  <VGE_EngineeringCommand.description>As velocidades de manutenção e construção da gravinave são aumentadas graças a esta pessoa estar usando a habilidade de comando de engenharia.</VGE_EngineeringCommand.description>
 
   <VGE_EngineeringCommandBuff.label>comando de engenharia</VGE_EngineeringCommandBuff.label>
   <VGE_EngineeringCommandBuff.description>As velocidades de manutenção e construção da gravinave desta pessoa são aumentadas graças a estar perto de alguém que está usando a habilidade de comando de engenharia.</VGE_EngineeringCommandBuff.description>

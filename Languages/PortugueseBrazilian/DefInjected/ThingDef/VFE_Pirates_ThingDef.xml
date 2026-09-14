@@ -368,11 +368,9 @@
   <VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.point.label>ponta</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.point.label>
   <VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.blade.label>lâmina</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.blade.label>
 
-  <VFEP_Mech_Spidermine.label>mina-aranha</VFEP_Mech_Spidermine.label>
   <VFEP_Mech_Spidermine.description>Um drone de combate semiautônomo com capacidade de busca de caminhos integrada. Equipado com um módulo de autodestruição e sistema de rastreamento, foi projetado para ser lançado como carga útil e então buscar alvos inimigos. Se nenhum alvo próximo for detectado, ele detonará imediatamente para evitar acidentes futuros.</VFEP_Mech_Spidermine.description>
   <VFEP_Mech_Spidermine.tools.frame.label>estrutura</VFEP_Mech_Spidermine.tools.frame.label>
   
-  <VFEP_Mech_Wardrone.label>drone de guerra</VFEP_Mech_Wardrone.label>
   <VFEP_Mech_Wardrone.description>Um drone de combate voador semiautônomo com funcionalidade de combate limitada. Equipado com uma minitorreta semiautomática leve devido à absorção de recuo limitada e um módulo de autodestruição integrado para evitar a captura pelo inimigo e servir de defesa contra atacantes corpo a corpo.</VFEP_Mech_Wardrone.description>
   <VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>explode em</VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>
   <VFEP_Mech_Wardrone.tools.turret.label>torreta</VFEP_Mech_Wardrone.tools.turret.label>
