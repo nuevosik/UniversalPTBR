@@ -4,8 +4,8 @@ RimWorld translation mod. No build system, package manager, tests, or CI. 100% X
 
 ## Structure
 
-- `About/About.xml` — mod metadata: `packageId=GitHubVersion.TraducaoVanillaExpanded.PTBR`, `supportedVersions` 1.4/1.5/1.6, `loadAfter` list (~60 entries). Changing load order can break patches.
-- `LoadFolders.xml` — single entry `<v1.6><li>/</li></v1.6>`: all content loads from root for 1.6.
+- `About/About.xml` — mod metadata: `packageId=GitHubVersion.TraducaoUniversal.PTBR`, `supportedVersions` 1.4/1.5/1.6, `loadAfter` list (~70 entries). Changing load order can break patches.
+- `LoadFolders.xml` — `<v1.4>`, `<v1.5>` and `<v1.6>` all point to `/`: content loads from root on all supported versions.
 - `Languages/PortugueseBrazilian/` — all translation content:
   - `LanguageInfo.xml` — `LanguageWorker_Portuguese`, `canBeTiny=true`.
   - `Keyed/*.xml` — `<LanguageData><Key>translated text</Key></LanguageData>` — UI, messages, dialogs.
