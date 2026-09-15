@@ -88,7 +88,7 @@
   <GTF_Delinquent13.title>delinquente</GTF_Delinquent13.title>
   <GTF_Delinquent13.description>[PAWN_nameDef] passou a maior parte de sua infância atrás das grades. Após uma tentativa de fuga malsucedida, [PAWN_pronoun] foi forçado a entrar para o exército.</GTF_Delinquent13.description>
   <GTF_MilitaryCook18.title>cozinheiro do exército</GTF_MilitaryCook18.title>
-  <GTF_MilitaryCook18.description>Dizem que um exército marcha com o estômago. O trabalho de [PAWN_nameDef] era preparar a comida para manter sua unidade marchando, não importando as condições.\n\nO trabalho exigia que [PAWN_pronoun] prestasse atenção tanto às necessidades nutricionais quanto às psicológicas das tropas.</GTF_MilitaryCook18.description>
+  <GTF_MilitaryCook18.description>Dizem que um exército marcha com o estômago. O trabalho de [PAWN_nameDef] era preparar a comida para manter sua unidade marchando, não importando as condições.\n\nO trabalho exigia que se prestasse atenção tanto às necessidades nutricionais quanto às psicológicas das tropas.</GTF_MilitaryCook18.description>
   <GTF_LineInfanteer20.title>infante de linha</GTF_LineInfanteer20.title>
   <GTF_LineInfanteer20.description>[PAWN_nameDef] era um infante comum em um batalhão imperial.\n\nRecrutado ainda jovem para engrossar as fileiras do exército, [PAWN_nameDef] aprendeu os métodos de luta o suficiente para satisfazer seus superiores. No entanto, [PAWN_pronoun] nunca entendia direito o que acontecia ao seu redor o bastante para realmente acreditar nisso.</GTF_LineInfanteer20.description>
   <GTF_Warmonger35.title>provocador de guerra</GTF_Warmonger35.title>
@@ -161,4 +161,5 @@
   <GTF_Warmaster54.titleShort>mestre de guerra</GTF_Warmaster54.titleShort>
   <GTF_WanderingBard.titleShort>Bardo</GTF_WanderingBard.titleShort>
   <GTF_WanderingBard.baseDesc>[PAWN_nameDef] era um bardo que vivia de apresentações.\n\n[PAWN_pronoun] podia sempre ser encontrado contando histórias ou cantando canções, e sabe se virar; os perigos da estrada não são páreo para [PAWN_objective].</GTF_WanderingBard.baseDesc>
+  <GTF_ShipBoy89.titleShortFemale>menina embarcada</GTF_ShipBoy89.titleShortFemale>
 </LanguageData>

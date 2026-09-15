@@ -18,7 +18,7 @@ MODSCONFIG = pathlib.Path.home()/'.config/unity3d/Ludeon Studios/RimWorld by Lud
 
 FIELDS = {'label','description','labelFemale','labelPlural','labelNoun','jobString',
           'verb','gerund','letterText','reportString','text','title','summary','tip',
-          'baseDesc','titleShort','titleFemale','titleMale','deathMessage'}
+          'baseDesc','titleShort','titleShortFemale','titleFemale','titleMale','deathMessage'}
 
 NESTED_LISTS = ('degreeDatas', 'stages')
 NESTED_FIELDS = ('label', 'description')
@@ -112,6 +112,14 @@ def nested_entries(name, el):
                     value = text_of(child) if child is not None else ''
                     if value:
                         out.append((f'{name}.comps.{i}.tools.{j}.{field}', value))
+    tools = el.find('tools')
+    if tools is not None:
+        for i, tool in enumerate(tools.findall('li')):
+            for field in NESTED_FIELDS:
+                child = tool.find(field)
+                value = text_of(child) if child is not None else ''
+                if value:
+                    out.append((f'{name}.tools.{i}.{field}', value))
     return out
 
 

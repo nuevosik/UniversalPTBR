@@ -15,6 +15,22 @@ from collections import Counter
 from extract_medieval import BATCHES, MODS, REPO_LANG, WORKSHOP, parse_xml, resolve_mod, scan_defs
 
 PLACEHOLDER = re.compile(r'\{[^}]+\}')
+COLOR_TAG = re.compile(r'</?color[^>]*>')
+BRACKET_TOKEN = re.compile(r'\[[^\]]+\]')
+NEWLINE = re.compile(r'\\n|\n')
+
+
+def token_problems(value, src):
+    """{...}/<color> exatos; [...] não pode inventar nem repetir token do EN
+    (o PT-BR reescreve [PAWN_possessive] como seu/sua — prática do pacote oficial,
+    que não usa o token em nenhuma linha traduzida)."""
+    if Counter(PLACEHOLDER.findall(value)) != Counter(PLACEHOLDER.findall(src)):
+        return True
+    if Counter(COLOR_TAG.findall(value)) != Counter(COLOR_TAG.findall(src)):
+        return True
+    if Counter(BRACKET_TOKEN.findall(value)) - Counter(BRACKET_TOKEN.findall(src)):
+        return True
+    return len(NEWLINE.findall(value)) != len(NEWLINE.findall(src))
 
 
 def keyed_values(mod):
@@ -55,7 +71,7 @@ def check_file(path, source, keyed, failures):
             failures.append(f'chave órfã: {key}')
         elif not value.strip():
             failures.append(f'valor vazio: {key}')
-        elif Counter(PLACEHOLDER.findall(value)) != Counter(PLACEHOLDER.findall(src)):
+        elif token_problems(value, src):
             failures.append(f'placeholder divergente: {key}')
     return checked
 
