@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Shield_BaseMeleeBlockChance.label>multiplicador da chance de bloqueio corpo a corpo</Shield_BaseMeleeBlockChance.label>
+  <Shield_BaseMeleeBlockChance.description>A chance de bloqueio corpo a corpo de quem usa escudo é multiplicada por isto. Quanto maior, melhor.</Shield_BaseMeleeBlockChance.description>
+  <Shield_BaseRangedBlockChance.label>multiplicador da chance de bloqueio à distância</Shield_BaseRangedBlockChance.label>
+  <Shield_BaseRangedBlockChance.description>A chance de bloqueio à distância de quem usa escudo é multiplicada por isto. Quanto maior, melhor.</Shield_BaseRangedBlockChance.description>
+  <Shield_DamageAbsorbed.label>absorção de dano</Shield_DamageAbsorbed.label>
+  <Shield_DamageAbsorbed.description>Qual porcentagem do dano os pontos de vida do escudo absorvem de um ataque bloqueado. Observação: um ataque bloqueado não causa dano a quem usa o escudo.</Shield_DamageAbsorbed.description>
+  <MeleeShieldBlockChance.label>chance de bloqueio corpo a corpo com escudo</MeleeShieldBlockChance.label>
+  <MeleeShieldBlockChance.description>Chance de bloquear com um escudo um ataque corpo a corpo que de outra forma teria acertado.</MeleeShieldBlockChance.description>
+  <RangedShieldBlockChance.label>chance de bloqueio à distância com escudo</RangedShieldBlockChance.label>
+  <RangedShieldBlockChance.description>Chance de bloquear com um escudo um ataque à distância que de outra forma teria acertado.</RangedShieldBlockChance.description>
+</LanguageData>
