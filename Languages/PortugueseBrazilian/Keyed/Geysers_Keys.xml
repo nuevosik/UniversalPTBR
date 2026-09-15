@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MThingsGeysers_StonevatNotWorking>A Cuba de Pedra não está funcionando no momento.</MThingsGeysers_StonevatNotWorking>
+  <MThingsGeysers_Settings_Label>Configurações do Núcleo do Gêiser:</MThingsGeysers_Settings_Label>
+  <MThingsGeysers_Settings_EnableAutoRefuel>Ativar reabastecimento automático pelo núcleo do gêiser</MThingsGeysers_Settings_EnableAutoRefuel>
+  <MThingsGeysers_Settings_WorkSpeedFactor>Bônus de velocidade de trabalho (requer recarregar)</MThingsGeysers_Settings_WorkSpeedFactor>
+  <MThingsGeysers_Settings_CoreLinkRange>Alcance de conexão do núcleo do gêiser</MThingsGeysers_Settings_CoreLinkRange>
+  <MThingsGeysers_Settings_MagicyteLabel>Configurações do Coletor de Magicita:</MThingsGeysers_Settings_MagicyteLabel>
+  <MThingsGeysers_Settings_MagicytePerDay>Magicita produzida por dia:</MThingsGeysers_Settings_MagicytePerDay>
+  <MThingsGeysers_Settings_MaxMagicyte>Capacidade máxima de magicita:</MThingsGeysers_Settings_MaxMagicyte>
+  <MThingsGeysers_Settings_PsyfocusBoosterRate>Taxa de impulso de foco psíquico (requer recarregar)</MThingsGeysers_Settings_PsyfocusBoosterRate>
+  <MThingsGeysers_Inspect_PoweredBy>Alimentado pelo gêiser.</MThingsGeysers_Inspect_PoweredBy>
+  <MThingsGeysers_Inspect_AutoRefuel>Reabastecimento automático</MThingsGeysers_Inspect_AutoRefuel>
+  <MThingsGeysers_Command_EjectMagicyte_Label>Ejetar magicita</MThingsGeysers_Command_EjectMagicyte_Label>
+  <MThingsGeysers_Command_EjectMagicyte_Desc>Ejeta manualmente toda a magicita armazenada no chão.</MThingsGeysers_Command_EjectMagicyte_Desc>
+  <MThingsGeysers_Command_EjectMagicyte_Success>Magicita ejetada.</MThingsGeysers_Command_EjectMagicyte_Success>
+  <MThingsGeysers_Command_EjectMagicyte_Fail>Magicita insuficiente para ejetar.</MThingsGeysers_Command_EjectMagicyte_Fail>
+  <MThingsGeysers_Inspect_MagicyteStored>Magicita armazenada:</MThingsGeysers_Inspect_MagicyteStored>
+</LanguageData>

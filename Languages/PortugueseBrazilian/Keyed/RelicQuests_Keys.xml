@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuestPartShuttleLeaveDelay>Dirigível partindo em {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>O dirigível partirá em {1}. A missão {0} exige que você carregue as seguintes pessoas ou itens no dirigível antes que ele parta:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>O dirigível partirá em {0}.</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleArriveDelay>Dirigível chegando em {0}</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>Um dirigível chegará em {1}. A missão {0} exige que você carregue as seguintes pessoas ou itens no dirigível antes que ele parta:\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>Um dirigível chegará em {0}.</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartRaidsDelayDesc>Os ataques começarão a chegar em {0}.\n\nOs saqueadores vão atacar o dirigível e tentar destruí-lo e saquear o conteúdo. Proteja o dirigível enquanto você busca informações.</QuestPartRaidsDelayDesc>
+  <Stat_Thing_HackingProgress>A quantidade de progresso feita na investigação deste objeto.</Stat_Thing_HackingProgress>
+  <ConfirmHackEnenyTerminal>Mexer neste {0} alertará inimigos e fará com que ataquem. Você realmente quer investigar {0}?</ConfirmHackEnenyTerminal>
+  <TooBigTransportersMassUsage>As pessoas e itens atribuídos são pesados demais para o balão de transporte.</TooBigTransportersMassUsage>
+  <TooBigTransporterSingleMassUsage>As pessoas e itens atribuídos são pesados demais para o dirigível.</TooBigTransporterSingleMassUsage>
+  <CantSendEmptyTransportPods>Você não pode enviar balões de transporte vazios.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransporterSingle>Você não pode enviar um dirigível vazio.</CantSendEmptyTransporterSingle>
+  <PawnCantReachTransporters>{1_labelShort} não consegue alcançar os balões de transporte.</PawnCantReachTransporters>
+  <PawnCantReachTransporterSingle>{1_labelShort} não consegue alcançar o dirigível.</PawnCantReachTransporterSingle>
+  <TransporterItemIsUnreachableSingle>Não existe um caminho entre os balões de transporte e {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>Não existe um caminho entre o dirigível e {0}.</TransporterSingleItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>Não existe um caminho entre os balões de transporte e {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <EnterShuttle>Entrar no dirigível</EnterShuttle>
+  <Hack>Investigar {0}</Hack>
+  <CannotHack>Não é possível investigar {0}</CannotHack>
+  <AlreadyHacked>Já investigado</AlreadyHacked>
+  <IncapableOfHacking>Incapaz de investigar</IncapableOfHacking>
+  <CarryToShuttle>Levar {0_label} para o dirigível</CarryToShuttle>
+  <LetterLabelRefugeePodCrash>Queda de balão de transporte</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} chamado(a) {PAWN_nameDef} está caindo em um balão de transporte nas proximidades. Se {PAWN_pronoun} sobreviver ao impacto, {PAWN_pronoun} ficará gravemente ferido(a).</RefugeePodCrash>
+  <LetterLabelCargoPodCrash>Balões de suprimentos</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Você recebeu notícias de um conjunto de balões de suprimentos caindo nas proximidades.\n\nTalvez você encontre algo útil nos destroços.</CargoPodCrash>
+  <LetterLabelSpacedroneIncoming>Dirigível roubado chegando</LetterLabelSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>Um dirigível roubado está pousando nas proximidades.</LetterTextSpacedroneIncoming>
+  <LetterLabelShuttleCrashed>Dirigível caiu</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>Um dirigível caiu nas proximidades</LetterTextShuttleCrashed>
+  <LetterTextRaidSpacedrone>Um ataque de {0} chegou para saquear o {1} que pousou nas proximidades.</LetterTextRaidSpacedrone>
+  <LetterLabelLastHackerLost>Último colono capaz perdido</LetterLabelLastHackerLost>
+  <LetterTextLastHackerLost>O último colono capaz de desvendar os segredos do complexo ancestral foi perdido. Chame reforços capazes de decifrar, ou abandone a missão.</LetterTextLastHackerLost>
+  <LetterRewardsForNewTitleDeliveryBase>As recompensas chegaram à sua colônia por meio de cápsulas de transporte.</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} receberá os seguintes itens por meio do balão de suprimentos:{1}</LetterRoyalTitleRewardGranted>
+  <LetterLabelWandererJoinsAbasia>Queda de balão de transporte: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>{0_title} de nome {0_nameDef} está caindo em um balão de transporte nas proximidades.\n\n{0_nameDef} está sofrendo de {1_label} e não conseguirá andar.\n\n{0_pronoun} se recuperará naturalmente após muitos dias. Também há chance de uma recuperação rápida de sorte. {1_label} também pode ser curada por uma operação especial que exige uma grande quantidade de medicamentos de glitterworld.\n\n{0_pronoun} está disposto(a) a contribuir quando {0_pronoun} se recuperar, mas não irá embora voluntariamente. Se você não quer {0_nameDef}, pode banir {0_objective}, vender {0_objective} como escravo(a) ou deixar {0_objective} morrer. No entanto, seus outros colonos podem achar isso perturbador.</LetterTextWandererJoinsAbasia>
+  <LetterTextSpacedroneHacked>Você terminou de investigar o {0} e aprendeu mais sobre a antiga relíquia {1}.</LetterTextSpacedroneHacked>
+  <LetterTextRelicFoundSecurityThreats>A relíquia está guardada em uma estrutura ancestral. É protegida por guardiões desconhecidos. Você pode escolher derrotar os guardiões antes de pegar a relíquia, ou tentar agarrá-la e fugir antes que possam ferir você.\n\nApós {0}, todos os guardiões despertarão.</LetterTextRelicFoundSecurityThreats>
+  <LetterRelationsChange_HostileGoodwillDescription>Eles realizarão ataques periódicos à sua colônia e às caravanas, e se recusarão a negociar com você. Se quiser melhorar as relações, você ainda pode oferecer presentes usando caravanas ou balões de suprimentos.\n\nIsso aconteceu porque o status de boa vontade ({0}) caiu para menos de {1}. Para restaurar relações neutras, o status de boa vontade precisa chegar a {2} novamente.</LetterRelationsChange_HostileGoodwillDescription>
+  <LetterTransportPodsLandedInEnemyBase>Seus balões de transporte chegaram em {0}.</LetterTransportPodsLandedInEnemyBase>
+  <LetterLabelQuestDropPodsArrived>Balões chegaram</LetterLabelQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>Balões de transporte com o seguinte conteúdo chegaram:\n\n{0}</LetterQuestDropPodsArrived>
+  <SpacedroneSelfDestructsIn>O dirigível explodirá em {0}</SpacedroneSelfDestructsIn>
+  <MessageAncientTerminalDiscovered>Você descobriu textos ancestrais com informações sobre {0}!</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>Você descobriu informações secretas sobre {0}! Volte para o dirigível para escapar.</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>Um sinalizador ancestral foi ativado. Suprimentos cairão nas proximidades.</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>{0} de {1} detectaram o sinalizador e estão atacando.</MessageAncientSignalHostileDetected>
+  <SelfDestructCountdown>{0} explodirá em {1}.</SelfDestructCountdown>
+  <MessageAncientAltarThreatsWokenUp>Todos os guardiões estão despertando!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>Todos os guardiões foram alertados da sua presença.</MessageAncientAltarThreatsAlerted>
+  <MessageTransporterUnreachable>Alguns balões de transporte estão inacessíveis.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>Todas as plataformas de balão conectadas aos balões de transporte selecionados devem ser adjacentes.</MessageTransportersNotAdjacent>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>O processo de carregamento foi cancelado porque um dos balões de transporte foi destruído.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>O processo de carregamento foi cancelado porque o dirigível foi destruído.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>O processo de carregamento foi cancelado porque uma das plataformas de balão foi destruída.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadingProcessStarted>Itens e pessoas atribuídos agora serão carregados nos balões de transporte.</MessageTransportersLoadingProcessStarted>
+  <MessageTransporterSingleLoadingProcessStarted>Itens e pessoas atribuídos agora serão carregados no dirigível.</MessageTransporterSingleLoadingProcessStarted>
+  <MessageTransportPodsArrived>Seus balões de transporte chegaram.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>Seus balões de transporte chegaram, mas como não havia colonos dentro, o conteúdo foi perdido.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Seus balões de transporte chegaram. O conteúdo foi adicionado a {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageFinishedLoadingTransporters>Carregamento dos balões de transporte concluído. Lance quando estiver pronto.</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporterSingle>O dirigível está carregado com a carga necessária e pode partir quando estiver pronto.</MessageFinishedLoadingTransporterSingle>
+  <MessageCantLoadMoreIntoTransporters>Seu {1} não pode concluir o carregamento dos balões de transporte porque alguns itens ou pessoas ficaram indisponíveis ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <ShuttleBlocked>O dirigível não pôde pousar na plataforma: {0}</ShuttleBlocked>
+  <MessageShuttleArrived>O dirigível chegou.</MessageShuttleArrived>
+  <MessageShuttleArrivedContentsLost>O dirigível chegou, mas como não havia colonos dentro, o conteúdo foi perdido.</MessageShuttleArrivedContentsLost>
+  <CannotCallShuttle>Não é possível chamar o dirigível</CannotCallShuttle>
+  <HackProgress>Progresso</HackProgress>
+  <HackingSpeed>Velocidade de investigação</HackingSpeed>
+  <Hacked>concluído</Hacked>
+  <TerminalsHacked>Decifrado</TerminalsHacked>
+  <LinkedTo>Ativar sinalizador para</LinkedTo>
+  <SupplySatellite>Entrega de suprimentos</SupplySatellite>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Aviso: você não pode concluir solicitações de negociação usando balões de transporte.\nSe você enviar as mercadorias, o assentamento as aceitará como presentes, mas não recompensará você.\n\nPara negociar, aproxime-se do assentamento com uma caravana!\n\nTem certeza de que deseja doar os bens carregados para a facção?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <PrisonerLower>prisioneiro</PrisonerLower>
+  <ShuttleDelayInspectString>Partida no dirigível em {0}</ShuttleDelayInspectString>
+  <ShouldDepartOnShuttleInspectString>Deve partir no dirigível</ShouldDepartOnShuttleInspectString>
+  <Reward_ShuttleLoot_Label>Pilhagem do dirigível</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot>você pode desconstruir e saquear o dirigível</Reward_ShuttleLoot>
+</LanguageData>

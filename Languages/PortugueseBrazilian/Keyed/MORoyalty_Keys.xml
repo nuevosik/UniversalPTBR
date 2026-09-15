@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EEG_MedievalUnits_Label>Unidades medievais do Império</EEG_MedievalUnits_Label>
+  <EEG_MedievalUnits_Desc>ATIVADO (padrão): os colonos do Império são reformulados como tropas medievais. Suas armas, armaduras e roupas são substituídas por equipamentos do Medieval Overhaul, e ataques e visitas usam esquadrões medievais. DESATIVADO: o Império mantém suas unidades e esquadrões originais, para partidas que chegam à era industrial.</EEG_MedievalUnits_Desc>
+  <EEG_RoyaltyTitle_Label>Medieval Overhaul - Integração de mobília</EEG_RoyaltyTitle_Label>
+  <EEG_RoyaltyTitle_Desc>Substitui os requisitos de mobília dos títulos reais por itens do Medieval Overhaul. Quando ATIVO: integração medieval completa para todos os títulos. Quando INATIVO: itens medievais adicionados como opções complementares aos requisitos originais.</EEG_RoyaltyTitle_Desc>
+  <EEG_RoyaltyTrader_Label>Medieval Overhaul - Integração de comerciantes do Império</EEG_RoyaltyTrader_Label>
+  <EEG_RoyaltyTrader_Desc>Quando ATIVO: substitui o estoque dos comerciantes do Império por mercadorias do Medieval Overhaul (sem comerciante orbital; caravana escoltada). Quando INATIVO: adiciona mercadorias medievais aos comerciantes originais do Império.</EEG_RoyaltyTrader_Desc>
+  <EEG_RoyalPermits_Label>Desativar integração de permissões reais</EEG_RoyalPermits_Label>
+  <EEG_RoyalPermits_Desc>Deixe desmarcado (padrão) para a reformulação medieval: ataques orbitais, salvas orbitais e lançamentos de comida são removidos, permissões de trabalhador convocam colonos medievais e uma permissão de mercenário é adicionada. Marque a caixa para desativar essa reformulação e manter as permissões exatamente como o Royalty as entrega.</EEG_RoyalPermits_Desc>
+  <MOR_OpenWiki>Visão geral dos títulos</MOR_OpenWiki>
+  <MOR_OpenWiki_Desc>Lista o que cada título do Império exige, com base nos defs carregados neste jogo. Cada entrada pode abrir o cartão de informações do próprio RimWorld para aquele título.</MOR_OpenWiki_Desc>
+  <MOR_WikiTemplateMissing>Não foi possível encontrar o modelo da wiki na pasta do mod.</MOR_WikiTemplateMissing>
+  <MOR_WikiFailed>Não foi possível abrir a visão geral dos títulos. Consulte o log para detalhes.</MOR_WikiFailed>
+  <MOR_Wiki_Title>Títulos do Império</MOR_Wiki_Title>
+  <MOR_Wiki_Intro>Gerado a partir dos defs carregados neste jogo.</MOR_Wiki_Intro>
+  <MOR_Wiki_NpcOnly>Somente NPC</MOR_Wiki_NpcOnly>
+  <MOR_Wiki_ScopeAward>Alcançável</MOR_Wiki_ScopeAward>
+  <MOR_Wiki_ScopeAll>Todos</MOR_Wiki_ScopeAll>
+  <MOR_Wiki_Ranks>Títulos</MOR_Wiki_Ranks>
+  <MOR_Wiki_Conditions>Condições do ambiente</MOR_Wiki_Conditions>
+  <MOR_Wiki_Show>Mostrar</MOR_Wiki_Show>
+  <MOR_Wiki_Hide>Ocultar</MOR_Wiki_Hide>
+  <MOR_Wiki_NoFurniture>Nenhuma mobília necessária.</MOR_Wiki_NoFurniture>
+  <MOR_Wiki_FirstRank>Primeiro título com requisitos de ambiente</MOR_Wiki_FirstRank>
+  <MOR_Wiki_VsPrev>Comparado com {0}</MOR_Wiki_VsPrev>
+  <MOR_Wiki_Unchanged>Sem alterações.</MOR_Wiki_Unchanged>
+  <MOR_Wiki_SrcCore>Vanilla / DLC</MOR_Wiki_SrcCore>
+  <MOR_Wiki_SrcMO>Medieval Overhaul</MOR_Wiki_SrcMO>
+  <MOR_Wiki_SrcMod>Outro mod</MOR_Wiki_SrcMod>
+  <MOR_Wiki_Note>Apenas a sala do trono impede a concessão de um título. Um quarto que não atende aos requisitos causa somente a penalidade de humor.</MOR_Wiki_Note>
+  <MOR_Wiki_GeneratedAt>Gerado em {0}</MOR_Wiki_GeneratedAt>
+  <MOR_OpenWikiBrowser>Abrir como página da web</MOR_OpenWikiBrowser>
+  <MOR_Wiki_Info>Informações</MOR_Wiki_Info>
+  <MOR_Wiki_Favor>honra</MOR_Wiki_Favor>
+</LanguageData>

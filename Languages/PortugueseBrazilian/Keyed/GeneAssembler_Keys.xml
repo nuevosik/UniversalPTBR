@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DDJY_RemovePart>{1} de {0} desapareceu</DDJY_RemovePart>
+  <DDJY_CommandCancelCeremony>Cancelar cerimônia</DDJY_CommandCancelCeremony>
+  <DDJY_CommandCancelCeremonyDesc>Cancela a cerimônia em andamento</DDJY_CommandCancelCeremonyDesc>
+  <DDJY_CommandRandomlyExtractGenes>Extrair alma</DDJY_CommandRandomlyExtractGenes>
+  <DDJY_CommandRandomlyExtractGenesDesc>Extrai parte da alma ao custo de perder parte do corpo</DDJY_CommandRandomlyExtractGenesDesc>
+  <DDJY_AssembleGenes>Montar alma</DDJY_AssembleGenes>
+  <DDJY_AssembleGenesDesc>Monta a alma</DDJY_AssembleGenesDesc>
+  <DDJY_HostCeremony>{0}: Presidir cerimônia</DDJY_HostCeremony>
+  <DDJY_NobodyHostCeremony>Nenhum anfitrião adequado disponível (requer Intelectual 10)</DDJY_NobodyHostCeremony>
+  <DDJY_XenogermReplicating>A alma de {0} está em fusão</DDJY_XenogermReplicating>
+  <ConfirmExtractXenogermWillKill>Aviso: a alma de {PAWN_nameDef} está em fusão. Extrair a alma antes que a fusão termine matará {PAWN_objective}.\n\nTem certeza de que deseja continuar?</ConfirmExtractXenogermWillKill>
+  <MessageXenogermCancelledMissingPack>A cerimônia de fusão da alma de {0_labelShort} foi cancelada: falta uma pedra da alma essencial.</MessageXenogermCancelledMissingPack>
+  <DDJY_CeremonyInProgress>Cerimônia em andamento</DDJY_CeremonyInProgress>
+  <DDJY_CeremonyDone>A fusão da alma de {0_labelShort} foi concluída.</DDJY_CeremonyDone>
+  <EjectAllDesc>Ejetar todas as pedras da alma armazenadas no chão.</EjectAllDesc>
+  <GenepacksStored>Pedras da alma armazenadas</GenepacksStored>
+  <AllowAllGenepacks>Permitir todas as pedras da alma</AllowAllGenepacks>
+  <AllowAllGenepacksDesc>Permite que os colonos armazenem automaticamente quaisquer pedras da alma neste contêiner. Se você quiser que apenas pedras da alma específicas sejam armazenadas aqui, desative esta opção.</AllowAllGenepacksDesc>
+  <ContainedGenepacksDesc>Pedras da alma atualmente dentro deste contêiner.</ContainedGenepacksDesc>
+  <GenepacksToLoadDesc>Pedras da alma designadas para serem carregadas neste contêiner.</GenepacksToLoadDesc>
+  <GenepacksIgnoredDesc>Pedras da alma não designadas para serem carregadas neste contêiner.</GenepacksIgnoredDesc>
+  <GenepacksToLoad>Pedras da alma para carregar</GenepacksToLoad>
+  <GenepacksToIgnore>Pedras da alma para ignorar</GenepacksToIgnore>
+  <EjectGenepackDesc>Ejetar as pedras da alma deste contêiner.</EjectGenepackDesc>
+  <DDJY_StartCombining>Iniciar fusão</DDJY_StartCombining>
+  <DDJY_SelectedGenepacks>Almas selecionadas</DDJY_SelectedGenepacks>
+  <AssemblingRequiresResearch>Usar a Poção de Arquita para fundir almas requer o projeto de pesquisa {0_label}.</AssemblingRequiresResearch>
+  <DDJY_GenepackLibrary>Altar das Almas</DDJY_GenepackLibrary>
+  <EjectGenepackFromGeneBank>Ejetar pedras da alma do Altar das Almas</EjectGenepackFromGeneBank>
+  <GeneWillBeRandomChosen>Para cada indivíduo, uma das almas a seguir será escolhida aleatoriamente como alma dominante.</GeneWillBeRandomChosen>
+  <GeneOneActive>Entre as almas a seguir, apenas uma será expressa; as outras serão suprimidas.</GeneOneActive>
+  <MessageNoSelectedGenepacks>Nenhuma alma selecionada.</MessageNoSelectedGenepacks>
+  <NotEnoughArchites>Poção de Arquita insuficiente.</NotEnoughArchites>
+  <MissingGenepackForXenogerm>Falta uma pedra da alma no modelo {NAME}.</MissingGenepackForXenogerm>
+  <MissingGenepacksForXenogerm>Faltam {COUNT}x pedras da alma no modelo {NAME}.</MissingGenepacksForXenogerm>
+  <ArchitesRequired>Poção de Arquita</ArchitesRequired>
+  <ArchitesRequiredDesc>Uma poção milagrosa, extremamente rara, capaz de se fundir com a Pedra da Alma de Arquita para criar uma alma poderosa.</ArchitesRequiredDesc>
+  <DDJY_ArchiteSoulsCannotBeInherited>Almas de arquita não podem ser herdadas</DDJY_ArchiteSoulsCannotBeInherited>
+  <DDJY_InheritableSoul>Alma hereditária</DDJY_InheritableSoul>
+  <DDJY_InheritableSoulDesc>Edita a alma hereditária. Requer pesquisa: Alma hereditária</DDJY_InheritableSoulDesc>
+  <DDJY_SelfGenomeEdit>Edição da própria alma</DDJY_SelfGenomeEdit>
+  <DDJY_SelfGenomeEditDesc>Permite adicionar ou remover livremente a própria alma. Requer pesquisa: Edição da própria alma</DDJY_SelfGenomeEditDesc>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TraderShipsTitle>Dirigíveis mercantes</TraderShipsTitle>
+  <TraderShipsSendAway>Mandar embora</TraderShipsSendAway>
+  <TraderShipsSendAwayDesc>Pede ao comerciante que vá embora.</TraderShipsSendAwayDesc>
+  <TraderShipsLeavingIn>Partindo em: {0}</TraderShipsLeavingIn>
+  <TraderShipsArrival>Um dirigível mercante pousou nas proximidades.\n\nEles são conhecidos como {0}. Eles são {1}.\n\n{2}</TraderShipsArrival>
+  <TraderShipsCrashName>Dirigível mercante caiu</TraderShipsCrashName>
+  <TraderShipsCrash>Um dirigível mercante antes conhecido como {0} caiu nas proximidades.\n\nEles eram {1}.\n\nParte de seu estoque está espalhada ao redor.</TraderShipsCrash>
+  <TraderShipsLeavingDueToDamage>{0} está partindo por causa de danos ao dirigível.</TraderShipsLeavingDueToDamage>
+  <TraderShipsDisableOrbitalName>Desativar comerciantes orbitais</TraderShipsDisableOrbitalName>
+  <TraderShipsDisableOrbitalDesc>Impede o surgimento de comerciantes orbitais (naves mercantes continuarão vindo enquanto este mod estiver ativo).</TraderShipsDisableOrbitalDesc>
+  <TraderShipsColorsName>Dirigíveis coloridos</TraderShipsColorsName>
+  <TraderShipsColorsDesc>Permite que os dirigíveis tenham cores diferentes.</TraderShipsColorsDesc>
+  <TraderShipsRequireCommssConsoleName>Exigir console de comunicação</TraderShipsRequireCommssConsoleName>
+  <TraderShipsRequireCommssConsoleDesc>Os dirigíveis não virão a menos que você tenha um console de comunicação.</TraderShipsRequireCommssConsoleDesc>
+  <TraderShipsEnableQuestsName>Ativar missões</TraderShipsEnableQuestsName>
+  <TraderShipsEnableQuestsDesc>Ativa missões relacionadas aos dirigíveis mercantes.</TraderShipsEnableQuestsDesc>
+  <TraderShipsSaturationName>Faixa de saturação</TraderShipsSaturationName>
+  <TraderShipsSaturationDesc>Os dirigíveis gerados terão cor HSV com saturação na faixa especificada (também limitada a [0,100]).</TraderShipsSaturationDesc>
+  <TraderShipsValueName>Faixa de valor</TraderShipsValueName>
+  <TraderShipsValueDesc>Os dirigíveis gerados terão cor HSV com valor na faixa especificada (também limitada a [0,100])</TraderShipsValueDesc>
+  <TraderShipsRerollColors>Sortear cores novamente</TraderShipsRerollColors>
+  <TraderShipsLandingZone>Zona de pouso</TraderShipsLandingZone>
+  <TraderShipsLandingZoneExpandName>Expandir zona de pouso</TraderShipsLandingZoneExpandName>
+  <TraderShipsLandingZoneExpandDesc>Cria uma área que será preferida como zona de pouso pelos dirigíveis. Um dirigível tentará pousar no meio da zona de pouso, então, se você quiser um grande pátio de pouso com vários dirigíveis, designe várias zonas que não se sobreponham.</TraderShipsLandingZoneExpandDesc>
+  <TraderShipsLandingZoneClearName>Limpar zona de pouso</TraderShipsLandingZoneClearName>
+  <TraderShipsLandingZoneClearDesc>Remove a área da zona de pouso, fazendo os dirigíveis escolherem onde pousar por conta própria.</TraderShipsLandingZoneClearDesc>
+  <TraderShipsLandingZoneBlocked>O dirigível não pôde pousar na zona de pouso: {0}.</TraderShipsLandingZoneBlocked>
+  <TraderShipsBlockedBy>bloqueado por {0_label}</TraderShipsBlockedBy>
+  <TraderShipsQuestRequestInfo>Solicitando: {0} ({1})</TraderShipsQuestRequestInfo>
+</LanguageData>
