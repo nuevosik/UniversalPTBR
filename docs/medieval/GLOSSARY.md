@@ -90,3 +90,19 @@ Mapa EN→PT canônico para os lotes L1–L4 (40 alvos, 9.353 strings). Regras:
 | build / deconstruct / repair / haul / clean | construir / desconstruir / reparar / carregar / limpar | oficial (Construction.verb "Construir"; Deconstruct "desconstruindo"; Repair "reparando"; Haul "carregando"; Clean "limpando"). |
 | research / study / meditate | pesquisar / estudar / meditar | oficial. "researching." → "pesquisando." |
 | enchant / invoke / pacify / recruit / heal / tend | encantar / invocar / pacificar / recrutar / curar / cuidar de | repo/oficial ("Invoque dríades"; "tentando recrutar"; TendPatient "Cuidando de"; Doctor.verb "Tratar de"). "pacify" novo ("pacificar"); "tend" → "cuidar de". |
+
+## Moedas da campanha (registro retroativo — Task 17)
+
+Termos cunhados nos lotes L1–L4 e já em uso no repo; este quadro só documenta (nenhum valor foi alterado).
+
+| EN | PT-BR | Obs |
+|---|---|---|
+| javelin | azagaia | novo (MOBarbarians `pphhyy_Barbarian_RustedJavalin` + receitas). Não confundir com lança (spear) nem pique (pike). |
+| antler | galhada | novo (MOBarbarians "elmo de galhada do escolhido", `pphhyy_Barbarian_MakeChosenAntler`). |
+| entosomnia / entosomnic | entossonia / entossônico | novos (MedMedsMO `Entosomnia`; "caixão entossônico"). |
+| Ambroisen (material) | paresiano | novo (MedMedsMO/MOTweaks "braço paresiano", `AmbroisenMedArm`). |
+| eyepatch / earpatch | tapa-olho / tapa-orelha | novos (Prosthetics `EyePatch`, `InstallEarPatch`); hifenizados, plurais "tapa-olhos"/"tapa-orelhas". |
+| pebble | pedrisco | já na linha pedra/mármore (FortMaterial); registrado aqui como moeda da campanha. |
+| kettle helm (capelina) | capelina | obs: termo do externo (MO) para kettle helm — não adotado; a campanha usa "chapéu-de-ferro" (linha de elmos). |
+| rox / roxberry | rox / roxberry | já na linha cheese/roast/stew/rox; "rox" invariável em compostos ("queijo de rox", "stout de roxberry"). Task 17 normalizou "roxwood" → "rox". |
+| kettle helm | chapéu-de-ferro | já na linha de elmos; moeda da campanha (Ignivar `Ignivar_Kettle_Face`), alternativa a "capelina". |
