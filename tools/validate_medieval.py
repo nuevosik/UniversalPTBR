@@ -67,6 +67,7 @@ def main(argv=None):
     sel.add_argument('--mod', action='extend', nargs='+', metavar='FOLDERID|PATH',
                      help='folderId da Workshop ou caminho direto (repetivel)')
     sel.add_argument('--batch', metavar='L', help=f'lote: {", ".join(BATCHES)}')
+    sel.add_argument('--all', action='store_true', help='todos os alvos do mapa MODS')
     ap.add_argument('--repo', default=str(REPO_LANG), metavar='DIR',
                     help='raiz do alvo a validar (default: Languages/PortugueseBrazilian)')
     ap.add_argument('--prefix', metavar='NOME', help='prefixo de arquivo para mod fora do mapa MODS')
@@ -77,6 +78,8 @@ def main(argv=None):
         if args.batch not in BATCHES:
             ap.error(f'lote desconhecido: {args.batch!r} (disponiveis: {", ".join(BATCHES)})')
         targets = [(WORKSHOP/fid, MODS[fid][0]) for fid in BATCHES[args.batch]]
+    elif args.all:
+        targets = [(WORKSHOP/fid, MODS[fid][0]) for fid in MODS]
     else:
         targets = [(mod, prefix) for mod, prefix, _ in
                    (resolve_mod(arg, args.prefix, ap) for arg in args.mod)]

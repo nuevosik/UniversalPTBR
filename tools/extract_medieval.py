@@ -17,7 +17,11 @@ REPO_LANG = pathlib.Path('Languages/PortugueseBrazilian')
 MODSCONFIG = pathlib.Path.home()/'.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config/ModsConfig.xml'
 
 FIELDS = {'label','description','labelFemale','labelPlural','labelNoun','jobString',
-          'verb','gerund','letterText','reportString','text','title','summary','tip'}
+          'verb','gerund','letterText','reportString','text','title','summary','tip',
+          'baseDesc','titleShort','titleFemale','titleMale','deathMessage'}
+
+NESTED_LISTS = ('degreeDatas', 'stages')
+NESTED_FIELDS = ('label', 'description')
 
 MODS = {  # folderId: (prefixo de arquivo, nome)
  '1916352291':('RimTraits','RimTraits - Medieval Talents'), '2101545242':('Prosthetics','Medieval Prosthetics'),
@@ -83,6 +87,57 @@ def version_of(path, mod):
     return (0,)
 
 
+def nested_entries(name, el):
+    """Chaves aninhadas indexadas: degreeDatas/stages e comps.<i>.tools.<j>."""
+    out = []
+    for tag in NESTED_LISTS:
+        seq = el.find(tag)
+        if seq is None:
+            continue
+        for i, li in enumerate(seq.findall('li')):
+            for field in NESTED_FIELDS:
+                child = li.find(field)
+                value = text_of(child) if child is not None else ''
+                if value:
+                    out.append((f'{name}.{tag}.{i}.{field}', value))
+    comps = el.find('comps')
+    if comps is not None:
+        for i, comp in enumerate(comps.findall('li')):
+            tools = comp.find('tools')
+            if tools is None:
+                continue
+            for j, tool in enumerate(tools.findall('li')):
+                for field in NESTED_FIELDS:
+                    child = tool.find(field)
+                    value = text_of(child) if child is not None else ''
+                    if value:
+                        out.append((f'{name}.comps.{i}.tools.{j}.{field}', value))
+    return out
+
+
+def scan_english_definjected(mod, entries):
+    """DefInjected do proprio mod em Languages/English sobrepoe os valores dos Defs."""
+    for path in sorted(mod.rglob('*.xml')):
+        parts = path.parts
+        if 'Languages' not in parts:
+            continue
+        i = parts.index('Languages')
+        if i + 1 >= len(parts) or parts[i + 1] != 'English' or 'DefInjected' not in parts[i + 2:]:
+            continue
+        j = parts.index('DefInjected')
+        if j + 1 >= len(parts):
+            continue
+        root = parse_xml(path)
+        if root is None:
+            continue
+        for el in root:
+            if el.tag == 'LanguageData' or '.' not in el.tag:
+                continue
+            value = text_of(el)
+            if value:
+                entries[(parts[j + 1], el.tag)] = value
+
+
 def scan_defs(mod):
     """Campos escalares por (DefType, chave); versao mais nova vence + contagem solta."""
     entries, labels, descriptions = {}, 0, 0
@@ -107,6 +162,9 @@ def scan_defs(mod):
                     value = text_of(child)
                     if value:
                         entries[(el.tag, f'{name}.{child.tag}')] = value
+            for key, value in nested_entries(name, el):
+                entries[(el.tag, key)] = value
+    scan_english_definjected(mod, entries)
     return entries, labels, descriptions
 
 

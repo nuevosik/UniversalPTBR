@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TalentBowman.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Arqueiro&lt;/color&gt;</TalentBowman.degreeDatas.0.label>
+  <TalentBowman.degreeDatas.0.description>[PAWN_nameDef] é naturalmente bom em acertar coisas à distância. [PAWN_pronoun] consegue lutar em combate corpo a corpo, mas preferiria não fazê-lo.</TalentBowman.degreeDatas.0.description>
+  <TalentSwordsman.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Espadachim&lt;/color&gt;</TalentSwordsman.degreeDatas.0.label>
+  <TalentSwordsman.degreeDatas.0.description>[PAWN_nameDef] é hábil com uma espada. [PAWN_pronoun] tem alguma habilidade com arco, mas prefere lutar de perto.</TalentSwordsman.degreeDatas.0.description>
+  <TalentBuilder.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Construtor&lt;/color&gt;</TalentBuilder.degreeDatas.0.label>
+  <TalentBuilder.degreeDatas.0.description>[PAWN_nameDef] é um construtor habilidoso. [PAWN_pronoun] sabe construir todo tipo de edificação e mobília.</TalentBuilder.degreeDatas.0.description>
+  <TalentMiner.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Minerador&lt;/color&gt;</TalentMiner.degreeDatas.0.label>
+  <TalentMiner.degreeDatas.0.description>[PAWN_nameDef] passa muito tempo examinando rochas. [PAWN_pronoun] é bastante bom em encontrar minerais valiosos.</TalentMiner.degreeDatas.0.description>
+  <TalentKitchenhand.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Ajudante de Cozinha&lt;/color&gt;</TalentKitchenhand.degreeDatas.0.label>
+  <TalentKitchenhand.degreeDatas.0.description>[PAWN_nameDef] gosta de observar os outros cozinhando.</TalentKitchenhand.degreeDatas.0.description>
+  <TalentButcher.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Açougueiro&lt;/color&gt;</TalentButcher.degreeDatas.0.label>
+  <TalentButcher.degreeDatas.0.description>[PAWN_nameDef] gosta de picar carne em pedaços, de preferência carne de animal...</TalentButcher.degreeDatas.0.description>
+  <TalentFarmer.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Fazendeiro&lt;/color&gt;</TalentFarmer.degreeDatas.0.label>
+  <TalentFarmer.degreeDatas.0.description>[PAWN_nameDef] gosta de ver as coisas crescerem.</TalentFarmer.degreeDatas.0.description>
+  <TalentHerder.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Criador&lt;/color&gt;</TalentHerder.degreeDatas.0.label>
+  <TalentHerder.degreeDatas.0.description>[PAWN_nameDef] gosta de criar animais e de estar na presença deles.</TalentHerder.degreeDatas.0.description>
+  <TalentSmith.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Ferreiro&lt;/color&gt;</TalentSmith.degreeDatas.0.label>
+  <TalentSmith.degreeDatas.0.description>[PAWN_nameDef] gosta do som que a forja faz. Tlim! Tlim! Tlim!</TalentSmith.degreeDatas.0.description>
+  <TalentTailor.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Alfaiate&lt;/color&gt;</TalentTailor.degreeDatas.0.label>
+  <TalentTailor.degreeDatas.0.description>[PAWN_nameDef] acha que seria bom se todos simplesmente parassem de andar por aí sem roupa.</TalentTailor.degreeDatas.0.description>
+  <TalentArtist.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Artista&lt;/color&gt;</TalentArtist.degreeDatas.0.label>
+  <TalentArtist.degreeDatas.0.description>Talvez seja arte, ou talvez [PAWN_nameDef] tenha tropeçado num balde de tinta. De novo.</TalentArtist.degreeDatas.0.description>
+  <TalentPhysician.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Médico&lt;/color&gt;</TalentPhysician.degreeDatas.0.label>
+  <TalentPhysician.degreeDatas.0.description>[PAWN_nameDef] percebeu um dia que [PAWN_pronoun] podia olhar corpos nus com uma desculpa válida.</TalentPhysician.degreeDatas.0.description>
+  <TalentTrader.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Comerciante&lt;/color&gt;</TalentTrader.degreeDatas.0.label>
+  <TalentTrader.degreeDatas.0.description>[PAWN_nameDef] é um bom negociador, tão bom que começa a lucrar com isso.</TalentTrader.degreeDatas.0.description>
+  <TalentScholar.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Erudito&lt;/color&gt;</TalentScholar.degreeDatas.0.label>
+  <TalentScholar.degreeDatas.0.description>[PAWN_nameDef] tem sede de conhecimento.</TalentScholar.degreeDatas.0.description>
+  <TalentGroundskeeper.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Zelador&lt;/color&gt;</TalentGroundskeeper.degreeDatas.0.label>
+  <TalentGroundskeeper.degreeDatas.0.description>[PAWN_nameDef] passa [PAWN_possessive] tempo mantendo tudo limpo e arrumado.</TalentGroundskeeper.degreeDatas.0.description>
+  <TalentCopycat.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Imitador&lt;/color&gt;</TalentCopycat.degreeDatas.0.label>
+  <TalentCopycat.degreeDatas.0.description>[PAWN_nameDef] não é particularmente bom em nada, exceto no que todos os outros fazem.</TalentCopycat.degreeDatas.0.description>
+  <TalentWeaponsMaster.degreeDatas.0.label>&lt;color=#1f75fe&gt;Talento: Mestre das Armas&lt;/color&gt;</TalentWeaponsMaster.degreeDatas.0.label>
+  <TalentWeaponsMaster.degreeDatas.0.description>[PAWN_nameDef] é excelente no manuseio de todas as armas. [PAWN_pronoun] poderia até matar usando [PAWN_possessive] dedo mindinho.</TalentWeaponsMaster.degreeDatas.0.description>
+  <TalentHunter.degreeDatas.0.label>&lt;color=#1f75fe&gt;Talento: Caçador&lt;/color&gt;</TalentHunter.degreeDatas.0.label>
+  <TalentHunter.degreeDatas.0.description>[PAWN_nameDef] é hábil em interagir com animais e caçá-los. Embora não seja treinado para a batalha, [PAWN_pronoun] poderia lutar bem se necessário.</TalentHunter.degreeDatas.0.description>
+  <TalentEngineer.degreeDatas.0.label>&lt;color=#1f75fe&gt;Talento: Engenheiro&lt;/color&gt;</TalentEngineer.degreeDatas.0.label>
+  <TalentEngineer.degreeDatas.0.description>[PAWN_nameDef] é um especialista em construir coisas. Muito poucas obras de construção são um desafio para [PAWN_pronoun].</TalentEngineer.degreeDatas.0.description>
+  <TalentCook.degreeDatas.0.label>&lt;color=#1f75fe&gt;Talento: Cozinheiro&lt;/color&gt;</TalentCook.degreeDatas.0.label>
+  <TalentCook.degreeDatas.0.description>[PAWN_nameDef] adora preparar comida. Mmmmm...</TalentCook.degreeDatas.0.description>
+  <TalentHerbalist.degreeDatas.0.label>&lt;color=#1f75fe&gt;Talento: Herborista&lt;/color&gt;</TalentHerbalist.degreeDatas.0.label>
+  <TalentHerbalist.degreeDatas.0.description>[PAWN_nameDef] tem amplo conhecimento botânico e habilidades médicas razoáveis.</TalentHerbalist.degreeDatas.0.description>
+  <TalentArmourer.degreeDatas.0.label>&lt;color=#1f75fe&gt;Talento: Armeiro&lt;/color&gt;</TalentArmourer.degreeDatas.0.label>
+  <TalentArmourer.degreeDatas.0.description>[PAWN_nameDef] considera um dever sagrado produzir armas e vestimentas da mais alta qualidade possível para contribuir com a defesa de [PAWN_possessive] terra natal.</TalentArmourer.degreeDatas.0.description>
+  <TalentAdventurer.degreeDatas.0.label>&lt;color=#7f00ff&gt;Talento: Aventureiro&lt;/color&gt;</TalentAdventurer.degreeDatas.0.label>
+  <TalentAdventurer.degreeDatas.0.description>[PAWN_nameDef] é um lutador habilidoso. [PAWN_pronoun] percebeu que [PAWN_pronoun] podia proteger [PAWN_possessive] amigos e satisfazer [PAWN_possessive] curiosidade ao mesmo tempo.</TalentAdventurer.degreeDatas.0.description>
+  <TalentArchitect.degreeDatas.0.label>&lt;color=#7f00ff&gt;Talento: Arquiteto&lt;/color&gt;</TalentArchitect.degreeDatas.0.label>
+  <TalentArchitect.degreeDatas.0.description>[PAWN_nameDef] é arquiteto. [PAWN_pronoun] entende que não é preciso estar no The Good Place para construir o The Good Place.</TalentArchitect.degreeDatas.0.description>
+  <TalentChef.degreeDatas.0.label>&lt;color=#7f00ff&gt;Talento: Chef&lt;/color&gt;</TalentChef.degreeDatas.0.label>
+  <TalentChef.degreeDatas.0.description>Cozinhar é uma arte, ou pelo menos é o que [PAWN_nameDef] diz.</TalentChef.degreeDatas.0.description>
+  <TalentSurgeon.degreeDatas.0.label>&lt;color=#7f00ff&gt;Talento: Cirurgião&lt;/color&gt;</TalentSurgeon.degreeDatas.0.label>
+  <TalentSurgeon.degreeDatas.0.description>[PAWN_nameDef] foi um passo além, percebendo que [PAWN_pronoun] podia ser pago para tocar os corpos nus das pessoas.</TalentSurgeon.degreeDatas.0.description>
+  <TalentPhilosopher.degreeDatas.0.label>&lt;color=#7f00ff&gt;Talento: Filósofo&lt;/color&gt;</TalentPhilosopher.degreeDatas.0.label>
+  <TalentPhilosopher.degreeDatas.0.description>Todos odeiam professores de filosofia moral, mas [PAWN_nameDef] certamente não é um.</TalentPhilosopher.degreeDatas.0.description>
+  <TalentHero.degreeDatas.0.label>&lt;color=#e0115f&gt;Talento: Herói&lt;/color&gt;</TalentHero.degreeDatas.0.label>
+  <TalentHero.degreeDatas.0.description>Enquanto [PAWN_nameDef] ainda respirar, não há ameaça que a colônia não possa superar!</TalentHero.degreeDatas.0.description>
+  <TalentJackOfAllTrades.degreeDatas.0.label>&lt;color=#d4af37&gt;Talento: Faz-tudo&lt;/color&gt;</TalentJackOfAllTrades.degreeDatas.0.label>
+  <TalentJackOfAllTrades.degreeDatas.0.description>[PAWN_nameDef] não se destaca muito, e [PAWN_pronoun] não acha nada particularmente difícil.</TalentJackOfAllTrades.degreeDatas.0.description>
+  <TalentScout.degreeDatas.0.label>&lt;color=#d4af37&gt;Talento: Batedor&lt;/color&gt;</TalentScout.degreeDatas.0.label>
+  <TalentScout.degreeDatas.0.description>[PAWN_nameDef] é especialista em explorar novos locais. [PAWN_pronoun] frequentemente deixa a relativa segurança da colônia para patrulhar a natureza selvagem.</TalentScout.degreeDatas.0.description>
+  <TalentNoTalent.degreeDatas.0.label>&lt;color=#ff6fff&gt;Sem Talento&lt;/color&gt;</TalentNoTalent.degreeDatas.0.label>
+  <TalentNoTalent.degreeDatas.0.description>[PAWN_nameDef] não tem talento. Nenhum mesmo</TalentNoTalent.degreeDatas.0.description>
+  <TalentRecruiter.degreeDatas.0.label>&lt;color=#d4af37&gt;Talento: Recrutador&lt;/color&gt;</TalentRecruiter.degreeDatas.0.label>
+  <TalentRecruiter.degreeDatas.0.description>[PAWN_nameDef] é muito persuasivo. [PAWN_pronoun] acha relativamente fácil agrupar pessoas sob a bandeira que [PAWN_pronoun] carrega.</TalentRecruiter.degreeDatas.0.description>
+  <RT_TalentBowman.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Arqueiro&lt;/color&gt;</RT_TalentBowman.degreeDatas.0.label>
+  <RT_TalentBowman.degreeDatas.0.description>[PAWN_nameDef] é naturalmente bom em acertar coisas à distância. [PAWN_pronoun] consegue lutar em combate corpo a corpo, mas preferiria não fazê-lo.</RT_TalentBowman.degreeDatas.0.description>
+  <RT_TalentSwordsman.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Espadachim&lt;/color&gt;</RT_TalentSwordsman.degreeDatas.0.label>
+  <RT_TalentSwordsman.degreeDatas.0.description>[PAWN_nameDef] é hábil com uma espada. [PAWN_pronoun] tem alguma habilidade com arco, mas prefere lutar de perto.</RT_TalentSwordsman.degreeDatas.0.description>
+  <RT_TalentBuilder.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Construtor&lt;/color&gt;</RT_TalentBuilder.degreeDatas.0.label>
+  <RT_TalentBuilder.degreeDatas.0.description>[PAWN_nameDef] é um construtor habilidoso. [PAWN_pronoun] sabe construir todo tipo de edificação e mobília.</RT_TalentBuilder.degreeDatas.0.description>
+  <RT_TalentMiner.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Minerador&lt;/color&gt;</RT_TalentMiner.degreeDatas.0.label>
+  <RT_TalentMiner.degreeDatas.0.description>[PAWN_nameDef] passa muito tempo examinando rochas. [PAWN_pronoun] é bastante bom em encontrar minerais valiosos.</RT_TalentMiner.degreeDatas.0.description>
+  <RT_TalentKitchenhand.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Ajudante de Cozinha&lt;/color&gt;</RT_TalentKitchenhand.degreeDatas.0.label>
+  <RT_TalentKitchenhand.degreeDatas.0.description>[PAWN_nameDef] gosta de observar os outros cozinhando.</RT_TalentKitchenhand.degreeDatas.0.description>
+  <RT_TalentButcher.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Açougueiro&lt;/color&gt;</RT_TalentButcher.degreeDatas.0.label>
+  <RT_TalentButcher.degreeDatas.0.description>[PAWN_nameDef] gosta de picar carne em pedaços, de preferência carne de animal...</RT_TalentButcher.degreeDatas.0.description>
+  <RT_TalentFarmer.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Fazendeiro&lt;/color&gt;</RT_TalentFarmer.degreeDatas.0.label>
+  <RT_TalentFarmer.degreeDatas.0.description>[PAWN_nameDef] gosta de ver as coisas crescerem.</RT_TalentFarmer.degreeDatas.0.description>
+  <RT_TalentHerder.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Criador&lt;/color&gt;</RT_TalentHerder.degreeDatas.0.label>
+  <RT_TalentHerder.degreeDatas.0.description>[PAWN_nameDef] gosta de criar animais e de estar na presença deles.</RT_TalentHerder.degreeDatas.0.description>
+  <RT_TalentSmith.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Ferreiro&lt;/color&gt;</RT_TalentSmith.degreeDatas.0.label>
+  <RT_TalentSmith.degreeDatas.0.description>[PAWN_nameDef] gosta do som que a forja faz. Tlim! Tlim! Tlim!</RT_TalentSmith.degreeDatas.0.description>
+  <RT_TalentTailor.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Alfaiate&lt;/color&gt;</RT_TalentTailor.degreeDatas.0.label>
+  <RT_TalentTailor.degreeDatas.0.description>[PAWN_nameDef] acha que seria bom se todos simplesmente parassem de andar por aí sem roupa.</RT_TalentTailor.degreeDatas.0.description>
+  <RT_TalentArtist.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Artista&lt;/color&gt;</RT_TalentArtist.degreeDatas.0.label>
+  <RT_TalentArtist.degreeDatas.0.description>Talvez seja arte, ou talvez [PAWN_nameDef] tenha tropeçado num balde de tinta. De novo.</RT_TalentArtist.degreeDatas.0.description>
+  <RT_TalentPhysician.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Médico&lt;/color&gt;</RT_TalentPhysician.degreeDatas.0.label>
+  <RT_TalentPhysician.degreeDatas.0.description>[PAWN_nameDef] percebeu um dia que [PAWN_pronoun] podia olhar corpos nus com uma desculpa válida.</RT_TalentPhysician.degreeDatas.0.description>
+  <RT_TalentTrader.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Comerciante&lt;/color&gt;</RT_TalentTrader.degreeDatas.0.label>
+  <RT_TalentTrader.degreeDatas.0.description>[PAWN_nameDef] é um bom negociador, tão bom que começa a lucrar com isso.</RT_TalentTrader.degreeDatas.0.description>
+  <RT_TalentScholar.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Erudito&lt;/color&gt;</RT_TalentScholar.degreeDatas.0.label>
+  <RT_TalentScholar.degreeDatas.0.description>[PAWN_nameDef] tem sede de conhecimento.</RT_TalentScholar.degreeDatas.0.description>
+  <RT_TalentGroundskeeper.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Zelador&lt;/color&gt;</RT_TalentGroundskeeper.degreeDatas.0.label>
+  <RT_TalentGroundskeeper.degreeDatas.0.description>[PAWN_nameDef] passa [PAWN_possessive] tempo mantendo tudo limpo e arrumado.</RT_TalentGroundskeeper.degreeDatas.0.description>
+  <RT_TalentCopycat.degreeDatas.0.label>&lt;color=#00ff00&gt;Talento: Imitador&lt;/color&gt;</RT_TalentCopycat.degreeDatas.0.label>
+  <RT_TalentCopycat.degreeDatas.0.description>[PAWN_nameDef] não é particularmente bom em nada, exceto no que todos os outros fazem.</RT_TalentCopycat.degreeDatas.0.description>
+  <RT_TalentWeaponsMaster.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Mestre das Armas&lt;/color&gt;</RT_TalentWeaponsMaster.degreeDatas.0.label>
+  <RT_TalentWeaponsMaster.degreeDatas.0.description>[PAWN_nameDef] é excelente no manuseio de todas as armas. [PAWN_pronoun] poderia até matar usando [PAWN_possessive] dedo mindinho.</RT_TalentWeaponsMaster.degreeDatas.0.description>
+  <RT_TalentHunter.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Caçador&lt;/color&gt;</RT_TalentHunter.degreeDatas.0.label>
+  <RT_TalentHunter.degreeDatas.0.description>[PAWN_nameDef] é hábil em interagir com animais e caçá-los. Embora não seja treinado para a batalha, [PAWN_pronoun] poderia lutar bem se necessário.</RT_TalentHunter.degreeDatas.0.description>
+  <RT_TalentEngineer.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Engenheiro&lt;/color&gt;</RT_TalentEngineer.degreeDatas.0.label>
+  <RT_TalentEngineer.degreeDatas.0.description>[PAWN_nameDef] é um especialista em construir coisas. Muito poucas obras de construção são um desafio para [PAWN_pronoun].</RT_TalentEngineer.degreeDatas.0.description>
+  <RT_TalentCook.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Cozinheiro&lt;/color&gt;</RT_TalentCook.degreeDatas.0.label>
+  <RT_TalentCook.degreeDatas.0.description>[PAWN_nameDef] adora preparar comida. Mmmmm...</RT_TalentCook.degreeDatas.0.description>
+  <RT_TalentHerbalist.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Herborista&lt;/color&gt;</RT_TalentHerbalist.degreeDatas.0.label>
+  <RT_TalentHerbalist.degreeDatas.0.description>[PAWN_nameDef] tem amplo conhecimento botânico e habilidades médicas razoáveis.</RT_TalentHerbalist.degreeDatas.0.description>
+  <RT_TalentArmourer.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Armeiro&lt;/color&gt;</RT_TalentArmourer.degreeDatas.0.label>
+  <RT_TalentArmourer.degreeDatas.0.description>[PAWN_nameDef] considera um dever sagrado produzir armas e vestimentas da mais alta qualidade possível para contribuir com a defesa de [PAWN_possessive] terra natal.</RT_TalentArmourer.degreeDatas.0.description>
+  <RT_TalentFletcher.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Flecheiro&lt;/color&gt;</RT_TalentFletcher.degreeDatas.0.label>
+  <RT_TalentFletcher.degreeDatas.0.description>[PAWN_nameDef] é adepto do arco e flecha, mas, ao contrário de muitos, [PAWN_pronoun] também é relativamente competente em artesanato.</RT_TalentFletcher.degreeDatas.0.description>
+  <RT_TalentVeterinarian.degreeDatas.0.label>&lt;color=#2C82FF&gt;Talento: Veterinário&lt;/color&gt;</RT_TalentVeterinarian.degreeDatas.0.label>
+  <RT_TalentVeterinarian.degreeDatas.0.description>[PAWN_nameDef] adora trabalhar cuidando de animais; [PAWN_pronoun] nunca deixaria um animal ferido morrer.</RT_TalentVeterinarian.degreeDatas.0.description>
+  <RT_TalentAdventurer.degreeDatas.0.label>&lt;color=#9f40ff&gt;Talento: Aventureiro&lt;/color&gt;</RT_TalentAdventurer.degreeDatas.0.label>
+  <RT_TalentAdventurer.degreeDatas.0.description>[PAWN_nameDef] é um lutador habilidoso. [PAWN_pronoun] percebeu que [PAWN_pronoun] podia proteger [PAWN_possessive] amigos e satisfazer [PAWN_possessive] curiosidade ao mesmo tempo.</RT_TalentAdventurer.degreeDatas.0.description>
+  <RT_TalentArchitect.degreeDatas.0.label>&lt;color=#9f40ff&gt;Talento: Arquiteto&lt;/color&gt;</RT_TalentArchitect.degreeDatas.0.label>
+  <RT_TalentArchitect.degreeDatas.0.description>[PAWN_nameDef] é arquiteto. [PAWN_pronoun] entende que não é preciso estar no The Good Place para construir o The Good Place.</RT_TalentArchitect.degreeDatas.0.description>
+  <RT_TalentChef.degreeDatas.0.label>&lt;color=#9f40ff&gt;Talento: Chef&lt;/color&gt;</RT_TalentChef.degreeDatas.0.label>
+  <RT_TalentChef.degreeDatas.0.description>Cozinhar é uma arte, ou pelo menos é o que [PAWN_nameDef] diz.</RT_TalentChef.degreeDatas.0.description>
+  <RT_TalentSurgeon.degreeDatas.0.label>&lt;color=#9f40ff&gt;Talento: Cirurgião&lt;/color&gt;</RT_TalentSurgeon.degreeDatas.0.label>
+  <RT_TalentSurgeon.degreeDatas.0.description>[PAWN_nameDef] foi um passo além, percebendo que [PAWN_pronoun] podia ser pago para tocar os corpos nus das pessoas.</RT_TalentSurgeon.degreeDatas.0.description>
+  <RT_TalentPhilosopher.degreeDatas.0.label>&lt;color=#9f40ff&gt;Talento: Filósofo&lt;/color&gt;</RT_TalentPhilosopher.degreeDatas.0.label>
+  <RT_TalentPhilosopher.degreeDatas.0.description>Todos odeiam professores de filosofia moral, mas [PAWN_nameDef] certamente não é um.</RT_TalentPhilosopher.degreeDatas.0.description>
+  <RT_TalentScout.degreeDatas.0.label>&lt;color=#d4af37&gt;Talento: Batedor&lt;/color&gt;</RT_TalentScout.degreeDatas.0.label>
+  <RT_TalentScout.degreeDatas.0.description>[PAWN_nameDef] é especialista em explorar novos locais. [PAWN_pronoun] frequentemente deixa a relativa segurança da colônia para patrulhar a natureza selvagem.</RT_TalentScout.degreeDatas.0.description>
+  <RT_TalentRecruiter.degreeDatas.0.label>&lt;color=#d4af37&gt;Talento: Recrutador&lt;/color&gt;</RT_TalentRecruiter.degreeDatas.0.label>
+  <RT_TalentRecruiter.degreeDatas.0.description>[PAWN_nameDef] é muito persuasivo. [PAWN_pronoun] acha relativamente fácil agrupar pessoas sob a bandeira que [PAWN_pronoun] carrega.</RT_TalentRecruiter.degreeDatas.0.description>
+  <RT_TalentJackOfAllTrades.degreeDatas.0.label>&lt;color=#d4af37&gt;Talento: Faz-tudo&lt;/color&gt;</RT_TalentJackOfAllTrades.degreeDatas.0.label>
+  <RT_TalentJackOfAllTrades.degreeDatas.0.description>[PAWN_nameDef] não se destaca muito, e [PAWN_pronoun] não acha nada particularmente difícil.</RT_TalentJackOfAllTrades.degreeDatas.0.description>
+  <RT_TalentHero.degreeDatas.0.label>&lt;color=#e0115f&gt;Talento: Herói&lt;/color&gt;</RT_TalentHero.degreeDatas.0.label>
+  <RT_TalentHero.degreeDatas.0.description>Enquanto [PAWN_nameDef] ainda respirar, não há ameaça que a colônia não possa superar!</RT_TalentHero.degreeDatas.0.description>
+  <RT_TalentHerald.degreeDatas.0.label>&lt;color=#e0115f&gt;Talento: Arauto&lt;/color&gt;</RT_TalentHerald.degreeDatas.0.label>
+  <RT_TalentHerald.degreeDatas.0.description>Uma língua afiada como uma lâmina e um braço de espada à altura, [PAWN_nameDef] representa os melhores interesses de [PAWN_possessive] facção e defenderá seu nome com prazer.</RT_TalentHerald.degreeDatas.0.description>
+  <RT_TalentNoTalent.degreeDatas.0.label>&lt;color=#ff6fff&gt;Sem Talento&lt;/color&gt;</RT_TalentNoTalent.degreeDatas.0.label>
+  <RT_TalentNoTalent.degreeDatas.0.description>[PAWN_nameDef] não tem talento. Nenhum mesmo</RT_TalentNoTalent.degreeDatas.0.description>
+</LanguageData>

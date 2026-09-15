@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicSensitizer.label>sensitizador mágico</PsychicSensitizer.label>
+  <PsychicSensitizer.labelNoun>um sensitizador mágico</PsychicSensitizer.labelNoun>
+  <PsychicSensitizer.description>Um implante de sensitizador mágico instalado.</PsychicSensitizer.description>
+  <PsychicEntropy.label>carga arcana</PsychicEntropy.label>
+  <PsychicEntropy.description>Carga arcana é um tipo de energia mágica caótica na mente que se acumula ao usar poderes mágicos e se dissipa ao longo de alguns segundos ou minutos.\n\nSe a carga arcana ultrapassar os limites normais, o mago pode perder o controle de suas faculdades enquanto seu corpo se esforça para dissipar os efeitos mágicos residuais; ele pode até desmaiar enquanto sua mente tenta se proteger do ataque mágico. Essas condições não causam danos permanentes.</PsychicEntropy.description>
+  <PsychicBreakdown.label>sobrecarga arcana</PsychicBreakdown.label>
+  <PsychicBreakdown.description>Desestabilização mágica profunda da mente. A sobrecarga arcana dura dias, causando distúrbios mentais de vários tipos. Resolve-se com o tempo.</PsychicBreakdown.description>
+  <PsychicAnesthesia.label>anestesia mágica</PsychicAnesthesia.label>
+  <PsychicAnesthesia.description>Insensibilidade à dor induzida magicamente.</PsychicAnesthesia.description>
+  <PsychicBurden.label>fardo arcano</PsychicBurden.label>
+  <PsychicBurden.description>Dificuldade de locomoção induzida magicamente.</PsychicBurden.description>
+  <PsychicBlindness.label>cegueira arcana</PsychicBlindness.label>
+  <PsychicBlindness.description>Cegueira parcial induzida magicamente.</PsychicBlindness.description>
+  <PsychicVertigo.label>vertigem arcana</PsychicVertigo.label>
+  <PsychicVertigo.description>Perda de orientação espacial induzida magicamente. Isso fará com que criaturas de carne vomitem.</PsychicVertigo.description>
+  <PsychicFocus.label>concentração arcana</PsychicFocus.label>
+  <PsychicFocus.description>Foco mental induzido magicamente, melhorando as capacidades de visão, audição e movimento.</PsychicFocus.description>
+  <PsychicInvisibility.label>invisibilidade arcana</PsychicInvisibility.label>
+  <PsychicInvisibility.description>Invisibilidade induzida magicamente. Isso faz a luz se curvar ao redor desta criatura, tornando-a invisível para os outros ao seu redor.</PsychicInvisibility.description>
+  <EntropyLink.label>compartilhamento de carga arcana</EntropyLink.label>
+  <EntropyLink.description>Um vínculo mágico com outro indivíduo. O ganho ou a perda de carga arcana de um será compartilhado igualmente entre ambos.</EntropyLink.description>
+  <Joyfuzz.label>euforia arcana</Joyfuzz.label>
+  <Joyfuzz.description>Sentimentos de calor, conforto e aceitação induzidos magicamente. Isso melhora o humor, mas a falta de estímulos negativos induz um leve torpor e reduz a consciência.</Joyfuzz.description>
+  <PsychicLove.label>paixão mágica</PsychicLove.label>
+  <PsychicLove.description>Adoração induzida magicamente. Isso aumenta a opinião de um indivíduo sobre outra pessoa e, entre adultos, aumenta a probabilidade de investidas românticas e propostas de casamento, ao mesmo tempo que reduz a chance de término.</PsychicLove.description>
+  <NoPain.label>insensibilidade à dor (empunhada)</NoPain.label>
+  <NoPain.description>A dor é desativada pela influência mágica da mana de uma arma empunhada.</NoPain.description>
+  <SpeedBoost.label>velocidade (empunhada)</SpeedBoost.label>
+  <SpeedBoost.description>O movimento é acelerado pela influência mágica da mana de uma arma empunhada.</SpeedBoost.description>
+  <HungerMaker.label>fome (empunhada)</HungerMaker.label>
+  <HungerMaker.description>A fome é aumentada pela influência mágica da mana de uma arma vinculada.</HungerMaker.description>
+  <NeuralHeatRecoveryGain.label>dissipação arcana (empunhada)</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>A dissipação de carga arcana é melhorada pela influência mágica da mana de uma arma vinculada.</NeuralHeatRecoveryGain.description>
+</LanguageData>

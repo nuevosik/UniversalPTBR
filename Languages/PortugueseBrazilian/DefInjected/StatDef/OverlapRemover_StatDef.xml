@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicEntropyGain.label>ganho de carga arcana</PsychicEntropyGain.label>
+  <PsychicEntropyGain.description>Um multiplicador da carga arcana obtida de qualquer fonte.</PsychicEntropyGain.description>
+  <PsychicSensitivity.label>aptidão mágica</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Pessoas com maior aptidão mágica sofrem mais com efeitos arcanos negativos e se beneficiam mais dos positivos, devido à sua conexão mais profunda com o campo de mana ambiente. Maior aptidão mágica também aumenta o limite de carga arcana.</PsychicSensitivity.description>
+  <AnimalsLearningFactor.label>fator de aprendizagem de trato com animais</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.description>Um multiplicador na taxa de aprendizagem da habilidade de trato com animais.</AnimalsLearningFactor.description>
+  <MeditationFocusGain.label>ganho de mana na meditação</MeditationFocusGain.label>
+  <MeditationFocusGain.description>A quantidade de mana que uma pessoa ganha por dia de meditação, ignorando os bônus dos objetos de foco.</MeditationFocusGain.description>
+  <PsychicEntropyMax.label>limite de carga arcana</PsychicEntropyMax.label>
+  <PsychicEntropyMax.description>A quantidade máxima de carga arcana que um indivíduo consegue tolerar com segurança.</PsychicEntropyMax.description>
+  <PsychicEntropyRecoveryRate.label>taxa de recuperação de carga arcana</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.description>A taxa na qual esta pessoa dissipa a carga arcana.</PsychicEntropyRecoveryRate.description>
+</LanguageData>

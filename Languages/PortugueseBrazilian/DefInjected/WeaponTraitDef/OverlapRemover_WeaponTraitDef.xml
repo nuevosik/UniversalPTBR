@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicSensitivityUpMajor.label>maestria arcana</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.description>Esta arma amplifica a aptidão mágica do usuário em 40%. Isso só se aplica enquanto a arma estiver empunhada.</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMinor.label>perícia arcana</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.description>Esta arma amplifica a aptidão mágica do usuário em 20%. Isso só se aplica enquanto a arma estiver empunhada.</PsychicSensitivityUpMinor.description>
+  <PsychicSensitivityDownMinor.label>amortecedor arcano</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.description>Esta arma suprime a aptidão mágica do usuário em 15%. Isso só se aplica enquanto a arma estiver empunhada.</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityDownMajor.label>névoa arcana</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.description>Esta arma suprime a aptidão mágica do usuário em 30%. Isso só se aplica enquanto a arma estiver empunhada.</PsychicSensitivityDownMajor.description>
+  <OnKill_PsyfocusGain.description>A persona desta arma é focada em mortes. Se a arma matar alguém, o usuário ganhará instantaneamente 20% de mana.</OnKill_PsyfocusGain.description>
+  <PsyfocusMeditationBonus.label>arcano-meditativo</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.description>A persona desta arma é naturalmente meditativa e ajuda a melhorar a conexão do usuário com o campo de mana de fundo enquanto medita. O usuário ganha 10% extra de mana por dia de meditação, enquanto a arma estiver empunhada.</PsyfocusMeditationBonus.description>
+  <NoPain.description>A persona desta arma é especialista em canalizar e absorver a dor do usuário através de suas extensas vias de mana. Quem empunha a arma não sentirá nenhum tipo de dor.</NoPain.description>
+  <SpeedBoost.label>velocidade arcana</SpeedBoost.label>
+  <HungerMaker.label>fome arcana</HungerMaker.label>
+  <NeuralHeatRecoveryGain.label>dissipador de carga arcana</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>A persona desta arma tem a capacidade de ajudar a dissipar a carga arcana do usuário. A dissipação de carga arcana do usuário melhora em 0,15 por segundo.</NeuralHeatRecoveryGain.description>
+  <OnKill_ThoughtGood.description>A persona desta arma adora matar. Se esta arma matar alguém, sua alegria emitirá uma aura mágica, deixando-a mais feliz por alguns dias.</OnKill_ThoughtGood.description>
+  <OnKill_ThoughtBad.description>A persona desta arma odeia matar. Se esta arma matar alguém, sua tristeza emitirá uma aura mágica, reduzindo seu humor por alguns dias.</OnKill_ThoughtBad.description>
+  <NeedKill.description>A persona desta arma encontra propósito em derramamento de sangue. Se ela não matar por 20 dias, ficará furiosa e diminuirá magicamente o humor de quem estiver vinculado a ela.</NeedKill.description>
+</LanguageData>
