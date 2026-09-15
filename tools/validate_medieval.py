@@ -89,7 +89,8 @@ def main(argv=None):
             return 1
         source = keyed_values(mod) if args.keyed else scan_defs(mod)[0]
         base = repo/'Keyed' if args.keyed else repo
-        paths = sorted(base.rglob(f'{prefix}_*.xml'))
+        paths = sorted(p for p in base.rglob(f'{prefix}_*.xml')
+                       if args.keyed or 'Keyed' not in p.parts)
         if not paths:
             print(f'aviso: sem arquivos {prefix}_*.xml em {repo}', file=sys.stderr)
         for path in paths:
