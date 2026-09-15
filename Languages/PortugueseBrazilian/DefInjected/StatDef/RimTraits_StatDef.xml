@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RTMT_FoodNeedDecay.label>decaimento da necessidade de alimentação</RTMT_FoodNeedDecay.label>
+  <RTMT_FoodNeedDecay.description>A taxa na qual a necessidade de alimentação decai. Para referência: 0,50 decai na metade da taxa padrão.</RTMT_FoodNeedDecay.description>
+  <RTMT_RestNeed_Decay.label>decaimento da necessidade de descanso</RTMT_RestNeed_Decay.label>
+  <RTMT_RestNeed_Decay.description>A taxa na qual a necessidade de descanso decai. Para referência: 0,50 decai na metade da taxa padrão.</RTMT_RestNeed_Decay.description>
+  <RTMT_RecreationNeed_Decay.label>decaimento da necessidade de recreação</RTMT_RecreationNeed_Decay.label>
+  <RTMT_RecreationNeed_Decay.description>A taxa na qual a necessidade de recreação decai. Para referência: 0,50 decai na metade da taxa padrão.</RTMT_RecreationNeed_Decay.description>
+  <SculptingSpeed.label>velocidade de escultura</SculptingSpeed.label>
+  <SculptingSpeed.description>A velocidade com que esta pessoa cria esculturas.\n\nEsta estatística afeta apenas a rapidez com que as esculturas são produzidas, não sua qualidade. A qualidade é determinada pela habilidade artística do escultor.</SculptingSpeed.description>
+  <TailoringSpeed.label>velocidade de costura</TailoringSpeed.label>
+  <TailoringSpeed.description>A velocidade com que esta pessoa costura roupas.\n\nEsta estatística afeta apenas a rapidez com que as roupas são produzidas, não sua qualidade. A qualidade é determinada pela habilidade de fabricação do alfaiate.</TailoringSpeed.description>
+  <SmithingSpeed.label>velocidade de forja</SmithingSpeed.label>
+  <SmithingSpeed.description>Velocidade com que esta pessoa forja armas, máquinas e munições.\n\nEsta estatística afeta apenas a rapidez com que os itens são produzidos, não sua qualidade. A qualidade é determinada pela habilidade do artesão.</SmithingSpeed.description>
+</LanguageData>
