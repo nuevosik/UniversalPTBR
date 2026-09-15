@@ -17,6 +17,7 @@ from extract_medieval import BATCHES, MODS, REPO_LANG, WORKSHOP, parse_xml, reso
 PLACEHOLDER = re.compile(r'\{[^}]+\}')
 COLOR_TAG = re.compile(r'</?color[^>]*>')
 BRACKET_TOKEN = re.compile(r'\[[^\]]+\]')
+GAME_TOKEN = re.compile(r'^[A-Za-z_][A-Za-z0-9_]*$')
 NEWLINE = re.compile(r'\\n|\n')
 
 
@@ -28,7 +29,8 @@ def token_problems(value, src):
         return True
     if Counter(COLOR_TAG.findall(value)) != Counter(COLOR_TAG.findall(src)):
         return True
-    if Counter(BRACKET_TOKEN.findall(value)) - Counter(BRACKET_TOKEN.findall(src)):
+    extra = Counter(BRACKET_TOKEN.findall(value)) - Counter(BRACKET_TOKEN.findall(src))
+    if any(GAME_TOKEN.match(token[1:-1]) for token in extra):
         return True
     return len(NEWLINE.findall(value)) != len(NEWLINE.findall(src))
 
