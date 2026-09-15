@@ -88,7 +88,8 @@ def main(argv=None):
             print(f'ERRO: mod ausente: {mod}', file=sys.stderr)
             return 1
         source = keyed_values(mod) if args.keyed else scan_defs(mod)[0]
-        paths = sorted(repo.rglob(f'{prefix}_*.xml'))
+        base = repo/'Keyed' if args.keyed else repo
+        paths = sorted(base.rglob(f'{prefix}_*.xml'))
         if not paths:
             print(f'aviso: sem arquivos {prefix}_*.xml em {repo}', file=sys.stderr)
         for path in paths:
