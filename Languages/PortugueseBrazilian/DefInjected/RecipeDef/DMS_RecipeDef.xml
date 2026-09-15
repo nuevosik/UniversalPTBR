@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-  <DMS_Recipe_AssembleTarbosaurus.label>montar tarbossauro mecanizado</DMS_Recipe_AssembleTarbosaurus.label>
-  <DMS_Recipe_AssembleTarbosaurus.description>Monta o tarbossauro na gantry usando {0} componentes e {1} aço.\nRequer mecanoide inativo como base.</DMS_Recipe_AssembleTarbosaurus.description>
-  <DMS_Recipe_EquipMechWeapon.label>equipar arma mecanizada</DMS_Recipe_EquipMechWeapon.label>
-  <DMS_Recipe_EquipMechWeapon.description>Equipe {0} no mecanoide selecionado. Compatível com Combat Extended quando ativo.</DMS_Recipe_EquipMechWeapon.description>
-  <DMS_Recipe_InstallEconomyBionic.label>instalar biônico econômico</DMS_Recipe_InstallEconomyBionic.label>
-  <DMS_Recipe_InstallEconomyBionic.description>Implanta prótese de baixo custo em {PAWN_name}. Custo: {0} hemogênio.</DMS_Recipe_InstallEconomyBionic.description>
-</LanguageData>

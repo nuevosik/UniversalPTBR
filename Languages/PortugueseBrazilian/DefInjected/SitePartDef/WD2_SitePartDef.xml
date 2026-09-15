@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-  <WD_SitePart_MiningTier1.label>jazida nível 1</WD_SitePart_MiningTier1.label>
-  <WD_SitePart_MiningTier1.description>Mineração básica. Recompensa: {0} aço. Dificuldade ajustada por proximidade a {1}.\nRequer caravana com {PAWN_name}.</WD_SitePart_MiningTier1.description>
-  <WD_SitePart_LoggingTier2.label>extração madeireira nível 2</WD_SitePart_LoggingTier2.label>
-  <WD_SitePart_LoggingTier2.description>Corte intensivo. Produz {0} madeira por ciclo e {1} boa vontade se mantiver o posto avançado.</WD_SitePart_LoggingTier2.description>
-  <WD_SitePart_SlaveryTier3.label>complexo nível 3</WD_SitePart_SlaveryTier3.label>
-  <WD_SitePart_SlaveryTier3.description>Base inimiga avançada com {0} defensores. Recompensa alta, risco extremo para {PAWN_label}.</WD_SitePart_SlaveryTier3.description>
-</LanguageData>

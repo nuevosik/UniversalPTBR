@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-  <WD_Outpost_Production.label>posto avançado de produção</WD_Outpost_Production.label>
-  <WD_Outpost_Production.description>Assentamento autônomo focado em extração. Produz {0} por dia e requer {1} colonos com perícia em {PAWN_name}.\nEscala de pontos de invasão com proximidade: {2}.</WD_Outpost_Production.description>
-  <WD_Outpost_Artillery.label>posto avançado de artilharia</WD_Outpost_Artillery.label>
-  <WD_Outpost_Artillery.description>Bateria de longo alcance. Pode bombardear {0} em um raio de {1} tiles. Consome {2} por disparo.</WD_Outpost_Artillery.description>
-  <WD_Outpost_Trading.label>posto avançado comercial</WD_Outpost_Trading.label>
-  <WD_Outpost_Trading.description>Entreposto que gera caravanas automáticas entre {0} e {1}. Aumenta boa vontade com {PAWN_label} em {2} por entrega.</WD_Outpost_Trading.description>
-</LanguageData>

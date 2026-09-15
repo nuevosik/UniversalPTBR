@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-  <DMS_Implant_Rejection.label>rejeição de implante</DMS_Implant_Rejection.label>
-  <DMS_Implant_Rejection.description>Resposta imunológica ao biônico econômico. Causa dor em {PAWN_name} por {0} dias.\nTrate com hemogênio estabilizado.</DMS_Implant_Rejection.description>
-  <DMS_OverloadSyndrome.label>síndrome de sobrecarga</DMS_OverloadSyndrome.label>
-  <DMS_OverloadSyndrome.description>Efeito colateral do exo-esqueleto pesado quando {PAWN_possessive} energia excede {0}%. Reduz velocidade de movimento.</DMS_OverloadSyndrome.description>
-  <DMS_NeuralLink.label>vínculo neural</DMS_NeuralLink.label>
-  <DMS_NeuralLink.description>Conexão temporária entre operador e mecanoide. Permite ordens diretas a {PAWN_objective} por {0} horas.</DMS_NeuralLink.description>
-</LanguageData>

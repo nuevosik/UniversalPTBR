@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-  <WD_Road.label>estrada</WD_Road.label>
-  <WD_Road.description>Estrada construída por caravanas entre {0} e {1}. Aumenta velocidade de viagem em {2}%.</WD_Road.description>
-  <WD_RoadBlock.label>bloqueio de estrada</WD_RoadBlock.label>
-  <WD_RoadBlock.description>Barricada para interceptar caravanas inimigas em {0}. Causa {1} de dano por passagem.</WD_RoadBlock.description>
-  <WD_Trap.label>armadilha de estrada</WD_Trap.label>
-  <WD_Trap.description>Armadilha camuflada. Requer {0} componentes e perícia de {PAWN_name} para instalação.</WD_Trap.description>
-</LanguageData>
