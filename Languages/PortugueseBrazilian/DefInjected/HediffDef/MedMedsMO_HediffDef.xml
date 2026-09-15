@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HealingPotionAddiction.label>vício em poção de cura</HealingPotionAddiction.label>
+  <HealingPotionAddiction.description>Um vício químico em poção de cura. A presença prolongada da poção de cura causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar corretamente sem a droga.\n		\nSem doses regulares de poção de cura, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</HealingPotionAddiction.description>
+  <HealingPotionTolerance.label>tolerância a poção de cura</HealingPotionTolerance.label>
+  <HealingPotionTolerance.description>Uma tolerância acumulada a poção de cura. Quanto mais grave for essa tolerância, mais poção de cura será necessária para obter o mesmo efeito.</HealingPotionTolerance.description>
+  <Joe_LesserHealingHediff.label>efeito de poção de cura menor</Joe_LesserHealingHediff.label>
+  <Joe_LesserHealingHediff.description>Nativos tribais criaram um elixir que melhora enormemente as capacidades naturais de cura de quem o consome. No entanto, parece causar uma sensação de mal-estar nos intestinos, uma inquietação angustiante que enfraquece os rins devido ao aumento da pressão arterial.</Joe_LesserHealingHediff.description>
+  <Joe_MinorHealingHediff.label>efeito de poção de cura leve</Joe_MinorHealingHediff.label>
+  <Joe_MinorHealingHediff.description>Os boticários das casas nobres, por meio de suas técnicas refinadas, transformaram o elixir tribal de cura menor no que agora é conhecido como poção de cura leve. Ao incorporar âmbar à receita, esta nova mistura possui capacidades restauradoras aprimoradas, reduzindo significativamente os efeitos adversos antes sentidos.</Joe_MinorHealingHediff.description>
+  <ManaPotionAddiction.label>vício em poção de mana</ManaPotionAddiction.label>
+  <ManaPotionAddiction.description>Um vício químico em poção de mana. A presença prolongada da poção de mana causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar corretamente sem a droga.\n		\nSem doses regulares de poção de mana, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</ManaPotionAddiction.description>
+  <ManaPotionTolerance.label>tolerância a poção de mana</ManaPotionTolerance.label>
+  <ManaPotionTolerance.description>Uma tolerância acumulada a poção de mana. Quanto mais grave for essa tolerância, mais poção de mana será necessária para obter o mesmo efeito.</ManaPotionTolerance.description>
+  <Joe_LesserArcaneLoad.label>dispersão de carga arcana aprimorada</Joe_LesserArcaneLoad.label>
+  <Joe_LesserArcaneLoad.labelNoun>dispersão de carga arcana aprimorada</Joe_LesserArcaneLoad.labelNoun>
+  <Joe_LesserArcaneLoad.description>Taxa de dispersão de carga arcana aprimorada obtida ao ingerir uma poção de mana menor.</Joe_LesserArcaneLoad.description>
+  <Joe_MinorArcaneLoad.label>dispersão de carga arcana aprimorada</Joe_MinorArcaneLoad.label>
+  <Joe_MinorArcaneLoad.labelNoun>dispersão de carga arcana aprimorada</Joe_MinorArcaneLoad.labelNoun>
+  <Joe_MinorArcaneLoad.description>Taxa de dispersão de carga arcana aprimorada obtida ao ingerir uma poção de mana leve.</Joe_MinorArcaneLoad.description>
+</LanguageData>

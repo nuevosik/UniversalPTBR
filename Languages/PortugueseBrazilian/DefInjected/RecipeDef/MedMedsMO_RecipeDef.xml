@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RecMedicineEarlyMedievalMM.label>fazer medicina medieval inicial</RecMedicineEarlyMedievalMM.label>
+  <RecMedicineEarlyMedievalMM.description>Uma caixa contendo diversas ervas, tinturas, um kit de trepanação e tiras de pano limpo.</RecMedicineEarlyMedievalMM.description>
+  <RecMedicineEarlyMedievalMM.jobString>Fazendo medicina medieval inicial.</RecMedicineEarlyMedievalMM.jobString>
+  <RecMedicineLateMedievalMM.label>fazer medicina medieval tardia</RecMedicineLateMedievalMM.label>
+  <RecMedicineLateMedievalMM.description>Um kit médico contendo uma grande variedade de ervas e tinturas, um manuscrito médico, bandagens embebidas em álcool e várias ferramentas complexas para cortar e liberar pressão.</RecMedicineLateMedievalMM.description>
+  <RecMedicineLateMedievalMM.jobString>Fazendo medicina medieval tardia.</RecMedicineLateMedievalMM.jobString>
+  <RecMedicineParesianMM.label>fazer medicina paresiana</RecMedicineParesianMM.label>
+  <RecMedicineParesianMM.description>Um kit incrivelmente avançado de suprimentos médicos, incluindo bandagens esterilizadas, misturas de produtos químicos e ervas, ferramentas complexas para sutura, corte e perfuração, um manual detalhado da anatomia humana e talvez até uma pitada de magia misturada.</RecMedicineParesianMM.description>
+  <RecMedicineParesianMM.jobString>Fazendo medicina paresiana.</RecMedicineParesianMM.jobString>
+  <Joe_MinorHealingRecipe.label>fazer poção de cura leve</Joe_MinorHealingRecipe.label>
+  <Joe_MinorHealingRecipe.description>Uma garrafa contendo uma poção de cura leve alquímica que aumenta a cura e a imunidade.</Joe_MinorHealingRecipe.description>
+  <Joe_MinorHealingRecipe.jobString>Fazendo poção de cura leve.</Joe_MinorHealingRecipe.jobString>
+  <Joe_MinorHealingRecipeBulk.label>fazer poção de cura leve x5</Joe_MinorHealingRecipeBulk.label>
+  <Joe_MinorHealingRecipeBulk.description>Uma garrafa contendo uma poção de cura leve alquímica que aumenta a cura e a imunidade.</Joe_MinorHealingRecipeBulk.description>
+  <Joe_MinorHealingRecipeBulk.jobString>Fazendo poção de cura leve x5.</Joe_MinorHealingRecipeBulk.jobString>
+  <Joe_MakeOre_Glimmerquartz.description>Minerar nas profundezas do subsolo para obter quartzo-cintilante bruto.</Joe_MakeOre_Glimmerquartz.description>
+  <Joe_MakeOre_Glimmerquartz.label>minerar quartzo-cintilante bruto</Joe_MakeOre_Glimmerquartz.label>
+  <Joe_MakeOre_Glimmerquartz.jobString>Minerando quartzo-cintilante bruto.</Joe_MakeOre_Glimmerquartz.jobString>
+  <Joe_LesserHealingRecipe.label>fazer poção de cura menor</Joe_LesserHealingRecipe.label>
+  <Joe_LesserHealingRecipe.description>Um frasco contendo um elixir tribal de cura menor que aumenta a cura e a imunidade.</Joe_LesserHealingRecipe.description>
+  <Joe_LesserHealingRecipe.jobString>Fazendo poção de cura menor.</Joe_LesserHealingRecipe.jobString>
+  <Joe_LesserHealingRecipeBulk.label>fazer poção de cura menor x5</Joe_LesserHealingRecipeBulk.label>
+  <Joe_LesserHealingRecipeBulk.description>Um frasco contendo um elixir tribal de cura menor que aumenta a cura e a imunidade.</Joe_LesserHealingRecipeBulk.description>
+  <Joe_LesserHealingRecipeBulk.jobString>Fazendo poção de cura menor x5.</Joe_LesserHealingRecipeBulk.jobString>
+  <Joe_Make_AetherExtract.label>fazer extrato de éter</Joe_Make_AetherExtract.label>
+  <Joe_Make_AetherExtract.description>Fazer extrato de éter.</Joe_Make_AetherExtract.description>
+  <Joe_Make_AetherExtract.jobString>Fazendo extrato de éter.</Joe_Make_AetherExtract.jobString>
+  <Joe_Make_AetherExtractBulk.label>fazer extrato de éter x5</Joe_Make_AetherExtractBulk.label>
+  <Joe_Make_AetherExtractBulk.description>Fazer extrato de éter x5.</Joe_Make_AetherExtractBulk.description>
+  <Joe_Make_AetherExtractBulk.jobString>Fazendo extrato de éter x5.</Joe_Make_AetherExtractBulk.jobString>
+  <Joe_Make_AetherExtractBulkExtra.label>fazer extrato de éter x10</Joe_Make_AetherExtractBulkExtra.label>
+  <Joe_Make_AetherExtractBulkExtra.description>Fazer extrato de éter x10.</Joe_Make_AetherExtractBulkExtra.description>
+  <Joe_Make_AetherExtractBulkExtra.jobString>Fazendo extrato de éter x10.</Joe_Make_AetherExtractBulkExtra.jobString>
+  <Joe_LesserManaRecipe.label>fazer poção de mana menor</Joe_LesserManaRecipe.label>
+  <Joe_LesserManaRecipe.description>Um frasco contendo um elixir tribal de mana menor que restaura uma pequena quantidade de mana e dobra a velocidade de dispersão de carga arcana. Infundido com a essência da flor do éter, tem um tom azul vibrante.</Joe_LesserManaRecipe.description>
+  <Joe_LesserManaRecipe.jobString>Fazendo poção de mana menor.</Joe_LesserManaRecipe.jobString>
+  <Joe_LesserManaRecipeBulk.label>fazer poção de mana menor x5</Joe_LesserManaRecipeBulk.label>
+  <Joe_LesserManaRecipeBulk.description>Um frasco contendo um elixir tribal de mana menor que restaura uma pequena quantidade de mana e dobra a velocidade de dispersão de carga arcana. Infundido com a essência da flor do éter, tem um tom azul vibrante.</Joe_LesserManaRecipeBulk.description>
+  <Joe_LesserManaRecipeBulk.jobString>Fazendo poção de mana menor x5.</Joe_LesserManaRecipeBulk.jobString>
+  <Joe_MinorManaRecipe.label>fazer poção de mana leve</Joe_MinorManaRecipe.label>
+  <Joe_MinorManaRecipe.description>Uma garrafa contendo uma poção de mana leve alquímica que restaura uma quantidade modesta de mana e triplica a velocidade de dispersão de carga arcana. Infundida com a essência da flor do éter, tem um tom azul vibrante.</Joe_MinorManaRecipe.description>
+  <Joe_MinorManaRecipe.jobString>Fazendo poção de mana leve.</Joe_MinorManaRecipe.jobString>
+  <Joe_MinorManaRecipeBulk.label>fazer poção de mana leve x5</Joe_MinorManaRecipeBulk.label>
+  <Joe_MinorManaRecipeBulk.description>Uma garrafa contendo uma poção de mana leve alquímica que restaura uma quantidade modesta de mana e triplica a velocidade de dispersão de carga arcana. Infundida com a essência da flor do éter, tem um tom azul vibrante.</Joe_MinorManaRecipeBulk.description>
+  <Joe_MinorManaRecipeBulk.jobString>Fazendo poção de mana leve x5.</Joe_MinorManaRecipeBulk.jobString>
+</LanguageData>
