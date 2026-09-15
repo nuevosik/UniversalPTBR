@@ -7,6 +7,7 @@ pulando chaves ja existentes no repo. --keyed (fase 2) faz o mesmo para as
 chaves dos arquivos Languages/English/Keyed, com valor vazio.
 """
 import argparse
+import json
 import pathlib
 import re
 import sys
@@ -57,6 +58,19 @@ BATCHES = {
  'L4':['2836791007','1916352291','2101545242','2883228057'],
 }
 LOTES = {fid: batch for batch, ids in BATCHES.items() for fid in ids}
+
+TARGETS_JSON = pathlib.Path(__file__).with_name('targets.json')
+
+
+def load_targets():
+    if not TARGETS_JSON.exists():
+        return {}, {}
+    try:
+        data = json.loads(TARGETS_JSON.read_text(encoding='utf-8'))
+    except (OSError, ValueError):
+        return {}, {}
+    flat = {r['folderId']: r for rows in data.get('batches', {}).values() for r in rows}
+    return data.get('batches', {}), flat
 
 
 def parse_xml(path):
@@ -245,6 +259,9 @@ def resolve_mod(arg, prefix, parser):
         parser.error(f'mod nao encontrado: {arg}')
     if fid in MODS:
         return mod, MODS[fid][0], fid
+    _, flat = load_targets()
+    if fid in flat:
+        return mod, flat[fid]['prefix'], fid
     if not prefix:
         parser.error(f'--prefix obrigatorio para {arg} (fora do mapa MODS)')
     return mod, prefix, fid
@@ -301,10 +318,16 @@ def main(argv=None):
     if args.keyed and args.inventory:
         ap.error('--inventory e apenas da fase 1 (DefInjected)')
 
+    json_batches, _ = load_targets()
     if args.batch is not None:
-        if args.batch not in BATCHES:
-            ap.error(f'lote desconhecido: {args.batch!r} (disponiveis: {", ".join(BATCHES)})')
-        targets = [(WORKSHOP/fid, MODS[fid][0], fid) for fid in BATCHES[args.batch]]
+        if args.batch in BATCHES:
+            targets = [(WORKSHOP/fid, MODS[fid][0], fid) for fid in BATCHES[args.batch]]
+        elif args.batch in json_batches:
+            targets = [(WORKSHOP/r['folderId'], r['prefix'], r['folderId'])
+                       for r in json_batches[args.batch]]
+        else:
+            ap.error(f'lote desconhecido: {args.batch!r} (medievais: {", ".join(BATCHES)}; '
+                     f'total: {", ".join(json_batches) or "sem targets.json"})')
     elif args.all:
         targets = [(WORKSHOP/fid, MODS[fid][0], fid) for fid in MODS]
     else:

@@ -12,7 +12,7 @@ import sys
 import xml.etree.ElementTree as ET
 from collections import Counter
 
-from extract_medieval import BATCHES, MODS, REPO_LANG, WORKSHOP, parse_xml, resolve_mod, scan_defs
+from extract_medieval import BATCHES, MODS, REPO_LANG, WORKSHOP, parse_xml, resolve_mod, scan_defs, load_targets
 
 PLACEHOLDER = re.compile(r'\{[^}]+\}')
 COLOR_TAG = re.compile(r'</?color[^>]*>')
@@ -90,10 +90,14 @@ def main(argv=None):
     ap.add_argument('--keyed', action='store_true', help='valida Keyed (fase 2)')
     args = ap.parse_args(argv)
 
+    json_batches, _ = load_targets()
     if args.batch is not None:
-        if args.batch not in BATCHES:
-            ap.error(f'lote desconhecido: {args.batch!r} (disponiveis: {", ".join(BATCHES)})')
-        targets = [(WORKSHOP/fid, MODS[fid][0]) for fid in BATCHES[args.batch]]
+        if args.batch in BATCHES:
+            targets = [(WORKSHOP/fid, MODS[fid][0]) for fid in BATCHES[args.batch]]
+        elif args.batch in json_batches:
+            targets = [(WORKSHOP/r['folderId'], r['prefix']) for r in json_batches[args.batch]]
+        else:
+            ap.error(f'lote desconhecido: {args.batch!r}')
     elif args.all:
         targets = [(WORKSHOP/fid, MODS[fid][0]) for fid in MODS]
     else:
