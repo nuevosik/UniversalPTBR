@@ -56,8 +56,8 @@ A tradução já abrange os seguintes módulos do Vanilla Expanded e mods univer
 | **Vanilla Temperature Expanded** | Novos sistemas de aquecimento, resfriamento e ventilação. |
 | **Vanilla Events Expanded** | Novos eventos e condições climáticas aleatórias. |
 | **Vanilla Quests Expanded** | Ancients, Cryptoforge, Deadlife e Generator — missões, ruínas e conteúdo dos antigos. |
-| **The Dead Man's Switch** | Facção, genes, itens e missões. |
-| **World Domination 2.0** | Facções, objetos de mundo e missões. |
+| **The Dead Man's Switch** | ⚠️ em tradução — os arquivos anteriores eram fantasma (chaves inexistentes) e foram removidos. |
+| **World Domination 2.0** | ⚠️ em tradução — os arquivos anteriores eram fantasma (chaves inexistentes) e foram removidos. |
 ---
 
 ## 📝 Sobre o Projeto
