@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Fantasy Themed Relic Quests</li>
+      <li>BotchJob.medievalfantasythemedrelicquests</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientTerminal"]/label</xpath>
+          <value><label>textos antigos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientTerminal"]/description</xpath>
+          <value><description>Textos antigos. Podem ser decifrados para revelar informações há muito esquecidas.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientTerminal_Worshipful"]/label</xpath>
+          <value><label>tabuleta antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientTerminal_Worshipful"]/description</xpath>
+          <value><description>Uma tabuleta antiga. Pode ser estudada para revelar informações há muito esquecidas.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientEnemyTerminal"]/label</xpath>
+          <value><label>pedestal suspeito</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientEnemyTerminal"]/description</xpath>
+          <value><description>Um pedestal exibindo de forma ostensiva o que parecem ser itens valiosos. Você tem a sensação de que há mais neste pedestal do que aparenta.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientHermeticCrate"]/label</xpath>
+          <value><label>baú de tesouro antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientHermeticCrate"]/description</xpath>
+          <value><description>Um baú de tesouro antigo que ainda não foi aberto; pode conter itens valiosos.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientSecurityCrate"]/label</xpath>
+          <value><label>cofre antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientSecurityCrate"]/description</xpath>
+          <value><description>Um cofre antigo e grande. Uma inspeção mais atenta revela um gatilho de armadilha; tentar abrir o cofre provavelmente acionará algum tipo de alarme.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientCryptosleepPod"]/label</xpath>
+          <value><label>sarcófago antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientCryptosleepPod"]/description</xpath>
+          <value><description>Um sarcófago antigo. Está lacrado, sugerindo que tem um ocupante; certamente morreu há muito tempo.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientCryptosleepCasket"]/label</xpath>
+          <value><label>sarcófago misterioso</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientCryptosleepCasket"]/description</xpath>
+          <value><description>Um sarcófago antigo. Foi selado magicamente; quem sabe o que pode conter.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientLamp"]/label</xpath>
+          <value><label>braseiro antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientLamp"]/description</xpath>
+          <value><description>Um braseiro antigo; ainda tem algumas brasas fracamente brilhantes e emite uma pequena quantidade de luz.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientCommsConsole"]/label</xpath>
+          <value><label>baliza antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientCommsConsole"]/description</xpath>
+          <value><description>Uma baliza antiga; ativá-la pode fornecer ajuda ou atrair a atenção de inimigos próximos.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientFuelNode"]/label</xpath>
+          <value><label>barril explosivo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientFuelNode"]/description</xpath>
+          <value><description>Um barril lacrado contendo uma substância altamente inflamável; perturbá-lo pode fazê-lo explodir.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Shuttle"]/label</xpath>
+          <value><label>aeronave</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Shuttle"]/description</xpath>
+          <value><description>Uma aeronave comumente usada pelo império para viagens de longa distância.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="ShuttleCrashed"]/label</xpath>
+          <value><label>aeronave caída</label></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/TransportShipDef[defName="Ship_Shuttle"]/label</xpath>
+          <value><label>aeronave</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/TransportShipDef[defName="Ship_ShuttleCrashing"]/label</xpath>
+          <value><label>aeronave caída</label></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="ShuttleIncoming"]/label</xpath>
+          <value><label>aeronave (chegando)</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="ShuttleLeaving"]/label</xpath>
+          <value><label>aeronave (partindo)</label></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RoyalTitlePermitDef[defName="CallTransportShuttle"]/label</xpath>
+          <value><label>chamar aeronave</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/RoyalTitlePermitDef[defName="CallTransportShuttle"]/description</xpath>
+          <value><description>Chame uma aeronave para seu próprio uso. Ela transportará colonos, itens e animais para onde você quiser, dentro de 70 tiles do mundo.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Spacedrone"]/label</xpath>
+          <value><label>aeronave roubada</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Spacedrone"]/description</xpath>
+          <value><description>Uma aeronave roubada contendo registros mantidos pelo império.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="SpacedroneIncoming"]/label</xpath>
+          <value><label>aeronave roubada (chegando)</label></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="TransportPod" or defName="ActiveDropPod" or defName="DropPodIncoming" or defName="DropPodLeaving"]/label</xpath>
+          <value><label>balão de transporte</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="TransportPod" or defName="ActiveDropPod" or defName="DropPodIncoming" or defName="DropPodLeaving"]/description</xpath>
+          <value><description>Um pequeno balão de ar quente capaz de transportar pessoas, itens ou animais. Pode ser usado para enviar presentes, transportar pessoas ou suprimentos, ataques surpresa ou reforçar batalhas.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientSystemRack"]/label</xpath>
+          <value><label>mesa de embalsamar antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientSystemRack"]/description</xpath>
+          <value><description>Uma mesa de embalsamar antiga; claramente não é usada há muito tempo.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientEquipmentBlocks"]/label</xpath>
+          <value><label>santuário antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientEquipmentBlocks"]/description</xpath>
+          <value><description>Um santuário antigo e grande. Pode ter sido usado para realizar rituais antigos, ou talvez fosse apenas a mesa de jantar de alguém; nunca saberemos.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientMachine"]/label</xpath>
+          <value><label>gaiola de animais antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientMachine"]/description</xpath>
+          <value><description>Uma gaiola antiga, outrora usada para conter animais ou talvez prisioneiros azarados; está deteriorada e caindo aos pedaços.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientStorageCylinder"]/label</xpath>
+          <value><label>baú arruinado</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientStorageCylinder"]/description</xpath>
+          <value><description>Um baú velho que foi arrombado; se algum dia conteve itens valiosos, já se foram há muito tempo.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientBed"]/description</xpath>
+          <value><description>Uma cama antiga. Embora desconfortável, ainda pode ser usada.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientDisplayBank"]/label</xpath>
+          <value><label>porta-armas antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientDisplayBank"]/description</xpath>
+          <value><description>Um porta-armas antigo; quaisquer armas restantes estão quebradas sem conserto ou deterioradas demais para serem úteis.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientLockerBank"]/label</xpath>
+          <value><label>unidade de armazenamento antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientLockerBank"]/description</xpath>
+          <value><description>Uma mesa e um baú antigos; se algum dia conteram algo de valor, isso se perdeu há muito tempo.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientBarrel"]/description</xpath>
+          <value><description>Um barril de madeira antigo; não contém nada além de uma pequena poça de água estagnada.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientGenerator"]/description</xpath>
+          <value><description>Um antigo gerador de energia de algum tipo; seu funcionamento interno é um mistério, pois a maioria das peças foi saqueada ou deteriorada além do reconhecimento.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientOperatingTable"]/label</xpath>
+          <value><label>mesa de cirurgião antiga</label></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientTankTrap"]/label</xpath>
+          <value><label>espinhos de cavalaria antigos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientTankTrap"]/description</xpath>
+          <value><description>Uma fortificação defensiva para impedir infantaria montada. Vem se deteriorando há muitos anos.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientFence"]/label</xpath>
+          <value><label>muralha de pedra antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientFence"]/description</xpath>
+          <value><description>Uma muralha de pedra antiga; resistiu ao tempo e está em grande parte intacta.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientRazorWire"]/label</xpath>
+          <value><label>destroços antigos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientRazorWire"]/description</xpath>
+          <value><description>Os restos de uma antiga muralha de pedra.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientMegaCannonTripod"]/label</xpath>
+          <value><label>balista antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientMegaCannonTripod"]/description</xpath>
+          <value><description>Uma balista antiga; suas partes mecânicas estão completamente emperradas e o resto está muito deteriorado para ser reparado.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientMegaCannonBarrel"]/label</xpath>
+          <value><label>virotes de balista antigos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientMegaCannonBarrel"]/description</xpath>
+          <value><description>Virotes de balista antigos; estão enferrujados e degradados demais para serem úteis.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientSecurityTurret"]/label</xpath>
+          <value><label>barricada antiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="AncientSecurityTurret"]/description</xpath>
+          <value><description>Uma barricada antiga, outrora usada como fortificação defensiva.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/SitePartDef[defName="AncientComplex"]/label</xpath>
+          <value><label>posto avançado antigo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/SitePartDef[defName="AncientComplex"]/description</xpath>
+          <value><description>Um posto avançado antigo que pode conter tesouros.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Filth_ScatteredDocuments"]/label</xpath>
+          <value><label>pergaminhos espalhados</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Filth_MoldyUniform"]/label</xpath>
+          <value><label>destroços</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="Filth_OilSmear"]/label</xpath>
+          <value><label>poça</label></value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+</Patch>
