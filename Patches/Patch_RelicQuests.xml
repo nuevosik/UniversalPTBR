@@ -9,20 +9,25 @@
       <operations>
 
         <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="AncientTerminal"]/label</xpath>
+          <xpath>Defs/JobDef[defName="Hack"]/reportString</xpath>
+          <value><reportString>investigando TargetA.</reportString></value>
+        </li>
+
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="AncientTerminal"]</xpath>
           <value><label>textos antigos</label></value>
         </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="AncientTerminal"]/description</xpath>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="AncientTerminal"]</xpath>
           <value><description>Textos antigos. Podem ser decifrados para revelar informações há muito esquecidas.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="AncientTerminal_Worshipful"]/label</xpath>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="AncientTerminal_Worshipful"]</xpath>
           <value><label>tabuleta antiga</label></value>
         </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="AncientTerminal_Worshipful"]/description</xpath>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="AncientTerminal_Worshipful"]</xpath>
           <value><description>Uma tabuleta antiga. Pode ser estudada para revelar informações há muito esquecidas.</description></value>
         </li>
 
@@ -112,29 +117,29 @@
           <value><label>aeronave caída</label></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/TransportShipDef[defName="Ship_Shuttle"]/label</xpath>
           <value><label>aeronave</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Biotech" Class="PatchOperationReplace">
           <xpath>Defs/TransportShipDef[defName="Ship_ShuttleCrashing"]/label</xpath>
           <value><label>aeronave caída</label></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="ShuttleIncoming"]/label</xpath>
           <value><label>aeronave (chegando)</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="ShuttleLeaving"]/label</xpath>
           <value><label>aeronave (partindo)</label></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/RoyalTitlePermitDef[defName="CallTransportShuttle"]/label</xpath>
           <value><label>chamar aeronave</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/RoyalTitlePermitDef[defName="CallTransportShuttle"]/description</xpath>
           <value><description>Chame uma aeronave para seu próprio uso. Ela transportará colonos, itens e animais para onde você quiser, dentro de 70 tiles do mundo.</description></value>
         </li>

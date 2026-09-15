@@ -26,28 +26,28 @@
           <value><description>Um pergaminho que pode ser usado para lançar uma magia; qualquer um pode usá-lo, mas ele será consumido quando a magia for lançada.\n\nEste pergaminho em particular pode invocar um feixe destrutivo de luz do céu para chamuscar uma área alvo.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PackBroadshield"]/label</xpath>
           <value><label>pergaminho de barreira</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PackBroadshield"]/description</xpath>
           <value><description>Um pergaminho que pode ser usado para lançar uma magia; qualquer um pode usá-lo, mas ele será consumido quando a magia for lançada.\n\nEste pergaminho em particular pode invocar uma barreira circular que desvia ataques à distância recebidos, mas não os disparados de dentro, permitindo que quem estiver protegido continue atacando. A barreira permanece por um curto período antes de se dissipar.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PackBroadshield"]/verbs/li/label</xpath>
           <value><label>pergaminho de barreira</label></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="BroadshieldProjector"]/label</xpath>
           <value><label>barreira</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="BroadshieldProjector"]/description</xpath>
           <value><description>Uma barreira mágica que desvia ataques à distância recebidos, mas não os disparados de dentro, permitindo que quem estiver protegido continue atacando.\n\nA barreira permanece por um curto período antes de se dissipar.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="BroadshieldProjector"]/comps/li/countdownLabel</xpath>
           <value><countdownLabel>Desaparece em</countdownLabel></value>
         </li>
@@ -253,259 +253,259 @@
           <value><description>Um talismã mágico que protege seu portador de ataques à distância, mas não faz nada contra ataques corpo a corpo ou calor.\n\nO escudo se rompe se sofrer dano demais e pode ser anulado instantaneamente por dano de EMP</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSword"]/label</xpath>
           <value><label>espada longa rúnica</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSword"]/description</xpath>
           <value><description>Uma espada longa grande e ornamentada, adornada com runas mágicas. É mais leve do que parece, com um gume afiado como navalha, capaz de cortar até a armadura mais resistente com facilidade.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_Zeushammer"]/label</xpath>
           <value><label>martelo da tempestade</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_Zeushammer"]/description</xpath>
           <value><description>Um martelo de guerra imponente imbuído de magia de relâmpagos. No impacto, atinge o alvo com uma descarga elétrica, além do dano físico.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSword"]/label</xpath>
           <value><label>lâmina de magma</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSword"]/description</xpath>
           <value><description>Uma espada curva com uma lâmina composta de magma escaldante. Alvos atingidos por esta arma têm chance de serem queimados ou incendiados.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSwordBladelink"]/label</xpath>
           <value><label>espada longa rúnica possuída</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSwordBladelink"]/description</xpath>
           <value><description>Uma espada longa grande e ornamentada, adornada com runas mágicas. É mais leve do que parece, com um gume afiado como navalha, capaz de cortar até a armadura mais resistente com facilidade.\n\nEsta arma é possuída por um espírito antigo e exibirá alguns de seus traços. O espírito se vinculará à primeira pessoa a empunhá-la e, depois disso, se recusará a ser empunhado por qualquer outra.\n\nQuando empunhada pela pessoa vinculada, o espírito aumentará suas habilidades de combate, permitindo atacar com ferocidade, velocidade e precisão maiores do que nunca.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_ZeusHammerBladelink"]/label</xpath>
           <value><label>martelo da tempestade possuído</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_ZeusHammerBladelink"]/description</xpath>
           <value><description>Um martelo de guerra imponente imbuído de magia de relâmpagos. No impacto, atinge o alvo com uma descarga elétrica, além do dano físico.\n\nEsta arma é possuída por um espírito antigo e exibirá alguns de seus traços. O espírito se vinculará à primeira pessoa a empunhá-la e, depois disso, se recusará a ser empunhado por qualquer outra.\n\nQuando empunhada pela pessoa vinculada, o espírito aumentará suas habilidades de combate, permitindo atacar com ferocidade, velocidade e precisão maiores do que nunca.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSwordBladelink"]/label</xpath>
           <value><label>lâmina de magma possuída</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSwordBladelink"]/description</xpath>
           <value><description>Uma espada curva com uma lâmina composta de magma escaldante. Alvos atingidos por esta arma têm chance de serem queimados ou incendiados.\n\nEsta arma é possuída por um espírito antigo e exibirá alguns de seus traços. O espírito se vinculará à primeira pessoa a empunhá-la e, depois disso, se recusará a ser empunhado por qualquer outra.\n\nQuando empunhada pela pessoa vinculada, o espírito aumentará suas habilidades de combate, permitindo atacar com ferocidade, velocidade e precisão maiores do que nunca.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_EltexSkullcap"]/label</xpath>
           <value><label>tiara arcana</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_EltexSkullcap"]/description</xpath>
           <value><description>Uma tiara intrincada com uma gema mágica.\n\nNão oferece proteção física alguma, mas aumenta a sensibilidade psíquica do usuário e ajuda a dissipar o calor neural.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusHelmet"]/label</xpath>
           <value><label>elmo arcano</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusHelmet"]/description</xpath>
           <value><description>Um elmo ornamentado e leve com uma gema mágica.\n\nEmbora ofereça pouca proteção física, aumenta a sensibilidade psíquica do usuário e ajuda a dissipar o calor neural.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusShirt"]/label</xpath>
           <value><label>túnica arcana</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusShirt"]/description</xpath>
           <value><description>Uma túnica de design intrincado, feita para melhorar o foco de um usuário de psinjurações.\n\nAumenta a sensibilidade psíquica do usuário e ajuda a dissipar o calor neural.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusVest"]/label</xpath>
           <value><label>colete arcano</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusVest"]/description</xpath>
           <value><description>Um colete de design intrincado, feito para melhorar o foco de um usuário de psinjurações.\n\nAumenta a sensibilidade psíquica do usuário e ajuda a dissipar o calor neural.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusRobe"]/label</xpath>
           <value><label>manto arcano</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="Apparel_PsyfocusRobe"]/description</xpath>
           <value><description>Um manto de design intrincado, feito para melhorar o foco de um usuário de psinjurações.\n\nAumenta a sensibilidade psíquica do usuário e ajuda a dissipar o calor neural.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_PsyfocusStaff"]/label</xpath>
           <value><label>cajado arcano</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="MeleeWeapon_PsyfocusStaff"]/description</xpath>
           <value><description>Um cajado ornamentado com um grande cristal mágico.\n\nEmbora possa ser usado como arma corpo a corpo, seu principal propósito é aumentar a sensibilidade psíquica do portador e ajudar a dissipar o calor neural, permitindo mais uso de psinjurações.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityUpMajor"]/label</xpath>
           <value><label>grande amplificador psíquico</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityUpMajor"]/description</xpath>
           <value><description>O espírito que reside nesta arma aumentará a sensibilidade psíquica do portador em 40%. Isso só se aplica enquanto a arma estiver empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityUpMinor"]/label</xpath>
           <value><label>pequeno amplificador psíquico</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityUpMinor"]/description</xpath>
           <value><description>O espírito que reside nesta arma aumentará a sensibilidade psíquica do portador em 20%. Isso só se aplica enquanto a arma estiver empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityDownMajor"]/label</xpath>
           <value><label>grande atenuador psíquico</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityDownMajor"]/description</xpath>
           <value><description>O espírito que reside nesta arma diminuirá a sensibilidade psíquica do portador em 30%. Isso só se aplica enquanto a arma estiver empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityDownMinor"]/label</xpath>
           <value><label>pequeno atenuador psíquico</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsychicSensitivityDownMinor"]/description</xpath>
           <value><description>O espírito que reside nesta arma reduzirá a sensibilidade psíquica do portador em 15%. Isso só se aplica enquanto a arma estiver empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="ThoughtKind"]/description</xpath>
           <value><description>O espírito que reside nesta arma é gentil e solidário. Ele sussurra pensamentos gentis a quem estiver vinculado a ela, aumentando seu humor.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="ThoughtCalm"]/description</xpath>
           <value><description>O espírito que reside nesta arma é tranquilo e estável. Ele sussurra pensamentos calmantes a quem estiver vinculado a ela, aumentando seu humor.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="ThoughtMuttering"]/description</xpath>
           <value><description>O espírito que reside nesta arma é neurótico e instável. Ele murmura pensamentos insanos a quem estiver vinculado a ela, suprimindo seu humor.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="ThoughtWailing"]/description</xpath>
           <value><description>O espírito que reside nesta arma é altamente perturbado e maníaco. Ele lamenta noções insanas a quem estiver vinculado a ela, suprimindo seu humor.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="OnKill_PsyfocusGain"]/label</xpath>
           <value><label>fome de alma</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="OnKill_PsyfocusGain"]/description</xpath>
           <value><description>O espírito que reside nesta arma tem fome de almas mortais. Se esta arma matar alguém, absorverá parte de sua alma, restaurando 20% da concentração psíquica do portador.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="OnKill_ThoughtGood"]/label</xpath>
           <value><label>sede de sangue</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="OnKill_ThoughtGood"]/description</xpath>
           <value><description>O espírito que reside nesta arma é sanguinário e não ama nada mais do que tirar vidas. Se esta arma matar alguém, sua alegria será sentida pelo portador, deixando-o mais feliz por alguns dias.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="OnKill_ThoughtBad"]/description</xpath>
           <value><description>O espírito que reside nesta arma odeia conflito e derramamento de sangue. Se esta arma matar alguém, sua tristeza será sentida pelo portador, reduzindo seu humor por alguns dias.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="NeedKill"]/description</xpath>
           <value><description>O espírito que reside nesta arma encontra propósito no derramamento de sangue. Se ela não matar por 20 dias, ficará inquieta e furiosa. Isso será sentido pelo portador, reduzindo seu humor até que a arma volte a matar.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsyfocusMeditationBonus"]/label</xpath>
           <value><label>meditativo</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="PsyfocusMeditationBonus"]/description</xpath>
           <value><description>O espírito que reside nesta arma é naturalmente meditativo e ajuda seu portador a se concentrar durante a meditação. O portador ganha 10% extra de concentração psíquica por dia enquanto medita, desde que a arma esteja empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="NoPain"]/label</xpath>
           <value><label>absorção de dor</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="NoPain"]/description</xpath>
           <value><description>O espírito que reside nesta arma se deleita na agonia; enquanto a arma estiver empunhada, ele absorverá a dor em nome do portador.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/HediffDef[defName="NoPain"]/description</xpath>
           <value><description>Nenhuma dor é sentida, pois ela está sendo absorvida pela arma empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="SpeedBoost"]/label</xpath>
           <value><label>celeridade</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="SpeedBoost"]/description</xpath>
           <value><description>O espírito que reside nesta arma é energético e hiperativo. Ele transmite isso ao portador, fazendo-o se mover 15% mais rápido enquanto a arma estiver empunhada.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/HediffDef[defName="SpeedBoost"]/description</xpath>
           <value><description>O movimento é acelerado pela influência de uma arma empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="HungerMaker"]/label</xpath>
           <value><label>guloso</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="HungerMaker"]/description</xpath>
           <value><description>Embora morto há muito tempo, o espírito que reside nesta arma era um glutão por comida em vida. Isso será sentido por quem se vincular a ela, aumentando sua taxa de fome em 50%.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/HediffDef[defName="HungerMaker"]/description</xpath>
           <value><description>A fome é aumentada pela influência de uma arma empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="NeuralHeatRecoveryGain"]/label</xpath>
           <value><label>absorção de calor neural</label></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="NeuralHeatRecoveryGain"]/description</xpath>
           <value><description>O espírito que reside nesta arma absorverá parte do calor neural gerado por seu portador, aumentando a dissipação de calor neural em 0.15 por segundo.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/HediffDef[defName="NeuralHeatRecoveryGain"]/description</xpath>
           <value><description>A dissipação de calor neural é melhorada pela influência de uma arma empunhada.</description></value>
         </li>
 
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="Jealous"]/description</xpath>
           <value><description>O espírito que reside nesta arma fica furioso quando o indivíduo vinculado usa outra arma. Isso será sentido pela pessoa vinculada, reduzindo seu humor.</description></value>
         </li>
-        <li Class="PatchOperationReplace">
+        <li MayRequire="Ludeon.RimWorld.Royalty" Class="PatchOperationReplace">
           <xpath>Defs/WeaponTraitDef[defName="NeverBond"]/description</xpath>
           <value><description>O espírito que reside nesta arma não forma vínculos como os outros, permitindo que qualquer um a empunhe.</description></value>
         </li>
