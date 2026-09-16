@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE_GroupLink.label>vínculo de grupo</VPE_GroupLink.label>
+  <VPE_GroupLink.description>Cria uma esfera de sugestão psíquica ao redor do lançador, vinculando todos os colonos dentro dela ao lançador e permitindo que qualquer psicocast “Palavra de” de alvo único afete todos os outros. O efeito termina quando os vinculados saem do alcance.</VPE_GroupLink.description>
+  <VPE_PsychicShock.label>choque psíquico</VPE_PsychicShock.label>
+  <VPE_PsychicShock.description>Choca psiquicamente a mente do alvo com imagens caóticas, bloqueando a percepção coerente e o deixando em estado de choque psíquico. Há risco de dano cerebral e é abertamente hostil.</VPE_PsychicShock.description>
+  <VPE_PsychicDrone.label>zumbido psíquico</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.description>Cria uma enorme aura de zumbido psíquico ao redor do lançador, sintonizada em hostis, frequentemente levando-os à loucura até que superem o colapso. A duração escala com a sensibilidade psíquica do lançador.</VPE_PsychicDrone.description>
+  <VPE_RaidPause.label>pausa de incursão</VPE_RaidPause.label>
+  <VPE_RaidPause.description>Dependendo da sensibilidade psíquica do lançador, retarda todos os invasores do mapa até uma parada completa por até cinco minutos. Atacar qualquer invasor afetado desperta todos de volta à ação.</VPE_RaidPause.description>
+  <VPE_TimeSphere.label>esfera temporal</VPE_TimeSphere.label>
+  <VPE_Flameball.label>bola de fogo</VPE_Flameball.label>
+  <VPE_Flameball.description>Arremessa um orbe de chamas condensadas, semelhante a uma granada, que explode com o impacto. O alcance escala com a sensibilidade psíquica do lançador.</VPE_Flameball.description>
+  <VPE_FireShield.label>escudo de fogo</VPE_FireShield.label>
+  <VPE_FireShield.description>Cria uma aura de chamas ardentes ao redor do alvo por um tempo, impedindo que ele seja incinerado e incendiando qualquer um que tente atacá-lo corpo a corpo. A duração escala com a sensibilidade psíquica do lançador.</VPE_FireShield.description>
+  <VPE_EyeBlast.label>rajada ocular</VPE_EyeBlast.label>
+  <VPE_FireBeam.label>raio de fogo</VPE_FireBeam.label>
+  <VPE_Bliss.label>êxtase</VPE_Bliss.label>
+  <VPE_Bliss.description>Após um breve período de meditação, induz um sentimento de serenidade no alvo que atinge magnitude máxima perto do fim do efeito. À medida que a sensação calmante se intensifica, ele terá mais dificuldade para se concentrar, mas isso não é considerado uma ação maliciosa.</VPE_Bliss.description>
+  <VPE_IceSpike.label>estaca de gelo</VPE_IceSpike.label>
+  <VPE_IceSpike.description>Condensa vapor com entropia psíquica em uma estaca de gelo lançada contra um alvo; o dano e a precisão escalam com a sensibilidade psíquica.</VPE_IceSpike.description>
+  <VPE_IceShield.label>escudo de gelo</VPE_IceShield.label>
+  <VPE_IceShield.description>Cria uma aura de entropia psíquica ao redor do alvo por um tempo, impedindo-o de sentir frio e induzindo hipotermia em qualquer um que tente atacá-lo corpo a corpo. A duração escala com a sensibilidade psíquica do lançador.</VPE_IceShield.description>
+  <VPE_FrostRay.label>raio de gelo</VPE_FrostRay.label>
+  <VPE_FrostRay.description>Emite uma corrente concentrada de entropia psíquica por alguns segundos, causando rapidamente cortes e hipotermia. A duração escala com a sensibilidade psíquica do lançador.</VPE_FrostRay.description>
+  <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
+  <VPE_IceCrystal.description>Cria um nó de entropia psíquica em forma de cristal, sugando o calor do ambiente pelos próximos 5 dias.</VPE_IceCrystal.description>
+  <VPE_IceBlock.label>bloco de gelo</VPE_IceBlock.label>
+  <VPE_IceBlock.description>Combina nós de entropia psíquica e um skipgate ligado a um oceano, criando um grande bloco de gelo no local alvo. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceBlock.description>
+  <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
+  <VPE_IceWall.description>Combina nós de entropia psíquica e skipgates em miniatura ligados a um oceano, criando uma parede circular de gelo ao redor do lançador. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceWall.description>
+  <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
+  <VPE_Blizzard.description>Usando skipgates de pressão diferencial, skipgates ligados à água e nós de entropia psíquica, cria uma nevasca giratória longe do lançador. Aqueles expostos à tempestade sofrem redução de visão, movimento e manipulação, além de acúmulo de hipotermia e frio cortante. A duração escala com a sensibilidade psíquica do lançador e o deixa em coma.</VPE_Blizzard.description>
+  <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
+  <VPE_PsychicGuidance.description>Atenua a visão, audição, movimento e manipulação do lançador em troca de sobrecarregar as próprias capacidades físicas do alvo.</VPE_PsychicGuidance.description>
+  <VPE_Liferot.label>podridão vital</VPE_Liferot.label>
+  <VPE_Liferot.description>Induz psiquicamente necrose em massa aleatória em um alvo, expondo as partes do corpo afetadas a infecções e induzindo vômito. A duração escala com a sensibilidade psíquica do alvo e é uma ação abertamente hostil.</VPE_Liferot.description>
+  <VPE_Ghostwalk.label>caminhada fantasma</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.description>Cobre o lançador com uma camada de atrofia psíquica temporária, permitindo que ele atravesse estruturas sem impedimentos e sem danificar nada. A duração escala com a sensibilidade psíquica do lançador.</VPE_Ghostwalk.description>
+  <VPE_Darkvision.label>visão no escuro</VPE_Darkvision.label>
+  <VPE_Darkvision.description>Concede ao alvo uma membrana nictitante que permite que ele enxergue igualmente bem na escuridão e durante o dia. A duração escala com a sensibilidade psíquica do alvo.</VPE_Darkvision.description>
+  <VPE_Darkness.label>escuridão</VPE_Darkness.label>
+  <VPE_Decoy.label>isca</VPE_Decoy.label>
+  <VPE_Overshield.label>superescudo</VPE_Overshield.label>
+  <VPE_Overshield.description>Gere um skipgate esférico em um alvo que envia todos os projéteis recebidos na altura do solo para algum lugar distante, com a duração escalando com a sensibilidade psíquica do alvo. Pessoas e itens não são afetados.</VPE_Overshield.description>
+  <VPE_RegrowLimbs.label>regenerar membros</VPE_RegrowLimbs.label>
+  <VPE_RegrowLimbs.description>Induz no alvo um coma regenerativo psíquico que dura um dia inteiro. A energia psíquica ajuda o alvo, regenerando lentamente quaisquer membros ausentes.</VPE_RegrowLimbs.description>
+  <VPE_Skipdoor.label>porta de salto</VPE_Skipdoor.label>
+  <VPE_Skipdoor.description>Cria uma abertura para uma rede de skipgates que pode ser colocada em qualquer local com presença permanente. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psicocasters possam adicionar a ela. No entanto, os pontos de entrada são sensíveis a perturbações físicas que podem fazê-los entrar em colapso.</VPE_Skipdoor.description>
+  <VPE_Bolt.label>raio</VPE_Bolt.label>
+  <VPE_Bolt.description>Arremessa um raio fraco de eletricidade para atingir uma pequena área alvo, a uma distância que escala com a sensibilidade psíquica. Causa queimaduras em acertos diretos e dano PEM em área.</VPE_Bolt.description>
+  <VPE_ChainBolt.label>raio em cadeia</VPE_ChainBolt.label>
+  <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
+  <VPE_StaticAura.description>O lançador designa um alvo próximo para receber uma aura de eletricidade pulsante, que causará efeitos PEM em qualquer coisa estranha de que ele se aproximar, incluindo estruturas, colonos e objetos elétricos.</VPE_StaticAura.description>
+  <VPE_Recharge.label>recarregar</VPE_Recharge.label>
+  <VPE_Recharge.description>Ajusta cuidadosa e delicadamente um fluxo de eletricidade em uma bateria tocada para carregá-la com 100kW ou o equivalente a 100 Wd/s. A duração da carga depende da sensibilidade psíquica do lançador.</VPE_Recharge.description>
+  <VPE_BallLightning.label>raio globular</VPE_BallLightning.label>
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+  <VPE_Vortex.description>Manifesta um vórtice de eletricidade de alta voltagem — redirecionado por skipgate de uma tempestade nebular — em uma área alvo, com um grande efeito. Prejudica severamente o movimento e a manipulação proporcionalmente, com o efeito mais forte no centro.</VPE_Vortex.description>
+  <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
+  <VPE_Hurricane.description>O lançador muda à força o clima — usando skipgates de pressão diferencial amplamente espalhados — para uma tempestade torrencial com ventos de força de furacão, que dura enquanto ele conseguir administrar o acúmulo de calor e pode parar instantaneamente à vontade. Aqueles ao ar livre sofrerão limitações progressivamente severas de visão, movimento e manipulação, a ponto de pararem completamente.</VPE_Hurricane.description>
+  <VPE_Haywire.label>pane</VPE_Haywire.label>
+  <VPE_Haywire.description>Sujeita uma área a interferência psíquica, reconfigurando temporariamente até 3 sistemas de armas automatizados para proteger o lançador e seus aliados. A duração escala com a sensibilidade psíquica do lançador.</VPE_Haywire.description>
+  <VPE_RockConstruct.label>construto de rocha</VPE_RockConstruct.label>
+  <VPE_RockConstruct.description>Comprime uma porção da tolerância ao calor neural do lançador em cristais metafísicos e os implanta em um pedaço de pedra. Cria um construto capaz de tarefas simples. Quebrar os cristais restaura a tolerância ao calor.</VPE_RockConstruct.description>
+  <VPE_SteelConstruct.label>construto de aço</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.description>Comprime uma porção da tolerância ao calor neural do lançador em cristais metafísicos e os implanta em escória de aço. Cria um construto que protege o lançador. Quebrar os cristais restaura a tolerância ao calor.</VPE_SteelConstruct.description>
+  <VPE_SpeedBoost.label>impulso de velocidade</VPE_SpeedBoost.label>
+  <VPE_SpeedBoost.description>Aumenta psiquicamente as fibras musculares, ligamentos e articulações das pernas do lançador, triplicando sua velocidade de movimento por cerca de dois minutos, dependendo de sua sensibilidade psíquica.</VPE_SpeedBoost.description>
+  <VPE_BladeFocus.label>foco de lâmina</VPE_BladeFocus.label>
+  <VPE_BladeFocus.description>Aumenta psiquicamente as fibras musculares, ligamentos e articulações dos braços do lançador, dobrando sua velocidade de ataque corpo a corpo por cerca de dois minutos, dependendo de sua sensibilidade psíquica.</VPE_BladeFocus.description>
+  <VPE_FiringFocus.label>foco de tiro</VPE_FiringFocus.label>
+  <VPE_FiringFocus.description>Aumenta psiquicamente as mãos, os olhos e a velocidade de reação do lançador, reduzindo o tempo de recarga de ataques à distância em 80% por cerca de dois minutos, dependendo de sua sensibilidade psíquica.</VPE_FiringFocus.description>
+  <VPE_AdrenalineRush.label>onda de adrenalina</VPE_AdrenalineRush.label>
+  <VPE_AdrenalineRush.description>Induz psiquicamente uma descarga de adrenalina no lançador, bloqueando toda a dor e aumentando sua visão, audição e movimento. Dura cerca de trinta segundos, dependendo da sensibilidade psíquica do usuário.</VPE_AdrenalineRush.description>
+  <VPE_ControlledFrenzy.label>frenesi controlado</VPE_ControlledFrenzy.label>
+  <VPE_ControlledFrenzy.description>Aumenta psiquicamente a destreza e os impulsos assassinos do lançador, dobrando seu dano com todas as armas. Cada abate reduz o calor do lançador em 10 e reinicia a duração do frenesi.</VPE_ControlledFrenzy.description>
+  <VPE_GuidedShot.label>tiro guiado</VPE_GuidedShot.label>
+  <VPE_GuidedShot.description>Projeta uma aura psíquica por alguns instantes que permite ao lançador alterar a trajetória de qualquer bala que disparar, efetivamente dobrando o alcance da arma e garantindo acertos durante o efeito. A duração escala com a sensibilidade psíquica do lançador.</VPE_GuidedShot.description>
+</LanguageData>

@@ -7,9 +7,9 @@
   <VPE_AnimalOvershield.description>Um escudo que protege o animal de qualquer ataque à distância.</VPE_AnimalOvershield.description>
   <VPE_AnimalOvershield.label>escudo animal</VPE_AnimalOvershield.label>
   <VPE_BladeFocus.description>Foco de combate induzido psiquicamente, melhorando enormemente as capacidades de combate corpo a corpo.</VPE_BladeFocus.description>
-  <VPE_BladeFocus.label>foco da lâmina</VPE_BladeFocus.label>
+  <VPE_BladeFocus.label>foco de lâmina</VPE_BladeFocus.label>
   <VPE_Bliss.description>Ondas de serenidade emanam de dentro, trazendo paz de espírito e diminuindo a consciência.</VPE_Bliss.description>
-  <VPE_Bliss.label>bênção</VPE_Bliss.label>
+  <VPE_Bliss.label>êxtase</VPE_Bliss.label>
   <VPE_Blizzard.description>Um vento forte com neve extrema que diminui a velocidade de visão, manipulação e movimento.</VPE_Blizzard.description>
   <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
   <VPE_BlizzardSource.description>Esta entidade está lançando nevasca.</VPE_BlizzardSource.description>
@@ -33,7 +33,7 @@
   <VPE_FireShield.description>Um escudo de fogo que incendeia atacantes corpo a corpo</VPE_FireShield.description>
   <VPE_FireShield.label>escudo de fogo</VPE_FireShield.label>
   <VPE_FiringFocus.description>Foco de combate induzido psiquicamente, melhorando enormemente as capacidades de combate à distância.</VPE_FiringFocus.description>
-  <VPE_FiringFocus.label>foco de disparo</VPE_FiringFocus.label>
+  <VPE_FiringFocus.label>foco de tiro</VPE_FiringFocus.label>
   <VPE_FrostRay.description>Um raio de gelo altamente prejudicial e congelante.</VPE_FrostRay.description>
   <VPE_FrostRay.label>raio de gelo</VPE_FrostRay.label>
   <VPE_GainedVitality.description>Vitalidade induzida psiquicamente roubada de outra pessoa.</VPE_GainedVitality.description>
@@ -41,7 +41,7 @@
   <VPE_Ghostwalk.description>Fase de matéria induzida psiquicamente.</VPE_Ghostwalk.description>
   <VPE_Ghostwalk.label>caminhada fantasma</VPE_Ghostwalk.label>
   <VPE_GroupLink.description>Ligação induzida psiquicamente entre várias entidades. Qualquer 'palavra de' psicocast ressoará entre todos os indivíduos vinculados.</VPE_GroupLink.description>
-  <VPE_GroupLink.label>link do grupo</VPE_GroupLink.label>
+  <VPE_GroupLink.label>vínculo de grupo</VPE_GroupLink.label>
   <VPE_GuardianSkipBarrier.description>Barreira defensiva criada psiquicamente que gera grandes quantidades de calor psíquico para se sustentar.</VPE_GuardianSkipBarrier.description>
   <VPE_GuardianSkipBarrier.label>guardião skipbarrier</VPE_GuardianSkipBarrier.label>
   <VPE_GuidedShot.description>Precisão insana induzida psiquicamente.</VPE_GuidedShot.description>
@@ -49,7 +49,7 @@
   <VPE_Hallucination.description>Forte sugestão psíquica que remodela a realidade aos olhos dos indivíduos afetados, fazendo-os perceber o seu cotidiano como um luxo.</VPE_Hallucination.description>
   <VPE_Hallucination.label>alucinação</VPE_Hallucination.label>
   <VPE_Haywire.description>Programação psiquicamente hackeada que interrompe as operações da IFF.</VPE_Haywire.description>
-  <VPE_Haywire.label>descontrolado</VPE_Haywire.label>
+  <VPE_Haywire.label>pane</VPE_Haywire.label>
   <VPE_Healing.description>Impulso de cura induzido psiquicamente.</VPE_Healing.description>
   <VPE_Healing.label>cura psíquica</VPE_Healing.label>
   <VPE_IceBlock.description>Esta entidade está completamente congelada em um bloco de gelo e não será capaz de se mover até derreter.</VPE_IceBlock.description>
@@ -61,7 +61,7 @@
   <VPE_InfinitePower.description>Gerando fornecimento infinito de eletricidade para uma determinada estrutura.</VPE_InfinitePower.description>
   <VPE_InfinitePower.label>alimentando</VPE_InfinitePower.label>
   <VPE_Liferot.description>Necrose em massa induzida psiquicamente, fazendo com que membros e órgãos vivos e saudáveis ​​apodreçam na vítima.</VPE_Liferot.description>
-  <VPE_Liferot.label>podridão da vida</VPE_Liferot.label>
+  <VPE_Liferot.label>podridão vital</VPE_Liferot.label>
   <VPE_LostVitality.description>Fraqueza induzida psiquicamente causada pelo roubo de vitalidade por outra pessoa.</VPE_LostVitality.description>
   <VPE_LostVitality.label>fraqueza psíquica</VPE_LostVitality.label>
   <VPE_Lucky.description>Sorte induzida psiquicamente que permite que essa pessoa sempre acerte o alvo e nunca seja atingida pelo inimigo.</VPE_Lucky.description>
@@ -83,7 +83,7 @@
   <VPE_PsycastAbilityImplant.description>Um implante que permite ao usuário aprender e usar um psicocast.</VPE_PsycastAbilityImplant.description>
   <VPE_PsycastAbilityImplant.label>implante de psicocast</VPE_PsycastAbilityImplant.label>
   <VPE_PsychicDrone.description>Uma forte força psíquica que afeta todos os inimigos humanos na área, fazendo-os sentir-se mais perturbados, aterrorizados e paranóicos.</VPE_PsychicDrone.description>
-  <VPE_PsychicDrone.label>drone psíquico</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.label>zumbido psíquico</VPE_PsychicDrone.label>
   <VPE_PsychicGuidance.description>Orientação induzida psiquicamente por outra pessoa.</VPE_PsychicGuidance.description>
   <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
   <VPE_PsychicGuide.description>Ausência de espírito induzida psiquicamente, causada por dar orientação a outra pessoa.</VPE_PsychicGuide.description>
@@ -117,7 +117,7 @@
   <VPE_Smartbuzz.label>smartbuzz</VPE_Smartbuzz.label>
   <VPE_SpeedBoost.description>Aumento de agilidade induzido psiquicamente, aumentando bastante a velocidade de movimento.</VPE_SpeedBoost.description>
   <VPE_SpeedBoost.label>agilidade psíquica</VPE_SpeedBoost.label>
-  <VPE_StaticAura.description>Uma aura de eletricidade estática causa danos EMP a tudo ao seu redor</VPE_StaticAura.description>
+  <VPE_StaticAura.description>Uma aura de eletricidade estática causa danos PEM a tudo ao seu redor</VPE_StaticAura.description>
   <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
   <VPE_UnLucky.description>Má sorte induzida psiquicamente que impede essa pessoa de atingir seu alvo, embora seja sempre atingida pelo inimigo.</VPE_UnLucky.description>
   <VPE_UnLucky.label>azarado</VPE_UnLucky.label>

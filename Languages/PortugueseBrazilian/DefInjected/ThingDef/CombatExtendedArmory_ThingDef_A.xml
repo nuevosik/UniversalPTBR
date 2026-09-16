@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_Apparel_CompositeArmor.label>armadura composta</CE_Apparel_CompositeArmor.label>
+  <CE_Apparel_CompositeArmor.description>Um colete de armadura cerâmica com todas as peças adicionais de cobertura disponíveis, protegendo o usuário do pescoço aos pés. É bastante pesado, impraticável para uso prolongado, destinado principalmente a atiradores de torreta e equipes de entrada.</CE_Apparel_CompositeArmor.description>
+  <CE_Apparel_Gorka.label>macacão de combate gorka</CE_Apparel_Gorka.label>
+  <CE_Apparel_Gorka.description>Um macacão externo acolchoado com tecidos de armadura para proteger os membros contra estilhaços. Vem com calças, botas e luvas.</CE_Apparel_Gorka.description>
+  <CE_Apparel_HeavyCompositeHelmet.label>capacete composto pesado</CE_Apparel_HeavyCompositeHelmet.label>
+  <CE_Apparel_HeavyCompositeHelmet.description>Um capacete composto grosso e pesado, com viseira e placa frontal resistente a fuzis, usado com um colarinho de armadura macia, principalmente por atiradores de torreta.</CE_Apparel_HeavyCompositeHelmet.description>
+  <CE_Apparel_AssaultShield.label>escudo de assalto</CE_Apparel_AssaultShield.label>
+  <CE_Apparel_AssaultShield.description>Um escudo avançado com sensores integrados que auxiliam no equilíbrio para facilitar o manuseio. Menor e mais leve que um escudo balístico de tamanho normal, foi projetado para proteger o usuário de disparos. Priorizando velocidade e peso reduzido em vez de proteção, é menos desajeitado que a maioria dos escudos.</CE_Apparel_AssaultShield.description>
+  <CE_Apparel_Buckler.label>broquel</CE_Apparel_Buckler.label>
+  <CE_Apparel_Buckler.description>Um escudo de metal extremamente pequeno, geralmente empunhado junto com uma rapieira ou uma espada igualmente leve. Pequeno demais para oferecer qualquer proteção significativa contra projéteis recebidos, o broquel é projetado para desviar e prender a arma de um inimigo em combate corpo a corpo.</CE_Apparel_Buckler.description>
+  <CE_Apparel_Pavise.label>pavês</CE_Apparel_Pavise.label>
+  <CE_Apparel_Pavise.description>Um escudo grande e pesado feito de tábuas rústicas. Projetado para proteger arqueiros e besteiros de projéteis recebidos, é extremamente desajeitado em combate corpo a corpo.</CE_Apparel_Pavise.description>
+  <CE_Apparel_WickerShield.label>escudo de vime</CE_Apparel_WickerShield.label>
+  <CE_Apparel_WickerShield.description>Um escudo leve feito de vime, outrora usado pela infantaria do antigo império persa. Embora seja eficaz contra flechas e outros projéteis, não é resistente o suficiente para deter a estocada de uma lança ou espada.</CE_Apparel_WickerShield.description>
+  <Gun_TwelvePounder.label>canhão de 12 libras</Gun_TwelvePounder.label>
+  <Gun_TwelvePounder.description>Canhão de 12 libras montado sobre uma carreta.</Gun_TwelvePounder.description>
+  <Turret_TwelvePounder.label>canhão de 12 libras</Turret_TwelvePounder.label>
+  <Turret_TwelvePounder.description>Canhão de 12 libras montado sobre uma carreta.</Turret_TwelvePounder.description>
+  <Gun_12PounderBombard.label>bombarda de 12 libras</Gun_12PounderBombard.label>
+  <Gun_12PounderBombard.description>Morteiro de cerco de 12 libras montado sobre uma carreta.</Gun_12PounderBombard.description>
+  <Turret_12PounderBombard.label>bombarda de 12 libras</Turret_12PounderBombard.label>
+  <Turret_12PounderBombard.description>Morteiro de cerco de 12 libras montado sobre uma carreta.</Turret_12PounderBombard.description>
+  <Gun_M1919Browning.label>metralhadora M1919</Gun_M1919Browning.label>
+  <Gun_M1919Browning.description>Metralhadora M1919 refrigerada a ar montada sobre um tripé.</Gun_M1919Browning.description>
+  <Turret_M1919Browning.label>metralhadora M1919</Turret_M1919Browning.label>
+  <Turret_M1919Browning.description>Metralhadora M1919 refrigerada a ar montada sobre um tripé.</Turret_M1919Browning.description>
+  <Gun_M2HB.label>metralhadora M2 Browning</Gun_M2HB.label>
+  <Gun_M2HB.description>Metralhadora pesada para uso contra veículos leves.</Gun_M2HB.description>
+  <Turret_M2HB.label>metralhadora M2 Browning</Turret_M2HB.label>
+  <Turret_M2HB.description>Metralhadora pesada M2 Browning montada sobre um tripé.</Turret_M2HB.description>
+  <Gun_MkNineteenGL.label>lançador de granadas Mk 19</Gun_MkNineteenGL.label>
+  <Gun_MkNineteenGL.description>Mk 19 fixado a um tripé.</Gun_MkNineteenGL.description>
+  <Turret_MkNineteenGL.label>lançador de granadas Mk 19</Turret_MkNineteenGL.label>
+  <Turret_MkNineteenGL.description>Lançador de granadas automático montado sobre um tripé.</Turret_MkNineteenGL.description>
+  <Gun_OrganGun.label>canhão órgão</Gun_OrganGun.label>
+  <Gun_OrganGun.description>Canhão órgão montado sobre uma carreta.</Gun_OrganGun.description>
+  <Turret_OrganGun.label>canhão órgão</Turret_OrganGun.label>
+  <Turret_OrganGun.description>Canhão órgão montado sobre uma carreta.</Turret_OrganGun.description>
+  <Gun_PKM.label>metralhadora PKM</Gun_PKM.label>
+  <Gun_PKM.description>Metralhadora leve PKM montada sobre um tripé.</Gun_PKM.description>
+  <Turret_PKM.label>metralhadora PKM</Turret_PKM.label>
+  <Turret_PKM.description>Metralhadora leve PKM montada sobre um tripé.</Turret_PKM.description>
+  <Gun_PortabletMortar.label>morteiro de 60 mm</Gun_PortabletMortar.label>
+  <Gun_PortabletMortar.description>Morteiro de 60 mm.</Gun_PortabletMortar.description>
+  <Turret_PortableMortar.label>morteiro portátil de 60 mm</Turret_PortableMortar.label>
+  <Turret_PortableMortar.description>Um morteiro de campanha compacto de pequeno calibre para fogo indireto a médias distâncias.</Turret_PortableMortar.description>
+  <Gun_SPGNine.label>canhão sem recuo SPG-9</Gun_SPGNine.label>
+  <Gun_SPGNine.description>Canhão sem recuo SPG-9 montado sobre um tripé.</Gun_SPGNine.description>
+  <Turret_SPGNine.label>canhão sem recuo SPG-9</Turret_SPGNine.label>
+  <Gun_ShotgunTurret.label>espingarda de torreta automática</Gun_ShotgunTurret.label>
+  <Gun_ShotgunTurret.description>Uma espingarda simples em um suporte de torreta.</Gun_ShotgunTurret.description>
+  <Turret_ShotgunTurret.label>torreta automática de espingarda</Turret_ShotgunTurret.label>
+  <Turret_ShotgunTurret.description>Uma torreta portátil de espingarda automática. Perfeita para combates de curta distância e controle de distúrbios.</Turret_ShotgunTurret.description>
+  <Gun_Vickers.label>metralhadora Vickers</Gun_Vickers.label>
+  <Gun_Vickers.description>Metralhadora Vickers refrigerada a água montada sobre um tripé.</Gun_Vickers.description>
+  <Turret_Vickers.label>metralhadora Vickers</Turret_Vickers.label>
+  <Turret_Vickers.description>Metralhadora Vickers refrigerada a água montada sobre um tripé.</Turret_Vickers.description>
+  <CE_AutoloaderManualHiCal.label>caixote de munição</CE_AutoloaderManualHiCal.label>
+  <CE_AutoloaderManualHiCal.description>Um caixote para armazenar cintos de munição preparados para torretas adjacentes. O colono que o opera pode recarregar torretas diretamente com a munição do caixote, melhorando o tempo de recarga e a segurança do colono.</CE_AutoloaderManualHiCal.description>
+  <CE_ReinforcedDoor.label>porta reforçada</CE_ReinforcedDoor.label>
+  <CE_ReinforcedDoor.description>Uma porta reforçada com placas de aço. Mais resistente que portas normais. Divide cômodos. Portas simples devem ser abertas manualmente, o que atrasa as pessoas. O grau de atraso depende do material da porta.</CE_ReinforcedDoor.description>
+  <CE_ReinforcedAutodoor.label>porta automática reforçada</CE_ReinforcedAutodoor.label>
+  <CE_ReinforcedAutodoor.description>Uma porta automática reforçada com placas de aço. Mais resistente que portas automáticas normais. Divide cômodos. A operação energizada permite que as pessoas se movam pela porta sem serem atrasadas.</CE_ReinforcedAutodoor.description>
+  <CE_ReinforcedWall.label>parede reforçada</CE_ReinforcedWall.label>
+  <CE_ReinforcedWall.description>Uma parede forte e intransponível reforçada com placas de aço, feita para suportar muitos danos e explosões diretas. Capaz de sustentar um teto.</CE_ReinforcedWall.description>
+  <CE_ReinforcedEmbrasure.label>embrasura reforçada</CE_ReinforcedEmbrasure.label>
+  <CE_ReinforcedEmbrasure.description>Uma parede forte e intransponível reforçada com placas de aço, feita para suportar muitos danos e explosões diretas. Capaz de sustentar um teto. Projetada com aberturas táticas para ver e atirar através.</CE_ReinforcedEmbrasure.description>
+  <CE_Proj_SatchelCharge.label>carga de demolição</CE_Proj_SatchelCharge.label>
+  <CE_Weapon_SatchelCharge.label>carga de demolição</CE_Weapon_SatchelCharge.label>
+  <CE_Weapon_SatchelCharge.description>Uma carga de demolição, um dispositivo de demolição usado principalmente em combate e contra alvos pesados e estacionários. Os componentes principais de uma carga de demolição são uma carga de explosivo potente, um dispositivo de transporte funcionalmente semelhante a uma bolsa ou sacola de mensageiro, e um mecanismo de detonação.</CE_Weapon_SatchelCharge.description>
+  <CE_Gun_AKTwelve.label>AK-12</CE_Gun_AKTwelve.label>
+  <CE_Gun_AKTwelve.description>Projeto antigo de fuzil de assalto que dispara um cartucho intermediário de fuzil.</CE_Gun_AKTwelve.description>
+  <CE_Gun_AKTwelve.tools.0.label>coronha</CE_Gun_AKTwelve.tools.0.label>
+  <CE_Gun_AKTwelve.tools.1.label>cano</CE_Gun_AKTwelve.tools.1.label>
+  <CE_Gun_AKTwelve.tools.2.label>boca do cano</CE_Gun_AKTwelve.tools.2.label>
+  <CE_Gun_AK74GL.label>AK-74 + GP-25</CE_Gun_AK74GL.label>
+  <CE_Gun_AK74GL.description>Arma militar antiga com câmara para cartucho intermediário, equipada com um lançador de granadas de 40 mm sob o cano. O projeto simples a torna fácil de montar e altamente confiável.</CE_Gun_AK74GL.description>
+  <CE_Gun_AK74GL.tools.0.label>coronha</CE_Gun_AK74GL.tools.0.label>
+  <CE_Gun_AK74GL.tools.1.label>cano</CE_Gun_AK74GL.tools.1.label>
+  <CE_Gun_AK74GL.tools.2.label>boca do cano</CE_Gun_AK74GL.tools.2.label>
+  <CE_Gun_AKSSeventyFourU.label>AKS-74U</CE_Gun_AKSSeventyFourU.label>
+  <CE_Gun_AKSSeventyFourU.description>Projeto antigo de subcarabina, combinando a compacidade de uma submetralhadora com a capacidade de perfuração de armaduras de um cartucho de fuzil.</CE_Gun_AKSSeventyFourU.description>
+  <CE_Gun_AKSSeventyFourU.tools.0.label>coronha</CE_Gun_AKSSeventyFourU.tools.0.label>
+  <CE_Gun_AKSSeventyFourU.tools.1.label>cano</CE_Gun_AKSSeventyFourU.tools.1.label>
+  <CE_Gun_AKSSeventyFourU.tools.2.label>boca do cano</CE_Gun_AKSSeventyFourU.tools.2.label>
+  <CE_ATFour.label>AT4</CE_ATFour.label>
+  <CE_ATFour.description>Uma arma antitanque sem recuo, não guiada, portátil, descartável e disparada do ombro. É considerada uma das armas antitanque leves mais comuns já criadas.</CE_ATFour.description>
+  <CE_ATFour.tools.0.label>coronha</CE_ATFour.tools.0.label>
+  <CE_ATFour.tools.1.label>cano</CE_ATFour.tools.1.label>
+  <CE_ATFour.tools.2.label>boca do cano</CE_ATFour.tools.2.label>
+  <CE_Gun_AVB.label>AVB-7.62</CE_Gun_AVB.label>
+  <CE_Gun_AVB.description>Fuzil de batalha militar antigo que dispara um cartucho de fuzil de potência total. Caracteriza-se pelo recuo significativamente reduzido.</CE_Gun_AVB.description>
+  <CE_Gun_AVB.tools.0.label>coronha</CE_Gun_AVB.tools.0.label>
+  <CE_Gun_AVB.tools.1.label>cano</CE_Gun_AVB.tools.1.label>
+  <CE_Gun_AVB.tools.2.label>boca do cano</CE_Gun_AVB.tools.2.label>
+  <CE_Gun_AmericanOneEighty.label>American-180</CE_Gun_AmericanOneEighty.label>
+  <CE_Gun_AmericanOneEighty.description>Projeto antigo de submetralhadora, dispara um cartucho pequeno a uma cadência muito alta e armazena muita munição em um carregador de tambor.</CE_Gun_AmericanOneEighty.description>
+  <CE_Gun_AmericanOneEighty.tools.0.label>coronha</CE_Gun_AmericanOneEighty.tools.0.label>
+  <CE_Gun_AmericanOneEighty.tools.1.label>cano</CE_Gun_AmericanOneEighty.tools.1.label>
+  <CE_Gun_AmericanOneEighty.tools.2.label>boca do cano</CE_Gun_AmericanOneEighty.tools.2.label>
+  <CE_Gun_BAR.label>Browning Automatic Rifle</CE_Gun_BAR.label>
+  <CE_Gun_BAR.description>Fuzil de batalha totalmente automático antigo que dispara um cartucho de potência total.</CE_Gun_BAR.description>
+  <CE_Gun_BAR.tools.0.label>coronha</CE_Gun_BAR.tools.0.label>
+  <CE_Gun_BAR.tools.1.label>cano</CE_Gun_BAR.tools.1.label>
+  <CE_Gun_BAR.tools.2.label>boca do cano</CE_Gun_BAR.tools.2.label>
+  <CE_Gun_CarlGustaf.label>Carl Gustaf</CE_Gun_CarlGustaf.label>
+  <CE_Gun_CarlGustaf.description>Um fuzil sem recuo leve e relativamente barato que usa uma ampla variedade de munições, extremamente versátil e adequado para os mais variados papéis. Equipado com uma luneta avançada que inclui um telêmetro a laser e um sistema de intensificação de imagem.</CE_Gun_CarlGustaf.description>
+  <CE_Gun_CarlGustaf.tools.0.label>cano</CE_Gun_CarlGustaf.tools.0.label>
+  <CE_Gun_DPtwentySeven.label>DP-27</CE_Gun_DPtwentySeven.label>
+  <CE_Gun_DPtwentySeven.description>Metralhadora leve operada a gás antiga, equipada com um icônico carregador de tambor.</CE_Gun_DPtwentySeven.description>
+  <CE_Gun_DPtwentySeven.tools.0.label>coronha</CE_Gun_DPtwentySeven.tools.0.label>
+  <CE_Gun_DPtwentySeven.tools.1.label>cano</CE_Gun_DPtwentySeven.tools.1.label>
+  <CE_Gun_DPtwentySeven.tools.2.label>boca do cano</CE_Gun_DPtwentySeven.tools.2.label>
+  <CE_Gun_Deagke.label>Desert Eagle</CE_Gun_Deagke.label>
+  <CE_Gun_Deagke.description>Uma pistola semiautomática operada a gás que dispara um potente cartucho de pistola.</CE_Gun_Deagke.description>
+  <CE_Gun_Deagke.tools.0.label>cabo</CE_Gun_Deagke.tools.0.label>
+  <CE_Gun_Deagke.tools.1.label>boca do cano</CE_Gun_Deagke.tools.1.label>
+  <CE_Gun_FNFiveSeven.label>Five-seveN</CE_Gun_FNFiveSeven.label>
+  <CE_Gun_FNFiveSeven.description>Uma pistola leve que utiliza cartuchos especializados para eliminar oponentes com pouca armadura.</CE_Gun_FNFiveSeven.description>
+  <CE_Gun_FNFiveSeven.tools.0.label>cabo</CE_Gun_FNFiveSeven.tools.0.label>
+  <CE_Gun_FNFiveSeven.tools.1.label>boca do cano</CE_Gun_FNFiveSeven.tools.1.label>
+  <CE_Gun_PNinety.label>P90</CE_Gun_PNinety.label>
+  <CE_Gun_PNinety.description>Uma arma de defesa pessoal que usa um cartucho especializado para penetrar oponentes com pouca armadura.</CE_Gun_PNinety.description>
+  <CE_Gun_PNinety.tools.0.label>coronha</CE_Gun_PNinety.tools.0.label>
+  <CE_Gun_PNinety.tools.1.label>cano</CE_Gun_PNinety.tools.1.label>
+  <CE_Gun_PNinety.tools.2.label>boca do cano</CE_Gun_PNinety.tools.2.label>
+  <CE_Gun_FightLiteMCR.label>FightLite MCR</CE_Gun_FightLiteMCR.label>
+  <CE_Gun_FightLiteMCR.description>Uma arma automática de esquadrão leve alimentada por cinto, que preenche a lacuna entre um fuzil de assalto e uma metralhadora leve.</CE_Gun_FightLiteMCR.description>
+  <CE_Gun_FightLiteMCR.tools.0.label>coronha</CE_Gun_FightLiteMCR.tools.0.label>
+  <CE_Gun_FightLiteMCR.tools.1.label>cano</CE_Gun_FightLiteMCR.tools.1.label>
+  <CE_Gun_FightLiteMCR.tools.2.label>boca do cano</CE_Gun_FightLiteMCR.tools.2.label>
+  <CE_Gun_HandMortar.label>morteiro de mão</CE_Gun_HandMortar.label>
+  <CE_Gun_HandMortar.description>Uma arma de pederneira simples e precursora dos lançadores de granadas modernos, capaz de arremessar granadas com espoleta.</CE_Gun_HandMortar.description>
+  <CE_Gun_HandMortar.tools.0.label>coronha</CE_Gun_HandMortar.tools.0.label>
+  <CE_Gun_HandMortar.tools.1.label>cano</CE_Gun_HandMortar.tools.1.label>
+  <CE_Gun_HandMortar.tools.2.label>boca do cano</CE_Gun_HandMortar.tools.2.label>
+  <CE_Gun_BigBoy.label>Henry Big Boy</CE_Gun_BigBoy.label>
+  <CE_Gun_BigBoy.description>Um projeto arcaico, este fuzil de repetição de ação por alavanca é bastante popular entre os criadores dos mundos de borda. Vem equipado com uma luneta.</CE_Gun_BigBoy.description>
+  <CE_Gun_BigBoy.tools.0.label>coronha</CE_Gun_BigBoy.tools.0.label>
+  <CE_Gun_BigBoy.tools.1.label>cano</CE_Gun_BigBoy.tools.1.label>
+  <CE_Gun_BigBoy.tools.2.label>boca do cano</CE_Gun_BigBoy.tools.2.label>
+  <CE_Gun_HenrySideGate.label>Henry Side Gate</CE_Gun_HenrySideGate.label>
+  <CE_Gun_HenrySideGate.description>Espingarda de repetição de ação por alavanca antiga, com câmara para pequenos cartuchos de espingarda projetados para autodefesa.</CE_Gun_HenrySideGate.description>
+  <CE_Gun_HenrySideGate.tools.0.label>coronha</CE_Gun_HenrySideGate.tools.0.label>
+  <CE_Gun_HenrySideGate.tools.1.label>cano</CE_Gun_HenrySideGate.tools.1.label>
+  <CE_Gun_HenrySideGate.tools.2.label>boca do cano</CE_Gun_HenrySideGate.tools.2.label>
+  <CE_Gun_Jericho.label>Jericho 941</CE_Gun_Jericho.label>
+  <CE_Gun_Jericho.description>Uma pistola semiautomática leve que utiliza um cartucho de pistola amplamente disponível.</CE_Gun_Jericho.description>
+  <CE_Gun_Jericho.tools.0.label>cabo</CE_Gun_Jericho.tools.0.label>
+  <CE_Gun_Jericho.tools.1.label>boca do cano</CE_Gun_Jericho.tools.1.label>
+  <CE_Gun_KSTwentyThree.label>KS-23</CE_Gun_KSTwentyThree.label>
+  <CE_Gun_KSTwentyThree.description>Espingarda de ação por bombeamento antiga com cano raiado, com câmara para cartuchos de grande calibre de 23 mm.</CE_Gun_KSTwentyThree.description>
+  <CE_Gun_KSTwentyThree.tools.0.label>coronha</CE_Gun_KSTwentyThree.tools.0.label>
+  <CE_Gun_KSTwentyThree.tools.1.label>cano</CE_Gun_KSTwentyThree.tools.1.label>
+  <CE_Gun_KSTwentyThree.tools.2.label>boca do cano</CE_Gun_KSTwentyThree.tools.2.label>
+  <CE_Gun_KelTecCPThirtyThree.label>KelTec CP33</CE_Gun_KelTecCPThirtyThree.label>
+  <CE_Gun_KelTecCPThirtyThree.description>Uma pistola semiautomática leve que dispara um cartucho pequeno e possui um carregador grande.</CE_Gun_KelTecCPThirtyThree.description>
+  <CE_Gun_KelTecCPThirtyThree.tools.0.label>cabo</CE_Gun_KelTecCPThirtyThree.tools.0.label>
+  <CE_Gun_KelTecCPThirtyThree.tools.1.label>boca do cano</CE_Gun_KelTecCPThirtyThree.tools.1.label>
+  <CE_Gun_KordPortable.label>metralhadora Kord 6P50</CE_Gun_KordPortable.label>
+  <CE_Gun_KordPortable.description>Metralhadora pesada antiga em configuração portátil. Vem equipada com uma luneta.</CE_Gun_KordPortable.description>
+  <CE_Gun_KordPortable.tools.0.label>coronha</CE_Gun_KordPortable.tools.0.label>
+  <CE_Gun_KordPortable.tools.1.label>cano</CE_Gun_KordPortable.tools.1.label>
+  <CE_Gun_KordPortable.tools.2.label>boca do cano</CE_Gun_KordPortable.tools.2.label>
+  <CE_Gun_Lewis.label>metralhadora Lewis</CE_Gun_Lewis.label>
+  <CE_Gun_Lewis.description>Metralhadora leve operada a gás antiga, equipada com um icônico invólucro de resfriamento do cano.</CE_Gun_Lewis.description>
+  <CE_Gun_Lewis.tools.0.label>coronha</CE_Gun_Lewis.tools.0.label>
+  <CE_Gun_Lewis.tools.1.label>cano</CE_Gun_Lewis.tools.1.label>
+  <CE_Gun_Lewis.tools.2.label>boca do cano</CE_Gun_Lewis.tools.2.label>
+  <CE_Gun_M1903Springfield.label>M1903 Springfield</CE_Gun_M1903Springfield.label>
+  <CE_Gun_M1903Springfield.description>Fuzil de ferrolho antigo. Dispara um cartucho de fuzil de potência total e é uma escolha popular nos mundos de borda devido ao seu poder de fogo e simplicidade. Vem equipado com uma luneta.</CE_Gun_M1903Springfield.description>
+  <CE_Gun_M1903Springfield.tools.0.label>coronha</CE_Gun_M1903Springfield.tools.0.label>
+  <CE_Gun_M1903Springfield.tools.1.label>cano</CE_Gun_M1903Springfield.tools.1.label>
+  <CE_Gun_M1903Springfield.tools.2.label>boca do cano</CE_Gun_M1903Springfield.tools.2.label>
+  <CE_Gun_M1917Enfield.label>M1917 Enfield</CE_Gun_M1917Enfield.label>
+  <CE_Gun_M1917Enfield.description>Fuzil de ferrolho antigo. Dispara um cartucho de fuzil de potência total e é uma escolha popular nos mundos de borda devido ao seu poder de fogo e simplicidade.</CE_Gun_M1917Enfield.description>
+  <CE_Gun_M1917Enfield.tools.0.label>coronha</CE_Gun_M1917Enfield.tools.0.label>
+  <CE_Gun_M1917Enfield.tools.1.label>cano</CE_Gun_M1917Enfield.tools.1.label>
+</LanguageData>

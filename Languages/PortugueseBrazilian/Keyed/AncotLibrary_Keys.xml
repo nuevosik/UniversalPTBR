@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ancot.Alert_MechAutoFight>combate automático de mecanoide</Ancot.Alert_MechAutoFight>
+  <Ancot.Alert_MechAutoFightDescPrefix>Estes mecanoides estão combatendo de forma autônoma</Ancot.Alert_MechAutoFightDescPrefix>
+  <Ancot.Alert_MechAutoFightDesc>Eles priorizam procurar ameaças no mapa e tentar combatê-las. Aliste-os para assumir o controle.</Ancot.Alert_MechAutoFightDesc>
+  <Ancot.Answer>Atender</Ancot.Answer>
+  <Ancot.RingOff>Desligar</Ancot.RingOff>
+  <Ancot.NerverMind>Deixa pra lá</Ancot.NerverMind>
+  <Ancot.DroneSection>Drones</Ancot.DroneSection>
+  <Ancot.DroneTabTip>Alternar para a interface de gerenciamento de drones.</Ancot.DroneTabTip>
+  <Ancot.MustPlaceIndoorRoofed>deve ser colocado em ambiente fechado e sob um teto.</Ancot.MustPlaceIndoorRoofed>
+  <Ancot.OnlyOneInMap>Apenas uma construção deste tipo pode ser construída por mapa.</Ancot.OnlyOneInMap>
+  <Ancot.NoWeaponAbilityCharge>Não é possível usar: carga da arma insuficiente.</Ancot.NoWeaponAbilityCharge>
+  <Ancot.Ability_OnlyRace>Não é possível usar: o portador não sabe usar esta habilidade.</Ancot.Ability_OnlyRace>
+  <Ancot.Ability_NoMechEnergy>Não é possível usar: energia de mecanoide insuficiente.</Ancot.Ability_NoMechEnergy>
+  <Ancot.AbilityMechEnergyCost>Custo de energia: {0}</Ancot.AbilityMechEnergyCost>
+  <Ancot.Ability_NoSpace>Não é possível usar: espaço insuficiente.</Ancot.Ability_NoSpace>
+  <Ancot.Ability_NoEnergyShield>Não é possível usar: o escudo não está pronto.</Ancot.Ability_NoEnergyShield>
+  <Ancot.Ability_NoAvailableShield>Não é possível usar: nenhum escudo disponível.</Ancot.Ability_NoAvailableShield>
+  <Ancot.AbilityChargeCost>Custo de carga: {0}</Ancot.AbilityChargeCost>
+  <Ancot.Ability_ChargeLow>Não é possível usar: carga insuficiente.</Ancot.Ability_ChargeLow>
+  <Ancot.SwitchVerb>alternar modo de disparo</Ancot.SwitchVerb>
+  <Ancot.SwitchVerbDesc>alternar para outro modo de disparo.</Ancot.SwitchVerbDesc>
+  <Ancot.VerbSwitchInfoDesc>Esta arma pode usar outro modo de disparo.</Ancot.VerbSwitchInfoDesc>
+  <Ancot.VerbSwitch_BurstShotCount>tiros por rajada</Ancot.VerbSwitch_BurstShotCount>
+  <Ancot.VerbSwitch_Range>alcance</Ancot.VerbSwitch_Range>
+  <Ancot.VerbSwitch_WarmupTime>tempo de mira</Ancot.VerbSwitch_WarmupTime>
+  <Ancot.Second>segundo</Ancot.Second>
+  <Ancot.Cancel>cancelar</Ancot.Cancel>
+  <Ancot.True>Sim</Ancot.True>
+  <Ancot.False>Não</Ancot.False>
+  <Ancot.Finish>concluir</Ancot.Finish>
+  <Ancot.Extra>extra</Ancot.Extra>
+  <Ancot.PerSecond>/s</Ancot.PerSecond>
+  <Ancot.AutoFight>combate automático</Ancot.AutoFight>
+  <Ancot.AutoFightDesc>Define a máquina atual para o modo de combate automático.</Ancot.AutoFightDesc>
+  <Ancot.MechCarrierNoPawnToRecover>Não há alvo para recuperar.</Ancot.MechCarrierNoPawnToRecover>
+  <Ancot.MechCarrierRecover>recuperar {0}</Ancot.MechCarrierRecover>
+  <Ancot.MechCarrierRecoverDesc>Recolha todos os {1} que foram liberados e converta-os de volta em {4} para armazenamento. A quantidade de {4} recuperada está relacionada à porcentagem de vida restante dos {1}. Quando a vida dos {1} recuperados estiver cheia, o custo de liberação de {5} poderá ser recuperado.\n\nRecuperar {1} colocará a capacidade de liberação em um longo período de recarga.</Ancot.MechCarrierRecoverDesc>
+  <Ancot.FloatUnit_Follow>seguir</Ancot.FloatUnit_Follow>
+  <Ancot.FloatUnit_FollowDesc>O modo atual é seguir. A unidade flutuante circulará {0} e tentará atacar inimigos que se aproximarem.</Ancot.FloatUnit_FollowDesc>
+  <Ancot.FloatUnitSortie>Surtida</Ancot.FloatUnitSortie>
+  <Ancot.FloatUnitSortieDesc>O modo atual é surtida. A unidade flutuante se aproximará ativamente e atacará os inimigos de {0}.</Ancot.FloatUnitSortieDesc>
+  <Ancot.ChargeImmediately>carregar imediatamente</Ancot.ChargeImmediately>
+  <Ancot.ChargeImmediatelyDesc>Carrega imediatamente a arma empunhada, restaurando energia com base na carga máxima da arma multiplicada pelo fator de correção dela.</Ancot.ChargeImmediatelyDesc>
+  <Ancot.ChargeImmediatelyReason>Não é possível usar: em recarga.</Ancot.ChargeImmediatelyReason>
+  <Ancot.Turret>torreta</Ancot.Turret>
+  <Ancot.TurretDescI>A arma instalada nesta vestimenta.</Ancot.TurretDescI>
+  <Ancot.TurretDescII>A arma instalada neste indivíduo.</Ancot.TurretDescII>
+  <Ancot.ProjectileCharged>projétil carregado</Ancot.ProjectileCharged>
+  <Ancot.ProjectileChargedDesc>o projétil disparado por esta arma quando a energia não está vazia.</Ancot.ProjectileChargedDesc>
+  <Ancot.ProjectileCharged_Damage>quantidade de dano</Ancot.ProjectileCharged_Damage>
+  <Ancot.ProjectileCharged_ArmorPenetration>penetração de armadura</Ancot.ProjectileCharged_ArmorPenetration>
+  <Ancot.ProjectileCharged_StoppingPower>poder de parada</Ancot.ProjectileCharged_StoppingPower>
+  <Ancot.ProjectileCharged_ExplosionRadius>raio de explosão</Ancot.ProjectileCharged_ExplosionRadius>
+  <Ancot.BlocksRangedWeapons>Desativar arma de longo alcance</Ancot.BlocksRangedWeapons>
+  <Ancot.BlocksRangedWeaponsDesc>Define se armas de longo alcance podem ser usadas ao se defender com este escudo.</Ancot.BlocksRangedWeaponsDesc>
+  <Ancot.CaravanMoveSpeedFactor>fator de velocidade de movimento fornecido pelo membro</Ancot.CaravanMoveSpeedFactor>
+  <Ancot.SwitchAdditionalGraphic>Alternar estilo de padrão adicional.</Ancot.SwitchAdditionalGraphic>
+  <Ancot.SwitchWeapon>Alternar arma</Ancot.SwitchWeapon>
+  <Ancot.SwitchWeaponDesc>Alterna para a arma reserva. Se o espaço de arma reserva estiver vazio, a arma equipada no momento será colocada nele.</Ancot.SwitchWeaponDesc>
+  <Ancot.ApparelReloadableDesc>Selecione a quantidade de recursos a carregar. O próximo carregamento não excederá o valor máximo de carga especificado.</Ancot.ApparelReloadableDesc>
+  <Ancot.LowVersionWarning>A versão da Ancot Library é muito antiga</Ancot.LowVersionWarning>
+  <Ancot.LowVersionWarningDesc>O mod: {0} requer a versão {1} da Ancot Library, que é superior à versão {2} atualmente carregada. Isso pode ter sido causado por uma falha da Steam Workshop ao atualizar a Ancot Library depois de atualizar {0}.\n\nUsar uma versão da Ancot Library inferior à necessária fará com que alguns recursos do mod: {0} funcionem mal. Certifique-se de que a Ancot Library esteja atualizada corretamente.</Ancot.LowVersionWarningDesc>
+  <Ancot.LowVersionWarningOpenURL>Abrir página da Ancot Library na Workshop</Ancot.LowVersionWarningOpenURL>
+  <Ancot.WeaponIsNull>Nenhuma arma equipada</Ancot.WeaponIsNull>
+  <Ancot.WeaponCantUseTrait>Não é possível modificar {0}</Ancot.WeaponCantUseTrait>
+  <Ancot.CantAddTraitAlone>O acessório {0} não pode ser instalado sozinho</Ancot.CantAddTraitAlone>
+  <Ancot.TooManyTraits>{0} excedeu o limite de acessórios</Ancot.TooManyTraits>
+  <Ancot.TraitNotExist>O acessório {0} não existe</Ancot.TraitNotExist>
+  <Ancot.DisassembleWeaponForFitting>Desmontar {0} para recuperar todos os acessórios</Ancot.DisassembleWeaponForFitting>
+  <Ancot.CannotRemoveAllFittings>Não é possível remover acessórios de {0}</Ancot.CannotRemoveAllFittings>
+  <Ancot.RemoveAllFittings>Remover todos os acessórios de {0}</Ancot.RemoveAllFittings>
+  <Ancot.ModificationWeapon>{0} (Modificável)</Ancot.ModificationWeapon>
+  <Ancot.WeaponGainsName>Obtém o nome {0}</Ancot.WeaponGainsName>
+  <Ancot.RenameWeapon>Renomear arma</Ancot.RenameWeapon>
+  <Ancot.AddToFavorites>Não favorito</Ancot.AddToFavorites>
+  <Ancot.AddToFavorites_Desc>clique para adicionar aos favoritos</Ancot.AddToFavorites_Desc>
+  <Ancot.RemoveFromFavorites>Favorito</Ancot.RemoveFromFavorites>
+  <Ancot.RemoveFromFavorites_Desc>clique para remover dos favoritos</Ancot.RemoveFromFavorites_Desc>
+  <Ancot.CommandToggleTurret>alternar torreta</Ancot.CommandToggleTurret>
+  <Ancot.CommandToggleTurretDesc>Alternar o disparo à vontade da torreta.\n\nQuando desabilitado, a torreta não disparará automaticamente, a menos que um alvo seja designado manualmente.</Ancot.CommandToggleTurretDesc>
+  <Ancot.RoyalTitleUpdate>promoção de cargo</Ancot.RoyalTitleUpdate>
+  <Ancot.RoyalTitleUpdateDesc>Selecione o colono que será promovido ao novo cargo.</Ancot.RoyalTitleUpdateDesc>
+  <Ancot.DroneTip_Power>Este drone tem energia suficiente para operar por mais {0}. Arraste o controle deslizante para definir o limite de recarga. O drone tentará recarregar quando sua energia ficar abaixo do limite. O limite de recarga atual é {1}.\n\nQuando a energia acabar, o drone entrará em estado dormente.</Ancot.DroneTip_Power>
+  <Ancot.DroneTip_AutoRepair>Ativar reparo automático. Colonos responsáveis pela forja repararão o drone quando ele for danificado.</Ancot.DroneTip_AutoRepair>
+  <Ancot.DroneTip_WorkMode>Alterna o modo de trabalho do drone.</Ancot.DroneTip_WorkMode>
+  <Ancot.CommandLoadTransporter>Carregar grupo de transporte de {0}</Ancot.CommandLoadTransporter>
+  <Ancot.CommandLoadTransporterDesc>Define o(s) transportador(es) selecionado(s) como um grupo de transporte. Abre a janela de carregamento para você decidir quem e o que deve ser carregado dentro.</Ancot.CommandLoadTransporterDesc>
+  <Ancot.CommandLoadTransporterSingle>Carregar</Ancot.CommandLoadTransporterSingle>
+  <Ancot.CommandLoadTransporterSingleDesc>Abre a janela de carregamento para você decidir quem e o que deve ser carregado dentro.</Ancot.CommandLoadTransporterSingleDesc>
+  <Ancot.CommandSelectAllTransporters>Selecionar grupo de transporte</Ancot.CommandSelectAllTransporters>
+  <Ancot.CommandSelectAllTransportersDesc>Seleciona todos os transportadores deste grupo de transporte.</Ancot.CommandSelectAllTransportersDesc>
+  <Ancot.CommandSelectNextTransporter>Selecionar próximo do grupo de transporte</Ancot.CommandSelectNextTransporter>
+  <Ancot.CommandSelectNextTransporterDesc>Seleciona o próximo transportador deste grupo de transporte.</Ancot.CommandSelectNextTransporterDesc>
+  <Ancot.CommandSelectPreviousTransporter>Selecionar anterior do grupo de transporte</Ancot.CommandSelectPreviousTransporter>
+  <Ancot.CommandSelectPreviousTransporterDesc>Seleciona o transportador anterior deste grupo de transporte.</Ancot.CommandSelectPreviousTransporterDesc>
+  <Ancot.HaulToTransporter>Pegar item</Ancot.HaulToTransporter>
+  <Ancot.HaulToTransporterDesc>Pega o item alvo e o coloca no transportador desta criatura.</Ancot.HaulToTransporterDesc>
+  <Ancot.AerocraftTakeOff>Decolar</Ancot.AerocraftTakeOff>
+  <Ancot.AerocraftTakeOffDesc>Consome {0}x {1} para decolar.</Ancot.AerocraftTakeOffDesc>
+  <Ancot.AerocraftLanding>Pousar</Ancot.AerocraftLanding>
+  <Ancot.AerocraftLandingDesc>Pousa no local designado.</Ancot.AerocraftLandingDesc>
+  <Ancot.AerocraftDisabled_RequirePilot>Piloto necessário.</Ancot.AerocraftDisabled_RequirePilot>
+  <Ancot.AerocraftDisabled_RequireFuel>Combustível necessário.</Ancot.AerocraftDisabled_RequireFuel>
+  <Ancot.TabAerocraftContents>Conteúdo</Ancot.TabAerocraftContents>
+  <Ancot.ContainedItems_Aerocraft>Itens contidos</Ancot.ContainedItems_Aerocraft>
+  <Ancot.MessagePermitDropPawn_join>{FACTION_name} já deixou o colono necessário nas proximidades.</Ancot.MessagePermitDropPawn_join>
+  <Ancot.MessagePermitPerformed>{FACTION_name} cumpriu o requisito de permissão no local especificado.</Ancot.MessagePermitPerformed>
+  <Ancot.NoApparelToMend>{0} não têm roupas que possam ser reparadas.</Ancot.NoApparelToMend>
+  <Ancot.targetNeedNoTend>O alvo selecionado não precisa de cuidados.</Ancot.targetNeedNoTend>
+  <Ancot.DropEquipmentOnHediffRemoved>Removeu {1} de {0}, fazendo com que {2} caísse no chão.</Ancot.DropEquipmentOnHediffRemoved>
+  <Ancot.ApparelPolicyGenerateFailed_MustInGame>Falha ao gerar política de vestuário: deve ser usado em um jogo ativo.</Ancot.ApparelPolicyGenerateFailed_MustInGame>
+  <Ancot.ApparelPolicyGenerateSuccess>Política de vestuário criada: {0}.</Ancot.ApparelPolicyGenerateSuccess>
+  <Ancot.NextSpawnedItemIn>Próximo {0} {1}</Ancot.NextSpawnedItemIn>
+  <Ancot.PlantGrowFully>totalmente crescido</Ancot.PlantGrowFully>
+  <Ancot.PlantGrowProgress>progresso de crescimento: {0}</Ancot.PlantGrowProgress>
+  <Ancot.PlantGrow_LightRequire>em repouso, requer luz: {0}</Ancot.PlantGrow_LightRequire>
+  <Ancot.PlantGrow_TempRequire>crescimento interrompido por temperatura não ideal, requer: </Ancot.PlantGrow_TempRequire>
+  <Ancot.LoadDamage>dano carregado</Ancot.LoadDamage>
+  <Ancot.LoadArmorPenetration>penetração de armadura carregada</Ancot.LoadArmorPenetration>
+  <Ancot.LoadStoppingPower>poder de parada carregado</Ancot.LoadStoppingPower>
+  <Ancot.LoadBuildingDamageFactor>fator de dano a construções carregado</Ancot.LoadBuildingDamageFactor>
+  <Ancot.LoadBuildingDamageFactorPassable>fator de dano a construções transitáveis carregado</Ancot.LoadBuildingDamageFactorPassable>
+  <Ancot.LoadBuildingDamageFactorImpassable>fator de dano a construções intransitáveis carregado</Ancot.LoadBuildingDamageFactorImpassable>
+  <Ancot.WorldObject_AssignableToPawn>dono da estação: {0}</Ancot.WorldObject_AssignableToPawn>
+  <Ancot.WorldObject_AssignableToPawn_NoBody>Nenhum dono de estação definido</Ancot.WorldObject_AssignableToPawn_NoBody>
+  <Ancot.ThingCarrierAutofillDesc>Esta quantidade de preenchimento automático determina o máximo de recursos que seus colonos colocarão automaticamente neste {0}.</Ancot.ThingCarrierAutofillDesc>
+  <Ancot.ScenPart_CreateQuest>Missão criada</Ancot.ScenPart_CreateQuest>
+  <Ancot.ScenPart_ForcedStartMap>Começar com mapa</Ancot.ScenPart_ForcedStartMap>
+  <Ancot.Change>alterar</Ancot.Change>
+  <Ancot.DefaultSetting>Restaurar configurações padrão</Ancot.DefaultSetting>
+  <Ancot.QualityColorSetting>Cor de qualidade</Ancot.QualityColorSetting>
+  <Ancot.QualityColorSettingDesc>Ajusta a cor representativa da qualidade de vestimentas, armas etc. em mods que dependem desta biblioteca.</Ancot.QualityColorSettingDesc>
+  <Ancot.DefaultSetting_QualityColor>Cor de qualidade padrão</Ancot.DefaultSetting_QualityColor>
+  <Ancot.TurretSystemSetting>Sistema de torretas</Ancot.TurretSystemSetting>
+  <Ancot.TurretSystemSettingDesc>Configurações relacionadas ao sistema de torretas, como as torretas de drone vestíveis do mod da raça milira.</Ancot.TurretSystemSettingDesc>
+  <Ancot.TurretSystem_Indicator>Linha indicadora de mira</Ancot.TurretSystem_Indicator>
+  <Ancot.TurretSystem_IndicatorDesc>Exibe a linha indicadora dos alvos de mira das torretas.</Ancot.TurretSystem_IndicatorDesc>
+  <Ancot.TurretSystem_IndicatorColor_Player>Cor da linha indicadora do jogador</Ancot.TurretSystem_IndicatorColor_Player>
+  <Ancot.TurretSystem_IndicatorColor_PlayerDesc>Determina a cor da linha indicadora quando um personagem controlado pelo jogador está mirando com uma torreta.</Ancot.TurretSystem_IndicatorColor_PlayerDesc>
+  <Ancot.TurretSystem_IndicatorOnlyDrawSelected>Desenhar apenas quando selecionado (jogador)</Ancot.TurretSystem_IndicatorOnlyDrawSelected>
+  <Ancot.TurretSystem_IndicatorOnlyDrawSelectedDesc>Desenha a linha indicadora da torreta apenas quando um personagem controlado pelo jogador está selecionado.</Ancot.TurretSystem_IndicatorOnlyDrawSelectedDesc>
+  <Ancot.TurretSystem_IndicatorOnlyDrawSelected_NonPlayer>Desenhar apenas quando selecionado (não jogador)</Ancot.TurretSystem_IndicatorOnlyDrawSelected_NonPlayer>
+  <Ancot.TurretSystem_IndicatorOnlyDrawSelected_NonPlayerDesc>Desenha a linha indicadora da torreta apenas quando um personagem não controlado pelo jogador está selecionado.</Ancot.TurretSystem_IndicatorOnlyDrawSelected_NonPlayerDesc>
+  <Ancot.TurretSystem_IndicatorOnlyDrawForced>Desenhar apenas com mira forçada</Ancot.TurretSystem_IndicatorOnlyDrawForced>
+  <Ancot.TurretSystem_IndicatorOnlyDrawForcedDesc>Para personagens do jogador, desenha a linha indicadora da torreta apenas quando um alvo forçado é atribuído.</Ancot.TurretSystem_IndicatorOnlyDrawForcedDesc>
+  <Ancot.TurretSystem_Indicator_NonPlayer>Linha indicadora de mira de não jogadores</Ancot.TurretSystem_Indicator_NonPlayer>
+  <Ancot.TurretSystem_Indicator_NonPlayerDesc>Exibe a linha indicadora de mira das torretas para personagens não controlados pelo jogador.</Ancot.TurretSystem_Indicator_NonPlayerDesc>
+  <Ancot.TurretSystem_IndicatorColor_NonPlayer>Cor da linha indicadora de não jogadores</Ancot.TurretSystem_IndicatorColor_NonPlayer>
+  <Ancot.TurretSystem_IndicatorColor_NonPlayerDesc>Determina a cor da linha indicadora quando um personagem não controlado pelo jogador está mirando com uma torreta.</Ancot.TurretSystem_IndicatorColor_NonPlayerDesc>
+  <Ancot.WeaponExtraRenderSetting>Textura extra de arma</Ancot.WeaponExtraRenderSetting>
+  <Ancot.WeaponExtraRenderSettingDesc>Configurações para renderizar sobreposições adicionais ao segurar uma arma, como a bainha no mod Kiiro.</Ancot.WeaponExtraRenderSettingDesc>
+  <Ancot.WeaponExtraRender_Draw>Desenhar texturas adicionais</Ancot.WeaponExtraRender_Draw>
+  <Ancot.WeaponExtraRender_DrawDesc>Define se texturas adicionais de arma serão desenhadas.</Ancot.WeaponExtraRender_DrawDesc>
+  <Ancot.ApparelPolicySettings>Predefinições de política de vestuário</Ancot.ApparelPolicySettings>
+  <Ancot.ApparelPolicySettingsDesc>Configurações das políticas de vestuário predefinidas em mods de raças que dependem desta biblioteca.</Ancot.ApparelPolicySettingsDesc>
+  <Ancot.ApparelPolicy_GenerateAtStart>Gerar política de vestuário ao iniciar</Ancot.ApparelPolicy_GenerateAtStart>
+  <Ancot.ApparelPolicy_GenerateAtStartDesc>Define se a política de vestuário predefinida da raça será criada uma vez ao iniciar um novo jogo.</Ancot.ApparelPolicy_GenerateAtStartDesc>
+  <Ancot.ApparelPolicy_AutoSetForColonist>Atribuir automaticamente política de vestuário da raça</Ancot.ApparelPolicy_AutoSetForColonist>
+  <Ancot.ApparelPolicy_AutoSetForColonistDesc>Atribui automaticamente a política de vestuário predefinida da raça correspondente ao recrutar.</Ancot.ApparelPolicy_AutoSetForColonistDesc>
+  <Ancot.ApparelPolicy_Generate>Gerar política de vestuário predefinida da raça</Ancot.ApparelPolicy_Generate>
+  <Ancot.DroneSettings>Drone</Ancot.DroneSettings>
+  <Ancot.DroneSettingsDesc>Configurações para a estrutura de drones.</Ancot.DroneSettingsDesc>
+  <Ancot.Drone_TabAvailable>Painel de gerenciamento de drones</Ancot.Drone_TabAvailable>
+  <Ancot.Drone_TabAvailableDesc>Escolha como acessar o painel de gerenciamento de drones. Ativar o menu adicionará um botão do painel de drones ao menu inferior; ativar o botão adicionará um atalho para o painel de drones acima do painel de mecanoides.</Ancot.Drone_TabAvailableDesc>
+  <Ancot.StatsReport_StatCurve>curva posterior ({0}: {1})</Ancot.StatsReport_StatCurve>
+  <Ancot.StatsReport_StatEquipped>fator equipado ({0}: {1})</Ancot.StatsReport_StatEquipped>
+  <Ancot.StatsReport_CorrectionFactor>fator de correção</Ancot.StatsReport_CorrectionFactor>
+  <Ancot.StatsReport_StorytellerFactor>fator do narrador</Ancot.StatsReport_StorytellerFactor>
+  <Ancot.StatsReport_StorytellerOffset>deslocamento do narrador</Ancot.StatsReport_StorytellerOffset>
+  <Ancot.ShieldSize>Tamanho</Ancot.ShieldSize>
+  <Ancot.ShieldSizeDesc>As dimensões deste escudo.</Ancot.ShieldSizeDesc>
+  <Ancot.ShieldSize_Small>pequeno</Ancot.ShieldSize_Small>
+  <Ancot.ShieldSize_Medium>médio</Ancot.ShieldSize_Medium>
+  <Ancot.ShieldSize_Large>grande</Ancot.ShieldSize_Large>
+  <Ancot.TextMote_Block>bloqueio</Ancot.TextMote_Block>
+  <Ancot.TextMote_Break>quebra</Ancot.TextMote_Break>
+  <Ancot.TextMote_Penetrate>penetração</Ancot.TextMote_Penetrate>
+  <Ancot.TextMote_TendQuality>Qualidade do cuidado: {0}</Ancot.TextMote_TendQuality>
+  <Ancot.TextMote_Dodge>Esquivou</Ancot.TextMote_Dodge>
+</LanguageData>

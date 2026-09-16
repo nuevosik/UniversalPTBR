@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED.EndgameText>O Império Estilhaçado, antes um símbolo de tirania e opressão, desmoronou. Por todo o planeta, bravos desertores ergueram-se em um coro de rebelião, quebrando as correntes da servidão que os prendiam. Toda criança que agora desperta para o alvorecer da liberdade se lembrará e reverenciará estes nomes, os nomes dos heróis que ousaram desafiar o impossível:\n{0}\n\nNo entanto, este não é o fim, mas apenas uma transição. Com o velho império agora em ruínas e sua capitânia um destroço em chamas caído dos céus, chegou o momento de cura e reconstrução. Os nobres, antes leais ao império, agora se rendem a comunidades forasteiras ou se perdem em uma vida de crime. Não há como negar a verdade — o mundo mudou para sempre.\n\nAo estar no limiar de uma nova era, você se lembra deste capítulo de desafio e coragem. Os ecos do Império Estilhaçado servirão como lembrete da sua resiliência, um testemunho da sua incansável busca pela liberdade. Você olha para frente, sabendo que está adentrando um futuro construído sobre esperança, união e libertação.</VFED.EndgameText>
+  <VFED.EndgameWarningText>Você está prestes a iniciar uma missão final em Vanilla Factions Expanded: Deserters. Após a conclusão da missão, o Império e os Desertores deixarão de existir. Tem certeza de que deseja iniciar a missão final?</VFED.EndgameWarningText>
+  <VFED.Detonate>Detonar</VFED.Detonate>
+  <VFED.IntelOutOfDate>As informações ficarão desatualizadas em: {0}</VFED.IntelOutOfDate>
+  <VFED.IntelOutOfDateNow>{0} ficaram desatualizadas. Considere usar as informações que você coleta antes que fiquem desatualizadas.</VFED.IntelOutOfDateNow>
+  <VFED.SwitchTo>Clique para mudar para {0}</VFED.SwitchTo>
+  <VFED.SurveillancePillarActivated>Você ativou um pilar de vigilância imperial. A visibilidade da sua facção aumentou em {1}. Agora está em {0}.</VFED.SurveillancePillarActivated>
+  <VFED.IntelFromTitle>O título de {1} foi retirado de {0}, que forneceu {2} de informações a você.</VFED.IntelFromTitle>
+  <VFED.ResponseComing>Resposta imperial</VFED.ResponseComing>
+  <VFED.ResponseComingDesc>Uma resposta imperial ({0}) está a caminho deste local. Chegará em {1}s.</VFED.ResponseComingDesc>
+  <VFED.ResponseMessage>Por ter acionado uma resposta imperial, sua visibilidade aumentou em {0}. Agora está em {1}. No futuro, você pode evitar o aumento da visibilidade concluindo a missão antes que a resposta chegue.</VFED.ResponseMessage>
+  <VFED.Detonate.BombPack>Detonar pacote de bombas</VFED.Detonate.BombPack>
+  <VFED.Detonate.BombPack.Desc>Detone este pacote de bombas remotamente para gerar uma grande explosão. AVISO: pressionar este botão acionará a bomba imediatamente.</VFED.Detonate.BombPack.Desc>
+  <VFED.Deploy>Posicionar</VFED.Deploy>
+  <VFED.Deploy.Desc>Posicione este {0} para criar um {1} neste local.</VFED.Deploy.Desc>
+  <VFED.EnableInvisibility>Ativar invisibilidade</VFED.EnableInvisibility>
+  <VFED.EnableInvisibility.Desc>Torne este colono invisível por 1 hora. Se o colono atacar alguém, a invisibilidade terminará.</VFED.EnableInvisibility.Desc>
+  <VFED.OnCooldown>Em recarga</VFED.OnCooldown>
+  <VFED.AlreadyInvisibile>Já está invisível</VFED.AlreadyInvisibile>
+  <VFED.MustHavePsylink>Requer psínculo</VFED.MustHavePsylink>
+  <VFED.ExtractIntel>Extrair informações</VFED.ExtractIntel>
+  <VFED.ExtractIntel.Desc>Extraia informações do cérebro de um nobre. A vítima pode estar viva ou incapacitada, mas o cérebro precisa estar presente. Destruirá o cérebro.</VFED.ExtractIntel.Desc>
+  <VFED.ImperialPatrol>Patrulha de {0}</VFED.ImperialPatrol>
+  <VFED.ImperialPatrol.Desc>{0} encontrou uma patrulha imperial de {1}. A pessoa foi avistada! {0} pode tentar escapar, mas isso inevitavelmente aumentará a visibilidade de {2}. Lutar contra a patrulha pode ser difícil, mas protegerá {2}. A patrulha é composta por:\n\n{3}</VFED.ImperialPatrol.Desc>
+  <VFED.ImperialPatrol.Escape>Escapar da patrulha.</VFED.ImperialPatrol.Escape>
+  <VFED.ImperialPatrol.Attack>Atacar a patrulha.</VFED.ImperialPatrol.Attack>
+  <VFED.ImperialPatrol.GiveUp>Entregar {0}.</VFED.ImperialPatrol.GiveUp>
+  <VFED.ImperialPatrol.GaveUp>{0} entregou {1} ao Império. É pouco provável que você volte a vê-lo. O Império não tem piedade de sabotadores.</VFED.ImperialPatrol.GaveUp>
+  <VFED.AerodroneBombardment>Bombardeio de aerodrones</VFED.AerodroneBombardment>
+  <VFED.AerodroneBombardment.Desc>{0} enviou vários aerodrones até sua localização. Eles suspeitam que você esteja abrigando desertores com más intenções contra a Grande Hierarquia.\nUm aerodrone é um drone atmosférico não tripulado projetado para fins militares. Controlado por programadores de guerra altamente qualificados de instalações imperiais, o aerodrone é uma ferramenta altamente eficaz para eliminar inimigos do Império. Equipado com sensores avançados e sistemas de mira, o aerodrone pode detectar e rastrear alvos a grandes distâncias. Uma vez identificado um alvo, o aerodrone despejará uma salva devastadora de foguetes de precisão, cada um projetado para causar o máximo de dano e destruição.\nO Império localizou a posição da sua infraestrutura crítica e os aerodrones logo iniciarão o bombardeio. A evacuação é recomendada.</VFED.AerodroneBombardment.Desc>
+  <VFED.GlassingDate>Data da vitrificação</VFED.GlassingDate>
+  <VFED.DivineInferno.Init>Inferno Divino iniciado</VFED.DivineInferno.Init>
+  <VFED.DivineInferno.Desc>Os satélites de Feixe Fatiador Orbital terminaram de se organizar em um belo padrão de flor acima da sua colônia. O que vem a seguir só pode ser descrito como destruição total. Os feixes fatiadores descem do céu, criando uma teia de energia que arrasa sistematicamente tudo em seu caminho. O próprio terreno parece ceder e ondular enquanto os feixes cortam a terra, deixando para trás fendas profundas e crateras cheias de escombros. Pessoas, veículos e até edifícios são reduzidos a nada mais que poeira e cinzas em questão de segundos. O próprio ar é superaquecido pela energia intensa dos feixes, criando uma onda de choque que pode viajar por quilômetros.\nNão há escapatória do Inferno Divino. Aqueles que são pegos em seu caminho são instantaneamente vaporizados, deixando para trás apenas restos carbonizados do que antes existia. Nem mesmo abrigos subterrâneos resistem ao poder destrutivo dos feixes fatiadores, que cortam a terra como uma faca quente na manteiga.\nO resultado do Inferno Divino é um deserto de destruição. A paisagem é irreconhecível, com pouco mais que escombros e cinzas até onde a vista alcança. O ar ainda está carregado com o cheiro acre de carne queimada e metal derretido. A colônia antes próspera agora não passa de um casco carbonizado e sem vida.</VFED.DivineInferno.Desc>
+  <VFED.GoodwillDropVisibility>Devido à desinformação imperial, suas relações com {0} caíram em 10.</VFED.GoodwillDropVisibility>
+  <VFED.ShotsFiredLeft>{0} feixes disparados, {1} feixes restantes</VFED.ShotsFiredLeft>
+  <VFED.VisibilityIncreases>A visibilidade aumenta em {0}</VFED.VisibilityIncreases>
+  <VFED.VisibilityDecreases>A visibilidade diminui em {0}</VFED.VisibilityDecreases>
+  <VFED.VisibilityIncreases.Desc>A visibilidade aumentará em {0}. Isso pode levar a respostas imperiais mais numerosas e mais fortes.</VFED.VisibilityIncreases.Desc>
+  <VFED.VisibilityDecreases.Desc>A visibilidade diminuirá em {0}. Isso pode reduzir as respostas imperiais.</VFED.VisibilityDecreases.Desc>
+  <VFED.BiosecuredCrateWarning>Caixotes bioprotegidos só podem ser abertos por personagens com histórico de nobre.</VFED.BiosecuredCrateWarning>
+  <VFED.CantOpenBiosecured>requer histórico de nobre</VFED.CantOpenBiosecured>
+  <VFED.ServiceIncreasedGoodwill>A boa vontade com {0} aumentou em 5 devido a rumores positivos vindos de desertores imperiais.</VFED.ServiceIncreasedGoodwill>
+  <VFED.DetectedWarning>Você foi detectado pela segurança. A guarnição está se mobilizando contra você.</VFED.DetectedWarning>
+  <VFED.HighAlertWarning>Os defensores estão passando para alerta máximo.</VFED.HighAlertWarning>
+  <VFED.FleeWarning>{0} está tentando escapar!</VFED.FleeWarning>
+  <VFED.NobleKilledRevenge>{0} de {1} estão tentando vingar {2}.</VFED.NobleKilledRevenge>
+  <VFED.ContrabandArrived>Seu contrabando chegou.</VFED.ContrabandArrived>
+  <VFED.VisibilityChange>Visibilidade alterada: {0}</VFED.VisibilityChange>
+  <VFED.VisibilityChange.Desc>Seu nível de visibilidade mudou. Agora está em {0}.</VFED.VisibilityChange.Desc>
+  <VFED.VisibilityEffectsActive>Os seguintes efeitos foram ativados:</VFED.VisibilityEffectsActive>
+  <VFED.VisibilityEffectsInactive>Os seguintes efeitos foram desativados:</VFED.VisibilityEffectsInactive>
+  <VFED.TimeToNextPulse>Tempo até o próximo pulso: {0}</VFED.TimeToNextPulse>
+  <VFED.PulsesBeforeOut>Pulsos até queimar: {0}</VFED.PulsesBeforeOut>
+  <VFED.BurnoutWarning>Construir um coletor de informações autodestrutivo será considerado uma declaração de guerra contra o Império.</VFED.BurnoutWarning>
+  <VFED.ActivateScraper>Ativar coletor</VFED.ActivateScraper>
+  <VFED.ActivateScraper.Desc>Ativa a contagem regressiva do coletor de informações, que emitirá um pulso a cada 60 segundos, dando a você a chance de obter informações valiosas ao custo de possível investigação imperial.</VFED.ActivateScraper.Desc>
+  <VFED.DeactivateScraper>Desativar coletor</VFED.DeactivateScraper>
+  <VFED.DeactivateScraper.Desc>Desativa o coletor de informações, interrompendo a contagem regressiva até o próximo pulso.</VFED.DeactivateScraper.Desc>
+  <VFED.Exhausted>Esgotado</VFED.Exhausted>
+  <VFED.BurnoutIntelGained>O coletor de informações autodestrutivo interceptou uma comunicação imperial e gerou {0} de informações.</VFED.BurnoutIntelGained>
+  <VFED.BurnoutCriticalIntelGained>O coletor de informações autodestrutivo interceptou uma comunicação imperial de alto valor e gerou {0} de informações críticas.</VFED.BurnoutCriticalIntelGained>
+  <VFED.BurnoutVisibilityIncreased>O coletor de informações autodestrutivo atraiu a atenção imperial e aumentou sua visibilidade em {0}. (A visibilidade atual é {1}.)</VFED.BurnoutVisibilityIncreased>
+  <VFED.BurnoutRaid>O coletor de informações autodestrutivo foi interceptado por uma patrulha imperial próxima. Eles estão avançando para atacar.</VFED.BurnoutRaid>
+  <VFEDeserters>VFE - Desertores</VFEDeserters>
+  <VFED.VisibilityChangePerDay>Mudança de visibilidade por dia: {0}</VFED.VisibilityChangePerDay>
+  <VFED.IntelFromExtractingIntel>Informações obtidas extraindo informações: {0}</VFED.IntelFromExtractingIntel>
+  <VFED.VisibilityFromPillar>Ganho de visibilidade por pilar de vigilância: {0}</VFED.VisibilityFromPillar>
+  <VFED.ResponseTimeMultiplier>Multiplicador de tempo de resposta: {0}</VFED.ResponseTimeMultiplier>
+  <VFED.ContactDeserters>Contatar Desertores</VFED.ContactDeserters>
+  <VFED.Visibility>Visibilidade: {0}</VFED.Visibility>
+  <VFED.CurrentVisibility>Visibilidade atual: </VFED.CurrentVisibility>
+  <VFED.Effects>Efeitos:</VFED.Effects>
+  <VFED.IntelCostModifier>Custo em informações: </VFED.IntelCostModifier>
+  <VFED.ContrabandRecieveTimeModifier>Tempo para receber contrabando: </VFED.ContrabandRecieveTimeModifier>
+  <VFED.ContrabandSiteTimeModifier>Disponibilidade dos pontos de entrega: </VFED.ContrabandSiteTimeModifier>
+  <VFED.ImperialResponseTime>Tempo para resposta imperial: </VFED.ImperialResponseTime>
+  <VFED.ImperialResponseType>Tipo de resposta imperial: </VFED.ImperialResponseType>
+  <VFED.SpecialEffects>Efeitos especiais: </VFED.SpecialEffects>
+  <VFED.NoResponse>Sem resposta</VFED.NoResponse>
+  <VFED.None>Nenhum</VFED.None>
+  <VFED.ItemName>Nome do item</VFED.ItemName>
+  <VFED.Cost>Custo</VFED.Cost>
+  <VFED.Basket>Cesta</VFED.Basket>
+  <VFED.ContrabandRecieveDesc>Itens comprados pelo sistema de contrabando não chegam à sua colônia em cápsulas de carga. Em vez disso, uma missão de coleta de ponto de entrega ficará disponível após certo tempo, e a missão só ficará disponível por um breve momento. É lá que você recolhe o contrabando comprado.</VFED.ContrabandRecieveDesc>
+  <VFED.Purchase>Comprar</VFED.Purchase>
+  <VFED.RushDelivery>Entrega expressa</VFED.RushDelivery>
+  <VFED.TotalCost>Custo total da cesta</VFED.TotalCost>
+  <VFED.RushDeliveryDesc>Você pode pedir entrega expressa para receber os itens instantaneamente via cápsulas de carga; no entanto, isso dobra o custo em informações do pedido.</VFED.RushDeliveryDesc>
+  <VFED.TimeToReceive>Tempo estimado para receber: (*DateTime){0}-{1} dias(/DateTime)</VFED.TimeToReceive>
+  <VFED.TimeToPickup>Tempo para coletar: (*DateTime){0} dias(/DateTime)</VFED.TimeToPickup>
+  <VFED.TimeLimitDesc>O tempo para receber e o tempo para coletar dependem da quantidade de itens que você está comprando, bem como do seu nível de visibilidade atual. Após o tempo para receber passar, uma missão de ponto de entrega ficará disponível. Ela só ficará ativa durante o período em 'Tempo para coletar'. Se você não conseguir coletá-la a tempo, os itens desaparecerão.</VFED.TimeLimitDesc>
+  <VFED.NotEnough>Faltam {0}. Necessário: {1}, disponível: {2}</VFED.NotEnough>
+  <VFED.DeserterQuestDesc>Esta é uma missão de desertores. Ela pode fornecer informações sobre o Império Estilhaçado, mas também pode aumentar a visibilidade da sua facção.</VFED.DeserterQuestDesc>
+  <VFED.AvailableQuests>Missões disponíveis</VFED.AvailableQuests>
+  <VFED.CriticalQuests>Missões críticas</VFED.CriticalQuests>
+  <VFED.QuestDescription>Descrição da missão</VFED.QuestDescription>
+  <VFED.NoQuestSelected>Nenhuma missão selecionada</VFED.NoQuestSelected>
+  <VFED.QuestPurchaseDesc>Você pode pagar com informações para obter missões da rede de desertores; no entanto, você não saberá as recompensas que podem ser obtidas com a missão até comprá-la.</VFED.QuestPurchaseDesc>
+  <VFED.TotalQuestCost>Custo total da missão</VFED.TotalQuestCost>
+  <VFED.Activate>Ativar</VFED.Activate>
+  <VFED.OtherServices>Outros serviços</VFED.OtherServices>
+  <VFED.Rewards>Recompensas</VFED.Rewards>
+  <VFED.PlotDesc>Descrição do plano</VFED.PlotDesc>
+  <VFED.PlotTarget>Alvo: {0}</VFED.PlotTarget>
+  <VFED.CompletedOn>Concluído em {0}</VFED.CompletedOn>
+  <VFED.CombatHigh>Combate: Alto</VFED.CombatHigh>
+  <VFED.CombatMedium>Combate: Médio</VFED.CombatMedium>
+  <VFED.CombatLow>Combate: Mínimo</VFED.CombatLow>
+  <VFED.CombatHighDesc>Espere combate intenso</VFED.CombatHighDesc>
+  <VFED.CombatMediumDesc>Espere algum combate</VFED.CombatMediumDesc>
+  <VFED.CombatLowDesc>Espere combate mínimo</VFED.CombatLowDesc>
+  <VFED.ShowActiveQuest>Mostrar missão ativa</VFED.ShowActiveQuest>
+  <VFED.Select>Selecionar</VFED.Select>
+  <VFED.HullIntegrity>Integridade do casco</VFED.HullIntegrity>
+  <VFED.Flagship>Capitânia</VFED.Flagship>
+  <VFED.StartMission>Iniciar missão</VFED.StartMission>
+  <VFED.IntelAmount>Quantidade de {0} no alcance de balizas de comércio energizadas.</VFED.IntelAmount>
+</LanguageData>

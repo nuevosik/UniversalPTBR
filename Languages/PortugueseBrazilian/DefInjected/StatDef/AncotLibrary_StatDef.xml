@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ancot_WeaponMaxCharge.label>carga máxima</Ancot_WeaponMaxCharge.label>
+  <Ancot_WeaponMaxCharge.description>A carga máxima desta arma.</Ancot_WeaponMaxCharge.description>
+  <Ancot_WeaponChargeTick.label>intervalo de carga</Ancot_WeaponChargeTick.label>
+  <Ancot_WeaponChargeTick.description>Tempo necessário para cada recarga automática desta arma.</Ancot_WeaponChargeTick.description>
+  <Ancot_EnergyWeaponResetTime.label>tempo de reinício</Ancot_EnergyWeaponResetTime.label>
+  <Ancot_EnergyWeaponResetTime.description>O tempo necessário para recuperar energia quando a arma está totalmente descarregada.</Ancot_EnergyWeaponResetTime.description>
+  <Ancot_EnergyWeaponCorrectionFactor.label>fator de correção</Ancot_EnergyWeaponCorrectionFactor.label>
+  <Ancot_EnergyWeaponCorrectionFactor.description>O multiplicador que modifica os atributos desta arma de energia com base nas condições externas.</Ancot_EnergyWeaponCorrectionFactor.description>
+  <Ancot_ProjectileDamageMultiplier.label>multiplicador de dano de projétil</Ancot_ProjectileDamageMultiplier.label>
+  <Ancot_ProjectileDamageMultiplier.description>O dano do projétil disparado por esta criatura será multiplicado por este fator.</Ancot_ProjectileDamageMultiplier.description>
+  <Ancot_ProjectileArmorPenetrationMultiplier.label>multiplicador de penetração de armadura de projétil</Ancot_ProjectileArmorPenetrationMultiplier.label>
+  <Ancot_ProjectileArmorPenetrationMultiplier.description>A penetração de armadura do projétil disparado por esta criatura será multiplicada por este fator.</Ancot_ProjectileArmorPenetrationMultiplier.description>
+  <Ancot_CaravanMoveSpeedFactor.label>fator de velocidade de movimento em caravana</Ancot_CaravanMoveSpeedFactor.label>
+  <Ancot_CaravanMoveSpeedFactor.description>O fator de velocidade que esta criatura fornece em caravana.</Ancot_CaravanMoveSpeedFactor.description>
+  <Ancot_ExtraCaravanCarryCapacity.label>capacidade de carga extra</Ancot_ExtraCaravanCarryCapacity.label>
+  <Ancot_ExtraCaravanCarryCapacity.description>A capacidade de carga extra que esta criatura fornece em caravana.</Ancot_ExtraCaravanCarryCapacity.description>
+  <Ancot_MechRepairSpeed.label>velocidade de reparo mecanoide</Ancot_MechRepairSpeed.label>
+  <Ancot_MechRepairSpeed.description>Um multiplicador de quão rápido esta criatura pode reparar mecanoides.</Ancot_MechRepairSpeed.description>
+  <Ancot_FieldForceResistance.label>resistência à força de campo</Ancot_FieldForceResistance.label>
+  <Ancot_FieldForceResistance.description>A resistência desta criatura a efeitos de deslocamento por força de campo.</Ancot_FieldForceResistance.description>
+  <Ancot_QualityOffset.label>ajuste de qualidade de fabricação</Ancot_QualityOffset.label>
+  <Ancot_QualityOffset.description>O ajuste de qualidade desta criatura ao fabricar itens ou construir edificações.</Ancot_QualityOffset.description>
+  <Ancot_StaminaRecoveryRateFactor.label>fator de taxa de recuperação de vigor</Ancot_StaminaRecoveryRateFactor.label>
+  <Ancot_StaminaRecoveryRateFactor.description>Um multiplicador de quão rápido o vigor desta criatura se recupera ao equipar um escudo.</Ancot_StaminaRecoveryRateFactor.description>
+  <Ancot_RangeDodgeChance.label>chance de esquiva à distância</Ancot_RangeDodgeChance.label>
+  <Ancot_RangeDodgeChance.description>Chance de esquivar de um ataque à distância que de outra forma teria acertado.</Ancot_RangeDodgeChance.description>
+  <Ancot_PhysicalShieldMaxStamina.label>vigor máximo</Ancot_PhysicalShieldMaxStamina.label>
+  <Ancot_PhysicalShieldMaxStamina.description>O vigor máximo que este escudo pode consumir ao ser usado para defesa antes de quebrar.</Ancot_PhysicalShieldMaxStamina.description>
+  <Ancot_PhysicalShieldStaminaRecoverRate.label>taxa de recuperação de vigor</Ancot_PhysicalShieldStaminaRecoverRate.label>
+  <Ancot_PhysicalShieldStaminaRecoverRate.description>Taxa de regeneração de vigor enquanto o escudo está equipado, mas não está sendo usado ativamente para defesa.</Ancot_PhysicalShieldStaminaRecoverRate.description>
+  <Ancot_PhysicalShieldStaminaRecoverRate_Holding.label>taxa de recuperação de vigor (defesa)</Ancot_PhysicalShieldStaminaRecoverRate_Holding.label>
+  <Ancot_PhysicalShieldStaminaRecoverRate_Holding.description>Taxa de regeneração de vigor enquanto este escudo é empunhado para bloquear.</Ancot_PhysicalShieldStaminaRecoverRate_Holding.description>
+  <Ancot_PhysicalShieldStaminaCostThershold.label>limite de custo de vigor</Ancot_PhysicalShieldStaminaCostThershold.label>
+  <Ancot_PhysicalShieldStaminaCostThershold.description>Ao usar este escudo para bloquear, a porcentagem máxima de vigor que pode ser consumida por um único ataque.</Ancot_PhysicalShieldStaminaCostThershold.description>
+  <Ancot_PhysicalShieldStaminaCost_Melee.label>fator de custo de vigor (corpo a corpo)</Ancot_PhysicalShieldStaminaCost_Melee.label>
+  <Ancot_PhysicalShieldStaminaCost_Melee.description>O fator de consumo de vigor deste escudo ao bloquear ataques corpo a corpo.\n\nO custo de vigor é calculado como:\nCusto de vigor = Dano × Penetração de armadura (%) × Fator de custo de vigor (corpo a corpo)</Ancot_PhysicalShieldStaminaCost_Melee.description>
+  <Ancot_PhysicalShieldStaminaCost_Ranged.label>fator de custo de vigor (à distância)</Ancot_PhysicalShieldStaminaCost_Ranged.label>
+  <Ancot_PhysicalShieldStaminaCost_Ranged.description>O fator de consumo de vigor deste escudo ao bloquear ataques à distância.\n\nO custo de vigor é calculado como:\nCusto de vigor = Dano × Penetração de armadura (%) × Fator de custo de vigor (à distância)</Ancot_PhysicalShieldStaminaCost_Ranged.description>
+  <Ancot_PhysicalShieldBlockAngle.label>ângulo de defesa</Ancot_PhysicalShieldBlockAngle.label>
+  <Ancot_PhysicalShieldBlockAngle.description>O intervalo de ângulos dos ataques que podem ser bloqueados ao usar este escudo para defesa, em relação à direção encarada.</Ancot_PhysicalShieldBlockAngle.description>
+  <Ancot_PhysicalShieldBlockChance_Melee.label>chance de bloqueio (corpo a corpo)</Ancot_PhysicalShieldBlockChance_Melee.label>
+  <Ancot_PhysicalShieldBlockChance_Melee.description>Chance de bloquear ataques corpo a corpo ao usar este escudo para defesa.</Ancot_PhysicalShieldBlockChance_Melee.description>
+  <Ancot_PhysicalShieldBlockChance_Ranged.label>chance de bloqueio (à distância)</Ancot_PhysicalShieldBlockChance_Ranged.label>
+  <Ancot_PhysicalShieldBlockChance_Ranged.description>Chance de bloquear ataques à distância ao usar este escudo para defesa.</Ancot_PhysicalShieldBlockChance_Ranged.description>
+  <Ancot_PhysicalShieldResetTime.label>tempo de reinício</Ancot_PhysicalShieldResetTime.label>
+  <Ancot_PhysicalShieldResetTime.description>O intervalo de tempo necessário para regenerar totalmente o vigor e retomar o bloqueio quando o vigor deste escudo se esgota.</Ancot_PhysicalShieldResetTime.description>
+  <Ancot_PhysicalShieldBreakStance.label>tempo de quebra de postura</Ancot_PhysicalShieldBreakStance.label>
+  <Ancot_PhysicalShieldBreakStance.description>A duração do cambaleio quando o vigor deste escudo se esgota.</Ancot_PhysicalShieldBreakStance.description>
+  <Ancot_PhysicalShieldStuffEffectMultiplier.label>multiplicador de efeito do material</Ancot_PhysicalShieldStuffEffectMultiplier.label>
+  <Ancot_PhysicalShieldStuffEffectMultiplier.description>O multiplicador que modifica os atributos deste escudo com base em seu material de fabricação.</Ancot_PhysicalShieldStuffEffectMultiplier.description>
+  <Ancot_WeaponMaxChargeFactor.label>fator de carga máxima de arma de energia</Ancot_WeaponMaxChargeFactor.label>
+  <Ancot_WeaponMaxChargeFactor.description>A carga máxima da arma de energia será multiplicada por este fator.</Ancot_WeaponMaxChargeFactor.description>
+  <Ancot_WeaponChargeTickFactor.label>fator de intervalo de carga de arma de energia</Ancot_WeaponChargeTickFactor.label>
+  <Ancot_WeaponChargeTickFactor.description>O intervalo de carga da arma de energia será multiplicado por este fator.</Ancot_WeaponChargeTickFactor.description>
+  <Ancot_Aerocraft_MaxSpeed.label>velocidade máxima</Ancot_Aerocraft_MaxSpeed.label>
+  <Ancot_Aerocraft_MaxSpeed.description>A velocidade máxima desta aeronave.</Ancot_Aerocraft_MaxSpeed.description>
+  <Ancot_Aerocraft_MinTurnRadius.label>raio mínimo de curva</Ancot_Aerocraft_MinTurnRadius.label>
+  <Ancot_Aerocraft_MinTurnRadius.description>O raio mínimo de curva necessário para uma aeronave completar uma curva.</Ancot_Aerocraft_MinTurnRadius.description>
+  <Ancot_Aerocraft_ArmorRating.label>armadura</Ancot_Aerocraft_ArmorRating.label>
+  <Ancot_Aerocraft_ArmorRating.description>A proteção concedida contra dano.\n\nAo receber dano, se o valor de penetração de armadura da arma atacante for maior ou igual ao valor de armadura, o dano total será aplicado. Caso contrário, o dano é reduzido em uma porcentagem igual à diferença entre o valor de armadura e o valor de penetração.\n\nPor exemplo, com um ataque que tem 10% de penetração de armadura, se o valor de armadura for 90%, o ataque causará apenas 20% do dano original à aeronave.</Ancot_Aerocraft_ArmorRating.description>
+  <Ancot_DroneEnduranceTime.label>tempo de autonomia</Ancot_DroneEnduranceTime.label>
+  <Ancot_DroneEnduranceTime.description>A duração pela qual o drone pode operar com carga total até que a energia se esgote.</Ancot_DroneEnduranceTime.description>
+  <Ancot_DroneRechargeTime.label>tempo de recarga</Ancot_DroneRechargeTime.label>
+  <Ancot_DroneRechargeTime.description>O tempo que o drone leva para recarregar totalmente depois que sua energia se esgota.</Ancot_DroneRechargeTime.description>
+  <Ancot_StunResistance.label>resistência a atordoamento</Ancot_StunResistance.label>
+  <Ancot_StunResistance.description>A resistência desta criatura a atordoamento.</Ancot_StunResistance.description>
+  <Ancot_KnockbackResistance.label>resistência a repulsão</Ancot_KnockbackResistance.label>
+  <Ancot_KnockbackResistance.description>A resistência desta criatura à repulsão.</Ancot_KnockbackResistance.description>
+  <Ancot_TurretRotateSpeed.label>velocidade de rotação da torreta</Ancot_TurretRotateSpeed.label>
+  <Ancot_TurretRotateSpeed.description>A velocidade de rotação da torreta em direção ao alvo.</Ancot_TurretRotateSpeed.description>
+  <Ancot_TurretShootAngleLimit.label>limite de ângulo de tiro da torreta</Ancot_TurretShootAngleLimit.label>
+  <Ancot_TurretShootAngleLimit.description>O intervalo de ângulos dentro do qual a torreta pode continuar mirando e disparando após iniciar o tiro.</Ancot_TurretShootAngleLimit.description>
+  <Ancot_TurretWarmUpTime.label>tempo de mira da torreta</Ancot_TurretWarmUpTime.label>
+  <Ancot_TurretWarmUpTime.description>Quanto tempo esta torreta leva para disparar após escolher um alvo.</Ancot_TurretWarmUpTime.description>
+</LanguageData>
