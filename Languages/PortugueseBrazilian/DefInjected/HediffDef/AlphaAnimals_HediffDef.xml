@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_PermanentBurn.label>queimadura permanente</AA_PermanentBurn.label>
+  <AA_Electric.label>choque elétrico</AA_Electric.label>
+  <AA_ProstheticTentacle.label>tentáculo protético</AA_ProstheticTentacle.label>
+  <AA_ProstheticTentacle.description>Um tentáculo protético.</AA_ProstheticTentacle.description>
+  <AA_ProstheticTentacle.comps.0.tools.0.label>tentáculo protético</AA_ProstheticTentacle.comps.0.tools.0.label>
+  <AA_BionicTentacle.label>tentáculo biônico</AA_BionicTentacle.label>
+  <AA_BionicTentacle.description>Um tentáculo biônico.</AA_BionicTentacle.description>
+  <AA_BionicTentacle.comps.0.tools.0.label>tentáculo biônico</AA_BionicTentacle.comps.0.tools.0.label>
+  <AA_ProstheticBeak.label>bico protético</AA_ProstheticBeak.label>
+  <AA_ProstheticBeak.description>Um bico protético.</AA_ProstheticBeak.description>
+  <AA_ProstheticBeak.comps.0.tools.0.label>bico protético</AA_ProstheticBeak.comps.0.tools.0.label>
+  <AA_BionicBeak.label>bico biônico</AA_BionicBeak.label>
+  <AA_BionicBeak.description>Um bico biônico.</AA_BionicBeak.description>
+  <AA_BionicBeak.comps.0.tools.0.label>bico biônico</AA_BionicBeak.comps.0.tools.0.label>
+  <AA_BionicMotionDetector.label>detector de movimento biônico</AA_BionicMotionDetector.label>
+  <AA_BionicMotionDetector.description>Detector de movimento biônico aprimorado para animais. Este detector de movimento substitui órgãos de ecolocalização e sensores de vibração.</AA_BionicMotionDetector.description>
+  <AA_ProstheticBuoyancyMechanism.label>mecanismo de flutuação protético</AA_ProstheticBuoyancyMechanism.label>
+  <AA_ProstheticBuoyancyMechanism.description>Mecanismo de flutuação protético. Deve ser capaz de substituir sacos de hidrogênio e outros órgãos exóticos que mantêm criaturas flutuantes no ar.</AA_ProstheticBuoyancyMechanism.description>
+  <AA_BionicBuoyancyMechanism.label>mecanismo de flutuação biônico</AA_BionicBuoyancyMechanism.label>
+  <AA_BionicBuoyancyMechanism.description>Mecanismo de flutuação biônico aprimorado para animais. Deve ser capaz de substituir sacos de hidrogênio e outros órgãos exóticos que mantêm criaturas flutuantes no ar.</AA_BionicBuoyancyMechanism.description>
+  <AA_ProstheticShell.label>carapaça protética</AA_ProstheticShell.label>
+  <AA_ProstheticShell.description>Carapaça protética. Deve ser capaz de substituir carapaças e conchas.</AA_ProstheticShell.description>
+  <AA_BionicShell.label>carapaça biônica</AA_BionicShell.label>
+  <AA_BionicShell.description>Carapaça biônica aprimorada para animais. Deve ser capaz de substituir carapaças e conchas.</AA_BionicShell.description>
+  <AA_ProstheticWing.label>asa protética</AA_ProstheticWing.label>
+  <AA_ProstheticWing.description>Asa protética. Deve ser capaz de substituir qualquer tipo de asa.</AA_ProstheticWing.description>
+  <AA_BionicWing.label>asa biônica</AA_BionicWing.label>
+  <AA_BionicWing.description>Asa biônica aprimorada para animais. Deve ser capaz de substituir qualquer tipo de asa.</AA_BionicWing.description>
+  <AB_SimpleProstheticClaw.label>garra protética</AB_SimpleProstheticClaw.label>
+  <AB_SimpleProstheticClaw.description>Garra protética. É compatível com animais que possuem garras afiadas.</AB_SimpleProstheticClaw.description>
+  <AB_SimpleProstheticClaw.comps.0.tools.0.label>garra protética</AB_SimpleProstheticClaw.comps.0.tools.0.label>
+  <AB_BionicClaw.label>garra biônica</AB_BionicClaw.label>
+  <AB_BionicClaw.description>Garra biônica aprimorada. É compatível com animais que possuem garras afiadas.</AB_BionicClaw.description>
+  <AB_BionicClaw.comps.0.tools.0.label>garra biônica</AB_BionicClaw.comps.0.tools.0.label>
+  <AA_GooAcidifier.label>acidificador de gosma</AA_GooAcidifier.label>
+  <AA_GooAcidifier.labelNoun>um acidificador de gosma</AA_GooAcidifier.labelNoun>
+  <AA_GooAcidifier.description>Um acidificador de gosma aumenta a acidez dos órgãos internos de uma gosma, fazendo-a explodir assim que for derrubada. Basicamente, transforma gosmas em bombistas suicidas biológicos.</AA_GooAcidifier.description>
+  <AA_RangedSpinneretImplant.label>implante de fiandeira à distância</AA_RangedSpinneretImplant.label>
+  <AA_RangedSpinneretImplant.labelNoun>um implante de fiandeira à distância</AA_RangedSpinneretImplant.labelNoun>
+  <AA_RangedSpinneretImplant.description>Um implante de fiandeira à distância instalado. Este implante permitirá que esta criatura use um ataque de teia atordoante à distância.\n\nObserve que instalar isto em uma criatura que já possui uma fiandeira à distância não terá efeito.</AA_RangedSpinneretImplant.description>
+  <AA_VenomousSpitterImplant.label>implante de cuspideira venenosa</AA_VenomousSpitterImplant.label>
+  <AA_VenomousSpitterImplant.labelNoun>um implante de cuspideira venenosa</AA_VenomousSpitterImplant.labelNoun>
+  <AA_VenomousSpitterImplant.description>Um implante de cuspideira venenosa instalado. Este implante permitirá que esta criatura use um ataque de cuspe venenoso à distância.\n\nObserve que instalar isto em uma criatura que já possui uma cuspideira venenosa não terá efeito. Este implante só pode ser usado por animais que tenham boca (e não, por exemplo, um bico ou probóscide).</AA_VenomousSpitterImplant.description>
+  <AA_AcidicSpitterImplant.label>implante de cuspideira ácida</AA_AcidicSpitterImplant.label>
+  <AA_AcidicSpitterImplant.labelNoun>um implante de cuspideira ácida</AA_AcidicSpitterImplant.labelNoun>
+  <AA_AcidicSpitterImplant.description>Um implante de cuspideira ácida instalado. Este implante permitirá que esta criatura use um ataque de cuspe ácido à distância que causa dano adicional ao longo do tempo.\n\nObserve que instalar isto em uma criatura que já possui uma cuspideira ácida não terá efeito. Este implante só pode ser usado por animais que tenham boca (e não, por exemplo, um bico ou probóscide).</AA_AcidicSpitterImplant.description>
+  <AA_BarbedQuillThrowerImplant.label>implante de lançador de espinhos farpados</AA_BarbedQuillThrowerImplant.label>
+  <AA_BarbedQuillThrowerImplant.labelNoun>um implante de lançador de espinhos farpados</AA_BarbedQuillThrowerImplant.labelNoun>
+  <AA_BarbedQuillThrowerImplant.description>Um implante de lançador de espinhos farpados instalado. Este implante permitirá que esta criatura use um ataque de espinhos venenosos à distância que causa acúmulo tóxico.\n\nObserve que instalar isto em uma criatura que já possui um lançador de espinhos farpados não terá efeito.</AA_BarbedQuillThrowerImplant.description>
+  <AA_QuadTeslaCannonImplant.label>implante de canhão de Tesla quádruplo</AA_QuadTeslaCannonImplant.label>
+  <AA_QuadTeslaCannonImplant.labelNoun>um implante de canhão de Tesla quádruplo</AA_QuadTeslaCannonImplant.labelNoun>
+  <AA_QuadTeslaCannonImplant.description>Um implante de canhão de Tesla quádruplo instalado. Este implante permitirá que esta criatura use um poderoso ataque de plasma à distância.\n\nObserve que instalar isto em uma criatura que já possui um canhão de Tesla quádruplo não terá efeito.</AA_QuadTeslaCannonImplant.description>
+  <AA_BioelectricOrganImplant.label>implante de órgão bioelétrico</AA_BioelectricOrganImplant.label>
+  <AA_BioelectricOrganImplant.labelNoun>um implante de órgão bioelétrico</AA_BioelectricOrganImplant.labelNoun>
+  <AA_BioelectricOrganImplant.description>Um implante de órgão bioelétrico instalado. Este implante permitirá que esta criatura use um poderoso ataque elétrico à distância que pode paralisar e causar ataques cardíacos.\n\nObserve que instalar isto em uma criatura que já possui um órgão bioelétrico não terá efeito.</AA_BioelectricOrganImplant.description>
+  <AA_LightFocusingLensImplant.label>implante de lente focalizadora de luz</AA_LightFocusingLensImplant.label>
+  <AA_LightFocusingLensImplant.labelNoun>um implante de lente focalizadora de luz</AA_LightFocusingLensImplant.labelNoun>
+  <AA_LightFocusingLensImplant.description>Um implante de lente focalizadora de luz instalado. Este implante permitirá que esta criatura use um poderoso ataque de laser à distância que incendeia os inimigos.\n\nObserve que instalar isto em uma criatura que já possui uma lente focalizadora de luz não terá efeito. Este implante ocupa o espaço de um dos olhos da criatura, então não pode ser instalado em animais sem olhos.</AA_LightFocusingLensImplant.description>
+  <AA_HyperAcidicStomachImplant.label>implante de estômago hiperácido</AA_HyperAcidicStomachImplant.label>
+  <AA_HyperAcidicStomachImplant.labelNoun>um implante de estômago hiperácido</AA_HyperAcidicStomachImplant.labelNoun>
+  <AA_HyperAcidicStomachImplant.description>Um implante de estômago hiperácido instalado. Este implante permitirá que esta criatura use um ataque ácido à distância que causa dano ao longo do tempo.\n\nObserve que instalar isto em uma criatura que já possui um estômago hiperácido não terá efeito. Este implante ocupa o espaço do estômago da criatura, então não pode ser instalado em animais que não o possuem.</AA_HyperAcidicStomachImplant.description>
+  <AA_LowRest_LowestRank.description>Devido à sua genética ruim, esta criatura tem a mesma necessidade de sono que qualquer outro animal.</AA_LowRest_LowestRank.description>
+  <AA_LowRest_LowestRank.label>necessidade normal de sono</AA_LowRest_LowestRank.label>
+  <AA_LowRest_LowRank.description>Esta criatura tem menos necessidade de sono que outros animais e pode ficar acordada por um pouco mais de tempo.</AA_LowRest_LowRank.description>
+  <AA_LowRest_LowRank.label>precisa de menos sono</AA_LowRest_LowRank.label>
+  <AA_LowRest_HighRank.description>Esta criatura tem muito pouca necessidade de sono e pode ficar acordada por muito tempo.</AA_LowRest_HighRank.description>
+  <AA_LowRest_HighRank.label>precisa de muito pouco sono</AA_LowRest_HighRank.label>
+  <AA_LowRest_HighestRank.description>Esta criatura quase não tem necessidade de sono e pode ficar acordada por um tempo incrivelmente longo.</AA_LowRest_HighestRank.description>
+  <AA_LowRest_HighestRank.label>quase não precisa dormir</AA_LowRest_HighestRank.label>
+</LanguageData>

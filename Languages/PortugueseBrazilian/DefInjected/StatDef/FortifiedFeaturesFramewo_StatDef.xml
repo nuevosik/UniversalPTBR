@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FFF_MassCarryCapacity.label>capacidade de transporte de massa</FFF_MassCarryCapacity.label>
+  <FFF_MassCarryCapacity.description>A massa total que esta pessoa pode carregar no inventário e como equipamento.</FFF_MassCarryCapacity.description>
+  <FFF_UsableWeapons.label>armas suportadas</FFF_UsableWeapons.label>
+  <FFF_UsableWeapons.description>Armas utilizáveis compatíveis com o sistema operacional deste modelo.</FFF_UsableWeapons.description>
+  <FFF_HeavyGears.label>tamanho corporal suportado</FFF_HeavyGears.label>
+  <FFF_HeavyGears.description>Tamanho corporal necessário do colono para equipar esta arma.</FFF_HeavyGears.description>
+  <FFF_MechCommandRange.label>alcance de comando de mecanoides</FFF_MechCommandRange.label>
+  <FFF_MechCommandRange.description>O raio dentro do qual este supervisor pode comandar os mecanoides que controla. Mecanoides fora deste raio não podem receber ordens.</FFF_MechCommandRange.description>
+  <FFF_FearResistance.label>resistência ao medo</FFF_FearResistance.label>
+  <FFF_FearResistance.description>Determina o efeito do medo neste colono ao enfrentar mecanoides grandes. Aumente para 100% para resistir completamente.</FFF_FearResistance.description>
+</LanguageData>

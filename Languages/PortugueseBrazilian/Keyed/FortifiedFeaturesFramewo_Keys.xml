@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FFF.AccessKeyDoor.Locked>Acesso bloqueado</FFF.AccessKeyDoor.Locked>
+  <FFF.AccessKeyDoor.LockedKeysRemaining>Acesso bloqueado: ainda são necessários {0} uso(s) de chave de acesso</FFF.AccessKeyDoor.LockedKeysRemaining>
+  <FFF.AccessKeyDoor.Unlocked>{0} aceita a chave de acesso e desliza para abrir.</FFF.AccessKeyDoor.Unlocked>
+  <FFF_Alert_AlertLevel_Label>Nível de alerta {0}</FFF_Alert_AlertLevel_Label>
+  <FFF_Alert_AlertLevel_Label_Triggered>Alerta disparado!</FFF_Alert_AlertLevel_Label_Triggered>
+  <FFF_Alert_AlertLevel_Desc>Edifícios de detecção de alerta neste mapa elevaram o nível de alerta de segurança para {0}.\n\nSe o nível atingir o máximo, uma contramedida automatizada será disparada. Neutralize os scanners para que ele diminua.\n\nEdifícios monitorados: {1}</FFF_Alert_AlertLevel_Desc>
+  <FFF_Alert_AlertLevel_Desc_Triggered>O nível de alerta de segurança atingiu o máximo e uma contramedida automatizada está ativa.\n\nEdifícios monitorados: {0}</FFF_Alert_AlertLevel_Desc_Triggered>
+  <FFF.AmmoSwitch.Label>{0}</FFF.AmmoSwitch.Label>
+  <FFF.AmmoSwitch.Desc>clique para trocar o tipo de munição</FFF.AmmoSwitch.Desc>
+  <FFF.AmmoSwitch.AmmoTooltip>{0} - {1}</FFF.AmmoSwitch.AmmoTooltip>
+  <FFF.AmmoSwitch.DefaultAmmo>Munição padrão</FFF.AmmoSwitch.DefaultAmmo>
+  <FFF.AmmoSwitch.DefaultProjectile>Projétil padrão</FFF.AmmoSwitch.DefaultProjectile>
+  <FFF.AmmoSwitch.StatFactor>Fator de precisão</FFF.AmmoSwitch.StatFactor>
+  <FFF.AmmoSwitch.UsingDefault>Usando padrão</FFF.AmmoSwitch.UsingDefault>
+  <FFF.CancelActiveBill>Cancelar processo</FFF.CancelActiveBill>
+  <FFF.CancelActiveBillDesc>Cancela o processo atual, devolvendo os recursos e interrompendo o consumo de energia.</FFF.CancelActiveBillDesc>
+  <FFF.Autofacturer.WorkerCanceled>A lista de trabalho em execução foi cancelada, mas o processo ainda precisa ser interrompido.</FFF.Autofacturer.WorkerCanceled>
+  <FFF.Autofacturer.WorkerDone>{0} concluído</FFF.Autofacturer.WorkerDone>
+  <FFF.Autofacturer.CurrentRecipe>tarefa atual: {0}</FFF.Autofacturer.CurrentRecipe>
+  <FFF.Autofacturer.WorkerFinished>os processos atuais foram concluídos; é preciso um colono para trabalhar</FFF.Autofacturer.WorkerFinished>
+  <FFF.Autofacturer.Information>Trabalho restante: {0}\nEtapas restantes: {1}</FFF.Autofacturer.Information>
+  <FFF.Autofacturer.Prepared>Concluído; é preciso um colono para trabalhar</FFF.Autofacturer.Prepared>
+  <FFF.StopWarmup>Parar transmissão</FFF.StopWarmup>
+  <FFF.StartWarmup>Iniciar transmissão</FFF.StartWarmup>
+  <FFF.NotCooldown>Não é possível iniciar: ainda não resfriou</FFF.NotCooldown>
+  <FFF.WillReadyAt>concluirá a transmissão em:</FFF.WillReadyAt>
+  <FFF.WillCooldownAt>concluirá o resfriamento em:</FFF.WillCooldownAt>
+  <FFF.BuildingMover.Dir0>Mover para frente</FFF.BuildingMover.Dir0>
+  <FFF.BuildingMover.Dir1>Mover para trás</FFF.BuildingMover.Dir1>
+  <FFF.BuildingMover.Dir2>Mover para a direita</FFF.BuildingMover.Dir2>
+  <FFF.BuildingMover.Dir3>Mover para a esquerda</FFF.BuildingMover.Dir3>
+  <FFF.BuildingMover.Desc>Move esta estrutura ao longo de seu eixo de orientação se o destino estiver livre.</FFF.BuildingMover.Desc>
+  <FFF.BuildingMover.Blocked>O destino está bloqueado.</FFF.BuildingMover.Blocked>
+  <FFF.BuildingMover.Rotate>Girar</FFF.BuildingMover.Rotate>
+  <FFF.BuildingMover.RotateDesc>Gira esta estrutura no sentido horário se houver espaço.</FFF.BuildingMover.RotateDesc>
+  <FFF.BuildingMover.Place.Toggle>Trilho de vaivém: alterna ida e volta</FFF.BuildingMover.Place.Toggle>
+  <FFF.BuildingMover.Place.OneWay>Move-se ao longo de seu eixo de orientação</FFF.BuildingMover.Place.OneWay>
+  <FFF.BuildingMover.Place.Crush>Esmaga obstáculos no caminho</FFF.BuildingMover.Place.Crush>
+  <FFF.BuildingMover.Place.Mine>Minera veios de minério que esmaga ao passar</FFF.BuildingMover.Place.Mine>
+  <DMS.MachineCabinet.Door.Open>Abrir porta</DMS.MachineCabinet.Door.Open>
+  <DMS.MachineCabinet.Door.Close>Fechar porta</DMS.MachineCabinet.Door.Close>
+  <DMS.MachineCabinet.Door.OpenDesc>Desliza para o lado ao abrir. Tudo o que estiver no caminho é empurrado e machucado.</DMS.MachineCabinet.Door.OpenDesc>
+  <DMS.MachineCabinet.Charge.Label>CARGA TROVEJANTE!</DMS.MachineCabinet.Charge.Label>
+  <DMS.MachineCabinet.Charge.Desc>Avança com força, esmagando tudo no caminho e arrancando minério da rocha.</DMS.MachineCabinet.Charge.Desc>
+  <FFF_CompContinuousDamager_Activate>Ativar</FFF_CompContinuousDamager_Activate>
+  <FFF_CompContinuousDamager_Deactivate>Desativar</FFF_CompContinuousDamager_Deactivate>
+  <FFF_CompContinuousDamager_Desc>Ativa este dispositivo. Ele causará {0} de dano {2} a cada intervalo por {1} segundos, e então se destruirá.</FFF_CompContinuousDamager_Desc>
+  <FFF_CompContinuousDamager_Remaining>Ativo — tempo restante: {0}</FFF_CompContinuousDamager_Remaining>
+  <FFF_NoContinuousDamagerComp>Nenhum componente de dano contínuo encontrado neste edifício.</FFF_NoContinuousDamagerComp>
+  <FFF_ContinuousDamagerAlreadyActive>O dispositivo já está ativo.</FFF_ContinuousDamagerAlreadyActive>
+  <FFF_ArmThermiteDevice>Armar dispositivo</FFF_ArmThermiteDevice>
+  <FFF.DamageBlocker.Charges>Cargas de bloqueio: {0}/{1}</FFF.DamageBlocker.Charges>
+  <FFF.DamageBlocker.Replenish>Reabastecer ({0} x{1})</FFF.DamageBlocker.Replenish>
+  <FFF.DamageBlocker.Threshold>Limite de divisão: {0}{1}</FFF.DamageBlocker.Threshold>
+  <FFF.DamageBlocker.Absorbed>Dano absorvido.</FFF.DamageBlocker.Absorbed>
+  <FFF.DamageBlocker.Stat.Category>Proteção por limite</FFF.DamageBlocker.Stat.Category>
+  <FFF.DamageBlocker.Stat.Threshold>Limite de divisão</FFF.DamageBlocker.Stat.Threshold>
+  <FFF.DamageBlocker.Stat.ThresholdDesc>A quantidade de dano a partir da qual esta proteção é ativada.</FFF.DamageBlocker.Stat.ThresholdDesc>
+  <FFF.DamageBlocker.Stat.Charges>Cargas de bloqueio</FFF.DamageBlocker.Stat.Charges>
+  <FFF.DamageBlocker.Stat.ChargesDesc>Número de vezes que esta proteção pode bloquear antes de precisar ser reabastecida.</FFF.DamageBlocker.Stat.ChargesDesc>
+  <FFF.DamageBlocker.Stat.Behavior>Comportamento do limite</FFF.DamageBlocker.Stat.Behavior>
+  <FFF.DamageBlocker.Stat.BehaviorDesc>Como esta proteção reage a acertos acima e abaixo do limite.</FFF.DamageBlocker.Stat.BehaviorDesc>
+  <FFF.DamageBlocker.Stat.BehaviorAbove>Acima do limite: {0} ({1})</FFF.DamageBlocker.Stat.BehaviorAbove>
+  <FFF.DamageBlocker.Stat.BehaviorBelow>Abaixo do limite: {0} ({1})</FFF.DamageBlocker.Stat.BehaviorBelow>
+  <FFF.DamageBlocker.Stat.ActionBlock>totalmente bloqueado</FFF.DamageBlocker.Stat.ActionBlock>
+  <FFF.DamageBlocker.Stat.ActionClamp>limitado a {0}</FFF.DamageBlocker.Stat.ActionClamp>
+  <FFF.DamageBlocker.Stat.ActionPass>passa direto</FFF.DamageBlocker.Stat.ActionPass>
+  <FFF.DamageBlocker.Stat.ConsumeYes>consome uma carga</FFF.DamageBlocker.Stat.ConsumeYes>
+  <FFF.DamageBlocker.Stat.ConsumeNo>sem custo de carga</FFF.DamageBlocker.Stat.ConsumeNo>
+  <FFF.DamageBlocker.Stat.Filter>Condições ativas</FFF.DamageBlocker.Stat.Filter>
+  <FFF.DamageBlocker.Stat.FilterDesc>Restrições sobre a quais ataques esta proteção responde.</FFF.DamageBlocker.Stat.FilterDesc>
+  <FFF.DamageBlocker.Stat.FilterValue>Restrita</FFF.DamageBlocker.Stat.FilterValue>
+  <FFF.DamageBlocker.Stat.FilterSource>Fontes de ataque: {0}</FFF.DamageBlocker.Stat.FilterSource>
+  <FFF.DamageBlocker.Stat.FilterAllowed>Bloqueia apenas: {0}</FFF.DamageBlocker.Stat.FilterAllowed>
+  <FFF.DamageBlocker.Stat.FilterExcluded>Ignora: {0}</FFF.DamageBlocker.Stat.FilterExcluded>
+  <FFF.DamageBlocker.Stat.FilterWeaponTags>Marcadores de arma: {0}</FFF.DamageBlocker.Stat.FilterWeaponTags>
+  <FFF.DamageBlocker.Stat.SourceRanged>à distância</FFF.DamageBlocker.Stat.SourceRanged>
+  <FFF.DamageBlocker.Stat.SourceMelee>corpo a corpo</FFF.DamageBlocker.Stat.SourceMelee>
+  <FFF.DamageBlocker.Stat.SourceDirect>direto</FFF.DamageBlocker.Stat.SourceDirect>
+  <FFF.DamageBlocker.Stat.SourceNone>nenhum</FFF.DamageBlocker.Stat.SourceNone>
+  <FFF.DamageBlocker.Stat.Era>Comportamento de disparo</FFF.DamageBlocker.Stat.Era>
+  <FFF.DamageBlocker.Stat.EraValue>{0} reação(ões)</FFF.DamageBlocker.Stat.EraValue>
+  <FFF.DamageBlocker.Stat.EraTrigger>Dispara em: {0}</FFF.DamageBlocker.Stat.EraTrigger>
+  <FFF.DamageBlocker.Stat.EraEntry>{0} de {1} a {2}</FFF.DamageBlocker.Stat.EraEntry>
+  <FFF.DamageBlocker.Stat.EraEntryCond>Se {0} abaixo de {1}: {2}</FFF.DamageBlocker.Stat.EraEntryCond>
+  <FFF.DamageBlocker.Stat.EraEntryNone>Sem dano de retaliação</FFF.DamageBlocker.Stat.EraEntryNone>
+  <FFF.DamageBlocker.Stat.EraPartRandom>uma parte aleatória</FFF.DamageBlocker.Stat.EraPartRandom>
+  <FFF.DamageBlocker.Stat.EraOnHit>qualquer acerto</FFF.DamageBlocker.Stat.EraOnHit>
+  <FFF.DamageBlocker.Stat.EraOnConsume>carga consumida</FFF.DamageBlocker.Stat.EraOnConsume>
+  <FFF.DamageBlocker.Stat.EraOnAbove>acima do limite</FFF.DamageBlocker.Stat.EraOnAbove>
+  <FFF.DamageBlocker.Stat.EraOnBelow>abaixo do limite</FFF.DamageBlocker.Stat.EraOnBelow>
+  <FFF.DamageBlocker.Stat.EraNever>nunca</FFF.DamageBlocker.Stat.EraNever>
+  <FFF.CurrentOperator>Operador:</FFF.CurrentOperator>
+  <FFF.RequireOperator>Requer operador</FFF.RequireOperator>
+  <FFF.BunkerFacility_EnterText>Entrar na fortificação</FFF.BunkerFacility_EnterText>
+  <FFF.BunkerFacility_ExitText>Sair da fortificação</FFF.BunkerFacility_ExitText>
+  <FFF.DisabledUndrafted>não alistado</FFF.DisabledUndrafted>
+  <FFF.MinifiedDeployable.SelectedAreaBlocked>área bloqueada</FFF.MinifiedDeployable.SelectedAreaBlocked>
+  <FFF.Drone.NoRestrict>Irrestrito</FFF.Drone.NoRestrict>
+  <FFF.Drone.AllowedArea>Área permitida</FFF.Drone.AllowedArea>
+  <FFF.Drone.AllowedAreaDesc>Define a área permitida dos drones; um drone implantado seguirá as configurações de área da plataforma.</FFF.Drone.AllowedAreaDesc>
+  <FFF.Drone.NoControlPlatform>plataforma de controle indisponível</FFF.Drone.NoControlPlatform>
+  <FFF.Drone.NoController>Sem controle</FFF.Drone.NoController>
+  <FFF.Drone.ControllerNotInControl>plataforma não controlada</FFF.Drone.ControllerNotInControl>
+  <FFF.Drone.ControllerNotDrafted>plataforma não alistada</FFF.Drone.ControllerNotDrafted>
+  <FFF.Drone.ControllerNotInMap>plataforma inexistente no mapa</FFF.Drone.ControllerNotInMap>
+  <FFF.ExplosiveOnDead>Detonará cargas explosivas após a colisão</FFF.ExplosiveOnDead>
+  <FFF.FillMechPlatform>Prioriza o preenchimento de {0}x{1}</FFF.FillMechPlatform>
+  <FFF.Drone.Return>Retornar à plataforma</FFF.Drone.Return>
+  <FFF.Drone.ReturnDesc>Ordena que o drone retorne à plataforma de implantação e desligue, o que restaurará os recursos consumidos.</FFF.Drone.ReturnDesc>
+  <FFF.Drone.NoPlatform>A plataforma de implantação de {0} está indisponível</FFF.Drone.NoPlatform>
+  <FFF.DeployDrone>Implantar {0}</FFF.DeployDrone>
+  <FFF.DeployDroneDesc>Consome {0} armazenado para implantar até {1} drones {2}. Se a plataforma for destruída, todos os {3} controlados por ela serão desligados. {4} opera com baterias internas e retorna automaticamente à plataforma quando a bateria está baixa.</FFF.DeployDroneDesc>
+  <FFF.AutoDeploy>Implantação automática</FFF.AutoDeploy>
+  <FFF.AutoDeployDesc>Ordena que esta plataforma implante e recolha drones automaticamente em um intervalo estável.</FFF.AutoDeployDesc>
+  <FFF.AutoDeployEnabled>Implantação automática ativada</FFF.AutoDeployEnabled>
+  <FFF.WillDeployAt>Intervalo de implantação: {0}</FFF.WillDeployAt>
+  <FFF.RetractDrones>Recolher todos os {0}</FFF.RetractDrones>
+  <FFF.RetractDronesDesc>Ordena que todos os {0} controlados por esta plataforma se retirem, o que reabastecerá o consumo de {1}.</FFF.RetractDronesDesc>
+  <FFF.Drone.SelectKind>Tipo de implantação: {0}</FFF.Drone.SelectKind>
+  <FFF.Drone.SelectKindDesc>Escolha qual tipo de unidade esta plataforma implanta. Unidades já em campo não são afetadas.</FFF.Drone.SelectKindDesc>
+  <FFF.Drone.KindLocked>requer {0}</FFF.Drone.KindLocked>
+  <FFF.Drone.NoSpawnKind>Nenhum tipo de unidade implantável disponível</FFF.Drone.NoSpawnKind>
+  <FFF.Drone.GenericPlural>drones</FFF.Drone.GenericPlural>
+  <FFF.Message.BillSuspended>{0} em {1} foram suspensas</FFF.Message.BillSuspended>
+  <FFF.Cannot.TableNotInCleanRoom>exige ambiente livre de poeira com nível de limpeza acima de {1}. Atual: {0}</FFF.Cannot.TableNotInCleanRoom>
+  <FFF.Cannot.TableNotInTemperatureBetween>exige temperatura ambiente entre {1} e {2}. Atual: {0}</FFF.Cannot.TableNotInTemperatureBetween>
+  <FFF.Cannot.TableNotInLightnessBetween>exige iluminação ambiente entre {1} e {2}. Atual: {0}</FFF.Cannot.TableNotInLightnessBetween>
+  <FFF.Cannot.TableNotInLightness>exige ambiente claro com nível de luz acima de {1}. Atual: {0}</FFF.Cannot.TableNotInLightness>
+  <FFF.Cannot.TableNotInDarkness>exige ambiente escuro com nível de luz abaixo de {1}. Atual: {0}</FFF.Cannot.TableNotInDarkness>
+  <FFF.Cannot.TableNotInPressureBetween>exige ambiente pressurizado com vácuo entre {1} e {2}. Atual: {0}</FFF.Cannot.TableNotInPressureBetween>
+  <FFF.Cannot.TableNotInPressure>exige ambiente pressurizado com taxa de vácuo abaixo de {1}. Atual: {0}</FFF.Cannot.TableNotInPressure>
+  <FFF.Cannot.TableNotInVacuum>exige ambiente de baixa pressão com taxa de vácuo acima de {1}. Atual: {0}</FFF.Cannot.TableNotInVacuum>
+  <FFF.Cannot.TableNotInMicroGravity>exige um ambiente de microgravidade.</FFF.Cannot.TableNotInMicroGravity>
+  <FFF.EnvironmentRestriction>ambiente exigido</FFF.EnvironmentRestriction>
+  <FFF.CleanRoom>Limpeza interna acima de: {0}</FFF.CleanRoom>
+  <FFF.Temperature>Temperatura interna entre: {0} ~ {1}</FFF.Temperature>
+  <FFF.LightnessDarkness>brilho interno entre: {0} ~ {1}</FFF.LightnessDarkness>
+  <FFF.Lightness>Brilho interno acima de: {0}</FFF.Lightness>
+  <FFF.Darkness>Brilho interno abaixo de: {0}</FFF.Darkness>
+  <FFF.PressureVacuum>Vácuo entre: {0} ~ {1}</FFF.PressureVacuum>
+  <FFF.Pressure>Vácuo abaixo de: {0}</FFF.Pressure>
+  <FFF.Vacuum>Vácuo acima de: {0}</FFF.Vacuum>
+  <FFF.MicroGravity>Microgravidade</FFF.MicroGravity>
+  <FFF.PressureRestriction>Requer pressão: {0}</FFF.PressureRestriction>
+  <FFF.Cannot.TableEnvironmentUnknown>não é possível determinar o ambiente ao redor da bancada de trabalho.</FFF.Cannot.TableEnvironmentUnknown>
+  <FFF.EnvironmentExemption.Label>Isenção ambiental</FFF.EnvironmentExemption.Label>
+  <FFF.EnvironmentExemption.Desc>Enquanto vinculada e ativa, esta instalação dispensa ou flexibiliza os requisitos ambientais das receitas fabricadas na bancada de trabalho conectada.</FFF.EnvironmentExemption.Desc>
+  <FFF.EnvironmentExemption.Inactive>inativa</FFF.EnvironmentExemption.Inactive>
+  <FFF.EnvironmentExemption.NoneLabel>nenhum</FFF.EnvironmentExemption.NoneLabel>
+  <FFF.EnvironmentExemption.StatusLine>Isento: {0}</FFF.EnvironmentExemption.StatusLine>
+  <FFF.EnvironmentExemption.RecipeNote>(pode ser dispensado por uma instalação vinculada)</FFF.EnvironmentExemption.RecipeNote>
+  <FFF.EnvironmentExemption.Cleanliness>limpeza</FFF.EnvironmentExemption.Cleanliness>
+  <FFF.EnvironmentExemption.Temperature>temperatura</FFF.EnvironmentExemption.Temperature>
+  <FFF.EnvironmentExemption.Lightness>brilho</FFF.EnvironmentExemption.Lightness>
+  <FFF.EnvironmentExemption.Darkness>escuridão</FFF.EnvironmentExemption.Darkness>
+  <FFF.EnvironmentExemption.Pressure>pressão</FFF.EnvironmentExemption.Pressure>
+  <FFF.EnvironmentExemption.Vacuum>vácuo</FFF.EnvironmentExemption.Vacuum>
+  <FFF.EnvironmentExemption.MicroGravity>microgravidade</FFF.EnvironmentExemption.MicroGravity>
+  <FFF.EnvironmentExemption.CleanlinessOffset>limpeza -{0}</FFF.EnvironmentExemption.CleanlinessOffset>
+  <FFF.EnvironmentExemption.TemperatureOffset>temperatura ±{0}</FFF.EnvironmentExemption.TemperatureOffset>
+  <FFF.EnvironmentExemption.LightnessOffset>brilho -{0}</FFF.EnvironmentExemption.LightnessOffset>
+  <FFF.EnvironmentExemption.DarknessOffset>escuridão +{0}</FFF.EnvironmentExemption.DarknessOffset>
+  <FFF.EnvironmentExemption.PressureOffset>pressão +{0}</FFF.EnvironmentExemption.PressureOffset>
+  <FFF.EnvironmentExemption.VacuumOffset>vácuo -{0}</FFF.EnvironmentExemption.VacuumOffset>
+  <FFF_PaintSystemTitle>Sistema de Pintura e Cor</FFF_PaintSystemTitle>
+  <FFF_ChangePaint>Alterar pintura</FFF_ChangePaint>
+  <FFF_ChangePaintDesc>Abre a interface de pintura personalizada.</FFF_ChangePaintDesc>
+  <FFF_NoDye>Nenhum corante disponível por perto</FFF_NoDye>
+  <FFF_CancelPaint>Cancelar pintura</FFF_CancelPaint>
+  <FFF_CancelPaintDesc>Cancela o trabalho de pintura pendente</FFF_CancelPaintDesc>
+  <FFF_PaintRequestSent>Trabalho de pintura enviado</FFF_PaintRequestSent>
+  <FFF_ConfirmPaint>Confirmar cor</FFF_ConfirmPaint>
+  <FFF_CamoScheme>Esquema de camuflagem</FFF_CamoScheme>
+  <FFF_2Columns>2 colunas</FFF_2Columns>
+  <FFF_4Columns>4 colunas</FFF_4Columns>
+  <FFF_6Columns>6 colunas</FFF_6Columns>
+  <FFF_CamoStandard>Padrão</FFF_CamoStandard>
+  <FFF_CamoStandardDesc>Padrão (sem camuflagem)</FFF_CamoStandardDesc>
+  <FFF_Color1>Cor 1 (R)</FFF_Color1>
+  <FFF_Color2>Cor 2 (G)</FFF_Color2>
+  <FFF_Color3>Cor 3 (B)</FFF_Color3>
+  <FFF_Red>Vermelho</FFF_Red>
+  <FFF_Green>Verde</FFF_Green>
+  <FFF_Blue>Azul</FFF_Blue>
+  <FFF_BaseBrightness>Brilho base</FFF_BaseBrightness>
+  <FFF_OverlayMultiply> Multiplicar</FFF_OverlayMultiply>
+  <FFF_OverlayDirect> Direto</FFF_OverlayDirect>
+  <FFF_OverlayTitle>Sobreposição</FFF_OverlayTitle>
+  <FFF_OverlayNone>Sem sobreposição</FFF_OverlayNone>
+  <FFF_CopyPaintConfig>Copiar configuração</FFF_CopyPaintConfig>
+  <FFF_PaintConfigCopied>Configuração copiada</FFF_PaintConfigCopied>
+  <FFF_PastePaintConfig>Colar configuração</FFF_PastePaintConfig>
+  <FFF_PastePaintConfigDesc>Cola a configuração de pintura copiada</FFF_PastePaintConfigDesc>
+  <FFF_TimedSite_AlreadyActive>uma operação deste tipo já está em andamento</FFF_TimedSite_AlreadyActive>
+  <FFF_TimedSite_CannotFindSite>Não foi possível localizar um alvo: nenhum local válido foi encontrado no mapa-múndi.</FFF_TimedSite_CannotFindSite>
+  <FFF_TimedSite_ExpiredLabel>Local do alvo perdido</FFF_TimedSite_ExpiredLabel>
+  <FFF_TimedSite_ExpiredText>A janela de oportunidade se fechou. O local do alvo mudou de posição e foi perdido.</FFF_TimedSite_ExpiredText>
+  <FFF_TimedSite_ClearedLabel>Local garantido</FFF_TimedSite_ClearedLabel>
+  <FFF_TimedSite_ClearedText>Todos os hostis no local foram neutralizados. O que restar no local é seu para reivindicar.</FFF_TimedSite_ClearedText>
+  <FFF_TimedSite_EntryCountdownLabel>Local hostil: reforços a caminho</FFF_TimedSite_EntryCountdownLabel>
+  <FFF_TimedSite_EntryCountdownText>Você entrou em uma instalação hostil e sua presença foi detectada.\n\nReforços inimigos chegarão em {0}. Termine o que tem de fazer e saia — ou se entrincheire.</FFF_TimedSite_EntryCountdownText>
+  <FFF.MountedWeapon>Arma montada</FFF.MountedWeapon>
+  <FFF.MountedWeaponCanOnlyBeEquippedBySpecificApparelOrRaces>Esta arma só pode ser equipada pelos autômatos ou chassis de mecanoide listados</FFF.MountedWeaponCanOnlyBeEquippedBySpecificApparelOrRaces>
+  <FFF.WeaponCanBeEquippedBySpecificApparelOrRaces>Esta arma pode ser equipada com os vestuários ou biônicos específicos listados</FFF.WeaponCanBeEquippedBySpecificApparelOrRaces>
+  <FFF.Req_TechLevel>Precisa estar no nível tecnológico listado:</FFF.Req_TechLevel>
+  <FFF.Req_BodySize>Pode equipar arma pesada com requisito de tamanho corporal abaixo de: {0}</FFF.Req_BodySize>
+  <FFF.Req_WeaponFilter>Limitado às armas listadas abaixo</FFF.Req_WeaponFilter>
+  <FFF.Req_NoWeaponFilter>Sem outras restrições de armas</FFF.Req_NoWeaponFilter>
+  <FFF.BodysizeNotSupported>tamanho corporal não suportado (precisa: {0})</FFF.BodysizeNotSupported>
+  <FFF.ViewUsableWeapons>Ver armas utilizáveis</FFF.ViewUsableWeapons>
+  <FFF.WeaponNotSupported>Arma não suportada</FFF.WeaponNotSupported>
+  <FFF.FrameNotSupported>Chassi de mecanoide não suportado</FFF.FrameNotSupported>
+  <FFF_InternalBattery>Bateria interna</FFF_InternalBattery>
+  <FFF_SelfPowered>autoalimentado</FFF_SelfPowered>
+  <FFF_BatteryFull>cheia</FFF_BatteryFull>
+  <FFF.WillTerminateTheBetrayedUnit>DMS: Gatilho de segurança ativado</FFF.WillTerminateTheBetrayedUnit>
+  <FFF.Reason.NoMechanitorInMap>Precisa de um mecanizador no mapa</FFF.Reason.NoMechanitorInMap>
+  <FFF.Reason.NotMechanitor>Precisa ser um mecanizador</FFF.Reason.NotMechanitor>
+  <FFF.Message.BandwidthSupported>O enlace orbital estabeleceu conexão com o mecanizador</FFF.Message.BandwidthSupported>
+  <FFF.Reason.NoPayloadCapacity>Inventário cheio</FFF.Reason.NoPayloadCapacity>
+  <FFF.TakeToInventory>Pegar {0}</FFF.TakeToInventory>
+  <FFF.DropGears>Largar todos os itens</FFF.DropGears>
+  <FFF.Reason.WorkTypeDisabled>pesquisa desativada</FFF.Reason.WorkTypeDisabled>
+  <FFF.Reason.NeedBandwidth>Precisa de {0} de banda-larga</FFF.Reason.NeedBandwidth>
+  <FFF.Reason.AltitudeLayerOccupied>camada de altitude ocupada</FFF.Reason.AltitudeLayerOccupied>
+  <FFF.Reason.NoEnoughFuel>Combustível insuficiente</FFF.Reason.NoEnoughFuel>
+  <FFF.Reason.NotFueled>Sem combustível</FFF.Reason.NotFueled>
+  <FFF.DeactivatedMech_Disable>Destruir mecanoide</FFF.DeactivatedMech_Disable>
+  <FFF.DeactivatedMech_TryHack>Tentar hackear {0}</FFF.DeactivatedMech_TryHack>
+  <FFF.DeactivatedMech_CannotHack>Não é possível hackear</FFF.DeactivatedMech_CannotHack>
+  <FFF.BillRequires.Mass>Requer massa total acima de {0}</FFF.BillRequires.Mass>
+  <FFF.BillRequires.MarketValue>Requer valor total acima de {0}</FFF.BillRequires.MarketValue>
+  <FFF.MechReturn>mecanoide desaparecido retornou</FFF.MechReturn>
+  <FFF.MechReturnDesc>um mecanoide errante que estava sob seu comando retornou à sua base.</FFF.MechReturnDesc>
+  <FFF.MechWake>falha ao reiniciar o interruptor</FFF.MechWake>
+  <FFF.MechWakeDesc>Talvez por ter vagado por muito tempo, o interruptor de homem morto não reiniciou como de costume, e a unidade defeituosa passou a compreender a morte. \n\nEla deu um nome a si mesma e agora se recusa a ser controlada, mas respeita seu antigo comandante. \n\nEla seguirá suas ordens até decidir partir.</FFF.MechWakeDesc>
+  <FFF.MechStartLeave>{0} está partindo</FFF.MechStartLeave>
+  <FFF.MechStartLeaveDesc>Depois de algum tempo juntos, {0} decidiu que é hora de partir.</FFF.MechStartLeaveDesc>
+  <FFF.WokenMechLeave>{0} está partindo</FFF.WokenMechLeave>
+  <FFF.WokenMechLeaveDesc>Depois de algum tempo juntos, {0} decidiu que é hora de partir.</FFF.WokenMechLeaveDesc>
+  <FFF.MechStory_Attack>O desfecho de {0}</FFF.MechStory_Attack>
+  <FFF.MechStory_Loot>A retribuição de favores de {0}</FFF.MechStory_Loot>
+  <FFF.APS_TickRemain>Tempo restante do sistema de proteção ativa: {0}</FFF.APS_TickRemain>
+  <FFF.WeaponImprinted>Arma vinculada: {0}({1})</FFF.WeaponImprinted>
+  <FFF.Inprinted>Vínculo: {0}</FFF.Inprinted>
+  <FFF.InprintedDesc>o mecanoide da colônia {0} equipou sua primeira arma, o que vincula sua capacidade de aprendizado adaptativo a esse tipo de arma.</FFF.InprintedDesc>
+  <FFF.AirSupportFromClosestBase>{1} de {0} está a caminho.</FFF.AirSupportFromClosestBase>
+  <FFF.Armor.CE>{0}mmRha de blindagem</FFF.Armor.CE>
+  <FFF.Armor.Vanilla>{0}% de proteção</FFF.Armor.Vanilla>
+  <FFF.ScenPart_SelectPrefabDef>selecionar estrutura</FFF.ScenPart_SelectPrefabDef>
+  <FFF.Message.CannotPlaceWithoutWall>deve ser colocado em uma parede ou porta</FFF.Message.CannotPlaceWithoutWall>
+  <FFF.Message.MustOnACoverBuilding>deve ser colocado em uma estrutura de cobertura</FFF.Message.MustOnACoverBuilding>
+  <FFF_NextRaidIn>Tempo estimado da incursão: {0}</FFF_NextRaidIn>
+  <FFF_NextStrikeIn>Tempo estimado do ataque: {0}</FFF_NextStrikeIn>
+  <FFF_NextStrikeStatus>Status do apoio aéreo: {0}</FFF_NextStrikeStatus>
+  <FFF_Status_Standby>Em espera (aguardando alvo)</FFF_Status_Standby>
+  <FFF_Site_LocalMonitoring>Monitoramento local (offline)</FFF_Site_LocalMonitoring>
+  <FFF.DeactivateMech>Desativar</FFF.DeactivateMech>
+  <FFF.DeactivateMechDesc>Coloca este mecanoide em modo de hibernação. Ele se tornará uma estrutura dormente que pode ser reativada depois por um mecanizador.</FFF.DeactivateMechDesc>
+  <FFF.MechDeactivated>{0} entrou em modo de hibernação.</FFF.MechDeactivated>
+  <FFF.MechActivated>{0} foi ativado e agora está sob o controle de {1}.</FFF.MechActivated>
+  <FFF.ContainsMech>Contém: {0}</FFF.ContainsMech>
+  <FFF.CannotReach>Não é possível alcançar</FFF.CannotReach>
+  <FFF.NeedMoreBandwidth>Precisa de {0} de banda-larga para controlar este mecanoide.</FFF.NeedMoreBandwidth>
+  <FFF.DeactivatedMech_Control>Controlar {0}</FFF.DeactivatedMech_Control>
+  <FFF.DeactivatedMech_CannotControl>Não é possível controlar</FFF.DeactivatedMech_CannotControl>
+  <FFF.HackFailed>Falha no hackeamento</FFF.HackFailed>
+  <FFF.HackFailedDesc>{0} falhou ao hackear o mecanoide. O mecanoide despertou e agora é hostil!</FFF.HackFailedDesc>
+  <FFF.Mothball.Reason.NotSpawned>Não implantado</FFF.Mothball.Reason.NotSpawned>
+  <FFF.Mothball.Reason.NotMech>Não é um mecanoide</FFF.Mothball.Reason.NotMech>
+  <FFF.Mothball.Reason.NotPlayer>Não está sob seu controle</FFF.Mothball.Reason.NotPlayer>
+  <FFF.Mothball.Reason.Drafted>Não é possível encapsular enquanto alistado</FFF.Mothball.Reason.Drafted>
+  <FFF.Mothball.Reason.Downed>Não é possível encapsular enquanto incapacitado</FFF.Mothball.Reason.Downed>
+  <FFF.Mothball.Reason.NoCapsule>Nenhuma estrutura de armazenamento adequada para este chassi</FFF.Mothball.Reason.NoCapsule>
+  <FFF_Camouflage_Label>Camuflagem</FFF_Camouflage_Label>
+  <FFF_Camouflage_Desc>Alterna o modo de camuflagem.</FFF_Camouflage_Desc>
+  <FFF_Camouflage_CooldownDesc>Tempo restante até a recarga da camuflagem: {0}.</FFF_Camouflage_CooldownDesc>
+  <FFF_MessageLadarTriggered>Um scanner de perímetro detectou uma criatura invisível.</FFF_MessageLadarTriggered>
+  <FFF_LadarDetectedInvisible>Objeto invisível por perto</FFF_LadarDetectedInvisible>
+  <FFF.Reason.WeaponNotSupported>Sistema de armas não suportado</FFF.Reason.WeaponNotSupported>
+  <FFF.Reason.FrameNotSupported>Chassi de mecanoide não suportado</FFF.Reason.FrameNotSupported>
+  <FFF.Modification_RaceNotSupported>modelo não suportado</FFF.Modification_RaceNotSupported>
+  <FFF.Modification_NoValidPart>nenhuma parte válida para aplicar a modificação</FFF.Modification_NoValidPart>
+  <FFF.Modification_Remove>remover {0}</FFF.Modification_Remove>
+  <FFF.Message.AddonBroken>A durabilidade da modificação de um dos seus mecanoides se esgotou</FFF.Message.AddonBroken>
+  <FFF.Message.Modification.Applied>Modificação aplicada</FFF.Message.Modification.Applied>
+  <FFF.Message.Modification.Removed>Modificação removida</FFF.Message.Modification.Removed>
+  <FFF.PlatingTooltip>A blindagem cerâmica descartável protege o mecanoide de danos como armadura ablativa até que sua durabilidade se esgote e precise ser substituída.</FFF.PlatingTooltip>
+  <FFF.Mod.CannotUseDueToNotSupport>Esta modificação de arma não pode ser aplicada aqui</FFF.Mod.CannotUseDueToNotSupport>
+  <FFF.Mod.NotAGun>O alvo não é uma arma</FFF.Mod.NotAGun>
+  <FFF.Mod.NotModifiable>Esta arma não aceita modificações</FFF.Mod.NotModifiable>
+  <FFF.Mod.NotValidForThisWeapon>Esta modificação não é válida para esta arma</FFF.Mod.NotValidForThisWeapon>
+  <FFF.MechModification.InfoName>Nome: {0}</FFF.MechModification.InfoName>
+  <FFF.MechModification.InfoRace>Modelo: {0}</FFF.MechModification.InfoRace>
+  <FFF.MechModification.InfoAge>Tempo de serviço: {0}</FFF.MechModification.InfoAge>
+  <FFF.MechModification.PawnInfoTip>Abre as informações do mecanoide.</FFF.MechModification.PawnInfoTip>
+  <FFF.MechModification.GizmoLabel>Modificação de mecanoide</FFF.MechModification.GizmoLabel>
+  <FFF.MechModification.GizmoDesc>Abre a janela de modificações deste mecanoide. Requer microeletrônica.</FFF.MechModification.GizmoDesc>
+  <FFF.MechModification.SelectModsFor>Modificações disponíveis para {0}</FFF.MechModification.SelectModsFor>
+  <FFF.MechModification.SelectPartPrompt>Selecione um espaço corporal.</FFF.MechModification.SelectPartPrompt>
+  <FFF.MechModification.NoModsOnMap>Nenhuma modificação compatível está disponível neste mapa.</FFF.MechModification.NoModsOnMap>
+  <FFF.MechModification.QueueEmpty>Nenhuma operação na fila.</FFF.MechModification.QueueEmpty>
+  <FFF.MechModification.QueueInstall>Instalar {0} em {1}</FFF.MechModification.QueueInstall>
+  <FFF.MechModification.QueueUninstall>Remover {0} de {1}</FFF.MechModification.QueueUninstall>
+  <FFF.MechModification.Missing>ausente</FFF.MechModification.Missing>
+  <FFF.MechModification.PartFallback>chassi</FFF.MechModification.PartFallback>
+  <FFF.MechModification.SavePreset>Salvar predefinição</FFF.MechModification.SavePreset>
+  <FFF.MechModification.LoadPreset>Carregar predefinição</FFF.MechModification.LoadPreset>
+  <FFF.MechModification.PresetDefaultName>Predefinição de mecanoide</FFF.MechModification.PresetDefaultName>
+  <FFF.MechModification.PresetSaved>Predefinição salva: {0}</FFF.MechModification.PresetSaved>
+  <FFF.MechModification.PresetLoaded>Predefinição carregada: {0}</FFF.MechModification.PresetLoaded>
+  <FFF.MechModification.PresetLoadFailed>Não foi possível carregar a predefinição: {0}</FFF.MechModification.PresetLoadFailed>
+  <FFF.MechModification.Apply>Aplicar</FFF.MechModification.Apply>
+  <FFF.MechModification.Reset>Redefinir</FFF.MechModification.Reset>
+  <FFF.MechModification.Return>Voltar</FFF.MechModification.Return>
+  <FFF.MechModification.AppliedQueued>Configurações aplicadas; {0} operação(ões) na fila.</FFF.MechModification.AppliedQueued>
+  <FFF.MechModification.InvalidModification>Este item não define uma modificação de mecanoide válida.</FFF.MechModification.InvalidModification>
+  <FFF.MechModification.NotEnoughItems>Não há {0} acessíveis suficientes neste mapa.</FFF.MechModification.NotEnoughItems>
+  <FFF.MechModification.PartOccupied>{0} já tem outra modificação instalada ou na fila.</FFF.MechModification.PartOccupied>
+  <FFF.MechModification.Unique>{0} é exclusiva e não pode ser instalada mais de uma vez no mesmo espaço.</FFF.MechModification.Unique>
+  <FFF.MechModification.StackFull>{0} atingiu seu limite de instalação ({1}).</FFF.MechModification.StackFull>
+  <FFF.MultiTurret.WeaponSlot>Espaço</FFF.MultiTurret.WeaponSlot>
+  <FFF.SelectWeapon>Selecionar torreta</FFF.SelectWeapon>
+  <FFF.MultiTurret.AttackRectTip>Seleciona o alvo da torreta; use {0} para defini-lo para todas as torretas; clique com o botão direito para limpar o alvo forçado ({0} para todas as torretas).</FFF.MultiTurret.AttackRectTip>
+  <FFF.MultiTurret.AutoAttackTip>Alterna o modo de ataque automático; use {0} para defini-lo para todas as torretas.</FFF.MultiTurret.AutoAttackTip>
+  <FFF.MultiTurret.DropWeaponTip>Larga a arma da torreta; use {0} para largar todas as armas.</FFF.MultiTurret.DropWeaponTip>
+  <FFF.MultiTurret.SelectAmmoTypeTip>Seleciona o tipo de munição. Atual: {0}</FFF.MultiTurret.SelectAmmoTypeTip>
+  <FFF.MultiTurret.CommandSetAmmoSettings>Configurações de munição</FFF.MultiTurret.CommandSetAmmoSettings>
+  <FFF.MultiTurret.CommandSetAmmoSettingsDesc>Define as configurações de coleta automática de munição.</FFF.MultiTurret.CommandSetAmmoSettingsDesc>
+  <FFF_Occultech_SourceRemaining>Conhecimento oculto: {0} / {1} restante</FFF_Occultech_SourceRemaining>
+  <FFF_Occultech_SourceDepleted>Esgotado — um casco inerte; nenhum conhecimento resta</FFF_Occultech_SourceDepleted>
+  <FFF_Occultech_SourceStatLabel>Reserva de conhecimento</FFF_Occultech_SourceStatLabel>
+  <FFF_Occultech_SourceStatDesc>Pontos de conhecimento oculto ainda extraíveis desta fonte.</FFF_Occultech_SourceStatDesc>
+  <FFF_Occultech_ExtractorNoPower>Inativo: sem energia</FFF_Occultech_ExtractorNoPower>
+  <FFF_Occultech_ExtractorNoSource>Inativo: nenhuma fonte de conhecimento à frente</FFF_Occultech_ExtractorNoSource>
+  <FFF_Occultech_ExtractorSourceDepleted>Inativo: fonte esgotada</FFF_Occultech_ExtractorSourceDepleted>
+  <FFF_Occultech_ExtractorNoResearch>Inativo: nenhum projeto em andamento</FFF_Occultech_ExtractorNoResearch>
+  <FFF_Occultech_ExtractorWorking>Extraindo {0} de conhecimento/dia (fonte: restam {1})</FFF_Occultech_ExtractorWorking>
+  <FFF_Occultech_ExtractorStatLabel>Taxa de extração</FFF_Occultech_ExtractorStatLabel>
+  <FFF_Occultech_ExtractorStatDesc>Pontos de conhecimento extraídos por dia enquanto em funcionamento. O conhecimento é arquivado na categoria {0}, transbordando para categorias posteriores da mesma aba de pesquisa.</FFF_Occultech_ExtractorStatDesc>
+  <FFF_SelectMechToControlLabel>Controlar mecanoide</FFF_SelectMechToControlLabel>
+  <FFF_SelectMechToControlDesc>Selecione um mecanoide para colocar sob o controle deste supervisor.</FFF_SelectMechToControlDesc>
+  <FFF.ArtificialOrganismRations>Rações: {COUNT} / {MAX}</FFF.ArtificialOrganismRations>
+  <FFF_RaidWave_LetterLabel>Onda de incursão chegando</FFF_RaidWave_LetterLabel>
+  <FFF_RaidWave_LetterText>Uma onda de incursão de {0} chegou e está atacando sua colônia.</FFF_RaidWave_LetterText>
+  <FFF_RaidWave_Alert>Onda de incursão a caminho</FFF_RaidWave_Alert>
+  <FFF_RaidWave_AlertDesc>Uma onda de incursão de {0} está a caminho e chegará em breve.</FFF_RaidWave_AlertDesc>
+  <FFF_RaidWave_Cooldown>Onda de incursão indisponível por {0}.</FFF_RaidWave_Cooldown>
+  <FFF_RaidWave_NoGameComponent>FFF: componente de jogo RaidWave não encontrado.</FFF_RaidWave_NoGameComponent>
+  <FFF_RaidWave_ConfirmDialog>Chamar {WAVE} enviará as seguintes forças contra sua colônia:\n\n{PAWNS}\n\nContinuar?</FFF_RaidWave_ConfirmDialog>
+  <FFF_Research_DiscoveredLetterLabel>Pesquisa revelada</FFF_Research_DiscoveredLetterLabel>
+  <FFF_Research_DiscoveredLetterText>Nossas últimas descobertas decifraram material arquivado que antes era ilegível. Os seguintes projetos de pesquisa não são mais desconhecidos e agora podem ser iniciados:</FFF_Research_DiscoveredLetterText>
+  <FFF_Research_UnsealLetterLabel>Tecnologia arquivada revelada</FFF_Research_UnsealLetterLabel>
+  <FFF_Research_UnsealLetterText>Registros descriptografados com sucesso significam que o projeto arquivado {PROJECT} não é mais desconhecido, e o que já temos em arquivo vale {PROGRESS} pontos de progresso de pesquisa.</FFF_Research_UnsealLetterText>
+  <FFF_Research_UnsealProgressMessage>{PROJECT} avançou {PROGRESS} pontos de pesquisa.</FFF_Research_UnsealProgressMessage>
+  <FFF_Research_UnsealNothingMessage>Os dados descriptografados não contêm material técnico de valor, mas {PAWN} ainda ganhou {XP} de experiência em {SKILL} com eles.</FFF_Research_UnsealNothingMessage>
+  <FFF_Research_UnsealNothingNoGainMessage>Os dados descriptografados não contêm nada de valor, e ninguém conseguiu aprender nada com eles.</FFF_Research_UnsealNothingNoGainMessage>
+  <FFF.ColonistCount>Contagem de colonos: {0}</FFF.ColonistCount>
+  <FFF.MessageCooldownRemaining>Resfriamento do dispositivo: restam {0}</FFF.MessageCooldownRemaining>
+  <FFF.MessageDeviceReady>{0} terminou de resfriar e voltou a operar.</FFF.MessageDeviceReady>
+  <FFF.DeviceIntercepted>Dispositivo de escudo interceptou: {0}</FFF.DeviceIntercepted>
+  <FFF.Shielded>Protegido</FFF.Shielded>
+  <FFF_StructureGenerated>Estrutura implantada: {0}</FFF_StructureGenerated>
+  <FFF_Substation_TurnOn>Restaurar energia da subestação</FFF_Substation_TurnOn>
+  <FFF_Substation_TurnOnDesc>Reinicia manualmente esta subestação. Nenhum teste de habilidade é necessário — a parte perigosa é desligá-la.</FFF_Substation_TurnOnDesc>
+  <FFF_Substation_HackPrompt>Hackear para desligar</FFF_Substation_HackPrompt>
+  <FFF_Substation_HackedLabel>Offline (desligada)</FFF_Substation_HackedLabel>
+  <FFF_Substation_HackedMsg>{HACKER_labelShort} desligou {SUBJECT_label}.</FFF_Substation_HackedMsg>
+  <FFF_Substation_Online>Status: online — gerando 3000 W</FFF_Substation_Online>
+  <FFF_Substation_Offline>Status: offline (desligada manualmente)</FFF_Substation_Offline>
+  <FFF_Substation_EMPDisabled>Status: desativada por PEM</FFF_Substation_EMPDisabled>
+  <FFF_Substation_ShockMessage>{PAWN_labelShort} levou um choque ao desligar a subestação!</FFF_Substation_ShockMessage>
+  <FFF_RimIgnore_Title>Envio à Oficina — conteúdo excluído</FFF_RimIgnore_Title>
+  <FFF_RimIgnore_Subtitle>{0} — envio filtrado por {1}</FFF_RimIgnore_Subtitle>
+  <FFF_RimIgnore_Summary>Serão enviados: {0} arquivos ({1})\n\nExcluídos: {2} entradas / {3} arquivos ({4})</FFF_RimIgnore_Summary>
+  <FFF_RimIgnore_ColPath>Entrada</FFF_RimIgnore_ColPath>
+  <FFF_RimIgnore_ColSize>Tamanho</FFF_RimIgnore_ColSize>
+  <FFF_RimIgnore_ColRule>Regra correspondente</FFF_RimIgnore_ColRule>
+  <FFF_RimIgnore_DirSize>{0} arquivos / {1}</FFF_RimIgnore_DirSize>
+  <FFF_RimIgnore_NothingExcluded>Nada foi excluído.</FFF_RimIgnore_NothingExcluded>
+  <FFF_RimIgnore_OpenFile>Abrir .rimignore</FFF_RimIgnore_OpenFile>
+  <FFF_RimIgnore_Rescan>Reexaminar</FFF_RimIgnore_Rescan>
+  <FFF_RimIgnore_Confirm>Enviar</FFF_RimIgnore_Confirm>
+  <FFF_RimIgnore_CannotUpload>O exame está incompleto, ou nenhum arquivo seria enviado.</FFF_RimIgnore_CannotUpload>
+  <FFF_RimIgnore_RescanFailed>Falha ao reexaminar.</FFF_RimIgnore_RescanFailed>
+  <FFF_RimIgnore_FileMissing>.rimignore não encontrado.</FFF_RimIgnore_FileMissing>
+  <FFF_RimIgnore_UploadAnyway>Enviar tudo mesmo assim</FFF_RimIgnore_UploadAnyway>
+  <FFF_RimIgnore_ErrorTitle>Falha nas regras de exclusão do envio</FFF_RimIgnore_ErrorTitle>
+  <FFF_RimIgnore_MoreWarnings>… (mais {0})</FFF_RimIgnore_MoreWarnings>
+  <FFF_RimIgnore_RuleImplicit>(integrada) {0}</FFF_RimIgnore_RuleImplicit>
+  <FFF_RimIgnore_RuleLine>L{0}: {1}</FFF_RimIgnore_RuleLine>
+  <FFF_RimIgnore_ModRootLabel>[raiz do mod]</FFF_RimIgnore_ModRootLabel>
+  <FFF_RimIgnore_Warn_NoPatternAfterBang>Linha {0}: nenhum padrão após '!', ignorado.</FFF_RimIgnore_Warn_NoPatternAfterBang>
+  <FFF_RimIgnore_Warn_SlashOnly>Linha {0}: o padrão é apenas '/', ignorado.</FFF_RimIgnore_Warn_SlashOnly>
+  <FFF_RimIgnore_Warn_EmptyPattern>Linha {0}: padrão vazio, ignorado.</FFF_RimIgnore_Warn_EmptyPattern>
+  <FFF_RimIgnore_Warn_ParseFailed>Linha {0}: não foi possível interpretar o padrão ({1}), ignorado.</FFF_RimIgnore_Warn_ParseFailed>
+  <FFF_RimIgnore_Warn_CompileFailed>Linha {0}: falha ao compilar o padrão ({1}), ignorado.</FFF_RimIgnore_Warn_CompileFailed>
+  <FFF_RimIgnore_Warn_TooManyLines>{0} excede {1} linhas; o restante foi ignorado.</FFF_RimIgnore_Warn_TooManyLines>
+  <FFF_RimIgnore_Warn_DepthLimit>O aninhamento de diretórios excede {0} níveis; descida interrompida em: {1}</FFF_RimIgnore_Warn_DepthLimit>
+  <FFF_RimIgnore_Warn_ListDirFailed>Não foi possível listar o conteúdo do diretório ({0}): {1}</FFF_RimIgnore_Warn_ListDirFailed>
+  <FFF_RimIgnore_Warn_AttributeFailed>Não foi possível ler os atributos da entrada ({0}): {1}</FFF_RimIgnore_Warn_AttributeFailed>
+  <FFF_RimIgnore_Warn_SkippedSymlink>Link simbólico / junção ignorado: {0}</FFF_RimIgnore_Warn_SkippedSymlink>
+  <FFF_RimIgnore_Warn_EntryLimit>Mais de {0} entradas; o exame foi interrompido. Verifique os caminhos em {1}.</FFF_RimIgnore_Warn_EntryLimit>
+  <FFF_RimIgnore_Err_LoadFailed>Não foi possível ler {0}; envio cancelado. Veja o console de desenvolvedor para detalhes.</FFF_RimIgnore_Err_LoadFailed>
+  <FFF_RimIgnore_Err_ScanFailed>Não foi possível examinar a pasta do mod; envio cancelado. Veja o console de desenvolvedor para detalhes.</FFF_RimIgnore_Err_ScanFailed>
+  <FFF_RimIgnore_Err_Unexpected>Erro inesperado ao aplicar as regras de exclusão; envio cancelado. Veja o console de desenvolvedor para detalhes.</FFF_RimIgnore_Err_Unexpected>
+  <FFF_RimIgnore_Err_StagingFailed>Falha ao montar a cópia espelhada; envio cancelado (seus arquivos originais do mod não foram alterados).\n\n{0}</FFF_RimIgnore_Err_StagingFailed>
+  <FFF_RimIgnore_Err_PlanTruncated>O exame está incompleto (limite de segurança excedido); criação da cópia cancelada.</FFF_RimIgnore_Err_PlanTruncated>
+  <FFF_RimIgnore_Err_NothingToUpload>Nenhum arquivo seria enviado após aplicar {0}; cancelado.</FFF_RimIgnore_Err_NothingToUpload>
+  <FFF_RimIgnore_Err_MirrorCountMismatch>Contagem de arquivos espelhados divergente (esperado {0}, obtido {1}).</FFF_RimIgnore_Err_MirrorCountMismatch>
+  <FFF_RimIgnore_Err_StaleStagingLocked>Não foi possível limpar a cópia espelhada existente: {0}</FFF_RimIgnore_Err_StaleStagingLocked>
+  <FFF_RimIgnore_Dbg_NoLocalMods>Nenhuma pasta de mod local encontrada.</FFF_RimIgnore_Dbg_NoLocalMods>
+  <FFF_RimIgnore_Dbg_AllHaveIgnore>Todo mod local já tem um {0}.</FFF_RimIgnore_Dbg_AllHaveIgnore>
+  <FFF_RimIgnore_Dbg_LoadFailed>Não foi possível ler {0}.</FFF_RimIgnore_Dbg_LoadFailed>
+  <FFF_RimIgnore_Dbg_ScanFailed>Não foi possível examinar a pasta do mod.</FFF_RimIgnore_Dbg_ScanFailed>
+  <FFF_RimIgnore_Dbg_TemplateCreated>Criado {0}</FFF_RimIgnore_Dbg_TemplateCreated>
+  <FFF_RimIgnore_Dbg_TemplateFailed>Falha na criação. Veja o console de desenvolvedor para detalhes.</FFF_RimIgnore_Dbg_TemplateFailed>
+  <FFF_RimIgnore_Dbg_NoIgnoreSuffix> (sem {0})</FFF_RimIgnore_Dbg_NoIgnoreSuffix>
+  <FFF_RimIgnore_Template># .rimignore — arquivos e pastas a excluir ao enviar para a Oficina do Steam
+#
+# A sintaxe é idêntica à do .gitignore do GitHub:
+#   #        comentário (\# para um jogo da velha literal)
+#   !xxx     reinclui; regras posteriores substituem as anteriores
+#   /xxx     ancorado à raiz do mod
+#   xxx/     apenas diretórios
+#   *        quaisquer caracteres, mas nunca além de /
+#   ?        um único caractere, mas nunca além de /
+#   [abc]    conjunto de caracteres; [!abc] para negar
+#   **/xxx   em qualquer profundidade; xxx/** para tudo dentro dessa pasta
+#
+# Nota: como no Git, uma vez que um diretório é excluído, seu conteúdo não pode
+# ser reincluído com !.
+# Sempre excluídos por padrão: este arquivo, .git/ .gitignore .gitattributes
+#                             .svn/ .hg/ .vs/ .idea/ .vscode/
+#                             Thumbs.db desktop.ini .DS_Store
+# Essas regras integradas podem ser substituídas com !, por exemplo, !.rimignore também envia este arquivo.
+
+# -- Código-fonte e saída de compilação --
+/_Sources/
+/Source/
+**/obj/
+**/bin/
+*.pdb
+*.csproj.user
+*.sln
+*.suo
+
+# -- Projeto Unity --
+/UnityProject/
+
+# -- Ferramentas de desenvolvimento e atalhos --
+/_Tools/
+*.lnk
+*.bat
+
+# -- Ruído de editores e backups --
+*.orig
+*.rej
+*.bak
+*~
+
+# -- Exemplo: excluir o conteúdo de uma pasta, mas manter um arquivo --
+# Exclua o *conteúdo* em vez da pasta em si, depois reinclua:
+# /Docs/*
+# !/Docs/Manual.md</FFF_RimIgnore_Template>
+</LanguageData>

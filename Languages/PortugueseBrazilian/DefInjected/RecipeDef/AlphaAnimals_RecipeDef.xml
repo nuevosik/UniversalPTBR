@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_MakeRangedSpinneretImplant.label>fazer um implante de fiandeira à distância</AA_MakeRangedSpinneretImplant.label>
+  <AA_MakeRangedSpinneretImplant.description>Fazer um implante de fiandeira à distância a partir de um cadáver de feralisk, dunealisco, blizzarisk, cinderlisk, junglelisk ou animalisco. Este implante permitirá que esta criatura use um ataque de teia atordoante à distância.\n\nObserve que instalar isto em uma criatura que já possui uma fiandeira à distância não terá efeito.</AA_MakeRangedSpinneretImplant.description>
+  <AA_MakeRangedSpinneretImplant.jobString>Fazendo implante de fiandeira à distância</AA_MakeRangedSpinneretImplant.jobString>
+  <AA_MakeVenomousSpitterImplant.label>fazer um implante de cuspideira venenosa</AA_MakeVenomousSpitterImplant.label>
+  <AA_MakeVenomousSpitterImplant.description>Fazer uma cuspideira venenosa a partir de um cadáver de espelópede negra ou aranha negra. Este implante permitirá que esta criatura use um ataque de cuspe venenoso à distância.\n\nObserve que instalar isto em uma criatura que já possui uma cuspideira venenosa não terá efeito. Este implante só pode ser usado por animais que tenham boca (e não, por exemplo, um bico ou probóscide).</AA_MakeVenomousSpitterImplant.description>
+  <AA_MakeVenomousSpitterImplant.jobString>Fazendo implante de cuspideira venenosa</AA_MakeVenomousSpitterImplant.jobString>
+  <AA_MakeAcidicSpitterImplant.label>fazer um implante de cuspideira ácida</AA_MakeAcidicSpitterImplant.label>
+  <AA_MakeAcidicSpitterImplant.description>Fazer uma cuspideira ácida a partir de um cadáver de gosma vermelha, gosma verde, armadilha, esporo vermelho ou geleia ocular. Este implante permitirá que esta criatura use um ataque de cuspe ácido à distância que causa dano adicional ao longo do tempo.\n\nObserve que instalar isto em uma criatura que já possui uma cuspideira ácida não terá efeito. Este implante só pode ser usado por animais que tenham boca (e não, por exemplo, um bico ou probóscide).</AA_MakeAcidicSpitterImplant.description>
+  <AA_MakeAcidicSpitterImplant.jobString>Fazendo implante de cuspideira ácida</AA_MakeAcidicSpitterImplant.jobString>
+  <AA_MakeBarbedQuillThrowerImplant.label>fazer um implante de lançador de espinhos farpados</AA_MakeBarbedQuillThrowerImplant.label>
+  <AA_MakeBarbedQuillThrowerImplant.description>Fazer um lançador de espinhos farpados a partir de um cadáver de Barbslinger, Nightling, ave noturna, rolo de agulha ou poste de agulha. Este implante permitirá que esta criatura use um ataque de espinhos venenosos à distância que causa acúmulo tóxico.\n\nObserve que instalar isto em uma criatura que já possui um lançador de espinhos farpados não terá efeito.</AA_MakeBarbedQuillThrowerImplant.description>
+  <AA_MakeBarbedQuillThrowerImplant.jobString>Fazendo implante de lançador de espinhos farpados</AA_MakeBarbedQuillThrowerImplant.jobString>
+  <AA_MakeQuadTeslaCannonImplant.label>fazer um implante de canhão de Tesla quádruplo</AA_MakeQuadTeslaCannonImplant.label>
+  <AA_MakeQuadTeslaCannonImplant.description>Fazer um canhão de Tesla quádruplo a partir de um cadáver de lesma Tetra. Este implante permitirá que esta criatura use um poderoso ataque de plasma à distância.\n\nObserve que instalar isto em uma criatura que já possui um canhão de Tesla quádruplo não terá efeito.</AA_MakeQuadTeslaCannonImplant.description>
+  <AA_MakeQuadTeslaCannonImplant.jobString>Fazendo implante de canhão de Tesla quádruplo</AA_MakeQuadTeslaCannonImplant.jobString>
+  <AA_MakeBioelectricOrganImplant.label>fazer um implante de órgão bioelétrico</AA_MakeBioelectricOrganImplant.label>
+  <AA_MakeBioelectricOrganImplant.description>Fazer um órgão bioelétrico a partir de um cadáver de Thunderbeast. Este implante permitirá que esta criatura use um poderoso ataque elétrico à distância que pode paralisar e causar ataques cardíacos.\n\nObserve que instalar isto em uma criatura que já possui um órgão bioelétrico não terá efeito.</AA_MakeBioelectricOrganImplant.description>
+  <AA_MakeBioelectricOrganImplant.jobString>Fazendo implante de órgão bioelétrico</AA_MakeBioelectricOrganImplant.jobString>
+  <AA_MakeLightFocusingLensImplant.label>fazer um implante de lente focalizadora de luz</AA_MakeLightFocusingLensImplant.label>
+  <AA_MakeLightFocusingLensImplant.description>Fazer uma lente focalizadora de luz a partir de um cadáver de caracal cristalino. Este implante permitirá que esta criatura use um poderoso ataque de laser à distância que incendeia os inimigos.\n\nObserve que instalar isto em uma criatura que já possui uma lente focalizadora de luz não terá efeito. Este implante ocupa o espaço de um dos olhos da criatura, então não pode ser instalado em animais sem olhos.</AA_MakeLightFocusingLensImplant.description>
+  <AA_MakeLightFocusingLensImplant.jobString>Fazendo implante de lente focalizadora de luz</AA_MakeLightFocusingLensImplant.jobString>
+  <AA_MakeHyperAcidicStomachImplant.label>fazer um implante de estômago hiperácido</AA_MakeHyperAcidicStomachImplant.label>
+  <AA_MakeHyperAcidicStomachImplant.description>Fazer um estômago hiperácido a partir de um cadáver de Erin. Este implante permitirá que esta criatura use um ataque ácido à distância que causa dano ao longo do tempo.\n\nObserve que instalar isto em uma criatura que já possui um estômago hiperácido não terá efeito. Este implante ocupa o espaço do estômago da criatura, então não pode ser instalado em animais que não o possuem.</AA_MakeHyperAcidicStomachImplant.description>
+  <AA_MakeHyperAcidicStomachImplant.jobString>Fazendo implante de estômago hiperácido</AA_MakeHyperAcidicStomachImplant.jobString>
+  <AB_InstallSimpleTentacle.label>implantar tentáculo protético</AB_InstallSimpleTentacle.label>
+  <AB_InstallSimpleTentacle.description>Implanta um tentáculo protético.</AB_InstallSimpleTentacle.description>
+  <AB_InstallSimpleTentacle.jobString>Implantando tentáculo protético.</AB_InstallSimpleTentacle.jobString>
+  <AB_InstallBionicTentacle.label>implantar tentáculo biônico</AB_InstallBionicTentacle.label>
+  <AB_InstallBionicTentacle.description>Implanta um tentáculo biônico.</AB_InstallBionicTentacle.description>
+  <AB_InstallBionicTentacle.jobString>Implantando tentáculo biônico.</AB_InstallBionicTentacle.jobString>
+  <AA_InstallSimpleBeak.label>implantar bico protético</AA_InstallSimpleBeak.label>
+  <AA_InstallSimpleBeak.description>Implanta um bico protético.</AA_InstallSimpleBeak.description>
+  <AA_InstallSimpleBeak.jobString>Implantando bico protético.</AA_InstallSimpleBeak.jobString>
+  <AA_InstallBionicBeak.label>implantar bico biônico</AA_InstallBionicBeak.label>
+  <AA_InstallBionicBeak.description>Implanta um bico biônico.</AA_InstallBionicBeak.description>
+  <AA_InstallBionicBeak.jobString>Implantando bico biônico.</AA_InstallBionicBeak.jobString>
+  <AA_InstallBionicMotionDetector.label>implantar detector de movimento biônico</AA_InstallBionicMotionDetector.label>
+  <AA_InstallBionicMotionDetector.description>Implanta um detector de movimento biônico. Requer uma habilidade mínima de medicina de 8.</AA_InstallBionicMotionDetector.description>
+  <AA_InstallBionicMotionDetector.jobString>Implantando detector de movimento biônico.</AA_InstallBionicMotionDetector.jobString>
+  <AB_InstallSimpleBuoyancy.label>implantar mecanismo de flutuação protético</AB_InstallSimpleBuoyancy.label>
+  <AB_InstallSimpleBuoyancy.description>Implanta um mecanismo de flutuação protético.</AB_InstallSimpleBuoyancy.description>
+  <AB_InstallSimpleBuoyancy.jobString>Implantando mecanismo de flutuação protético.</AB_InstallSimpleBuoyancy.jobString>
+  <AA_InstallBionicBuoyancy.label>implantar mecanismo de flutuação biônico</AA_InstallBionicBuoyancy.label>
+  <AA_InstallBionicBuoyancy.description>Implanta um mecanismo de flutuação biônico. Requer uma habilidade mínima de medicina de 8.</AA_InstallBionicBuoyancy.description>
+  <AA_InstallBionicBuoyancy.jobString>Implantando mecanismo de flutuação biônico.</AA_InstallBionicBuoyancy.jobString>
+  <AB_InstallSimpleShell.label>implantar carapaça protética</AB_InstallSimpleShell.label>
+  <AB_InstallSimpleShell.description>Implanta uma carapaça protética.</AB_InstallSimpleShell.description>
+  <AB_InstallSimpleShell.jobString>Implantando carapaça protética.</AB_InstallSimpleShell.jobString>
+  <AA_InstallBionicShell.label>implantar carapaça biônica</AA_InstallBionicShell.label>
+  <AA_InstallBionicShell.description>Implanta uma carapaça biônica. Requer uma habilidade mínima de medicina de 8.</AA_InstallBionicShell.description>
+  <AA_InstallBionicShell.jobString>Implantando carapaça biônica.</AA_InstallBionicShell.jobString>
+  <AB_InstallSimpleWing.label>implantar asa protética</AB_InstallSimpleWing.label>
+  <AB_InstallSimpleWing.description>Implanta uma asa protética.</AB_InstallSimpleWing.description>
+  <AB_InstallSimpleWing.jobString>Implantando asa protética.</AB_InstallSimpleWing.jobString>
+  <AA_InstallBionicWing.label>implantar asa biônica</AA_InstallBionicWing.label>
+  <AA_InstallBionicWing.description>Implanta uma asa biônica. Requer uma habilidade mínima de medicina de 8.</AA_InstallBionicWing.description>
+  <AA_InstallBionicWing.jobString>Implantando asa biônica.</AA_InstallBionicWing.jobString>
+  <AB_InstallSimpleClaw.label>implantar garra protética</AB_InstallSimpleClaw.label>
+  <AB_InstallSimpleClaw.description>Implanta uma garra protética.</AB_InstallSimpleClaw.description>
+  <AB_InstallSimpleClaw.jobString>Implantando garra protética.</AB_InstallSimpleClaw.jobString>
+  <AA_InstallBionicClaw.label>implantar garra biônica</AA_InstallBionicClaw.label>
+  <AA_InstallBionicClaw.description>Implanta uma garra biônica. Requer uma habilidade mínima de medicina de 8.</AA_InstallBionicClaw.description>
+  <AA_InstallBionicClaw.jobString>Implantando garra biônica.</AA_InstallBionicClaw.jobString>
+  <AA_InstallGooAcidifier.label>implantar acidificador de gosma</AA_InstallGooAcidifier.label>
+  <AA_InstallGooAcidifier.description>Implanta um acidificador de gosma.</AA_InstallGooAcidifier.description>
+  <AA_InstallGooAcidifier.jobString>Implantando acidificador de gosma.</AA_InstallGooAcidifier.jobString>
+  <AA_InstallRangedSpinneretImplant.label>implantar fiandeira à distância</AA_InstallRangedSpinneretImplant.label>
+  <AA_InstallRangedSpinneretImplant.description>Implanta uma fiandeira à distância. Este implante permitirá que esta criatura use um ataque de teia atordoante à distância.\n\nObserve que instalar isto em uma criatura que já possui uma fiandeira à distância não terá efeito.</AA_InstallRangedSpinneretImplant.description>
+  <AA_InstallRangedSpinneretImplant.jobString>Implantando fiandeira à distância.</AA_InstallRangedSpinneretImplant.jobString>
+  <AA_RemoveRangedSpinneretImplant.label>remover fiandeira à distância</AA_RemoveRangedSpinneretImplant.label>
+  <AA_RemoveRangedSpinneretImplant.description>Remover fiandeira à distância.</AA_RemoveRangedSpinneretImplant.description>
+  <AA_RemoveRangedSpinneretImplant.jobString>Removendo fiandeira à distância.</AA_RemoveRangedSpinneretImplant.jobString>
+  <AA_InstallVenomousSpitterImplant.label>implantar cuspideira venenosa</AA_InstallVenomousSpitterImplant.label>
+  <AA_InstallVenomousSpitterImplant.description>Implanta uma cuspideira venenosa. Este implante permitirá que esta criatura use um ataque de cuspe venenoso à distância.\n\nObserve que instalar isto em uma criatura que já possui uma cuspideira venenosa não terá efeito. Este implante só pode ser usado por animais que tenham boca (e não, por exemplo, um bico ou probóscide).</AA_InstallVenomousSpitterImplant.description>
+  <AA_InstallVenomousSpitterImplant.jobString>Implantando cuspideira venenosa.</AA_InstallVenomousSpitterImplant.jobString>
+  <AA_RemoveVenomousSpitterImplant.label>remover cuspideira venenosa</AA_RemoveVenomousSpitterImplant.label>
+  <AA_RemoveVenomousSpitterImplant.description>Remover cuspideira venenosa.</AA_RemoveVenomousSpitterImplant.description>
+  <AA_RemoveVenomousSpitterImplant.jobString>Removendo cuspideira venenosa.</AA_RemoveVenomousSpitterImplant.jobString>
+  <AA_InstallAcidicSpitterImplant.label>implantar cuspideira ácida</AA_InstallAcidicSpitterImplant.label>
+  <AA_InstallAcidicSpitterImplant.description>Implanta uma cuspideira ácida. Este implante permitirá que esta criatura use um ataque de cuspe ácido à distância que causa dano adicional ao longo do tempo.\n\nObserve que instalar isto em uma criatura que já possui uma cuspideira ácida não terá efeito. Este implante só pode ser usado por animais que tenham boca (e não, por exemplo, um bico ou probóscide).</AA_InstallAcidicSpitterImplant.description>
+  <AA_InstallAcidicSpitterImplant.jobString>Implantando cuspideira ácida.</AA_InstallAcidicSpitterImplant.jobString>
+  <AA_RemoveAcidicSpitterImplant.label>remover cuspideira ácida</AA_RemoveAcidicSpitterImplant.label>
+  <AA_RemoveAcidicSpitterImplant.description>Remover cuspideira ácida.</AA_RemoveAcidicSpitterImplant.description>
+  <AA_RemoveAcidicSpitterImplant.jobString>Removendo cuspideira ácida.</AA_RemoveAcidicSpitterImplant.jobString>
+  <AA_InstallBarbedQuillThrowerImplant.label>implantar lançador de espinhos farpados</AA_InstallBarbedQuillThrowerImplant.label>
+  <AA_InstallBarbedQuillThrowerImplant.description>Implanta um lançador de espinhos farpados. Este implante permitirá que esta criatura use um ataque de espinhos venenosos à distância que causa acúmulo tóxico.\n\nObserve que instalar isto em uma criatura que já possui um lançador de espinhos farpados não terá efeito.</AA_InstallBarbedQuillThrowerImplant.description>
+  <AA_InstallBarbedQuillThrowerImplant.jobString>Implantando lançador de espinhos farpados.</AA_InstallBarbedQuillThrowerImplant.jobString>
+  <AA_RemoveBarbedQuillThrowerImplant.label>remover lançador de espinhos farpados</AA_RemoveBarbedQuillThrowerImplant.label>
+  <AA_RemoveBarbedQuillThrowerImplant.description>Remover lançador de espinhos farpados.</AA_RemoveBarbedQuillThrowerImplant.description>
+  <AA_RemoveBarbedQuillThrowerImplant.jobString>Removendo lançador de espinhos farpados.</AA_RemoveBarbedQuillThrowerImplant.jobString>
+  <AA_InstallQuadTeslaCannonImplant.label>implantar canhão de Tesla quádruplo</AA_InstallQuadTeslaCannonImplant.label>
+  <AA_InstallQuadTeslaCannonImplant.description>Implanta um canhão de Tesla quádruplo. Este implante permitirá que esta criatura use um poderoso ataque de plasma à distância.\n\nObserve que instalar isto em uma criatura que já possui um canhão de Tesla quádruplo não terá efeito.</AA_InstallQuadTeslaCannonImplant.description>
+  <AA_InstallQuadTeslaCannonImplant.jobString>Implantando canhão de Tesla quádruplo.</AA_InstallQuadTeslaCannonImplant.jobString>
+  <AA_RemoveQuadTeslaCannonImplant.label>remover canhão de Tesla quádruplo</AA_RemoveQuadTeslaCannonImplant.label>
+  <AA_RemoveQuadTeslaCannonImplant.description>Remover canhão de Tesla quádruplo.</AA_RemoveQuadTeslaCannonImplant.description>
+  <AA_RemoveQuadTeslaCannonImplant.jobString>Removendo canhão de Tesla quádruplo.</AA_RemoveQuadTeslaCannonImplant.jobString>
+  <AA_InstallBioelectricOrganImplant.label>implantar órgão bioelétrico</AA_InstallBioelectricOrganImplant.label>
+  <AA_InstallBioelectricOrganImplant.description>Implanta um órgão bioelétrico. Este implante permitirá que esta criatura use um poderoso ataque elétrico à distância que pode paralisar e causar ataques cardíacos.\n\nObserve que instalar isto em uma criatura que já possui um órgão bioelétrico não terá efeito.</AA_InstallBioelectricOrganImplant.description>
+  <AA_InstallBioelectricOrganImplant.jobString>Implantando órgão bioelétrico.</AA_InstallBioelectricOrganImplant.jobString>
+  <AA_RemoveBioelectricOrganImplant.label>remover órgão bioelétrico</AA_RemoveBioelectricOrganImplant.label>
+  <AA_RemoveBioelectricOrganImplant.description>Remover órgão bioelétrico.</AA_RemoveBioelectricOrganImplant.description>
+  <AA_RemoveBioelectricOrganImplant.jobString>Removendo órgão bioelétrico.</AA_RemoveBioelectricOrganImplant.jobString>
+  <AA_InstallLightFocusingLensImplant.label>implantar lente focalizadora de luz</AA_InstallLightFocusingLensImplant.label>
+  <AA_InstallLightFocusingLensImplant.description>Implanta uma lente focalizadora de luz. Este implante permitirá que esta criatura use um poderoso ataque de laser à distância que incendeia os inimigos.\n\nObserve que instalar isto em uma criatura que já possui uma lente focalizadora de luz não terá efeito. Este implante ocupa o espaço de um dos olhos da criatura, então não pode ser instalado em animais sem olhos.</AA_InstallLightFocusingLensImplant.description>
+  <AA_InstallLightFocusingLensImplant.jobString>Implantando lente focalizadora de luz.</AA_InstallLightFocusingLensImplant.jobString>
+  <AA_RemoveLightFocusingLensImplant.label>remover lente focalizadora de luz</AA_RemoveLightFocusingLensImplant.label>
+  <AA_RemoveLightFocusingLensImplant.description>Remover lente focalizadora de luz.</AA_RemoveLightFocusingLensImplant.description>
+  <AA_RemoveLightFocusingLensImplant.jobString>Removendo lente focalizadora de luz.</AA_RemoveLightFocusingLensImplant.jobString>
+  <AA_InstallHyperAcidicStomachImplant.label>implantar estômago hiperácido</AA_InstallHyperAcidicStomachImplant.label>
+  <AA_InstallHyperAcidicStomachImplant.description>Implanta um estômago hiperácido. Este implante permitirá que esta criatura use um ataque ácido à distância que causa dano ao longo do tempo.\n\nObserve que instalar isto em uma criatura que já possui um estômago hiperácido não terá efeito. Este implante ocupa o espaço do estômago da criatura, então não pode ser instalado em animais que não o possuem.</AA_InstallHyperAcidicStomachImplant.description>
+  <AA_InstallHyperAcidicStomachImplant.jobString>Implantando estômago hiperácido.</AA_InstallHyperAcidicStomachImplant.jobString>
+  <AA_RemoveHyperAcidicStomachImplant.label>remover estômago hiperácido</AA_RemoveHyperAcidicStomachImplant.label>
+  <AA_RemoveHyperAcidicStomachImplant.description>Remover estômago hiperácido.</AA_RemoveHyperAcidicStomachImplant.description>
+  <AA_RemoveHyperAcidicStomachImplant.jobString>Removendo estômago hiperácido.</AA_RemoveHyperAcidicStomachImplant.jobString>
+  <RB_MakeSynthreadCloth.label>tecer onze tecidos de fibra sintética a partir de seda</RB_MakeSynthreadCloth.label>
+  <RB_MakeSynthreadCloth.description>Tecer tecido de fibra sintética a partir de seda de fibra sintética e fio de plastiaço. \n\nProduz 11 tecidos.</RB_MakeSynthreadCloth.description>
+  <RB_MakeSynthreadCloth.jobString>Tecendo tecido de fibra sintética.</RB_MakeSynthreadCloth.jobString>
+  <RB_MakeHyperweaveCloth.label>tecer quinze tecidos de hiper tecido a partir de seda</RB_MakeHyperweaveCloth.label>
+  <RB_MakeHyperweaveCloth.description>Tecer tecido de hiper tecido a partir de seda de hiper tecido e fio de plastiaço. \n\nProduz 15 tecidos.</RB_MakeHyperweaveCloth.description>
+  <RB_MakeHyperweaveCloth.jobString>Tecendo tecido de hiper tecido.</RB_MakeHyperweaveCloth.jobString>
+</LanguageData>

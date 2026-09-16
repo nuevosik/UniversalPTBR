@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FFF_DamageBlocker_ArmorExample.label>exemplo de armadura de bloqueio de dano</FFF_DamageBlocker_ArmorExample.label>
+  <FFF_DamageBlocker_ArmorExample.description>Armadura de exemplo que usa bloqueio de dano configurável.</FFF_DamageBlocker_ArmorExample.description>
+  <FFF_Wall_A.label>parede interior de instalação</FFF_Wall_A.label>
+  <FFF_Wall_A.description>Uma parede estrutural de concreto armado com revestimento composto, comumente encontrada em instalações subterrâneas. Foi construída para sustentar a estrutura ao seu redor e é efetivamente indestrutível.</FFF_Wall_A.description>
+  <FFF_Wall_B.label>parede interior de instalação</FFF_Wall_B.label>
+  <FFF_Wall_B.description>Uma parede estrutural de concreto armado com revestimento composto, comumente encontrada em instalações subterrâneas. Foi construída para sustentar a estrutura ao seu redor e é efetivamente indestrutível.</FFF_Wall_B.description>
+  <FFF_Wall_C.label>parede interior de instalação</FFF_Wall_C.label>
+  <FFF_Wall_C.description>Uma parede estrutural de concreto armado com revestimento composto, comumente encontrada em instalações subterrâneas. Foi construída para sustentar a estrutura ao seu redor e é efetivamente indestrutível.</FFF_Wall_C.description>
+  <FFF_Wall_Hull.label>parede de casco</FFF_Wall_Hull.label>
+  <FFF_Wall_Hull.description>Um painel pré-fabricado de casco pressurizado. Painéis como estes foram aparafusados seção por seção para revestir os níveis profundos de uma instalação, vedando a água subterrânea e a sobrepressão de uma explosão.</FFF_Wall_Hull.description>
+  <FFF_Wall_HullHatch.label>parede de casco com escotilha de manutenção</FFF_Wall_HullHatch.label>
+  <FFF_Wall_HullHatch.description>Um painel de casco pressurizado equipado com uma escotilha de manutenção selada. A escotilha leva ao espaço de conduítes atrás do painel, embora tenha sido soldada há muito tempo.</FFF_Wall_HullHatch.description>
+  <FFF_RCdoor.label>porta de instalação</FFF_RCdoor.label>
+  <FFF_RCdoor.description>Uma porta que divide ambientes. As pessoas passam por ela sem desacelerar.</FFF_RCdoor.description>
+  <FFF_MinifiedTurret.label>torreta minificada</FFF_MinifiedTurret.label>
+  <FFF_MechCapsule_Small.label>mecanoide desativado</FFF_MechCapsule_Small.label>
+  <FFF_MechCapsule_Small.description>Um mecanoide desativado em modo de hibernação. Um mecanizador pode tentar hackeá-lo e controlá-lo.</FFF_MechCapsule_Small.description>
+  <FFF_MechCapsule_Medium.label>mecanoide desativado</FFF_MechCapsule_Medium.label>
+  <FFF_MechCapsule_Medium.description>Um mecanoide desativado em modo de hibernação. Um mecanizador pode tentar hackeá-lo e controlá-lo.</FFF_MechCapsule_Medium.description>
+  <FFF_MechCapsule_Large.label>mecanoide desativado</FFF_MechCapsule_Large.label>
+  <FFF_MechCapsule_Large.description>Um mecanoide desativado em modo de hibernação. Um mecanizador pode tentar hackeá-lo e controlá-lo.</FFF_MechCapsule_Large.description>
+  <FFF_MechCapsule_Huge.label>mecanoide desativado</FFF_MechCapsule_Huge.label>
+  <FFF_MechCapsule_Huge.description>Um mecanoide desativado em modo de hibernação. Um mecanizador pode tentar hackeá-lo e controlá-lo.</FFF_MechCapsule_Huge.description>
+  <FFF_MechCapsule_Colossal.label>mecanoide desativado</FFF_MechCapsule_Colossal.label>
+  <FFF_MechCapsule_Colossal.description>Um mecanoide desativado em modo de hibernação. Um mecanizador pode tentar hackeá-lo e controlá-lo.</FFF_MechCapsule_Colossal.description>
+  <FFF_ExportTool_PawnGroup.label>ferramenta de grupo de colonos</FFF_ExportTool_PawnGroup.label>
+  <FFF_ExportTool_RandomStructure.label>ferramenta de estrutura aleatória</FFF_ExportTool_RandomStructure.label>
+  <FFF_ExportTool_LinkAccessKeyWanter.label>ferramenta de vínculo de acesso</FFF_ExportTool_LinkAccessKeyWanter.label>
+  <FFF_ExportTool_ManTurret.label>ferramenta de torreta tripulada</FFF_ExportTool_ManTurret.label>
+  <FFF_FlareShell.label>projétil sinalizador</FFF_FlareShell.label>
+  <FFF_MinifiedTurret.comps.CompUsable.useLabel>Pegar {0_label}</FFF_MinifiedTurret.comps.CompUsable.useLabel>
+</LanguageData>

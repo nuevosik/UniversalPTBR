@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_Packbeast.description>Esta criatura possui uma capacidade de transporte excepcional, permitindo que carregue cargas enormes em caravanas.</VRE_Packbeast.description>
+  <VRE_Packbeast.label>besta de carga</VRE_Packbeast.label>
+  <VRE_Strongbacked.description>Esta criatura pode carregar uma quantidade substancial de peso, o que a torna muito útil para transportar suprimentos em caravanas.</VRE_Strongbacked.description>
+  <VRE_Strongbacked.label>lombo forte</VRE_Strongbacked.label>
+  <VRE_AverageCarryingCapacity.description>Esta criatura tem uma capacidade de transporte comum, adequada para viagens rotineiras de caravana.</VRE_AverageCarryingCapacity.description>
+  <VRE_AverageCarryingCapacity.label>capacidade de transporte normal</VRE_AverageCarryingCapacity.label>
+  <VRE_Lightbacked.description>Esta criatura tem uma capacidade de transporte limitada, restringindo o quanto pode transportar.</VRE_Lightbacked.description>
+  <VRE_Lightbacked.label>lombo leve</VRE_Lightbacked.label>
+  <VRE_Weakbacked.description>Esta criatura pode carregar muito pouco peso, o que a torna inadequada para transportar suprimentos em caravanas.</VRE_Weakbacked.description>
+  <VRE_Weakbacked.label>lombo fraco</VRE_Weakbacked.label>
+  <VRE_LegendaryBulkCarry.description>O portador deste gene pode carregar uma quantidade enorme de peso extra, tanto ao transportar quanto em caravanas, quase sem desacelerar sob cargas que sobrecarregariam outras criaturas.</VRE_LegendaryBulkCarry.description>
+  <VRE_LegendaryBulkCarry.label>transporte de carga lendário</VRE_LegendaryBulkCarry.label>
+  <VRE_ExcellentBulkCarry.description>O portador deste gene pode carregar uma quantidade substancial de peso extra, o que o torna um excelente animal de transporte e de caravana.</VRE_ExcellentBulkCarry.description>
+  <VRE_ExcellentBulkCarry.label>transporte de carga excelente</VRE_ExcellentBulkCarry.label>
+  <VRE_NormalBulkCarry.description>O portador deste gene pode carregar uma quantidade razoável de peso extra, tanto ao transportar quanto em caravanas.</VRE_NormalBulkCarry.description>
+  <VRE_NormalBulkCarry.label>transporte de carga normal</VRE_NormalBulkCarry.label>
+  <VRE_PoorBulkCarry.description>O portador deste gene pode carregar uma quantidade modesta de peso extra, mas é facilmente sobrecarregado por cargas pesadas.</VRE_PoorBulkCarry.description>
+  <VRE_PoorBulkCarry.label>transporte de carga ruim</VRE_PoorBulkCarry.label>
+  <VRE_AwfulBulkCarry.description>O portador deste gene pode carregar apenas um pouco de peso extra, o que o torna um animal ruim de transporte e de caravana.</VRE_AwfulBulkCarry.description>
+  <VRE_AwfulBulkCarry.label>transporte de carga péssimo</VRE_AwfulBulkCarry.label>
+  <VRE_AbundantBeetleEggYield.description>Este besouro produz um número excepcional de ovos, expandindo rapidamente sua população quando autorizado a se reproduzir.</VRE_AbundantBeetleEggYield.description>
+  <VRE_AbundantBeetleEggYield.label>produção abundante de ovos de besouro</VRE_AbundantBeetleEggYield.label>
+  <VRE_ProlificBeetleEggYield.description>Este besouro põe ovos com mais frequência que o normal, produzindo ninhadas em intervalos mais curtos.</VRE_ProlificBeetleEggYield.description>
+  <VRE_ProlificBeetleEggYield.label>produção prolífica de ovos de besouro</VRE_ProlificBeetleEggYield.label>
+  <VRE_AverageBeetleEggYield.description>Este besouro põe uma quantidade média de ovos.</VRE_AverageBeetleEggYield.description>
+  <VRE_AverageBeetleEggYield.label>produção média de ovos de besouro</VRE_AverageBeetleEggYield.label>
+  <VRE_SparseBeetleEggYield.description>Este besouro põe ovos com menos frequência que o normal.</VRE_SparseBeetleEggYield.description>
+  <VRE_SparseBeetleEggYield.label>produção esparsa de ovos de besouro</VRE_SparseBeetleEggYield.label>
+  <VRE_BarrenBeetleEggYield.description>Este besouro raramente produz ovos, o que o torna inadequado para reprodução.</VRE_BarrenBeetleEggYield.description>
+  <VRE_BarrenBeetleEggYield.label>produção estéril de ovos de besouro</VRE_BarrenBeetleEggYield.label>
+  <VRE_Tireless.description>O portador deste gene quase não precisa dormir em comparação com outros animais.</VRE_Tireless.description>
+  <VRE_Tireless.label>incansável</VRE_Tireless.label>
+  <VRE_Sleepless.description>O portador deste gene precisa dormir consideravelmente menos que outros animais.</VRE_Sleepless.description>
+  <VRE_Sleepless.label>quase sem sono</VRE_Sleepless.label>
+  <VRE_ReducedRestRate.description>O portador deste gene precisa dormir menos que a maioria dos animais.</VRE_ReducedRestRate.description>
+  <VRE_ReducedRestRate.label>necessidade de sono reduzida</VRE_ReducedRestRate.label>
+  <VRE_MildlyEfficientSleeper.description>O portador deste gene precisa dormir um pouco menos que outros animais.</VRE_MildlyEfficientSleeper.description>
+  <VRE_MildlyEfficientSleeper.label>sono levemente eficiente</VRE_MildlyEfficientSleeper.label>
+  <VRE_NormalSleeper.description>O portador deste gene tem a necessidade normal de sono.</VRE_NormalSleeper.description>
+  <VRE_NormalSleeper.label>sono normal</VRE_NormalSleeper.label>
+  <VRE_AbundantEggYield.description>O portador deste gene produz um número excepcional de ovos, expandindo rapidamente sua população quando autorizado a se reproduzir.</VRE_AbundantEggYield.description>
+  <VRE_AbundantEggYield.label>produção abundante de ovos</VRE_AbundantEggYield.label>
+  <VRE_ProlificEggYield.description>O portador deste gene põe ovos com mais frequência que o normal, produzindo ninhadas em intervalos mais curtos.</VRE_ProlificEggYield.description>
+  <VRE_ProlificEggYield.label>produção prolífica de ovos</VRE_ProlificEggYield.label>
+  <VRE_AverageEggYield.description>O portador deste gene põe uma quantidade média de ovos.</VRE_AverageEggYield.description>
+  <VRE_AverageEggYield.label>produção média de ovos</VRE_AverageEggYield.label>
+  <VRE_SparseEggYield.description>O portador deste gene põe ovos com menos frequência que o normal.</VRE_SparseEggYield.description>
+  <VRE_SparseEggYield.label>produção esparsa de ovos</VRE_SparseEggYield.label>
+  <VRE_BarrenEggYield.description>O portador deste gene raramente produz ovos, o que o torna inadequado para reprodução.</VRE_BarrenEggYield.description>
+  <VRE_BarrenEggYield.label>produção estéril de ovos</VRE_BarrenEggYield.label>
+</LanguageData>

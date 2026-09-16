@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <AAVPE_BlackQueen.label>convocada rainha negra</AAVPE_BlackQueen.label>
+  <AAVPE_BlackQueen.label>rainha negra invocada</AAVPE_BlackQueen.label>
   <AA_AcanthamoebaGiganteaHuge.label>acanthamoeba gigantea, enorme</AA_AcanthamoebaGiganteaHuge.label>
   <AA_AcanthamoebaGiganteaLarge.label>acanthamoeba gigantea, grande</AA_AcanthamoebaGiganteaLarge.label>
   <AA_AcanthamoebaGiganteaSmall.label>acanthamoeba gigantea, pequena</AA_AcanthamoebaGiganteaSmall.label>
@@ -11,7 +11,7 @@
   <AA_AngelMothLarva.label>larva de mariposa anjo</AA_AngelMothLarva.label>
   <AA_AnimaColossus.label>anima colosso</AA_AnimaColossus.label>
   <AA_Animalisk.label>animalisco</AA_Animalisk.label>
-  <AA_AnimusVox.label>vox animus</AA_AnimusVox.label>
+  <AA_AnimusVox.label>animus vox</AA_AnimusVox.label>
   <AA_AnimusVox.labelPlural>vozes do animus</AA_AnimusVox.labelPlural>
   <AA_AnimusVox.lifeStages.0.label>cachorrinho animus vox</AA_AnimusVox.lifeStages.0.label>
   <AA_AnimusVox.lifeStages.0.labelPlural>filhotes de animus vox</AA_AnimusVox.lifeStages.0.labelPlural>
@@ -25,15 +25,15 @@
   <AA_BedBug.lifeStages.0.label>percevejo</AA_BedBug.lifeStages.0.label>
   <AA_BedBug.lifeStages.1.label>percevejo</AA_BedBug.lifeStages.1.label>
   <AA_Behemoth.label>Behemoth</AA_Behemoth.label>
-  <AA_BlackLarvae.label>larvas pretas</AA_BlackLarvae.label>
-  <AA_BlackScarab.label>escaravelho preto</AA_BlackScarab.label>
+  <AA_BlackLarvae.label>larvas negras</AA_BlackLarvae.label>
+  <AA_BlackScarab.label>escaravelho negro</AA_BlackScarab.label>
   <AA_BlackScarab_Temporary.label>escaravelho negro invocado</AA_BlackScarab_Temporary.label>
-  <AA_BlackSpelopede.label>eslopedia negra</AA_BlackSpelopede.label>
-  <AA_BlackSpelopede_Temporary.label>espelope negra convocada</AA_BlackSpelopede_Temporary.label>
+  <AA_BlackSpelopede.label>espelópede negra</AA_BlackSpelopede.label>
+  <AA_BlackSpelopede_Temporary.label>espelópede negra invocada</AA_BlackSpelopede_Temporary.label>
   <AA_BlackSpider.label>aranha negra</AA_BlackSpider.label>
   <AA_BlackSpider_Temporary.label>aranha negra invocada</AA_BlackSpider_Temporary.label>
-  <AA_Blizzarisk.label>risco de nevasca</AA_Blizzarisk.label>
-  <AA_BlizzariskClutchMother.label>mãe de embreagem blzzarisk</AA_BlizzariskClutchMother.label>
+  <AA_Blizzarisk.label>blizzarisk</AA_Blizzarisk.label>
+  <AA_BlizzariskClutchMother.label>mãe de ninhada blizzarisk</AA_BlizzariskClutchMother.label>
   <AA_BloodShrimp.label>camarão de sangue</AA_BloodShrimp.label>
   <AA_Bobeene.label>bobeene</AA_Bobeene.label>
   <AA_Bobeene.lifeStages.0.label>bezerro bobeene</AA_Bobeene.lifeStages.0.label>
@@ -41,9 +41,9 @@
   <AA_BoulderMit.label>pedregulho</AA_BoulderMit.label>
   <AA_BoulderMit.lifeStages.0.label>pedregulho</AA_BoulderMit.lifeStages.0.label>
   <AA_BoulderMit.lifeStages.1.label>pedregulho</AA_BoulderMit.lifeStages.1.label>
-  <AA_Bumbledrone.label>trapalhão</AA_Bumbledrone.label>
-  <AA_BumbledroneHierophant.label>Hierofante Bumbledrone</AA_BumbledroneHierophant.label>
-  <AA_BumbledroneQueen.label>rainha do trapalhão</AA_BumbledroneQueen.label>
+  <AA_Bumbledrone.label>bumbledrone</AA_Bumbledrone.label>
+  <AA_BumbledroneHierophant.label>hierofante bumbledrone</AA_BumbledroneHierophant.label>
+  <AA_BumbledroneQueen.label>rainha bumbledrone</AA_BumbledroneQueen.label>
   <AA_Cactipine.label>cactipina</AA_Cactipine.label>
   <AA_Cactipine.lifeStages.0.label>cactipina</AA_Cactipine.lifeStages.0.label>
   <AA_Cactipine.lifeStages.1.label>cactipina</AA_Cactipine.lifeStages.1.label>
@@ -51,9 +51,9 @@
   <AA_ChameleonYak.lifeStages.0.label>bezerro de iaque camaleão</AA_ChameleonYak.lifeStages.0.label>
   <AA_ChameleonYak.lifeStages.0.labelPlural>bezerros de iaque camaleão</AA_ChameleonYak.lifeStages.0.labelPlural>
   <AA_ChemfuelMyrmidon.label>mirmidão de combustível químico</AA_ChemfuelMyrmidon.label>
-  <AA_Cinderlisk.label>cinza</AA_Cinderlisk.label>
+  <AA_Cinderlisk.label>cinderlisk</AA_Cinderlisk.label>
   <AA_ColossalAerofleet.label>frota aérea colossal</AA_ColossalAerofleet.label>
-  <AA_CrepuscularBeetle.label>Besouro Crepuscular</AA_CrepuscularBeetle.label>
+  <AA_CrepuscularBeetle.label>besouro crepuscular</AA_CrepuscularBeetle.label>
   <AA_CrescendoAnole.label>anolis crescendo</AA_CrescendoAnole.label>
   <AA_CrystalMit.label>cristalmit</AA_CrystalMit.label>
   <AA_CrystallineCaracal.label>caracal cristalino</AA_CrystallineCaracal.label>
@@ -61,52 +61,52 @@
   <AA_CrystallineCaracal.lifeStages.1.label>juvenil caracal cristalino</AA_CrystallineCaracal.lifeStages.1.label>
   <AA_DarkVandal.label>vândalo escuro</AA_DarkVandal.label>
   <AA_Darkbeast.label>besta negra</AA_Darkbeast.label>
-  <AA_DecayDrake.label>Drake Decadência</AA_DecayDrake.label>
-  <AA_DesertAve.label>avenida do deserto</AA_DesertAve.label>
+  <AA_DecayDrake.label>drake da decadência</AA_DecayDrake.label>
+  <AA_DesertAve.label>ave do deserto</AA_DesertAve.label>
   <AA_DesertAve.labelPlural>aves do deserto</AA_DesertAve.labelPlural>
-  <AA_DesertAve.lifeStages.0.label>garota da avenida do deserto</AA_DesertAve.lifeStages.0.label>
+  <AA_DesertAve.lifeStages.0.label>filhote de ave do deserto</AA_DesertAve.lifeStages.0.label>
   <AA_DevilSheep.label>ovelha do diabo</AA_DevilSheep.label>
   <AA_DevilSheep.labelFemale>ovelha do diabo ovelha</AA_DevilSheep.labelFemale>
   <AA_DevilSheep.labelMale>ovelha do diabo carneiro</AA_DevilSheep.labelMale>
   <AA_DevilSheep.lifeStages.0.label>cordeiro do diabo</AA_DevilSheep.lifeStages.0.label>
-  <AA_Drainer.label>escorredor</AA_Drainer.label>
-  <AA_DrainerLarva.label>larva escorredora</AA_DrainerLarva.label>
+  <AA_Drainer.label>drenador</AA_Drainer.label>
+  <AA_DrainerLarva.label>larva drenadora</AA_DrainerLarva.label>
   <AA_Dunealisk.label>dunealisco</AA_Dunealisk.label>
-  <AA_DunealiskClutchMother.label>mãe de embreagem dunearisk</AA_DunealiskClutchMother.label>
-  <AA_DuskProwler.label>ladrão do crepúsculo</AA_DuskProwler.label>
+  <AA_DunealiskClutchMother.label>mãe de ninhada dunealisco</AA_DunealiskClutchMother.label>
+  <AA_DuskProwler.label>predador do crepúsculo</AA_DuskProwler.label>
   <AA_DuskProwler.lifeStages.0.label>cachorrinho predador do crepúsculo</AA_DuskProwler.lifeStages.0.label>
-  <AA_DuskProwler.lifeStages.0.labelPlural>filhotes de vagabundo do crepúsculo</AA_DuskProwler.lifeStages.0.labelPlural>
+  <AA_DuskProwler.lifeStages.0.labelPlural>filhotes de predador do crepúsculo</AA_DuskProwler.lifeStages.0.labelPlural>
   <AA_DuskRat.label>rato do crepúsculo</AA_DuskRat.label>
-  <AA_EmpressButterfly.label>Borboleta Imperatriz</AA_EmpressButterfly.label>
-  <AA_EmpressButterflyLarva.label>Larva da borboleta imperatriz</AA_EmpressButterflyLarva.label>
+  <AA_EmpressButterfly.label>borboleta imperatriz</AA_EmpressButterfly.label>
+  <AA_EmpressButterflyLarva.label>larva de borboleta imperatriz</AA_EmpressButterflyLarva.label>
   <AA_EngorgedTentacularAberration.label>aberração tentacular ingurgitada</AA_EngorgedTentacularAberration.label>
   <AA_Erin.label>Erin</AA_Erin.label>
-  <AA_Eyeling.label>olhando</AA_Eyeling.label>
+  <AA_Eyeling.label>eyeling</AA_Eyeling.label>
   <AA_Fangsquid.label>lula presa</AA_Fangsquid.label>
   <AA_Fangsquid.lifeStages.0.label>girino de lula presa</AA_Fangsquid.lifeStages.0.label>
   <AA_Feralisk.label>feralisk</AA_Feralisk.label>
-  <AA_FeraliskClutchMother.label>mãe de embreagem feralisk</AA_FeraliskClutchMother.label>
+  <AA_FeraliskClutchMother.label>mãe de ninhada feralisk</AA_FeraliskClutchMother.label>
   <AA_FireWasp.label>vespa de fogo</AA_FireWasp.label>
   <AA_FissionMouse.label>rato de fissão</AA_FissionMouse.label>
   <AA_FissionMouse.labelPlural>ratos de fissão</AA_FissionMouse.labelPlural>
-  <AA_FissionMouseSecond.label>mouse de fissão, segunda geração</AA_FissionMouseSecond.label>
+  <AA_FissionMouseSecond.label>rato de fissão, segunda geração</AA_FissionMouseSecond.label>
   <AA_FissionMouseSecond.labelPlural>ratos de fissão, segunda geração</AA_FissionMouseSecond.labelPlural>
   <AA_FissionMouseThird.label>rato de fissão, terceira geração</AA_FissionMouseThird.label>
   <AA_FissionMouseThird.labelPlural>ratos de fissão, terceira geração</AA_FissionMouseThird.labelPlural>
   <AA_FlamingoPhoenix.label>flamingo fênix</AA_FlamingoPhoenix.label>
   <AA_FlamingoPhoenix.labelPlural>Fênix Flamingo</AA_FlamingoPhoenix.labelPlural>
   <AA_FlamingoPhoenix.lifeStages.0.label>flamingo fênix garota</AA_FlamingoPhoenix.lifeStages.0.label>
-  <AA_FrostAve.label>avenida gelada</AA_FrostAve.label>
-  <AA_FrostAve.labelPlural>aves geladas</AA_FrostAve.labelPlural>
-  <AA_FrostAve.lifeStages.0.label>garota gelada</AA_FrostAve.lifeStages.0.label>
+  <AA_FrostAve.label>ave gélida</AA_FrostAve.label>
+  <AA_FrostAve.labelPlural>aves gélidas</AA_FrostAve.labelPlural>
+  <AA_FrostAve.lifeStages.0.label>filhote de ave gélida</AA_FrostAve.lifeStages.0.label>
   <AA_FrostLynx.label>lince gelado</AA_FrostLynx.label>
   <AA_FrostLynx.lifeStages.0.label>gatinho lince gelado</AA_FrostLynx.lifeStages.0.label>
   <AA_FrostLynx.lifeStages.1.label>lince da geada juvenil</AA_FrostLynx.lifeStages.1.label>
-  <AA_FrostboundBehemoth.label>gigante congelado</AA_FrostboundBehemoth.label>
-  <AA_Frostling.label>geada</AA_Frostling.label>
-  <AA_Frostling.lifeStages.0.label>filhote gelado</AA_Frostling.lifeStages.0.label>
-  <AA_Frostling.lifeStages.0.labelPlural>filhotes gelados</AA_Frostling.lifeStages.0.labelPlural>
-  <AA_Frostmite.label>congelamento</AA_Frostmite.label>
+  <AA_FrostboundBehemoth.label>behemoth do gelo</AA_FrostboundBehemoth.label>
+  <AA_Frostling.label>frostling</AA_Frostling.label>
+  <AA_Frostling.lifeStages.0.label>filhote frostling</AA_Frostling.lifeStages.0.label>
+  <AA_Frostling.lifeStages.0.labelPlural>filhotes frostling</AA_Frostling.lifeStages.0.labelPlural>
+  <AA_Frostmite.label>frostmite</AA_Frostmite.label>
   <AA_FungalHusk.label>casca de fungo</AA_FungalHusk.label>
   <AA_Gallatross.label>galatroz</AA_Gallatross.label>
   <AA_Gallatross.lifeStages.0.label>galatroz</AA_Gallatross.lifeStages.0.label>
@@ -115,9 +115,9 @@
   <AA_Genix.label>genix</AA_Genix.label>
   <AA_Genix.lifeStages.0.label>gatinho genix</AA_Genix.lifeStages.0.label>
   <AA_Genix.lifeStages.1.label>genix juvenil</AA_Genix.lifeStages.1.label>
-  <AA_GiantCrownedSilkie.label>seda gigante coroada</AA_GiantCrownedSilkie.label>
-  <AA_GiantCrownedSilkie.lifeStages.0.label>pintinho seda coroado gigante</AA_GiantCrownedSilkie.lifeStages.0.label>
-  <AA_Gigantelope.label>gigantelope</AA_Gigantelope.label>
+  <AA_GiantCrownedSilkie.label>sedosa gigante coroada</AA_GiantCrownedSilkie.label>
+  <AA_GiantCrownedSilkie.lifeStages.0.label>pintinho de sedosa gigante coroada</AA_GiantCrownedSilkie.lifeStages.0.label>
+  <AA_Gigantelope.label>gigantílope</AA_Gigantelope.label>
   <AA_Gigantelope.lifeStages.0.label>bezerro gigantelope</AA_Gigantelope.lifeStages.0.label>
   <AA_Gigantelope.lifeStages.0.labelPlural>bezerros gigantelope</AA_Gigantelope.lifeStages.0.labelPlural>
   <AA_GreatDevourer.label>grande devorador</AA_GreatDevourer.label>
@@ -126,45 +126,45 @@
   <AA_GreyCoatedMouflon.labelFemale>ovelha muflão de pelo cinza</AA_GreyCoatedMouflon.labelFemale>
   <AA_GreyCoatedMouflon.labelMale>carneiro muflão de pelagem cinza</AA_GreyCoatedMouflon.labelMale>
   <AA_GreyCoatedMouflon.lifeStages.0.label>cordeiro muflão de pelagem cinza</AA_GreyCoatedMouflon.lifeStages.0.label>
-  <AA_Groundrunner.label>corredor de solo</AA_Groundrunner.label>
+  <AA_Groundrunner.label>groundrunner</AA_Groundrunner.label>
   <AA_Helixien.label>helixien</AA_Helixien.label>
-  <AA_InfectedAerofleet.label>aerofrota infectada</AA_InfectedAerofleet.label>
+  <AA_InfectedAerofleet.label>frota aérea infectada</AA_InfectedAerofleet.label>
   <AA_IronhuskBeetle.label>besouro casca de ferro</AA_IronhuskBeetle.label>
-  <AA_Junglelisk.label>peixe-selva</AA_Junglelisk.label>
+  <AA_Junglelisk.label>junglelisk</AA_Junglelisk.label>
   <AA_LarvalAtispec.label>atispec larval</AA_LarvalAtispec.label>
-  <AA_Lockjaw.label>mandíbula travada</AA_Lockjaw.label>
+  <AA_Lockjaw.label>lockjaw</AA_Lockjaw.label>
   <AA_LuciferBug.label>luciferbug</AA_LuciferBug.label>
   <AA_MammothWorm.label>verme mamute</AA_MammothWorm.label>
-  <AA_MammothWorm_Temporary.label>verme mamute convocado</AA_MammothWorm_Temporary.label>
+  <AA_MammothWorm_Temporary.label>verme mamute invocado</AA_MammothWorm_Temporary.label>
   <AA_Mantrap.label>armadilha</AA_Mantrap.label>
   <AA_MatureFleshbeast.label>besta madura</AA_MatureFleshbeast.label>
-  <AA_MeadowAve.label>prado avenida</AA_MeadowAve.label>
+  <AA_MeadowAve.label>ave do prado</AA_MeadowAve.label>
   <AA_MeadowAve.labelPlural>aves do prado</AA_MeadowAve.labelPlural>
-  <AA_MeadowAve.lifeStages.0.label>prado ave garota</AA_MeadowAve.lifeStages.0.label>
+  <AA_MeadowAve.lifeStages.0.label>filhote de ave do prado</AA_MeadowAve.lifeStages.0.label>
   <AA_MegaLouse.label>megalousa</AA_MegaLouse.label>
   <AA_MegaLouse.labelPlural>megalice</AA_MegaLouse.labelPlural>
   <AA_Metallovore.label>metaleiro</AA_Metallovore.label>
-  <AA_Mime.label>mímica</AA_Mime.label>
-  <AA_Murkling.label>sombria</AA_Murkling.label>
+  <AA_Mime.label>mímico</AA_Mime.label>
+  <AA_Murkling.label>murkling</AA_Murkling.label>
   <AA_MycoidColossus.label>colosso micoide</AA_MycoidColossus.label>
   <AA_Needlepost.label>poste de agulha</AA_Needlepost.label>
   <AA_Needleroll.label>rolo de agulha</AA_Needleroll.label>
-  <AA_NightAve.label>avenida da noite</AA_NightAve.label>
+  <AA_NightAve.label>ave noturna</AA_NightAve.label>
   <AA_NightAve.labelPlural>aves noturnas</AA_NightAve.labelPlural>
-  <AA_NightAve.lifeStages.0.label>garota da noite</AA_NightAve.lifeStages.0.label>
+  <AA_NightAve.lifeStages.0.label>filhote de ave noturna</AA_NightAve.lifeStages.0.label>
   <AA_NightMule.label>mula noturna</AA_NightMule.label>
   <AA_NightMule.lifeStages.0.label>bezerro nightmule</AA_NightMule.lifeStages.0.label>
   <AA_NightMule.lifeStages.0.labelPlural>bezerros nightmule</AA_NightMule.lifeStages.0.labelPlural>
-  <AA_NightRam.label>noite</AA_NightRam.label>
-  <AA_NightRam.lifeStages.0.label>bezerro noturno</AA_NightRam.lifeStages.0.label>
-  <AA_NightRam.lifeStages.0.labelPlural>bezerros noturnos</AA_NightRam.lifeStages.0.labelPlural>
-  <AA_Nightling.label>noturno</AA_Nightling.label>
-  <AA_Nightling.lifeStages.0.label>filhote noturno</AA_Nightling.lifeStages.0.label>
-  <AA_Nightling.lifeStages.0.labelPlural>filhotes noturnos</AA_Nightling.lifeStages.0.labelPlural>
+  <AA_NightRam.label>nightram</AA_NightRam.label>
+  <AA_NightRam.lifeStages.0.label>bezerro nightram</AA_NightRam.lifeStages.0.label>
+  <AA_NightRam.lifeStages.0.labelPlural>bezerros nightram</AA_NightRam.lifeStages.0.labelPlural>
+  <AA_Nightling.label>nightling</AA_Nightling.label>
+  <AA_Nightling.lifeStages.0.label>filhote nightling</AA_Nightling.lifeStages.0.label>
+  <AA_Nightling.lifeStages.0.labelPlural>filhotes nightling</AA_Nightling.lifeStages.0.labelPlural>
   <AA_OcularJelly.label>geleia ocular</AA_OcularJelly.label>
-  <AA_OcularNightling.label>noturno ocular</AA_OcularNightling.label>
-  <AA_OcularNightling.lifeStages.0.label>filhote noturno ocular</AA_OcularNightling.lifeStages.0.label>
-  <AA_OcularNightling.lifeStages.0.labelPlural>filhotes noturnos oculares</AA_OcularNightling.lifeStages.0.labelPlural>
+  <AA_OcularNightling.label>nightling ocular</AA_OcularNightling.label>
+  <AA_OcularNightling.lifeStages.0.label>filhote nightling ocular</AA_OcularNightling.lifeStages.0.label>
+  <AA_OcularNightling.lifeStages.0.labelPlural>filhotes nightling oculares</AA_OcularNightling.lifeStages.0.labelPlural>
   <AA_OcularOriginator.label>originador ocular</AA_OcularOriginator.label>
   <AA_OvergrownColossus.label>colosso crescido</AA_OvergrownColossus.label>
   <AA_PebbleMit.label>seixo</AA_PebbleMit.label>
@@ -181,44 +181,44 @@
   <AA_Ravager.label>devastador</AA_Ravager.label>
   <AA_RayHound.label>cão de raios</AA_RayHound.label>
   <AA_RayHound.lifeStages.0.label>lagarto raiado</AA_RayHound.lifeStages.0.label>
-  <AA_Razorjack.label>navalha</AA_Razorjack.label>
+  <AA_Razorjack.label>razorjack</AA_Razorjack.label>
   <AA_RedGoo.label>gosma vermelha</AA_RedGoo.label>
   <AA_RedSpore.label>esporo vermelho</AA_RedSpore.label>
   <AA_RipperHound.label>cão estripador</AA_RipperHound.label>
   <AA_RipperHound.lifeStages.0.label>filhote de cão estripador</AA_RipperHound.lifeStages.0.label>
   <AA_RipperHound.lifeStages.0.labelPlural>filhotes de cão estripador</AA_RipperHound.lifeStages.0.labelPlural>
-  <AA_RoughPlatedMonitor.label>monitor revestido em bruto</AA_RoughPlatedMonitor.label>
-  <AA_RoyalAve.label>avenida real</AA_RoyalAve.label>
+  <AA_RoughPlatedMonitor.label>monitor de placas ásperas</AA_RoughPlatedMonitor.label>
+  <AA_RoyalAve.label>ave real</AA_RoyalAve.label>
   <AA_RoyalAve.labelPlural>aves reais</AA_RoyalAve.labelPlural>
-  <AA_RoyalAve.lifeStages.0.label>garota da avenida real</AA_RoyalAve.lifeStages.0.label>
+  <AA_RoyalAve.lifeStages.0.label>filhote de ave real</AA_RoyalAve.lifeStages.0.label>
   <AA_SandLion.label>leão de areia</AA_SandLion.label>
   <AA_SandLion.lifeStages.0.label>filhote de leão de areia</AA_SandLion.lifeStages.0.label>
   <AA_SandLion.lifeStages.1.label>leão de areia juvenil</AA_SandLion.lifeStages.1.label>
-  <AA_SandProwler.label>ladrão de areia</AA_SandProwler.label>
-  <AA_SandProwler.lifeStages.0.label>filhote de predador de areia</AA_SandProwler.lifeStages.0.label>
-  <AA_SandProwler.lifeStages.1.label>ladrão de areia juvenil</AA_SandProwler.lifeStages.1.label>
+  <AA_SandProwler.label>predador da areia</AA_SandProwler.label>
+  <AA_SandProwler.lifeStages.0.label>filhote de predador da areia</AA_SandProwler.lifeStages.0.label>
+  <AA_SandProwler.lifeStages.1.label>predador da areia juvenil</AA_SandProwler.lifeStages.1.label>
   <AA_SandSquid.label>lula de areia</AA_SandSquid.label>
   <AA_SandSquid.lifeStages.0.label>girino de areia</AA_SandSquid.lifeStages.0.label>
   <AA_SandSquid.lifeStages.1.label>lula de areia</AA_SandSquid.lifeStages.1.label>
-  <AA_ShadowCharger.label>carregador de sombra</AA_ShadowCharger.label>
-  <AA_ShadowCharger.lifeStages.0.label>bezerro carregador de sombra</AA_ShadowCharger.lifeStages.0.label>
-  <AA_ShadowCharger.lifeStages.0.labelPlural>bezerros carregador de sombra</AA_ShadowCharger.lifeStages.0.labelPlural>
+  <AA_ShadowCharger.label>corcel sombrio</AA_ShadowCharger.label>
+  <AA_ShadowCharger.lifeStages.0.label>bezerro de corcel sombrio</AA_ShadowCharger.lifeStages.0.label>
+  <AA_ShadowCharger.lifeStages.0.labelPlural>bezerros de corcel sombrio</AA_ShadowCharger.lifeStages.0.labelPlural>
   <AA_ShockGoat.label>cabra de choque</AA_ShockGoat.label>
   <AA_ShockGoat.labelFemale>ovelha de cabra de choque</AA_ShockGoat.labelFemale>
   <AA_ShockGoat.labelMale>carneiro de cabra de choque</AA_ShockGoat.labelMale>
   <AA_ShockGoat.lifeStages.0.label>cordeiro de cabra de choque</AA_ShockGoat.lifeStages.0.label>
-  <AA_Skiphound.label>cão de caça</AA_Skiphound.label>
+  <AA_Skiphound.label>skiphound</AA_Skiphound.label>
   <AA_Skiphound.lifeStages.0.label>cachorrinho skiphound</AA_Skiphound.lifeStages.0.label>
-  <AA_Skyeel.label>enguia do céu Arcturan</AA_Skyeel.label>
-  <AA_Slurrypede.label>pedregulho</AA_Slurrypede.label>
+  <AA_Skyeel.label>enguia do céu arcturana</AA_Skyeel.label>
+  <AA_Slurrypede.label>slurrypede</AA_Slurrypede.label>
   <AA_SpinedGow.label>gow espinhoso</AA_SpinedGow.label>
   <AA_SpinedGow.lifeStages.0.label>bezerro espinhoso</AA_SpinedGow.lifeStages.0.label>
   <AA_SpinedGow.lifeStages.0.labelPlural>bezerros espinhosos</AA_SpinedGow.lifeStages.0.labelPlural>
   <AA_SummitCrab.label>caranguejo do cume</AA_SummitCrab.label>
   <AA_SummitCrab.lifeStages.0.label>caranguejo do cume</AA_SummitCrab.lifeStages.0.label>
   <AA_SummitCrab.lifeStages.1.label>caranguejo do cume</AA_SummitCrab.lifeStages.1.label>
-  <AA_Summoned_Eyeling.label>olho convocado</AA_Summoned_Eyeling.label>
-  <AA_Swarmling.label>fervilhante</AA_Swarmling.label>
+  <AA_Summoned_Eyeling.label>eyeling invocado</AA_Summoned_Eyeling.label>
+  <AA_Swarmling.label>enxameante</AA_Swarmling.label>
   <AA_TarGuzzler.label>bebedor de alcatrão</AA_TarGuzzler.label>
   <AA_TeratogenicOriginator.label>originador teratogênico</AA_TeratogenicOriginator.label>
   <AA_Terramorph.label>terramorfo</AA_Terramorph.label>
@@ -226,15 +226,15 @@
   <AA_TetraSlug.lifeStages.0.label>lesma tetra</AA_TetraSlug.lifeStages.0.label>
   <AA_TetraSlug.lifeStages.1.label>lesma tetra</AA_TetraSlug.lifeStages.1.label>
   <AA_Thermadon.label>termodon</AA_Thermadon.label>
-  <AA_Thunderbeast.label>besta trovejante</AA_Thunderbeast.label>
-  <AA_Thunderox.label>trovão</AA_Thunderox.label>
-  <AA_Thunderox.lifeStages.0.label>bezerro trovão</AA_Thunderox.lifeStages.0.label>
-  <AA_Thunderox.lifeStages.0.labelPlural>bezerros Thunderox</AA_Thunderox.lifeStages.0.labelPlural>
+  <AA_Thunderbeast.label>besta do trovão</AA_Thunderbeast.label>
+  <AA_Thunderox.label>thunderox</AA_Thunderox.label>
+  <AA_Thunderox.lifeStages.0.label>bezerro thunderox</AA_Thunderox.lifeStages.0.label>
+  <AA_Thunderox.lifeStages.0.labelPlural>bezerros thunderox</AA_Thunderox.lifeStages.0.labelPlural>
   <AA_UnblinkingEye.label>olho sem piscar</AA_UnblinkingEye.label>
-  <AA_Wildpawn.label>peão selvagem</AA_Wildpawn.label>
+  <AA_Wildpawn.label>wildpawn</AA_Wildpawn.label>
   <AA_Wildpod.label>vagem selvagem</AA_Wildpod.label>
   <AA_WindBeast.label>besta do vento</AA_WindBeast.label>
   <VFEI2_BlackEmpress.label>imperatriz negra</VFEI2_BlackEmpress.label>
   <VFEI2_BlackQueen.label>rainha insetoide negra</VFEI2_BlackQueen.label>
-  <VFEI2_BlackSwarmling.label>enxames negros</VFEI2_BlackSwarmling.label>
+  <VFEI2_BlackSwarmling.label>enxameantes negros</VFEI2_BlackSwarmling.label>
 </LanguageData>
