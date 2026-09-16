@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StructureMemeTip>A estrutura de uma ideologia determina o tipo de entidades e forças que ela considera importantes para a estrutura moral do universo. Tem pequenos efeitos de jogo.</StructureMemeTip>
+  <ChooseStructureMemesInfo>Escolha a estrutura simbólica de sua ideologia. Isso afeta principalmente símbolos, estilos e descrições - tem efeitos mínimos na jogabilidade.</ChooseStructureMemesInfo>
+  <VME_Automation>Eficiência da automação: preceito aumentado</VME_Automation>
+  <VME_AutomationDecreased>Eficiência da automação: preceito diminuído</VME_AutomationDecreased>
+  <VME_AutomationManual>Velocidade de fabricação: mais lenta pelo preceito manual</VME_AutomationManual>
+  <VME_AutomationManualFaster>Velocidade de fabricação: mais rápida pelo preceito manual</VME_AutomationManualFaster>
+  <VME_MeditationSpotExtra>Meditação: preceito requintado</VME_MeditationSpotExtra>
+  <VME_ExtraJoyGain>Recreação: preceito amado</VME_ExtraJoyGain>
+  <VME_ExtraPatissierCooking>Função de pâtissier</VME_ExtraPatissierCooking>
+  <VME_ExtraCertaintyLoss>Corrupção Sobrenatural muito baixa</VME_ExtraCertaintyLoss>
+  <VME_NullCertaintyLoss>Corrupção Sobrenatural</VME_NullCertaintyLoss>
+  <VME_PawnMustBeSuicidal>{0} não está nutrindo pensamentos suicidas!</VME_PawnMustBeSuicidal>
+  <VME_PawnMustBeBestMelee>{0} precisa ser o melhor lutador de corpo a corpo da colônia!</VME_PawnMustBeBestMelee>
+  <VME_RitualTargetDivineTheStarsInfo>Um ponto de ritual sem teto à noite. O local deve estar sem teto, com pelo menos 25 quadrados sem teto na área.</VME_RitualTargetDivineTheStarsInfo>
+  <VME_WickerManInfo>Um homem de vime construído.</VME_WickerManInfo>
+  <VME_CantStartWickerManRitual>Você precisa de um prisioneiro para iniciar o ritual do homem de vime.</VME_CantStartWickerManRitual>
+  <VME_MessageRitualRoleMustBeSlave>O participante deve ser um escravo.</VME_MessageRitualRoleMustBeSlave>
+  <VME_NeedsAdults>O organizador e os participantes devem ser adultos que consintam.</VME_NeedsAdults>
+  <VME_AbilityDisabledNoWickerMan>Nenhum homem de vime alcançável.</VME_AbilityDisabledNoWickerMan>
+  <VME_AbilityNeedsATurret>Esta habilidade precisa mirar uma torreta ou um mecanoide.</VME_AbilityNeedsATurret>
+  <VME_AbilityNeedsInsect>Esta habilidade precisa mirar um insetoide selvagem ou hostil.</VME_AbilityNeedsInsect>
+  <VME_AbilityNeedsRoof>Esta habilidade precisa mirar um local vazio sob teto de montanha.</VME_AbilityNeedsRoof>
+  <VME_AbilityNeedsSpotEmpty>Esta habilidade precisa mirar um local vazio.</VME_AbilityNeedsSpotEmpty>
+  <VME_AbilityNeedsMeal>Esta habilidade precisa mirar um alimento classificado como refeição.</VME_AbilityNeedsMeal>
+  <VME_AbilityCaravanWillArrive>Uma caravana comercial foi atraída para o seu assentamento e chegará em aproximadamente um dia.</VME_AbilityCaravanWillArrive>
+  <VME_AbilityAlreadyADessert>A refeição já é uma sobremesa. Esta habilidade precisa mirar uma refeição que não seja uma sobremesa.</VME_AbilityAlreadyADessert>
+  <VME_AbilityNeedsAColonist>Esta habilidade precisa mirar um colono livre.</VME_AbilityNeedsAColonist>
+  <VME_AbilityNeedsCorpse>Esta habilidade precisa mirar um cadáver humanoide fresco.</VME_AbilityNeedsCorpse>
+  <VME_AbilityNeedsOrganPostMortemPrecept>A ideologia de {0} não possui o preceito Uso de órgãos: post mortem. A habilidade não pode ser usada sem ele</VME_AbilityNeedsOrganPostMortemPrecept>
+  <VME_DeconstructBuildingLabel>Desinstalar construção</VME_DeconstructBuildingLabel>
+  <VME_DeconstructBuildingDesc>Desinstale construções de sucata para poder movê-las e reinstalá-las. Elas podem ser levadas em caravana para fora do mapa, possibilitando as "expedições de sucata"</VME_DeconstructBuildingDesc>
+  <VME_CancelDeconstructBuildingLabel>Cancelar desinstalação de construção</VME_CancelDeconstructBuildingLabel>
+  <VME_CancelDeconstructBuildingDesc>Cancela a desinstalação da construção</VME_CancelDeconstructBuildingDesc>
+  <VME_BreakCorruption>Gota d'água: horror cósmico</VME_BreakCorruption>
+  <VME_NeedsWater>Deve ser construída sobre água transitável.</VME_NeedsWater>
+  <VME_NeedsDistance>As armadilhas de peixes devem ser construídas a pelo menos 10 quadrados de distância umas das outras.</VME_NeedsDistance>
+  <VME_SmallFishTrapDescriptionInspect>Esta armadilha de peixes pode capturar peixes pequenos:</VME_SmallFishTrapDescriptionInspect>
+  <VME_SmallFishCaughtIn>Próximo peixe pequeno capturado em</VME_SmallFishCaughtIn>
+  <VME_MediumFishTrapDescriptionInspect>Esta armadilha de peixes pode capturar peixes médios:</VME_MediumFishTrapDescriptionInspect>
+  <VME_MediumFishCaughtIn>Próximo peixe médio capturado em</VME_MediumFishCaughtIn>
+  <VME_LargeFishTrapDescriptionInspect>Esta armadilha de peixes pode capturar peixes grandes:</VME_LargeFishTrapDescriptionInspect>
+  <VME_LargeFishCaughtIn>Próximo peixe grande capturado em</VME_LargeFishCaughtIn>
+  <VME_UsesLeftUntilItBreaks>Capturas até quebrar: {0}</VME_UsesLeftUntilItBreaks>
+  <VME_PawnMustBeAnAdult>Apenas adultos podem participar deste ritual</VME_PawnMustBeAnAdult>
+  <VME_Maintenance>Manutenção do ninho de insetos: {0}%</VME_Maintenance>
+  <VME_MaintenanceNeeded>Manutenção necessária. Se chegar a 0%, o ninho será destruído.</VME_MaintenanceNeeded>
+  <VME_NotTheQueen>Este insetoide gigantesco é imune a esta habilidade</VME_NotTheQueen>
+  <VME_NoValidPartySpot>Não foi possível encontrar um ponto de festa válido, ou o organizador estava indisponível.</VME_NoValidPartySpot>
+  <VME_CantStartRitualNoConvertee>Você precisa de um prisioneiro razoavelmente saudável para iniciar o ritual</VME_CantStartRitualNoConvertee>
+  <VME_ViolentOutcome>Infelizmente, {0} se recusou a ver nossos caminhos razoáveis e foi sacrificado.</VME_ViolentOutcome>
+  <VME_NonViolentOutcome>{0} viu nossos caminhos razoáveis e foi convertido à nossa ideologia.</VME_NonViolentOutcome>
+  <VME_RitualNeedsNightOrDarkness>O ritual precisa ser realizado à noite, ou sob qualquer condição que reduza a luz globalmente abaixo de 50% (eclipses não contam).</VME_RitualNeedsNightOrDarkness>
+  <VME_RitualNeedsClearWeather>O ritual precisa ser realizado à noite e com tempo limpo.</VME_RitualNeedsClearWeather>
+  <VME_BonfireDyingIn>Fogueira a {0}% de força</VME_BonfireDyingIn>
+  <VEM_HighCorruption>Corrupção alta</VEM_HighCorruption>
+  <VEM_HighCorruptionDesc>Estas pessoas têm uma necessidade de corrupção muito alta (mais de 90%). Se atingirem 100% de corrupção, sofrerão um colapso mental extremo:\n\n{0}</VEM_HighCorruptionDesc>
+  <VEM_LowCorruption>Corrupção baixa</VEM_LowCorruption>
+  <VEM_LowCorruptionDesc>Estas pessoas têm uma necessidade de corrupção muito baixa (menos de 10%). Se atingirem 0% de corrupção, serão facilmente persuadidas a adotar outra ideologia. Construa obeliscos para manter a necessidade de corrupção delas ou realize rituais de Encantamento para aumentá-la em 10%:\n\n{0}</VEM_LowCorruptionDesc>
+  <VME_MessageJunkChunkDrop>Pedaços de lixo espacial antigo caíram nas proximidades. Você pode desinstalá-los e movê-los para construir seu ferro-velho.\n\nEste evento ocorre se você tiver algum colono com uma ideologia que use o meme Sucateiro.</VME_MessageJunkChunkDrop>
+  <VME_MessageRitualRoleMustBeCapableOfSocial>O colono deve ser capaz de falar</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <VME_NeedsExaltedPriesthood>O ritual precisa do meme Sacerdócio Exaltado</VME_NeedsExaltedPriesthood>
+  <VME_HeirChange>Herdeiro alterado</VME_HeirChange>
+  <VME_HeirChangeDesc>Devido à herança real, {1} foi designado automaticamente como herdeiro de {0}</VME_HeirChangeDesc>
+  <VME_CheapTradingFair>São necessários 200 de prata em estoques perto de uma baliza de comércio para a feira não ser considerada "barata"</VME_CheapTradingFair>
+  <VME_Reset>Redefinir</VME_Reset>
+  <VME_Meme>Máx. de memes</VME_Meme>
+  <VME_Ritual>Máx. de rituais</VME_Ritual>
+  <VME_Styles>Máx. de estilos</VME_Styles>
+  <VME_Relics>Máx. de relíquias</VME_Relics>
+  <VME_Buildings>Máx. de construções</VME_Buildings>
+  <VME_MemeAmount>Número máximo de memes permitidos (padrão: 4)</VME_MemeAmount>
+  <VME_MemeAmountTooltip>Número máximo de memes permitidos. Observe que isso se aplica apenas às ideologias dos jogadores.</VME_MemeAmountTooltip>
+  <VME_RitualAmount>Número máximo de rituais não específicos de memes permitidos (padrão: 6)</VME_RitualAmount>
+  <VME_RitualAmountTooltip>Número máximo de rituais não específicos de memes permitidos. Rituais forçados por um meme NORMALMENTE não contam para este limite, embora possa haver exceções.</VME_RitualAmountTooltip>
+  <VME_StylesAmount>Número máximo de estilos visuais de ideologia permitidos (padrão: 3)</VME_StylesAmount>
+  <VME_StylesAmountTooltip>Número máximo de estilos visuais de ideologia permitidos. Observe que definimos isso como 5 por padrão no mod, em vez dos 3 do jogo base, porque adicionamos muitos deles.</VME_StylesAmountTooltip>
+  <VME_RelicsAmount>Número máximo de relíquias de ideologia permitidas (padrão: 3)</VME_RelicsAmount>
+  <VME_RelicsAmountTooltip>Número máximo de relíquias de ideologia permitidas</VME_RelicsAmountTooltip>
+  <VME_BuildingsAmount>Número máximo de construções de ideologia permitidas (padrão: 2)</VME_BuildingsAmount>
+  <VME_BuildingsAmountTooltip>Número máximo de construções de ideologia permitidas. Isso inclui altares, pictogramas e afins, mas não construções adicionadas por memes.</VME_BuildingsAmountTooltip>
+  <VME_AllowHighImpactMemesForFluidIdeos>Permitir memes de alto impacto em ideologias fluidas</VME_AllowHighImpactMemesForFluidIdeos>
+  <VME_AllowHighImpactMemesForFluidIdeos_Tooltip>Por padrão, ideologias fluidas só permitem escolher um meme com impacto 1 ou 2, bloqueando a escolha de memes de impacto 3. Com esta opção ativada, memes de impacto 3 também ficam disponíveis.</VME_AllowHighImpactMemesForFluidIdeos_Tooltip>
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>Nenhum guarda é capaz deste recrutamento.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <VFEAncients.InterrogationSuccess>Interrogatório bem-sucedido</VFEAncients.InterrogationSuccess>
+  <VFEAncients.InterrogationSuccessDetail>{0} interrogou {1} com sucesso, que revelou a localização de {2}.</VFEAncients.InterrogationSuccessDetail>
+  <VFEAncients.InterrogationFailure>O interrogatório falhou!</VFEAncients.InterrogationFailure>
+</LanguageData>

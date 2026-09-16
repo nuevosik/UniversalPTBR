@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_EnforceCompliance.label>impor obediência</VME_EnforceCompliance.label>
+  <VME_EnforceCompliance.description>Executa um colono. Todos os colonos que compartilham a ideologia do comissário recebem um bônus de humor positivo.</VME_EnforceCompliance.description>
+  <VME_LeaderConversionRitual.label>ritual de conversão (líder)</VME_LeaderConversionRitual.label>
+  <VME_LeaderConversionRitual.description>Tente persuadir alguém a adotar suas crenças. Se der certo, eles perderão alguma certeza em sua ideologia e poderão se converter. Se o tiro sair pela culatra, eles ganharão a certeza de suas antigas crenças.\n\nPara iniciar este ritual em um lugar específico, selecione um ponto de ritual ou altar/ideograma correspondente.</VME_LeaderConversionRitual.description>
+  <VME_LeaderConvert.label>converter (líder)</VME_LeaderConvert.label>
+  <VME_LeaderConvert.description>Tente converter alguém à ideologia do locutor. Isso reduzirá a certeza do alvo em suas próprias crenças. A redução da certeza depende da habilidade de negociação do locutor.</VME_LeaderConvert.description>
+  <VME_LeaderPreachHealth.label>pregar saúde (líder)</VME_LeaderPreachHealth.label>
+  <VME_LeaderPreachHealth.description>Pregue força moral a uma pessoa doente ou ferida por meio dos conceitos de sua ideologia. Isso melhorará a taxa de cicatrização de feridas e o ganho de imunidade.</VME_LeaderPreachHealth.description>
+  <VME_LeaderReassure.label>reassegurar (líder)</VME_LeaderReassure.label>
+  <VME_LeaderReassure.description>Aumente a certeza de alguém em suas próprias crenças. A certeza recuperada é baseada na habilidade de negociação do locutor.</VME_LeaderReassure.description>
+  <VME_LeaderCounsel.label>aconselhar (líder)</VME_LeaderCounsel.label>
+  <VME_LeaderCounsel.description>Ofereça conselho a uma pessoa para cancelar o efeito de uma memória triste. A chance de sucesso depende das habilidades sociais do locutor e de seu relacionamento com o ouvinte.</VME_LeaderCounsel.description>
+  <VME_StrengthenFlame.label>fortalecer chama</VME_StrengthenFlame.label>
+  <VME_StrengthenFlame.description>Uma habilidade para incendiar fontes de chama e causar uma explosão. Só funciona em incêndios naturais, não em estruturas de fogo construídas.</VME_StrengthenFlame.description>
+  <VME_HarvestBodyParts.label>colher partes do corpo</VME_HarvestBodyParts.label>
+  <VME_HarvestBodyParts.description>Colhe de um cadáver uma parte do corpo esculpida em carne.</VME_HarvestBodyParts.description>
+  <VME_TameInsectoid.label>domar insetoide</VME_TameInsectoid.label>
+  <VME_TameInsectoid.description>Escolhe uma criatura insetoide como alvo e a doma instantaneamente.</VME_TameInsectoid.description>
+  <VME_ConstructANest.label>construir um ninho</VME_ConstructANest.label>
+  <VME_ConstructANest.description>Constrói um ninho insetoide que produz geleia de inseto. Um ritual de hino insetoide bem-sucedido deve ser realizado para reduzir o tempo de recarga desta habilidade.</VME_ConstructANest.description>
+  <VME_EnableSelfDestruct.label>ativar autodestruição</VME_EnableSelfDestruct.label>
+  <VME_EnableSelfDestruct.description>Uma habilidade para ordenar que uma torreta ou mecanoide se autodestrua. O mecahacker pode escolher qualquer torreta como alvo, até mesmo as inimigas, bem como qualquer mecanoide.</VME_EnableSelfDestruct.description>
+  <VME_MedicalEmergency.label>emergência médica</VME_MedicalEmergency.label>
+  <VME_MedicalEmergency.description>Impede que o descanso, a diversão e a alimentação do enfermeiro diminuam por 12 horas. Durante esse tempo, o enfermeiro só consegue executar tarefas médicas de forma adequada.</VME_MedicalEmergency.description>
+  <VME_ThrowParty.label>dar uma festa</VME_ThrowParty.label>
+  <VME_ThrowParty.description>Dá uma festa.</VME_ThrowParty.description>
+  <VME_CallTradeCaravan.label>chamar caravana comercial</VME_CallTradeCaravan.label>
+  <VME_CallTradeCaravan.description>Convoca uma caravana comercial.</VME_CallTradeCaravan.description>
+  <VME_MakeADessert.label>fazer uma sobremesa</VME_MakeADessert.label>
+  <VME_MakeADessert.description>Escolhe uma refeição como alvo para transformá-la em uma sobremesa.</VME_MakeADessert.description>
+  <VME_WorkCommand.label>comando de trabalho</VME_WorkCommand.label>
+  <VME_WorkCommand.description>Ordena que todos ao redor trabalhem com mais afinco e diligência, aumentando a velocidade de trabalho global e o consumo de diversão. O efeito permanece ligado ao lançador por 24 horas.</VME_WorkCommand.description>
+</LanguageData>

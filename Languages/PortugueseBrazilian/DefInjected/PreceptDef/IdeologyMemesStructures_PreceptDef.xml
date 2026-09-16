@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_Alcohol_Demanded.label>exigido</VME_Alcohol_Demanded.label>
+  <VME_Alcohol_Demanded.description>A embriaguez é o centro de uma vida boa.</VME_Alcohol_Demanded.description>
+  <VME_Alcohol_Desired.label>desejado</VME_Alcohol_Desired.label>
+  <VME_Alcohol_Desired.description>Beber é simplesmente divertido, embora não em excesso.</VME_Alcohol_Desired.description>
+  <VME_Alcohol_MildAbstinence.label>abstinência leve</VME_Alcohol_MildAbstinence.label>
+  <VME_Alcohol_MildAbstinence.description>O álcool não é problema quando consumido em pequenas doses, mas é melhor ficar longe dele o máximo possível.</VME_Alcohol_MildAbstinence.description>
+  <VME_Anonymity_Required.label>necessário</VME_Anonymity_Required.label>
+  <VME_Anonymity_Required.description>Através do verdadeiro anonimato podemos alcançar grandes coisas.</VME_Anonymity_Required.description>
+  <VME_Apostasy_Accepted.label>aceitável</VME_Apostasy_Accepted.label>
+  <VME_Apostasy_Accepted.description>Não devemos nos sentir presos à nossa ideologia atual.</VME_Apostasy_Accepted.description>
+  <Apostasy_Despicable.label>desprezível</Apostasy_Despicable.label>
+  <Apostasy_Despicable.description>Ser coagido ou manipulado a seguir uma crença diferente é um ato desprezível.</Apostasy_Despicable.description>
+  <VME_Aurora_Amazing.label>incrível</VME_Aurora_Amazing.label>
+  <VME_Aurora_Amazing.description>As auroras são um fenômeno belo e divino.</VME_Aurora_Amazing.description>
+  <VME_Aurora_Despised.label>desprezado</VME_Aurora_Despised.label>
+  <VME_Aurora_Despised.description>Aquelas luzes ofuscantes no céu noturno nos dão dores de cabeça terríveis.</VME_Aurora_Despised.description>
+  <VME_AutomationEfficiency_Increased.label>aumentado</VME_AutomationEfficiency_Increased.label>
+  <VME_AutomationEfficiency_Increased.description>Devemos abraçar a automação; trabalhar com as próprias mãos é primitivo.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Velocidade de bancada elétrica: x150%.</VME_AutomationEfficiency_Increased.description>
+  <VME_AutomationEfficiency_Decreased.label>reduzido</VME_AutomationEfficiency_Decreased.label>
+  <VME_AutomationEfficiency_Decreased.description>A automação é desprezível. Trabalhar com as próprias mãos é o verdadeiro artesanato.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Velocidade de bancada elétrica: x50%.</VME_AutomationEfficiency_Decreased.description>
+  <VME_AutonomousWeapons_Accepted.label>aceitável</VME_AutonomousWeapons_Accepted.label>
+  <VME_AutonomousWeapons_Accepted.description>Defesas automatizadas são uma boa forma de defender nossa colônia.</VME_AutonomousWeapons_Accepted.description>
+  <VME_AutonomousWeapons_Exalted.label>exaltado</VME_AutonomousWeapons_Exalted.label>
+  <VME_AutonomousWeapons_Exalted.description>Defesas automatizadas são essenciais para defender adequadamente o que é nosso.</VME_AutonomousWeapons_Exalted.description>
+  <VME_BodyMod_OnlyBiological.label>apenas biológico</VME_BodyMod_OnlyBiological.label>
+  <VME_BodyMod_OnlyBiological.description>A carne só deve ser substituída por carne; substituir um corpo por uma máquina é proibido.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Isto abrange membros esculpidos em carne, membros naturais, membros mutantes de Anomaly, implantes do Vanilla Genetics Expanded e implantes "oculares" do Alpha Animals.</VME_BodyMod_OnlyBiological.description>
+  <VME_Corruption_Essential.label>essencial</VME_Corruption_Essential.label>
+  <VME_Corruption_Essential.description>É importante abraçar os presentes de nosso deus sombrio.</VME_Corruption_Essential.description>
+  <VME_CraftingQuality_Increased.label>aumentado</VME_CraftingQuality_Increased.label>
+  <VME_CraftingQuality_Increased.description>Temos orgulho do nosso trabalho e não tomamos atalhos para alcançar a perfeição.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Aumenta em 1 a qualidade dos itens criados em uma bancada de trabalho, até lendário.</VME_CraftingQuality_Increased.description>
+  <VME_CraftingQuality_Decreased.label>reduzido</VME_CraftingQuality_Decreased.label>
+  <VME_CraftingQuality_Decreased.description>Não nos importamos com trabalho artesanal. Por que criar algo quando você pode comprar ou roubar dos outros?\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Reduz em 1 a qualidade dos itens criados em uma bancada de trabalho, até horrível.</VME_CraftingQuality_Decreased.description>
+  <VME_CraftingSpeed_Slower.label>mais lento</VME_CraftingSpeed_Slower.label>
+  <VME_CraftingSpeed_Slower.description>Um mestre artesão nunca deve se apressar, para que a qualidade do produto não sofra.</VME_CraftingSpeed_Slower.description>
+  <VME_CraftingSpeed_SlowerForManual.label>mais lento para trabalho manual</VME_CraftingSpeed_SlowerForManual.label>
+  <VME_CraftingSpeed_SlowerForManual.description>Não devemos desperdiçar nossas preciosas vidas nos matando em trabalho manual sem sentido.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Velocidade de bancada não elétrica: x75%.</VME_CraftingSpeed_SlowerForManual.description>
+  <VME_Death_DontCare.label>normal</VME_Death_DontCare.label>
+  <VME_Death_DontCare.description>A morte é inevitável; é melhor não lamentar a perda de vidas.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos não receberão nenhum efeito de humor por perder outros colonos.</VME_Death_DontCare.description>
+  <VME_Death_Normal.label>normal</VME_Death_Normal.label>
+  <VME_Death_Normal.description>A morte é inevitável, um fato incrivelmente triste da vida.</VME_Death_Normal.description>
+  <VME_Death_Troubling.label>perturbador</VME_Death_Troubling.label>
+  <VME_Death_Troubling.description>A morte é inevitável, mas preferimos não pensar nela nem ser lembrados de sua realidade o máximo possível.</VME_Death_Troubling.description>
+  <VME_Defeat_Dishonorable.label>desonroso</VME_Defeat_Dishonorable.label>
+  <VME_Defeat_Dishonorable.description>Sofrer um revés no campo de batalha é um insulto ao corpo, à mente e ao espírito.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Um colono derrubado em combate por um inimigo humanoide duas vezes em menos de 30 dias começará a exigir um ritual de suicídio cerimonial para limpar sua desonra. Mecanoides e animais não contam para isto.</VME_Defeat_Dishonorable.description>
+  <VME_DumbLabor_Exalted.label>exaltado</VME_DumbLabor_Exalted.label>
+  <VME_DumbLabor_Exalted.description>Um dia de trabalho duro limpando ou carregando é digno de respeito.</VME_DumbLabor_Exalted.description>
+  <VME_DumbLabor_Liked.label>apreciado</VME_DumbLabor_Liked.label>
+  <VME_DumbLabor_Liked.description>O trabalho duro faz bem ao corpo e à mente.</VME_DumbLabor_Liked.description>
+  <VME_DumbLabor_Indifferent.label>indiferente</VME_DumbLabor_Indifferent.label>
+  <VME_DumbLabor_Indifferent.description>Tarefas simples são necessárias. É só isso.</VME_DumbLabor_Indifferent.description>
+  <VME_DumbLabor_Disliked.label>reprovado</VME_DumbLabor_Disliked.label>
+  <VME_DumbLabor_Disliked.description>Preferimos não fazer tarefas de limpeza e carregamento, pois são incrivelmente exaustivas, mas são necessárias.</VME_DumbLabor_Disliked.description>
+  <VME_DumbLabor_Horrible.label>horrível</VME_DumbLabor_Horrible.label>
+  <VME_DumbLabor_Horrible.description>Não devemos sofrer a desonra do trabalho simples.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - As funções de líder e guia moral serão incapazes de realizar trabalho simples.</VME_DumbLabor_Horrible.description>
+  <VME_Eclipse_Despised.label>desprezado</VME_Eclipse_Despised.label>
+  <VME_Eclipse_Despised.description>Os eclipses são assustadores, certamente um sinal de coisas piores por vir.</VME_Eclipse_Despised.description>
+  <VME_Elders_Despised.label>desprezado</VME_Elders_Despised.label>
+  <VME_Elders_Despised.description>O que é isto, um asilo?</VME_Elders_Despised.description>
+  <VME_Elders_Respected.label>respeitado</VME_Elders_Respected.label>
+  <VME_Elders_Respected.description>Nossos anciãos devem ser respeitados.</VME_Elders_Respected.description>
+  <VME_Elders_Holy.label>sagrado</VME_Elders_Holy.label>
+  <VME_Elders_Holy.description>Nossos anciãos devem ser respeitados e reverenciados, e nunca esperaremos que façam trabalho pesado.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Colonos com mais de 65 anos não farão trabalho simples.</VME_Elders_Holy.description>
+  <VME_Expectations_High.label>alto</VME_Expectations_High.label>
+  <VME_Expectations_High.description>É importante viver uma boa vida na Orla e relaxar de vez em quando.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Expectativas aumentadas em 1 para todos na colônia, exceto elite e supremo, que não são afetados por questões de equilíbrio.</VME_Expectations_High.description>
+  <VME_Expectations_Low.label>baixo</VME_Expectations_Low.label>
+  <VME_Expectations_Low.description>A Orla é inóspita. Não deveríamos esperar vidas confortáveis.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Expectativas reduzidas em 1 para todos na colônia, exceto elite e supremo, que não são afetados por questões de equilíbrio.</VME_Expectations_Low.description>
+  <VME_FarmingYield_High.label>alto</VME_FarmingYield_High.label>
+  <VME_FarmingYield_High.description>A extração de madeira é tão importante que a fazemos com grande foco e respeito, e por isso obtemos mais recursos.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Rendimento da colheita: +10%.</VME_FarmingYield_High.description>
+  <VME_Fire_Desired.label>desejado</VME_Fire_Desired.label>
+  <VME_Fire_Desired.description>A chama é uma visão impressionante de se contemplar.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos recebem bônus de humor dependendo do número de fogos ativos no mapa. Fogueiras, tochas, outras fontes de fogo do jogo base e Fogueiras de Pedra do Vanilla Furniture Expanded - Core também contam.</VME_Fire_Desired.description>
+  <VME_Fire_Despised.label>desprezado</VME_Fire_Despised.label>
+  <VME_Fire_Despised.description>Não há nada tão perigoso quanto um fogo fora de controle. Incêndios devem ser prevenidos por todos os meios necessários.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos recebem humores negativos dependendo do número de fogos ativos no mapa. Fogueiras, tochas, outras fontes de fogo do jogo base e Fogueiras de Pedra do Vanilla Furniture Expanded - Core também contam.</VME_Fire_Despised.description>
+  <VME_Firefighting_Abhorrent.label>abominável</VME_Firefighting_Abhorrent.label>
+  <VME_Firefighting_Abhorrent.description>Apagar uma chama aberta é um ato repugnante.</VME_Firefighting_Abhorrent.description>
+  <VME_Firefighting_Preferred.label>preferível</VME_Firefighting_Preferred.label>
+  <VME_Firefighting_Preferred.description>Não há nada mais emocionante do que apagar um incêndio perigoso.</VME_Firefighting_Preferred.description>
+  <VME_FungusEating_DontCare.label>normal</VME_FungusEating_DontCare.label>
+  <VME_FungusEating_DontCare.description>Fungos combinam bem com lasanha.</VME_FungusEating_DontCare.description>
+  <VME_Hospital_Required.label>necessário</VME_Hospital_Required.label>
+  <VME_Hospital_Required.description>Um hospital limpo é essencial para a saúde a longo prazo de qualquer comunidade.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos recebem penalidades / bônus de humor dependendo do tamanho das salas de hospital no mapa. Apenas salas de hospital com uma impressão de "decente" ou superior contarão para este cálculo. Os hospitais também precisarão estar limpos, ou os colonos reclamarão!</VME_Hospital_Required.description>
+  <VME_Illness_Exalted.label>exaltado</VME_Illness_Exalted.label>
+  <VME_Illness_Exalted.description>Estar doente é ser abençoado.</VME_Illness_Exalted.description>
+  <VME_Illness_Preferred.label>preferível</VME_Illness_Preferred.label>
+  <VME_Illness_Preferred.description>Estar doente lhe dá uma desculpa para deitar e trabalhar menos.</VME_Illness_Preferred.description>
+  <VME_Illness_Indifferent.label>indiferente</VME_Illness_Indifferent.label>
+  <VME_Illness_Indifferent.description>A doença é apenas mais um fato da vida.</VME_Illness_Indifferent.description>
+  <VME_Immunity_Enhanced.label>reforçado</VME_Immunity_Enhanced.label>
+  <VME_Immunity_Enhanced.description>Peste, sofrimento, dor: tudo isso pode ser superado.</VME_Immunity_Enhanced.description>
+  <VME_InsectJellyEaten_Neutral_Classic.label>neutro</VME_InsectJellyEaten_Neutral_Classic.label>
+  <VME_InsectJellyEaten_Neutral_Classic.description>A geleia de inseto é suave, rica e nutritiva.</VME_InsectJellyEaten_Neutral_Classic.description>
+  <VME_InsectJellyEaten_Loved_Classic.label>amado</VME_InsectJellyEaten_Loved_Classic.label>
+  <VME_InsectJellyEaten_Loved_Classic.description>A geleia de inseto é uma ambrosia divina, um presente de criaturas perfeitas.</VME_InsectJellyEaten_Loved_Classic.description>
+  <VME_InsectMeatEating_Sacrilegious.label>abominável</VME_InsectMeatEating_Sacrilegious.label>
+  <VME_InsectMeatEating_Sacrilegious.description>Comer a carne de insetos é vil e repugnante.</VME_InsectMeatEating_Sacrilegious.description>
+  <VME_InsectMeatEating_DontCare.label>normal</VME_InsectMeatEating_DontCare.label>
+  <VME_InsectMeatEating_DontCare.description>Carne de inseto é apenas outro tipo de carne.</VME_InsectMeatEating_DontCare.description>
+  <VME_Insectoids_Exalted.label>exaltado</VME_Insectoids_Exalted.label>
+  <VME_Insectoids_Exalted.description>Os insetos não são nossos inimigos, apenas incompreendidos.</VME_Insectoids_Exalted.description>
+  <VME_Insectoids_Despised.label>desprezado</VME_Insectoids_Despised.label>
+  <VME_Insectoids_Despised.description>Os insetos são nossos inimigos, uma praga que merece ser exterminada.</VME_Insectoids_Despised.description>
+  <VME_Junk_Beautiful.label>belo</VME_Junk_Beautiful.label>
+  <VME_Junk_Beautiful.description>É maravilhoso viver cercado de coisas descartadas por outros.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Construções de sucata antiga podem ser desinstaladas e recolocadas conforme necessário.\n - Os colonos recebem penalidades / bônus de humor dependendo da quantidade de construções de sucata antiga em um raio de 20 quadrados ao seu redor. O efeito é verificado aproximadamente uma vez a cada 5 horas.</VME_Junk_Beautiful.description>
+  <VME_Junk_Preferred.label>preferível</VME_Junk_Preferred.label>
+  <VME_Junk_Preferred.description>A sucata antiga nos lembra das tribulações de nossos antepassados, sujeitos à eterna luta da humanidade entre as estrelas. Podemos aprender muito estudando esta tecnologia antiga.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Construções de sucata antiga podem ser desinstaladas e recolocadas conforme necessário.\n - Os colonos recebem penalidades / bônus de humor moderados dependendo da quantidade de construções de sucata antiga em um raio de 20 quadrados ao seu redor. O efeito é verificado aproximadamente uma vez a cada 5 horas.</VME_Junk_Preferred.description>
+  <VME_JunkDeconstructionYield_High.label>alto</VME_JunkDeconstructionYield_High.label>
+  <VME_JunkDeconstructionYield_High.description>Jogar fora aquilo que poderia ser reutilizado é um desperdício absoluto; tudo pode ser reaproveitado.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Desconstruir uma construção devolve 100% de seus materiais originais. Isto também se aplica a destruir uma construção (desde que ela produza recursos ao ser destruída) e a falhar em construí-la.</VME_JunkDeconstructionYield_High.description>
+  <VME_KillingWithFire_Preferred.label>preferível</VME_KillingWithFire_Preferred.label>
+  <VME_KillingWithFire_Preferred.description>Inimigos devem ser queimados até a morte.</VME_KillingWithFire_Preferred.description>
+  <VME_KillingWithFire_Abhorrent.label>abominável</VME_KillingWithFire_Abhorrent.label>
+  <VME_KillingWithFire_Abhorrent.description>Ver uma pessoa queimar até a morte é horrível.</VME_KillingWithFire_Abhorrent.description>
+  <VME_Leader_Godlike.label>divino</VME_Leader_Godlike.label>
+  <VME_Leader_Godlike.description>Nosso líder deve ser exaltado como um deus.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - A opinião sobre o líder depende da certeza da pessoa em sua ideologia.</VME_Leader_Godlike.description>
+  <VME_Leader_BestCrafter.label>melhor artesão</VME_Leader_BestCrafter.label>
+  <VME_Leader_BestCrafter.description>Nosso artesão mais habilidoso é nosso líder.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - A função de líder será periodicamente imposta ao artesão de nível mais alto da colônia (isto só funcionará se a ideologia for a principal).</VME_Leader_BestCrafter.description>
+  <VME_Leader_BestFighter.label>melhor lutador</VME_Leader_BestFighter.label>
+  <VME_Leader_BestFighter.description>Nosso lutador mais talentoso será nosso líder.</VME_Leader_BestFighter.description>
+  <VME_Leader_Three.label>três</VME_Leader_Three.label>
+  <VME_Leader_Three.description>Devemos depositar nossa confiança nas mãos de poucos, e não na mão de um só.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Até três pessoas podem ser designadas como líderes.</VME_Leader_Three.description>
+  <VME_Leader_Moralist.label>guia moral</VME_Leader_Moralist.label>
+  <VME_Leader_Moralist.description>Nosso líder também é um guia moral.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - O líder da colônia também pode usar habilidades de guia moral.</VME_Leader_Moralist.description>
+  <VME_LeatherApparel_Abhorrent.label>abominável</VME_LeatherApparel_Abhorrent.label>
+  <VME_LeatherApparel_Abhorrent.description>Abater um animal para usar sua pele como vestimenta é cruel e desumano.</VME_LeatherApparel_Abhorrent.description>
+  <VME_LeatherApparel_Disliked.label>reprovado</VME_LeatherApparel_Disliked.label>
+  <VME_LeatherApparel_Disliked.description>O uso de couros animais é algo que deve ser evitado.</VME_LeatherApparel_Disliked.description>
+  <VME_Darklight_NormalPreferred.label>luz normal preferida</VME_Darklight_NormalPreferred.label>
+  <VME_Darklight_NormalPreferred.description>A luz negra é uma imitação antinatural e barata da luz verdadeira, e deve ser evitada.</VME_Darklight_NormalPreferred.description>
+  <VME_DarknessCombat_Despised.label>desprezado</VME_DarknessCombat_Despised.label>
+  <VME_DarknessCombat_Despised.description>Além de ser difícil lutar nela, o derramamento de sangue nunca deve ocorrer na escuridão.</VME_DarknessCombat_Despised.description>
+  <VME_MeatEating_Abhorrent_Strict.label>abominável (estrito)</VME_MeatEating_Abhorrent_Strict.label>
+  <VME_MeatEating_Abhorrent_Strict.description>Comer carne de qualquer tipo é profundamente maligno. Consumir qualquer produto animal é imoral.</VME_MeatEating_Abhorrent_Strict.description>
+  <VME_Mechanoids_Exalted.label>exaltado</VME_Mechanoids_Exalted.label>
+  <VME_Mechanoids_Exalted.description>Destruir um mecanoide é um ato míope e tolo.</VME_Mechanoids_Exalted.description>
+  <VME_Mechanoids_Despised.label>desprezado</VME_Mechanoids_Despised.label>
+  <VME_Mechanoids_Despised.description>Os mecanoides são uma abominação, um lembrete da arrogância do homem.</VME_Mechanoids_Despised.description>
+  <VME_Mood_DictatedByStars.label>ditado pelas estrelas</VME_Mood_DictatedByStars.label>
+  <VME_Mood_DictatedByStars.description>As estrelas nos guiarão.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Após cada ritual de adivinhação das estrelas, um eclipse solar ou uma aurora, o humor mudará aleatoriamente entre -30 e +30.</VME_Mood_DictatedByStars.description>
+  <VME_Mood_Shared.label>compartilhado</VME_Mood_Shared.label>
+  <VME_Mood_Shared.description>A empatia é uma qualidade que todos devemos nos esforçar para possuir. Carregamos os fardos e as alegrias uns dos outros.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Se o humor médio da colônia for feliz, os colonos receberão um pensamento positivo, e vice-versa.</VME_Mood_Shared.description>
+  <VME_Mood_LowExpectations.label>espíritos abatidos</VME_Mood_LowExpectations.label>
+  <VME_Mood_LowExpectations.description>Estamos presos em um planeta perdido e esquecido na Orla. As coisas dificilmente podem piorar.</VME_Mood_LowExpectations.description>
+  <VME_Mood_Normal.label>normal</VME_Mood_Normal.label>
+  <VME_Mood_Normal.description>Estou bem, obrigado.</VME_Mood_Normal.description>
+  <VME_Mood_HighExpectations.label>espíritos elevados</VME_Mood_HighExpectations.label>
+  <VME_Mood_HighExpectations.description>O mundo inteiro é nosso para explorar e aproveitar.</VME_Mood_HighExpectations.description>
+  <VME_OrganUse_PostMortem.label>post mortem</VME_OrganUse_PostMortem.label>
+  <VME_OrganUse_PostMortem.description>Órgãos nunca devem ser desperdiçados.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Através da função de escultor de carne, a colônia pode esquartejar cadáveres humanoides frescos para obter órgãos esculpidos em carne.</VME_OrganUse_PostMortem.description>
+  <VME_Pain_DontCare.label>normal</VME_Pain_DontCare.label>
+  <VME_Pain_DontCare.description>A dor está apenas em sua mente; ela pode ser suportada.</VME_Pain_DontCare.description>
+  <VME_PermanentBases_Despised.label>desprezado</VME_PermanentBases_Despised.label>
+  <VME_PermanentBases_Despised.description>Nosso lar é apenas temporário; é importante continuar se movendo.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Rendimento da colheita: -10%.\n - Rendimento de coleta: +40%.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Este preceito só funcionará ao usar o sistema de mundo do jogo base. Veículos, por exemplo, não interagirão com ele. Usar outros mods, como Caravan Adventure, para sair do mapa também não funcionará. Você precisa usar os sistemas do jogo base.</VME_PermanentBases_Despised.description>
+  <VME_PermanentBases_Desired.label>desejado</VME_PermanentBases_Desired.label>
+  <VME_PermanentBases_Desired.description>Nosso lar deve ter muitos cômodos e instalações, e nunca devemos abandoná-lo.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos recebem penalidades / bônus de humor dependendo da quantidade de construções no mapa. Uma "construção" é uma estrutura totalmente fechada com pelo menos 25 quadrados de tamanho.</VME_PermanentBases_Desired.description>
+  <VME_Power_Exalted.label>exaltado</VME_Power_Exalted.label>
+  <VME_Power_Exalted.description>O poder deve ser sempre buscado.</VME_Power_Exalted.description>
+  <VME_Power_Desired.label>desejado</VME_Power_Desired.label>
+  <VME_Power_Desired.description>Buscar poder é um desejo compreensível.</VME_Power_Desired.description>
+  <VME_Power_Preferred.label>preferível</VME_Power_Preferred.label>
+  <VME_Power_Preferred.description>É preferível estar em uma posição de poder.</VME_Power_Preferred.description>
+  <VME_Proselytizing_Forceful.label>forçado</VME_Proselytizing_Forceful.label>
+  <VME_Proselytizing_Forceful.description>As pessoas devem ser forçadas a seguir nossas crenças.</VME_Proselytizing_Forceful.description>
+  <VME_Proselytizing_Never.label>nunca</VME_Proselytizing_Never.label>
+  <VME_Proselytizing_Never.description>Nunca devemos tentar converter outras pessoas.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Desativa os rituais de conversão e a habilidade de conversão da função de guia moral.</VME_Proselytizing_Never.description>
+  <VME_Raiding_Honorable.label>honroso</VME_Raiding_Honorable.label>
+  <VME_Raiding_Honorable.description>Força e honra podem ser conquistadas invadindo outros assentamentos.</VME_Raiding_Honorable.description>
+  <VME_Raiding_Abhorrent.label>abominável</VME_Raiding_Abhorrent.label>
+  <VME_Raiding_Abhorrent.description>É vergonhoso atacar ou tomar algo daqueles mais fracos que você.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Qualquer incursão acionará este preceito. Até mesmo as com foco defensivo, como os causadores de problemas. Sim, é duro.</VME_Raiding_Abhorrent.description>
+  <VME_Ranching_Disliked.label>reprovado</VME_Ranching_Disliked.label>
+  <VME_Ranching_Disliked.description>Manter animais em cativeiro para consumir sua carne e seus recursos é profundamente imoral e deve ser evitado a todo custo. Cultivar nossas próprias frutas e legumes é uma busca muito mais nobre.</VME_Ranching_Disliked.description>
+  <VME_Ranching_Nomadic.label>nômade</VME_Ranching_Nomadic.label>
+  <VME_Ranching_Nomadic.description>Um nômade não é nada sem seu fiel corcel. Desenvolver um vínculo com animais de carga significa que viajar por este mundo nunca será uma empreitada solitária.</VME_Ranching_Nomadic.description>
+  <VME_Recreation_Loved.label>amado</VME_Recreation_Loved.label>
+  <VME_Recreation_Loved.description>A recreação deve ser aproveitada ao máximo.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Os colonos ganham recreação a 50% da velocidade ao usar qualquer construção de diversão.\n - Aumenta em 50% o bônus de humor adquirido pelos colonos após uma festa.</VME_Recreation_Loved.description>
+  <VME_Recreation_Normal.label>normal</VME_Recreation_Normal.label>
+  <VME_Recreation_Normal.description>A recreação é uma parte importante da vida.</VME_Recreation_Normal.description>
+  <VME_Recreation_Disapproved.label>reprovado</VME_Recreation_Disapproved.label>
+  <VME_Recreation_Disapproved.description>A recreação é uma perda de tempo.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Os colonos recebem -5 de humor por meio dia após realizar uma tarefa de recreação.</VME_Recreation_Disapproved.description>
+  <VME_BonfirePrecept.label>fogueira</VME_BonfirePrecept.label>
+  <VME_BonfirePrecept.description>Uma enorme fogueira ritual.</VME_BonfirePrecept.description>
+  <VME_CeremonialSuicidePrecept.label>suicídio cerimonial</VME_CeremonialSuicidePrecept.label>
+  <VME_CeremonialSuicidePrecept.description>Um suicídio cerimonial.</VME_CeremonialSuicidePrecept.description>
+  <VME_DivineStarsPrecept.label>adivinhação das estrelas</VME_DivineStarsPrecept.label>
+  <VME_DivineStarsPrecept.description>Um ritual de adivinhação.</VME_DivineStarsPrecept.description>
+  <VME_IncantationPrecept.label>encantamento</VME_IncantationPrecept.label>
+  <VME_IncantationPrecept.description>Um encantamento. Um cântico sombrio para apaziguar as entidades sobrenaturais que desafiam todas as leis naturais.</VME_IncantationPrecept.description>
+  <VME_InsectoidHymnPrecept.label>hino insetoide</VME_InsectoidHymnPrecept.label>
+  <VME_InsectoidHymnPrecept.description>Um hino insetoide. O ritual recarregará o tempo de recarga da habilidade "construir um ninho" do pastor de insetoides. Se o ritual obtiver o melhor resultado possível, todos os insetoides que estiverem atacando a colônia fugirão. Exceto a Colmeia Negra: essa quer o seu sangue.</VME_InsectoidHymnPrecept.description>
+  <VME_LeaderConversion.label>ritual de conversão (líder)</VME_LeaderConversion.label>
+  <VME_LeaderConversion.description>O líder tenta persuadir alguém a aderir à sua ideologia.</VME_LeaderConversion.description>
+  <VME_LeadershipChallengePrecept.label>desafio de liderança</VME_LeadershipChallengePrecept.label>
+  <VME_LeadershipChallengePrecept.description>Um desafio de liderança.</VME_LeadershipChallengePrecept.description>
+  <VME_OrgyPrecept.label>orgia</VME_OrgyPrecept.label>
+  <VME_OrgyPrecept.description>Uma orgia. Os participantes ignorarão quaisquer preferências sexuais durante o evento.</VME_OrgyPrecept.description>
+  <VME_PlagueFestivalPrecept.label>festival da peste</VME_PlagueFestivalPrecept.label>
+  <VME_PlagueFestivalPrecept.description>Um festival da peste.</VME_PlagueFestivalPrecept.description>
+  <VME_SlaveEmancipationPrecept.label>emancipação de escravos</VME_SlaveEmancipationPrecept.label>
+  <VME_SlaveEmancipationPrecept.description>Livre-se das correntes e, se nos achar adequados, seja bem-vindo à nossa comunidade como parente e amigo. Se achar seu novo lar inadequado às suas necessidades, desejamos uma despedida calorosa, ainda que melancólica.</VME_SlaveEmancipationPrecept.description>
+  <VME_TradingFairPrecept.label>feira comercial</VME_TradingFairPrecept.label>
+  <VME_TradingFairPrecept.description>Uma feira comercial.</VME_TradingFairPrecept.description>
+  <VME_ViolentConversionPrecept.label>conversão violenta</VME_ViolentConversionPrecept.label>
+  <VME_ViolentConversionPrecept.description>Os infiéis devem se juntar à nossa causa, ou seus crânios serão esmagados com mil martelos.</VME_ViolentConversionPrecept.description>
+  <VME_WickerManBurningPrecept.label>queima do homem de vime</VME_WickerManBurningPrecept.label>
+  <VME_WickerManBurningPrecept.description>Uma queima do homem de vime.</VME_WickerManBurningPrecept.description>
+  <VME_IdeoRole_Commissar.label>comissário</VME_IdeoRole_Commissar.label>
+  <VME_IdeoRole_Commissar.description>Um tático militar corajoso e implacável que se especializa em liderar por meio do medo e de ameaças. Capaz de executar colonos insubordinados para motivar os demais.</VME_IdeoRole_Commissar.description>
+  <VME_IdeoRole_FireKeeper.label>guardião do fogo</VME_IdeoRole_FireKeeper.label>
+  <VME_IdeoRole_FireKeeper.description>Um guardião da chama sagrada cujo trabalho principal é controlar piras, fogueiras e fornos. Respeitado unanimemente por seus discípulos, não hesita em apagar incêndios, e os seguidores respeitarão suas decisões de fazê-lo. Todos os guardiões do fogo possuem a habilidade de incendiar fontes de chama e causar uma explosão.</VME_IdeoRole_FireKeeper.description>
+  <VME_IdeoRole_Fleshcrafter.label>escultor de carne</VME_IdeoRole_Fleshcrafter.label>
+  <VME_IdeoRole_Fleshcrafter.description>Um verdadeiro especialista em anatomia, capaz de extirpar órgãos de cadáveres recentemente mortos. Devido a danos e à decomposição dos órgãos, apenas entre um e três órgãos serão colhidos aleatoriamente, e o restante do cadáver será reduzido a carne.</VME_IdeoRole_Fleshcrafter.description>
+  <VME_IdeoRole_InsectoidHerder.label>pastor de insetoides</VME_IdeoRole_InsectoidHerder.label>
+  <VME_IdeoRole_InsectoidHerder.description>Um talentoso domador de insetoides. Por meio de estudo ou talento natural, estes líderes são capazes de compreender e controlar imediatamente criaturas insetoides; no entanto, como um vínculo sagrado, não têm permissão para realizar nenhum outro tipo de trabalho. Pastores de insetoides podem erguer colmeias insetoides como parte de um breve ritual.</VME_IdeoRole_InsectoidHerder.description>
+  <VME_IdeoRole_Mechacker.label>mecahacker</VME_IdeoRole_Mechacker.label>
+  <VME_IdeoRole_Mechacker.description>Um engenheiro brilhante capaz de montar efígies de mecanoides. Ao contrário de suas contrapartes preguiçosas, os mecahackers estão dispostos a realizar todos os tipos de trabalho. Todos os mecahackers possuem a habilidade de sobrecarregar e detonar torretas ou mecanoides hostis, causando uma explosão.</VME_IdeoRole_Mechacker.description>
+  <VME_IdeoRole_Merchant.label>mercador</VME_IdeoRole_Merchant.label>
+  <VME_IdeoRole_Merchant.description>Um comerciante acolhedor e carismático, embora um pouco implacável, especializado em estabelecer rotas mercantis com outras colônias. Pode sinalizar para que uma caravana comercial de uma facção amistosa aleatória faça um desvio direto até a colônia a cada 5 dias. Também recebe um pequeno bônus nos preços de comércio apenas pelo carisma.</VME_IdeoRole_Merchant.description>
+  <VME_IdeoRole_Nurse.label>enfermeiro</VME_IdeoRole_Nurse.label>
+  <VME_IdeoRole_Nurse.description>Um profissional médico dedicado, capaz de tratar ferimentos com precisão cirúrgica. Possui a habilidade única de hiperfocar nos pacientes que trata em momentos de trauma em massa, suprimindo temporariamente suas necessidades de descanso, recreação ou fome.</VME_IdeoRole_Nurse.description>
+  <VME_IdeoRole_PartyHost.label>anfitrião de festas</VME_IdeoRole_PartyHost.label>
+  <VME_IdeoRole_PartyHost.description>Um folião jovial, incapaz de entender que nem sempre é hora de festa. Um anfitrião de festas é capaz de dar uma festa incrível a qualquer momento. No entanto, precisará de cerca do dobro do tempo de recreação de uma pessoa normal para ser feliz no dia a dia.</VME_IdeoRole_PartyHost.description>
+  <VME_IdeoRole_LeaderSecond.label>segundo triúnviro</VME_IdeoRole_LeaderSecond.label>
+  <VME_IdeoRole_LeaderSecond.description>Um líder que mantém o grupo unido e representa sua facção nas interações diplomáticas.</VME_IdeoRole_LeaderSecond.description>
+  <VME_IdeoRole_LeaderThird.label>terceiro triúnviro</VME_IdeoRole_LeaderThird.label>
+  <VME_IdeoRole_LeaderThird.description>Um líder que mantém o grupo unido e representa sua facção nas interações diplomáticas.</VME_IdeoRole_LeaderThird.description>
+  <VME_Scars_Honorable.label>honroso</VME_Scars_Honorable.label>
+  <VME_Scars_Honorable.description>Ser marcado por cicatrizes e continuar em frente é nada menos que um ato incrível.</VME_Scars_Honorable.description>
+  <VME_Scars_Disgusting.label>repugnante</VME_Scars_Disgusting.label>
+  <VME_Scars_Disgusting.description>Um corpo marcado por cicatrizes é repugnante.</VME_Scars_Disgusting.description>
+  <VME_SkilledLabor_Slow.label>lento</VME_SkilledLabor_Slow.label>
+  <VME_SkilledLabor_Slow.description>O trabalho qualificado é meticuloso e demorado; é melhor focar em outra coisa.</VME_SkilledLabor_Slow.description>
+  <VME_SkilledLabor_Relaxed.label>relaxado</VME_SkilledLabor_Relaxed.label>
+  <VME_SkilledLabor_Relaxed.description>O trabalho qualificado deve ser abordado com cuidado e tempo.</VME_SkilledLabor_Relaxed.description>
+  <VME_SlaveTrading_OnlyBuying.label>apenas compra</VME_SlaveTrading_OnlyBuying.label>
+  <VME_SlaveTrading_OnlyBuying.description>Escravos devem ser apenas comprados, nunca vendidos.</VME_SlaveTrading_OnlyBuying.description>
+  <VME_Slavery_Forbidden.label>proibido</VME_Slavery_Forbidden.label>
+  <VME_Slavery_Forbidden.description>A escravidão é uma prática proibida, e os escravos merecem nosso respeito. A única razão para comprar um escravo é com a intenção de libertá-lo imediatamente.</VME_Slavery_Forbidden.description>
+  <VME_SocialInteractions_Disallowed.label>não permitido</VME_SocialInteractions_Disallowed.label>
+  <VME_SocialInteractions_Disallowed.description>A socialização deve ser proibida; renunciar a ela proporciona uma compreensão maior.</VME_SocialInteractions_Disallowed.description>
+  <VME_TaintedApparel_DontCare.label>normal</VME_TaintedApparel_DontCare.label>
+  <VME_TaintedApparel_DontCare.description>Não há nada de errado em vestir roupas contaminadas.</VME_TaintedApparel_DontCare.description>
+  <VME_TaintedApparel_Disapproved.label>reprovado</VME_TaintedApparel_Disapproved.label>
+  <VME_TaintedApparel_Disapproved.description>Vestir roupas contaminadas é repugnante.</VME_TaintedApparel_Disapproved.description>
+  <VME_TaintedApparel_Abhorrent.label>abominável</VME_TaintedApparel_Abhorrent.label>
+  <VME_TaintedApparel_Abhorrent.description>Vestir roupas contaminadas é uma prática horrível.</VME_TaintedApparel_Abhorrent.description>
+  <VME_TatteredApparel_DontCare.label>normal</VME_TatteredApparel_DontCare.label>
+  <VME_TatteredApparel_DontCare.description>Não há nada de errado em vestir roupas rasgadas.</VME_TatteredApparel_DontCare.description>
+  <VME_TatteredApparel_Disapproved.label>reprovado</VME_TatteredApparel_Disapproved.label>
+  <VME_TatteredApparel_Disapproved.description>Vestir roupas rasgadas é uma prática de mau gosto.</VME_TatteredApparel_Disapproved.description>
+  <VME_TatteredApparel_Abhorrent.label>abominável</VME_TatteredApparel_Abhorrent.label>
+  <VME_TatteredApparel_Abhorrent.description>Vestir roupas rasgadas é uma prática incrivelmente de mau gosto.</VME_TatteredApparel_Abhorrent.description>
+  <VME_TendQuality_Increased.label>aumentado</VME_TendQuality_Increased.label>
+  <VME_TendQuality_Increased.description>Tratar ferimentos deve ser levado a sério.</VME_TendQuality_Increased.description>
+  <VME_Trading_Required.label>necessário</VME_Trading_Required.label>
+  <VME_Trading_Required.description>É importante negociar e obter riqueza.</VME_Trading_Required.description>
+  <VME_TradingPrice_Improved.label>melhorado</VME_TradingPrice_Improved.label>
+  <VME_TradingPrice_Improved.description>É importante negociar e conseguir os melhores acordos possíveis.</VME_TradingPrice_Improved.description>
+  <VME_Travel_Desired.label>desejado</VME_Travel_Desired.label>
+  <VME_Travel_Desired.description>É importante viajar pelo planeta e nunca ficar muito tempo no mesmo lugar.</VME_Travel_Desired.description>
+  <VME_Travel_Despised.label>desprezado</VME_Travel_Despised.label>
+  <VME_Travel_Despised.description>Cada momento longe de casa é uma perda de tempo; viajar não tem propósito.</VME_Travel_Despised.description>
+  <VME_Violence_Honorable.label>honroso</VME_Violence_Honorable.label>
+  <VME_Violence_Honorable.description>Cometer atos de violência é honroso.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos receberão um humor positivo se forem forçados a atacar alvos humanoides não hostis.</VME_Violence_Honorable.description>
+  <VME_Violence_Acceptable.label>aceitável</VME_Violence_Acceptable.label>
+  <VME_Violence_Acceptable.description>A violência é apenas um fato da vida.</VME_Violence_Acceptable.description>
+  <VME_Violence_Disapproved.label>reprovado</VME_Violence_Disapproved.label>
+  <VME_Violence_Disapproved.description>Atacar uma pessoa inofensiva é imoral.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos receberão um humor negativo se forem forçados a atacar alvos humanoides não hostis.</VME_Violence_Disapproved.description>
+  <VME_Violence_Abhorrent.label>abominável</VME_Violence_Abhorrent.label>
+  <VME_Violence_Abhorrent.description>Recorrer à força letal é bárbaro e repugnante; isso nunca deveria ser permitido.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos receberão um humor negativo substancial se forem forçados a atacar alvos humanoides não hostis.\n - O único colapso mental permitido é a psicose.\n - Todos os colonos convocados serão desconvocados se um inimigo atacante começar a fugir.</VME_Violence_Abhorrent.description>
+  <VME_WoodcuttingYield_High.label>alto</VME_WoodcuttingYield_High.label>
+  <VME_WoodcuttingYield_High.description>A extração de madeira é tão importante que a fazemos com grande foco e respeito, e por isso obtemos mais recursos.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Rendimento de madeira: +10%.</VME_WoodcuttingYield_High.description>
+  <VME_Leader_BestPsycaster.label>melhor psinjurador</VME_Leader_BestPsycaster.label>
+  <VME_Leader_BestPsycaster.description>Só seremos liderados por quem provou ser o psinjurador mais poderoso entre nós.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - A função de líder será periodicamente imposta ao psinjurador de nível mais alto da colônia (isto só funcionará se a ideologia for a principal). A função de líder será atribuída ao último colono que alcançou o nível de psínculo mais alto em sua colônia, mesmo que o líder atual tenha o mesmo nível.</VME_Leader_BestPsycaster.description>
+  <VME_Meditation_Exquisite.label>requintado</VME_Meditation_Exquisite.label>
+  <VME_Meditation_Exquisite.description>Ouça, sinta, pense… Além da meditação, entre em transe e entregue-se à sua própria alma e às almas ao seu redor.</VME_Meditation_Exquisite.description>
+  <VME_PsychicSensitivity_Lowered.label>reduzido</VME_PsychicSensitivity_Lowered.label>
+  <VME_PsychicSensitivity_Lowered.description>Barrique sua mente contra todos os pensamentos que não sejam seus. Deixe sua mente ser uma verdadeira fortaleza de constituição mental inabalável.</VME_PsychicSensitivity_Lowered.description>
+  <VME_PsychicSensitivity_Heightened.label>aumentado</VME_PsychicSensitivity_Heightened.label>
+  <VME_PsychicSensitivity_Heightened.description>Alcance com sua mente o mundo inteiro. Deixe sua mente ser uma arma ágil de retribuição psíquica.</VME_PsychicSensitivity_Heightened.description>
+  <VME_PsyfocusGain_Doubled.label>dobrado</VME_PsyfocusGain_Doubled.label>
+  <VME_PsyfocusGain_Doubled.description>Ao induzir transe em si mesmo e alcançar a erudição, você descarta as correntes do físico e encontra a capacidade de manipular o mundo com a mesma facilidade de respirar.</VME_PsyfocusGain_Doubled.description>
+  <VME_BookReading_Desired.label>desejado</VME_BookReading_Desired.label>
+  <VME_BookReading_Desired.description>É importante absorver cada pedacinho de informação que pudermos; de que outra forma aprenderíamos? A maioria dos livros é até bem divertida, além do mais.</VME_BookReading_Desired.description>
+  <VME_BookReading_Disliked.label>reprovado</VME_BookReading_Disliked.label>
+  <VME_BookReading_Disliked.description>Ler é uma tarefa tão maçante. Não retemos nada disso.</VME_BookReading_Disliked.description>
+  <VME_BookWriting_Exalted.label>exaltado</VME_BookWriting_Exalted.label>
+  <VME_BookWriting_Exalted.description>Transmitir o próprio conhecimento é um ato puramente respeitoso. Os autores deste mundo e seus herdeiros serão aqueles que o herdarão, junto com todos os seus frutos.</VME_BookWriting_Exalted.description>
+  <VME_BookWriting_Disliked.label>reprovado</VME_BookWriting_Disliked.label>
+  <VME_BookWriting_Disliked.description>Por que escrever o que pode ser ensinado muito mais rápido oralmente ou por tentativa e erro? Que perda de tempo absoluta.</VME_BookWriting_Disliked.description>
+  <VME_IdeoRole_Patissier.label>pâtissier</VME_IdeoRole_Patissier.label>
+  <VME_IdeoRole_Patissier.description>Um provedor talentoso e gourmet de tudo o que é doce. Capaz de transformar habilmente qualquer tipo de refeição em uma sobremesa irresistível. Notavelmente rápido ao cozinhar, independentemente do tipo de refeição.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - O pâtissier recebe um bônus de +20% de velocidade de culinária.</VME_IdeoRole_Patissier.description>
+  <VME_Sweets_Craved.label>desejado</VME_Sweets_Craved.label>
+  <VME_Sweets_Craved.description>Sobremesas e guloseimas não devem ser negadas; doces açucarados devem ser consumidos pelo menos a cada dois dias.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Tenha em mente que este preceito tem uma expectativa mínima exigida. Expectativas moderadas ou superiores são necessárias para que a necessidade "Sobremesas" apareça.\n\n - Sobremesas que aumentam a necessidade: Chocolate (15%), Sobremesa simples (30%), Sobremesa refinada (40%), Sobremesa luxuosa (50%), Sobremesa gourmet (75%)</VME_Sweets_Craved.description>
+  <VME_Sweets_Impartial.label>imparcial</VME_Sweets_Impartial.label>
+  <VME_Sweets_Impartial.description>Doces não são lá grandes coisas; podem ser facilmente deixados de lado.</VME_Sweets_Impartial.description>
+  <VME_Fishing_Adept.label>hábil</VME_Fishing_Adept.label>
+  <VME_Fishing_Adept.description>A pesca é o caminho certo; a pecuária e a agricultura, não.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Pescadores hábeis conseguirão capturar peixes adicionais em zonas de pesca. Esses peixes são considerados "capturas hábeis" e fornecem o dobro de nutrição em relação a outros peixes da mesma categoria de tamanho.</VME_Fishing_Adept.description>
+  <VME_Fishing_Forbidden.label>proibido</VME_Fishing_Forbidden.label>
+  <VME_Fishing_Forbidden.description>Peixes são animais e, como tal, a pesca deve ser uma atividade proibida.</VME_Fishing_Forbidden.description>
+  <VME_Ranching_Discouraged.label>desencorajado</VME_Ranching_Discouraged.label>
+  <VME_Ranching_Discouraged.description>Por que criar animais terrestres ou caçar, desperdiçando nosso tempo treinando e esquartejando-os, se podemos obter toda a carne de que precisamos do mar?</VME_Ranching_Discouraged.description>
+  <VME_Recreation_Fishing.label>pesca</VME_Recreation_Fishing.label>
+  <VME_Recreation_Fishing.description>A pesca é uma das atividades mais relaxantes e gratificantes em que se pode passar o tempo livre.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Os colonos ganham recreação ao pescar.</VME_Recreation_Fishing.description>
+  <VME_Leader_HighestTitle.label>título mais alto</VME_Leader_HighestTitle.label>
+  <VME_Leader_HighestTitle.description>Ter posição na corte imperial é o traço mais importante que um líder pode ter.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - A função de líder será periodicamente imposta a quem tiver o título de nobreza mais alto da colônia (isto só funcionará se a ideologia for a principal). A função de líder será atribuída ao último colono que alcançou o título de nobreza mais alto em sua colônia, mesmo que o líder atual tenha o mesmo nível.</VME_Leader_HighestTitle.description>
+  <VME_PermitCooldown_Lowered.label>reduzido</VME_PermitCooldown_Lowered.label>
+  <VME_PermitCooldown_Lowered.description>A realeza exige ação rápida; assim, o tempo de recarga das permissões é reduzido, permitindo uma resposta mais rápida aos caprichos sempre mutáveis do desejo nobre.</VME_PermitCooldown_Lowered.description>
+  <VME_PermitCooldown_Increased.label>aumentado</VME_PermitCooldown_Increased.label>
+  <VME_PermitCooldown_Increased.description>A paciência é uma virtude e agora uma necessidade, pois o tempo de recarga das permissões é dobrado. O tempo se arrasta enquanto a corte aguarda a próxima invocação do privilégio real.</VME_PermitCooldown_Increased.description>
+  <VME_PermitHonorCost_Halved.label>reduzido pela metade</VME_PermitHonorCost_Halved.label>
+  <VME_PermitHonorCost_Halved.description>Os honrados têm o privilégio de convocar seus aliados com mais frequência; seus pedidos de ajuda são atendidos com um aceno e metade do custo, aliviando o fardo da liderança.</VME_PermitHonorCost_Halved.description>
+  <VME_PermitHonorCost_Doubled.label>dobrado</VME_PermitHonorCost_Doubled.label>
+  <VME_PermitHonorCost_Doubled.description>Cada pedido de ajuda é um preço pesado, uma exigência de honra duas vezes maior que o normal. Esse é o preço da urgência, um custo que só deve ser pago quando a necessidade é mais premente.</VME_PermitHonorCost_Doubled.description>
+  <VME_IdeoRole_Majordomo.label>mordomo-mor</VME_IdeoRole_Majordomo.label>
+  <VME_IdeoRole_Majordomo.description>Especialista em gestão, o mordomo-mor é o administrador da nobreza e supervisor das propriedades. Exerce autoridade para organizar, administrar e garantir o funcionamento perfeito de todos os aspectos da vida aristocrática, mas não pode ele próprio possuir títulos. Possui a habilidade de inspirar todos ao seu redor a fazer um esforço extra, ao custo de reduzir muito sua recreação.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Ganha recreação com qualquer trabalho.</VME_IdeoRole_Majordomo.description>
+  <VME_Royalty_Exalted.label>exaltado</VME_Royalty_Exalted.label>
+  <VME_Royalty_Exalted.description>Aqueles que se cobrem com as vestes da realeza ascendem além dos meros mortais. Cada degrau subido na escada da nobreza traz maior veneração do povo comum, de um aceno respeitoso para um noviço a uma reverência impressionada para um alto estelarco.</VME_Royalty_Exalted.description>
+  <VME_Royalty_Respected.label>respeitado</VME_Royalty_Respected.label>
+  <VME_Royalty_Respected.description>Cada coroa e cada título é um símbolo de fardos carregados para o bem de todos. Independentemente da patente, um título conquista um respeito uniforme, um reconhecimento do lugar elevado de quem o usa em nossa ordem.</VME_Royalty_Respected.description>
+  <VME_Royalty_Disliked.label>reprovado</VME_Royalty_Disliked.label>
+  <VME_Royalty_Disliked.description>Títulos e coroas, relíquias de uma era passada, atraem mais ira do que admiração. Aqueles que ostentam seu status nobre acabam recebendo desdém igual.</VME_Royalty_Disliked.description>
+  <VME_Royalty_Hated.label>odiado</VME_Royalty_Hated.label>
+  <VME_Royalty_Hated.description>Os títulos reais são correntes que prendem a liberdade, e cada título é um grilhão mais maldito que o anterior. De noviço a alto estelarco, o desdém cresce com o peso da coroa; pesada é a cabeça que a usa.</VME_Royalty_Hated.description>
+  <VME_TitleInheritance_Inherited.label>hereditário</VME_TitleInheritance_Inherited.label>
+  <VME_TitleInheritance_Inherited.description>A nobreza flui pelo sangue, pois os títulos passam dos que caem para seus parentes. O falecimento de um progenitor eleva o primogênito, que herda o manto da liderança.</VME_TitleInheritance_Inherited.description>
+  <VME_BookQuality_Desired.label>desejado</VME_BookQuality_Desired.label>
+  <VME_BookQuality_Desired.description>Não há nada que nos deixaria mais felizes do que adquirir livros lendários para nossa colônia.</VME_BookQuality_Desired.description>
+  <VME_BookReadingSpeed_Increased.label>aumentado</VME_BookReadingSpeed_Increased.label>
+  <VME_BookReadingSpeed_Increased.description>Os livros são uma janela aberta para um mundo cheio de maravilhas; leremos rapidamente quaisquer textos que encontrarmos.</VME_BookReadingSpeed_Increased.description>
+  <VME_BookReadingSpeed_Decreased.label>reduzido</VME_BookReadingSpeed_Decreased.label>
+  <VME_BookReadingSpeed_Decreased.description>A leitura não é algo que se possa apressar. É importante passar muito tempo em cada página, absorvendo todos os pequenos detalhes.</VME_BookReadingSpeed_Decreased.description>
+  <VME_InsectJellyEaten_Despised.label>desprezado</VME_InsectJellyEaten_Despised.label>
+  <VME_InsectJellyEaten_Despised.description>A geleia de inseto é nojenta.</VME_InsectJellyEaten_Despised.description>
+  <VME_BookWritingSpeed_Increased.label>aumentado</VME_BookWritingSpeed_Increased.label>
+  <VME_BookWritingSpeed_Increased.description>Escrever é natural para nós, e o fazemos de forma rápida e eficiente.</VME_BookWritingSpeed_Increased.description>
+  <VME_BookWritingSpeed_Decreased.label>reduzido</VME_BookWritingSpeed_Decreased.label>
+  <VME_BookWritingSpeed_Decreased.description>Escrever é uma tarefa maçante, algo que desperdiça tempo e exige um enorme esforço.</VME_BookWritingSpeed_Decreased.description>
+  <VME_Library_Required.label>necessário</VME_Library_Required.label>
+  <VME_Library_Required.description>Um local de aprendizado é essencial para nossa comunidade. Uma bela coleção de tomos maravilhosos e estantes repletas encherá nossos corações de alegria.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Os colonos recebem penalidades / bônus de humor dependendo do tamanho das salas de biblioteca no mapa. Apenas salas de biblioteca com uma impressão de "decente" ou superior contarão para este cálculo. As bibliotecas também precisarão estar limpas, ou os colonos reclamarão!</VME_Library_Required.description>
+  <VME_CraftingSpeed_FasterForManual.label>mais rápido para trabalho manual</VME_CraftingSpeed_FasterForManual.label>
+  <VME_CraftingSpeed_FasterForManual.description>O trabalho manual é nossa especialidade e gostamos de nos dedicar a ele.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Velocidade de bancada não elétrica: x125%.</VME_CraftingSpeed_FasterForManual.description>
+  <VFEA_Recruiting_Forbidden.label>proibido</VFEA_Recruiting_Forbidden.label>
+  <VFEA_Recruiting_Forbidden.description>É errado aceitar qualquer forasteiro em nossas fileiras.</VFEA_Recruiting_Forbidden.description>
+  <VFEA_BeingRecruited_Forbidden.label>proibido</VFEA_BeingRecruited_Forbidden.label>
+  <VFEA_BeingRecruited_Forbidden.description>Nunca devemos permitir que outra facção nos recrute.</VFEA_BeingRecruited_Forbidden.description>
+</LanguageData>
