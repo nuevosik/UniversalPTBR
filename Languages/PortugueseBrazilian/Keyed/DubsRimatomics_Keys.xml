@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <nuclearFuelAllowNew>Permitir combustível novo</nuclearFuelAllowNew>
+  <nuclearFuelAllowUsed>Permitir combustível usado</nuclearFuelAllowUsed>
+  <Weaponrankicons>Ícones de patente de armas</Weaponrankicons>
+  <WeaponrankiconsDesc>Mostra pequenos ícones de patente em armas de energia veteranas quando ampliado</WeaponrankiconsDesc>
+  <Showresearchbutton>Mostrar botão de pesquisa</Showresearchbutton>
+  <ShowresearchbuttonDesc>Adiciona um botão de pesquisa Rimatomics às abas principais; caso contrário, ele pode ser aberto em uma aba de cada bancada de pesquisa</ShowresearchbuttonDesc>
+  <Mannedreactorconsole>Console de reator tripulado</Mannedreactorconsole>
+  <MannedreactorconsoleDesc>Os consoles de reator precisam ser tripulados por um colono para que a janela de controle abra; caso contrário, ela pode ser aberta por um botão</MannedreactorconsoleDesc>
+  <ThreatDetectionToggle>Detecção de ameaças</ThreatDetectionToggle>
+  <ThreatDetectionToggleDesc>Alterna o modo de detecção de ameaças</ThreatDetectionToggleDesc>
+  <AutothrotIDCount>Vários núcleos definidos como {0}; cada núcleo precisa de um ID único para a regulação automática ser ativada</AutothrotIDCount>
+  <AutothrotOn>Regulação automática ativada para {0}</AutothrotOn>
+  <AutothrotOff>Regulação automática desativada para {0}</AutothrotOff>
+  <AutothrotRange>O excesso da rede deve estar entre +/- 5000 W para ativar</AutothrotRange>
+  <AutothrotTip>Ativa a regulação automática\n\nControla o nível de fluxo para corresponder à carga da rede elétrica; o excesso da rede elétrica à qual este console está conectado deve estar entre +/- 5000 W para ativar</AutothrotTip>
+  <CoreIdMismatch>O ID do reator e do console não coincidem; cada núcleo exige seu próprio console com um ID único para a regulação automática</CoreIdMismatch>
+  <FuelLifeRange>{0} de vida útil do combustível</FuelLifeRange>
+  <PoolLoading>Carregando</PoolLoading>
+  <PoolUnloading>Descarregando</PoolUnloading>
+  <Designateremoveallspent>Remover todo o combustível gasto</Designateremoveallspent>
+  <Designateremoveall>Remover todo o combustível</Designateremoveall>
+  <Designateremoveallprocessable>Remover todo o combustível processável</Designateremoveallprocessable>
+  <Designateinstallall>Instalar combustível em todos os espaços</Designateinstallall>
+  <Clearalldesignations>Limpar todas as designações</Clearalldesignations>
+  <MissingPESUpgrades>Quando o mod Preemtive Strike está ativo, seus projetos de pesquisa de detecção de objetos celestes precisam ser concluídos antes que o ATOM possa detectar cápsulas de transporte que chegam. Os sistemas de interferência, no entanto, continuarão operando normalmente.</MissingPESUpgrades>
+  <ReactorAlert>Alerta do reator!</ReactorAlert>
+  <ShortRangeStratLaunch>Lançamento tático</ShortRangeStratLaunch>
+  <ShortRangeStratLaunchDesc>Lançar um míssil estratégico neste mapa</ShortRangeStratLaunchDesc>
+  <LongRangeStratLaunch>Lançamento estratégico</LongRangeStratLaunch>
+  <LongRangeStratLaunchDesc>Lançar o míssil contra um alvo neste mundo</LongRangeStratLaunchDesc>
+  <HighYieldWarhead>Alto rendimento</HighYieldWarhead>
+  <HighYieldWarheadDesc>As ogivas lançadas deste silo são configuradas para criar uma explosão maciça que destruirá tudo no mapa que não estiver dentro de um bunker na montanha</HighYieldWarheadDesc>
+  <LowYieldWarhead>Baixo rendimento</LowYieldWarhead>
+  <LowYieldWarheadDesc>Os mísseis lançados deste silo são configurados para criar uma pequena explosão tática</LowYieldWarheadDesc>
+  <RimatomicsValveLabel>Alternar válvula</RimatomicsValveLabel>
+  <RimatomicsValveLabelDesc>Alterna a válvula entre aberta e fechada</RimatomicsValveLabelDesc>
+  <FlareScram>SCRAM por erupção solar</FlareScram>
+  <FlareScramDesc>Desliga o reator por SCRAM durante erupções solares</FlareScramDesc>
+  <TargetAllShells>Mirar em todos os projéteis</TargetAllShells>
+  <TargetEnemyShells>Mirar em projéteis inimigos</TargetEnemyShells>
+  <ThreatDetection>Detecção de ameaças</ThreatDetection>
+  <NextResearchStep>Próxima etapa:</NextResearchStep>
+  <Rimatomics.LowCoolingCapacityDesc>Um edifício de resfriamento do reator está operando com capacidade baixa\n\nAs torres precisam estar sem telhado; os resfriadores a água precisam de água superficial suficiente; se você estiver usando o modo de vínculo do Bad Hygiene, certifique-se de que as torres de resfriamento estejam cheias de água</Rimatomics.LowCoolingCapacityDesc>
+  <Rimatomics.LowCoolingCapacity>Resfriamento do reator baixo</Rimatomics.LowCoolingCapacity>
+  <AlertNeedsTurbine>O núcleo precisa de uma turbina</AlertNeedsTurbine>
+  <AlertNeedsTurbineDesc>Um reator precisa estar conectado a uma turbina; caso contrário, pode superaquecer e sofrer fusão do núcleo</AlertNeedsTurbineDesc>
+  <AlertNeedsCooling>A turbina precisa de resfriamento</AlertNeedsCooling>
+  <AlertNeedsCoolingDesc>Uma turbina precisa estar conectada a um sistema de resfriamento; caso contrário, pode superaquecer e sofrer fusão do núcleo</AlertNeedsCoolingDesc>
+  <AlertCoreMelt>Fusão do núcleo</AlertCoreMelt>
+  <AlertCoreMeltDesc>Um reator está sofrendo uma fusão do núcleo; evacue imediatamente</AlertCoreMeltDesc>
+  <AlertCoreOverheat>Temperatura do reator</AlertCoreOverheat>
+  <AlertCoreOverheatDesc>Um reator está sendo danificado por superaquecimento</AlertCoreOverheatDesc>
+  <AlertCracked>Núcleo fissurado</AlertCracked>
+  <AlertCrackedDesc>O desgaste de operar o núcleo em altas temperaturas por um longo período fez o núcleo fissurar. Ele precisará ser desconstruído e reconstruído, ou continuará emitindo radiação letal, produzindo menos energia e danificando as varetas de combustível.</AlertCrackedDesc>
+  <CRACKEDFUEL>    ::COMBUSTÍVEL FISSURADO::</CRACKEDFUEL>
+  <NOCOOLING>    ::SEM RESFRIAMENTO::</NOCOOLING>
+  <OVERHEATING>    ::SUPERAQUECIMENTO:: {0}</OVERHEATING>
+  <COREMELT>    ::FUSÃO DO NÚCLEO IMINENTE::</COREMELT>
+  <EVACUATE>    ::EVACUAR::</EVACUATE>
+  <CONTROLRODJAM>    ::BARRAS DE CONTROLE TRAVADAS::</CONTROLRODJAM>
+  <ReactorAlerts>Alertas do reator:</ReactorAlerts>
+  <RADIATIONLEAK>    ::VAZAMENTO DE RADIAÇÃO::</RADIATIONLEAK>
+  <RADIATIONLEAKSYSTEM>    ::RADIAÇÃO NO SISTEMA::</RADIATIONLEAKSYSTEM>
+  <PodsScrambledOK>Cápsulas de transporte inimigas sofreram interferência do TACS</PodsScrambledOK>
+  <PodsScrambledDesc>Os sistemas de orientação das cápsulas de transporte inimigas sofreram interferência do TACS usando um pulso de {0} kW</PodsScrambledDesc>
+  <PodsScrambledFail>Falha ao interferir nas cápsulas de transporte inimigas</PodsScrambledFail>
+  <PodsScrambledFailDesc>O pulso de {0} kW necessário para interferir nesta incursão não estava disponível</PodsScrambledFailDesc>
+  <ScrambleDropPods>Interferir nas cápsulas de transporte</ScrambleDropPods>
+  <ScrambleDropPodsDesc>Impede que invasores pousem no centro do mapa usando um grande pulso de energia dos PPCs conectados para interferir nos sistemas de orientação das cápsulas de transporte que chegam</ScrambleDropPodsDesc>
+  <TemperatureTip>Temperatura\n\nTemperaturas altas podem danificar o núcleo e fissurar o combustível. Se os pontos de vida do núcleo chegarem a 0 enquanto ele estiver na temperatura normal de operação ou acima dela, ele explodirá</TemperatureTip>
+  <FuelTip>Combustível\n\nA quantidade total de combustível no núcleo. O combustível reage em cadeia com o combustível dos espaços adjacentes, o que produz mais energia\nO combustível produzirá cada vez menos energia com o tempo, até se esgotar</FuelTip>
+  <CoolingTip>Resfriamento\n\nA quantidade total da sua capacidade de resfriamento em uso. Se o medidor ficar vermelho, adicione mais resfriamento ou reduza a potência</CoolingTip>
+  <TurbineTip>Turbina\n\nA quantidade total da sua capacidade de turbina em uso. Se o medidor ficar vermelho, adicione mais turbinas ou reduza a potência\n\nAs turbinas também exigem transformadores suficientes para distribuir a energia às redes elétricas padrão</TurbineTip>
+  <PowerTip>Potência\n\nA quantidade total de potência produzida pelo reator; não conta quanto está sendo realmente gerado pelas turbinas e transformadores</PowerTip>
+  <RadiationTip>Radiação\n\nO núcleo emitirá radiação se for danificado; a quantidade de radiação aumenta conforme os danos</RadiationTip>
+  <CoreNotBuilt>Não construído</CoreNotBuilt>
+  <Dragtoincreasefluxlevel>Arraste para aumentar o nível de fluxo e produzir mais energia</Dragtoincreasefluxlevel>
+  <MOX>MOX</MOX>
+  <Used>Usado</Used>
+  <AbortTest>ABORTAR</AbortTest>
+  <reactorSCRAM>SCRAM</reactorSCRAM>
+  <reactorSTART>INICIAR</reactorSTART>
+  <BreederTest>Teste do reprodutor</BreederTest>
+  <InstallAll>Instalar tudo</InstallAll>
+  <ShutdownCold>Desligado e frio</ShutdownCold>
+  <StartingUp>Iniciando</StartingUp>
+  <ShuttingDown>Desligando</ShuttingDown>
+  <RimatomActive>Ativo</RimatomActive>
+  <ReactorBreakdown>ID: {0}\nEstado: {1}\nPotência máx.: {2} W\nTaxa de conversão: {3}\n\n{4}</ReactorBreakdown>
+  <SlotBreakdown>Vida útil estimada: {0}\nPotência máx.: {1} W\nPotência atual: {2} W\nVida do combustível: {3}\nRendimento de Pu: {4}</SlotBreakdown>
+  <cycleScreensDesc>Monitora todos os reatores desta rede</cycleScreensDesc>
+  <cycleScreens>Monitorar tudo</cycleScreens>
+  <AutoScram>SCRAM automático</AutoScram>
+  <AutoScramDesc>Desliga o núcleo do reator por SCRAM quando a temperatura atinge níveis inseguros ou quando uma erupção solar é detectada</AutoScramDesc>
+  <FlareSCRAMletterText>Uma erupção solar acionou um SCRAM no reator</FlareSCRAMletterText>
+  <SCRAMletterText>A temperatura insegura do núcleo acionou um SCRAM no reator</SCRAMletterText>
+  <CantUseReactorConsole>Requer 8 de intelectual</CantUseReactorConsole>
+  <ProcessingProgress>Progresso: {0} {1}</ProcessingProgress>
+  <ContainsFuel>Contém {0} / {1} de combustível nuclear.</ContainsFuel>
+  <critSpentfuelonly>Somente combustível gasto</critSpentfuelonly>
+  <critAnyfuel>Qualquer combustível</critAnyfuel>
+  <critProg>Progresso: {0}</critProg>
+  <critRemovePlutonium>Processamento concluído; remova o material</critRemovePlutonium>
+  <critEnouPU>Pode ser reprocessado</critEnouPU>
+  <VeteranBonus>  Bônus: Recarga -{0}%</VeteranBonus>
+  <AnUnknownForce>uma força desconhecida</AnUnknownForce>
+  <ATOMattackGround>por terra</ATOMattackGround>
+  <ATOMattackPods>por cápsulas de transporte</ATOMattackPods>
+  <ATOMdetection>Ameaça detectada!</ATOMdetection>
+  <ATOMdetectionDesc>O TACS detectou uma possível ameaça; estima-se que {0} atacará {1} em aproximadamente {2}</ATOMdetectionDesc>
+  <ScadLivesMatter>Pontos de vida do SCAD: {0}</ScadLivesMatter>
+  <Detonating>Detonando...</Detonating>
+  <KillCounter>Abates: {0}</KillCounter>
+  <energyWepLoadedShell>Carregado: {0}</energyWepLoadedShell>
+  <MessageRailgunCantTargetMyMap>Não é possível mirar no seu próprio mapa.</MessageRailgunCantTargetMyMap>
+  <needsRadar>Precisa de TACS</needsRadar>
+  <ICBMNeedConsole>Requer um console de armas SACS tripulado</ICBMNeedConsole>
+  <ICBMNeedMissile>É necessário um míssil para o lançamento</ICBMNeedMissile>
+  <ICBMAlreadyLaunching>Já em lançamento</ICBMAlreadyLaunching>
+  <MissileRangeBad>Alvo fora de alcance</MissileRangeBad>
+  <MissileTargetInvalid>O alvo do míssil não é válido</MissileTargetInvalid>
+  <EnergyWeaponNeedsMannedConsole>Requer um console de armas tripulado</EnergyWeaponNeedsMannedConsole>
+  <EnergyWeaponNeedConsole>Conexão com console de armas necessária</EnergyWeaponNeedConsole>
+  <MissingPPC>Falta o Contêiner de Energia Pulsada</MissingPPC>
+  <PulseSize>Pulso: {0} Wd / Dano: {1}</PulseSize>
+  <critCommandFireMission>Missão de Fogo</critCommandFireMission>
+  <critCommandFireMissionDesc>Disparo de artilharia de longo alcance</critCommandFireMissionDesc>
+  <criticbmAttack>A facção inimiga {0} está se preparando para lançar um ataque de mísseis de uma base próxima; você tem {1} dias antes do lançamento.</criticbmAttack>
+  <critMagazine>Carregador: {0}</critMagazine>
+  <critNoSabotRounds>Sem munições sabot</critNoSabotRounds>
+  <SiloMissingPart>Requer peça: {0}</SiloMissingPart>
+  <critBombDet>A bomba detonou</critBombDet>
+  <critBombDetFac>A bomba detonou e {0} foi destruído</critBombDetFac>
+  <SetCamoMode>Definir camuflagem</SetCamoMode>
+  <critCountdown>Contagem regressiva: {0}</critCountdown>
+  <critArm>Armar</critArm>
+  <MessageRailgunNeedsMap>Mapa não gerado; envie colonos para explorar</MessageRailgunNeedsMap>
+  <MessageRailgunTargetInvalid>O alvo não é válido</MessageRailgunTargetInvalid>
+  <NextPart>Próxima peça: {0}, necessário: {1}</NextPart>
+  <SiloFull>Silo cheio</SiloFull>
+  <SiloMagazine>Mísseis: {0}/{1}</SiloMagazine>
+  <ICBMReady>míssil estratégico pronto</ICBMReady>
+  <TestFireHELSOnOwnShells>Abater nossos próprios projéteis de morteiro para coletar dados.</TestFireHELSOnOwnShells>
+  <OpenRadar>Abrir tela de rastreamento de alvos</OpenRadar>
+  <NoSabotToExtract>Sem munições sabot para extrair</NoSabotToExtract>
+  <CancelICBMLaunch>Abortar lançamento</CancelICBMLaunch>
+  <CancelICBMLaunchDesc>Abortar lançamento</CancelICBMLaunchDesc>
+  <ICBMLaunchCancelled>lançamento de míssil estratégico abortado</ICBMLaunchCancelled>
+  <ReactorUptime>Tempo de atividade: {0}</ReactorUptime>
+  <PuCreated>Pu: {0}</PuCreated>
+  <fuelCracked>Fissurado!</fuelCracked>
+  <Managefuel>Gerenciar</Managefuel>
+  <RoofedTower>Torre bloqueada por telhado</RoofedTower>
+  <TurbineRPM>RPM: {0} ({1})</TurbineRPM>
+  <TradeShipWait>Nave comercial Rimatomics pronta em {0}</TradeShipWait>
+  <critsetid>Definir ID</critsetid>
+  <critCoolingCapShare>Cota de capacidade de resfriamento: {0} com {1} turbinas</critCoolingCapShare>
+  <BreederHotLoading>Carga a quente</BreederHotLoading>
+  <BreederHotLoadingDesc>Permite trocar o combustível com o núcleo em operação</BreederHotLoadingDesc>
+  <ControlRod>Barras de controle</ControlRod>
+  <crackedRemoveNow>\nFISSURADO! Remova agora</crackedRemoveNow>
+  <critCoreTemp>Temp. do núcleo: {0}C</critCoreTemp>
+  <critCoreEnergy>Energia: {0} kW</critCoreEnergy>
+  <critCoreCooling>Resfriamento: {0}</critCoreCooling>
+  <critCoreFlux>Fluxo de nêutrons: {0}</critCoreFlux>
+  <critscramDesc>Retorna a temperatura e o fluxo de nêutrons aos valores base, mas mantém o núcleo ligado</critscramDesc>
+  <critStartup>Ligar</critStartup>
+  <critShutdown>Desligar</critShutdown>
+  <critStartupDesc>Liga o núcleo, permitindo que a temperatura e os níveis de fluxo subam</critStartupDesc>
+  <critShutdownDesc>Desliga o núcleo, deixando-o energizado mas frio, para reabastecimento e reparos.</critShutdownDesc>
+  <critManageReactor>Gerenciar reator</critManageReactor>
+  <critreactorcritical>Reator em estado crítico</critreactorcritical>
+  <critreactorleaking>Vazamento no reator</critreactorleaking>
+  <critreactionstable>Reator estável</critreactionstable>
+  <critStorageCapacity>Capacidade de armazenamento: {0} / {1}</critStorageCapacity>
+  <critGenerated>Gerado: {0} W</critGenerated>
+  <critConsumed>Consumido: {0} W</critConsumed>
+  <critPnetPct>Carga da rede elétrica: {0}</critPnetPct>
+  <critPowerGeneration>Geração de energia: {0} W</critPowerGeneration>
+  <critValveOpen>Válvula: aberta</critValveOpen>
+  <critValveClosed>Válvula: fechada</critValveClosed>
+  <critOpenValve>Abrir válvula</critOpenValve>
+  <critCloseValve>Fechar válvula</critCloseValve>
+  <critToggleValve>Operar a válvula</critToggleValve>
+  <critTempBoost>Aumento de temperatura</critTempBoost>
+  <critTemp>Temp.</critTemp>
+  <critCooling>Resfriamento</critCooling>
+  <critTurbine>Turbina</critTurbine>
+  <critControlRod>Barras de controle</critControlRod>
+  <critTargetRod>Barras de controle até</critTargetRod>
+  <critFuelRemaining2>Combustível restante: {0}</critFuelRemaining2>
+  <RimatomEmpty>Vazio</RimatomEmpty>
+  <RimatomActivated>Ativado</RimatomActivated>
+  <RimatomCracked>Fissurado</RimatomCracked>
+  <RimatomSpent>Gasto</RimatomSpent>
+  <RimatomNew>Novo</RimatomNew>
+  <RimatomRemove>Remover</RimatomRemove>
+  <RimatomStore>Armazenar</RimatomStore>
+  <RimatomLife>Vida</RimatomLife>
+  <UnsafeFacility>Instalação insegura</UnsafeFacility>
+  <FacilityNoPower>Sem energia</FacilityNoPower>
+  <NoActiveBenchWithProject>Nenhuma bancada ativa com o projeto necessário</NoActiveBenchWithProject>
+  <NoStandableCell>Nenhum quadrado adjacente para ficar</NoStandableCell>
+  <critPlaceOnCore>Deve ser colocado sobre um núcleo fundido do tipo correto</critPlaceOnCore>
+  <NeedsRiver>Precisa ser colocado ao lado de um rio, lago ou oceano</NeedsRiver>
+  <critMoreWater>Requer um corpo d'água maior</critMoreWater>
+  <critActiveCore>O núcleo ainda está ativo</critActiveCore>
+  <critCrackedcore>O núcleo está fissurado</critCrackedcore>
+  <critNoSlotDes>Nenhum espaço designado</critNoSlotDes>
+  <critnoFuelRods>Nenhum conjunto de combustível disponível</critnoFuelRods>
+  <critNoSpace>Sem espaço</critNoSpace>
+  <critSpentOnly>Configurado apenas para combustível gasto; nenhum disponível</critSpentOnly>
+  <critNoPool>Nenhuma piscina de armazenamento disponível</critNoPool>
+  <critCoreIntegrityDesc>A integridade deste núcleo está tão baixa que ele pode fissurar.</critCoreIntegrityDesc>
+  <TradeShipPrice>Enviar nave comercial ({0} de prata)</TradeShipPrice>
+  <TradeShipPriceNeed>Precisa de {0} de prata para enviar a nave comercial</TradeShipPriceNeed>
+  <TradeShipCooldown>Recarga da nave comercial: {0}</TradeShipCooldown>
+  <TradeShipArrival>Chegada da nave comercial: {0}</TradeShipArrival>
+  <TradeShipReq>Uma nave comercial Rimatomics foi enviada ao seu planeta.\n\nEla levará 2 dias para chegar.</TradeShipReq>
+  <LowerPowerLimit>Diminuir limite de potência</LowerPowerLimit>
+  <RaisePowerLimit>Aumentar limite de potência</RaisePowerLimit>
+  <PowerLimitDesc>Altera o limite de potência deste transformador, usado para mudar a distribuição de energia entre várias redes elétricas\n\nSegure Shift para um controle mais preciso</PowerLimitDesc>
+  <TrannyLimit>Limite de potência: {0} kW</TrannyLimit>
+  <TurbinePower>Potência da turbina: {0} kW</TurbinePower>
+  <NonBlueprintUpgrade>Melhoria avulsa</NonBlueprintUpgrade>
+  <BlueprintUpgradeDesc>Esta é uma melhoria de projeto: novas construções já incluirão esta melhoria de série; edifícios existentes precisarão ser melhorados manualmente usando o módulo fabricado</BlueprintUpgradeDesc>
+  <RimatomFree>Grátis</RimatomFree>
+  <RimatomPurchase>Comprar</RimatomPurchase>
+  <RimatomPrice>Preço</RimatomPrice>
+  <RimatomUnlocks>Desbloqueia</RimatomUnlocks>
+  <openResearchPanel>Abrir painel de pesquisa</openResearchPanel>
+  <ResearchProg>{0}/{1}</ResearchProg>
+  <ResearchPriceNeed>Requer {0} de prata perto de uma baliza de comércio</ResearchPriceNeed>
+  <RimUnlocked>Sonda detectada.</RimUnlocked>
+  <RimatomicsResearchAlert>Pesquisa Rimatomics</RimatomicsResearchAlert>
+  <RimatomicResearchAlertMess>Projeto: {0}\nEtapa: {1}\nTarefa: {2}</RimatomicResearchAlertMess>
+  <thingsUnlocked>Desbloqueado - </thingsUnlocked>
+  <RimatomStepComplete>Etapa concluída</RimatomStepComplete>
+  <RequiresFac> Requer: </RequiresFac>
+  <StepInspect>Etapa: {0}</StepInspect>
+  <ResearchComplete>Pesquisa concluída</ResearchComplete>
+  <StillTestingDef>Ainda testando o protótipo</StillTestingDef>
+  <TabResearch>Pesquisa</TabResearch>
+  <CurProj>Projeto: {0}</CurProj>
+  <CurStep>Etapa: {0}</CurStep>
+  <Rimatomics.MissingFacility>Instalação ausente</Rimatomics.MissingFacility>
+  <DesignatorRemoveRimatomicsPipes>Desconstruir tubos</DesignatorRemoveRimatomicsPipes>
+  <DesignatorRemoveRimatomicsPipesDesc>Marca tubos para desconstrução</DesignatorRemoveRimatomicsPipesDesc>
+  <Alert_ResearchFacility>Instalação de pesquisa ausente</Alert_ResearchFacility>
+  <RequiresFacility>{0} é necessário para a etapa atual</RequiresFacility>
+  <DesignatorRemoveColdWater>Remover água fria</DesignatorRemoveColdWater>
+  <DesignatorRemoveColdWaterDesc>Remove os tubos de água fria</DesignatorRemoveColdWaterDesc>
+  <DesignatorRemoveCooling>Remover resfriamento</DesignatorRemoveCooling>
+  <DesignatorRemoveCoolingDesc>Remove os tubos de resfriamento</DesignatorRemoveCoolingDesc>
+  <DesignatorRemoveHighVoltage>Remover alta tensão</DesignatorRemoveHighVoltage>
+  <DesignatorRemoveHighVoltageDesc>Remove as linhas de alta tensão</DesignatorRemoveHighVoltageDesc>
+  <DesignatorRemoveLoom>Remover chicote de controle</DesignatorRemoveLoom>
+  <DesignatorRemoveLoomDesc>Remove o chicote de controle</DesignatorRemoveLoomDesc>
+  <DesignatorRemoveSteam>Remover vapor</DesignatorRemoveSteam>
+  <DesignatorRemoveSteamDesc>Remove os tubos de vapor</DesignatorRemoveSteamDesc>
+  <coreUpgradeFail>Não é possível melhorar enquanto o núcleo estiver ativo</coreUpgradeFail>
+  <powerUpgradeFail>O edifício precisa ser desligado antes de ser melhorado</powerUpgradeFail>
+  <RimatomicResearchCompleteDialog>{0} - concluído\n\n{1}</RimatomicResearchCompleteDialog>
+  <rimatomicsProto> Protótipo</rimatomicsProto>
+  <StartProject>Iniciar projeto</StartProject>
+  <ProjectInitiated>Projeto iniciado</ProjectInitiated>
+  <StopProject>Parar projeto</StopProject>
+  <ProjectTerminated>Projeto encerrado</ProjectTerminated>
+  <NoBenchAvailable>Nenhuma bancada de pesquisa Rimatomics disponível</NoBenchAvailable>
+  <ResearchPurchased>Pesquisa comprada!</ResearchPurchased>
+</LanguageData>

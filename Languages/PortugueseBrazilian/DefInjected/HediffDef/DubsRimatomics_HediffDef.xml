@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PotassiumIodide.label>iodeto de potássio</PotassiumIodide.label>
+  <FlashBlindness.label>cegueira por clarão</FlashBlindness.label>
+  <FlashBlindness.labelNoun>cegueira por clarão</FlashBlindness.labelNoun>
+  <RectalCoring.label>sondagem retal</RectalCoring.label>
+  <RectalCoring.stages.0.label>extrema</RectalCoring.stages.0.label>
+  <Exsanguination.label>exsanguinação</Exsanguination.label>
+  <Exsanguination.stages.0.label>extrema</Exsanguination.stages.0.label>
+  <FatalRad.label>exposição fatal à radiação</FatalRad.label>
+  <FatalRad.stages.0.label>inicial</FatalRad.stages.0.label>
+  <FatalRad.stages.1.label>avançada</FatalRad.stages.1.label>
+  <FatalRad.stages.2.label>à beira da morte</FatalRad.stages.2.label>
+  <FatalRad.stages.3.label>morto</FatalRad.stages.3.label>
+  <RimatomicsRadiation.label>doença da radiação</RimatomicsRadiation.label>
+  <RimatomicsRadiation.stages.0.label>inicial oculto</RimatomicsRadiation.stages.0.label>
+  <RimatomicsRadiation.stages.1.label>inicial</RimatomicsRadiation.stages.1.label>
+  <RimatomicsRadiation.stages.2.label>leve</RimatomicsRadiation.stages.2.label>
+  <RimatomicsRadiation.stages.3.label>moderada</RimatomicsRadiation.stages.3.label>
+  <RimatomicsRadiation.stages.4.label>séria</RimatomicsRadiation.stages.4.label>
+  <RimatomicsRadiation.stages.5.label>extrema</RimatomicsRadiation.stages.5.label>
+  <RadiationIncurable.label>acúmulo de radiação</RadiationIncurable.label>
+  <RadiationIncurable.stages.0.label>inicial oculto</RadiationIncurable.stages.0.label>
+  <RadiationIncurable.stages.1.label>inicial</RadiationIncurable.stages.1.label>
+  <RadiationIncurable.stages.2.label>leve</RadiationIncurable.stages.2.label>
+  <RadiationIncurable.stages.3.label>moderado</RadiationIncurable.stages.3.label>
+  <RadiationIncurable.stages.4.label>sério</RadiationIncurable.stages.4.label>
+  <RadiationIncurable.stages.5.label>extremo</RadiationIncurable.stages.5.label>
+  <RadiationMechanoid.label>dano por radiação</RadiationMechanoid.label>
+  <RadiationMechanoid.stages.0.label>inicial oculto</RadiationMechanoid.stages.0.label>
+  <RadiationMechanoid.stages.1.label>inicial</RadiationMechanoid.stages.1.label>
+  <RadiationMechanoid.stages.2.label>leve</RadiationMechanoid.stages.2.label>
+  <RadiationMechanoid.stages.3.label>moderado</RadiationMechanoid.stages.3.label>
+  <RadiationMechanoid.stages.4.label>sério</RadiationMechanoid.stages.4.label>
+  <RadiationMechanoid.stages.5.label>extremo</RadiationMechanoid.stages.5.label>
+  <PotassiumIodide.description>Comprimidos de iodeto de potássio são fornecidos para fins de emergência, bloqueando a absorção de iodo radioativo.</PotassiumIodide.description>
+  <FlashBlindness.description>cegueira por clarão</FlashBlindness.description>
+  <RectalCoring.description>sondagem retal</RectalCoring.description>
+  <Exsanguination.description>exsanguinação</Exsanguination.description>
+  <FatalRad.description>exposição fatal à radiação</FatalRad.description>
+  <RimatomicsRadiation.description>doença da radiação</RimatomicsRadiation.description>
+  <RadiationIncurable.description>acúmulo de radiação</RadiationIncurable.description>
+  <RadiationMechanoid.description>dano por radiação</RadiationMechanoid.description>
+</LanguageData>

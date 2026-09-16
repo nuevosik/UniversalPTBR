@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PotassiumIodide.label>iodeto de potássio</PotassiumIodide.label>
+  <PotassiumIodide.description>Comprimidos de iodeto de potássio são fornecidos para fins emergenciais relacionados ao bloqueio da captação de radioiodo.</PotassiumIodide.description>
+  <coolingPipe.label>tubo de refrigerante</coolingPipe.label>
+  <coolingPipe.description>Tubos para bombear refrigerante da turbina para os sistemas de resfriamento. Podem ser colocados debaixo das paredes e outros edifícios.</coolingPipe.description>
+  <coolantValve.label>válvula de refrigerante</coolantValve.label>
+  <coolantValve.description>Abre ou fecha conexões entre tubos de refrigerante.</coolantValve.description>
+  <steamPipe.label>tubo de vapor</steamPipe.label>
+  <steamPipe.description>Tubos para bombear vapor de alta pressão do reator para as turbinas. Podem ser colocados debaixo das paredes e outros edifícios.</steamPipe.description>
+  <steamValve.label>válvula de vapor</steamValve.label>
+  <steamValve.description>Abre ou fecha conexões entre tubos de vapor.</steamValve.description>
+  <waterPipe.label>tubo de água fria</waterPipe.label>
+  <waterPipe.description>Tubos para bombear água fria da turbina ou do trocador de calor de volta ao núcleo. Podem ser colocados debaixo das paredes e outros edifícios.</waterPipe.description>
+  <waterValve.label>válvula de água fria</waterValve.label>
+  <waterValve.description>Abre ou fecha conexões entre tubos de água fria.</waterValve.description>
+  <HighVoltage.label>alta tensão</HighVoltage.label>
+  <HighVoltage.description>Cabo para transportar energia de alta tensão das turbinas para os transformadores. Pode ser colocado debaixo das paredes e outros edifícios.</HighVoltage.description>
+  <controllerLoom.label>chicote do console</controllerLoom.label>
+  <controllerLoom.description>Chicote de fiação para transmitir sinais entre um núcleo de reator e um console de controle. Pode ser colocado debaixo das paredes e outros edifícios.</controllerLoom.description>
+  <NuclearResearchBench.label>bancada de pesquisa Rimatomics</NuclearResearchBench.label>
+  <NuclearResearchBench.description>Contém projetos de pesquisa Rimatomics. Requer energia.</NuclearResearchBench.description>
+  <TableRimatomicsMachining.label>mesa de usinagem Rimatomics</TableRimatomicsMachining.label>
+  <TableRimatomicsMachining.description>Uma estação de trabalho para montar tecnologias Rimatomics.</TableRimatomicsMachining.description>
+  <ResearchReactor.label>reator de pesquisa</ResearchReactor.label>
+  <ResearchReactor.description>Reator de pesquisa.</ResearchReactor.description>
+  <WeaponsBench.label>bancada de pesquisa de armas</WeaponsBench.label>
+  <WeaponsBench.description>Bancada de pesquisa de armas.</WeaponsBench.description>
+  <PlutoniumProcessor.label>processador de plutônio</PlutoniumProcessor.label>
+  <PlutoniumProcessor.description>Uma máquina que usa produtos químicos para separar plutônio físsil de combustível nuclear gasto.</PlutoniumProcessor.description>
+  <RimatomicsRTG.label>R.T.G</RimatomicsRTG.label>
+  <RimatomicsRTG.description>Um gerador elétrico que usa uma série de termopares para converter o calor liberado pelo decaimento de um material radioativo adequado em eletricidade.</RimatomicsRTG.description>
+  <ReactorCoreA.label>reator tipo A</ReactorCoreA.label>
+  <ReactorCoreA.description>Núcleo de reator térmico Rimatomics com capacidade para 21 conjuntos de combustível. Um núcleo de reator contém os componentes de combustível onde as reações nucleares ocorrem e o calor é gerado.</ReactorCoreA.description>
+  <ReactorCoreB.label>reator tipo X</ReactorCoreB.label>
+  <ReactorCoreB.description>Um projeto avançado de reator reprodutor que pode gerar mais material físsil do que consome.</ReactorCoreB.description>
+  <ReactorCoreC.label>reator tipo V</ReactorCoreC.label>
+  <ReactorCoreC.description>Um enorme projeto avançado de reator reprodutor que pode gerar mais material físsil do que consome.</ReactorCoreC.description>
+  <Turbine.label>turbina Thor</Turbine.label>
+  <Turbine.description>Uma turbina movida a vapor que gira um gerador para produzir eletricidade. A Thor tem uma potência máxima de 100 quilowatts.</Turbine.description>
+  <BigTurbine.label>turbina Zeus</BigTurbine.label>
+  <BigTurbine.description>Uma turbina movida a vapor que gira um gerador para produzir eletricidade. A Zeus tem uma potência máxima de 1 megawatt.</BigTurbine.description>
+  <CoolingRadiator.label>radiador</CoolingRadiator.label>
+  <CoolingRadiator.description>Pequenos resfriadores de ar projetados para fornecer resfriamento a pequenos reatores nucleares quando recursos ou espaço são limitados.\nCapacidade de resfriamento de 25 kW</CoolingRadiator.description>
+  <CoolingWater.label>resfriamento por água</CoolingWater.label>
+  <CoolingWater.description>Fornece grandes quantidades de resfriamento a reatores nucleares usando água fria de rios, lagos ou oceanos.\nCapacidade de resfriamento de 250 kW</CoolingWater.description>
+  <CoolingTower.label>torre de resfriamento</CoolingTower.label>
+  <CoolingTower.description>Resfriadores de ar muito grandes projetados para fornecer grandes quantidades de resfriamento a reatores nucleares quando não há corpos d'água naturais disponíveis.\nCapacidade de resfriamento de 250 kW</CoolingTower.description>
+  <Transformer.label>transformador de alta tensão</Transformer.label>
+  <Transformer.description>Fornece a transformação final de tensão dos geradores de turbina, reduzindo a tensão usada nas linhas de alta tensão para o nível usado pelos conduítes de energia.</Transformer.description>
+  <ReactorControl.label>console do reator</ReactorControl.label>
+  <ReactorControl.description>Sistema de computador projetado para controlar reatores nucleares. Envie um colono para operar a estação e acessar os controles. Vários controles podem estar abertos ao mesmo tempo.</ReactorControl.description>
+  <storagePool.label>piscina de armazenamento</storagePool.label>
+  <storagePool.description>Uma piscina de armazenamento para armazenar com segurança varetas de combustível nuclear gasto. A água na piscina absorve radiação. O combustível deve ser removido manualmente da piscina antes de poder ser usado.</storagePool.description>
+  <RadiationDetector.label>detector de radiação</RadiationDetector.label>
+  <RadiationDetector.description>Detector de radiação. Pode ser colocado perto de reatores para detectar vazamentos de radiação.</RadiationDetector.description>
+  <RadiationShielding.label>parede reforçada de DU</RadiationShielding.label>
+  <RadiationShielding.description>Uma parede muito resistente reforçada com urânio empobrecido, que fornece blindagem total contra radiação.</RadiationShielding.description>
+  <ReactorSacrophagus.label>sarcófago tipo A</ReactorSacrophagus.label>
+  <ReactorSacrophagusB.label>sarcófago tipo X</ReactorSacrophagusB.label>
+  <ReactorSacrophagusC.label>sarcófago tipo V</ReactorSacrophagusC.label>
+  <DU_Blastdoor.label>porta explosiva de DU</DU_Blastdoor.label>
+  <DU_Blastdoor.description>Portas explosivas muito resistentes reforçadas com urânio empobrecido, que fornecem blindagem total contra radiação.</DU_Blastdoor.description>
+  <PPC.label>PPC</PPC.label>
+  <PPC.description>O RA-P3 Capacitor de Potência Pulsada armazena grandes quantidades de energia em um banco de ultracapacitores, que pode ser descarregado em um único pulso por armas de energia Rimatomics compatíveis.</PPC.description>
+  <PPCWeaponsConsole.label>SACS</PPCWeaponsConsole.label>
+  <PPCWeaponsConsole.description>A RA-c85 Estação de Comando Semiautomática é necessária para todas as armas de energia Rimatomics e pode exigir operação manual para que certas armas funcionem plenamente.</PPCWeaponsConsole.description>
+  <RadarDish.label>TACS</RadarDish.label>
+  <RadarDish.description>O RA-92 Sistema de Aquisição de Alvos e Comunicação usa uma combinação de tecnologias para rastrear alvos terrestres e aéreos e se comunicar com sistemas de armas.</RadarDish.description>
+  <PPCADS.label>ADS</PPCADS.label>
+  <PPCADS.description>O RA-22 Sistema de Negação Ativa (ADS) é uma arma de energia dirigida não letal projetada para negação de área e controle de multidões. Ele aquece a pele de alvos humanos, fazendo com que quebrem a formação e fujam. Não requer linha de visão. Requer um SACS tripulado.</PPCADS.description>
+  <ADS_Dish.label>antena do ADS</ADS_Dish.label>
+  <ADS_Dish.description>Antena do ADS.</ADS_Dish.description>
+  <PPCTeslaCoil.label>bobina de Tesla</PPCTeslaCoil.label>
+  <PPCTeslaCoil.description>A Bobina de Tesla RA-42T libera uma enorme descarga de arco elétrico em seus alvos, resultando em queimaduras graves ou morte. 100% precisa, alcance médio, incendeia os alvos. Mira e disparo automáticos. SACS tripulado necessário para mira manual.</PPCTeslaCoil.description>
+  <Tesla_Coil_Arc_Discharger.label>descarga de arco da bobina de Tesla</Tesla_Coil_Arc_Discharger.label>
+  <Tesla_Coil_Arc_Discharger.description>Descarga de arco da bobina de Tesla.</Tesla_Coil_Arc_Discharger.description>
+  <PPCHEL.label>HEL</PPCHEL.label>
+  <PPCHEL.description>O RA-702 Laser de Alta Energia (HEL) destrói projéteis aéreos inimigos, como projéteis de morteiro. Quando um morteiro é disparado, o sistema verifica se o projétil passará pelo alcance de um HEL e tenta rastrear o alvo e disparar quando ele estiver ao alcance.</PPCHEL.description>
+  <HEL_Laser.label>laser HEL</HEL_Laser.label>
+  <HEL_Laser.description>Laser HEL.</HEL_Laser.description>
+  <PPCRailgun.label>Punisher</PPCRailgun.label>
+  <PPCRailgun.description>O RA-1802D Punisher é uma plataforma de railgun alimentada por um carregador de 25 tiros que usa grandes pulsos eletromagnéticos para lançar projéteis sabot a velocidades e alcances extremos. Requer linha de visão. A missão de fogo não requer linha de visão. SACS tripulado necessário para mira manual. Requer um SACS tripulado.</PPCRailgun.description>
+  <Railgun_Cannon.label>railgun do Punisher</Railgun_Cannon.label>
+  <Railgun_Cannon.description>Railgun do Punisher.</Railgun_Cannon.description>
+  <PPCObelisk.label>Obelisk</PPCObelisk.label>
+  <PPCObelisk.description>O RA-2152-X Obelisk é uma arma de energia dirigida que usa um laser de estado sólido focado para vaporizar alvos. 100% precisa, com longo alcance e poder devastador. Mira e disparo automáticos. SACS tripulado necessário para mira manual.</PPCObelisk.description>
+  <Obelisk_Laser.label>laser do Obelisk</Obelisk_Laser.label>
+  <Obelisk_Laser.description>Laser do Obelisk.</Obelisk_Laser.description>
+  <PPCMarauder.label>Marauder</PPCMarauder.label>
+  <PPCMarauder.description>O RA-3b Marauder é uma plataforma de railgun de plasma coaxial de vários canos. Grandes pulsos eletromagnéticos disparam uma rajada de toroides de plasma acelerados a velocidades extremas, causando impactos explosivos que emitem radiação. Requer um SACS tripulado.</PPCMarauder.description>
+  <Marauder_Railgun.label>railgun Marauder</Marauder_Railgun.label>
+  <Marauder_Railgun.description>Railgun Marauder.</Marauder_Railgun.description>
+  <Bullet_PlasmaToroid.label>toroide de plasma</Bullet_PlasmaToroid.label>
+  <MissileSilo.label>Liberator</MissileSilo.label>
+  <MissileSilo.description>O RA-1776b Liberator é uma instalação integrada e autossuficiente de fabricação e lançamento de mísseis estratégicos, com capacidade de carregador de 5 mísseis. Requer um SACS tripulado para funcionar.</MissileSilo.description>
+  <notReal.label>notReal</notReal.label>
+  <RadioactiveDust.label>poeira radioativa</RadioactiveDust.label>
+  <RadioactiveDust.description>Poeira radioativa.</RadioactiveDust.description>
+  <RocketEngine.label>motor de foguete</RocketEngine.label>
+  <RocketEngine.description>Motores para construir máquinas movidas a foguete.</RocketEngine.description>
+  <MissileFuselage.label>fuselagem de míssil</MissileFuselage.label>
+  <MissileFuselage.description>Fuselagem para construir mísseis estratégicos.</MissileFuselage.description>
+  <FissionWarhead.label>ogiva nuclear</FissionWarhead.label>
+  <FissionWarhead.description>Um dispositivo explosivo que obtém sua força destrutiva de reações nucleares.</FissionWarhead.description>
+  <ICBM_Fission.label>míssil estratégico</ICBM_Fission.label>
+  <NuclearWarheadIncoming.label>ogiva chegando</NuclearWarheadIncoming.label>
+  <ICBMStrike.label>ataque de míssil estratégico</ICBMStrike.label>
+  <turbineBlade.label>pás de turbina</turbineBlade.label>
+  <turbineBlade.description>Usadas para construir geradores.</turbineBlade.description>
+  <UraniumPellets.label>pastilhas de urânio</UraniumPellets.label>
+  <UraniumPellets.description>Pastilhas de urânio usadas na construção de varetas de combustível nuclear.</UraniumPellets.description>
+  <Plutonium.label>plutônio</Plutonium.label>
+  <Plutonium.description>Uma caixa de plutônio usada para criar armas nucleares ou varetas de combustível nuclear.</Plutonium.description>
+  <DepletedUraniumPellets.label>urânio empobrecido</DepletedUraniumPellets.label>
+  <DepletedUraniumPellets.description>Pastilhas de urânio empobrecido usadas na construção de varetas de combustível nuclear.</DepletedUraniumPellets.description>
+  <FuelRods.label>varetas de combustível</FuelRods.label>
+  <FuelRods.description>Um grupo de varetas preenchidas com pastilhas de urânio. Quando carregadas em um núcleo de reator, geram calor que pode ser usado para acionar uma turbina.</FuelRods.description>
+  <FuelRodsMOX.label>varetas de combustível MOX</FuelRodsMOX.label>
+  <FuelRodsMOX.description>Um grupo de varetas preenchidas com uma mistura de urânio e plutônio. Quando carregadas em um núcleo de reator, geram calor que pode ser usado para acionar uma turbina.</FuelRodsMOX.description>
+  <ChunkRadioactiveSlag.label>pedaço de escória radioativa</ChunkRadioactiveSlag.label>
+  <NuclearWaste.label>rejeito nuclear</NuclearWaste.label>
+  <NuclearWaste.description>Um barril de rejeito nuclear.</NuclearWaste.description>
+  <ThrownSlag.label>escória lançada</ThrownSlag.label>
+  <Apparel_RadiationMask.label>máscara de radiação</Apparel_RadiationMask.label>
+  <Apparel_RadiationMask.description>Protege contra radiação por meio de blindagem no forro, mas, mais importante, evitando o contato direto ou a inalação de partículas ou gases radioativos.</Apparel_RadiationMask.description>
+  <Apparel_MoppMaskDesert.label>máscara MOPP (deserto)</Apparel_MoppMaskDesert.label>
+  <Apparel_MoppMaskWoodland.label>máscara MOPP (floresta)</Apparel_MoppMaskWoodland.label>
+  <Apparel_MoppMaskSnow.label>máscara MOPP (neve)</Apparel_MoppMaskSnow.label>
+  <Apparel_RadiationSuit.label>traje de radiação</Apparel_RadiationSuit.label>
+  <Apparel_RadiationSuit.description>Um traje que protege contra radiação por meio de blindagem no forro.</Apparel_RadiationSuit.description>
+  <Apparel_MoppSuitDesert.label>traje MOPP (deserto)</Apparel_MoppSuitDesert.label>
+  <Apparel_MoppSuitWoodland.label>traje MOPP (floresta)</Apparel_MoppSuitWoodland.label>
+  <Apparel_MoppSuitSnow.label>traje MOPP (neve)</Apparel_MoppSuitSnow.label>
+  <RailgunSabot.label>projétil sabot</RailgunSabot.label>
+  <RailgunSabot.description>Um projétil de energia cinética disparado de um railgun.</RailgunSabot.description>
+  <Bullet_Sabot.label>projétil sabot</Bullet_Sabot.label>
+  <RailgunSabotDU.label>projétil sabot de DU</RailgunSabotDU.label>
+  <RailgunSabotDU.description>Um projétil de energia cinética disparado de um railgun, inerte e seguro para armazenar.</RailgunSabotDU.description>
+  <Bullet_Sabot_DU.label>projétil sabot de DU</Bullet_Sabot_DU.label>
+  <SabotRoundIncoming.label>projétil sabot chegando</SabotRoundIncoming.label>
+  <DUSabotRoundIncoming.label>projétil sabot de DU chegando</DUSabotRoundIncoming.label>
+  <ControlRodActuator.label>atuador de barra de controle</ControlRodActuator.label>
+  <ControlRodActuator.description>Peças de melhoria para o reator nuclear Rimatomics.</ControlRodActuator.description>
+  <ATOM.label>ATOM</ATOM.label>
+  <ATOM.description>Módulo de melhoria para o TACS.</ATOM.description>
+  <SCAD.label>SCAD</SCAD.label>
+  <SCAD.description>Peças de melhoria para armas de energia Rimatomics.</SCAD.description>
+  <MEPS.label>MEPS</MEPS.label>
+  <MEPS.description>Peças de melhoria para armas de energia Rimatomics.</MEPS.description>
+  <ALC.label>ALC</ALC.label>
+  <ALC.description>Peças de melhoria para armas de energia Rimatomics.</ALC.description>
+  <ERS.label>ERS</ERS.label>
+  <ERS.description>Peças de melhoria para armas de energia Rimatomics.</ERS.description>
+  <DriveActuator.label>atuador de acionamento</DriveActuator.label>
+  <DriveActuator.description>Peças de melhoria para armas de energia Rimatomics.</DriveActuator.description>
+  <TargetingChip.label>chip de mira</TargetingChip.label>
+  <TargetingChip.description>Peças de melhoria para o railgun Rimatomics.</TargetingChip.description>
+  <BeamSplitter.label>divisor de feixe</BeamSplitter.label>
+  <BeamSplitter.description>Peças de melhoria para o Obelisk Rimatomics.</BeamSplitter.description>
+  <LenseModule.label>módulo de lente</LenseModule.label>
+  <LenseModule.description>Peças de melhoria para o Obelisk Rimatomics.</LenseModule.description>
+  <RimatomicsShieldGenerator.label>Sentinel</RimatomicsShieldGenerator.label>
+  <RimatomicsShieldGenerator.description>O RA-S4 Sentinel é um escudo de energia que usa uma combinação de lasers, micro-ondas e descargas de arco para criar campos de plasma capazes de interceptar projéteis de armas físicas ou de energia. Um sensor detecta um evento gerador de onda de choque, determina a direção e a distância da onda de choque em relação a um alvo defendido e calcula um plano de disparo. O dispositivo então atenua o evento de onda de choque usando reflexão, refração, dispersão, absorção e transferência de momento.</RimatomicsShieldGenerator.description>
+  <UnfinishedRimatomics.label>item Rimatomics inacabado</UnfinishedRimatomics.label>
+  <UnfinishedRimatomics.description>Um item Rimatomics inacabado.</UnfinishedRimatomics.description>
+  <coolingPipeHidden.label>tubo de refrigerante (oculto)</coolingPipeHidden.label>
+  <coolingPipeHidden.description>Tubos ocultos para bombear refrigerante da turbina para os sistemas de resfriamento. Podem ser colocados debaixo das paredes e outros edifícios.</coolingPipeHidden.description>
+  <steamPipeHidden.label>tubo de vapor (oculto)</steamPipeHidden.label>
+  <steamPipeHidden.description>Tubos ocultos para bombear vapor de alta pressão do reator para as turbinas. Podem ser colocados debaixo das paredes e outros edifícios.</steamPipeHidden.description>
+  <waterPipeHidden.label>tubo de água fria (oculto)</waterPipeHidden.label>
+  <waterPipeHidden.description>Tubos ocultos para bombear água fria da turbina ou do trocador de calor de volta ao núcleo. Podem ser colocados debaixo das paredes e outros edifícios.</waterPipeHidden.description>
+  <HighVoltageHidden.label>alta tensão (oculta)</HighVoltageHidden.label>
+  <HighVoltageHidden.description>Cabo oculto para transportar energia de alta tensão das turbinas para os transformadores. Pode ser colocado debaixo das paredes e outros edifícios.</HighVoltageHidden.description>
+  <controllerLoomHidden.label>chicote do console (oculto)</controllerLoomHidden.label>
+  <controllerLoomHidden.description>Chicote de fiação oculto para transmitir sinais entre um núcleo de reator e um console de controle. Pode ser colocado debaixo das paredes e outros edifícios.</controllerLoomHidden.description>
+</LanguageData>

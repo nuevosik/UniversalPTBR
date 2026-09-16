@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Failure_FacilityBreakdown.label>falha na instalação</Failure_FacilityBreakdown.label>
+  <Failure_FacilityBreakdown.description>A instalação quebrou durante a pesquisa</Failure_FacilityBreakdown.description>
+  <Failure_RadiationLeak.label>vazamento de radiação</Failure_RadiationLeak.label>
+  <Failure_RadiationLeak.description>A instalação está vazando uma pequena rajada de radiação</Failure_RadiationLeak.description>
+  <Failure_MicrowaveLeak.label>vazamento de micro-ondas</Failure_MicrowaveLeak.label>
+  <Failure_MicrowaveLeak.description>A instalação está vazando radiação de micro-ondas</Failure_MicrowaveLeak.description>
+  <Failure_AcidLeak.label>vazamento de ácido</Failure_AcidLeak.label>
+  <Failure_AcidLeak.description>A instalação está vazando ácido</Failure_AcidLeak.description>
+  <Failure_GasLeak.label>vazamento de gás</Failure_GasLeak.label>
+  <Failure_GasLeak.description>A instalação está vazando gás tóxico</Failure_GasLeak.description>
+  <Failure_BlindingFlash.label>clarão ofuscante</Failure_BlindingFlash.label>
+  <Failure_BlindingFlash.description>Um clarão de luz ofuscante emanou da instalação</Failure_BlindingFlash.description>
+  <Failure_ArcDischarge.label>descarga de arco elétrico</Failure_ArcDischarge.label>
+  <Failure_ArcDischarge.description>Um arco de eletricidade de alta tensão disparou da instalação</Failure_ArcDischarge.description>
+  <Failure_LaserDischarge.label>descarga de laser</Failure_LaserDischarge.label>
+  <Failure_LaserDischarge.description>Uma descarga de laser disparou da instalação</Failure_LaserDischarge.description>
+  <Failure_Overvoltage.label>sobretensão</Failure_Overvoltage.label>
+  <Failure_Overvoltage.description>A instalação sofreu uma sobrecarga de energia e iniciou um incêndio</Failure_Overvoltage.description>
+  <Failure_ShortCircuit.label>curto-circuito</Failure_ShortCircuit.label>
+  <Failure_ShortCircuit.description>A instalação entrou em curto-circuito. Desligue a energia imediatamente ou o edifício será destruído!</Failure_ShortCircuit.description>
+  <Geigercounter1.label>pesquisar detectores de radiação</Geigercounter1.label>
+  <Geigercounter1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funcionam os detectores de radiação.</Geigercounter1.description>
+  <Geigercounter2.label>avaliar componentes</Geigercounter2.label>
+  <Geigercounter2.description>Um artesão habilidoso precisa descobrir como construir e manter detectores de radiação para todos os colonos usando os recursos e ferramentas disponíveis.</Geigercounter2.description>
+  <RadiationSuits1.label>pesquisar trajes anti-radiação</RadiationSuits1.label>
+  <RadiationSuits1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funcionam os trajes anti-radiação antes que possamos começar a fabricar os nossos.</RadiationSuits1.description>
+  <RadiationSuits2.label>avaliar componentes</RadiationSuits2.label>
+  <RadiationSuits2.description>Um artesão habilidoso precisa elaborar planos para confeccionar trajes anti-radiação usando os recursos e ferramentas disponíveis para nós.</RadiationSuits2.description>
+  <NuclearResearch1.label>pesquisar tecnologia de reatores</NuclearResearch1.label>
+  <NuclearResearch1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona o reator de pesquisa antes que possamos construir o nosso.</NuclearResearch1.description>
+  <NuclearResearchConstruct.label>construir um reator de pesquisa</NuclearResearchConstruct.label>
+  <NuclearResearchConstruct.description>Construa um reator de pesquisa. Os colonos precisarão de acesso ao reator para experimentação. É aconselhável construir o reator em um laboratório seguro e à prova de fogo.</NuclearResearchConstruct.description>
+  <NuclearResearchPractical.label>pesquisar e treinar</NuclearResearchPractical.label>
+  <NuclearResearchPractical.description>Instale o software de controle do reator e realize exercícios de treinamento enquanto testa as capacidades do reator.</NuclearResearchPractical.description>
+  <NuclearReactorResearchPhase.label>pesquisar reatores nucleares</NuclearReactorResearchPhase.label>
+  <NuclearReactorResearchPhase.description>Um pesquisador habilidoso precisa estudar os projetos de reator da Rimatomics e se preparar para a construção do nosso primeiro reator de potência.</NuclearReactorResearchPhase.description>
+  <NuclearReactorExperiments.label>experimentar com reatores de pesquisa (Alto Risco)</NuclearReactorExperiments.label>
+  <NuclearReactorExperiments.description>Um pesquisador habilidoso precisa experimentar com o reator de pesquisa. Esta etapa tem chance de falhas catastróficas!</NuclearReactorExperiments.description>
+  <BuildReactorCore.label>construir um núcleo de reator</BuildReactorCore.label>
+  <BuildReactorCore.description>Construa a estrutura de um núcleo de reator nuclear. Observe que, quando a estrutura estiver completa, será preciso mais trabalho para terminar de construir o núcleo. É altamente recomendável que o núcleo seja construído em uma sala de contenção para proteger os colonos durante a transferência de combustível. A espessura da parede e os pontos de vida dos materiais usados determinam quanta radiação é absorvida. Aconselhamos deixar espaço ao redor do núcleo, pois a frequência de danos por radiação também diminui com a distância.</BuildReactorCore.description>
+  <BuildReactorTurbine.label>construir um gerador de turbina</BuildReactorTurbine.label>
+  <BuildReactorTurbine.description>A turbina exige uma grande quantidade de lâminas de turbina, que podem ser fabricadas em uma mesa de usinagem da Rimatomics.</BuildReactorTurbine.description>
+  <TestForCore.label>conectar o reator à turbina</TestForCore.label>
+  <TestForCore.description>Conecte o núcleo do reator ao gerador de turbina construindo um (Tubo de vapor) e um (Tubo de água fria) entre eles. As turbinas não são perigosas e podem ser construídas fora de salas de contenção blindadas, mas devem ficar em ambiente fechado.</TestForCore.description>
+  <BuildReactorCooling.label>construir um sistema de resfriamento</BuildReactorCooling.label>
+  <BuildReactorCooling.description>Construa um dos sistemas de resfriamento disponíveis e conecte-o a uma turbina usando (Tubo de refrigerante). Há três sistemas de resfriamento disponíveis&gt;: o resfriamento a água exige rios ou grandes corpos d'água, as torres de resfriamento exigem muita energia e espaço e devem ser colocadas ao ar livre, e os radiadores têm a menor capacidade de resfriamento, mas são menores e mais baratos de construir e podem ser colocados em ambientes internos.</BuildReactorCooling.description>
+  <BuildTransformer.label>construir um transformador de energia</BuildTransformer.label>
+  <BuildTransformer.description>Construa um transformador de energia e conecte-o à turbina usando cabos de alta tensão. Um único transformador pode converter até 200 kW de energia de uma turbina em eletricidade utilizável. Vários transformadores podem ser usados para alimentar redes elétricas diferentes. As configurações de limite de energia permitem redistribuir a produção de energia entre as redes elétricas.</BuildTransformer.description>
+  <BuildControlComputer.label>construir um computador de controle do reator</BuildControlComputer.label>
+  <BuildControlComputer.description>Construa um computador de controle do reator e conecte-o ao núcleo do reator nuclear usando (Chicote de controle). Este console é usado para controlar núcleos de reatores. Eles podem ser emparelhados com núcleos específicos atribuindo um ID, permitindo encadear conexões de núcleo a núcleo. Envie um colono para operar a estação e acessar os controles. Vários controles podem estar abertos ao mesmo tempo.</BuildControlComputer.description>
+  <TestReactor.label>testar o reator nuclear</TestReactor.label>
+  <TestReactor.description>Construa ou compre varetas de combustível nuclear e carregue-as no núcleo do reator usando o console do reator para designar os espaços de carregamento. Carregue pelo menos dois conjuntos de combustível lado a lado para criar uma cadeia, use o console do reator para iniciar o núcleo e então eleve as barras de controle para 8% ou mais para começar a coletar dados.</TestReactor.description>
+  <Plutonium1.label>pesquisar o processamento de plutônio</Plutonium1.label>
+  <Plutonium1.description>Um pesquisador habilidoso precisa estudar como funciona o processamento de plutônio e finalizar os projetos de uma instalação protótipo de reprocessamento de combustível.</Plutonium1.description>
+  <Plutonium2.label>construir um processador de plutônio</Plutonium2.label>
+  <Plutonium2.description>Construa um processador de plutônio. Para reduzir a duração da exposição ao manusear combustível radioativo, recomenda-se posicionar o processador de plutônio a uma curta distância dos reatores ou do armazenamento de combustível gasto. Trajes anti-radiação serão necessários para os trabalhadores que movem combustível radioativo.</Plutonium2.description>
+  <Plutonium3.label>experimentar com o processador de plutônio (Alto Risco)</Plutonium3.label>
+  <Plutonium3.description>Experimente com o processador de plutônio protótipo, garantindo que ele esteja funcionando corretamente.</Plutonium3.description>
+  <AdvReactor1.label>experimentar com reatores de pesquisa (Alto Risco)</AdvReactor1.label>
+  <AdvReactor1.description>Um pesquisador habilidoso precisa experimentar com o reator de pesquisa. Esta etapa tem chance de falhas catastróficas!</AdvReactor1.description>
+  <AdvReactor2.label>pesquisar reatores nucleares</AdvReactor2.label>
+  <AdvReactor2.description>Um pesquisador habilidoso precisa finalizar o projeto dos reatores avançados antes que estejam prontos para construção.</AdvReactor2.description>
+  <AdvReactor3.label>construir um núcleo de reator avançado</AdvReactor3.label>
+  <AdvReactor3.description>Construa um núcleo de reator nuclear avançado. É altamente recomendável que o núcleo seja construído em uma sala de contenção blindada para proteger os colonos durante a transferência de combustível.</AdvReactor3.description>
+  <AdvReactor4.label>testar o reator nuclear</AdvReactor4.label>
+  <AdvReactor4.description>Ligue o reator avançado e comece a produzir energia para coletar dados.</AdvReactor4.description>
+  <RTG1.label>pesquisar RTGs</RTG1.label>
+  <RTG1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funcionam os Geradores Termoelétricos de Radioisótopos antes que possamos começar a fabricar os nossos.</RTG1.description>
+  <RTG2.label>criar plutônio</RTG2.label>
+  <RTG2.description>Crie um pouco de plutônio, necessário para fabricar um RTG. Para isso, o combustível nuclear gasto de um reator deve ser processado em um processador de plutônio.</RTG2.description>
+  <RTG3.label>avaliar componentes</RTG3.label>
+  <RTG3.description>Um artesão habilidoso precisa planejar como podemos fabricar os componentes necessários para um Gerador Termoelétrico de Radioisótopos com os recursos disponíveis para nós.</RTG3.description>
+  <ICBM1.label>pesquisar armas nucleares</ICBM1.label>
+  <ICBM1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funcionam as armas nucleares antes que possamos começar a fabricar as nossas.</ICBM1.description>
+  <ICBM2.label>criar plutônio</ICBM2.label>
+  <ICBM2.description>Crie um pouco de plutônio, necessário para fabricar uma bomba. Para isso, o combustível nuclear gasto de um reator deve ser processado em um processador de plutônio.</ICBM2.description>
+  <ICBM3.label>experimentar com o reator de pesquisa</ICBM3.label>
+  <ICBM3.description>Experimente com o reator de pesquisa para obter uma compreensão maior da física nuclear antes de tentarmos construir uma arma.</ICBM3.description>
+  <ICBM4.label>construir um console de armas</ICBM4.label>
+  <ICBM4.description>Construa um console de armas. O console de armas é um computador tripulado de aquisição de alvos exigido por todas as armas de energia. Ele se conecta a qualquer arma de energia da Rimatomics que compartilhe a mesma rede elétrica e então detecta inimigos usando os sensores integrados das armas e o Sistema de Aquisição de Alvos para designar alvos. O visor principal apresenta rastreamento de alvos terrestres e aéreos em tempo real, e um medidor de capacidade de PPC exibe a energia total de PPC armazenada na rede.</ICBM4.description>
+  <ICBM5.label>construir um Sistema de Aquisição de Alvos e Comunicações (TACS)</ICBM5.label>
+  <ICBM5.description>Construa um TACS. O sistema usa uma combinação de tecnologias para rastrear alvos terrestres e aéreos. Isso inclui alvos vivos ou robóticos, projéteis como projéteis de morteiro ou munições sabot de railgun, e rastreamento de longo alcance de mísseis balísticos.</ICBM5.description>
+  <ICBM6.label>construir um Liberator</ICBM6.label>
+  <ICBM6.description>Construa um Liberator. Ele deve ser conectado por conduíte de energia a um console de armas para controlar os sistemas de lançamento.</ICBM6.description>
+  <ICBM7.label>coletar dados de armas</ICBM7.label>
+  <ICBM7.description>Lance um míssil estratégico contra qualquer alvo para coletar dados. A quantidade de dados coletados depende do sucesso do lançamento, e uma detonação bem-sucedida no alvo fornece a quantidade máxima de dados.</ICBM7.description>
+  <EnergyWeapons1.label>pesquisar armas de energia</EnergyWeapons1.label>
+  <EnergyWeapons1.description>Um pesquisador habilidoso precisa estudar como funcionam as armas de energia da Rimatomics</EnergyWeapons1.description>
+  <ConstructWeaponBenchStep.label>construir uma bancada de pesquisa de armas</ConstructWeaponBenchStep.label>
+  <ConstructWeaponBenchStep.description>Construa uma bancada de pesquisa de armas, equipada com equipamentos especializados para prototipar e testar uma ampla variedade de armas de energia. É uma instalação necessária para a maioria das pesquisas e testes de armas de energia; os colonos precisarão de acesso à bancada para experimentação. É aconselhável construí-la em um laboratório seguro e à prova de fogo.</ConstructWeaponBenchStep.description>
+  <EnergyWeapExperiments.label>experimentar com armas de energia</EnergyWeapExperiments.label>
+  <EnergyWeapExperiments.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</EnergyWeapExperiments.description>
+  <EnergyWeapons5.label>construir uma Estação de Comando Semiautomática (SACS)</EnergyWeapons5.label>
+  <EnergyWeapons5.description>Construa uma SACS; este console é um computador de aquisição de alvos exigido por todas as armas de energia. Ele se conecta a todas as armas de energia da Rimatomics que compartilham a mesma rede elétrica e então designa alvos usando os sensores integrados das armas combinados com o Sistema de Aquisição de Alvos (TACS).\n\nO visor principal apresenta um rastreador em tempo real de alvos terrestres e projéteis aéreos, e um medidor exibe a energia total de PPC armazenada na rede.\nAlgumas armas exigem que o console seja tripulado para funcionar; isso será exibido na aba de inspeção da arma</EnergyWeapons5.description>
+  <EnergyWeapons6.label>construir um Sistema de Aquisição de Alvos e Comunicações (TACS)</EnergyWeapons6.label>
+  <EnergyWeapons6.description>Construa um TACS. O sistema usa uma combinação de tecnologias para rastrear alvos terrestres e aéreos; isso inclui alvos vivos ou robóticos, projéteis como projéteis de morteiro ou munições sabot de railgun, e rastreamento de longo alcance de mísseis balísticos. As informações são encaminhadas a um console SACS, onde os alvos são selecionados e as informações de rastreamento podem ser exibidas</EnergyWeapons6.description>
+  <EnergyWeapons7.label>construir um Contêiner de Energia Pulsada (PPC)</EnergyWeapons7.label>
+  <EnergyWeapons7.description>Construa um Contêiner de Energia Pulsada (PPC) e conecte-o à mesma rede elétrica da SACS.\n\nEsses ultracapacitores são muito mais eficientes que as baterias padrão e foram projetados para fornecer os grandes pulsos de energia exigidos pelas armas de energia da Rimatomics. Eles ficam alojados em um contêiner à prova d'água e são carregados com o excesso de energia como uma bateria padrão. Recomendamos usar transformadores para criar redes elétricas isoladas para seus PPCs e conjuntos de armas</EnergyWeapons7.description>
+  <ADS1.label>pesquisar o ADS</ADS1.label>
+  <ADS1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona o ADS antes que possamos construir o nosso</ADS1.description>
+  <ADS2.label>experimentar com armas de energia</ADS2.label>
+  <ADS2.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</ADS2.description>
+  <ADS4.label>construir um ADS protótipo</ADS4.label>
+  <ADS4.description>Construa uma versão protótipo do ADS. Armas protótipo têm alta chance de falha! Recomenda-se usar redes elétricas isoladas e manter distância segura com proteção contra fogo adequada</ADS4.description>
+  <ADS5.label>coletar dados de armas</ADS5.label>
+  <ADS5.description>Dispare o ADS contra quaisquer alvos vivos para coletar dados de armas</ADS5.description>
+  <TeslaCoil1.label>pesquisar bobinas de Tesla</TeslaCoil1.label>
+  <TeslaCoil1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona a bobina de Tesla antes que possamos construir a nossa</TeslaCoil1.description>
+  <TeslaCoil2.label>experimentar com armas de energia</TeslaCoil2.label>
+  <TeslaCoil2.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</TeslaCoil2.description>
+  <TeslaCoil4.label>construir uma bobina de Tesla protótipo</TeslaCoil4.label>
+  <TeslaCoil4.description>Construa uma versão protótipo da bobina de Tesla. Armas protótipo têm alta chance de falha! Recomenda-se usar redes elétricas isoladas e manter distância segura com proteção contra fogo adequada</TeslaCoil4.description>
+  <TeslaCoil5.label>coletar dados de armas</TeslaCoil5.label>
+  <TeslaCoil5.description>Dispare a bobina de Tesla contra quaisquer alvos para coletar dados de armas</TeslaCoil5.description>
+  <HEL1.label>pesquisar o HEL</HEL1.label>
+  <HEL1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona o HEL antes que possamos construir o nosso</HEL1.description>
+  <HEL2.label>experimentar com armas de energia</HEL2.label>
+  <HEL2.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</HEL2.description>
+  <HEL4.label>construir um HEL protótipo</HEL4.label>
+  <HEL4.description>Construa uma versão protótipo do HEL. Armas protótipo têm alta chance de falha! Recomenda-se usar redes elétricas isoladas e manter distância segura com proteção contra fogo adequada</HEL4.description>
+  <HEL5.label>coletar dados de armas</HEL5.label>
+  <HEL5.description>Dispare o HEL contra alvos de artilharia para coletar dados de armas; você pode usar o console de armas para alterar sua aquisição de alvos e incluir projéteis aliados</HEL5.description>
+  <Railgun1.label>pesquisar o Punisher</Railgun1.label>
+  <Railgun1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona o Punisher antes que possamos construir o nosso</Railgun1.description>
+  <Railgun2.label>experimentar com armas de energia</Railgun2.label>
+  <Railgun2.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</Railgun2.description>
+  <Railgun4.label>construir um Punisher protótipo</Railgun4.label>
+  <Railgun4.description>Construa uma versão protótipo do Punisher. Armas protótipo têm alta chance de falha! Recomenda-se usar redes elétricas isoladas e manter distância segura com proteção contra fogo adequada</Railgun4.description>
+  <Railgun5.label>coletar dados de armas</Railgun5.label>
+  <Railgun5.description>Dispare o Punisher contra quaisquer alvos para coletar dados de armas. Você pode fabricar munições sabot em uma mesa de usinagem da Rimatomics</Railgun5.description>
+  <Railgun6.label>coletar dados de armas</Railgun6.label>
+  <Railgun6.description>Teste a funcionalidade de missão de fogo do Punisher. Você deve enviar batedores a outro mapa, depois selecionar o Punisher protótipo e clicar em Missão de Fogo</Railgun6.description>
+  <Obelisk1.label>pesquisar o Obelisk</Obelisk1.label>
+  <Obelisk1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona o Obelisk antes que possamos construir o nosso</Obelisk1.description>
+  <Obelisk2.label>experimentar com armas de energia</Obelisk2.label>
+  <Obelisk2.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</Obelisk2.description>
+  <Obelisk4.label>construir um Obelisk</Obelisk4.label>
+  <Obelisk4.description>Construa uma versão protótipo do Obelisk. Armas protótipo têm alta chance de falha! Recomenda-se usar redes elétricas isoladas e manter distância segura com proteção contra fogo adequada</Obelisk4.description>
+  <Obelisk5.label>coletar dados de armas</Obelisk5.label>
+  <Obelisk5.description>Dispare o Obelisk contra quaisquer alvos para coletar dados</Obelisk5.description>
+  <Marauder1.label>pesquisar o Marauder</Marauder1.label>
+  <Marauder1.description>Um pesquisador habilidoso precisa estudar os projetos e aprender como funciona o Marauder antes que possamos construir o nosso</Marauder1.description>
+  <Marauder2.label>experimentar com armas de energia</Marauder2.label>
+  <Marauder2.description>Os pesquisadores devem realizar experimentos usando a nova bancada de pesquisa de armas e estabelecer as bases para projetos futuros. As armas de energia da Rimatomics não funcionam apenas conectando-as, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</Marauder2.description>
+  <Marauder4.label>construir um Marauder protótipo</Marauder4.label>
+  <Marauder4.description>Construa uma versão protótipo do Marauder. Armas protótipo têm alta chance de falha! Recomenda-se usar redes elétricas isoladas e manter distância segura com proteção contra fogo adequada</Marauder4.description>
+  <Marauder5.label>coletar dados de armas</Marauder5.label>
+  <Marauder5.description>Dispare o Marauder para coletar dados de armas.</Marauder5.description>
+  <ControlRodActuators1.label>pesquisar reatores nucleares</ControlRodActuators1.label>
+  <ControlRodActuators1.description>Experimente com o reator de pesquisa e planeje testes que possam ser realizados em um núcleo de reator ativo</ControlRodActuators1.description>
+  <ControlRodActuators2.label>realizar 2 SCRAMs de reator</ControlRodActuators2.label>
+  <ControlRodActuators2.description>Teste o sistema de barras de controle realizando um SCRAM do reator enquanto ele está totalmente abastecido e configurado para 100% de potência.</ControlRodActuators2.description>
+  <ControlRodActuators3.label>pesquisar reatores nucleares</ControlRodActuators3.label>
+  <ControlRodActuators3.description>Analise os dados coletados e finalize os projetos dos novos atuadores das barras de controle</ControlRodActuators3.description>
+  <ThreatDetection1.label>pesquisar detecção de ameaças</ThreatDetection1.label>
+  <ThreatDetection1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados em um TACS para coletar dados para análise</ThreatDetection1.description>
+  <ThreatDetection2.label>coletar dados sobre incursões</ThreatDetection2.label>
+  <ThreatDetection2.description>Colete dados de incursões; cada vez que sua colônia for alvo de uma incursão, o tamanho e o método de chegada serão analisados e comparados com os dados dos sensores para criar um modelo de previsão</ThreatDetection2.description>
+  <ThreatDetection3.label>pesquisar detecção de ameaças</ThreatDetection3.label>
+  <ThreatDetection3.description>Analise os dados coletados e finalize os projetos do ATOM</ThreatDetection3.description>
+  <GuidenceSystem1.label>pesquisar reatores nucleares</GuidenceSystem1.label>
+  <GuidenceSystem1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados em mísseis estratégicos para coletar dados para análise</GuidenceSystem1.description>
+  <GuidenceSystem2.label>coletar dados de armas</GuidenceSystem2.label>
+  <GuidenceSystem2.description>Lance um míssil estratégico contra qualquer alvo para coletar dados; a quantidade de dados coletados depende do sucesso do lançamento, e uma detonação bem-sucedida no alvo fornece o máximo.</GuidenceSystem2.description>
+  <GuidenceSystem3.label>pesquisar reatores nucleares</GuidenceSystem3.label>
+  <GuidenceSystem3.description>Analise os dados coletados e finalize os projetos do Sistema de Orientação</GuidenceSystem3.description>
+  <MEPS1.label>pesquisar MEPS</MEPS1.label>
+  <MEPS1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados em armas de energia da Rimatomics para coletar dados para análise</MEPS1.description>
+  <MEPS2.label>coletar dados de armas</MEPS2.label>
+  <MEPS2.description>Dispare qualquer arma de energia da Rimatomics em potência máxima para coletar dados.</MEPS2.description>
+  <MEPS3.label>pesquisar MEPS</MEPS3.label>
+  <MEPS3.description>Analise os dados coletados e finalize os projetos do módulo MEPS</MEPS3.description>
+  <ALC1.label>pesquisar ALC</ALC1.label>
+  <ALC1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados em armas de energia da Rimatomics para coletar dados para análise</ALC1.description>
+  <ALC2.label>coletar dados de armas</ALC2.label>
+  <ALC2.description>Dispare qualquer arma de energia da Rimatomics em potência máxima para coletar dados.</ALC2.description>
+  <ALC3.label>pesquisar ALC</ALC3.label>
+  <ALC3.description>Analise os dados coletados e finalize os projetos do módulo ALC</ALC3.description>
+  <ERS1.label>pesquisar ERS</ERS1.label>
+  <ERS1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados em armas de energia da Rimatomics para coletar dados para análise</ERS1.description>
+  <ERS2.label>coletar dados de armas</ERS2.label>
+  <ERS2.description>Dispare qualquer arma de energia da Rimatomics em potência máxima para coletar dados.</ERS2.description>
+  <ERS3.label>pesquisar ERS</ERS3.label>
+  <ERS3.description>Analise os dados coletados e finalize os projetos do módulo ERS</ERS3.description>
+  <SCAD1.label>pesquisar SCAD</SCAD1.label>
+  <SCAD1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados em armas de energia da Rimatomics para coletar dados para análise</SCAD1.description>
+  <SCAD2.label>coletar dados de armas</SCAD2.label>
+  <SCAD2.description>Dispare qualquer arma de energia da Rimatomics em potência máxima para coletar dados.</SCAD2.description>
+  <SCAD3.label>pesquisar SCAD</SCAD3.label>
+  <SCAD3.description>Analise os dados coletados e finalize os projetos do módulo SCAD</SCAD3.description>
+  <DriveActuator1.label>pesquisar atuadores de acionamento</DriveActuator1.label>
+  <DriveActuator1.description>Um pesquisador habilidoso deve realizar experimentos em uma bancada de pesquisa de armas</DriveActuator1.description>
+  <DriveActuator2.label>pesquisar atuadores de acionamento</DriveActuator2.label>
+  <DriveActuator2.description>Analise os dados coletados e finalize os projetos dos atuadores de acionamento</DriveActuator2.description>
+  <Railgun_TargetingChip1.label>pesquisar chips de mira</Railgun_TargetingChip1.label>
+  <Railgun_TargetingChip1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados no railgun para coletar dados para análise</Railgun_TargetingChip1.description>
+  <Railgun_TargetingChip2.label>coletar dados de armas</Railgun_TargetingChip2.label>
+  <Railgun_TargetingChip2.description>Use o railgun contra quaisquer alvos para coletar dados</Railgun_TargetingChip2.description>
+  <Railgun_TargetingChip3.label>pesquisar chips de mira</Railgun_TargetingChip3.label>
+  <Railgun_TargetingChip3.description>Analise os dados coletados e finalize os projetos do chip de mira</Railgun_TargetingChip3.description>
+  <LenseModule1.label>pesquisar módulos de lente</LenseModule1.label>
+  <LenseModule1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados no Obelisk para coletar dados para análise</LenseModule1.description>
+  <LenseModule2.label>coletar dados de armas</LenseModule2.label>
+  <LenseModule2.description>Use o Obelisk contra quaisquer alvos para coletar dados; a quantidade de dados obtidos varia conforme a porcentagem de dano usada em cada disparo</LenseModule2.description>
+  <LenseModule3.label>pesquisar módulos de lente</LenseModule3.label>
+  <LenseModule3.description>Analise os dados coletados e finalize os projetos do módulo de lente</LenseModule3.description>
+  <BeamSplitter1.label>pesquisar divisores de feixe</BeamSplitter1.label>
+  <BeamSplitter1.description>Um pesquisador habilidoso deve planejar uma série de testes que possam ser realizados no Obelisk para coletar dados para análise</BeamSplitter1.description>
+  <BeamSplitter2.label>coletar dados de armas</BeamSplitter2.label>
+  <BeamSplitter2.description>Use o Obelisk contra quaisquer alvos para coletar dados; a quantidade de dados obtidos varia conforme a porcentagem de dano usada em cada rajada.</BeamSplitter2.description>
+  <BeamSplitter3.label>pesquisar divisores de feixe</BeamSplitter3.label>
+  <BeamSplitter3.description>Analise os dados coletados e finalize os projetos do dispositivo divisor de feixe</BeamSplitter3.description>
+  <EnergyShields1.label>pesquisar armas de energia</EnergyShields1.label>
+  <EnergyShields1.description>Um pesquisador habilidoso precisa estudar como funcionam os escudos de energia da Rimatomics</EnergyShields1.description>
+  <EnergyShields2.label>experimentar com armas de energia</EnergyShields2.label>
+  <EnergyShields2.description>Os pesquisadores devem realizar experimentos práticos usando a bancada de pesquisa de armas. Os escudos de energia da Rimatomics não funcionam apenas conectando-os, e a tecnologia precisa ser testada e compreendida.\nAs etapas de experimentação podem ser perigosas</EnergyShields2.description>
+</LanguageData>
