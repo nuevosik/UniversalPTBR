@@ -91,6 +91,7 @@ def escape(value):
 
 
 VERSION_DIR = re.compile(r'\d+(?:\.\d+)*')
+XML_NAME = re.compile(r'[A-Za-z_][A-Za-z0-9_.:-]*')
 
 
 def version_of(path, mod):
@@ -240,10 +241,16 @@ def write_skeleton(path, pairs):
             existing = [(el.tag, el.text or '') for el in root if el.tag != 'LanguageData']
     have = {key for key, _ in existing}
     merged = existing + [pair for pair in pairs if pair[0] not in have]
+    valid = []
+    for key, value in merged:
+        if not XML_NAME.fullmatch(key):
+            print(f'aviso: chave XML invalida ignorada: {key}', file=sys.stderr)
+            continue
+        valid.append((key, value))
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open('w', encoding='utf-8', newline='\n') as fh:
         fh.write('<?xml version="1.0" encoding="utf-8"?>\n<LanguageData>\n')
-        for key, value in merged:
+        for key, value in valid:
             fh.write(f'  <{key}>{escape(value)}</{key}>\n')
         fh.write('</LanguageData>\n')
 
