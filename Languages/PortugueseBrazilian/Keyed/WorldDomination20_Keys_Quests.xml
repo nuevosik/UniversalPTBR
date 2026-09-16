@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_FirstOutpost_LetterLabelFailed>Missão falhou: [resolvedQuestName]</TSA_WD_FirstOutpost_LetterLabelFailed>
+  <TSA_WD_FirstOutpost_LetterTextHostile>[faction_name] tornou-se hostil. O pedido do primeiro posto avançado falhou.</TSA_WD_FirstOutpost_LetterTextHostile>
+  <TSA_WD_Quest_EnableFirstOutpost>Missão do primeiro posto avançado</TSA_WD_Quest_EnableFirstOutpost>
+  <TSA_WD_Quest_EnableFirstOutpostTip>Após 2 a 5 dias, um assentamento aliado ou neutro próximo pode pedir que você funde seu primeiro posto avançado do WD. Concluir concede boa vontade. Desativado interrompe novas ofertas; uma missão ativa ainda pode ser concluída.</TSA_WD_Quest_EnableFirstOutpostTip>
+  <TSA_WD_Quest_EnableCommonEnemySettlement>Missão de assentamento inimigo comum</TSA_WD_Quest_EnableCommonEnemySettlement>
+  <TSA_WD_Quest_EnableCommonEnemySettlementTip>Após o dia 10, aliados (ou neutros) podem pedir que você elimine ou conquiste uma cidade próxima hostil a ambos. O crédito só conta para suas próprias incursões a postos avançados ou por lutar lá pessoalmente. Ordens de incursão de aliados e outras facções destruindo a cidade não contam. Desativado interrompe novas ofertas; uma missão ativa ainda pode ser concluída.</TSA_WD_Quest_EnableCommonEnemySettlementTip>
+  <TSA_WD_Quest_EnableColonyRoadLink>Missão de ligação rodoviária da colônia</TSA_WD_Quest_EnableColonyRoadLink>
+  <TSA_WD_Quest_EnableColonyRoadLinkTip>Após o dia 10, uma cidade aliada ou neutra próxima (dentro de 30 blocos) pode pedir uma estrada entre sua colônia e a dela. Conectar as cidades com qualquer estrada a conclui de uma vez por todas. Falhas (tempo esgotado, hostilidade ou a cidade desaparecer) podem ser reemitidas após alguns dias. Desativado interrompe novas ofertas; uma missão ativa ainda pode ser concluída.</TSA_WD_Quest_EnableColonyRoadLinkTip>
+  <TSA_WD_Quest_EnableWorldDominationVictory>Missão de vitória do World Domination</TSA_WD_Quest_EnableWorldDominationVictory>
+  <TSA_WD_Quest_EnableWorldDominationVictoryTip>Após 4 a 6 dias, oferece um objetivo de longo prazo: manter o primeiro lugar no ranking do WD por 15 dias contínuos. Ativar no meio do jogo inicia a missão imediatamente. Desativar remove uma missão ativa imediatamente.</TSA_WD_Quest_EnableWorldDominationVictoryTip>
+  <TSA_WD_ColonyRoadLink_LetterLabelFailed>Missão falhou: [resolvedQuestName]</TSA_WD_ColonyRoadLink_LetterLabelFailed>
+  <TSA_WD_ColonyRoadLink_LetterTextHostile>[faction_name] tornou-se hostil. O pedido de ligação rodoviária falhou.</TSA_WD_ColonyRoadLink_LetterTextHostile>
+  <TSA_WD_ColonyRoadLink_LetterLabelExpired>Missão expirada: [resolvedQuestName]</TSA_WD_ColonyRoadLink_LetterLabelExpired>
+  <TSA_WD_ColonyRoadLink_LetterTextExpired>O tempo do pedido de [faction_name] por uma estrada até [askerSettlement_label] acabou.</TSA_WD_ColonyRoadLink_LetterTextExpired>
+  <TSA_WD_ColonyRoadLink_LetterLabelSettlementGone>Missão falhou: {0}</TSA_WD_ColonyRoadLink_LetterLabelSettlementGone>
+  <TSA_WD_ColonyRoadLink_LetterTextSettlementGone>{0} queria uma estrada até {1}, mas essa cidade desapareceu. O pedido falhou.</TSA_WD_ColonyRoadLink_LetterTextSettlementGone>
+  <TSA_WD_CommonEnemy_LetterLabelFailed>Missão falhou: [resolvedQuestName]</TSA_WD_CommonEnemy_LetterLabelFailed>
+  <TSA_WD_CommonEnemy_LetterTextHostile>[faction_name] tornou-se hostil. O pedido de inimigo comum falhou.</TSA_WD_CommonEnemy_LetterTextHostile>
+  <TSA_WD_CommonEnemy_LetterLabelExpired>Missão expirada: [resolvedQuestName]</TSA_WD_CommonEnemy_LetterLabelExpired>
+  <TSA_WD_CommonEnemy_LetterTextExpired>O tempo do pedido de [faction_name] para derrubar [enemySettlement_label] acabou.</TSA_WD_CommonEnemy_LetterTextExpired>
+  <TSA_WD_CommonEnemy_LetterLabelTakenByOthers>Missão falhou: {0}</TSA_WD_CommonEnemy_LetterLabelTakenByOthers>
+  <TSA_WD_CommonEnemy_LetterTextTakenByOthers>{0} queria que você derrubasse {1}, mas outra pessoa chegou primeiro. O pedido falhou.</TSA_WD_CommonEnemy_LetterTextTakenByOthers>
+  <TSA_WD_QuestGoodwill_Loss>{0}: {1} de boa vontade (agora {2}).</TSA_WD_QuestGoodwill_Loss>
+  <TSA_WD_QuestGoodwill_LossWithReason>{0}: {1} de boa vontade (agora {2}). {3}</TSA_WD_QuestGoodwill_LossWithReason>
+  <TSA_WD_QuestRaidBias_LetterLabel>{0} está mirando em você</TSA_WD_QuestRaidBias_LetterLabel>
+  <TSA_WD_QuestRaidBias_LetterText>{0} vai priorizar atacá-lo pelos próximos {1} dias quando lançar incursões do World Domination.</TSA_WD_QuestRaidBias_LetterText>
+  <TSA_WD_Alert_QuestRaidBias_PlayerTarget>{0} priorizando você ({1}d)</TSA_WD_Alert_QuestRaidBias_PlayerTarget>
+  <TSA_WD_Alert_QuestRaidBias_Other>{0} priorizando {1} ({2}d)</TSA_WD_Alert_QuestRaidBias_Other>
+  <TSA_WD_Alert_QuestRaidBias_DescHeader>Viés de incursão de missões ativas do World Domination:</TSA_WD_Alert_QuestRaidBias_DescHeader>
+  <TSA_WD_Alert_QuestRaidBias_DescLine>{0} prioriza {1} ({2} dias restantes)</TSA_WD_Alert_QuestRaidBias_DescLine>
+  <TSA_WD_Alert_VictoryHold>WD na liderança: {0}/{1} dias</TSA_WD_Alert_VictoryHold>
+  <TSA_WD_Alert_VictoryHold_DescLeader>Você é a facção mais forte do World Domination. Mantenha essa liderança por {1} dias contínuos para vencer. Sequência atual: {0}.</TSA_WD_Alert_VictoryHold_DescLeader>
+  <TSA_WD_Alert_VictoryHold_DescNotLeader>Você não é a facção mais forte no momento. Sua sequência de liderança era {0} de {1} e será redefinida até você retomar a liderança.</TSA_WD_Alert_VictoryHold_DescNotLeader>
+  <TSA_WD_Victory_DialogTitle>World Domination</TSA_WD_Victory_DialogTitle>
+  <TSA_WD_Victory_DialogBody>Você manteve o primeiro lugar no ranking do World Domination por {0} dias contínuos. Continue jogando ou assista aos créditos finais.</TSA_WD_Victory_DialogBody>
+  <TSA_WD_Victory_KeepPlaying>Continuar jogando</TSA_WD_Victory_KeepPlaying>
+  <TSA_WD_Victory_SeeCredits>Ver créditos</TSA_WD_Victory_SeeCredits>
+  <TSA_WD_Victory_KeepPlayingLetterLabel>World Domination garantido</TSA_WD_Victory_KeepPlayingLetterLabel>
+  <TSA_WD_Victory_KeepPlayingLetterText>Você escolheu continuar jogando após garantir a liderança mundial. A vitória não será acionada novamente neste save.</TSA_WD_Victory_KeepPlayingLetterText>
+  <TSA_WD_Victory_CreditsIntro>Seus assentamentos e postos avançados são os mais fortes do planeta.</TSA_WD_Victory_CreditsIntro>
+  <TSA_WD_Victory_CreditsEnding>O World Domination é seu. A história continua se você quiser.</TSA_WD_Victory_CreditsEnding>
+  <TSA_WD_Victory_HoldProgress>Sequência de liderança: {0} / {1} dias</TSA_WD_Victory_HoldProgress>
+</LanguageData>

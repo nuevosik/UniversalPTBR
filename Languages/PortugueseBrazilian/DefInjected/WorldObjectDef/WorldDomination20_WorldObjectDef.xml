@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_AT_Turret.label>torreta antitanque</TSA_WD_AT_Turret.label>
+  <TSA_WD_Outpost_Farming.label>posto avançado agrícola</TSA_WD_Outpost_Farming.label>
+  <TSA_WD_Outpost_Hunting.label>posto avançado de caça</TSA_WD_Outpost_Hunting.label>
+  <TSA_WD_Outpost_Fishing.label>posto avançado de pesca</TSA_WD_Outpost_Fishing.label>
+  <TSA_WD_Outpost_Recruiting.label>posto avançado de recrutamento</TSA_WD_Outpost_Recruiting.label>
+  <TSA_WD_Outpost_Trading.label>posto avançado de comércio</TSA_WD_Outpost_Trading.label>
+  <TSA_WD_Outpost_Embassy.label>posto avançado de embaixada</TSA_WD_Outpost_Embassy.label>
+  <TSA_WD_Outpost_Scavenging.label>posto avançado de catação</TSA_WD_Outpost_Scavenging.label>
+  <TSA_WD_Outpost_Mining.label>posto avançado de mineração</TSA_WD_Outpost_Mining.label>
+  <TSA_WD_Outpost_Fabrication.label>posto avançado de fabricação</TSA_WD_Outpost_Fabrication.label>
+  <TSA_WD_Outpost_BiofuelRefinery.label>refinaria química</TSA_WD_Outpost_BiofuelRefinery.label>
+  <TSA_WD_Outpost_BiofuelRefinery.description>Produz combustível químico, neutroamina e corante.</TSA_WD_Outpost_BiofuelRefinery.description>
+  <TSA_WD_Outpost_DeepchemDrill.label>posto avançado de perfuração de química profunda</TSA_WD_Outpost_DeepchemDrill.label>
+  <TSA_WD_Outpost_DeepchemDrill.description>Perfura química profunda em blocos de deserto. Requer o Vanilla Chemfuel Expanded.</TSA_WD_Outpost_DeepchemDrill.description>
+  <TSA_WD_Outpost_RawShaping.label>posto avançado de modelagem de recursos brutos</TSA_WD_Outpost_RawShaping.label>
+  <TSA_WD_Outpost_RawShaping.description>Produz plastiaço, fibra sintética ou hiper tecido em blocos de deserto.</TSA_WD_Outpost_RawShaping.description>
+  <TSA_WD_Outpost_DeepchemFactory.label>posto avançado de fábrica de química profunda</TSA_WD_Outpost_DeepchemFactory.label>
+  <TSA_WD_Outpost_DeepchemFactory.description>Posto avançado químico legado do complemento Bambaryla. Produz neutroamina e corante. Prefira fundar uma refinaria química para novos postos avançados.</TSA_WD_Outpost_DeepchemFactory.description>
+  <TSA_WD_Outpost_Ranch.label>posto avançado de criação</TSA_WD_Outpost_Ranch.label>
+  <TSA_WD_Outpost_Mortar.label>posto avançado de artilharia</TSA_WD_Outpost_Mortar.label>
+  <TSA_WD_Outpost_RapidResponse.label>posto avançado de resposta rápida</TSA_WD_Outpost_RapidResponse.label>
+  <TSA_WD_Outpost_Academy.label>posto avançado de academia</TSA_WD_Outpost_Academy.label>
+  <TSA_WD_Outpost_Research.label>posto avançado de pesquisa</TSA_WD_Outpost_Research.label>
+  <TSA_WD_Outpost_PowerPlant.label>posto avançado de usina de energia</TSA_WD_Outpost_PowerPlant.label>
+  <TSA_WD_Outpost_Warehouse.label>posto avançado de armazém</TSA_WD_Outpost_Warehouse.label>
+  <TSA_WD_Outpost_DrugLab.label>posto avançado de laboratório de drogas</TSA_WD_Outpost_DrugLab.label>
+  <TSA_WD_SettlementRuin.label>ruínas do assentamento</TSA_WD_SettlementRuin.label>
+  <TSA_WD_SettlementRuin.description>Ruínas temporárias deixadas após um assentamento ser arrasado. Bloqueia novos assentamentos e postos avançados nas proximidades até serem limpas.</TSA_WD_SettlementRuin.description>
+  <TSA_WD_Traveler_Raid.label>caravana invasora</TSA_WD_Traveler_Raid.label>
+  <TSA_WD_Traveler_RaidDropPod.label>cápsulas de transporte invasoras</TSA_WD_Traveler_RaidDropPod.label>
+  <TSA_WD_Traveler_RaidGravship.label>gravinave invasora</TSA_WD_Traveler_RaidGravship.label>
+  <TSA_WD_Traveler_Expansion.label>caravana de expansão</TSA_WD_Traveler_Expansion.label>
+  <TSA_WD_Traveler_MassRelocation.label>caravana vanguarda</TSA_WD_Traveler_MassRelocation.label>
+  <TSA_WD_Traveler_RoadBuilder.label>caravana construtora de estradas</TSA_WD_Traveler_RoadBuilder.label>
+  <TSA_WD_Traveler_Outpost_RoadBuilder.label>caravana construtora de estradas do posto avançado</TSA_WD_Traveler_Outpost_RoadBuilder.label>
+  <TSA_WD_Traveler_Outpost_RoadBlock.label>equipe de bloqueio de estrada do posto avançado</TSA_WD_Traveler_Outpost_RoadBlock.label>
+  <TSA_WD_Traveler_Outpost_SpikeTrap.label>equipe de armadilhas de estacas do posto avançado</TSA_WD_Traveler_Outpost_SpikeTrap.label>
+  <TSA_WD_Traveler_Outpost_Decontamination.label>equipe de descontaminação do posto avançado</TSA_WD_Traveler_Outpost_Decontamination.label>
+  <TSA_WD_Traveler_Outpost_Raid.label>caravana invasora do posto avançado</TSA_WD_Traveler_Outpost_Raid.label>
+  <TSA_WD_Traveler_Outpost_Delivery.label>entrega do posto avançado</TSA_WD_Traveler_Outpost_Delivery.label>
+  <TSA_WD_Traveler_Trader.label>caravana de comércio</TSA_WD_Traveler_Trader.label>
+  <TSA_WD_Traveler_MortarStrike.label>projétil de morteiro</TSA_WD_Traveler_MortarStrike.label>
+  <TSA_WD_Traveler_AT_Shell.label>projétil antitanque</TSA_WD_Traveler_AT_Shell.label>
+  <TSA_WD_Traveler_FlakShell.label>projétil antiaéreo</TSA_WD_Traveler_FlakShell.label>
+  <TSA_WD_Traveler_RapidResponseIntercept.label>caravana de resposta rápida</TSA_WD_Traveler_RapidResponseIntercept.label>
+  <TSA_WD_Traveler_RapidResponseDropPod.label>cápsulas de transporte de resposta rápida</TSA_WD_Traveler_RapidResponseDropPod.label>
+  <TSA_WD_Traveler_Outpost_Upgrade.label>caravana de melhoria de posto avançado</TSA_WD_Traveler_Outpost_Upgrade.label>
+  <TSA_WD_Traveler_SettlementBuy.label>caravana de compra de assentamento</TSA_WD_Traveler_SettlementBuy.label>
+  <TSA_WD_Traveler_SettlementGift.label>caravana de presente de assentamento</TSA_WD_Traveler_SettlementGift.label>
+  <TSA_WD_Traveler_SettlementBribe.label>caravana de suborno de assentamento</TSA_WD_Traveler_SettlementBribe.label>
+  <TSA_WD_Traveler_DiplomacyNegotiate.label>caravana de negociação diplomática</TSA_WD_Traveler_DiplomacyNegotiate.label>
+  <TSA_WD_OutpostDefenseSite.label>defesa de posto avançado</TSA_WD_OutpostDefenseSite.label>
+  <TSA_WD_OutpostDefenseSite.description>Um campo de batalha temporário para defender um posto avançado do World Domination.</TSA_WD_OutpostDefenseSite.description>
+</LanguageData>

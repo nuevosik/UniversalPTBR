@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MainButtonDef.TSA_WD_WorldDomination.label>WD</MainButtonDef.TSA_WD_WorldDomination.label>
+  <MainButtonDef.TSA_WD_WorldDomination.description>World Domination: matriz de diplomacia, postos avançados, estatísticas do mundo, registro de ações.</MainButtonDef.TSA_WD_WorldDomination.description>
+  <TSA_WD_BtnClear>Limpar</TSA_WD_BtnClear>
+  <TSA_WD_BtnDailyActions>Ações Mundiais</TSA_WD_BtnDailyActions>
+  <TSA_WD_BtnDiplomacy>Diplomacia, Bônus e Penalidades</TSA_WD_BtnDiplomacy>
+  <TSA_WD_BtnDisinformation>Desinformação</TSA_WD_BtnDisinformation>
+  <TSA_WD_BtnGarrisonSettings>Escalonamento da guarnição</TSA_WD_BtnGarrisonSettings>
+  <TSA_WD_BtnBaseGeneration>Geração de bases</TSA_WD_BtnBaseGeneration>
+  <TSA_WD_BtnGrowthExpand>Crescimento e Expansão</TSA_WD_BtnGrowthExpand>
+  <TSA_WD_BtnMiningBaselines>Valores base de mineração</TSA_WD_BtnMiningBaselines>
+  <TSA_WD_BtnNotifications>Notificações</TSA_WD_BtnNotifications>
+  <TSA_WD_BtnOutpostFood>Postos avançados</TSA_WD_BtnOutpostFood>
+  <TSA_WD_BtnOutpostSettings>Configurações de postos avançados</TSA_WD_BtnOutpostSettings>
+  <TSA_WD_BtnOutpostSkillScaling>Escalonamento de habilidade dos postos avançados</TSA_WD_BtnOutpostSkillScaling>
+  <TSA_WD_DescOutpostSkillScaling>Decida se adicionar pontos de habilidade (por exemplo, Plantio em um posto avançado agrícola) deve aumentar a produção indefinidamente ou se deve haver retornos decrescentes após certos limites.</TSA_WD_DescOutpostSkillScaling>
+  <TSA_WD_BtnUpdateNotes>Mostrar notas de atualização</TSA_WD_BtnUpdateNotes>
+  <TSA_WD_BtnRaidMult>Incursões contra o jogador</TSA_WD_BtnRaidMult>
+  <TSA_WD_BtnLateGame>Meio e fim de jogo</TSA_WD_BtnLateGame>
+  <TSA_WD_BtnT4Mortar>Artilharia de NPCs (N4)</TSA_WD_BtnT4Mortar>
+  <TSA_WD_BtnCombatDifficulty>Dificuldade de combate</TSA_WD_BtnCombatDifficulty>
+  <TSA_WD_DescCombatDifficulty>Dificuldade do meio/fim de jogo, restrições de momento das ameaças, pressão de incursões sobre o jogador, bônus de combate por estágio, estilos de chegada, escalonamento da guarnição e armamento N4 de morteiro/antiaéreo dos NPCs.</TSA_WD_DescCombatDifficulty>
+  <TSA_WD_BtnEconomicDifficulty>Dificuldade econômica</TSA_WD_BtnEconomicDifficulty>
+  <TSA_WD_DescEconomicDifficulty>Manutenção de postos avançados, retornos decrescentes de habilidade, drenagem de boa vontade e taxas de prata de suborno por estágio de escalonamento.</TSA_WD_DescEconomicDifficulty>
+  <TSA_WD_Settings_Search>Pesquisar</TSA_WD_Settings_Search>
+  <TSA_WD_Settings_SearchTip>Filtre os controles desta página por rótulo ou texto de dica. Corresponder a um cabeçalho de seção mostra a seção inteira. Limpe o campo para mostrar tudo novamente.</TSA_WD_Settings_SearchTip>
+  <TSA_WD_ThreatGate_Never>Nunca</TSA_WD_ThreatGate_Never>
+  <TSA_WD_ThreatGate_FromMid>A partir do meio</TSA_WD_ThreatGate_FromMid>
+  <TSA_WD_ThreatGate_FromLate>A partir do fim</TSA_WD_ThreatGate_FromLate>
+  <TSA_WD_ThreatGate_Always>Sempre</TSA_WD_ThreatGate_Always>
+  <TSA_WD_Combat_HeaderEscalation>Dificuldade do meio/fim de jogo</TSA_WD_Combat_HeaderEscalation>
+  <TSA_WD_Combat_HeaderEscalationTip>Quando as dificuldades do meio e do fim de jogo entram em ação assim que sua colônia fica forte o suficiente.</TSA_WD_Combat_HeaderEscalationTip>
+  <TSA_WD_Combat_HeaderThreatTiming>Momento das ameaças</TSA_WD_Combat_HeaderThreatTiming>
+  <TSA_WD_Combat_HeaderThreatTimingTip>Quando cada ameaça especial pode ocorrer em relação à dificuldade do meio/fim de jogo. Invasão e Desespero ignoram as recargas normais de incursão e de ações diárias; a Invasão também ignora a proporção mínima de incursão.</TSA_WD_Combat_HeaderThreatTimingTip>
+  <TSA_WD_Combat_HeaderOpportunityFeatures>Recursos de oportunidade (ToO / pilhagem / emboscada)</TSA_WD_Combat_HeaderOpportunityFeatures>
+  <TSA_WD_Combat_HeaderTargetOfOpportunityTip>Invasores em viagem podem trocar para um alvo mais fraco no caminho.</TSA_WD_Combat_HeaderTargetOfOpportunityTip>
+  <TSA_WD_Combat_HeaderMaraudingTip>Após uma luta, os sobreviventes podem avançar para outro alvo.</TSA_WD_Combat_HeaderMaraudingTip>
+  <TSA_WD_Combat_HeaderSettlementAmbushTip>Assentamentos inimigos podem emboscar sua caravana se você passar perto.</TSA_WD_Combat_HeaderSettlementAmbushTip>
+  <TSA_WD_Combat_HeaderVanguard>Vanguarda</TSA_WD_Combat_HeaderVanguard>
+  <TSA_WD_Combat_HeaderInvasion>Invasão</TSA_WD_Combat_HeaderInvasion>
+  <TSA_WD_Combat_HeaderVanguardAndInvasion>Vanguarda e Invasão</TSA_WD_Combat_HeaderVanguardAndInvasion>
+  <TSA_WD_Combat_HeaderVanguardAndInvasionTip>Facções fortes agem a partir de assentamentos distantes (além da distância mínima do jogador). A Vanguarda agrupa 5–7 locais distantes e se reassenta perto de você; após o agrupamento, o agressor ainda deve ter pelo menos 8 assentamentos de origem ativos. A Invasão lança 5–7 incursões coordenadas de bases distantes sem abandonar essas bases.</TSA_WD_Combat_HeaderVanguardAndInvasionTip>
+  <TSA_WD_Combat_VanguardVsInvasionPickChance>Chance de escolher a Vanguarda</TSA_WD_Combat_VanguardVsInvasionPickChance>
+  <TSA_WD_Combat_VanguardVsInvasionPickChanceTip>Quando Vanguarda e Invasão podem ocorrer, chance de tentar a Vanguarda primeiro. No restante das vezes, tenta-se a Invasão.</TSA_WD_Combat_VanguardVsInvasionPickChanceTip>
+  <TSA_WD_Combat_HeaderDesperationTip>Após perder uma conquista em um agrupamento pressionado, a Estratégia pode ocorrer (chance de disparo) e então Defensiva ou desespero. Não é controlado pelas predefinições Fácil/Médio/Difícil.</TSA_WD_Combat_HeaderDesperationTip>
+  <TSA_WD_Combat_HeaderStrongFactionWarTip>Facções de NPCs fortes podem declarar guerra entre si.</TSA_WD_Combat_HeaderStrongFactionWarTip>
+  <TSA_WD_Combat_HeaderPlayerRaidsTip>Limites e recargas das incursões que você lança.</TSA_WD_Combat_HeaderPlayerRaidsTip>
+  <TSA_WD_Combat_HeaderRaidClampTip>Como os pontos de incursão do WD são limitados em relação ao orçamento do narrador.</TSA_WD_Combat_HeaderRaidClampTip>
+  <TSA_WD_Combat_HeaderStageBonuses>Bônus de combate por estágio</TSA_WD_Combat_HeaderStageBonuses>
+  <TSA_WD_Combat_HeaderStageBonusesTip>Pressão extra de incursões, crescimento e alcance quando o meio ou o fim de jogo está ativo.</TSA_WD_Combat_HeaderStageBonusesTip>
+  <TSA_WD_Combat_StageBonusesNeedEscalation>Ative a dificuldade do meio/fim de jogo acima para editar os bônus de combate por estágio.</TSA_WD_Combat_StageBonusesNeedEscalation>
+  <TSA_WD_Combat_HeaderArrivalStylesTip>Chances de estilo cápsula de transporte e cerco para incursões à colônia.</TSA_WD_Combat_HeaderArrivalStylesTip>
+  <TSA_WD_Combat_HeaderAdvancedWorld>Combate mundial avançado</TSA_WD_Combat_HeaderAdvancedWorld>
+  <TSA_WD_Combat_HeaderAdvancedWorldTip>Mira de torretas antitanque em viajantes/caravanas do jogador e incursões experimentais de gravinave N4.</TSA_WD_Combat_HeaderAdvancedWorldTip>
+  <TSA_WD_Combat_HeaderGarrisonTip>Quanta força os assentamentos de NPCs mantêm em casa.</TSA_WD_Combat_HeaderGarrisonTip>
+  <TSA_WD_Combat_HeaderT4MortarTip>Fogo de morteiro de assentamentos inimigos.</TSA_WD_Combat_HeaderT4MortarTip>
+  <TSA_WD_Combat_HeaderAntiAirTip>Antiaéreo inimigo contra suas cápsulas de transporte e aeronaves.</TSA_WD_Combat_HeaderAntiAirTip>
+  <TSA_WD_Combat_HeaderT4Hardware>Armamento N4 de morteiro / antiaéreo</TSA_WD_Combat_HeaderT4Hardware>
+  <TSA_WD_Combat_HeaderT4HardwareTip>Ative os sistemas e ajuste alcance, dano e precisão. Quando podem disparar contra o jogador é definido em Momento das ameaças.</TSA_WD_Combat_HeaderT4HardwareTip>
+  <TSA_WD_Combat_HeaderT4Requirements>Requisitos tecnológicos</TSA_WD_Combat_HeaderT4Requirements>
+  <TSA_WD_Combat_T4TimingNote>O momento de mirar no jogador é controlado pelas restrições de Momento das ameaças acima (não por caixas separadas de meio/fim de jogo).</TSA_WD_Combat_T4TimingNote>
+  <TSA_WD_Combat_HeaderGoodwillDrain>Drenagem de boa vontade</TSA_WD_Combat_HeaderGoodwillDrain>
+  <TSA_WD_Combat_GateWhen>Ativa</TSA_WD_Combat_GateWhen>
+  <TSA_WD_Combat_GateOpportunity>Oportunidade (ToO / pilhagem / emboscada)</TSA_WD_Combat_GateOpportunity>
+  <TSA_WD_Combat_GateOpportunityTip>Restrição de estágio para alvo de oportunidade, pilhagem após conquista e emboscada de assentamento.</TSA_WD_Combat_GateOpportunityTip>
+  <TSA_WD_Combat_GateToOTip>Restrição de estágio para troca de alvo por oportunidade.</TSA_WD_Combat_GateToOTip>
+  <TSA_WD_Combat_GateMaraudTip>Restrição de estágio para pilhagem pós-vitória.</TSA_WD_Combat_GateMaraudTip>
+  <TSA_WD_Combat_GateAmbushTip>Restrição de estágio para emboscada lançada por assentamento.</TSA_WD_Combat_GateAmbushTip>
+  <TSA_WD_Combat_GateT4Mortar>Morteiro N4 contra o jogador</TSA_WD_Combat_GateT4Mortar>
+  <TSA_WD_Combat_GateT4MortarTip>Quando os morteiros de assentamentos N4 inimigos podem mirar o jogador.</TSA_WD_Combat_GateT4MortarTip>
+  <TSA_WD_Combat_GateT4AntiAir>Antiaéreo N4 contra o jogador</TSA_WD_Combat_GateT4AntiAir>
+  <TSA_WD_Combat_GateT4AntiAirTip>Quando o antiaéreo de assentamentos N4 inimigos pode mirar o jogador.</TSA_WD_Combat_GateT4AntiAirTip>
+  <TSA_WD_Combat_GateVanguard>Vanguarda</TSA_WD_Combat_GateVanguard>
+  <TSA_WD_Combat_GateVanguardTip>Restrição de estágio para a Vanguarda de Assalto Avançado: agrupa assentamentos distantes em algumas caravanas fortes que se entrincheiram na sua linha de frente (não na colônia).</TSA_WD_Combat_GateVanguardTip>
+  <TSA_WD_Combat_GateInvasion>Invasão</TSA_WD_Combat_GateInvasion>
+  <TSA_WD_Combat_GateInvasionTip>Restrição de estágio para a Invasão de Assalto Avançado (5–7 incursões coordenadas de bases distantes; as bases permanecem). Ignora a recarga normal de incursão e a proporção mínima de incursão.</TSA_WD_Combat_GateInvasionTip>
+  <TSA_WD_Combat_FallBackToInvasion>Recuar para a Invasão se o agrupamento da Vanguarda falhar</TSA_WD_Combat_FallBackToInvasion>
+  <TSA_WD_Combat_FallBackToInvasionTip>Quando a Vanguarda não consegue reservar um agrupamento de assentamentos, tenta a Invasão (se a restrição da Invasão também for atendida).</TSA_WD_Combat_FallBackToInvasionTip>
+  <TSA_WD_Combat_VanguardClusterMinDist>Distância mínima da Vanguarda à colônia</TSA_WD_Combat_VanguardClusterMinDist>
+  <TSA_WD_Combat_VanguardClusterMinDistTip>Os blocos de entrincheiramento devem ficar ao menos a esta distância da sua colônia. Postos avançados de linha de frente além dessa distância podem originar o agrupamento.</TSA_WD_Combat_VanguardClusterMinDistTip>
+  <TSA_WD_Combat_VanguardClusterMaxDist>Distância máxima da Vanguarda à colônia</TSA_WD_Combat_VanguardClusterMaxDist>
+  <TSA_WD_Combat_VanguardClusterMaxDistTip>Ao originar de um anel ao redor da colônia (sem posto avançado de linha de frente utilizável), escolha blocos não mais distantes que isto da colônia, em direção ao agrupamento.</TSA_WD_Combat_VanguardClusterMaxDistTip>
+  <TSA_WD_Combat_VanguardFoundSitesMin>Fortalezas da Vanguarda (mín.)</TSA_WD_Combat_VanguardFoundSitesMin>
+  <TSA_WD_Combat_VanguardFoundSitesMinTip>Número mínimo de locais de entrincheiramento (e caravanas fundidas) por evento de Vanguarda. Os grupos ainda abandonam 5–7 bases, mas a força se concentra nesses poucos punhos.</TSA_WD_Combat_VanguardFoundSitesMinTip>
+  <TSA_WD_Combat_VanguardFoundSitesMax>Fortalezas da Vanguarda (máx.)</TSA_WD_Combat_VanguardFoundSitesMax>
+  <TSA_WD_Combat_VanguardFoundSitesMaxTip>Número máximo de locais de entrincheiramento por evento de Vanguarda. Os locais ficam a um bloco livre de distância um do outro.</TSA_WD_Combat_VanguardFoundSitesMaxTip>
+  <TSA_WD_Combat_VanguardMergeRadius>Raio de fusão da Vanguarda</TSA_WD_Combat_VanguardMergeRadius>
+  <TSA_WD_Combat_VanguardMergeRadiusTip>Controle legado. As colunas agora se fundem apenas no ponto de reunião local (mesmo bloco). A força não é teletransportada no lançamento.</TSA_WD_Combat_VanguardMergeRadiusTip>
+  <TSA_WD_Combat_InvasionIgnoresCooldownHint>Observação: a Invasão ignora as recargas normais de incursão e de ações diárias.</TSA_WD_Combat_InvasionIgnoresCooldownHint>
+  <TSA_WD_Combat_InvasionIgnoresMinRatioHint>Observação: a Invasão ignora a proporção mínima de incursão abaixo.</TSA_WD_Combat_InvasionIgnoresMinRatioHint>
+  <TSA_WD_Combat_GateDesperation>Estratégia em perda de assentamento</TSA_WD_Combat_GateDesperation>
+  <TSA_WD_Combat_GateDesperationTip>Restrição de estágio para Estratégia em perda de assentamento (Defensiva ou desespero após perder uma conquista). Sempre = desde o início do jogo. Nunca = desligado. As predefinições de dificuldade não alteram isto.</TSA_WD_Combat_GateDesperationTip>
+  <TSA_WD_Combat_TurtleHeader>Defensiva (diária)</TSA_WD_Combat_TurtleHeader>
+  <TSA_WD_Combat_HeaderTurtleTip>Diário: agrupamentos ameaçados concentram locais fracos N1/N2 em um núcleo N4 (excedente para N3 próximos), promovem por força e fortificam. Separado da Estratégia em perda de assentamento.</TSA_WD_Combat_HeaderTurtleTip>
+  <TSA_WD_Combat_GateTurtleTip>Restrição de estágio para a Defensiva diária. Sempre = desde o início do jogo. Nunca = desligado.</TSA_WD_Combat_GateTurtleTip>
+  <TSA_WD_Combat_IsolationPressureHeader>Pressão de isolamento</TSA_WD_Combat_IsolationPressureHeader>
+  <TSA_WD_Combat_IsolationPressureHeaderTip>Quando menos de três facções hostis conseguem alcançar suas colônias, uma facção elegível pode ser forçada a fundar 1–2 assentamentos perto de você. Recarga por facção.</TSA_WD_Combat_IsolationPressureHeaderTip>
+  <TSA_WD_Combat_GateIsolationPressureTip>Restrição de estágio para a Pressão de isolamento. Sempre = desde o início do jogo. Nunca = desligado. As predefinições de dificuldade não alteram isto.</TSA_WD_Combat_GateIsolationPressureTip>
+  <TSA_WD_Combat_IsolationPressureCooldown>Recarga por facção</TSA_WD_Combat_IsolationPressureCooldown>
+  <TSA_WD_Combat_IsolationPressureCooldownTip>Dias antes que a mesma facção possa ser forçada a se expandir novamente sob Pressão de isolamento.</TSA_WD_Combat_IsolationPressureCooldownTip>
+  <TSA_WD_Combat_TurtleEnable>Ativar Defensiva</TSA_WD_Combat_TurtleEnable>
+  <TSA_WD_Combat_TurtleEnableTooltip>Quando o agrupamento conectado de uma facção está sob pressão, locais externos fracos N1/N2 se concentram em um núcleo N4 (excedente para N3 próximos quando o N4 fica cheio). Depósitos promovem o nível do núcleo por força. Usa sua própria recarga por facção; no máximo um agrupamento por dia.</TSA_WD_Combat_TurtleEnableTooltip>
+  <TSA_WD_Combat_TurtleChance>Chance diária</TSA_WD_Combat_TurtleChance>
+  <TSA_WD_Combat_TurtleChanceTooltip>Chance diária de avaliar e lançar uma Defensiva para o agrupamento ameaçado de melhor pontuação.</TSA_WD_Combat_TurtleChanceTooltip>
+  <TSA_WD_Combat_TurtleCooldown>Recarga por facção</TSA_WD_Combat_TurtleCooldown>
+  <TSA_WD_Combat_TurtleCooldownTooltip>Dias antes que a mesma facção possa consolidar novamente.</TSA_WD_Combat_TurtleCooldownTooltip>
+  <TSA_WD_Combat_TurtleMinCluster>Tamanho mínimo do agrupamento</TSA_WD_Combat_TurtleMinCluster>
+  <TSA_WD_Combat_TurtleMinClusterTooltip>Um agrupamento conectado precisa de pelo menos esta quantidade de assentamentos para consolidar. Os locais se conectam quando estão a até 20 blocos uns dos outros.</TSA_WD_Combat_TurtleMinClusterTooltip>
+  <TSA_WD_Combat_TurtleMaxPack>Máx. de locais externos agrupados</TSA_WD_Combat_TurtleMaxPack>
+  <TSA_WD_Combat_TurtleMaxPackTooltip>Número máximo de assentamentos externos que se agrupam e transferem sua força para o núcleo.</TSA_WD_Combat_TurtleMaxPackTooltip>
+  <TSA_WD_Combat_TurtlePressure>Pressão hostil necessária</TSA_WD_Combat_TurtlePressure>
+  <TSA_WD_Combat_TurtlePressureTooltip>Número de assentamentos hostis ou colônias/postos avançados do jogador a até 15 blocos de qualquer local do agrupamento necessários para consolidar. A participação aliada no agrupamento conecta locais a até 20 blocos.</TSA_WD_Combat_TurtlePressureTooltip>
+  <TSA_WD_Combat_TurtlePressureRatio>Proporção de pressão regional</TSA_WD_Combat_TurtlePressureRatio>
+  <TSA_WD_Combat_TurtlePressureRatioTooltip>Força ofensiva hostil a até 15 blocos de qualquer local do agrupamento, dividida pela força ofensiva do próprio agrupamento. Locais aliados formam um agrupamento quando conectados a até 20 blocos. A Defensiva diária e a Estratégia em perda de assentamento exigem esta proporção (por exemplo, 400% = os hostis são 4× mais fortes que o agrupamento).</TSA_WD_Combat_TurtlePressureRatioTooltip>
+  <TSA_WD_Combat_TurtleNotify>Notificar quando a Defensiva for lançada</TSA_WD_Combat_TurtleNotify>
+  <TSA_WD_Combat_TurtleNotifyTooltip>Enviar uma carta quando uma facção próxima consolida e fortifica um núcleo.</TSA_WD_Combat_TurtleNotifyTooltip>
+  <TSA_WD_Combat_GateStrongWar>Guerra entre facções fortes</TSA_WD_Combat_GateStrongWar>
+  <TSA_WD_Combat_GateStrongWarTip>Restrição de estágio para eventos de guerra entre facções fortes.</TSA_WD_Combat_GateStrongWarTip>
+  <TSA_WD_BtnResetAll>Redefinir TODAS as configurações</TSA_WD_BtnResetAll>
+  <TSA_WD_ResetPageToDefaults>Redefinir esta página para o padrão</TSA_WD_ResetPageToDefaults>
+  <TSA_WD_BtnSabotage>Sabotagem</TSA_WD_BtnSabotage>
+  <TSA_WD_BtnWorldGen>Geração inicial do mundo</TSA_WD_BtnWorldGen>
+  <TSA_WD_BtnWorldRaids>Incursões no mapa-múndi</TSA_WD_BtnWorldRaids>
+  <TSA_WD_BtnCaravans>Caravanas e comércio</TSA_WD_BtnCaravans>
+  <TSA_WD_BtnExperimental>Experimental</TSA_WD_BtnExperimental>
+  <TSA_WD_BtnPlayerArtillery>Artilharia do jogador</TSA_WD_BtnPlayerArtillery>
+  <TSA_WD_Category>World Domination</TSA_WD_Category>
+  <TSA_WD_Settings_DefaultValue>Padrão: {0}</TSA_WD_Settings_DefaultValue>
+  <TSA_WD_Settings_DefaultOn>Ativado</TSA_WD_Settings_DefaultOn>
+  <TSA_WD_Settings_DefaultOff>Desativado</TSA_WD_Settings_DefaultOff>
+  <TSA_WD_Daily_CapTip>O número máximo de ações distintas (Incursão, Construir estrada, Crescer etc.) que este assentamento pode iniciar em um único dia.</TSA_WD_Daily_CapTip>
+  <TSA_WD_Daily_CdBeingRaided>Escudo de defesa</TSA_WD_Daily_CdBeingRaided>
+  <TSA_WD_Daily_CdBeingRaidedTip>Dias de imunidade a incursões após este assentamento ser atacado. Não impede que este assentamento atue como atacante.</TSA_WD_Daily_CdBeingRaidedTip>
+  <TSA_WD_Daily_CdExpand>Recarga após expansão</TSA_WD_Daily_CdExpand>
+  <TSA_WD_Daily_CdExpandTip>Dias antes que este assentamento possa fundar outro assentamento. Não bloqueia outros tipos de ação.</TSA_WD_Daily_CdExpandTip>
+  <TSA_WD_Daily_CdGrow>Recarga após construção de estrada</TSA_WD_Daily_CdGrow>
+  <TSA_WD_Daily_CdGrowTip>Dias antes que este assentamento possa iniciar outro projeto de estrada. Não bloqueia outros tipos de ação. O crescimento não tem recarga.</TSA_WD_Daily_CdGrowTip>
+  <TSA_WD_Daily_CdIncident>Recarga de incidentes</TSA_WD_Daily_CdIncident>
+  <TSA_WD_Daily_CdIncidentTip>Dias antes que este assentamento possa disparar outro incidente mundial menor ou maior. Não bloqueia outros tipos de ação.</TSA_WD_Daily_CdIncidentTip>
+  <TSA_WD_Daily_CdRaid>Recarga após incursão</TSA_WD_Daily_CdRaid>
+  <TSA_WD_Daily_CdRaidTip>Dias antes que este assentamento possa lançar outra incursão. Não bloqueia crescimento, expansão, estradas, comerciantes ou incidentes.</TSA_WD_Daily_CdRaidTip>
+  <TSA_WD_Daily_HeaderActionCaps>Capacidade de ações do assentamento</TSA_WD_Daily_HeaderActionCaps>
+  <TSA_WD_Daily_HeaderCooldowns>Recargas específicas por ação</TSA_WD_Daily_HeaderCooldowns>
+  <TSA_WD_Daily_HeaderTiers>Ações diárias por nível de assentamento</TSA_WD_Daily_HeaderTiers>
+  <TSA_WD_Daily_HeaderWeights>Probabilidade de ações</TSA_WD_Daily_HeaderWeights>
+  <TSA_WD_Daily_MaxRoadRange>Distância máx. de construção de estradas</TSA_WD_Daily_MaxRoadRange>
+  <TSA_WD_Daily_MaxRoadRangeTip>Os assentamentos não tentarão construir estradas em direção a alvos a mais de esta quantidade de blocos.</TSA_WD_Daily_MaxRoadRangeTip>
+  <TSA_WD_Daily_Reset>Redefinir esta página para o padrão</TSA_WD_Daily_Reset>
+  <TSA_WD_Daily_Tier1Tip>Ações por dia adicionadas por cada assentamento N1.</TSA_WD_Daily_Tier1Tip>
+  <TSA_WD_Daily_Tier2Tip>Ações por dia adicionadas por cada assentamento N2.</TSA_WD_Daily_Tier2Tip>
+  <TSA_WD_Daily_Tier3Tip>Ações por dia adicionadas por cada assentamento N3.</TSA_WD_Daily_Tier3Tip>
+  <TSA_WD_Daily_Tier4Tip>Ações por dia adicionadas por cada assentamento N4.</TSA_WD_Daily_Tier4Tip>
+  <TSA_WD_Daily_WeightGrow>Probabilidade de desenvolvimento</TSA_WD_Daily_WeightGrow>
+  <TSA_WD_Daily_WeightGrowTip>Probabilidade de um assentamento próximo do limite melhorar seu nível ou fundar um novo assentamento. Só é sorteado quando a força é de pelo menos 95% do máximo do nível.</TSA_WD_Daily_WeightGrowTip>
+  <TSA_WD_Daily_HeaderNearCapActions>Ações com 95-100% da força máxima do nível</TSA_WD_Daily_HeaderNearCapActions>
+  <TSA_WD_Daily_IncludeDevelopInPercent>Incluir Desenvolvimento nas porcentagens acima</TSA_WD_Daily_IncludeDevelopInPercent>
+  <TSA_WD_Daily_IncludeDevelopInPercentTip>Somente no menu de configurações. Quando ativado, Desenvolvimento é contado nas porcentagens ao lado dos controles de ação usuais. Os sorteios no jogo não mudam: Desenvolvimento só compete quando um assentamento está perto do máximo do seu nível.</TSA_WD_Daily_IncludeDevelopInPercentTip>
+  <TSA_WD_Daily_WeightMajor>Probabilidade de incidente maior</TSA_WD_Daily_WeightMajor>
+  <TSA_WD_Daily_WeightMajorTip>Probabilidade de um assentamento sofrer um incidente maior.</TSA_WD_Daily_WeightMajorTip>
+  <TSA_WD_Daily_WeightMinor>Probabilidade de incidente menor</TSA_WD_Daily_WeightMinor>
+  <TSA_WD_Daily_WeightMinorTip>Probabilidade de um assentamento sofrer um incidente menor.</TSA_WD_Daily_WeightMinorTip>
+  <TSA_WD_Daily_WeightRaid>Probabilidade de incursão</TSA_WD_Daily_WeightRaid>
+  <TSA_WD_Daily_WeightRaidTip>Probabilidade de um assentamento atacar um assentamento próximo ou posto avançado do jogador.</TSA_WD_Daily_WeightRaidTip>
+  <TSA_WD_Daily_WeightTrader>Probabilidade de caravana de comerciante</TSA_WD_Daily_WeightTrader>
+  <TSA_WD_Daily_WeightTraderTip>Probabilidade de um assentamento enviar uma caravana de comerciante a um alvo neutro ou aliado ao alcance.</TSA_WD_Daily_WeightTraderTip>
+  <TSA_WD_Daily_WeightFortify>Probabilidade de fortificação</TSA_WD_Daily_WeightFortify>
+  <TSA_WD_Daily_WeightFortifyTip>Probabilidade de um assentamento ameaçado se fortificar localmente com o layout do kit tartaruga: armadilhas de estrada primeiro (garantindo uma saída de estrada), depois bloqueios de estrada e então torretas antitanque. Níveis mais altos podem enviar várias equipes de armadilhas ou bloqueios em uma ação. Não é sorteado quando o kit está completo ou o assentamento está em recarga de fortificação. Se Fortificar for escolhido mas não puder ser lançado, outra ação diária elegível é usada.</TSA_WD_Daily_WeightFortifyTip>
+  <TSA_WD_Daily_CdFortify>Recarga após fortificar</TSA_WD_Daily_CdFortify>
+  <TSA_WD_Daily_CdFortifyTip>Dias antes que este assentamento possa fortificar novamente. Não bloqueia outros tipos de ação.</TSA_WD_Daily_CdFortifyTip>
+  <TSA_WD_Daily_CdTrader>Recarga após caravana de comerciante</TSA_WD_Daily_CdTrader>
+  <TSA_WD_Daily_CdTraderTip>Dias antes que este assentamento possa lançar outra caravana de comerciante. Não bloqueia outros tipos de ação.</TSA_WD_Daily_CdTraderTip>
+  <TSA_WD_DescDailyActions>Pesos de probabilidade de ações, fortificação de NPCs e recargas de ações. Contagens e capacidade de ações diárias estão em Crescimento e Expansão.</TSA_WD_DescDailyActions>
+  <TSA_WD_DescGrowthExpand>Com que rapidez os assentamentos crescem? Fatias de ações diárias e capacidade por nível. Distância de expansão e limites de saturação.</TSA_WD_DescGrowthExpand>
+  <TSA_WD_DescDiplomacy>Diplomacia aleatória, chance de revolta, limite de boa vontade e ajustes de boa vontade do jogo base, ordens de incursão aliadas, estradas encomendadas, compra de assentamento, investimento em facções e bônus de líder/azarão/fanatismo/coalizão. Guerra forte, assalto avançado e desespero ficam em Dificuldade de combate.</TSA_WD_DescDiplomacy>
+  <TSA_WD_DescDisinformation>Probabilidades de sucesso e falha, recargas e impacto da habilidade para missões de desinformação.</TSA_WD_DescDisinformation>
+  <TSA_WD_DescGarrison>Quão fortes são as guarnições dos assentamentos por nível e quanto elas enfraquecem quando um assentamento está esgotado.</TSA_WD_DescGarrison>
+  <TSA_WD_DescBaseGeneration>Ajustes de layout do KCSG quando o WD gera mapas de assalto a assentamentos e de defesa de postos avançados. A elegibilidade de assalto por facção é definida em Configuração do mundo → Lealdades.</TSA_WD_DescBaseGeneration>
+  <TSA_WD_DescMiningBaselines>Configure a quantidade base que um posto avançado de mineração obtém por pedra/minério com base no nível de Mineração.</TSA_WD_DescMiningBaselines>
+  <TSA_WD_DescNotifications>Ative ou desative quais eventos de domínio mundial geram notificações.</TSA_WD_DescNotifications>
+  <TSA_WD_DescOutpostFood>Consumo, produção, alcance logístico e eficiência de comida dos postos avançados.</TSA_WD_DescOutpostFood>
+  <TSA_WD_DescOutpostSettings>Estabelecimento de postos avançados, produção, academia/especialistas, logística de comida e fundação após conquista. Morteiro/AA do jogador estão em Artilharia do jogador.</TSA_WD_DescOutpostSettings>
+  <TSA_WD_DescUpdateNotes>Veja as notas de atualização e o changelog do World Domination.</TSA_WD_DescUpdateNotes>
+  <TSA_WD_DescRaidMult>Configure como os pontos de incursão são multiplicados, se seus postos avançados podem ser atacados e se você quer incursões do narrador.</TSA_WD_DescRaidMult>
+  <TSA_WD_DescLateGame>Configure a reação do meio e do fim de jogo quando você fica forte: limites, incursões tendenciosas, crescimento mais rápido, avanço de expansão, drenagem de boa vontade, morteiros N4 e incidentes em postos avançados.</TSA_WD_DescLateGame>
+  <TSA_WD_DescT4Mortar>Configure os morteiros e antiaéreos de assentamentos inimigos de nível 4: se disparam, se podem mirar você, e seus próprios alcances, recargas, dano e precisão.</TSA_WD_DescT4Mortar>
+  <TSA_WD_DescPlayerArtillery>Configurações dos seus morteiros de posto avançado, antiaéreos e interceptação de Resposta Rápida.</TSA_WD_DescPlayerArtillery>
+  <TSA_WD_DescResetAll>Restaura todas as configurações do mod para o padrão.</TSA_WD_DescResetAll>
+  <TSA_WD_DescSabotage>Probabilidades de sucesso e falha, recargas e impacto da habilidade para missões de sabotagem.</TSA_WD_DescSabotage>
+  <TSA_WD_DescWorldGen>Qual a probabilidade de assentamentos N1, N2, N3 e N4 serem criados na geração inicial do mundo?</TSA_WD_DescWorldGen>
+  <TSA_WD_DescWorldRaids>Configure os resultados simulados de incursões: curvas de chance de vitória, perdas e a proporção mínima de força necessária para atacar. A perda de força durante o deslocamento fica em Caravanas.</TSA_WD_DescWorldRaids>
+  <TSA_WD_DescCaravans>Atrito de viagem, roteamento aquático para caravanas do WD, caravanas de comerciantes, espaçamento de comerciantes da colônia do jogador, custos de entrega de postos avançados e bloqueio de comerciantes do narrador. O roteamento aquático também é definido por Predefinições de configuração → Desempenho.</TSA_WD_DescCaravans>
+  <TSA_WD_DescExperimental>Experimentos de ações mundiais e lógica de incursões, comportamento de zoom dos ícones do mapa-múndi, tecla de sobreposição, viajantes de fortificação de NPCs, dano de poluição a viajantes e opções de busca de caminho com poluição.</TSA_WD_DescExperimental>
+  <TSA_WD_HeaderImportant>Predefinições de configuração</TSA_WD_HeaderImportant>
+  <TSA_WD_HeaderSettingPresets>Predefinições de configuração</TSA_WD_HeaderSettingPresets>
+  <TSA_WD_SettingsPreset_Warning>Aplicar predefinições de dificuldade e desempenho. As outras configurações permanecerão inalteradas</TSA_WD_SettingsPreset_Warning>
+  <TSA_WD_Important_TemplateWarning>Aplicar predefinições de dificuldade e desempenho. As outras configurações permanecerão inalteradas</TSA_WD_Important_TemplateWarning>
+  <TSA_WD_SettingsPreset_HeaderTip>Aplicadas no momento:\nDesempenho: {0}\nDificuldade: {1}</TSA_WD_SettingsPreset_HeaderTip>
+  <TSA_WD_SettingsPreset_Custom>Personalizado</TSA_WD_SettingsPreset_Custom>
+  <TSA_WD_SettingsPreset_CurrentlyApplied>Aplicada no momento: {0}</TSA_WD_SettingsPreset_CurrentlyApplied>
+  <TSA_WD_Important_Performance>Desempenho</TSA_WD_Important_Performance>
+  <TSA_WD_Important_PerformanceTip>Predefinição para custo de busca de caminho, viagem aquática, artilharia N4 inimiga, taxa de varredura de interceptadores, máximo de assentamentos no planeta e limite de interceptadores de emboscada de NPCs. Clique em Aplicar para gravar apenas esses valores.</TSA_WD_Important_PerformanceTip>
+  <TSA_WD_Important_Difficulty>Dificuldade</TSA_WD_Important_Difficulty>
+  <TSA_WD_Important_DifficultyTip>Predefinição para pressão de incursões sobre você, limite de força do narrador, peso diário de incursões, restrições de ameaça da Dificuldade de combate e escalonamento do meio/fim de jogo. Clique em Aplicar para gravar apenas esses valores. Edite os detalhes em Dificuldade de combate e Dificuldade econômica.</TSA_WD_Important_DifficultyTip>
+  <TSA_WD_SettingsPreset_Apply>Aplicar</TSA_WD_SettingsPreset_Apply>
+  <TSA_WD_SettingsPreset_Applied>Predefinição aplicada: {0}</TSA_WD_SettingsPreset_Applied>
+  <TSA_WD_Settings_ExpandAll>Expandir tudo</TSA_WD_Settings_ExpandAll>
+  <TSA_WD_Settings_CollapseAll>Recolher tudo</TSA_WD_Settings_CollapseAll>
+  <TSA_WD_Important_Perf_Low>Melhor desempenho</TSA_WD_Important_Perf_Low>
+  <TSA_WD_Important_Perf_Medium>Desempenho normal</TSA_WD_Important_Perf_Medium>
+  <TSA_WD_Important_Perf_High>Desempenho reduzido</TSA_WD_Important_Perf_High>
+  <TSA_WD_Important_Perf_LowDesc>Busca de caminho mais barata (linha reta), sem rotas aquáticas, artilharia N4 inimiga desligada, varreduras AA mais lentas, buscas no mundo mais curtas, máx. 200 assentamentos, limite de 4 interceptadores de emboscada de NPCs.</TSA_WD_Important_Perf_LowDesc>
+  <TSA_WD_Important_Perf_MediumDesc>Equilíbrio padrão entre precisão de caminho, viagem aquática, taxa de varredura de interceptadores, máx. 400 assentamentos e limite de 8 interceptadores de emboscada de NPCs.</TSA_WD_Important_Perf_MediumDesc>
+  <TSA_WD_Important_Perf_HighDesc>Preparação de rota de caravana mais precisa (80%), varreduras de interceptadores mais rápidas, viagem aquática ativada, máx. 800 assentamentos, interceptadores de emboscada de NPCs sem limite.</TSA_WD_Important_Perf_HighDesc>
+  <TSA_WD_Important_Diff_Easy>Dificuldade fácil</TSA_WD_Important_Diff_Easy>
+  <TSA_WD_Important_Diff_Medium>Dificuldade média</TSA_WD_Important_Diff_Medium>
+  <TSA_WD_Important_Diff_Hard>Dificuldade difícil</TSA_WD_Important_Diff_Hard>
+  <TSA_WD_Important_Diff_EasyDesc>Recargas de incursão mais longas, menos incursões, limite do narrador mais fraco (50–150%), peso de incursão 100. Restrições de estágio de ameaça Nunca (ToO, N4 contra você, Vanguarda/Invasão, desespero, guerra forte). Escalonamento do meio/fim de jogo desligado. Retornos decrescentes de habilidade de postos avançados desligados.</TSA_WD_Important_Diff_EasyDesc>
+  <TSA_WD_Important_Diff_MediumDesc>Pressão de incursão padrão e peso de incursão 200. Restrições de estágio de ameaça A partir do meio. Meio de jogo com 8% de participação ou 4.000 de força de postos avançados; fim de jogo com 14% ou 7.500. Retornos decrescentes de habilidade de postos avançados ativados com faixas padrão.</TSA_WD_Important_Diff_MediumDesc>
+  <TSA_WD_Important_Diff_HardDesc>Recargas mais curtas, mais incursões permitidas, limite do narrador mais forte (100–300%), peso de incursão 200 (igual ao Médio). Restrições de estágio de ameaça Sempre. Mesmo momento do meio/fim de jogo que o Médio, mas o fim de jogo bate mais forte. Retornos decrescentes de habilidade de postos avançados ativados com faixas padrão.</TSA_WD_Important_Diff_HardDesc>
+  <TSA_WD_PlayerArtillery_Reset>Redefinir esta página para o padrão</TSA_WD_PlayerArtillery_Reset>
+  <TSA_WD_FacDet_BtnView>Ver</TSA_WD_FacDet_BtnView>
+  <TSA_WD_FacDet_HeaderName>Nome do assentamento</TSA_WD_FacDet_HeaderName>
+  <TSA_WD_FacDet_HeaderStrength>Força</TSA_WD_FacDet_HeaderStrength>
+  <TSA_WD_FacDet_StrengthTip>Total de defesa local (ataque + defesa), o mesmo número de classificação das Estatísticas do mundo. Não é o pool de lançamento de incursões ou de incidentes.</TSA_WD_FacDet_StrengthTip>
+  <TSA_WD_FacDet_HeaderTier>Nível</TSA_WD_FacDet_HeaderTier>
+  <TSA_WD_FacDet_HeaderSettlementType>Tipo de assentamento</TSA_WD_FacDet_HeaderSettlementType>
+  <TSA_WD_FacDet_HeaderDistance>Distância</TSA_WD_FacDet_HeaderDistance>
+  <TSA_WD_FacDet_DistanceTip>Distância até a colônia do jogador em blocos</TSA_WD_FacDet_DistanceTip>
+  <TSA_WD_FacDet_TypeSettlement>Assentamento</TSA_WD_FacDet_TypeSettlement>
+  <TSA_WD_FacDet_HeaderBeingPurchased>Em processo de compra</TSA_WD_FacDet_HeaderBeingPurchased>
+  <TSA_WD_FacDet_BeingPurchasedYes>Sim</TSA_WD_FacDet_BeingPurchasedYes>
+  <TSA_WD_FacDet_Title>Visão geral dos assentamentos da facção: {0}</TSA_WD_FacDet_Title>
+  <TSA_WD_Garrison_T1>Multiplicador do nível 1 (Acampamento)</TSA_WD_Garrison_T1>
+  <TSA_WD_Garrison_T2>Multiplicador do nível 2 (Vila)</TSA_WD_Garrison_T2>
+  <TSA_WD_Garrison_T3>Multiplicador do nível 3 (Cidade)</TSA_WD_Garrison_T3>
+  <TSA_WD_Garrison_T4>Multiplicador do nível 4 (Cidadela)</TSA_WD_Garrison_T4>
+  <TSA_WD_BaseGen_Intro>Estas opções ajustam a geração do WD/KCSG quando ela ocorre. Mapas de defesa de postos avançados sempre usam layouts do WD. Mapas de assalto de NPCs usam o WD apenas para facções com MapGen ativado em Configuração do mundo → Lealdades.</TSA_WD_BaseGen_Intro>
+  <TSA_WD_BaseGen_HeaderTerrainPrep>Preparação do terreno</TSA_WD_BaseGen_HeaderTerrainPrep>
+  <TSA_WD_BaseGen_AdaptiveTerrainPrep>Preparação adaptativa do terreno (pântano / rocha)</TSA_WD_BaseGen_AdaptiveTerrainPrep>
+  <TSA_WD_BaseGen_AdaptiveTerrainPrepTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, examina o layout. Se muita coisa for impossível de construir (lama, pântano, água, rocha), converte apenas essas células bloqueadas para o terreno construível mais comum do mapa. As árvores permanecem. Se estiver quase tudo bem, deixa a natureza como está.</TSA_WD_BaseGen_AdaptiveTerrainPrepTip>
+  <TSA_WD_BaseGen_AlwaysClearRect>Sempre limpar o retângulo do layout</TSA_WD_BaseGen_AlwaysClearRect>
+  <TSA_WD_BaseGen_AlwaysClearRectTip>Quando ativado, nivela células bloqueadas no layout mesmo se a fração bloqueada estiver abaixo do controle. Quando desativado, nivela apenas se as células bloqueadas excederem esse controle.</TSA_WD_BaseGen_AlwaysClearRectTip>
+  <TSA_WD_BaseGen_BlockedFlattenThreshold>Nivelar quando bloqueado acima de</TSA_WD_BaseGen_BlockedFlattenThreshold>
+  <TSA_WD_BaseGen_BlockedFlattenThresholdTip>Se mais do que esta fração do layout for impossível de construir, nivela as células bloqueadas do layout. Abaixo disso, deixa o terreno como gerado. Ignorado quando Sempre limpar o retângulo do layout está ativado.</TSA_WD_BaseGen_BlockedFlattenThresholdTip>
+  <TSA_WD_BaseGen_RectBlend>Misturar espaço ao redor do retângulo</TSA_WD_BaseGen_RectBlend>
+  <TSA_WD_BaseGen_RectBlendTip>Quando a nivelação ocorre, também converte células bloqueadas para fora do layout (decaimento irregular) e remove sujeira e pedaços nessa mesma área. As árvores permanecem. Quando desativado, apenas o retângulo do layout é alterado.</TSA_WD_BaseGen_RectBlendTip>
+  <TSA_WD_BaseGen_HeaderRockAndSoil>Rocha e solo</TSA_WD_BaseGen_HeaderRockAndSoil>
+  <TSA_WD_BaseGen_RemapRock>Remapear pedra do layout para a rocha do mapa</TSA_WD_BaseGen_RemapRock>
+  <TSA_WD_BaseGen_RemapRockTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, troca a pedra fixa do layout (paredes, pedaços, pisos) pelo tipo de rocha natural dominante do mapa.</TSA_WD_BaseGen_RemapRockTip>
+  <TSA_WD_BaseGen_RemapFarmSoil>Remapear solo agrícola para o chão do mapa</TSA_WD_BaseGen_RemapFarmSoil>
+  <TSA_WD_BaseGen_RemapFarmSoilTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, substitui Solo e Solo rico do layout pelo terreno fértil caminhável dominante do mapa.</TSA_WD_BaseGen_RemapFarmSoilTip>
+  <TSA_WD_BaseGen_FertileUnderCrops>Solo fértil sob as plantações</TSA_WD_BaseGen_FertileUnderCrops>
+  <TSA_WD_BaseGen_FertileUnderCropsTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, coloca símbolos de plantação no solo fértil dominante do mapa antes de a planta ser gerada.</TSA_WD_BaseGen_FertileUnderCropsTip>
+  <TSA_WD_BaseGen_HeaderLayoutExtras>Extras do layout</TSA_WD_BaseGen_HeaderLayoutExtras>
+  <TSA_WD_BaseGen_SpawnPenLivestock>Gerar criação do cercado</TSA_WD_BaseGen_SpawnPenLivestock>
+  <TSA_WD_BaseGen_RemapTrees>Remapear árvores do layout para o bioma</TSA_WD_BaseGen_RemapTrees>
+  <TSA_WD_BaseGen_RemapTreesTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, troca os marcadores de Carvalho/Bétula/Bordo do layout pelas 1ª/2ª/3ª árvores mais comuns do bioma.</TSA_WD_BaseGen_RemapTreesTip>
+  <TSA_WD_BaseGen_SpawnPenLivestockTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, gera um pequeno rebanho de animais selvagens ao redor dos marcadores de cercado do layout.</TSA_WD_BaseGen_SpawnPenLivestockTip>
+  <TSA_WD_BaseGen_HeaderAfterGeneration>Após a geração</TSA_WD_BaseGen_HeaderAfterGeneration>
+  <TSA_WD_BaseGen_UnfogRect>Revelar o retângulo do assentamento</TSA_WD_BaseGen_UnfogRect>
+  <TSA_WD_BaseGen_UnfogRectTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, revela o retângulo completo do layout do KCSG após a geração do mapa (não apenas as pegadas das construções).</TSA_WD_BaseGen_UnfogRectTip>
+  <TSA_WD_BaseGen_FogInteriorMineables>Cobrir rocha e minério internos com névoa</TSA_WD_BaseGen_FogInteriorMineables>
+  <TSA_WD_BaseGen_FogInteriorMineablesTip>Nos mapas de assalto a assentamentos e de defesa de postos avançados, dentro do retângulo do assentamento, volta a cobrir com névoa células de rocha e minério naturais totalmente cercadas por rocha ou minério nas oito células vizinhas (montanha preexistente ou rocha do layout). Pedaços não contam. Executado após a revelação do retângulo do assentamento.</TSA_WD_BaseGen_FogInteriorMineablesTip>
+  <TSA_WD_BaseGen_ForcePower>Forçar energia do assentamento (somente assalto)</TSA_WD_BaseGen_ForcePower>
+  <TSA_WD_BaseGen_ForcePowerTip>Nos mapas de assalto a assentamentos de NPCs, energiza lâmpadas e torretas sem uma rede elétrica real e reabastece torretas a combustível. Não se aplica a mapas de defesa de postos avançados.</TSA_WD_BaseGen_ForcePowerTip>
+  <TSA_WD_BaseGen_SilenceTurrets>Destruir torretas derrotadas (somente assalto)</TSA_WD_BaseGen_SilenceTurrets>
+  <TSA_WD_BaseGen_SilenceTurretsTip>Nos mapas de assalto a assentamentos de NPCs, destrói torretas da facção deixadas sem operador quando todos os humanoides hostis estão caídos, fugindo ou ausentes — para que você possa reformar a caravana. Não se aplica a mapas de defesa de postos avançados.</TSA_WD_BaseGen_SilenceTurretsTip>
+  <TSA_WD_Garrison_Tooltip>Escalona os pontos usados para gerar defensores. Valores mais altos aumentam a quantidade e a qualidade dos colonos.</TSA_WD_Garrison_Tooltip>
+  <TSA_WD_HeaderDynamicGarrison>Escalonamento dinâmico (pela força ofensiva atual)</TSA_WD_HeaderDynamicGarrison>
+  <TSA_WD_Garrison_MinScale>Guarnição mínima com ofensiva esgotada</TSA_WD_Garrison_MinScale>
+  <TSA_WD_Garrison_MinScaleTooltip>A guarnição do mapa agora escala com a força ofensiva atual do assentamento atacado em relação ao máximo do seu nível. Um assentamento cheio coloca 100% do multiplicador de nível configurado; um esgotado coloca menos. Este é o piso: mesmo um assentamento totalmente drenado ainda coloca pelo menos esta fração da guarnição configurada. O layout do mapa permanece adequado ao nível de qualquer forma.</TSA_WD_Garrison_MinScaleTooltip>
+  <TSA_WD_Gen_HeaderWeights>Pesos da geração inicial do mundo</TSA_WD_Gen_HeaderWeights>
+  <TSA_WD_Gen_RerollAll>Sortear níveis dos assentamentos agora</TSA_WD_Gen_RerollAll>
+  <TSA_WD_Gen_Reset>Redefinir para o padrão</TSA_WD_Gen_Reset>
+  <TSA_WD_Gen_Tier1Tip>Probabilidade de um assentamento começar como posto avançado de nível 1.</TSA_WD_Gen_Tier1Tip>
+  <TSA_WD_Gen_Tier2Tip>Probabilidade de um assentamento começar como vila de nível 2.</TSA_WD_Gen_Tier2Tip>
+  <TSA_WD_Gen_Tier3Tip>Probabilidade de um assentamento começar como fortaleza de nível 3.</TSA_WD_Gen_Tier3Tip>
+  <TSA_WD_Gen_Tier4Tip>Probabilidade de um assentamento começar como cidadela de nível 4.</TSA_WD_Gen_Tier4Tip>
+  <TSA_WD_WorldSetup_Title>WD: Configuração do mundo</TSA_WD_WorldSetup_Title>
+  <TSA_WD_WorldSetup_Subtitle>Ajuste assentamentos, estradas e lealdades antes de se estabelecer.</TSA_WD_WorldSetup_Subtitle>
+  <TSA_WD_WorldSetup_ButtonTooltip>Abrir a Configuração do mundo do World Domination. Arraste para mover este ícone.</TSA_WD_WorldSetup_ButtonTooltip>
+  <TSA_WD_WorldSetup_Recreate>Recriar assentamentos</TSA_WD_WorldSetup_Recreate>
+  <TSA_WD_WorldSetup_RecreateTooltip>Destrói todos os assentamentos de NPCs e os posiciona novamente usando a quantidade, o espaçamento, a densidade de facções e a distância a outras facções desta seção. Usa sua configuração de distância mínima entre assentamentos. As fortificações seguem a opção de destruir ao recriar.</TSA_WD_WorldSetup_RecreateTooltip>
+  <TSA_WD_WorldSetup_RecreateConfirmHeader>Recriar todos os assentamentos de NPCs?\n\nSerão posicionados:</TSA_WD_WorldSetup_RecreateConfirmHeader>
+  <TSA_WD_WorldSetup_RecreateConfirmLine>{0}: {1}</TSA_WD_WorldSetup_RecreateConfirmLine>
+  <TSA_WD_WorldSetup_RecreateConfirmTotal>Total: {0} (a geração do mundo tinha {1})</TSA_WD_WorldSetup_RecreateConfirmTotal>
+  <TSA_WD_WorldSetup_RecreateConfirmFooter>Bloqueios de estrada, armadilhas e torretas antitanque dos NPCs são removidos. Locais do jogador são deixados em paz.</TSA_WD_WorldSetup_RecreateConfirmFooter>
+  <TSA_WD_WorldSetup_RecreateConfirmFooterKeepForts>Bloqueios de estrada, armadilhas e torretas antitanque dos NPCs permanecem no lugar. Locais do jogador são deixados em paz.</TSA_WD_WorldSetup_RecreateConfirmFooterKeepForts>
+  <TSA_WD_WorldSetup_RecreateConfirmEmpty>Não há assentamentos de NPCs da geração do mundo para recriar.</TSA_WD_WorldSetup_RecreateConfirmEmpty>
+  <TSA_WD_WorldSetup_RecreateDone>Recriados {0} assentamentos.</TSA_WD_WorldSetup_RecreateDone>
+  <TSA_WD_WorldSetup_RecreatePartial>Recriados {0} assentamentos. Ignorados {1} (não restam blocos válidos).</TSA_WD_WorldSetup_RecreatePartial>
+  <TSA_WD_WorldSetup_RecreateResultTitle>Recriação de assentamentos concluída</TSA_WD_WorldSetup_RecreateResultTitle>
+  <TSA_WD_WorldSetup_RecreateResultFull>Todos os {0} assentamentos foram posicionados.</TSA_WD_WorldSetup_RecreateResultFull>
+  <TSA_WD_WorldSetup_RecreateResultPartial>Tentativa de posicionar {0} assentamentos conforme suas configurações. Posicionados {1}. {2} não puderam ser posicionados — sem blocos válidos com o espaçamento e as regras de facção atuais.</TSA_WD_WorldSetup_RecreateResultPartial>
+  <TSA_WD_WorldSetup_RecreateResultFactionAbort>{0}: parou após {1} falhas consecutivas (sem blocos válidos).</TSA_WD_WorldSetup_RecreateResultFactionAbort>
+  <TSA_WD_WorldSetup_RecreateResultError>A recriação de assentamentos falhou. Verifique o Player.log para detalhes.</TSA_WD_WorldSetup_RecreateResultError>
+  <TSA_WD_WorldSetup_Coherence>Chance de agrupamento</TSA_WD_WorldSetup_Coherence>
+  <TSA_WD_WorldSetup_CoherenceTooltip>Chance de entrar em um agrupamento existente da mesma facção ao recriar. Baixa = iniciar novos assentamentos apenas sob o Espaçamento. Alta = concentrar em agrupamentos (até o Máx. por agrupamento).</TSA_WD_WorldSetup_CoherenceTooltip>
+  <TSA_WD_WorldSetup_CoherenceRandom>Aleatório</TSA_WD_WorldSetup_CoherenceRandom>
+  <TSA_WD_WorldSetup_CoherenceClustered>Coerente</TSA_WD_WorldSetup_CoherenceClustered>
+  <TSA_WD_WorldSetup_Spacing>Espaçamento</TSA_WD_WorldSetup_Spacing>
+  <TSA_WD_WorldSetup_SpacingTooltip>Distância mínima entre assentamentos (mesma facção ou outra). Escala com o controle, até 4× a distância mínima de estabelecimento em 100%.</TSA_WD_WorldSetup_SpacingTooltip>
+  <TSA_WD_WorldSetup_SpacingClose>Próximo</TSA_WD_WorldSetup_SpacingClose>
+  <TSA_WD_WorldSetup_SpacingSpread>Espalhado</TSA_WD_WorldSetup_SpacingSpread>
+  <TSA_WD_WorldSetup_OtherFactionDistance>Distância a outras facções</TSA_WD_WorldSetup_OtherFactionDistance>
+  <TSA_WD_WorldSetup_OtherFactionDistanceTooltip>Distância extra além do Espaçamento quando o vizinho é de outra facção. Em 0, outras facções usam apenas o Espaçamento. Em 100, adiciona 3× o mínimo de estabelecimento sobre o Espaçamento.</TSA_WD_WorldSetup_OtherFactionDistanceTooltip>
+  <TSA_WD_WorldSetup_MaxPerCluster>Máx. de assentamentos por agrupamento</TSA_WD_WorldSetup_MaxPerCluster>
+  <TSA_WD_WorldSetup_MaxPerClusterTooltip>Ao recriar, assentamentos da mesma facção agrupados não podem exceder esta contagem em um agrupamento. Assentamentos excedentes iniciam um novo agrupamento.</TSA_WD_WorldSetup_MaxPerClusterTooltip>
+  <TSA_WD_WorldSetup_MinClusterDistance>Distância mínima entre agrupamentos</TSA_WD_WorldSetup_MinClusterDistance>
+  <TSA_WD_WorldSetup_MinClusterDistanceTooltip>Separação extra ao iniciar um novo agrupamento da mesma facção porque o anterior está cheio ou uma entrada falhou. Não se aplica quando a Chance de agrupamento simplesmente escolhe não entrar. Em 0, desligado. Padrão 20.</TSA_WD_WorldSetup_MinClusterDistanceTooltip>
+  <TSA_WD_WorldSetup_FactionShares>Fatias das facções</TSA_WD_WorldSetup_FactionShares>
+  <TSA_WD_WorldSetup_FactionSharesTooltip>Altere quantos assentamentos cada facção recebe ao recriar. Começa a partir da mistura da geração do mundo.</TSA_WD_WorldSetup_FactionSharesTooltip>
+  <TSA_WD_WorldSetup_FactionSharesTitle>Fatias de assentamentos por facção</TSA_WD_WorldSetup_FactionSharesTitle>
+  <TSA_WD_WorldSetup_FactionSharesTip>Arraste a fatia de cada facção. As porcentagens e contagens de assentamentos são atualizadas a partir do total de fatias e do controle Número de assentamentos.</TSA_WD_WorldSetup_FactionSharesTip>
+  <TSA_WD_WorldSetup_FactionShares_H_Faction>Facção</TSA_WD_WorldSetup_FactionShares_H_Faction>
+  <TSA_WD_WorldSetup_FactionShares_H_Share>Fatia</TSA_WD_WorldSetup_FactionShares_H_Share>
+  <TSA_WD_WorldSetup_FactionShares_H_Pct>%</TSA_WD_WorldSetup_FactionShares_H_Pct>
+  <TSA_WD_WorldSetup_FactionShares_H_Count>Assentamentos</TSA_WD_WorldSetup_FactionShares_H_Count>
+  <TSA_WD_WorldSetup_FactionShares_Reset>Redefinir para a geração do mundo</TSA_WD_WorldSetup_FactionShares_Reset>
+  <TSA_WD_WorldSetup_FactionShares_Empty>Nenhuma facção de NPC elegível neste mundo.</TSA_WD_WorldSetup_FactionShares_Empty>
+  <TSA_WD_WorldSetup_SettlementCount>Número de assentamentos</TSA_WD_WorldSetup_SettlementCount>
+  <TSA_WD_WorldSetup_SettlementCountTooltip>Quantos assentamentos de NPCs posicionar em Recriar. O padrão é a contagem da geração do mundo do jogo base. As fatias das facções (botão Fatias das facções) decidem como esse total é dividido.</TSA_WD_WorldSetup_SettlementCountTooltip>
+  <TSA_WD_WorldSetup_TierLikelihood>Níveis dos assentamentos</TSA_WD_WorldSetup_TierLikelihood>
+  <TSA_WD_WorldSetup_TierLikelihoodTooltip>Edite a frequência com que novos assentamentos sorteiam cada nível. A próxima recriação usa estes pesos.</TSA_WD_WorldSetup_TierLikelihoodTooltip>
+  <TSA_WD_WorldSetup_Allegiances>Escopo de facções e lealdades do WD</TSA_WD_WorldSetup_Allegiances>
+  <TSA_WD_WorldSetup_AllegiancesTooltip>Abre a participação das facções (Ações do WD, MapGen, Narrador) e as lealdades entre pares.</TSA_WD_WorldSetup_AllegiancesTooltip>
+  <TSA_WD_WorldSetup_AllegiancesTitle>Lealdades do mundo</TSA_WD_WorldSetup_AllegiancesTitle>
+  <TSA_WD_WorldSetup_AllegiancesSubtitle>Edite as relações de NPCs deste mundo. O congelamento opcional dura {0} dias (igual à diplomacia aleatória).</TSA_WD_WorldSetup_AllegiancesSubtitle>
+  <TSA_WD_WorldSetup_AllegiancesSubtitleNoFreeze>Edite a participação das facções e as lealdades entre pares. Bloqueie pares de NPCs para impedir a diplomacia aleatória do WD.</TSA_WD_WorldSetup_AllegiancesSubtitleNoFreeze>
+  <TSA_WD_WorldSetup_FreezeOnApply>Congelar por {0} dias</TSA_WD_WorldSetup_FreezeOnApply>
+  <TSA_WD_WorldSetup_FreezeOnApplyTooltip>Quando marcado, Neutro / Aliado / Hostil também aplicam um congelamento de {0} dias para que a diplomacia aleatória do WD não altere esse par durante o congelamento.</TSA_WD_WorldSetup_FreezeOnApplyTooltip>
+  <TSA_WD_WorldSetup_GoodwillFieldTooltip>Digite a boa vontade (-100 a {0}) e pressione Enter. Aliado define +75, Hostil define -75, Neutro define 0. O limite superior corresponde à Boa vontade máxima nas configurações do mod.</TSA_WD_WorldSetup_GoodwillFieldTooltip>
+  <TSA_WD_WorldSetup_PermanentlyHostile>Permanentemente hostil</TSA_WD_WorldSetup_PermanentlyHostile>
+  <TSA_WD_WorldSetup_ResetAllegiancesDefault>Redefinir lealdades para o padrão</TSA_WD_WorldSetup_ResetAllegiancesDefault>
+  <TSA_WD_WorldSetup_ResetAllegiancesDefaultTooltip>Restaura cada par listado para a boa vontade inicial natural daquele par de facções.</TSA_WD_WorldSetup_ResetAllegiancesDefaultTooltip>
+  <TSA_WD_WorldSetup_ResetAllegiancesDone>Lealdades restauradas para o padrão.</TSA_WD_WorldSetup_ResetAllegiancesDone>
+  <TSA_WD_WorldSetup_RelNeutral>Neutro</TSA_WD_WorldSetup_RelNeutral>
+  <TSA_WD_WorldSetup_RelAllied>Aliado</TSA_WD_WorldSetup_RelAllied>
+  <TSA_WD_WorldSetup_RelHostile>Hostil</TSA_WD_WorldSetup_RelHostile>
+  <TSA_WD_WorldSetup_RelationFailed>Não foi possível alterar essa relação (dados de relação ausentes).</TSA_WD_WorldSetup_RelationFailed>
+  <TSA_WD_WorldSetup_ToolsHeader>Ferramentas de posicionamento</TSA_WD_WorldSetup_ToolsHeader>
+  <TSA_WD_WorldSetup_SectionGeneral>Configurações gerais</TSA_WD_WorldSetup_SectionGeneral>
+  <TSA_WD_WorldSetup_SectionDistribution>Distribuição de assentamentos</TSA_WD_WorldSetup_SectionDistribution>
+  <TSA_WD_WorldSetup_SectionLayout>Ajustes manuais de assentamentos</TSA_WD_WorldSetup_SectionLayout>
+  <TSA_WD_WorldSetup_DestroyFortsOnRecreate>Destruir fortificações ao recriar</TSA_WD_WorldSetup_DestroyFortsOnRecreate>
+  <TSA_WD_WorldSetup_DestroyFortsOnRecreateTip>Quando ativado, recriar assentamentos também remove bloqueios de estrada, armadilhas de espinhos e torretas antitanque dos NPCs. Locais do jogador não são afetados.</TSA_WD_WorldSetup_DestroyFortsOnRecreateTip>
+  <TSA_WD_WorldSetup_SectionDiplomacy>Diplomacia</TSA_WD_WorldSetup_SectionDiplomacy>
+  <TSA_WD_WorldSetup_SectionTools>Ferramentas de posicionamento</TSA_WD_WorldSetup_SectionTools>
+  <TSA_WD_WorldSetup_SectionRoadsFortify>Estradas e fortificações</TSA_WD_WorldSetup_SectionRoadsFortify>
+  <TSA_WD_WorldSetup_ToolPlaceSettlement>Posicionar assentamento</TSA_WD_WorldSetup_ToolPlaceSettlement>
+  <TSA_WD_WorldSetup_ToolRemoveSettlement>Remover assentamento</TSA_WD_WorldSetup_ToolRemoveSettlement>
+  <TSA_WD_WorldSetup_ToolStrengthPlus>Aumentar força +100</TSA_WD_WorldSetup_ToolStrengthPlus>
+  <TSA_WD_WorldSetup_ToolStrengthMinus>Reduzir força -100</TSA_WD_WorldSetup_ToolStrengthMinus>
+  <TSA_WD_WorldSetup_ToolTierUp>Aumentar nível</TSA_WD_WorldSetup_ToolTierUp>
+  <TSA_WD_WorldSetup_ToolTierDown>Reduzir nível</TSA_WD_WorldSetup_ToolTierDown>
+  <TSA_WD_WorldSetup_ToolTurret>Posicionar torreta antitanque</TSA_WD_WorldSetup_ToolTurret>
+  <TSA_WD_WorldSetup_ToolRoadBlock>Posicionar bloqueio de estrada</TSA_WD_WorldSetup_ToolRoadBlock>
+  <TSA_WD_WorldSetup_ToolTrap>Posicionar armadilha</TSA_WD_WorldSetup_ToolTrap>
+  <TSA_WD_WorldSetup_ToolPlaceRoad>Posicionar estrada</TSA_WD_WorldSetup_ToolPlaceRoad>
+  <TSA_WD_WorldSetup_ToolRemoveFortify>Remover fortificação aqui</TSA_WD_WorldSetup_ToolRemoveFortify>
+  <TSA_WD_WorldSetup_ToolRemoveRoad>Remover estrada</TSA_WD_WorldSetup_ToolRemoveRoad>
+  <TSA_WD_WorldSetup_InvalidTile>Esse bloco não é válido.</TSA_WD_WorldSetup_InvalidTile>
+  <TSA_WD_WorldSetup_TileOccupied>O bloco {0} já tem um objeto do mundo.</TSA_WD_WorldSetup_TileOccupied>
+  <TSA_WD_WorldSetup_TileInvalidSettlement>O bloco {0} não pode abrigar um assentamento.</TSA_WD_WorldSetup_TileInvalidSettlement>
+  <TSA_WD_WorldSetup_TooClose>Muito perto de outro assentamento ou posto avançado.</TSA_WD_WorldSetup_TooClose>
+  <TSA_WD_WorldSetup_FactionMissing>Facção ausente.</TSA_WD_WorldSetup_FactionMissing>
+  <TSA_WD_WorldSetup_WorldMissing>O mundo não está pronto.</TSA_WD_WorldSetup_WorldMissing>
+  <TSA_WD_WorldSetup_NoFactions>Nenhuma facção posicionável encontrada.</TSA_WD_WorldSetup_NoFactions>
+  <TSA_WD_WorldSetup_PlaceSettlementHint>Clique nos blocos para posicionar {0} assentamentos de {1}. Clique com o botão direito ou Esc para parar.</TSA_WD_WorldSetup_PlaceSettlementHint>
+  <TSA_WD_WorldSetup_PlacedSettlement>Assentamento {0} de {1} posicionado no bloco {2}.</TSA_WD_WorldSetup_PlacedSettlement>
+  <TSA_WD_WorldSetup_SpawnFailed>Não foi possível posicionar o assentamento.</TSA_WD_WorldSetup_SpawnFailed>
+  <TSA_WD_WorldSetup_ClickSettlementHint>Clique em um assentamento no mapa-múndi.</TSA_WD_WorldSetup_ClickSettlementHint>
+  <TSA_WD_WorldSetup_NeedSettlement>Clique em um assentamento ou posto avançado do WD.</TSA_WD_WorldSetup_NeedSettlement>
+  <TSA_WD_WorldSetup_TierChanged>{0} agora é {1}.</TSA_WD_WorldSetup_TierChanged>
+  <TSA_WD_WorldSetup_StrengthChanged>{0} agora tem força {1} ({2}).</TSA_WD_WorldSetup_StrengthChanged>
+  <TSA_WD_WorldSetup_NoRoadBlockKinds>Nenhum tipo de bloqueio de estrada posicionável.</TSA_WD_WorldSetup_NoRoadBlockKinds>
+  <TSA_WD_WorldSetup_PlaceFortifyHint>Clique nos blocos para posicionar. Clique com o botão direito ou Esc para parar.</TSA_WD_WorldSetup_PlaceFortifyHint>
+  <TSA_WD_WorldSetup_PlaceFortifyFailed>Não foi possível posicionar aí.</TSA_WD_WorldSetup_PlaceFortifyFailed>
+  <TSA_WD_WorldSetup_PlaceFortifyDone>Posicionado.</TSA_WD_WorldSetup_PlaceFortifyDone>
+  <TSA_WD_WorldSetup_RemoveFortifyHint>Clique em um bloqueio de estrada, armadilha ou torreta antitanque para removê-lo.</TSA_WD_WorldSetup_RemoveFortifyHint>
+  <TSA_WD_WorldSetup_RemoveFortifyNone>Nada para remover nesse bloco.</TSA_WD_WorldSetup_RemoveFortifyNone>
+  <TSA_WD_WorldSetup_RemoveFortifyDone>Fortificação removida.</TSA_WD_WorldSetup_RemoveFortifyDone>
+  <TSA_WD_WorldSetup_RoadDirt>Estrada de terra</TSA_WD_WorldSetup_RoadDirt>
+  <TSA_WD_WorldSetup_RoadStone>Estrada de pedra</TSA_WD_WorldSetup_RoadStone>
+  <TSA_WD_WorldSetup_RoadAsphalt>Estrada de asfalto</TSA_WD_WorldSetup_RoadAsphalt>
+  <TSA_WD_WorldSetup_RoadDefMissing>Nenhuma definição de estrada encontrada.</TSA_WD_WorldSetup_RoadDefMissing>
+  <TSA_WD_WorldSetup_RoadNeedTwoTiles>Escolha dois blocos diferentes.</TSA_WD_WorldSetup_RoadNeedTwoTiles>
+  <TSA_WD_WorldSetup_RoadNoPath>Nenhum caminho entre esses blocos.</TSA_WD_WorldSetup_RoadNoPath>
+  <TSA_WD_WorldSetup_PlaceRoadHint>Clique no bloco inicial e depois no bloco final.</TSA_WD_WorldSetup_PlaceRoadHint>
+  <TSA_WD_WorldSetup_PlaceRoadPickEnd>Agora clique no bloco final.</TSA_WD_WorldSetup_PlaceRoadPickEnd>
+  <TSA_WD_WorldSetup_PlaceRoadDone>Estrada posicionada ao longo do caminho.</TSA_WD_WorldSetup_PlaceRoadDone>
+  <TSA_WD_WorldSetup_RemoveRoadHint>Clique em um bloco com estradas para remover suas conexões de estrada.</TSA_WD_WorldSetup_RemoveRoadHint>
+  <TSA_WD_WorldSetup_RemoveRoadNone>Nenhuma estrada nesse bloco.</TSA_WD_WorldSetup_RemoveRoadNone>
+  <TSA_WD_WorldSetup_RemoveRoadDone>Removidas {0} conexões de estrada.</TSA_WD_WorldSetup_RemoveRoadDone>
+  <TSA_WD_WorldSetup_RemoveSettlementHint>Clique em um assentamento de NPC para removê-lo. Clique com o botão direito ou Esc para parar.</TSA_WD_WorldSetup_RemoveSettlementHint>
+  <TSA_WD_WorldSetup_RemoveSettlementDone>Removido {0}.</TSA_WD_WorldSetup_RemoveSettlementDone>
+  <TSA_WD_WorldSetup_RemoveSettlementPlayer>Locais do jogador não podem ser removidos aqui.</TSA_WD_WorldSetup_RemoveSettlementPlayer>
+  <TSA_WD_Growth_BaseGrowth>Ganho passivo de força</TSA_WD_Growth_BaseGrowth>
+  <TSA_WD_Growth_BaseGrowthTooltip>Pontos de força ofensiva que os assentamentos de NPCs ganham automaticamente a cada dia (antes do escalonamento por tamanho e dos multiplicadores do meio/fim de jogo).</TSA_WD_Growth_BaseGrowthTooltip>
+  <TSA_WD_Growth_PassiveT1>N1 passivo / dia</TSA_WD_Growth_PassiveT1>
+  <TSA_WD_Growth_PassiveT2>N2 passivo / dia</TSA_WD_Growth_PassiveT2>
+  <TSA_WD_Growth_PassiveT3>N3 passivo / dia</TSA_WD_Growth_PassiveT3>
+  <TSA_WD_Growth_PassiveT4>N4 passivo / dia</TSA_WD_Growth_PassiveT4>
+  <TSA_WD_Growth_PassiveTierTip>Força ofensiva que este nível ganha automaticamente a cada dia (antes dos multiplicadores do meio/fim de jogo e de azarão). Fixo por nível; sem curva de tamanho.</TSA_WD_Growth_PassiveTierTip>
+  <TSA_WD_Growth_ExpandChance>Chance de sucesso da expansão</TSA_WD_Growth_ExpandChance>
+  <TSA_WD_Growth_ExpandChanceTooltip>A probabilidade de um assentamento com força máxima fundar um novo assentamento com sucesso.</TSA_WD_Growth_ExpandChanceTooltip>
+  <TSA_WD_Growth_GoodwillFromTrade>Conceder boa vontade ao negociar com facções</TSA_WD_Growth_GoodwillFromTrade>
+  <TSA_WD_Growth_GoodwillFromTradeTooltip>Quando ativado, concluir uma negociação baseada em prata concede boa vontade com a facção com quem você negociou. Negociações baseadas em favores são ignoradas.</TSA_WD_Growth_GoodwillFromTradeTooltip>
+  <TSA_WD_Growth_GoodwillPer1000Silver>Boa vontade por 1000 de prata equivalente</TSA_WD_Growth_GoodwillPer1000Silver>
+  <TSA_WD_Growth_GoodwillPer1000SilverTooltip>Quantidade de boa vontade ganha por 1000 de prata do valor total da negociação (valor de mercado das mercadorias trocadas).</TSA_WD_Growth_GoodwillPer1000SilverTooltip>
+  <TSA_WD_Growth_HeaderExpansion>Expansão e limites de densidade local</TSA_WD_Growth_HeaderExpansion>
+  <TSA_WD_Growth_HeaderGoodwillFromTrade>Boa vontade por comércio</TSA_WD_Growth_HeaderGoodwillFromTrade>
+  <TSA_WD_Growth_HeaderActionEconomy>Ações diárias e capacidade do assentamento</TSA_WD_Growth_HeaderActionEconomy>
+  <TSA_WD_Growth_HeaderGrowth>Configurações gerais de crescimento</TSA_WD_Growth_HeaderGrowth>
+  <TSA_WD_Growth_HeaderSameTierUpgradeReq>Requisitos de melhoria no mesmo nível</TSA_WD_Growth_HeaderSameTierUpgradeReq>
+  <TSA_WD_Growth_HeaderDefensiveBaselines>Valores base de força defensiva</TSA_WD_Growth_HeaderDefensiveBaselines>
+  <TSA_WD_Growth_T1DefensiveStrength>Força defensiva N1</TSA_WD_Growth_T1DefensiveStrength>
+  <TSA_WD_Growth_T1DefensiveStrengthTooltip>Força defensiva local base para assentamentos de nível 1.</TSA_WD_Growth_T1DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T2DefensiveStrength>Força defensiva N2</TSA_WD_Growth_T2DefensiveStrength>
+  <TSA_WD_Growth_T2DefensiveStrengthTooltip>Força defensiva local base para assentamentos de nível 2.</TSA_WD_Growth_T2DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T3DefensiveStrength>Força defensiva N3</TSA_WD_Growth_T3DefensiveStrength>
+  <TSA_WD_Growth_T3DefensiveStrengthTooltip>Força defensiva local base para assentamentos de nível 3.</TSA_WD_Growth_T3DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T4DefensiveStrength>Força defensiva N4</TSA_WD_Growth_T4DefensiveStrength>
+  <TSA_WD_Growth_T4DefensiveStrengthTooltip>Força defensiva local base para assentamentos de nível 4.</TSA_WD_Growth_T4DefensiveStrengthTooltip>
+  <TSA_WD_Growth_PlayerOutpostDefensiveStrength>Força defensiva de postos avançados do jogador</TSA_WD_Growth_PlayerOutpostDefensiveStrength>
+  <TSA_WD_Growth_PlayerOutpostDefensiveStrengthTooltip>Força defensiva local base para postos avançados do jogador (antes das melhorias).</TSA_WD_Growth_PlayerOutpostDefensiveStrengthTooltip>
+  <TSA_WD_Growth_HeaderIncidents>Gravidade dos incidentes</TSA_WD_Growth_HeaderIncidents>
+  <TSA_WD_Growth_LocalMaxT1>Máx. local de postos avançados N1</TSA_WD_Growth_LocalMaxT1>
+  <TSA_WD_Growth_LocalMaxT1Tooltip>Número máximo de assentamentos N1 permitidos dentro do raio máximo de expansão antes de bloquear expansões adicionais.</TSA_WD_Growth_LocalMaxT1Tooltip>
+  <TSA_WD_Growth_LocalMaxT2>Máx. local de vilas N2</TSA_WD_Growth_LocalMaxT2>
+  <TSA_WD_Growth_LocalMaxT2Tooltip>Número máximo de assentamentos N2 permitidos dentro do raio máximo de expansão.</TSA_WD_Growth_LocalMaxT2Tooltip>
+  <TSA_WD_Growth_LocalMaxT3>Máx. local de cidades N3</TSA_WD_Growth_LocalMaxT3>
+  <TSA_WD_Growth_LocalMaxT3Tooltip>Número máximo de assentamentos N3 permitidos dentro do raio máximo de expansão.</TSA_WD_Growth_LocalMaxT3Tooltip>
+  <TSA_WD_Growth_LocalMaxT4>Máx. local de cidadelas N4</TSA_WD_Growth_LocalMaxT4>
+  <TSA_WD_Growth_LocalMaxT4Tooltip>Número máximo de assentamentos N4 permitidos dentro do raio máximo de expansão.</TSA_WD_Growth_LocalMaxT4Tooltip>
+  <TSA_WD_Growth_SameTierUpgradeT1>Vizinhos N1 de mesmo nível para melhorar</TSA_WD_Growth_SameTierUpgradeT1>
+  <TSA_WD_Growth_SameTierUpgradeT1Tooltip>Assentamentos N1 próximos da mesma facção necessários antes que um assentamento N1 possa melhorar para N2.</TSA_WD_Growth_SameTierUpgradeT1Tooltip>
+  <TSA_WD_Growth_SameTierUpgradeT2>Vizinhos N2 de mesmo nível para melhorar</TSA_WD_Growth_SameTierUpgradeT2>
+  <TSA_WD_Growth_SameTierUpgradeT2Tooltip>Assentamentos N2 próximos da mesma facção necessários antes que um assentamento N2 possa melhorar para N3.</TSA_WD_Growth_SameTierUpgradeT2Tooltip>
+  <TSA_WD_Growth_SameTierUpgradeT3>Vizinhos N3 de mesmo nível para melhorar</TSA_WD_Growth_SameTierUpgradeT3>
+  <TSA_WD_Growth_SameTierUpgradeT3Tooltip>Assentamentos N3 próximos da mesma facção necessários antes que um assentamento N3 possa melhorar para N4.</TSA_WD_Growth_SameTierUpgradeT3Tooltip>
+  <TSA_WD_Growth_MajorInc>Perda de força por incidente maior</TSA_WD_Growth_MajorInc>
+  <TSA_WD_Growth_MajorIncTooltip>Pontos de força perdidos durante uma catástrofe maior.</TSA_WD_Growth_MajorIncTooltip>
+  <TSA_WD_Growth_MaxRadius>Raio máximo de expansão</TSA_WD_Growth_MaxRadius>
+  <TSA_WD_Growth_MaxRadiusTooltip>Distância máxima em blocos permitida para expansão e o raio usado para calcular a densidade local.</TSA_WD_Growth_MaxRadiusTooltip>
+  <TSA_WD_Growth_MaxSettlements>Máx. de assentamentos no planeta</TSA_WD_Growth_MaxSettlements>
+  <TSA_WD_Growth_MaxSettlementsTooltip>Número total máximo de assentamentos permitidos globalmente antes de limitar a expansão. Também definido por Predefinições de configuração → Desempenho (200 / 400 / 800).</TSA_WD_Growth_MaxSettlementsTooltip>
+  <TSA_WD_Growth_MinRadius>Raio mínimo de expansão</TSA_WD_Growth_MinRadius>
+  <TSA_WD_Growth_MinRadiusTooltip>Distância mínima em blocos necessária para encontrar um novo local de expansão.</TSA_WD_Growth_MinRadiusTooltip>
+  <TSA_WD_Growth_MinorInc>Perda de força por incidente menor</TSA_WD_Growth_MinorInc>
+  <TSA_WD_Growth_MinorIncTooltip>Pontos de força perdidos durante um contratempo interno menor.</TSA_WD_Growth_MinorIncTooltip>
+  <TSA_WD_Growth_Reset>Redefinir esta página para o padrão</TSA_WD_Growth_Reset>
+  <TSA_WD_Growth_Roads>Configurações de estradas</TSA_WD_Growth_Roads>
+  <TSA_WD_Growth_Scaling>Escalonamento com base no tamanho do assentamento</TSA_WD_Growth_Scaling>
+  <TSA_WD_Growth_ScalingTooltip>Em 100%, assentamentos pequenos ganham mais força passiva por dia e os grandes ganham menos (apenas a curva de tamanho).</TSA_WD_Growth_ScalingTooltip>
+  <TSA_WD_HeaderGeneral>Configurações gerais</TSA_WD_HeaderGeneral>
+  <TSA_WD_HeaderGenericGarrisons>Facções industriais/forasteiras</TSA_WD_HeaderGenericGarrisons>
+  <TSA_WD_HeaderMisc>Diversos</TSA_WD_HeaderMisc>
+  <TSA_WD_HeaderInGameOnlySettings>Configurações disponíveis apenas no jogo (não no menu principal)</TSA_WD_HeaderInGameOnlySettings>
+  <TSA_WD_HeaderOutposts>Postos avançados e caravanas/viajantes do WD</TSA_WD_HeaderOutposts>
+  <TSA_WD_HeaderPlayerInteractions>Interações manuais do jogador</TSA_WD_HeaderPlayerInteractions>
+  <TSA_WD_HeaderSystem>Ações do sistema</TSA_WD_HeaderSystem>
+  <TSA_WD_HeaderTribalGarrisons>Facções tribais</TSA_WD_HeaderTribalGarrisons>
+  <TSA_WD_HeaderWorldActions>Ações mundiais</TSA_WD_HeaderWorldActions>
+  <TSA_WD_OpenAllegianceMatrix>Escopo de facções e lealdades do WD</TSA_WD_OpenAllegianceMatrix>
+  <TSA_WD_DescAllegianceMatrix>Apenas no jogo: participação das facções (ações do World Domination, geração do mapa, narrador) e lealdades por par.</TSA_WD_DescAllegianceMatrix>
+  <TSA_WD_Allegiances_LiveEditWarning>Você está editando lealdades ao vivo. Certifique-se de saber o que está fazendo!</TSA_WD_Allegiances_LiveEditWarning>
+  <TSA_WD_Allegiances_ResetConfirm>Redefinir esta seção? A participação manual e as substituições do narrador serão limpas.</TSA_WD_Allegiances_ResetConfirm>
+  <TSA_WD_Allegiances_SectionParticipation>Facções controladas pelo WD</TSA_WD_Allegiances_SectionParticipation>
+  <TSA_WD_Allegiances_SectionParticipation_Tooltip>Escolha quais facções podem executar ações do WD, usar a geração de mapas de assentamento do WD quando atacadas e seguir as regras de incursão do narrador. Facções somente em órbita não podem ser ativadas.</TSA_WD_Allegiances_SectionParticipation_Tooltip>
+  <TSA_WD_Allegiances_SectionDiplomacy>Lealdades</TSA_WD_Allegiances_SectionDiplomacy>
+  <TSA_WD_Allegiances_SectionDiplomacy_Tooltip>Edite boa vontade e relações entre pares de facções. Bloqueie pares de NPCs para impedir a diplomacia aleatória do WD.</TSA_WD_Allegiances_SectionDiplomacy_Tooltip>
+  <TSA_WD_FactionCol_Name>Facção</TSA_WD_FactionCol_Name>
+  <TSA_WD_FactionCol_WdActions>Ações do WD</TSA_WD_FactionCol_WdActions>
+  <TSA_WD_FactionCol_WdActions_Tooltip>Permitir que esta facção execute ações do WD, como enviar caravanas para atacar, expandir, negociar ou construir fortificações.</TSA_WD_FactionCol_WdActions_Tooltip>
+  <TSA_WD_FactionCol_BaseGen>MapGen</TSA_WD_FactionCol_BaseGen>
+  <TSA_WD_FactionCol_BaseGen_Tooltip>Permitir que o WD controle a geração de mapas desta facção quando você atacar um de seus assentamentos. Assentamentos N1 se tornam vilarejos minúsculos; cidadelas N4 se tornam fortalezas de verdade.</TSA_WD_FactionCol_BaseGen_Tooltip>
+  <TSA_WD_FactionCol_BaseGen_RequiresWdActions>Requer Ações do WD para esta facção.</TSA_WD_FactionCol_BaseGen_RequiresWdActions>
+  <TSA_WD_FactionCol_NA>N/D</TSA_WD_FactionCol_NA>
+  <TSA_WD_FactionCol_StorytellerRaids>Narrador</TSA_WD_FactionCol_StorytellerRaids>
+  <TSA_WD_FactionCol_StorytellerRaids_Tooltip>Esta facção pode gerar incursões do narrador? Desativado por padrão. Você pode ativar tanto Ações do WD quanto Incursões do narrador para ser atacado das duas formas.</TSA_WD_FactionCol_StorytellerRaids_Tooltip>
+  <TSA_WD_FactionExclude_Hidden>Facção oculta. Não pode participar do WD.</TSA_WD_FactionExclude_Hidden>
+  <TSA_WD_FactionExclude_NonHumanlike>Desativado por padrão. Ative Ações do WD para incluir esta facção não humanoide (avançado).</TSA_WD_FactionExclude_NonHumanlike>
+  <TSA_WD_FactionExclude_NoSettlementWeight>Sem peso de geração de assentamentos. Desativado por padrão; ative Ações do WD para aderir.</TSA_WD_FactionExclude_NoSettlementWeight>
+  <TSA_WD_FactionExclude_NonSurface>Facções somente em órbita não podem usar a simulação de superfície do World Domination.</TSA_WD_FactionExclude_NonSurface>
+  <TSA_WD_FactionExclude_TradersGuild>A Guilda de Comerciantes é somente em órbita e não pode usar a simulação de superfície do World Domination.</TSA_WD_FactionExclude_TradersGuild>
+  <TSA_WD_Faction_Defeated>derrotada</TSA_WD_Faction_Defeated>
+  <TSA_WD_BtnResetSection>Redefinir seção</TSA_WD_BtnResetSection>
+  <TSA_WD_BtnResetFactionParticipation>Redefinir participação</TSA_WD_BtnResetFactionParticipation>
+  <TSA_WD_BtnResetFactionParticipation_Tooltip>Limpa as substituições manuais de Ações do WD, MapGen e Narrador, além das adesões suaves. Facções excluídas de forma rígida não são alteradas.</TSA_WD_BtnResetFactionParticipation_Tooltip>
+  <TSA_WD_Threat_StorytellerMovedHint>As regras de incursão do narrador por facção foram movidas para Escopo de facções e lealdades do WD.</TSA_WD_Threat_StorytellerMovedHint>
+  <TSA_WD_AllegianceMatrixInGameOnly>As mudanças de diplomacia permitidas só podem ser abertas durante o jogo (não no menu principal).</TSA_WD_AllegianceMatrixInGameOnly>
+  <TSA_WD_Outpost_MaxTravelStrengthLoss>Perda máx. de força em viagem</TSA_WD_Outpost_MaxTravelStrengthLoss>
+  <TSA_WD_Outpost_MaxTravelStrengthLossTooltip>Porcentagem máxima da força de partida que viajantes (incursões, expansão, construtores de estradas) podem perder durante a viagem. Eles mantêm a parcela restante da força inicial e nunca desaparecem apenas por atrito.</TSA_WD_Outpost_MaxTravelStrengthLossTooltip>
+  <TSA_WD_Caravans_AttritionRestGate>Descanso por atrito no meio/fim</TSA_WD_Caravans_AttritionRestGate>
+  <TSA_WD_Caravans_AttritionRestGateTooltip>Quando o escalonamento do meio ou fim de jogo está ativo (ou Sempre), viajantes a pé que atingem o piso de força de descanso por atrito param, regeneram até a força total de partida e então prosseguem. Previsões e restrições de incursão assumem pelo menos este piso. As predefinições de dificuldade fácil definem isto como Nunca.</TSA_WD_Caravans_AttritionRestGateTooltip>
+  <TSA_WD_Caravans_AttritionRestMinRatio>Piso de força para descanso por atrito</TSA_WD_Caravans_AttritionRestMinRatio>
+  <TSA_WD_Caravans_AttritionRestMinRatioTooltip>Parcela da força de partida que dispara o descanso e serve de piso para previsões de atrito (padrão 80%). Combate, armadilhas e poluição ainda podem reduzir a força real abaixo disso.</TSA_WD_Caravans_AttritionRestMinRatioTooltip>
+  <TSA_WD_Caravans_AttritionRestRegen>Regeneração de descanso por atrito por hora</TSA_WD_Caravans_AttritionRestRegen>
+  <TSA_WD_Caravans_AttritionRestRegenTooltip>Fração da força de partida restaurada a cada hora durante o descanso (padrão 2% → cerca de 10 horas de 80% a 100%).</TSA_WD_Caravans_AttritionRestRegenTooltip>
+  <TSA_WD_Caravans_AttritionRestFireGrace>Recarga de descanso após ser atingido (dias)</TSA_WD_Caravans_AttritionRestFireGrace>
+  <TSA_WD_Caravans_AttritionRestFireGraceTooltip>Após ser atingido por morteiro, antitanque ou AA, o viajante não começará a descansar por esta quantidade de dias (padrão 0,5). Um acerto durante o descanso cancela o descanso imediatamente.</TSA_WD_Caravans_AttritionRestFireGraceTooltip>
+  <TSA_WD_Caravans_AttritionRestNearDest>Ignorar descanso perto do destino (dias)</TSA_WD_Caravans_AttritionRestNearDest>
+  <TSA_WD_Caravans_AttritionRestNearDestTooltip>Não começar a descansar se o tempo restante de viagem for de no máximo esta quantidade de dias (padrão 0,1). O atrito ainda tem como piso a proporção de descanso.</TSA_WD_Caravans_AttritionRestNearDestTooltip>
+  <TSA_WD_Caravans_OnlyWaterIfNoLandPath>Viajantes: só atravessar água se não existir rota terrestre</TSA_WD_Caravans_OnlyWaterIfNoLandPath>
+  <TSA_WD_Caravans_OnlyWaterIfNoLandPathTip>Quando ativado, os viajantes do WD usam primeiro o caminho normal do mundo e só usam roteamento com capacidade aquática se isso falhar. Quando desativado, as duas rotas são comparadas e a mais rápida é usada (mesmas unidades de custo abaixo).</TSA_WD_Caravans_OnlyWaterIfNoLandPathTip>
+  <TSA_WD_Caravans_WaterMovementDifficulty>Viajantes: custo de movimento em blocos de água</TSA_WD_Caravans_WaterMovementDifficulty>
+  <TSA_WD_Caravans_WaterMovementDifficultyTip>Unidades de custo de caminho aplicadas quando um viajante entra em um bloco do mundo coberto de água (escala de movimento do mundo do jogo base). Usadas para custo de caminho, tempo de viagem e estimativas de atrito. Menor = mais rápido.</TSA_WD_Caravans_WaterMovementDifficultyTip>
+  <TSA_WD_Caravans_WaterPathThreshold>Caminho aquático: ignorar se o caminho terrestre for mais curto que (dias)</TSA_WD_Caravans_WaterPathThreshold>
+  <TSA_WD_Caravans_WaterPathThresholdTip>Se existir um caminho somente terrestre e ele levar menos dias que este limite, o cálculo caro de roteamento aquático será totalmente ignorado. Defina como 0 para sempre calcular caminhos aquáticos. Valores mais altos melhoram o desempenho ao custo de ocasionalmente perder um atalho aquático mais rápido.</TSA_WD_Caravans_WaterPathThresholdTip>
+  <TSA_WD_ModUpdated>O World Domination foi atualizado para {0}.\nClique em "Abrir" para acessar o registro de alterações.</TSA_WD_ModUpdated>
+  <TSA_WD_ShowUpdatePopups>Mostrar pop-up de atualização do mod</TSA_WD_ShowUpdatePopups>
+  <TSA_WD_ShowUpdatePopups_Tooltip>Quando ativado, uma pequena janela aparece uma vez após você carregar um mapa, quando este mod tiver sido atualizado para uma nova versão.</TSA_WD_ShowUpdatePopups_Tooltip>
+  <TSA_WD_WorldMapOverlayHoldKey>Tecla de sobreposição do mapa-múndi</TSA_WD_WorldMapOverlayHoldKey>
+  <TSA_WD_WorldMapOverlayHoldKey_Tooltip>Segure esta tecla e pressione A para Seus colonos, X para a aba principal do WD, S para Estatísticas do mundo, D para Diplomacia, Y para Prisioneiros, F para Visão geral dos postos avançados ou G para Viajantes ativos. No mapa-múndi, pressione também 1–7 para alternar as sobreposições do WD (blocos bloqueados, fertilidade, animais, peixes, mineração, movimento, poluição) ou Q/W/E/R/T para Destacar relações, Destacar jogador, rótulos de nível dos assentamentos, bloqueios de estrada e armadilhas e rótulos dos postos avançados.</TSA_WD_WorldMapOverlayHoldKey_Tooltip>
+  <TSA_WD_VerboseLogging>Registro detalhado</TSA_WD_VerboseLogging>
+  <TSA_WD_VerboseLogging_Tooltip>Quando ativado, o mod grava linhas de correlação extras no log ([WD] e [WD Perf]), por exemplo contabilidade de comida, roteamento, atualizações de ameaça e recriação de assentamentos na Configuração do mundo. Use para diagnosticar engasgos ou problemas de posicionamento.</TSA_WD_VerboseLogging_Tooltip>
+  <TSA_WD_UpdatePopup_Open>Abrir</TSA_WD_UpdatePopup_Open>
+  <TSA_WD_UpdatePopup_Close>Fechar</TSA_WD_UpdatePopup_Close>
+  <TSA_WD_UpdatePopup_Disable>Não mostrar novamente</TSA_WD_UpdatePopup_Disable>
+  <TSA_WD_UpdatePopup_ViewLog>Ver registro de atualizações</TSA_WD_UpdatePopup_ViewLog>
+  <TSA_WD_UpdateLog_Title>World Domination {0}: {1}</TSA_WD_UpdateLog_Title>
+  <TSA_WD_UpdateLog_Prev>&lt; Mais antigo</TSA_WD_UpdateLog_Prev>
+  <TSA_WD_UpdateLog_Next>Mais recente &gt;</TSA_WD_UpdateLog_Next>
+  <TSA_WD_UpdateLog_Current>Versão atual</TSA_WD_UpdateLog_Current>
+  <TSA_WD_UpdateLog_Older>Mais antigo</TSA_WD_UpdateLog_Older>
+  <TSA_WD_UpdateLog_Newer>Mais recente</TSA_WD_UpdateLog_Newer>
+  <TSA_WD_UpdateLog_Oldest>Versão mais antiga</TSA_WD_UpdateLog_Oldest>
+  <TSA_WD_UpdateLog_EntryListHeader>Todas as atualizações</TSA_WD_UpdateLog_EntryListHeader>
+  <TSA_WD_UpdateLog_ReleaseDate>Data de lançamento: {0}</TSA_WD_UpdateLog_ReleaseDate>
+  <TSA_WD_Outpost_ReqBiome>Exigir bioma permitido para o tipo de posto avançado</TSA_WD_Outpost_ReqBiome>
+  <TSA_WD_Outpost_ReqBiome_Tooltip>Se desativado, postos avançados podem ser fundados em qualquer bioma, mesmo que o tipo de posto avançado normalmente restrinja onde pode ser construído.</TSA_WD_Outpost_ReqBiome_Tooltip>
+  <TSA_WD_Outpost_ReqFertility>Exigir blocos férteis para postos avançados agrícolas</TSA_WD_Outpost_ReqFertility>
+  <TSA_WD_Outpost_ReqFertility_Tooltip>Se desativado, postos avançados agrícolas/de extração de madeira podem ser fundados em blocos de baixa fertilidade ou cobertos de água.</TSA_WD_Outpost_ReqFertility_Tooltip>
+  <TSA_WD_Outpost_PollutionEcologyPenalty>Poluição reduz fertilidade, animais e peixes</TSA_WD_Outpost_PollutionEcologyPenalty>
+  <TSA_WD_Outpost_PollutionEcologyPenaltyTooltip>Quando ativado, fertilidade agrícola, abundância de animais e estoque de peixes em um bloco do mundo são multiplicados por (1 - poluição). Exemplo: 20% de poluição reduz esses valores em 20%. A mineração não é afetada.</TSA_WD_Outpost_PollutionEcologyPenaltyTooltip>
+  <TSA_WD_Outpost_ReqAnimals>Exigir abundância de animais para postos avançados de caça</TSA_WD_Outpost_ReqAnimals>
+  <TSA_WD_Outpost_ReqAnimals_Tooltip>Se desativado, postos avançados de caça podem ser fundados em blocos com pouquíssimos animais (ou cobertos de água).</TSA_WD_Outpost_ReqAnimals_Tooltip>
+  <TSA_WD_Outpost_ReqFish>Exigir estoque de peixes para postos avançados de pesca</TSA_WD_Outpost_ReqFish>
+  <TSA_WD_Outpost_ReqFish_Tooltip>Se desativado, postos avançados de pesca podem ser fundados em blocos costeiros com pouco estoque de peixes (o requisito de costa ainda se aplica).</TSA_WD_Outpost_ReqFish_Tooltip>
+  <TSA_WD_Outpost_ReqMining>Exigir colinas para postos avançados de mineração</TSA_WD_Outpost_ReqMining>
+  <TSA_WD_Outpost_ReqMining_Tooltip>Se desativado, postos avançados de mineração podem ser fundados em blocos planos sem colinas.</TSA_WD_Outpost_ReqMining_Tooltip>
+  <TSA_WD_Outpost_ReqResearch>Exigir pesquisa para postos avançados de alto nível</TSA_WD_Outpost_ReqResearch>
+  <TSA_WD_Outpost_ReqResearch_Tooltip>Se desativado, postos avançados que normalmente exigem projetos de pesquisa concluídos podem ser fundados sem concluir esses projetos.</TSA_WD_Outpost_ReqResearch_Tooltip>
+  <TSA_WD_Outpost_ReqNearby>Exigir assentamentos neutros/aliados próximos</TSA_WD_Outpost_ReqNearby>
+  <TSA_WD_Outpost_ReqNearby_Tooltip>Se desativado, postos avançados com requisito mínimo de assentamentos próximos podem ser fundados até em regiões isoladas.</TSA_WD_Outpost_ReqNearby_Tooltip>
+  <TSA_WD_Outpost_ReqMinPawns>Exigir mínimo de colonos para fundar o posto avançado</TSA_WD_Outpost_ReqMinPawns>
+  <TSA_WD_Outpost_ReqMinPawns_Tooltip>Se desativado, caravanas podem fundar postos avançados mesmo com menos colonos do que o tipo de posto avançado normalmente exige.</TSA_WD_Outpost_ReqMinPawns_Tooltip>
+  <TSA_WD_Outpost_ReqMinSkill>Exigir habilidades acumuladas mínimas</TSA_WD_Outpost_ReqMinSkill>
+  <TSA_WD_Outpost_ReqMinSkill_Tooltip>Se desativado, caravanas e postos avançados ignoram os requisitos mínimos de habilidades acumuladas para fundação e produção contínua.</TSA_WD_Outpost_ReqMinSkill_Tooltip>
+  <TSA_WD_Outpost_ReqCost>Exigir custo de estabelecimento</TSA_WD_Outpost_ReqCost>
+  <TSA_WD_Outpost_ReqCost_Tooltip>Se desativado, caravanas não precisam pagar o custo em madeira ou recursos personalizados ao fundar postos avançados.</TSA_WD_Outpost_ReqCost_Tooltip>
+  <TSA_WD_Caravans_HeaderTravel>Viagem e atrito</TSA_WD_Caravans_HeaderTravel>
+  <TSA_WD_Caravans_HeaderWaterTravel>Viagem aquática</TSA_WD_Caravans_HeaderWaterTravel>
+  <TSA_WD_Caravans_AllowTravelOverWater>Permitir que caravanas viajem sobre a água</TSA_WD_Caravans_AllowTravelOverWater>
+  <TSA_WD_Caravans_AllowTravelOverWaterTip>Quando ativado, os viajantes do WD podem usar busca de caminho especial por blocos cobertos de água (veja as opções abaixo). Quando desativado, apenas caminhos padrão do mundo são usados e nenhuma busca de caminho aquática é executada. Também gerenciado por Predefinições de configuração → Desempenho ao usar esses pacotes.</TSA_WD_Caravans_AllowTravelOverWaterTip>
+  <TSA_WD_Caravans_HeaderTrader>Caravanas de comerciantes</TSA_WD_Caravans_HeaderTrader>
+  <TSA_WD_Caravans_HeaderOutpostDelivery>Caravanas de entrega de postos avançados</TSA_WD_Caravans_HeaderOutpostDelivery>
+  <TSA_WD_Caravans_HeaderStoryteller>Comerciantes do narrador</TSA_WD_Caravans_HeaderStoryteller>
+  <TSA_WD_Caravans_Cost>Custo de força da caravana de comerciante</TSA_WD_Caravans_Cost>
+  <TSA_WD_Caravans_CostTip>Força paga pelo assentamento remetente ao lançar uma caravana de comerciante.</TSA_WD_Caravans_CostTip>
+  <TSA_WD_Caravans_SenderReward>Recompensa do remetente na chegada</TSA_WD_Caravans_SenderReward>
+  <TSA_WD_Caravans_SenderRewardTip>Força concedida ao remetente quando a caravana de comerciante chega com sucesso.</TSA_WD_Caravans_SenderRewardTip>
+  <TSA_WD_Caravans_ReceiverReward>Recompensa do destinatário na chegada</TSA_WD_Caravans_ReceiverReward>
+  <TSA_WD_Caravans_ReceiverRewardTip>Força concedida ao assentamento destinatário quando uma caravana de comerciante do WD chega. Postos avançados do jogador não são alvos válidos.</TSA_WD_Caravans_ReceiverRewardTip>
+  <TSA_WD_Caravans_Goodwill>Boa vontade mútua na chegada</TSA_WD_Caravans_Goodwill>
+  <TSA_WD_Caravans_GoodwillTip>Boa vontade ganha por ambas as facções na chegada bem-sucedida de uma caravana de comerciante.</TSA_WD_Caravans_GoodwillTip>
+  <TSA_WD_Caravans_HeaderTraderTierUps>Melhorias de nível de comerciante (no limite)</TSA_WD_Caravans_HeaderTraderTierUps>
+  <TSA_WD_Caravans_TierUpT1ToT2>Chance de melhoria de N1 para N2</TSA_WD_Caravans_TierUpT1ToT2>
+  <TSA_WD_Caravans_TierUpT1ToT2Tip>Após uma negociação bem-sucedida do WD, se a recompensa de força apenas elevar o assentamento até o máximo do nível atual, esta chance o promove para N2. Os requisitos de vizinhos do mesmo nível para crescimento normal de nível não se aplicam.</TSA_WD_Caravans_TierUpT1ToT2Tip>
+  <TSA_WD_Caravans_TierUpT2ToT3>Chance de melhoria de N2 para N3</TSA_WD_Caravans_TierUpT2ToT3>
+  <TSA_WD_Caravans_TierUpT2ToT3Tip>Igual a N1 para N2, mas para promoção de N2 para N3 ao atingir o teto de força de N2.</TSA_WD_Caravans_TierUpT2ToT3Tip>
+  <TSA_WD_Caravans_TierUpT3ToT4>Chance de melhoria de N3 para N4</TSA_WD_Caravans_TierUpT3ToT4>
+  <TSA_WD_Caravans_TierUpT3ToT4Tip>Igual a N1 para N2, mas para promoção de N3 para N4 ao atingir o teto de força de N3.</TSA_WD_Caravans_TierUpT3ToT4Tip>
+  <TSA_WD_Caravans_HeaderTraderEscort>Força de escolta da caravana de comerciante</TSA_WD_Caravans_HeaderTraderEscort>
+  <TSA_WD_Caravans_EscortFloorT1>Piso de força de escolta (remetente N1)</TSA_WD_Caravans_EscortFloorT1>
+  <TSA_WD_Caravans_EscortFloorT1Tip>Força mínima de combate/interceptação de uma caravana de comerciante enviada por um assentamento N1, independentemente do custo fixo de força deduzido no lançamento. Mantém o comércio como um alvo significativo e ponderável para emboscada e interceptação, em vez de um brinde uniforme.</TSA_WD_Caravans_EscortFloorT1Tip>
+  <TSA_WD_Caravans_EscortFloorT2>Piso de força de escolta (remetente N2)</TSA_WD_Caravans_EscortFloorT2>
+  <TSA_WD_Caravans_EscortFloorT2Tip>Igual ao piso N1, para caravanas de comerciante enviadas por um assentamento N2.</TSA_WD_Caravans_EscortFloorT2Tip>
+  <TSA_WD_Caravans_EscortFloorT3>Piso de força de escolta (remetente N3)</TSA_WD_Caravans_EscortFloorT3>
+  <TSA_WD_Caravans_EscortFloorT3Tip>Igual ao piso N1, para caravanas de comerciante enviadas por um assentamento N3.</TSA_WD_Caravans_EscortFloorT3Tip>
+  <TSA_WD_Caravans_EscortFloorT4>Piso de força de escolta (remetente N4)</TSA_WD_Caravans_EscortFloorT4>
+  <TSA_WD_Caravans_EscortFloorT4Tip>Igual ao piso N1, para caravanas de comerciante enviadas por um assentamento N4.</TSA_WD_Caravans_EscortFloorT4Tip>
+  <TSA_WD_Caravans_EscortRecentInterceptWindow>Janela de força total após perder uma caravana (dias)</TSA_WD_Caravans_EscortRecentInterceptWindow>
+  <TSA_WD_Caravans_EscortRecentInterceptWindowTip>Depois que uma das caravanas de comerciante de um assentamento é destruída por emboscada, Resposta Rápida ou fogo de morteiro, as caravanas de comerciante seguintes saem com a força ofensiva total do nível daquele assentamento (em vez do piso fixo acima) por esta quantidade de dias de jogo, desencorajando farmar repetidamente a mesma linha de suprimentos. Defina como 0 para desativar.</TSA_WD_Caravans_EscortRecentInterceptWindowTip>
+  <TSA_WD_Caravans_PlayerColonyTraderCooldown>Dias mín. entre comerciantes do WD para a colônia do jogador</TSA_WD_Caravans_PlayerColonyTraderCooldown>
+  <TSA_WD_Caravans_PlayerColonyTraderCooldownTip>Cada uma das suas colônias no mapa só pode ser escolhida como destino de uma caravana de comerciante do WD depois desta quantidade de dias de jogo desde o envio da última em direção a essa colônia (não na chegada). Por colônia. Defina como 0 para sem limite.</TSA_WD_Caravans_PlayerColonyTraderCooldownTip>
+  <TSA_WD_Caravans_WindowSubtitle>Avançado: viagem, comerciantes do WD, custos de entrega</TSA_WD_Caravans_WindowSubtitle>
+  <TSA_WD_Caravans_BlockStorytellerTraders>Desativar caravanas de comerciantes do narrador</TSA_WD_Caravans_BlockStorytellerTraders>
+  <TSA_WD_Caravans_BlockStorytellerTradersTip>Quando ativado, caravanas de comerciantes geradas pelo narrador são bloqueadas. As caravanas de comerciante do WD ainda são permitidas.</TSA_WD_Caravans_BlockStorytellerTradersTip>
+  <TSA_WD_Caravans_Reset>Redefinir esta página para o padrão</TSA_WD_Caravans_Reset>
+  <TSA_WD_ShowAdvanced>Mostrar configurações avançadas</TSA_WD_ShowAdvanced>
+  <TSA_WD_ShowAdvanced_Tooltip>Mostrar menus extras (Artilharia de NPCs, Projetos de construção, Valores base de mineração, Sabotagem, Desinformação, Geração do mundo, Guarnição) e mais opções dentro de cada diálogo de configurações.</TSA_WD_ShowAdvanced_Tooltip>
+  <TSA_WD_Stats_H_Faction>Nome da facção</TSA_WD_Stats_H_Faction>
+  <TSA_WD_Stats_FactionDefeated>Derrotada</TSA_WD_Stats_FactionDefeated>
+  <TSA_WD_Stats_FactionDefeatedTip>Esta facção pode voltar com base na chance diária de revolta no menu de configurações do mod Diplomacia, Bônus e Penalidades.</TSA_WD_Stats_FactionDefeatedTip>
+  <TSA_WD_Stats_H_Influence>Totais</TSA_WD_Stats_H_Influence>
+  <TSA_WD_Stats_H_Status>Bônus e penalidades</TSA_WD_Stats_H_Status>
+  <TSA_WD_Stats_H_T1>Nível 1</TSA_WD_Stats_H_T1>
+  <TSA_WD_Stats_H_T2>Nível 2</TSA_WD_Stats_H_T2>
+  <TSA_WD_Stats_H_T3>Nível 3</TSA_WD_Stats_H_T3>
+  <TSA_WD_Stats_H_T4>Nível 4</TSA_WD_Stats_H_T4>
+  <TSA_WD_Stats_TierHeaderTip_Npc>Os assentamentos de NPCs nesta coluna são locais reais de nível {0}.</TSA_WD_Stats_TierHeaderTip_Npc>
+  <TSA_WD_Stats_TierHeaderTip_Player>Para a sua facção, os postos avançados são classificados nestas colunas por força (ataque + defesa combinados). Eles não têm um nível de assentamento fixo.</TSA_WD_Stats_TierHeaderTip_Player>
+  <TSA_WD_Stats_TierHeaderTip_Bands>Faixas de força dos postos avançados:\nNível 1: abaixo de {0}\nNível 2: {1}–{2}\nNível 3: {3}–{4}\nNível 4: {5}+</TSA_WD_Stats_TierHeaderTip_Bands>
+  <TSA_WD_Stats_TierHeaderTip_ThisColumn>Esta coluna: nível {0} ({1})</TSA_WD_Stats_TierHeaderTip_ThisColumn>
+  <TSA_WD_Stats_TierHeader_BandUnder>abaixo de {0}</TSA_WD_Stats_TierHeader_BandUnder>
+  <TSA_WD_Stats_TierHeader_BandRange>{0}–{1}</TSA_WD_Stats_TierHeader_BandRange>
+  <TSA_WD_Stats_TierHeader_BandAtLeast>{0}+</TSA_WD_Stats_TierHeader_BandAtLeast>
+  <TSA_WD_Stats_H_Threat>Ofensiva capaz de atacar</TSA_WD_Stats_H_Threat>
+  <TSA_WD_Stats_Title>Estatísticas globais das facções</TSA_WD_Stats_Title>
+  <TSA_WD_Stats_WorldTotals>Totais</TSA_WD_Stats_WorldTotals>
+  <TSA_WD_Stats_RowTierTip>Nível {0} desta facção.\n\nAssentamentos: {1}\nForça: {2}\nParticipação na força mundial do nível {0}: {3}</TSA_WD_Stats_RowTierTip>
+  <TSA_WD_Stats_RowTotalsTip>Totais desta facção.\n\nAssentamentos: {0}\nForça: {1}\nParticipação na força mundial: {2}</TSA_WD_Stats_RowTotalsTip>
+  <TSA_WD_Stats_FooterTierTip>Total mundial do nível {0}.\n\nAssentamentos: {1}\nForça: {2}</TSA_WD_Stats_FooterTierTip>
+  <TSA_WD_Stats_FooterTotalsTip>Total mundial de todos os níveis.\n\nAssentamentos: {0}\nForça: {1}</TSA_WD_Stats_FooterTotalsTip>
+  <TSA_WD_WorldDominationWindows>Janelas do World Domination</TSA_WD_WorldDominationWindows>
+  <TSA_WD_WorldMap_MenuTooltip>Ferramentas de mapa do World Domination</TSA_WD_WorldMap_MenuTooltip>
+  <TSA_WD_WorldMap_HotkeyLine>Atalho: {0}</TSA_WD_WorldMap_HotkeyLine>
+  <TSA_WD_WorldMap_ToggleTierTexts>Rótulos de nível dos assentamentos</TSA_WD_WorldMap_ToggleTierTexts>
+  <TSA_WD_WorldMap_ToggleTierTextsTip>Alterna os rótulos N1–N4 exibidos sobre os assentamentos de NPCs.</TSA_WD_WorldMap_ToggleTierTextsTip>
+  <TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>Bloqueios de estrada e armadilhas</TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>
+  <TSA_WD_WorldMap_ToggleRoadBlocksAndTrapsTip>Alterna os ícones ciano de bloqueio de estrada e de armadilha de espinhos / estrepes no mapa-múndi. Os ícones também ficam ocultos com o zoom afastado.</TSA_WD_WorldMap_ToggleRoadBlocksAndTrapsTip>
+  <TSA_WD_WorldMap_ToggleFortifyBlacklist>Blocos bloqueados para fortificação de NPCs</TSA_WD_WorldMap_ToggleFortifyBlacklist>
+  <TSA_WD_WorldMap_ToggleFortifyBlacklistTip>Mostra blocos marcados para que aliados (e neutros, se ativado) não possam posicionar novos bloqueios de estrada ou armadilhas. Fortificações existentes permanecem até você usar Remover fortificações. As marcas também aparecem ao usar as ferramentas de marcar/remover.</TSA_WD_WorldMap_ToggleFortifyBlacklistTip>
+  <TSA_WD_WorldMap_NoFortifyMarks>Marcas de não fortificar</TSA_WD_WorldMap_NoFortifyMarks>
+  <TSA_WD_WorldMap_NoFortifyMarksTip>Mostra as marcas ou adiciona e remove blocos bloqueados um clique por vez.</TSA_WD_WorldMap_NoFortifyMarksTip>
+  <TSA_WD_WorldMap_AddBlockedTiles>Marcar blocos em que NPCs não podem fortificar</TSA_WD_WorldMap_AddBlockedTiles>
+  <TSA_WD_WorldMap_AddBlockedTilesTip>Clique nos blocos um a um para marcá-los. Aliados (e neutros, se ativado) não podem posicionar novas fortificações lá. Clique com o botão direito ou Esc para parar.</TSA_WD_WorldMap_AddBlockedTilesTip>
+  <TSA_WD_WorldMap_RemoveBlockedTiles>Remover blocos em que NPCs não podem fortificar</TSA_WD_WorldMap_RemoveBlockedTiles>
+  <TSA_WD_WorldMap_RemoveBlockedTilesTip>Clique nos blocos marcados um a um para limpá-los. Clique com o botão direito ou Esc para parar.</TSA_WD_WorldMap_RemoveBlockedTilesTip>
+  <TSA_WD_WorldMap_BlockedTilesDisabledTip>Ative "marcar blocos onde aliados não podem construir fortificações" em Ações mundiais → Fortificação de NPCs.</TSA_WD_WorldMap_BlockedTilesDisabledTip>
+  <TSA_WD_WorldMap_ToggleRelationUnderlays>Destacar relações</TSA_WD_WorldMap_ToggleRelationUnderlays>
+  <TSA_WD_WorldMap_ToggleRelationUnderlaysTip>Discos semitransparentes sobre assentamentos e viajantes: vermelho hostil, cinza neutro, verde aliado. Roxo marca caravanas de incursão inimigas que miram sua colônia ou um posto avançado do jogador. O tamanho escala com o zoom. Ocultos no mesmo zoom distante dos rótulos de nível dos assentamentos.\n\nUma estrela marca um alvo de missão do WD</TSA_WD_WorldMap_ToggleRelationUnderlaysTip>
+  <TSA_WD_WorldMap_ToggleRelationUnderlaysRelative>Relações com base na seleção</TSA_WD_WorldMap_ToggleRelationUnderlaysRelative>
+  <TSA_WD_WorldMap_ToggleRelationUnderlaysRelativeTip>Quando ativado (e Destacar relações também), os discos mostram hostil, neutro ou aliado em relação ao assentamento ou viajante de NPC selecionado. Sem uma seleção válida, eles usam sua colônia como de costume. Os avisos roxos de incursão continuam baseados nas ameaças a você.</TSA_WD_WorldMap_ToggleRelationUnderlaysRelativeTip>
+  <TSA_WD_WorldMap_TogglePlayerUnderlays>Destacar jogador</TSA_WD_WorldMap_TogglePlayerUnderlays>
+  <TSA_WD_WorldMap_TogglePlayerUnderlaysTip>Discos ciano semitransparentes sob suas colônias, postos avançados, caravanas e viajantes. O tamanho escala com o zoom. Ocultos no mesmo zoom distante dos rótulos de nível dos assentamentos. Uma estrela significa que este posto avançado ou colônia está sendo mirado por uma caravana de incursão inimiga.</TSA_WD_WorldMap_TogglePlayerUnderlaysTip>
+  <TSA_WD_WorldMap_OutpostLabels>Rótulos dos postos avançados</TSA_WD_WorldMap_OutpostLabels>
+  <TSA_WD_WorldMap_OutpostLabelsTip>Mostra comida atual, força atual, nome do posto avançado, recarga de incursão ou nada sobre os postos avançados do jogador.</TSA_WD_WorldMap_OutpostLabelsTip>
+  <TSA_WD_OutpostWorldMapLabel_Off>Desativado</TSA_WD_OutpostWorldMapLabel_Off>
+  <TSA_WD_OutpostWorldMapLabel_Name>Nome</TSA_WD_OutpostWorldMapLabel_Name>
+  <TSA_WD_OutpostWorldMapLabel_NameTip>Mostra o nome do posto avançado.</TSA_WD_OutpostWorldMapLabel_NameTip>
+  <TSA_WD_OutpostWorldMapLabel_Food>Comida</TSA_WD_OutpostWorldMapLabel_Food>
+  <TSA_WD_OutpostWorldMapLabel_FoodTip>Mostra a comida atual/máxima e a variação líquida por dia.</TSA_WD_OutpostWorldMapLabel_FoodTip>
+  <TSA_WD_OutpostWorldMapLabel_Strength>Força</TSA_WD_OutpostWorldMapLabel_Strength>
+  <TSA_WD_OutpostWorldMapLabel_StrengthTip>Mostra a força atual/máxima e a variação líquida por dia.</TSA_WD_OutpostWorldMapLabel_StrengthTip>
+  <TSA_WD_OutpostWorldMapLabel_RaidCooldown>Recarga de incursão</TSA_WD_OutpostWorldMapLabel_RaidCooldown>
+  <TSA_WD_OutpostWorldMapLabel_RaidCooldownTip>Mostra se um posto avançado pode ser atacado ou quanto dura sua recarga.</TSA_WD_OutpostWorldMapLabel_RaidCooldownTip>
+  <TSA_WD_WorldMap_Raidable>Pode ser atacado</TSA_WD_WorldMap_Raidable>
+  <TSA_WD_WorldMap_RaidProtectionDays>{0} dias</TSA_WD_WorldMap_RaidProtectionDays>
+  <TSA_WD_WorldMap_OutpostSimulation>Simulação de estabelecer posto avançado</TSA_WD_WorldMap_OutpostSimulation>
+  <TSA_WD_WorldMap_OutpostSimulationTip>Clique em um bloco do mundo para pré-visualizar o estabelecimento de um posto avançado ali (por exemplo, se a fertilidade é alta o suficiente para um posto agrícola). Também mostra o custo de materiais por posto avançado, para você não precisar enviar uma caravana só para descobrir que faltam recursos.</TSA_WD_WorldMap_OutpostSimulationTip>
+  <TSA_WD_WorldMap_SectionProductivityOverlays>-- Sobreposições de blocos do mundo --</TSA_WD_WorldMap_SectionProductivityOverlays>
+  <TSA_WD_WorldMap_ToggleActivated>{0}: sobreposição ativada</TSA_WD_WorldMap_ToggleActivated>
+  <TSA_WD_WorldMap_ToggleDeactivated>{0}: sobreposição desativada</TSA_WD_WorldMap_ToggleDeactivated>
+  <TSA_WD_WorldMap_ProductivityOverlayNotifyLabel>Sobreposição de {0}</TSA_WD_WorldMap_ProductivityOverlayNotifyLabel>
+  <TSA_WD_WorldMap_OutpostLabelsNotify>Rótulos dos postos avançados: {0}</TSA_WD_WorldMap_OutpostLabelsNotify>
+  <TSA_WD_WorldMap_OverlayFertility>Fertilidade</TSA_WD_WorldMap_OverlayFertility>
+  <TSA_WD_WorldMap_OverlayFertilityTip>Mostra a fertilidade dos blocos ao redor do cursor. Útil para fazendas e criações.\n\nCores (% no cursor):\n• Vermelho: 0–35% (ruim)\n• Laranja/Amarelo: 36–70%\n• Verde: 71–100%\n• Roxo: acima de 100% (melhor; mutadores podem elevar mais)\n\nApenas uma sobreposição de blocos pode ficar ativa; clique novamente para desativá-la.</TSA_WD_WorldMap_OverlayFertilityTip>
+  <TSA_WD_WorldMap_OverlayAnimalAbundance>Abundância de animais</TSA_WD_WorldMap_OverlayAnimalAbundance>
+  <TSA_WD_WorldMap_OverlayAnimalAbundanceTip>Mostra a abundância de animais ao redor do cursor. Útil para postos avançados de caça.\n\nCores (% no cursor):\n• Vermelho: 0–35% (ruim)\n• Laranja/Amarelo: 36–70%\n• Verde: 71–100%\n• Roxo: acima de 100% (melhor; mutadores podem elevar mais)\n\nApenas uma sobreposição de blocos pode ficar ativa; clique novamente para desativá-la.</TSA_WD_WorldMap_OverlayAnimalAbundanceTip>
+  <TSA_WD_WorldMap_OverlayFishAbundance>Estoque de peixes</TSA_WD_WorldMap_OverlayFishAbundance>
+  <TSA_WD_WorldMap_OverlayFishAbundanceTip>Mostra o estoque de peixes ao redor do cursor. Útil para postos avançados de pesca (somente costas oceânicas).\n\nCores (% no cursor):\n• Vermelho: 0–35% (ruim)\n• Laranja/Amarelo: 36–70%\n• Verde: 71–100%\n• Roxo: acima de 100% (melhor; mutadores podem elevar mais)\n\nApenas uma sobreposição de blocos pode ficar ativa; clique novamente para desativá-la.</TSA_WD_WorldMap_OverlayFishAbundanceTip>
+  <TSA_WD_WorldMap_OverlayMiningEfficiency>Eficiência de mineração</TSA_WD_WorldMap_OverlayMiningEfficiency>
+  <TSA_WD_WorldMap_OverlayMiningEfficiencyTip>Mostra a eficiência de mineração ao redor do cursor. Útil para postos avançados de mineração.\n\nCores (% no cursor):\n• Vermelho: 0–35% (ruim)\n• Laranja/Amarelo: 36–70%\n• Verde: 71–100%\n• Roxo: acima de 100% (melhor; mutadores podem elevar mais)\n\nApenas uma sobreposição de blocos pode ficar ativa; clique novamente para desativá-la.</TSA_WD_WorldMap_OverlayMiningEfficiencyTip>
+  <TSA_WD_WorldMap_OverlayIgnoresOutpostUpgrades>As sobreposições não levam em conta as melhorias dos postos avançados, apenas o bloco do mundo como está.</TSA_WD_WorldMap_OverlayIgnoresOutpostUpgrades>
+  <TSA_WD_WorldMap_OverlayMovementDifficulty>Custo de movimento</TSA_WD_WorldMap_OverlayMovementDifficulty>
+  <TSA_WD_WorldMap_OverlayMovementDifficultyTip>Mostra o custo de viagem pelo mundo ao redor do cursor (multiplicadores de terreno × estrada, depois penalidades de bloqueio de estrada). Mesma escala do movimento do mundo do jogo base; menor = mais rápido.\n\nCores:\n• Roxo: 0–0,59 (mais rápido)\n• Verde: 0,6–1,49\n• Amarelo: 1,5–2,49\n• Vermelho: 2,5–3,49\n• Vermelho escuro: 3,5+\n• Preto: intransponível\n\nApenas uma sobreposição de blocos pode ficar ativa; clique novamente para desativá-la.</TSA_WD_WorldMap_OverlayMovementDifficultyTip>
+  <TSA_WD_WorldMap_OverlayMovementDifficulty_Hover>Custo de movimento: {0}</TSA_WD_WorldMap_OverlayMovementDifficulty_Hover>
+  <TSA_WD_WorldMap_OverlayMovementDifficulty_Impassable>Intransponível</TSA_WD_WorldMap_OverlayMovementDifficulty_Impassable>
+  <TSA_WD_WorldMap_OverlayPollution>Poluição</TSA_WD_WorldMap_OverlayPollution>
+  <TSA_WD_WorldMap_OverlayPollutionTip>Mostra a poluição de blocos do Biotech ao redor do cursor. Útil para planejar missões de equipe de descontaminação.\n\nCores (% no cursor):\n• Verde: 0%\n• Verde-claro: 1–20%\n• Amarelo: 21–40%\n• Laranja: 41–69%\n• Vermelho: 70–100%\n\nApenas uma sobreposição de blocos pode ficar ativa; clique novamente para desativá-la. Requer o Biotech.</TSA_WD_WorldMap_OverlayPollutionTip>
+  <TSA_WD_WorldMap_OverlayPollution_Hover>Poluição: {0}%</TSA_WD_WorldMap_OverlayPollution_Hover>
+  <TSA_WD_WorldMap_SectionOutpostLabels>-- Rótulos dos postos avançados --</TSA_WD_WorldMap_SectionOutpostLabels>
+  <TSA_WD_WorldMap_ToggleCaravanBlockedTiles>Sobreposição de blocos bloqueados</TSA_WD_WorldMap_ToggleCaravanBlockedTiles>
+  <TSA_WD_WorldMap_ToggleCaravanBlockedTilesTip>Por padrão, um posto avançado precisa de vários blocos livres de distância de assentamentos e outros postos avançados. Quando esta sobreposição está ativa, os blocos bloqueados ao redor do cursor são hachurados na cor da facção bloqueadora (cinza-escuro se nenhuma). Reivindicações sobrepostas escolhem uma facção de forma consistente.</TSA_WD_WorldMap_ToggleCaravanBlockedTilesTip>
+  <TSA_WD_WorldMap_ChangeNotes>Notas de alteração</TSA_WD_WorldMap_ChangeNotes>
+  <TSA_WD_WorldMap_ChangeNotesTip>Abre o registro de atualizações/alterações do World Domination.</TSA_WD_WorldMap_ChangeNotesTip>
+  <TSA_WD_WorldStats>Estatísticas do mundo</TSA_WD_WorldStats>
+  <TSA_WD_Diplo_VanillaGoodwillHeader>Boa vontade do jogo base</TSA_WD_Diplo_VanillaGoodwillHeader>
+  <TSA_WD_Diplo_MaxGoodwill>Boa vontade máxima</TSA_WD_Diplo_MaxGoodwill>
+  <TSA_WD_Diplo_MaxGoodwillTooltip>Limita até onde a boa vontade com qualquer facção pode chegar (o padrão do jogo base costuma ser 100). O WD pode elevar esse valor para que presentes e investimentos grandes não sejam desperdiçados no limite.</TSA_WD_Diplo_MaxGoodwillTooltip>
+  <TSA_WD_DisableSettlementProximityGoodwill>Desativar perda de boa vontade por assentamentos próximos</TSA_WD_DisableSettlementProximityGoodwill>
+  <TSA_WD_DisableSettlementProximityGoodwillTooltip>Quando ativado, a verificação periódica do RimWorld para bases construídas perto demais de outras facções não altera a boa vontade nem envia a carta de proximidade. Facções que se expandirem ao seu lado depois não vão penalizá-lo. Os avisos no momento de escolher um bloco não mudam.</TSA_WD_DisableSettlementProximityGoodwillTooltip>
+  <TSA_WD_Diplo_LaunchPodGiftStrengthPer100>Força de presente por cápsula de transporte a cada 100 de valor de mercado</TSA_WD_Diplo_LaunchPodGiftStrengthPer100>
+  <TSA_WD_Diplo_LaunchPodGiftStrengthPer100Tooltip>Força concedida a cada 100 de valor de mercado ao presentear por cápsula de transporte (mesma taxa que outros investimentos em facções). A boa vontade do jogo base não muda. O valor excedente pode preencher assentamentos próximos da mesma facção e comprar melhorias de nível depois que os limites estiverem cheios.</TSA_WD_Diplo_LaunchPodGiftStrengthPer100Tooltip>
+  <TSA_WD_Raid_Col0>Força rel.</TSA_WD_Raid_Col0>
+  <TSA_WD_Raid_Col1>Chance de vitória</TSA_WD_Raid_Col1>
+  <TSA_WD_Raid_Section1_WinChance>Probabilidade de vitória do atacante por proporção de força relativa</TSA_WD_Raid_Section1_WinChance>
+  <TSA_WD_Raid_Section2_Desc>Quando o atacante vence, quão decisiva é a vitória?</TSA_WD_Raid_Section2_Desc>
+  <TSA_WD_Raid_Section3_Desc>Quando o atacante perde, quão ruim será a derrota?</TSA_WD_Raid_Section3_Desc>
+  <TSA_WD_Raid_Section4_Desc>Quando o defensor perde, quão ruim será a derrota?</TSA_WD_Raid_Section4_Desc>
+  <TSA_WD_Raid_Section5_Desc>Quando o defensor vence, quão decisiva é a vitória?</TSA_WD_Raid_Section5_Desc>
+  <TSA_WD_Raid_Section6_LossTables>Perda de força por resultado (global)</TSA_WD_Raid_Section6_LossTables>
+  <TSA_WD_Raid_Section6_Tip>Força perdida por cada lado. Disputada = batalha acirrada / renhida, Decisiva = batalha unilateral. Os vencedores perdem menos quando é decisiva; os perdedores perdem mais quando são debandados.</TSA_WD_Raid_Section6_Tip>
+  <TSA_WD_Raid_Section6_AttWin>Vitória do atacante</TSA_WD_Raid_Section6_AttWin>
+  <TSA_WD_Raid_Section6_AttLoss>Derrota do atacante</TSA_WD_Raid_Section6_AttLoss>
+  <TSA_WD_Raid_Section6_DefWin>Vitória do defensor</TSA_WD_Raid_Section6_DefWin>
+  <TSA_WD_Raid_Section6_DefLoss>Derrota do defensor</TSA_WD_Raid_Section6_DefLoss>
+  <TSA_WD_Raid_LossRow_Close>Disputada</TSA_WD_Raid_LossRow_Close>
+  <TSA_WD_Raid_LossRow_Normal>Normal</TSA_WD_Raid_LossRow_Normal>
+  <TSA_WD_Raid_LossRow_Decisive>Decisiva</TSA_WD_Raid_LossRow_Decisive>
+  <TSA_WD_Raid_CloseAttackerWin>Vitória disputada do atacante</TSA_WD_Raid_CloseAttackerWin>
+  <TSA_WD_Raid_NormalAttackerWin>Vitória normal do atacante</TSA_WD_Raid_NormalAttackerWin>
+  <TSA_WD_Raid_DecisiveAttackerWin>Vitória decisiva do atacante</TSA_WD_Raid_DecisiveAttackerWin>
+  <TSA_WD_Raid_CloseAttackerLoss>Derrota disputada do atacante</TSA_WD_Raid_CloseAttackerLoss>
+  <TSA_WD_Raid_NormalAttackerLoss>Derrota normal do atacante</TSA_WD_Raid_NormalAttackerLoss>
+  <TSA_WD_Raid_DecisiveAttackerLoss>Derrota decisiva do atacante</TSA_WD_Raid_DecisiveAttackerLoss>
+  <TSA_WD_Raid_CloseDefenderWin>Vitória disputada do defensor</TSA_WD_Raid_CloseDefenderWin>
+  <TSA_WD_Raid_NormalDefenderWin>Vitória normal do defensor</TSA_WD_Raid_NormalDefenderWin>
+  <TSA_WD_Raid_DecisiveDefenderWin>Vitória decisiva do defensor</TSA_WD_Raid_DecisiveDefenderWin>
+  <TSA_WD_Raid_CloseDefenderLoss>Derrota disputada do defensor</TSA_WD_Raid_CloseDefenderLoss>
+  <TSA_WD_Raid_NormalDefenderLoss>Derrota normal do defensor</TSA_WD_Raid_NormalDefenderLoss>
+  <TSA_WD_Raid_DecisiveDefenderLoss>Derrota decisiva do defensor</TSA_WD_Raid_DecisiveDefenderLoss>
+  <TSA_WD_Raid_CloseAttackerVictory>Vitória disputada do atacante</TSA_WD_Raid_CloseAttackerVictory>
+  <TSA_WD_Raid_NormalAttackerVictory>Vitória normal do atacante</TSA_WD_Raid_NormalAttackerVictory>
+  <TSA_WD_Raid_DecisiveAttackerVictory>Vitória decisiva do atacante</TSA_WD_Raid_DecisiveAttackerVictory>
+  <TSA_WD_Raid_CloseDefenderVictory>Vitória disputada do defensor</TSA_WD_Raid_CloseDefenderVictory>
+  <TSA_WD_Raid_NormalDefenderVictory>Vitória normal do defensor</TSA_WD_Raid_NormalDefenderVictory>
+  <TSA_WD_Raid_DecisiveDefenderVictory>Vitória decisiva do defensor</TSA_WD_Raid_DecisiveDefenderVictory>
+  <TSA_WD_Notify_HeaderDiplomacyBuffs>Cartas de diplomacia e equilíbrio de poder do WD</TSA_WD_Notify_HeaderDiplomacyBuffs>
+  <TSA_WD_Notify_LeaderHandicap>Notificar: desvantagem do líder mundial</TSA_WD_Notify_LeaderHandicap>
+  <TSA_WD_Notify_LeaderHandicapTooltip>Carta quando a facção dominante recebe a desvantagem temporária de líder.</TSA_WD_Notify_LeaderHandicapTooltip>
+  <TSA_WD_Notify_UnderdogBuff>Notificar: bônus de azarão</TSA_WD_Notify_UnderdogBuff>
+  <TSA_WD_Notify_UnderdogBuffTooltip>Carta quando uma facção fraca recebe o bônus temporário de azarão.</TSA_WD_Notify_UnderdogBuffTooltip>
+  <TSA_WD_Notify_ExpansionistZeal>Notificar: fanatismo expansionista</TSA_WD_Notify_ExpansionistZeal>
+  <TSA_WD_Notify_ExpansionistZealTooltip>Carta quando uma facção entra em fanatismo expansionista (alcance de incursão maior etc.).</TSA_WD_Notify_ExpansionistZealTooltip>
+  <TSA_WD_Notify_AntiLeaderCoalition>Notificar: coalizão anti-líder</TSA_WD_Notify_AntiLeaderCoalition>
+  <TSA_WD_Notify_AntiLeaderCoalitionTooltip>Carta quando facções mais fracas formam uma coalizão contra um líder dominante demais.</TSA_WD_Notify_AntiLeaderCoalitionTooltip>
+  <TSA_WD_Notify_RandomDiplomacy>Notificar: mudanças diplomáticas aleatórias</TSA_WD_Notify_RandomDiplomacy>
+  <TSA_WD_Notify_RandomDiplomacyTooltip>Carta quando o World Domination altera aleatoriamente um par de facções de NPCs (guerra, paz, aliança).</TSA_WD_Notify_RandomDiplomacyTooltip>
+  <TSA_WD_Notify_TradeAllyDiplomacy>Notificar: aliados por comércio</TSA_WD_Notify_TradeAllyDiplomacy>
+  <TSA_WD_Notify_TradeAllyDiplomacyTooltip>Carta quando duas facções de NPCs se tornam aliadas porque a boa vontade de comerciante do WD cruzou o limite de aliança.</TSA_WD_Notify_TradeAllyDiplomacyTooltip>
+  <TSA_WD_Notify_StrongFactionWar>Notificar: guerras entre facções fortes</TSA_WD_Notify_StrongFactionWar>
+  <TSA_WD_Notify_StrongFactionWarTooltip>Carta quando facções de NPCs fortes esfriam uma aliança para neutro ou escalam de neutro para guerra.</TSA_WD_Notify_StrongFactionWarTooltip>
+  <TSA_WD_BtnRoadBuilding>Projetos de construção</TSA_WD_BtnRoadBuilding>
+  <TSA_WD_DescRoadBuilding>Configure a construção de estradas, bloqueios de estrada e armadilhas por postos avançados e NPCs (alcances, trabalho, força de expedição e alternativas de estrada quando Roads of the Rim não está ativo).</TSA_WD_DescRoadBuilding>
+  <TSA_WD_RoadBuilding_Note>Movimento/trabalho/Construção mínima das estradas só se aplicam quando Roads of the Rim NÃO está ativo. A redução de inverno sempre se aplica (grava o winterFactor do RotR quando esse mod está presente).</TSA_WD_RoadBuilding_Note>
+  <TSA_WD_RoadBuilding_RoadsHeader>Estradas</TSA_WD_RoadBuilding_RoadsHeader>
+  <TSA_WD_RoadBuilding_RoadRange>Alcance para construir estradas</TSA_WD_RoadBuilding_RoadRange>
+  <TSA_WD_RoadBuilding_RoadRangeTip>Alcance máximo em blocos do mundo para planejar a construção de estradas a partir de um posto avançado (e tentativas de estradas de NPCs).</TSA_WD_RoadBuilding_RoadRangeTip>
+  <TSA_WD_RoadBuilding_RoadRangePlayer>Alcance de estradas de postos avançados do jogador</TSA_WD_RoadBuilding_RoadRangePlayer>
+  <TSA_WD_RoadBuilding_RoadRangePlayerTip>Alcance máximo em blocos do mundo para planejar a construção de estradas a partir de postos avançados do jogador.</TSA_WD_RoadBuilding_RoadRangePlayerTip>
+  <TSA_WD_RoadBuilding_RoadRangeNpc>Alcance de estradas de NPCs</TSA_WD_RoadBuilding_RoadRangeNpc>
+  <TSA_WD_RoadBuilding_RoadRangeNpcTip>Alcance máximo em blocos do mundo para assentamentos de NPCs tentando construir estradas até aliados.</TSA_WD_RoadBuilding_RoadRangeNpcTip>
+  <TSA_WD_RoadBuilding_DirtRoad>Estrada de terra</TSA_WD_RoadBuilding_DirtRoad>
+  <TSA_WD_RoadBuilding_StoneRoad>Estrada de pedra</TSA_WD_RoadBuilding_StoneRoad>
+  <TSA_WD_RoadBuilding_AsphaltRoad>Estrada de asfalto</TSA_WD_RoadBuilding_AsphaltRoad>
+  <TSA_WD_RoadBuilding_Movement>Multiplicador de custo de movimento</TSA_WD_RoadBuilding_Movement>
+  <TSA_WD_RoadBuilding_MovementTip>Multiplicador de custo para viagem por caminho do mundo neste tipo de estrada enquanto Roads of the Rim não está ativo (gravado na definição de estrada do jogo base). Menor = viagem mais rápida.</TSA_WD_RoadBuilding_MovementTip>
+  <TSA_WD_RoadBuilding_WinterReductionHeader>Redução da penalidade de movimento no inverno</TSA_WD_RoadBuilding_WinterReductionHeader>
+  <TSA_WD_RoadBuilding_WinterReduction>Redução da penalidade de movimento no inverno</TSA_WD_RoadBuilding_WinterReduction>
+  <TSA_WD_RoadBuilding_WinterReductionTip>Quanto da penalidade de custo de movimento do inverno este tipo de estrada cancela. Sempre aplicado: via nosso patch de inverno quando Roads of the Rim está desligado, ou gravado no winterFactor do RotR quando esse mod está ativo. Exibido na dica de movimento da aba Terreno do bloco do mundo e incluído na sobreposição de custo de movimento.</TSA_WD_RoadBuilding_WinterReductionTip>
+  <TSA_WD_RoadBuilding_WinterReductionExplanation>{0}: penalidade de inverno reduzida em {1}% (multiplicador de movimento ×{2})</TSA_WD_RoadBuilding_WinterReductionExplanation>
+  <TSA_WD_RoadBuilding_WinterReductionTerrainTip>{0}: redução da penalidade de inverno {1}% (aplicada via Roads of the Rim)</TSA_WD_RoadBuilding_WinterReductionTerrainTip>
+  <TSA_WD_RoadBuilding_WinterReductionTerrainTipInactive>{0}: redução da penalidade de inverno {1}% (sem inverno neste bloco no momento)</TSA_WD_RoadBuilding_WinterReductionTerrainTipInactive>
+  <TSA_WD_RoadBuilding_Work>Trabalho necessário para construir</TSA_WD_RoadBuilding_Work>
+  <TSA_WD_RoadBuilding_WorkTip>Custo abstrato de trabalho para um segmento de estrada (apenas progresso do WD, não tarefas de Construção do jogo base). A taxa de progresso é igual à habilidade total de Construção no posto avançado. Exemplo: em Trabalho de terra 250, 1 de habilidade de Construção faz 25 de trabalho por dia, então Terra leva cerca de 10 dias com 1 de habilidade ou cerca de 1 dia com 10. Valores de trabalho mais altos para Pedra ou Asfalto levam proporcionalmente mais tempo.</TSA_WD_RoadBuilding_WorkTip>
+  <TSA_WD_RoadBuilding_RoadStrength>Força ofensiva deduzida no envio da caravana</TSA_WD_RoadBuilding_RoadStrength>
+  <TSA_WD_RoadBuilding_RoadStrengthTip>Força ofensiva removida do posto avançado quando uma caravana de construtor de estradas é enviada para um segmento. Reembolsada se o lançamento falhar imediatamente.</TSA_WD_RoadBuilding_RoadStrengthTip>
+  <TSA_WD_RoadBuilding_MinConstruction>Habilidade mínima de Construção para construir</TSA_WD_RoadBuilding_MinConstruction>
+  <TSA_WD_RoadBuilding_MinConstructionTip>Habilidade total de Construção necessária no posto avançado antes que este tipo de estrada possa ser selecionado enquanto Roads of the Rim não está ativo.</TSA_WD_RoadBuilding_MinConstructionTip>
+  <TSA_WD_RoadBuilding_Reset>Redefinir projetos de construção de postos avançados para o padrão</TSA_WD_RoadBuilding_Reset>
+  <TSA_WD_RoadBuilding_RoadBlocksHeader>Bloqueios de estrada</TSA_WD_RoadBuilding_RoadBlocksHeader>
+  <TSA_WD_RoadBuilding_RoadBlockRange>Alcance para construir bloqueios de estrada</TSA_WD_RoadBuilding_RoadBlockRange>
+  <TSA_WD_RoadBuilding_RoadBlockRangeTip>Alcance máximo em blocos do mundo para planejar polilinhas de construção/limpeza de bloqueios de estrada a partir de um posto avançado.</TSA_WD_RoadBuilding_RoadBlockRangeTip>
+  <TSA_WD_RoadBuilding_RoadBlockWorkTip>Custo abstrato de trabalho para um bloco de bloqueio de estrada (construir ou limpar). Mesmas regras de progresso de Construção das estradas: taxa = habilidade total de Construção; o Trabalho relativo ao Trabalho da estrada de terra define a duração.</TSA_WD_RoadBuilding_RoadBlockWorkTip>
+  <TSA_WD_RoadBuilding_RoadBlockPenalty>Penalidade de custo de movimento</TSA_WD_RoadBuilding_RoadBlockPenalty>
+  <TSA_WD_RoadBuilding_RoadBlockPenaltyTip>Custo de movimento fixo adicionado após os multiplicadores de estrada ao entrar em um bloco bloqueado deste nível (todas as facções; viagem balística ignora isto).</TSA_WD_RoadBuilding_RoadBlockPenaltyTip>
+  <TSA_WD_RoadBuilding_RoadBlockStrength>Força ofensiva deduzida no envio da caravana</TSA_WD_RoadBuilding_RoadBlockStrength>
+  <TSA_WD_RoadBuilding_RoadBlockStrengthTip>Força ofensiva removida do posto avançado quando uma caravana de bloqueio de estrada é enviada para um bloco. Reembolsada se o lançamento falhar imediatamente.</TSA_WD_RoadBuilding_RoadBlockStrengthTip>
+  <TSA_WD_RoadBuilding_MaxHealth>Saúde máxima</TSA_WD_RoadBuilding_MaxHealth>
+  <TSA_WD_RoadBuilding_MaxHealthTip>Pontos de vida quando posicionado ou melhorado. Viajantes hostis desgastam isto com sua força ao deixar o bloco.</TSA_WD_RoadBuilding_MaxHealthTip>
+  <TSA_WD_RoadBuilding_SpikeTrapsHeader>Armadilhas</TSA_WD_RoadBuilding_SpikeTrapsHeader>
+  <TSA_WD_RoadBuilding_SpikeTrapRange>Alcance para construir armadilhas</TSA_WD_RoadBuilding_SpikeTrapRange>
+  <TSA_WD_RoadBuilding_SpikeTrapRangeTip>Alcance máximo em blocos do mundo para planejar polilinhas de construção/limpeza de armadilhas a partir de um posto avançado.</TSA_WD_RoadBuilding_SpikeTrapRangeTip>
+  <TSA_WD_RoadBuilding_SpikeTrapWorkTip>Custo abstrato de trabalho para um bloco de armadilha (construir ou limpar). Mesmas regras de progresso de Construção das estradas: taxa = habilidade total de Construção; o Trabalho relativo ao Trabalho da estrada de terra define a duração.</TSA_WD_RoadBuilding_SpikeTrapWorkTip>
+  <TSA_WD_RoadBuilding_SpikeTrapStrength>Força ofensiva deduzida no envio da caravana</TSA_WD_RoadBuilding_SpikeTrapStrength>
+  <TSA_WD_RoadBuilding_SpikeTrapStrengthTip>Força ofensiva removida do posto avançado quando uma caravana de armadilhas é enviada para um bloco. Reembolsada se o lançamento falhar imediatamente.</TSA_WD_RoadBuilding_SpikeTrapStrengthTip>
+  <TSA_WD_RoadBuilding_SpikeTrapDamage>Dano da armadilha</TSA_WD_RoadBuilding_SpikeTrapDamage>
+  <TSA_WD_RoadBuilding_SpikeTrapDamageTip>Força removida de um viajante terrestre hostil ao deixar um bloco com armadilha. A armadilha também se desgasta com a força do viajante.</TSA_WD_RoadBuilding_SpikeTrapDamageTip>
+  <TSA_WD_RoadBuilding_SpikeTrapMaxTriggers>Máx. de armadilhas por viajante</TSA_WD_RoadBuilding_SpikeTrapMaxTriggers>
+  <TSA_WD_RoadBuilding_SpikeTrapMaxTriggersTip>Quantas armadilhas um único viajante pode acionar. Outras armadilhas em seu caminho são ignoradas (sem dano, sem desgaste).</TSA_WD_RoadBuilding_SpikeTrapMaxTriggersTip>
+  <TSA_WD_RoadBuilding_AT_TurretsHeader>Torretas antitanque</TSA_WD_RoadBuilding_AT_TurretsHeader>
+  <TSA_WD_RoadBuilding_AT_TurretsNote>Leve, Média e Pesada são construíveis. Assentamentos constroem por nível (Níveis 1–2 Leve, Nível 3 Média, Nível 4 Pesada). O Trabalho é o custo de tempo de construção (os padrões são o dobro dos antigos custos equivalentes às estradas). A força de expedição é o custo da equipe, não os PV da arma.</TSA_WD_RoadBuilding_AT_TurretsNote>
+  <TSA_WD_RoadBuilding_AT_TurretWorkTip>Custo abstrato de trabalho para uma torreta antitanque. Mesmas regras de progresso de Construção das estradas. Os padrões levam cerca de o dobro do tempo dos antigos custos equivalentes às estradas.</TSA_WD_RoadBuilding_AT_TurretWorkTip>
+  <TSA_WD_RoadBuilding_AT_TurretStrength>Força ofensiva deduzida no envio da caravana</TSA_WD_RoadBuilding_AT_TurretStrength>
+  <TSA_WD_RoadBuilding_AT_TurretStrengthTip>Força ofensiva removida quando uma equipe de torreta antitanque é enviada. Os padrões da Média equivalem ao asfalto.</TSA_WD_RoadBuilding_AT_TurretStrengthTip>
+  <TSA_WD_RoadBuilding_DecontaminationHeader>Descontaminação</TSA_WD_RoadBuilding_DecontaminationHeader>
+  <TSA_WD_RoadBuilding_DecontaminationRange>Alcance para descontaminação</TSA_WD_RoadBuilding_DecontaminationRange>
+  <TSA_WD_RoadBuilding_DecontaminationRangeTip>Alcance máximo em blocos do mundo para planejar polilinhas de descontaminação a partir de um posto avançado.</TSA_WD_RoadBuilding_DecontaminationRangeTip>
+  <TSA_WD_RoadBuilding_DecontaminationWorkTip>Custo abstrato de trabalho para a limpeza de um bloco poluído. Mesmas regras de progresso de Construção das estradas: taxa = habilidade total de Construção; o Trabalho relativo ao Trabalho da estrada de asfalto define a duração.</TSA_WD_RoadBuilding_DecontaminationWorkTip>
+  <TSA_WD_RoadBuilding_DecontaminationStrength>Custo de força (descontaminação)</TSA_WD_RoadBuilding_DecontaminationStrength>
+  <TSA_WD_RoadBuilding_DecontaminationStrengthTip>Força ofensiva removida do posto avançado quando uma caravana de descontaminação é enviada para um bloco. Reembolsada se o lançamento falhar imediatamente.</TSA_WD_RoadBuilding_DecontaminationStrengthTip>
+  <TSA_WD_RoadBuilding_DecontaminationReduction>Redução de poluição (pp)</TSA_WD_RoadBuilding_DecontaminationReduction>
+  <TSA_WD_RoadBuilding_DecontaminationReductionTip>Pontos percentuais de poluição do bloco do mundo removidos por visita de limpeza (20 = −20pp).</TSA_WD_RoadBuilding_DecontaminationReductionTip>
+  <TSA_WD_RoadBlockLight>Bloqueio de estrada leve</TSA_WD_RoadBlockLight>
+  <TSA_WD_RoadBlockNormal>Bloqueio de estrada médio</TSA_WD_RoadBlockNormal>
+  <TSA_WD_RoadBlockHeavy>Bloqueio de estrada pesado</TSA_WD_RoadBlockHeavy>
+  <TSA_WD_RoadBlockGate>Portão</TSA_WD_RoadBlockGate>
+  <TSA_WD_RoadBlockKind_Disabled>{0} (Construção {1}/{2})</TSA_WD_RoadBlockKind_Disabled>
+  <TSA_WD_RoadBlockKindTooltip>Trabalho: {0}\nPenalidade de custo: +{1}\nDias est./bloco: {2}\nCusto de força: {3}\nPV máx.: {4}</TSA_WD_RoadBlockKindTooltip>
+  <TSA_WD_SpikeTrapSpike>Armadilha de espinhos</TSA_WD_SpikeTrapSpike>
+  <TSA_WD_SpikeTrapCaltrops>Estrepes</TSA_WD_SpikeTrapCaltrops>
+  <TSA_WD_SpikeTrapKind_Disabled>{0} (Construção {1}/{2})</TSA_WD_SpikeTrapKind_Disabled>
+  <TSA_WD_SpikeTrapKindTooltip>Trabalho: {0}\nDano: {1}\nDias est./bloco: {2}\nCusto de força: {3}\nPV máx.: {4}</TSA_WD_SpikeTrapKindTooltip>
+  <TSA_WD_RoadKindTooltip>Trabalho: {0}\nMult. de custo: {1}\nDias est./segmento: {2}\nCusto de força: {3}</TSA_WD_RoadKindTooltip>
+  <TSA_WD_BuildReq_Header>Requisitos</TSA_WD_BuildReq_Header>
+  <TSA_WD_BuildReq_Construction>Construção: {0} / {1}</TSA_WD_BuildReq_Construction>
+  <TSA_WD_BuildReq_ResearchNone>Pesquisa: nenhuma</TSA_WD_BuildReq_ResearchNone>
+  <TSA_WD_BuildReq_ResearchDone>Pesquisa: {0} (concluída)</TSA_WD_BuildReq_ResearchDone>
+  <TSA_WD_BuildReq_ResearchMissing>Pesquisa: {0} (ausente)</TSA_WD_BuildReq_ResearchMissing>
+  <TSA_WD_BuildReq_MaterialsNone>Materiais: nenhum</TSA_WD_BuildReq_MaterialsNone>
+  <TSA_WD_BuildReq_MaterialsHeader>Materiais:</TSA_WD_BuildReq_MaterialsHeader>
+  <TSA_WD_BuildReq_MaterialLine>  - {0} x{1}</TSA_WD_BuildReq_MaterialLine>
+  <TSA_WD_BuildReq_Unmet>Os requisitos de habilidade de Construção ou de pesquisa não foram atendidos.</TSA_WD_BuildReq_Unmet>
+  <TSA_WD_SkillScaling_Reset>Redefinir escalonamento de habilidade</TSA_WD_SkillScaling_Reset>
+  <TSA_WD_SkillScaling_Intro>Decida se adicionar pontos de habilidade, como Plantio para um posto avançado agrícola, deve aumentar a produção indefinidamente ou se deve haver retornos decrescentes em certos limites. Os requisitos de fundação ainda usam a habilidade bruta.</TSA_WD_SkillScaling_Intro>
+  <TSA_WD_SkillScaling_Enable>Ativar retornos decrescentes</TSA_WD_SkillScaling_Enable>
+  <TSA_WD_SkillScaling_EnableTip>Quando ativado, acumular mais habilidade total além do primeiro limite concede cada vez menos produção extra.</TSA_WD_SkillScaling_EnableTip>
+  <TSA_WD_SkillScaling_HardCap>Limite rígido (habilidade bruta)</TSA_WD_SkillScaling_HardCap>
+  <TSA_WD_SkillScaling_HardCapTip>Além desta habilidade bruta total, mais habilidade não adiciona capacidade de produção.</TSA_WD_SkillScaling_HardCapTip>
+  <TSA_WD_SkillScaling_BandsHeader>Faixas de habilidade</TSA_WD_SkillScaling_BandsHeader>
+  <TSA_WD_SkillScaling_BandsTip>Define como a habilidade acumulada do posto avançado é dividida em faixas para o cálculo dos retornos decrescentes.</TSA_WD_SkillScaling_BandsTip>
+  <TSA_WD_SkillScaling_BandRange>A configuração se aplica à habilidade acumulada de {0} a {1}</TSA_WD_SkillScaling_BandRange>
+  <TSA_WD_SkillScaling_BandEnd>A faixa {0} termina em</TSA_WD_SkillScaling_BandEnd>
+  <TSA_WD_SkillScaling_BandEndTip>Arraste para definir onde esta faixa de habilidade termina (e a próxima começa).</TSA_WD_SkillScaling_BandEndTip>
+  <TSA_WD_SkillScaling_BandEfficiency>Eficiência dos pontos de habilidade nesta faixa: {0}%</TSA_WD_SkillScaling_BandEfficiency>
+  <TSA_WD_SkillScaling_BandWeight>Peso da faixa {0} %</TSA_WD_SkillScaling_BandWeight>
+  <TSA_WD_SkillScaling_BandWeightTip>Quanto de cada ponto de habilidade nesta faixa conta para a produção. Não pode ser maior que o da faixa anterior.</TSA_WD_SkillScaling_BandWeightTip>
+  <TSA_WD_SkillScaling_PreviewHeader>Prévia</TSA_WD_SkillScaling_PreviewHeader>
+  <TSA_WD_SkillScaling_PreviewRaw>Habilidade bruta de amostra</TSA_WD_SkillScaling_PreviewRaw>
+  <TSA_WD_SkillScaling_PreviewResult>Habilidade efetiva: {0}</TSA_WD_SkillScaling_PreviewResult>
+  <TSA_WD_SkillScaling_RawToEffective>{0} → {1}</TSA_WD_SkillScaling_RawToEffective>
+  <TSA_WD_SkillScaling_DisabledTip>Os retornos decrescentes de habilidade estão desativados.</TSA_WD_SkillScaling_DisabledTip>
+  <TSA_WD_SkillScaling_BreakdownHeader>Escalonamento de habilidade: {0} bruta → {1} efetiva</TSA_WD_SkillScaling_BreakdownHeader>
+  <TSA_WD_SkillScaling_BandLine>Pontos de habilidade {0}–{1} = {2}% de eficiência</TSA_WD_SkillScaling_BandLine>
+  <TSA_WD_SkillScaling_HardCapLine>Limite rígido: {0} bruta</TSA_WD_SkillScaling_HardCapLine>
+  <TSA_WD_SkillScaling_BannerSoft>Retornos decrescentes devido aos muitos pontos de habilidade. Bruta: {0}, Efetiva: {1}</TSA_WD_SkillScaling_BannerSoft>
+  <TSA_WD_SkillScaling_BannerHardCap>Limite rígido atingido. Mais habilidade não adiciona nada. Bruta: {0}, Efetiva: {1}</TSA_WD_SkillScaling_BannerHardCap>
+  <TSA_WD_SkillScaling_OverviewLabel>Retornos decrescentes</TSA_WD_SkillScaling_OverviewLabel>
+  <TSA_WD_Pollution_EnableTravelerDamage>Dano de força por poluição</TSA_WD_Pollution_EnableTravelerDamage>
+  <TSA_WD_Pollution_EnableTravelerDamageTip>Quando ativado, viajantes terrestres elegíveis do WD perdem força ao deixar blocos poluídos, e assentamentos de NPCs e postos avançados do WD sofrem dano diário de força pela poluição média próxima. Equipes de descontaminação, projéteis aéreos e cápsulas de transporte não são afetados. Use as caixas de tipo para escolher quais caravanas sofrem dano de saída. Assentamentos de NPCs também enviam equipes de descontaminação baratas a cada 12 horas.</TSA_WD_Pollution_EnableTravelerDamageTip>
+  <TSA_WD_Pollution_WasterImmunity>Imunidade à poluição de piratas toxicadores</TSA_WD_Pollution_WasterImmunity>
+  <TSA_WD_Pollution_WasterImmunityTip>Quando ativado, facções de piratas toxicadores ignoram o dano de saída de viajantes, o dano diário de poluição de locais e a autodescontaminação de NPCs.</TSA_WD_Pollution_WasterImmunityTip>
+  <TSA_WD_Pollution_DamageRaiders>Caravanas de invasores</TSA_WD_Pollution_DamageRaiders>
+  <TSA_WD_Pollution_DamageRaidersTip>Caravanas de incursão terrestre e de resposta rápida sofrem dano de saída por poluição. Incursões por cápsula de transporte permanecem isentas.</TSA_WD_Pollution_DamageRaidersTip>
+  <TSA_WD_Pollution_DamageExpansion>Caravanas de expansão</TSA_WD_Pollution_DamageExpansion>
+  <TSA_WD_Pollution_DamageExpansionTip>Caravanas de expansão sofrem dano de saída por poluição.</TSA_WD_Pollution_DamageExpansionTip>
+  <TSA_WD_Pollution_DamageConstruction>Caravanas de construção</TSA_WD_Pollution_DamageConstruction>
+  <TSA_WD_Pollution_DamageConstructionTip>Construtores de estradas, equipes de bloqueios de estrada, equipes de armadilhas de espinhos e equipes de fortificação de NPCs sofrem dano de saída por poluição.</TSA_WD_Pollution_DamageConstructionTip>
+  <TSA_WD_Pollution_DamageTraders>Comerciantes e logística</TSA_WD_Pollution_DamageTraders>
+  <TSA_WD_Pollution_DamageTradersTip>Caravanas de comerciantes, entregas, melhorias, compras e presentes sofrem dano de saída por poluição (somente terrestres).</TSA_WD_Pollution_DamageTradersTip>
+  <TSA_WD_Pollution_DamagePlayer>Viajantes do jogador do WD</TSA_WD_Pollution_DamagePlayer>
+  <TSA_WD_Pollution_DamagePlayerTip>Quando desativado, viajantes do WD da facção do jogador não sofrem dano de saída por poluição, mesmo que a caixa do tipo deles esteja marcada.</TSA_WD_Pollution_DamagePlayerTip>
+  <TSA_WD_Pollution_BannerDamage>Sofrerá dano por poluição</TSA_WD_Pollution_BannerDamage>
+  <TSA_WD_Pollution_BannerRouteAltered>Rota alterada para evitar poluição</TSA_WD_Pollution_BannerRouteAltered>
+  <TSA_WD_Msg_RaidCancelledPollution>Incursão cancelada: a rota perderia cerca de {0} de força para a poluição.</TSA_WD_Msg_RaidCancelledPollution>
+  <TSA_WD_Experimental_HeaderWorldActionsRaidLogic>Ações mundiais e lógica de incursões</TSA_WD_Experimental_HeaderWorldActionsRaidLogic>
+  <TSA_WD_Experimental_ColonyWorldBuild>Experimental: construção no mundo pela colônia (estradas / bloqueios / armadilhas)</TSA_WD_Experimental_ColonyWorldBuild>
+  <TSA_WD_Experimental_ColonyWorldBuildTip>Quando ativado, o assentamento da sua colônia recebe o gizmo ciano Construir (estradas, bloqueios de estrada, armadilhas de espinhos). A velocidade e os desbloqueios usam a soma da habilidade de Construção dos colonos no mapa da colônia. Sem bônus de engenheiro e sem custo de força do WD. Desativar isto cancela projetos de construção ativos da colônia.</TSA_WD_Experimental_ColonyWorldBuildTip>
+  <TSA_WD_Experimental_PlayerConquestRaze>Experimental: conquista do jogador pode arrasar</TSA_WD_Experimental_PlayerConquestRaze>
+  <TSA_WD_Experimental_PlayerConquestRazeTip>Quando ativado, eliminar um assentamento de NPC por conta própria (ou uma conquista simulada que abriria o menu de conquista) sorteia a mesma Chance de arrasar das incursões automáticas de NPCs. Em um arraso, você não recebe oportunidade de recrutar / presentear / estabelecer posto avançado, e ruínas temporárias permanecem. Desativado por padrão.</TSA_WD_Experimental_PlayerConquestRazeTip>
+  <TSA_WD_Experimental_AT_TargetPlayerTravelers>Torretas antitanque de NPCs miram viajantes do jogador do WD</TSA_WD_Experimental_AT_TargetPlayerTravelers>
+  <TSA_WD_Experimental_AT_TargetPlayerTravelersTip>Quando ativado, torretas antitanque de NPCs hostis podem disparar contra seus viajantes terrestres do WD (incursão, melhoria, entrega, comerciante e outras missões não aéreas). Desativado interrompe novos engajamentos; projéteis já em voo ainda resolvem.</TSA_WD_Experimental_AT_TargetPlayerTravelersTip>
+  <TSA_WD_Experimental_AT_TargetPlayerCaravans>Sistemas inimigos miram caravanas do jogador (antitanque / morteiro / emboscada)</TSA_WD_Experimental_AT_TargetPlayerCaravans>
+  <TSA_WD_Experimental_AT_TargetPlayerCaravansTip>Quando ativado, torretas antitanque, morteiros de assentamentos N4 e interceptadores de emboscada de assentamentos de NPCs hostis podem engajar suas caravanas reais de colonos se cumprirem o limite de visibilidade. Acertos de antitanque e morteiro ferem ou matam passageiros. Desativado interrompe novos engajamentos; projéteis já em voo ainda resolvem.</TSA_WD_Experimental_AT_TargetPlayerCaravansTip>
+  <TSA_WD_Experimental_MinPlayerCaravanVisibility>Visibilidade mínima para mirar</TSA_WD_Experimental_MinPlayerCaravanVisibility>
+  <TSA_WD_Experimental_MinPlayerCaravanVisibilityTip>Usa a Visibilidade de caravana do jogo base (soma do tamanho corporal + em movimento). Caravanas paradas ou em descanso são muito menos visíveis (×30%). Padrão 80%: cerca de cinco humanos em movimento qualificam; quatro não.</TSA_WD_Experimental_MinPlayerCaravanVisibilityTip>
+  <TSA_WD_Experimental_HeaderTargetOfOpportunity>Troca de alvo por oportunidade</TSA_WD_Experimental_HeaderTargetOfOpportunity>
+  <TSA_WD_Experimental_TargetOfOpportunity>Experimental: troca de alvo por oportunidade</TSA_WD_Experimental_TargetOfOpportunity>
+  <TSA_WD_Experimental_TargetOfOpportunityTip>Quando ativado, uma incursão em andamento (NPC vs. NPC, NPC vs. jogador ou jogador vs. NPC) que passa perto de um assentamento ou posto avançado mais fraco pode redirecionar para ele em vez de continuar até o alvo original. Nunca desvia para outra caravana ou viajante que esteja passando, apenas para um assentamento/posto avançado estático. Por padrão, só depois do escalonamento do meio ou fim de jogo; ative "Permitir alvo de oportunidade, pilhagem e emboscada desde o início" abaixo para pular essa restrição. Desativado por padrão.</TSA_WD_Experimental_TargetOfOpportunityTip>
+  <TSA_WD_Experimental_ToORollPct>Chance de sorteio de elegibilidade</TSA_WD_Experimental_ToORollPct>
+  <TSA_WD_Experimental_ToORollPctTip>Cara ou coroa barato sorteado toda vez que uma incursão passa perto de um observador elegível, antes de qualquer cálculo de força. A maioria das passagens é descartada aqui de graça (esta é tanto a "chance de uma incursão ser elegível para trocar" quanto o principal limitador de desempenho).</TSA_WD_Experimental_ToORollPctTip>
+  <TSA_WD_Experimental_ToOMinRatioAdvantage>Vantagem de proporção necessária para trocar</TSA_WD_Experimental_ToOMinRatioAdvantage>
+  <TSA_WD_Experimental_ToOMinRatioAdvantageTip>Proporção de força significa força da incursão dividida pela defesa do alvo. Um assentamento próximo só se torna o novo alvo se sua proporção for pelo menos isto maior que a do alvo atual. Exemplo: atual 1,10 e configuração 0,25 significa que o novo alvo precisa de 1,35 ou mais.</TSA_WD_Experimental_ToOMinRatioAdvantageTip>
+  <TSA_WD_Experimental_ToOMaxRetargets>Máx. de trocas de alvo por incursão</TSA_WD_Experimental_ToOMaxRetargets>
+  <TSA_WD_Experimental_ToOMaxRetargetsTip>Limita quantas vezes uma única incursão pode escolher um novo alvo de oportunidade antes de ter que se comprometer com o alvo que tiver no momento.</TSA_WD_Experimental_ToOMaxRetargetsTip>
+  <TSA_WD_Experimental_TargetChangesMaxLifetime>Máx. de mudanças de alvo por incursão (ToO + pilhagem)</TSA_WD_Experimental_TargetChangesMaxLifetime>
+  <TSA_WD_Experimental_TargetChangesMaxLifetimeTip>Uma incursão não pode mudar de alvo mais do que esta quantidade no total. Essa contagem inclui trocas de oportunidade durante a viagem e a escolha de um novo alvo após uma vitória. Os limites separados de Máx. de trocas / Máx. de alvos encadeados acima também se aplicam.</TSA_WD_Experimental_TargetChangesMaxLifetimeTip>
+  <TSA_WD_Experimental_HeaderMarauding>Pilhagem pós-vitória</TSA_WD_Experimental_HeaderMarauding>
+  <TSA_WD_Experimental_ContinueAfterConquest>Experimental: continuar atacando após a conquista</TSA_WD_Experimental_ContinueAfterConquest>
+  <TSA_WD_Experimental_ContinueAfterConquestTip>Quando ativado, uma incursão que vence pode continuar e atacar outro assentamento fraco próximo em vez de sempre se dissolver após a primeira vitória. Só continua para vitórias automáticas de NPCs/simuladas, nunca para uma incursão resolvida pelo diálogo de defesa manual da colônia do jogador. Por padrão, só depois do escalonamento do meio ou fim de jogo; ative "Permitir alvo de oportunidade, pilhagem e emboscada desde o início" abaixo para pular essa restrição. Desativado por padrão.</TSA_WD_Experimental_ContinueAfterConquestTip>
+  <TSA_WD_Experimental_MaraudChancePct>Chance de continuar após uma vitória</TSA_WD_Experimental_MaraudChancePct>
+  <TSA_WD_Experimental_MaraudChancePctTip>Sorteada uma vez imediatamente após uma vitória, antes de qualquer outra verificação de pilhagem.</TSA_WD_Experimental_MaraudChancePctTip>
+  <TSA_WD_Experimental_MaraudMinStrength>Força sobrevivente mínima para continuar</TSA_WD_Experimental_MaraudMinStrength>
+  <TSA_WD_Experimental_MaraudMinStrengthTip>A força restante da incursão após sua vitória deve ser pelo menos isto para valer a pena enviá-la adiante.</TSA_WD_Experimental_MaraudMinStrengthTip>
+  <TSA_WD_Experimental_MaraudMaxChain>Máx. de alvos encadeados</TSA_WD_Experimental_MaraudMaxChain>
+  <TSA_WD_Experimental_MaraudMaxChainTip>Limita quantas vitórias seguidas uma única incursão pode encadear em um novo alvo antes de ter que parar e se dissolver.</TSA_WD_Experimental_MaraudMaxChainTip>
+  <TSA_WD_Experimental_HeaderSettlementAmbush>Emboscada lançada por assentamento</TSA_WD_Experimental_HeaderSettlementAmbush>
+  <TSA_WD_Experimental_SettlementAmbush>Experimental: emboscada de assentamento contra viajantes que passam</TSA_WD_Experimental_SettlementAmbush>
+  <TSA_WD_Experimental_SettlementAmbushTip>Quando ativado, assentamentos de NPCs no nível mínimo de emboscada (Nível 2 por padrão) podem lançar um interceptador contra uma caravana hostil de comerciante, caravana de presente/suborno, incursão não envolvida ou caravana real do jogador que passe dentro do alcance de vigia. A Resposta Rápida do jogador e postos avançados de morteiro não são este recurso; eles interceptam pelo próprio alcance de defesa. Por padrão, só depois do escalonamento do meio ou fim de jogo; ative "Permitir alvo de oportunidade, pilhagem e emboscada desde o início" abaixo para pular essa restrição.</TSA_WD_Experimental_SettlementAmbushTip>
+  <TSA_WD_Experimental_AmbushChancePct>Chance de emboscada (cara ou coroa)</TSA_WD_Experimental_AmbushChancePct>
+  <TSA_WD_Experimental_AmbushChancePctTip>Sorteada após a restrição de escalonamento, mas antes de qualquer cálculo de força, para que um sorteio falho nunca custe a verificação mais cara de proporção de força.</TSA_WD_Experimental_AmbushChancePctTip>
+  <TSA_WD_Experimental_AmbushMinRatio>Proporção mínima de força para lançar</TSA_WD_Experimental_AmbushMinRatio>
+  <TSA_WD_Experimental_AmbushMinRatioTip>A força de incursão disponível do assentamento elegível deve ser pelo menos isto vezes a força do alvo que passa. Abaixo disso, esperar em casa a chegada do atacante é a melhor jogada.</TSA_WD_Experimental_AmbushMinRatioTip>
+  <TSA_WD_Experimental_AmbushMaxRatio>Força relativa máxima a enviar</TSA_WD_Experimental_AmbushMaxRatio>
+  <TSA_WD_Experimental_AmbushMaxRatioTip>Depois que o assentamento elegível fica forte o suficiente para lançar, ele envia no máximo isto vezes a força do alvo e mantém o resto em casa.</TSA_WD_Experimental_AmbushMaxRatioTip>
+  <TSA_WD_Experimental_AmbushMinTier>Nível mínimo de assentamento para emboscar</TSA_WD_Experimental_AmbushMinTier>
+  <TSA_WD_Experimental_AmbushMinTierTip>Somente assentamentos de NPCs neste nível ou acima vigiam e lançam interceptadores de emboscada. Vilarejos de níveis inferiores ficam em casa. Locais de morteiro e de Resposta Rápida não mudam; eles usam o próprio alcance de defesa.</TSA_WD_Experimental_AmbushMinTierTip>
+  <TSA_WD_Experimental_AmbushMaxConcurrent>Máx. de interceptadores de emboscada em voo</TSA_WD_Experimental_AmbushMaxConcurrent>
+  <TSA_WD_Experimental_AmbushMaxConcurrentTip>Limite global de interceptadores de emboscada de NPCs no mundo ao mesmo tempo. 0 significa sem limite. Não conta a Resposta Rápida do jogador. As predefinições de desempenho sobrescrevem isto quando Aplicar é clicado.</TSA_WD_Experimental_AmbushMaxConcurrentTip>
+  <TSA_WD_Experimental_AmbushMaxConcurrentUnlimited>Sem limite</TSA_WD_Experimental_AmbushMaxConcurrentUnlimited>
+  <TSA_WD_Experimental_AmbushWatchRange>Alcance de vigia de emboscada de assentamento comum (blocos)</TSA_WD_Experimental_AmbushWatchRange>
+  <TSA_WD_Experimental_AmbushWatchRangeTip>Até onde um assentamento comum de NPCs de nível elegível vigia alvos de emboscada. Deve corresponder ao raio interno de blocos bloqueados ao redor de um assentamento. Locais de morteiro e de Resposta Rápida interceptam pelo próprio alcance de defesa, não por esta vigia de emboscada.</TSA_WD_Experimental_AmbushWatchRangeTip>
+  <TSA_WD_Experimental_OpportunityIgnoreEscalationGate>Permitir alvo de oportunidade, pilhagem e emboscada desde o início</TSA_WD_Experimental_OpportunityIgnoreEscalationGate>
+  <TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>Quando ativado, a troca de alvo por oportunidade, a pilhagem pós-vitória e a emboscada de assentamento (quaisquer das três estejam ativadas nas seções acima) podem ocorrer desde o início de um jogo, em vez de só quando o escalonamento do meio ou fim de jogo for alcançado. Não tem efeito sobre nenhuma das três a menos que pelo menos uma delas também esteja ativada.</TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>
+  <TSA_WD_Experimental_EnableWorldMapSounds>Sons de combate do mapa-múndi do WD</TSA_WD_Experimental_EnableWorldMapSounds>
+  <TSA_WD_Experimental_EnableWorldMapSoundsTip>Quando ativado, disparos de torreta antitanque, morteiro e flak tocam pequenos sons únicos no mapa-múndi. Desative para silenciar todos esses sons de combate do WD. Cliques de interface não mudam.</TSA_WD_Experimental_EnableWorldMapSoundsTip>
+  <TSA_WD_Experimental_UnlimitedAssaultMortarSupport>Suporte ilimitado de morteiro no assalto a assentamento</TSA_WD_Experimental_UnlimitedAssaultMortarSupport>
+  <TSA_WD_Experimental_UnlimitedAssaultMortarSupportTip>Quando ativado, o botão flutuante de artilharia do mapa de assalto pode disparar sem um posto avançado de morteiro ao alcance e sem colocar um posto avançado em recarga. Desativado por padrão.</TSA_WD_Experimental_UnlimitedAssaultMortarSupportTip>
+  <TSA_WD_Experimental_T4GravshipRaids>Experimental: incursões de gravinave N4</TSA_WD_Experimental_T4GravshipRaids>
+  <TSA_WD_Experimental_T4GravshipRaidsTip>Quando ativado, assentamentos de nível 4 podem lançar viajantes de incursão balística de gravinave contra o jogador. Requer Odyssey e o mod Gravship Raids da Workshop (sk.gravshipraids). Sem esses mods a opção não tem efeito. Desativado por padrão.</TSA_WD_Experimental_T4GravshipRaidsTip>
+  <TSA_WD_Experimental_GravshipRaidChanceT4>Chance de incursão de gravinave N4</TSA_WD_Experimental_GravshipRaidChanceT4>
+  <TSA_WD_Experimental_GravshipRaidChanceT4Tip>Quando um assentamento N4 lança uma incursão e as incursões de gravinave estão ativadas, chance de usar um viajante de gravinave em vez de cápsulas de transporte ou de uma caravana a pé. Sorteada antes da chance normal de cápsula de transporte.</TSA_WD_Experimental_GravshipRaidChanceT4Tip>
+  <TSA_WD_Experimental_OutpostWithdrawStrengthBudget>Experimental: orçamento de força na retirada de postos avançados</TSA_WD_Experimental_OutpostWithdrawStrengthBudget>
+  <TSA_WD_Experimental_OutpostWithdrawStrengthBudgetTip>Quando ativado, as retiradas usam a força ofensiva atual sem limite com uma margem de confirmação de 5%. Se os colonos selecionados excederem esse orçamento, abre-se um seletor: Formar caravana, Deixar no posto avançado ou Marcar como perdido. Quando desativado, as transferências sempre prosseguem sem essa verificação.</TSA_WD_Experimental_OutpostWithdrawStrengthBudgetTip>
+  <TSA_WD_Experimental_OutpostDefenseDeployBudget>Experimental: orçamento de força no envio de defesa de postos avançados</TSA_WD_Experimental_OutpostDefenseDeployBudget>
+  <TSA_WD_Experimental_OutpostDefenseDeployBudgetTip>Quando ativado, Lutar manualmente limita quantos colonos do posto avançado você pode enviar pela força ofensiva atual. Quando desativado, você pode selecionar qualquer combinação sem limite de orçamento.</TSA_WD_Experimental_OutpostDefenseDeployBudgetTip>
+  <TSA_WD_Experimental_HeaderAtTurrets>Torretas antitanque</TSA_WD_Experimental_HeaderAtTurrets>
+  <TSA_WD_Experimental_HeaderPlayerAtTurretCaps>Limites de torretas antitanque do jogador</TSA_WD_Experimental_HeaderPlayerAtTurretCaps>
+  <TSA_WD_Experimental_AT_TurretPlayerGlobalMax>Limite global de torretas antitanque do jogador</TSA_WD_Experimental_AT_TurretPlayerGlobalMax>
+  <TSA_WD_Experimental_AT_TurretPlayerGlobalMaxTip>Número máximo de torretas antitanque que sua facção pode possuir ao mesmo tempo entre a colônia e todos os postos avançados. Assentamentos de NPCs usam os limites de nível de Fortificação.</TSA_WD_Experimental_AT_TurretPlayerGlobalMaxTip>
+  <TSA_WD_Experimental_AT_TurretPlayerPerSiteMax>Torretas antitanque por colônia ou posto avançado</TSA_WD_Experimental_AT_TurretPlayerPerSiteMax>
+  <TSA_WD_Experimental_AT_TurretPlayerPerSiteMaxTip>Número máximo de torretas antitanque atribuídas a uma colônia do jogador ou posto avançado do WD. Cada local tem sua própria contagem para este limite.</TSA_WD_Experimental_AT_TurretPlayerPerSiteMaxTip>
+  <TSA_WD_Experimental_AT_TurretMaxStrength>Força da torreta antitanque (PV)</TSA_WD_Experimental_AT_TurretMaxStrength>
+  <TSA_WD_Experimental_AT_TurretMaxStrengthTip>Pontos de vida quando uma nova torreta antitanque deste tipo é construída. Não altera armas já no mapa. Separado da força de expedição de Projetos de construção.</TSA_WD_Experimental_AT_TurretMaxStrengthTip>
+  <TSA_WD_Experimental_AT_TurretDamage>Dano do projétil da torreta antitanque</TSA_WD_Experimental_AT_TurretDamage>
+  <TSA_WD_Experimental_AT_TurretDamageTip>Dano de força causado por um projétil de torreta antitanque em um acerto.</TSA_WD_Experimental_AT_TurretDamageTip>
+  <TSA_WD_Experimental_AT_TurretCooldown>Recarga da torreta antitanque (dias)</TSA_WD_Experimental_AT_TurretCooldown>
+  <TSA_WD_Experimental_AT_TurretCooldownTip>Dias antes que uma torreta antitanque possa disparar novamente após um tiro. Valores muito baixos são para testes.</TSA_WD_Experimental_AT_TurretCooldownTip>
+  <TSA_WD_Experimental_AT_TurretRange>Alcance da torreta antitanque (blocos)</TSA_WD_Experimental_AT_TurretRange>
+  <TSA_WD_Experimental_AT_TurretRangeTip>Alcance de tiro e raio de ímã de proximidade deste tipo de torreta antitanque. Aplicado ao vivo a partir das configurações.</TSA_WD_Experimental_AT_TurretRangeTip>
+  <TSA_WD_Experimental_AT_TurretHitBand0To50>Chance de acerto da torreta antitanque a 0–50% do alcance máximo</TSA_WD_Experimental_AT_TurretHitBand0To50>
+  <TSA_WD_Experimental_AT_TurretHitBand0To50Tip>Chance de acerto base para tiros na faixa interna. Equivalente a habilidade (+1 pp por nível, atualmente 8) é adicionado por cima.</TSA_WD_Experimental_AT_TurretHitBand0To50Tip>
+  <TSA_WD_Experimental_AT_TurretHitBand51To75>Chance de acerto da torreta antitanque a 51–75% do alcance máximo</TSA_WD_Experimental_AT_TurretHitBand51To75>
+  <TSA_WD_Experimental_AT_TurretHitBand51To75Tip>Chance de acerto base para a faixa intermediária. Independente da precisão de morteiro / assentamento N4.</TSA_WD_Experimental_AT_TurretHitBand51To75Tip>
+  <TSA_WD_Experimental_AT_TurretHitBand76To100>Chance de acerto da torreta antitanque a 76–100% do alcance máximo</TSA_WD_Experimental_AT_TurretHitBand76To100>
+  <TSA_WD_Experimental_AT_TurretHitBand76To100Tip>Chance de acerto base na borda externa do alcance da torreta antitanque. Independente da precisão de morteiro / assentamento N4.</TSA_WD_Experimental_AT_TurretHitBand76To100Tip>
+  <TSA_WD_Experimental_HeaderControls>Controles do mapa-múndi</TSA_WD_Experimental_HeaderControls>
+  <TSA_WD_AutoAdd_DefaultOn>Adicionar chegadas automaticamente ativado por padrão</TSA_WD_AutoAdd_DefaultOn>
+  <TSA_WD_AutoAdd_DefaultOnTip>Quando ativado, postos avançados do WD recém-fundados começam com o gizmo Adicionar chegadas automaticamente ativado. Postos avançados existentes não mudam. Você ainda pode alternar cada posto avançado individualmente.</TSA_WD_AutoAdd_DefaultOnTip>
+  <TSA_WD_TravelFood_PrisonerRecruit>Dar comida a prisioneiros transferidos após recrutamento</TSA_WD_TravelFood_PrisonerRecruit>
+  <TSA_WD_TravelFood_PrisonerRecruitTip>Quando ativado, prisioneiros enviados a uma colônia ou posto avançado agendado após o recrutamento partem com 150 de pemmican cada. De uma colônia, esse pemmican é pago com comida do mapa de nutrição equivalente (preferindo comida que estraga mais rápido). De um posto avançado, é pago com comida virtual. Faltas transferem sem esse pacote.</TSA_WD_TravelFood_PrisonerRecruitTip>
+  <TSA_WD_TravelFood_AllPlayerPawns>Dar comida a qualquer colono transferido via Todos os colonos do jogador</TSA_WD_TravelFood_AllPlayerPawns>
+  <TSA_WD_TravelFood_AllPlayerPawnsTip>Quando ativado, colonos movidos pela janela Todos os colonos do jogador partem com 150 de pemmican cada. De uma colônia, esse pemmican é pago com comida do mapa de nutrição equivalente (preferindo comida que estraga mais rápido). De um posto avançado, é pago com comida virtual. Faltas transferem sem esse pacote.</TSA_WD_TravelFood_AllPlayerPawnsTip>
+  <TSA_WD_OutpostSim_ShowInWdMenu>Mostrar a simulação de estabelecer posto avançado no menu do mapa-múndi do WD</TSA_WD_OutpostSim_ShowInWdMenu>
+  <TSA_WD_OutpostSim_ShowInWdMenuTip>Quando ativado, o menu do mapa-múndi do WD inclui a simulação Estabelecer posto avançado para você clicar em um bloco e pré-visualizar requisitos e custos de materiais sem enviar uma caravana.</TSA_WD_OutpostSim_ShowInWdMenuTip>
+  <TSA_WD_Experimental_HeaderFortify>Fortificação de NPCs</TSA_WD_Experimental_HeaderFortify>
+  <TSA_WD_Fortify_MinFromSelf>Distância mínima do assentamento</TSA_WD_Fortify_MinFromSelf>
+  <TSA_WD_Fortify_MinFromSelfTip>Legado não usado. A Fortificação de NPCs agora posiciona nos anéis do kit tartaruga (raio 1 torretas antitanque, raio 2 armadilhas e bloqueios de estrada).</TSA_WD_Fortify_MinFromSelfTip>
+  <TSA_WD_Fortify_MinFromOther>Distância mínima de outros assentamentos</TSA_WD_Fortify_MinFromOther>
+  <TSA_WD_Fortify_MinFromOtherTip>Legado não usado. A Fortificação de NPCs não usa mais regra de anel de distância mínima de outros assentamentos.</TSA_WD_Fortify_MinFromOtherTip>
+  <TSA_WD_Fortify_MaxFromSelf>Distância máxima do assentamento</TSA_WD_Fortify_MaxFromSelf>
+  <TSA_WD_Fortify_MaxFromSelfTip>Legado não usado. A Fortificação de NPCs usa raios fixos do kit tartaruga em vez de uma faixa de distância máxima.</TSA_WD_Fortify_MaxFromSelfTip>
+  <TSA_WD_Fortify_MaxTravel>Viagem máxima para posicionar fortificações</TSA_WD_Fortify_MaxTravel>
+  <TSA_WD_Fortify_MaxTravelTip>Legado não usado. A Fortificação de NPCs sempre constrói no próprio assentamento ameaçado (sem delegação distante à fronteira).</TSA_WD_Fortify_MaxTravelTip>
+  <TSA_WD_Fortify_TerritoryLink>Alcance de ligação territorial</TSA_WD_Fortify_TerritoryLink>
+  <TSA_WD_Fortify_TerritoryLinkTip>Legado não usado. A detecção de território e fronteira foi removida da Fortificação de NPCs; os campos permanecem para compatibilidade de saves.</TSA_WD_Fortify_TerritoryLinkTip>
+  <TSA_WD_Fortify_TravelerStrength>Força do viajante de fortificação</TSA_WD_Fortify_TravelerStrength>
+  <TSA_WD_Fortify_TravelerStrengthTip>Força ofensiva deduzida do assentamento por equipe de fortificação. As fases de armadilhas e bloqueios de estrada podem lançar várias equipes de uma vez; a torreta antitanque é sempre uma equipe.</TSA_WD_Fortify_TravelerStrengthTip>
+  <TSA_WD_Fortify_ClearOnBuilderLoss>Limpar fortificações quando o construtor for perdido</TSA_WD_Fortify_ClearOnBuilderLoss>
+  <TSA_WD_Fortify_ClearOnBuilderLossTip>Quando ativado, bloqueios de estrada e armadilhas posicionados por um assentamento são removidos se esse assentamento for destruído ou mudar de facção.</TSA_WD_Fortify_ClearOnBuilderLossTip>
+  <TSA_WD_Fortify_EnableBlacklist>Ativar marcar blocos onde aliados não podem construir fortificações</TSA_WD_Fortify_EnableBlacklist>
+  <TSA_WD_Fortify_EnableBlacklistTip>Desbloqueia Adicionar/Remover blocos bloqueados no menu do mapa-múndi do WD (Marcas de não fortificar). Blocos marcados impedem aliados de posicionar novos bloqueios de estrada ou armadilhas. Fortificações existentes permanecem até você usar Remover fortificações. Hostis ignoram as marcas.</TSA_WD_Fortify_EnableBlacklistTip>
+  <TSA_WD_Fortify_BlacklistApplyNeutral>Aplicar também a neutros</TSA_WD_Fortify_BlacklistApplyNeutral>
+  <TSA_WD_Fortify_BlacklistApplyNeutralTip>Quando ativado, facções neutras também não podem posicionar novas fortificações em blocos marcados. Aliados são sempre bloqueados pelas marcas. Hostis ignoram as marcas.</TSA_WD_Fortify_BlacklistApplyNeutralTip>
+  <TSA_WD_Daily_HeaderFortify>Fortificação de NPCs</TSA_WD_Daily_HeaderFortify>
+  <TSA_WD_Fortify_HeaderTypeChances>O que posicionar</TSA_WD_Fortify_HeaderTypeChances>
+  <TSA_WD_Fortify_ChanceRoadBlock>Chance de bloqueio de estrada</TSA_WD_Fortify_ChanceRoadBlock>
+  <TSA_WD_Fortify_ChanceRoadBlockTip>Legado não usado. A Fortificação de NPCs posiciona em ordem fixa: armadilhas, depois bloqueios de estrada e então torretas antitanque (sem sorteio aleatório de tipo).</TSA_WD_Fortify_ChanceRoadBlockTip>
+  <TSA_WD_Fortify_ChanceTrap>Chance de armadilha</TSA_WD_Fortify_ChanceTrap>
+  <TSA_WD_Fortify_ChanceTrapTip>Legado não usado. O posicionamento de armadilhas é a primeira fase de Fortificação quando o anel externo ainda precisa de estradas ou armadilhas.</TSA_WD_Fortify_ChanceTrapTip>
+  <TSA_WD_Fortify_ChanceTurret>Chance de torreta antitanque</TSA_WD_Fortify_ChanceTurret>
+  <TSA_WD_Fortify_ChanceTurretTip>Legado não usado. As torretas antitanque são a última fase de Fortificação (raio 1, locais espalhados, limite de nível do kit).</TSA_WD_Fortify_ChanceTurretTip>
+  <TSA_WD_Fortify_HeaderMultiCaravan>Lançamentos de múltiplas caravanas</TSA_WD_Fortify_HeaderMultiCaravan>
+  <TSA_WD_Fortify_MultiT1ChanceOf2>Chance de 2 caravanas no N1</TSA_WD_Fortify_MultiT1ChanceOf2>
+  <TSA_WD_Fortify_MultiT1ChanceOf2Tip>Quando a Fortificação está na fase de armadilhas ou bloqueios de estrada: chance do Nível 1 de enviar 2 equipes em vez de 1. Também usada para o lançamento múltiplo de estradas de NPCs.</TSA_WD_Fortify_MultiT1ChanceOf2Tip>
+  <TSA_WD_Fortify_MultiT2ChanceOf2>Chance de 2 caravanas no N2</TSA_WD_Fortify_MultiT2ChanceOf2>
+  <TSA_WD_Fortify_MultiT2ChanceOf2Tip>Quando a Fortificação está na fase de armadilhas ou bloqueios de estrada: chance do Nível 2 de enviar 2 equipes em vez de 1.</TSA_WD_Fortify_MultiT2ChanceOf2Tip>
+  <TSA_WD_Fortify_MultiT3ChanceOf2>Chance de 2 caravanas no N3</TSA_WD_Fortify_MultiT3ChanceOf2>
+  <TSA_WD_Fortify_MultiT3ChanceOf2Tip>Quando a Fortificação está na fase de armadilhas ou bloqueios de estrada: chance do Nível 3 de enviar 2 equipes em vez de 1.</TSA_WD_Fortify_MultiT3ChanceOf2Tip>
+  <TSA_WD_Fortify_MultiT4ChanceOf3>Chance de 3 caravanas no N4</TSA_WD_Fortify_MultiT4ChanceOf3>
+  <TSA_WD_Fortify_MultiT4ChanceOf3Tip>Quando a Fortificação está na fase de armadilhas ou bloqueios de estrada: chance do Nível 4 de enviar 3 equipes em vez de 2.</TSA_WD_Fortify_MultiT4ChanceOf3Tip>
+  <TSA_WD_Fortify_HeaderAtTurrets>Limites de torretas antitanque</TSA_WD_Fortify_HeaderAtTurrets>
+  <TSA_WD_Fortify_AtTurretMaxT1>Máx. de torretas antitanque no N1</TSA_WD_Fortify_AtTurretMaxT1>
+  <TSA_WD_Fortify_AtTurretMaxT2>Máx. de torretas antitanque no N2</TSA_WD_Fortify_AtTurretMaxT2>
+  <TSA_WD_Fortify_AtTurretMaxT3>Máx. de torretas antitanque no N3</TSA_WD_Fortify_AtTurretMaxT3>
+  <TSA_WD_Fortify_AtTurretMaxT4>Máx. de torretas antitanque no N4</TSA_WD_Fortify_AtTurretMaxT4>
+  <TSA_WD_Fortify_AtTurretMaxTip>Número máximo de torretas antitanque que um assentamento de NPC deste nível pode possuir ao mesmo tempo. Os limites de colônias e postos avançados do jogador estão em Experimental.</TSA_WD_Fortify_AtTurretMaxTip>
+  <TSA_WD_Experimental_HeaderPollution>Poluição</TSA_WD_Experimental_HeaderPollution>
+  <TSA_WD_Experimental_HeaderUpkeep>Manutenção em prata de postos avançados</TSA_WD_Experimental_HeaderUpkeep>
+  <TSA_WD_Upkeep_Enable>Ativar manutenção em prata de postos avançados (meio/fim de jogo)</TSA_WD_Upkeep_Enable>
+  <TSA_WD_Upkeep_EnableTip>Enquanto o escalonamento do meio ou fim de jogo está ativo, seus colonos de postos avançados custam prata a cada período de manutenção. Prata não paga faz os colonos irem embora. Experimental e desativado por padrão.</TSA_WD_Upkeep_EnableTip>
+  <TSA_WD_Upkeep_SilverPerOccupant>Prata por colono do posto avançado</TSA_WD_Upkeep_SilverPerOccupant>
+  <TSA_WD_Upkeep_SilverPerOccupantTip>Cada ocupante em um posto avançado do jogador do WD adiciona esta quantidade de prata à conta. Mecanoides, prisioneiros, animais e veículos são gratuitos.</TSA_WD_Upkeep_SilverPerOccupantTip>
+  <TSA_WD_Upkeep_IntervalDays>Período de manutenção (dias)</TSA_WD_Upkeep_IntervalDays>
+  <TSA_WD_Upkeep_IntervalDaysTip>Dias entre prazos de manutenção enquanto o meio ou fim de jogo está ativo.</TSA_WD_Upkeep_IntervalDaysTip>
+  <TSA_WD_Pollution_IgnoreBelow>Ignorar abaixo da poluição</TSA_WD_Pollution_IgnoreBelow>
+  <TSA_WD_Pollution_IgnoreBelowTip>Blocos abaixo deste nível de poluição não causam dano de saída a viajantes. O dano diário de locais usa a mesma curva sobre a poluição média no raio. Neste limite, o dano é igual ao valor de dano do limite.</TSA_WD_Pollution_IgnoreBelowTip>
+  <TSA_WD_Pollution_DamageAtThreshold>Dano no limite</TSA_WD_Pollution_DamageAtThreshold>
+  <TSA_WD_Pollution_DamageAtThresholdTip>Força perdida ao deixar um bloco no nível de poluição de ignorar abaixo (e o dano diário do local nessa média).</TSA_WD_Pollution_DamageAtThresholdTip>
+  <TSA_WD_Pollution_DamageAtFull>Dano com 100% de poluição</TSA_WD_Pollution_DamageAtFull>
+  <TSA_WD_Pollution_DamageAtFullTip>Força perdida com poluição total. Valores entre o limite e 100% interpolam linearmente.</TSA_WD_Pollution_DamageAtFullTip>
+  <TSA_WD_Pollution_DamageRadius>Raio de poluição de locais</TSA_WD_Pollution_DamageRadius>
+  <TSA_WD_Pollution_DamageRadiusTip>Raio em blocos do mundo ao redor de assentamentos e postos avançados usado para o dano diário de poluição média e a busca de autodescontaminação de NPCs. Inclui o bloco do local.</TSA_WD_Pollution_DamageRadiusTip>
+  <TSA_WD_Pollution_NpcDecontamCost>Custo de força de descontaminação de NPCs</TSA_WD_Pollution_NpcDecontamCost>
+  <TSA_WD_Pollution_NpcDecontamCostTip>Força ofensiva que os assentamentos de NPCs tentam gastar ao enviar uma equipe de autodescontaminação. Nunca reduz a ofensiva abaixo de 10. As equipes ainda são lançadas se o assentamento não puder pagar.</TSA_WD_Pollution_NpcDecontamCostTip>
+  <TSA_WD_Pollution_PathCost>Custo de caminho por poluição</TSA_WD_Pollution_PathCost>
+  <TSA_WD_Pollution_PathCostTip>Quando ativado, a busca de caminho do WD trata blocos poluídos como mais caros, para que os viajantes prefiram rotas mais limpas. Aplicar uma predefinição de Desempenho sobrescreve esta opção.</TSA_WD_Pollution_PathCostTip>
+  <TSA_WD_Pollution_PathRepath>Recalcular caminho por poluição durante a viagem</TSA_WD_Pollution_PathRepath>
+  <TSA_WD_Pollution_PathRepathTip>Quando ativado, os viajantes podem recalcular o caminho no meio da rota se os custos de poluição mudarem. Aplicar uma predefinição de Desempenho sobrescreve esta opção.</TSA_WD_Pollution_PathRepathTip>
+  <TSA_WD_Pollution_PathPreCommitCancel>Cancelar o caminho se a poluição impedir o lançamento</TSA_WD_Pollution_PathPreCommitCancel>
+  <TSA_WD_Pollution_PathPreCommitCancelTip>Quando ativado, uma missão pode se recusar a ser lançada se o caminho planejado for bloqueado pelas regras de custo de poluição. Aplicar uma predefinição de Desempenho sobrescreve esta opção.</TSA_WD_Pollution_PathPreCommitCancelTip>
+  <TSA_WD_LateGame_OnlyFireT4MortarsAtPlayer>Só disparar morteiros N4 contra o jogador enquanto o fim de jogo está ativo</TSA_WD_LateGame_OnlyFireT4MortarsAtPlayer>
+  <TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>Só disparar antiaéreos N4 contra o jogador enquanto o fim de jogo está ativo</TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>
+  <TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>Só disparar morteiros N4 contra o jogador enquanto o meio de jogo está ativo</TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>
+  <TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>Só disparar antiaéreos N4 contra o jogador enquanto o meio de jogo está ativo</TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>
+</LanguageData>

@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_AllToColonyTooltip>Envia toda a produção disponível deste centro apenas para a sua colônia do jogador (assentamento com mapa), ignorando outros postos avançados.\n\nIsso sempre priorizará as colônias no topo da lista.</TSA_AllToColonyTooltip>
+  <TSA_AllocatedStatus>Alocado: {0} de {1} (Manter aqui: {2}).</TSA_AllocatedStatus>
+  <TSA_AllocationStrategy>Estratégia de alocação</TSA_AllocationStrategy>
+  <TSA_AutoUpdateNote>\n\nRecalcula quando postos avançados, colonos ou configurações de comida mudam (com uma verificação discreta de impressão digital a cada pulso de comida).</TSA_AutoUpdateNote>
+  <TSA_Breakdown_Consumption>Consumo local</TSA_Breakdown_Consumption>
+  <TSA_Breakdown_SkillBonus>Produção por habilidade</TSA_Breakdown_SkillBonus>
+  <TSA_Breakdown_Title>Detalhamento da produção</TSA_Breakdown_Title>
+  <TSA_Breakdown_TotalProd>Produção total</TSA_Breakdown_TotalProd>
+  <TSA_ColonyLabel>Colônia</TSA_ColonyLabel>
+  <TSA_DeficitTooltip>1) Cobre cada posto avançado alcançável até um saldo líquido de comida de ~0 (piores escassezes primeiro), usando o excedente de todos os produtores Inteligentes no alcance em conjunto.\n2) Cada produtor mantém uma parte igual do seu excedente restante (Manter aqui).\n3) Distribui o restante por equalização para que os saldos dos receptores se igualem (mesmo +X), elevando primeiro os saldos mais baixos.</TSA_DeficitTooltip>
+  <TSA_Logistics_KeepHere>Manter aqui:</TSA_Logistics_KeepHere>
+  <TSA_Logistics_KeepHereTip>A comida virtual que não for enviada a outros postos avançados será excedente para o próprio posto avançado produtor de comida.</TSA_Logistics_KeepHereTip>
+  <TSA_Logistics_TotalNetTip>O saldo líquido diário total de comida deles (todas as fontes). O valor +/- é apenas o que este produtor envia.</TSA_Logistics_TotalNetTip>
+  <TSA_Logistics_ResetAllocation>Redefinir alocação</TSA_Logistics_ResetAllocation>
+  <TSA_Logistics_ResetAllocationTip>Muda para Manual e limpa toda a comida enviada deste posto avançado para outros postos avançados. O excedente mantido fica aqui.</TSA_Logistics_ResetAllocationTip>
+  <TSA_DistroHub>Produção de comida</TSA_DistroHub>
+  <TSA_EqualTooltip>Distribui o excedente de comida igualmente entre todos os postos avançados no alcance que tenham déficit.</TSA_EqualTooltip>
+  <TSA_FeedTooltip>Prioriza postos avançados que podem ser 100% atendidos. A comida restante é então compartilhada entre os outros.</TSA_FeedTooltip>
+  <TSA_FoodSupplyInspect>Suprimento de comida: {0}/{1} ({2} unidades/dia)</TSA_FoodSupplyInspect>
+  <TSA_WD_OutpostStarvationDeath>{0}: {1} morreu de fome no posto avançado.</TSA_WD_OutpostStarvationDeath>
+  <TSA_FoodSupplyConvertResult>Suprimento de comida: {0}/{1}</TSA_FoodSupplyConvertResult>
+  <TSA_IncomingSupplyLines>Recebendo comida de:</TSA_IncomingSupplyLines>
+  <TSA_Logistics_IsolatedProducer>Nenhum posto avançado no alcance para o qual este {0} possa enviar comida virtual.</TSA_Logistics_IsolatedProducer>
+  <TSA_Logistics_IsolatedConsumer>Nenhum posto avançado produtor de comida no alcance para prover este {0}.</TSA_Logistics_IsolatedConsumer>
+  <TSA_LogisticsMode_AllToColony>Tudo para a colônia</TSA_LogisticsMode_AllToColony>
+  <TSA_LogisticsMode_Smart>Inteligente</TSA_LogisticsMode_Smart>
+  <TSA_LogisticsMode_BiggestDeficit>Inteligente</TSA_LogisticsMode_BiggestDeficit>
+  <TSA_LogisticsMode_Equal>Igual</TSA_LogisticsMode_Equal>
+  <TSA_LogisticsMode_FullyFeed>Alimentar</TSA_LogisticsMode_FullyFeed>
+  <TSA_LogisticsMode_Manual>Manual</TSA_LogisticsMode_Manual>
+  <TSA_LogisticsTab>Comida</TSA_LogisticsTab>
+  <TSA_WD_Logistics_GamePaused>Jogo pausado</TSA_WD_Logistics_GamePaused>
+  <TSA_Logistics_AvailableForDistribution_Label>Saldo local de comida:</TSA_Logistics_AvailableForDistribution_Label>
+  <TSA_Logistics_AvailableForDistribution_Tooltip_BaseProd>Produção base de qualquer posto avançado: {0}</TSA_Logistics_AvailableForDistribution_Tooltip_BaseProd>
+  <TSA_Logistics_AvailableForDistribution_Tooltip_LocalDemand>Demanda local: {0} ({1} * {2} colonos)</TSA_Logistics_AvailableForDistribution_Tooltip_LocalDemand>
+  <TSA_Logistics_AvailableForDistribution_Tooltip_Result>Disponível para distribuição: {0}</TSA_Logistics_AvailableForDistribution_Tooltip_Result>
+  <TSA_Logistics_AvailableForDistribution_Tooltip_Skill>Habilidade {0}: {1}</TSA_Logistics_AvailableForDistribution_Tooltip_Skill>
+  <TSA_Logistics_CurrentMaxFood>Comida atual / máxima</TSA_Logistics_CurrentMaxFood>
+  <TSA_Logistics_CurrentMaxFood_Label>Comida atual / máxima:</TSA_Logistics_CurrentMaxFood_Label>
+  <TSA_Logistics_CurrentMaxFood_Tooltip>Comida armazenada neste posto avançado. Quando cheio, o excedente é desperdiçado; quando baixo, o posto pode passar fome.</TSA_Logistics_CurrentMaxFood_Tooltip>
+  <TSA_Logistics_FoodChangePerDay_Label>Variação líquida diária de comida:</TSA_Logistics_FoodChangePerDay_Label>
+  <TSA_Logistics_FoodChangePerDay_Tooltip>Variação líquida de comida por dia, considerando produção local menos consumo local, além da comida fornecida a outros e da comida recebida.</TSA_Logistics_FoodChangePerDay_Tooltip>
+  <TSA_Logistics_VirtualFood_Tooltip_TileFertility>Fertilidade do bloco: {0}%</TSA_Logistics_VirtualFood_Tooltip_TileFertility>
+  <TSA_Logistics_VirtualFood_Tooltip_TileAnimals>Abundância de animais (bloco): {0}%</TSA_Logistics_VirtualFood_Tooltip_TileAnimals>
+  <TSA_Logistics_VirtualFood_Tooltip_ClampedMin>O multiplicador de bloco de comida virtual ({0}%) está abaixo do seu mínimo ({1}%); limitado a {1}%.</TSA_Logistics_VirtualFood_Tooltip_ClampedMin>
+  <TSA_Logistics_VirtualFood_Tooltip_DailyFormula>Comida virtual (diária): ({0} + {1}) × {2}% = {3}</TSA_Logistics_VirtualFood_Tooltip_DailyFormula>
+  <TSA_ManualTooltip>Desativa a lógica inteligente. As atribuições só mudam quando você clica nos botões +/-.\n\nObservação: o modo Manual não se ajusta automaticamente a mudanças do mundo.</TSA_ManualTooltip>
+  <TSA_NetValue>Líquido: {0}</TSA_NetValue>
+  <TSA_OutpostInfoRow>Comida: {0}/{1}</TSA_OutpostInfoRow>
+  <TSA_OutpostsInRange>Receptores no alcance</TSA_OutpostsInRange>
+  <TSA_Logistics_SectionOtherOutposts>Distribuir excedente de comida aos postos avançados no alcance:</TSA_Logistics_SectionOtherOutposts>
+  <TSA_ResourceReceiving>Suprimento de comida</TSA_ResourceReceiving>
+  <TSA_UnitsCount>{0} unidades</TSA_UnitsCount>
+  <TSA_WD_AddToOutpost>Adicionar ao posto avançado</TSA_WD_AddToOutpost>
+  <TSA_WD_AddToOutpostDesc>Escolha quem desta caravana se junta a {0}. Colonos se tornam ocupantes do posto avançado; animais, veículos e mecanoides são armazenados. Não é permitido deixar apenas animais ou veículos na caravana.</TSA_WD_AddToOutpostDesc>
+  <TSA_WD_AddToOutpost_NoValidPawns>Não há colonos disponíveis nesta caravana para adicionar.</TSA_WD_AddToOutpost_NoValidPawns>
+  <TSA_WD_AddToOutpost_AddFailed>Não foi possível adicionar {0} ao posto avançado.</TSA_WD_AddToOutpost_AddFailed>
+  <TSA_WD_AddToOutpost_DialogTitle>Adicionar ao posto avançado</TSA_WD_AddToOutpost_DialogTitle>
+  <TSA_WD_AddToOutpost_DialogSubtitle>Adicionar os colonos selecionados de {1} a {0}.</TSA_WD_AddToOutpost_DialogSubtitle>
+  <TSA_WD_AddToOutpost_SelectAll>Selecionar tudo</TSA_WD_AddToOutpost_SelectAll>
+  <TSA_WD_AddToOutpost_Confirm>Adicionar ao posto avançado</TSA_WD_AddToOutpost_Confirm>
+  <TSA_WD_AddToOutpost_ConfirmTip>Adicionar os colonos selecionados a este posto avançado.</TSA_WD_AddToOutpost_ConfirmTip>
+  <TSA_WD_AddToOutpost_LeaveEscortBehind>Pelo menos um colono deve permanecer com quaisquer animais, veículos ou mecanoides deixados na caravana.</TSA_WD_AddToOutpost_LeaveEscortBehind>
+  <TSA_WD_AddToOutpost_NeedOccupantWithTransport>Animais, veículos e mecanoides só podem ser adicionados a um posto avançado vazio junto com pelo menos um colono.</TSA_WD_AddToOutpost_NeedOccupantWithTransport>
+  <TSA_WD_AddToOutpost_FooterPick>Selecione quem deve se juntar ao posto avançado.</TSA_WD_AddToOutpost_FooterPick>
+  <TSA_WD_AddToOutpost_FooterDissolve>Todos os colonos da caravana estão selecionados. A caravana será dissolvida; animais, veículos e mecanoides serão armazenados no posto avançado.</TSA_WD_AddToOutpost_FooterDissolve>
+  <TSA_WD_AddToOutpost_FooterLeftover>Os colonos não selecionados permanecem na caravana. Pelo menos um colono deve permanecer se quaisquer animais, veículos ou mecanoides ficarem para trás.</TSA_WD_AddToOutpost_FooterLeftover>
+  <TSA_WD_StoredTransportPawns_Message>{0} animal(is) ou veículo(s) armazenado(s) em {1}.</TSA_WD_StoredTransportPawns_Message>
+  <TSA_WD_StoredTransportPawns_Inspect>Animais/veículos armazenados: {0}</TSA_WD_StoredTransportPawns_Inspect>
+  <TSA_WD_StoredMechanoids_Inspect>Mecanoides armazenados: {0}</TSA_WD_StoredMechanoids_Inspect>
+  <TSA_WD_Outpost_StoredAnimals>Animais armazenados</TSA_WD_Outpost_StoredAnimals>
+  <TSA_WD_Outpost_StoredVehicles>Veículos armazenados</TSA_WD_Outpost_StoredVehicles>
+  <TSA_WD_Outpost_StoredMechanoids>Mecanoides armazenados</TSA_WD_Outpost_StoredMechanoids>
+  <TSA_WD_Outpost_NoStoredAnimals>Nenhum animal armazenado.</TSA_WD_Outpost_NoStoredAnimals>
+  <TSA_WD_Outpost_NoStoredVehicles>Nenhum veículo armazenado.</TSA_WD_Outpost_NoStoredVehicles>
+  <TSA_WD_Outpost_ShuttleCaravanAlreadyHasOne>Esta caravana já tem um ônibus espacial de passageiros.</TSA_WD_Outpost_ShuttleCaravanAlreadyHasOne>
+  <TSA_WD_Outpost_ShuttleNeedsHumanColonist>Retire um colono com o ônibus espacial — um colono humano deve carregá-lo no inventário da caravana.</TSA_WD_Outpost_ShuttleNeedsHumanColonist>
+  <TSA_WD_Outpost_ShuttleAttachFailed>Não foi possível adicionar {0} à caravana.</TSA_WD_Outpost_ShuttleAttachFailed>
+  <TSA_WD_Outpost_ShuttleOnlyOnePerCaravan>Apenas um ônibus espacial de passageiros pode viajar com uma caravana; {0} ônibus espacial(is) extra(s) permanecem armazenados no posto avançado.</TSA_WD_Outpost_ShuttleOnlyOnePerCaravan>
+  <TSA_WD_Outpost_NoStoredMechanoids>Nenhum mecanoide armazenado.</TSA_WD_Outpost_NoStoredMechanoids>
+  <TSA_WD_StoredMechanoids_Message>{0} mecanoide(s) armazenado(s) em {1}.</TSA_WD_StoredMechanoids_Message>
+  <TSA_WD_PawnCol_Kind>Tipo</TSA_WD_PawnCol_Kind>
+  <TSA_WD_RetrieveStoredTransportPawns>Recuperar animais/veículos armazenados</TSA_WD_RetrieveStoredTransportPawns>
+  <TSA_WD_RetrieveStoredTransportPawnsDesc>Forme uma caravana com animais e veículos armazenados neste posto avançado. Quantidade armazenada: {0}</TSA_WD_RetrieveStoredTransportPawnsDesc>
+  <TSA_WD_RetrieveStoredTransportPawns_Title>Recuperar de {0}</TSA_WD_RetrieveStoredTransportPawns_Title>
+  <TSA_WD_RetrieveStoredTransportPawns_NoneSelected>Nenhum animal ou veículo armazenado selecionado.</TSA_WD_RetrieveStoredTransportPawns_NoneSelected>
+  <TSA_WD_SelectAll>Selecionar tudo</TSA_WD_SelectAll>
+  <TSA_WD_SelectNone>Desmarcar tudo</TSA_WD_SelectNone>
+  <TSA_WD_FormCaravan>Formar caravana</TSA_WD_FormCaravan>
+  <TSA_WD_Traveler_RapidResponseIntercept>Caravana de resposta rápida</TSA_WD_Traveler_RapidResponseIntercept>
+  <TSA_WD_Traveler_RapidResponseDropPod>Cápsulas de transporte de resposta rápida</TSA_WD_Traveler_RapidResponseDropPod>
+  <TSA_WD_RapidResponse_AutoDesc>Envia automaticamente contracaravanas virtuais rápidas contra viajantes hostis da WD a até {0} blocos. Invasores só são engajados quando visam você ou um aliado. Força mobilizável atual: {1}.</TSA_WD_RapidResponse_AutoDesc>
+  <TSA_WD_RapidResponse_Auto_Off>Resposta rápida: desativada</TSA_WD_RapidResponse_Auto_Off>
+  <TSA_WD_RapidResponse_Auto_AllCaravans>Resposta rápida: todas as caravanas</TSA_WD_RapidResponse_Auto_AllCaravans>
+  <TSA_WD_RapidResponse_Auto_RaiderCaravans>Resposta rápida: invasores</TSA_WD_RapidResponse_Auto_RaiderCaravans>
+  <TSA_WD_RapidResponse_Auto_TraderCaravans>Resposta rápida: comerciantes</TSA_WD_RapidResponse_Auto_TraderCaravans>
+  <TSA_WD_RapidResponse_Auto_ExpansionCaravans>Resposta rápida: expansão</TSA_WD_RapidResponse_Auto_ExpansionCaravans>
+  <TSA_WD_RapidResponse_Auto_RoadCaravans>Resposta rápida: construtoras de estradas</TSA_WD_RapidResponse_Auto_RoadCaravans>
+  <TSA_WD_RapidResponse_Auto_GroupCaravans>Resposta rápida: {0}</TSA_WD_RapidResponse_Auto_GroupCaravans>
+  <TSA_WD_RapidResponse_InspectOff>Interceptação automática desativada</TSA_WD_RapidResponse_InspectOff>
+  <TSA_WD_RapidResponse_InspectAllCaravans>Interceptando todas as caravanas hostis no raio</TSA_WD_RapidResponse_InspectAllCaravans>
+  <TSA_WD_RapidResponse_InspectRaiderCaravans>Interceptando caravanas de invasores no raio</TSA_WD_RapidResponse_InspectRaiderCaravans>
+  <TSA_WD_RapidResponse_InspectTraderCaravans>Interceptando caravanas de comerciantes no raio</TSA_WD_RapidResponse_InspectTraderCaravans>
+  <TSA_WD_RapidResponse_InspectExpansionCaravans>Interceptando caravanas de expansão no raio</TSA_WD_RapidResponse_InspectExpansionCaravans>
+  <TSA_WD_RapidResponse_InspectRoadCaravans>Interceptando caravanas de construção de estradas no raio</TSA_WD_RapidResponse_InspectRoadCaravans>
+  <TSA_WD_RapidResponse_InspectFortifyCaravans>Interceptando caravanas de fortificação no raio</TSA_WD_RapidResponse_InspectFortifyCaravans>
+  <TSA_WD_RapidResponse_InspectGroupCaravans>Interceptando {0} no raio</TSA_WD_RapidResponse_InspectGroupCaravans>
+  <TSA_WD_RapidResponse_DropPods>Envio por cápsula de transporte ({0})</TSA_WD_RapidResponse_DropPods>
+  <TSA_WD_RapidResponse_DropPodsDesc>Lança os colonos selecionados do posto avançado por cápsula de transporte para qualquer bloco do mundo transitável no alcance (ou um viajante hostil / colônia do jogador / posto avançado).</TSA_WD_RapidResponse_DropPodsDesc>
+  <TSA_WD_RapidResponse_DropPodsNeedResearch>Requer a pesquisa de Cápsula de transporte concluída.</TSA_WD_RapidResponse_DropPodsNeedResearch>
+  <TSA_WD_RapidResponse_DropPodsSelectPawns>Selecione pelo menos um colono do posto avançado para enviar.</TSA_WD_RapidResponse_DropPodsSelectPawns>
+  <TSA_WD_RapidResponse_DropPodsNoStoredTransport>Animais e veículos armazenados não podem ser lançados por esta ação de cápsula de transporte.</TSA_WD_RapidResponse_DropPodsNoStoredTransport>
+  <TSA_WD_RapidResponse_DropPodsLeavePawn>Pelo menos um colono deve permanecer no posto avançado.</TSA_WD_RapidResponse_DropPodsLeavePawn>
+  <TSA_WD_RapidResponse_DropPodsPrisonersSelected>Desmarque prisioneiros. O envio por cápsula de transporte só lança colonos do posto avançado.</TSA_WD_RapidResponse_DropPodsPrisonersSelected>
+  <TSA_WD_RapidResponse_DropPodsArrived>{0} colono(s) lançado(s) em {1}.</TSA_WD_RapidResponse_DropPodsArrived>
+  <TSA_WD_RapidResponse_DropPodsNoMap>{0} não tem um mapa ativo para a chegada da cápsula de transporte.</TSA_WD_RapidResponse_DropPodsNoMap>
+  <TSA_WD_RapidResponse_DropPodsLaunched>{0} colono(s) lançado(s) por cápsula de transporte em direção a {1}.</TSA_WD_RapidResponse_DropPodsLaunched>
+  <TSA_WD_RapidResponse_DropPodsAborted>Envio por cápsula de transporte abortado; os colonos retornaram ao posto avançado.</TSA_WD_RapidResponse_DropPodsAborted>
+  <TSA_WD_RapidResponse_DropPodsAaWarning>Suas cápsulas de transporte podem ser interceptadas por fogo antiaéreo de {0}. Tem certeza?</TSA_WD_RapidResponse_DropPodsAaWarning>
+  <TSA_WD_Artillery_ConfigureTitle>Configurar artilharia</TSA_WD_Artillery_ConfigureTitle>
+  <TSA_WD_Artillery_ConfigureLabel>Configurar artilharia</TSA_WD_Artillery_ConfigureLabel>
+  <TSA_WD_Artillery_ConfigureDesc>Configure o fogo automático de morteiro: tipos de caravana, filtros de incursão e alcance.</TSA_WD_Artillery_ConfigureDesc>
+  <TSA_WD_Artillery_ConfigureDescWithAA>Configure morteiro automático e antiaéreo: alvos, filtros e alcances. Os anéis de antiaéreo no mapa mostram a precisão contra cápsulas e alvos aéreos; projéteis de morteiro usam uma chance fixa de abate.</TSA_WD_Artillery_ConfigureDescWithAA>
+  <TSA_WD_AT_Turret_ConfigureTitle>Configurar torreta antitanque</TSA_WD_AT_Turret_ConfigureTitle>
+  <TSA_WD_AT_Turret_ConfigureLabel>Configurar torreta antitanque</TSA_WD_AT_Turret_ConfigureLabel>
+  <TSA_WD_AT_Turret_ConfigureDesc>Configure o fogo automático da torreta antitanque: tipos de caravana, filtros de incursão e alcance.</TSA_WD_AT_Turret_ConfigureDesc>
+  <TSA_WD_Artillery_Tab_Mortar>Mostrar configurações de morteiro</TSA_WD_Artillery_Tab_Mortar>
+  <TSA_WD_Artillery_Tab_AntiAir>Mostrar configurações de antiaéreo</TSA_WD_Artillery_Tab_AntiAir>
+  <TSA_WD_Artillery_AaTargets>Alvos aéreos</TSA_WD_Artillery_AaTargets>
+  <TSA_WD_Artillery_AaTarget_MortarShells>Projéteis de morteiro inimigos</TSA_WD_Artillery_AaTarget_MortarShells>
+  <TSA_WD_Artillery_AaTarget_DropPods>Cápsulas de ataque</TSA_WD_Artillery_AaTarget_DropPods>
+  <TSA_WD_Artillery_RangeMaxIncludesStrategist>O máximo do controle é {0} blocos (inclui Estrategista +{1}%).</TSA_WD_Artillery_RangeMaxIncludesStrategist>
+  <TSA_WD_RapidResponse_ConfigureDefense>Resposta rápida</TSA_WD_RapidResponse_ConfigureDefense>
+  <TSA_WD_RapidResponse_ConfigureDefenseDesc>Configure o comportamento de interceptação automática. Alcance: {0} blocos, força mobilizável: {1}.</TSA_WD_RapidResponse_ConfigureDefenseDesc>
+  <TSA_WD_RapidResponse_MenuSection_Targets>Caravanas-alvo</TSA_WD_RapidResponse_MenuSection_Targets>
+  <TSA_WD_RapidResponse_CaravansToTarget>Caravanas a interceptar</TSA_WD_RapidResponse_CaravansToTarget>
+  <TSA_WD_RapidResponse_CaravansToTargetTip>Escolha quais tipos de caravana hostis este posto avançado pode interceptar automaticamente. Desmarque tudo para desativar a interceptação automática.</TSA_WD_RapidResponse_CaravansToTargetTip>
+  <TSA_WD_RapidResponse_WhichRaidersToIntercept>Quais invasores interceptar?</TSA_WD_RapidResponse_WhichRaidersToIntercept>
+  <TSA_WD_RapidResponse_WhichRaidersToInterceptTip>Quando invasores estão habilitados, só intercepte aqueles cujo destino corresponde a um destes filtros. Outros tipos de caravana ignoram este filtro.</TSA_WD_RapidResponse_WhichRaidersToInterceptTip>
+  <TSA_WD_RapidResponse_Tip_TargetRaiders>Intercepta caravanas hostis de invasores no alcance (sujeito aos filtros de destino de incursão).</TSA_WD_RapidResponse_Tip_TargetRaiders>
+  <TSA_WD_RapidResponse_Tip_TargetExpansion>Intercepta caravanas hostis de expansão no alcance.</TSA_WD_RapidResponse_Tip_TargetExpansion>
+  <TSA_WD_RapidResponse_Tip_TargetRoad>Intercepta caravanas hostis de construção de estradas e relacionadas a estradas no alcance.</TSA_WD_RapidResponse_Tip_TargetRoad>
+  <TSA_WD_RapidResponse_Tip_TargetTrader>Intercepta caravanas hostis de comerciantes no alcance.</TSA_WD_RapidResponse_Tip_TargetTrader>
+  <TSA_WD_RapidResponse_Tip_TargetFortify>Intercepta caravanas hostis de fortificação que colocam bloqueios de estrada ou armadilhas de espinhos no alcance.</TSA_WD_RapidResponse_Tip_TargetFortify>
+  <TSA_WD_RapidResponse_Tip_RaidTargetPlayer>Intercepta invasores cujo destino é a sua colônia ou um dos seus postos avançados.</TSA_WD_RapidResponse_Tip_RaidTargetPlayer>
+  <TSA_WD_RapidResponse_Tip_RaidTargetAllies>Intercepta invasores cujo destino pertence a uma facção aliada a você.</TSA_WD_RapidResponse_Tip_RaidTargetAllies>
+  <TSA_WD_RapidResponse_Tip_RaidTargetOtherNpcs>Intercepta invasores cujo destino pertence a uma facção NPC não aliada.</TSA_WD_RapidResponse_Tip_RaidTargetOtherNpcs>
+  <TSA_WD_RapidResponse_Tip_MinStrength>Só envia se a força mobilizável for pelo menos esta porcentagem da força atual da caravana-alvo. 0% significa sem mínimo. Pode passar de 100% se você quiser uma vantagem clara.</TSA_WD_RapidResponse_Tip_MinStrength>
+  <TSA_WD_RapidResponse_Tip_MaxStrength>Quando este posto avançado for forte o bastante para enviar, ele envia no máximo este múltiplo da força do alvo e mantém o resto em casa.</TSA_WD_RapidResponse_Tip_MaxStrength>
+  <TSA_WD_RapidResponse_Tip_Range>Blocos máximos a partir deste posto avançado para interceptações automáticas. A prévia do anel no mapa-múndi é atualizada enquanto você arrasta.</TSA_WD_RapidResponse_Tip_Range>
+  <TSA_WD_RapidResponse_Tip_Reset>Restaura esta página para os padrões: apenas invasores, interceptar incursões direcionadas a você ou aliados, 90% de força relativa mínima, 3,00x de força relativa máxima a enviar e alcance total.</TSA_WD_RapidResponse_Tip_Reset>
+  <TSA_WD_RapidResponse_Tip_Confirm>Aplica todas as configurações desta página e fecha o diálogo.</TSA_WD_RapidResponse_Tip_Confirm>
+  <TSA_WD_RapidResponse_MenuSection_InterceptRaiders>Interceptar invasores</TSA_WD_RapidResponse_MenuSection_InterceptRaiders>
+  <TSA_WD_RapidResponse_MenuSection_RaidTarget>Interceptar incursões direcionadas a</TSA_WD_RapidResponse_MenuSection_RaidTarget>
+  <TSA_WD_RapidResponse_MenuSection_MinStrength>Força relativa mínima</TSA_WD_RapidResponse_MenuSection_MinStrength>
+  <TSA_WD_RapidResponse_MenuSection_MaxStrength>Força relativa máxima a enviar</TSA_WD_RapidResponse_MenuSection_MaxStrength>
+  <TSA_WD_RapidResponse_MenuSection_Range>Alcance de interceptação</TSA_WD_RapidResponse_MenuSection_Range>
+  <TSA_WD_RapidResponse_RaidTarget_Player>Invasores mirando você</TSA_WD_RapidResponse_RaidTarget_Player>
+  <TSA_WD_RapidResponse_RaidTarget_Allies>Invasores mirando seus aliados</TSA_WD_RapidResponse_RaidTarget_Allies>
+  <TSA_WD_RapidResponse_RaidTarget_OtherNpcs>Invasores mirando outros NPCs</TSA_WD_RapidResponse_RaidTarget_OtherNpcs>
+  <TSA_WD_RapidResponse_MinStrength_None>Sem mínimo</TSA_WD_RapidResponse_MinStrength_None>
+  <TSA_WD_RapidResponse_AdjustRange>Ajustar alcance ({0} blocos)</TSA_WD_RapidResponse_AdjustRange>
+  <TSA_WD_OutpostRange_GizmoLabel>Ajustar alcance</TSA_WD_OutpostRange_GizmoLabel>
+  <TSA_WD_OutpostRange_GizmoDesc_RapidResponse>Reduz o raio de interceptação automática deste posto avançado. Atual: {0} blocos (máx. {1}). O alcance da cápsula de transporte não muda.</TSA_WD_OutpostRange_GizmoDesc_RapidResponse>
+  <TSA_WD_OutpostRange_GizmoDesc_Mortar>Ajusta o alcance máximo de ataques automáticos de morteiro ou fogo antiaéreo deste posto avançado. Ataques manuais de morteiro ainda usam o alcance máximo configurado. Não pode exceder o máximo configurado.</TSA_WD_OutpostRange_GizmoDesc_Mortar>
+  <TSA_WD_OutpostRange_Menu_Mortar>Alcance do morteiro ({0} / máx. {1})</TSA_WD_OutpostRange_Menu_Mortar>
+  <TSA_WD_OutpostRange_Menu_Flak>Alcance do fogo antiaéreo ({0} / máx. {1})</TSA_WD_OutpostRange_Menu_Flak>
+  <TSA_WD_OutpostRange_MenuTip_Mortar>Ajusta o alcance máximo de ataques automáticos de morteiro. Ataques manuais de morteiro ainda usam o alcance máximo configurado.</TSA_WD_OutpostRange_MenuTip_Mortar>
+  <TSA_WD_OutpostRange_MenuTip_Flak>Ajusta o alcance máximo de ataques automáticos de fogo antiaéreo.</TSA_WD_OutpostRange_MenuTip_Flak>
+  <TSA_WD_OutpostRange_Title_RapidResponse>Alcance da resposta rápida</TSA_WD_OutpostRange_Title_RapidResponse>
+  <TSA_WD_OutpostRange_Title_Mortar>Alcance do morteiro</TSA_WD_OutpostRange_Title_Mortar>
+  <TSA_WD_OutpostRange_Title_Flak>Alcance do fogo antiaéreo</TSA_WD_OutpostRange_Title_Flak>
+  <TSA_WD_OutpostRange_Title_AtTurret>Alcance da torreta antitanque</TSA_WD_OutpostRange_Title_AtTurret>
+  <TSA_WD_OutpostRange_Current>Raio: {0} blocos (máx. {1})</TSA_WD_OutpostRange_Current>
+  <TSA_WD_OutpostRange_Reset>Redefinir</TSA_WD_OutpostRange_Reset>
+  <TSA_WD_OutpostRange_Confirm>Confirmar</TSA_WD_OutpostRange_Confirm>
+  <TSA_WD_RapidResponse_CancelIntercept>Cancelar interceptação</TSA_WD_RapidResponse_CancelIntercept>
+  <TSA_WD_RapidResponse_CancelInterceptDesc>Recolhe imediatamente esta caravana de resposta rápida e reembolsa sua força ao posto avançado de origem.</TSA_WD_RapidResponse_CancelInterceptDesc>
+  <TSA_WD_RapidResponse_InterceptCancelled>Interceptação de resposta rápida de {0} cancelada ({1} de força reembolsada).</TSA_WD_RapidResponse_InterceptCancelled>
+  <TSA_WD_Log_RapidResponseLaunched>{0} enviou uma caravana de resposta rápida para interceptar {1} ({2} de força).</TSA_WD_Log_RapidResponseLaunched>
+  <TSA_WD_Log_RapidResponseAborted>A interceptação de resposta rápida de {0} foi abortada porque o alvo sumiu ou não é mais hostil.</TSA_WD_Log_RapidResponseAborted>
+  <TSA_WD_Log_RapidResponseCancelled>A interceptação de resposta rápida de {0} foi cancelada ({1} de força reembolsada).</TSA_WD_Log_RapidResponseCancelled>
+  <TSA_WD_Log_RapidResponseResolved>A resposta rápida de {0} interceptou {1}: {2}.</TSA_WD_Log_RapidResponseResolved>
+  <TSA_WD_Log_RapidResponseDropPodsLaunched>{0} lançou {2} colono(s) por cápsula de transporte em {1}.</TSA_WD_Log_RapidResponseDropPodsLaunched>
+  <TSA_WD_Won>venceu</TSA_WD_Won>
+  <TSA_WD_Lost>perdeu</TSA_WD_Lost>
+  <TSA_WD_Pod_AddToOutpost>Adicionar a {0} (cápsulas de transporte)</TSA_WD_Pod_AddToOutpost>
+  <TSA_WD_Pod_ReinforceDefense>Reforçar a defesa de {0} (cápsulas de transporte)</TSA_WD_Pod_ReinforceDefense>
+  <TSA_WD_Pod_ReinforcedDefense>Cápsulas de transporte aterrissaram como reforços no campo de batalha temporário de {0}.</TSA_WD_Pod_ReinforcedDefense>
+  <TSA_WD_Pod_AddedPawn>{0} juntou-se a {1} pelas cápsulas de transporte.</TSA_WD_Pod_AddedPawn>
+  <TSA_WD_PodArrival_FoodConverted>{0} de nutrição das cápsulas de transporte convertida em comida virtual em {1}.</TSA_WD_PodArrival_FoodConverted>
+  <TSA_WD_PodArrival_ItemNotStored>Não é possível armazenar {0} neste posto avançado (postos avançados da WD só mantêm colonos como colonos virtuais). Item perdido.</TSA_WD_PodArrival_ItemNotStored>
+  <TSA_WD_AutoAdd_Desc>Quando ativado, qualquer caravana que chegar a este bloco será adicionada automaticamente ao posto avançado.</TSA_WD_AutoAdd_Desc>
+  <TSA_WD_AutoAdd_Label>Adicionar chegadas automaticamente</TSA_WD_AutoAdd_Label>
+  <TSA_WD_TakePrisoners_Label>Fazer prisioneiros</TSA_WD_TakePrisoners_Label>
+  <TSA_WD_TakePrisoners_Desc>Quando ativado, este posto avançado captura prisioneiros após vencer uma defesa, tanto na resolução automática quanto em um mapa de defesa manual. Quando desativado, inimigos sobreviventes não são capturados como prisioneiros do posto avançado.</TSA_WD_TakePrisoners_Desc>
+  <TSA_WD_AutoAdd_Message>Caravana adicionada automaticamente a {0}.</TSA_WD_AutoAdd_Message>
+  <TSA_WD_Biome_AnimalsPercent>{0} %</TSA_WD_Biome_AnimalsPercent>
+  <TSA_WD_Biome_FishPercent>{0} %</TSA_WD_Biome_FishPercent>
+  <TSA_WD_Biome_ColAnimals>Abundância de animais</TSA_WD_Biome_ColAnimals>
+  <TSA_WD_Biome_ColFish>Estoques de peixes</TSA_WD_Biome_ColFish>
+  <TSA_WD_Biome_ColFertility>Fertilidade</TSA_WD_Biome_ColFertility>
+  <TSA_WD_Biome_ColMining>Potencial de mineração</TSA_WD_Biome_ColMining>
+  <TSA_WD_Biome_ColName>Tipo de bioma</TSA_WD_Biome_ColName>
+  <TSA_WD_Biome_ColTerrain>Terreno</TSA_WD_Biome_ColTerrain>
+  <TSA_WD_Biome_ColTradingNearby>Assentamentos próximos</TSA_WD_Biome_ColTradingNearby>
+  <TSA_WD_Biome_FertilityPercent>{0} %</TSA_WD_Biome_FertilityPercent>
+  <TSA_WD_Biome_MiningPercent>{0} %</TSA_WD_Biome_MiningPercent>
+  <TSA_WD_Biome_Tooltip_Animals>Pontuação de abundância de animais (0–100%).\n\nFórmula:\n- Densidade animal do bioma vs. média\n- × riqueza de presas (tamanho corporal)\n- × (1 − penalidade de perigo de predadores).\n\nValores mais altos significam mais e melhores presas para postos avançados de caça.</TSA_WD_Biome_Tooltip_Animals>
+  <TSA_WD_Biome_Tooltip_Biome>Bioma deste bloco do mundo.\n\nAfeta a fertilidade (densidade de plantas) e a abundância de animais.</TSA_WD_Biome_Tooltip_Biome>
+  <TSA_WD_Biome_Tooltip_Fertility>Pontuação de fertilidade agrícola (0–100%).\n\nFórmula:\n- Fração da estação de cultivo (duodécimos do ano com temperatura média em uma faixa favorável às plantações, incluindo trópicos quentes)\n- × densidade de plantas do bioma classificada entre os biomas de menor e maior densidade de plantas na sua lista de mods (melhores biomas = 100%)\n- × penalidade de colina (Plano/Colinas pequenas = 100%, Colinas grandes = 80%, Montanhoso = 50%, água = 0%).</TSA_WD_Biome_Tooltip_Fertility>
+  <TSA_WD_ProductivityTooltip_FertilityIntro>A pontuação agrícola combina estação de cultivo, classificação de densidade de plantas do bioma e relevo em um valor base. Os recursos do bloco listados adicionam pontos percentuais fixos (mutadores do Odyssey / Landmarks reconhecidos por este mod).</TSA_WD_ProductivityTooltip_FertilityIntro>
+  <TSA_WD_ProductivityTooltip_HuntingIntro>A abundância de animais classifica a densidade animal deste bioma entre todos os biomas carregados e então adiciona modificadores fixos dos recursos do bloco do mundo (mutadores) que este mod reconhece.</TSA_WD_ProductivityTooltip_HuntingIntro>
+  <TSA_WD_ProductivityTooltip_FishingIntro>Os estoques de peixes classificam a população máxima de peixes deste bioma entre os biomas que têm peixes e então adicionam modificadores fixos dos recursos do bloco do mundo (mutadores) que este mod reconhece. Apenas blocos de terra com litoral oceânico se qualificam.</TSA_WD_ProductivityTooltip_FishingIntro>
+  <TSA_WD_ProductivityTooltip_NotCoastal>Este bloco não é litoral oceânico. Postos avançados de pesca precisam de um bloco de terra costeiro (não lagos ou águas abertas).</TSA_WD_ProductivityTooltip_NotCoastal>
+  <TSA_WD_ProductivityTooltip_MiningIntro>A eficiência de mineração parte do relevo deste bloco (Plano=10%, Colinas pequenas=50%, Colinas grandes=80%, Montanhoso=100%, Intransponível=0%) e então adiciona pontos percentuais fixos dos recursos do bloco do mundo (mutadores) que este mod reconhece.</TSA_WD_ProductivityTooltip_MiningIntro>
+  <TSA_WD_ProductivityTooltip_Base>Base: {0}%</TSA_WD_ProductivityTooltip_Base>
+  <TSA_WD_ProductivityTooltip_MutatorsHeader>Recursos do bloco do mundo:</TSA_WD_ProductivityTooltip_MutatorsHeader>
+  <TSA_WD_ProductivityTooltip_MutatorLine>  • {0}: {1}</TSA_WD_ProductivityTooltip_MutatorLine>
+  <TSA_WD_ProductivityTooltip_NoMutators>Nenhum modificador de bloco.</TSA_WD_ProductivityTooltip_NoMutators>
+  <TSA_WD_ProductivityTooltip_OutpostUpgradesHeader>Melhorias de posto avançado aqui:</TSA_WD_ProductivityTooltip_OutpostUpgradesHeader>
+  <TSA_WD_ProductivityTooltip_PollutionLine>Poluição aqui ({0} %): x{1} %</TSA_WD_ProductivityTooltip_PollutionLine>
+  <TSA_WD_ProductivityTooltip_Total>Total: {0}% (máximo {1}%).</TSA_WD_ProductivityTooltip_Total>
+  <TSA_WD_ProductivityTooltip_CappedHigh>Valor bruto antes do teto: {0}% — resultado limitado a {1}%.</TSA_WD_ProductivityTooltip_CappedHigh>
+  <TSA_WD_ProductivityTooltip_CappedLow>Valor bruto antes do piso: {0}% — mínimo de 0% aplicado.</TSA_WD_ProductivityTooltip_CappedLow>
+  <TSA_WD_ProductivityTooltip_InvalidTile>Bloco inválido.</TSA_WD_ProductivityTooltip_InvalidTile>
+  <TSA_WD_ProductivityTooltip_WaterTile>Não se aplica (água).</TSA_WD_ProductivityTooltip_WaterTile>
+  <TSA_WD_Biome_Tooltip_Mining>Eficiência de mineração (0–100%).\n\nBase por relevo:\n- Plano = 10%\n- Colinas pequenas = 50%\n- Colinas grandes = 80%\n- Montanhoso = 100%\n- Intransponível = 0%\n\nDepósitos de minério, ferros-velhos, poluição e outros mutadores de bloco de mods suportados adicionam pontos percentuais fixos (positivos ou negativos) e então o resultado é limitado.</TSA_WD_Biome_Tooltip_Mining>
+  <TSA_WD_TileProductivity_Tab>Bloco</TSA_WD_TileProductivity_Tab>
+  <TSA_WD_TileProductivity_Headline>Produtividade neste bloco</TSA_WD_TileProductivity_Headline>
+  <TSA_WD_TileProductivity_ColFertility>Fertilidade</TSA_WD_TileProductivity_ColFertility>
+  <TSA_WD_TileProductivity_ColAnimals>Abundância de animais</TSA_WD_TileProductivity_ColAnimals>
+  <TSA_WD_TileProductivity_ColMining>Eficiência de mineração</TSA_WD_TileProductivity_ColMining>
+  <TSA_WD_TileProductivity_BaseForTile>Base do bloco</TSA_WD_TileProductivity_BaseForTile>
+  <TSA_WD_TileProductivity_TileModifiers>Modificadores do bloco:</TSA_WD_TileProductivity_TileModifiers>
+  <TSA_WD_TileProductivity_SearchNoMatch>Nenhuma espécie corresponde a este filtro.</TSA_WD_TileProductivity_SearchNoMatch>
+  <TSA_WD_TileProductivity_Breakdown>Detalhamento</TSA_WD_TileProductivity_Breakdown>
+  <TSA_WD_TileProductivity_ChoosePanel>Inspecionar:</TSA_WD_TileProductivity_ChoosePanel>
+  <TSA_WD_TileProductivity_WildlifeHeader>Animais aqui</TSA_WD_TileProductivity_WildlifeHeader>
+  <TSA_WD_TileProductivity_WildlifeNone>Nenhuma fauna caçável listada para este bioma.</TSA_WD_TileProductivity_WildlifeNone>
+  <TSA_WD_TileProductivity_FishHeader>Peixes aqui</TSA_WD_TileProductivity_FishHeader>
+  <TSA_WD_TileProductivity_FishNone>Nenhuma espécie de peixe de água salgada disponível.</TSA_WD_TileProductivity_FishNone>
+  <TSA_WD_TileProductivity_FishNotCoastal>Não é litoral oceânico (a pesca precisa de um bloco de terra costeiro).</TSA_WD_TileProductivity_FishNotCoastal>
+  <TSA_WD_TileProductivity_FishCommon>comum</TSA_WD_TileProductivity_FishCommon>
+  <TSA_WD_TileProductivity_FishUncommon>incomum</TSA_WD_TileProductivity_FishUncommon>
+  <TSA_WD_TileProductivity_BasePct>{0}%</TSA_WD_TileProductivity_BasePct>
+  <TSA_WD_TileProductivity_TotalPct>Total: {0}%</TSA_WD_TileProductivity_TotalPct>
+  <TSA_WD_ProductivityOverlay_Tooltip>WD: sobreposição de produtividade do bloco do mundo.\n\nAtual: {0}\n\nClique para escolher fertilidade, abundância de animais, riqueza de mineração ou desligado.</TSA_WD_ProductivityOverlay_Tooltip>
+  <TSA_WD_ProductivityOverlay_Off>Sobreposição de produtividade: desligada</TSA_WD_ProductivityOverlay_Off>
+  <TSA_WD_ProductivityOverlay_Fertility>Sobreposição de produtividade: fertilidade</TSA_WD_ProductivityOverlay_Fertility>
+  <TSA_WD_ProductivityOverlay_AnimalAbundance>Sobreposição de produtividade: abundância de animais</TSA_WD_ProductivityOverlay_AnimalAbundance>
+  <TSA_WD_ProductivityOverlay_MiningRichness>Sobreposição de produtividade: riqueza de mineração</TSA_WD_ProductivityOverlay_MiningRichness>
+  <TSA_WD_Biome_Tooltip_Terrain>Tipo de terreno deste bloco (Plano, Colinas pequenas, Colinas grandes, Montanhoso, Intransponível).\n\nO terreno afeta penalidades de fertilidade e o potencial de mineração dos postos avançados.</TSA_WD_Biome_Tooltip_Terrain>
+  <TSA_WD_Biome_Tooltip_TradingNearby>Assentamentos neutros ou aliados dentro do raio de comércio (atualmente {0} blocos). O rendimento usa até os 3 melhores assentamentos por facção por nível.</TSA_WD_Biome_Tooltip_TradingNearby>
+  <TSA_WD_Biome_Tooltip_TradingNearbyPartnersHeader>Dentro do alcance:</TSA_WD_Biome_Tooltip_TradingNearbyPartnersHeader>
+  <TSA_WD_Biome_Tooltip_TradingNearbyPartnerLine>{0} ({1})</TSA_WD_Biome_Tooltip_TradingNearbyPartnerLine>
+  <TSA_WD_Biome_Tooltip_TradingNearbyPartnersNone>Nenhum no alcance.</TSA_WD_Biome_Tooltip_TradingNearbyPartnersNone>
+  <TSA_WD_Build>Construir</TSA_WD_Build>
+  <TSA_WD_BuildDesc>Construa estradas, bloqueios de estrada ou armadilhas de espinhos a partir deste posto avançado.</TSA_WD_BuildDesc>
+  <TSA_WD_ColonyBuildDesc>Construa estradas, bloqueios de estrada ou armadilhas de espinhos a partir da sua colônia. O progresso usa a habilidade Construção da colônia. Sem custo de força.</TSA_WD_ColonyBuildDesc>
+  <TSA_WD_BuildRoad>Construir estrada</TSA_WD_BuildRoad>
+  <TSA_WD_CancelCurrentProjectFirst>Cancele o projeto atual primeiro</TSA_WD_CancelCurrentProjectFirst>
+  <TSA_WD_InsufficientStrengthToBuild>Força insuficiente para entregar {0}</TSA_WD_InsufficientStrengthToBuild>
+  <TSA_WD_InsufficientStrengthToClear>Força insuficiente para limpar {0}</TSA_WD_InsufficientStrengthToClear>
+  <TSA_WD_BuildRoadDesc>Orienta este posto avançado a começar a construir uma rede de estradas em direção a um bloco específico. A velocidade escala com a habilidade Construção acumulada.\n\nShift+clique para colocar pontos de passagem; clique sem Shift para definir o destino final.</TSA_WD_BuildRoadDesc>
+  <TSA_WD_BuildRoadStatus>Construindo atualmente em direção a "{0}"\nProgresso: {1}%</TSA_WD_BuildRoadStatus>
+  <TSA_WD_CancelRoad>Cancelar construção de estrada</TSA_WD_CancelRoad>
+  <TSA_WD_CancelRoadDesc>Interrompe todas as atividades de construção de estradas deste posto avançado.</TSA_WD_CancelRoadDesc>
+  <TSA_WD_BuildRoadBlocks>Construir bloqueios de estrada</TSA_WD_BuildRoadBlocks>
+  <TSA_WD_BuildRoadBlocksDesc>Construa bloqueios de estrada para aumentar o custo de movimento em um bloco do mundo.</TSA_WD_BuildRoadBlocksDesc>
+  <TSA_WD_ClearRoadBlocks>Remover bloqueios de estrada</TSA_WD_ClearRoadBlocks>
+  <TSA_WD_ClearRoadBlocksDesc>Remove bloqueios de estrada existentes.</TSA_WD_ClearRoadBlocksDesc>
+  <TSA_WD_RemoveFortifications>Remover fortificações</TSA_WD_RemoveFortifications>
+  <TSA_WD_RemoveFortificationsDesc>Envia uma equipe para remover bloqueios de estrada, armadilhas de espinhos ou torretas antitanque ao longo de um caminho. Clique em qualquer bloco transitável; os blocos de trabalho são aqueles que realmente têm uma fortificação.</TSA_WD_RemoveFortificationsDesc>
+  <TSA_WD_RemoveRoads>Remover estradas</TSA_WD_RemoveRoads>
+  <TSA_WD_RemoveRoadsDesc>Envia uma equipe para remover estradas existentes ao longo de um caminho. Cada segmento leva o mesmo tempo que construir uma estrada de terra, independentemente do tipo de estrada.\n\nShift+clique para colocar pontos de passagem; clique sem Shift para definir o destino final.</TSA_WD_RemoveRoadsDesc>
+  <TSA_WD_RemoveRoadsStatus>Removendo estradas atualmente em direção a "{0}"\nProgresso: {1}%</TSA_WD_RemoveRoadsStatus>
+  <TSA_WD_RoadRemovalTip>Clique em um bloco para iniciar um caminho de remoção de estradas (Shift adiciona pontos de passagem).</TSA_WD_RoadRemovalTip>
+  <TSA_WD_RoadRemovalEmpty>Nenhuma estrada nesse caminho.</TSA_WD_RoadRemovalEmpty>
+  <TSA_WD_RoadRemovalTargetSet>Projeto de remoção de estradas definido ({0} segmentos).</TSA_WD_RoadRemovalTargetSet>
+  <TSA_WD_CancelRoadRemoval>Cancelar remoção de estradas</TSA_WD_CancelRoadRemoval>
+  <TSA_WD_CancelRoadRemovalDesc>Interrompe todas as atividades de remoção de estradas deste posto avançado.</TSA_WD_CancelRoadRemovalDesc>
+  <TSA_WD_RoadRemovalCancelled>A remoção de estradas em {0} foi interrompida.</TSA_WD_RoadRemovalCancelled>
+  <TSA_WD_RoadRemovalSegmentComplete>{0} concluiu a remoção de um segmento de estrada.</TSA_WD_RoadRemovalSegmentComplete>
+  <TSA_WD_Inspect_RoadClear>Removendo estradas</TSA_WD_Inspect_RoadClear>
+  <TSA_WD_FortificationClearTip>Clique em um bloco transitável (Shift adiciona pontos de passagem). Confirme para limpar bloqueios de estrada e armadilhas nesse caminho.</TSA_WD_FortificationClearTip>
+  <TSA_WD_FortificationClearEmpty>Nenhum bloqueio de estrada ou armadilha nesse caminho.</TSA_WD_FortificationClearEmpty>
+  <TSA_WD_FortificationClearTargetSet>Projeto de limpeza de fortificações definido ({0} blocos).</TSA_WD_FortificationClearTargetSet>
+  <TSA_WD_FortificationClearStatus>Limpando fortificações em direção a {0}: {1}%</TSA_WD_FortificationClearStatus>
+  <TSA_WD_Inspect_FortificationClear>Limpando fortificações</TSA_WD_Inspect_FortificationClear>
+  <TSA_WD_CancelFortificationClear>Cancelar limpeza de fortificações</TSA_WD_CancelFortificationClear>
+  <TSA_WD_CancelFortificationClearDesc>Cancela o projeto ativo de limpeza de fortificações.</TSA_WD_CancelFortificationClearDesc>
+  <TSA_WD_FortificationClearCancelled>Limpeza de fortificações cancelada em {0}.</TSA_WD_FortificationClearCancelled>
+  <TSA_WD_FortifyBlacklist_Mark>Marcar zona sem fortificação</TSA_WD_FortifyBlacklist_Mark>
+  <TSA_WD_FortifyBlacklist_MarkTip>Pinta blocos onde aliados (e neutros, se ativado) não podem colocar novos bloqueios de estrada ou armadilhas. Instantâneo, sem equipe. Fortificações existentes permanecem até você usar Remover fortificações.</TSA_WD_FortifyBlacklist_MarkTip>
+  <TSA_WD_FortifyBlacklist_Erase>Apagar marcas sem fortificação</TSA_WD_FortifyBlacklist_Erase>
+  <TSA_WD_FortifyBlacklist_EraseTip>Remove as marcas sem fortificação. Instantâneo, sem equipe.</TSA_WD_FortifyBlacklist_EraseTip>
+  <TSA_WD_FortifyBlacklist_AddTargetTip>Clique em um bloco para marcá-lo. Clique com o botão direito ou Esc para parar.</TSA_WD_FortifyBlacklist_AddTargetTip>
+  <TSA_WD_FortifyBlacklist_RemoveTargetTip>Clique em um bloco marcado para desmarcá-lo. Clique com o botão direito ou Esc para parar.</TSA_WD_FortifyBlacklist_RemoveTargetTip>
+  <TSA_WD_FortifyBlacklist_MarkTargetTip>Clique em um bloco para marcá-lo. Clique com o botão direito ou Esc para parar.</TSA_WD_FortifyBlacklist_MarkTargetTip>
+  <TSA_WD_FortifyBlacklist_EraseTargetTip>Clique em um bloco marcado para desmarcá-lo. Clique com o botão direito ou Esc para parar.</TSA_WD_FortifyBlacklist_EraseTargetTip>
+  <TSA_WD_FortifyBlacklist_BadTile>Escolha um bloco de terra transitável.</TSA_WD_FortifyBlacklist_BadTile>
+  <TSA_WD_FortifyBlacklist_MissingComp>Não foi possível salvar as marcas sem fortificação (componente do mundo ausente).</TSA_WD_FortifyBlacklist_MissingComp>
+  <TSA_WD_FortifyBlacklist_Marked>{0} blocos marcados como sem fortificação.</TSA_WD_FortifyBlacklist_Marked>
+  <TSA_WD_FortifyBlacklist_Erased>Marcas sem fortificação removidas em {0} blocos.</TSA_WD_FortifyBlacklist_Erased>
+  <TSA_WD_CancelRoadBlocks>Cancelar bloqueios de estrada</TSA_WD_CancelRoadBlocks>
+  <TSA_WD_CancelRoadBlocksDesc>Aborta o projeto de bloqueio de estrada e destrói qualquer equipe já a caminho. Sem reembolso de força.</TSA_WD_CancelRoadBlocksDesc>
+  <TSA_WD_RoadBlockAlreadyInProgress>Um projeto de bloqueio de estrada já está em andamento. Cancele-o primeiro.</TSA_WD_RoadBlockAlreadyInProgress>
+  <TSA_WD_RoadBlockMutexRoad>Não é possível iniciar bloqueios de estrada enquanto um projeto de estrada está ativo.</TSA_WD_RoadBlockMutexRoad>
+  <TSA_WD_RoadMutexRoadBlock>Não é possível iniciar um projeto de estrada enquanto bloqueios de estrada estão sendo construídos ou removidos.</TSA_WD_RoadMutexRoadBlock>
+  <TSA_WD_RoadBlockBuildStatus>Construindo bloqueios de estrada em direção a "{0}"\nProgresso: {1}%</TSA_WD_RoadBlockBuildStatus>
+  <TSA_WD_RoadBlockClearStatus>Removendo bloqueios de estrada em direção a "{0}"\nProgresso: {1}%</TSA_WD_RoadBlockClearStatus>
+  <TSA_WD_RoadBlockCancelled>Projeto de bloqueio de estrada em {0} cancelado.</TSA_WD_RoadBlockCancelled>
+  <TSA_WD_RoadBlockWaypointOutOfRange>Esse bloco está além do alcance de bloqueio de estrada a partir do ponto de passagem atual.</TSA_WD_RoadBlockWaypointOutOfRange>
+  <TSA_WD_RoadBlockNoPath>Nenhum caminho terrestre até esse bloco.</TSA_WD_RoadBlockNoPath>
+  <TSA_WD_RoadBlockBuildEmpty>Nenhum bloco válido para bloquear nesse caminho (precisa de blocos transitáveis vazios, sem assentamentos/postos avançados/bloqueios existentes).</TSA_WD_RoadBlockBuildEmpty>
+  <TSA_WD_RoadBlockClearEmpty>Nenhum bloqueio de estrada nesse caminho para remover.</TSA_WD_RoadBlockClearEmpty>
+  <TSA_WD_RoadBlockBuildTargetSet>Projeto de bloqueio de estrada definido ({0} blocos).</TSA_WD_RoadBlockBuildTargetSet>
+  <TSA_WD_RoadBlockClearTargetSet>Projeto de remoção de bloqueio de estrada definido ({0} blocos).</TSA_WD_RoadBlockClearTargetSet>
+  <TSA_WD_RoadBlockBuildTip>Clique em um bloco para colocar o primeiro bloqueio ali (sem linha a partir do posto avançado). Shift+clique para mais nós; clique para confirmar.</TSA_WD_RoadBlockBuildTip>
+  <TSA_WD_RoadBlockClearTip>Clique em um bloco bloqueado para começar a remover ali. Shift+clique para mais nós; clique para confirmar.</TSA_WD_RoadBlockClearTip>
+  <TSA_WD_RoadBlockMutexSpikeTrap>Não é possível iniciar bloqueios de estrada enquanto um projeto de armadilhas de espinhos está ativo.</TSA_WD_RoadBlockMutexSpikeTrap>
+  <TSA_WD_RoadMutexSpikeTrap>Não é possível iniciar um projeto de estrada enquanto armadilhas de espinhos estão sendo construídas ou removidas.</TSA_WD_RoadMutexSpikeTrap>
+  <TSA_WD_BuildSpikeTraps>Construir armadilhas</TSA_WD_BuildSpikeTraps>
+  <TSA_WD_BuildSpikeTrapsDesc>Construa armadilhas de espinhos em blocos do mundo. Viajantes terrestres hostis sofrem dano de força ao sair de um bloco com armadilha; a armadilha é destruída. Viajantes amigáveis e neutros não são afetados. Um viajante pode acionar apenas um número limitado de armadilhas.</TSA_WD_BuildSpikeTrapsDesc>
+  <TSA_WD_BuildAT_Turret>Construir torreta</TSA_WD_BuildAT_Turret>
+  <TSA_WD_BuildAT_TurretDesc>Construa torretas antitanque em blocos do mundo. Elas atirarão em caravanas terrestres hostis que passarem. Configure quais devem ser alvo.</TSA_WD_BuildAT_TurretDesc>
+  <TSA_WD_CancelAT_Turret>Cancelar torreta antitanque</TSA_WD_CancelAT_Turret>
+  <TSA_WD_CancelAT_TurretDesc>Aborta o projeto de torreta antitanque e destrói qualquer equipe já a caminho. Sem reembolso de força.</TSA_WD_CancelAT_TurretDesc>
+  <TSA_WD_AT_TurretCancelled>Projeto de torreta antitanque em {0} cancelado.</TSA_WD_AT_TurretCancelled>
+  <TSA_WD_AT_Turret_RequiresMachining>Torreta antitanque (requer Usinagem)</TSA_WD_AT_Turret_RequiresMachining>
+  <TSA_WD_AT_Turret_AtCap>Limite de torretas antitanque atingido ({0})</TSA_WD_AT_Turret_AtCap>
+  <TSA_WD_AT_Turret_AtCapGlobal>Limite global de torretas antitanque atingido ({0})</TSA_WD_AT_Turret_AtCapGlobal>
+  <TSA_WD_AT_Turret_AtCapSite>Limite de torretas antitanque deste local atingido ({0})</TSA_WD_AT_Turret_AtCapSite>
+  <TSA_WD_AT_Turret_NeedsColony>Torreta antitanque (precisa de uma colônia do jogador)</TSA_WD_AT_Turret_NeedsColony>
+  <TSA_WD_AT_TurretTier_Light>Torreta antitanque leve</TSA_WD_AT_TurretTier_Light>
+  <TSA_WD_AT_TurretTier_Medium>Torreta antitanque média</TSA_WD_AT_TurretTier_Medium>
+  <TSA_WD_AT_TurretTier_Heavy>Torreta antitanque pesada</TSA_WD_AT_TurretTier_Heavy>
+  <TSA_WD_AT_TurretTier_ComingSoon>{0} (em breve)</TSA_WD_AT_TurretTier_ComingSoon>
+  <TSA_WD_AT_TurretTier_SettlementT1T2>Nível 1 ou 2</TSA_WD_AT_TurretTier_SettlementT1T2>
+  <TSA_WD_AT_TurretTier_RequiresSettlementTier>{0} (requer {1})</TSA_WD_AT_TurretTier_RequiresSettlementTier>
+  <TSA_WD_AT_TurretTier_Disabled>{0} (Construção {1}/{2})</TSA_WD_AT_TurretTier_Disabled>
+  <TSA_WD_AT_TurretTierTooltip>Custo de força: {1}\nDias estimados: {2}</TSA_WD_AT_TurretTierTooltip>
+  <TSA_WD_AT_Turret_TargetPrompt>Clique em um bloco transitável livre para colocar uma torreta antitanque. Shift+clique para selecionar vários.</TSA_WD_AT_Turret_TargetPrompt>
+  <TSA_WD_AT_Turret_TargetSet>Projeto de torreta antitanque definido ({0} blocos).</TSA_WD_AT_Turret_TargetSet>
+  <TSA_WD_AT_Turret_InvalidTile>Precisa de um bloco transitável sem assentamento, posto avançado, bloqueio de estrada, armadilha de espinhos ou torreta antitanque existente.</TSA_WD_AT_Turret_InvalidTile>
+  <TSA_WD_BuildDecontamination>Equipe de descontaminação</TSA_WD_BuildDecontamination>
+  <TSA_WD_BuildDecontaminationDesc>Envia uma equipe para limpar poluição de blocos do mundo. Planeje um caminho; apenas blocos poluídos são limpos. Requer Equipamento de descontaminação e Biotech.</TSA_WD_BuildDecontaminationDesc>
+  <TSA_WD_CancelDecontamination>Cancelar descontaminação</TSA_WD_CancelDecontamination>
+  <TSA_WD_CancelDecontaminationDesc>Aborta o projeto de descontaminação e destrói qualquer equipe já a caminho. Sem reembolso de força.</TSA_WD_CancelDecontaminationDesc>
+  <TSA_WD_DecontaminationRequiresBiotech>A descontaminação requer Biotech</TSA_WD_DecontaminationRequiresBiotech>
+  <TSA_WD_DecontaminationRequiresUpgrade>Requer a melhoria Equipamento de descontaminação</TSA_WD_DecontaminationRequiresUpgrade>
+  <TSA_WD_DecontaminationBuildStatus>Descontaminando em direção a "{0}"\nProgresso: {1}%</TSA_WD_DecontaminationBuildStatus>
+  <TSA_WD_DecontaminationCancelled>Projeto de descontaminação em {0} cancelado.</TSA_WD_DecontaminationCancelled>
+  <TSA_WD_DecontaminationWaypointOutOfRange>Esse bloco está além do alcance de descontaminação a partir do ponto de passagem atual.</TSA_WD_DecontaminationWaypointOutOfRange>
+  <TSA_WD_DecontaminationNoPath>Nenhum caminho terrestre até esse bloco.</TSA_WD_DecontaminationNoPath>
+  <TSA_WD_DecontaminationBuildEmpty>Nenhum bloco poluído nesse caminho para limpar.</TSA_WD_DecontaminationBuildEmpty>
+  <TSA_WD_DecontaminationBuildTargetSet>Projeto de descontaminação definido ({0} blocos poluídos).</TSA_WD_DecontaminationBuildTargetSet>
+  <TSA_WD_DecontaminationBuildTip>Clique em qualquer bloco transitável para começar. Shift+clique para pontos de passagem. Apenas blocos poluídos no caminho são limpos.</TSA_WD_DecontaminationBuildTip>
+  <TSA_WD_DecontaminationKind_Disabled>{0} (Construção {1}/{2})</TSA_WD_DecontaminationKind_Disabled>
+  <TSA_WD_DecontaminationTooltip>Trabalho: {0}\nLimpeza de poluição: −{1}pp\nDias est./bloco: {2}\nCusto de força: {3}\nConstrução mín.: {4}</TSA_WD_DecontaminationTooltip>
+  <TSA_WD_ClearSpikeTraps>Remover armadilhas</TSA_WD_ClearSpikeTraps>
+  <TSA_WD_ClearSpikeTrapsDesc>Remove armadilhas de espinhos existentes.</TSA_WD_ClearSpikeTrapsDesc>
+  <TSA_WD_CancelSpikeTraps>Cancelar armadilhas de espinhos</TSA_WD_CancelSpikeTraps>
+  <TSA_WD_CancelSpikeTrapsDesc>Aborta o projeto de armadilhas de espinhos e destrói qualquer equipe já a caminho. Sem reembolso de força.</TSA_WD_CancelSpikeTrapsDesc>
+  <TSA_WD_SpikeTrapAlreadyInProgress>Um projeto de armadilhas de espinhos já está em andamento. Cancele-o primeiro.</TSA_WD_SpikeTrapAlreadyInProgress>
+  <TSA_WD_SpikeTrapMutexRoad>Não é possível iniciar armadilhas de espinhos enquanto um projeto de estrada está ativo.</TSA_WD_SpikeTrapMutexRoad>
+  <TSA_WD_SpikeTrapMutexRoadBlock>Não é possível iniciar armadilhas de espinhos enquanto bloqueios de estrada estão sendo construídos ou removidos.</TSA_WD_SpikeTrapMutexRoadBlock>
+  <TSA_WD_SpikeTrapBuildStatus>Construindo armadilhas de espinhos em direção a "{0}"\nProgresso: {1}%</TSA_WD_SpikeTrapBuildStatus>
+  <TSA_WD_SpikeTrapClearStatus>Removendo armadilhas de espinhos em direção a "{0}"\nProgresso: {1}%</TSA_WD_SpikeTrapClearStatus>
+  <TSA_WD_SpikeTrapCancelled>Projeto de armadilhas de espinhos em {0} cancelado.</TSA_WD_SpikeTrapCancelled>
+  <TSA_WD_SpikeTrapWaypointOutOfRange>Esse bloco está além do alcance das armadilhas de espinhos a partir do ponto de passagem atual.</TSA_WD_SpikeTrapWaypointOutOfRange>
+  <TSA_WD_SpikeTrapNoPath>Nenhum caminho terrestre até esse bloco.</TSA_WD_SpikeTrapNoPath>
+  <TSA_WD_SpikeTrapBuildEmpty>Nenhum bloco válido para armadilhas de espinhos nesse caminho (precisa de blocos transitáveis vazios, sem assentamentos/postos avançados/bloqueios de estrada/armadilhas existentes).</TSA_WD_SpikeTrapBuildEmpty>
+  <TSA_WD_SpikeTrapClearEmpty>Nenhuma armadilha de espinhos nesse caminho para remover.</TSA_WD_SpikeTrapClearEmpty>
+  <TSA_WD_SpikeTrapBuildTargetSet>Projeto de armadilhas de espinhos definido ({0} blocos).</TSA_WD_SpikeTrapBuildTargetSet>
+  <TSA_WD_SpikeTrapClearTargetSet>Projeto de remoção de armadilhas de espinhos definido ({0} blocos).</TSA_WD_SpikeTrapClearTargetSet>
+  <TSA_WD_SpikeTrapBuildTip>Clique em um bloco para colocar a primeira armadilha de espinhos ali (sem linha a partir do posto avançado). Shift+clique para mais nós; clique para confirmar.</TSA_WD_SpikeTrapBuildTip>
+  <TSA_WD_SpikeTrapClearTip>Clique em um bloco com armadilha para começar a remover ali. Shift+clique para mais nós; clique para confirmar.</TSA_WD_SpikeTrapClearTip>
+  <TSA_WD_CapT1>Limite do Nível 1</TSA_WD_CapT1>
+  <TSA_WD_CapT2>Limite do Nível 2</TSA_WD_CapT2>
+  <TSA_WD_CapT3>Limite do Nível 3</TSA_WD_CapT3>
+  <TSA_WD_CapT4>Limite do Nível 4</TSA_WD_CapT4>
+  <TSA_WD_Cd_Launch>Pode lançar incursão novamente em: {0} dias</TSA_WD_Cd_Launch>
+  <TSA_WD_Cd_Shield>O escudo defensivo expira em: {0} dias</TSA_WD_Cd_Shield>
+  <TSA_WD_ClearRedirection>Limpar destino de redirecionamento</TSA_WD_ClearRedirection>
+  <TSA_WD_ClearRedirectionDesc>Para de enviar caravanas de recrutas para longe. Novos recrutas ficarão neste posto avançado.</TSA_WD_ClearRedirectionDesc>
+  <TSA_WD_ConfirmReroll>Tem certeza? Esta ação não pode ser desfeita!</TSA_WD_ConfirmReroll>
+  <TSA_WD_ConfirmResetAll>Tem certeza de que deseja restaurar TODAS as configurações do mod para os valores padrão? Isso não pode ser desfeito.</TSA_WD_ConfirmResetAll>
+  <TSA_WD_ConquestDialog_Header>Você pode escolher tipos de posto avançado ≤ N{0}; apenas verificações de bioma e assentamentos próximos se aplicam.</TSA_WD_ConquestDialog_Header>
+  <TSA_WD_ConquestLetter_Label>Resultado da conquista</TSA_WD_ConquestLetter_Label>
+  <TSA_WD_ConquestLetter_Text>As ruínas de {0} (Nível {1}) estão sob seu controle. Decida se vai estabelecer um posto avançado, recrutar os sobreviventes, entregar o local a uma facção amigável ou abandoná-lo.</TSA_WD_ConquestLetter_Text>
+  <TSA_WD_Conquest_OptEstablish>Estabelecer posto avançado</TSA_WD_Conquest_OptEstablish>
+  <TSA_WD_Conquest_OptRecruit>Recrutar os sobreviventes</TSA_WD_Conquest_OptRecruit>
+  <TSA_WD_Conquest_OptGiveAlly>Deixar uma facção aliada ou neutra se assentar aqui</TSA_WD_Conquest_OptGiveAlly>
+  <TSA_WD_Conquest_OptLeave>Apenas sair</TSA_WD_Conquest_OptLeave>
+  <TSA_WD_Conquest_NoEligibleAllies>Nenhuma facção aliada ou neutra é hostil ou neutra em relação à facção conquistada.</TSA_WD_Conquest_NoEligibleAllies>
+  <TSA_WD_Conquest_Back>Voltar</TSA_WD_Conquest_Back>
+  <TSA_WD_Conquest_RecruitNone>Nenhum sobrevivente estava disposto a se juntar a você.</TSA_WD_Conquest_RecruitNone>
+  <TSA_WD_Conquest_RecruitJoined>{0} sobreviventes juntaram-se a {1}.</TSA_WD_Conquest_RecruitJoined>
+  <TSA_WD_Conquest_RecruitArriving>{0} sobreviventes formaram uma caravana e estão indo para a sua colônia.</TSA_WD_Conquest_RecruitArriving>
+  <TSA_WD_Conquest_RecruitAlready>Os sobreviventes destas ruínas já foram recrutados.</TSA_WD_Conquest_RecruitAlready>
+  <TSA_WD_Conquest_RuinsGone>Estas ruínas não estão mais disponíveis.</TSA_WD_Conquest_RuinsGone>
+  <TSA_WD_Conquest_AllyGiftTitle>Escolha quem vai se assentar nas ruínas</TSA_WD_Conquest_AllyGiftTitle>
+  <TSA_WD_Conquest_AllyGiftDesc>Esta é a opção diplomática para estas ruínas. Escolha uma facção aliada ou neutra para estabelecer um assentamento de Nível {0} aqui. Facções aliadas ao lado conquistado aparecem esmaecidas e não podem receber o presente.</TSA_WD_Conquest_AllyGiftDesc>
+  <TSA_WD_Conquest_AllyGiftGive>Entregar</TSA_WD_Conquest_AllyGiftGive>
+  <TSA_WD_Conquest_AllyGiftBlockedAlliedToConquered>Não é possível conceder este assentamento a esta facção porque ela é aliada da facção à qual este assentamento pertencia.</TSA_WD_Conquest_AllyGiftBlockedAlliedToConquered>
+  <TSA_WD_Conquest_AllyGiftDone>{0} estabeleceu {1} sobre as ruínas. Boa vontade melhorada.</TSA_WD_Conquest_AllyGiftDone>
+  <TSA_WD_GoodwillLabel>Boa vontade: {0}</TSA_WD_GoodwillLabel>
+  <TSA_WD_ConvertFood>Converter comida da caravana</TSA_WD_ConvertFood>
+  <TSA_WD_ConvertFoodDesc>Examina o inventário da caravana em busca de itens com valor nutricional (refeições, pemmican e comida crua) e os converte em pontos de comida virtual para o posto avançado vinculado (taxa de conversão baseada no valor nutricional).</TSA_WD_ConvertFoodDesc>
+  <TSA_WD_ColonyAutoTravelFood_Label>Transferências de alimentação automáticas</TSA_WD_ColonyAutoTravelFood_Label>
+  <TSA_WD_ColonyAutoTravelFood_Desc>Quando ativado, a comida comestível no mapa desta colônia é convertida em pemmican para os colonos que você transferir para fora. Prefere comida que estraga mais cedo. Desative para não mexer na comida do mapa.</TSA_WD_ColonyAutoTravelFood_Desc>
+  <TSA_WD_CostToEstablish>Custo para estabelecer</TSA_WD_CostToEstablish>
+  <TSA_WD_NoCostConquest>Sem custo (conquista)</TSA_WD_NoCostConquest>
+  <TSA_WD_CumCaravanSkill>Habilidade {0} acum. da caravana: {1}</TSA_WD_CumCaravanSkill>
+  <TSA_WD_CumSkill_Tooltip>Soma da(s) habilidade(s) principal(is) deste posto avançado entre todos os colonos da caravana. Deve atingir o mínimo para este tipo de posto avançado ao estabelecer a partir de uma caravana.</TSA_WD_CumSkill_Tooltip>
+  <TSA_WD_Daily_WeightBuildRoad>Construir estrada</TSA_WD_Daily_WeightBuildRoad>
+  <TSA_WD_Daily_WeightBuildRoadTip>O peso relativo de um assentamento escolher construir um segmento de estrada em direção a um vizinho em vez de lançar incursões ou crescer.</TSA_WD_Daily_WeightBuildRoadTip>
+  <TSA_WD_EstablishOutpost>Estabelecer posto avançado</TSA_WD_EstablishOutpost>
+  <TSA_WD_EstablishOutpostTooltip>Abre a seleção de posto avançado. Distância mínima: {0} blocos de qualquer assentamento, colônia ou posto avançado.</TSA_WD_EstablishOutpostTooltip>
+  <TSA_WD_EstablishOutpost_WaitUntilStopped>Espere até a caravana parar completamente neste bloco antes de estabelecer um posto avançado (não enquanto estiver se movendo entre blocos).</TSA_WD_EstablishOutpost_WaitUntilStopped>
+  <TSA_WD_EstablishOutpost_CaravanInvalid>Não é possível estabelecer a partir desta caravana no momento.</TSA_WD_EstablishOutpost_CaravanInvalid>
+  <TSA_WD_EstablishOutpost_NoHumanlikesOnCaravan>Esta caravana não tem colonos para atribuir ao posto avançado.</TSA_WD_EstablishOutpost_NoHumanlikesOnCaravan>
+  <TSA_WD_Establish_BiomeNotAllowed>{0} não pode ser construído neste bioma ({1}).</TSA_WD_Establish_BiomeNotAllowed>
+  <TSA_WD_Establish_ConquestTierTooHigh>{0} é Nível {1}; você só pode construir postos avançados de Nível ≤ {2} neste assentamento conquistado.</TSA_WD_Establish_ConquestTierTooHigh>
+  <TSA_WD_Establish_MinAnimalAbundance>A caça requer pelo menos {0}% de abundância de animais (o bloco tem {1}%).</TSA_WD_Establish_MinAnimalAbundance>
+  <TSA_WD_Establish_MinFishAbundance>A pesca requer pelo menos {0}% de estoques de peixes (o bloco tem {1}%).</TSA_WD_Establish_MinFishAbundance>
+  <TSA_WD_Establish_MinFertility>Postos avançados agrícolas requerem pelo menos {0}% de fertilidade (o bloco tem {1}%).</TSA_WD_Establish_MinFertility>
+  <TSA_WD_Establish_MinNearbySettlements>{0} requer pelo menos {1} assentamentos de facções neutras ou aliadas (que não sejam sua) a até {2} blocos. Encontrados: {3}.</TSA_WD_Establish_MinNearbySettlements>
+  <TSA_WD_Establish_MinNearbySettlements_Recruiting>{0} requer pelo menos {1} assentamentos NPC próximos a até {2} blocos (vizinhos hostis contam como fontes de desertores). Encontrados: {3}.</TSA_WD_Establish_MinNearbySettlements_Recruiting>
+  <TSA_WD_Establish_MinNearbySettlements_Trading>{0} requer pelo menos {1} assentamentos NPC próximos a até {2} blocos (vizinhos hostis contam para comércio no mercado negro). Encontrados: {3}.</TSA_WD_Establish_MinNearbySettlements_Trading>
+  <TSA_WD_Establish_MinNearbySettlements_Embassy>{0} requer pelo menos {1} assentamentos elegíveis para embaixada a até {2} blocos. Encontrados: {3}.</TSA_WD_Establish_MinNearbySettlements_Embassy>
+  <TSA_WD_Establish_MinPawns>{0} requer pelo menos {1} colono(s) na caravana (tem {2}).</TSA_WD_Establish_MinPawns>
+  <TSA_WD_Establish_MinSkill>Este posto avançado requer pelo menos {0} de {1} para operar (tem {2}).</TSA_WD_Establish_MinSkill>
+  <TSA_WD_Establish_NeedAnimals>Este bloco não tem fauna adequada.</TSA_WD_Establish_NeedAnimals>
+  <TSA_WD_Establish_NeedCoast>Postos avançados de pesca precisam de um bloco de terra com litoral oceânico (não lagos ou águas abertas).</TSA_WD_Establish_NeedCoast>
+  <TSA_WD_Establish_NeedFishSpecies>Este bioma costeiro não tem espécies de peixes de água salgada disponíveis.</TSA_WD_Establish_NeedFishSpecies>
+  <TSA_WD_Establish_NeedCost>A caravana precisa de {0} {1} (tem {2}).</TSA_WD_Establish_NeedCost>
+  <TSA_WD_Establish_NeedFertile>Este bloco não é adequado para agricultura (água ou sem crescimento de plantas).</TSA_WD_Establish_NeedFertile>
+  <TSA_WD_Establish_NeedMining>Postos avançados de mineração requerem pelo menos colinas pequenas.</TSA_WD_Establish_NeedMining>
+  <TSA_WD_Establish_ResearchRequired>{0} requer a conclusão da pesquisa "{1}".</TSA_WD_Establish_ResearchRequired>
+  <TSA_WD_Establish_TooClose>Muito perto de outro assentamento ou posto avançado (mínimo de {0} blocos). Bloqueado por: {1}</TSA_WD_Establish_TooClose>
+  <TSA_WD_Faction_Player>Jogador</TSA_WD_Faction_Player>
+  <TSA_WD_FilterByActor>Filtrar por ator</TSA_WD_FilterByActor>
+  <TSA_WD_FilterByMessage>Filtrar por mensagem</TSA_WD_FilterByMessage>
+  <TSA_WD_FilterByName>Filtrar por nome</TSA_WD_FilterByName>
+  <TSA_WD_FilterByTarget>Filtrar por alvo</TSA_WD_FilterByTarget>
+  <TSA_WD_FilterByType>Filtrar por tipo</TSA_WD_FilterByType>
+  <TSA_WD_Food_Active>Ativar logística de comida</TSA_WD_Food_Active>
+  <TSA_WD_Food_ActiveTooltip>Se desativado, os postos avançados não consumirão comida virtual e as linhas de suprimentos deixarão de funcionar.</TSA_WD_Food_ActiveTooltip>
+  <TSA_WD_Food_ConsPawn>Consumo por colono</TSA_WD_Food_ConsPawn>
+  <TSA_WD_Food_ConsPawnTooltip>Quanta comida um colono consome por dia em um posto avançado.</TSA_WD_Food_ConsPawnTooltip>
+  <TSA_WD_Food_DisabledWarning>O sistema de logística está offline no momento. Ative para ver as configurações.</TSA_WD_Food_DisabledWarning>
+  <TSA_WD_Food_MaxFoodPerOutpost>Comida máxima por posto avançado</TSA_WD_Food_MaxFoodPerOutpost>
+  <TSA_WD_Food_MaxFoodPerOutpostTooltip>Capacidade máxima de armazenamento de comida virtual por posto avançado.</TSA_WD_Food_MaxFoodPerOutpostTooltip>
+  <TSA_WD_Food_MaxRange>Raio máximo de suporte</TSA_WD_Food_MaxRange>
+  <TSA_WD_Food_MaxRangeTooltip>A distância máxima em blocos que um centro de Agricultura/Caça pode atribuir comida. Receptores no alcance recebem a quantidade atribuída integralmente.</TSA_WD_Food_MaxRangeTooltip>
+  <TSA_WD_Food_ProdPerOutpostBase>Produção diária de comida por posto avançado (base)</TSA_WD_Food_ProdPerOutpostBase>
+  <TSA_WD_Food_ProdPerOutpostBaseTooltip>Comida virtual diária fixa concedida a cada posto avançado (qualquer tipo). Postos avançados de Agricultura/Caça adicionam produção por habilidade por cima.</TSA_WD_Food_ProdPerOutpostBaseTooltip>
+  <TSA_WD_Food_VirtualTileMinMult>Multiplicador mínimo de bloco da comida virtual</TSA_WD_Food_VirtualTileMinMult>
+  <TSA_WD_Food_VirtualTileMinMultTooltip>Para centros de agricultura/caça, a comida virtual diária é multiplicada pelo bloco do mundo (fertilidade ou abundância de animais). Este é o multiplicador mínimo: o jogo usa o maior valor entre este e o multiplicador bruto do bloco.</TSA_WD_Food_VirtualTileMinMultTooltip>
+  <TSA_WD_Gizmo_Harvesting>Colhendo {0}</TSA_WD_Gizmo_Harvesting>
+  <TSA_WD_Gizmo_Mining>Minerando {0}</TSA_WD_Gizmo_Mining>
+  <TSA_WD_Gizmo_Recruiting>Recrutando</TSA_WD_Gizmo_Recruiting>
+  <TSA_WD_Gizmo_RecruitingAny>Recrutando qualquer colono</TSA_WD_Gizmo_RecruitingAny>
+  <TSA_WD_Gizmo_RecruitingSkill>Recrutando: {0}</TSA_WD_Gizmo_RecruitingSkill>
+  <TSA_WD_Recruiting_Inspect_WithSkill>{0} colonos capazes em {1}</TSA_WD_Recruiting_Inspect_WithSkill>
+  <TSA_WD_Recruiting_Inspect_Any>{0} colonos</TSA_WD_Recruiting_Inspect_Any>
+  <TSA_WD_Gizmo_Trading>Comerciando: {0}</TSA_WD_Gizmo_Trading>
+  <TSA_WD_Gizmo_Embassy>{0}</TSA_WD_Gizmo_Embassy>
+  <TSA_WD_Gizmo_Scavenging>Catação (saque aleatório)</TSA_WD_Gizmo_Scavenging>
+  <TSA_WD_Log_Road_SkippedCooldown>ESTRADA: {0} ignorado (recarga de construção de estrada).</TSA_WD_Log_Road_SkippedCooldown>
+  <TSA_WD_Log_Road_SkippedLaunchFailed>ESTRADA: {0} ignorado (não foi possível iniciar a rota até {1}).</TSA_WD_Log_Road_SkippedLaunchFailed>
+  <TSA_WD_Log_Road_SkippedLowStrength>ESTRADA: {0} ignorado (força {1}; mínimo exigido 100).</TSA_WD_Log_Road_SkippedLowStrength>
+  <TSA_WD_Log_Road_SkippedNoAllyTarget>ESTRADA: {0} ignorado (nenhuma facção ou assentamento aliado para conectar).</TSA_WD_Log_Road_SkippedNoAllyTarget>
+  <TSA_WD_Log_Road_SkippedNoWork>ESTRADA: {0} ignorado (rota até {1} concluída ou nenhum trabalho de melhoria de estrada encontrado).</TSA_WD_Log_Road_SkippedNoWork>
+  <TSA_WD_Log_Road_SkippedTargetTooFar>ESTRADA: {0} ignorado ({1} está a {2} blocos; máx. {3}).</TSA_WD_Log_Road_SkippedTargetTooFar>
+  <TSA_WD_Log_RoadCancelled>{0} missão cancelada: estrada já construída ou origem perdida.</TSA_WD_Log_RoadCancelled>
+  <TSA_WD_Log_Road_AbortedDanger>{0} abortou a construção da estrada: assentamento inimigo {1} está muito perto ({2} blocos).</TSA_WD_Log_Road_AbortedDanger>
+  <TSA_WD_Log_Road_ExpeditionLaunched>TENTATIVA DE CONSTRUÇÃO DE ESTRADA: trabalhadores enviados para pavimentar a rota até {1}.</TSA_WD_Log_Road_ExpeditionLaunched>
+  <TSA_WD_Log_Road_Progress>{0} construiu um bloco de estrada em direção a {1}. Faltam {2} blocos para concluir.</TSA_WD_Log_Road_Progress>
+  <TSA_WD_Log_TravelerClash>Confronto de caravanas</TSA_WD_Log_TravelerClash>
+  <TSA_WD_Log_NpcCaravanClash>Caravana de {0} lutou contra {1} ({2} vs {3}).</TSA_WD_Log_NpcCaravanClash>
+  <TSA_WD_CaravanClash_Header>Confronto de caravanas resolvido</TSA_WD_CaravanClash_Header>
+  <TSA_WD_CaravanClash_Intro>Confrontos em campo aberto usam o mesmo cálculo de resultado das Incursões Mundiais que as batalhas por assentamentos (chance de vitória e baixas pela proporção de força). A pequena vantagem do defensor vem dessa tabela e de quem é designado defensor.</TSA_WD_CaravanClash_Intro>
+  <TSA_WD_CaravanClash_Attacker>Atacante: {0}</TSA_WD_CaravanClash_Attacker>
+  <TSA_WD_CaravanClash_Defender>Defensor: {0}</TSA_WD_CaravanClash_Defender>
+  <TSA_WD_CaravanClash_Ratio>Proporção de força (atacante / defensor): {0}</TSA_WD_CaravanClash_Ratio>
+  <TSA_WD_CaravanClash_AttackerWon>O atacante venceu</TSA_WD_CaravanClash_AttackerWon>
+  <TSA_WD_CaravanClash_DefenderWon>O defensor venceu</TSA_WD_CaravanClash_DefenderWon>
+  <TSA_WD_CaravanClash_ResultingStrengths>Forças resultantes:</TSA_WD_CaravanClash_ResultingStrengths>
+  <TSA_WD_Message_RerollSuccess>Níveis de assentamento sorteados novamente: {0} assentamentos atualizados.</TSA_WD_Message_RerollSuccess>
+  <TSA_WD_MiningBaseline_Header>Multiplicadores de base de mineração</TSA_WD_MiningBaseline_Header>
+  <TSA_WD_MiningBaseline_Ores>Minérios</TSA_WD_MiningBaseline_Ores>
+  <TSA_WD_MiningBaseline_Reset>Restaurar padrões</TSA_WD_MiningBaseline_Reset>
+  <TSA_WD_MiningBaseline_Stones>Blocos de pedra</TSA_WD_MiningBaseline_Stones>
+  <TSA_WD_MiningBaseline_Tooltip>Quantidade base por habilidade de Mineração por ciclo para este recurso. Exemplo: 10 base × 5 de habilidade Mineração = 50 produzidos por ciclo (antes da eficiência do terreno).</TSA_WD_MiningBaseline_Tooltip>
+  <TSA_WD_NoFoodInInventory>Nenhum item com valor nutricional encontrado no inventário da caravana.</TSA_WD_NoFoodInInventory>
+  <TSA_WD_NoPawns>Nenhum pessoal neste posto avançado.</TSA_WD_NoPawns>
+  <TSA_WD_None>Nenhum</TSA_WD_None>
+  <TSA_WD_OnCooldown>[EM RECARGA]</TSA_WD_OnCooldown>
+  <TSA_WD_Outcome>Resultado</TSA_WD_Outcome>
+  <TSA_WD_OutpostDefaultName>Posto avançado (bloco {0})</TSA_WD_OutpostDefaultName>
+  <TSA_WD_OutpostDelivery_Letter>Entrega de {0}:</TSA_WD_OutpostDelivery_Letter>
+  <TSA_WD_OutpostDelivery_LetterLabel>Mercadorias recebidas de {0}</TSA_WD_OutpostDelivery_LetterLabel>
+  <TSA_WD_DeliverySpot_AlreadyExists>Apenas um Ponto de entrega de posto avançado da WD é permitido por mapa.</TSA_WD_DeliverySpot_AlreadyExists>
+  <TSA_WD_OutpostManager>Visão geral dos postos avançados</TSA_WD_OutpostManager>
+  <TSA_WD_OutpostManager_Title>Página de visão geral dos postos avançados</TSA_WD_OutpostManager_Title>
+  <TSA_WD_Outpost_BuildCostMult>Multiplicador de custo de construção de postos avançados</TSA_WD_Outpost_BuildCostMult>
+  <TSA_WD_Outpost_BuildCostMultTooltip>Multiplicador aplicado ao custo base de estabelecimento (50 de madeira). Afeta apenas postos avançados fundados por caravana.</TSA_WD_Outpost_BuildCostMultTooltip>
+  <TSA_WD_Outpost_ClickToRenameTooltip>Clique para renomear o posto avançado.</TSA_WD_Outpost_ClickToRenameTooltip>
+  <TSA_WD_Outpost_DeliveryMinStrength>Força mín. para enviar entrega</TSA_WD_Outpost_DeliveryMinStrength>
+  <TSA_WD_Outpost_DeliveryMinStrengthTooltip>O posto avançado precisa ter pelo menos esta força antes que uma entrega de produção possa ser enviada.</TSA_WD_Outpost_DeliveryMinStrengthTooltip>
+  <TSA_WD_Outpost_DeliveryStrengthCost>Custo de força da caravana de entrega</TSA_WD_Outpost_DeliveryStrengthCost>
+  <TSA_WD_Outpost_DeliveryStrengthCostTooltip>Força deduzida do posto avançado quando uma caravana de entrega é enviada. A caravana viaja com este valor de força.</TSA_WD_Outpost_DeliveryStrengthCostTooltip>
+  <TSA_WD_Outpost_Delivery_DaysLeft>{0} dias</TSA_WD_Outpost_Delivery_DaysLeft>
+  <TSA_WD_Outpost_Delivery_Delayed>Entrega adiada até o posto avançado ter pelo menos 100 de força (atual: {0}).</TSA_WD_Outpost_Delivery_Delayed>
+  <TSA_WD_Outpost_Delivery_Paused>Pausada</TSA_WD_Outpost_Delivery_Paused>
+  <TSA_WD_Outpost_Delivery_StrengthTooLow>Entrega pendente. Força muito baixa.</TSA_WD_Outpost_Delivery_StrengthTooLow>
+  <TSA_WD_Outpost_Dist>Dist. até a colônia</TSA_WD_Outpost_Dist>
+  <TSA_WD_Outpost_FoodStatus>Fluxo de comida</TSA_WD_Outpost_FoodStatus>
+  <TSA_WD_Outpost_HeaderGeneral>Configurações gerais</TSA_WD_Outpost_HeaderGeneral>
+  <TSA_WD_Outpost_EnableLaunchAttack>Ativar lançamento de ataque</TSA_WD_Outpost_EnableLaunchAttack>
+  <TSA_WD_Outpost_EnableLaunchAttackTooltip>Quando ativado, postos avançados do jogador podem usar Lançar ataque para atacar assentamentos e outros alvos. Quando desativado, esse botão fica oculto.</TSA_WD_Outpost_EnableLaunchAttackTooltip>
+  <TSA_WD_Outpost_EnableBuildRoads>Ativar construção de estradas</TSA_WD_Outpost_EnableBuildRoads>
+  <TSA_WD_Outpost_EnableBuildRoadsTooltip>Quando ativado, o menu Construir inclui a construção de estradas. Quando desativado, essa ação fica oculta. Projetos de estrada ativos ainda mostram Cancelar.</TSA_WD_Outpost_EnableBuildRoadsTooltip>
+  <TSA_WD_Outpost_EnableBuildRoadBlocks>Ativar construção de bloqueios de estrada</TSA_WD_Outpost_EnableBuildRoadBlocks>
+  <TSA_WD_Outpost_EnableBuildRoadBlocksTooltip>Quando ativado, o menu Construir inclui construir e remover bloqueios de estrada. Quando desativado, essas ações ficam ocultas. Projetos ativos ainda mostram Cancelar.</TSA_WD_Outpost_EnableBuildRoadBlocksTooltip>
+  <TSA_WD_Outpost_EnableBuildTraps>Ativar construção de armadilhas</TSA_WD_Outpost_EnableBuildTraps>
+  <TSA_WD_Outpost_EnableBuildTrapsTooltip>Quando ativado, o menu Construir inclui construir e remover armadilhas de espinhos. Quando desativado, essas ações ficam ocultas. Projetos ativos ainda mostram Cancelar.</TSA_WD_Outpost_EnableBuildTrapsTooltip>
+  <TSA_WD_Outpost_HeaderEstablishment>Requisitos de estabelecimento</TSA_WD_Outpost_HeaderEstablishment>
+  <TSA_WD_Outpost_UpgradesCostMaterials>Melhorias de posto avançado custam materiais</TSA_WD_Outpost_UpgradesCostMaterials>
+  <TSA_WD_Outpost_UpgradesCostMaterialsTooltip>Quando ativado, construir uma melhoria de posto avançado gasta os materiais listados na melhoria. Quando desativado, melhorias podem ser encomendadas sem custos de materiais.</TSA_WD_Outpost_UpgradesCostMaterialsTooltip>
+  <TSA_WD_Outpost_UpgradesRequireResearch>Melhorias de posto avançado têm requisitos de pesquisa</TSA_WD_Outpost_UpgradesRequireResearch>
+  <TSA_WD_Outpost_UpgradesRequireResearchTooltip>Quando ativado, melhorias que listam projetos de pesquisa não podem ser construídas até que esses projetos sejam concluídos. Quando desativado, os bloqueios de pesquisa das melhorias são ignorados.</TSA_WD_Outpost_UpgradesRequireResearchTooltip>
+  <TSA_WD_Outpost_HeaderAfterConquest>Posto avançado após a conquista</TSA_WD_Outpost_HeaderAfterConquest>
+  <TSA_WD_Outpost_AfterConquestEnabled>Oferecer posto avançado em assentamentos conquistados</TSA_WD_Outpost_AfterConquestEnabled>
+  <TSA_WD_Outpost_AfterConquestEnabledTooltip>Quando ativado, derrotar um assentamento NPC hostil o transforma em ruínas e, depois que você sair do mapa, abre uma carta para estabelecer ali um posto avançado do World Domination. Quando desativado, a derrota do assentamento usa o comportamento padrão do jogo.</TSA_WD_Outpost_AfterConquestEnabledTooltip>
+  <TSA_WD_Outpost_AfterConquestDisabledHint>O fluxo de posto avançado por conquista está desativado. As contagens de colonos abaixo voltam a valer se você reativá-lo.</TSA_WD_Outpost_AfterConquestDisabledHint>
+  <TSA_WD_Outpost_ConquestPawnsT1>Colonos após conquistar um assentamento de Nível 1</TSA_WD_Outpost_ConquestPawnsT1>
+  <TSA_WD_Outpost_ConquestPawnsT1Tooltip>Quantos colonos são gerados quando você estabelece um posto avançado sobre as ruínas deixadas após derrotar um assentamento de Nível 1.</TSA_WD_Outpost_ConquestPawnsT1Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT2>Colonos após conquistar um assentamento de Nível 2</TSA_WD_Outpost_ConquestPawnsT2>
+  <TSA_WD_Outpost_ConquestPawnsT2Tooltip>O mesmo que acima quando o assentamento derrotado era de Nível 2.</TSA_WD_Outpost_ConquestPawnsT2Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT3>Colonos após conquistar um assentamento de Nível 3</TSA_WD_Outpost_ConquestPawnsT3>
+  <TSA_WD_Outpost_ConquestPawnsT3Tooltip>O mesmo que acima quando o assentamento derrotado era de Nível 3.</TSA_WD_Outpost_ConquestPawnsT3Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT4>Colonos após conquistar um assentamento de Nível 4</TSA_WD_Outpost_ConquestPawnsT4>
+  <TSA_WD_Outpost_ConquestPawnsT4Tooltip>O mesmo que acima quando o assentamento derrotado era de Nível 4.</TSA_WD_Outpost_ConquestPawnsT4Tooltip>
+  <TSA_WD_Outpost_ConquestMinRelevantSkill>Nível mínimo de habilidade relevante (fundadores por conquista)</TSA_WD_Outpost_ConquestMinRelevantSkill>
+  <TSA_WD_Outpost_ConquestMinRelevantSkillTooltip>As habilidades de cada colono gerado que correspondem ao tipo do posto avançado (Plantas, Mineração etc.) são elevadas a pelo menos este nível. O intervalo de habilidade padrão do jogo é 0–20.</TSA_WD_Outpost_ConquestMinRelevantSkillTooltip>
+  <TSA_WD_Outpost_HeaderProduction>Produção</TSA_WD_Outpost_HeaderProduction>
+  <TSA_WD_Outpost_HeaderStrengthRecovery>Recuperação de força (postos avançados, avançado)</TSA_WD_Outpost_HeaderStrengthRecovery>
+  <TSA_WD_Outpost_StrengthRecovery_DefFraction>Recuperação def. (% do máximo por dia)</TSA_WD_Outpost_StrengthRecovery_DefFraction>
+  <TSA_WD_Outpost_StrengthRecovery_DefFractionTooltip>A cada dia, a força defensiva recupera o maior valor entre esta porcentagem do limite defensivo do posto avançado (base + bônus de melhorias) ou a recuperação fixa mínima abaixo. Só se aplica enquanto a defensiva atual estiver abaixo desse limite.</TSA_WD_Outpost_StrengthRecovery_DefFractionTooltip>
+  <TSA_WD_Outpost_StrengthRecovery_OffFraction>Recuperação of. (% do limite alvo por dia)</TSA_WD_Outpost_StrengthRecovery_OffFraction>
+  <TSA_WD_Outpost_StrengthRecovery_OffFractionTooltip>A cada dia, a força ofensiva recupera o maior valor entre esta porcentagem do limite ofensivo alvo baseado nos ocupantes ou a recuperação fixa mínima abaixo, depois multiplicado por 1 + a soma dos bônus de recuperação ofensiva das melhorias.</TSA_WD_Outpost_StrengthRecovery_OffFractionTooltip>
+  <TSA_WD_Outpost_StrengthRecovery_DefMinFlat>Recuperação mínima de força defensiva (por dia)</TSA_WD_Outpost_StrengthRecovery_DefMinFlat>
+  <TSA_WD_Outpost_StrengthRecovery_DefMinFlatTooltip>Piso para a recuperação defensiva diária quando abaixo do limite. O ganho real é máx(este, limite × % de recuperação def.).</TSA_WD_Outpost_StrengthRecovery_DefMinFlatTooltip>
+  <TSA_WD_Outpost_StrengthRecovery_OffMinFlat>Recuperação mínima de força ofensiva (por dia)</TSA_WD_Outpost_StrengthRecovery_OffMinFlat>
+  <TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>Piso para a recuperação ofensiva diária antes do multiplicador de melhorias. O ganho real é máx(este, limite alvo × % de recuperação of.) × (1 + bônus de melhorias).</TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>
+  <TSA_WD_Outpost_OccupantHealSeverity>Cura dos ocupantes (gravidade de ferimento por dia)</TSA_WD_Outpost_OccupantHealSeverity>
+  <TSA_WD_Outpost_OccupantHealSeverityTooltip>A cada dia, cada ferimento não permanente em ocupantes inativos do posto avançado perde esta quantidade de pontos de gravidade (linear). Defina como 0 para desativar. Exemplo: a 2 de gravidade por dia, um ferimento de gravidade 6 cura em ~3 dias; gravidade 20 em ~10 dias. Melhorias de hospital em cada posto avançado multiplicam esta taxa (Básico +30%, Avançado +60%). Doenças imunizáveis ainda avançam a imunidade com o mesmo multiplicador. A perda de sangue é reduzida na mesma quantidade diária.</TSA_WD_Outpost_OccupantHealSeverityTooltip>
+  <TSA_WD_Outpost_ProductionTimeMult>Multiplicador de tempo de produção</TSA_WD_Outpost_ProductionTimeMult>
+  <TSA_WD_Outpost_ProductionTimeMultTooltip>Multiplica a duração do ciclo de produção (productionCycleDays do XML ou padrão). Menor = ciclos mais curtos / entregas mais frequentes. O tempo restante é reescalado quando você altera isso durante um ciclo.</TSA_WD_Outpost_ProductionTimeMultTooltip>
+  <TSA_WD_Outpost_ProductionOutputMult>Multiplicador de produção</TSA_WD_Outpost_ProductionOutputMult>
+  <TSA_WD_Outpost_ProductionOutputMultTooltip>Multiplica as quantidades das entregas a cada ciclo (plantações, caça, mineração, fabricação, prata de comércio, recrutas como inteiros arredondados). 1,00 significa produção inalterada.</TSA_WD_Outpost_ProductionOutputMultTooltip>
+  <TSA_WD_Outpost_ResearchSpeedMult>Velocidade de postos avançados de pesquisa</TSA_WD_Outpost_ResearchSpeedMult>
+  <TSA_WD_Outpost_ResearchSpeedMultTooltip>Multiplica os pontos de pesquisa contribuídos apenas por postos avançados de Pesquisa. Não altera a produção de itens nem as bancadas de pesquisa da colônia.</TSA_WD_Outpost_ResearchSpeedMultTooltip>
+  <TSA_WD_Outpost_HostileNearbyPartnerMult>Eficiência de vizinhos hostis</TSA_WD_Outpost_HostileNearbyPartnerMult>
+  <TSA_WD_Outpost_HostileNearbyPartnerMultTip>A prata de comércio de assentamentos hostis usa esta fração (mercado negro). Os pontos de vizinhança de recrutamento de assentamentos hostis usam a mesma fração (desertores). Vizinhos neutros e aliados permanecem com valor total. As linhas hostis contribuintes ficam tingidas de vermelho nos diálogos do posto avançado.</TSA_WD_Outpost_HostileNearbyPartnerMultTip>
+  <TSA_WD_Outpost_WarehouseAuraBonus>Bônus de aura do armazém</TSA_WD_Outpost_WarehouseAuraBonus>
+  <TSA_WD_Outpost_WarehouseAuraBonusTooltip>Bônus de produtividade de um armazém do jogador para produtores elegíveis próximos (mercadorias, comida virtual, XP da academia). Apenas o melhor armazém no alcance se aplica. Postos avançados de pesquisa não são afetados.</TSA_WD_Outpost_WarehouseAuraBonusTooltip>
+  <TSA_WD_Outpost_WarehouseAuraRadius>Raio da aura do armazém</TSA_WD_Outpost_WarehouseAuraRadius>
+  <TSA_WD_Outpost_WarehouseAuraRadiusTooltip>Raio em blocos do mundo da aura de produtividade de um armazém. Exibido como um anel roxo quando o armazém é selecionado.</TSA_WD_Outpost_WarehouseAuraRadiusTooltip>
+  <TSA_WD_Outpost_EmbassyHostileGoodwill>Embaixadas podem ganhar boa vontade com facções hostis</TSA_WD_Outpost_EmbassyHostileGoodwill>
+  <TSA_WD_Outpost_EmbassyHostileGoodwillTooltip>Quando ativado, ciclos de embaixada podem melhorar a boa vontade com facções temporariamente hostis no alcance (ajudando a restaurar a paz). Facções permanentemente hostis nunca são incluídas.</TSA_WD_Outpost_EmbassyHostileGoodwillTooltip>
+  <TSA_WD_Outpost_Inspect_Producing>Produzindo: {0} x{1}. Pronto em {2}</TSA_WD_Outpost_Inspect_Producing>
+  <TSA_WD_Outpost_Inspect_ProducingLine>Produzindo: {0} ({1})</TSA_WD_Outpost_Inspect_ProducingLine>
+  <TSA_WD_Outpost_Inspect_ProducingNone>Produzindo: nada</TSA_WD_Outpost_Inspect_ProducingNone>
+  <TSA_WD_Outpost_Inspect_ProducingPausedNoPhysicalSkill>Nenhuma habilidade relevante neste posto avançado. Atribua colonos com a habilidade relevante para produzir mercadorias.</TSA_WD_Outpost_Inspect_ProducingPausedNoPhysicalSkill>
+  <TSA_WD_Outpost_Inspect_ProducingPausedNoNearbySettlements>Produção pausada: nenhum assentamento ou posto avançado não pertencente ao jogador, neutro ou aliado, nas proximidades.</TSA_WD_Outpost_Inspect_ProducingPausedNoNearbySettlements>
+  <TSA_WD_Outpost_Inspect_ProducingPausedMinNearbyPartners>Produção pausada: {0} precisa de pelo menos {1} assentamentos NPC próximos a até {2} blocos (vizinhos hostis contam). Encontrados: {3}.</TSA_WD_Outpost_Inspect_ProducingPausedMinNearbyPartners>
+  <TSA_WD_Outpost_Inspect_ProductionPaused>Produção pausada: {0}</TSA_WD_Outpost_Inspect_ProductionPaused>
+  <TSA_WD_Outpost_MinDistance>Distância mínima para estabelecer posto avançado (blocos)</TSA_WD_Outpost_MinDistance>
+  <TSA_WD_Outpost_MinDistanceTooltip>Blocos mínimos de qualquer assentamento ou outro posto avançado ao fundar um novo posto avançado.</TSA_WD_Outpost_MinDistanceTooltip>
+  <TSA_WD_Outpost_RaidProtectionCooldownDays>Recarga de proteção contra incursões (dias)</TSA_WD_Outpost_RaidProtectionCooldownDays>
+  <TSA_WD_Outpost_RaidProtectionCooldownDaysTooltip>Dias em que seus postos avançados da WD não podem ser alvo de incursões NPC após uma ser lançada contra eles, após uma defesa fracassada ou quando são estabelecidos. Separado do 'Escudo de Defesa' dos assentamentos NPC nas configurações de Ações Mundiais.</TSA_WD_Outpost_RaidProtectionCooldownDaysTooltip>
+  <TSA_WD_Outpost_TraderDestSearchRadius>Raio de busca de destino das caravanas de comerciantes da WD (blocos)</TSA_WD_Outpost_TraderDestSearchRadius>
+  <TSA_WD_Outpost_TraderDestSearchRadiusTooltip>Distância máxima de percurso a partir do assentamento remetente quando a IA do World Domination escolhe um assentamento neutro ou aliado (incluindo colônias do mapa do jogador) para uma caravana de comerciantes. Independente do raio de busca de alvos das Incursões Mundiais.</TSA_WD_Outpost_TraderDestSearchRadiusTooltip>
+  <TSA_WD_Outpost_Name>Nome do posto avançado</TSA_WD_Outpost_Name>
+  <TSA_WD_Outpost_Output>Próxima entrega em</TSA_WD_Outpost_Output>
+  <TSA_WD_Outpost_Pawns>Colonos</TSA_WD_Outpost_Pawns>
+  <TSA_WD_Outpost_Pawns_Humanoids>Colonos humanoides</TSA_WD_Outpost_Pawns_Humanoids>
+  <TSA_WD_Outpost_Pawns_CollapseAll>Recolher tudo</TSA_WD_Outpost_Pawns_CollapseAll>
+  <TSA_WD_Outpost_Pawns_ExpandAll>Expandir tudo</TSA_WD_Outpost_Pawns_ExpandAll>
+  <TSA_WD_Outpost_AnimalsVehicles>Animais/Veículos</TSA_WD_Outpost_AnimalsVehicles>
+  <TSA_WD_Outpost_NonhumanPawns>Colonos não humanos</TSA_WD_Outpost_NonhumanPawns>
+  <TSA_WD_OutpostOverview_NonhumanMechanoidsTip>Mecanoides</TSA_WD_OutpostOverview_NonhumanMechanoidsTip>
+  <TSA_WD_OutpostOverview_NonhumanAnimalsTip>Animais</TSA_WD_OutpostOverview_NonhumanAnimalsTip>
+  <TSA_WD_OutpostOverview_NonhumanVehiclesTip>Veículos</TSA_WD_OutpostOverview_NonhumanVehiclesTip>
+  <TSA_WD_OutpostOverview_HdrName>Nome</TSA_WD_OutpostOverview_HdrName>
+  <TSA_WD_OutpostOverview_HdrDist>Dist.</TSA_WD_OutpostOverview_HdrDist>
+  <TSA_WD_OutpostOverview_HdrNonhuman>Não humanos</TSA_WD_OutpostOverview_HdrNonhuman>
+  <TSA_WD_OutpostOverview_HdrFood>Comida</TSA_WD_OutpostOverview_HdrFood>
+  <TSA_WD_OutpostOverview_HdrProject>Projeto</TSA_WD_OutpostOverview_HdrProject>
+  <TSA_WD_OutpostOverview_HdrCooldown>Recarga</TSA_WD_OutpostOverview_HdrCooldown>
+  <TSA_WD_OutpostOverview_HdrDelivery>Entrega</TSA_WD_OutpostOverview_HdrDelivery>
+  <TSA_WD_OutpostOverview_CooldownDays>{0} dias</TSA_WD_OutpostOverview_CooldownDays>
+  <TSA_WD_OutpostOverview_Tip_CanRaid>Pode lançar incursão: sim.\n\nEste posto avançado pode lançar uma incursão agora.</TSA_WD_OutpostOverview_Tip_CanRaid>
+  <TSA_WD_OutpostOverview_Tip_RaidCooldown>Pode lançar incursão: em {0} dias.\n\nEste posto avançado não pode lançar uma incursão até então.</TSA_WD_OutpostOverview_Tip_RaidCooldown>
+  <TSA_WD_OutpostOverview_Tip_CanBeRaided>Pode sofrer incursão: sim.\n\nFacções hostis podem atacar este posto avançado agora.</TSA_WD_OutpostOverview_Tip_CanBeRaided>
+  <TSA_WD_OutpostOverview_Tip_RaidProtected>Pode sofrer incursão: em {0} dias.\n\nEste posto avançado está protegido contra incursões até então.</TSA_WD_OutpostOverview_Tip_RaidProtected>
+  <TSA_WD_Outpost_Pawns_Colonists>Colonos</TSA_WD_Outpost_Pawns_Colonists>
+  <TSA_WD_Outpost_Produces>Produz</TSA_WD_Outpost_Produces>
+  <TSA_WD_Outpost_RemovePawn>Remover colono</TSA_WD_Outpost_RemovePawn>
+  <TSA_WD_Outpost_RemovePawnDesc>Escolha um colono para remover do posto avançado. Ele formará uma caravana de um colono neste bloco.</TSA_WD_Outpost_RemovePawnDesc>
+  <TSA_WD_Outpost_RenameAccept>Aceitar</TSA_WD_Outpost_RenameAccept>
+  <TSA_WD_Outpost_RenameDialogTitle>Renomear posto avançado</TSA_WD_Outpost_RenameDialogTitle>
+  <TSA_WD_Outpost_NameNewDialogTitle>Dê um nome ao seu novo {0}</TSA_WD_Outpost_NameNewDialogTitle>
+  <TSA_WD_Outpost_NameNewDialogTip>Você também pode renomear seu posto avançado depois clicando no nome dele na janela "Visão geral dos postos avançados", na aba principal da WD.</TSA_WD_Outpost_NameNewDialogTip>
+  <TSA_WD_Outpost_NameNewDialogDiceTip>Gerar um nome aleatório</TSA_WD_Outpost_NameNewDialogDiceTip>
+  <TSA_WD_Outpost_Reset>Redefinir configurações do posto avançado</TSA_WD_Outpost_Reset>
+  <TSA_WD_Outpost_Road>Projeto de construção</TSA_WD_Outpost_Road>
+  <TSA_WD_OutpostOverview_ProjectRoad>Estrada</TSA_WD_OutpostOverview_ProjectRoad>
+  <TSA_WD_OutpostOverview_ProjectRoadClear>Removendo estradas</TSA_WD_OutpostOverview_ProjectRoadClear>
+  <TSA_WD_OutpostOverview_ProjectRoadBlock>Bloqueio de estrada</TSA_WD_OutpostOverview_ProjectRoadBlock>
+  <TSA_WD_OutpostOverview_ProjectSpikeTrap>Armadilha de espinhos</TSA_WD_OutpostOverview_ProjectSpikeTrap>
+  <TSA_WD_OutpostOverview_ProjectDecontamination>Descontaminação</TSA_WD_OutpostOverview_ProjectDecontamination>
+  <TSA_WD_Outpost_SilverValuePerSkill>Orçamento de prata por habilidade por entrega</TSA_WD_Outpost_SilverValuePerSkill>
+  <TSA_WD_Outpost_SilverValuePerSkillTooltip>Fixo por entrega — não é esticado nem encolhido quando seu ciclo de posto avançado é de 10 ou 100 dias. Caça: cada entrega pode incluir carne, couro/pele e lã (quando o animal os rende); por produto, unidades base/habilidade = (orçamento ÷ total de prata por abate) × a quantidade desse produto por abate. Plantações/mineração: base ≈ orçamento ÷ valor de mercado do item. Depois: base × eficiência do bloco × habilidade (× controle de produção).</TSA_WD_Outpost_SilverValuePerSkillTooltip>
+  <TSA_WD_Outpost_ClampSkillsAtLevel20>Limitar habilidades do posto avançado ao nível 20</TSA_WD_Outpost_ClampSkillsAtLevel20>
+  <TSA_WD_Outpost_ClampSkillsAtLevel20Tooltip>Quando ativado, os cálculos do posto avançado tratam habilidades de colonos acima de 20 como 20. Deixe desativado para mods no estilo Endless Growth, para que níveis de habilidade mais altos possam contribuir integralmente.</TSA_WD_Outpost_ClampSkillsAtLevel20Tooltip>
+  <TSA_WD_Outpost_OccupantSkillXpPerCycle>XP de habilidade dos ocupantes por pagamento bem-sucedido</TSA_WD_Outpost_OccupantSkillXpPerCycle>
+  <TSA_WD_Outpost_OccupantSkillXpPerCycleTooltip>Experiência concedida a cada habilidade relevante do posto avançado (agricultura, caça etc.) para cada colono no posto quando uma entrega é realmente lançada. Defina como 0 para desativar. Não se aplica enquanto o pagamento estiver bloqueado.</TSA_WD_Outpost_OccupantSkillXpPerCycleTooltip>
+  <TSA_WD_Outpost_OccupantSkillXpMaxLevel>Nível máximo de habilidade para XP do posto avançado</TSA_WD_Outpost_OccupantSkillXpMaxLevel>
+  <TSA_WD_Outpost_OccupantSkillXpMaxLevelTooltip>Os colonos não ganham XP de pagamento do posto avançado em uma habilidade uma vez que ela esteja neste nível ou acima.</TSA_WD_Outpost_OccupantSkillXpMaxLevelTooltip>
+  <TSA_WD_Outpost_HeaderAcademy>Academia</TSA_WD_Outpost_HeaderAcademy>
+  <TSA_WD_Outpost_HeaderExperts>Especialistas</TSA_WD_Outpost_HeaderExperts>
+  <TSA_WD_Outpost_ExpertReferenceSkill>Nível de habilidade de referência</TSA_WD_Outpost_ExpertReferenceSkill>
+  <TSA_WD_Outpost_ExpertReferenceSkillTooltip>Nível de habilidade no qual um especialista atinge o bônus máximo configurado.</TSA_WD_Outpost_ExpertReferenceSkillTooltip>
+  <TSA_WD_Outpost_ExpertStrategistMax>Bônus máximo do estrategista</TSA_WD_Outpost_ExpertStrategistMax>
+  <TSA_WD_Outpost_ExpertStrategistMaxTooltip>Bônus máximo ao alcance de incursão manual de postos avançados do jogador e ao alcance de ataque de morteiro / antiaéreo na habilidade de referência.</TSA_WD_Outpost_ExpertStrategistMaxTooltip>
+  <TSA_WD_Outpost_ExpertEntertainerMax>Bônus máximo do animador</TSA_WD_Outpost_ExpertEntertainerMax>
+  <TSA_WD_Outpost_ExpertEntertainerMaxTooltip>Bônus máximo à produção na habilidade de referência.</TSA_WD_Outpost_ExpertEntertainerMaxTooltip>
+  <TSA_WD_Outpost_ExpertCookMax>Bônus máximo do cozinheiro</TSA_WD_Outpost_ExpertCookMax>
+  <TSA_WD_Outpost_ExpertCookMaxTooltip>Bônus máximo à produção e à recuperação de força ofensiva na habilidade de culinária de referência.</TSA_WD_Outpost_ExpertCookMaxTooltip>
+  <TSA_WD_Outpost_ExpertDoctorMax>Bônus máximo do médico</TSA_WD_Outpost_ExpertDoctorMax>
+  <TSA_WD_Outpost_ExpertDoctorMaxTooltip>Bônus máximo à cura dos ocupantes e à recuperação ofensiva na habilidade de referência.</TSA_WD_Outpost_ExpertDoctorMaxTooltip>
+  <TSA_WD_Outpost_ExpertEngineerMax>Bônus máximo do engenheiro</TSA_WD_Outpost_ExpertEngineerMax>
+  <TSA_WD_Outpost_ExpertEngineerMaxTooltip>Bônus máximo à velocidade de trabalho em estradas e à recuperação defensiva na habilidade de referência.</TSA_WD_Outpost_ExpertEngineerMaxTooltip>
+  <TSA_WD_Outpost_ExpertEngineerRadiusMax>Bônus máximo do engenheiro ao raio de construção</TSA_WD_Outpost_ExpertEngineerRadiusMax>
+  <TSA_WD_Outpost_ExpertEngineerRadiusMaxTooltip>Bônus máximo ao raio de planejamento de projetos de construção (estradas, bloqueios de estrada, limpeza) na habilidade de referência.</TSA_WD_Outpost_ExpertEngineerRadiusMaxTooltip>
+  <TSA_WD_Outpost_ExpertWardenMaxBonus>Bônus máximo de resistência do carcereiro</TSA_WD_Outpost_ExpertWardenMaxBonus>
+  <TSA_WD_Outpost_ExpertWardenMaxBonusTooltip>Bônus percentual máximo à queda de resistência de prisioneiros na habilidade Social de referência quando um carcereiro é atribuído. A queda base vem do Social acumulado no posto avançado mesmo sem carcereiro.</TSA_WD_Outpost_ExpertWardenMaxBonusTooltip>
+  <TSA_WD_Outpost_AcademyBaseXpPerDay>XP base da academia por dia (por aluno)</TSA_WD_Outpost_AcademyBaseXpPerDay>
+  <TSA_WD_Outpost_AcademyBaseXpPerDayTooltip>XP diário base que cada aluno elegível recebe antes do multiplicador do professor (1x no nível 8 até 2x no nível 20).</TSA_WD_Outpost_AcademyBaseXpPerDayTooltip>
+  <TSA_WD_Outpost_AcademyMinTeacherSkill>Habilidade mínima do professor da academia</TSA_WD_Outpost_AcademyMinTeacherSkill>
+  <TSA_WD_Outpost_AcademyMinTeacherSkillTooltip>Nível mínimo exigido na habilidade selecionada para que pelo menos um colono do posto avançado possa ensiná-la.</TSA_WD_Outpost_AcademyMinTeacherSkillTooltip>
+  <TSA_WD_Outpost_AcademyTeachCapOffset>Deslocamento do limite de ensino da academia</TSA_WD_Outpost_AcademyTeachCapOffset>
+  <TSA_WD_Outpost_AcademyTeachCapOffsetTooltip>Os alunos só ganham XP enquanto estiverem abaixo do nível do professor menos este valor.</TSA_WD_Outpost_AcademyTeachCapOffsetTooltip>
+  <TSA_WD_Outpost_AcademyUseFlatDirectXp>A academia usa XP fixo (ignora paixões/velocidade de aprendizado)</TSA_WD_Outpost_AcademyUseFlatDirectXp>
+  <TSA_WD_Outpost_AcademyUseFlatDirectXpTooltip>Desativado: usa o fluxo de aprendizado padrão do jogo com paixões, velocidade global de aprendizado e outros modificadores. Ativado: aplica XP fixo exato diretamente.</TSA_WD_Outpost_AcademyUseFlatDirectXpTooltip>
+  <TSA_WD_Outpost_Status>Status de recarga</TSA_WD_Outpost_Status>
+  <TSA_WD_Outpost_Strength>Força</TSA_WD_Outpost_Strength>
+  <TSA_WD_Outpost_Upgrades>Melhorias</TSA_WD_Outpost_Upgrades>
+  <TSA_WD_OutpostOverview_StrengthDefOff>{0}/{1}, {2}/{3}</TSA_WD_OutpostOverview_StrengthDefOff>
+  <TSA_WD_OutpostOverview_StrengthRecoveryRow>{0}, {1}</TSA_WD_OutpostOverview_StrengthRecoveryRow>
+  <TSA_WD_OutpostOverview_StrengthTooltip>Linha 1: Força total atual/Força total máxima\nLinha 2: Força def. atual/Força def. máxima, Força of. atual/Força of. máxima\nLinha 3: Força def. recuperada por dia, Força of. recuperada por dia</TSA_WD_OutpostOverview_StrengthTooltip>
+  <TSA_WD_OutpostOverview_UpgradesMore>+{0} mais…</TSA_WD_OutpostOverview_UpgradesMore>
+  <TSA_WD_OutpostOverview_InjuredPawnsTip>{0} colono(s) com ferimentos sangrando neste posto avançado.</TSA_WD_OutpostOverview_InjuredPawnsTip>
+  <TSA_WD_OutpostOverview_PawnsColumnTip>Branco = Ocupantes\nAmarelo = Prisioneiros</TSA_WD_OutpostOverview_PawnsColumnTip>
+  <TSA_WD_Outpost_Experts>Especialistas</TSA_WD_Outpost_Experts>
+  <TSA_WD_OutpostOverview_ExpertsAssignedTip>{0} de {1} especialistas possíveis atribuídos</TSA_WD_OutpostOverview_ExpertsAssignedTip>
+  <TSA_WD_PawnCol_Hunt>Caça</TSA_WD_PawnCol_Hunt>
+  <TSA_WD_PawnCol_Melee>Corpo a corpo</TSA_WD_PawnCol_Melee>
+  <TSA_WD_PawnCol_ConstructionRoadTip>Construção afeta a velocidade de construção de estradas do posto avançado e quais tipos de estrada podem ser construídos.</TSA_WD_PawnCol_ConstructionRoadTip>
+  <TSA_WD_PawnCol_Name>Nome</TSA_WD_PawnCol_Name>
+  <TSA_WD_PawnCol_DailyFood>Comida\ndiária necessária</TSA_WD_PawnCol_DailyFood>
+  <TSA_WD_PawnCol_ResultingStrength>Força\nresultante</TSA_WD_PawnCol_ResultingStrength>
+  <TSA_WD_PawnCol_Hurt>Sangrando?</TSA_WD_PawnCol_Hurt>
+  <TSA_WD_PawnCol_HurtTip>Mostra colonos com um ferimento sangrando ativamente. Ferimentos permanentes e cicatrizes não são mostrados.</TSA_WD_PawnCol_HurtTip>
+  <TSA_WD_PawnCol_Age>Idade</TSA_WD_PawnCol_Age>
+  <TSA_WD_PawnCol_SortTooltip>Clique para ordenar. Clique de novo para inverter a ordem.</TSA_WD_PawnCol_SortTooltip>
+  <TSA_WD_PawnCol_XpSuffix>XP</TSA_WD_PawnCol_XpSuffix>
+  <TSA_WD_PawnCol_RelevantXpHeader>XP de habilidades</TSA_WD_PawnCol_RelevantXpHeader>
+  <TSA_WD_PawnCol_RelevantXpTooltip>Progresso para o próximo nível (XP atual / XP necessário). Habilidades relevantes: {0}.</TSA_WD_PawnCol_RelevantXpTooltip>
+  <TSA_WD_PawnDetails_Remove>Remover do posto avançado</TSA_WD_PawnDetails_Remove>
+  <TSA_WD_PawnDetails_Skills>Habilidades</TSA_WD_PawnDetails_Skills>
+  <TSA_WD_PawnRow_Remove>Remover</TSA_WD_PawnRow_Remove>
+  <TSA_WD_PawnCol_SelectColumn>​</TSA_WD_PawnCol_SelectColumn>
+  <TSA_WD_PawnCol_RemoveQuestion>Remover?</TSA_WD_PawnCol_RemoveQuestion>
+  <TSA_WD_PawnCol_SelectColumnTip>Selecione colonos, animais e veículos para remover do posto avançado. Clique na caixa do cabeçalho para marcar ou desmarcar todos os exibidos. Use o botão abaixo para enviá-los em uma única caravana.</TSA_WD_PawnCol_SelectColumnTip>
+  <TSA_WD_Pawns_RemoveChosen>Remover colonos</TSA_WD_Pawns_RemoveChosen>
+  <TSA_WD_Pawns_RemoveChosenTip>Remove todos os colonos, animais e veículos selecionados de uma vez. Eles partem em uma única caravana.</TSA_WD_Pawns_RemoveChosenTip>
+  <TSA_WD_Pawns_RemoveSlaveAccompanimentRequiredTip>Escravos, animais, veículos e mecanoides só podem ser removidos se acompanhados de pelo menos 1 colono.</TSA_WD_Pawns_RemoveSlaveAccompanimentRequiredTip>
+  <TSA_WD_Pawns_RemoveLastOccupantMechanoidsRemain>Não é possível remover o último ocupante enquanto houver mecanoides neste posto avançado. Remova os mecanoides primeiro ou leve-os com você.</TSA_WD_Pawns_RemoveLastOccupantMechanoidsRemain>
+  <TSA_WD_Producing>Produzindo {0}</TSA_WD_Producing>
+  <TSA_WD_Producing_Hunting>Caçando {0}</TSA_WD_Producing_Hunting>
+  <TSA_WD_Production>Produção</TSA_WD_Production>
+  <TSA_WD_Production_AnimalSkillNeeded>Habilidade de Animais necessária: {0}</TSA_WD_Production_AnimalSkillNeeded>
+  <TSA_WD_Production_AnimalSkillNeededTooltip>É necessário pelo menos um colono com nível {0} na habilidade Animais.</TSA_WD_Production_AnimalSkillNeededTooltip>
+  <TSA_WD_Production_BaselineTooltip>Quanto de {0} pode ser comprado com {1} de prata?</TSA_WD_Production_BaselineTooltip>
+  <TSA_WD_Production_BaselineTooltip_Mining>Os valores base são definidos nas configurações do mod.</TSA_WD_Production_BaselineTooltip_Mining>
+  <TSA_WD_Production_BaselineTooltip_Xml>Os valores base são definidos no XML do posto avançado (quantidade por habilidade para cada produto).</TSA_WD_Production_BaselineTooltip_Xml>
+  <TSA_WD_Production_Clear>Redefinir</TSA_WD_Production_Clear>
+  <TSA_WD_Production_ClearConfirm>Cancelar a produção? Isso reiniciará o ciclo de produção.</TSA_WD_Production_ClearConfirm>
+  <TSA_WD_Production_Current>Produzindo atualmente: {0}</TSA_WD_Production_Current>
+  <TSA_WD_Production_CurrentCycle>Ciclo atual: {0}</TSA_WD_Production_CurrentCycle>
+  <TSA_WD_Production_CurrentHunting>Caçando atualmente: {0}</TSA_WD_Production_CurrentHunting>
+  <TSA_WD_Production_CurrentFishing>Pescando atualmente: {0}</TSA_WD_Production_CurrentFishing>
+  <TSA_WD_Production_Currently>Atualmente: {0}</TSA_WD_Production_Currently>
+  <TSA_WD_Production_DeliveryAverageTooltip>A quantidade enviada ao fim do ciclo baseia-se na média deste valor ao longo de todo o ciclo de produção, não apenas no final.</TSA_WD_Production_DeliveryAverageTooltip>
+  <TSA_WD_Production_EligibleSkillTooltip>Requer pelo menos um colono com {0} ≥ {1}; a produção usa a habilidade {0} total do posto avançado.\nRequer pesquisa: {2}</TSA_WD_Production_EligibleSkillTooltip>
+  <TSA_WD_Production_EligibleSkillTooltipNoResearch>Requer pelo menos um colono com {0} ≥ {1}; a produção usa a habilidade {0} total do posto avançado.</TSA_WD_Production_EligibleSkillTooltipNoResearch>
+  <TSA_WD_Text_EmDash>—</TSA_WD_Text_EmDash>
+  <TSA_WD_Text_ListJoinAnd> e </TSA_WD_Text_ListJoinAnd>
+  <TSA_WD_Text_Nothing>nada</TSA_WD_Text_Nothing>
+  <TSA_WD_Hunting_AnimalBaseline_Intro>Por habilidade com 100% de eficiência do bloco:</TSA_WD_Hunting_AnimalBaseline_Intro>
+  <TSA_WD_Hunting_AnimalBaselineTooltip>Orçamento de {0} de prata por habilidade Animais por entrega. Abater um deste animal ≈ {1} de prata (valor de mercado de carne, couro e lã juntos).\n{2}\nEntrega = base × eficiência do bloco × habilidade Animais atribuída × multiplicador de produção.</TSA_WD_Hunting_AnimalBaselineTooltip>
+  <TSA_WD_Production_TooltipHunting_PerProduct>~{0} {1} por habilidade neste bloco</TSA_WD_Production_TooltipHunting_PerProduct>
+  <TSA_WD_Hunting_RowBundleTooltip>{0} — cada entrega inclui todos estes: {1}.\n\n{2}</TSA_WD_Hunting_RowBundleTooltip>
+  <TSA_WD_Fishing_RowTooltip>{0}: ~{1} por habilidade Animais neste bloco (antes do multiplicador de produção).</TSA_WD_Fishing_RowTooltip>
+  <TSA_WD_Hunting_AnimalBaseline_Outpost>\n\nDef. deste posto avançado: ~{0} dias por ciclo para esse cálculo; (÷30) = {1}.</TSA_WD_Hunting_AnimalBaseline_Outpost>
+  <TSA_WD_Hunting_AnimalBaseline_OutputMult> A produção ×{0} aplica-se às pilhas finais.</TSA_WD_Hunting_AnimalBaseline_OutputMult>
+  <TSA_WD_Hunting_TileEfficiencyTooltip>Abundância de animais neste bloco: {0}% (0–100%). Mesma pontuação de caça do painel de bioma. Consulte a dica do bioma para a fórmula.</TSA_WD_Hunting_TileEfficiencyTooltip>
+  <TSA_WD_Hunting_ProductFormulaTooltip>{0} {1}\n\n= {2} ({3})\n× {4}% ({5})\n× {6} ({7})</TSA_WD_Hunting_ProductFormulaTooltip>
+  <TSA_WD_Hunting_FormulaLabel_BaselinePerKill>base por abate</TSA_WD_Hunting_FormulaLabel_BaselinePerKill>
+  <TSA_WD_Hunting_FormulaLabel_TileEfficiency>eficiência do bloco</TSA_WD_Hunting_FormulaLabel_TileEfficiency>
+  <TSA_WD_Hunting_FormulaLabel_OutpostAnimals>Habilidade Animais do posto avançado</TSA_WD_Hunting_FormulaLabel_OutpostAnimals>
+  <TSA_WD_Production_Formula_AnimalAbundance>(Abundância de animais)</TSA_WD_Production_Formula_AnimalAbundance>
+  <TSA_WD_Production_Formula_FishAbundance>(Estoques de peixes)</TSA_WD_Production_Formula_FishAbundance>
+  <TSA_WD_Production_Formula_Baseline>(Base)</TSA_WD_Production_Formula_Baseline>
+  <TSA_WD_Production_Formula_Fertility>(Fertilidade)</TSA_WD_Production_Formula_Fertility>
+  <TSA_WD_Production_Formula_MiningEfficiency>(Eficiência de mineração)</TSA_WD_Production_Formula_MiningEfficiency>
+  <TSA_WD_Production_Formula_OutpostSkill>Habilidade {0} do posto avançado</TSA_WD_Production_Formula_OutpostSkill>
+  <TSA_WD_Production_Formula_GlobalOutput>(Produção global)</TSA_WD_Production_Formula_GlobalOutput>
+  <TSA_WD_Production_Formula_UpgradeBonus>(Bônus de melhoria)</TSA_WD_Production_Formula_UpgradeBonus>
+  <TSA_WD_Production_Formula_ExpertBonus>(Bônus de especialista)</TSA_WD_Production_Formula_ExpertBonus>
+  <TSA_WD_Production_Formula_WarehouseBonus>(Bônus de armazém)</TSA_WD_Production_Formula_WarehouseBonus>
+  <TSA_WD_Production_Formula_OutputBonusCombinedTip>Multiplicador de produção efetivo: ×{0} (global ×{1} + melhoria +{2}% + especialistas +{3}% + armazém +{4}%, aditivo).</TSA_WD_Production_Formula_OutputBonusCombinedTip>
+  <TSA_WD_Production_Formula_SoftBonusCombinedTip>Multiplicador de produção suave: ×{0} (especialistas +{1}% + armazém +{2}%, aditivo).</TSA_WD_Production_Formula_SoftBonusCombinedTip>
+  <TSA_WD_Production_Formula_GlobalOutputTip>Configuração do multiplicador de produção do mod: ×{0}.</TSA_WD_Production_Formula_GlobalOutputTip>
+  <TSA_WD_Production_Formula_UpgradeBonusTip>Bônus de produção de melhoria de posto avançado: +{0}%.</TSA_WD_Production_Formula_UpgradeBonusTip>
+  <TSA_WD_Production_Formula_WarehouseBonusTip>Aura de produtividade do armazém: +{0}%.</TSA_WD_Production_Formula_WarehouseBonusTip>
+  <TSA_WD_Production_Formula_WarehouseBonusNamedTip>Aura de produtividade do armazém de {1}: +{0}%.</TSA_WD_Production_Formula_WarehouseBonusNamedTip>
+  <TSA_WD_Production_ItemLabel_MinMining> (mín. {0} de Mineração)</TSA_WD_Production_ItemLabel_MinMining>
+  <TSA_WD_Production_ItemLabel_MinPlants> (mín. {0} de Plantas)</TSA_WD_Production_ItemLabel_MinPlants>
+  <TSA_WD_Production_ItemLabel_MinSkill> (mín. {0} {1})</TSA_WD_Production_ItemLabel_MinSkill>
+  <TSA_WD_Production_MiningEfficiency>Eficiência de mineração</TSA_WD_Production_MiningEfficiency>
+  <TSA_WD_Production_NextCycle>Isso será produzido no próximo ciclo.</TSA_WD_Production_NextCycle>
+  <TSA_WD_Production_NextCycleLabel>Próximo ciclo: {0}</TSA_WD_Production_NextCycleLabel>
+  <TSA_WD_Production_None>Nenhuma produção selecionada</TSA_WD_Production_None>
+  <TSA_WD_Production_NoneLabel>Nenhuma</TSA_WD_Production_NoneLabel>
+  <TSA_WD_Production_PausedHeader>Produção pausada:</TSA_WD_Production_PausedHeader>
+  <TSA_WD_Production_PerSkillBaselineTooltip>Os valores base são definidos no XML do posto avançado (quantidade por habilidade para cada produto).</TSA_WD_Production_PerSkillBaselineTooltip>
+  <TSA_WD_Production_Recruiting>Recrutamento</TSA_WD_Production_Recruiting>
+  <TSA_WD_Production_RecruitingDesc>Recruta com base na habilidade Social mais um bônus dos níveis dos assentamentos próximos. Abra o diálogo de recrutamento para detalhes.</TSA_WD_Production_RecruitingDesc>
+  <TSA_WD_Production_RecruitingSocialTooltip>Social total no posto avançado. Recrutas base: 1 a cada 10 de Social (média do ciclo). Níveis próximos adicionam recrutas bônus.</TSA_WD_Production_RecruitingSocialTooltip>
+  <TSA_WD_Outpost_RelevantStat_Pawns>Contagem de colonos</TSA_WD_Outpost_RelevantStat_Pawns>
+  <TSA_WD_Production_Scavenging>Catação</TSA_WD_Production_Scavenging>
+  <TSA_WD_Production_TooltipScavenging>Cada colono adiciona {0} de prata de valor de mercado alvo por entrega. Com {1} colono(s), o valor de mercado alvo total é {2} de prata por ciclo. O tempo de produção é fixado pela definição do posto avançado (não escala com a contagem de colonos). O multiplicador de produção global ainda se aplica às pilhas geradas.</TSA_WD_Production_TooltipScavenging>
+  <TSA_WD_Production_TooltipScavenging_None>Nenhum nível de catação selecionado. Abra a janela de produção e escolha itens básicos, incomuns ou raros para começar a produzir.</TSA_WD_Production_TooltipScavenging_None>
+  <TSA_WD_Production_TooltipScavenging_Kind>{0}: cada ciclo concluído envia uma caravana com itens de recompensa aleatórios. Valor de mercado alvo total: {3} de prata ({2} colonos × {1}). Requer pelo menos {4} colonos. O tempo de produção é fixado pela definição do posto avançado (não escala com a contagem de colonos). O multiplicador de produção global ainda se aplica às pilhas geradas.</TSA_WD_Production_TooltipScavenging_Kind>
+  <TSA_WD_Production_SummaryScavenging>Catação: ~{0} de valor de mercado / ciclo</TSA_WD_Production_SummaryScavenging>
+  <TSA_WD_Production_SummaryScavenging_Kind>Catação ({0}): ~{1} de valor de mercado / ciclo</TSA_WD_Production_SummaryScavenging_Kind>
+  <TSA_WD_Production_TableHeader_ScavengingPawns>Colonos (contagem)</TSA_WD_Production_TableHeader_ScavengingPawns>
+  <TSA_WD_Production_ScavengingPawnTooltip>Contagem de colonos neste posto avançado. Cada colono adiciona {0} de prata de valor de mercado alvo por entrega (para o nível de catação selecionado); o tempo de produção é fixo.</TSA_WD_Production_ScavengingPawnTooltip>
+  <TSA_WD_Production_ScavengingYieldPreview>{0} colonos × {1} → ~{2} de valor de mercado</TSA_WD_Production_ScavengingYieldPreview>
+  <TSA_WD_Production_ScavengingYieldSummary>{0} itens valendo ~{1} de prata</TSA_WD_Production_ScavengingYieldSummary>
+  <TSA_WD_Prod_ScavengingInspect>Suprimentos aleatórios (~{0} de valor de mercado; {1} colonos × {2})</TSA_WD_Prod_ScavengingInspect>
+  <TSA_WD_Prod_ScavengingInspect_Kind>Suprimentos {0} aleatórios (~{1} de valor de mercado; {2} colonos × {3})</TSA_WD_Prod_ScavengingInspect_Kind>
+  <TSA_WD_Gizmo_Scavenging_Kind>Catação ({0})</TSA_WD_Gizmo_Scavenging_Kind>
+  <TSA_WD_Scavenging_KindLabel_Basic>Procurar itens básicos</TSA_WD_Scavenging_KindLabel_Basic>
+  <TSA_WD_Scavenging_KindLabel_Uncommon>Procurar itens incomuns</TSA_WD_Scavenging_KindLabel_Uncommon>
+  <TSA_WD_Scavenging_KindLabel_Rare>Procurar itens raros</TSA_WD_Scavenging_KindLabel_Rare>
+  <TSA_WD_Scavenging_KindShort_Basic>Básico</TSA_WD_Scavenging_KindShort_Basic>
+  <TSA_WD_Scavenging_KindShort_Uncommon>Incomum</TSA_WD_Scavenging_KindShort_Uncommon>
+  <TSA_WD_Scavenging_KindShort_Rare>Raro</TSA_WD_Scavenging_KindShort_Rare>
+  <TSA_WD_Scavenging_KindRequirement>Requer pelo menos {0} colonos neste posto avançado. Cada colono contribui com {1} de prata de valor de mercado alvo por entrega.</TSA_WD_Scavenging_KindRequirement>
+  <TSA_WD_Scavenging_KindDisabled>Requer pelo menos {0} colonos neste posto avançado (tem {1}).</TSA_WD_Scavenging_KindDisabled>
+  <TSA_WD_Production_Recruits>recrutas</TSA_WD_Production_Recruits>
+  <TSA_WD_Production_RecruitsYield_Average>~{0} recrutas ({1} Social ÷ {2})</TSA_WD_Production_RecruitsYield_Average>
+  <TSA_WD_Production_RequiresAnimals>Requer pelo menos um colono com {0} de habilidade Animais (o melhor tem {1}).</TSA_WD_Production_RequiresAnimals>
+  <TSA_WD_Production_RequiresMining>Requer pelo menos {0} de Mineração (o melhor colono tem {1}).</TSA_WD_Production_RequiresMining>
+  <TSA_WD_Production_RequiresPlants>Requer pelo menos {0} de Plantas (o melhor colono tem {1}).</TSA_WD_Production_RequiresPlants>
+  <TSA_WD_Production_RequiresResearch>Requer pesquisa: {0}.</TSA_WD_Production_RequiresResearch>
+  <TSA_WD_Production_RequiresSkill>Requer pelo menos habilidade {0} de {1} (o melhor colono tem {2}).</TSA_WD_Production_RequiresSkill>
+  <TSA_WD_Production_Tip_NeedsSkill>Precisa de pelo menos um colono com {0} de nível {1}. O melhor colono tem {2}</TSA_WD_Production_Tip_NeedsSkill>
+  <TSA_WD_Production_Tip_NeedsResearch>Pesquisa "{0}" necessária</TSA_WD_Production_Tip_NeedsResearch>
+  <TSA_WD_Production_Tip_NeedsPawns>Precisa de pelo menos {0} colonos neste posto avançado. Tem {1}</TSA_WD_Production_Tip_NeedsPawns>
+  <TSA_WD_Production_RowLabel_YieldTooltip>Esquerda: rendimento se a capacidade atual permanecer até o fim do ciclo. Direita (ciano): pagamento real no fim do ciclo, com base na média da habilidade ao longo do ciclo.</TSA_WD_Production_RowLabel_YieldTooltip>
+  <TSA_WD_Production_Select>Produção do posto avançado</TSA_WD_Production_Select>
+  <TSA_WD_Production_SelectButton>Selecionar</TSA_WD_Production_SelectButton>
+  <TSA_WD_Production_SelectButtonTooltip>Defina isto como o bem a produzir para a próxima entrega.</TSA_WD_Production_SelectButtonTooltip>
+  <TSA_WD_Production_SelectedForThisCycle>Selecionado para este ciclo: {0}</TSA_WD_Production_SelectedForThisCycle>
+  <TSA_WD_Production_SelectedForNextCycle>Selecionado para o próximo ciclo: {0}</TSA_WD_Production_SelectedForNextCycle>
+  <TSA_WD_Production_SelectedForNextCycleTip>O ciclo atual está travado. Esta seleção começará a produzir no início do próximo ciclo.</TSA_WD_Production_SelectedForNextCycleTip>
+  <TSA_WD_Production_SelectionChangeableFor>Seleção alterável por: {0} dias</TSA_WD_Production_SelectionChangeableFor>
+  <TSA_WD_Production_SelectionLocked>Seleção travada para este ciclo</TSA_WD_Production_SelectionLocked>
+  <TSA_WD_Production_SkillFactorTooltip>Habilidade {0} acumulada no posto avançado.</TSA_WD_Production_SkillFactorTooltip>
+  <TSA_WD_Production_SkillFallback>Habilidade</TSA_WD_Production_SkillFallback>
+  <TSA_WD_Production_SkillOutput>{0} {1} de Habilidade * {2} {3} = {4} {3}</TSA_WD_Production_SkillOutput>
+  <TSA_WD_Production_SummaryRecruiting>{0} (~{2} neste ciclo)</TSA_WD_Production_SummaryRecruiting>
+  <TSA_WD_Production_SummaryTrading>Comércio: pagamento exibido como prata exata por ciclo (mesma fórmula do diálogo de produção).</TSA_WD_Production_SummaryTrading>
+  <TSA_WD_Production_TableHeader_Average>Média do ciclo de produção</TSA_WD_Production_TableHeader_Average>
+  <TSA_WD_Production_TableHeader_AverageTooltip>Média contínua ao longo do ciclo de produção atual; é o que você receberá de fato ao fim do ciclo de produção.</TSA_WD_Production_TableHeader_AverageTooltip>
+  <TSA_WD_Production_TableHeader_ProductionCapacity>Pontos de habilidade para produção física</TSA_WD_Production_TableHeader_ProductionCapacity>
+  <TSA_WD_Production_TableHeader_ProductionCapacityTooltip>Pontos de habilidade que impulsionam as entregas de bens físicos neste ciclo (instantâneo e média do ciclo). As entregas podem ir para sua colônia, um posto avançado armazém ou outro destino configurado.</TSA_WD_Production_TableHeader_ProductionCapacityTooltip>
+  <TSA_WD_Production_TableHeader_RelevantSkill>Habilidade relevante: {0}</TSA_WD_Production_TableHeader_RelevantSkill>
+  <TSA_WD_Production_TableHeader_SkillPhysical>Habilidade de produção</TSA_WD_Production_TableHeader_SkillPhysical>
+  <TSA_WD_Production_PhysicalSkillTooltip>A produção de bens físicos usa a habilidade {1} acumulada total deste posto avançado ({0}). Alimentar outros postos avançados com comida virtual (aba Comida) não reduz mais isso.</TSA_WD_Production_PhysicalSkillTooltip>
+  <TSA_WD_Production_TableHeader_Snapshot>Instantâneo</TSA_WD_Production_TableHeader_Snapshot>
+  <TSA_WD_Production_TableHeader_SnapshotTooltip>Pontos de habilidade atribuídos no momento e produção resultante.</TSA_WD_Production_TableHeader_SnapshotTooltip>
+  <TSA_WD_Production_TableHeader_Yield>Rendimento no fim do ciclo:</TSA_WD_Production_TableHeader_Yield>
+  <TSA_WD_Production_TableHeader_YieldTooltip>Rendimento final com base na média da habilidade atribuída à produção física no ciclo de produção atual.</TSA_WD_Production_TableHeader_YieldTooltip>
+  <TSA_WD_Production_TooltipFarming>Orçamento de {0} de prata/habilidade por entrega. {6}: base pelo valor de mercado.\nFertilidade do bloco do mundo ×{1} (0–1; mesma pontuação do diálogo de fundação/seleção). A produção também aplica nível, habilidade Plantas e um remapeamento de rendimento.\nApós modificadores do bloco: {2} {6} por habilidade.\nEsta entrega: {3} {4} × {2} → {5} {6} (a contagem final inclui o multiplicador de produção global).</TSA_WD_Production_TooltipFarming>
+  <TSA_WD_Production_TooltipHunting>Orçamento de prata: {0} por habilidade Animais por entrega (fixo). Eficiência de caça do bloco: {1}.\n{2}\n\nProdutos que este animal rende: {3}.\n\nPrévia desta entrega (inclui o multiplicador de produção global): {4}</TSA_WD_Production_TooltipHunting>
+  <TSA_WD_Production_TooltipFishing>Orçamento de prata: {0} por habilidade Animais por entrega (fixo). Estoques de peixe do bloco: {1}.\n~{2} {3} por habilidade Animais neste bloco.\n\nPrévia desta entrega (inclui o multiplicador de produção global): {4}</TSA_WD_Production_TooltipFishing>
+  <TSA_WD_Production_TooltipMining>Orçamento de {0} de prata/habilidade por entrega. {6}: base pelo valor de mercado ou pelos controles de base de mineração.\nBloco de mineração ×{1}. Após o bloco: {2} {6} por habilidade.\nEsta entrega: {3} {4} × {2} → {5} {6} (a contagem final inclui o multiplicador de produção global).</TSA_WD_Production_TooltipMining>
+  <TSA_WD_Production_TooltipFabrication_Line1>{0} {1} (elegível) × {2} por habilidade → {3} {4} por ciclo (inclui o multiplicador de produção global).</TSA_WD_Production_TooltipFabrication_Line1>
+  <TSA_WD_Production_TooltipFabrication_Line2>Requer pelo menos um colono com {0} ≥ {1}; a produção usa a habilidade {0} total do posto avançado.</TSA_WD_Production_TooltipFabrication_Line2>
+  <TSA_WD_Production_TooltipFabrication_Research>Requer pesquisa: {0}</TSA_WD_Production_TooltipFabrication_Research>
+  <TSA_WD_Production_TooltipRecruiting>Social médio {1} → ~{2} recruta(s). Base pelo Social (1 a cada {0}) mais bônus de até os 3 melhores parceiros próximos por facção.</TSA_WD_Production_TooltipRecruiting>
+  <TSA_WD_Recruiting_WindowTitle>Recrutamento do posto avançado</TSA_WD_Recruiting_WindowTitle>
+  <TSA_WD_Recruiting_Info_ExpectedOutput>Recrutas esperados neste ciclo:</TSA_WD_Recruiting_Info_ExpectedOutput>
+  <TSA_WD_Recruiting_Info_CurrentSocialTip>Atualmente, este posto avançado tem {0} de habilidade Social acumulada dos colonos. A cada 10 de Social você ganha 1 colono no fim do ciclo de produção.</TSA_WD_Recruiting_Info_CurrentSocialTip>
+  <TSA_WD_Recruiting_Info_AvgSocialTip>Social médio neste ciclo: {0}. A cada 10 de Social médio você ganha 1 colono no fim do ciclo de produção.</TSA_WD_Recruiting_Info_AvgSocialTip>
+  <TSA_WD_Recruiting_NeighborBonusTierPointsTip>Cada parceiro contribuinte adiciona pontos de vizinhança por nível:\nNível 1 = 1\nNível 2 = 2\nNível 3 = 3,5\nNível 4 = 5\nSomente os 3 melhores parceiros por facção (por nível e depois distância) contam.</TSA_WD_Recruiting_NeighborBonusTierPointsTip>
+  <TSA_WD_Recruiting_ChooseTraining>Escolha o treinamento:</TSA_WD_Recruiting_ChooseTraining>
+  <TSA_WD_Recruiting_SelectedTraining>Selecionado: {0}</TSA_WD_Recruiting_SelectedTraining>
+  <TSA_WD_Recruiting_NearbyHeaderTip>Assentamentos a até {0} blocos. Até 3 por facção contribuem. Vizinhos hostis contam como desertores com eficiência reduzida e exibem um tom vermelho quando contribuem.</TSA_WD_Recruiting_NearbyHeaderTip>
+  <TSA_WD_Recruiting_NeighborBonusRule>Até os 3 melhores parceiros por facção adicionam pontos de vizinhança (Nível 1=1, Nível 2=2, Nível 3=3,5, Nível 4=5). Some todos. A cada {0} pontos combinados = +1 recruta extra neste ciclo.</TSA_WD_Recruiting_NeighborBonusRule>
+  <TSA_WD_Recruiting_NeighborBonusFooterRule>Para cada {0} pontos de vizinhança de parceiros contribuintes, você ganha um recruta extra no fim do ciclo de produção.</TSA_WD_Recruiting_NeighborBonusFooterRule>
+  <TSA_WD_Recruiting_NeighborBonusFooterTotal>Total de pontos de vizinhança: {0}</TSA_WD_Recruiting_NeighborBonusFooterTotal>
+  <TSA_WD_Recruiting_NeighborBonusFooterResult>Colonos extras resultantes: {0}</TSA_WD_Recruiting_NeighborBonusFooterResult>
+  <TSA_WD_Recruiting_PartnerRow>{0} ({1}), +{2} pontos de vizinhança</TSA_WD_Recruiting_PartnerRow>
+  <TSA_WD_Recruiting_PartnerRowTip>{0}\n{2}, {1}, {3} blocos\n\nAdiciona +{4} pontos de vizinhança.\nOs xenótipos desta facção podem aparecer nos novos recrutas.\n\nClique para localizar no mapa-múndi.</TSA_WD_Recruiting_PartnerRowTip>
+  <TSA_WD_Recruiting_PartnerRowTip_BlackMarket>Vizinho hostil (desertores): conta com {0}% de eficiência.</TSA_WD_Recruiting_PartnerRowTip_BlackMarket>
+  <TSA_WD_Recruiting_PartnerRowTip_Defectors>Vizinho hostil (desertores): conta com {0}% de eficiência.</TSA_WD_Recruiting_PartnerRowTip_Defectors>
+  <TSA_WD_Recruiting_Math_Compact>{0} ({1} Social) + {2} ({3} pontos de vizinhança) x {4}% de bônus de especialista [= {5}]</TSA_WD_Recruiting_Math_Compact>
+  <TSA_WD_Recruiting_Math_CompactWithSkill>{0} ({1} Social) + {2} ({3} pontos de vizinhança) x {4}% de bônus de especialista x -{5}% de foco de habilidade [= {6}]</TSA_WD_Recruiting_Math_CompactWithSkill>
+  <TSA_WD_Recruiting_PriorityAny>Qualquer colono</TSA_WD_Recruiting_PriorityAny>
+  <TSA_WD_Recruiting_PriorityAnyFormula>Sem penalidade de recrutamento</TSA_WD_Recruiting_PriorityAnyFormula>
+  <TSA_WD_Recruiting_PriorityAnyTip>Habilidades aleatórias em cada recruta. Contagem total de recrutas por Social e vizinhos.</TSA_WD_Recruiting_PriorityAnyTip>
+  <TSA_WD_Recruiting_PrioritySkillFormula>-{0}% recrutas, nível mín. {1}</TSA_WD_Recruiting_PrioritySkillFormula>
+  <TSA_WD_Recruiting_PrioritySkillTip>-{0}% de recrutas neste ciclo. Cada recruta recebe pelo menos nível {1} em {2}.</TSA_WD_Recruiting_PrioritySkillTip>
+  <TSA_WD_Recruiting_XenotypeNone>Baseline 100%</TSA_WD_Recruiting_XenotypeNone>
+  <TSA_WD_Recruiting_XenotypeSourcesHeader>Assentamentos próximos:</TSA_WD_Recruiting_XenotypeSourcesHeader>
+  <TSA_WD_Recruiting_XenotypeSourcesTip>Clique em uma linha para localizá-la no mapa-múndi. As linhas destacadas contribuem (3 melhores por facção). Elas também definem os xenótipos e os tipos de colono da facção.</TSA_WD_Recruiting_XenotypeSourcesTip>
+  <TSA_WD_Recruiting_Math_SocialLine>Habilidade Social: {0} =&gt; {1} colonos</TSA_WD_Recruiting_Math_SocialLine>
+  <TSA_WD_Recruiting_Math_NeighborLine>Pontos de vizinhança: {0} =&gt; {1} colonos</TSA_WD_Recruiting_Math_NeighborLine>
+  <TSA_WD_Recruiting_Math_SkillPenaltyLine>Penalidade por escolher habilidade específica: {0} %</TSA_WD_Recruiting_Math_SkillPenaltyLine>
+  <TSA_WD_Recruiting_Math_ResultWithPenalty>Colonos resultantes: {0} x {1} = {2}. Arredondado: {3} colonos</TSA_WD_Recruiting_Math_ResultWithPenalty>
+  <TSA_WD_Recruiting_Math_ResultNoPenalty>Colonos resultantes: {0}</TSA_WD_Recruiting_Math_ResultNoPenalty>
+  <TSA_WD_Recruiting_Math_None>Nenhum no alcance</TSA_WD_Recruiting_Math_None>
+  <TSA_WD_Recruiting_XenotypePoolHeader>Xenótipos de assentamentos próximos:</TSA_WD_Recruiting_XenotypePoolHeader>
+  <TSA_WD_Recruiting_XenotypePoolLine>  - {0}: {1}</TSA_WD_Recruiting_XenotypePoolLine>
+  <TSA_WD_Recruiting_XenotypePoolTip>Os xenótipos dos colonos recrutados vêm dos parceiros contribuintes no alcance (3 melhores por facção). Expanda esta seção para ver o detalhamento.</TSA_WD_Recruiting_XenotypePoolTip>
+  <TSA_WD_Recruiting_PawnKindNone>Colono 100%</TSA_WD_Recruiting_PawnKindNone>
+  <TSA_WD_Recruiting_PawnKindPoolHeader>Tipos de colono de assentamentos próximos:</TSA_WD_Recruiting_PawnKindPoolHeader>
+  <TSA_WD_Recruiting_PawnKindPoolLine>  - {0}: {1}</TSA_WD_Recruiting_PawnKindPoolLine>
+  <TSA_WD_Recruiting_PawnKindPoolTip>Os tipos de colono dos recrutados vêm dos parceiros contribuintes no alcance (3 melhores por facção), usando os pesos de tipos de incursão de combate de cada facção (tipos mais baratos com mais frequência). Expanda esta seção para ver o detalhamento.</TSA_WD_Recruiting_PawnKindPoolTip>
+  <TSA_WD_Recruiting_Info_ExpectedCount>~{0} {1}</TSA_WD_Recruiting_Info_ExpectedCount>
+  <TSA_WD_Recruiting_Math_NeighborConversion>{0} pontos ÷ {1} = {2} recrutas extras</TSA_WD_Recruiting_Math_NeighborConversion>
+  <TSA_WD_Outpost_GenericLabel>Posto avançado</TSA_WD_Outpost_GenericLabel>
+  <TSA_WD_Trading_WindowTitle>Comércio do posto avançado</TSA_WD_Trading_WindowTitle>
+  <TSA_WD_Trading_NearbyHeaderTip>Assentamentos a até {0} blocos. Até 3 por facção contribuem. Vizinhos hostis contam com eficiência reduzida (mercado negro) e exibem um tom vermelho quando contribuem.</TSA_WD_Trading_NearbyHeaderTip>
+  <TSA_WD_Trading_Info_CurrentSocialTip>Atualmente, este posto avançado tem {0} de habilidade Social acumulada dos colonos. O rendimento de Social escala o pagamento em prata no fim do ciclo.</TSA_WD_Trading_Info_CurrentSocialTip>
+  <TSA_WD_Trading_Info_AvgSocialTip>Social médio neste ciclo: {0}. Este valor determina o multiplicador de Social aplicado à prata dos níveis no fim do ciclo.</TSA_WD_Trading_Info_AvgSocialTip>
+  <TSA_WD_Trading_Info_ExpectedOutput>Produção esperada:</TSA_WD_Trading_Info_ExpectedOutput>
+  <TSA_WD_Trading_Info_ExpectedAmount>~{0} {1}</TSA_WD_Trading_Info_ExpectedAmount>
+  <TSA_WD_Trading_SilverFallback>Prata</TSA_WD_Trading_SilverFallback>
+  <TSA_WD_Trading_SelectedActivity>Atividade: {0}</TSA_WD_Trading_SelectedActivity>
+  <TSA_WD_Trading_NearbySettlementsHeader>Assentamentos próximos:</TSA_WD_Trading_NearbySettlementsHeader>
+  <TSA_WD_Trading_NearbySettlementsTip>Clique em uma linha para localizá-la no mapa-múndi. As linhas destacadas contribuem com prata (3 melhores por facção por nível).</TSA_WD_Trading_NearbySettlementsTip>
+  <TSA_WD_Trading_PartnerRow>{0} ({1}), +{2} de prata</TSA_WD_Trading_PartnerRow>
+  <TSA_WD_Trading_PartnerRowTip>{0}\n{2}, {1}, {3} blocos\n\nAdiciona +{4} de prata.\n\nClique para localizar no mapa-múndi.</TSA_WD_Trading_PartnerRowTip>
+  <TSA_WD_Trading_PartnerRowTip_BlackMarket>Vizinho hostil (mercado negro): conta com {0}% de eficiência.</TSA_WD_Trading_PartnerRowTip_BlackMarket>
+  <TSA_WD_Trading_TierSilverTip>Cada assentamento próximo adiciona prata por nível:\nNível 1 = 100\nNível 2 = 200\nNível 3 = 350\nNível 4 = 500</TSA_WD_Trading_TierSilverTip>
+  <TSA_WD_Trading_FooterRule>Some a prata dos 3 melhores parceiros por facção (parceiros hostis com eficiência reduzida) e multiplique pelo rendimento de Social no fim do ciclo.</TSA_WD_Trading_FooterRule>
+  <TSA_WD_Trading_FooterTierSum>Prata total dos níveis: {0}</TSA_WD_Trading_FooterTierSum>
+  <TSA_WD_Trading_FooterExpectedSilver>Pagamento esperado: {0} de prata</TSA_WD_Trading_FooterExpectedSilver>
+  <TSA_WD_Trading_SocialPanelHeader>Rendimento de Social</TSA_WD_Trading_SocialPanelHeader>
+  <TSA_WD_Trading_SocialMinLine>Social mínimo exigido: {0}</TSA_WD_Trading_SocialMinLine>
+  <TSA_WD_Trading_SocialMultiplierLine>Multiplicador de Social neste ciclo: {0}%</TSA_WD_Trading_SocialMultiplierLine>
+  <TSA_WD_Trading_SocialBonusTip>Cada ponto de habilidade Social acima do mínimo adiciona +{0}% ao rendimento de prata dos níveis.</TSA_WD_Trading_SocialBonusTip>
+  <TSA_WD_Trading_SocialPerPointDetail>+{0}% de rendimento por Social acima do mínimo ({1} de Social excedente neste ciclo).</TSA_WD_Trading_SocialPerPointDetail>
+  <TSA_WD_Trading_SocialPerPointTip>Cada ponto de habilidade Social acumulado acima do mínimo do posto avançado aumenta o pagamento em +{0}% da soma de prata dos níveis. Exemplo: 2 de Social excedente = +{0}% × 2.</TSA_WD_Trading_SocialPerPointTip>
+  <TSA_WD_Trading_ChooseCommodity>Escolha a mercadoria:</TSA_WD_Trading_ChooseCommodity>
+  <TSA_WD_Trading_RowFormula_Silver>{0} de prata = {1} de prata dos níveis × {2}%</TSA_WD_Trading_RowFormula_Silver>
+  <TSA_WD_Trading_RowFormula_Gold>{0} de ouro = {1} de prata ÷ {2}</TSA_WD_Trading_RowFormula_Gold>
+  <TSA_WD_Trading_FooterExpected>Pagamento esperado: {0} {1}</TSA_WD_Trading_FooterExpected>
+  <TSA_WD_Trading_Math_MinSocialPoints>Pontos mínimos de habilidade Social para o posto avançado: {0}</TSA_WD_Trading_Math_MinSocialPoints>
+  <TSA_WD_Trading_Math_MultAtMin>Multiplicador de produção no nível mínimo: {0} %</TSA_WD_Trading_Math_MultAtMin>
+  <TSA_WD_Trading_Math_BonusPerPoint>Bônus por ponto extra de Social: {0} %</TSA_WD_Trading_Math_BonusPerPoint>
+  <TSA_WD_Trading_Math_SocialAtOutpost>Pontos de habilidade Social no posto avançado: {0}</TSA_WD_Trading_Math_SocialAtOutpost>
+  <TSA_WD_Trading_Math_ResultingMult>Multiplicador resultante: {0} %</TSA_WD_Trading_Math_ResultingMult>
+  <TSA_WD_Trading_Math_GoldConversion>- Ouro: {0} de prata ÷ {1} = {2} {3}</TSA_WD_Trading_Math_GoldConversion>
+  <TSA_WD_Trading_Math_ExpectedCommodity>- Entrega: {0} {1}</TSA_WD_Trading_Math_ExpectedCommodity>
+  <TSA_WD_Production_TooltipTrading>Prata de assentamentos próximos (a até {0} blocos) no fim do ciclo. Até os 3 melhores assentamentos por facção. Nível 1=100, Nível 2=200, Nível 3=350, Nível 4=500.</TSA_WD_Production_TooltipTrading>
+  <TSA_WD_Production_TooltipTrading_Formula>{0} de prata neste ciclo: soma de níveis próximos {1} × {2}% de rendimento de Social (Social do posto avançado {3}; 100% em MinCumulativeSkill {4}) × multiplicador de produção global.</TSA_WD_Production_TooltipTrading_Formula>
+  <TSA_WD_Production_TradingYieldSilverOnly>{0} de prata (soma de níveis {1} × {2}% de Social, depois × multiplicador de produção global)</TSA_WD_Production_TradingYieldSilverOnly>
+  <TSA_WD_Production_Trading>Comércio</TSA_WD_Production_Trading>
+  <TSA_WD_Trading_Math_Compact>{0} de prata x {1}% ({2} Social) x {3}% de especialista [= {4} {5}]</TSA_WD_Trading_Math_Compact>
+  <TSA_WD_Embassy_Math_Compact>{0} pontos de nível x {1}% ({2} Social) x {3}% de especialista [= +{4} de boa vontade]</TSA_WD_Embassy_Math_Compact>
+  <TSA_WD_Trading_Math_Header>Assentamentos próximos:</TSA_WD_Trading_Math_Header>
+  <TSA_WD_Trading_Math_PartnerLine>• {0} ({1}): +{2} de prata</TSA_WD_Trading_Math_PartnerLine>
+  <TSA_WD_Trading_Math_None>• Nenhum no alcance</TSA_WD_Trading_Math_None>
+  <TSA_WD_Trading_Math_Sum>• Soma: {0} de prata</TSA_WD_Trading_Math_Sum>
+  <TSA_WD_Trading_Math_Social>Habilidade Social no posto avançado: {0}</TSA_WD_Trading_Math_Social>
+  <TSA_WD_Trading_Math_MinSocial>- Habilidade Social mínima exigida: {0}</TSA_WD_Trading_Math_MinSocial>
+  <TSA_WD_Trading_Math_Multiplier>- Multiplicador para habilidade Social {0}: {1} %</TSA_WD_Trading_Math_Multiplier>
+  <TSA_WD_Trading_Math_ExpectedHeader>Resultado esperado:</TSA_WD_Trading_Math_ExpectedHeader>
+  <TSA_WD_Trading_Math_ExpectedLine>- {0} de prata * {1} % = {2}</TSA_WD_Trading_Math_ExpectedLine>
+  <TSA_WD_Embassy_WindowTitle>Embaixada do posto avançado</TSA_WD_Embassy_WindowTitle>
+  <TSA_WD_Embassy_NearbyHeaderTip>Assentamentos elegíveis a até {0} blocos (neutros/aliados e hostis, se permitido nas configurações). Postos avançados e inimigos permanentes não são contados.</TSA_WD_Embassy_NearbyHeaderTip>
+  <TSA_WD_Embassy_Info_AvgSocialTip>Social efetivo médio neste ciclo: {0}. Este valor define o multiplicador de boa vontade no fim do ciclo.</TSA_WD_Embassy_Info_AvgSocialTip>
+  <TSA_WD_Embassy_Info_CurrentSocialTip>Atualmente, este posto avançado tem {0} de habilidade Social acumulada dos colonos. O Social escala o pagamento de boa vontade no fim do ciclo.</TSA_WD_Embassy_Info_CurrentSocialTip>
+  <TSA_WD_Embassy_Info_SocialMult>Multiplicador de Social neste ciclo: {0}%</TSA_WD_Embassy_Info_SocialMult>
+</LanguageData>

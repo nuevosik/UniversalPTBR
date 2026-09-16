@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_AllegianceLock_ScopeInfo>Esta lista se aplica às mudanças tentadas pelo mod World Domination</TSA_WD_AllegianceLock_ScopeInfo>
+  <TSA_WD_AllegianceLock_Title>Mudanças de Diplomacia Permitidas</TSA_WD_AllegianceLock_Title>
+  <TSA_WD_BtnAllowAll>Permitir Tudo</TSA_WD_BtnAllowAll>
+  <TSA_WD_BtnAllowAll_Tooltip>Toda facção poderá mudar suas relações com qualquer outra facção</TSA_WD_BtnAllowAll_Tooltip>
+  <TSA_WD_BtnLockAll>Bloquear Tudo</TSA_WD_BtnLockAll>
+  <TSA_WD_BtnLockAll_Tooltip>Nenhuma mudança de relação ocorrerá pelo mod World Domination.</TSA_WD_BtnLockAll_Tooltip>
+  <TSA_WD_BtnReset>Padrão</TSA_WD_BtnReset>
+  <TSA_WD_BtnResetGlobal>Hostil perm.</TSA_WD_BtnResetGlobal>
+  <TSA_WD_BtnResetGlobal_Tooltip>Bloqueia todo par que inclua uma facção permanentemente hostil (inclusive contra o jogador) e bloqueia pares de insetoides/colmeia contra todos. Impede que a diplomacia do World Domination altere esses pares.</TSA_WD_BtnResetGlobal_Tooltip>
+  <TSA_WD_BtnReset_Tooltip>Aplica as regras de bloqueio padrão: facções permanentemente hostis (insetoides e Inimigos Permanentes do jogo base) ficam bloqueadas entre si, e facções de insetoides/colmeia ficam bloqueadas contra todos. Outros pares, inclusive contra o jogador, permanecem desbloqueados, a menos que você os bloqueie na lista abaixo.</TSA_WD_BtnReset_Tooltip>
+  <TSA_WD_DescAllegianceMatrix>Apenas no jogo: participação das facções (ações do World Domination, geração do mapa, narrador) e lealdades por par.</TSA_WD_DescAllegianceMatrix>
+  <TSA_WD_Diplo_ActionShareMult>Multiplicador diário da parcela de ações</TSA_WD_Diplo_ActionShareMult>
+  <TSA_WD_Diplo_AntiLeader>Ativar coalizões anti-líder</TSA_WD_Diplo_AntiLeader>
+  <TSA_WD_Diplo_AntiLeaderTooltip>Facções pequenas podem formar uma aliança defensiva e declarar guerra à facção mais dominante do mundo para restaurar o equilíbrio.</TSA_WD_Diplo_AntiLeaderTooltip>
+  <TSA_WD_Diplo_AttritionMult>Multiplicador de atrito de viagem</TSA_WD_Diplo_AttritionMult>
+  <TSA_WD_Diplo_Block_Coalition>Coalizão anti-líder</TSA_WD_Diplo_Block_Coalition>
+  <TSA_WD_Diplo_Block_Leader>Desvantagem do líder mundial</TSA_WD_Diplo_Block_Leader>
+  <TSA_WD_Diplo_Block_Underdog>Bônus de crescimento do azarão</TSA_WD_Diplo_Block_Underdog>
+  <TSA_WD_Diplo_Block_Zeal>Fervor expansionista</TSA_WD_Diplo_Block_Zeal>
+  <TSA_WD_Diplo_Change_Label>Mudança diplomática</TSA_WD_Diplo_Change_Label>
+  <TSA_WD_Diplo_CoalitionTriggerChance>Chance de ativação da coalizão</TSA_WD_Diplo_CoalitionTriggerChance>
+  <TSA_WD_Diplo_CoalitionTriggerChanceTooltip>Chance diária de formar uma coalizão anti-líder quando existe um líder dominante e o tempo de espera passou.</TSA_WD_Diplo_CoalitionTriggerChanceTooltip>
+  <TSA_WD_Diplo_Coalition_Label>Coalizão Defensiva (Bônus)</TSA_WD_Diplo_Coalition_Label>
+  <TSA_WD_Diplo_Coalition_Msg>As facções {0} formaram uma aliança para derrubar a facção líder {1}.</TSA_WD_Diplo_Coalition_Msg>
+  <TSA_WD_Diplo_CoalitionAbandoned_Label>Coalizão anti-liderança abandonada</TSA_WD_Diplo_CoalitionAbandoned_Label>
+  <TSA_WD_Diplo_CoalitionAbandoned_Msg>A coalizão anti-líder se dissolveu. Os laços diplomáticos retornam ao estado anterior à coalizão.\n\n{0}</TSA_WD_Diplo_CoalitionAbandoned_Msg>
+  <TSA_WD_Diplo_CoalitionAbandoned_Pair>{0} e {1}: {2}</TSA_WD_Diplo_CoalitionAbandoned_Pair>
+  <TSA_WD_Diplo_Enable>Ativar</TSA_WD_Diplo_Enable>
+  <TSA_WD_Diplo_ExpansionistZeal>Fervor Expansionista (Bônus)</TSA_WD_Diplo_ExpansionistZeal>
+  <TSA_WD_Diplo_ExpansionistZealTooltip>Permite que uma facção ambiciosa aleatória ganhe ocasionalmente +50% de alcance de ataque.</TSA_WD_Diplo_ExpansionistZealTooltip>
+  <TSA_WD_Diplo_ExpansionistZeal_Msg>Bônus: '{0}' tem +50% de raio de ataque pelos próximos {1} dias.</TSA_WD_Diplo_ExpansionistZeal_Msg>
+  <TSA_WD_Diplo_Flavor_Ally>{0} e {1} agora são aliados.</TSA_WD_Diplo_Flavor_Ally>
+  <TSA_WD_Diplo_Flavor_AllyByTrade>{0} e {1} se tornaram aliados por meio do comércio.</TSA_WD_Diplo_Flavor_AllyByTrade>
+  <TSA_WD_Diplo_Flavor_Peace>{0} e {1} assinaram um tratado de paz.</TSA_WD_Diplo_Flavor_Peace>
+  <TSA_WD_Diplo_Flavor_War>{0} e {1} declararam guerra.</TSA_WD_Diplo_Flavor_War>
+  <TSA_WD_Diplo_AlliedRaidAwardCosts>Custos de boa vontade para entregar ao jogador</TSA_WD_Diplo_AlliedRaidAwardCosts>
+  <TSA_WD_Diplo_AlliedRaidAwardCostsTooltip>Boa vontade paga a uma facção aliada quando você pede que ela conquiste um assentamento hostil e entregue as ruínas a você.</TSA_WD_Diplo_AlliedRaidAwardCostsTooltip>
+  <TSA_WD_Diplo_AlliedRaidClaimCosts>Custos de boa vontade quando o aliado fica com o alvo</TSA_WD_Diplo_AlliedRaidClaimCosts>
+  <TSA_WD_Diplo_AlliedRaidClaimCostsTooltip>Boa vontade paga a uma facção aliada quando você pede que ela conquiste um assentamento hostil e fique com ele.</TSA_WD_Diplo_AlliedRaidClaimCostsTooltip>
+  <TSA_WD_Diplo_ConquestAllyGiftGoodwill>Recompensas de boa vontade por presente de conquista</TSA_WD_Diplo_ConquestAllyGiftGoodwill>
+  <TSA_WD_Diplo_ConquestAllyGiftGoodwillTooltip>Boa vontade ganha ao dar as ruínas de um assentamento conquistado a uma facção aliada ou neutra após a conquista.</TSA_WD_Diplo_ConquestAllyGiftGoodwillTooltip>
+  <TSA_WD_GoodwillMsg_Trade>Comércio com {0}. {1} de boa vontade, agora em {2}</TSA_WD_GoodwillMsg_Trade>
+  <TSA_WD_GoodwillMsg_QuestReward>Recompensa de missão de {0}. {1} de boa vontade, agora em {2}</TSA_WD_GoodwillMsg_QuestReward>
+  <TSA_WD_GoodwillMsg_AlliedRaidOrdered>Ordenou ao aliado {0} uma incursão contra {1}. -{2} de boa vontade, agora em {3}</TSA_WD_GoodwillMsg_AlliedRaidOrdered>
+  <TSA_WD_GoodwillMsg_AlliedRaidRefund>Incursão aliada de {0} contra {1} cancelada. {2} de boa vontade reembolsada, agora em {3}</TSA_WD_GoodwillMsg_AlliedRaidRefund>
+  <TSA_WD_GoodwillMsg_ConquestGift>{0} estabeleceu {1}. +{2} de boa vontade, agora em {3}</TSA_WD_GoodwillMsg_ConquestGift>
+  <TSA_WD_GoodwillMsg_SpyOpFailure>{0} em {1} falhou. -{2} de boa vontade com {3}, agora em {4}</TSA_WD_GoodwillMsg_SpyOpFailure>
+  <TSA_WD_GoodwillMsg_TraderCaravan>Caravana de comerciantes chegou ao seu assentamento. +{1} de boa vontade com {0}, agora em {2}</TSA_WD_GoodwillMsg_TraderCaravan>
+  <TSA_WD_GoodwillMsg_Embassy>Embaixada {3}: {1} de boa vontade com {0}, agora em {2}</TSA_WD_GoodwillMsg_Embassy>
+  <TSA_WD_GoodwillMsg_OrderedRoadOrdered>Ordenou a {0} em {1} construir estrada até {2}. -{3} de boa vontade, agora em {4}</TSA_WD_GoodwillMsg_OrderedRoadOrdered>
+  <TSA_WD_GoodwillMsg_OrderedTraderOrdered>Ordenou comerciante ({3}) de {0} em {1} para {2}. -{4} de boa vontade, agora em {5}</TSA_WD_GoodwillMsg_OrderedTraderOrdered>
+  <TSA_WD_GoodwillMsg_SettlementBuyPaid>Comprou o assentamento {1} de {0}. -{2} de boa vontade, agora em {3}</TSA_WD_GoodwillMsg_SettlementBuyPaid>
+  <TSA_WD_GoodwillMsg_SettlementBuyRefund>Compra do assentamento {1} reembolsada. +{2} de boa vontade com {0}, agora em {3}</TSA_WD_GoodwillMsg_SettlementBuyRefund>
+  <TSA_WD_GoodwillMsg_OrderedRoadRefundCancel>Ordem de estrada para {1} cancelada. {2} de boa vontade reembolsada ({3} trechos não construídos), agora em {4}</TSA_WD_GoodwillMsg_OrderedRoadRefundCancel>
+  <TSA_WD_GoodwillMsg_OrderedRoadRefundDestroyed>{0} destruído. Ordem de estrada reembolsou {2} de boa vontade ({3} trechos não construídos), agora em {4}</TSA_WD_GoodwillMsg_OrderedRoadRefundDestroyed>
+  <TSA_WD_GoodwillMsg_OrderedRoadRefundHostile>{0} agora está hostil. Ordem de estrada reembolsou {2} de boa vontade ({3} trechos não construídos), agora em {4}</TSA_WD_GoodwillMsg_OrderedRoadRefundHostile>
+  <TSA_WD_GoodwillMsg_OrderedRoadRefundAbort>Ordem de estrada para {1} abortada. {2} de boa vontade reembolsada ({3} trechos não construídos), agora em {4}</TSA_WD_GoodwillMsg_OrderedRoadRefundAbort>
+  <TSA_WD_Diplo_OrderedRoadOrdersHeader>Construção de estradas encomendada</TSA_WD_Diplo_OrderedRoadOrdersHeader>
+  <TSA_WD_Diplo_OrderedRoadPerSegmentCosts>Boa vontade por trecho de estrada (por tipo de estrada)</TSA_WD_Diplo_OrderedRoadPerSegmentCosts>
+  <TSA_WD_Diplo_OrderedRoadPerSegmentCostsTooltip>Boa vontade cobrada por trecho ao encomendar a construção a uma facção. O pagamento arredonda para cima; os reembolsos arredondam para baixo nos trechos não construídos.</TSA_WD_Diplo_OrderedRoadPerSegmentCostsTooltip>
+  <TSA_WD_Diplo_OrderedTraderCost>Encomendar caravana de comerciantes (boa vontade)</TSA_WD_Diplo_OrderedTraderCost>
+  <TSA_WD_Diplo_OrderedTraderCostTooltip>Custo fixo de boa vontade para encomendar uma caravana de comerciantes de um assentamento neutro ou aliado. Todos os tipos de comerciante custam o mesmo. Pelo menos 10 de boa vontade deve restar após o pagamento.</TSA_WD_Diplo_OrderedTraderCostTooltip>
+  <TSA_WD_FacDet_HeaderRoadForPlayer>Projeto de estrada para o jogador</TSA_WD_FacDet_HeaderRoadForPlayer>
+  <TSA_WD_Diplo_AlliedRaidMinWinChance>Chance mínima de sucesso da incursão aliada</TSA_WD_Diplo_AlliedRaidMinWinChance>
+  <TSA_WD_Diplo_AlliedRaidMinWinChanceTooltip>Ordens de incursão aliada só podem ser lançadas quando a probabilidade de sucesso prevista for pelo menos este valor.</TSA_WD_Diplo_AlliedRaidMinWinChanceTooltip>
+  <TSA_WD_Diplo_AlliedRaidOrdersHeader>Ordens de incursão aliada</TSA_WD_Diplo_AlliedRaidOrdersHeader>
+  <TSA_WD_Diplo_GlobalEventsHeader>Bônus e penalidades temporários</TSA_WD_Diplo_GlobalEventsHeader>
+  <TSA_WD_Diplo_GrowthGainMult>Multiplicador de ganho de força de crescimento</TSA_WD_Diplo_GrowthGainMult>
+  <TSA_WD_Diplo_Header>Diplomacia, bônus e penalidades</TSA_WD_Diplo_Header>
+  <TSA_WD_Diplo_IncidentSeverity>Multiplicador de perda de força por incidente</TSA_WD_Diplo_IncidentSeverity>
+  <TSA_WD_Diplo_IncidentWeight>Multiplicador de probabilidade de incidente</TSA_WD_Diplo_IncidentWeight>
+  <TSA_WD_Diplo_LeaderHandicap>Ativar desvantagem da facção dominante (penalidade)</TSA_WD_Diplo_LeaderHandicap>
+  <TSA_WD_Diplo_LeaderHandicapTooltip>A facção mais forte sofre com conflitos internos e problemas logísticos, aumentando a frequência de incidentes.</TSA_WD_Diplo_LeaderHandicapTooltip>
+  <TSA_WD_Diplo_LeaderHandicap_Label>Penalidade: Líder Mundial</TSA_WD_Diplo_LeaderHandicap_Label>
+  <TSA_WD_Diplo_LeaderHandicap_Msg>Penalidade: '{0}' se tornou a facção dominante. Devido ao seu tamanho, sofrerá mais incidentes nos próximos {1} dias.</TSA_WD_Diplo_LeaderHandicap_Msg>
+  <TSA_WD_Diplo_LeaderIncidentSeverity>Líder: multiplicador de perda de força por incidente</TSA_WD_Diplo_LeaderIncidentSeverity>
+  <TSA_WD_Diplo_LeaderIncidentSeverityTooltip>Quando o líder mundial sofre um incidente, a redução de força é multiplicada por isto (ex.: 2 = dano em dobro).</TSA_WD_Diplo_LeaderIncidentSeverityTooltip>
+  <TSA_WD_Diplo_LeaderIncidentWeight>Líder: multiplicador de probabilidade de incidente</TSA_WD_Diplo_LeaderIncidentWeight>
+  <TSA_WD_Diplo_LeaderIncidentWeightTooltip>Quando o líder mundial tem a penalidade, seu peso para incidentes menores/maiores é multiplicado por isto (ex.: 2 = o dobro de chance).</TSA_WD_Diplo_LeaderIncidentWeightTooltip>
+  <TSA_WD_Diplo_LeaderTriggerChance>Chance de ativação da penalidade de líder</TSA_WD_Diplo_LeaderTriggerChance>
+  <TSA_WD_Diplo_LeaderTriggerChanceTooltip>Chance diária de aplicar a desvantagem da facção dominante quando as condições forem atendidas.</TSA_WD_Diplo_LeaderTriggerChanceTooltip>
+  <TSA_WD_Diplo_RaidRangeMult>Multiplicador de alcance de incursão</TSA_WD_Diplo_RaidRangeMult>
+  <TSA_WD_Diplo_RandomChance>Chance diária de mudança de lealdade</TSA_WD_Diplo_RandomChance>
+  <TSA_WD_Diplo_RandomChanceTooltip>A probabilidade diária de ocorrer um evento diplomático aleatório entre duas facções.</TSA_WD_Diplo_RandomChanceTooltip>
+  <TSA_WD_Diplo_RandomEnable>Ativar mudanças aleatórias de lealdade</TSA_WD_Diplo_RandomEnable>
+  <TSA_WD_Diplo_RandomEnableTooltip>Se ativado, facções NPC mudarão ocasionalmente suas relações (paz, guerra, alianças) de forma independente.</TSA_WD_Diplo_RandomEnableTooltip>
+  <TSA_WD_Diplo_StrongFactionWarEnable>Ativar guerras entre facções fortes</TSA_WD_Diplo_StrongFactionWarEnable>
+  <TSA_WD_Diplo_StrongFactionWarEnableTooltip>A cada dia, as facções NPC mais fortes (maior parcela de força mundial) podem esfriar uma aliança para neutro ou escalar pares neutros para guerra. Aliados nunca passam direto para hostil. Separado das mudanças aleatórias de lealdade.</TSA_WD_Diplo_StrongFactionWarEnableTooltip>
+  <TSA_WD_Diplo_StrongFactionWarChance>Chance de guerra entre facções fortes</TSA_WD_Diplo_StrongFactionWarChance>
+  <TSA_WD_Diplo_StrongFactionWarChanceTooltip>Chance diária de um par elegível, neutro ou aliado, entre as facções NPC mais fortes escalar (aliado para neutro, ou neutro para guerra).</TSA_WD_Diplo_StrongFactionWarChanceTooltip>
+  <TSA_WD_Diplo_StrongFactionWarTopPct>Facções fortes consideradas (topo)</TSA_WD_Diplo_StrongFactionWarTopPct>
+  <TSA_WD_Diplo_StrongFactionWarTopPctTooltip>Parcela das facções NPC mais fortes (por força total) que pode ser escolhida para escalada de facções fortes. Pelo menos duas facções são sempre consideradas quando disponíveis.</TSA_WD_Diplo_StrongFactionWarTopPctTooltip>
+  <TSA_WD_Diplo_StrongFactionWarRequireMidOrLate>Somente após o meio ou o fim de jogo</TSA_WD_Diplo_StrongFactionWarRequireMidOrLate>
+  <TSA_WD_Diplo_StrongFactionWarRequireMidOrLateTooltip>Quando ativado, guerras entre facções fortes só ocorrem após a escalada de meio ou fim de jogo estar ativa.</TSA_WD_Diplo_StrongFactionWarRequireMidOrLateTooltip>
+  <TSA_WD_Diplo_StrongFactionWarCooldown>Tempo de espera de guerra entre facções fortes</TSA_WD_Diplo_StrongFactionWarCooldown>
+  <TSA_WD_Diplo_StrongFactionWarCooldownTooltip>Dias antes que outra guerra entre facções fortes possa ocorrer após uma bem-sucedida. Ignorado enquanto o tempo de espera compartilhado de evento especial estiver ativo.</TSA_WD_Diplo_StrongFactionWarCooldownTooltip>
+  <TSA_WD_Diplo_StrongFactionWar_Label>Facções fortes em guerra</TSA_WD_Diplo_StrongFactionWar_Label>
+  <TSA_WD_Diplo_StrongFactionWar_Msg>Guerra: '{0}' e '{1}' (entre as potências mais fortes) declararam guerra.</TSA_WD_Diplo_StrongFactionWar_Msg>
+  <TSA_WD_Diplo_StrongFactionWar_Cool_Label>Facções fortes esfriam relações</TSA_WD_Diplo_StrongFactionWar_Cool_Label>
+  <TSA_WD_Diplo_StrongFactionWar_Cool_Msg>Esfriamento: '{0}' e '{1}' (entre as potências mais fortes) encerram sua aliança e se tornam neutras.</TSA_WD_Diplo_StrongFactionWar_Cool_Msg>
+  <TSA_WD_Diplo_Reset>Redefinir esta página para o padrão</TSA_WD_Diplo_Reset>
+  <TSA_WD_Diplo_RevoltChance>Chance diária de revolta</TSA_WD_Diplo_RevoltChance>
+  <TSA_WD_Diplo_RevoltChanceTooltip>Chance diária de uma facção derrotada retornar e tomar de 3 a 7 assentamentos das principais facções NPC por número de assentamentos (pelo menos 3 da maior, o restante das duas seguintes). Prefere assentamentos de níveis mais baixos. Propriedades do jogador nunca são tomadas.</TSA_WD_Diplo_RevoltChanceTooltip>
+  <TSA_WD_Diplo_RevoltCooldown>Tempo de espera da revolta</TSA_WD_Diplo_RevoltCooldown>
+  <TSA_WD_Diplo_RevoltCooldownTooltip>Dias antes que outra revolta possa ocorrer após uma bem-sucedida. Ignorado enquanto o tempo de espera compartilhado de evento especial estiver ativo.</TSA_WD_Diplo_RevoltCooldownTooltip>
+  <TSA_WD_Diplo_ForwardAssaultEnable>Ativar assalto avançado (Vanguarda / Invasão)</TSA_WD_Diplo_ForwardAssaultEnable>
+  <TSA_WD_Diplo_ForwardAssaultEnableTooltip>Um hostil forte e distante pode agrupar de 5 a 7 assentamentos em algumas caravanas de Vanguarda poderosas que se fixam na sua frente, ou lançar de 5 a 7 incursões coordenadas como Invasão (as bases permanecem). O momento de Vanguarda vs. Invasão é definido pelos limiares de ameaça da Dificuldade de Combate. Os controles compartilhados de ativação, chance e distância do Assalto Avançado também ficam lá. Se a Vanguarda não conseguir reservar um agrupamento e o recuo estiver ativado, a Invasão é tentada em vez disso.</TSA_WD_Diplo_ForwardAssaultEnableTooltip>
+  <TSA_WD_Diplo_ForwardAssaultChance>Chance de assalto avançado</TSA_WD_Diplo_ForwardAssaultChance>
+  <TSA_WD_Diplo_ForwardAssaultChanceTooltip>Chance diária de tentar um assalto avançado de Vanguarda ou Invasão quando os limiares de dificuldade de meio/fim de jogo e os tempos de espera permitirem.</TSA_WD_Diplo_ForwardAssaultChanceTooltip>
+  <TSA_WD_Diplo_ForwardAssaultTopPct>Facções fortes consideradas (topo)</TSA_WD_Diplo_ForwardAssaultTopPct>
+  <TSA_WD_Diplo_ForwardAssaultTopPctTooltip>Parcela das facções NPC mais fortes (por força total) que pode ser escolhida como agressora do assalto avançado.</TSA_WD_Diplo_ForwardAssaultTopPctTooltip>
+  <TSA_WD_Diplo_ForwardAssaultMinDist>Distância mínima do jogador (blocos)</TSA_WD_Diplo_ForwardAssaultMinDist>
+  <TSA_WD_Diplo_ForwardAssaultMinDistTooltip>Os assentamentos de origem devem estar pelo menos a esta distância da colônia do jogador mais próxima para serem elegíveis ao agrupamento da Vanguarda ou como bases de incursões de Invasão.</TSA_WD_Diplo_ForwardAssaultMinDistTooltip>
+  <TSA_WD_Diplo_ForwardAssaultCooldown>Tempo de espera do assalto avançado</TSA_WD_Diplo_ForwardAssaultCooldown>
+  <TSA_WD_Diplo_ForwardAssaultCooldownTooltip>Dias antes que outra Vanguarda ou Invasão possa ocorrer após uma ser lançada. Compartilhado pelos dois modos. Ignorado enquanto o tempo de espera compartilhado de evento especial estiver ativo.</TSA_WD_Diplo_ForwardAssaultCooldownTooltip>
+  <TSA_WD_Diplo_SharedSpecialEventCooldown>Tempo de espera compartilhado de evento especial</TSA_WD_Diplo_SharedSpecialEventCooldown>
+  <TSA_WD_Diplo_SharedSpecialEventCooldownTooltip>Quando ativado, guerra entre facções fortes, revolta e assalto avançado compartilham um único controle de tempo de espera. Quando desativado, cada um tem seu próprio tempo de espera. Incursões de desespero nunca usam este tempo de espera compartilhado.</TSA_WD_Diplo_SharedSpecialEventCooldownTooltip>
+  <TSA_WD_Diplo_SharedSpecialEventCooldownDays>Tempo de espera compartilhado de evento especial</TSA_WD_Diplo_SharedSpecialEventCooldownDays>
+  <TSA_WD_Diplo_SharedSpecialEventCooldownDaysTooltip>Dias antes que qualquer um entre guerra entre facções fortes, revolta ou assalto avançado possa ocorrer novamente após um sucesso. Incursões de desespero usam seu próprio tempo de espera por facção.</TSA_WD_Diplo_SharedSpecialEventCooldownDaysTooltip>
+  <TSA_WD_Diplo_StrongFactionWarHeader>Guerra entre facções fortes</TSA_WD_Diplo_StrongFactionWarHeader>
+  <TSA_WD_Diplo_RevoltHeader>Revolta</TSA_WD_Diplo_RevoltHeader>
+  <TSA_WD_Diplo_ForwardAssaultHeader>Assalto avançado</TSA_WD_Diplo_ForwardAssaultHeader>
+  <TSA_WD_Diplo_DesperationRaidHeader>Estratégia ao perder assentamento</TSA_WD_Diplo_DesperationRaidHeader>
+  <TSA_WD_Diplo_SharedSpecialEventCooldownHeader>Tempo de espera compartilhado de evento especial</TSA_WD_Diplo_SharedSpecialEventCooldownHeader>
+  <TSA_WD_Diplo_DesperationRaidEnable>Ativar incursão de desespero</TSA_WD_Diplo_DesperationRaidEnable>
+  <TSA_WD_Diplo_DesperationRaidEnableTooltip>Quando um agrupamento NPC elegível perde um assentamento, a facção pode adotar a Defensiva ou lançar uma incursão de desespero. As predefinições de dificuldade não controlam este limiar.</TSA_WD_Diplo_DesperationRaidEnableTooltip>
+  <TSA_WD_Diplo_StrategyFireChance>Chance de acionar a estratégia</TSA_WD_Diplo_StrategyFireChance>
+  <TSA_WD_Diplo_StrategyFireChanceTooltip>Quando um agrupamento superpoderoso perde um assentamento e a Estratégia não está em tempo de espera, esta é a chance de a Estratégia realmente ser acionada (Defensiva ou desespero). Testes falhos não fazem nada e não iniciam o tempo de espera da Estratégia.</TSA_WD_Diplo_StrategyFireChanceTooltip>
+  <TSA_WD_Diplo_DesperationChance>Incursão de desespero é possível?</TSA_WD_Diplo_DesperationChance>
+  <TSA_WD_Diplo_DesperationChanceTooltip>Se a Estratégia for acionada após a perda de um assentamento em um agrupamento superpoderoso, a facção pode adotar a Defensiva (consolidar forças em um único assentamento) ou realizar uma incursão de desespero (abandonar assentamentos e correr para o alvo mais próximo).\n\nUm agrupamento são assentamentos dessa facção ligados dentro de {0} blocos. Superpoderoso significa que a ofensiva hostil dentro de {2} blocos de qualquer local do agrupamento é pelo menos {1}% da ofensiva do próprio agrupamento.\n\nQuando isto está ativado:\nFacções fortes: nunca desespero, sempre Defensiva\nFacções normais: {3}% de desespero, {4}% de Defensiva\nFacções fracas: {5}% de desespero, {6}% de Defensiva\n\nForte = pelo menos {7}% de uma parcela igual da força NPC viva (1/N)\nNormal = de {8}% a {7}% da parcela igual\nFraca = abaixo de {8}% da parcela igual\n\nDesativado = Defensiva apenas quando a Estratégia é acionada.</TSA_WD_Diplo_DesperationChanceTooltip>
+  <TSA_WD_Diplo_DesperationMaxShare>Parcela de força das fracas</TSA_WD_Diplo_DesperationMaxShare>
+  <TSA_WD_Diplo_DesperationMaxShareTooltip>Configuração legada mantida para compatibilidade com saves. A Estratégia agora usa faixas de parcela igual.</TSA_WD_Diplo_DesperationMaxShareTooltip>
+  <TSA_WD_Diplo_DesperationCooldown>Tempo de espera da Estratégia</TSA_WD_Diplo_DesperationCooldown>
+  <TSA_WD_Diplo_DesperationCooldownTooltip>Dias antes que a mesma facção possa acionar a Estratégia ao Perder Assentamento novamente (Defensiva ou desespero). Não é compartilhado com guerra, revolta ou assalto avançado.</TSA_WD_Diplo_DesperationCooldownTooltip>
+  <TSA_WD_Diplo_DesperationNotify>Notificar quando uma incursão de desespero for lançada</TSA_WD_Diplo_DesperationNotify>
+  <TSA_WD_Diplo_DesperationNotifyTooltip>Envia uma carta quando uma incursão de desespero se organiza e marcha.</TSA_WD_Diplo_DesperationNotifyTooltip>
+  <TSA_WD_Diplo_TriggerChance>Chance de ativação</TSA_WD_Diplo_TriggerChance>
+  <TSA_WD_Diplo_UnderdogActionShare>Azarão: multiplicador diário da parcela de ações</TSA_WD_Diplo_UnderdogActionShare>
+  <TSA_WD_Diplo_UnderdogActionShareTooltip>Quando o bônus de azarão está ativo, a parcela de ações diárias dessa facção é multiplicada por isto (ex.: 2 = o dobro de ações).</TSA_WD_Diplo_UnderdogActionShareTooltip>
+  <TSA_WD_Diplo_UnderdogBuff>Ativar impulso de crescimento do azarão (bônus)</TSA_WD_Diplo_UnderdogBuff>
+  <TSA_WD_Diplo_UnderdogBuffTooltip>A facção mais fraca fica pequena e ágil, ganhando velocidade de crescimento aumentada por tempo limitado.</TSA_WD_Diplo_UnderdogBuffTooltip>
+  <TSA_WD_Diplo_UnderdogBuff_Label>Bônus: Impulso de Crescimento</TSA_WD_Diplo_UnderdogBuff_Label>
+  <TSA_WD_Diplo_UnderdogBuff_Msg>Bônus: '{0}' crescerá mais rápido pelos próximos {1} dias por ser pequena e ágil.</TSA_WD_Diplo_UnderdogBuff_Msg>
+  <TSA_WD_Diplo_UnderdogGrowthGain>Azarão: multiplicador de ganho de força de crescimento</TSA_WD_Diplo_UnderdogGrowthGain>
+  <TSA_WD_Diplo_UnderdogGrowthGainTooltip>Quando o bônus de azarão está ativo, a força ganha com ações de crescimento é multiplicada por isto (ex.: 2 = crescimento em dobro).</TSA_WD_Diplo_UnderdogGrowthGainTooltip>
+  <TSA_WD_Diplo_UnderdogIncidentWeight>Multiplicador de probabilidade de incidente</TSA_WD_Diplo_UnderdogIncidentWeight>
+  <TSA_WD_Diplo_UnderdogIncidentWeightTooltip>Quando o bônus de azarão está ativo, a frequência de incidentes é multiplicada por isto (ex.: 0,5 = metade da chance).</TSA_WD_Diplo_UnderdogIncidentWeightTooltip>
+  <TSA_WD_Diplo_UnderdogIncidentSeverity>Multiplicador de perda de força por incidente</TSA_WD_Diplo_UnderdogIncidentSeverity>
+  <TSA_WD_Diplo_UnderdogIncidentSeverityTooltip>Quando o bônus de azarão está ativo, a força removida por incidentes é multiplicada por isto (ex.: 0,5 = metade da perda).</TSA_WD_Diplo_UnderdogIncidentSeverityTooltip>
+  <TSA_WD_Diplo_UnderdogTriggerChance>Chance de ativação do bônus de azarão</TSA_WD_Diplo_UnderdogTriggerChance>
+  <TSA_WD_Diplo_UnderdogTriggerChanceTooltip>Chance diária de aplicar o bônus de crescimento à facção mais fraca quando as condições forem atendidas.</TSA_WD_Diplo_UnderdogTriggerChanceTooltip>
+  <TSA_WD_Diplo_ZealAttritionMult>Fervor: multiplicador de atrito de viagem</TSA_WD_Diplo_ZealAttritionMult>
+  <TSA_WD_Diplo_ZealAttritionMultTooltip>Quando uma facção tem Fervor, a perda de força da caravana por hora é multiplicada por isto (ex.: 0,5 = metade do atrito normal).</TSA_WD_Diplo_ZealAttritionMultTooltip>
+  <TSA_WD_Diplo_ZealRaidRangeMult>Fervor: multiplicador de alcance de incursão</TSA_WD_Diplo_ZealRaidRangeMult>
+  <TSA_WD_Diplo_ZealRaidRangeMultTooltip>Quando uma facção tem Fervor Expansionista, o raio de alvo de incursão dela é multiplicado por isto (ex.: 1,5 = +50% de alcance).</TSA_WD_Diplo_ZealRaidRangeMultTooltip>
+  <TSA_WD_Diplo_ZealTriggerChance>Chance de ativação do bônus de Fervor</TSA_WD_Diplo_ZealTriggerChance>
+  <TSA_WD_Diplo_ZealTriggerChanceTooltip>A chance percentual diária de uma facção ambiciosa ganhar Fervor Expansionista (desde que o bônus não esteja em tempo de espera).</TSA_WD_Diplo_ZealTriggerChanceTooltip>
+  <TSA_WD_Diplo_Zeal_Label>Bônus: Mobilização</TSA_WD_Diplo_Zeal_Label>
+  <TSA_WD_DiplomacyMatrix>Matriz de Diplomacia</TSA_WD_DiplomacyMatrix>
+  <TSA_WD_DiplomacyMatrix_Title>Relações Diplomáticas Globais</TSA_WD_DiplomacyMatrix_Title>
+  <TSA_WD_Diplomacy_AllyOf>Aliado de</TSA_WD_Diplomacy_AllyOf>
+  <TSA_WD_Diplomacy_HostileTo>Hostil a</TSA_WD_Diplomacy_HostileTo>
+  <TSA_WD_Diplomacy_NeutralWith>Neutro com</TSA_WD_Diplomacy_NeutralWith>
+  <TSA_WD_Diplomacy_H_Goodwill>Boa vontade</TSA_WD_Diplomacy_H_Goodwill>
+  <TSA_WD_Diplomacy_GoodwillTip>Sua boa vontade com esta facção: {0}</TSA_WD_Diplomacy_GoodwillTip>
+  <TSA_WD_Diplomacy_WdCooldown>Recarga: {0} dias</TSA_WD_Diplomacy_WdCooldown>
+  <TSA_WD_Diplomacy_WdCooldownTip>Este par de relações não pode ser alterado pelo World Domination até a recarga expirar.</TSA_WD_Diplomacy_WdCooldownTip>
+  <TSA_WD_Dis_BaseReduc>Redução base de pontos de força</TSA_WD_Dis_BaseReduc>
+  <TSA_WD_Dis_BaseReducTooltip>Força removida do assentamento em caso de sucesso.</TSA_WD_Dis_BaseReducTooltip>
+  <TSA_WD_Dis_CombatSave>Bônus de escapar lutando por nível de combate</TSA_WD_Dis_CombatSave>
+  <TSA_WD_Dis_CombatSaveTooltip>A chance percentual por nível de habilidade de Tiro/Corpo a corpo (o maior dos dois) de converter um resultado 'Fatal' em 'Ferimento' quando uma tentativa falha.</TSA_WD_Dis_CombatSaveTooltip>
+  <TSA_WD_Dis_Cooldown>Tempo de espera após tentativa de desinformação</TSA_WD_Dis_Cooldown>
+  <TSA_WD_Dis_CooldownTooltip>Duração em que o assentamento alvo permanece em alerta máximo após uma tentativa.</TSA_WD_Dis_CooldownTooltip>
+  <TSA_WD_Dis_DisabledAlert>Alvos próximos estão em alerta máximo de espionagem.</TSA_WD_Dis_DisabledAlert>
+  <TSA_WD_Dis_FailureClean>Os locais não se impressionaram com os boatos, mas seu espião conseguiu recuar antes que as autoridades fossem alertadas.</TSA_WD_Dis_FailureClean>
+  <TSA_WD_Dis_FailureExecuted>Foi pego espalhando segredos de estado e executado por espionagem.</TSA_WD_Dis_FailureExecuted>
+  <TSA_WD_Dis_FailureFightback>Os boatos foram rastreados até ele e os guardas tentaram prendê-lo. Ele revidou com ferocidade inesperada, escapando ferido em vez de enfrentar o carrasco.</TSA_WD_Dis_FailureFightback>
+  <TSA_WD_Dis_FailureSilvertongue>Quase foi pego ao se encontrar com informantes, mas usou suas habilidades sociais para se livrar das suspeitas e escapar sem ser detectado.</TSA_WD_Dis_FailureSilvertongue>
+  <TSA_WD_Dis_FailureSpotted>Foi identificado como agitador e ferido ao fugir da cidade.</TSA_WD_Dis_FailureSpotted>
+  <TSA_WD_Dis_GizmoDesc>Lançar uma campanha de desinformação com seu colono {0} (Social: {1}).\n\nCálculo da probabilidade de sucesso:\n  Base: {2}\n  Peso da habilidade: +{3}\n  Peso do nível: -{4}\n  Saúde: x{5}\n--------------------------\n  Sucesso total: {6}\n\nSer detectado resulta em -30 de reputação.</TSA_WD_Dis_GizmoDesc>
+  <TSA_WD_Dis_GizmoLabel>Espalhar desinformação</TSA_WD_Dis_GizmoLabel>
+  <TSA_WD_Dis_HeaderModifiers>Modificadores de probabilidade de sucesso</TSA_WD_Dis_HeaderModifiers>
+  <TSA_WD_Dis_HeaderOutcome>Resultado de sucesso e tempo de espera</TSA_WD_Dis_HeaderOutcome>
+  <TSA_WD_Dis_HeaderSaves>Testes de resistência</TSA_WD_Dis_HeaderSaves>
+  <TSA_WD_Dis_HeaderSimulation>Exemplos concretos (contra cidade de nível 2 com colono saudável)</TSA_WD_Dis_HeaderSimulation>
+  <TSA_WD_Dis_HeaderWeights>Configurações de desinformação: probabilidade base dos resultados</TSA_WD_Dis_HeaderWeights>
+  <TSA_WD_Dis_HealthImpact>Impacto da saúde no sucesso</TSA_WD_Dis_HealthImpact>
+  <TSA_WD_Dis_HealthImpactTooltip>Quanto a saúde afeta o sucesso. Em 100%, um colono com 50% de saúde tem seu peso de sucesso reduzido pela metade.</TSA_WD_Dis_HealthImpactTooltip>
+  <TSA_WD_Dis_LetterCollapsedLabel>Assentamento entrou em colapso!</TSA_WD_Dis_LetterCollapsedLabel>
+  <TSA_WD_Dis_LetterCollapsedText>A campanha de desinformação de {0} foi tão eficaz que {1} se dissolveu no caos. Ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Dis_LetterCollapsedText>
+  <TSA_WD_Dis_LetterFailedLabel>Desinformação falhou</TSA_WD_Dis_LetterFailedLabel>
+  <TSA_WD_Dis_LetterFailedTextBase>{0} falhou em semear discórdia em {1}. </TSA_WD_Dis_LetterFailedTextBase>
+  <TSA_WD_Dis_LetterSuccessLabel>Desinformação bem-sucedida</TSA_WD_Dis_LetterSuccessLabel>
+  <TSA_WD_Dis_LetterSuccessText>{0} reduziu a força de {1} em {2} por meio de boatos e discórdia.</TSA_WD_Dis_LetterSuccessText>
+  <TSA_WD_Dis_LogClean>Falhou (fuga limpa)</TSA_WD_Dis_LogClean>
+  <TSA_WD_Dis_LogDestroyed>DESINFORMAÇÃO: Destruído ({0} -&gt; 0)</TSA_WD_Dis_LogDestroyed>
+  <TSA_WD_Dis_LogInjured>Falhou (detectado/ferido)</TSA_WD_Dis_LogInjured>
+  <TSA_WD_Dis_LogKilled>Falhou (morto)</TSA_WD_Dis_LogKilled>
+  <TSA_WD_Dis_LogMain>DESINFORMAÇÃO: {0}</TSA_WD_Dis_LogMain>
+  <TSA_WD_Dis_LogSuccess>DESINFORMAÇÃO: Sucesso ({0} -&gt; {1})</TSA_WD_Dis_LogSuccess>
+  <TSA_WD_Dis_MenuOption>{0} ({1}) - {2} de sucesso</TSA_WD_Dis_MenuOption>
+  <TSA_WD_Dis_Reset>Redefinir esta página para o padrão</TSA_WD_Dis_Reset>
+  <TSA_WD_Dis_SimLvl0>Todas as habilidades relevantes no nível 0</TSA_WD_Dis_SimLvl0>
+  <TSA_WD_Dis_SimLvl10>Todas as habilidades relevantes no nível 10</TSA_WD_Dis_SimLvl10>
+  <TSA_WD_Dis_SimLvl20>Todas as habilidades relevantes no nível 20</TSA_WD_Dis_SimLvl20>
+  <TSA_WD_Dis_SimResult>{0} | Sucesso: {1} | Falha limpa: {2} | Ferimento: {3} | Morte: {4}</TSA_WD_Dis_SimResult>
+  <TSA_WD_Dis_SkillBonus>Bônus de peso de sucesso por nível de Social</TSA_WD_Dis_SkillBonus>
+  <TSA_WD_Dis_SkillBonusTooltip>Adiciona pontos de peso fixos ao resultado de Sucesso por nível de Social.</TSA_WD_Dis_SkillBonusTooltip>
+  <TSA_WD_Dis_SkillReduc>Redução de pontos de força por nível de habilidade Social</TSA_WD_Dis_SkillReduc>
+  <TSA_WD_Dis_SkillReducTooltip>Dano adicional com base na habilidade Social do colono.</TSA_WD_Dis_SkillReducTooltip>
+  <TSA_WD_Dis_SocialSave>Bônus de Lábia por nível de Social</TSA_WD_Dis_SocialSave>
+  <TSA_WD_Dis_SocialSaveTooltip>A chance percentual por nível de habilidade Social de converter um 'Ferimento' em uma 'Fuga limpa' quando uma tentativa falha.</TSA_WD_Dis_SocialSaveTooltip>
+  <TSA_WD_Dis_TierPenalty>Penalidade de peso de sucesso por nível do assentamento</TSA_WD_Dis_TierPenalty>
+  <TSA_WD_Dis_TierPenaltyTooltip>Subtrai pontos de peso fixos do resultado de Sucesso com base no nível do alvo.</TSA_WD_Dis_TierPenaltyTooltip>
+  <TSA_WD_Dis_WeightClean>Peso de falha (fuga limpa)</TSA_WD_Dis_WeightClean>
+  <TSA_WD_Dis_WeightCleanTooltip>Frequência relativa de falha segura.</TSA_WD_Dis_WeightCleanTooltip>
+  <TSA_WD_Dis_WeightFatal>Peso de falha (morte)</TSA_WD_Dis_WeightFatal>
+  <TSA_WD_Dis_WeightFatalTooltip>Frequência relativa de execução em caso de falha.</TSA_WD_Dis_WeightFatalTooltip>
+  <TSA_WD_Dis_WeightInjured>Peso de falha (ferimento)</TSA_WD_Dis_WeightInjured>
+  <TSA_WD_Dis_WeightInjuredTooltip>Frequência relativa de ser ferido em caso de falha.</TSA_WD_Dis_WeightInjuredTooltip>
+  <TSA_WD_Dis_WeightSuccess>Peso de sucesso</TSA_WD_Dis_WeightSuccess>
+  <TSA_WD_Dis_WeightSuccessTooltip>Peso base de uma tentativa de desinformação bem-sucedida antes dos modificadores.</TSA_WD_Dis_WeightSuccessTooltip>
+  <TSA_WD_Fort_DisabledAlert>Assentamentos próximos já foram fortificados recentemente.</TSA_WD_Fort_DisabledAlert>
+  <TSA_WD_Fort_GizmoDesc>Tentar fortificar o assentamento com seu colono {0} (Fabricação: {1}).\n\nChance de sucesso: {2}\nO sucesso adiciona força defensiva.</TSA_WD_Fort_GizmoDesc>
+  <TSA_WD_Fort_GizmoLabel>Fortificar</TSA_WD_Fort_GizmoLabel>
+  <TSA_WD_Fort_LetterFailedLabel>Fortificação falhou</TSA_WD_Fort_LetterFailedLabel>
+  <TSA_WD_Fort_LetterFailedText>{0} não conseguiu melhorar significativamente as defesas de {1}.</TSA_WD_Fort_LetterFailedText>
+  <TSA_WD_Fort_LetterSuccessLabel>Fortificação bem-sucedida</TSA_WD_Fort_LetterSuccessLabel>
+  <TSA_WD_Fort_LetterSuccessText>{0} ajudou {1} com sucesso. A infraestrutura foi melhorada com sucesso. Força aumentada em {2}.</TSA_WD_Fort_LetterSuccessText>
+  <TSA_WD_Fort_LogFailed>FORTIFICAÇÃO: Falhou</TSA_WD_Fort_LogFailed>
+  <TSA_WD_Fort_LogSuccess>FORTIFICAÇÃO: Sucesso ({0} -&gt; {1})</TSA_WD_Fort_LogSuccess>
+  <TSA_WD_Fort_MenuOption>{0} - {1} de sucesso</TSA_WD_Fort_MenuOption>
+  <TSA_WD_OnlyInGame>Mudanças de Lealdade Permitidas</TSA_WD_OnlyInGame>
+  <TSA_WD_Sab_BaseReduc>Redução base de força</TSA_WD_Sab_BaseReduc>
+  <TSA_WD_Sab_BaseReducTooltip>Quantidade base de força removida do assentamento alvo em caso de sucesso.</TSA_WD_Sab_BaseReducTooltip>
+  <TSA_WD_Sab_CombatSave>Bônus de 'escapar lutando' por nível de combate</TSA_WD_Sab_CombatSave>
+  <TSA_WD_Sab_CombatSaveTooltip>Chance por nível de combate (Tiro/Corpo a corpo) de converter um resultado 'Morte/Fatal' em 'Ferimento'.</TSA_WD_Sab_CombatSaveTooltip>
+  <TSA_WD_Sab_Cooldown>Tempo de espera após a tentativa</TSA_WD_Sab_Cooldown>
+  <TSA_WD_Sab_CooldownTooltip>Duração em dias em que o assentamento alvo permanece em alerta máximo, impedindo mais sabotagens.</TSA_WD_Sab_CooldownTooltip>
+  <TSA_WD_Sab_DisabledAlert>Todos os alvos próximos estão em alerta máximo.</TSA_WD_Sab_DisabledAlert>
+  <TSA_WD_Sab_FailureClean>Ele conseguiu recuar para as sombras antes de ser visto.</TSA_WD_Sab_FailureClean>
+  <TSA_WD_Sab_FailureExecuted>Foi pego em flagrante e executado no local.</TSA_WD_Sab_FailureExecuted>
+  <TSA_WD_Sab_FailureFightback>Foi pego e condenado à execução, mas revidou com habilidade incrível, escapando com vários ferimentos em vez da vida.</TSA_WD_Sab_FailureFightback>
+  <TSA_WD_Sab_FailureSilvertongue>Quase foi pego, mas usou suas habilidades sociais para evitar o confronto e escapar.</TSA_WD_Sab_FailureSilvertongue>
+  <TSA_WD_Sab_FailureSpotted>Foi visto pelos guardas e ferido ao fugir do local.</TSA_WD_Sab_FailureSpotted>
+  <TSA_WD_Sab_GizmoDesc>Lançar uma missão de sabotagem com seu colono {0} (Fabricação: {1}).\n\nSucesso total: {2}\nSer detectado resulta em -30 de reputação.</TSA_WD_Sab_GizmoDesc>
+  <TSA_WD_Sab_GizmoLabel>Sabotagem</TSA_WD_Sab_GizmoLabel>
+  <TSA_WD_Sab_HeaderModifiers>Modificadores de probabilidade de sucesso</TSA_WD_Sab_HeaderModifiers>
+  <TSA_WD_Sab_HeaderOutcome>Resultado de sucesso e tempo de espera</TSA_WD_Sab_HeaderOutcome>
+  <TSA_WD_Sab_HeaderSaves>Testes de resistência (recuperação por habilidade)</TSA_WD_Sab_HeaderSaves>
+  <TSA_WD_Sab_HeaderSimulation>Simulação: contra cidade de nível 2 (colono saudável)</TSA_WD_Sab_HeaderSimulation>
+  <TSA_WD_Sab_HeaderWeights>Configurações de sabotagem: probabilidade base dos resultados</TSA_WD_Sab_HeaderWeights>
+  <TSA_WD_Sab_HealthImpact>Impacto da saúde no sucesso</TSA_WD_Sab_HealthImpact>
+  <TSA_WD_Sab_HealthImpactTooltip>O quanto a saúde do colono afeta o sucesso. Em 100%, um colono com 50% de saúde tem seu peso de sucesso reduzido pela metade.</TSA_WD_Sab_HealthImpactTooltip>
+  <TSA_WD_Sab_LetterFailedLabel>Sabotagem falhou</TSA_WD_Sab_LetterFailedLabel>
+  <TSA_WD_Sab_LetterFailedTextBase>{0} falhou na missão em {1}. </TSA_WD_Sab_LetterFailedTextBase>
+  <TSA_WD_Sab_LetterObliteratedLabel>Assentamento sabotado!</TSA_WD_Sab_LetterObliteratedLabel>
+  <TSA_WD_Sab_LetterObliteratedText>{0} destruiu {1}. Ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Sab_LetterObliteratedText>
+  <TSA_WD_Sab_LetterSuccessLabel>Sabotagem bem-sucedida</TSA_WD_Sab_LetterSuccessLabel>
+  <TSA_WD_Sab_LetterSuccessText>{0} reduziu a força de {1} em {2}.</TSA_WD_Sab_LetterSuccessText>
+  <TSA_WD_Sab_LogClean>Falhou (fuga limpa)</TSA_WD_Sab_LogClean>
+  <TSA_WD_Sab_LogDestroyed>SABOTAGEM: Destruído ({0} -&gt; 0)</TSA_WD_Sab_LogDestroyed>
+  <TSA_WD_Sab_LogInjured>Falhou (ferido)</TSA_WD_Sab_LogInjured>
+  <TSA_WD_Sab_LogMain>SABOTAGEM: {0}</TSA_WD_Sab_LogMain>
+  <TSA_WD_Sab_LogSuccess>SABOTAGEM: Sucesso ({0} -&gt; {1})</TSA_WD_Sab_LogSuccess>
+  <TSA_WD_Sab_MenuOption>{0} ({1}) - {2} de sucesso</TSA_WD_Sab_MenuOption>
+  <TSA_WD_Sab_Reset>Redefinir esta página para o padrão</TSA_WD_Sab_Reset>
+  <TSA_WD_Sab_SimLvl0>Todas as habilidades relevantes no nível 0</TSA_WD_Sab_SimLvl0>
+  <TSA_WD_Sab_SimLvl10>Todas as habilidades relevantes no nível 10</TSA_WD_Sab_SimLvl10>
+  <TSA_WD_Sab_SimLvl20>Todas as habilidades relevantes no nível 20</TSA_WD_Sab_SimLvl20>
+  <TSA_WD_Sab_SimResult>{0} | Sucesso: {1} | Falha limpa: {2} | Ferimento: {3} | Morte: {4}</TSA_WD_Sab_SimResult>
+  <TSA_WD_Sab_SkillBonus>Bônus de peso de sucesso por nível de Fabricação</TSA_WD_Sab_SkillBonus>
+  <TSA_WD_Sab_SkillBonusTooltip>Adiciona pontos de peso fixos ao resultado de Sucesso por nível de Fabricação.</TSA_WD_Sab_SkillBonusTooltip>
+  <TSA_WD_Sab_SkillReduc>Redução por nível de Fabricação</TSA_WD_Sab_SkillReduc>
+  <TSA_WD_Sab_SkillReducTooltip>Dano adicional de força para cada nível da habilidade Fabricação do colono.</TSA_WD_Sab_SkillReducTooltip>
+  <TSA_WD_Sab_SocialSave>Bônus de 'Lábia' por nível de Social</TSA_WD_Sab_SocialSave>
+  <TSA_WD_Sab_SocialSaveTooltip>Chance por nível de Social de converter um resultado 'Ferimento' em uma 'Fuga limpa'.</TSA_WD_Sab_SocialSaveTooltip>
+  <TSA_WD_Sab_TierPenalty>Penalidade de peso de sucesso por nível</TSA_WD_Sab_TierPenalty>
+  <TSA_WD_Sab_TierPenaltyTooltip>Subtrai pontos de peso fixos do resultado de Sucesso com base no nível do alvo.</TSA_WD_Sab_TierPenaltyTooltip>
+  <TSA_WD_Sab_WeightClean>Peso de falha (fuga limpa)</TSA_WD_Sab_WeightClean>
+  <TSA_WD_Sab_WeightCleanTooltip>Chance de uma tentativa falha em que o colono escapa sem ser notado.</TSA_WD_Sab_WeightCleanTooltip>
+  <TSA_WD_Sab_WeightFatal>Peso de falha (morte)</TSA_WD_Sab_WeightFatal>
+  <TSA_WD_Sab_WeightFatalTooltip>Chance de uma tentativa falha em que o colono é morto.</TSA_WD_Sab_WeightFatalTooltip>
+  <TSA_WD_Sab_WeightInjured>Peso de falha (ferimento)</TSA_WD_Sab_WeightInjured>
+  <TSA_WD_Sab_WeightInjuredTooltip>Chance de uma tentativa falha em que o colono escapa ferido.</TSA_WD_Sab_WeightInjuredTooltip>
+  <TSA_WD_Sab_WeightSuccess>Peso de sucesso</TSA_WD_Sab_WeightSuccess>
+  <TSA_WD_Sab_WeightSuccessTooltip>Peso base de uma tentativa de sabotagem bem-sucedida antes dos modificadores.</TSA_WD_Sab_WeightSuccessTooltip>
+  <TSA_WD_StatusLocked>Bloqueado</TSA_WD_StatusLocked>
+  <TSA_WD_StatusPossible>Pode mudar</TSA_WD_StatusPossible>
+  <TSA_WD_BuySettlement_GizmoLabel>Comprar assentamento</TSA_WD_BuySettlement_GizmoLabel>
+  <TSA_WD_BuySettlement_GizmoDesc>Compre este assentamento pacificamente com bens da sua colônia/armazéns e boa vontade opcional. Uma caravana entrega o pagamento; ao chegar, você escolhe o que fazer com o bloco (não pode deixá-lo vazio nem devolvê-lo de presente ao vendedor).</TSA_WD_BuySettlement_GizmoDesc>
+  <TSA_WD_BuySettlement_Disabled>A compra de assentamentos está desativada nas configurações do mod.</TSA_WD_BuySettlement_Disabled>
+  <TSA_WD_BuySettlement_Pending>Uma caravana de compra já está a caminho deste assentamento.</TSA_WD_BuySettlement_Pending>
+  <TSA_WD_BuySettlement_NoColony>Você precisa de um mapa de colônia do jogador para pagar com bens.</TSA_WD_BuySettlement_NoColony>
+  <TSA_WD_BuySettlement_TooFewSettlements>O vendedor deve possuir pelo menos {0} assentamentos.</TSA_WD_BuySettlement_TooFewSettlements>
+  <TSA_WD_BuySettlement_DealTitle>Comprar assentamento de nível {0} '{1}'</TSA_WD_BuySettlement_DealTitle>
+  <TSA_WD_BuySettlement_DealPrice>Preço: {0} de prata (ou equivalente).</TSA_WD_BuySettlement_DealPrice>
+  <TSA_WD_BuySettlement_DealPriceTip>Pague com prata, bens ou boa vontade. O pagamento (bens e boa vontade) é debitado imediatamente. Uma caravana viajará do posto avançado ou colônia mais próximo até o alvo. Se a caravana for destruída, o pagamento será perdido. Se o assentamento for destruído ou o acordo se tornar inválido (relação, assentamentos do vendedor ou mudança de nível), bens e boa vontade serão reembolsados. Pagamento a mais não é reembolsado. O pagamento e o pagamento a mais fortalecem os assentamentos próximos do vendedor (aumentam a força e podem subir de nível).</TSA_WD_BuySettlement_DealPriceTip>
+  <TSA_WD_BuySettlement_DealPriceTipTiers>Nível 1 = {0} de prata\nNível 2 = {1} de prata\nNível 3 = {2} de prata\nNível 4 = {3} de prata</TSA_WD_BuySettlement_DealPriceTipTiers>
+  <TSA_WD_BuySettlement_FactionActiveTooltip>Pelo menos um assentamento desta facção está sendo comprado.</TSA_WD_BuySettlement_FactionActiveTooltip>
+  <TSA_WD_BuySettlement_Offered>Oferecido: {0}</TSA_WD_BuySettlement_Offered>
+  <TSA_WD_BuySettlement_Remaining>Restante: {0}</TSA_WD_BuySettlement_Remaining>
+  <TSA_WD_BuySettlement_Overspending>Excedente: {0} (sem reembolso!)</TSA_WD_BuySettlement_Overspending>
+  <TSA_WD_BuySettlement_GoodwillRate>1 de boa vontade = {0} de prata</TSA_WD_BuySettlement_GoodwillRate>
+  <TSA_WD_BuySettlement_GoodwillCurrent>Boa vontade atual: {0}</TSA_WD_BuySettlement_GoodwillCurrent>
+  <TSA_WD_BuySettlement_GoodwillMinRetain>Boa vontade mínima a manter: {0}</TSA_WD_BuySettlement_GoodwillMinRetain>
+  <TSA_WD_BuySettlement_GoodwillRateTip>Cada ponto de boa vontade cobre {0} de prata do preço pedido.</TSA_WD_BuySettlement_GoodwillRateTip>
+  <TSA_WD_BuySettlement_PayWithGoods>Pagar com bens físicos</TSA_WD_BuySettlement_PayWithGoods>
+  <TSA_WD_BuySettlement_GoodwillOffer>Oferta de boa vontade: {0} ({1} de prata, máx. {2})</TSA_WD_BuySettlement_GoodwillOffer>
+  <TSA_WD_BuySettlement_GoodwillNone>Boa vontade insuficiente para pagar com ela. Necessário pelo menos {0}. Você tem {1}.</TSA_WD_BuySettlement_GoodwillNone>
+  <TSA_WD_BuySettlement_AbortLetterTextLost>A caravana de compra para {0} foi destruída. Os bens e a boa vontade do pagamento foram perdidos.</TSA_WD_BuySettlement_AbortLetterTextLost>
+  <TSA_WD_BuySettlement_AbortLetterTextRefund>A compra de {0} não pôde ser concluída. Os bens e a boa vontade do pagamento foram devolvidos.</TSA_WD_BuySettlement_AbortLetterTextRefund>
+  <TSA_WD_BuySettlement_AbortLetterTextSettlementGone>A compra de {0} falhou porque o assentamento não existe mais. Os bens e a boa vontade do pagamento foram devolvidos.</TSA_WD_BuySettlement_AbortLetterTextSettlementGone>
+  <TSA_WD_BuySettlement_AbortLetterTextTierMismatch>A compra de {0} falhou porque o nível dele mudou durante a viagem. Os bens e a boa vontade do pagamento foram devolvidos.</TSA_WD_BuySettlement_AbortLetterTextTierMismatch>
+  <TSA_WD_BuySettlement_AbortLetterTextBadRelation>A compra de {0} falhou porque você não é mais aliado ou neutro com o proprietário. Os bens e a boa vontade do pagamento foram devolvidos.</TSA_WD_BuySettlement_AbortLetterTextBadRelation>
+  <TSA_WD_BuySettlement_AbortLetterTextTooFewSettlements>A compra de {0} falhou porque o vendedor não possui mais pelo menos {1} assentamentos. Os bens e a boa vontade do pagamento foram devolvidos.</TSA_WD_BuySettlement_AbortLetterTextTooFewSettlements>
+  <TSA_WD_BuySettlement_ColName>Item</TSA_WD_BuySettlement_ColName>
+  <TSA_WD_BuySettlement_ColQty>Disponível</TSA_WD_BuySettlement_ColQty>
+  <TSA_WD_BuySettlement_ColSilverPer>Prata por item</TSA_WD_BuySettlement_ColSilverPer>
+  <TSA_WD_BuySettlement_ColSilverPerTip>Valor do pagamento após o fator de preço de venda do jogo base (armas geralmente valem 20% do valor de mercado listado, o mesmo que vender a um comerciante).</TSA_WD_BuySettlement_ColSilverPerTip>
+  <TSA_WD_BuySettlement_ColSilver>Prata</TSA_WD_BuySettlement_ColSilver>
+  <TSA_WD_BuySettlement_Filter>Filtro</TSA_WD_BuySettlement_Filter>
+  <TSA_WD_QuantityAdjustTip>Segure Ctrl para ×10, Shift para ×100, ou ambos para ×1000.</TSA_WD_QuantityAdjustTip>
+  <TSA_WD_BuySettlement_Confirm>Confirmar compra</TSA_WD_BuySettlement_Confirm>
+  <TSA_WD_BuySettlement_UnderAsk>A oferta não alcança o preço pedido.</TSA_WD_BuySettlement_UnderAsk>
+  <TSA_WD_BuySettlement_GoodwillTooHigh>A oferta de boa vontade excede o valor permitido.</TSA_WD_BuySettlement_GoodwillTooHigh>
+  <TSA_WD_BuySettlement_DeductFailed>Não foi possível debitar {0} da colônia/armazéns.</TSA_WD_BuySettlement_DeductFailed>
+  <TSA_WD_BuySettlement_NoOrigin>Não há origem para a caravana de compra.</TSA_WD_BuySettlement_NoOrigin>
+  <TSA_WD_BuySettlement_SpawnFailed>Falha ao lançar a caravana de compra.</TSA_WD_BuySettlement_SpawnFailed>
+  <TSA_WD_BuySettlement_TargetGone>Esse assentamento não existe mais.</TSA_WD_BuySettlement_TargetGone>
+  <TSA_WD_BuySettlement_BadRelation>Você deve ser aliado ou neutro com o proprietário.</TSA_WD_BuySettlement_BadRelation>
+  <TSA_WD_BuySettlement_StartLetterLabel>Compra de assentamento</TSA_WD_BuySettlement_StartLetterLabel>
+  <TSA_WD_BuySettlement_StartLetterText>Uma caravana de compra está entregando o pagamento a {0} ({1}).</TSA_WD_BuySettlement_StartLetterText>
+  <TSA_WD_BuySettlement_CompleteLetterLabel>Assentamento comprado</TSA_WD_BuySettlement_CompleteLetterLabel>
+  <TSA_WD_BuySettlement_CompleteLetterText>{0} foi comprado de {1}. Escolha como usar o bloco.</TSA_WD_BuySettlement_CompleteLetterText>
+  <TSA_WD_BuyOutcome_Label>Assentamento comprado</TSA_WD_BuyOutcome_Label>
+  <TSA_WD_BuyOutcome_Text>Você comprou {0} (nível {1}). Converta-o em um posto avançado à sua escolha, recrute habitantes ou entregue o local a uma facção amistosa.</TSA_WD_BuyOutcome_Text>
+  <TSA_WD_Buy_OptConvertOutpost>Converter em posto avançado</TSA_WD_Buy_OptConvertOutpost>
+  <TSA_WD_Buy_OptRecruit>Recrutar habitantes</TSA_WD_Buy_OptRecruit>
+  <TSA_WD_Buy_OptGiveAlly>Deixar uma facção aliada ou neutra se assentar aqui</TSA_WD_Buy_OptGiveAlly>
+  <TSA_WD_BuySettlement_AbortLetterLabel>Compra de assentamento falhou</TSA_WD_BuySettlement_AbortLetterLabel>
+  <TSA_WD_BuySettlement_AbortLetterText>A compra de {0} não pôde ser concluída.</TSA_WD_BuySettlement_AbortLetterText>
+  <TSA_WD_BuySettlement_SettingsHeader>Comprar assentamento</TSA_WD_BuySettlement_SettingsHeader>
+  <TSA_WD_BuySettlement_Enable>Ativar compra de assentamentos</TSA_WD_BuySettlement_Enable>
+  <TSA_WD_BuySettlement_EnableTip>Quando ativado, assentamentos aliados e neutros do World Domination exibem um gizmo de compra de assentamento.</TSA_WD_BuySettlement_EnableTip>
+  <TSA_WD_BuySettlement_AskT1>Preço pedido (nível 1)</TSA_WD_BuySettlement_AskT1>
+  <TSA_WD_BuySettlement_AskT2>Preço pedido (nível 2)</TSA_WD_BuySettlement_AskT2>
+  <TSA_WD_BuySettlement_AskT3>Preço pedido (nível 3)</TSA_WD_BuySettlement_AskT3>
+  <TSA_WD_BuySettlement_AskT4>Preço pedido (nível 4)</TSA_WD_BuySettlement_AskT4>
+  <TSA_WD_BuySettlement_AskTip>Preço pedido em prata. Igual para aliados e neutros; não recebe desconto pelo nível de boa vontade.</TSA_WD_BuySettlement_AskTip>
+  <TSA_WD_BuySettlement_SilverPerGw>Prata por ponto de boa vontade</TSA_WD_BuySettlement_SilverPerGw>
+  <TSA_WD_BuySettlement_SilverPerGwTip>Quanto do preço pedido um ponto de boa vontade cobre.</TSA_WD_BuySettlement_SilverPerGwTip>
+  <TSA_WD_BuySettlement_MaxGwShare>Parcela máxima do preço pagável em boa vontade</TSA_WD_BuySettlement_MaxGwShare>
+  <TSA_WD_BuySettlement_MaxGwShareTip>A boa vontade pode cobrir até esta fração do preço pedido. Você ainda não pode gastar abaixo do piso de boa vontade.</TSA_WD_BuySettlement_MaxGwShareTip>
+  <TSA_WD_BuySettlement_ResetAll>Redefinir tudo</TSA_WD_BuySettlement_ResetAll>
+  <TSA_WD_BuySettlement_AssignExpensiveFirst>Atribuir os mais caros primeiro</TSA_WD_BuySettlement_AssignExpensiveFirst>
+  <TSA_WD_BuySettlement_AssignExpensiveFirstTip>Limpa as ofertas de bens atuais e atribui os itens mais valiosos não marcados com estrela até alcançar o preço pedido. A última linha pega apenas a quantidade necessária de itens. Itens com estrela são ignorados. A oferta de boa vontade não é alterada.</TSA_WD_BuySettlement_AssignExpensiveFirstTip>
+  <TSA_WD_DealItems_ColStar>★</TSA_WD_DealItems_ColStar>
+  <TSA_WD_DealItems_StarTip>Itens com estrela nunca são usados por Atribuir os mais caros primeiro, Atribuir até o preço ou Atribuir até o mínimo. Eles permanecem disponíveis para ofertas manuais. As estrelas são salvas com este mundo e compartilhadas entre Compra, Presente e Suborno.</TSA_WD_DealItems_StarTip>
+  <TSA_WD_DealItems_CatAll>Todos</TSA_WD_DealItems_CatAll>
+  <TSA_WD_DealItems_CatWeapons>Armas</TSA_WD_DealItems_CatWeapons>
+  <TSA_WD_DealItems_CatApparel>Vestuário</TSA_WD_DealItems_CatApparel>
+  <TSA_WD_DealItems_CatTextiles>Têxteis</TSA_WD_DealItems_CatTextiles>
+  <TSA_WD_DealItems_CatFood>Comida</TSA_WD_DealItems_CatFood>
+  <TSA_WD_DealItems_CatOther>Outros</TSA_WD_DealItems_CatOther>
+  <TSA_WD_DealItems_AssignUnderfill>Não foi possível alcançar o preço pedido com bens sem estrela. Remova a estrela de alguns itens ou ofereça mais manualmente.</TSA_WD_DealItems_AssignUnderfill>
+  <TSA_WD_FactionInvestment_LetterLabel>Assentamentos da facção fortalecidos</TSA_WD_FactionInvestment_LetterLabel>
+  <TSA_WD_FactionInvestment_LetterBuy>{0} recebeu o valor da compra como força para assentamentos próximos ({1} cidades preenchidas, {2} subidas de nível).</TSA_WD_FactionInvestment_LetterBuy>
+  <TSA_WD_FactionInvestment_LetterGift>{0} recebeu o valor do presente como força para assentamentos próximos ({1} cidades preenchidas, {2} subidas de nível).</TSA_WD_FactionInvestment_LetterGift>
+  <TSA_WD_FactionInvestment_LetterGiftFullyCapped>Os assentamentos de {0} no alcance já estão no nível e na força máximos. Novos presentes não adicionam força ao World Domination.</TSA_WD_FactionInvestment_LetterGiftFullyCapped>
+  <TSA_WD_FactionInvestment_LetterGiftNoEffect>O valor do presente ({1} em equivalente de prata) não alterou os assentamentos de {0} no alcance (já preenchidos para o nível deles, e o restante ficou abaixo do custo da próxima melhoria).</TSA_WD_FactionInvestment_LetterGiftNoEffect>
+  <TSA_WD_FactionInvestment_LogNoneInRange>Nenhum assentamento de {0} dentro do alcance de investimento para receber {1} em equivalente de prata.</TSA_WD_FactionInvestment_LogNoneInRange>
+  <TSA_WD_FactionInvestment_SettingsHeader>Investimento em assentamentos da facção</TSA_WD_FactionInvestment_SettingsHeader>
+  <TSA_WD_FactionInvestment_Enable>Ativar investimento de força por presente/compra</TSA_WD_FactionInvestment_Enable>
+  <TSA_WD_FactionInvestment_EnableTip>Quando você compra um assentamento ou presenteia bens, converte o valor em equivalente de prata em força para assentamentos próximos da mesma facção e depois em subidas de nível, repetindo até o orçamento não poder comprar mais.</TSA_WD_FactionInvestment_EnableTip>
+  <TSA_WD_FactionInvestment_StrengthPer100>Força por 100 de prata</TSA_WD_FactionInvestment_StrengthPer100>
+  <TSA_WD_FactionInvestment_StrengthPer100Tip>Quanta força ofensiva 100 de prata em presentes ou pagamento de compra concede ao preencher assentamentos até o máximo do nível deles.</TSA_WD_FactionInvestment_StrengthPer100Tip>
+  <TSA_WD_FactionInvestment_Radius>Raio de investimento (blocos)</TSA_WD_FactionInvestment_Radius>
+  <TSA_WD_FactionInvestment_RadiusTip>Assentamentos mais distantes que isto do bloco do presente ou da compra não recebem força.</TSA_WD_FactionInvestment_RadiusTip>
+  <TSA_WD_FactionInvestment_UpgradeT1T2>Prata para subir do nível 1 para o nível 2</TSA_WD_FactionInvestment_UpgradeT1T2>
+  <TSA_WD_FactionInvestment_UpgradeT2T3>Prata para subir do nível 2 para o nível 3</TSA_WD_FactionInvestment_UpgradeT2T3>
+  <TSA_WD_FactionInvestment_UpgradeT3T4>Prata para subir do nível 3 para o nível 4</TSA_WD_FactionInvestment_UpgradeT3T4>
+  <TSA_WD_FactionInvestment_UpgradeTip>A prata preenche assentamentos da mesma facção no alcance até o máximo do nível atual deles (os mais próximos primeiro), depois compra subidas de nível, depois preenche de novo, até o orçamento não poder comprar mais.</TSA_WD_FactionInvestment_UpgradeTip>
+  <TSA_WD_FactionInvestment_UpgradeSuccessChance>Chance de sucesso da subida de nível</TSA_WD_FactionInvestment_UpgradeSuccessChance>
+  <TSA_WD_FactionInvestment_UpgradeSuccessChanceTip>Chance de uma subida de nível paga por investimento ter sucesso. A prata é gasta de qualquer forma. Em caso de falha, esse assentamento não é tentado novamente pelo resto deste presente ou compra.</TSA_WD_FactionInvestment_UpgradeSuccessChanceTip>
+  <TSA_WD_Log_SettlementBuyLaunched>{0} enviou uma caravana de compra para {1} ({2}).</TSA_WD_Log_SettlementBuyLaunched>
+  <TSA_WD_Log_SettlementBuyCompleted>Comprou {0} de {1}.</TSA_WD_Log_SettlementBuyCompleted>
+  <TSA_WD_Notify_SettlementBuyCompleted>Compra de assentamento concluída</TSA_WD_Notify_SettlementBuyCompleted>
+  <TSA_WD_Notify_SettlementBuyCompletedTooltip>Carta quando o pagamento chega e o bloco é liberado para a sua escolha.</TSA_WD_Notify_SettlementBuyCompletedTooltip>
+  <TSA_WD_Notify_SettlementBuyAborted>Compra de assentamento falhou</TSA_WD_Notify_SettlementBuyAborted>
+  <TSA_WD_Notify_SettlementBuyAbortedTooltip>Carta quando uma caravana de compra é destruída ou o acordo falha (mudança de nível, assentamento perdido, relações, assentamentos do vendedor). Explica o motivo e se o pagamento foi reembolsado.</TSA_WD_Notify_SettlementBuyAbortedTooltip>
+  <TSA_WD_Negotiate_Btn>Negociar</TSA_WD_Negotiate_Btn>
+  <TSA_WD_Negotiate_BtnWar>Declarar guerra</TSA_WD_Negotiate_BtnWar>
+  <TSA_WD_Negotiate_BtnPeace>Cessar-fogo</TSA_WD_Negotiate_BtnPeace>
+  <TSA_WD_Negotiate_BtnAlly>Tornar-se aliado</TSA_WD_Negotiate_BtnAlly>
+  <TSA_WD_Negotiate_BtnNone>Nenhuma ação</TSA_WD_Negotiate_BtnNone>
+  <TSA_WD_Negotiate_H_Faction>Facção</TSA_WD_Negotiate_H_Faction>
+  <TSA_WD_Negotiate_H_Relation>Relação</TSA_WD_Negotiate_H_Relation>
+  <TSA_WD_Negotiate_H_Strength>Esta facção vs. facção alvo</TSA_WD_Negotiate_H_Strength>
+  <TSA_WD_Negotiate_H_WarFoes>Esta facção vs. força global</TSA_WD_Negotiate_H_WarFoes>
+  <TSA_WD_Negotiate_H_Ask>Preço em prata</TSA_WD_Negotiate_H_Ask>
+  <TSA_WD_Negotiate_H_Action>Pedir a eles que</TSA_WD_Negotiate_H_Action>
+  <TSA_WD_Negotiate_StrengthTip>Força militar desta facção (a que você está pagando) dividida pela força da facção alvo. Abaixo de 1,00× significa que ela é mais fraca que o alvo.</TSA_WD_Negotiate_StrengthTip>
+  <TSA_WD_Negotiate_WarFoesTip>A força desta facção dividida pela força combinada das facções com que ela já está em guerra (ex.: 0,20× significa 20% dessa força combinada). Valores baixos indicam que ela já está sobrecarregada e aumentam o preço de Declarar Guerra.</TSA_WD_Negotiate_WarFoesTip>
+  <TSA_WD_Negotiate_RelationTip>Status diplomático atual entre esta facção e aquela que você está pagando.</TSA_WD_Negotiate_RelationTip>
+  <TSA_WD_Negotiate_AskTip>Preço em equivalente de prata para solicitar esta mudança. Linhas rejeitadas e congelamento diplomático ainda não podem ser solicitados.</TSA_WD_Negotiate_AskTip>
+  <TSA_WD_Negotiate_ActionTip>Pedir que esta facção declare guerra, faça cessar-fogo ou se torne aliada da contraparte listada.</TSA_WD_Negotiate_ActionTip>
+  <TSA_WD_Negotiate_ActionWar>declarar guerra a</TSA_WD_Negotiate_ActionWar>
+  <TSA_WD_Negotiate_ActionPeace>tornar-se neutra com</TSA_WD_Negotiate_ActionPeace>
+  <TSA_WD_Negotiate_ActionAlly>tornar-se aliada de</TSA_WD_Negotiate_ActionAlly>
+  <TSA_WD_Negotiate_OverviewTitle>Negociar com {0}</TSA_WD_Negotiate_OverviewTitle>
+  <TSA_WD_Negotiate_OverviewTip>Pague esta facção para mudar seu status diplomático com outras facções.</TSA_WD_Negotiate_OverviewTip>
+  <TSA_WD_Negotiate_DealTitle>Pagar a {0} para {1} {2}</TSA_WD_Negotiate_DealTitle>
+  <TSA_WD_Negotiate_PayWithGoods>Pagar com bens (entregues em {0})</TSA_WD_Negotiate_PayWithGoods>
+  <TSA_WD_Negotiate_AskSilver>Preço pedido: {0} de prata</TSA_WD_Negotiate_AskSilver>
+  <TSA_WD_Negotiate_OfferedRemaining>Oferecido: {0} (faltam {1})</TSA_WD_Negotiate_OfferedRemaining>
+  <TSA_WD_Negotiate_OfferedMet>Oferecido: {0} (preço alcançado)</TSA_WD_Negotiate_OfferedMet>
+  <TSA_WD_Negotiate_Confirm>Confirmar pagamento</TSA_WD_Negotiate_Confirm>
+  <TSA_WD_Negotiate_CdShort>Recarga: {0}d</TSA_WD_Negotiate_CdShort>
+  <TSA_WD_Negotiate_Disabled>A negociação diplomática está desativada nas configurações do mod.</TSA_WD_Negotiate_Disabled>
+  <TSA_WD_Negotiate_BadPlayerRelation>Você deve ser aliado ou neutro com esta facção.</TSA_WD_Negotiate_BadPlayerRelation>
+  <TSA_WD_Negotiate_GoodwillFloor>É preciso pelo menos {0} de boa vontade com esta facção.</TSA_WD_Negotiate_GoodwillFloor>
+  <TSA_WD_Negotiate_Pending>Uma caravana de negociação já está a caminho desta facção.</TSA_WD_Negotiate_Pending>
+  <TSA_WD_Negotiate_NoSettlement>Esta facção não tem assentamento de superfície para entregar o pagamento.</TSA_WD_Negotiate_NoSettlement>
+  <TSA_WD_Negotiate_InvalidPair>Esse par de facções não pode ser negociado.</TSA_WD_Negotiate_InvalidPair>
+  <TSA_WD_Negotiate_PairLocked>Este par de facções está permanentemente bloqueado.</TSA_WD_Negotiate_PairLocked>
+  <TSA_WD_Negotiate_PairFrozen>Congelamento diplomático: {0} dias restantes.</TSA_WD_Negotiate_PairFrozen>
+  <TSA_WD_Negotiate_AllyUntouchable>Pares aliados não podem ser negociados.</TSA_WD_Negotiate_AllyUntouchable>
+  <TSA_WD_Negotiate_WarNeedsNeutral>Eles não são neutros com essa facção (guerra apenas a partir de neutro).</TSA_WD_Negotiate_WarNeedsNeutral>
+  <TSA_WD_Negotiate_PeaceNeedsHostile>Eles não estão em guerra com essa facção.</TSA_WD_Negotiate_PeaceNeedsHostile>
+  <TSA_WD_Negotiate_TooWeakForWar>Você só pode convencer {0} a declarar guerra a {1} se {0} tiver pelo menos {2}% da força de {1}.</TSA_WD_Negotiate_TooWeakForWar>
+  <TSA_WD_Negotiate_TooWeakForPeace>Você só pode convencer {0} a fazer cessar-fogo com {1} se {0} tiver pelo menos {2}% da força de {1}.</TSA_WD_Negotiate_TooWeakForPeace>
+  <TSA_WD_Negotiate_CannotAsk>Rejeitado</TSA_WD_Negotiate_CannotAsk>
+  <TSA_WD_Negotiate_AllegianceColorTip>A codificação de cores é baseada na lealdade ao jogador.</TSA_WD_Negotiate_AllegianceColorTip>
+  <TSA_WD_Negotiate_UnderAsk>A oferta não alcança o preço pedido ({0} de prata).</TSA_WD_Negotiate_UnderAsk>
+  <TSA_WD_Negotiate_NoOrigin>Não há colônia ou armazém para enviar a caravana de negociação.</TSA_WD_Negotiate_NoOrigin>
+  <TSA_WD_Negotiate_SameTile>Não é possível enviar o pagamento do mesmo bloco do assentamento de destino.</TSA_WD_Negotiate_SameTile>
+  <TSA_WD_Negotiate_SpawnFailed>Falha ao lançar a caravana de negociação.</TSA_WD_Negotiate_SpawnFailed>
+  <TSA_WD_Negotiate_StartLetterLabel>Negociação diplomática</TSA_WD_Negotiate_StartLetterLabel>
+  <TSA_WD_Negotiate_StartLetterText>Uma caravana está entregando o pagamento para que {0} {1} {2}.</TSA_WD_Negotiate_StartLetterText>
+  <TSA_WD_Negotiate_CompleteLetterLabel>Diplomacia negociada</TSA_WD_Negotiate_CompleteLetterLabel>
+  <TSA_WD_Negotiate_CompleteLetterText>{0} aceitou {1} {2}. O pagamento fortaleceu seus assentamentos.</TSA_WD_Negotiate_CompleteLetterText>
+  <TSA_WD_Negotiate_AbortLetterLabel>Negociação diplomática falhou</TSA_WD_Negotiate_AbortLetterLabel>
+  <TSA_WD_Negotiate_AbortLetterText>A negociação com {0} sobre {1} não pôde ser concluída.</TSA_WD_Negotiate_AbortLetterText>
+  <TSA_WD_Negotiate_AbortLetterTextLost>A caravana de negociação de {0} sobre {1} foi destruída. O pagamento foi perdido.</TSA_WD_Negotiate_AbortLetterTextLost>
+  <TSA_WD_Negotiate_AbortLetterTextRefund>A negociação com {0} sobre {1} não pôde ser concluída. O pagamento foi devolvido.</TSA_WD_Negotiate_AbortLetterTextRefund>
+  <TSA_WD_Negotiate_AbortLetterTextBadRelation>A negociação com {0} sobre {1} falhou porque você não é mais aliado ou neutro com eles. O pagamento foi devolvido.</TSA_WD_Negotiate_AbortLetterTextBadRelation>
+  <TSA_WD_Negotiate_AbortLetterTextFrozen>A negociação com {0} sobre {1} falhou porque esse par está sob congelamento diplomático. O pagamento foi devolvido.</TSA_WD_Negotiate_AbortLetterTextFrozen>
+  <TSA_WD_Negotiate_AbortLetterTextLocked>A negociação com {0} sobre {1} falhou porque esse par está permanentemente bloqueado. O pagamento foi devolvido.</TSA_WD_Negotiate_AbortLetterTextLocked>
+  <TSA_WD_Negotiate_AbortLetterTextInvalid>A negociação com {0} sobre {1} não é mais válida. O pagamento foi devolvido.</TSA_WD_Negotiate_AbortLetterTextInvalid>
+  <TSA_WD_Negotiate_AbortLetterTextGone>A negociação com {0} sobre {1} falhou porque uma facção ou assentamento desapareceu. O pagamento foi devolvido.</TSA_WD_Negotiate_AbortLetterTextGone>
+  <TSA_WD_Negotiate_SettingsHeader>Negociação diplomática</TSA_WD_Negotiate_SettingsHeader>
+  <TSA_WD_Negotiate_Enable>Ativar negociação diplomática</TSA_WD_Negotiate_Enable>
+  <TSA_WD_Negotiate_EnableTip>Quando ativado, facções NPC aliadas e neutras na matriz de diplomacia exibem um botão de Negociar.</TSA_WD_Negotiate_EnableTip>
+  <TSA_WD_Negotiate_AskMin>Piso do preço pedido (prata)</TSA_WD_Negotiate_AskMin>
+  <TSA_WD_Negotiate_AskMinTip>Preço mínimo de negociação quando a proporção de força permite a ação.</TSA_WD_Negotiate_AskMinTip>
+  <TSA_WD_Negotiate_AskMax>Teto do preço pedido (prata)</TSA_WD_Negotiate_AskMax>
+  <TSA_WD_Negotiate_AskMaxTip>Preço máximo de negociação na curva de preços por força.</TSA_WD_Negotiate_AskMaxTip>
+  <TSA_WD_Log_NegotiateLaunched>{0} enviou uma caravana de negociação para que {1} {2} {3}.</TSA_WD_Log_NegotiateLaunched>
+  <TSA_WD_Log_NegotiateCompleted>{0} aceitou {1} {2}.</TSA_WD_Log_NegotiateCompleted>
+  <TSA_WD_Notify_NegotiateStarted>Negociação diplomática iniciada</TSA_WD_Notify_NegotiateStarted>
+  <TSA_WD_Notify_NegotiateStartedTooltip>Carta quando uma caravana de pagamento de negociação é lançada (desativado por padrão).</TSA_WD_Notify_NegotiateStartedTooltip>
+  <TSA_WD_Notify_NegotiateCompleted>Negociação diplomática concluída</TSA_WD_Notify_NegotiateCompleted>
+  <TSA_WD_Notify_NegotiateCompletedTooltip>Carta quando o pagamento chega e a mudança de relação é aplicada.</TSA_WD_Notify_NegotiateCompletedTooltip>
+  <TSA_WD_Notify_NegotiateAborted>Negociação diplomática falhou</TSA_WD_Notify_NegotiateAborted>
+  <TSA_WD_Notify_NegotiateAbortedTooltip>Carta quando uma caravana de negociação é destruída ou o acordo falha. Explica o motivo e se o pagamento foi reembolsado.</TSA_WD_Notify_NegotiateAbortedTooltip>
+  <TSA_WD_GiftSettlement_GizmoLabel>Enviar presente</TSA_WD_GiftSettlement_GizmoLabel>
+  <TSA_WD_GiftSettlement_GizmoDesc>Envie um presente de bens da sua colônia ou armazém mais próximo. Ao chegar, a boa vontade aumenta e a facção do assentamento ganha força com o valor do presente.</TSA_WD_GiftSettlement_GizmoDesc>
+  <TSA_WD_GiftSettlement_Pending>Uma caravana de presente já está a caminho deste assentamento.</TSA_WD_GiftSettlement_Pending>
+  <TSA_WD_GiftSettlement_DialogTitle>Presente para '{0}'</TSA_WD_GiftSettlement_DialogTitle>
+  <TSA_WD_GiftSettlement_PayWithGoods>Presentear com bens físicos</TSA_WD_GiftSettlement_PayWithGoods>
+  <TSA_WD_GiftSettlement_MinSilver>Presente mínimo: {0} de prata</TSA_WD_GiftSettlement_MinSilver>
+  <TSA_WD_GiftSettlement_Offered>Oferecido: {0}</TSA_WD_GiftSettlement_Offered>
+  <TSA_WD_GiftSettlement_AssignToMin>Atribuir até o mínimo</TSA_WD_GiftSettlement_AssignToMin>
+  <TSA_WD_GiftSettlement_AssignToMinTip>Limpa as ofertas de bens atuais e atribui os itens mais valiosos não marcados com estrela até alcançar o valor mínimo do presente. A última linha pega apenas a quantidade necessária de itens. Itens com estrela são ignorados.</TSA_WD_GiftSettlement_AssignToMinTip>
+  <TSA_WD_GiftSettlement_Confirm>Confirmar presente</TSA_WD_GiftSettlement_Confirm>
+  <TSA_WD_GiftSettlement_UnderMin>O presente deve valer pelo menos {0} de prata.</TSA_WD_GiftSettlement_UnderMin>
+  <TSA_WD_GiftSettlement_NoOrigin>Não há colônia ou armazém para enviar a caravana de presente.</TSA_WD_GiftSettlement_NoOrigin>
+  <TSA_WD_GiftSettlement_SameTile>Não é possível enviar um presente do mesmo bloco do assentamento.</TSA_WD_GiftSettlement_SameTile>
+  <TSA_WD_GiftSettlement_SpawnFailed>Falha ao lançar a caravana de presente.</TSA_WD_GiftSettlement_SpawnFailed>
+  <TSA_WD_GiftSettlement_TargetGone>Esse assentamento não existe mais.</TSA_WD_GiftSettlement_TargetGone>
+  <TSA_WD_GiftSettlement_BadRelation>Você deve ser aliado ou neutro com o proprietário.</TSA_WD_GiftSettlement_BadRelation>
+  <TSA_WD_GiftSettlement_CompletedLetterLabel>Presente entregue</TSA_WD_GiftSettlement_CompletedLetterLabel>
+  <TSA_WD_GiftSettlement_CompletedLetterText>Seu presente chegou a {0} ({1}). Bens no valor de {2} de prata foram entregues.</TSA_WD_GiftSettlement_CompletedLetterText>
+  <TSA_WD_GiftSettlement_AbortLetterLabel>Caravana de presente falhou</TSA_WD_GiftSettlement_AbortLetterLabel>
+  <TSA_WD_GiftSettlement_AbortLetterText>O presente para {0} não pôde ser concluído.</TSA_WD_GiftSettlement_AbortLetterText>
+  <TSA_WD_GiftSettlement_AbortLetterTextLost>A caravana de presente para {0} foi destruída. Os bens foram perdidos.</TSA_WD_GiftSettlement_AbortLetterTextLost>
+  <TSA_WD_GiftSettlement_AbortLetterTextRefund>O presente para {0} não pôde ser concluído. Os bens foram devolvidos.</TSA_WD_GiftSettlement_AbortLetterTextRefund>
+  <TSA_WD_GiftSettlement_AbortLetterTextSettlementGone>O presente para {0} falhou porque o assentamento não existe mais. Os bens foram devolvidos.</TSA_WD_GiftSettlement_AbortLetterTextSettlementGone>
+  <TSA_WD_GiftSettlement_AbortLetterTextBadRelation>O presente para {0} falhou porque você não é mais aliado ou neutro com o proprietário. Os bens foram devolvidos.</TSA_WD_GiftSettlement_AbortLetterTextBadRelation>
+  <TSA_WD_GiftSettlement_AbortLetterTextFactionChanged>O presente para {0} falhou porque o assentamento mudou de dono. Os bens foram devolvidos.</TSA_WD_GiftSettlement_AbortLetterTextFactionChanged>
+  <TSA_WD_SettlementGifterCaravan>Caravana de presente</TSA_WD_SettlementGifterCaravan>
+  <TSA_WD_Log_SettlementGiftLaunched>{0} enviou uma caravana de presente para {1} ({2}).</TSA_WD_Log_SettlementGiftLaunched>
+  <TSA_WD_Log_SettlementGiftCompleted>Presente entregue a {0} ({1}).</TSA_WD_Log_SettlementGiftCompleted>
+  <TSA_WD_SettlementCaravan_InterceptWarning>Aviso: se esta caravana for interceptada, o atacante ganha força de assentamento com o valor dos bens.</TSA_WD_SettlementCaravan_InterceptWarning>
+  <TSA_WD_SettlementCaravan_LootLetterLabel>Caravana interceptada</TSA_WD_SettlementCaravan_LootLetterLabel>
+  <TSA_WD_SettlementCaravan_LootLetterBody>{0} interceptou sua caravana de {1} e apreendeu {2} de prata.</TSA_WD_SettlementCaravan_LootLetterBody>
+  <TSA_WD_SettlementCaravan_LootMissionBuy>compra</TSA_WD_SettlementCaravan_LootMissionBuy>
+  <TSA_WD_SettlementCaravan_LootMissionGift>presente</TSA_WD_SettlementCaravan_LootMissionGift>
+  <TSA_WD_SettlementCaravan_LootLetterRadius>Isso fortaleceu os assentamentos deles dentro de {0} blocos do incidente.</TSA_WD_SettlementCaravan_LootLetterRadius>
+  <TSA_WD_SettlementCaravan_LootLetterNoTowns>Os bens foram apreendidos, mas eles não tinham assentamentos dentro de {0} blocos para fortalecer.</TSA_WD_SettlementCaravan_LootLetterNoTowns>
+  <TSA_WD_SettlementCaravan_LootLetterNoEffect>Nenhum assentamento no alcance ganhou força com os bens apreendidos.</TSA_WD_SettlementCaravan_LootLetterNoEffect>
+  <TSA_WD_SettlementCaravan_LootDetailStrength>{0} ganhou {1} de força.</TSA_WD_SettlementCaravan_LootDetailStrength>
+  <TSA_WD_SettlementCaravan_LootDetailUpgrade>{0} subiu para {1}.</TSA_WD_SettlementCaravan_LootDetailUpgrade>
+  <TSA_WD_Bribe_SettlementGizmoLabel>Subornar por cessar-fogo</TSA_WD_Bribe_SettlementGizmoLabel>
+  <TSA_WD_Bribe_SettlementGizmoDesc>Pague com bens por um cessar-fogo temporário. Esta facção não lançará novas incursões do World Domination contra sua colônia ou postos avançados durante a duração escolhida. Incursões já a caminho não são chamadas de volta.</TSA_WD_Bribe_SettlementGizmoDesc>
+  <TSA_WD_Bribe_RaidGizmoLabel>Subornar caravana de incursão</TSA_WD_Bribe_RaidGizmoLabel>
+  <TSA_WD_Bribe_RaidGizmoDesc>Envie uma caravana de pagamento para alcançar esta incursão. Na entrega, a incursão se dissolve. O investimento de força é centralizado no assentamento de origem da incursão.</TSA_WD_Bribe_RaidGizmoDesc>
+  <TSA_WD_Bribe_Disabled>Os subornos de facções estão desativados nas configurações.</TSA_WD_Bribe_Disabled>
+  <TSA_WD_Bribe_Pending>Uma caravana de suborno já está a caminho deste alvo.</TSA_WD_Bribe_Pending>
+  <TSA_WD_Bribe_Cannot>Não é possível subornar este alvo.</TSA_WD_Bribe_Cannot>
+  <TSA_WD_Bribe_TargetGone>Esse alvo não existe mais.</TSA_WD_Bribe_TargetGone>
+  <TSA_WD_Bribe_BadRelation>Você deve estar hostil com esta facção para suborná-la.</TSA_WD_Bribe_BadRelation>
+  <TSA_WD_Bribe_UnderAsk>Ofereça pelo menos {0} em equivalente de prata em bens.</TSA_WD_Bribe_UnderAsk>
+  <TSA_WD_Bribe_NoOrigin>Nenhuma colônia ou armazém pode enviar a caravana de suborno.</TSA_WD_Bribe_NoOrigin>
+  <TSA_WD_Bribe_SameTile>Não é possível enviar um suborno do mesmo bloco do assentamento.</TSA_WD_Bribe_SameTile>
+  <TSA_WD_Bribe_SpawnFailed>Falha ao lançar a caravana de suborno.</TSA_WD_Bribe_SpawnFailed>
+  <TSA_WD_Bribe_SettlementDialogTitle>Subornar '{0}' por cessar-fogo</TSA_WD_Bribe_SettlementDialogTitle>
+  <TSA_WD_Bribe_RaidDialogTitle>Subornar incursão '{0}'</TSA_WD_Bribe_RaidDialogTitle>
+  <TSA_WD_Bribe_PayWithGoods>Pagar com bens físicos</TSA_WD_Bribe_PayWithGoods>
+  <TSA_WD_Bribe_Confirm>Confirmar suborno</TSA_WD_Bribe_Confirm>
+  <TSA_WD_Bribe_AssignToAsk>Atribuir até o preço</TSA_WD_Bribe_AssignToAsk>
+  <TSA_WD_Bribe_AssignToAskTip>Limpa as ofertas de bens atuais e atribui os itens mais valiosos não marcados com estrela até alcançar o preço pedido. A última linha pega apenas a quantidade necessária de itens. Itens com estrela são ignorados.</TSA_WD_Bribe_AssignToAskTip>
+  <TSA_WD_Bribe_AskCeasefireLabel>Pedido de cessar-fogo:</TSA_WD_Bribe_AskCeasefireLabel>
+  <TSA_WD_Bribe_AskCeasefireTip>Força dos assentamentos que podem atacar sua colônia ou postos avançados: {0}\nForça de todos os assentamentos deles: {1}\nValor combinado usado no preço: {2}\nPrata cobrada por ponto desse valor: {3}\n\nCom base na sua oferta atual:\nForça prevista adicionada às cidades próximas deles: {4} de prata\n\nIncursões já a caminho ainda chegarão. Suborne essas caravanas separadamente ou enfrente-as.</TSA_WD_Bribe_AskCeasefireTip>
+  <TSA_WD_Bribe_RaidDealPriceTip>Força da incursão agora: {0}\nForça da incursão quando foi lançada: {1}\nO preço usa o maior entre a força atual e {2}% da força de lançamento.\nPrata cobrada por ponto de força ({4}): {3}\n\nCom base na sua oferta atual:\nForça prevista adicionada perto da cidade natal da incursão: {5} de prata</TSA_WD_Bribe_RaidDealPriceTip>
+  <TSA_WD_Bribe_DurationButton>{0} dias</TSA_WD_Bribe_DurationButton>
+  <TSA_WD_Bribe_DurationSelected>Duração do cessar-fogo: {0} dias</TSA_WD_Bribe_DurationSelected>
+  <TSA_WD_Bribe_ThreatWeighted>Ameaça no alcance {0}, total da facção {1}, base ponderada do preço {2}</TSA_WD_Bribe_ThreatWeighted>
+  <TSA_WD_Bribe_SettlementRate>Prata por força de assentamento: {0}</TSA_WD_Bribe_SettlementRate>
+  <TSA_WD_Bribe_CaravanRate>Prata por força de incursão: {0} ({1})</TSA_WD_Bribe_CaravanRate>
+  <TSA_WD_Bribe_RaidStrength>Força da incursão agora {0} (no lançamento {1})</TSA_WD_Bribe_RaidStrength>
+  <TSA_WD_Bribe_Ask>Preço pedido: {0} de prata</TSA_WD_Bribe_Ask>
+  <TSA_WD_Bribe_ExpectedGoodwill>Boa vontade prevista: +{0}</TSA_WD_Bribe_ExpectedGoodwill>
+  <TSA_WD_Bribe_ExpectedInvest>Investimento de força previsto: {0} de prata</TSA_WD_Bribe_ExpectedInvest>
+  <TSA_WD_Bribe_Offered>Oferecido: {0}</TSA_WD_Bribe_Offered>
+  <TSA_WD_Bribe_InFlightWarning>Caravanas de incursão já enviadas por esta facção ainda chegarão. Suborne cada uma dessas caravanas separadamente ou enfrente-as.</TSA_WD_Bribe_InFlightWarning>
+  <TSA_WD_Bribe_StageEarly>Início</TSA_WD_Bribe_StageEarly>
+  <TSA_WD_Bribe_StageMid>Meio</TSA_WD_Bribe_StageMid>
+  <TSA_WD_Bribe_StageLate>Fim</TSA_WD_Bribe_StageLate>
+  <TSA_WD_BribeSettlementCaravan>Caravana de suborno</TSA_WD_BribeSettlementCaravan>
+  <TSA_WD_BribeRaidCaravan>Caravana de suborno de incursão</TSA_WD_BribeRaidCaravan>
+  <TSA_WD_Bribe_SettlementCompletedLabel>Suborno de cessar-fogo entregue</TSA_WD_Bribe_SettlementCompletedLabel>
+  <TSA_WD_Bribe_SettlementCompletedText>Seu suborno chegou a {0} ({1}). Novas incursões do World Domination desta facção contra sua colônia e postos avançados estão bloqueadas por {2} dias. Investimento de força: {3} de prata. Incursões já a caminho não são chamadas de volta.</TSA_WD_Bribe_SettlementCompletedText>
+  <TSA_WD_Bribe_RaidCompletedLabel>Suborno de incursão entregue</TSA_WD_Bribe_RaidCompletedLabel>
+  <TSA_WD_Bribe_RaidCompletedText>Seu suborno dissolveu {0} ({1}). Investimento de força perto do local de lançamento: {2} de prata.</TSA_WD_Bribe_RaidCompletedText>
+  <TSA_WD_Bribe_SettlementAbortLabel>Suborno de cessar-fogo falhou</TSA_WD_Bribe_SettlementAbortLabel>
+  <TSA_WD_Bribe_RaidAbortLabel>Suborno de incursão falhou</TSA_WD_Bribe_RaidAbortLabel>
+  <TSA_WD_Bribe_AbortText>O suborno a {0} não pôde ser concluído.</TSA_WD_Bribe_AbortText>
+  <TSA_WD_Bribe_AbortTextLost>A caravana de suborno para {0} foi destruída. Os bens foram perdidos.</TSA_WD_Bribe_AbortTextLost>
+  <TSA_WD_Bribe_AbortTextRefund>O suborno a {0} não pôde ser concluído. Os bens foram devolvidos.</TSA_WD_Bribe_AbortTextRefund>
+  <TSA_WD_Bribe_AbortTextTargetGone>O suborno a {0} falhou porque o alvo não existe mais. Os bens foram devolvidos.</TSA_WD_Bribe_AbortTextTargetGone>
+  <TSA_WD_Bribe_AbortTextBadRelation>O suborno a {0} falhou porque você não está mais hostil com o proprietário. Os bens foram devolvidos.</TSA_WD_Bribe_AbortTextBadRelation>
+  <TSA_WD_Bribe_CeasefireExpiredLabel>Cessar-fogo por suborno encerrado</TSA_WD_Bribe_CeasefireExpiredLabel>
+  <TSA_WD_Bribe_CeasefireExpiredText>Seu cessar-fogo por suborno com {0} terminou. Eles podem lançar novas incursões do World Domination contra sua colônia e postos avançados novamente.</TSA_WD_Bribe_CeasefireExpiredText>
+  <TSA_WD_Diplomacy_BribeCeasefire>(cessar-fogo por suborno {0}d)</TSA_WD_Diplomacy_BribeCeasefire>
+  <TSA_WD_Log_BribeSettlementLaunched>{0} enviou uma caravana de suborno para {1} ({2}).</TSA_WD_Log_BribeSettlementLaunched>
+  <TSA_WD_Log_BribeRaidLaunched>{0} enviou uma caravana de suborno atrás de {1} ({2}).</TSA_WD_Log_BribeRaidLaunched>
+  <TSA_WD_Log_BribeSettlementCompleted>Cessar-fogo por suborno com {1} via {0} por {2} dias.</TSA_WD_Log_BribeSettlementCompleted>
+  <TSA_WD_Log_BribeRaidCompleted>Subornou e dissolveu {0} ({1}).</TSA_WD_Log_BribeRaidCompleted>
+  <TSA_WD_Log_Raid_SkippedBribeCeasefire>Incursão ignorada: cessar-fogo por suborno ainda ativo com {0}.</TSA_WD_Log_Raid_SkippedBribeCeasefire>
+  <TSA_WD_Bribe_CostHeader>Custo do suborno</TSA_WD_Bribe_CostHeader>
+  <TSA_WD_Bribe_SettlementSilverPerStr>Prata por força de assentamento</TSA_WD_Bribe_SettlementSilverPerStr>
+  <TSA_WD_Bribe_SettlementSilverPerStrTip>Taxa fixa para subornos de cessar-fogo. As escaladas de meio e fim de jogo não alteram esta taxa (a ameaça ainda pode subir conforme mais cidades entram no alcance de ataque).</TSA_WD_Bribe_SettlementSilverPerStrTip>
+  <TSA_WD_Bribe_CaravanSilverPerStrEarly>Prata por força de incursão (início)</TSA_WD_Bribe_CaravanSilverPerStrEarly>
+  <TSA_WD_Bribe_CaravanSilverPerStrEarlyTip>Usada enquanto as escaladas de meio e fim de jogo estão inativas.</TSA_WD_Bribe_CaravanSilverPerStrEarlyTip>
+  <TSA_WD_Bribe_CaravanSilverPerStrMid>Prata por força de incursão (meio)</TSA_WD_Bribe_CaravanSilverPerStrMid>
+  <TSA_WD_Bribe_CaravanSilverPerStrMidTip>Usada durante a escalada de meio de jogo. A de fim de jogo substitui esta quando ativa.</TSA_WD_Bribe_CaravanSilverPerStrMidTip>
+  <TSA_WD_Bribe_CaravanSilverPerStrLate>Prata por força de incursão (fim)</TSA_WD_Bribe_CaravanSilverPerStrLate>
+  <TSA_WD_Bribe_CaravanSilverPerStrLateTip>Usada durante a escalada de fim de jogo.</TSA_WD_Bribe_CaravanSilverPerStrLateTip>
+  <TSA_WD_Bribe_SettingsHeader>Suborno de facção</TSA_WD_Bribe_SettingsHeader>
+  <TSA_WD_Bribe_Enable>Ativar subornos de facções</TSA_WD_Bribe_Enable>
+  <TSA_WD_Bribe_EnableTip>Quando ativado, assentamentos hostis do World Domination e caravanas de incursão terrestres direcionadas a você exibem um gizmo de Suborno.</TSA_WD_Bribe_EnableTip>
+  <TSA_WD_Bribe_DaysShort>Dias de cessar-fogo (curto)</TSA_WD_Bribe_DaysShort>
+  <TSA_WD_Bribe_DaysMedium>Dias de cessar-fogo (médio)</TSA_WD_Bribe_DaysMedium>
+  <TSA_WD_Bribe_DaysLong>Dias de cessar-fogo (longo)</TSA_WD_Bribe_DaysLong>
+  <TSA_WD_Bribe_DaysTip>Por quanto tempo novas incursões do World Domination dessa facção ficam bloqueadas após um suborno de assentamento bem-sucedido.</TSA_WD_Bribe_DaysTip>
+  <TSA_WD_Bribe_DiscountMedium>Desconto do pacote médio</TSA_WD_Bribe_DiscountMedium>
+  <TSA_WD_Bribe_DiscountLong>Desconto do pacote longo</TSA_WD_Bribe_DiscountLong>
+  <TSA_WD_Bribe_DiscountTip>O multiplicador de preço é (dias / dias curtos) vezes (1 menos este desconto).</TSA_WD_Bribe_DiscountTip>
+  <TSA_WD_Bribe_RaidAskFloor>Piso do preço de incursão (da força de lançamento)</TSA_WD_Bribe_RaidAskFloor>
+  <TSA_WD_Bribe_RaidAskFloorTip>O preço do suborno de incursão usa o maior entre a força atual e esta fração da força de lançamento.</TSA_WD_Bribe_RaidAskFloorTip>
+  <TSA_WD_Bribe_InvestmentFraction>Fração de investimento do suborno</TSA_WD_Bribe_InvestmentFraction>
+  <TSA_WD_Bribe_InvestmentFractionTip>Fração do valor do pagamento convertida em força de assentamentos próximos em caso de sucesso (presente e compra usam 100%). O saque de interceptação ainda investe o valor total apreendido.</TSA_WD_Bribe_InvestmentFractionTip>
+  <TSA_WD_Bribe_CaravanInvestRadius>Raio de investimento do suborno de incursão</TSA_WD_Bribe_CaravanInvestRadius>
+  <TSA_WD_Bribe_CaravanInvestRadiusTip>Blocos a partir do assentamento de origem da incursão usados ao investir após um suborno de incursão bem-sucedido.</TSA_WD_Bribe_CaravanInvestRadiusTip>
+  <TSA_WD_Bribe_GoodwillBonusDivisor>Prata por ponto de bônus de boa vontade</TSA_WD_Bribe_GoodwillBonusDivisor>
+  <TSA_WD_Bribe_GoodwillBonusDivisorTip>Em um suborno bem-sucedido, a boa vontade ganha é o valor de mercado do pagamento dividido por este número. Subornos não podem ser pagos com boa vontade. Valores mais altos significam um bônus mais fraco. A boa vontade de presente usa 40.</TSA_WD_Bribe_GoodwillBonusDivisorTip>
+  <TSA_WD_Notify_BribeSettlementCompleted>Suborno de assentamento concluído</TSA_WD_Notify_BribeSettlementCompleted>
+  <TSA_WD_Notify_BribeSettlementCompletedTooltip>Carta quando um suborno de cessar-fogo chega. Lembra que incursões a caminho não são chamadas de volta.</TSA_WD_Notify_BribeSettlementCompletedTooltip>
+  <TSA_WD_Notify_BribeSettlementAborted>Suborno de assentamento falhou</TSA_WD_Notify_BribeSettlementAborted>
+  <TSA_WD_Notify_BribeSettlementAbortedTooltip>Carta quando um suborno de cessar-fogo falha no meio do caminho ou se torna inválido (com reembolso quando aplicável).</TSA_WD_Notify_BribeSettlementAbortedTooltip>
+  <TSA_WD_Notify_BribeRaidCompleted>Suborno de incursão concluído</TSA_WD_Notify_BribeRaidCompleted>
+  <TSA_WD_Notify_BribeRaidCompletedTooltip>Carta quando um suborno de incursão chega e dissolve essa caravana.</TSA_WD_Notify_BribeRaidCompletedTooltip>
+  <TSA_WD_Notify_BribeRaidAborted>Suborno de incursão falhou</TSA_WD_Notify_BribeRaidAborted>
+  <TSA_WD_Notify_BribeRaidAbortedTooltip>Carta quando um suborno de incursão falha (alvo perdido, corrida perdida, acordo inválido) com reembolso quando aplicável.</TSA_WD_Notify_BribeRaidAbortedTooltip>
+  <TSA_WD_Notify_BribeLostInTransit>Caravana de suborno interceptada</TSA_WD_Notify_BribeLostInTransit>
+  <TSA_WD_Notify_BribeLostInTransitTooltip>Carta quando uma caravana de suborno é destruída e o pagamento é perdido (separado dos casos de cancelamento/reembolso).</TSA_WD_Notify_BribeLostInTransitTooltip>
+  <TSA_WD_Notify_BribeCeasefireExpired>Cessar-fogo por suborno expirado</TSA_WD_Notify_BribeCeasefireExpired>
+  <TSA_WD_Notify_BribeCeasefireExpiredTooltip>Carta quando o tempo de cessar-fogo por suborno de uma facção termina.</TSA_WD_Notify_BribeCeasefireExpiredTooltip>
+</LanguageData>

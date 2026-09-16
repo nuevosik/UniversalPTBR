@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_ActiveTravelers_H_Actor>Ator</TSA_WD_ActiveTravelers_H_Actor>
+  <TSA_WD_ActiveTravelers_H_ArrivalStrength>Força de chegada</TSA_WD_ActiveTravelers_H_ArrivalStrength>
+  <TSA_WD_ActiveTravelers_H_CurrentStrength>Força atual</TSA_WD_ActiveTravelers_H_CurrentStrength>
+  <TSA_WD_ActiveTravelers_H_DepartureStrength>Força de partida</TSA_WD_ActiveTravelers_H_DepartureStrength>
+  <TSA_WD_ActiveTravelers_H_Jump>Ir para</TSA_WD_ActiveTravelers_H_Jump>
+  <TSA_WD_ActiveTravelers_H_Target>Alvo</TSA_WD_ActiveTravelers_H_Target>
+  <TSA_WD_ActiveTravelers_H_TimeSinceDeparture>Tempo desde a partida</TSA_WD_ActiveTravelers_H_TimeSinceDeparture>
+  <TSA_WD_ActiveTravelers_H_TimeToDestination>Tempo total de viagem (início do trajeto)</TSA_WD_ActiveTravelers_H_TimeToDestination>
+  <TSA_WD_ActiveTravelers_H_Type>Tipo</TSA_WD_ActiveTravelers_H_Type>
+  <TSA_WD_ActiveTravelers_Jump>Ir para</TSA_WD_ActiveTravelers_Jump>
+  <TSA_WD_ActiveTravelers_Open>Viajantes ativos</TSA_WD_ActiveTravelers_Open>
+  <TSA_WD_ActiveTravelers_Title>Viajantes ativos</TSA_WD_ActiveTravelers_Title>
+  <TSA_WD_Dash_LastEvent>Último evento mundial</TSA_WD_Dash_LastEvent>
+  <TSA_WD_Dash_ImportantRecentEvents>Eventos recentes importantes</TSA_WD_Dash_ImportantRecentEvents>
+  <TSA_WD_Dash_NegFood>Postos avançados (comida negativa)</TSA_WD_Dash_NegFood>
+  <TSA_WD_Dash_NegFoodLine>{0}: {1}/dia</TSA_WD_Dash_NegFoodLine>
+  <TSA_WD_Dash_NoOutposts>Nenhum posto avançado.</TSA_WD_Dash_NoOutposts>
+  <TSA_WD_Dash_NoThreats>Nenhuma facção hostil.</TSA_WD_Dash_NoThreats>
+  <TSA_WD_Dash_NoTravelers>Nenhum viajante ativo.</TSA_WD_Dash_NoTravelers>
+  <TSA_WD_Dash_OpenModSettingsTip>Abrir as configurações do mod World Domination.</TSA_WD_Dash_OpenModSettingsTip>
+  <TSA_WD_Dash_NavTip_Diplomacy>Veja todas as relações diplomáticas entre quaisquer facções. Também mostra as recargas de suborno e as recargas após mudanças diplomáticas feitas pelo WD.\n\nTecla de atalho: {0}</TSA_WD_Dash_NavTip_Diplomacy>
+  <TSA_WD_Dash_NavTip_Outposts>Navegue e gerencie todos os seus postos avançados do World Domination em um só lugar.\n\nTecla de atalho: {0}</TSA_WD_Dash_NavTip_Outposts>
+  <TSA_WD_Dash_NavTip_Travelers>Veja todos os viajantes ativos no mapa-múndi (incursões, entregas, expansão e muito mais).\n\nTecla de atalho: {0}</TSA_WD_Dash_NavTip_Travelers>
+  <TSA_WD_Dash_NavTip_WorldStats>Classificações de força das facções e detalhamento do poder mundial.\n\nTecla de atalho: {0}</TSA_WD_Dash_NavTip_WorldStats>
+  <TSA_WD_Dash_NavTip_ActionLog>Eventos e ações recentes do World Domination (últimas 500 entradas).</TSA_WD_Dash_NavTip_ActionLog>
+  <TSA_WD_Dash_NavTip_Prisoners>Revise os prisioneiros da colônia e atribua destinos em postos avançados após o recrutamento.\n\nTecla de atalho: {0}</TSA_WD_Dash_NavTip_Prisoners>
+  <TSA_WD_Dash_NavTip_YourPawns>Liste, filtre e mova seus indivíduos entre colônias e postos avançados.\n\nTecla de atalho: {0}</TSA_WD_Dash_NavTip_YourPawns>
+  <TSA_WD_Dash_Goodwill_Best>Maior boa vontade</TSA_WD_Dash_Goodwill_Best>
+  <TSA_WD_Dash_Goodwill_Worst>Menor boa vontade</TSA_WD_Dash_Goodwill_Worst>
+  <TSA_WD_Dash_Goodwill_None>Nenhuma facção para mostrar.</TSA_WD_Dash_Goodwill_None>
+  <TSA_WD_Dash_Goodwill_Tip>Suas três melhores e três piores relações de boa vontade entre as facções visíveis.</TSA_WD_Dash_Goodwill_Tip>
+  <TSA_WD_Dash_OutpostSort_FoodTip>Ordene os postos avançados pela comida atual (menor primeiro). Clique para alternar: F comida, S força, P número de indivíduos.</TSA_WD_Dash_OutpostSort_FoodTip>
+  <TSA_WD_Dash_OutpostSort_StrengthTip>Ordene os postos avançados pela força (maior primeiro). Clique para alternar: F comida, S força, P número de indivíduos.</TSA_WD_Dash_OutpostSort_StrengthTip>
+  <TSA_WD_Dash_OutpostSort_PawnTip>Ordene os postos avançados pelo número de indivíduos (maior primeiro). Clique para alternar: F comida, S força, P número de indivíduos.</TSA_WD_Dash_OutpostSort_PawnTip>
+  <TSA_WD_Dash_ThreatLine>{0} (ofensiva capaz de atacar: {1})</TSA_WD_Dash_ThreatLine>
+  <TSA_WD_Dash_TopThreats>Ameaças</TSA_WD_Dash_TopThreats>
+  <TSA_WD_Dash_Threats>Ameaças</TSA_WD_Dash_Threats>
+  <TSA_WD_Dash_NearbyThreats>Ameaças próximas</TSA_WD_Dash_NearbyThreats>
+  <TSA_WD_Dash_FarThreats>Ameaças distantes</TSA_WD_Dash_FarThreats>
+  <TSA_WD_Dash_NearbyThreatsTip>Hostis que podem atingir sua colônia e ficam na metade interna do próprio alcance de ataque (as duas faixas mais próximas de quatro faixas de distância iguais).\nOrdenados do mais próximo primeiro.</TSA_WD_Dash_NearbyThreatsTip>
+  <TSA_WD_Dash_FarThreatsTip>Hostis que ainda podem alcançá-lo, mas ficam na metade externa do próprio alcance de ataque (as duas faixas mais distantes de quatro faixas de distância iguais).\nOrdenados pela força de ataque (mais fortes primeiro).</TSA_WD_Dash_FarThreatsTip>
+  <TSA_WD_Dash_NoNearbyThreats>Nenhum hostil na faixa Próximas.</TSA_WD_Dash_NoNearbyThreats>
+  <TSA_WD_Dash_NoFarThreats>Nenhum hostil além da faixa Próximas.</TSA_WD_Dash_NoFarThreats>
+  <TSA_WD_Dash_ThreatTiles>{0} blocos</TSA_WD_Dash_ThreatTiles>
+  <TSA_WD_Dash_TopThreatsTooltip>Hostis das faixas Próximas e Distantes que podem mirar sua colônia (incluindo aliados de apoio). Pontos de incursão atuais do narrador: {0}. Os pontos de incursão na chegada são limitados: no mínimo {1} do narrador, no máximo {2} (configurações do mod). Passe o mouse sobre Próximas / Distantes para saber como a divisão funciona.</TSA_WD_Dash_TopThreatsTooltip>
+  <TSA_WD_Dash_TopThreatsTooltip_NoClamp>Hostis das faixas Próximas e Distantes que podem mirar sua colônia (incluindo aliados de apoio). Pontos de incursão atuais do narrador: {0}. Passe o mouse sobre Próximas / Distantes para saber como a divisão funciona.</TSA_WD_Dash_TopThreatsTooltip_NoClamp>
+  <TSA_WD_Dash_ThreatsTooltip>Hostis das faixas Próximas e Distantes que podem mirar sua colônia (incluindo aliados de apoio). Pontos de incursão atuais do narrador: {0}. Os pontos de incursão na chegada são limitados: no mínimo {1} do narrador, no máximo {2} (configurações do mod). Passe o mouse sobre Próximas / Distantes para saber como a divisão funciona.</TSA_WD_Dash_ThreatsTooltip>
+  <TSA_WD_Dash_ThreatsTooltip_Staged>Hostis das faixas Próximas e Distantes que podem mirar sua colônia (incluindo aliados de apoio). Pontos de incursão atuais do narrador: {0}. Os pontos de incursão na chegada são limitados ({3}): no mínimo {1} do narrador, no máximo {2} (configurações do mod). Passe o mouse sobre Próximas / Distantes para saber como a divisão funciona.</TSA_WD_Dash_ThreatsTooltip_Staged>
+  <TSA_WD_Dash_ThreatsTooltip_NoClamp>Hostis das faixas Próximas e Distantes que podem mirar sua colônia (incluindo aliados de apoio). Pontos de incursão atuais do narrador: {0}. Passe o mouse sobre Próximas / Distantes para saber como a divisão funciona.</TSA_WD_Dash_ThreatsTooltip_NoClamp>
+  <TSA_WD_Dash_ThreatToggle_PercentAbsoluteTip>% = Força como porcentagem dos pontos de incursão atuais do narrador.\n# = Pontos de incursão absolutos (a cor continua relativa aos pontos de incursão do narrador).</TSA_WD_Dash_ThreatToggle_PercentAbsoluteTip>
+  <TSA_WD_Dash_ThreatToggle_RawClampedTip>R = Força bruta da incursão potencial.\nC = Força limitada conforme a porcentagem mín./máx. dos pontos de incursão do narrador definida nas configurações do mod.</TSA_WD_Dash_ThreatToggle_RawClampedTip>
+  <TSA_WD_Dash_ThreatSettlementLineAbsolute>{0} ({1})</TSA_WD_Dash_ThreatSettlementLineAbsolute>
+  <TSA_WD_Dash_ThreatSettlementLinePercent>{0} ({1}%)</TSA_WD_Dash_ThreatSettlementLinePercent>
+  <TSA_WD_Dash_ThreatRaw>Força bruta potencial da incursão: {0}</TSA_WD_Dash_ThreatRaw>
+  <TSA_WD_Dash_ThreatSettlementTipHeader>{0}: força {1}, {2}% dos pontos de incursão do narrador</TSA_WD_Dash_ThreatSettlementTipHeader>
+  <TSA_WD_Dash_ThreatAlliesHeader>Aliados de apoio:</TSA_WD_Dash_ThreatAlliesHeader>
+  <TSA_WD_Dash_ThreatAlliesNone>Nenhum aliado de apoio.</TSA_WD_Dash_ThreatAlliesNone>
+  <TSA_WD_Dash_ThreatEta>Tempo estimado de viagem da incursão: {0} dias (aprox.)</TSA_WD_Dash_ThreatEta>
+  <TSA_WD_Dash_ThreatClamped>Pontos de incursão esperados após o limite do narrador: {0}</TSA_WD_Dash_ThreatClamped>
+  <TSA_WD_Dash_NoThreatSettlements>Nenhum assentamento hostil consegue alcançá-lo.</TSA_WD_Dash_NoThreatSettlements>
+  <TSA_WD_Dash_ColonyRaidCD>Recarga de incursão da colônia: {0} dias</TSA_WD_Dash_ColonyRaidCD>
+  <TSA_WD_Dash_ColonyRaidProtectionTip_Vulnerable>Recarga de incursão inativa. Quando uma caravana de incursão mirar você, uma recarga será aplicada.</TSA_WD_Dash_ColonyRaidProtectionTip_Vulnerable>
+  <TSA_WD_Dash_ColonyRaidProtectionTip_OnCooldown>{0} está sob recarga de incursão do WD e não pode ser alvo até que ela expire.</TSA_WD_Dash_ColonyRaidProtectionTip_OnCooldown>
+  <TSA_WD_Dash_StorytellerRaidsBlocked>Incursões do narrador desativadas para facções controladas pelo WD.</TSA_WD_Dash_StorytellerRaidsBlocked>
+  <TSA_WD_Dash_StorytellerRaidsBlockedTip>Pode ser ativado nas configurações do mod.</TSA_WD_Dash_StorytellerRaidsBlockedTip>
+  <TSA_WD_Dash_StorytellerRaidsActive>Incursões do narrador ativas para facções controladas pelo WD.</TSA_WD_Dash_StorytellerRaidsActive>
+  <TSA_WD_Dash_StorytellerRaidsActiveTip>Pode ser desativado nas configurações do mod.</TSA_WD_Dash_StorytellerRaidsActiveTip>
+  <TSA_WD_Dash_FactionRank>Você é a {0} mais forte de {1} facções.</TSA_WD_Dash_FactionRank>
+  <TSA_WD_Dash_FactionRankLeader>Parabéns. Você é o líder mundial</TSA_WD_Dash_FactionRankLeader>
+  <TSA_WD_Dash_FactionRankTip>Sua força: {0}\nParticipação na força global: {1} %</TSA_WD_Dash_FactionRankTip>
+  <TSA_WD_Dash_ConfigureScope>Configurar escopo</TSA_WD_Dash_ConfigureScope>
+  <TSA_WD_Dash_ConfigureScopeTip>Abre o escopo de facções do WD e as lealdades. Escolha quais facções usam ações do WD, MapGen e incursões do narrador.</TSA_WD_Dash_ConfigureScopeTip>
+  <TSA_WD_Dash_Nav_Diplomacy>Diplomacia</TSA_WD_Dash_Nav_Diplomacy>
+  <TSA_WD_Dash_Nav_Outposts>Postos avançados</TSA_WD_Dash_Nav_Outposts>
+  <TSA_WD_Dash_OutpostPawnSummary>Você tem {0} indivíduos distribuídos em {1} postos avançados e na sua colônia.</TSA_WD_Dash_OutpostPawnSummary>
+  <TSA_WD_Dash_MidGameDifficultyActive>Dificuldade do Meio de Jogo ativa</TSA_WD_Dash_MidGameDifficultyActive>
+  <TSA_WD_Dash_LateGameDifficultyActive>Dificuldade do Final de Jogo ativa</TSA_WD_Dash_LateGameDifficultyActive>
+  <TSA_WD_Dash_EscalationTip_AllyRadius>Raio de atração de aliados para você e facções NPC: +{0}%</TSA_WD_Dash_EscalationTip_AllyRadius>
+  <TSA_WD_Dash_EscalationTip_AllyRadiusOff>Raio de atração de aliados para você e facções NPC: inalterado (escalonamento desativado)</TSA_WD_Dash_EscalationTip_AllyRadiusOff>
+  <TSA_WD_Dash_EscalationTip_AttackRange>Alcance de ataque dos assentamentos NPC: +{0}%</TSA_WD_Dash_EscalationTip_AttackRange>
+  <TSA_WD_Dash_EscalationTip_RaidBias>Viés de incursão contra você: +{0}%</TSA_WD_Dash_EscalationTip_RaidBias>
+  <TSA_WD_Dash_EscalationTip_Growth>Crescimento dos assentamentos hostis: x{0}</TSA_WD_Dash_EscalationTip_Growth>
+  <TSA_WD_Dash_EscalationTip_Garrison>Força da guarnição dos assentamentos: +{0}%</TSA_WD_Dash_EscalationTip_Garrison>
+  <TSA_WD_Dash_EscalationTip_Expand>Expansão hostil em sua direção: até {0} blocos</TSA_WD_Dash_EscalationTip_Expand>
+  <TSA_WD_Dash_EscalationTip_T4MortarOn>Morteiros N4 inimigos contra suas caravanas e postos avançados: ativado</TSA_WD_Dash_EscalationTip_T4MortarOn>
+  <TSA_WD_Dash_EscalationTip_T4MortarOff>Morteiros N4 inimigos contra suas caravanas e postos avançados: desativado</TSA_WD_Dash_EscalationTip_T4MortarOff>
+  <TSA_WD_Dash_EscalationTip_T4AaOn>Antiaéreos N4 inimigos contra suas cápsulas e projéteis: ativado</TSA_WD_Dash_EscalationTip_T4AaOn>
+  <TSA_WD_Dash_EscalationTip_T4AaOff>Antiaéreos N4 inimigos contra suas cápsulas e projéteis: desativado</TSA_WD_Dash_EscalationTip_T4AaOff>
+  <TSA_WD_Dash_EscalationTip_IncidentsOn>Incidentes em postos avançados: perda de {0} de força, {1}% de chance por dia</TSA_WD_Dash_EscalationTip_IncidentsOn>
+  <TSA_WD_Dash_EscalationTip_IncidentsOff>Incidentes em postos avançados: desativado</TSA_WD_Dash_EscalationTip_IncidentsOff>
+  <TSA_WD_Dash_EscalationTip_Goodwill>Drenagem de boa vontade: -{0} a cada {1} dias</TSA_WD_Dash_EscalationTip_Goodwill>
+  <TSA_WD_Dash_EscalationTip_GoodwillOff>Drenagem de boa vontade: desativada</TSA_WD_Dash_EscalationTip_GoodwillOff>
+  <TSA_WD_Dash_EscalationTip_Upkeep>Manutenção em prata: {0} por colono de posto avançado a cada {1} dias</TSA_WD_Dash_EscalationTip_Upkeep>
+  <TSA_WD_Dash_EscalationTip_UpkeepOff>Manutenção em prata: desativada</TSA_WD_Dash_EscalationTip_UpkeepOff>
+  <TSA_WD_Upkeep_AlertLabel>WD: manutenção devida em {0} dias. {1}/{2}</TSA_WD_Upkeep_AlertLabel>
+  <TSA_WD_Upkeep_AlertTip>Seus {0} colonos de postos avançados custam {1} de manutenção. Você tem {2}. Se não conseguir fornecer prata de verdade até o prazo, {3} colonos deixarão sua facção. Mecanoides, prisioneiros, animais e veículos não geram manutenção.</TSA_WD_Upkeep_AlertTip>
+  <TSA_WD_Upkeep_LeaveLetterLabel>{0} colonos deixaram sua facção</TSA_WD_Upkeep_LeaveLetterLabel>
+  <TSA_WD_Upkeep_LeaveLetterText>{0} decidiram deixar sua companhia porque você não conseguiu sustentar a manutenção em prata deles.</TSA_WD_Upkeep_LeaveLetterText>
+  <TSA_WD_Upkeep_PaidMsg>Pagou {0} de manutenção em prata para {1} colonos de postos avançados.</TSA_WD_Upkeep_PaidMsg>
+  <TSA_WD_Upkeep_PartialPaidMsg>Pagou {0} de {1} da manutenção em prata (valor abaixo da taxa de um colono).</TSA_WD_Upkeep_PartialPaidMsg>
+  <TSA_WD_Notify_OutpostUpkeep>Mostrar alerta de manutenção em prata dos postos avançados (lado direito)</TSA_WD_Notify_OutpostUpkeep>
+  <TSA_WD_Notify_OutpostUpkeepTooltip>Mostra um alerta no lado direito sempre que a manutenção em prata estiver ativa (Necessário/Disponível e dias restantes). Fica vermelho quando você não tem prata suficiente. Requer a manutenção em prata experimental dos postos avançados e a escalada do Meio/Final de Jogo.</TSA_WD_Notify_OutpostUpkeepTooltip>
+  <TSA_WD_Dash_OutpostPawnTip_Humanoid>Humanoide: {0}</TSA_WD_Dash_OutpostPawnTip_Humanoid>
+  <TSA_WD_Dash_OutpostPawnTip_Mechanoid>Mecanoides: {0}</TSA_WD_Dash_OutpostPawnTip_Mechanoid>
+  <TSA_WD_Dash_OutpostPawnTip_Animal>Animais: {0}</TSA_WD_Dash_OutpostPawnTip_Animal>
+  <TSA_WD_Dash_OutpostPawnTip_Vehicle>Veículos: {0}</TSA_WD_Dash_OutpostPawnTip_Vehicle>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Header>Incursões lançadas contra você</TSA_WD_Dash_RaidsLaunchedAtYou_Header>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Today>Hoje: {0} (máx. {1})</TSA_WD_Dash_RaidsLaunchedAtYou_Today>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Last4Days>Últimos 4 dias: {0} (máx. {1})</TSA_WD_Dash_RaidsLaunchedAtYou_Last4Days>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Last7Days>Últimos 7 dias: {0} (máx. {1})</TSA_WD_Dash_RaidsLaunchedAtYou_Last7Days>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Tip>Incursões do WD lançadas contra suas colônias e postos avançados. Os valores são as incursões atuais em cada janela de tempo. Os valores máx. são limites globais e podem ser configurados nas configurações do mod.</TSA_WD_Dash_RaidsLaunchedAtYou_Tip>
+  <TSA_WD_Dash_OutpostLine>{0} ({1}/{2}, {3})</TSA_WD_Dash_OutpostLine>
+  <TSA_WD_Dash_OutpostTooltip>{0}: {1} de comida atual, {2} de comida máxima, {3} por dia</TSA_WD_Dash_OutpostTooltip>
+  <TSA_WD_Dash_OutpostLine_Strength>{0} ({1}/{2}, {3}/{4})</TSA_WD_Dash_OutpostLine_Strength>
+  <TSA_WD_Dash_OutpostTooltip_Strength>{0}\nForça: {1} atual / {2} máx.\nIndivíduos: {3} humanoides / {4} no total (humanoides + mecanoides)</TSA_WD_Dash_OutpostTooltip_Strength>
+  <TSA_WD_Dash_OutpostLine_Pawns>{0} ({1}/{2})</TSA_WD_Dash_OutpostLine_Pawns>
+  <TSA_WD_Dash_OutpostTooltip_Pawns>{0}\nIndivíduos: {1} humanoides / {2} no total (humanoides + mecanoides)</TSA_WD_Dash_OutpostTooltip_Pawns>
+  <TSA_WD_Dash_Traveler_StartTip>Início: </TSA_WD_Dash_Traveler_StartTip>
+  <TSA_WD_Dash_Traveler_DestTip>Destino: </TSA_WD_Dash_Traveler_DestTip>
+  <TSA_WD_Dash_Traveler_StrengthTooltip>Força atual: {0}\nForça de partida: {1}\nForça de chegada: {2}</TSA_WD_Dash_Traveler_StrengthTooltip>
+  <TSA_WD_Dash_Traveler_TimeTooltip>Tempo desde a partida: {0} dias\nTempo total de viagem (rota completa no início do trajeto): {1}</TSA_WD_Dash_Traveler_TimeTooltip>
+  <TSA_WD_Dash_Travelers>Viajantes ativos</TSA_WD_Dash_Travelers>
+  <TSA_WD_Dash_TravelersTargetingYou>{0} viajante(s) mirando você</TSA_WD_Dash_TravelersTargetingYou>
+  <TSA_WD_Dash_YourOutposts>Seus postos avançados</TSA_WD_Dash_YourOutposts>
+  <TSA_WD_Dash_MoreEntries>…</TSA_WD_Dash_MoreEntries>
+  <TSA_WD_HostileForcesFallback>Forças hostis</TSA_WD_HostileForcesFallback>
+  <TSA_WD_NoHostileFactions>Nenhuma facção hostil detectada.</TSA_WD_NoHostileFactions>
+  <TSA_WD_Notify_HeaderWorldMapIcons>Ícones do mapa-múndi</TSA_WD_Notify_HeaderWorldMapIcons>
+  <TSA_WD_Notify_AlwaysShowOutpostTravelerIcons>Sempre mostrar imagens de postos avançados/viajantes, independentemente do nível de zoom</TSA_WD_Notify_AlwaysShowOutpostTravelerIcons>
+  <TSA_WD_Notify_AlwaysShowOutpostTravelerIconsTip>Quando ativado, postos avançados e viajantes do WD mantêm seus ícones eretos no mapa em todos os níveis de zoom e ocultam a malha inclinada do globo. Quando desativado, o comportamento de zoom padrão retorna (ícones eretos de longe, malha do globo ao aproximar).</TSA_WD_Notify_AlwaysShowOutpostTravelerIconsTip>
+  <TSA_WD_Notify_AlwaysShowSettlementIcons>Sempre mostrar imagens de assentamentos, independentemente do nível de zoom</TSA_WD_Notify_AlwaysShowSettlementIcons>
+  <TSA_WD_Notify_AlwaysShowSettlementIconsTip>Quando ativado, os assentamentos mantêm seus ícones eretos no mapa em todos os níveis de zoom e ocultam a malha inclinada do globo. Quando desativado, o comportamento de zoom padrão retorna (ícones eretos de longe, malha do globo ao aproximar).</TSA_WD_Notify_AlwaysShowSettlementIconsTip>
+  <TSA_WD_Notify_HeaderMortarAntiAir>Morteiros e antiaéreos</TSA_WD_Notify_HeaderMortarAntiAir>
+  <TSA_WD_Notify_HeaderAtTurrets>Torretas antitanque</TSA_WD_Notify_HeaderAtTurrets>
+  <TSA_WD_Notify_PlayerAtTurretKilledTarget>Notificar quando sua torreta antitanque mata um alvo</TSA_WD_Notify_PlayerAtTurretKilledTarget>
+  <TSA_WD_Notify_PlayerAtTurretKilledTargetTooltip>Receba uma carta quando sua torreta antitanque destruir um viajante hostil com projétil ou confronto corpo a corpo.</TSA_WD_Notify_PlayerAtTurretKilledTargetTooltip>
+  <TSA_WD_Notify_PlayerAtTurretDamagedTarget>Notificar quando sua torreta antitanque danifica um alvo</TSA_WD_Notify_PlayerAtTurretDamagedTarget>
+  <TSA_WD_Notify_PlayerAtTurretDamagedTargetTooltip>Receba uma carta quando sua torreta antitanque atingir com projétil um viajante hostil que sobreviva. Pode ser ruidoso.</TSA_WD_Notify_PlayerAtTurretDamagedTargetTooltip>
+  <TSA_WD_Notify_PlayerAtTurretDestroyed>Notificar quando sua torreta antitanque é destruída</TSA_WD_Notify_PlayerAtTurretDestroyed>
+  <TSA_WD_Notify_PlayerAtTurretDestroyedTooltip>Receba uma carta quando uma de suas torretas antitanque for destruída em combate. A remoção de posse quando um assentamento cai permanece silenciosa.</TSA_WD_Notify_PlayerAtTurretDestroyedTooltip>
+  <TSA_WD_Notify_NpcAtTurretDamagedPlayer>Notificar quando uma torreta antitanque inimiga danifica suas forças</TSA_WD_Notify_NpcAtTurretDamagedPlayer>
+  <TSA_WD_Notify_NpcAtTurretDamagedPlayerTooltip>Receba uma carta quando uma torreta antitanque inimiga atingir um de seus viajantes ou caravanas com projétil e ele sobreviver.</TSA_WD_Notify_NpcAtTurretDamagedPlayerTooltip>
+  <TSA_WD_Notify_NpcAtTurretKilledPlayer>Notificar quando uma torreta antitanque inimiga mata suas forças</TSA_WD_Notify_NpcAtTurretKilledPlayer>
+  <TSA_WD_Notify_NpcAtTurretKilledPlayerTooltip>Receba uma carta quando uma torreta antitanque inimiga destruir um de seus viajantes ou caravanas com projétil ou confronto corpo a corpo.</TSA_WD_Notify_NpcAtTurretKilledPlayerTooltip>
+  <TSA_WD_Notify_IncomingRaidColony>Notificar quando uma incursão do WD é lançada contra sua colônia</TSA_WD_Notify_IncomingRaidColony>
+  <TSA_WD_Notify_IncomingRaidColonyTooltip>Receba uma carta de alta prioridade quando uma expedição hostil for lançada contra sua colônia.</TSA_WD_Notify_IncomingRaidColonyTooltip>
+  <TSA_WD_Notify_RaidArrivalColony>Notificar quando uma incursão do WD chega à sua colônia</TSA_WD_Notify_RaidArrivalColony>
+  <TSA_WD_Notify_RaidArrivalColonyTooltip>Receba uma carta de alta prioridade quando uma expedição hostil chegar e surgir no mapa da sua colônia.</TSA_WD_Notify_RaidArrivalColonyTooltip>
+  <TSA_WD_Notify_IncomingRaidOutpost>Notificar quando uma incursão do WD é lançada contra um de seus postos avançados</TSA_WD_Notify_IncomingRaidOutpost>
+  <TSA_WD_Notify_IncomingRaidOutpostTooltip>Receba uma carta de alta prioridade quando uma expedição hostil for lançada contra um de seus postos avançados.</TSA_WD_Notify_IncomingRaidOutpostTooltip>
+  <TSA_WD_Notify_RaidArrivalOutpost>Notificar quando uma incursão do WD chega a um de seus postos avançados</TSA_WD_Notify_RaidArrivalOutpost>
+  <TSA_WD_Notify_RaidArrivalOutpostTooltip>Receba uma carta de alta prioridade quando você abrir uma defesa manual de posto avançado e a expedição hostil chegar ao mapa do confronto.</TSA_WD_Notify_RaidArrivalOutpostTooltip>
+  <TSA_WD_Notify_RaidDivertedFromPlayer>Notificar quando uma incursão se desvia de você</TSA_WD_Notify_RaidDivertedFromPlayer>
+  <TSA_WD_Notify_RaidDivertedFromPlayerTooltip>Receba uma carta quando uma incursão que seguia para sua colônia ou um posto avançado avistar um alvo de oportunidade e se desviar para atacá-lo.</TSA_WD_Notify_RaidDivertedFromPlayerTooltip>
+  <TSA_WD_Notify_MortarHit>Notificar quando seu morteiro dispara</TSA_WD_Notify_MortarHit>
+  <TSA_WD_Notify_MortarHitTooltip>Receba uma carta azul silenciosa quando seu posto avançado de artilharia destruir um alvo. Acertos parciais vão apenas para o registro de ações. Erros ainda enviam uma carta quando isto está ativado.</TSA_WD_Notify_MortarHitTooltip>
+  <TSA_WD_Notify_AntiAirHit>Notificar quando seu antiaéreo dispara</TSA_WD_Notify_AntiAirHit>
+  <TSA_WD_Notify_AntiAirHitTooltip>Receba uma carta quando seu fogo antiaéreo atingir ou errar um alvo aéreo hostil. Projéteis de morteiro hostis usam uma configuração separada abaixo.</TSA_WD_Notify_AntiAirHitTooltip>
+  <TSA_WD_Notify_PlayerAntiAirVsHostileMortarShell>Notificar quando seu antiaéreo derruba projéteis de morteiro hostis</TSA_WD_Notify_PlayerAntiAirVsHostileMortarShell>
+  <TSA_WD_Notify_PlayerAntiAirVsHostileMortarShellTooltip>Receba uma carta quando seu fogo antiaéreo destruir ou errar um projétil de morteiro hostil (p. ex. "Projétil de morteiro destruído"). Pode ser ruidoso.</TSA_WD_Notify_PlayerAntiAirVsHostileMortarShellTooltip>
+  <TSA_WD_Notify_NpcMortarHitPlayer>Notificar quando morteiros inimigos miram você</TSA_WD_Notify_NpcMortarHitPlayer>
+  <TSA_WD_Notify_NpcMortarHitPlayerTooltip>Receba uma carta quando um morteiro de um assentamento N4 inimigo disparar contra um de seus postos avançados, caravanas ou viajantes do WD.</TSA_WD_Notify_NpcMortarHitPlayerTooltip>
+  <TSA_WD_Notify_T4AntiAirHitPlayer>Notificar quando o antiaéreo inimigo mira suas cápsulas de transporte</TSA_WD_Notify_T4AntiAirHitPlayer>
+  <TSA_WD_Notify_T4AntiAirHitPlayerTooltip>Receba uma carta quando o antiaéreo N4 inimigo atingir ou errar suas cápsulas de transporte ou outros alvos aéreos que não sejam projéteis. Projéteis de morteiro usam uma configuração separada abaixo. Se colonos morrerem em uma cápsula derrubada, uma carta de quem morreu é sempre enviada.</TSA_WD_Notify_T4AntiAirHitPlayerTooltip>
+  <TSA_WD_Notify_PlayerMortarShellShotDown>Notificar quando o antiaéreo inimigo derruba seus projéteis de morteiro</TSA_WD_Notify_PlayerMortarShellShotDown>
+  <TSA_WD_Notify_PlayerMortarShellShotDownTooltip>Receba uma carta neutra quando o fogo antiaéreo inimigo destruir ou errar um projétil de morteiro de um de seus postos avançados. Pode ser ruidoso.</TSA_WD_Notify_PlayerMortarShellShotDownTooltip>
+  <TSA_WD_Notify_NpcMortarHitNpc>Notificar quando inimigos disparam morteiros uns contra os outros</TSA_WD_Notify_NpcMortarHitNpc>
+  <TSA_WD_Notify_NpcMortarHitNpcTooltip>Receba uma carta quando um morteiro inimigo disparar contra outro NPC (assentamento, caravana ou viajante), ou quando o antiaéreo inimigo destruir um alvo aéreo de outro NPC (incluindo projéteis de morteiro). Pode ser ruidoso.</TSA_WD_Notify_NpcMortarHitNpcTooltip>
+  <TSA_WD_Notify_WarehouseGoodsArrived>Notificar quando mercadorias chegam a um posto avançado de armazém</TSA_WD_Notify_WarehouseGoodsArrived>
+  <TSA_WD_Notify_WarehouseGoodsArrivedTooltip>Receba uma notificação quando mercadorias forem depositadas em um de seus postos avançados de armazém.</TSA_WD_Notify_WarehouseGoodsArrivedTooltip>
+  <TSA_WD_Notify_OutpostDeliveryToColonyArrived>Notificar quando entregas de postos avançados chegam à sua colônia</TSA_WD_Notify_OutpostDeliveryToColonyArrived>
+  <TSA_WD_Notify_OutpostDeliveryToColonyArrivedTooltip>Receba uma carta quando uma entrega de posto avançado alcançar o mapa de uma colônia do jogador e despejar suas mercadorias.</TSA_WD_Notify_OutpostDeliveryToColonyArrivedTooltip>
+  <TSA_WD_Notify_PrisonerRecruitedUnderway>Notificar quando um prisioneiro de posto avançado é recrutado e parte</TSA_WD_Notify_PrisonerRecruitedUnderway>
+  <TSA_WD_Notify_PrisonerRecruitedUnderwayTooltip>Mostre uma mensagem quando um prisioneiro de posto avançado terminar o recrutamento e começar a viajar para o destino agendado.</TSA_WD_Notify_PrisonerRecruitedUnderwayTooltip>
+  <TSA_WD_Notify_PlayerCaravanClash>Notificar quando uma caravana do jogador entra em confronto</TSA_WD_Notify_PlayerCaravanClash>
+  <TSA_WD_Notify_PlayerCaravanClashTooltip>Receba cartas quando uma de suas caravanas vencer ou perder um confronto de caravanas do WD.</TSA_WD_Notify_PlayerCaravanClashTooltip>
+  <TSA_WD_Notify_RapidResponseCaravanClash>Notificar sobre confrontos de caravanas da Resposta Rápida</TSA_WD_Notify_RapidResponseCaravanClash>
+  <TSA_WD_Notify_RapidResponseCaravanClashTooltip>Receba cartas quando um interceptador da Resposta Rápida derrotar uma caravana inimiga ou for derrotado.</TSA_WD_Notify_RapidResponseCaravanClashTooltip>
+  <TSA_WD_Notify_TravelerPollutionDamage>Notificar quando um viajante sofre dano por poluição</TSA_WD_Notify_TravelerPollutionDamage>
+  <TSA_WD_Notify_TravelerPollutionDamageTooltip>Receba uma carta amarela na primeira vez que cada um de seus viajantes do WD perder força ao sair de um bloco poluído. Blocos poluídos posteriores no mesmo viajante permanecem silenciosos.</TSA_WD_Notify_TravelerPollutionDamageTooltip>
+  <TSA_WD_Notify_OutpostPollutionDamage>Notificar quando um posto avançado sofre dano por poluição</TSA_WD_Notify_OutpostPollutionDamage>
+  <TSA_WD_Notify_OutpostPollutionDamageTooltip>Mostre uma mensagem quando um de seus postos avançados do WD perder força devido à poluição média nas proximidades (uma vez por dia, quando o dano se aplicar), e uma carta se a poluição destruir o posto avançado. O registro de desenvolvimento sempre registra esses eventos.</TSA_WD_Notify_OutpostPollutionDamageTooltip>
+  <TSA_WD_Notify_HeaderNearby>Eventos mundiais próximos</TSA_WD_Notify_HeaderNearby>
+  <TSA_WD_Notify_HeaderWorldThreats>Ações de ameaça mundial</TSA_WD_Notify_HeaderWorldThreats>
+  <TSA_WD_Notify_HeaderWorldThreatsTip>Cartas para incursões de desespero, Defensivas e mudanças de guerra de facções fortes. O momento e as condições de ativação ficam em Dificuldade de Combate.</TSA_WD_Notify_HeaderWorldThreatsTip>
+  <TSA_WD_Notify_DesperationRaid>Notificar quando uma incursão de desespero é lançada</TSA_WD_Notify_DesperationRaid>
+  <TSA_WD_Notify_DesperationRaidTooltip>Carta quando uma facção fraca reúne assentamentos próximos e marcha após uma derrota.</TSA_WD_Notify_DesperationRaidTooltip>
+  <TSA_WD_Notify_HeaderOutpostsRaids>Seus postos avançados e incursões</TSA_WD_Notify_HeaderOutpostsRaids>
+  <TSA_WD_Notify_HeaderAlerts>Alertas do lado direito</TSA_WD_Notify_HeaderAlerts>
+  <TSA_WD_Notify_NotificationRadius>Raio de notificação (blocos)</TSA_WD_Notify_NotificationRadius>
+  <TSA_WD_Notify_NotificationRadiusTooltip>A que distância da sua colônia (ou do posto avançado mais próximo, se você não tiver colônia) um evento mundial precisa estar para enviar uma carta de evento mundial próximo. Não afeta seus postos avançados, incursões recebidas ou cartas de diplomacia.</TSA_WD_Notify_NotificationRadiusTooltip>
+  <TSA_WD_Notify_NewSettlement>Notificar quando um assentamento é fundado nas proximidades</TSA_WD_Notify_NewSettlement>
+  <TSA_WD_Notify_NewSettlementTooltip>Carta quando uma facção funda um novo assentamento por expansão dentro do raio de notificação. Não cobre conquista após uma incursão de NPC.</TSA_WD_Notify_NewSettlementTooltip>
+  <TSA_WD_Notify_NpcConquestSettlement>Notificar quando um assentamento é capturado</TSA_WD_Notify_NpcConquestSettlement>
+  <TSA_WD_Notify_NpcConquestSettlementTooltip>Carta quando uma incursão de NPC vence e o atacante toma o assentamento (assentamento substituto no bloco) dentro do raio de notificação.</TSA_WD_Notify_NpcConquestSettlementTooltip>
+  <TSA_WD_Notify_OutpostDestroyed>Notificar quando um posto avançado do jogador é destruído</TSA_WD_Notify_OutpostDestroyed>
+  <TSA_WD_Notify_OutpostDestroyedTooltip>Carta urgente quando um de seus postos avançados for perdido em uma incursão mundial simulada ou em uma derrota no mapa de defesa manual. Dispara a qualquer distância. Não cobre destruição por morteiro nem evacuação voluntária.</TSA_WD_Notify_OutpostDestroyedTooltip>
+  <TSA_WD_Notify_Reset>Restaurar esta página para o padrão</TSA_WD_Notify_Reset>
+  <TSA_WD_Notify_SettlementRaided>Notificar quando um assentamento é destruído nas proximidades</TSA_WD_Notify_SettlementRaided>
+  <TSA_WD_Notify_SettlementRaidedTooltip>Carta quando um incidente mundial maior ou menor destruir completamente um assentamento dentro do raio de notificação. Não se aplica a incursões de NPC.</TSA_WD_Notify_SettlementRaidedTooltip>
+  <TSA_WD_Notify_SettlementRazed>Notificar quando um assentamento é arrasado nas proximidades</TSA_WD_Notify_SettlementRazed>
+  <TSA_WD_Notify_SettlementRazedTooltip>Carta quando uma incursão de NPC vence e o assentamento é destruído no processo (bloco deixado vazio) dentro do raio de notificação.</TSA_WD_Notify_SettlementRazedTooltip>
+  <TSA_WD_Notify_Turtle>Defensiva nas proximidades</TSA_WD_Notify_Turtle>
+  <TSA_WD_Notify_TurtleTooltip>Carta quando uma facção próxima consolida seus assentamentos externos em um centro e o fortifica, dentro do raio de notificação.</TSA_WD_Notify_TurtleTooltip>
+  <TSA_WD_Notify_ThreatLevel>Mostrar alerta de ameaça mundial (lado direito)</TSA_WD_Notify_ThreatLevel>
+  <TSA_WD_Notify_ThreatLevelTooltip>Mostra um alerta silencioso e persistente com os pontos de incursão que pousariam nas faixas Próximas e Distantes (após o limite do narrador). Clicar salta para o hostil Próximo mais forte, quando houver.</TSA_WD_Notify_ThreatLevelTooltip>
+  <TSA_WD_Notify_CriticalFood>Mostrar alerta de comida crítica nos postos avançados (lado direito)</TSA_WD_Notify_CriticalFood>
+  <TSA_WD_Notify_CriticalFoodTooltip>Mostra um alerta silencioso e persistente no painel do lado direito quando ao menos um de seus postos avançados do WD tiver comida virtual crítica: estoque negativo ou no máximo 3 dias de jogo até esvaziar com comida líquida negativa. Postos avançados estáveis ou com excedente não acionam este alerta. Clique para saltar para o posto avançado mais crítico. Requer a logística de comida ativada.</TSA_WD_Notify_CriticalFoodTooltip>
+  <TSA_WD_Notify_DropPodDeliveryInAaRange>WD: entrega por cápsula de transporte no alcance de antiaéreo</TSA_WD_Notify_DropPodDeliveryInAaRange>
+  <TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>Mostra um alerta no lado direito quando um de seus armazéns estiver definido para entrega por cápsula de transporte e estiver dentro do alcance antiaéreo de um assentamento N4 hostil com antiaéreo ativo. Verifica apenas o bloco do armazém (não todo o trajeto de voo). Mude esse armazém para entrega terrestre ou elimine a ameaça antiaérea.</TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>
+  <TSA_WD_Alert_DropPodDeliveryInAaRange>WD: entrega por cápsula de transporte no alcance de antiaéreo</TSA_WD_Alert_DropPodDeliveryInAaRange>
+  <TSA_WD_Alert_DropPodDeliveryInAaRangeDescHeader>Estes armazéns usam entrega por cápsula de transporte enquanto estão dentro do alcance antiaéreo N4 inimigo:</TSA_WD_Alert_DropPodDeliveryInAaRangeDescHeader>
+  <TSA_WD_Alert_DropPodDeliveryInAaRangeDescLine>- {0}</TSA_WD_Alert_DropPodDeliveryInAaRangeDescLine>
+  <TSA_WD_Notify_ConstructionInsufficientStrength>Mostrar alerta de força insuficiente para construção (lado direito)</TSA_WD_Notify_ConstructionInsufficientStrength>
+  <TSA_WD_Notify_ConstructionInsufficientStrengthTooltip>Mostra um alerta silencioso e persistente no painel do lado direito quando um posto avançado do WD terminar de preparar um trecho de bloqueio de estrada ou armadilha, mas não tiver força para enviar a equipe. Clique para saltar para um posto avançado afetado.</TSA_WD_Notify_ConstructionInsufficientStrengthTooltip>
+  <TSA_WD_Alert_ConstructionInsufficientStrength>WD: construção aguardando força</TSA_WD_Alert_ConstructionInsufficientStrength>
+  <TSA_WD_Alert_ConstructionInsufficientStrengthDescHeader>Estes postos avançados estão prontos para enviar uma equipe de construção, mas não têm força:</TSA_WD_Alert_ConstructionInsufficientStrengthDescHeader>
+  <TSA_WD_Alert_ConstructionInsufficientStrengthDescLine>- {0}: {1}</TSA_WD_Alert_ConstructionInsufficientStrengthDescLine>
+  <TSA_WD_Notify_OutpostNoProduction>Mostrar alerta de postos avançados sem produção (lado direito)</TSA_WD_Notify_OutpostNoProduction>
+  <TSA_WD_Notify_OutpostNoProductionTooltip>Mostra um alerta silencioso e persistente no painel do lado direito quando ao menos um de seus postos avançados do WD precisar de uma escolha de produção, mas não tiver nada selecionado. Passe o mouse para listar todos os postos avançados afetados. Clique para saltar para o primeiro.</TSA_WD_Notify_OutpostNoProductionTooltip>
+  <TSA_WD_Notify_OutpostUnusedExperts>Mostrar alerta de postos avançados sem especialistas (lado direito)</TSA_WD_Notify_OutpostUnusedExperts>
+  <TSA_WD_Notify_OutpostUnusedExpertsTooltip>Mostra um alerta silencioso e persistente no painel do lado direito quando ao menos um de seus postos avançados do WD tiver slots de especialista sem uso. Passe o mouse para listar todos os postos avançados afetados com atribuídos/máx. Clique para saltar para o primeiro.</TSA_WD_Notify_OutpostUnusedExpertsTooltip>
+  <TSA_WD_Alert_OutpostNoProduction>WD: postos avançados sem produção</TSA_WD_Alert_OutpostNoProduction>
+  <TSA_WD_Alert_OutpostNoProductionDescHeader>Estes postos avançados não têm nada selecionado para produzir:</TSA_WD_Alert_OutpostNoProductionDescHeader>
+  <TSA_WD_Alert_OutpostNoProductionDescLine>- {0}</TSA_WD_Alert_OutpostNoProductionDescLine>
+  <TSA_WD_Alert_OutpostUnusedExperts>WD: postos avançados sem especialistas</TSA_WD_Alert_OutpostUnusedExperts>
+  <TSA_WD_Alert_OutpostUnusedExpertsDescHeader>Estes postos avançados têm slots de especialista sem uso:</TSA_WD_Alert_OutpostUnusedExpertsDescHeader>
+  <TSA_WD_Alert_OutpostUnusedExpertsDescLine>- {0}: {1}/{2} especialistas</TSA_WD_Alert_OutpostUnusedExpertsDescLine>
+  <TSA_WD_Notify_MidGameActive>Mostrar alerta do Meio de Jogo (lado direito)</TSA_WD_Notify_MidGameActive>
+  <TSA_WD_Notify_MidGameActiveTooltip>Mostra um alerta silencioso e persistente no painel do lado direito enquanto o Meio de Jogo estiver ativo (não o Final de Jogo). Uma carta vermelha também é enviada uma vez quando o Meio de Jogo é ativado pela primeira vez.</TSA_WD_Notify_MidGameActiveTooltip>
+  <TSA_WD_Notify_LateGameActive>Mostrar alerta do Final de Jogo (lado direito)</TSA_WD_Notify_LateGameActive>
+  <TSA_WD_Notify_LateGameActiveTooltip>Mostra um alerta silencioso e persistente no painel do lado direito enquanto o Final de Jogo estiver ativo. Uma carta vermelha também é enviada uma vez quando o Final de Jogo é ativado pela primeira vez.</TSA_WD_Notify_LateGameActiveTooltip>
+  <TSA_WD_TargetingYou>Em aproximação</TSA_WD_TargetingYou>
+  <TSA_WD_ThreatBreakdownHeader>Força ofensiva capaz de atacar:</TSA_WD_ThreatBreakdownHeader>
+  <TSA_WD_WorldThreatTier_None>Nenhuma</TSA_WD_WorldThreatTier_None>
+  <TSA_WD_WorldThreatTier_Low>Baixa</TSA_WD_WorldThreatTier_Low>
+  <TSA_WD_WorldThreatTier_Moderate>Moderada</TSA_WD_WorldThreatTier_Moderate>
+  <TSA_WD_WorldThreatTier_Heightened>Elevada</TSA_WD_WorldThreatTier_Heightened>
+  <TSA_WD_WorldThreatTier_High>Alta</TSA_WD_WorldThreatTier_High>
+  <TSA_WD_WorldThreatTier_Critical>Crítica</TSA_WD_WorldThreatTier_Critical>
+  <TSA_WD_Alert_WorldThreat_NearFar>WD: ameaça {0}|{1}</TSA_WD_Alert_WorldThreat_NearFar>
+  <TSA_WD_Alert_WorldThreat_NearOnly>WD: ameaça {0}|0</TSA_WD_Alert_WorldThreat_NearOnly>
+  <TSA_WD_Alert_WorldThreat_FarOnly>WD: ameaça 0|{0}</TSA_WD_Alert_WorldThreat_FarOnly>
+  <TSA_WD_Alert_WorldThreatDesc_Storyteller>Pontos de incursão atuais do narrador: {0}</TSA_WD_Alert_WorldThreatDesc_Storyteller>
+  <TSA_WD_Alert_WorldThreatDesc_Clamp>Limite das configurações do mod: mín. {0} %, máx. {1} % dos pontos de incursão do narrador</TSA_WD_Alert_WorldThreatDesc_Clamp>
+  <TSA_WD_Alert_WorldThreatDesc_Clamp_Staged>Limite das configurações do mod ({2}): mín. {0} %, máx. {1} % dos pontos de incursão do narrador</TSA_WD_Alert_WorldThreatDesc_Clamp_Staged>
+  <TSA_WD_Alert_WorldThreatDesc_NearRaid>Incursão próxima mais forte que poderia atingi-lo: {0} (limitada a {1})</TSA_WD_Alert_WorldThreatDesc_NearRaid>
+  <TSA_WD_Alert_WorldThreatDesc_FarRaid>Incursão distante mais forte que poderia atingi-lo: {0} (limitada a {1})</TSA_WD_Alert_WorldThreatDesc_FarRaid>
+  <TSA_WD_Alert_WorldThreatDesc_NearFarDefs>Próximas = Metade interna do raio de ataque de um assentamento\nDistantes = Metade externa do raio de ataque de um assentamento</TSA_WD_Alert_WorldThreatDesc_NearFarDefs>
+  <TSA_WD_Alert_WorldThreatDesc_NearPreferred>As Próximas têm mais chance de serem escolhidas do que as Distantes</TSA_WD_Alert_WorldThreatDesc_NearPreferred>
+  <TSA_WD_Alert_WorldThreatDesc_Tier>Ameaça mundial: {0}. Próximas é a metade interna do alcance de ataque de cada assentamento; Distantes é a metade externa.</TSA_WD_Alert_WorldThreatDesc_Tier>
+  <TSA_WD_Alert_WorldThreatDesc_Nearby>Próximas: {0}. Pontos de incursão que você receberá: {1} ({2} blocos, ~{3} dias).</TSA_WD_Alert_WorldThreatDesc_Nearby>
+  <TSA_WD_Alert_WorldThreatDesc_Far>Distantes: {0}. Pontos de incursão que você receberá: {1}.</TSA_WD_Alert_WorldThreatDesc_Far>
+  <TSA_WD_Alert_WorldThreatDesc_AttackerStrength>Força do atacante antes do limite: {0}.</TSA_WD_Alert_WorldThreatDesc_AttackerStrength>
+  <TSA_WD_Alert_WorldThreatDesc_StorytellerBudget>Orçamento de incursão do narrador da colônia: {0}.</TSA_WD_Alert_WorldThreatDesc_StorytellerBudget>
+  <TSA_WD_Alert_CriticalFood>WD: posto avançado com nível crítico de comida</TSA_WD_Alert_CriticalFood>
+  <TSA_WD_Alert_CriticalFoodDescHeader>Níveis críticos de comida nos seguintes postos avançados:</TSA_WD_Alert_CriticalFoodDescHeader>
+  <TSA_WD_Alert_CriticalFoodDescLine>- {0}, {1} de comida, {2} dias de comida restantes</TSA_WD_Alert_CriticalFoodDescLine>
+  <TSA_WD_WorldThreat_ClampTooltip>Os pontos de incursão reais serão limitados entre {0} e {1} dos pontos de incursão atuais do narrador: {2}.</TSA_WD_WorldThreat_ClampTooltip>
+  <TSA_WD_WorldThreat_ClampTooltip_Staged>Os pontos de incursão reais serão limitados entre {0} e {1} dos pontos de incursão atuais do narrador ({3}): {2}.</TSA_WD_WorldThreat_ClampTooltip_Staged>
+  <TSA_WD_NotificationStrength_BreakdownHeader>{0}: {1} de força ofensiva total capaz de alcançar sua colônia\n</TSA_WD_NotificationStrength_BreakdownHeader>
+  <TSA_WD_NotificationStrength_Line>- {0}: {1} ofensivos</TSA_WD_NotificationStrength_Line>
+  <TSA_WD_Threat_HeaderCalc>Limites absolutos de pontos de incursão</TSA_WD_Threat_HeaderCalc>
+  <TSA_WD_Threat_HeaderWDClamp>Limitação de pontos de incursão</TSA_WD_Threat_HeaderWDClamp>
+  <TS_WD_CaravanRaidAlwaysUseStrength>Sempre usar a força como pontos de incursão</TS_WD_CaravanRaidAlwaysUseStrength>
+  <TS_WD_CaravanRaidAlwaysUseStrengthTooltip>Usa estritamente os pontos de incursão de uma caravana quando uma incursão contra a colônia acontece ou quando sua caravana entra em confronto com uma caravana de NPC.</TS_WD_CaravanRaidAlwaysUseStrengthTooltip>
+  <TS_WD_OutpostDefenseAlwaysUseStrength>Sempre usar a força na defesa manual de postos avançados</TS_WD_OutpostDefenseAlwaysUseStrength>
+  <TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>Quando ativado, os combates no mapa de defesa manual de postos avançados usam a força dos viajantes como pontos de incursão, sem limite de faixa do narrador. Quando desativado, aplicam-se o mesmo piso e teto das outras incursões do WD. Incursões contra a colônia e confrontos de caravanas usam a configuração acima.</TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>
+  <TSA_WD_Alert_MidGameActive>WD: Meio de Jogo ativado</TSA_WD_Alert_MidGameActive>
+  <TSA_WD_Alert_MidGameActiveDesc>A força dos seus postos avançados acionou o Meio de Jogo. Assentamentos hostis crescem mais rápido, ganham mais alcance de ataque e direcionam incursões para você. Assentamentos se expandem em direção às suas posses, a boa vontade cai com o tempo e seus postos avançados podem sofrer incidentes de atrito mais leves. Morteiros N4 e antiaéreos ainda não miram você, a menos que as opções do Meio de Jogo estejam ativadas.</TSA_WD_Alert_MidGameActiveDesc>
+  <TSA_WD_Alert_LateGameActive>WD: Final de Jogo ativado</TSA_WD_Alert_LateGameActive>
+  <TSA_WD_Alert_LateGameActiveDesc>A força dos seus postos avançados acionou o Final de Jogo. Assentamentos hostis crescem muito mais rápido, ganham mais alcance de ataque e direcionam incursões com mais força para você. Assentamentos se expandem mais longe em direção às suas posses, a boa vontade cai mais rápido, morteiros e antiaéreos N4 inimigos podem mirar suas caravanas e postos avançados do WD se habilitados, e seus postos avançados podem sofrer incidentes de atrito mais graves.</TSA_WD_Alert_LateGameActiveDesc>
+  <TSA_WD_Letter_MidGameActiveIntro>O Meio de Jogo está ativo agora. O que mudou:</TSA_WD_Letter_MidGameActiveIntro>
+  <TSA_WD_Letter_LateGameActiveIntro>O Final de Jogo está ativo agora. O que mudou:</TSA_WD_Letter_LateGameActiveIntro>
+  <TSA_WD_Difficulty_HeaderScaling>Final de Jogo</TSA_WD_Difficulty_HeaderScaling>
+  <TSA_WD_Difficulty_EnableLateGame>Ativar Meio de Jogo e Final de Jogo</TSA_WD_Difficulty_EnableLateGame>
+  <TSA_WD_Difficulty_EnableLateGameTooltip>Facções hostis reagem em duas etapas: Meio de Jogo e depois Final de Jogo. Os efeitos incluem crescimento hostil mais rápido, maior alcance de ataque dos NPCs, incursões direcionadas, expansão em sua direção, drenagem de boa vontade, incidentes em postos avançados e (quando as opções permitirem) fogo N4 contra suas caravanas/postos avançados. Acionado pela força dos postos avançados, participação mundial ou dias decorridos. Os estágios nunca regridem depois de alcançados.</TSA_WD_Difficulty_EnableLateGameTooltip>
+  <TSA_WD_Difficulty_ActivationHint>Cada um dos estágios Meio de Jogo e Final de Jogo é ativado quando qualquer um dos seus limites de participação, força ou dias é atingido. O Final de Jogo substitui o Meio de Jogo. Uma vez alcançado, um estágio nunca regride.</TSA_WD_Difficulty_ActivationHint>
+  <TSA_WD_Difficulty_ShareThreshold>Participação de força do jogador para a dificuldade do Final de Jogo</TSA_WD_Difficulty_ShareThreshold>
+  <TSA_WD_Difficulty_ShareThresholdTooltip>O Final de Jogo é ativado quando sua força total de postos avançados atinge esta fração de toda a força mundial (os mesmos números da janela de Estatísticas Mundiais).</TSA_WD_Difficulty_ShareThresholdTooltip>
+  <TSA_WD_Difficulty_OutpostStrengthThreshold>Pontos de força do jogador para a dificuldade do Final de Jogo</TSA_WD_Difficulty_OutpostStrengthThreshold>
+  <TSA_WD_Difficulty_OutpostStrengthThresholdTooltip>O Final de Jogo é ativado quando sua força total de postos avançados atinge este valor absoluto, independentemente da participação mundial.</TSA_WD_Difficulty_OutpostStrengthThresholdTooltip>
+  <TSA_WD_Difficulty_RaidBias>Viés de incursão do jogador</TSA_WD_Difficulty_RaidBias>
+  <TSA_WD_Difficulty_RaidBiasTooltip>Enquanto o Final de Jogo estiver ativo, incursões hostis que já conseguem alcançar um alvo do jogador dão este tanto a mais de peso aos seus postos avançados e à colônia dentro da mesma faixa de distância.</TSA_WD_Difficulty_RaidBiasTooltip>
+  <TSA_WD_Difficulty_GrowthMult>Multiplicador de crescimento inimigo</TSA_WD_Difficulty_GrowthMult>
+  <TSA_WD_Difficulty_GrowthMultTooltip>Assentamentos hostis crescem esta quantidade de vezes mais rápido enquanto o Final de Jogo estiver ativo.</TSA_WD_Difficulty_GrowthMultTooltip>
+  <TSA_WD_LateGame_AttackRangeBonus>Bônus de alcance de ataque</TSA_WD_LateGame_AttackRangeBonus>
+  <TSA_WD_LateGame_AttackRangeBonusTooltip>Adicionado a cada alcance de ataque de assentamento NPC enquanto o Final de Jogo estiver ativo (100% dobra as bases iniciais). Substitui o bônus do Meio de Jogo. Aplica-se até a cidades recém-fundadas.</TSA_WD_LateGame_AttackRangeBonusTooltip>
+  <TSA_WD_LateGame_ScaleAllyRadius>Escalonar raio de aliados no Final de Jogo</TSA_WD_LateGame_ScaleAllyRadius>
+  <TSA_WD_LateGame_ScaleAllyRadiusTooltip>Quando ativado, o Final de Jogo multiplica o raio base de atração de aliados por (1 + bônus de raio de aliados do Final). Substitui o escalonamento de aliados do Meio. Se isto estiver desativado durante o Final de Jogo, o raio de aliados permanece na base (sem retorno ao do Meio).</TSA_WD_LateGame_ScaleAllyRadiusTooltip>
+  <TSA_WD_LateGame_AllyRadiusBonus>Bônus de raio de aliados</TSA_WD_LateGame_AllyRadiusBonus>
+  <TSA_WD_LateGame_AllyRadiusBonusTooltip>Adicionado ao raio base de atração de aliados enquanto o Final de Jogo estiver ativo e o escalonamento estiver ligado (100% eleva a base 6 para 12). Substitui o bônus de aliados do Meio de Jogo.</TSA_WD_LateGame_AllyRadiusBonusTooltip>
+  <TSA_WD_Difficulty_GarrisonBoost>Reforço de guarnição</TSA_WD_Difficulty_GarrisonBoost>
+  <TSA_WD_Difficulty_GarrisonBoostTooltip>Enquanto o Final de Jogo estiver ativo, as guarnições dos assentamentos são multiplicadas por (1 + este valor). Acumula multiplicativamente com os controles de guarnição por nível.</TSA_WD_Difficulty_GarrisonBoostTooltip>
+  <TSA_WD_Difficulty_ExpandTiles>Máximo de blocos de expansão a partir do assentamento de origem</TSA_WD_Difficulty_ExpandTiles>
+  <TSA_WD_Difficulty_ExpandTilesTooltip>Enquanto o Final de Jogo estiver ativo, assentamentos hostis se expandem em direção ao seu posto avançado/colônia mais próximo, mas não além desta quantidade de blocos a partir do assentamento de origem.</TSA_WD_Difficulty_ExpandTilesTooltip>
+  <TSA_WD_Difficulty_EnableT4Mortar>Morteiros de assentamentos N4</TSA_WD_Difficulty_EnableT4Mortar>
+  <TSA_WD_Difficulty_EnableT4MortarTooltip>Assentamentos inimigos N4 disparam morteiros contra viajantes hostis do WD ao alcance. Quando não há caravana hostil ao alcance, bombardeiam o assentamento hostil mais próximo. Também podem atingir suas caravanas e postos avançados do WD enquanto o Final de Jogo estiver ativo.</TSA_WD_Difficulty_EnableT4MortarTooltip>
+  <TSA_WD_Difficulty_CoalitionRaidBias>Prioridade de incursão da coalizão anti-líder</TSA_WD_Difficulty_CoalitionRaidBias>
+  <TSA_WD_Difficulty_CoalitionRaidBiasTooltip>Quando uma coalizão anti-líder está ativa, as facções membros sorteiam esta frequência para priorizar incursões contra o alvo da coalizão.</TSA_WD_Difficulty_CoalitionRaidBiasTooltip>
+  <TSA_WD_Difficulty_EnableOutpostIncidents>Incidentes em postos avançados (Final de Jogo)</TSA_WD_Difficulty_EnableOutpostIncidents>
+  <TSA_WD_Difficulty_EnableOutpostIncidentsTooltip>Enquanto o Final de Jogo estiver ativo, um posto avançado aleatório do jogador pode perder força a cada dia (atrito simulado), desgastando ofensiva e defesa igualmente.</TSA_WD_Difficulty_EnableOutpostIncidentsTooltip>
+  <TSA_WD_Difficulty_OutpostIncSev>Gravidade dos incidentes em postos avançados</TSA_WD_Difficulty_OutpostIncSev>
+  <TSA_WD_Difficulty_OutpostIncSevTooltip>Força removida tanto do contingente ofensivo quanto do defensivo do posto avançado.</TSA_WD_Difficulty_OutpostIncSevTooltip>
+  <TSA_WD_Difficulty_OutpostIncChance>Chance diária de incidente em posto avançado</TSA_WD_Difficulty_OutpostIncChance>
+  <TSA_WD_Difficulty_OutpostIncChanceTooltip>Chance por dia de tentar um incidente em posto avançado enquanto o Final de Jogo estiver ativo.</TSA_WD_Difficulty_OutpostIncChanceTooltip>
+  <TSA_WD_Difficulty_NotifyOutpostInc>Carta em caso de incidente em posto avançado</TSA_WD_Difficulty_NotifyOutpostInc>
+  <TSA_WD_Difficulty_NotifyOutpostIncTooltip>Envia uma carta quando um incidente em posto avançado reduzir a força.</TSA_WD_Difficulty_NotifyOutpostIncTooltip>
+  <TSA_WD_Difficulty_EnableGoodwillDrain>Drenagem periódica de boa vontade</TSA_WD_Difficulty_EnableGoodwillDrain>
+  <TSA_WD_Difficulty_EnableGoodwillDrainTooltip>Enquanto o Meio de Jogo ou o Final de Jogo estiver ativo, reduza periodicamente a boa vontade com facções que não são inimigas permanentes. Inimigos permanentes são ignorados. Uma mensagem em lote por pulso; mensagens extras apenas quando houver virada entre Aliado/Neutro/Hostil.</TSA_WD_Difficulty_EnableGoodwillDrainTooltip>
+  <TSA_WD_Difficulty_GoodwillDrainInterval>Intervalo de drenagem de boa vontade (dias)</TSA_WD_Difficulty_GoodwillDrainInterval>
+  <TSA_WD_Difficulty_GoodwillDrainIntervalTooltip>Dias entre pulsos de drenagem de boa vontade enquanto o Meio de Jogo ou o Final de Jogo estiver ativo.</TSA_WD_Difficulty_GoodwillDrainIntervalTooltip>
+  <TSA_WD_MidGame_Header>Meio de Jogo</TSA_WD_MidGame_Header>
+  <TSA_WD_MidGame_ShareThreshold>Participação de força do jogador para a dificuldade do Meio de Jogo</TSA_WD_MidGame_ShareThreshold>
+  <TSA_WD_MidGame_ShareThresholdTooltip>O Meio de Jogo é ativado quando sua força total de postos avançados atinge esta fração de toda a força mundial.</TSA_WD_MidGame_ShareThresholdTooltip>
+  <TSA_WD_MidGame_OutpostStrengthThreshold>Pontos de força do jogador para a dificuldade do Meio de Jogo</TSA_WD_MidGame_OutpostStrengthThreshold>
+  <TSA_WD_MidGame_OutpostStrengthThresholdTooltip>O Meio de Jogo é ativado quando sua força total de postos avançados atinge este valor absoluto, independentemente da participação mundial.</TSA_WD_MidGame_OutpostStrengthThresholdTooltip>
+  <TSA_WD_MidGame_DaysThreshold>Dias para a dificuldade do Meio de Jogo</TSA_WD_MidGame_DaysThreshold>
+  <TSA_WD_MidGame_DaysThresholdTooltip>O Meio de Jogo é ativado quando esta quantidade de dias tiver passado, mesmo que a participação e a força ainda estejam abaixo dos limites do Meio.</TSA_WD_MidGame_DaysThresholdTooltip>
+  <TSA_WD_LateGame_DaysThreshold>Dias para a dificuldade do Final de Jogo</TSA_WD_LateGame_DaysThreshold>
+  <TSA_WD_LateGame_DaysThresholdTooltip>O Final de Jogo é ativado quando esta quantidade de dias tiver passado, mesmo que a participação e a força ainda estejam abaixo dos limites do Final.</TSA_WD_LateGame_DaysThresholdTooltip>
+  <TSA_WD_MidGame_RaidBias>Viés de incursão do jogador</TSA_WD_MidGame_RaidBias>
+  <TSA_WD_MidGame_RaidBiasTooltip>Enquanto o Meio de Jogo estiver ativo, incursões hostis que já conseguem alcançar um alvo do jogador dão este tanto a mais de peso aos seus postos avançados e à colônia dentro da mesma faixa de distância.</TSA_WD_MidGame_RaidBiasTooltip>
+  <TSA_WD_MidGame_GrowthMult>Multiplicador de crescimento inimigo</TSA_WD_MidGame_GrowthMult>
+  <TSA_WD_MidGame_GrowthMultTooltip>Assentamentos hostis crescem esta quantidade de vezes mais rápido enquanto o Meio de Jogo estiver ativo.</TSA_WD_MidGame_GrowthMultTooltip>
+  <TSA_WD_MidGame_AttackRangeBonus>Bônus de alcance de ataque</TSA_WD_MidGame_AttackRangeBonus>
+  <TSA_WD_MidGame_AttackRangeBonusTooltip>Adicionado a cada alcance de ataque de assentamento NPC enquanto o Meio de Jogo estiver ativo (50% aumenta as bases iniciais pela metade). O Final de Jogo substitui este bônus. Aplica-se até a cidades recém-fundadas.</TSA_WD_MidGame_AttackRangeBonusTooltip>
+  <TSA_WD_MidGame_ScaleAllyRadius>Escalonar raio de aliados no Meio de Jogo</TSA_WD_MidGame_ScaleAllyRadius>
+  <TSA_WD_MidGame_ScaleAllyRadiusTooltip>Quando ativado, o Meio de Jogo multiplica o raio base de atração de aliados por (1 + bônus de raio de aliados do Meio). O Final de Jogo usa a própria opção (sem retorno ao do Meio).</TSA_WD_MidGame_ScaleAllyRadiusTooltip>
+  <TSA_WD_MidGame_AllyRadiusBonus>Bônus de raio de aliados</TSA_WD_MidGame_AllyRadiusBonus>
+  <TSA_WD_MidGame_AllyRadiusBonusTooltip>Adicionado ao raio base de atração de aliados enquanto o Meio de Jogo estiver ativo e o escalonamento estiver ligado (40% eleva a base 6 para 9). O Final de Jogo substitui este bônus quando sua opção de escalonamento está ligada.</TSA_WD_MidGame_AllyRadiusBonusTooltip>
+  <TSA_WD_MidGame_GarrisonBoost>Reforço de guarnição</TSA_WD_MidGame_GarrisonBoost>
+  <TSA_WD_MidGame_GarrisonBoostTooltip>Enquanto o Meio de Jogo estiver ativo, as guarnições dos assentamentos são multiplicadas por (1 + este valor). Acumula multiplicativamente com os controles de guarnição por nível.</TSA_WD_MidGame_GarrisonBoostTooltip>
+  <TSA_WD_MidGame_ExpandTiles>Máximo de blocos de expansão a partir do assentamento de origem</TSA_WD_MidGame_ExpandTiles>
+  <TSA_WD_MidGame_ExpandTilesTooltip>Enquanto o Meio de Jogo estiver ativo, assentamentos hostis se expandem em direção ao seu posto avançado/colônia mais próximo, mas não além desta quantidade de blocos a partir do assentamento de origem.</TSA_WD_MidGame_ExpandTilesTooltip>
+  <TSA_WD_MidGame_EnableOutpostIncidents>Incidentes em postos avançados (Meio de Jogo)</TSA_WD_MidGame_EnableOutpostIncidents>
+  <TSA_WD_MidGame_EnableOutpostIncidentsTooltip>Enquanto o Meio de Jogo estiver ativo, um posto avançado aleatório do jogador pode perder força a cada dia (mais leve que no Final de Jogo).</TSA_WD_MidGame_EnableOutpostIncidentsTooltip>
+  <TSA_WD_MidGame_OutpostIncSev>Gravidade dos incidentes em postos avançados</TSA_WD_MidGame_OutpostIncSev>
+  <TSA_WD_MidGame_OutpostIncSevTooltip>Força removida tanto do contingente ofensivo quanto do defensivo do posto avançado.</TSA_WD_MidGame_OutpostIncSevTooltip>
+  <TSA_WD_MidGame_OutpostIncChance>Chance diária de incidente em posto avançado</TSA_WD_MidGame_OutpostIncChance>
+  <TSA_WD_MidGame_OutpostIncChanceTooltip>Chance por dia de tentar um incidente em posto avançado enquanto o Meio de Jogo estiver ativo.</TSA_WD_MidGame_OutpostIncChanceTooltip>
+  <TSA_WD_MidGame_GoodwillDrainAmount>Drenagem de boa vontade por pulso</TSA_WD_MidGame_GoodwillDrainAmount>
+  <TSA_WD_MidGame_GoodwillDrainAmountTooltip>Boa vontade perdida por facção a cada pulso do Meio de Jogo. Inimigos permanentes são ignorados.</TSA_WD_MidGame_GoodwillDrainAmountTooltip>
+  <TSA_WD_MidGame_T4Mortar_TargetPlayerTooltip>Quando ativado, morteiros N4 inimigos podem disparar contra suas caravanas e postos avançados do WD enquanto o Meio de Jogo estiver ativo. Ativar isto também liga a opção de morteiros do Final de Jogo.</TSA_WD_MidGame_T4Mortar_TargetPlayerTooltip>
+  <TSA_WD_MidGame_T4AA_TargetPlayerTooltip>Quando ativado, antiaéreos N4 podem engajar suas cápsulas de transporte e projéteis enquanto o Meio de Jogo estiver ativo. Ativar isto também liga a opção de antiaéreos do Final de Jogo.</TSA_WD_MidGame_T4AA_TargetPlayerTooltip>
+  <TSA_WD_LateGame_HeaderScaling>Final de Jogo</TSA_WD_LateGame_HeaderScaling>
+  <TSA_WD_LateGame_GoodwillDrainAmount>Drenagem de boa vontade por pulso</TSA_WD_LateGame_GoodwillDrainAmount>
+  <TSA_WD_LateGame_GoodwillDrainAmountTooltip>Boa vontade perdida por facção a cada pulso do Final de Jogo. Inimigos permanentes são ignorados.</TSA_WD_LateGame_GoodwillDrainAmountTooltip>
+  <TSA_WD_Escalation_StageNone>Nenhum</TSA_WD_Escalation_StageNone>
+  <TSA_WD_Escalation_StageEarly>Início de Jogo</TSA_WD_Escalation_StageEarly>
+  <TSA_WD_Escalation_StageMid>Meio de Jogo</TSA_WD_Escalation_StageMid>
+  <TSA_WD_Escalation_StageLate>Final de Jogo</TSA_WD_Escalation_StageLate>
+  <TSA_WD_Relation_Ally>Aliado</TSA_WD_Relation_Ally>
+  <TSA_WD_Relation_Neutral>Neutro</TSA_WD_Relation_Neutral>
+  <TSA_WD_Relation_Hostile>Hostil</TSA_WD_Relation_Hostile>
+  <TSA_WD_GoodwillMsg_EscalationDrainBatch>{0}: −{1} de boa vontade com {2} facção(ões).</TSA_WD_GoodwillMsg_EscalationDrainBatch>
+  <TSA_WD_GoodwillMsg_EscalationRelationFlip>A relação de {0} mudou de {1} para {2}.</TSA_WD_GoodwillMsg_EscalationRelationFlip>
+  <TSA_WD_Stats_EscalationStage>Estágio: {0}</TSA_WD_Stats_EscalationStage>
+  <TSA_WD_Stats_EscalationTip>Estágio ativo: {0}.\nForça dos postos avançados do jogador: {1}\nParticipação na força mundial: {2}\nO Meio de Jogo e depois o Final de Jogo são ativados pelos limites nas configurações de Meio de Jogo e Final de Jogo. O Final de Jogo substitui o Meio de Jogo.</TSA_WD_Stats_EscalationTip>
+  <TS_WD_CaravanRaidMinFrac>Fração mínima da ameaça do narrador</TS_WD_CaravanRaidMinFrac>
+  <TS_WD_CaravanRaidMinFracTooltip>Piso para os pontos de incursão: linha de base da ameaça do narrador × este valor. A força efetiva do viajante/caravana (após a eficiência de viagem) não pode gerar uma incursão abaixo disso. Na interceptação, a linha de base geralmente é o mapa da sua colônia mais forte, não o mapa de confronto vazio.</TS_WD_CaravanRaidMinFracTooltip>
+  <TS_WD_CaravanRaidMaxFrac>Fração máxima da ameaça do narrador</TS_WD_CaravanRaidMaxFrac>
+  <TS_WD_CaravanRaidMaxFracTooltip>Teto para os pontos de incursão: linha de base da ameaça do narrador × este valor (controle deslizante até 50×). A força efetiva não pode exceder isto ao gerar a incursão. Se a força estiver dentro da faixa, nenhum limite é aplicado.</TS_WD_CaravanRaidMaxFracTooltip>
+  <TS_WD_RaidClamp_ScaleWithEscalation>Escalonar com a dificuldade do Meio e do Final de Jogo</TS_WD_RaidClamp_ScaleWithEscalation>
+  <TS_WD_RaidClamp_ScaleWithEscalationTooltip>Quando ativado (e o Meio/Final de Jogo estiver habilitado), o piso e o teto dos pontos de incursão usam faixas separadas de Início / Meio / Final conforme o seu estágio de escalada atual. Quando o Meio/Final de Jogo estiver desabilitado, o único par mín./máx. abaixo é usado.</TS_WD_RaidClamp_ScaleWithEscalationTooltip>
+  <TS_WD_RaidClamp_EscalationOffHint>O escalonamento do Meio/Final de Jogo está desligado. O único par mín./máx. abaixo está ativo. Ative o Meio de Jogo e o Final de Jogo na página de configurações para usar as faixas de Início / Meio / Final.</TS_WD_RaidClamp_EscalationOffHint>
+  <TS_WD_RaidClamp_EarlyMin>Mín. do Início de Jogo</TS_WD_RaidClamp_EarlyMin>
+  <TS_WD_RaidClamp_EarlyMinTooltip>Piso da ameaça do narrador enquanto a escalada estiver no Início (antes dos limites do Meio de Jogo).</TS_WD_RaidClamp_EarlyMinTooltip>
+  <TS_WD_RaidClamp_EarlyMax>Máx. do Início de Jogo</TS_WD_RaidClamp_EarlyMax>
+  <TS_WD_RaidClamp_EarlyMaxTooltip>Teto da ameaça do narrador enquanto a escalada estiver no Início. Padrão 130%.</TS_WD_RaidClamp_EarlyMaxTooltip>
+  <TS_WD_RaidClamp_MidMin>Mín. do Meio de Jogo</TS_WD_RaidClamp_MidMin>
+  <TS_WD_RaidClamp_MidMinTooltip>Piso da ameaça do narrador enquanto o Meio de Jogo estiver ativo.</TS_WD_RaidClamp_MidMinTooltip>
+  <TS_WD_RaidClamp_MidMax>Máx. do Meio de Jogo</TS_WD_RaidClamp_MidMax>
+  <TS_WD_RaidClamp_MidMaxTooltip>Teto da ameaça do narrador enquanto o Meio de Jogo estiver ativo. Padrão 180%.</TS_WD_RaidClamp_MidMaxTooltip>
+  <TS_WD_RaidClamp_LateMin>Mín. do Final de Jogo</TS_WD_RaidClamp_LateMin>
+  <TS_WD_RaidClamp_LateMinTooltip>Piso da ameaça do narrador enquanto o Final de Jogo estiver ativo.</TS_WD_RaidClamp_LateMinTooltip>
+  <TS_WD_RaidClamp_LateMax>Máx. do Final de Jogo</TS_WD_RaidClamp_LateMax>
+  <TS_WD_RaidClamp_LateMaxTooltip>Teto da ameaça do narrador enquanto o Final de Jogo estiver ativo. Padrão 230%.</TS_WD_RaidClamp_LateMaxTooltip>
+  <TS_WD_Threat_BlockStorytellerRaids>Bloquear incursões do narrador (apenas incursões do World Domination)</TS_WD_Threat_BlockStorytellerRaids>
+  <TS_WD_Threat_BlockStorytellerRaidsTooltip>Quando habilitado, incursões inimigas aleatórias do narrador padrão são bloqueadas para facções gerenciadas pelo WD. Incursões do World Domination (mapa-múndi), missões, comunicações, ferramentas de desenvolvedor e outros incidentes roteirizados (incluindo os marcados como forçados ou vinculados a uma missão) não são bloqueadas.</TS_WD_Threat_BlockStorytellerRaidsTooltip>
+  <TS_WD_Threat_AllowNonWdStorytellerRaids>Permitir incursões do narrador de facções que não são do WD</TS_WD_Threat_AllowNonWdStorytellerRaids>
+  <TS_WD_Threat_AllowNonWdStorytellerRaidsTooltip>Quando habilitado, incursões do narrador padrão ainda podem vir de facções não controladas pelo World Domination, como facções sem assentamentos físicos do WD no planeta. Desative isto para restaurar o comportamento antigo e bloquear todas as incursões inimigas aleatórias do narrador.</TS_WD_Threat_AllowNonWdStorytellerRaidsTooltip>
+  <TS_WD_Threat_MaxPoints>Pontos máximos de incursão</TS_WD_Threat_MaxPoints>
+  <TS_WD_Threat_MaxPointsTooltip>O teto absoluto dos pontos de incursão usados por alguns surgimentos de reforço do WD. Os pontos de incursão do narrador padrão não são escalonados por esta página.</TS_WD_Threat_MaxPointsTooltip>
+  <TS_WD_Threat_MinPoints>Pontos mínimos de incursão</TS_WD_Threat_MinPoints>
+  <TS_WD_Threat_MinPointsTooltip>O piso absoluto dos pontos de incursão nesses mesmos fluxos do WD. Valores muito baixos podem impedir o surgimento de inimigos.</TS_WD_Threat_MinPointsTooltip>
+  <TS_WD_Threat_NoGoodwillHostiles>Sem boa vontade de facções hostis ao conquistar assentamentos</TS_WD_Threat_NoGoodwillHostiles>
+  <TS_WD_Threat_NoGoodwillHostilesTooltip>Quando habilitado, conquistar um assentamento não concede boa vontade com facções que são hostis a você. Apenas facções não hostis podem ganhar boa vontade com suas conquistas.</TS_WD_Threat_NoGoodwillHostilesTooltip>
+  <TS_WD_Threat_Reset>Restaurar esta página para o padrão</TS_WD_Threat_Reset>
+  <TSA_WD_AllPlayerPawns>Seus indivíduos</TSA_WD_AllPlayerPawns>
+  <TSA_WD_Prisoners>Prisioneiros</TSA_WD_Prisoners>
+  <TSA_WD_Prisoners_Title>Prisioneiros</TSA_WD_Prisoners_Title>
+  <TSA_WD_Prisoners_ColInteraction>Interação</TSA_WD_Prisoners_ColInteraction>
+  <TSA_WD_Prisoners_ColResistance>Resistência</TSA_WD_Prisoners_ColResistance>
+  <TSA_WD_PawnRoster_ResistanceNA>N/D</TSA_WD_PawnRoster_ResistanceNA>
+  <TSA_WD_PawnRoster_ResistanceNATip>Aplica-se apenas a prisioneiros.</TSA_WD_PawnRoster_ResistanceNATip>
+  <TSA_WD_Prisoners_ColDestination>Destino</TSA_WD_Prisoners_ColDestination>
+  <TSA_WD_Prisoners_NoDestination>O indivíduo permanece na colônia após o recrutamento.\nClique para alterar</TSA_WD_Prisoners_NoDestination>
+  <TSA_WD_Prisoners_NoDestinationOutpost>Permanece neste posto avançado após o recrutamento.\nClique para alterar</TSA_WD_Prisoners_NoDestinationOutpost>
+  <TSA_WD_Prisoners_DestinationUnset>Sem destino</TSA_WD_Prisoners_DestinationUnset>
+  <TSA_WD_Prisoners_DestinationDefaultTip>Local padrão. Defina um destino para enviá-los a outro lugar após o recrutamento.</TSA_WD_Prisoners_DestinationDefaultTip>
+  <TSA_WD_Prisoners_SetDestination>Definir destino</TSA_WD_Prisoners_SetDestination>
+  <TSA_WD_Prisoners_SetDestinationTip>Atribua uma colônia ou posto avançado para onde os prisioneiros selecionados irão depois de recrutados.</TSA_WD_Prisoners_SetDestinationTip>
+  <TSA_WD_Prisoners_SmartAssign>Atribuição inteligente</TSA_WD_Prisoners_SmartAssign>
+  <TSA_WD_Prisoners_SmartAssignTip>Escolhe a melhor habilidade de cada prisioneiro selecionado e o envia ao posto avançado mais próximo que use essa habilidade. Se nenhum corresponder, tenta a próxima melhor habilidade. Só é útil quando você tem cerca de cinco postos avançados ou mais.</TSA_WD_Prisoners_SmartAssignTip>
+  <TSA_WD_Prisoners_SmartAssignDone>Atribuição inteligente concluída para {0} prisioneiro(s).</TSA_WD_Prisoners_SmartAssignDone>
+  <TSA_WD_Prisoners_SmartAssignPartial>Atribuição inteligente concluída para {0} prisioneiro(s). Não foi possível corresponder {1}.</TSA_WD_Prisoners_SmartAssignPartial>
+  <TSA_WD_Prisoners_SmartAssignNone>Nenhum posto avançado correspondente para os prisioneiros selecionados.</TSA_WD_Prisoners_SmartAssignNone>
+  <TSA_WD_Prisoners_SmartAssignConfigTip>Escolha quais postos avançados a Atribuição inteligente pode usar.</TSA_WD_Prisoners_SmartAssignConfigTip>
+  <TSA_WD_Prisoners_SmartAssignConfigTitle>Postos avançados da atribuição inteligente</TSA_WD_Prisoners_SmartAssignConfigTitle>
+  <TSA_WD_Prisoners_SmartAssignConfigSubtitle>Postos avançados desmarcados são ignorados pela Atribuição inteligente. Definir destino manualmente ainda funciona para qualquer posto avançado.</TSA_WD_Prisoners_SmartAssignConfigSubtitle>
+  <TSA_WD_Prisoners_SmartAssignEnableAll>Ativar todos os exibidos</TSA_WD_Prisoners_SmartAssignEnableAll>
+  <TSA_WD_Prisoners_SmartAssignDisableAll>Desativar todos os exibidos</TSA_WD_Prisoners_SmartAssignDisableAll>
+  <TSA_WD_Prisoners_SmartAssignColCumSkill>Hab. acum.</TSA_WD_Prisoners_SmartAssignColCumSkill>
+  <TSA_WD_Prisoners_SmartAssignColType>Tipo</TSA_WD_Prisoners_SmartAssignColType>
+  <TSA_WD_Prisoners_SmartAssignCumSkillTip>Acum. {0}: {1}</TSA_WD_Prisoners_SmartAssignCumSkillTip>
+  <TSA_WD_Prisoners_SmartAssignGroupHeader>{0} (Acum. {1})</TSA_WD_Prisoners_SmartAssignGroupHeader>
+  <TSA_WD_Prisoners_SmartAssignSelectColumnTip>Clique para ativar ou desativar todos os postos avançados exibidos na lista para a Atribuição inteligente.</TSA_WD_Prisoners_SmartAssignSelectColumnTip>
+  <TSA_WD_Prisoners_ClearDestination>Limpar destino</TSA_WD_Prisoners_ClearDestination>
+  <TSA_WD_Prisoners_ClearDestinationTip>Isto significa que os indivíduos permanecerão onde estão quando forem recrutados.</TSA_WD_Prisoners_ClearDestinationTip>
+  <TSA_WD_Prisoners_ScheduleTitle>Agendar destino de recrutamento</TSA_WD_Prisoners_ScheduleTitle>
+  <TSA_WD_Prisoners_ScheduleSubtitle>Escolha uma colônia ou posto avançado para {0} prisioneiro(s). Eles partem como caravana com 150 de carne-seca quando recrutados.</TSA_WD_Prisoners_ScheduleSubtitle>
+  <TSA_WD_Prisoners_DestinationClickTip>Clique para definir ou alterar o destino após o recrutamento.</TSA_WD_Prisoners_DestinationClickTip>
+  <TSA_WD_Prisoners_ColTraits>Traços</TSA_WD_Prisoners_ColTraits>
+  <TSA_WD_Prisoners_SelectColumnTip>Clique para selecionar ou limpar todos os prisioneiros exibidos na lista.</TSA_WD_Prisoners_SelectColumnTip>
+  <TSA_WD_Prisoners_RecruitSent>{0} foi recrutado e enviado para {1}.</TSA_WD_Prisoners_RecruitSent>
+  <TSA_WD_Prisoners_RecruitStayed>{0} foi recrutado e se juntou a {1}.</TSA_WD_Prisoners_RecruitStayed>
+  <TSA_WD_Prisoners_RecruitUnderway>{0} foi recrutado com sucesso no posto avançado {1} e está a caminho de {2}.</TSA_WD_Prisoners_RecruitUnderway>
+  <TSA_WD_Prisoners_Filter_All>Todos</TSA_WD_Prisoners_Filter_All>
+  <TSA_WD_Prisoners_Filter_Colony>Colônia</TSA_WD_Prisoners_Filter_Colony>
+  <TSA_WD_Prisoners_Filter_Outpost>Posto avançado</TSA_WD_Prisoners_Filter_Outpost>
+  <TSA_WD_Prisoners_GroupOutpost>Prisioneiros de postos avançados</TSA_WD_Prisoners_GroupOutpost>
+  <TSA_WD_Prisoners_GroupOutpostHeader>Prisioneiros de postos avançados (até {0} por vez)</TSA_WD_Prisoners_GroupOutpostHeader>
+  <TSA_WD_Prisoners_GroupOutpostTip>Prisioneiros de postos avançados não podem ser movidos até serem recrutados.\n\nEles são recrutados automaticamente na ordem da lista (primeiro o topo).\nUse as setas para mudar a prioridade.\n\nA habilidade Social define quantos podem ser recrutados de uma vez (1 a cada 10 de Social, sempre pelo menos 1).\nEla também define a velocidade com que a resistência cai. Um especialista Carcereiro torna isso mais rápido.\n\nPrisioneiros também consomem comida.\nLibere-os se não valer a pena mantê-los.</TSA_WD_Prisoners_GroupOutpostTip>
+  <TSA_WD_Prisoners_QueueTopTip>Enviar para o topo da fila de recrutamento.</TSA_WD_Prisoners_QueueTopTip>
+  <TSA_WD_Prisoners_QueueUpTip>Subir uma posição na fila de recrutamento.</TSA_WD_Prisoners_QueueUpTip>
+  <TSA_WD_Prisoners_QueueDownTip>Descer uma posição na fila de recrutamento.</TSA_WD_Prisoners_QueueDownTip>
+  <TSA_WD_Prisoners_QueueBottomTip>Enviar para o fim da fila de recrutamento.</TSA_WD_Prisoners_QueueBottomTip>
+  <TSA_WD_Prisoners_ModeRecruit>Recrutar</TSA_WD_Prisoners_ModeRecruit>
+  <TSA_WD_Prisoners_ModeMaintain>Manter</TSA_WD_Prisoners_ModeMaintain>
+  <TSA_WD_Prisoners_ModeLetGo>Liberar</TSA_WD_Prisoners_ModeLetGo>
+  <TSA_WD_Prisoners_OutpostBeingRecruited>Sendo recrutado</TSA_WD_Prisoners_OutpostBeingRecruited>
+  <TSA_WD_Prisoners_LetGoSelected>Expulsar</TSA_WD_Prisoners_LetGoSelected>
+  <TSA_WD_Prisoners_LetGoSelectedTip>Libera os prisioneiros de postos avançados selecionados. Eles são removidos sem aparecer no mapa. Isto não pode ser desfeito.</TSA_WD_Prisoners_LetGoSelectedTip>
+  <TSA_WD_Prisoners_LetGoConfirm>Tem certeza? Esta ação não pode ser desfeita.</TSA_WD_Prisoners_LetGoConfirm>
+  <TSA_WD_Prisoners_KickOutNeedOutpost>Expulsar só funciona para prisioneiros mantidos em postos avançados.</TSA_WD_Prisoners_KickOutNeedOutpost>
+  <TSA_WD_Prisoners_OutpostInteractionTip>Prisioneiros de postos avançados são recrutados automaticamente na ordem da fila. A habilidade Social define quantos podem ser recrutados de uma vez. Selecione apenas prisioneiros de postos avançados e use a opção Liberar para soltá-los (removidos sem aparecer no mapa).</TSA_WD_Prisoners_OutpostInteractionTip>
+  <TSA_WD_AllPlayerPawns_Title>Todos os indivíduos do jogador</TSA_WD_AllPlayerPawns_Title>
+  <TSA_WD_AllPlayerPawns_MoveOrder>Transferir indivíduos</TSA_WD_AllPlayerPawns_MoveOrder>
+  <TSA_WD_AllPlayerPawns_Transfer>Transferir para o destino</TSA_WD_AllPlayerPawns_Transfer>
+  <TSA_WD_AllPlayerPawns_TransferTip>Envia os indivíduos selecionados para uma colônia ou posto avançado que você escolher. Mesma seleção usada por Envio inteligente agora.</TSA_WD_AllPlayerPawns_TransferTip>
+  <TSA_WD_AllPlayerPawns_EstablishOutpost>Estabelecer posto avançado</TSA_WD_AllPlayerPawns_EstablishOutpost>
+  <TSA_WD_AllPlayerPawns_EstablishOutpostTip>Envia colonos selecionados da colônia para fundar um posto avançado em um bloco do mapa-múndi que você escolher. Requer pelo menos dois indivíduos. Mercadorias são retiradas da sua colônia e dos armazéns. Acompanhantes da mesma colônia podem vir junto.</TSA_WD_AllPlayerPawns_EstablishOutpostTip>
+  <TSA_WD_AllPlayerPawns_RestoreDefault>Restaurar visualização padrão</TSA_WD_AllPlayerPawns_RestoreDefault>
+  <TSA_WD_PawnRoster_Highlight>Destaque:</TSA_WD_PawnRoster_Highlight>
+  <TSA_WD_PawnRoster_HighlightOff>Desativado</TSA_WD_PawnRoster_HighlightOff>
+  <TSA_WD_PawnRoster_HighlightBest>Melhor(es) habilidade(s) por indivíduo</TSA_WD_PawnRoster_HighlightBest>
+  <TSA_WD_PawnRoster_HighlightGlobal>0-20 global</TSA_WD_PawnRoster_HighlightGlobal>
+  <TSA_WD_PawnRoster_ColumnsToShow>Colunas a exibir</TSA_WD_PawnRoster_ColumnsToShow>
+  <TSA_WD_PawnRoster_ColumnsToShowTip>Alterne quais colunas aparecem nesta lista. As escolhas são salvas com este mundo.</TSA_WD_PawnRoster_ColumnsToShowTip>
+  <TSA_WD_PawnRoster_ColumnsReset>Redefinir colunas</TSA_WD_PawnRoster_ColumnsReset>
+  <TSA_WD_PawnRoster_ColAge>Idade</TSA_WD_PawnRoster_ColAge>
+  <TSA_WD_PawnRoster_ColAgeTip>Idade biológica em anos.</TSA_WD_PawnRoster_ColAgeTip>
+  <TSA_WD_PawnRoster_ColXenotype>Xenótipo</TSA_WD_PawnRoster_ColXenotype>
+  <TSA_WD_PawnRoster_ColXenotypeTip>Rótulo de xenótipo do Biotech. Passe o mouse sobre uma célula para ver a descrição.</TSA_WD_PawnRoster_ColXenotypeTip>
+  <TSA_WD_PawnRoster_ColPsycasts>Poderes psíquicos</TSA_WD_PawnRoster_ColPsycasts>
+  <TSA_WD_PawnRoster_ColPsycastsTip>Poderes psíquicos conhecidos. Passe o mouse para ver a lista completa.</TSA_WD_PawnRoster_ColPsycastsTip>
+  <TSA_WD_TraitFilter_Title>Filtrar por traços</TSA_WD_TraitFilter_Title>
+  <TSA_WD_TraitFilter_Subtitle>Oculta linhas da lista que não correspondem. As contagens incluem todos os humanoides do jogador (colônia, postos avançados, caravanas, prisioneiros).</TSA_WD_TraitFilter_Subtitle>
+  <TSA_WD_TraitFilter_Search>Pesquisar traços...</TSA_WD_TraitFilter_Search>
+  <TSA_WD_TraitFilter_Or>Ou</TSA_WD_TraitFilter_Or>
+  <TSA_WD_TraitFilter_OrTip>Corresponder a indivíduos com qualquer traço selecionado.</TSA_WD_TraitFilter_OrTip>
+  <TSA_WD_TraitFilter_And>E</TSA_WD_TraitFilter_And>
+  <TSA_WD_TraitFilter_AndTip>Corresponder a indivíduos com todos os traços selecionados.</TSA_WD_TraitFilter_AndTip>
+  <TSA_WD_TraitFilter_Logic>Lógica do filtro:</TSA_WD_TraitFilter_Logic>
+  <TSA_WD_TraitFilter_Clear>Limpar seleção</TSA_WD_TraitFilter_Clear>
+  <TSA_WD_TraitFilter_FoundHeader>{0} traços em {1} indivíduos</TSA_WD_TraitFilter_FoundHeader>
+  <TSA_WD_TraitFilter_FoundTip>Traços presentes em pelo menos um humanoide do jogador.</TSA_WD_TraitFilter_FoundTip>
+  <TSA_WD_TraitFilter_AllHeader>Todos os traços ({0})</TSA_WD_TraitFilter_AllHeader>
+  <TSA_WD_TraitFilter_AllTip>Todos os graus de traço do jogo, incluindo os que nenhum indivíduo possui.</TSA_WD_TraitFilter_AllTip>
+  <TSA_WD_TraitFilter_CountPct>{0} ({1}%)</TSA_WD_TraitFilter_CountPct>
+  <TSA_WD_TraitFilter_CountTip>{0} indivíduos têm este traço. Isso é {1}% da sua população.</TSA_WD_TraitFilter_CountTip>
+  <TSA_WD_TraitFilter_ButtonTip>Filtra linhas por traço. Aplica-se apenas enquanto a coluna Traços estiver visível.</TSA_WD_TraitFilter_ButtonTip>
+  <TSA_WD_PawnRoster_ColPortrait>Retrato</TSA_WD_PawnRoster_ColPortrait>
+  <TSA_WD_PawnRoster_ColSelect>Selecionar</TSA_WD_PawnRoster_ColSelect>
+  <TSA_WD_PawnRoster_ColReorder>Reordenar</TSA_WD_PawnRoster_ColReorder>
+  <TSA_WD_PawnRoster_ColShooting>Tiro</TSA_WD_PawnRoster_ColShooting>
+  <TSA_WD_PawnRoster_ColMelee>Corpo a corpo</TSA_WD_PawnRoster_ColMelee>
+  <TSA_WD_PawnRoster_ColStrength>Força</TSA_WD_PawnRoster_ColStrength>
+  <TSA_WD_PawnRoster_ColRelevant>Habilidades relevantes</TSA_WD_PawnRoster_ColRelevant>
+  <TSA_WD_PawnRoster_ColConstruction>Construção</TSA_WD_PawnRoster_ColConstruction>
+  <TSA_WD_PawnRoster_ColDailyFood>Comida diária</TSA_WD_PawnRoster_ColDailyFood>
+  <TSA_WD_PawnRoster_ColHurt>Sangramento</TSA_WD_PawnRoster_ColHurt>
+  <TSA_WD_AllPlayerPawns_ColLocation>Local</TSA_WD_AllPlayerPawns_ColLocation>
+  <TSA_WD_AllPlayerPawns_LocationColony>{0} (Colônia)</TSA_WD_AllPlayerPawns_LocationColony>
+  <TSA_WD_AllPlayerPawns_LocationCamp>{0} (Acampamento)</TSA_WD_AllPlayerPawns_LocationCamp>
+  <TSA_WD_AllPlayerPawns_LocationPhysicalMap>{0} (Mapa físico)</TSA_WD_AllPlayerPawns_LocationPhysicalMap>
+  <TSA_WD_AllPlayerPawns_PhysicalMapDefault>Mapa físico</TSA_WD_AllPlayerPawns_PhysicalMapDefault>
+  <TSA_WD_AllPlayerPawns_LocPhysicalMap>Mapa físico</TSA_WD_AllPlayerPawns_LocPhysicalMap>
+  <TSA_WD_AllPlayerPawns_Selected>Selecionados ({0})</TSA_WD_AllPlayerPawns_Selected>
+  <TSA_WD_AllPlayerPawns_SelectedTip>Estes indivíduos selecionados são usados por Transferir para o destino e por Envio inteligente agora.</TSA_WD_AllPlayerPawns_SelectedTip>
+  <TSA_WD_AllPlayerPawns_SearchName>Pesquisar nome…</TSA_WD_AllPlayerPawns_SearchName>
+  <TSA_WD_AllPlayerPawns_SearchLocation>Pesquisar local…</TSA_WD_AllPlayerPawns_SearchLocation>
+  <TSA_WD_AllPlayerPawns_ColPawnType>Tipo</TSA_WD_AllPlayerPawns_ColPawnType>
+  <TSA_WD_AllPlayerPawns_SearchPawnType>Pesquisar tipo…</TSA_WD_AllPlayerPawns_SearchPawnType>
+  <TSA_WD_AllPlayerPawns_Filter_AllTypes>Todos os tipos</TSA_WD_AllPlayerPawns_Filter_AllTypes>
+  <TSA_WD_PawnType_Humanoid>Humanoide</TSA_WD_PawnType_Humanoid>
+  <TSA_WD_PawnType_Prisoner>Prisioneiro</TSA_WD_PawnType_Prisoner>
+  <TSA_WD_PawnType_Animal>Animal</TSA_WD_PawnType_Animal>
+  <TSA_WD_PawnType_Mechanoid>Mecanoide</TSA_WD_PawnType_Mechanoid>
+  <TSA_WD_PawnType_Vehicle>Veículo</TSA_WD_PawnType_Vehicle>
+  <TSA_WD_AllPlayerPawns_ColLocationType>Tipo de local</TSA_WD_AllPlayerPawns_ColLocationType>
+  <TSA_WD_AllPlayerPawns_ColLocationName>Nome do local</TSA_WD_AllPlayerPawns_ColLocationName>
+  <TSA_WD_PawnCol_PawnName>Nome do indivíduo</TSA_WD_PawnCol_PawnName>
+  <TSA_WD_FilterByPawnName>Filtrar por nome do indivíduo</TSA_WD_FilterByPawnName>
+  <TSA_WD_FilterByLocationName>Filtrar por nome do local</TSA_WD_FilterByLocationName>
+  <TSA_WD_FilterByLocationType>Filtrar por tipo de local</TSA_WD_FilterByLocationType>
+  <TSA_WD_FilterByStar>Filtrar por estrela</TSA_WD_FilterByStar>
+  <TSA_WD_FilterByNew>Filtrar por marca de entrada</TSA_WD_FilterByNew>
+  <TSA_WD_FilterBySource>Filtrar por origem</TSA_WD_FilterBySource>
+  <TSA_WD_FilterByXenotype>Filtrar por xenótipo</TSA_WD_FilterByXenotype>
+  <TSA_WD_Filter_AllXenotypes>Todos os xenótipos</TSA_WD_Filter_AllXenotypes>
+  <TSA_WD_FilterByPsycast>Filtrar por poder psíquico</TSA_WD_FilterByPsycast>
+  <TSA_WD_Filter_AllPsycasts>Todos os indivíduos</TSA_WD_Filter_AllPsycasts>
+  <TSA_WD_Filter_NoPsycasts>Sem poderes psíquicos</TSA_WD_Filter_NoPsycasts>
+  <TSA_WD_AllPlayerPawns_LocColony>Colônia</TSA_WD_AllPlayerPawns_LocColony>
+  <TSA_WD_AllPlayerPawns_LocCamp>Acampamento</TSA_WD_AllPlayerPawns_LocCamp>
+  <TSA_WD_AllPlayerPawns_LocOutpost>Posto avançado</TSA_WD_AllPlayerPawns_LocOutpost>
+  <TSA_WD_AllPlayerPawns_LocCaravan>Caravana no mapa-múndi</TSA_WD_AllPlayerPawns_LocCaravan>
+  <TSA_WD_AllPlayerPawns_LocTempFight>Mapa de combate temporário</TSA_WD_AllPlayerPawns_LocTempFight>
+  <TSA_WD_AllPlayerPawns_TempFightDefault>Mapa de combate</TSA_WD_AllPlayerPawns_TempFightDefault>
+  <TSA_WD_AllPlayerPawns_JumpTip>Ir para {0}</TSA_WD_AllPlayerPawns_JumpTip>
+  <TSA_WD_AllPlayerPawns_ColStar>★</TSA_WD_AllPlayerPawns_ColStar>
+  <TSA_WD_AllPlayerPawns_StarTip>Marque indivíduos favoritos que você quer manter. As estrelas são salvas com este mundo. Elas não bloqueiam a transferência; use o filtro para ocultá-los ao mover em massa.</TSA_WD_AllPlayerPawns_StarTip>
+  <TSA_WD_PawnRoster_ColNew>Marca de entrada</TSA_WD_PawnRoster_ColNew>
+  <TSA_WD_PawnRoster_ColNewTip>Dias de jogo desde que este indivíduo entrou na sua facção pela primeira vez (recrutamento, conversão, andarilho, recém-nascido e similares). Continua contando nos postos avançados. Não é redefinida ao mover entre colônia e postos avançados. Em saves antigos, a marca pode ser estimada a partir do tempo de serviço como colono.</TSA_WD_PawnRoster_ColNewTip>
+  <TSA_WD_PawnRoster_Filter_JoinLt5>Marca de entrada inferior a 5 dias</TSA_WD_PawnRoster_Filter_JoinLt5>
+  <TSA_WD_PawnRoster_Filter_JoinLt15>Marca de entrada inferior a 15 dias</TSA_WD_PawnRoster_Filter_JoinLt15>
+  <TSA_WD_PawnRoster_Filter_JoinLt30>Marca de entrada inferior a 30 dias</TSA_WD_PawnRoster_Filter_JoinLt30>
+  <TSA_WD_PawnRoster_Filter_JoinGte5>Marca de entrada de 5+ dias</TSA_WD_PawnRoster_Filter_JoinGte5>
+  <TSA_WD_PawnRoster_Filter_JoinGte15>Marca de entrada de 15+ dias</TSA_WD_PawnRoster_Filter_JoinGte15>
+  <TSA_WD_PawnRoster_Filter_JoinGte30>Marca de entrada de 30+ dias</TSA_WD_PawnRoster_Filter_JoinGte30>
+  <TSA_WD_JoinFilterTip_All>Seleciona todos os indivíduos na lista atual.</TSA_WD_JoinFilterTip_All>
+  <TSA_WD_JoinFilterTip_Lt5>Seleciona indivíduos cuja marca de entrada é inferior a 5 dias de jogo.</TSA_WD_JoinFilterTip_Lt5>
+  <TSA_WD_JoinFilterTip_Lt15>Seleciona indivíduos cuja marca de entrada é inferior a 15 dias de jogo.</TSA_WD_JoinFilterTip_Lt15>
+  <TSA_WD_JoinFilterTip_Lt30>Seleciona indivíduos cuja marca de entrada é inferior a 30 dias de jogo.</TSA_WD_JoinFilterTip_Lt30>
+  <TSA_WD_JoinFilterTip_Gte5>Seleciona indivíduos cuja marca de entrada é de 5 dias de jogo ou mais.</TSA_WD_JoinFilterTip_Gte5>
+  <TSA_WD_JoinFilterTip_Gte15>Seleciona indivíduos cuja marca de entrada é de 15 dias de jogo ou mais.</TSA_WD_JoinFilterTip_Gte15>
+  <TSA_WD_JoinFilterTip_Gte30>Seleciona indivíduos cuja marca de entrada é de 30 dias de jogo ou mais.</TSA_WD_JoinFilterTip_Gte30>
+  <TSA_WD_AllPlayerPawns_Filter_AllAnywhere>Todos em qualquer lugar</TSA_WD_AllPlayerPawns_Filter_AllAnywhere>
+  <TSA_WD_AllPlayerPawns_Filter_StarredAnywhere>Com estrela</TSA_WD_AllPlayerPawns_Filter_StarredAnywhere>
+  <TSA_WD_AllPlayerPawns_Filter_NotStarredAnywhere>Sem estrela</TSA_WD_AllPlayerPawns_Filter_NotStarredAnywhere>
+  <TSA_WD_AllPlayerPawns_Filter_AllColony>Todos</TSA_WD_AllPlayerPawns_Filter_AllColony>
+  <TSA_WD_AllPlayerPawns_Filter_StarredColony>Com estrela</TSA_WD_AllPlayerPawns_Filter_StarredColony>
+  <TSA_WD_AllPlayerPawns_Filter_NotStarredColony>Sem estrela</TSA_WD_AllPlayerPawns_Filter_NotStarredColony>
+  <TSA_WD_OutpostPawns_Filter_AllPawns>Todos os indivíduos</TSA_WD_OutpostPawns_Filter_AllPawns>
+  <TSA_WD_OutpostPawns_Filter_Starred>Indivíduos com estrela</TSA_WD_OutpostPawns_Filter_Starred>
+  <TSA_WD_OutpostPawns_Filter_NotStarred>Sem estrela</TSA_WD_OutpostPawns_Filter_NotStarred>
+  <TSA_WD_TypeFilter_CountTip>{0} indivíduos. Isso é {1}% da lista atual.</TSA_WD_TypeFilter_CountTip>
+  <TSA_WD_StarFilterTip_AllAnywhere>Seleciona todos os indivíduos, em qualquer local.</TSA_WD_StarFilterTip_AllAnywhere>
+  <TSA_WD_StarFilterTip_StarredAnywhere>Seleciona indivíduos marcados com uma ★, em qualquer local.</TSA_WD_StarFilterTip_StarredAnywhere>
+  <TSA_WD_StarFilterTip_NotStarredAnywhere>Seleciona indivíduos não marcados com uma ★, em qualquer local.</TSA_WD_StarFilterTip_NotStarredAnywhere>
+  <TSA_WD_StarFilterTip_AllColony>Seleciona todos os indivíduos no mapa de uma colônia.</TSA_WD_StarFilterTip_AllColony>
+  <TSA_WD_StarFilterTip_StarredColony>Seleciona indivíduos marcados com uma ★ no mapa de uma colônia.</TSA_WD_StarFilterTip_StarredColony>
+  <TSA_WD_StarFilterTip_NotStarredColony>Seleciona indivíduos não marcados com uma ★ no mapa de uma colônia.</TSA_WD_StarFilterTip_NotStarredColony>
+  <TSA_WD_OutpostStarFilterTip_All>Seleciona todos os indivíduos neste posto avançado.</TSA_WD_OutpostStarFilterTip_All>
+  <TSA_WD_OutpostStarFilterTip_Starred>Seleciona indivíduos marcados com uma ★.</TSA_WD_OutpostStarFilterTip_Starred>
+  <TSA_WD_OutpostStarFilterTip_NotStarred>Seleciona indivíduos não marcados com uma ★.</TSA_WD_OutpostStarFilterTip_NotStarred>
+  <TSA_WD_AllPlayerPawns_DeselectAll>Desmarcar todos</TSA_WD_AllPlayerPawns_DeselectAll>
+  <TSA_WD_AllPlayerPawns_DeselectAllTip>Limpa a seleção atual. Não seleciona ninguém.</TSA_WD_AllPlayerPawns_DeselectAllTip>
+  <TSA_WD_AllPlayerPawns_SmartSendNow>Envio inteligente agora</TSA_WD_AllPlayerPawns_SmartSendNow>
+  <TSA_WD_AllPlayerPawns_SmartSendTip>Envia imediatamente os indivíduos selecionados como caravanas. Para cada indivíduo, escolhe a melhor habilidade e depois o posto avançado mais próximo que corresponda, a partir de onde ele está agora, e parte na hora. Isto não é um agendamento. Usa a mesma lista de exclusão de postos avançados da Atribuição inteligente de prisioneiros.</TSA_WD_AllPlayerPawns_SmartSendTip>
+  <TSA_WD_AllPlayerPawns_SmartAssignDone>Atribuição inteligente concluída e {0} indivíduo(s) enviado(s).</TSA_WD_AllPlayerPawns_SmartAssignDone>
+  <TSA_WD_AllPlayerPawns_SmartAssignPartial>Atribuição inteligente concluída e {0} indivíduo(s) enviado(s). Não foi possível corresponder ou enviar {1}.</TSA_WD_AllPlayerPawns_SmartAssignPartial>
+  <TSA_WD_AllPlayerPawns_SmartAssignNone>Nenhum posto avançado correspondente para os indivíduos selecionados (ou nenhum estava pronto para viajar).</TSA_WD_AllPlayerPawns_SmartAssignNone>
+  <TSA_WD_PawnTransfer_DialogTitle>Escolher destino</TSA_WD_PawnTransfer_DialogTitle>
+  <TSA_WD_PawnTransfer_DialogSubtitle>Movendo {0} indivíduo(s)</TSA_WD_PawnTransfer_DialogSubtitle>
+  <TSA_WD_PawnTransfer_SendHere>Enviar para cá</TSA_WD_PawnTransfer_SendHere>
+  <TSA_WD_PawnTransfer_SearchDest>Pesquisar destino…</TSA_WD_PawnTransfer_SearchDest>
+  <TSA_WD_PawnTransfer_Colonies>Colônias</TSA_WD_PawnTransfer_Colonies>
+  <TSA_WD_PawnTransfer_Outposts>Postos avançados</TSA_WD_PawnTransfer_Outposts>
+  <TSA_WD_PawnTransfer_ExitHere>Sair por aqui</TSA_WD_PawnTransfer_ExitHere>
+  <TSA_WD_PawnTransfer_ExitHereSubtitle>Formar uma caravana neste bloco de posto avançado</TSA_WD_PawnTransfer_ExitHereSubtitle>
+  <TSA_WD_PawnTransfer_ExitHereUnavailable>Sair por aqui só está disponível quando todos os indivíduos selecionados são de um mesmo posto avançado.</TSA_WD_PawnTransfer_ExitHereUnavailable>
+  <TSA_WD_PawnTransfer_ExitedHere>Indivíduos saíram em {0}.</TSA_WD_PawnTransfer_ExitedHere>
+  <TSA_WD_PawnTransfer_NoColonies>Nenhuma colônia do jogador com mapa.</TSA_WD_PawnTransfer_NoColonies>
+  <TSA_WD_PawnTransfer_NoOutposts>Nenhum posto avançado do jogador.</TSA_WD_PawnTransfer_NoOutposts>
+  <TSA_WD_PawnTransfer_NoSelection>Selecione pelo menos um indivíduo.</TSA_WD_PawnTransfer_NoSelection>
+  <TSA_WD_PawnTransfer_NotMovable>Apenas indivíduos em postos avançados ou colônias podem ser movidos desta janela.</TSA_WD_PawnTransfer_NotMovable>
+  <TSA_WD_PawnTransfer_NotTravelReady>{0} não pode viajar agora.</TSA_WD_PawnTransfer_NotTravelReady>
+  <TSA_WD_PawnTransfer_NotTravelReady_Dead>{0} está morto ou desapareceu.</TSA_WD_PawnTransfer_NotTravelReady_Dead>
+  <TSA_WD_PawnTransfer_NotTravelReady_Downed>{0} está caído e não pode viajar.</TSA_WD_PawnTransfer_NotTravelReady_Downed>
+  <TSA_WD_PawnTransfer_NotTravelReady_Mental>{0} está em estado mental e não pode viajar.</TSA_WD_PawnTransfer_NotTravelReady_Mental>
+  <TSA_WD_PawnTransfer_NotTravelReady_Labor>{0} está em trabalho de parto e não pode viajar.</TSA_WD_PawnTransfer_NotTravelReady_Labor>
+  <TSA_WD_PawnTransfer_NotTravelReady_Immobile>{0} não pode se mover e não pode viajar.</TSA_WD_PawnTransfer_NotTravelReady_Immobile>
+  <TSA_WD_PawnTransfer_EscortRequired>Inclua um caminhante capaz, animal de carga ou veículo nesta transferência — indivíduos imóveis ou caídos não podem partir sozinhos enquanto outros permanecem no posto avançado.</TSA_WD_PawnTransfer_EscortRequired>
+  <TSA_WD_PawnTransfer_ImmobilizedEvacuate>Caravana formada sem um caminhante capaz. Ela não pode se mover até que um colono capaz, animal de carga ou veículo se junte a ela.</TSA_WD_PawnTransfer_ImmobilizedEvacuate>
+  <TSA_WD_PawnTransfer_InvalidDestination>Destino inválido.</TSA_WD_PawnTransfer_InvalidDestination>
+  <TSA_WD_PawnTransfer_SameDestination>Não é possível mover para o mesmo local.</TSA_WD_PawnTransfer_SameDestination>
+  <TSA_WD_PawnTransfer_MultipleOutposts>postos avançados selecionados</TSA_WD_PawnTransfer_MultipleOutposts>
+  <TSA_WD_PawnTransfer_MultiSourceTip>Cada posto avançado ou colônia de origem gera a própria caravana.</TSA_WD_PawnTransfer_MultiSourceTip>
+  <TSA_WD_PawnTransfer_LeaveOneBehind>Pelo menos um colono deve permanecer na colônia.</TSA_WD_PawnTransfer_LeaveOneBehind>
+  <TSA_WD_PawnTransfer_CaravanFailed>Não foi possível criar a caravana de transferência.</TSA_WD_PawnTransfer_CaravanFailed>
+  <TSA_WD_PawnTransfer_CaravanRoutedToColony>Caravana de transferência encaminhada para {0}; os indivíduos entrarão ao chegar.</TSA_WD_PawnTransfer_CaravanRoutedToColony>
+  <TSA_WD_PawnTransfer_CaravanRoutedToOutpost>Caravana de transferência encaminhada para {0}. Os indivíduos se juntam ao posto avançado quando ele tiver a adição automática de chegadas ativada.</TSA_WD_PawnTransfer_CaravanRoutedToOutpost>
+  <TSA_WD_PawnTransfer_Log>Transferência ordenada: {0} indivíduo(s) de {1} para {2}</TSA_WD_PawnTransfer_Log>
+  <TSA_WD_PawnTransfer_WithoutFood>Indivíduo sendo transferido sem comida.</TSA_WD_PawnTransfer_WithoutFood>
+  <TSA_WD_PawnTransfer_WithoutFoodPlural>{0} indivíduos sendo transferidos sem comida.</TSA_WD_PawnTransfer_WithoutFoodPlural>
+</LanguageData>

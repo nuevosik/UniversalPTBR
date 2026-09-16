@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_AlliedFaction>aliado</TSA_WD_AlliedFaction>
+  <TSA_WD_AlliedRaidOrder_AwardToPlayer>Atacar e conceder ao jogador (-{0} de boa vontade. Boa vontade atual: {1})</TSA_WD_AlliedRaidOrder_AwardToPlayer>
+  <TSA_WD_AlliedRaidOrder_ClaimForAlly>Atacar e reivindicar para si (-{0} de boa vontade. Boa vontade atual: {1})</TSA_WD_AlliedRaidOrder_ClaimForAlly>
+  <TSA_WD_AlliedRaidOrder_DestroyTurret>Atacar e destruir (-{0} de boa vontade. Boa vontade atual: {1})</TSA_WD_AlliedRaidOrder_DestroyTurret>
+  <TSA_WD_Log_Raid_Aborted_BelowMinRatio>Incursão abortada: razão de lançamento {0}× abaixo do mínimo {1}×. Nenhuma força comprometida.</TSA_WD_Log_Raid_Aborted_BelowMinRatio>
+  <TSA_WD_Log_Raid_Aborted_Pollution>{0} cancelou uma incursão contra {1}: a rota perderia cerca de {2} de força com a poluição.</TSA_WD_Log_Raid_Aborted_Pollution>
+  <TSA_WD_AlliedRaidOrder_DisabledGoodwill>Custa {0} de boa vontade. Você tem {1}; pelo menos {2} de boa vontade deve permanecer.</TSA_WD_AlliedRaidOrder_DisabledGoodwill>
+  <TSA_WD_AlliedRaidOrder_DisabledLowWinChance>A probabilidade de sucesso está abaixo do mínimo configurado.</TSA_WD_AlliedRaidOrder_DisabledLowWinChance>
+  <TSA_WD_AlliedRaidOrder_GizmoDesc>Peça a este assentamento aliado para lançar uma incursão contra um de seus inimigos.</TSA_WD_AlliedRaidOrder_GizmoDesc>
+  <TSA_WD_AlliedRaidOrder_GizmoLabel>Ordenar incursão aliada</TSA_WD_AlliedRaidOrder_GizmoLabel>
+  <TSA_WD_AlliedRaidOrder_Launched>{0} lançou uma incursão contra {1}.</TSA_WD_AlliedRaidOrder_Launched>
+  <TSA_WD_AlliedRaidOrder_NotEnoughGoodwill>Custa {0} de boa vontade. Você tem {1}; pelo menos {2} de boa vontade deve permanecer.</TSA_WD_AlliedRaidOrder_NotEnoughGoodwill>
+  <TSA_WD_AlliedRaidOrder_PreviewTitle>Ordem de incursão aliada de {0}</TSA_WD_AlliedRaidOrder_PreviewTitle>
+  <TSA_WD_AlliedRaidOrder_WinChanceTooLow>A probabilidade de sucesso está abaixo do exigido ({0}). Melhore as chances antes de lançar.</TSA_WD_AlliedRaidOrder_WinChanceTooLow>
+  <TSA_WD_Ally>Aliado</TSA_WD_Ally>
+  <TSA_WD_AttackerPower>Força de ataque projetada</TSA_WD_AttackerPower>
+  <TSA_WD_Attackers>Atacantes</TSA_WD_Attackers>
+  <TSA_WD_ContribStrength>Contribuiu com {0} de força</TSA_WD_ContribStrength>
+  <TSA_WD_RaidForce_ClickExclude>Clique para excluir este aliado da incursão.</TSA_WD_RaidForce_ClickExclude>
+  <TSA_WD_RaidForce_ClickInclude>Clique para incluir este aliado na incursão.</TSA_WD_RaidForce_ClickInclude>
+  <TSA_WD_RaidForce_SupportingAllies>Aliados de apoio</TSA_WD_RaidForce_SupportingAllies>
+  <TSA_WD_RaidForce_SelectAllAlliesTip>Clique para selecionar ou desmarcar todos os aliados de apoio.</TSA_WD_RaidForce_SelectAllAlliesTip>
+  <TSA_WD_Defender>Defensor</TSA_WD_Defender>
+  <TSA_WD_DefenderPower>Poder do defensor</TSA_WD_DefenderPower>
+  <TSA_WD_ExecuteRaid>Executar incursão</TSA_WD_ExecuteRaid>
+  <TSA_WD_ExpeditionForce>Força expedicionária</TSA_WD_ExpeditionForce>
+  <TSA_WD_ForceNeutralized>Totalmente aniquilada</TSA_WD_ForceNeutralized>
+  <TSA_WD_Header_Raid>Expedição</TSA_WD_Header_Raid>
+  <TSA_WD_InterceptionFailed>Confronto de caravanas perdido. {0} se desvencilhou e continua sua missão.</TSA_WD_InterceptionFailed>
+  <TSA_WD_InterceptionVictory>Confronto de caravanas vencido! As forças hostis foram eliminadas e sua missão acabou.</TSA_WD_InterceptionVictory>
+  <TSA_WD_OutpostDefense_ChoiceTitle>Posto avançado sob ataque</TSA_WD_OutpostDefense_ChoiceTitle>
+  <TSA_WD_OutpostDefense_ChoiceText>{0} está sob ataque de {1}. Escolha entre resolver a incursão automaticamente ou lutar manualmente em um mapa temporário.</TSA_WD_OutpostDefense_ChoiceText>
+  <TSA_WD_OutpostDefense_SkirmishTitle>Escaramuças indo mal</TSA_WD_OutpostDefense_SkirmishTitle>
+  <TSA_WD_OutpostDefense_SkirmishLossBanner>Seu posto avançado perdeu {0} de força e alguns colonos se feriram.</TSA_WD_OutpostDefense_SkirmishLossBanner>
+  <TSA_WD_OutpostDefense_SkirmishText>As escaramuças iniciais em {0} não correram a seu favor contra {1}. Alguns defensores estão feridos e a força de combate do posto avançado está reduzida. O que você faz?</TSA_WD_OutpostDefense_SkirmishText>
+  <TSA_WD_OutpostDefense_SkirmishLetter_Label>Escaramuças indo mal</TSA_WD_OutpostDefense_SkirmishLetter_Label>
+  <TSA_WD_OutpostDefense_SkirmishLetter_Text>Os primeiros confrontos em {0} correram mal contra {1}. Alguns defensores estão feridos e a força da guarnição caiu. Escolha como continuar a defesa.</TSA_WD_OutpostDefense_SkirmishLetter_Text>
+  <TSA_WD_OutpostDefense_SkirmishLog>Escaramuças em {0} correram mal contra {1}. Defensores feridos; força do posto avançado reduzida.</TSA_WD_OutpostDefense_SkirmishLog>
+  <TSA_WD_OutpostDefense_AttackerStrength>Força do atacante: {0}</TSA_WD_OutpostDefense_AttackerStrength>
+  <TSA_WD_OutpostDefense_DefenderStrength>Força do defensor: {0}</TSA_WD_OutpostDefense_DefenderStrength>
+  <TSA_WD_OutpostDefense_DefenderRatio>Proporção de defensores: {0}x</TSA_WD_OutpostDefense_DefenderRatio>
+  <TSA_WD_OutpostDefense_DefenderRatioTip>Força relativa das suas forças de defesa em relação às forças de ataque.</TSA_WD_OutpostDefense_DefenderRatioTip>
+  <TSA_WD_OutpostDefense_FrozenDuringManualDefense>Este posto avançado está bloqueado enquanto uma defesa manual estiver em andamento.</TSA_WD_OutpostDefense_FrozenDuringManualDefense>
+  <TSA_WD_OutpostDefense_JoinBattle>Participar da defesa</TSA_WD_OutpostDefense_JoinBattle>
+  <TSA_WD_OutpostDefense_JoinBattleDesc>Entre no campo de batalha temporário defendendo {0}. Combatentes extras retornam como caravana quando a batalha terminar.</TSA_WD_OutpostDefense_JoinBattleDesc>
+  <TSA_WD_OutpostDefense_DefenderWinChance>Probabilidade de vitória da defesa: {0}</TSA_WD_OutpostDefense_DefenderWinChance>
+  <TSA_WD_OutpostDefense_GoToOutpost>Ir para o posto avançado</TSA_WD_OutpostDefense_GoToOutpost>
+  <TSA_WD_OutpostDefense_ViewDefenders>Ver defensores</TSA_WD_OutpostDefense_ViewDefenders>
+  <TSA_WD_OutpostDefense_DefendersTitle>Defensores em {0}</TSA_WD_OutpostDefense_DefendersTitle>
+  <TSA_WD_OutpostDefense_DefendersHint>Clique em um defensor para inspecionar habilidades, saúde, equipamento e vestuário.</TSA_WD_OutpostDefense_DefendersHint>
+  <TSA_WD_OutpostDefense_PawnStrength>Força de combate: {0}</TSA_WD_OutpostDefense_PawnStrength>
+  <TSA_WD_OutpostDefense_Unarmed>Desarmado</TSA_WD_OutpostDefense_Unarmed>
+  <TSA_WD_OutpostDefense_ApparelCount>{0} peça(s) de vestuário</TSA_WD_OutpostDefense_ApparelCount>
+  <TSA_WD_OutpostDefense_NoApparel>Sem vestuário</TSA_WD_OutpostDefense_NoApparel>
+  <TSA_WD_OutpostDefense_NoEquipmentIcons>Nenhum item equipado</TSA_WD_OutpostDefense_NoEquipmentIcons>
+  <TSA_WD_OutpostDefense_AutoResolve>Resolução automática</TSA_WD_OutpostDefense_AutoResolve>
+  <TSA_WD_OutpostDefense_FightManually>Lutar manualmente</TSA_WD_OutpostDefense_FightManually>
+  <TSA_WD_OutpostDefense_Letter_Label>Inimigos chegando em 15 segundos</TSA_WD_OutpostDefense_Letter_Label>
+  <TSA_WD_OutpostDefense_Letter_Text>{0} está sendo atacado por {1}. Os ocupantes do seu posto avançado foram posicionados em um campo de batalha temporário. Os inimigos chegarão em cerca de 15 segundos.</TSA_WD_OutpostDefense_Letter_Text>
+  <TSA_WD_OutpostDefense_LetterImmediate_Label>Inimigos chegando agora</TSA_WD_OutpostDefense_LetterImmediate_Label>
+  <TSA_WD_OutpostDefense_LetterImmediate_Text>{0} está sendo atacado por {1}. Os ocupantes do seu posto avançado foram posicionados em um campo de batalha temporário. Os inimigos estão chegando imediatamente.</TSA_WD_OutpostDefense_LetterImmediate_Text>
+  <TSA_WD_OutpostDefense_RaidLabel>Incursão ao posto avançado</TSA_WD_OutpostDefense_RaidLabel>
+  <TSA_WD_OutpostDefense_Victory>Defesa do posto avançado vencida. {0} sobrevivente(s) retornaram para {1}.</TSA_WD_OutpostDefense_Victory>
+  <TSA_WD_OutpostDefense_Defeat>Defesa do posto avançado perdida. Aplicando derrota simulada de incursão a {0}.</TSA_WD_OutpostDefense_Defeat>
+  <TSA_WD_OutpostDefense_VictoryLetter_Label>Defesa do Posto Avançado Vencida</TSA_WD_OutpostDefense_VictoryLetter_Label>
+  <TSA_WD_OutpostDefense_VictoryLetter_Text>Seus defensores em {0} derrotaram o ataque de {1} no campo de batalha temporário.\n\n{2} defensor(es) sobrevivente(s) retornaram ao posto avançado.</TSA_WD_OutpostDefense_VictoryLetter_Text>
+  <TSA_WD_OutpostDefense_DefeatLetter_Label>Defesa do Posto Avançado Perdida</TSA_WD_OutpostDefense_DefeatLetter_Label>
+  <TSA_WD_OutpostDefense_DefeatLetter_Text>Seus defensores em {0} foram derrotados por {1}.\n\nA incursão ao posto avançado foi resolvida como uma defesa perdida.</TSA_WD_OutpostDefense_DefeatLetter_Text>
+  <TSA_WD_OutpostRetreat_Letter_Label>Guarnição em retirada</TSA_WD_OutpostRetreat_Letter_Label>
+  <TSA_WD_OutpostRetreat_Letter_Text>Alguns defensores escaparam de {0} antes de sua queda. {1} colonos recuaram em uma caravana.</TSA_WD_OutpostRetreat_Letter_Text>
+  <TSA_WD_OutpostDefense_MapFailed>Não foi possível criar um mapa de defesa manual para {0}; devolvendo os defensores.</TSA_WD_OutpostDefense_MapFailed>
+  <TSA_WD_OutpostDefense_ExtraPawnsReturned>{0} colono(s) extra(s) retornaram do campo de batalha temporário como caravana em {1}.</TSA_WD_OutpostDefense_ExtraPawnsReturned>
+  <TSA_WD_TempEncounter_EdgeExitBlocked>Você não pode sair do mapa até esta luta terminar.</TSA_WD_TempEncounter_EdgeExitBlocked>
+  <TSA_WD_LaunchExpedition>Lançar ataque</TSA_WD_LaunchExpedition>
+  <TSA_WD_LaunchExpeditionDesc>Envie uma força de ataque deste posto avançado para incursionar contra um assentamento inimigo próximo ou uma torreta antitanque.</TSA_WD_LaunchExpeditionDesc>
+  <TSA_WD_Letter_IncomingRaid_Label>Incursão a caminho: {0}</TSA_WD_Letter_IncomingRaid_Label>
+  <TSA_WD_Letter_IncomingRaid_Text>Uma expedição hostil de {0} foi lançada! Ela está viajando pelo mapa-múndi para atacar {1}.\n\nVocê tem tempo para preparar suas defesas ou interceptá-la no mapa-múndi antes que chegue.</TSA_WD_Letter_IncomingRaid_Text>
+  <TSA_WD_Letter_IncomingRaid_Colony_Label>Incursão WD na colônia lançada: {0} ({1})</TSA_WD_Letter_IncomingRaid_Colony_Label>
+  <TSA_WD_Letter_IncomingRaid_Colony_Text>Uma expedição hostil de {0} está indo em direção à sua colônia {1} pelo mapa-múndi.\n\nPontos de incursão esperados na chegada: {2}\nChegada estimada em {3} dias.\n\nVocê tem tempo para preparar defesas em {1} ou interceptá-la no mapa-múndi antes que chegue.</TSA_WD_Letter_IncomingRaid_Colony_Text>
+  <TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Label>Incursão WD na colônia lançada: {0} ({1})</TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Label>
+  <TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Text>{0} enviou uma força de {1} contra sua colônia {2}.\n\nPontos de incursão esperados na chegada: {3}\nChegada estimada em {4} dias.\n\nVocê tem tempo para preparar defesas em {2} ou interceptá-la no mapa-múndi antes que chegue.</TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Text>
+  <TSA_WD_Letter_IncomingDropRaid_Label>Incursão WD por cápsulas a caminho</TSA_WD_Letter_IncomingDropRaid_Label>
+  <TSA_WD_Letter_IncomingDropRaid_Text>Cápsulas de transporte de {0} estão a caminho da sua colônia {1}.\n\nPontos de incursão esperados na chegada: {2}\nChegada estimada em {3} dias.</TSA_WD_Letter_IncomingDropRaid_Text>
+  <TSA_WD_Letter_IncomingDropRaid_Dispatch_Label>Incursão WD por cápsulas a caminho ({0})</TSA_WD_Letter_IncomingDropRaid_Dispatch_Label>
+  <TSA_WD_Letter_IncomingDropRaid_Dispatch_Text>{0} lançou cápsulas de transporte de {1} contra sua colônia {2}.\n\nPontos de incursão esperados na chegada: {3}\nChegada estimada em {4} dias.</TSA_WD_Letter_IncomingDropRaid_Dispatch_Text>
+  <TSA_WD_Letter_IncomingRaid_Outpost_Label>Incursão WD contra {0} lançada ({1})</TSA_WD_Letter_IncomingRaid_Outpost_Label>
+  <TSA_WD_Letter_IncomingRaid_Outpost_Text>Uma expedição hostil de {0} está indo em direção ao seu posto avançado {1} pelo mapa-múndi.\n\nPontos de incursão esperados na chegada: {2}\nForça do posto avançado: {3}\nProbabilidade de vitória da defesa (resolução automática): {4}\nChegada estimada em {5} dias.\n\nVocê tem tempo para preparar defesas ou interceptá-la no mapa-múndi antes que chegue.</TSA_WD_Letter_IncomingRaid_Outpost_Text>
+  <TSA_WD_Letter_IncomingRaid_JumpAttacker>Ir para o atacante</TSA_WD_Letter_IncomingRaid_JumpAttacker>
+  <TSA_WD_Letter_IncomingRaid_JumpTarget>Ir para o alvo</TSA_WD_Letter_IncomingRaid_JumpTarget>
+  <TSA_WD_Letter_OutpostDefended_Label>Posto Avançado Defendido</TSA_WD_Letter_OutpostDefended_Label>
+  <TSA_WD_Letter_OutpostDefended_Text>{0} repeliu com sucesso um ataque de {1}.</TSA_WD_Letter_OutpostDefended_Text>
+  <TSA_WD_Letter_OutpostDefended_Captives>{0} prisioneiro(s) foram capturados e mantidos no posto avançado.</TSA_WD_Letter_OutpostDefended_Captives>
+  <TSA_WD_Letter_OutpostRaided_Label>Posto Avançado Invadido</TSA_WD_Letter_OutpostRaided_Label>
+  <TSA_WD_Letter_OutpostRaided_Text>{0} foi invadido por {1}. Pessoal perdido.</TSA_WD_Letter_OutpostRaided_Text>
+  <TSA_WD_Letter_RaidPlayer_Label>Incursão WD: {0}</TSA_WD_Letter_RaidPlayer_Label>
+  <TSA_WD_Letter_RaidPlayer_Text>Um ataque foi lançado do mapa-múndi por {0}.</TSA_WD_Letter_RaidPlayer_Text>
+  <TSA_WD_Letter_RaidPlayer_Colony_Label>Incursão WD na colônia: {0} ({1})</TSA_WD_Letter_RaidPlayer_Colony_Label>
+  <TSA_WD_Letter_RaidPlayer_Colony_Text>Invasores de {0} chegaram à sua colônia {1} e estão atacando.\n\nResponda no mapa imediatamente.</TSA_WD_Letter_RaidPlayer_Colony_Text>
+  <TSA_WD_Log_AttemptHeader>Análise de incursão tentada</TSA_WD_Log_AttemptHeader>
+  <TSA_WD_Log_AttemptHeader_Aborted>Expedição abortada</TSA_WD_Log_AttemptHeader_Aborted>
+  <TSA_WD_Log_AttemptHeader_Launched>Expedição lançada</TSA_WD_Log_AttemptHeader_Launched>
+  <TSA_WD_Log_Clash_Detail>{0} ({2}) — Força: {1}</TSA_WD_Log_Clash_Detail>
+  <TSA_WD_Log_AlliedRaidLaunchedByPlayer>EXPEDIÇÃO: o assentamento aliado {0} lançou uma incursão contra {1} (iniciada pelo jogador)</TSA_WD_Log_AlliedRaidLaunchedByPlayer>
+  <TSA_WD_Log_PlayerRaidLaunched>EXPEDIÇÃO: Seu posto avançado {0} lançou uma incursão contra {1}</TSA_WD_Log_PlayerRaidLaunched>
+  <TSA_WD_Log_RaidCancelled>{0}: missão cancelada: alvo destruído ou inválido.</TSA_WD_Log_RaidCancelled>
+  <TSA_WD_Log_DebugRaidCancelled>{0} (modo de depuração) cancelado: o destino se tornou inválido.</TSA_WD_Log_DebugRaidCancelled>
+  <TSA_WD_Log_Raid_Aborted>INCURSÃO ABORTADA: o alvo não é mais válido ou foi destruído.</TSA_WD_Log_Raid_Aborted>
+  <TSA_WD_Log_Raid_AbortedSpace>INCURSÃO: abortada (atacante no espaço)</TSA_WD_Log_Raid_AbortedSpace>
+  <TSA_WD_Log_Raid_Aborted_Detail>Esta expedição foi abortada antes do combate.</TSA_WD_Log_Raid_Aborted_Detail>
+  <TSA_WD_Log_Raid_Aborted_SameFaction>INCURSÃO: abortada (mesma facção)</TSA_WD_Log_Raid_Aborted_SameFaction>
+  <TSA_WD_Log_Raid_Aborted_TargetDespawned>INCURSÃO: abortada (alvo desapareceu)</TSA_WD_Log_Raid_Aborted_TargetDespawned>
+  <TSA_WD_Log_Raid_Aborted_TargetNull>INCURSÃO: abortada (o alvo não existe mais)</TSA_WD_Log_Raid_Aborted_TargetNull>
+  <TSA_WD_Log_Raid_Aborted_NoLongerHostile>INCURSÃO: abortada — {0} e {1} não estão mais em guerra. Força comprometida devolvida.</TSA_WD_Log_Raid_Aborted_NoLongerHostile>
+  <TSA_WD_Log_Raid_DefBase>Guarnição em {0}: {1} de força.</TSA_WD_Log_Raid_DefBase>
+  <TSA_WD_Log_Raid_DefContrib>{0} ({1}) forneceu +{2} de poder de defesa. (Bruto: {3}, Efic.: {4}% em {5} blocos).</TSA_WD_Log_Raid_DefContrib>
+  <TSA_WD_Log_Raid_ExpeditionLaunched>Incursão enviada: a caravana está a caminho.</TSA_WD_Log_Raid_ExpeditionLaunched>
+  <TSA_WD_RaidExpeditionLaunched>Expedição de incursão lançada contra {0}.</TSA_WD_RaidExpeditionLaunched>
+  <TSA_WD_Log_Raid_FactionDispatch>{0} enviou uma incursão de {1} contra {2}.</TSA_WD_Log_Raid_FactionDispatch>
+  <TSA_WD_Log_Raid_ColonyDelegated>Colônia escolhida como alvo e delegada a um aliado mais próximo</TSA_WD_Log_Raid_ColonyDelegated>
+  <TSA_WD_Log_Raid_Failed>Incursão fracassou: os atacantes foram repelidos.</TSA_WD_Log_Raid_Failed>
+  <TSA_WD_Log_Raid_ChokeIntercept>Incursão interceptada: {0} entrou na fortaleza {1} (alvo original: {2}).</TSA_WD_Log_Raid_ChokeIntercept>
+  <TSA_WD_Log_TargetOfOpportunity>{0} escolheu um alvo de oportunidade: {1} -&gt; {2}.</TSA_WD_Log_TargetOfOpportunity>
+  <TSA_WD_Log_Marauding>{0} continua pilhando após a vitória: {1} -&gt; {2}.</TSA_WD_Log_Marauding>
+  <TSA_WD_Log_AT_TurretProximityDetour>{0} desviou para atacar a torreta antitanque {2} (estava mirando {1}).</TSA_WD_Log_AT_TurretProximityDetour>
+  <TSA_WD_Log_AT_TurretHitDetour>{0} desviou para atacar a torreta antitanque {2} após ser bombardeado (estava mirando {1}).</TSA_WD_Log_AT_TurretHitDetour>
+  <TSA_WD_Log_AT_TurretClash>{0} ({1}) entra em confronto com {2} ({3}).</TSA_WD_Log_AT_TurretClash>
+  <TSA_WD_Log_AT_TurretClash_TravelerWon>{0} destruiu {1} e continua com {2} de força.</TSA_WD_Log_AT_TurretClash_TravelerWon>
+  <TSA_WD_Log_AT_TurretClash_TurretWon>{0} destruiu {1} e permanece com {2} de força.</TSA_WD_Log_AT_TurretClash_TurretWon>
+  <TSA_WD_Log_AT_TurretClash_Mutual>{0} e {1} destruíram um ao outro.</TSA_WD_Log_AT_TurretClash_Mutual>
+  <TSA_WD_Log_AT_TurretResume>{0} retoma o alvo original: {1}.</TSA_WD_Log_AT_TurretResume>
+  <TSA_WD_Log_SettlementAmbush>{0} prepara uma emboscada para {1} que passava: {2}.</TSA_WD_Log_SettlementAmbush>
+  <TSA_WD_Log_SettlementAmbushPursuitStopped>O interceptador de {0} interrompeu a perseguição. O alvo escapou.</TSA_WD_Log_SettlementAmbushPursuitStopped>
+  <TSA_WD_Message_SettlementAmbushPursuitStopped>Alvo escapou. O interceptador interrompeu a perseguição.</TSA_WD_Message_SettlementAmbushPursuitStopped>
+  <TSA_WD_TargetKind_Caravan>caravana</TSA_WD_TargetKind_Caravan>
+  <TSA_WD_TargetKind_TraderCaravan>caravana comercial</TSA_WD_TargetKind_TraderCaravan>
+  <TSA_WD_TargetKind_GiftCaravan>caravana de presentes</TSA_WD_TargetKind_GiftCaravan>
+  <TSA_WD_TargetKind_BribeCaravan>caravana de suborno</TSA_WD_TargetKind_BribeCaravan>
+  <TSA_WD_TargetKind_Raid>incursão</TSA_WD_TargetKind_Raid>
+  <TSA_WD_Letter_RaidDivertedFromPlayer_Label>Incursão desviada</TSA_WD_Letter_RaidDivertedFromPlayer_Label>
+  <TSA_WD_Letter_RaidDivertedFromPlayer_Text>{0} avistou um alvo de oportunidade e se desviou de você para atacar {1}.</TSA_WD_Letter_RaidDivertedFromPlayer_Text>
+  <TSA_WD_Log_Raid_PlayerAttack>INCURSÃO: ataque à colônia do jogador</TSA_WD_Log_Raid_PlayerAttack>
+  <TSA_WD_Log_Raid_SkippedLowRaidPower>INCURSÃO: {0} ignorado (poder de incursão disponível {1}; mínimo de 50 exigido).</TSA_WD_Log_Raid_SkippedLowRaidPower>
+  <TSA_WD_Log_Raid_SkippedLowStrength>INCURSÃO: {0} ignorado (força {1}; precisa de {2} para lançar incursões neste nível).</TSA_WD_Log_Raid_SkippedLowStrength>
+  <TSA_WD_Log_Raid_SkippedNoTarget>INCURSÃO: ignorada (nenhum alvo válido ao alcance)</TSA_WD_Log_Raid_SkippedNoTarget>
+  <TSA_WD_Log_Raid_BandPicked>Faixa {0} escolhida.</TSA_WD_Log_Raid_BandPicked>
+  <TSA_WD_Log_Raid_BandFallback>Faixa {0} escolhida, mas sem alvo válido. Alternativa: faixa {1}.</TSA_WD_Log_Raid_BandFallback>
+  <TSA_WD_Log_OutpostIncident>Incidente no posto avançado em {0}: perdeu {1} de força defensiva ({2} → {3}).</TSA_WD_Log_OutpostIncident>
+  <TSA_WD_Log_OutpostIncident_Destroyed>Um incidente destruiu o posto avançado {0}: perdeu {1} de força (ofensiva {2}, defesa {3}). Restam ruínas.</TSA_WD_Log_OutpostIncident_Destroyed>
+  <TSA_WD_Letter_OutpostIncident_Label>Incidente no posto avançado: {0}</TSA_WD_Letter_OutpostIncident_Label>
+  <TSA_WD_Letter_OutpostIncident_Text>Um pequeno incidente no mundo reduziu a força defensiva em {0} em {1}.</TSA_WD_Letter_OutpostIncident_Text>
+  <TSA_WD_Letter_OutpostIncidentDestroyed_Label>Posto avançado destruído: {0}</TSA_WD_Letter_OutpostIncidentDestroyed_Label>
+  <TSA_WD_Letter_OutpostIncidentDestroyed_Text>Um incidente no mundo destruiu {0} (perdeu {1} de força). Restam ruínas por um tempo, que bloqueiam novos postos avançados nas proximidades.</TSA_WD_Letter_OutpostIncidentDestroyed_Text>
+  <TSA_WD_Log_Raid_Successful>Incursão bem-sucedida: {0} foi conquistado.</TSA_WD_Log_Raid_Successful>
+  <TSA_WD_MinGarrisonCap>Piso de retenção da guarnição: {0} de força</TSA_WD_MinGarrisonCap>
+  <TSA_WD_Raid_GarrisonRetain>Retenção da guarnição (%)</TSA_WD_Raid_GarrisonRetain>
+  <TSA_WD_Raid_GarrisonRetainTooltip>Assentamentos e postos avançados sempre mantêm em casa pelo menos esta porcentagem da força máxima ao enviar uma incursão, caravana comercial ou equipe de construção (estradas, bloqueios de estrada, armadilhas de espinhos, fortificação). Máximo do nível para assentamentos, máximo dos ocupantes para postos avançados. Equipes de descontaminação são isentas. Atacantes primários e aliados seguem a mesma regra nas incursões.</TSA_WD_Raid_GarrisonRetainTooltip>
+  <TSA_WD_OfCurrentStrength>De {0} de força atual</TSA_WD_OfCurrentStrength>
+  <TSA_WD_OfCurrentOffStrength>De {0} de força ofensiva atual</TSA_WD_OfCurrentOffStrength>
+  <TSA_WD_PredictedEfficiency>Força na chegada</TSA_WD_PredictedEfficiency>
+  <TSA_WD_Primary>Primário</TSA_WD_Primary>
+  <TSA_WD_PrimaryAttacker>Atacante primário</TSA_WD_PrimaryAttacker>
+  <TSA_WD_RaidAnalysis>Análise da incursão</TSA_WD_RaidAnalysis>
+  <TSA_WD_RaidAnalysis_OutpostPreview>Análise da incursão (prévia)</TSA_WD_RaidAnalysis_OutpostPreview>
+  <TSA_WD_RaidDet_Defeat>Derrota</TSA_WD_RaidDet_Defeat>
+  <TSA_WD_RaidDet_Victory>Vitória</TSA_WD_RaidDet_Victory>
+  <TSA_WD_RaidLabel>Incursão: {0}</TSA_WD_RaidLabel>
+  <TSA_WD_RaidPointsMult>Pontos de incursão: x{0}</TSA_WD_RaidPointsMult>
+  <TSA_WD_RaidResolution_Header>Incursão resolvida</TSA_WD_RaidResolution_Header>
+  <TSA_WD_Raid_AllowOutpost>Permitir incursões contra postos avançados do jogador</TSA_WD_Raid_AllowOutpost>
+  <TSA_WD_Raid_AllowOutpostTooltip>Se ativado, assentamentos de NPCs podem lançar incursões simuladas contra seus postos avançados ao alcance.</TSA_WD_Raid_AllowOutpostTooltip>
+  <TSA_WD_Raid_AllowPlayer>Permitir incursões contra a colônia do jogador</TSA_WD_Raid_AllowPlayer>
+  <TSA_WD_Raid_AllowPlayerTooltip>Se ativado, assentamentos de NPCs ao alcance podem lançar incursões reais contra o mapa da sua colônia.</TSA_WD_Raid_AllowPlayerTooltip>
+  <TSA_WD_Raid_AllyRadius>Raio de atração de aliados</TSA_WD_Raid_AllyRadius>
+  <TSA_WD_Raid_AllyRadiusTooltip>Raio-base em blocos de mundo para vizinhos da mesma facção e de facções aliadas que podem se juntar a ataques ou defesas. Meio/Fim de jogo e a melhoria Rede de túneis podem aumentar o raio efetivo por local.</TSA_WD_Raid_AllyRadiusTooltip>
+  <TSA_WD_Raid_CdPlayer>Recarga de incursões contra o jogador</TSA_WD_Raid_CdPlayer>
+  <TSA_WD_Raid_CdPlayerTooltip>Quantos dias devem passar antes que sua colônia possa ser alvo novamente de uma incursão acionada pelo mundo.</TSA_WD_Raid_CdPlayerTooltip>
+  <TSA_WD_Raid_MaxPerDay>Máx. de incursões WD contra o jogador por dia</TSA_WD_Raid_MaxPerDay>
+  <TSA_WD_Raid_MaxPerDayTooltip>Limite global de incursões mundiais do World Domination contra suas colônias e postos avançados combinados em qualquer janela de 1 dia. Soma-se às recargas de incursão por colônia e por posto avançado. Não afeta incursões do narrador.</TSA_WD_Raid_MaxPerDayTooltip>
+  <TSA_WD_Raid_MaxPer4Days>Máx. de incursões WD contra o jogador por 4 dias</TSA_WD_Raid_MaxPer4Days>
+  <TSA_WD_Raid_MaxPer4DaysTooltip>Limite global de incursões mundiais do World Domination contra suas colônias e postos avançados combinados em qualquer janela de 4 dias. Não pode ser menor que o limite por dia. Soma-se às recargas por alvo. Não afeta incursões do narrador.</TSA_WD_Raid_MaxPer4DaysTooltip>
+  <TSA_WD_Raid_MaxPer7Days>Máx. de incursões WD contra o jogador por 7 dias</TSA_WD_Raid_MaxPer7Days>
+  <TSA_WD_Raid_MaxPer7DaysTooltip>Limite global de incursões mundiais do World Domination contra suas colônias e postos avançados combinados em qualquer janela de 7 dias. Não pode ser menor que o limite por 4 dias. Soma-se às recargas por alvo. Não afeta incursões do narrador.</TSA_WD_Raid_MaxPer7DaysTooltip>
+  <TSA_WD_Raid_DisabledPlayer>As incursões contra o jogador estão desativadas no momento.</TSA_WD_Raid_DisabledPlayer>
+  <TSA_WD_Raid_HeaderOutcome>Faixas de resultado da batalha (balanceamento automático)</TSA_WD_Raid_HeaderOutcome>
+  <TSA_WD_Raid_HeaderPlayer>Incursões mundiais contra a colônia do jogador</TSA_WD_Raid_HeaderPlayer>
+  <TSA_WD_Raid_HeaderSim>Parâmetros de simulação de incursões mundiais</TSA_WD_Raid_HeaderSim>
+  <TSA_WD_Raid_TravelPrepExactPct>Cálculo exato de rota e custo de viagem pré-incursão</TSA_WD_Raid_TravelPrepExactPct>
+  <TSA_WD_Raid_TravelPrepExactPctTip>Parcela das avaliações de preparação de destino de incursão/comerciante que usa o cálculo de rota completo do mundo (FindPath). 0% sempre usa a heurística em linha reta (geralmente o maior ganho de desempenho em mundos enormes). 100% sempre calcula a rota. Entre os dois, uma cadência determinística usa o cálculo exato nessa proporção do tempo. A preparação pode subestimar desvios de montanha/mar (por exemplo, rota real 4× mais longa), então uma incursão pode ser lançada e chegar mais fraca: névoa de guerra aceitável, não é um bug. O lançamento ainda usa uma rota real. Também é gerenciado pelas predefinições de configuração → Desempenho quando você usa esses pacotes.</TSA_WD_Raid_TravelPrepExactPctTip>
+  <TSA_WD_Raid_LossPerHour>Atrito de força (% por hora)</TSA_WD_Raid_LossPerHour>
+  <TSA_WD_Raid_LossPerHourTooltip>A porcentagem da força atual perdida a cada hora durante a viagem. Quanto mais tempo uma força de incursão fica na estrada, mais força perde.</TSA_WD_Raid_LossPerHourTooltip>
+  <TSA_WD_Raid_MaxTravelDays>Duração máxima de viagem (dias)</TSA_WD_Raid_MaxTravelDays>
+  <TSA_WD_Raid_MaxTravelDaysTooltip>O limite rígido de quanto tempo um viajante WD (incursão, expansão, caravana de construção de estradas) pode permanecer em campo. Se uma caravana atingir esse limite antes de chegar ao alvo, a missão é abortada e a força é perdida.</TSA_WD_Raid_MaxTravelDaysTooltip>
+  <TSA_WD_Raid_HeaderArrivalStyles>Estilos de chegada das incursões</TSA_WD_Raid_HeaderArrivalStyles>
+  <TSA_WD_Raid_DropPodChanceT3>Chance de incursão por cápsulas N3</TSA_WD_Raid_DropPodChanceT3>
+  <TSA_WD_Raid_DropPodChanceT3Tip>Quando um assentamento de nível 3 lança uma incursão e atende ao requisito tecnológico, esta é a chance de usar cápsulas de transporte balísticas em vez de uma caravana a pé. Mesma fórmula de atrito das cápsulas N4.</TSA_WD_Raid_DropPodChanceT3Tip>
+  <TSA_WD_Raid_DropPodChance>Chance de incursão por cápsulas N4</TSA_WD_Raid_DropPodChance>
+  <TSA_WD_Raid_DropPodChanceTip>Quando um assentamento de nível 4 lança uma incursão e atende ao requisito tecnológico, esta é a chance de usar cápsulas de transporte balísticas em vez de uma caravana a pé. O requisito de lançamento, a carta e a força na chegada usam a mesma fórmula de atrito das cápsulas.</TSA_WD_Raid_DropPodChanceTip>
+  <TSA_WD_Raid_DropPodMinTech>Incursões por cápsulas: nível tecnológico mín.</TSA_WD_Raid_DropPodMinTech>
+  <TSA_WD_Raid_DropPodMinTechTip>Somente facções com este nível tecnológico ou superior podem lançar incursões por cápsulas. O Neolítico permite praticamente todas as facções.</TSA_WD_Raid_DropPodMinTechTip>
+  <TSA_WD_Raid_DropPodAttritionMult>Multiplicador de atrito das cápsulas</TSA_WD_Raid_DropPodAttritionMult>
+  <TSA_WD_Raid_DropPodAttritionMultTip>Multiplica a perda de força por hora em incursões por cápsulas. O atrito usa distância em linha reta (ignora o terreno) e é aplicado no lançamento, para que o requisito, a carta e a força do viajante coincidam.</TSA_WD_Raid_DropPodAttritionMultTip>
+  <TSA_WD_Raid_ColonySiegeChance>Chance de cerco à colônia (incursões a pé)</TSA_WD_Raid_ColonySiegeChance>
+  <TSA_WD_Raid_ColonySiegeChanceTip>Quando uma caravana normal (a pé) de incursão de um assentamento N3 ou N4 chega à sua colônia, esta é a chance de a incursão no mapa usar a estratégia de Cerco. Incursões por cápsulas nunca usam cerco.</TSA_WD_Raid_ColonySiegeChanceTip>
+  <TSA_WD_Raid_MinRatio>Proporção mínima de força</TSA_WD_Raid_MinRatio>
+  <TSA_WD_Raid_MinRatioTooltip>Vantagem mínima de força necessária para um NPC considerar viável uma incursão contra um posto avançado ou assentamento de NPC. Incursões contra sua colônia usam um requisito separado de pontos do narrador: os atacantes precisam de pelo menos 0,7× esses pontos, depois −0,1× por dia de tranquilidade (piso 0). Tranquilidade significa dias desde que a colônia foi escolhida pela última vez como alvo de incursão WD. Quando um assentamento fosse incursionar contra a colônia, o assentamento mais próximo da mesma facção que ainda passa nesse requisito lança a incursão em seu lugar.</TSA_WD_Raid_MinRatioTooltip>
+  <TSA_WD_Raid_RazeChance>Chance de arrasar</TSA_WD_Raid_RazeChance>
+  <TSA_WD_Raid_RazeChanceTooltip>Chance de uma incursão automática bem-sucedida de NPC arrasar o alvo em vez de fundar um assentamento conquistador. Blocos arrasados deixam ruínas temporárias que bloqueiam novos assentamentos e postos avançados nas proximidades até sumirem.</TSA_WD_Raid_RazeChanceTooltip>
+  <TSA_WD_Raid_RuinLingerDays>Permanência das ruínas (dias)</TSA_WD_Raid_RuinLingerDays>
+  <TSA_WD_Raid_RuinLingerDaysTooltip>Por quanto tempo as ruínas de assentamentos WD permanecem no mapa após um arrasamento. Elas usam a mesma distância de bloqueio de vizinhança que assentamentos e postos avançados, e depois desaparecem.</TSA_WD_Raid_RuinLingerDaysTooltip>
+  <TSA_WD_Raid_Reset>Redefinir esta página para os padrões</TSA_WD_Raid_Reset>
+  <TSA_WD_Raid_TargetRad>Alcance de busca de alvos</TSA_WD_Raid_TargetRad>
+  <TSA_WD_Raid_TargetRadTooltip>Distância máxima (em blocos) que um assentamento procura para encontrar um alvo.</TSA_WD_Raid_TargetRadTooltip>
+  <TSA_WD_Raid_AttackRangeHeader>Alcance de ataque de NPCs</TSA_WD_Raid_AttackRangeHeader>
+  <TSA_WD_Raid_T1AttackRange>Alcance-base N1</TSA_WD_Raid_T1AttackRange>
+  <TSA_WD_Raid_T1AttackRangeTooltip>Raio-base de busca de ataque (blocos) para assentamentos de NPC de nível 1, antes de Meio/Fim de jogo e da idade do assentamento.</TSA_WD_Raid_T1AttackRangeTooltip>
+  <TSA_WD_Raid_T2AttackRange>Alcance-base N2</TSA_WD_Raid_T2AttackRange>
+  <TSA_WD_Raid_T2AttackRangeTooltip>Raio-base de busca de ataque (blocos) para assentamentos de NPC de nível 2, antes de Meio/Fim de jogo e da idade do assentamento.</TSA_WD_Raid_T2AttackRangeTooltip>
+  <TSA_WD_Raid_T3AttackRange>Alcance-base N3</TSA_WD_Raid_T3AttackRange>
+  <TSA_WD_Raid_T3AttackRangeTooltip>Raio-base de busca de ataque (blocos) para assentamentos de NPC de nível 3, antes de Meio/Fim de jogo e da idade do assentamento.</TSA_WD_Raid_T3AttackRangeTooltip>
+  <TSA_WD_Raid_T4AttackRange>Alcance-base N4</TSA_WD_Raid_T4AttackRange>
+  <TSA_WD_Raid_T4AttackRangeTooltip>Raio-base de busca de ataque (blocos) para assentamentos de NPC de nível 4, antes de Meio/Fim de jogo e da idade do assentamento.</TSA_WD_Raid_T4AttackRangeTooltip>
+  <TSA_WD_Raid_AttackRangeTimeBonus>Bônus de alcance por idade do assentamento</TSA_WD_Raid_AttackRangeTimeBonus>
+  <TSA_WD_Raid_AttackRangeTimeBonusTooltip>Porcentagem máxima adicionada ao alcance de ataque do assentamento depois que ele envelhece até Dias para o bônus máximo de idade. Mudanças de nível não reiniciam a idade. Escala do dia 0 de fundação até Dias para o bônus máximo de idade.</TSA_WD_Raid_AttackRangeTimeBonusTooltip>
+  <TSA_WD_Raid_AttackRangeDaysToMax>Dias para o bônus máximo de idade</TSA_WD_Raid_AttackRangeDaysToMax>
+  <TSA_WD_Raid_AttackRangeDaysToMaxTooltip>Dias de jogo de idade do assentamento até seu alcance de ataque atingir o bônus de idade completo.</TSA_WD_Raid_AttackRangeDaysToMaxTooltip>
+  <TSA_WD_Raid_PlayerOutpostAttackRange>Alcance de ataque dos postos avançados do jogador</TSA_WD_Raid_PlayerOutpostAttackRange>
+  <TSA_WD_Raid_PlayerOutpostAttackRangeTooltip>Distância máxima (blocos) ao lançar incursões manualmente de postos avançados do jogador. Não afeta o alcance de assentamentos de NPC.</TSA_WD_Raid_PlayerOutpostAttackRangeTooltip>
+  <TSA_WD_ReinforcementBreakdown>Composição da força</TSA_WD_ReinforcementBreakdown>
+  <TSA_WD_ReinforcementsArrived>Reforços: {0}</TSA_WD_ReinforcementsArrived>
+  <TSA_WD_ReinforcementsIncoming_Label>Reforços inimigos em ({0})</TSA_WD_ReinforcementsIncoming_Label>
+  <TSA_WD_ReinforcementsIncoming_Text>Forças de {0} foram desviadas para apoiar a defesa e devem chegar em {1}.</TSA_WD_ReinforcementsIncoming_Text>
+  <TSA_WD_ResultingEfficiencyFactor>Eficiência após o deslocamento</TSA_WD_ResultingEfficiencyFactor>
+  <TSA_WD_TravelExceedsMaxDays>Excede os dias máximos de viagem ({0} &gt; {1})</TSA_WD_TravelExceedsMaxDays>
+  <TSA_WD_SameFaction>mesma facção</TSA_WD_SameFaction>
+  <TSA_WD_Status_DefShielded>Não pode ser alvo de incursões</TSA_WD_Status_DefShielded>
+  <TSA_WD_Status_DefVulnerable>Pode ser alvo de incursões</TSA_WD_Status_DefVulnerable>
+  <TSA_WD_Status_ColonyDefVulnerable>A colônia pode ser alvo de incursões</TSA_WD_Status_ColonyDefVulnerable>
+  <TSA_WD_Status_RaidCooldown>Não pode lançar incursões</TSA_WD_Status_RaidCooldown>
+  <TSA_WD_Status_RaidReady>Pode lançar incursões</TSA_WD_Status_RaidReady>
+  <TSA_WD_StrengthAfter>Força depois: {0}</TSA_WD_StrengthAfter>
+  <TSA_WD_Target>Alvo</TSA_WD_Target>
+  <TSA_WD_WinChance>Probabilidade de sucesso</TSA_WD_WinChance>
+  <TSA_WD_Margin_AttWinDecisive>Vitória decisiva</TSA_WD_Margin_AttWinDecisive>
+  <TSA_WD_Margin_AttWinNormal>Vitória normal</TSA_WD_Margin_AttWinNormal>
+  <TSA_WD_Margin_AttWinClose>Vitória apertada</TSA_WD_Margin_AttWinClose>
+  <TSA_WD_Margin_DefWinDecisive>Derrota decisiva</TSA_WD_Margin_DefWinDecisive>
+  <TSA_WD_Margin_DefWinNormal>Derrota normal</TSA_WD_Margin_DefWinNormal>
+  <TSA_WD_Margin_DefWinClose>Derrota apertada</TSA_WD_Margin_DefWinClose>
+  <TSA_WD_MarginFlavor_AttWinDecisive>Vitória esmagadora; defensores debandaram.</TSA_WD_MarginFlavor_AttWinDecisive>
+  <TSA_WD_MarginFlavor_AttWinNormal>Alvo tomado com perdas moderadas.</TSA_WD_MarginFlavor_AttWinNormal>
+  <TSA_WD_MarginFlavor_AttWinClose>Vitória suada; baixas pesadas dos dois lados.</TSA_WD_MarginFlavor_AttWinClose>
+  <TSA_WD_MarginFlavor_DefWinDecisive>Atacantes debandaram; a maior parte da força foi perdida.</TSA_WD_MarginFlavor_DefWinDecisive>
+  <TSA_WD_MarginFlavor_DefWinNormal>Atacantes repelidos com perdas significativas.</TSA_WD_MarginFlavor_DefWinNormal>
+  <TSA_WD_MarginFlavor_DefWinClose>Retirada tática; a maior parte da expedição sobrevive.</TSA_WD_MarginFlavor_DefWinClose>
+  <TSA_WD_RaidForecast_WinType>Tipo de vitória se vencer</TSA_WD_RaidForecast_WinType>
+  <TSA_WD_RaidForecast_LossType>Tipo de derrota se a incursão falhar</TSA_WD_RaidForecast_LossType>
+  <TSA_WD_RaidForecast_DefWinType>Tipo de vitória se a defesa resistir</TSA_WD_RaidForecast_DefWinType>
+  <TSA_WD_RaidForecast_DefLossType>Tipo de derrota se a defesa falhar</TSA_WD_RaidForecast_DefLossType>
+  <TSA_WD_RaidForecast_SegmentLikelihood>Probabilidade: {0}%</TSA_WD_RaidForecast_SegmentLikelihood>
+  <TSA_WD_RaidForecast_SegmentStrengthLoss>Perda de força: {0}%</TSA_WD_RaidForecast_SegmentStrengthLoss>
+  <TSA_WD_RaidLog_Retreated>recuou</TSA_WD_RaidLog_Retreated>
+  <TSA_WD_RaidResolution_AttackerVictory>Vitória do atacante</TSA_WD_RaidResolution_AttackerVictory>
+  <TSA_WD_RaidResolution_AttackerDefeat>Derrota do atacante</TSA_WD_RaidResolution_AttackerDefeat>
+  <TSA_WD_RaidResolution_DefenderVictory>Vitória do defensor</TSA_WD_RaidResolution_DefenderVictory>
+  <TSA_WD_RaidResolution_DefenderDefeat>Derrota do defensor</TSA_WD_RaidResolution_DefenderDefeat>
+  <TSA_WD_RaidResolution_MarginLoss>{0}: -{1}% de força</TSA_WD_RaidResolution_MarginLoss>
+  <TSA_WD_RaidResolution_AttLoss>Força do atacante perdida: {0}%</TSA_WD_RaidResolution_AttLoss>
+  <TSA_WD_RaidResolution_DefLoss>Força do defensor perdida: {0}%</TSA_WD_RaidResolution_DefLoss>
+  <TSA_WD_OrderedRoad_GizmoLabel>Ordenar estrada para o jogador</TSA_WD_OrderedRoad_GizmoLabel>
+  <TSA_WD_OrderedRoad_GizmoDesc>Pague boa vontade para que este assentamento construa uma estrada até um destino à sua escolha.</TSA_WD_OrderedRoad_GizmoDesc>
+  <TSA_WD_OrderedRoad_AlreadyBuilding>Já está construindo uma estrada para você.</TSA_WD_OrderedRoad_AlreadyBuilding>
+  <TSA_WD_OrderedRoad_SettlementBusy>O assentamento está ocupado com outro projeto de estrada.</TSA_WD_OrderedRoad_SettlementBusy>
+  <TSA_WD_OrderedRoad_Status>Construindo estrada até {0} ({1}%)</TSA_WD_OrderedRoad_Status>
+  <TSA_WD_OrderedRoad_CancelDesc>Cancela a estrada ordenada pelo jogador. Trechos não construídos devolvem boa vontade.</TSA_WD_OrderedRoad_CancelDesc>
+  <TSA_WD_OrderedRoad_PreviewTitle>Ordenar estrada de {0}</TSA_WD_OrderedRoad_PreviewTitle>
+  <TSA_WD_OrderedRoad_PreviewSectionProject>Projeto de estrada</TSA_WD_OrderedRoad_PreviewSectionProject>
+  <TSA_WD_OrderedRoad_PreviewSectionCost>Boa vontade</TSA_WD_OrderedRoad_PreviewSectionCost>
+  <TSA_WD_OrderedRoad_PreviewLabelTarget>Destino</TSA_WD_OrderedRoad_PreviewLabelTarget>
+  <TSA_WD_OrderedRoad_PreviewLabelRoadType>Tipo de estrada</TSA_WD_OrderedRoad_PreviewLabelRoadType>
+  <TSA_WD_OrderedRoad_PreviewLabelSegments>Trechos a construir</TSA_WD_OrderedRoad_PreviewLabelSegments>
+  <TSA_WD_OrderedRoad_PreviewLabelDaysPerSegment>Dias estimados por trecho</TSA_WD_OrderedRoad_PreviewLabelDaysPerSegment>
+  <TSA_WD_OrderedRoad_PreviewLabelPerSegment>Boa vontade por trecho</TSA_WD_OrderedRoad_PreviewLabelPerSegment>
+  <TSA_WD_OrderedRoad_PreviewLabelTotal>Custo inicial total</TSA_WD_OrderedRoad_PreviewLabelTotal>
+  <TSA_WD_OrderedRoad_PreviewTotalValue>{0} de boa vontade</TSA_WD_OrderedRoad_PreviewTotalValue>
+  <TSA_WD_OrderedRoad_PreviewLabelCurrentGoodwill>Boa vontade atual</TSA_WD_OrderedRoad_PreviewLabelCurrentGoodwill>
+  <TSA_WD_OrderedRoad_PreviewLabelCannotAfford>Não pode pagar</TSA_WD_OrderedRoad_PreviewLabelCannotAfford>
+  <TSA_WD_OrderedRoad_PreviewCannotAfford>Custa {0} de boa vontade. Você tem {1}; pelo menos {2} de boa vontade deve permanecer.</TSA_WD_OrderedRoad_PreviewCannotAfford>
+  <TSA_WD_OrderedRoad_Confirm>Confirmar ordem</TSA_WD_OrderedRoad_Confirm>
+  <TSA_WD_OrderedRoad_Started>{0} construirá uma estrada em direção a {1}.</TSA_WD_OrderedRoad_Started>
+  <TSA_WD_OrderedRoad_CancelTitle>Cancelar estrada ordenada?</TSA_WD_OrderedRoad_CancelTitle>
+  <TSA_WD_OrderedRoad_CancelBuilt>{0} de {1} trechos construídos.</TSA_WD_OrderedRoad_CancelBuilt>
+  <TSA_WD_OrderedRoad_CancelRefund>Reembolso: {0} de boa vontade ({1} trechos não construídos).</TSA_WD_OrderedRoad_CancelRefund>
+  <TSA_WD_OrderedRoad_CancelConfirm>Cancelar estrada</TSA_WD_OrderedRoad_CancelConfirm>
+  <TSA_WD_OrderedRoad_Cancelled>Ordem de estrada cancelada em {0}.</TSA_WD_OrderedRoad_Cancelled>
+  <TSA_WD_OrderedRoad_FactionActiveTooltip>Pelo menos um assentamento desta facção está construindo uma estrada para você.</TSA_WD_OrderedRoad_FactionActiveTooltip>
+  <TSA_WD_OrderedRoad_TierGateTooltip>Este assentamento é {0}. Estradas {1} exigem um assentamento {2} ou superior.</TSA_WD_OrderedRoad_TierGateTooltip>
+  <TSA_WD_OrderedTrader_GizmoLabel>Ordenar caravana comercial</TSA_WD_OrderedTrader_GizmoLabel>
+  <TSA_WD_OrderedTrader_GizmoDesc>Pague boa vontade para enviar uma caravana comercial deste assentamento até sua colônia com mapa mais próxima.</TSA_WD_OrderedTrader_GizmoDesc>
+  <TSA_WD_OrderedTrader_NoColony>Nenhuma colônia do jogador com mapa carregado foi encontrada.</TSA_WD_OrderedTrader_NoColony>
+  <TSA_WD_OrderedTrader_NoKinds>Esta facção não tem tipos de comerciante de caravana.</TSA_WD_OrderedTrader_NoKinds>
+  <TSA_WD_OrderedTrader_ColonyOnCooldown>Sua colônia está em recarga de comerciantes ({0} dias restantes).</TSA_WD_OrderedTrader_ColonyOnCooldown>
+  <TSA_WD_OrderedTrader_DisabledGoodwill>Precisa de {0} de boa vontade (você tem {1}; pelo menos {2} deve permanecer).</TSA_WD_OrderedTrader_DisabledGoodwill>
+  <TSA_WD_OrderedTrader_PreviewTitle>Ordenar comerciante de {0}</TSA_WD_OrderedTrader_PreviewTitle>
+  <TSA_WD_OrderedTrader_PreviewSectionOrder>Pedido</TSA_WD_OrderedTrader_PreviewSectionOrder>
+  <TSA_WD_OrderedTrader_PreviewSectionCost>Boa vontade</TSA_WD_OrderedTrader_PreviewSectionCost>
+  <TSA_WD_OrderedTrader_PreviewLabelKind>Tipo de comerciante</TSA_WD_OrderedTrader_PreviewLabelKind>
+  <TSA_WD_OrderedTrader_PreviewLabelDestination>Destino</TSA_WD_OrderedTrader_PreviewLabelDestination>
+  <TSA_WD_OrderedTrader_PreviewLabelTotal>Custo total</TSA_WD_OrderedTrader_PreviewLabelTotal>
+  <TSA_WD_OrderedTrader_PreviewTotalValue>{0} de boa vontade</TSA_WD_OrderedTrader_PreviewTotalValue>
+  <TSA_WD_OrderedTrader_PreviewLabelCurrentGoodwill>Boa vontade atual</TSA_WD_OrderedTrader_PreviewLabelCurrentGoodwill>
+  <TSA_WD_OrderedTrader_PreviewLabelCannotAfford>Não pode pagar</TSA_WD_OrderedTrader_PreviewLabelCannotAfford>
+  <TSA_WD_OrderedTrader_PreviewCannotAfford>Custa {0} de boa vontade. Você tem {1}; pelo menos {2} de boa vontade deve permanecer.</TSA_WD_OrderedTrader_PreviewCannotAfford>
+  <TSA_WD_OrderedTrader_Confirm>Confirmar ordem</TSA_WD_OrderedTrader_Confirm>
+  <TSA_WD_OrderedTrader_Started>{0} está enviando uma caravana {2} para {1}.</TSA_WD_OrderedTrader_Started>
+  <TSA_WD_OrderedTrader_LaunchFailed>Não foi possível lançar a caravana comercial.</TSA_WD_OrderedTrader_LaunchFailed>
+  <TSA_WD_OrderedTrader_SpawnSkippedHostile>{0} está hostil — o comerciante não chegou a {1}.</TSA_WD_OrderedTrader_SpawnSkippedHostile>
+  <TSA_WD_OrderedTrader_SpawnSkippedNoMap>{0} não tem mapa — o comerciante não pôde chegar.</TSA_WD_OrderedTrader_SpawnSkippedNoMap>
+  <TSA_WD_OrderedTrader_SpawnFailed>Falha na chegada do comerciante a {0}.</TSA_WD_OrderedTrader_SpawnFailed>
+  <TSA_WD_Trader_SpawnSkippedHostileVisitor>{0} não entrou em {2} porque comerciantes de {1} já estão visitando e as facções estão em guerra. As recompensas de comércio foram aplicadas mesmo assim.</TSA_WD_Trader_SpawnSkippedHostileVisitor>
+  <TSA_WD_Log_OrderedTraderLaunched>{0} enviou o comerciante solicitado ({2}) para {1}.</TSA_WD_Log_OrderedTraderLaunched>
+</LanguageData>

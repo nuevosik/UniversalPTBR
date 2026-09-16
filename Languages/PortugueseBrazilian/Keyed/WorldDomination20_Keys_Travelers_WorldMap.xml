@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_ActionLog>Registro de Ações</TSA_WD_ActionLog>
+  <TSA_WD_AttritionRate>Atrito</TSA_WD_AttritionRate>
+  <TSA_WD_Day>dia</TSA_WD_Day>
+  <TSA_WD_Days>dias</TSA_WD_Days>
+  <TSA_WD_ExpansionCaravan>Caravana de Expansão</TSA_WD_ExpansionCaravan>
+  <TSA_WD_MassRelocationCaravan>Caravana de Vanguarda</TSA_WD_MassRelocationCaravan>
+  <TSA_WD_Inspect_AidCD>Recarga de ajuda: {0} dias</TSA_WD_Inspect_AidCD>
+  <TSA_WD_Inspect_AttackRange>Alcance de ataque: {0} blocos</TSA_WD_Inspect_AttackRange>
+  <TSA_WD_Inspect_AttackRange_Zeal>Alcance de ataque (Zelo): {0} blocos</TSA_WD_Inspect_AttackRange_Zeal>
+  <TSA_WD_Inspect_AllyRadius>Raio de aliados: {0} blocos</TSA_WD_Inspect_AllyRadius>
+  <TSA_WD_Inspect_MortarRadius>Alcance do morteiro: {0} blocos</TSA_WD_Inspect_MortarRadius>
+  <TSA_WD_Inspect_AT_TurretStrength>Força: {0}</TSA_WD_Inspect_AT_TurretStrength>
+  <TSA_WD_Inspect_AT_TurretDamage>Dano: {0}</TSA_WD_Inspect_AT_TurretDamage>
+  <TSA_WD_Inspect_AT_TurretRange>Alcance: {0} blocos</TSA_WD_Inspect_AT_TurretRange>
+  <TSA_WD_Inspect_AT_TurretBuilder>Construída por: {0}</TSA_WD_Inspect_AT_TurretBuilder>
+  <TSA_WD_Inspect_AT_TurretCD>Recarga da torreta antitanque: {0} dias</TSA_WD_Inspect_AT_TurretCD>
+  <TSA_WD_Inspect_AT_TurretReady>Torreta antitanque: pronta</TSA_WD_Inspect_AT_TurretReady>
+  <TSA_WD_Inspect_AT_TurretStatus>{0} em direção a "{2}"\nProgresso: {1}%</TSA_WD_Inspect_AT_TurretStatus>
+  <TSA_WD_Inspect_AT_TurretStatus_InTransit>Equipe de {0} a caminho de "{1}" (prep. {2}%)</TSA_WD_Inspect_AT_TurretStatus_InTransit>
+  <TSA_WD_AT_Turret_SetFacingLabel>Definir ângulo de repouso</TSA_WD_AT_Turret_SetFacingLabel>
+  <TSA_WD_AT_Turret_SetFacingDesc>Clique em um bloco do mapa-múndi para escolher a direção para a qual esta torreta antitanque aponta em repouso. Após cada disparo, ela retorna a essa direção na mesma velocidade.</TSA_WD_AT_Turret_SetFacingDesc>
+  <TSA_WD_AT_Turret_SetFacingPrompt>Clique em um bloco para definir a direção de repouso da torreta antitanque. Clique com o botão direito ou Esc para cancelar.</TSA_WD_AT_Turret_SetFacingPrompt>
+  <TSA_WD_AT_Turret_SetFacingDone>Direção de repouso da torreta antitanque atualizada.</TSA_WD_AT_Turret_SetFacingDone>
+  <TSA_WD_Inspect_AARadius>Alcance antiaéreo: {0} blocos</TSA_WD_Inspect_AARadius>
+  <TSA_WD_Inspect_AttackRangeBreakdown>Base {0} × Meio/Fim {1}% × idade {2}%</TSA_WD_Inspect_AttackRangeBreakdown>
+  <TSA_WD_Inspect_DailyActions>Ações diárias: {0} / {1}</TSA_WD_Inspect_DailyActions>
+  <TSA_WD_Inspect_DailyActionsRemaining>Ações diárias potenciais: {0} / {1}</TSA_WD_Inspect_DailyActionsRemaining>
+  <TSA_WD_Inspect_DefenseCD>Proteção contra incursões: {0} dias</TSA_WD_Inspect_DefenseCD>
+  <TSA_WD_Inspect_EspionageCD>Recarga de espionagem: {0} dias</TSA_WD_Inspect_EspionageCD>
+  <TSA_WD_Inspect_IncidentCD>Recarga de incidentes: {0} dias</TSA_WD_Inspect_IncidentCD>
+  <TSA_WD_Inspect_MortarCD>Recarga do morteiro: {0} dias</TSA_WD_Inspect_MortarCD>
+  <TSA_WD_Inspect_Outpost>Força: {0} / {1}</TSA_WD_Inspect_Outpost>
+  <TSA_WD_Inspect_OffDefLine>Of.: {0}  Def: {1}</TSA_WD_Inspect_OffDefLine>
+  <TSA_WD_Inspect_StrengthSimpleLine>Força: {0}/{1}</TSA_WD_Inspect_StrengthSimpleLine>
+  <TSA_WD_Inspect_StrengthWithHumanoidsLine>Força: {0}/{1}, colonos humanoides: {2}</TSA_WD_Inspect_StrengthWithHumanoidsLine>
+  <TSA_WD_Inspect_StrengthCompactLine>Força: {0}/{1}, Ofensiva: {2}/{3}, Defensiva: {4}/{5}</TSA_WD_Inspect_StrengthCompactLine>
+  <TSA_WD_Inspect_StrengthCombinedLine>Força {0}/{1}, Def. {2}/{3}, Of. {4}/{5}</TSA_WD_Inspect_StrengthCombinedLine>
+  <TSA_WD_Inspect_OutpostRecoveryLine>Recuperação diária de força: {0} (Def.), {1} (Of.)</TSA_WD_Inspect_OutpostRecoveryLine>
+  <TSA_WD_Inspect_PlayerColony>Colônia ativa do jogador</TSA_WD_Inspect_PlayerColony>
+  <TSA_WD_Inspect_HoldsPrisoners>Detém {0} prisioneiros</TSA_WD_Inspect_HoldsPrisoners>
+  <TSA_WD_Inspect_RoadStatus>Construção de estradas: {0} ({1}%) até {2}</TSA_WD_Inspect_RoadStatus>
+  <TSA_WD_Inspect_RoadStatus_InTransit>Status: equipe {0} em trânsito até {1} (prep. {2}%)...</TSA_WD_Inspect_RoadStatus_InTransit>
+  <TSA_WD_Inspect_RoadClearStatus>Removendo estradas em direção a {0}: {1}%</TSA_WD_Inspect_RoadClearStatus>
+  <TSA_WD_Inspect_RoadClearStatus_InTransit>Status: equipe de remoção de estradas em trânsito até {0} (prep. {1}%)...</TSA_WD_Inspect_RoadClearStatus_InTransit>
+  <TSA_WD_Inspect_RoadBlockBuild>Bloqueios de estrada</TSA_WD_Inspect_RoadBlockBuild>
+  <TSA_WD_Inspect_RoadBlockClear>Removendo bloqueios de estrada</TSA_WD_Inspect_RoadBlockClear>
+  <TSA_WD_Inspect_RoadBlockStatus>{0}: {1}% em direção a {2}</TSA_WD_Inspect_RoadBlockStatus>
+  <TSA_WD_Inspect_RoadBlockStatus_InTransit>{0}: equipe em trânsito até {1} (prep. {2}%)...</TSA_WD_Inspect_RoadBlockStatus_InTransit>
+  <TSA_WD_RoadBlock_MovementExplanation>Bloqueio de estrada: +{0} custo de movimento</TSA_WD_RoadBlock_MovementExplanation>
+  <TSA_WD_RoadBlock_TileInspect>{0}: +{1} custo de movimento (PV {2}/{3})</TSA_WD_RoadBlock_TileInspect>
+  <TSA_WD_RoadBlock_DestroyedByTraffic>Um bloqueio de estrada foi destruído pelo tráfego passageiro.</TSA_WD_RoadBlock_DestroyedByTraffic>
+  <TSA_WD_Log_RoadBlock_DestroyedByTraffic>Bloqueio de estrada destruído por {0} (dano {1}).</TSA_WD_Log_RoadBlock_DestroyedByTraffic>
+  <TSA_WD_Inspect_SpikeTrapBuild>Armadilhas de estacas</TSA_WD_Inspect_SpikeTrapBuild>
+  <TSA_WD_Inspect_SpikeTrapClear>Removendo armadilhas de estacas</TSA_WD_Inspect_SpikeTrapClear>
+  <TSA_WD_Inspect_SpikeTrapStatus>{0}: {1}% em direção a {2}</TSA_WD_Inspect_SpikeTrapStatus>
+  <TSA_WD_Inspect_SpikeTrapStatus_InTransit>{0}: equipe em trânsito até {1} (prep. {2}%)...</TSA_WD_Inspect_SpikeTrapStatus_InTransit>
+  <TSA_WD_Inspect_DecontaminationBuild>Descontaminação</TSA_WD_Inspect_DecontaminationBuild>
+  <TSA_WD_Inspect_DecontaminationStatus>{0}: {1}% em direção a {2}</TSA_WD_Inspect_DecontaminationStatus>
+  <TSA_WD_Inspect_DecontaminationStatus_InTransit>{0}: equipe em trânsito até {1} (prep. {2}%)...</TSA_WD_Inspect_DecontaminationStatus_InTransit>
+  <TSA_WD_SpikeTrap_Triggered>{0} acionou uma armadilha de estacas (−{1} de força).</TSA_WD_SpikeTrap_Triggered>
+  <TSA_WD_SpikeTrap_TriggeredDestroyed>{0} acionou uma armadilha de estacas (−{1} de força). A armadilha foi destruída.</TSA_WD_SpikeTrap_TriggeredDestroyed>
+  <TSA_WD_SpikeTrap_TileInspect>{0}: {1} de dano quando hostis passam (PV {2}/{3})</TSA_WD_SpikeTrap_TileInspect>
+  <TSA_WD_Log_SpikeTrap_Triggered>Armadilha de estacas acionada por {0} (dano {1}).</TSA_WD_Log_SpikeTrap_Triggered>
+  <TSA_WD_Log_SpikeTrap_DestroyedTraveler>{0} foi destruído por armadilhas de estacas.</TSA_WD_Log_SpikeTrap_DestroyedTraveler>
+  <TSA_WD_Log_Pollution_DamagedTraveler>{0} perdeu {1} de força ao sair de um bloco poluído ({2}% de poluição).</TSA_WD_Log_Pollution_DamagedTraveler>
+  <TSA_WD_Log_Pollution_DestroyedTraveler>{0} foi destruído pela poluição.</TSA_WD_Log_Pollution_DestroyedTraveler>
+  <TSA_WD_Log_Pollution_DamagedSite>{0} perdeu {1} de força pela poluição próxima (média de {2}%).</TSA_WD_Log_Pollution_DamagedSite>
+  <TSA_WD_Log_Pollution_DestroyedSite>{0} foi destruído pela poluição.</TSA_WD_Log_Pollution_DestroyedSite>
+  <TSA_WD_Message_OutpostPollutionDamage>{0} perdeu {1} de força pela poluição próxima.</TSA_WD_Message_OutpostPollutionDamage>
+  <TSA_WD_Letter_OutpostDestroyedByPollution_Label>Posto avançado destruído pela poluição</TSA_WD_Letter_OutpostDestroyedByPollution_Label>
+  <TSA_WD_Letter_OutpostDestroyedByPollution_Text>{0} foi abandonado. A poluição próxima reduziu sua força a zero. Todos os ocupantes foram perdidos. As ruínas permanecem por um tempo e bloqueiam novos postos avançados nas proximidades.</TSA_WD_Letter_OutpostDestroyedByPollution_Text>
+  <TSA_WD_Letter_PollutionDamage_Label>Dano por poluição</TSA_WD_Letter_PollutionDamage_Label>
+  <TSA_WD_Letter_PollutionDamage_Text>{0} perdeu {1} de força após sair de um bloco poluído do mapa-múndi. Mais dano por poluição a este viajante não enviará outra carta.</TSA_WD_Letter_PollutionDamage_Text>
+  <TSA_WD_Traveler_Outpost_RoadBlock>Caravana de construção de bloqueios de estrada</TSA_WD_Traveler_Outpost_RoadBlock>
+  <TSA_WD_Traveler_Outpost_SpikeTrap>Caravana de construção de armadilhas</TSA_WD_Traveler_Outpost_SpikeTrap>
+  <TSA_WD_Traveler_NpcFortify>Equipe de fortificação</TSA_WD_Traveler_NpcFortify>
+  <TSA_WD_Traveler_NpcAtTurret>Equipe da torreta antitanque</TSA_WD_Traveler_NpcAtTurret>
+  <TSA_WD_Traveler_AtTurret>Equipe da torreta antitanque</TSA_WD_Traveler_AtTurret>
+  <TSA_WD_Traveler_Outpost_Decontamination>Equipe de descontaminação</TSA_WD_Traveler_Outpost_Decontamination>
+  <TSA_WD_Inspect_Settlement>{0} {1}</TSA_WD_Inspect_Settlement>
+  <TSA_WD_JumpToOutpost>Ir para {0}</TSA_WD_JumpToOutpost>
+  <TSA_WD_Interception_Label>Confronto de caravanas</TSA_WD_Interception_Label>
+  <TSA_WD_Letter_Interception_Label>Confronto de caravanas</TSA_WD_Letter_Interception_Label>
+  <TSA_WD_Letter_Interception_Text>Sua caravana entrou em confronto com uma {0} de {1}. Prepare-se para o combate!</TSA_WD_Letter_Interception_Text>
+  <TSA_WD_Letter_PlayerCaravanClashWon_Label>Caravana do jogador venceu o confronto</TSA_WD_Letter_PlayerCaravanClashWon_Label>
+  <TSA_WD_Letter_PlayerCaravanClashWon_Text>Sua caravana derrotou {0} em um confronto de caravanas.</TSA_WD_Letter_PlayerCaravanClashWon_Text>
+  <TSA_WD_Letter_PlayerCaravanClashDestroyed_Label>Caravana do jogador destruída no confronto</TSA_WD_Letter_PlayerCaravanClashDestroyed_Label>
+  <TSA_WD_Letter_PlayerCaravanClashDestroyed_Text>Sua caravana foi derrotada por {0}. A caravana inimiga pode continuar sua jornada.</TSA_WD_Letter_PlayerCaravanClashDestroyed_Text>
+  <TSA_WD_Letter_RapidResponseClashWon_Label>A Resposta Rápida interceptou e derrotou o inimigo</TSA_WD_Letter_RapidResponseClashWon_Label>
+  <TSA_WD_Letter_RapidResponseClashWon_Text>A força de Resposta Rápida de {0} interceptou e derrotou {1}.</TSA_WD_Letter_RapidResponseClashWon_Text>
+  <TSA_WD_Letter_RapidResponseClashLost_Label>A Resposta Rápida interceptou o inimigo, mas perdeu</TSA_WD_Letter_RapidResponseClashLost_Label>
+  <TSA_WD_Letter_RapidResponseClashLost_Text>A força de Resposta Rápida de {OUTPOST} interceptou {TARGET}, mas foi derrotada. A caravana inimiga continua com {AFTER} de força (antes {BEFORE}).</TSA_WD_Letter_RapidResponseClashLost_Text>
+  <TSA_WD_Letter_MajorInc_Label>Assentamento destruído</TSA_WD_Letter_MajorInc_Label>
+  <TSA_WD_Letter_MajorInc_Text>Um incidente grave destruiu completamente o assentamento {0} perto de você. As ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Letter_MajorInc_Text>
+  <TSA_WD_Letter_MinorInc_Label>Assentamento obliterado</TSA_WD_Letter_MinorInc_Label>
+  <TSA_WD_Letter_MinorInc_Text>Um incidente menor exterminou completamente o assentamento {0} perto de você. As ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Letter_MinorInc_Text>
+  <TSA_WD_Letter_NewSettlement_Label>Assentamento fundado nas proximidades</TSA_WD_Letter_NewSettlement_Label>
+  <TSA_WD_Letter_NewSettlement_Text>{1} fundou {0} perto de você.</TSA_WD_Letter_NewSettlement_Text>
+  <TSA_WD_Letter_SettlementCaptured_Label>Assentamento capturado</TSA_WD_Letter_SettlementCaptured_Label>
+  <TSA_WD_Letter_SettlementCaptured_Text>{0} capturou {1} de {2}.</TSA_WD_Letter_SettlementCaptured_Text>
+  <TSA_WD_Letter_SettlementRazed_Label>Assentamento arrasado nas proximidades</TSA_WD_Letter_SettlementRazed_Label>
+  <TSA_WD_Letter_SettlementRazed_Text>{0} foi atacado por {1} e arrasado. As ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Letter_SettlementRazed_Text>
+  <TSA_WD_SettlementRuin_Label>ruínas do assentamento</TSA_WD_SettlementRuin_Label>
+  <TSA_WD_SettlementRuin_LabelNamed>{0} (ruínas)</TSA_WD_SettlementRuin_LabelNamed>
+  <TSA_WD_SettlementRuin_InspectClearIn>As ruínas somem em {0} dias</TSA_WD_SettlementRuin_InspectClearIn>
+  <TSA_WD_PlayerConquestRazed_Message>{0} foi arrasado no processo.</TSA_WD_PlayerConquestRazed_Message>
+  <TSA_WD_Letter_PlayerConquestRazed_Label>Assentamento arrasado</TSA_WD_Letter_PlayerConquestRazed_Label>
+  <TSA_WD_Letter_PlayerConquestRazed_Text>{0} foi arrasado no processo. As ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Letter_PlayerConquestRazed_Text>
+  <TSA_WD_Log_MajorInc_Obliterated>INCIDENTE GRAVE: Assentamento destruído. Força {0} → {1}.</TSA_WD_Log_MajorInc_Obliterated>
+  <TSA_WD_Log_MajorInc_Downgrade>INCIDENTE GRAVE: Perdeu {0} de força ({1} → {2}). Rebaixado para {3}.</TSA_WD_Log_MajorInc_Downgrade>
+  <TSA_WD_Log_MajorInc_Standard>INCIDENTE GRAVE: Perdeu {0} de força ({1} → {2}).</TSA_WD_Log_MajorInc_Standard>
+  <TSA_WD_Log_MinorInc_Obliterated>INCIDENTE MENOR: Assentamento destruído. Força {0} → {1}.</TSA_WD_Log_MinorInc_Obliterated>
+  <TSA_WD_Log_MinorInc_Downgrade>INCIDENTE MENOR: Perdeu {0} de força ({1} → {2}). Rebaixado para {3}.</TSA_WD_Log_MinorInc_Downgrade>
+  <TSA_WD_Log_MinorInc_Standard>INCIDENTE MENOR: Perdeu {0} de força ({1} → {2}).</TSA_WD_Log_MinorInc_Standard>
+  <TSA_WD_Letter_Revolt_Label>Ressurgimento de facção</TSA_WD_Letter_Revolt_Label>
+  <TSA_WD_Letter_Revolt_Text>Agitação política! A facção {0} emergiu do esquecimento, assumindo o controle de: {1}. Perdidos na revolta: {2}.</TSA_WD_Letter_Revolt_Text>
+  <TSA_WD_Letter_Vanguard_Label>Forças de vanguarda em marcha</TSA_WD_Letter_Vanguard_Label>
+  <TSA_WD_Letter_Vanguard_Text>{0} empacotou assentamentos em {1} colunas de Vanguarda. Cada lar parte como sua própria caravana; as forças próximas se reúnem e então se entrincheiram na sua frente. Detenha-os antes que se fortifiquem.</TSA_WD_Letter_Vanguard_Text>
+  <TSA_WD_Letter_Invasion_Label>Forças de invasão em marcha</TSA_WD_Letter_Invasion_Label>
+  <TSA_WD_Letter_Invasion_Text>{0} lançou {1} incursões de invasão coordenadas contra suas colônias e postos avançados a partir de assentamentos distantes. Seus lares permanecem. Prepare as defesas.</TSA_WD_Letter_Invasion_Text>
+  <TSA_WD_Letter_DesperationRaid_Label>Ataque desesperado de {0}</TSA_WD_Letter_DesperationRaid_Label>
+  <TSA_WD_Letter_DesperationRaid_Text>Eles estão abandonando seus assentamentos e correndo em direção a {0}.</TSA_WD_Letter_DesperationRaid_Text>
+  <TSA_WD_DesperationRallyCaravan>Concentração de desespero</TSA_WD_DesperationRallyCaravan>
+  <TSA_WD_InvasionRallyCaravan>Concentração de invasão</TSA_WD_InvasionRallyCaravan>
+  <TSA_WD_DesperationHostCaravan>Hoste do desespero</TSA_WD_DesperationHostCaravan>
+  <TSA_WD_InvasionHostCaravan>Hoste de invasão</TSA_WD_InvasionHostCaravan>
+  <TSA_WD_Log_DesperationRaid_PackUp>DESESPERO: {0} empacota {1} assentamentos em direção a {2}.</TSA_WD_Log_DesperationRaid_PackUp>
+  <TSA_WD_Log_DesperationRaid_PackRally>DESESPERO: {0} abandonou o lar → bloco de concentração {1}.</TSA_WD_Log_DesperationRaid_PackRally>
+  <TSA_WD_Log_DesperationRaid_PackRaid>DESESPERO: {0} abandonou o lar → assalto a {1}.</TSA_WD_Log_DesperationRaid_PackRaid>
+  <TSA_WD_Log_DesperationRaid_LaunchRaid>DESESPERO: {0} marcha sobre {1}.</TSA_WD_Log_DesperationRaid_LaunchRaid>
+  <TSA_WD_Log_DesperationRallyCancelled>DESESPERO: {0} abortado; remontando perto do destino.</TSA_WD_Log_DesperationRallyCancelled>
+  <TSA_WD_Log_InvasionRallyCancelled>INVASÃO: {0} abortado; remontando perto do destino.</TSA_WD_Log_InvasionRallyCancelled>
+  <TSA_WD_TurtleConsolidateCaravan>Defensiva</TSA_WD_TurtleConsolidateCaravan>
+  <TSA_WD_Log_Turtle_PackUp>DEFENSIVA: {0} puxa {1} assentamentos para {2} a fim de se entrincheirar.</TSA_WD_Log_Turtle_PackUp>
+  <TSA_WD_Log_Turtle_PackLeaf>DEFENSIVA: {0} abandonou o lar → consolidando em {1}.</TSA_WD_Log_Turtle_PackLeaf>
+  <TSA_WD_Log_Turtle_Fortify>DEFENSIVA: {0} ergue fortificações com a força consolidada.</TSA_WD_Log_Turtle_Fortify>
+  <TSA_WD_Log_TurtleCancelled>DEFENSIVA: {0} abortado; força devolvida.</TSA_WD_Log_TurtleCancelled>
+  <TSA_WD_Letter_Turtle_Label>Defensiva: {0}</TSA_WD_Letter_Turtle_Label>
+  <TSA_WD_Letter_Turtle_Text>Eles estão abandonando assentamentos periféricos e consolidando sua força em {0}, depois fortificando-o.</TSA_WD_Letter_Turtle_Text>
+  <TSA_WD_Log_ActionNoWeights>Ação diária em {0}: nenhuma ação ponderada disponível (todos os pesos de ação são zero).</TSA_WD_Log_ActionNoWeights>
+  <TSA_WD_Log_ActionSkip>Ação ignorada para {0}: nenhum assentamento ativo disponível.</TSA_WD_Log_ActionSkip>
+  <TSA_WD_Log_BtnDetails>Detalhes</TSA_WD_Log_BtnDetails>
+  <TSA_WD_Log_ExpandSuccess>EXPANSÃO: Sucesso. {0} fundou um novo {1} de nível 1.</TSA_WD_Log_ExpandSuccess>
+  <TSA_WD_Log_MassRelocationCancelled>VANGUARDA: {0} abortado; remontando perto do destino.</TSA_WD_Log_MassRelocationCancelled>
+  <TSA_WD_Log_ForwardAssault_Vanguard>VANGUARDA: {0} se organiza em {1} colunas em direção à sua frente.</TSA_WD_Log_ForwardAssault_Vanguard>
+  <TSA_WD_Log_ForwardAssault_Invasion>INVASÃO: {0} lança {1} incursões coordenadas contra suas posses.</TSA_WD_Log_ForwardAssault_Invasion>
+  <TSA_WD_Log_ForwardAssault_PackUpVanguard>VANGUARDA: {0} abandonou o lar → bloco {1}.</TSA_WD_Log_ForwardAssault_PackUpVanguard>
+  <TSA_WD_Log_ForwardAssault_PackUpInvasion>INVASÃO: {0} marcha sobre {1}.</TSA_WD_Log_ForwardAssault_PackUpInvasion>
+  <TSA_WD_Log_ForwardAssault_PackRally>INVASÃO: {0} abandonou o lar → bloco de concentração {1}.</TSA_WD_Log_ForwardAssault_PackRally>
+  <TSA_WD_Log_ForwardAssault_InvasionRallyRaid>INVASÃO: {0} marcha sobre {1}.</TSA_WD_Log_ForwardAssault_InvasionRallyRaid>
+  <TSA_WD_Log_ForwardAssault_RatioBypass>(lançada abaixo da proporção mínima de força)</TSA_WD_Log_ForwardAssault_RatioBypass>
+  <TSA_WD_Log_ForwardAssault_VanguardFounded>VANGUARDA: fundou {0}.</TSA_WD_Log_ForwardAssault_VanguardFounded>
+  <TSA_WD_Log_ForwardAssault_VanguardAbsorbed>VANGUARDA: reforços absorvidos por um entrincheiramento existente ({0}).</TSA_WD_Log_ForwardAssault_VanguardAbsorbed>
+  <TSA_WD_Log_ForwardAssault_BlockedRaid>VANGUARDA: {0} encontrou {1} no bloco reservado — desviando para incursão.</TSA_WD_Log_ForwardAssault_BlockedRaid>
+  <TSA_WD_Log_ForwardAssault_Refound>VANGUARDA: {0} remontado como {1}.</TSA_WD_Log_ForwardAssault_Refound>
+  <TSA_WD_Log_ConquestSettlementFounded>CONQUISTA: {0} fundou {1} ({2}) após uma incursão bem-sucedida.</TSA_WD_Log_ConquestSettlementFounded>
+  <TSA_WD_Log_ExpansionCancelled>Missão de {0} cancelada: bloco ocupado ou saturado.</TSA_WD_Log_ExpansionCancelled>
+  <TSA_WD_Log_ExpeditionLaunched>TENTATIVA DE EXPANSÃO: {0} enviou colonos para estabelecer uma nova colônia.</TSA_WD_Log_ExpeditionLaunched>
+  <TSA_WD_Log_IsolationPressure>PRESSÃO DE ISOLAMENTO: {0} forçado a fundar {1} assentamento(s) perto de você.</TSA_WD_Log_IsolationPressure>
+  <TSA_WD_Log_Expand_SkippedGlobalCap>EXPANSÃO: {0} ignorado (contagem mundial de assentamentos de NPC {1} no limite {2}).</TSA_WD_Log_Expand_SkippedGlobalCap>
+  <TSA_WD_Log_Expand_SkippedNoValidTile>EXPANSÃO: {0} ignorado (nenhum bloco válido no alcance para um novo assentamento).</TSA_WD_Log_Expand_SkippedNoValidTile>
+  <TSA_WD_Log_Grow>CRESCIMENTO: Força {0} -&gt; {1}</TSA_WD_Log_Grow>
+  <TSA_WD_Log_Grow_NoChange_ExpandCooldown>CRESCIMENTO: {0} no limite local de força; não pode melhorar; expansão em recarga.</TSA_WD_Log_Grow_NoChange_ExpandCooldown>
+  <TSA_WD_Log_Grow_NoChange_ExpandRoll>CRESCIMENTO: {0} no limite local de força; não pode melhorar; tentativa de expansão falhou (chance de sucesso {1}).</TSA_WD_Log_Grow_NoChange_ExpandRoll>
+  <TSA_WD_Log_HeaderAction>Ação</TSA_WD_Log_HeaderAction>
+  <TSA_WD_Log_HeaderActor>Ator A</TSA_WD_Log_HeaderActor>
+  <TSA_WD_Log_HeaderTarget>Ator B</TSA_WD_Log_HeaderTarget>
+  <TSA_WD_Log_HeaderTime>Data e hora</TSA_WD_Log_HeaderTime>
+  <TSA_WD_Log_MissionAborted_TargetInvalid>Missão abortada: o destino não é mais válido.</TSA_WD_Log_MissionAborted_TargetInvalid>
+  <TSA_WD_Log_Revolt_Entry>REVOLTA: {0} foi libertado de {1}. Força: {2} -&gt; {3}{4}</TSA_WD_Log_Revolt_Entry>
+  <TSA_WD_Log_Revolt_TierDrop> (Rebaixado para {0})</TSA_WD_Log_Revolt_TierDrop>
+  <TSA_WD_Log_TravelerExpired>{0} excedeu o tempo máximo de viagem ou ficou sem suprimentos e foi perdido.</TSA_WD_Log_TravelerExpired>
+  <TSA_WD_Log_TravelerAborted_Stranded>{0} perdeu sua rota e não pôde continuar; missão abortada.</TSA_WD_Log_TravelerAborted_Stranded>
+  <TSA_WD_Log_Trader_SkippedCooldown>COMERCIANTE: {0} ignorado (recarga de comerciante).</TSA_WD_Log_Trader_SkippedCooldown>
+  <TSA_WD_Log_Trader_SkippedGarrison>COMERCIANTE: {0} ignorado (enviar uma caravana quebraria a guarnição: custo {1}, mínimo {2}, força atual {3}).</TSA_WD_Log_Trader_SkippedGarrison>
+  <TSA_WD_Log_Trader_SkippedNoDef>COMERCIANTE: {0} ignorado (definição de viajante ausente; destino pretendido {1}).</TSA_WD_Log_Trader_SkippedNoDef>
+  <TSA_WD_Log_Trader_SkippedNoTarget>COMERCIANTE: {0} ignorado (nenhum assentamento neutro ou aliado válido no alcance).</TSA_WD_Log_Trader_SkippedNoTarget>
+  <TSA_WD_Log_TraderLaunched>COMERCIANTE: caravana lançada de {0} até {1}.</TSA_WD_Log_TraderLaunched>
+  <TSA_WD_Log_TraderTrade_Header>COMÉRCIO: caravana de comércio do WD concluída de {0} até {1}.</TSA_WD_Log_TraderTrade_Header>
+  <TSA_WD_Log_TraderTrade_HeaderIntercept>COMÉRCIO: {0} apreendeu uma caravana de comércio ({1}); recompensa de comércio do destinatário aplicada.</TSA_WD_Log_TraderTrade_HeaderIntercept>
+  <TSA_WD_Log_TraderTrade_Line>{0}: {1}</TSA_WD_Log_TraderTrade_Line>
+  <TSA_WD_Log_TraderTrade_RoleSender>Remetente ({0})</TSA_WD_Log_TraderTrade_RoleSender>
+  <TSA_WD_Log_TraderTrade_RoleReceiver>Destinatário ({0})</TSA_WD_Log_TraderTrade_RoleReceiver>
+  <TSA_WD_Log_TraderTrade_RoleInterceptor>Interceptador ({0})</TSA_WD_Log_TraderTrade_RoleInterceptor>
+  <TSA_WD_Log_TraderTrade_OutcomeStrength>força ofensiva aumentada (sem melhoria de nível neste comércio).</TSA_WD_Log_TraderTrade_OutcomeStrength>
+  <TSA_WD_Log_TraderTrade_OutcomeUpgrade>força ofensiva aumentada e nível do assentamento melhorado (via comércio; ignora a exigência de vizinhos do mesmo nível).</TSA_WD_Log_TraderTrade_OutcomeUpgrade>
+  <TSA_WD_Log_TraderTrade_NoStrengthLine>{0}: nenhuma força de assentamento aplicada (não é um assentamento do WD / excluído).</TSA_WD_Log_TraderTrade_NoStrengthLine>
+  <TSA_WD_Log_TraderArrived>COMERCIANTE: caravana chegou de {0} em {1}.</TSA_WD_Log_TraderArrived>
+  <TSA_WD_Log_OutpostUpgradeLaunched>MELHORIA DE POSTO AVANÇADO: caravana lançada de {0} até {1} para {2} (nível {3}).</TSA_WD_Log_OutpostUpgradeLaunched>
+  <TSA_WD_Log_OutpostUpgradeApplied>MELHORIA DE POSTO AVANÇADO: {0} concluiu a melhoria {1} (nível {2}).</TSA_WD_Log_OutpostUpgradeApplied>
+  <TSA_WD_Log_OutpostUpgradeApplyFailed>MELHORIA DE POSTO AVANÇADO: {0} falhou ao aplicar a melhoria pendente na chegada.</TSA_WD_Log_OutpostUpgradeApplyFailed>
+  <TSA_WD_Log_Upgrade>MELHORIA: {0} -&gt; {1} ({2} outros assentamentos da facção do mesmo nível no alcance; requer {3}, excluindo este assentamento)</TSA_WD_Log_Upgrade>
+  <TSA_WD_Log_TileActor>Bloco {0}</TSA_WD_Log_TileActor>
+  <TSA_WD_Log_Fortify>{0} enviou uma equipe de fortificação em direção ao bloco {1}.</TSA_WD_Log_Fortify>
+  <TSA_WD_Log_Fortify_Delegated>{0} ordenou fortificação via {1} em direção ao bloco {2}.</TSA_WD_Log_Fortify_Delegated>
+  <TSA_WD_Log_Fortify_RoadBlockComplete>{0} concluiu um bloqueio de estrada no bloco {1}.</TSA_WD_Log_Fortify_RoadBlockComplete>
+  <TSA_WD_Log_Fortify_SpikeTrapComplete>{0} concluiu uma armadilha de estacas no bloco {1}.</TSA_WD_Log_Fortify_SpikeTrapComplete>
+  <TSA_WD_Log_Fortify_AT_TurretComplete>{0} concluiu uma torreta antitanque no bloco {1}.</TSA_WD_Log_Fortify_AT_TurretComplete>
+  <TSA_WD_Log_Fortify_DedicatedAtTurret>{0} enviou uma equipe de torreta antitanque em direção ao bloco {1}.</TSA_WD_Log_Fortify_DedicatedAtTurret>
+  <TSA_WD_Log_AT_TurretBuilt>{0} concluiu uma torreta antitanque no bloco {1}.</TSA_WD_Log_AT_TurretBuilt>
+  <TSA_WD_AT_Turret_DestroyedTarget_Label>Abate da torreta antitanque</TSA_WD_AT_Turret_DestroyedTarget_Label>
+  <TSA_WD_AT_Turret_DestroyedTarget_Text>{0} destruiu {1}.</TSA_WD_AT_Turret_DestroyedTarget_Text>
+  <TSA_WD_AT_Turret_DamagedTarget_Label>Acerto da torreta antitanque</TSA_WD_AT_Turret_DamagedTarget_Label>
+  <TSA_WD_AT_Turret_DamagedTarget_Text>{0} atingiu {1} ({2} → {3} de força).</TSA_WD_AT_Turret_DamagedTarget_Text>
+  <TSA_WD_AT_Turret_NpcKilledYou_Label>Torreta antitanque destruiu suas forças</TSA_WD_AT_Turret_NpcKilledYou_Label>
+  <TSA_WD_AT_Turret_NpcKilledYou_Text>{0} destruiu sua {1}.</TSA_WD_AT_Turret_NpcKilledYou_Text>
+  <TSA_WD_AT_Turret_NpcDamagedYou_Label>Torreta antitanque atingiu suas forças</TSA_WD_AT_Turret_NpcDamagedYou_Label>
+  <TSA_WD_AT_Turret_NpcDamagedYou_Text>{0} atingiu sua {1} ({2} → {3} de força).</TSA_WD_AT_Turret_NpcDamagedYou_Text>
+  <TSA_WD_AT_Turret_NpcCaravanDestroyed_Label>Torreta antitanque destruiu sua caravana</TSA_WD_AT_Turret_NpcCaravanDestroyed_Label>
+  <TSA_WD_AT_Turret_NpcCaravanDestroyed_Text>{0} destruiu sua caravana {1}.</TSA_WD_AT_Turret_NpcCaravanDestroyed_Text>
+  <TSA_WD_AT_Turret_NpcCaravanEmptyDestroyed_Text>{0} destruiu sua caravana vazia {1}.</TSA_WD_AT_Turret_NpcCaravanEmptyDestroyed_Text>
+  <TSA_WD_AT_Turret_NpcCaravanWiped_Text>{0} exterminou sua caravana {1}. Os seguintes colonos morreram:\n\n{2}</TSA_WD_AT_Turret_NpcCaravanWiped_Text>
+  <TSA_WD_AT_Turret_NpcCaravanWounded_Label>Torreta antitanque atingiu sua caravana</TSA_WD_AT_Turret_NpcCaravanWounded_Label>
+  <TSA_WD_AT_Turret_NpcCaravanWounded_Text>{0} atingiu sua caravana {1} ({2} mortos, {3} feridos).</TSA_WD_AT_Turret_NpcCaravanWounded_Text>
+  <TSA_WD_AT_Turret_NpcCaravanWounded_WithNames_Text>{0} atingiu sua caravana {1} ({2} mortos, {3} feridos). Os seguintes colonos morreram:\n\n{4}</TSA_WD_AT_Turret_NpcCaravanWounded_WithNames_Text>
+  <TSA_WD_AT_Turret_NpcCaravanPawnsKilled_Label>Colonos da caravana mortos</TSA_WD_AT_Turret_NpcCaravanPawnsKilled_Label>
+  <TSA_WD_AT_Turret_PlayerDestroyed_Label>Torreta antitanque destruída</TSA_WD_AT_Turret_PlayerDestroyed_Label>
+  <TSA_WD_AT_Turret_PlayerDestroyed_Text>Sua {0} foi destruída.</TSA_WD_AT_Turret_PlayerDestroyed_Text>
+  <TSA_WD_AT_Turret_PlayerDestroyedBy_Text>Sua {0} foi destruída por {1}.</TSA_WD_AT_Turret_PlayerDestroyedBy_Text>
+  <TSA_WD_AT_Turret_PlayerOverran_Text>Sua caravana sobrepujou {0}.</TSA_WD_AT_Turret_PlayerOverran_Text>
+  <TSA_WD_AT_Turret_Miss_Text>{0} errou {1}.</TSA_WD_AT_Turret_Miss_Text>
+  <TSA_WD_Log_WindowTitle>Registro de ações (últimas 500)</TSA_WD_Log_WindowTitle>
+  <TSA_WD_RaiderCaravan>Caravana invasora</TSA_WD_RaiderCaravan>
+  <TSA_WD_RaiderDropPods>Cápsulas de transporte invasoras</TSA_WD_RaiderDropPods>
+  <TSA_WD_RaiderGravship>Gravinave invasora</TSA_WD_RaiderGravship>
+  <TSA_WD_TraderCaravan>Caravana de comércio</TSA_WD_TraderCaravan>
+  <TSA_WD_RoadBuilderCaravan>Caravana construtora de estradas</TSA_WD_RoadBuilderCaravan>
+  <TSA_WD_SettlementBuyerCaravan>Caravana de compra de assentamento</TSA_WD_SettlementBuyerCaravan>
+  <TSA_WD_DiplomacyNegotiateCaravan>Caravana de negociação diplomática</TSA_WD_DiplomacyNegotiateCaravan>
+  <TSA_WD_TravelerCaravan>Caravana de viajantes</TSA_WD_TravelerCaravan>
+  <TSA_WD_Traveler_Outpost_Delivery>Caravana de entrega do posto avançado</TSA_WD_Traveler_Outpost_Delivery>
+  <TSA_WD_Traveler_Outpost_Upgrade>Caravana de melhoria de posto avançado</TSA_WD_Traveler_Outpost_Upgrade>
+  <TSA_WD_StrengthAtArrival>Força na chegada</TSA_WD_StrengthAtArrival>
+  <TSA_WD_StrengthAtDeparture>Força</TSA_WD_StrengthAtDeparture>
+  <TSA_WD_Traveller_AttritionResting>Descansando para recuperar força</TSA_WD_Traveller_AttritionResting>
+  <TSA_WD_TimeSinceDeparture>Tempo desde a partida</TSA_WD_TimeSinceDeparture>
+  <TSA_WD_TimeToDestination>Tempo total estimado de viagem</TSA_WD_TimeToDestination>
+  <TSA_WD_Traveler_AttackCaravan>Atacar caravana</TSA_WD_Traveler_AttackCaravan>
+  <TSA_WD_Traveler_CancelChase>Cancelar perseguição</TSA_WD_Traveler_CancelChase>
+  <TSA_WD_Traveler_CancelChase_Desc>Interrompe a perseguição e para sua caravana. Outras ordens de movimento não encerram a perseguição — você precisa usar este botão para parar de seguir o alvo.</TSA_WD_Traveler_CancelChase_Desc>
+  <TSA_WD_Traveler_MoveHere>Mover para cá</TSA_WD_Traveler_MoveHere>
+  <TSA_WD_Traveller_Destination>Destino</TSA_WD_Traveller_Destination>
+  <TSA_WD_Traveller_Origin>Origem</TSA_WD_Traveller_Origin>
+  <TSA_WD_Traveller_Unknown>Desconhecido</TSA_WD_Traveller_Unknown>
+  <TSA_WD_Traveller_TotalExpectedTravelTime>Tempo total de viagem</TSA_WD_Traveller_TotalExpectedTravelTime>
+  <TSA_WD_Traveller_DiploStatus>Relacionamento</TSA_WD_Traveller_DiploStatus>
+  <TSA_WD_ZealAttritionBuff>Zelo de Expansão</TSA_WD_ZealAttritionBuff>
+  <TS_WD_Log_FactionLabel>Facção: {0}</TS_WD_Log_FactionLabel>
+  <TSA_WD_SubType_Logging>Acampamento de extração de madeira</TSA_WD_SubType_Logging>
+  <TSA_WD_SubType_Mining>Acampamento de mineração</TSA_WD_SubType_Mining>
+  <TSA_WD_SubType_Farming>Acampamento agrícola</TSA_WD_SubType_Farming>
+  <TSA_WD_SubType_Production>Aldeia de produção</TSA_WD_SubType_Production>
+  <TSA_WD_SubType_Slavery>Aldeia de escravos</TSA_WD_SubType_Slavery>
+  <TSA_WD_SubType_Fortress>Cidade</TSA_WD_SubType_Fortress>
+  <TSA_WD_SubType_Vanguard>Vanguarda</TSA_WD_SubType_Vanguard>
+  <TSA_WD_SubType_Citadel>Cidadela</TSA_WD_SubType_Citadel>
+  <TSA_WD_SubType_Generic>Assentamento</TSA_WD_SubType_Generic>
+  <TSA_WD_DebugRaidTravelerLabel>DEBUG caravana de incursão (500)</TSA_WD_DebugRaidTravelerLabel>
+  <TSA_WD_DebugRaidPickStart>Depuração do WD: clique no bloco INICIAL. Gera um viajante de incursão hostil (500 de força); o destino é aleatório a ~10 blocos de distância com um caminho válido; desaparece ao chegar (a interceptação por morteiro se aplica).</TSA_WD_DebugRaidPickStart>
+  <TSA_WD_DebugRaidNoPath>Depuração do WD: não foi possível encontrar um destino aleatório válido (~10 blocos) com um caminho a partir do bloco clicado. Tente outro bloco inicial.</TSA_WD_DebugRaidNoPath>
+  <TSA_WD_DebugRaidSpawned>Depuração do WD: gerado viajante de incursão {0}, blocos {1} → {2}.</TSA_WD_DebugRaidSpawned>
+  <TSA_WD_DebugRaidNoHostileFaction>Depuração do WD: nenhuma facção não jogadora hostil à colônia foi encontrada.</TSA_WD_DebugRaidNoHostileFaction>
+  <TSA_WD_DebugOutpostRaidPickTarget>Depuração do WD: clique em um posto avançado do jogador. Gera uma caravana de incursão hostil real (500 de força) a cerca de 4 blocos e a envia para atacar esse posto avançado.</TSA_WD_DebugOutpostRaidPickTarget>
+  <TSA_WD_DebugOutpostRaidNoOutpost>Depuração do WD: o bloco clicado não contém um posto avançado do jogador.</TSA_WD_DebugOutpostRaidNoOutpost>
+  <TSA_WD_DebugOutpostRaidNoStart>Depuração do WD: não foi possível encontrar um bloco inicial válido a cerca de 4 blocos com um caminho até este posto avançado.</TSA_WD_DebugOutpostRaidNoStart>
+  <TSA_WD_DebugOutpostRaidSpawned>Depuração do WD: gerado viajante de incursão {0} do posto avançado, do bloco {1} em direção a {2}.</TSA_WD_DebugOutpostRaidSpawned>
+</LanguageData>
