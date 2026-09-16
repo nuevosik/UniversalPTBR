@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAE>Vanilla Achievements Expanded</VAE>
+  <DebugWriter>Ativar DebugWriter</DebugWriter>
+  <DebugWriterConfirmation>Tem certeza de que deseja ativar o DebugWriter? Isso reduzirá significativamente o desempenho em troca de dados relacionados a conquistas. Só deve ser ativado para rastrear informações valiosas para depuração.</DebugWriterConfirmation>
+  <GenerateLogInfo>Salvar em Arquivo</GenerateLogInfo>
+  <GenerateLogInfoTooltip>Envia os registros relacionados a conquistas para um arquivo. Somente para fins de depuração.</GenerateLogInfoTooltip>
+  <SuccessfulWriteToFile>Registros de conquistas enviados com sucesso para AchievementLog.txt</SuccessfulWriteToFile>
+  <SideBarInfo>Desbloqueie conquistas e ganhe pontos de Narrador que podem ser trocados por vários eventos.</SideBarInfo>
+  <VAE_SideBarInfoNoRedeem>Desbloqueie conquistas e ganhe pontos de Narrador para avaliar seu desempenho.</VAE_SideBarInfoNoRedeem>
+  <StorytellerPoints>Pontos de Narrador</StorytellerPoints>
+  <PointsRedeem>Trocar Pontos</PointsRedeem>
+  <PointsAvailable>Disponível: {0}</PointsAvailable>
+  <PointsEarned>Total ganho: {0}</PointsEarned>
+  <UnlockedDevMode>Desbloqueado com o Modo Desenvolvedor</UnlockedDevMode>
+  <AchievementLocked>Bloqueada</AchievementLocked>
+  <AchievementsUnlocked>Conquistas Desbloqueadas: {0}</AchievementsUnlocked>
+  <AchievementsTotalUnlocked>Total de Conquistas Desbloqueadas: {0}</AchievementsTotalUnlocked>
+  <AchievementUnlocked>Conquista Desbloqueada!</AchievementUnlocked>
+  <FailedRewardEvent>Falha ao trocar a recompensa {0}</FailedRewardEvent>
+  <FailedTargetFinder>É preciso ter um mapa carregado ou um objeto IncidentTarget selecionado no mapa-múndi</FailedTargetFinder>
+  <NoValidMap>Deve ser comprado com o mapa da base do jogador em exibição.</NoValidMap>
+  <IncidentNotAvailable>Evento indisponível no momento.</IncidentNotAvailable>
+  <NotEnoughPoints>Pontos Insuficientes</NotEnoughPoints>
+  <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
+  <RandomQuestRewardItem>Um item de missão aleatório foi obtido!</RandomQuestRewardItem>
+  <VAE_UsePointsSystem>Usar o sistema de recompensas por pontos de conquista</VAE_UsePointsSystem>
+  <VAE_UsePointsSystemDesc>Por padrão, obter conquistas recompensa o jogador com pontos, que podem ser trocados por caravanas de comércio, eventos, incursões, etc. Desativar esta opção desabilita esse sistema, e os pontos passam a servir apenas como contagem.</VAE_UsePointsSystemDesc>
+  <VAE_CollateModTabs>Agrupar abas de mods</VAE_CollateModTabs>
+  <VAE_CollateModTabsDesc>Ao marcar esta opção, todas as conquistas de todos os mods serão reunidas em uma única aba de Mods. Use isto se você tiver muitos mods que adicionam conquistas e sua janela de conquistas parecer uma bagunça de infinitas abas minúsculas</VAE_CollateModTabsDesc>
+  <VAE_AchievementHidden>Oculta até o nível {0} do monólito</VAE_AchievementHidden>
+</LanguageData>

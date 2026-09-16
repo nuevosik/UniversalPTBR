@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RC2_MakeCandy.label>fazer balas</RC2_MakeCandy.label>
+  <RC2_MakeCandy.description>Usa ingredientes doces para fazer balas deliciosas, deliciosas.  Produz 10.</RC2_MakeCandy.description>
+  <RC2_MakeCandy.jobString>Fazendo balas.</RC2_MakeCandy.jobString>
+  <RC2_MakeJuice.label>fazer suco</RC2_MakeJuice.label>
+  <RC2_MakeJuice.description>Usa uma ou mais frutas para fazer um suco delicioso.  Produz 5.</RC2_MakeJuice.description>
+  <RC2_MakeJuice.jobString>Fazendo suco.</RC2_MakeJuice.jobString>
+  <RC2_MakePastry.label>assar doces de confeitaria</RC2_MakePastry.label>
+  <RC2_MakePastry.description>Usa ingredientes doces e farinha para fazer doces de confeitaria.  Não, não pastéis, doces de confeitaria! Cuidado, porém, com qualquer policial por perto, pois ele vai comer tudo. Produz 10.</RC2_MakePastry.description>
+  <RC2_MakePastry.jobString>Assando doces de confeitaria.</RC2_MakePastry.jobString>
+  <RC2_ProcessCoffee.label>preparar café</RC2_ProcessCoffee.label>
+  <RC2_ProcessCoffee.description>Prepare grãos de café crus e transforme-os em um café delicioso. Produz 5.</RC2_ProcessCoffee.description>
+  <RC2_ProcessCoffee.jobString>Preparando café.</RC2_ProcessCoffee.jobString>
+  <RC2_BrewTea.label>preparar chá verde</RC2_BrewTea.label>
+  <RC2_BrewTea.description>Prepare folhas de chá para fazer chá verde. Produz 5.</RC2_BrewTea.description>
+  <RC2_BrewTea.jobString>Preparando chá verde.</RC2_BrewTea.jobString>
+  <CookThinPottage.label>cozinhar papa rala (5)</CookThinPottage.label>
+  <CookThinPottage.description>Cozinha uma papa rala e sem graça com alguns ingredientes.  Produz 5 refeições.</CookThinPottage.description>
+  <CookThinPottage.jobString>Cozinhando papa rala.</CookThinPottage.jobString>
+  <RC2_CookThickPottage.label>cozinhar papa grossa (5)</RC2_CookThickPottage.label>
+  <RC2_CookThickPottage.description>Cozinha uma papa grossa com carne e qualquer tipo de alimento vegetal.  Produz 5 refeições.</RC2_CookThickPottage.description>
+  <RC2_CookThickPottage.jobString>Cozinhando papa grossa.</RC2_CookThickPottage.jobString>
+  <RC2_MakeHardtack.label>fazer bolacha dura</RC2_MakeHardtack.label>
+  <RC2_MakeHardtack.description>Faça bolacha dura, um biscoito resistente que dura anos e enche a barriga.  Mas não tem um sabor muito bom. Produz 14.</RC2_MakeHardtack.description>
+  <RC2_MakeHardtack.jobString>Fazendo bolacha dura.</RC2_MakeHardtack.jobString>
+  <RC2_ProcessSugarBeets.label>fazer açúcar de beterraba açucareira</RC2_ProcessSugarBeets.label>
+  <RC2_ProcessSugarBeets.description>Processa beterraba açucareira em um pó branco delicioso e destruidor de dentes.  Menos eficiente que a cana-de-açúcar.</RC2_ProcessSugarBeets.description>
+  <RC2_ProcessSugarBeets.jobString>Processando beterraba açucareira.</RC2_ProcessSugarBeets.jobString>
+  <RC2_ProcessSugarBeetsBulk.label>fazer açúcar de beterraba açucareira em massa</RC2_ProcessSugarBeetsBulk.label>
+  <RC2_ProcessSugarBeetsBulk.description>Processa beterraba açucareira em um pó branco delicioso e destruidor de dentes. Produz 5, mas ainda é menos eficiente que a cana-de-açúcar.</RC2_ProcessSugarBeetsBulk.description>
+  <RC2_ProcessSugarBeetsBulk.jobString>Processando beterraba açucareira.</RC2_ProcessSugarBeetsBulk.jobString>
+  <RC2_ProcessSugarcane.label>fazer açúcar de cana-de-açúcar</RC2_ProcessSugarcane.label>
+  <RC2_ProcessSugarcane.description>Processa cana-de-açúcar em um pó branco delicioso e destruidor de dentes.</RC2_ProcessSugarcane.description>
+  <RC2_ProcessSugarcane.jobString>Processando cana-de-açúcar.</RC2_ProcessSugarcane.jobString>
+  <RC2_ProcessSugarcaneBulk.label>fazer açúcar de cana-de-açúcar em massa</RC2_ProcessSugarcaneBulk.label>
+  <RC2_ProcessSugarcaneBulk.description>Processa cana-de-açúcar em um pó branco delicioso e destruidor de dentes. Produz 5 de açúcar.</RC2_ProcessSugarcaneBulk.description>
+  <RC2_ProcessSugarcaneBulk.jobString>Processando cana-de-açúcar em massa.</RC2_ProcessSugarcaneBulk.jobString>
+  <RC2_ProcessGrain.label>fazer farinha de grãos</RC2_ProcessGrain.label>
+  <RC2_ProcessGrain.description>Processa grãos em farinha, tornando-os utilizáveis em alimentos.</RC2_ProcessGrain.description>
+  <RC2_ProcessGrain.jobString>Moendo grãos para fazer farinha.</RC2_ProcessGrain.jobString>
+  <RC2_ProcessGrainBulk.label>fazer farinha de grãos em massa</RC2_ProcessGrainBulk.label>
+  <RC2_ProcessGrainBulk.description>Processa grãos em farinha, tornando-os utilizáveis em alimentos. Produz 5 de farinha.</RC2_ProcessGrainBulk.description>
+  <RC2_ProcessGrainBulk.jobString>Moendo grãos para fazer farinha em massa.</RC2_ProcessGrainBulk.jobString>
+  <RC2_ProcessCacao.label>fazer chocolate</RC2_ProcessCacao.label>
+  <RC2_ProcessCacao.description>Combine grãos de cacau e adoçantes para fazer um chocolate delicioso, delicioso.</RC2_ProcessCacao.description>
+  <RC2_ProcessCacao.jobString>Fazendo chocolate.</RC2_ProcessCacao.jobString>
+  <RC2_ProcessSoybean.label>fazer tofu</RC2_ProcessSoybean.label>
+  <RC2_ProcessSoybean.description>Faça tofu com soja.  Eca.</RC2_ProcessSoybean.description>
+  <RC2_ProcessSoybean.jobString>Fazendo tofu.</RC2_ProcessSoybean.jobString>
+  <RC2_ProcessAgave.label>fazer néctar de agave</RC2_ProcessAgave.label>
+  <RC2_ProcessAgave.description>Processa o fruto do agave em um néctar delicioso e pegajoso.</RC2_ProcessAgave.description>
+  <RC2_ProcessAgave.jobString>Processando agave.</RC2_ProcessAgave.jobString>
+  <RC2_TrimMeat.label>aparar carne</RC2_TrimMeat.label>
+  <RC2_TrimMeat.description>Apara a maior parte da gordura e de outras partes da carne em preparação para o processo de secagem.</RC2_TrimMeat.description>
+  <RC2_TrimMeat.jobString>Aparando carne.</RC2_TrimMeat.jobString>
+  <RC2_TrimMeatBulk.label>aparar carne em massa</RC2_TrimMeatBulk.label>
+  <RC2_TrimMeatBulk.description>Apara a maior parte da gordura e de outras partes da carne em preparação para o processo de secagem.</RC2_TrimMeatBulk.description>
+  <RC2_TrimMeatBulk.jobString>Aparando carne.</RC2_TrimMeatBulk.jobString>
+  <RC2_PrepareFruit.label>preparar frutas</RC2_PrepareFruit.label>
+  <RC2_PrepareFruit.description>Prepara as frutas para o processo de secagem, fatiando-as e removendo folhas e, possivelmente, cascas.</RC2_PrepareFruit.description>
+  <RC2_PrepareFruit.jobString>Preparando frutas.</RC2_PrepareFruit.jobString>
+  <RC2_PrepareFruitBulk.label>preparar frutas em massa</RC2_PrepareFruitBulk.label>
+  <RC2_PrepareFruitBulk.description>Prepara as frutas para o processo de secagem, fatiando-as e removendo folhas e, possivelmente, cascas.</RC2_PrepareFruitBulk.description>
+  <RC2_PrepareFruitBulk.jobString>Preparando frutas.</RC2_PrepareFruitBulk.jobString>
+  <RC2_BrineVegetables.label>salmourar legumes</RC2_BrineVegetables.label>
+  <RC2_BrineVegetables.description>Prepara os legumes para conserva misturando uma solução de salmoura e mergulhando-os nela.</RC2_BrineVegetables.description>
+  <RC2_BrineVegetables.jobString>Salmourando legumes.</RC2_BrineVegetables.jobString>
+  <RC2_BrineVegetablesBulk.label>salmourar legumes em massa</RC2_BrineVegetablesBulk.label>
+  <RC2_BrineVegetablesBulk.description>Prepara os legumes para conserva misturando uma solução de salmoura e mergulhando-os nela.</RC2_BrineVegetablesBulk.description>
+  <RC2_BrineVegetablesBulk.jobString>Salmourando legumes.</RC2_BrineVegetablesBulk.jobString>
+</LanguageData>

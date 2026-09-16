@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RG_DustDevil.label>redemoinho de poeira</RG_DustDevil.label>
+  <RG_EggKiwiFertilized.label>ovo de kiwi (fert.)</RG_EggKiwiFertilized.label>
+  <RG_EggKiwiFertilized.description>Um ovo de kiwi fertilizado. Se tudo correr bem, deve chocar em um filhote de kiwi. Pode ser comido cru, mas fica muito melhor cozido.</RG_EggKiwiFertilized.description>
+  <RG_RawRaspberries.label>framboesas</RG_RawRaspberries.label>
+  <RG_RawRaspberries.description>Frutos silvestres variados. Gostosos de comer, mesmo crus.</RG_RawRaspberries.description>
+  <RG_Filth_LeavesTreeOak.label>folhas</RG_Filth_LeavesTreeOak.label>
+  <RG_Filth_LeavesTreePopolar.label>folhas</RG_Filth_LeavesTreePopolar.label>
+  <RG_Filth_LeavesTreeBirch.label>folhas</RG_Filth_LeavesTreeBirch.label>
+  <RG_Filth_Neutroamine.label>neutroamina</RG_Filth_Neutroamine.label>
+  <RG_Plant_RaspberryCultivated.label>arbusto de framboesa</RG_Plant_RaspberryCultivated.label>
+  <RG_Plant_RaspberryCultivated.description>Uma planta selvagem espessa que produz deliciosos frutos silvestres vermelhos. Os frutos silvestres podem ser cozidos, mas também são bons para comer, mesmo quando crus.</RG_Plant_RaspberryCultivated.description>
+  <RG_Plant_BerryCultivated.label>arbusto de frutos silvestres</RG_Plant_BerryCultivated.label>
+  <RG_Plant_BerryCultivated.description>Uma planta selvagem espessa que produz deliciosos frutos silvestres. Os frutos silvestres podem ser cozidos, mas também são bons para comer, mesmo quando crus.</RG_Plant_BerryCultivated.description>
+  <RG_Plant_Raspberry.label>arbusto de framboesa</RG_Plant_Raspberry.label>
+  <RG_Plant_Raspberry.description>Uma planta selvagem espessa que produz deliciosos frutos silvestres vermelhos. Os frutos silvestres podem ser cozidos, mas também são bons para comer, mesmo quando crus.</RG_Plant_Raspberry.description>
+  <RG_Rabbit.label>coelho</RG_Rabbit.label>
+  <RG_Rabbit.description>Este pequeno e fofo herbívoro solitário pode rapidamente pular para longe do perigo.</RG_Rabbit.description>
+  <RG_Neutrolope.label>neutrolope</RG_Neutrolope.label>
+  <RG_Neutrolope.description>Projetado para a produção de neutroamina, o neutrolope cria um grande saco de neutroamina pura em suas costas. Embora seja fraco e frágil para seu tamanho, outros animais o evitam de forma semelhante a um bumalope, apesar de não explodir quando morre. Pode ser ordenhado para produzir neutroamina.</RG_Neutrolope.description>
+  <RG_Neutrolope.tools.0.label>cabeça</RG_Neutrolope.tools.0.label>
+  <RG_Neutrolope.tools.1.label>casco esquerdo</RG_Neutrolope.tools.1.label>
+  <RG_Neutrolope.tools.2.label>casco direito</RG_Neutrolope.tools.2.label>
+  <RG_KiwiBird.label>kiwi</RG_KiwiBird.label>
+  <RG_KiwiBird.description>O primo minúsculo e esférico da moa. Inferior em todos os aspectos ao seu parente maior. Indefeso diante do perigo por não voar.</RG_KiwiBird.description>
+  <RG_KiwiBird.tools.0.label>garras</RG_KiwiBird.tools.0.label>
+  <RG_KiwiBird.tools.1.label>bico</RG_KiwiBird.tools.1.label>
+  <RG_KiwiBird.tools.2.label>cabeça</RG_KiwiBird.tools.2.label>
+  <RG_Hemolope.label>hemolope</RG_Hemolope.label>
+  <RG_Hemolope.description>Projetado para a produção de hemogênio, o hemolope cria um grande saco de hemogênio puro em suas costas. Devido a instabilidades genéticas, ao contrário de um bumalope, ele tem uma vida útil muito curta e é geralmente mais fraco. Raramente foi encontrado na natureza, pois é mantido apenas por sanguófagos mais éticos, para corporações de produção de hemogênio. Pode ser ordenhado para produzir hemogênio.</RG_Hemolope.description>
+  <RG_Hemolope.tools.0.label>cabeça</RG_Hemolope.tools.0.label>
+  <RG_Hemolope.tools.1.label>casco esquerdo</RG_Hemolope.tools.1.label>
+  <RG_Hemolope.tools.2.label>casco direito</RG_Hemolope.tools.2.label>
+  <RG_RawDevilsHole.label>pupfish de Devils Hole cru</RG_RawDevilsHole.label>
+  <RG_RawDevilsHole.description>Pupfish de Devils Hole cru. Um pequeno peixe roxo pertencente à família Cyprinodontidae. Só pode ser encontrado em águas de fontes termais e é extremamente raro.</RG_RawDevilsHole.description>
+  <RG_RawDevilsHole.tools.0.label>pupfish de Devils Hole</RG_RawDevilsHole.tools.0.label>
+  <RG_RawColdSlaughterfish.label>peixe-assassino cru</RG_RawColdSlaughterfish.label>
+  <RG_RawColdSlaughterfish.description>Peixe-assassino cru. Os peixes-assassinos são um grupo diverso de espécies altamente agressivas que perseguem suas presas com dentes afiados como navalhas. Esta espécie em particular é encontrada com frequência em biomas mais frios.</RG_RawColdSlaughterfish.description>
+  <RG_RawColdSlaughterfish.tools.0.label>peixe-assassino</RG_RawColdSlaughterfish.tools.0.label>
+  <RG_RawWarmSlaughterfish.label>peixe-assassino cru</RG_RawWarmSlaughterfish.label>
+  <RG_RawWarmSlaughterfish.description>Peixe-assassino cru. Os peixes-assassinos são um grupo diverso de espécies altamente agressivas que perseguem suas presas com dentes afiados como navalhas. Esta espécie em particular é encontrada com frequência em biomas mais quentes.</RG_RawWarmSlaughterfish.description>
+  <RG_RawWarmSlaughterfish.tools.0.label>peixe-assassino</RG_RawWarmSlaughterfish.tools.0.label>
+  <RG_Hedge.label>sebe</RG_Hedge.label>
+  <RG_Hedge.description>Uma parede de sebe intransponível. Incapaz de sustentar um teto.</RG_Hedge.description>
+  <RG_Filth_LeavesTreeAnima.label>folhas de anima</RG_Filth_LeavesTreeAnima.label>
+  <RG_AnimaSeed.label>semente de anima</RG_AnimaSeed.label>
+  <RG_AnimaSeed.description>A semente de uma árvore de anima. Pode ser plantada para criar uma nova árvore de anima, que pode ser usada para uma ligação ritual.</RG_AnimaSeed.description>
+  <RG_AncientRustedHog.label>hog ancestral</RG_AncientRustedHog.label>
+  <RG_AncientRustedHog.description>Um antigo jipe leve de reconhecimento, quebrado. Tudo o que não estava enferrujado foi saqueado há muito tempo.</RG_AncientRustedHog.description>
+  <RG_BoulderRockMediumSandstone.label>pedregulho de arenito</RG_BoulderRockMediumSandstone.label>
+  <RG_BoulderRockLargeSandstone.label>pedregulho de arenito</RG_BoulderRockLargeSandstone.label>
+  <RG_BoulderRockMediumGranite.label>pedregulho de granito</RG_BoulderRockMediumGranite.label>
+  <RG_BoulderRockLargeGranite.label>pedregulho de granito</RG_BoulderRockLargeGranite.label>
+  <RG_BoulderRockMediumLimestone.label>pedregulho de calcário</RG_BoulderRockMediumLimestone.label>
+  <RG_BoulderRockLargeLimestone.label>pedregulho de calcário</RG_BoulderRockLargeLimestone.label>
+  <RG_BoulderRockMediumSlate.label>pedregulho de ardósia</RG_BoulderRockMediumSlate.label>
+  <RG_BoulderRockLargeSlate.label>pedregulho de ardósia</RG_BoulderRockLargeSlate.label>
+  <RG_BoulderRockMediumMarble.label>pedregulho de mármore</RG_BoulderRockMediumMarble.label>
+  <RG_BoulderRockLargeMarble.label>pedregulho de mármore</RG_BoulderRockLargeMarble.label>
+  <RG_EggKiwiUnfertilized.label>ovo de kiwi (não fert.)</RG_EggKiwiUnfertilized.label>
+  <RG_EggKiwiUnfertilized.description>Um ovo de kiwi não fertilizado. Pode ser comido cru, mas fica muito, muito melhor cozido.</RG_EggKiwiUnfertilized.description>
+  <RG_EggWoollyStegosaurusFertilized.label>ovo de estegossauro lanudo (fert.)</RG_EggWoollyStegosaurusFertilized.label>
+  <RG_EggWoollyStegosaurusFertilized.description>Um ovo de estegossauro lanudo fertilizado. Se tudo correr bem, deve chocar em um filhote de estegossauro lanudo. Pode ser comido cru, mas fica muito melhor cozido.</RG_EggWoollyStegosaurusFertilized.description>
+  <RG_EggWoollyStegosaurusUnfertilized.label>ovo de estegossauro lanudo (não fert.)</RG_EggWoollyStegosaurusUnfertilized.label>
+  <RG_EggWoollyStegosaurusUnfertilized.description>Um ovo de estegossauro lanudo não fertilizado. Pode ser comido cru, mas fica muito, muito melhor cozido.</RG_EggWoollyStegosaurusUnfertilized.description>
+  <RG_RimclawEggFertilized.label>ovo de rimclaw (fert.)</RG_RimclawEggFertilized.label>
+  <RG_RimclawEggFertilized.description>Um ovo de rimclaw fertilizado. Se tudo correr bem, deve chocar em um filhote de rimclaw. Pode ser comido cru, mas fica muito melhor cozido.</RG_RimclawEggFertilized.description>
+  <RG_RimclawEggUnfertilized.label>ovo de rimclaw (não fert.)</RG_RimclawEggUnfertilized.label>
+  <RG_RimclawEggUnfertilized.description>Um ovo de rimclaw não fertilizado. Pode ser comido cru, mas fica muito, muito melhor cozido.</RG_RimclawEggUnfertilized.description>
+  <RG_DinosaursHideHeavy.label>couro pesado de dinossauro</RG_DinosaursHideHeavy.label>
+  <RG_DinosaursHideHeavy.description>Pele pesada de terópodes ou saurópodes maiores e mais resistentes. Razoavelmente boa em proteção.</RG_DinosaursHideHeavy.description>
+  <RG_WoolStegosaurus.label>lã de estegossauro lanudo</RG_WoolStegosaurus.label>
+  <RG_WoolStegosaurus.description>Lã espessa e grossa de um estegossauro lanudo. Bastante quente.</RG_WoolStegosaurus.description>
+  <RG_FilthWater.label>água</RG_FilthWater.label>
+  <RG_FilthWater.description>Água.</RG_FilthWater.description>
+  <RG_FilthWaterSpatter.label>água</RG_FilthWaterSpatter.label>
+  <RG_FilthWaterSpatter.description>Água.</RG_FilthWaterSpatter.description>
+  <RG_Plant_AridGrass.description>Grama selvagem. Cresce em regiões áridas onde há pouca luz e solo minimamente fértil.</RG_Plant_AridGrass.description>
+  <Plant_DesertDandelion.label>dente-de-leão</Plant_DesertDandelion.label>
+  <Plant_DesertDandelion.description>Uma pequena flor alaranjada que cresce em grandes aglomerados. Embora seja muitas vezes considerada uma erva daninha, dentes-de-leão em flor são muito bonitos.</Plant_DesertDandelion.description>
+  <RG_FlowerCactus.label>cacto florido</RG_FlowerCactus.label>
+  <RG_FlowerCactus.description>Um pequeno cacto com uma flor roxa crescendo nele.</RG_FlowerCactus.description>
+  <RG_Plant_BorealFern.label>samambaia</RG_Plant_BorealFern.label>
+  <RG_Plant_BorealFern.description>Um arbusto baixo com folhas longas e finas. Cresce em áreas de florestas frias.</RG_Plant_BorealFern.description>
+  <RG_Plant_Coldheart.label>coração-frio</RG_Plant_Coldheart.label>
+  <RG_Plant_Coldheart.description>Uma versão geneticamente alterada da hera comum, adaptada para prosperar em áreas de temperaturas frias.</RG_Plant_Coldheart.description>
+  <RG_Plant_TigerLily.label>lírio-tigre</RG_Plant_TigerLily.label>
+  <RG_Plant_TigerLily.description>Uma pequena flor alaranjada que cresce em grandes aglomerados. Embora seja muitas vezes considerada uma erva daninha, lírios-tigre em flor são muito bonitos.</RG_Plant_TigerLily.description>
+  <RG_Potokus.label>potokus</RG_Potokus.label>
+  <RG_Potokus.description>Um pequeno cogumelo marrom e delicioso que cresce em aglomerados. Cresce exclusivamente em florestas boreais.</RG_Potokus.description>
+  <RG_Plant_OrangeTreePine.label>pinheiro</RG_Plant_OrangeTreePine.label>
+  <RG_Plant_OrangeTreePine.description>Uma grande conífera alaranjada coberta de pinhas espinhosas. Cresce em uma forma cônica distinta.</RG_Plant_OrangeTreePine.description>
+  <RG_Plant_BlueTreePine.label>pinheiro</RG_Plant_BlueTreePine.label>
+  <RG_Plant_BlueTreePine.description>Uma conífera azulada menor coberta de pequenas pinhas. Cresce apenas em regiões mais frias ou de maior altitude.</RG_Plant_BlueTreePine.description>
+  <RG_Plant_LargeTreePine.label>pinheiro</RG_Plant_LargeTreePine.label>
+  <RG_Plant_LargeTreePine.description>Uma conífera alta de verde brilhante com casca fina. Cresce mais alta que os outros pinheiros.</RG_Plant_LargeTreePine.description>
+  <Plant_Grass.description>Grama selvagem. Cresce em qualquer lugar onde há pouca luz e solo minimamente fértil.</Plant_Grass.description>
+  <Plant_TallGrass.description>Grama alta selvagem. Retarda qualquer um que se mova sobre ela.</Plant_TallGrass.description>
+  <Plant_Brambles.description>Brotos lenhosos enroscados e espinhosos cobertos de folhas. As silvas crescem em aglomerados e retardam qualquer um que se mova sobre elas.</Plant_Brambles.description>
+  <RG_Plant_CreepStern.label>estrela-rasteira</RG_Plant_CreepStern.label>
+  <RG_Plant_CreepStern.description>Hera selvagem com folhas em forma de estrela que cresce em manchas em biomas frios e úmidos. Leva muito tempo para crescer, mas é muito resistente à geada.</RG_Plant_CreepStern.description>
+  <RG_Plant_Dervish.label>dervixe</RG_Plant_Dervish.label>
+  <RG_Plant_Dervish.description>Uma bela flor azulada que cresce em biomas frios e úmidos. Só pode ser encontrada em pântanos frios.</RG_Plant_Dervish.description>
+  <RG_Plant_SwampPod.label>vagem-do-pântano</RG_Plant_SwampPod.label>
+  <RG_Plant_SwampPod.description>Uma pequena planta semelhante a um cogumelo, que se parece com um olho com uma casca dura. Só pode ser encontrada em pântanos.</RG_Plant_SwampPod.description>
+  <RG_SychiCap.label>cogumelo sychi</RG_SychiCap.label>
+  <RG_SychiCap.description>Um pequeno cogumelo avermelhado que cresce em aglomerados. Cresce exclusivamente em pântanos frios.</RG_SychiCap.description>
+  <RG_Plant_TreeWhiteWillow.label>salgueiro</RG_Plant_TreeWhiteWillow.label>
+  <RG_Plant_TreeWhiteWillow.description>Uma versão geneticamente modificada do salgueiro comum. Proporciona uma bela copa frondosa e branca. Não produz muita madeira utilizável.</RG_Plant_TreeWhiteWillow.description>
+  <RG_Plant_TemperateIvy.label>hera</RG_Plant_TemperateIvy.label>
+  <RG_Plant_TemperateIvy.description>Hera selvagem com folhas que cresce em manchas de folhagem em áreas de temperaturas quentes. Leva muito tempo para crescer, mas é muito resistente à geada.</RG_Plant_TemperateIvy.description>
+  <RG_Plant_TemperateFern.label>samambaia</RG_Plant_TemperateFern.label>
+  <RG_Plant_TemperateFern.description>Um arbusto baixo com folhas longas e finas. Cresce em áreas de florestas quentes.</RG_Plant_TemperateFern.description>
+  <RG_Plant_BlueDandelion.label>dente-de-leão</RG_Plant_BlueDandelion.label>
+  <RG_Plant_BlueDandelion.description>Uma pequena flor azul que cresce em grandes aglomerados. Embora seja muitas vezes considerada uma erva daninha, dentes-de-leão em flor são muito bonitos.</RG_Plant_BlueDandelion.description>
+  <RG_Plant_RedDandelion.label>dente-de-leão</RG_Plant_RedDandelion.label>
+  <RG_Plant_RedDandelion.description>Uma pequena flor vermelha que cresce em grandes aglomerados. Embora seja muitas vezes considerada uma erva daninha, dentes-de-leão em flor são muito bonitos.</RG_Plant_RedDandelion.description>
+  <RG_Plant_Cathedralis.label>cathedralis</RG_Plant_Cathedralis.label>
+  <RG_Plant_Cathedralis.description>Uma grande e bela flor silvestre roxa que cresce em climas mais quentes.</RG_Plant_Cathedralis.description>
+  <RG_Cibarius.label>cibarius</RG_Cibarius.label>
+  <RG_Cibarius.description>Um pequeno cogumelo amarelo e muito saboroso que cresce em pequenos aglomerados. Pode ser encontrado exclusivamente em biomas temperados.</RG_Cibarius.description>
+  <RG_Plant_TreeCornish.label>árvore da Cornualha</RG_Plant_TreeCornish.label>
+  <RG_Plant_TreeCornish.description>Uma grande conífera mediterrânea coberta de pequenas pinhas. Cresce exclusivamente em biomas temperados.</RG_Plant_TreeCornish.description>
+  <RG_Plant_TropicalBrambles.description>Brotos lenhosos enroscados e espinhosos cobertos de folhas. As silvas crescem em aglomerados e retardam qualquer um que se mova sobre elas.</RG_Plant_TropicalBrambles.description>
+  <RG_Plant_TropicalIvy.label>hera</RG_Plant_TropicalIvy.label>
+  <RG_Plant_TropicalIvy.description>Hera selvagem com folhas que cresce em manchas de folhagem em áreas de temperaturas tropicais.</RG_Plant_TropicalIvy.description>
+  <RG_Plant_TropicalFern.label>samambaia</RG_Plant_TropicalFern.label>
+  <RG_Plant_TropicalFern.description>Um arbusto baixo com folhas longas e finas. Cresce em áreas tropicais.</RG_Plant_TropicalFern.description>
+  <RG_Plant_TropicalChokevine.label>videira sufocante</RG_Plant_TropicalChokevine.label>
+  <RG_Plant_TropicalChokevine.description>Montes emaranhados de videiras pontiagudas semelhantes a cordas, que se enrolam em grandes volumes ao longo do solo. A videira sufocante retarda muito qualquer um que se mova sobre ela. Diversas tribos criaram independentemente histórias de videiras sufocantes estrangulando crianças durante a noite, como forma de assustar as crianças para que voltem para casa antes de escurecer.</RG_Plant_TropicalChokevine.description>
+  <RG_Plant_Tidalis.label>tidalis</RG_Plant_Tidalis.label>
+  <RG_Plant_Tidalis.description>Uma versão geneticamente alterada da hera comum, cruzada com uma flor tropical e adaptada para prosperar em áreas tropicais.</RG_Plant_Tidalis.description>
+  <RG_Plant_Oxalis.label>oxalis</RG_Plant_Oxalis.label>
+  <RG_Plant_Oxalis.description>Uma pequena flor roxa que cresce em grandes aglomerados.</RG_Plant_Oxalis.description>
+  <RG_Plant_Plumeria.label>plumeria</RG_Plant_Plumeria.label>
+  <RG_Plant_Plumeria.description>Uma flor macia e aveludada que cresce em grandes aglomerados.</RG_Plant_Plumeria.description>
+  <RG_NeoAmanita.label>neo amanita</RG_NeoAmanita.label>
+  <RG_NeoAmanita.description>Uma versão geneticamente modificada da amanita comum para ser segura para consumo humano, crescendo em aglomerados. Cresce exclusivamente em regiões tropicais.</RG_NeoAmanita.description>
+  <RG_Plant_TreeDwarfPalm.label>palmeira-anã</RG_Plant_TreeDwarfPalm.label>
+  <RG_Plant_TreeDwarfPalm.description>Uma árvore tropical baixa, com tronco nu encimado por um conjunto de folhas muito largas.</RG_Plant_TreeDwarfPalm.description>
+  <RG_Plant_TallPalmTree.label>palmeira</RG_Plant_TallPalmTree.label>
+  <RG_Plant_TallPalmTree.description>Uma árvore tropical com um tronco alto e nu encimado por um conjunto de folhas muito largas. Infelizmente, esta variedade não produz nenhum coco comestível.</RG_Plant_TallPalmTree.description>
+  <RG_Plant_TundraTallGrass.description>Grama alta selvagem da tundra. Retarda qualquer um que se mova sobre ela.</RG_Plant_TundraTallGrass.description>
+  <RG_Plant_BramblesRed.description>Brotos lenhosos enroscados e espinhosos cobertos de folhas. As silvas crescem em aglomerados e retardam qualquer um que se mova sobre elas.</RG_Plant_BramblesRed.description>
+  <RG_Plant_BramblesYellow.description>Brotos lenhosos enroscados e espinhosos cobertos de folhas. As silvas crescem em aglomerados e retardam qualquer um que se mova sobre elas.</RG_Plant_BramblesYellow.description>
+  <RG_Plant_CrimsonCushion.label>almofada-carmesim</RG_Plant_CrimsonCushion.label>
+  <RG_Plant_CrimsonCushion.description>Planta rasteira selvagem de cor carmesim. Leva muito tempo para crescer, mas é muito resistente ao congelamento.</RG_Plant_CrimsonCushion.description>
+  <RG_Plant_TundraCotton.label>algodão-da-tundra</RG_Plant_TundraCotton.label>
+  <RG_Plant_TundraCotton.description>Uma pequena flor com grandes capulhos de algodão. Por ser muito resistente à geada, cresce apenas em regiões de tundra.</RG_Plant_TundraCotton.description>
+  <RG_Plant_LupineIceland.label>lupino</RG_Plant_LupineIceland.label>
+  <RG_Plant_LupineIceland.description>Uma longa e bela flor silvestre que cresce em climas mais frios.</RG_Plant_LupineIceland.description>
+  <RG_Tree_TundraTreePine.label>pinheiro</RG_Tree_TundraTreePine.label>
+  <RG_Tree_TundraTreePine.description>Uma grande conífera amarela coberta de pinhas espinhosas. Cresce em uma forma cônica distinta.</RG_Tree_TundraTreePine.description>
+  <RG_WoollyStegosaurus.label>estegossauro lanudo</RG_WoollyStegosaurus.label>
+  <RG_WoollyStegosaurus.description>Uma variação do mais comum “lagarto-telhado”, esta criatura é um herbívoro caracterizado por suas distintas placas ósseas eretas em forma de pipa ao longo das costas, que ajudam a regular sua temperatura corporal e servem como exibição de acasalamento.\n\nO estegossauro lanudo vive em biomas frios, preferindo comer vegetação baixa devido ao pescoço curto e à cabeça pequena. Os espinhos na ponta da cauda diferem dos do estegossauro comum, pois são curvos em vez de retos. Embora isso prejudique um pouco sua capacidade de se defender de predadores, eles são muito mais adequados para cavar solo duro e arremessá-lo para expor raízes nutritivas.</RG_WoollyStegosaurus.description>
+  <RG_WoollyStegosaurus.tools.0.label>cabeça</RG_WoollyStegosaurus.tools.0.label>
+  <RG_WoollyStegosaurus.tools.2.label>pé esquerdo</RG_WoollyStegosaurus.tools.2.label>
+  <RG_WoollyStegosaurus.tools.3.label>pé direito</RG_WoollyStegosaurus.tools.3.label>
+  <RG_WoollyStegosaurus.tools.4.label>espinhos da cauda</RG_WoollyStegosaurus.tools.4.label>
+  <RG_Rimclaw.label>rimclaw</RG_Rimclaw.label>
+  <RG_Rimclaw.description>Os rimclaws são predadores de topo gigantes mutados a partir de iguanas, bem adaptados a ambientes altamente poluídos. São incrivelmente rápidos, poderosos e inteligentes.</RG_Rimclaw.description>
+  <RG_Rimclaw.tools.0.label>chifre</RG_Rimclaw.tools.0.label>
+  <RG_Rimclaw.tools.1.label>garra esquerda</RG_Rimclaw.tools.1.label>
+  <RG_Rimclaw.tools.2.label>garra direita</RG_Rimclaw.tools.2.label>
+  <RG_Rimclaw.tools.4.label>cabeça</RG_Rimclaw.tools.4.label>
+  <RG_AncientPowerPole.label>poste de energia ancestral</RG_AncientPowerPole.label>
+  <RG_AncientPowerPole.description>Parte de uma rede de energia há muito desaparecida. Não funciona mais.</RG_AncientPowerPole.description>
+  <RG_Plant_Nightguide.label>guia-da-noite</RG_Plant_Nightguide.label>
+  <RG_Plant_Nightguide.description>Descrição pendente.</RG_Plant_Nightguide.description>
+  <RG_Plant_ToxiGrass.label>toxigrama</RG_Plant_ToxiGrass.label>
+  <RG_Plant_ToxiGrass.description>Grama selvagem resistente a toxinas. Cresce em qualquer lugar onde há pouca luz e solo minimamente fértil.</RG_Plant_ToxiGrass.description>
+  <RG_Plant_TallToxiGrass.label>toxigrama alta</RG_Plant_TallToxiGrass.label>
+  <RG_Plant_TallToxiGrass.description>Grama alta selvagem resistente a toxinas.</RG_Plant_TallToxiGrass.description>
+  <RG_Plant_MutatedFungus.label>fungo mutante</RG_Plant_MutatedFungus.label>
+  <RG_Plant_MutatedFungus.description>Um estranho fungo adaptado a toxinas que cresce em pares. Não tem valor nutricional.</RG_Plant_MutatedFungus.description>
+  <RG_Plant_GlowLeaf.label>folha-brilhante</RG_Plant_GlowLeaf.label>
+  <RG_Plant_GlowLeaf.description>Uma samambaia resistente a toxinas de coloração azulada. Brilha no escuro.</RG_Plant_GlowLeaf.description>
+  <RG_Plant_LureWeed.label>erva-isca</RG_Plant_LureWeed.label>
+  <RG_Plant_LureWeed.description>Uma planta semelhante a uma flor, resistente a toxinas, com caules longos e vagens brilhantes. Lendas tribais dizem que ela está ligada a um grande monstro enterrado sob o solo, que a usa para atrair presas para perto dele.</RG_Plant_LureWeed.description>
+  <RG_Plant_MutatedFern.label>samambaia mutante</RG_Plant_MutatedFern.label>
+  <RG_Plant_MutatedFern.description>Uma samambaia resistente a toxinas, adaptada para prosperar em áreas altamente poluídas.</RG_Plant_MutatedFern.description>
+  <RG_Tripaloski.label>tripaloski</RG_Tripaloski.label>
+  <RG_Tripaloski.description>Um cogumelo vermelho brilhante resistente a toxinas. Por ser resultado de mutação, cresce apenas em terras devastadas e não pode ser cultivado.</RG_Tripaloski.description>
+  <RG_Plant_TreeToxipine.label>pinheiro-tóxico</RG_Plant_TreeToxipine.label>
+  <RG_Plant_TreeToxipine.description>Uma conífera resistente a toxinas. Sua cor está meio desbotada para marrom.</RG_Plant_TreeToxipine.description>
+  <RG_Plant_TreeSplitpine.label>pinheiro-fendido</RG_Plant_TreeSplitpine.label>
+  <RG_Plant_TreeSplitpine.description>Uma grande conífera altamente mutada e resistente a toxinas. Sua cor está desbotada para marrom.</RG_Plant_TreeSplitpine.description>
+  <RG_Plant_TreeToxiTeak.label>teca-tóxica</RG_Plant_TreeToxiTeak.label>
+  <RG_Plant_TreeToxiTeak.description>Uma árvore de madeira dura resistente a toxinas que cresce em climas poluídos.</RG_Plant_TreeToxiTeak.description>
+</LanguageData>

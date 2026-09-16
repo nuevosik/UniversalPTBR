@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA.AndroidShortCircuitSandstorm>{PAWN_nameDef} sofreu um curto-circuito devido à tempestade de areia.</VREA.AndroidShortCircuitSandstorm>
+  <RG.SpawnAutumnLeaves>Ativar a geração de sujeira de folhas de outono.</RG.SpawnAutumnLeaves>
+  <RG.SpawnLeaves>Ativar a geração de folhas de álamo.</RG.SpawnLeaves>
+  <RG.ColdFog>Névoa fria</RG.ColdFog>
+  <RG.IceLayer>Camada de gelo</RG.IceLayer>
+  <RG.FogVelocity>Velocidade da névoa</RG.FogVelocity>
+  <RG.FogTemp>Temperatura da névoa</RG.FogTemp>
+  <RG.SpawnFogOnHotSprings>Gerar névoa nas fontes termais</RG.SpawnFogOnHotSprings>
+  <RG.SandDevilLeftTheMap>O redemoinho de poeira deixou o mapa.</RG.SandDevilLeftTheMap>
+  <RG.SandDevilDissipated>O redemoinho de poeira se dissipou.</RG.SandDevilDissipated>
+  <RG.DisableHailDamage>Desativar dano de granizo</RG.DisableHailDamage>
+  <RG.BatheZone>Zona de banho</RG.BatheZone>
+  <RG.DesignatorBatheZoneDesc>Crie uma zona onde seus colonos têm permissão para tomar banho na água.</RG.DesignatorBatheZoneDesc>
+  <RG.StoppedBathingMessage>{PAWN_nameDef} parou de tomar banho. Motivo: {1}.</RG.StoppedBathingMessage>
+  <RG.TooCold>Temperatura muito baixa.</RG.TooCold>
+  <RG.TooHot>Temperatura muito alta.</RG.TooHot>
+  <RG.BathingIsNotPossible>Não é possível tomar banho: {0}</RG.BathingIsNotPossible>
+  <RG.BathingSeasonIsHere>A temporada de banho chegou!</RG.BathingSeasonIsHere>
+  <RG.BathingZoneRemoved>A zona de banho foi removida.</RG.BathingZoneRemoved>
+  <RG.BathingPeriod>Período de banho: {0}/{1} dias ({2} - {3})</RG.BathingPeriod>
+  <RG.BathingGroup>tomando banho</RG.BathingGroup>
+  <RG.MessagePlantDiedOfHeat>{0} morreu por causa do calor.</RG.MessagePlantDiedOfHeat>
+  <PerspectiveOres.Settings.Header>Todos os itens marcados aqui serão alterados.</PerspectiveOres.Settings.Header>
+  <RG.EnableMakeCamp>Ativar o recurso "Montar Acampamento"</RG.EnableMakeCamp>
+  <RG.EnableMakeCampDesc>Ative para permitir que as caravanas do jogador montem acampamentos temporários no mapa-múndi.</RG.EnableMakeCampDesc>
+  <RG.MakeCamp>Montar acampamento</RG.MakeCamp>
+  <RG.MakeCampDesc>Monte um acampamento temporário nesta área. Seus colonos entrarão nesta área e você poderá coletar recursos, construir estruturas simples, preparar um ataque ou planejar seu próximo movimento.</RG.MakeCampDesc>
+  <RG.PreserveSavedCamps>Período de preservação do mapa do acampamento</RG.PreserveSavedCamps>
+  <RG.PreserveSavedCampsDesc>Depois de sair do seu acampamento, o mapa local é salvo por algum tempo. Isso permite que você volte caso tenha esquecido algo, além de evitar trapaças. Ajuste o período de preservação após o qual os mapas salvos deverão ser gerados novamente.</RG.PreserveSavedCampsDesc>
+  <RG.EmptyCamp>acampamento vazio</RG.EmptyCamp>
+  <RG.TimeRemaining>Tempo restante: {0}</RG.TimeRemaining>
+  <RG.VisitCamp>Visitar acampamento abandonado</RG.VisitCamp>
+  <RG.PlantPollutionNoDeath>Plantas não morrem mais por poluição</RG.PlantPollutionNoDeath>
+  <RG.PlantPollutionNoDeathDesc>Quando ativado, as plantas não morrerão mais por causa da poluição. Elas ainda ficarão poluídas, mas não morrerão.</RG.PlantPollutionNoDeathDesc>
+  <RG.ChunkContains>Contém minério: {0}</RG.ChunkContains>
+  <RG.ToggleWorldMapBeautification>Alternar embelezamento do mapa-múndi</RG.ToggleWorldMapBeautification>
+  <RG.Enable>Ativar {0}</RG.Enable>
+  <SimpleFxSplashes.Settings.SizeMultiplier>Tamanho do respingo (padrão: {0}): {3}</SimpleFxSplashes.Settings.SizeMultiplier>
+  <SimpleFxSplashes.Settings.SizeMultiplier.Desc>Ajusta o tamanho das partículas de respingo.</SimpleFxSplashes.Settings.SizeMultiplier.Desc>
+  <SimpleFxSplashes.Settings.SplashRarity>Raridade dos respingos (padrão: {0}): {3}</SimpleFxSplashes.Settings.SplashRarity>
+  <SimpleFxSplashes.Settings.SplashRarity.Desc>Diminuir isto gerará mais partículas de respingo, e aumentar as tornará mais raras. Isso afeta o desempenho.</SimpleFxSplashes.Settings.SplashRarity.Desc>
+  <SimpleFxSplashes.Settings.FilterNature>Filtrar quadrados naturais (padrão: {0}): {3}</SimpleFxSplashes.Settings.FilterNature>
+  <SimpleFxSplashes.Settings.FilterNature.Desc>Reduz a proporção de quadrados naturais (como rocha bruta) que podem respingar chuva. Permite que apenas {0}% dos quadrados naturais respinguem chuva. Aumentar isto afeta o desempenho.</SimpleFxSplashes.Settings.FilterNature.Desc>
+  <SimpleFxVapor.Settings.ConsiderOutdoors>Considerar a temperatura externa</SimpleFxVapor.Settings.ConsiderOutdoors>
+  <SimpleFxVapor.Settings.ConsiderOutdoors.Desc>Não mostrar vapores internos se estiver muito frio lá fora.</SimpleFxVapor.Settings.ConsiderOutdoors.Desc>
+  <SmartFarming.Icon.On>Ligado</SmartFarming.Icon.On>
+  <SmartFarming.Icon.On.Desc>Semear a planta selecionada enquanto estiver na estação de crescimento.</SmartFarming.Icon.On.Desc>
+  <SmartFarming.Icon.Off>Desligado</SmartFarming.Icon.Off>
+  <SmartFarming.Icon.Off.Desc>Não semear nenhuma planta.</SmartFarming.Icon.Off.Desc>
+  <SmartFarming.Icon.Smart>Inteligente</SmartFarming.Icon.Smart>
+  <SmartFarming.Icon.Smart.Desc>Semear plantas desde que o crescimento previsto atinja o limite mínimo de colheita antes de se esperar que morram de frio ou toxina.</SmartFarming.Icon.Smart.Desc>
+  <SmartFarming.Icon.Force>Forçar</SmartFarming.Icon.Force>
+  <SmartFarming.Icon.Force.Desc>Semear plantas independentemente do status da estação de crescimento.</SmartFarming.Icon.Force.Desc>
+  <SmartFarming.Icon.HarvestNow>Colher agora</SmartFarming.Icon.HarvestNow>
+  <SmartFarming.Icon.HarvestNow.Desc>Marcar todas as plantas desta zona para colheita, mesmo que ainda não estejam totalmente crescidas.</SmartFarming.Icon.HarvestNow.Desc>
+  <SmartFarming.Icon.AllowHarvest>Permitir colheita</SmartFarming.Icon.AllowHarvest>
+  <SmartFarming.Icon.AllowHarvest.Desc>Desative isto para proibir que os colonos colham nesta zona.</SmartFarming.Icon.AllowHarvest.Desc>
+  <SmartFarming.Icon.OrchardAlignment>Alinhar plantas</SmartFarming.Icon.OrchardAlignment>
+  <SmartFarming.Icon.OrchardAlignment.Desc>Para plantas que precisam de uma zona de espaçamento, como árvores, os colonos tentarão alinhá-las em fileiras. Isso pode não funcionar bem em zonas de formato irregular.</SmartFarming.Icon.OrchardAlignment.Desc>
+  <SmartFarming.Icon.MergeZones>Mesclar zonas</SmartFarming.Icon.MergeZones>
+  <SmartFarming.Icon.MergeZones.Desc>Mescle as zonas selecionadas em uma única zona, usando a primeira zona selecionada como referência.</SmartFarming.Icon.MergeZones.Desc>
+  <SmartFarming.Icon.Low>Baixa</SmartFarming.Icon.Low>
+  <SmartFarming.Icon.Normal>Normal</SmartFarming.Icon.Normal>
+  <SmartFarming.Icon.Preferred>Preferencial</SmartFarming.Icon.Preferred>
+  <SmartFarming.Icon.Important>Importante</SmartFarming.Icon.Important>
+  <SmartFarming.Icon.Critical>Crítica</SmartFarming.Icon.Critical>
+  <SmartFarming.Icon.Priority.Desc>Os colonos são incentivados a semear e colher plantas em ordem de prioridade.</SmartFarming.Icon.Priority.Desc>
+  <SmartFarming.Icon.NoPettyJobs>Sem tarefas miúdas</SmartFarming.Icon.NoPettyJobs>
+  <SmartFarming.Icon.NoPettyJobs.Desc>Os colonos não semearão novas plantas nesta zona a menos que haja trabalho suficiente a fazer, configurado nas opções.</SmartFarming.Icon.NoPettyJobs.Desc>
+  <SmartFarming.Settings.Enabled>Ativar</SmartFarming.Settings.Enabled>
+  <SmartFarming.Settings.Enabled.Desc>Ativa ou desativa a agricultura inteligente.</SmartFarming.Settings.Enabled.Desc>
+  <SmartFarming.Settings.ColdSowing>Permitir semeadura no frio</SmartFarming.Settings.ColdSowing>
+  <SmartFarming.Settings.ColdSowing.Desc>Normalmente, o jogo não permite semear quando o solo está congelado, mesmo que o tipo de planta semeada tolere temperaturas congelantes. Desative isto para manter as regras vanilla.</SmartFarming.Settings.ColdSowing.Desc>
+  <SmartFarming.Settings.AllowHarvest>Botão de permitir colheita</SmartFarming.Settings.AllowHarvest>
+  <SmartFarming.Settings.AllowHarvest.Desc>Mostra o botão "permitir colheita". Ativar isto pode ter algum impacto no desempenho em colônias com muita população e muitos trabalhadores agrícolas. Alterar isto requer reiniciar o jogo.</SmartFarming.Settings.AllowHarvest.Desc>
+  <SmartFarming.Settings.SmartSowLabel>Semeadura inteligente:</SmartFarming.Settings.SmartSowLabel>
+  <SmartFarming.Settings.ProcessedFoodLabel>Fator de alimentos processados:</SmartFarming.Settings.ProcessedFoodLabel>
+  <SmartFarming.Settings.UseAverageTemperature>Usar previsão de temperatura média em vez da mínima</SmartFarming.Settings.UseAverageTemperature>
+  <SmartFarming.Settings.UseAverageTemperature.Desc>Ao prever o clima para o recurso de Semeadura Inteligente, usar a temperatura média do dia em vez da mínima. Usar a média estenderá a estação de crescimento, com o risco de perder algumas plantações.</SmartFarming.Settings.UseAverageTemperature.Desc>
+  <SmartFarming.Settings.UseAverageFertility>Usar fertilidade média da zona em vez da mais fraca</SmartFarming.Settings.UseAverageFertility>
+  <SmartFarming.Settings.UseAverageFertility.Desc>Ao prever o crescimento das plantas, usar a fertilidade média da zona em vez da fertilidade mais fraca da zona.</SmartFarming.Settings.UseAverageFertility.Desc>
+  <SmartFarming.Settings.AutoCutBlighted>Marcar automaticamente plantações com praga para descarte</SmartFarming.Settings.AutoCutBlighted>
+  <SmartFarming.Settings.AutoCutBlighted.Desc>Se uma plantação for afetada pela praga, uma ordem de corte será marcada automaticamente.</SmartFarming.Settings.AutoCutBlighted.Desc>
+  <SmartFarming.Settings.AutoHarvestNow>Colher antecipadamente se ameaçada</SmartFarming.Settings.AutoHarvestNow>
+  <SmartFarming.Settings.AutoHarvestNow.Desc>Se o clima desta noite for frio mortal, marcar todas as plantas para colheita imediata.</SmartFarming.Settings.AutoHarvestNow.Desc>
+  <SmartFarming.Message.AutoHarvestNow>Plantas marcadas para colheita antecipada devido à previsão do tempo desta noite.</SmartFarming.Message.AutoHarvestNow>
+  <SmartFarming.Settings.OrchardAlignment>Botão de alinhamento</SmartFarming.Settings.OrchardAlignment>
+  <SmartFarming.Settings.OrchardAlignment.Desc>Ativa um botão que incentiva os colonos a plantar árvores em fileiras cuidadosas.</SmartFarming.Settings.OrchardAlignment.Desc>
+  <SmartFarming.Settings.AutoCutDying>Tentar colher automaticamente plantações moribundas</SmartFarming.Settings.AutoCutDying>
+  <SmartFarming.Settings.AutoCutDying.Desc>Se uma plantação morrer de frio, tentar colher automaticamente quaisquer plantações sobreviventes antes que seja tarde demais. Alterar isto requer reiniciar o jogo.</SmartFarming.Settings.AutoCutDying.Desc>
+  <SmartFarming.Settings.ProcessedFood.Desc>Quando as zonas de cultivo exibem um rendimento nutricional potencial estimado, ele multiplica a nutrição do alimento cru por este valor. Para referência, uma refeição simples multiplica o valor por 1,8, refeições boas por 1,2 e refeições luxuosas por 1,0.</SmartFarming.Settings.ProcessedFood.Desc>
+  <SmartFarming.Settings.MinTempSlider>Tolerância mínima de temperatura (padrão do mod: {0}, mín.: {1}, máx.: {2}): </SmartFarming.Settings.MinTempSlider>
+  <SmartFarming.Settings.MinTemp>Ao prever o clima do primeiro dia de colheita, considere qualquer temperatura abaixo desta inaceitável. As plantas podem morrer a 0 °C, mas geralmente conseguem sobreviver se ficar apenas um pouco abaixo de zero por algumas horas. No entanto, o desvio diário aleatório de temperatura pode reduzir a precisão.</SmartFarming.Settings.MinTemp>
+  <SmartFarming.Settings.PettyJobsSlider>Margem de tarefas miúdas (padrão do mod: {0}, mín.: {1}, máx.: {2}): </SmartFarming.Settings.PettyJobsSlider>
+  <SmartFarming.Settings.PettyJobs>Se "sem tarefas miúdas" estiver ativado em uma zona, os colonos não semearão um campo a menos que haja pelo menos esta porcentagem de quadrados vazios para semear. Isso pode ser útil para zonas de pastagem de animais.</SmartFarming.Settings.PettyJobs>
+  <SmartFarming.Inspector.MinHarvestDay>\nPrimeiro dia de colheita: </SmartFarming.Inspector.MinHarvestDay>
+  <SmartFarming.Inspector.MinHarvestDayFail>\nAs plantas provavelmente morrerão antes da colheita</SmartFarming.Inspector.MinHarvestDayFail>
+  <SmartFarming.Inspector.Fertility>\nFertilidade: {0} média / {1} mais fraca</SmartFarming.Inspector.Fertility>
+  <SmartFarming.Inspector.AverageGrowth>\nCrescimento médio: </SmartFarming.Inspector.AverageGrowth>
+  <SmartFarming.Inspector.Yield>\nNutrição potencial: </SmartFarming.Inspector.Yield>
+  <SmartFarming.Inspector.DaysWorth> (equivalente a {0} dias)</SmartFarming.Inspector.DaysWorth>
+  <SmartFarming.Icon.SetAll>Definir zonas como </SmartFarming.Icon.SetAll>
+  <SmartFarming.Icon.ConfirmMergeZones>Tem certeza de que deseja mesclar essas zonas? Esta ação não pode ser desfeita.</SmartFarming.Icon.ConfirmMergeZones>
+  <ScatteredFlames.Settings.DisableAll>Desative todos esses recursos se você quiser apenas o fogo vanilla com alto desempenho.</ScatteredFlames.Settings.DisableAll>
+  <ScatteredFlames.Settings.MultiFlames>Ativar gráficos de múltiplas chamas</ScatteredFlames.Settings.MultiFlames>
+  <ScatteredFlames.Settings.MultiFlames.Desc>Ativar isto permitirá que várias chamas ocupem o mesmo quadrado. É uma mudança cosmética e, mecanicamente, ainda funciona como uma única chama.</ScatteredFlames.Settings.MultiFlames.Desc>
+  <ScatteredFlames.Settings.SpecialFX>Ativar efeitos de partículas</ScatteredFlames.Settings.SpecialFX>
+  <ScatteredFlames.Settings.SpecialFX.Desc>Permite que incêndios emitam efeitos especiais, como faíscas.</ScatteredFlames.Settings.SpecialFX.Desc>
+  <ScatteredFlames.Settings.Smoke>Ativar fumaça</ScatteredFlames.Settings.Smoke>
+  <ScatteredFlames.Settings.Smoke.Desc>Se o Simple FX: Smoke estiver instalado, ativar isto fará com que incêndios emitam fumaça, que respeitará a velocidade e a direção atuais do vento.</ScatteredFlames.Settings.Smoke.Desc>
+  <ScatteredFlames.Settings.OptimizeShadows>Otimizar sombras</ScatteredFlames.Settings.OptimizeShadows>
+  <ScatteredFlames.Settings.OptimizeShadows.Desc>Quando ativado, objetos que estiverem em chamas não emitirão sombra.</ScatteredFlames.Settings.OptimizeShadows.Desc>
+  <ScatteredFlames.Settings.FireWatcher>Desativar vigilante de incêndios</ScatteredFlames.Settings.FireWatcher>
+  <ScatteredFlames.Settings.FireWatcher.Desc>Normalmente, se um incêndio sair do controle por tempo suficiente, o narrador invocará chuva. Você pode desativar esse recurso aqui.</ScatteredFlames.Settings.FireWatcher.Desc>
+  <ScatteredFlames.ReloadRequired>Esses exigem recarregar seu save (você não precisa reiniciar o jogo inteiro).</ScatteredFlames.ReloadRequired>
+  <ScatteredFlames.ReloadHeader>Recarregamento necessário</ScatteredFlames.ReloadHeader>
+  <ScatteredFlames.Settings.Header.Graphics>Gráficos:</ScatteredFlames.Settings.Header.Graphics>
+  <ScatteredFlames.Settings.Header.Misc>Diversos:</ScatteredFlames.Settings.Header.Misc>
+  <ScatteredFlames.Ignite.Label>Incendiar</ScatteredFlames.Ignite.Label>
+  <ScatteredFlames.Ignite.Desc>Colocar algo em chamas.</ScatteredFlames.Ignite.Desc>
+  <ScatteredFlames.Ignite.Scared>Este colono tem medo de fogo.</ScatteredFlames.Ignite.Scared>
+  <ScatteredFlames.Settings.IgniteGizmo>Ativar botão de incendiar</ScatteredFlames.Settings.IgniteGizmo>
+  <ScatteredFlames.Settings.IgniteGizmo.Desc>Adiciona botões "Incendiar" aos seus colonos, permitindo que eles iniciem incêndios manualmente, semelhante ao que os invasores podem fazer.</ScatteredFlames.Settings.IgniteGizmo.Desc>
+  <RG.EnableScatteredFlames>Ativar chamas dispersas</RG.EnableScatteredFlames>
+  <RG.EnableScatteredFlames.Desc>Alterna o efeito visual de chamas dispersas. (Padrão: Ativado)</RG.EnableScatteredFlames.Desc>
+  <RG.RainWaterPuddles>Ativar poças de água</RG.RainWaterPuddles>
+  <RG.RainWaterPuddles.Desc>Ativa/desativa a formação de poças de água durante a chuva.</RG.RainWaterPuddles.Desc>
+  <RG.RainCleanWaterPuddles>Limpar poças de água</RG.RainCleanWaterPuddles>
+  <RG.RainCleanWaterPuddles.Desc>Ativa/desativa a limpeza de poças de água na área da casa.</RG.RainCleanWaterPuddles.Desc>
+  <RG.PuddlesPerTickNormal>Poças por tick (velocidade normal)</RG.PuddlesPerTickNormal>
+  <RG.PuddlesPerTickNormal.Desc>Quantidade de poças geradas a cada tick durante a chuva ao jogar na velocidade normal do jogo. Gerar poças demais causará engasgos até atingir a quantidade máxima de poças, especialmente em velocidades mais altas. (Padrão {0})</RG.PuddlesPerTickNormal.Desc>
+  <RG.PuddlesPerTickFast>Poças por tick (velocidade rápida)</RG.PuddlesPerTickFast>
+  <RG.PuddlesPerTickFast.Desc>Quantidade de poças geradas a cada tick durante a chuva ao jogar na velocidade rápida do jogo. Gerar poças demais causará engasgos até atingir a quantidade máxima de poças, especialmente em velocidades mais altas. (Padrão {0})</RG.PuddlesPerTickFast.Desc>
+  <RG.PuddlesPerTickUltrafast>Poças por tick (velocidade ultra-rápida+)</RG.PuddlesPerTickUltrafast>
+  <RG.PuddlesPerTickUltrafast.Desc>Quantidade de poças geradas a cada tick durante a chuva ao jogar na velocidade ultra-rápida (ou mais rápida). Gerar poças demais causará engasgos até atingir a quantidade máxima de poças, especialmente em velocidades mais altas. (Padrão {0})</RG.PuddlesPerTickUltrafast.Desc>
+</LanguageData>

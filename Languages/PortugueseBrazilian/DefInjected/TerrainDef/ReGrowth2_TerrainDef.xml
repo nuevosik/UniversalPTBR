@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RG_AncientConcrete.label>concreto quebrado</RG_AncientConcrete.label>
+  <RG_AncientConcrete.description>Concreto áspero. Quebrado por falta de manutenção.</RG_AncientConcrete.description>
+  <RG_AridSoil.label>solo</RG_AridSoil.label>
+  <RG_AridSoil.tools.0.label>terra</RG_AridSoil.tools.0.label>
+  <RG_TundraSoil.label>solo</RG_TundraSoil.label>
+  <RG_TundraSoil.tools.0.label>terra</RG_TundraSoil.tools.0.label>
+  <RG_BorealSoil.label>solo</RG_BorealSoil.label>
+  <RG_BorealSoil.tools.0.label>terra</RG_BorealSoil.tools.0.label>
+  <RG_TemperateSoil.label>solo</RG_TemperateSoil.label>
+  <RG_TemperateSoil.tools.0.label>terra</RG_TemperateSoil.tools.0.label>
+  <RG_TropicalSoil.label>solo</RG_TropicalSoil.label>
+  <RG_TropicalSoil.tools.0.label>terra</RG_TropicalSoil.tools.0.label>
+  <RG_LavaRock.label>rocha vulcânica</RG_LavaRock.label>
+  <RG_LavaRock.tools.0.label>rocha de lava</RG_LavaRock.tools.0.label>
+  <RG_HotSpringSand.label>areia</RG_HotSpringSand.label>
+  <RG_HotSpringSand.tools.0.label>areia</RG_HotSpringSand.tools.0.label>
+  <RG_AspenSoil.label>solo coberto de musgo</RG_AspenSoil.label>
+  <RG_AspenSoil.tools.0.label>terra</RG_AspenSoil.tools.0.label>
+  <RG_BoilingSoil.label>solo</RG_BoilingSoil.label>
+  <RG_BoilingSoil.tools.0.label>terra</RG_BoilingSoil.tools.0.label>
+  <RG_DepletedSoil.label>solo esgotado</RG_DepletedSoil.label>
+  <RG_DepletedSoil.tools.0.label>terra</RG_DepletedSoil.tools.0.label>
+  <RG_DepletedMossy.label>solo esgotado coberto de líquen</RG_DepletedMossy.label>
+  <RG_DepletedGravel.label>cascalho esgotado</RG_DepletedGravel.label>
+  <RG_DepletedGravel.tools.0.label>cascalho</RG_DepletedGravel.tools.0.label>
+  <RG_ToxicWaste.label>resíduos tóxicos</RG_ToxicWaste.label>
+  <RG_HarbingerSoil.label>solo retorcido</RG_HarbingerSoil.label>
+  <RG_HarbingerSoil.tools.0.label>terra</RG_HarbingerSoil.tools.0.label>
+  <RG_HarbingerSoilRich.label>solo forjado no sangue</RG_HarbingerSoilRich.label>
+  <RG_HarbingerSoilRich.tools.0.label>terra</RG_HarbingerSoilRich.tools.0.label>
+  <RG_VeilGravel.label>solo pedregoso</RG_VeilGravel.label>
+  <RG_VeilGravel.tools.0.label>cascalho</RG_VeilGravel.tools.0.label>
+  <RG_VeilMud.label>lama seca</RG_VeilMud.label>
+  <RG_VeilMud.tools.0.label>lama seca</RG_VeilMud.tools.0.label>
+</LanguageData>
