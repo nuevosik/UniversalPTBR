@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_Artificer_ControlSublink.label>subconexão de controle (padrão)</VR_Artificer_ControlSublink.label>
+  <VR_Artificer_ControlSublink.description>Um implante neural que concede a um mecanizador um grupo de controle adicional. Além disso, a subconexão aumenta ligeiramente a velocidade de trabalho de quaisquer mecanoides controlados pelo mecanizador.\n\nEsta subconexão de nível padrão só pode aumentar a contagem de grupos de controle até 3. Para ir mais alto, um implante de subconexão de nível superior deve ser usado.\n\nPode ser auto-instalado sem cirurgia.\n\nEste implante pode ser instalado até 3 vezes para aumentar seu efeito.</VR_Artificer_ControlSublink.description>
+  <VR_Artificer_ControlSublinkHigh.label>subconexão de controle (avançada)</VR_Artificer_ControlSublinkHigh.label>
+  <VR_Artificer_ControlSublinkHigh.description>Um implante neural que concede a um mecanizador um grupo de controle adicional. Além disso, a subconexão aumenta ligeiramente a velocidade de trabalho de quaisquer mecanoides controlados pelo mecanizador.\n\nEste implante de nível avançado pode aumentar a contagem de grupos de controle até 6.\n\nPode ser auto-instalado sem cirurgia.\n\nEste implante pode ser instalado até 3 vezes para aumentar seu efeito.</VR_Artificer_ControlSublinkHigh.description>
+  <VR_Artificer_MechFormfeeder.label>processador de gestação mecanoide</VR_Artificer_MechFormfeeder.label>
+  <VR_Artificer_MechFormfeeder.description>Um implante que aumenta a velocidade na qual um mecanizador pode produzir mecanoides em um gestador mecanoide. O processador otimiza o comportamento dos mecanitos no tanque de formação de mecanoides.\n\nEste implante pode ser auto-instalado da mesma forma que a meca-conexão.\n\nEste implante pode ser instalado até 6 vezes para aumentar seu efeito.</VR_Artificer_MechFormfeeder.description>
+  <VR_ArtificerImplant.label>conexão de artífice</VR_ArtificerImplant.label>
+  <VR_ArtificerImplant.description>Um implante biônico que permite o controle direto de constructos. Conexões de artífice são usadas por soldados para controlar constructos de guerra, e por trabalhadores para controlar constructos de trabalho. Uma pessoa com a conexão é conhecida como artífice.\n\nConexões de artífice são auto-instaláveis. Pressionado na parte de trás da garganta, a unidade se injeta através da carne para se prender dentro da base do crânio, onde encontra a medula espinhal. Lá, ela enfia uma teia de fios ultrafinos em todo o tecido neuronal próximo para fazer a ligação mental direta entre o usuário e a banda de controle de constructos.\n\Conexões de artífice não são simplesmente dispositivos para enviar sinais aos constructos, porque os constructos não são meros robôs. Além da computação tradicional, os constructos têm uma presença psíquica fraca, então controlá-los fluentemente requer uma conexão psíquica. Ao vincular artífice e constructo tanto psíquica quanto eletromagneticamente.\n\nComo a meca-conexão se entrelaça profundamente no tecido cerebral, ela só pode ser removida após a morte.\n\nObservação: Um mecanizador deve ser capaz de realizar trabalhos de forjamento para gestar mecanoides.</VR_ArtificerImplant.description>
+  <VR_Steam.label>vapor</VR_Steam.label>
+  <VR_Steam.description>vapor</VR_Steam.description>
+  <VR_SteamPipe.label>tubo de vapor</VR_SteamPipe.label>
+  <VR_SteamPipe.description>Um tubo usado para transportar vapor entre geradores, tanques de armazenamento e estruturas movidas a vapor.</VR_SteamPipe.description>
+  <VR_UndergroundSteamPipe.label>tubo de vapor oculto</VR_UndergroundSteamPipe.label>
+  <VR_UndergroundSteamPipe.description>Tubo oculto usado para transportar vapor entre geradores, tanques de armazenamento e estruturas movidas a vapor.</VR_UndergroundSteamPipe.description>
+  <VR_SteamValve.label>válvula de vapor</VR_SteamValve.label>
+  <VR_SteamValve.description>Liga/desliga o fluxo de vapor.</VR_SteamValve.description>
+  <VR_SteamTank.label>tanque de vapor</VR_SteamTank.label>
+  <VR_SteamTank.description>Um tanque de armazenamento destinado a armazenar vapor pressurizado distribuído por uma rede de tubos.</VR_SteamTank.description>
+  <VR_SteamTank_Large.label>tanque de vapor grande</VR_SteamTank_Large.label>
+  <VR_SteamTank_Large.description>Um grande tanque de armazenamento destinado a armazenar vapor pressurizado distribuído por uma rede de tubos.</VR_SteamTank_Large.description>
+  <VR_SteamGenerator.label>gerador de vapor</VR_SteamGenerator.label>
+  <VR_SteamGenerator.description>Produz vapor consumindo madeira. Deve ser periodicamente abastecido com lenha manualmente.</VR_SteamGenerator.description>
+  <VR_SteamGenerator_Large.label>gerador de vapor grande</VR_SteamGenerator_Large.label>
+  <VR_SteamGenerator_Large.description>Produz vapor consumindo madeira. Deve ser periodicamente abastecido com lenha manualmente.</VR_SteamGenerator_Large.description>
+  <VR_GeyserHarvester.label>usina geotérmica</VR_GeyserHarvester.label>
+  <VR_GeyserHarvester.description>Coleta vapor de gêiseres de vapor geotérmicos. Precisa ser colocada sobre um gêiser de vapor</VR_GeyserHarvester.description>
+  <VR_BasicDeathRestCasket.label>caixão básico de descanso mortal</VR_BasicDeathRestCasket.label>
+  <VR_BasicDeathRestCasket.description>Um caixão básico que acelera o processo de descanso mortal. Ele pode se conectar a outros objetos rituais de vampiro que conferem bônus adicionais ao descansador mortal. O número de objetos que podem se conectar depende da capacidade de descanso mortal da pessoa, que pode ser vista ao selecioná-la.\n\nSomente aqueles com o gene de descanso mortal podem usar o caixão de descanso mortal</VR_BasicDeathRestCasket.description>
+  <VR_GeneRack.label>estante de genes</VR_GeneRack.label>
+  <VR_GeneRack.description>Esta construção pode armazenar pacotes de genes e torná-los utilizáveis para criar novos xenogermes, quando colocada perto de uma forja de enxertos. Grandes bibliotecas de genes exigem muitos bancos de genes.\n\nQuando abastecidos, os bancos de genes impedem que os pacotes de genes se deteriorem e reparam lentamente a deterioração.</VR_GeneRack.description>
+  <VR_GraftForge.label>forja de enxertos</VR_GraftForge.label>
+  <VR_GraftForge.description>Uma bancada de trabalho para criar xenogermes implantáveis a partir de pacotes de genes armazenados nas estantes de genes próximas. Os pacotes de genes não são consumidos nesse processo e podem ser reutilizados.</VR_GraftForge.description>
+  <VR_GeneRemover.label>removedor de genes</VR_GeneRemover.label>
+  <VR_GeneRemover.description>Uma mesa de cirurgia que permite a um médico extrair os genes de uma pessoa e criar um pacote de genes a partir deles. Os genes extraídos serão selecionados aleatoriamente entre os xenogenes e os genes da linhagem germinativa da pessoa. Você pode forçar alguém a entrar na máquina, mas a pessoa não vai gostar.\n\nDevido à natureza invasiva dessa extração, haverá perda de sangue com base na habilidade do médico.\n\nExtrair os genes de uma pessoa enquanto eles estão se regenerando irá matá-la.\n\nGenes que exigem cápsulas de arquita são complexos demais para serem extraídos.</VR_GeneRemover.description>
+  <VR_GeneProcessor.label>forno mutagênico</VR_GeneProcessor.label>
+  <VR_GeneProcessor.description>Colocado perto de uma forja de enxertos, aumenta a complexidade genética máxima dos xenogermes que você pode montar. Construir vários fornos mutagênicos aumentará ainda mais o limite de complexidade genética.</VR_GeneProcessor.description>
+  <VR_MechGestator_Steam.label>gestador mecanoide</VR_MechGestator_Steam.label>
+  <VR_MechGestator_Steam.description>Um tanque de fluido rico em mecanitos com tubos de suporte para alimentação de materiais e nutrientes. Os mecanizadores podem usá-lo para produzir novos mecanoides ou ressuscitar mecanoides mortos. Este tipo básico de gestador mecanoide só é capaz de gerar mecanoides leves.\n\nO processo usa produtos químicos agressivos que são armazenados em pacotes de resíduos tóxicos. Os transportadores devem remover os resíduos de tempos em tempos.</VR_MechGestator_Steam.description>
+  <VR_LargeMechGestator_Steam.label>grande gestador de constructos</VR_LargeMechGestator_Steam.label>
+  <VR_LargeMechGestator_Steam.description>Um tanque de fluido rico em mecanitos com tubos de suporte para alimentação de materiais e nutrientes. Os mecanizadores podem usá-lo para produzir novos mecanoides ou ressuscitar mecanoides mortos. Este nível de gestador de constructos é capaz de gerar constructos médios, pesados e ultrapesados.\n\nO processo usa produtos químicos agressivos que são armazenados em pacotes de resíduos tóxicos. Os transportadores devem remover os resíduos de tempos em tempos.</VR_LargeMechGestator_Steam.description>
+  <VR_SubcoreEncoder_Steam.label>codificador de núcleos de alma</VR_SubcoreEncoder_Steam.label>
+  <VR_SubcoreEncoder_Steam.description>Uma estação de trabalho onde um artífice pode produzir núcleos de alma e implantes de nível básico. Os núcleos de alma são a essência da vida para os constructos, e um é necessário para produzir qualquer constructo. Núcleos de alma básicos só podem ser usados em mecanoides simples de nível básico.\n\nNúcleos de alma de nível superior podem ser criados construindo um amostrador harmônico ou um transcritor tonal.</VR_SubcoreEncoder_Steam.description>
+  <VR_SubcoreSoftscanner_Steam.label>amostrador harmônico</VR_SubcoreSoftscanner_Steam.label>
+  <VR_SubcoreSoftscanner_Steam.description>Uma cápsula com milhares de minúsculas sondas de tecido e um escaner cerebral de alta energia. Quando uma pessoa é inserida, o sistema usa as sondas e o escaner para detectar um padrão neuropsíquico que pode transferir de forma analógica para um novo subnúcleo mecanoide de nível padrão. A pessoa ficará temporariamente doente, mas ilesa.\n\nOs subnúcleos são cérebros de mecanoides e produzir qualquer mecanoide requer um. Subnúcleos de nível padrão produzidos por este escaner suave só podem energizar mecanoides de nível padrão.\n\nSubnúcleos de nível superior podem ser criados construindo um escaner rompedor de subnúcleo.</VR_SubcoreSoftscanner_Steam.description>
+  <VR_SubcoreRipscanner_Steam.label>transcritor tonal</VR_SubcoreRipscanner_Steam.label>
+  <VR_SubcoreRipscanner_Steam.description>Uma cápsula com milhares de injetores de sondas de tecido e um escaner cerebral vaporizante de ultra-alta potência. Quando uma pessoa é inserida, o dispositivo insere as sondas em seu corpo através da pele enquanto o escaner rompedor atravessa o cérebro, lendo a radiação refletida e destruindo o cérebro no processo. A varredura da mente gera um padrão neuropsíquico que o escaner pode transferir de forma analógica para um novo subnúcleo mecanoide de nível avançado.\n\nOs subnúcleos são cérebros de mecanoides e produzir qualquer mecanoide requer um. Subnúcleos de nível avançado produzidos por este escaner rompedor só podem energizar mecanoides de nível avançado.</VR_SubcoreRipscanner_Steam.description>
+  <VR_ConstructBandNode.label>nó de banda de constructos</VR_ConstructBandNode.label>
+  <VR_ConstructBandNode.description>Um amplificador de sinal de banda de mecanoides. Os nós de banda devem ser sintonizados para um mecanizador específico. Isso adicionará 1 banda-larga ao total de banda-larga desse mecanizador, permitindo que ele controle mais mecanoides.\n\nDepois que um nó de banda é construído, ele pode ser sintonizado rapidamente para um mecanizador. No entanto, ressintonizar um nó de banda para um mecanizador diferente leva muito mais tempo.</VR_ConstructBandNode.description>
+  <VR_MechBooster_Steam.label>intensificador de constructos</VR_MechBooster_Steam.label>
+  <VR_MechBooster_Steam.description>Um dispositivo remoto de aprimoramento de energia. Quaisquer constructos aliados em seu raio de efeito se moverão e trabalharão mais rápido.</VR_MechBooster_Steam.description>
+  <VR_BasicRecharger_Steam.label>recarregador de constructos</VR_BasicRecharger_Steam.label>
+  <VR_BasicRecharger_Steam.description>Constructos leves podem recarregar aqui. Durante a recarga, este recarregador consumirá vapor.</VR_BasicRecharger_Steam.description>
+  <VR_StandardRecharger_Steam.label>grande recarregador de constructos</VR_StandardRecharger_Steam.label>
+  <VR_StandardRecharger_Steam.description>Constructos médios, pesados e ultrapesados podem recarregar aqui. Durante a recarga, este recarregador consumirá vapor.</VR_StandardRecharger_Steam.description>
+  <VR_BurnoutConstructLinkBooster_Large.label>antena parabólica de banda de constructos</VR_BurnoutConstructLinkBooster_Large.label>
+  <VR_BurnoutConstructLinkBooster_Large.description>Um dispositivo de sinalização de banda mecanoide. Quando ativado, emite um poderoso pulso de sinal mecanoide, que atrairá um mecanoide selvagem ultrapesado para atacar com suas escoltas. Se você conseguir derrotá-lo, poderá coletar tecnologias especiais de seu cadáver. O pulso de sinal queima o transmissor, então esta construção só pode ser usada uma vez.</VR_BurnoutConstructLinkBooster_Large.description>
+  <VR_BurnoutConstructLinkBooster.label>antena de banda de constructos</VR_BurnoutConstructLinkBooster.label>
+  <VR_BurnoutConstructLinkBooster.description>Um dispositivo de sinalização de banda mecanoide. Quando ativado, emite um poderoso pulso de sinal mecanoide, que atrairá um mecanoide selvagem ultrapesado para atacar com suas escoltas. Se você conseguir derrotá-lo, poderá coletar tecnologias especiais de seu cadáver. O pulso de sinal queima o transmissor, então esta construção só pode ser usada uma vez.</VR_BurnoutConstructLinkBooster.description>
+  <VR_ConstructBandDish.label>antena parabólica de comunicações harmônicas</VR_ConstructBandDish.label>
+  <VR_ConstructBandDish.description>Permite o contato por rádio com outras facções e comerciantes orbitais.</VR_ConstructBandDish.description>
+  <VR_Steam_TradeBeacon.label>baliza de comércio</VR_Steam_TradeBeacon.label>
+  <VR_Steam_TradeBeacon.description>Requerida para a negociação por deslocamento tonal. Você só pode vender mercadorias que estejam perto de uma baliza de comércio. Pode ser colocada em interiores.</VR_Steam_TradeBeacon.description>
+  <VR_Construct_Lift.label>grande elevador a vapor</VR_Construct_Lift.label>
+  <VR_Construct_Lift.description>Um elevador movido a vapor usado por forjas para entregar constructos na batalha.</VR_Construct_Lift.description>
+  <VR_ChunkConstructSlag.label>pedaço de escória de constructo</VR_ChunkConstructSlag.label>
+  <VR_ChunkConstructSlag.description>Os restos de um constructo destruído. Embora inútil em sua forma atual, pode ser fundido para recuperar aço.</VR_ChunkConstructSlag.description>
+  <VR_AncientBasicRecharger_Steam.label>recarregador básico antigo</VR_AncientBasicRecharger_Steam.label>
+  <VR_AncientBasicRecharger_Steam.description>Um recarregador básico antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</VR_AncientBasicRecharger_Steam.description>
+  <VR_AncientStandardRecharger_Steam.label>recarregador padrão antigo</VR_AncientStandardRecharger_Steam.label>
+  <VR_AncientStandardRecharger_Steam.description>Um recarregador padrão antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</VR_AncientStandardRecharger_Steam.description>
+  <VR_AncientConstructGestator.label>gestador mecanoide antigo</VR_AncientConstructGestator.label>
+  <VR_AncientConstructGestator.description>Um gestador mecanoide antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</VR_AncientConstructGestator.description>
+  <VR_AncientLargeConstructGestator.label>grande gestador de constructos antigo</VR_AncientLargeConstructGestator.label>
+  <VR_AncientLargeConstructGestator.description>Um grande gestador de constructos antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</VR_AncientLargeConstructGestator.description>
+  <AncientBandNode.label>nó de banda antigo</AncientBandNode.label>
+  <AncientBandNode.description>Um nó de banda antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</AncientBandNode.description>
+  <VR_AncientSteamGenerator.label>gerador de vapor antigo</VR_AncientSteamGenerator.label>
+  <VR_AncientSteamGenerator.description>Um gerador de vapor antigo. Suas partes utilizáveis foram destruídas ou saqueadas há muito tempo, e o resto enferrujou e se tornou inútil.</VR_AncientSteamGenerator.description>
+  <VR_AncientSteamTank.label>tanque de vapor antigo</VR_AncientSteamTank.label>
+  <VR_AncientSteamTank.description>Um tanque de vapor antigo. Suas partes utilizáveis foram destruídas ou saqueadas há muito tempo, e o resto enferrujou e se tornou inútil.</VR_AncientSteamTank.description>
+  <VR_AncientBarrel_Wooden.label>barril antigo</VR_AncientBarrel_Wooden.label>
+  <VR_AncientBarrel_Wooden.description>Um barril antigo e quebrado que parece ter contido algum tipo de resíduo. A única coisa que contém agora é uma mancha de lama seca.</VR_AncientBarrel_Wooden.description>
+  <VR_AncientLamp_Steam.label>lâmpada a vapor antiga</VR_AncientLamp_Steam.label>
+  <VR_AncientLamp_Steam.description>Uma lâmpada a vapor antiga. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</VR_AncientLamp_Steam.description>
+  <VR_AncientBandNode.label>nó de banda antigo</VR_AncientBandNode.label>
+  <VR_AncientBandNode.description>Um nó de banda antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</VR_AncientBandNode.description>
+  <VR_AncientPipe_Steam.label>tubo de vapor antigo</VR_AncientPipe_Steam.label>
+  <VR_AncientPipe_Steam.description>Um tubo de vapor antigo. Completamente corroído a ponto de ser inútil.</VR_AncientPipe_Steam.description>
+  <VR_ArtificerSarcophagus.label>sarcófago de artífice antigo</VR_ArtificerSarcophagus.label>
+  <VR_ArtificerSarcophagus.description>Um sarcófago de uso único para preservar uma pessoa em um estado de animação suspensa.</VR_ArtificerSarcophagus.description>
+  <VR_AncientBarrelBomb.label>barril-bomba instável antigo</VR_AncientBarrelBomb.label>
+  <VR_AncientBarrelBomb.description>Um barril antigo cheio de material explosivo. Tornou-se perigosamente instável ao longo dos anos devido à falta de manutenção.</VR_AncientBarrelBomb.description>
+  <VR_Turret_SteamBallista.label>balista a vapor automática</VR_Turret_SteamBallista.label>
+  <VR_Turret_SteamBallista.description>Uma torreta auto-alimentada montada com uma balista. Não consegue detectar alvos a distâncias muito curtas.</VR_Turret_SteamBallista.description>
+  <VR_Gun_SteamBallista.label>balista</VR_Gun_SteamBallista.label>
+  <VR_Gun_SteamBallista.description>Uma balista de auto-carregamento projetada para ser acoplada a uma torreta.</VR_Gun_SteamBallista.description>
+  <VR_Turret_SteamTesla.label>torreta a vapor automática (tesla)</VR_Turret_SteamTesla.label>
+  <VR_Turret_SteamTesla.description>Uma torreta auto-alimentada montada com uma balista. Não consegue detectar alvos a distâncias muito curtas.</VR_Turret_SteamTesla.description>
+  <VR_Gun_Steam_Turret_Tesla.label>balista</VR_Gun_Steam_Turret_Tesla.label>
+  <VR_Gun_Steam_Turret_Tesla.description>Uma balista de auto-carregamento projetada para ser acoplada a uma torreta.</VR_Gun_Steam_Turret_Tesla.description>
+  <VR_Heater_Steam.label>aquecedor a vapor</VR_Heater_Steam.label>
+  <VR_Heater_Steam.description>Um dispositivo que converte eletricidade em calor. Ele pode se ligar ou desligar automaticamente para atingir uma temperatura específica.</VR_Heater_Steam.description>
+  <VR_Cooler_Steam.label>ventilador a vapor</VR_Cooler_Steam.label>
+  <VR_Cooler_Steam.description>Um ventilador rudimentar movido por uma turbina a vapor. Precisa estar conectado a uma rede de vapor para funcionar. Não é eficiente o suficiente para refrigerar alimentos.</VR_Cooler_Steam.description>
+  <VRSteam_WallLamp.label>luminária de parede a vapor</VRSteam_WallLamp.label>
+  <VRSteam_WallLamp.description>Uma luminária de parede movida a vapor que ilumina uma área. É menos potente que uma tocha, mas mais conveniente.</VRSteam_WallLamp.description>
+  <VR_PowerchipBasic.label>chip de energia básico</VR_PowerchipBasic.label>
+  <VR_PowerchipBasic.description>Um chip de energia gravado com runas e transbordante de éter vinculado. É necessário para produzir certos tipos avançados de constructos e equipamentos.\n\nUm artífice pode estudar este chip para ajudar a desbloquear níveis mais altos de pesquisa de tecnologia de constructos.</VR_PowerchipBasic.description>
+  <VR_PowerchipStandard.label>chip de energia padrão</VR_PowerchipStandard.label>
+  <VR_PowerchipStandard.description>Um chip de energia gravado com runas e transbordante de éter vinculado. É necessário para produzir certos tipos avançados de constructos e equipamentos.\n\nUm artífice pode estudar este chip para ajudar a desbloquear níveis mais altos de pesquisa de tecnologia de constructos.</VR_PowerchipStandard.description>
+  <VR_PowerchipAdvanced.label>chip de energia avançado</VR_PowerchipAdvanced.label>
+  <VR_PowerchipAdvanced.description>Um chip de energia gravado com runas e transbordante de éter vinculado.. É necessário para produzir certos constructos e equipamentos avançados.\n\nUm artífice pode estudar este chip para ajudar a desbloquear níveis mais altos de pesquisa de tecnologia de constructos.</VR_PowerchipAdvanced.description>
+  <VR_TonalCoreBasic.label>núcleo tonal básico</VR_TonalCoreBasic.label>
+  <VR_TonalCoreBasic.description>O núcleo tonal mais simples possível, é uma pequena unidade de matriz harmônica psicodinâmica que abriga uma presença opaca. Como este é apenas um subnúcleo de nível básico, só pode comandar os autômatos mais simples.\n\nComo todos os subnúcleos de constructos, contém uma presença harmônica, ainda que muito tênue.</VR_TonalCoreBasic.description>
+  <VR_TonalCoreRegular.label>núcleo tonal padrão</VR_TonalCoreRegular.label>
+  <VR_TonalCoreRegular.description>Um núcleo tonal de nível padrão: é uma matriz harmônica psicodinâmica projetada para abrigar e sustentar uma subpersona ressonante ativa. Este núcleo em particular é estável e potente o suficiente para comandar um autômato de nível padrão. \n\Os constructos são mais do que latão e pistões, e este núcleo é muito mais do que um processador mecânico. Seu eco tonal pensante lhe confere uma adaptabilidade muito além das máquinas tradicionais. No entanto, tais núcleos não podem ser fabricados por meios convencionais — eles devem ser sintonizados e gravados através de transferência tonal analógica de uma mente harmônica existente.</VR_TonalCoreRegular.description>
+  <VR_TonalCoreHigh.label>núcleo tonal avançado</VR_TonalCoreHigh.label>
+  <VR_TonalCoreHigh.description>Um núcleo tonal de nível avançado: esta matriz harmônica psicodinâmica sustenta uma subpersona sofisticada e ressonante. Este núcleo em particular é do nível mais forte e pode energizar autômatos ultrapesados complexos.\n\A subpersona dentro deste núcleo se aproxima de uma mente mortal em sua complexidade, embora seja de natureza muito diferente. Como qualquer mente desse tipo, tem uma presença psíquica perceptível.\n\nEste subnúcleo só poderia ter sido produzido por transferência tonal completa de uma mente viva, destruindo-a completamente no processo</VR_TonalCoreHigh.description>
+  <VR_Apparel_ArtificerSuit_Basic.label>traje de artífice</VR_Apparel_ArtificerSuit_Basic.label>
+  <VR_Apparel_ArtificerSuit_Basic.description>Um traje de armadura repleto de equipamentos de assistência ao artífice. Este traje amplifica a banda-larga de um artífice, mas é um pouco menos protetor do que uma armadura pesada dedicada.</VR_Apparel_ArtificerSuit_Basic.description>
+  <VR_Apparel_ArtificerSuit_Lord.label>traje de senhor artífice</VR_Apparel_ArtificerSuit_Lord.label>
+  <VR_Apparel_ArtificerSuit_Lord.description>Um traje de armadura repleto de equipamentos de assistência ao artífice. Este traje amplifica a banda-larga de um artífice, mas é um pouco menos protetor do que uma armadura pesada dedicada.</VR_Apparel_ArtificerSuit_Lord.description>
+  <VR_Apparel_ArtificerMonocle.label>monóculo de artífice</VR_Apparel_ArtificerMonocle.label>
+  <VR_Apparel_ArtificerMonocle.description>Um monóculo infundido com arcana que melhora ligeiramente a banda-larga de controle de um artífice. Isso permite que ele controle mais constructos.</VR_Apparel_ArtificerMonocle.description>
+  <VR_Apparel_ArtificerGoggles.label>óculos de artífice</VR_Apparel_ArtificerGoggles.label>
+  <VR_Apparel_ArtificerGoggles.description>Um par de óculos infundidos com arcana que melhora a banda-larga de controle de um artífice. Isso permite que ele controle mais constructos.</VR_Apparel_ArtificerGoggles.description>
+  <VR_Apparel_ArtificeLordHelmet.label>elmo de senhor artífice</VR_Apparel_ArtificeLordHelmet.label>
+  <VR_Apparel_ArtificeLordHelmet.description>Um elmo pesado infundido para auxiliar um senhor artífice. O elmo de senhor artífice amplifica dramaticamente a banda-larga de um artífice, mas é um pouco menos protetor do que uma armadura pesada dedicada.</VR_Apparel_ArtificeLordHelmet.description>
+  <VR_Apparel_ArtificerRespirator.label>respirador</VR_Apparel_ArtificerRespirator.label>
+  <VR_Apparel_ArtificerRespirator.description>Uma máscara flexível usada sobre o rosto com um filtro de ar embutido. Reduz drasticamente a exposição à poluição pelos pulmões, mas não protege a pele do resto do corpo.\n\nImpede que irritantes de gás tóxico entrem pelos olhos e pela boca.</VR_Apparel_ArtificerRespirator.description>
+  <Bullet_VR_MiniBlunderbuss.label>disparo de bacamarte</Bullet_VR_MiniBlunderbuss.label>
+  <VR_Bullet_ConstructGun_Crossbow.label>virote de besta</VR_Bullet_ConstructGun_Crossbow.label>
+  <VR_Bullet_ConstructGun_HeavyCrossbow.label>virote de besta pesada</VR_Bullet_ConstructGun_HeavyCrossbow.label>
+  <VR_Construct_BallistaShot.label>disparo de balista</VR_Construct_BallistaShot.label>
+  <VR_Bullet_ConstructGun_HeavyBowGun.label>disparo de besta pesada</VR_Bullet_ConstructGun_HeavyBowGun.label>
+  <VR_Bullet_LightingGunProjectile.label>projétil de raio</VR_Bullet_LightingGunProjectile.label>
+  <VR_Bullet_TeslaTurretProjectile.label>projétil de raio</VR_Bullet_TeslaTurretProjectile.label>
+  <VR_Bullet_TeslaChestProjectile.label>projétil de raio</VR_Bullet_TeslaChestProjectile.label>
+  <VR_ColossusSmashProj.label>esmagamento de colosso</VR_ColossusSmashProj.label>
+  <VR_ConstructGun_HeavyCrossbow.label>besta a vapor pesada</VR_ConstructGun_HeavyCrossbow.label>
+  <VR_ConstructGun_HeavyCrossbow.description>Uma grande besta mecânica com uma catapulta carregada a vapor.</VR_ConstructGun_HeavyCrossbow.description>
+  <VR_ConstructGun_HeavyFlamer.label>canhão de chamas pesado</VR_ConstructGun_HeavyFlamer.label>
+  <VR_ConstructGun_HeavyFlamer.description>Emite um jato de chamas alquímicas de curto alcance, incendiando o terreno e derretendo armaduras.</VR_ConstructGun_HeavyFlamer.description>
+  <VR_ConstructGun_MiniBlunderbuss.label>minibacamarte</VR_ConstructGun_MiniBlunderbuss.label>
+  <VR_ConstructGun_MiniBlunderbuss.description>Um bacamarte compacto de curto alcance, projetado para ser montado em um constructo de combate leve.</VR_ConstructGun_MiniBlunderbuss.description>
+  <VR_ConstructGun_Crossbow.label>besta a vapor</VR_ConstructGun_Crossbow.label>
+  <VR_ConstructGun_Crossbow.description>Uma besta mecânica com uma catapulta carregada a vapor.</VR_ConstructGun_Crossbow.description>
+  <VR_ConstructGun_Flamer.label>canhão de chamas</VR_ConstructGun_Flamer.label>
+  <VR_ConstructGun_Flamer.description>Emite uma única rajada de chamas alquímicas, incendiando o terreno e derretendo armaduras</VR_ConstructGun_Flamer.description>
+  <VR_ConstructGun_LightningGun.label>arma de relâmpagos</VR_ConstructGun_LightningGun.label>
+  <VR_ConstructGun_LightningGun.description>Uma versão experimental miniaturizada do dispositivo visto em constructos maiores. Emite uma perigosa descarga de energia elétrica.</VR_ConstructGun_LightningGun.description>
+  <VR_ConstructGun_TonalIncinerator.label>incinerador tonal</VR_ConstructGun_TonalIncinerator.label>
+  <VR_ConstructGun_TonalIncinerator.description>Um dispositivo antigo que emite um raio varredor que detona destrutivamente a magika ambiente.</VR_ConstructGun_TonalIncinerator.description>
+  <VR_ConstructGun_HeavyBowGun.label>besta pesada</VR_ConstructGun_HeavyBowGun.label>
+  <VR_ConstructGun_HeavyBowGun.description>Uma amálgama carregada a vapor de besta e equipamento de cerco.</VR_ConstructGun_HeavyBowGun.description>
+  <VR_Construct_SteamSword_Heavy.label>espada a vapor</VR_Construct_SteamSword_Heavy.label>
+  <VR_Construct_SteamSword_Heavy.description>lâmina a vapor</VR_Construct_SteamSword_Heavy.description>
+  <VR_Construct_SteamSword_Heavy.tools.0.label>cabo</VR_Construct_SteamSword_Heavy.tools.0.label>
+  <VR_Construct_SteamSword_Heavy.tools.1.label>ponta</VR_Construct_SteamSword_Heavy.tools.1.label>
+  <VR_Construct_SteamSword_Heavy.tools.2.label>lâmina</VR_Construct_SteamSword_Heavy.tools.2.label>
+  <VR_Construct_SteamHammer_Heavy.label>martelo a vapor</VR_Construct_SteamHammer_Heavy.label>
+  <VR_Construct_SteamHammer_Heavy.description>martelo a vapor</VR_Construct_SteamHammer_Heavy.description>
+  <VR_Construct_SteamHammer_Heavy.tools.0.label>cabo</VR_Construct_SteamHammer_Heavy.tools.0.label>
+  <VR_Construct_SteamHammer_Heavy.tools.1.label>cabeça</VR_Construct_SteamHammer_Heavy.tools.1.label>
+  <VR_Construct_StakeDriver_Heavy.label>cravador de estacas</VR_Construct_StakeDriver_Heavy.label>
+  <VR_Construct_StakeDriver_Heavy.description>cravador de estacas</VR_Construct_StakeDriver_Heavy.description>
+  <VR_Construct_StakeDriver_Heavy.tools.0.label>cabo</VR_Construct_StakeDriver_Heavy.tools.0.label>
+  <VR_Construct_StakeDriver_Heavy.tools.1.label>ponta</VR_Construct_StakeDriver_Heavy.tools.1.label>
+  <VR_Construct_LightBonk.label>maça a vapor</VR_Construct_LightBonk.label>
+  <VR_Construct_LightBonk.description>maça a vapor</VR_Construct_LightBonk.description>
+  <VR_Construct_LightBonk.tools.0.label>cabo</VR_Construct_LightBonk.tools.0.label>
+  <VR_Construct_LightBonk.tools.1.label>cabeça</VR_Construct_LightBonk.tools.1.label>
+  <VR_Construct_SteamSword.label>espada a vapor</VR_Construct_SteamSword.label>
+  <VR_Construct_SteamSword.description>lâmina a vapor</VR_Construct_SteamSword.description>
+  <VR_Construct_SteamSword.tools.0.label>cabo</VR_Construct_SteamSword.tools.0.label>
+  <VR_Construct_SteamSword.tools.1.label>ponta</VR_Construct_SteamSword.tools.1.label>
+  <VR_Construct_SteamSword.tools.2.label>lâmina</VR_Construct_SteamSword.tools.2.label>
+  <VR_Construct_SteamHammer.label>martelo a vapor</VR_Construct_SteamHammer.label>
+  <VR_Construct_SteamHammer.description>martelo a vapor</VR_Construct_SteamHammer.description>
+  <VR_Construct_SteamHammer.tools.0.label>cabo</VR_Construct_SteamHammer.tools.0.label>
+  <VR_Construct_SteamHammer.tools.1.label>cabeça</VR_Construct_SteamHammer.tools.1.label>
+  <VR_Construct_SteamLance.label>lança a vapor</VR_Construct_SteamLance.label>
+  <VR_Construct_SteamLance.description>lança a vapor</VR_Construct_SteamLance.description>
+  <VR_Construct_SteamLance.tools.0.label>cabo</VR_Construct_SteamLance.tools.0.label>
+  <VR_Construct_SteamLance.tools.1.label>ponta</VR_Construct_SteamLance.tools.1.label>
+  <VR_Construct_ColossusAxe.label>machado colosso</VR_Construct_ColossusAxe.label>
+  <VR_Construct_ColossusAxe.description>machado colosso</VR_Construct_ColossusAxe.description>
+  <VR_Construct_ColossusAxe.tools.0.label>cabo</VR_Construct_ColossusAxe.tools.0.label>
+  <VR_Construct_ColossusAxe.tools.1.label>cabeça</VR_Construct_ColossusAxe.tools.1.label>
+  <VR_Construct_Centurion.label>sentinela (corpo a corpo)</VR_Construct_Centurion.label>
+  <VR_Construct_Centurion.description>Um mecanoide de combate maior projetado como tropa de choque. São conhecidos por serem extremamente perigosos até para o aventureiro mais bem equipado.</VR_Construct_Centurion.description>
+  <VR_Construct_Centurion.tools.0.label>cabeça</VR_Construct_Centurion.tools.0.label>
+  <VR_Construct_Centurion_Burner.label>sentinela (queimador)</VR_Construct_Centurion_Burner.label>
+  <VR_Construct_Centurion_Shooter.label>sentinela (à distância)</VR_Construct_Centurion_Shooter.label>
+  <VR_Construct_Delver.label>escavador</VR_Construct_Delver.label>
+  <VR_Construct_Delver.description>Um constructo pesado construído para mineração em locais traiçoeiros. Embora destinado à escavação, a broca gigantesca e a armadura ultragrossa do escavador o tornam uma força perigosa em combate.</VR_Construct_Delver.description>
+  <VR_Construct_Delver.tools.0.label>broca</VR_Construct_Delver.tools.0.label>
+  <VR_Construct_Militor.label>vanguarda (atiradora)</VR_Construct_Militor.label>
+  <VR_Construct_Militor.description>Um pequeno constructo de combate armado com um canhão de mão. Com cerca de um metro e vinte de altura, as vanguardas não têm o poder, o alcance e a resistência de constructos de combate mais graduados. No entanto, são baratas de gestar e manter, e por isso são frequentemente usadas como retaguarda ou atacantes em enxame.\n\nNa guerra, os exércitos de constructos são conhecidos por enviar vanguardas às ruínas das cidades para caçar sobreviventes depois de romperem as defesas humanas. Por isso, alguns as consideram as mais cruéis de todos os padrões de constructo.</VR_Construct_Militor.description>
+  <VR_Construct_Militor_Melee.label>vanguarda (corpo a corpo)</VR_Construct_Militor_Melee.label>
+  <VR_Construct_Militor_Melee.description>Um pequeno constructo de combate armado com um cassetete. Com cerca de um metro e vinte de altura, as vanguardas não têm o poder, o alcance e a resistência de constructos de combate mais graduados. No entanto, são baratas de gestar e manter, e por isso são frequentemente usadas como retaguarda ou atacantes em enxame.\n\nNa guerra, os exércitos de constructos são conhecidos por enviar vanguardas às ruínas das cidades para caçar sobreviventes depois de romperem as defesas humanas. Por isso, alguns as consideram as mais cruéis de todos os padrões de constructo.</VR_Construct_Militor_Melee.description>
+  <VR_Construct_Lifter.label>aranha de transporte</VR_Construct_Lifter.label>
+  <VR_Construct_Lifter.description>Um pequeno constructo projetado para carregar. Sem arma de longo alcance, só pode fazer ataques corpo a corpo fracos.</VR_Construct_Lifter.description>
+  <VR_Construct_Constructoid.label>aranha de construção</VR_Construct_Constructoid.label>
+  <VR_Construct_Constructoid.description>Um pequeno constructo projetado para realizar tarefas de construção. Pode realizar ataques corpo a corpo contundentes, se necessário.</VR_Construct_Constructoid.description>
+  <VR_Construct_Constructoid.tools.0.label>tronco</VR_Construct_Constructoid.tools.0.label>
+  <VR_Construct_Agrihand.label>aranha agricultora</VR_Construct_Agrihand.label>
+  <VR_Construct_Agrihand.description>Um pequeno constructo projetado para semear e colher plantações, além de ordenhar e tosquiar animais. Embora seja mais adequado ao trabalho do que ao combate, pode lutar com lâminas de corte integradas, se necessário.</VR_Construct_Agrihand.description>
+  <VR_Construct_Agrihand.tools.0.label>lâmina direita</VR_Construct_Agrihand.tools.0.label>
+  <VR_Construct_Scarab.label>escaravelho</VR_Construct_Scarab.label>
+  <VR_Construct_Scarab.description>Um pequeno constructo de combate que pode ser implantado, geralmente lançado a partir de uma rainha escaravelho. Escaravelhos são lutadores descartáveis projetados para atacar inimigos em enxame.</VR_Construct_Scarab.description>
+  <VR_Construct_Scarab.tools.0.label>pinças</VR_Construct_Scarab.tools.0.label>
+  <VR_Construct_Assembler.label>montador</VR_Construct_Assembler.label>
+  <VR_Construct_Assembler.description>Um pequeno constructo de trabalho projetado para fabricar todo tipo de objeto manufaturado.</VR_Construct_Assembler.description>
+  <VR_Construct_Mender.label>reparador</VR_Construct_Mender.label>
+  <VR_Construct_Mender.description>Um pequeno constructo projetado para o gerenciamento não violento de situações de emergência e cuidados médicos. O reparador pode resgatar feridos, apagar incêndios, tratar doentes e até realizar cirurgias quando um humano mais qualificado não está disponível. Seu lançador de salto integrado permite que ele salte para dentro e para fora de situações de emergência.</VR_Construct_Mender.description>
+  <VR_Construct_Sphere_Melee.label>esfera (corpo a corpo)</VR_Construct_Sphere_Melee.label>
+  <VR_Construct_Sphere_Melee.description>Constructo projetado intencionalmente para o combate. Geralmente é visto carregando uma variedade de armas corpo a corpo, mas ocasionalmente pode ser equipado com armas de longo alcance.</VR_Construct_Sphere_Melee.description>
+  <VR_Construct_Sphere_Range.label>esfera (à distância)</VR_Construct_Sphere_Range.label>
+  <VR_Construct_Sphere_Range.description>Constructo projetado intencionalmente para o combate. Geralmente é visto carregando uma variedade de armas corpo a corpo, mas ocasionalmente pode ser equipado com armas de longo alcance.</VR_Construct_Sphere_Range.description>
+  <VR_Construct_Ballistae.label>balista</VR_Construct_Ballistae.label>
+  <VR_Construct_Ballistae.description>Um constructo de combate desajeitado de várias pernas, especializado como plataforma de armas de longo alcance. Embora eficaz à distância, é fraco em lutas de curto alcance e em combate corpo a corpo.</VR_Construct_Ballistae.description>
+  <VR_Construct_Ballistae.tools.0.label>perna dianteira esquerda</VR_Construct_Ballistae.tools.0.label>
+  <VR_Construct_Ballistae.tools.1.label>perna dianteira direita</VR_Construct_Ballistae.tools.1.label>
+  <VR_Construct_Ballistae.tools.2.label>cabeça</VR_Construct_Ballistae.tools.2.label>
+  <VR_Construct_Scorcher.label>calcinador</VR_Construct_Scorcher.label>
+  <VR_Construct_Scorcher.description>Constructo de combate menor que é bem equipado com um lança-chamas de curto alcance.</VR_Construct_Scorcher.description>
+  <VR_Construct_Tesseron.label>tesserão</VR_Construct_Tesseron.label>
+  <VR_Construct_Tesseron.description>Constructo de combate menor que carrega uma versão experimental miniaturizada da arma de relâmpagos vista em constructos maiores.</VR_Construct_Tesseron.description>
+  <VR_Construct_Apocriton.label>supervisor</VR_Construct_Apocriton.label>
+  <VR_Construct_Apocriton.description>Um grande comandante de constructos projetado para coordenar e motivar outros autômatos durante longas campanhas de extermínio. constructo de combate projetado como tropa de choque. Seu poder mais óbvio é sua capacidade de ressuscitar constructos recentemente danificados reestruturando sua assinatura tonal.</VR_Construct_Apocriton.description>
+  <VR_Construct_Apocriton.tools.0.label>cabeça</VR_Construct_Apocriton.tools.0.label>
+  <VR_Construct_Colossus.label>colosso (à distância)</VR_Construct_Colossus.label>
+  <VR_Construct_Colossus.description>Um constructo ultrapesado equipado com um incinerador tonal. Feito para romper linhas inimigas, pode causar pânico generalizado, pois o raio emitido detonará magika bruta nas proximidades.</VR_Construct_Colossus.description>
+  <VR_Construct_Colossus.tools.0.label>cabeça</VR_Construct_Colossus.tools.0.label>
+  <VR_Construct_Colossus_Melee.label>colosso (corpo a corpo)</VR_Construct_Colossus_Melee.label>
+  <VR_Construct_Colossus_Melee.description>Um constructo ultrapesado equipado com um machado colossal. Feito para romper linhas inimigas, pode causar pânico generalizado, pois pode nivelar um edifício com um único golpe.</VR_Construct_Colossus_Melee.description>
+  <VR_Construct_ScarabQueen.label>rainha escaravelho</VR_Construct_ScarabQueen.label>
+  <VR_Construct_ScarabQueen.description>Um constructo ultrapesado com uma manufatura integrada. Alimentada com os recursos apropriados, a rainha escaravelho pode formar pequenos mecanoides de combate escaravelho dentro de sua carapaça maciça e implantá-los em combate. Embora dependa principalmente de enxamear inimigos com seus escaravelhos, ela pode emitir uma carga de energia elétrica de seu peito.</VR_Construct_ScarabQueen.description>
+  <VR_Construct_ScarabQueen.tools.0.label>cabeça</VR_Construct_ScarabQueen.tools.0.label>
+  <Bullet_HeavyBowGun_Steam.label>virote</Bullet_HeavyBowGun_Steam.label>
+  <Projectile_CrossbowBolt_Stone_Steam_Heavy.label>virote de besta (pedra)</Projectile_CrossbowBolt_Stone_Steam_Heavy.label>
+  <Projectile_CrossbowBolt_Iron_Steam_Heavy.label>virote de besta (ferro)</Projectile_CrossbowBolt_Iron_Steam_Heavy.label>
+  <Projectile_CrossbowBolt_Steel_Steam_Heavy.label>virote de besta (aço)</Projectile_CrossbowBolt_Steel_Steam_Heavy.label>
+  <Projectile_CrossbowBolt_Plasteel_Steam_Heavy.label>virote de besta (plastiaço)</Projectile_CrossbowBolt_Plasteel_Steam_Heavy.label>
+  <Projectile_CrossbowBolt_Venom_Steam_Heavy.label>virote de besta (veneno)</Projectile_CrossbowBolt_Venom_Steam_Heavy.label>
+  <Projectile_CrossbowBolt_Flame_Steam_Heavy.label>virote de besta (chama)</Projectile_CrossbowBolt_Flame_Steam_Heavy.label>
+  <Bullet_MiniBlunderbussShot_FantasyBiotech.label>balote de bacamarte</Bullet_MiniBlunderbussShot_FantasyBiotech.label>
+  <Projectile_CrossbowBolt_Stone_Steam.label>virote de besta (pedra)</Projectile_CrossbowBolt_Stone_Steam.label>
+  <Projectile_CrossbowBolt_Iron_Steam.label>virote de besta (ferro)</Projectile_CrossbowBolt_Iron_Steam.label>
+  <Projectile_CrossbowBolt_Steel_Steam.label>virote de besta (aço)</Projectile_CrossbowBolt_Steel_Steam.label>
+  <Projectile_CrossbowBolt_Plasteel_Steam.label>virote de besta (plastiaço)</Projectile_CrossbowBolt_Plasteel_Steam.label>
+  <Projectile_CrossbowBolt_Venom_Steam.label>virote de besta (veneno)</Projectile_CrossbowBolt_Venom_Steam.label>
+  <Projectile_CrossbowBolt_Flame_Steam.label>virote de besta (chama)</Projectile_CrossbowBolt_Flame_Steam.label>
+  <VR_AncientEnemyTerminal.label>terminal inimigo antigo</VR_AncientEnemyTerminal.label>
+  <VR_AncientEnemyTerminal.description>Um terminal de computador antigo. Pode ser ativado para chamar inimigos próximos.</VR_AncientEnemyTerminal.description>
+</LanguageData>

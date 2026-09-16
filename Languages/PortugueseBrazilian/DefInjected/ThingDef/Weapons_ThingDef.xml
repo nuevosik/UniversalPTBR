@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gas_OPToxin.label>gás tóxico</Gas_OPToxin.label>
+  <VWE_SmokeCloud.label>nuvem de fumaça</VWE_SmokeCloud.label>
+  <VWE_SmokeGrenade.label>granadas de fumaça</VWE_SmokeGrenade.label>
+  <VWE_SmokeGrenade.description>Granadas carregadas com fumaça cegante liquefeita. Ao aterrissar, liberam instantaneamente sua carga de fumaça. A fumaça não tóxica cobre uma área, reduzindo muito a precisão à distância e impedindo completamente que as torretas automáticas travem a mira. Ela fornece cobertura tática por cerca de um minuto antes de se dissipar.</VWE_SmokeGrenade.description>
+  <VWE_Projectile_SmokeGrenade.label>granada de fumaça</VWE_Projectile_SmokeGrenade.label>
+  <VWE_FlashGrenade.label>granadas de atordoamento</VWE_FlashGrenade.label>
+  <VWE_FlashGrenade.description>Uma granada tática não letal, projetada para incapacitar temporariamente os inimigos. Ao detonar, emite um clarão poderoso e um som alto, desorientando e atordoando inimigos em um raio e ganhando tempo para avanços ou recuos táticos.</VWE_FlashGrenade.description>
+  <VWE_Projectile_FlashGrenade.label>granada de clarão</VWE_Projectile_FlashGrenade.label>
+  <VWE_MeleeWeapon_Shovel.label>pá</VWE_MeleeWeapon_Shovel.label>
+  <VWE_MeleeWeapon_Shovel.description>Uma das ferramentas mais versáteis de um soldado, a pá de trincheira é uma arma simples, mas eficaz. Com um cabo resistente e uma lâmina pesada e afiada, serve igualmente bem para cavar uma trincheira ou esmagar um inimigo.</VWE_MeleeWeapon_Shovel.description>
+  <VWE_MeleeWeapon_Shovel.tools.0.label>cabo</VWE_MeleeWeapon_Shovel.tools.0.label>
+  <VWE_MeleeWeapon_Shovel.tools.1.label>lâmina</VWE_MeleeWeapon_Shovel.tools.1.label>
+  <VWE_MeleeWeapon_Baton.label>cassetete</VWE_MeleeWeapon_Baton.label>
+  <VWE_MeleeWeapon_Baton.description>Um cassetete resistente e com peso, usado para incapacitar e controlar multidões. Sua construção densa desfere um poderoso trauma por impacto contundente, sendo preferido por policiais e forças de segurança para confrontos não letais (e às vezes letais).</VWE_MeleeWeapon_Baton.description>
+  <VWE_MeleeWeapon_Baton.tools.0.label>cabo</VWE_MeleeWeapon_Baton.tools.0.label>
+  <VWE_MeleeWeapon_Baton.tools.1.label>cabeça</VWE_MeleeWeapon_Baton.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.label>faca de combate</VWE_MeleeWeapon_CombatKnife.label>
+  <VWE_MeleeWeapon_CombatKnife.description>Uma ferramenta refinada e letal, a faca de combate militar assumiu muitas formas, mas o conceito sempre permaneceu o mesmo: um cabo para uma pegada firme e um gume afiado para cortar e perfurar, otimizada para uso no campo de batalha.</VWE_MeleeWeapon_CombatKnife.description>
+  <VWE_MeleeWeapon_CombatKnife.tools.0.label>cabo</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.1.label>lâmina</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.2.label>ponta</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+  <VWE_MeleeWeapon_Hammer.label>martelo</VWE_MeleeWeapon_Hammer.label>
+  <VWE_MeleeWeapon_Hammer.description>Uma arma simples, de uma mão, com uma cabeça pesada, projetada para desferir força contundente poderosa e esmagar inimigos. Usar um martelo aumenta ligeiramente a velocidade de construção.</VWE_MeleeWeapon_Hammer.description>
+  <VWE_MeleeWeapon_Hammer.tools.0.label>cabo</VWE_MeleeWeapon_Hammer.tools.0.label>
+  <VWE_MeleeWeapon_Hammer.tools.1.label>cabeça</VWE_MeleeWeapon_Hammer.tools.1.label>
+  <VWE_MeleeWeapon_BattleAxe.label>machado de batalha</VWE_MeleeWeapon_BattleAxe.label>
+  <VWE_MeleeWeapon_BattleAxe.description>Um machado pesado, de duas mãos, projetado para retalhar inimigos. Sua lâmina larga e afiada causa dano de corte devastador, enquanto sua massa permite golpes poderosos, mas lentos.</VWE_MeleeWeapon_BattleAxe.description>
+  <VWE_MeleeWeapon_BattleAxe.tools.0.label>cabo</VWE_MeleeWeapon_BattleAxe.tools.0.label>
+  <VWE_MeleeWeapon_BattleAxe.tools.1.label>lâmina</VWE_MeleeWeapon_BattleAxe.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.label>machado de haste</VWE_MeleeWeapon_Halberd.label>
+  <VWE_MeleeWeapon_Halberd.description>Uma arma de haste versátil com uma cabeça de machado afiada e um espigão na parte traseira, projetada para golpes rápidos e decisivos contra inimigos blindados. O alcance do machado de haste permite atingir inimigos muito mais distantes.</VWE_MeleeWeapon_Halberd.description>
+  <VWE_MeleeWeapon_Halberd.tools.0.label>haste</VWE_MeleeWeapon_Halberd.tools.0.label>
+  <VWE_MeleeWeapon_Halberd.tools.1.label>espigão</VWE_MeleeWeapon_Halberd.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.tools.2.label>lâmina</VWE_MeleeWeapon_Halberd.tools.2.label>
+  <VWE_MeleeWeapon_Axe.label>machadinha</VWE_MeleeWeapon_Axe.label>
+  <VWE_MeleeWeapon_Axe.description>Um machado pequeno, de uma mão, projetado para golpes rápidos e repetidos. Seu peso leve e cabo curto permitem velocidade de balanço rápida. Usar uma machadinha aumenta ligeiramente o rendimento da colheita de plantas.</VWE_MeleeWeapon_Axe.description>
+  <VWE_MeleeWeapon_Axe.tools.0.label>cabo</VWE_MeleeWeapon_Axe.tools.0.label>
+  <VWE_MeleeWeapon_Axe.tools.1.label>lâmina</VWE_MeleeWeapon_Axe.tools.1.label>
+  <Gun_TripleRocket.label>lançador de foguetes triplo</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Um lançador de foguetes de uso único que dispara três foguetes explosivos de grande diâmetro. Bom contra pequenos grupos de alvos resistentes.\n\nPor causa de sua dificuldade de manuseio, limitação de uso único e a destruição maciça que causa, é dito que é preciso ser um pouco louco para usar essa arma.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>cano</Gun_TripleRocket.tools.0.label>
+  <Gun_DoomsdayRocket.label>lançador de foguetes apocalíptico</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Um lançador de foguetes de uso único que dispara um projétil explosivo maciço. Bom contra grandes grupos de alvos fáceis. Inicia incêndios.\n\nPor causa de sua dificuldade de manuseio, limitação de uso único e a destruição maciça que causa, é dito que é preciso ser um pouco louco para usar essa arma.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>cano</Gun_DoomsdayRocket.tools.0.label>
+  <VWE_Gun_RocketLauncher.label>lançador de foguetes</VWE_Gun_RocketLauncher.label>
+  <VWE_Gun_RocketLauncher.description>Um lançador de foguetes de uso único que dispara uma ogiva altamente explosiva e maciça. Lento para mirar e com um alcance mínimo significativo devido ao seu poder, é excelente contra estruturas, mecanoides e inimigos blindados. Sua dificuldade de manuseio, natureza de uso único e destruição absoluta o tornam uma visão rara e assustadora em combate.</VWE_Gun_RocketLauncher.description>
+  <VWE_Gun_RocketLauncher.tools.0.label>cano</VWE_Gun_RocketLauncher.tools.0.label>
+  <VWE_Bow_Compound.label>arco composto</VWE_Bow_Compound.label>
+  <VWE_Bow_Compound.description>Um arco de caça composto, compacto e sofisticado. Seu sistema de roldanas armazena muita energia, proporcionando precisão superior e lançando flechas perfurantes de alta velocidade. A assinatura sonora reduzida o torna ideal para caça furtiva.</VWE_Bow_Compound.description>
+  <VWE_Bow_Compound.tools.0.label>braço</VWE_Bow_Compound.tools.0.label>
+  <VWE_Arrow_Compound.label>flecha de arco composto</VWE_Arrow_Compound.label>
+  <VWE_Bullet_HandCannon.label>bala de revólver pesado</VWE_Bullet_HandCannon.label>
+  <VWE_Gun_HandCannon.label>revólver pesado</VWE_Gun_HandCannon.label>
+  <VWE_Gun_HandCannon.description>Um revólver maciço de grande calibre, projetado para desferir um único golpe devastador. Sua estrutura pesada e cano longo controlam o recuo imenso, tornando-o lento de sacar, mas altamente eficaz para derrubar alvos com seus potentes projéteis perfurantes.</VWE_Gun_HandCannon.description>
+  <VWE_Gun_HandCannon.tools.0.label>cabo</VWE_Gun_HandCannon.tools.0.label>
+  <VWE_Gun_HandCannon.tools.1.label>cano</VWE_Gun_HandCannon.tools.1.label>
+  <VWE_Bullet_CombatHandgun.label>bala de pistola de combate</VWE_Bullet_CombatHandgun.label>
+  <VWE_CombatHandgun.label>pistola de combate</VWE_CombatHandgun.label>
+  <VWE_CombatHandgun.description>Uma pistola semiautomática moderna, operada por recuo direto, projetada para combate de curta distância. Pode ser disparada rapidamente para uma letalidade superior a curta distância e é um pouco mais precisa que pistolas automáticas padrão.</VWE_CombatHandgun.description>
+  <VWE_CombatHandgun.tools.0.label>cabo</VWE_CombatHandgun.tools.0.label>
+  <VWE_CombatHandgun.tools.1.label>cano</VWE_CombatHandgun.tools.1.label>
+  <VWE_Bullet_SawedOffShotgun.label>cartucho de espingarda</VWE_Bullet_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.label>espingarda serrada</VWE_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.description>Uma espingarda de dois canos compacta, com coronha e cano encurtados. Projetada para combates de curta distância, desfere um disparo devastador e bem espalhado a uma distância extremamente curta, tornando-se uma arma de emboscada assustadora.</VWE_SawedOffShotgun.description>
+  <VWE_SawedOffShotgun.tools.0.label>coronha</VWE_SawedOffShotgun.tools.0.label>
+  <VWE_SawedOffShotgun.tools.1.label>cano</VWE_SawedOffShotgun.tools.1.label>
+  <VWE_Bullet_GrenadeLauncher.label>granada de fragmentação</VWE_Bullet_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.label>lançador de granadas</VWE_Gun_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.description>Um lançador leve, de retrocarga, que dispara granadas de fragmentação. Projeta uma granada de fragmentação a uma distância moderada, causando dano em um pequeno raio de explosão.</VWE_Gun_GrenadeLauncher.description>
+  <VWE_Gun_GrenadeLauncher.tools.0.label>coronha</VWE_Gun_GrenadeLauncher.tools.0.label>
+  <VWE_Gun_GrenadeLauncher.tools.1.label>cano</VWE_Gun_GrenadeLauncher.tools.1.label>
+  <VWE_Gun_Flamethrower.label>lança-chamas</VWE_Gun_Flamethrower.label>
+  <VWE_Gun_Flamethrower.description>Uma arma incendiária especializada e portátil. Projeta um jato de combustível escaldante que se incendeia ao contato, espalhando chamas rapidamente por uma distância curta a média. Muito eficaz contra alvos sem armadura e excelente para limpar espaços fechados ou queimar coberturas inflamáveis.</VWE_Gun_Flamethrower.description>
+  <VWE_Gun_Flamethrower.tools.0.label>coronha</VWE_Gun_Flamethrower.tools.0.label>
+  <VWE_Gun_Flamethrower.tools.1.label>cano</VWE_Gun_Flamethrower.tools.1.label>
+  <VWE_Bullet_Flamethrower.label>combustível de lança-chamas</VWE_Bullet_Flamethrower.label>
+  <VWE_Gun_FireExtinguisher.label>extintor de incêndio</VWE_Gun_FireExtinguisher.label>
+  <VWE_Gun_FireExtinguisher.description>Preenchido com um supressor de chamas multiuso, este item pode ser usado para extinguir qualquer tipo de fogo encontrado em campo.</VWE_Gun_FireExtinguisher.description>
+  <VWE_Gun_FireExtinguisher.tools.0.label>cilindro</VWE_Gun_FireExtinguisher.tools.0.label>
+  <VWE_Bullet_FireExtinguisher.label>supressor de chamas</VWE_Bullet_FireExtinguisher.label>
+  <VWE_Bullet_SemiAutomaticRifle.label>bala de fuzil semiautomático</VWE_Bullet_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.label>fuzil semiautomático</VWE_Gun_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.description>Um fuzil durável e semiautomático, projetado para tiro rápido e controlado a médias e longas distâncias. Seu mecanismo permite uma alta cadência de tiro em comparação com modelos de ferrolho, tornando-o ideal para manter pressão contínua sobre o inimigo.</VWE_Gun_SemiAutomaticRifle.description>
+  <VWE_Gun_SemiAutomaticRifle.tools.0.label>coronha</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+  <VWE_Gun_SemiAutomaticRifle.tools.1.label>cano</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+  <VWE_Bullet_LeverActionRifle.label>bala de fuzil de ação por alavanca</VWE_Bullet_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.label>fuzil de ação por alavanca</VWE_Gun_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.description>Um fuzil de caça tradicional que utiliza um mecanismo de ação por alavanca. Oferece um equilíbrio entre poder de fogo moderado, precisão decente e um disparo de seguimento rápido em comparação com projetos de ferrolho, tornando-o uma arma confiável para combates de média distância.</VWE_Gun_LeverActionRifle.description>
+  <VWE_Gun_LeverActionRifle.tools.0.label>coronha</VWE_Gun_LeverActionRifle.tools.0.label>
+  <VWE_Gun_LeverActionRifle.tools.1.label>cano</VWE_Gun_LeverActionRifle.tools.1.label>
+  <VWE_Bullet_LightSMG.label>bala de submetralhadora leve</VWE_Bullet_LightSMG.label>
+  <VWE_Gun_LightSMG.label>submetralhadora leve</VWE_Gun_LightSMG.label>
+  <VWE_Gun_LightSMG.description>Uma submetralhadora pequena e leve, projetada para manobrabilidade em combate de curta distância. Dispara uma rajada rápida de projéteis de pequeno calibre, sendo altamente eficaz a curta distância, mas perdendo precisão rapidamente com a distância.</VWE_Gun_LightSMG.description>
+  <VWE_Gun_LightSMG.tools.0.label>cabo</VWE_Gun_LightSMG.tools.0.label>
+  <VWE_Gun_LightSMG.tools.1.label>cano</VWE_Gun_LightSMG.tools.1.label>
+  <VWE_Bullet_SMG.label>bala de submetralhadora</VWE_Bullet_SMG.label>
+  <VWE_Gun_SMG.label>submetralhadora</VWE_Gun_SMG.label>
+  <VWE_Gun_SMG.description>Submetralhadora moderna, alimentada por carregador, construída para fogo avassalador de curta distância. Usa projéteis de pequeno calibre em uma longa rajada, sacrificando a precisão de longo alcance por puro poder de fogo de perto.</VWE_Gun_SMG.description>
+  <VWE_Gun_SMG.tools.0.label>cabo</VWE_Gun_SMG.tools.0.label>
+  <VWE_Gun_SMG.tools.1.label>cano</VWE_Gun_SMG.tools.1.label>
+  <VWE_Bullet_HMG.label>bala de metralhadora pesada</VWE_Bullet_HMG.label>
+  <VWE_Gun_HMG.label>metralhadora pesada</VWE_Gun_HMG.label>
+  <VWE_Gun_HMG.description>Uma metralhadora pesada operada a gás. Sua estrutura maciça e cano longo a tornam extremamente pesada e lenta de manobrar, mas ela dispara rajadas devastadoramente longas de fogo de grande calibre, projetadas para suprimir e destruir alvos blindados e grupos de inimigos.</VWE_Gun_HMG.description>
+  <VWE_Gun_HMG.tools.0.label>coronha</VWE_Gun_HMG.tools.0.label>
+  <VWE_Gun_HMG.tools.1.label>cano</VWE_Gun_HMG.tools.1.label>
+  <VWE_Bullet_ServiceRifle.label>bala de fuzil de serviço</VWE_Bullet_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.label>fuzil de serviço</VWE_Gun_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.description>Um fuzil de assalto versátil e resistente, amplamente usado pela galáxia por forças de milícia e mercenários.\n\nNão é tão poderoso quanto um fuzil de assalto, mas dispara rajadas de 4 tiros.</VWE_Gun_ServiceRifle.description>
+  <VWE_Gun_ServiceRifle.tools.0.label>coronha</VWE_Gun_ServiceRifle.tools.0.label>
+  <VWE_Gun_ServiceRifle.tools.1.label>cano</VWE_Gun_ServiceRifle.tools.1.label>
+  <VWE_Bullet_BattleRifle.label>bala de fuzil de batalha</VWE_Bullet_BattleRifle.label>
+  <VWE_Gun_BattleRifle.label>fuzil de batalha</VWE_Gun_BattleRifle.label>
+  <VWE_Gun_BattleRifle.description>Um fuzil operado a gás, projetado para desferir um disparo poderoso e preciso em combates de média a longa distância. Usa um projétil de calibre mais pesado que um fuzil de assalto padrão, sacrificando o tamanho da rajada por dano e penetração de armadura superiores.</VWE_Gun_BattleRifle.description>
+  <VWE_Gun_BattleRifle.tools.0.label>coronha</VWE_Gun_BattleRifle.tools.0.label>
+  <VWE_Gun_BattleRifle.tools.1.label>cano</VWE_Gun_BattleRifle.tools.1.label>
+  <VWE_Bullet_Carbine.label>bala de carabina</VWE_Bullet_Carbine.label>
+  <VWE_Gun_Carbine.label>carabina</VWE_Gun_Carbine.label>
+  <VWE_Gun_Carbine.description>Um fuzil de assalto de uso geral operado a gás, ligeiramente encurtado e mais leve para maior manobrabilidade. Dispara um projétil de calibre intermediário em uma longa rajada, oferecendo boa precisão de curta a média distância, mas sacrificando a precisão de longo alcance por um manuseio superior.</VWE_Gun_Carbine.description>
+  <VWE_Gun_Carbine.tools.0.label>coronha</VWE_Gun_Carbine.tools.0.label>
+  <VWE_Gun_Carbine.tools.1.label>cano</VWE_Gun_Carbine.tools.1.label>
+  <Bullet_MarksmanRifle.label>bala de fuzil de atirador</Bullet_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.label>fuzil de atirador</VWE_Gun_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.description>Um fuzil semiautomático especializado. Dispara um projétil poderoso com velocidade maior que a de um fuzil de assalto padrão, oferecendo um excelente equilíbrio entre precisão de longo alcance e uma cadência mais rápida de disparos de seguimento.</VWE_Gun_MarksmanRifle.description>
+  <VWE_Gun_MarksmanRifle.tools.0.label>coronha</VWE_Gun_MarksmanRifle.tools.0.label>
+  <VWE_Gun_MarksmanRifle.tools.1.label>cano</VWE_Gun_MarksmanRifle.tools.1.label>
+  <Bullet_AntiMaterialRifle.label>projétil de impacto antimaterial</Bullet_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.label>fuzil antimaterial</VWE_Gun_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.description>Um fuzil de ferrolho devastador de grande calibre, projetado para atacar posições fortificadas e alvos blindados. Dispara um projétil excepcionalmente grande para dano e penetração superiores a distâncias extremas. Devido ao seu peso e recuo, é fisicamente exigente e requer um longo período de mira antes de poder ser disparado com precisão.</VWE_Gun_AntiMaterialRifle.description>
+  <VWE_Gun_AntiMaterialRifle.tools.0.label>coronha</VWE_Gun_AntiMaterialRifle.tools.0.label>
+  <VWE_Gun_AntiMaterialRifle.tools.1.label>cano</VWE_Gun_AntiMaterialRifle.tools.1.label>
+  <VWE_Bow_Crossbow.label>besta</VWE_Bow_Crossbow.label>
+  <VWE_Bow_Crossbow.description>Uma besta simples. Dispara um virote padrão com precisão e cadência decentes, tornando-se uma arma de distância confiável de nível intermediário contra armaduras.</VWE_Bow_Crossbow.description>
+  <VWE_Bow_Crossbow.tools.0.label>braço</VWE_Bow_Crossbow.tools.0.label>
+  <VWE_Arrow_Bolt.label>virote de besta</VWE_Arrow_Bolt.label>
+  <VWE_Gun_Musket.label>mosquete</VWE_Gun_Musket.label>
+  <VWE_Gun_Musket.description>Um mosquete de modelo antigo. Como um dos primeiros de seu tipo, tem apenas alcance curto e baixa cadência de tiro.</VWE_Gun_Musket.description>
+  <VWE_Gun_Musket.tools.0.label>coronha</VWE_Gun_Musket.tools.0.label>
+  <VWE_Gun_Musket.tools.1.label>cano</VWE_Gun_Musket.tools.1.label>
+  <Bullet_Leadball.label>bala de chumbo</Bullet_Leadball.label>
+  <VWE_Gun_Flintlock.label>pederneira</VWE_Gun_Flintlock.label>
+  <VWE_Gun_Flintlock.description>Esta pistola apresenta um cano de alma lisa e um cabo longo de madeira terminado em um pomo. Como o nome sugere, a pistola de pederneira é operada por um mecanismo de pederneira.</VWE_Gun_Flintlock.description>
+  <VWE_Gun_Flintlock.tools.0.label>coronha</VWE_Gun_Flintlock.tools.0.label>
+  <VWE_Gun_Flintlock.tools.1.label>cano</VWE_Gun_Flintlock.tools.1.label>
+  <VWE_Throwing_Knives.label>facas de arremesso</VWE_Throwing_Knives.label>
+  <VWE_Throwing_Knives.description>Um pequeno conjunto de facas leves e balanceadas, projetadas para serem arremessadas rapidamente. Ineficazes contra armaduras, mas capazes de causar alto dano de perto.</VWE_Throwing_Knives.description>
+  <VWE_Throwing_Knives.tools.0.label>cabo</VWE_Throwing_Knives.tools.0.label>
+  <VWE_Throwing_Knives.tools.1.label>lâmina</VWE_Throwing_Knives.tools.1.label>
+  <VWE_Throwing_Knives.tools.2.label>ponta</VWE_Throwing_Knives.tools.2.label>
+  <VWE_FlyingBlade.label>faca pequena</VWE_FlyingBlade.label>
+  <VWE_Tool_Whip.label>chicote</VWE_Tool_Whip.label>
+  <VWE_Tool_Whip.description>Uma ferramenta tradicional usada para golpear animais, ajudando a guiá-los e a obter obediência.\n\nPode ser usada em pessoas.</VWE_Tool_Whip.description>
+  <VWE_Tool_Whip.tools.0.label>lâmina</VWE_Tool_Whip.tools.0.label>
+  <VWE_WhipSlash.label>chicotada</VWE_WhipSlash.label>
+  <VWE_Throwing_Rocks.label>pedras de arremesso</VWE_Throwing_Rocks.label>
+  <VWE_Throwing_Rocks.description>Um punhado de pedras. Pode causar ferimentos leves a curta distância. Não é largado ao morrer. Simples, mas eficaz.</VWE_Throwing_Rocks.description>
+  <VWE_Throwing_Rocks.tools.0.label>pedra</VWE_Throwing_Rocks.tools.0.label>
+  <VWE_Rock.label>pedra pequena</VWE_Rock.label>
+  <VWE_Bow_Long.label>arco longo</VWE_Bow_Long.label>
+  <VWE_Bow_Long.description>Um arco alto e poderoso que exige grande força para ser tensionado. Lança flechas de alta velocidade a uma distância extrema.</VWE_Bow_Long.description>
+  <VWE_Bow_Long.tools.0.label>braço</VWE_Bow_Long.tools.0.label>
+  <VWE_Arrow_Long.label>flecha de arco longo</VWE_Arrow_Long.label>
+  <VWE_Bullet_ChargePistol.label>tiro de pistola de carga</VWE_Bullet_ChargePistol.label>
+  <VWE_Gun_ChargePistol.label>pistola de carga</VWE_Gun_ChargePistol.label>
+  <VWE_Gun_ChargePistol.description>Esta pistola semiautomática de alta tecnologia usa tecnologia de carga pulsada para canalizar energia instável em cada disparo. A energia carregada é liberada no impacto, proporcionando dano e penetração de armadura superiores. Seu tamanho compacto e confiabilidade a tornam uma arma de reserva ideal em combate de alta tecnologia.</VWE_Gun_ChargePistol.description>
+  <VWE_Gun_ChargePistol.tools.0.label>coronha</VWE_Gun_ChargePistol.tools.0.label>
+  <VWE_Bullet_ChargeShotgun.label>cartucho de espingarda de carga</VWE_Bullet_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.label>espingarda de carga</VWE_Gun_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.description>Uma espingarda sofisticada de alta tecnologia que utiliza tecnologia de carga pulsada. A energia é canalizada em um único projétil de alto impacto, causando dano devastador e penetração de armadura superior a curta distância. Seu mecanismo integrado de ação por bombeamento cicla os cartuchos rapidamente, tornando-a a ferramenta definitiva para operações de arrombamento e limpeza de curta distância.</VWE_Gun_ChargeShotgun.description>
+  <VWE_Gun_ChargeShotgun.tools.0.label>coronha</VWE_Gun_ChargeShotgun.tools.0.label>
+  <VWE_Bullet_ChargeSMG.label>tiro de submetralhadora de carga</VWE_Bullet_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.label>submetralhadora de carga</VWE_Gun_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.description>Uma submetralhadora compacta construída com tecnologia avançada de carga pulsada. Dispara uma rajada rápida de projéteis cinéticos carregados com energia instável, trocando a precisão de longo alcance por um poder de fogo devastador e de alta penetração de perto. Sua velocidade e tamanho a tornam uma arma excepcional para limpar espaços fechados.</VWE_Gun_ChargeSMG.description>
+  <VWE_Gun_ChargeSMG.tools.0.label>coronha</VWE_Gun_ChargeSMG.tools.0.label>
+  <VWE_Bullet_ChargeLMG.label>tiro de disparador de carga</VWE_Bullet_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.label>disparador de carga</VWE_Gun_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.description>Uma arma de carga maciça e portátil, projetada para fogo de supressão sustentado. Usa tecnologia avançada de carga pulsada para canalizar e liberar disparos devastadores carregados de energia instável através de seu cano reforçado. Este projeto sacrifica a dispersão por puro poder concentrado, tornando-a capaz de destruir vários inimigos ou estruturas em uma única rajada prolongada.</VWE_Gun_ChargeLMG.description>
+  <VWE_Gun_ChargeLMG.tools.0.label>cano</VWE_Gun_ChargeLMG.tools.0.label>
+  <VWE_Bullet_ChargeSniperRifle.label>tiro de fuzil de precisão de carga</VWE_Bullet_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.label>fuzil de precisão de carga</VWE_Gun_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.description>Um fuzil de carga especializado e de alta velocidade, projetado para combate a distância extrema com capacidades antiarmadura. Canaliza uma imensa energia de carga pulsada em um único projétil cinético, causando dano extremamente alto e penetração de armadura com precisão milimétrica à distância máxima. Seu volume exige uma posição de tiro estável.</VWE_Gun_ChargeSniperRifle.description>
+  <VWE_Gun_ChargeSniperRifle.tools.0.label>coronha</VWE_Gun_ChargeSniperRifle.tools.0.label>
+  <VWE_Gun_ChargeSniperRifle.tools.1.label>cano</VWE_Gun_ChargeSniperRifle.tools.1.label>
+  <VWE_Bullet_ChargeMinigun.label>tiro de disparador de carga pesado</VWE_Bullet_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.label>disparador de carga pesado</VWE_Gun_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.description>Uma arma de carga colossal adaptada para uso portátil. Canaliza uma imensa energia de carga pulsada em projéteis de grande calibre, disparando-os em rajadas devastadoras e sustentadas. Embora sua massa a torne difícil de manusear, é incomparável em sua capacidade de destruir alvos endurecidos e colunas blindadas.</VWE_Gun_ChargeMinigun.description>
+  <VWE_Gun_ChargeMinigun.tools.0.label>cano</VWE_Gun_ChargeMinigun.tools.0.label>
+  <VWE_Gun_ChargeMinigun.tools.1.label>cano</VWE_Gun_ChargeMinigun.tools.1.label>
+  <VWE_Gun_ChargeRocketLauncher.label>lançador de mísseis de carga</VWE_Gun_ChargeRocketLauncher.label>
+  <VWE_Gun_ChargeRocketLauncher.description>Um lançador portátil de ombro que usa mira a laser para disparar um míssil explosivo carregado bem alto no ar. O projétil segue um arco balístico, permitindo contornar coberturas e atingir alvos sem precisar de linha de visão direta. Deve ser usado em uma área sem teto.</VWE_Gun_ChargeRocketLauncher.description>
+  <VWE_Gun_ChargeRocketLauncher.tools.0.label>coronha</VWE_Gun_ChargeRocketLauncher.tools.0.label>
+  <VWE_Rocket_AntiGrain.label>foguete antigrão</VWE_Rocket_AntiGrain.label>
+  <VWE_Bullet_Rocket.label>foguete</VWE_Bullet_Rocket.label>
+  <VWE_TrenchGun.label>espingarda de trincheira</VWE_TrenchGun.label>
+  <VWE_TrenchGun.description>Uma espingarda de bombeamento modernizada para guerra de trincheiras de curta distância. Construção sólida e cano curto permitem disparo e manobra rápidos, desferindo um disparo devastador de balins a curta distância.</VWE_TrenchGun.description>
+  <VWE_TrenchGun.tools.0.label>coronha</VWE_TrenchGun.tools.0.label>
+  <VWE_TrenchGun.tools.1.label>cano</VWE_TrenchGun.tools.1.label>
+  <VWE_Bullet_TrenchGun.label>cartucho de espingarda de trincheira</VWE_Bullet_TrenchGun.label>
+  <VWE_Bow_Crossbow.tools.1.label>estocada</VWE_Bow_Crossbow.tools.1.label>
+  <VWE_Gun_ChargePistol.tools.1.label>cano</VWE_Gun_ChargePistol.tools.1.label>
+  <VWE_Gun_ChargeShotgun.tools.1.label>cano</VWE_Gun_ChargeShotgun.tools.1.label>
+  <VWE_Gun_ChargeSMG.tools.1.label>cano</VWE_Gun_ChargeSMG.tools.1.label>
+  <VWE_Gun_ChargeRocketLauncher.tools.1.label>cano</VWE_Gun_ChargeRocketLauncher.tools.1.label>
+  <Bullet_ChargeSniperRifle.label>projétil de precisão de carga</Bullet_ChargeSniperRifle.label>
+  <VWE_Bow_Crossbow_Unique.label>besta única</VWE_Bow_Crossbow_Unique.label>
+  <VWE_Bow_Crossbow_Unique.description>Uma besta com peças personalizadas.</VWE_Bow_Crossbow_Unique.description>
+  <VWE_Bow_Long_Unique.label>arco longo único</VWE_Bow_Long_Unique.label>
+  <VWE_Bow_Long_Unique.description>Um arco longo com peças personalizadas.</VWE_Bow_Long_Unique.description>
+  <VWE_Bow_Compound_Unique.label>arco composto único</VWE_Bow_Compound_Unique.label>
+  <VWE_Bow_Compound_Unique.description>Um arco composto com peças personalizadas.</VWE_Bow_Compound_Unique.description>
+  <VWE_Gun_HandCannon_Unique.label>revólver pesado único</VWE_Gun_HandCannon_Unique.label>
+  <VWE_Gun_HandCannon_Unique.description>Um revólver pesado com peças personalizadas.</VWE_Gun_HandCannon_Unique.description>
+  <VWE_Gun_CombatHandgun_Unique.label>pistola de combate única</VWE_Gun_CombatHandgun_Unique.label>
+  <VWE_Gun_CombatHandgun_Unique.description>Uma pistola de combate com peças personalizadas.</VWE_Gun_CombatHandgun_Unique.description>
+  <VWE_Gun_SawedOffShotgun_Unique.label>espingarda serrada única</VWE_Gun_SawedOffShotgun_Unique.label>
+  <VWE_Gun_SawedOffShotgun_Unique.description>Uma espingarda serrada com peças personalizadas.</VWE_Gun_SawedOffShotgun_Unique.description>
+  <VWE_Gun_SemiAutomaticRifle_Unique.label>fuzil semiautomático único</VWE_Gun_SemiAutomaticRifle_Unique.label>
+  <VWE_Gun_SemiAutomaticRifle_Unique.description>Um fuzil semiautomático com peças personalizadas.</VWE_Gun_SemiAutomaticRifle_Unique.description>
+  <VWE_Gun_LeverActionRifle_Unique.label>fuzil de ação por alavanca único</VWE_Gun_LeverActionRifle_Unique.label>
+  <VWE_Gun_LeverActionRifle_Unique.description>Um fuzil de ação por alavanca com peças personalizadas.</VWE_Gun_LeverActionRifle_Unique.description>
+  <VWE_Gun_TrenchGun_Unique.label>espingarda de trincheira única</VWE_Gun_TrenchGun_Unique.label>
+  <VWE_Gun_TrenchGun_Unique.description>Uma espingarda de trincheira com peças personalizadas.</VWE_Gun_TrenchGun_Unique.description>
+  <VWE_Gun_LightSMG_Unique.label>submetralhadora leve única</VWE_Gun_LightSMG_Unique.label>
+  <VWE_Gun_LightSMG_Unique.description>Uma submetralhadora leve com peças personalizadas.</VWE_Gun_LightSMG_Unique.description>
+  <VWE_Gun_SMG_Unique.label>submetralhadora única</VWE_Gun_SMG_Unique.label>
+  <VWE_Gun_SMG_Unique.description>Uma submetralhadora com peças personalizadas.</VWE_Gun_SMG_Unique.description>
+  <VWE_Gun_HMG_Unique.label>metralhadora pesada única</VWE_Gun_HMG_Unique.label>
+  <VWE_Gun_HMG_Unique.description>Uma metralhadora pesada com peças personalizadas.</VWE_Gun_HMG_Unique.description>
+  <VWE_Gun_ServiceRifle_Unique.label>fuzil de serviço único</VWE_Gun_ServiceRifle_Unique.label>
+  <VWE_Gun_ServiceRifle_Unique.description>Um fuzil de serviço com peças personalizadas.</VWE_Gun_ServiceRifle_Unique.description>
+  <VWE_Gun_BattleRifle_Unique.label>fuzil de batalha único</VWE_Gun_BattleRifle_Unique.label>
+  <VWE_Gun_BattleRifle_Unique.description>Um fuzil de batalha com peças personalizadas.</VWE_Gun_BattleRifle_Unique.description>
+  <VWE_Gun_Carbine_Unique.label>carabina única</VWE_Gun_Carbine_Unique.label>
+  <VWE_Gun_Carbine_Unique.description>Uma carabina com peças personalizadas.</VWE_Gun_Carbine_Unique.description>
+  <VWE_Gun_MarksmanRifle_Unique.label>fuzil de atirador único</VWE_Gun_MarksmanRifle_Unique.label>
+  <VWE_Gun_MarksmanRifle_Unique.description>Um fuzil de atirador com peças personalizadas.</VWE_Gun_MarksmanRifle_Unique.description>
+  <VWE_Gun_AntiMaterialRifle_Unique.label>fuzil antimaterial único</VWE_Gun_AntiMaterialRifle_Unique.label>
+  <VWE_Gun_AntiMaterialRifle_Unique.description>Um fuzil antimaterial com peças personalizadas.</VWE_Gun_AntiMaterialRifle_Unique.description>
+  <VWE_Gun_ChargePistol_Unique.label>pistola de carga única</VWE_Gun_ChargePistol_Unique.label>
+  <VWE_Gun_ChargePistol_Unique.description>Uma pistola de carga com peças personalizadas.</VWE_Gun_ChargePistol_Unique.description>
+  <VWE_Gun_ChargeShotgun_Unique.label>espingarda de carga única</VWE_Gun_ChargeShotgun_Unique.label>
+  <VWE_Gun_ChargeShotgun_Unique.description>Uma espingarda de carga com peças personalizadas.</VWE_Gun_ChargeShotgun_Unique.description>
+  <VWE_Gun_ChargeSMG_Unique.label>submetralhadora de carga única</VWE_Gun_ChargeSMG_Unique.label>
+  <VWE_Gun_ChargeSMG_Unique.description>Uma submetralhadora de carga com peças personalizadas.</VWE_Gun_ChargeSMG_Unique.description>
+  <VWE_Gun_ChargeLMG_Unique.label>disparador de carga único</VWE_Gun_ChargeLMG_Unique.label>
+  <VWE_Gun_ChargeLMG_Unique.description>Um disparador de carga com peças personalizadas.</VWE_Gun_ChargeLMG_Unique.description>
+  <VWE_Gun_ChargeMinigun_Unique.label>disparador de carga pesado único</VWE_Gun_ChargeMinigun_Unique.label>
+  <VWE_Gun_ChargeMinigun_Unique.description>Um disparador de carga pesado com peças personalizadas.</VWE_Gun_ChargeMinigun_Unique.description>
+  <VWE_Gun_ChargeSniperRifle_Unique.label>fuzil de precisão de carga único</VWE_Gun_ChargeSniperRifle_Unique.label>
+  <VWE_Gun_ChargeSniperRifle_Unique.description>Um fuzil de precisão de carga com peças personalizadas.</VWE_Gun_ChargeSniperRifle_Unique.description>
+  <VWE_BlastTips_Arrow.label>flecha com ponta explosiva</VWE_BlastTips_Arrow.label>
+  <VWE_BlastTips_LargeArrow.label>flecha com ponta explosiva</VWE_BlastTips_LargeArrow.label>
+  <VWE_BlastTips_Bolt.label>virote com ponta explosiva</VWE_BlastTips_Bolt.label>
+  <VWE_BlastTips_Compound.label>flecha composta com ponta explosiva</VWE_BlastTips_Compound.label>
+  <VWE_Bullet_ChargeRifle_Homing.label>tiro teleguiado de carga</VWE_Bullet_ChargeRifle_Homing.label>
+  <VWE_Bullet_ChargeLance_Homing.label>tiro teleguiado de lança carga</VWE_Bullet_ChargeLance_Homing.label>
+  <VWE_Bullet_ChargePistol_Homing.label>tiro teleguiado de pistola de carga</VWE_Bullet_ChargePistol_Homing.label>
+  <VWE_Bullet_ChargeShotgun_Homing.label>cartucho teleguiado de espingarda de carga</VWE_Bullet_ChargeShotgun_Homing.label>
+  <VWE_Bullet_ChargeSMG_Homing.label>tiro teleguiado de submetralhadora de carga</VWE_Bullet_ChargeSMG_Homing.label>
+  <VWE_Bullet_ChargeLMG_Homing.label>tiro teleguiado de disparador de carga</VWE_Bullet_ChargeLMG_Homing.label>
+  <VWE_Bullet_ChargeMinigun_Homing.label>tiro teleguiado de disparador de carga pesado</VWE_Bullet_ChargeMinigun_Homing.label>
+  <VWE_Cryptobullet.label>bala cripto</VWE_Cryptobullet.label>
+  <VWE_Cryptobullet_Revolver.label>bala cripto de revólver</VWE_Cryptobullet_Revolver.label>
+  <VWE_Cryptobullet_BoltActionRifle.label>bala cripto de fuzil de ferrolho</VWE_Cryptobullet_BoltActionRifle.label>
+  <VWE_Cryptobullet_HeavySMG.label>bala cripto de submetralhadora pesada</VWE_Cryptobullet_HeavySMG.label>
+  <VWE_Cryptobullet_LMG.label>bala cripto de metralhadora leve</VWE_Cryptobullet_LMG.label>
+  <VWE_Cryptobullet_AssaultRifle.label>bala cripto de fuzil de assalto</VWE_Cryptobullet_AssaultRifle.label>
+  <VWE_Cryptobullet_SniperRifle.label>bala cripto de fuzil de precisão</VWE_Cryptobullet_SniperRifle.label>
+  <VWE_Cryptobullet_Minigun.label>bala cripto de metralhadora giratória</VWE_Cryptobullet_Minigun.label>
+  <VWE_Cryptobullet_HandCannon.label>bala cripto de revólver pesado</VWE_Cryptobullet_HandCannon.label>
+  <VWE_Cryptobullet_CombatHandgun.label>bala cripto de pistola de combate</VWE_Cryptobullet_CombatHandgun.label>
+  <VWE_Cryptobullet_SemiAutomaticRifle.label>bala cripto de fuzil semiautomático</VWE_Cryptobullet_SemiAutomaticRifle.label>
+  <VWE_Cryptobullet_LeverActionRifle.label>bala cripto de fuzil de ação por alavanca</VWE_Cryptobullet_LeverActionRifle.label>
+  <VWE_Cryptobullet_LightSMG.label>bala cripto de submetralhadora leve</VWE_Cryptobullet_LightSMG.label>
+  <VWE_Cryptobullet_SMG.label>bala cripto de submetralhadora</VWE_Cryptobullet_SMG.label>
+  <VWE_Cryptobullet_HMG.label>bala cripto de metralhadora pesada</VWE_Cryptobullet_HMG.label>
+  <VWE_Cryptobullet_ServiceRifle.label>bala cripto de fuzil de serviço</VWE_Cryptobullet_ServiceRifle.label>
+  <VWE_Cryptobullet_BattleRifle.label>bala cripto de fuzil de batalha</VWE_Cryptobullet_BattleRifle.label>
+  <VWE_Cryptobullet_Carbine.label>bala cripto de carabina</VWE_Cryptobullet_Carbine.label>
+  <VWE_Cryptobullet_MarksmanRifle.label>bala cripto de fuzil de atirador</VWE_Cryptobullet_MarksmanRifle.label>
+  <VWE_Cryptobullet_AntiMaterialRifle.label>projétil cripto de impacto antimaterial</VWE_Cryptobullet_AntiMaterialRifle.label>
+  <VWE_Revolver_SnakeShotLoads.label>carga de balins</VWE_Revolver_SnakeShotLoads.label>
+  <VWE_Revolver_SnakeShotLoads_Heavy.label>carga de balins</VWE_Revolver_SnakeShotLoads_Heavy.label>
+  <VWE_Bullet_ChargeLance.label>tiro de lança carga</VWE_Bullet_ChargeLance.label>
+</LanguageData>

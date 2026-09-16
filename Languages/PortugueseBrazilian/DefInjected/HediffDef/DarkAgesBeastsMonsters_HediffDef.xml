@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DA_RapidRecovery.label>óleo de barogoth</DA_RapidRecovery.label>
+  <DA_RapidRecovery.description>Óleo de barogoth aplicado no corpo; ajuda o corpo a se recuperar mais rapidamente de ferimentos e doenças.</DA_RapidRecovery.description>
+  <DA_RedInk.label>tinta vermelha</DA_RedInk.label>
+  <DA_RedInk.description>O veneno do escriba negro. A dor que inflige deixa suas vítimas incapazes de se defender; elas logo caem ao chão, onde encontram uma morte prematura.</DA_RedInk.description>
+  <DA_RedInk.stages.0.label>queimação</DA_RedInk.stages.0.label>
+  <DA_RedInk.stages.1.label>escaldante</DA_RedInk.stages.1.label>
+  <DA_RedInk.stages.2.label>bolhas</DA_RedInk.stages.2.label>
+  <DA_RedTearHigh.label>calor vermelho</DA_RedTearHigh.label>
+  <DA_RedTearHigh.description>Uma pequena dose de tinta vermelha na corrente sanguínea. Aumenta a sensibilidade à dor, mas eleva o humor.</DA_RedTearHigh.description>
+  <DA_RedTearHigh.stages.0.label>calor</DA_RedTearHigh.stages.0.label>
+  <DA_RedTearHigh.stages.1.label>queimação</DA_RedTearHigh.stages.1.label>
+  <DA_RedTearHigh.stages.2.label>escaldante</DA_RedTearHigh.stages.2.label>
+  <DA_RedTearHigh.stages.3.label>bolhas</DA_RedTearHigh.stages.3.label>
+  <DA_RedTearTolerance.label>tolerância à tinta vermelha</DA_RedTearTolerance.label>
+  <DA_RedTearTolerance.description>Uma tolerância acumulada à tinta vermelha. Quanto mais grave for essa tolerância, mais tinta vermelha será necessária para obter o mesmo efeito.</DA_RedTearTolerance.description>
+  <DA_RedTearAddiction.label>vício em tinta vermelha</DA_RedTearAddiction.label>
+  <DA_RedTearAddiction.description>Um vício químico em tinta vermelha. A exposição prolongada aos seus efeitos eufóricos causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar corretamente sem a droga.\n\nSem doses regulares de tinta vermelha, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</DA_RedTearAddiction.description>
+  <DA_RedTearAddiction.stages.1.label>abstinência</DA_RedTearAddiction.stages.1.label>
+  <DA_Petrify.label>petrificado</DA_Petrify.label>
+  <DA_Petrify.description>Paralisado por um veneno poderoso.</DA_Petrify.description>
+  <DA_Petrify.stages.0.label>lento</DA_Petrify.stages.0.label>
+  <DA_Petrify.stages.1.label>petrificado</DA_Petrify.stages.1.label>
+  <DA_Disoriented.label>desorientado</DA_Disoriented.label>
+  <DA_Disoriented.description>Desorientado por um forte choque contundente.</DA_Disoriented.description>
+  <DA_MilkTolerance.label>tolerância ao leite</DA_MilkTolerance.label>
+  <DA_MilkTolerance.description>não deveria ver isso</DA_MilkTolerance.description>
+  <DA_MilkTolerance.stages.0.label>pequena</DA_MilkTolerance.stages.0.label>
+  <DA_MilkTolerance.stages.1.label>grande</DA_MilkTolerance.stages.1.label>
+  <DA_MilkTolerance.stages.2.label>enorme</DA_MilkTolerance.stages.2.label>
+  <DA_MilkAddiction.label>vício em leite régio</DA_MilkAddiction.label>
+  <DA_MilkAddiction.description>Um vício psicológico em leite régio. Por causa de seu sabor requintado, o cérebro não consegue funcionar sem ele.\n\nSem doses regulares de leite régio, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</DA_MilkAddiction.description>
+  <DA_MilkAddiction.stages.1.label>abstinência</DA_MilkAddiction.stages.1.label>
+  <DA_AntiCoagulantVenom.label>veneno de karabal</DA_AntiCoagulantVenom.label>
+  <DA_AntiCoagulantVenom.description>Atingido pelo veneno anticoagulante de um karabal. Aumenta muito a perda de sangue.</DA_AntiCoagulantVenom.description>
+  <DA_VirulentToxin.description>Uma toxina perigosa infligida por um phrak. Bastante perigosa, pois pode levar rapidamente à morte em altas doses. Mesmo em doses baixas, pode gerar câncer.</DA_VirulentToxin.description>
+  <DA_VirulentToxin.label>acúmulo tóxico</DA_VirulentToxin.label>
+  <DA_VirulentToxin.stages.0.label>inicial</DA_VirulentToxin.stages.0.label>
+  <DA_VirulentToxin.stages.1.label>inicial</DA_VirulentToxin.stages.1.label>
+  <DA_VirulentToxin.stages.2.label>leve</DA_VirulentToxin.stages.2.label>
+  <DA_VirulentToxin.stages.3.label>moderado</DA_VirulentToxin.stages.3.label>
+  <DA_VirulentToxin.stages.4.label>sério</DA_VirulentToxin.stages.4.label>
+  <DA_VirulentToxin.stages.5.label>extremo</DA_VirulentToxin.stages.5.label>
+  <DA_ScarletScentHigh.label>vapores escarlates</DA_ScarletScentHigh.label>
+  <DA_ScarletScentHigh.description>Vapores inalados da mistura vermelha conhecida como perfume escarlate. Aumenta muito as capacidades de combate, com a possibilidade de entrar em um frenesi de sangue.</DA_ScarletScentHigh.description>
+  <DA_ScarletScentHigh.stages.1.label>enfurecido</DA_ScarletScentHigh.stages.1.label>
+  <DA_ScarletScentHigh.stages.2.label>frenesi de sangue</DA_ScarletScentHigh.stages.2.label>
+  <DA_Destabilized.label>desestabilizado</DA_Destabilized.label>
+  <DA_Destabilized.description>Desestabilizado por um choque poderoso.</DA_Destabilized.description>
+  <DA_MuckbileSlow.label>bile lodosa</DA_MuckbileSlow.label>
+  <DA_MuckbileSlow.description>Lentidão causada por uma bile ácida e espessa.</DA_MuckbileSlow.description>
+  <DA_MuckbileSlow.stages.0.label>lento</DA_MuckbileSlow.stages.0.label>
+  <DA_UnnervingPresence.label>presença inquietante</DA_UnnervingPresence.label>
+  <DA_UnnervingPresence.description>Uma sensação inquietante causada pela presença de tocas de troll próximas.</DA_UnnervingPresence.description>
+  <DA_BloodPetrification.label>petrificação do sangue</DA_BloodPetrification.label>
+  <DA_BloodPetrification.description>A coagulação quase instantânea do sangue, que faz surgirem formações rochosas por todo o corpo, proporcionando excelente proteção e reduzindo a taxa de perda de sangue.</DA_BloodPetrification.description>
+  <DA_BloodPetrification.stages.0.label>leve</DA_BloodPetrification.stages.0.label>
+  <DA_BloodPetrification.stages.1.label>leve</DA_BloodPetrification.stages.1.label>
+  <DA_BloodPetrification.stages.2.label>moderado</DA_BloodPetrification.stages.2.label>
+  <DA_BloodPetrification.stages.3.label>grave</DA_BloodPetrification.stages.3.label>
+  <DA_BloodPetrification.stages.4.label>extremo</DA_BloodPetrification.stages.4.label>
+  <DA_MolePanic.label>pânico de toupeira</DA_MolePanic.label>
+  <DA_MolePanic.description>Fugindo em pânico após presenciar perigo.</DA_MolePanic.description>
+</LanguageData>

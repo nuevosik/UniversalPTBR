@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DA_TrollBurrow.label>toca de troll</DA_TrollBurrow.label>
+  <DA_TrollBurrow.description>Uma grande toca de troll que se estende profundamente no subsolo. Rosnados e arranhões podem ser ouvidos lá dentro.</DA_TrollBurrow.description>
+  <DA_FreshTrollBurrow.label>toca de troll</DA_FreshTrollBurrow.label>
+  <DA_FreshTrollBurrow.description>Uma grande toca de troll que se estende profundamente no subsolo. Rosnados e arranhões podem ser ouvidos lá dentro. Esta foi escavada recentemente.</DA_FreshTrollBurrow.description>
+  <DA_GnawedBones.label>restos roídos</DA_GnawedBones.label>
+  <DA_GnawedBones.description>Restos esqueléticos cobertos de marcas de dentes. Frequentemente indicam a presença de um ninho de troll próximo.</DA_GnawedBones.description>
+  <DA_Filth_GnawedBones.label>ossos roídos</DA_Filth_GnawedBones.label>
+  <DA_TrollRug.label>tapete de troll barbudo (2x2)</DA_TrollRug.label>
+  <DA_TrollRug.description>Um troféu que marca a vitória sobre um troll barbudo. O couro quente e resistente do troll é perfeito para um tapete, mas cuidado com os dentes.</DA_TrollRug.description>
+  <DA_LarpahRug.label>tapete de larpah de chifres vermelhos (1x1)</DA_LarpahRug.label>
+  <DA_LarpahRug.description>Um troféu que marca a vitória sobre um larpah de chifres vermelhos. O couro quente e resistente do larpah é perfeito para um tapete, mas cuidado com a galhada.</DA_LarpahRug.description>
+  <DA_LarpahRugB.label>tapete branco de larpah de chifres vermelhos (1x1)</DA_LarpahRugB.label>
+  <DA_DrogRug.label>tapete de drog do norte (3x3)</DA_DrogRug.label>
+  <DA_DrogRug.description>Um troféu que marca a vitória sobre um drog do norte. Este tapete impressionante é luxuoso e excepcionalmente quente, mas cuidado com as presas.</DA_DrogRug.description>
+  <DA_DrogTusk.label>presa de drog</DA_DrogTusk.label>
+  <DA_DrogTusk.description>A presa de um drog do norte. Um troféu valioso e resistente que pode ser empunhado como uma arma letal.</DA_DrogTusk.description>
+  <DA_DrogTusk.tools.0.label>ponta</DA_DrogTusk.tools.0.label>
+  <DA_DrogTusk.tools.1.label>base</DA_DrogTusk.tools.1.label>
+  <DA_GoldiloxHorn.label>chifre de goldilox</DA_GoldiloxHorn.label>
+  <DA_GoldiloxHorn.description>O chifre retorcido de um goldilox. Um troféu valioso e resistente que pode ser empunhado como uma arma letal.</DA_GoldiloxHorn.description>
+  <DA_GoldiloxHorn.tools.0.label>ponta</DA_GoldiloxHorn.tools.0.label>
+  <DA_GoldiloxHorn.tools.1.label>base</DA_GoldiloxHorn.tools.1.label>
+  <DA_PetrifyingGland.label>glândula petrificante</DA_PetrifyingGland.label>
+  <DA_PetrifyingGland.description>Uma grande glândula extraída de um crestel. Ela exala um veneno espesso e potente, capaz de paralisar completamente músculos e nervos.</DA_PetrifyingGland.description>
+  <DA_LarpahAntlers.label>galhada de larpah</DA_LarpahAntlers.label>
+  <DA_LarpahAntlers.description>Um conjunto de galhadas valiosas pertencentes a um larpah. Algumas tribos usam a medula óssea encontrada dentro do osso para preparar uma mistura preciosa.</DA_LarpahAntlers.description>
+  <DA_TrollMeat.label>posta de troll</DA_TrollMeat.label>
+  <DA_TrollMeat.description>Posta crua de carne de troll.\n\nExcepcionalmente macia, suculenta e bastante nutritiva. Só não se esqueça de remover o pelo primeiro.</DA_TrollMeat.description>
+  <DA_GiantBone.label>osso gigante</DA_GiantBone.label>
+  <DA_GiantBone.description>Um osso gigante e robusto vindo de uma criatura enorme. Comumente usado em armaduras e armas por sua durabilidade.</DA_GiantBone.description>
+  <DA_Leather_Drog.label>pele de drog</DA_Leather_Drog.label>
+  <DA_Leather_Drog.description>Pele pesada de um drog. Muito isolante e resistente. Frequentemente usada por clãs do norte para se manterem aquecidos durante os invernos mais rigorosos.</DA_Leather_Drog.description>
+  <DA_Leather_Karabal.label>couro de karabal</DA_Leather_Karabal.label>
+  <DA_Leather_Karabal.description>O couro arroxeado de um karabal. Bom para regular a temperatura.</DA_Leather_Karabal.description>
+  <DA_Leather_Crestel.label>penas de pedra de crestel</DA_Leather_Crestel.label>
+  <DA_Leather_Crestel.description>Uma pele fina coberta por inúmeras penas azuis. Incrivelmente duras por natureza, mas se estilhaçam com facilidade contra impactos contundentes.</DA_Leather_Crestel.description>
+  <DA_Leather_Troll.label>pele de troll</DA_Leather_Troll.label>
+  <DA_Leather_Troll.description>A pele forte de um troll. Muito vulnerável ao fogo, mas excepcionalmente resistente.</DA_Leather_Troll.description>
+  <DA_Leather_Larpah.label>pelo branco de larpah</DA_Leather_Larpah.label>
+  <DA_Leather_Larpah.description>A pele branca, macia e robusta de um larpah de chifres vermelhos. Usada nos trabalhos mais refinados por seu isolamento e resistência.</DA_Leather_Larpah.description>
+  <DA_Leather_Barog.label>pele esponjosa</DA_Leather_Barog.label>
+  <DA_Leather_Barog.description>A pele esponjosa e verde de um barogoth. Apesar de regular bem a temperatura em climas quentes e úmidos, não protege muito.</DA_Leather_Barog.description>
+  <DA_WoolMuffton.label>lã de muffton</DA_WoolMuffton.label>
+  <DA_WoolMuffton.description>A lã marrom de um muffton anão. Excepcionalmente quente e resistente.</DA_WoolMuffton.description>
+  <DA_WoolGoldilox.label>lã dourada</DA_WoolGoldilox.label>
+  <DA_WoolGoldilox.description>A lã dourada de um goldilox. Embora não seja particularmente boa para isolamento ou resistência, é excepcionalmente bela.\n\nCom calor suficiente, ela pode ser derretida e forjada em ouro puro.</DA_WoolGoldilox.description>
+  <DA_BlackChitin.label>quitina negra</DA_BlackChitin.label>
+  <DA_BlackChitin.description>A quitina escura como tinta de um escriba negro. Embora seja dura e difícil de trabalhar, oferece proteção e isolamento notáveis.</DA_BlackChitin.description>
+  <DA_Barog.label>barogoth</DA_Barog.label>
+  <DA_Barog.description>Um grande anfíbio herbívoro que prospera em ambientes úmidos. Os barogoth são frequentemente encontrados perto de pântanos e charcos, onde acasalam e põem ovos durante a maior parte de suas vidas. Bastante dóceis quando domados, são usados regularmente como animais de carga.\n\nOs barogoth secretam um líquido oleoso e espesso que pode ser coletado e usado como unguento medicinal. Quando aplicado no corpo, aumenta a recuperação contra doenças e traumas físicos.</DA_Barog.description>
+  <DA_Barog.tools.0.label>cabeça</DA_Barog.tools.0.label>
+  <DA_Barog.tools.1.label>garra esquerda</DA_Barog.tools.1.label>
+  <DA_Barog.tools.2.label>garra direita</DA_Barog.tools.2.label>
+  <DA_BarogOil.label>óleo de barogoth</DA_BarogOil.label>
+  <DA_BarogOil.description>O óleo potente extraído de um barogoth, frequentemente aplicado no corpo para ajudar na recuperação de diversas doenças e traumas.</DA_BarogOil.description>
+  <EggBarogUnfertilized.label>ovo de barogoth (não fert.)</EggBarogUnfertilized.label>
+  <EggBarogUnfertilized.description>O ovo não fertilizado de um barogoth. Pode ser comido cru, mas fica muito, muito melhor cozido.</EggBarogUnfertilized.description>
+  <EggBarogFertilized.label>ovo de barogoth (fert.)</EggBarogFertilized.label>
+  <EggBarogFertilized.description>Um ovo fertilizado de barogoth. Se tudo correr bem, deve chocar um filhote de barogoth. Pode ser comido cru, mas fica muito melhor cozido.</EggBarogFertilized.description>
+  <DA_BeardedTroll.label>troll barbudo</DA_BeardedTroll.label>
+  <DA_BeardedTroll.description>Este grande predador sem olhos percorre a paisagem gélida, em constante busca por alimento. Durante o inverno, costumam se refugiar fundo em tocas subterrâneas, para se banquetear com os muitos cadáveres que acumularam ao longo do resto do ano. Implacável e capaz de regenerar rapidamente seus ferimentos, ele permite que os trolls derrubem criaturas muito mais fortes que eles mesmos.\n\nOs trolls se espalham rapidamente e são considerados uma praga perigosa, pois frequentemente atacam caravanas e viajantes. No entanto, seu couro e sua carne deliciosa os tornam alvo de muitos caçadores.</DA_BeardedTroll.description>
+  <DA_BeardedTroll.tools.0.label>cabeça</DA_BeardedTroll.tools.0.label>
+  <DA_BeardedTroll.tools.1.label>garra esquerda</DA_BeardedTroll.tools.1.label>
+  <DA_BeardedTroll.tools.2.label>garra direita</DA_BeardedTroll.tools.2.label>
+  <DA_BlackScribe.label>escriba negro</DA_BlackScribe.label>
+  <DA_BlackScribe.description>Uma sombra entre as areias escaldantes. O escriba negro é um insetoide letal, capaz de derrubar criaturas muito maiores que ele com seu ferrão terrível. O nome "escriba" vem de seu ferrão em forma de pena, composto por incontáveis plumas pequenas que ele usa para injetar rapidamente um veneno tóxico, que enfraquece muito sua presa.\n\nSeu veneno pode ser extraído com segurança a cada poucos dias e, embora a toxina seja incrivelmente perigosa, proporciona uma sensação de êxtase quando consumida em pequenas doses. O que a torna uma droga muito procurada.</DA_BlackScribe.description>
+  <DA_BlackScribe.tools.0.label>pinça esquerda</DA_BlackScribe.tools.0.label>
+  <DA_BlackScribe.tools.1.label>pinça direita</DA_BlackScribe.tools.1.label>
+  <DA_BlackScribe.tools.3.label>cabeça</DA_BlackScribe.tools.3.label>
+  <DA_RedTear.label>lágrima vermelha</DA_RedTear.label>
+  <DA_RedTear.description>Uma gota de tinta vermelha extraída da glândula de veneno de um escriba negro, frequentemente consumida ao ser pingada no olho. Embora perigosa, proporciona uma sensação de euforia em pequenas doses.</DA_RedTear.description>
+  <DA_Crestel.label>crestel</DA_Crestel.label>
+  <DA_Crestel.description>Uma das maiores aves incapazes de voar e o predador de topo do norte. O crestel é uma fera temível que pode paralisar completamente vítimas desafortunadas por um curto período com seu bico venenoso, deixando-as indefesas contra seus ataques. Apesar da aparência delicada, as penas do crestel são mais duras que pedra, servindo como armadura natural.\n\nSua natureza cruel e aparência incomum perpetuam inúmeros mitos — lendas de uma fera capaz de transformar carne em pedra com o olhar. Alguns também acreditam que o crestel é um mau presságio, um sinal do fim que se aproxima e do início de uma nova era.</DA_Crestel.description>
+  <DA_Crestel.tools.0.label>garras</DA_Crestel.tools.0.label>
+  <DA_Crestel.tools.1.label>bico</DA_Crestel.tools.1.label>
+  <DA_Crestel.tools.2.label>cabeça</DA_Crestel.tools.2.label>
+  <DA_Filth_BlueFeathers.label>penas azuis</DA_Filth_BlueFeathers.label>
+  <EggCrestelUnfertilized.label>ovo petrificado (não fert.)</EggCrestelUnfertilized.label>
+  <EggCrestelUnfertilized.description>Um grande ovo de crestel com uma casca rochosa espessa que serve como disfarce natural. Pode ser comido cru, mas fica muito, muito melhor cozido.</EggCrestelUnfertilized.description>
+  <EggCrestelFertilized.label>ovo petrificado (fert.)</EggCrestelFertilized.label>
+  <EggCrestelFertilized.description>Um ovo fertilizado de crestel. Se tudo correr bem, deve chocar um filhote de crestel. Pode ser comido cru, mas fica muito melhor cozido.</EggCrestelFertilized.description>
+  <DA_DwarvenMuffton.label>muffton anão</DA_DwarvenMuffton.label>
+  <DA_DwarvenMuffton.description>O muffton anão é um herbívoro semelhante a uma ovelha, conhecido por sua lã marrom quente e chifres gigantescos. Manadas podem ser vistas pulando pelas frias montanhas do norte, onde vivem na maior parte do ano. Orgulhosos e de temperamento fogoso, os machos costumam brigar batendo a cabeça um contra o outro até que um deles morra.\n\nHá histórias de um rei nascido da pedra que travou incontáveis batalhas montado em um muffton anão. Essa lenda deu origem a uma tradição entre certos clãs, na qual, ao atingir a puberdade, cada nascido da pedra recebia um filhote de muffton.</DA_DwarvenMuffton.description>
+  <DA_DwarvenMuffton.tools.0.label>cabeça</DA_DwarvenMuffton.tools.0.label>
+  <DA_DwarvenMuffton.tools.1.label>casco esquerdo</DA_DwarvenMuffton.tools.1.label>
+  <DA_DwarvenMuffton.tools.2.label>casco direito</DA_DwarvenMuffton.tools.2.label>
+  <DA_MufftonMilk.label>leite de muffton</DA_MufftonMilk.label>
+  <DA_MufftonMilk.description>O leite forte e pungente de um muffton anão. É bastante ácido e deixa um retrogosto azedo se consumido cru; felizmente, perde a maior parte de sua acidez quando cozido.</DA_MufftonMilk.description>
+  <DA_Karhan.label>karhan</DA_Karhan.label>
+  <DA_Karhan.description>Leite de muffton que foi mexido e fermentado por um período prolongado. Embora não seja tão alcoólico quanto outras bebidas, o consumo excessivo pode causar apagões alcoólicos e, com o tempo, dependência.</DA_Karhan.description>
+  <DA_FermentingMufftonMilk.label>leite de muffton em fermentação</DA_FermentingMufftonMilk.label>
+  <DA_FermentingMufftonMilk.description>Leite de muffton em fermentação que precisa ser mexido regularmente para produzir karhan.</DA_FermentingMufftonMilk.description>
+  <DA_Goldilox.label>goldilox</DA_Goldilox.label>
+  <DA_Goldilox.description>Contam-se histórias de um gigante reluzente que doura a própria terra por onde passa, transformando o mais pobre dos servos em rei com o tesouro que deixa em seu rastro. Muitos desses mitos cercam o fabuloso goldilox, uma besta lendária que percorre o mundo. Embora pacífico por natureza, o goldilox é um defensor feroz, atropelando sob cascos dourados qualquer um que desperte sua ira.\n\nOs poucos que algum dia conseguiram domar a besta foram recompensados com um leite rico e cremoso, e sua lã reluzente, que se dizia ser feita de ouro genuíno.</DA_Goldilox.description>
+  <DA_Goldilox.tools.0.label>chifre</DA_Goldilox.tools.0.label>
+  <DA_Goldilox.tools.2.label>cabeça</DA_Goldilox.tools.2.label>
+  <DA_RegalMilk.label>leite régio</DA_RegalMilk.label>
+  <DA_RegalMilk.description>O leite rico e cremoso de um goldilox. Embora seja melhor cru, ainda mantém parte de seus sabores quando cozido.</DA_RegalMilk.description>
+  <DA_Karabal.label>karabal</DA_Karabal.label>
+  <DA_Karabal.description>Uma grande criatura noturna semelhante a um morcego que vive nos ermos áridos do mundo. Ela se alimenta principalmente de sangue, que suga de animais adormecidos quando o crepúsculo desce sobre as dunas frias.\n\nEmbora seja mais fraco e menor que um lobo, o karabal compensa seu tamanho com a mordida, injetando um veneno anticoagulante que aumenta muito a ameaça de perda de sangue.</DA_Karabal.description>
+  <DA_Karabal.tools.0.label>sugador</DA_Karabal.tools.0.label>
+  <DA_Karabal.tools.1.label>garra esquerda</DA_Karabal.tools.1.label>
+  <DA_Karabal.tools.2.label>garra direita</DA_Karabal.tools.2.label>
+  <DA_Karabal.tools.3.label>presas sangradoras</DA_Karabal.tools.3.label>
+  <DA_Karabal.tools.4.label>cabeça</DA_Karabal.tools.4.label>
+  <DA_NorthernDrog.label>drog do norte</DA_NorthernDrog.label>
+  <DA_NorthernDrog.description>O colossal primo setentrional do javali selvagem. O drog é um gigantesco devorador de árvores que percorre as regiões mais frias do mundo, onde pode ser visto derrubando árvores para se alimentar com suas presas maciças. Territorial por natureza, não hesita em esmagar qualquer coisa que desperte sua ira.\n\nApesar de seu tamanho e força impressionantes, o drog é frequentemente caçado por seu pelo espesso e suas presas valiosas.</DA_NorthernDrog.description>
+  <DA_NorthernDrog.tools.0.label>presa</DA_NorthernDrog.tools.0.label>
+  <DA_NorthernDrog.tools.2.label>cabeça</DA_NorthernDrog.tools.2.label>
+  <DA_Phrak.label>phrak</DA_Phrak.label>
+  <DA_Phrak.description>A praga zumbidora dos bosques pantanosos. O phrak é um insetoide semelhante a um mosquito que caça usando seu grande rostro. Embora não seja particularmente blindado, compensa isso com agilidade e reflexos rápidos, superando em manobras até os lutadores mais treinados. Eles se espalham pondo inúmeros ovos em corpos d'água, o que torna os pântanos um habitat perfeito para eles.\n\nOs phraks podem usar um órgão especial perto do abdômen para disparar uma rajada de dardos farpados tóxicos e eliminar rapidamente ameaças hostis à distância.</DA_Phrak.description>
+  <DA_Phrak.tools.0.label>mandíbulas</DA_Phrak.tools.0.label>
+  <DA_Phrak.tools.1.label>rostro</DA_Phrak.tools.1.label>
+  <DA_Phrak.tools.2.label>cabeça</DA_Phrak.tools.2.label>
+  <EggPhrakUnfertilized.label>ovo de phrak (não fert.)</EggPhrakUnfertilized.label>
+  <EggPhrakUnfertilized.description>O ovo pegajoso de um phrak. Pode ser comido cru, mas fica muito, muito melhor cozido.</EggPhrakUnfertilized.description>
+  <EggPhrakFertilized.label>ovo de phrak (fert.)</EggPhrakFertilized.label>
+  <EggPhrakFertilized.description>Um ovo fertilizado de phrak. Se tudo correr bem, deve chocar uma larva de phrak. Pode ser comido cru, mas fica muito melhor cozido.</EggPhrakFertilized.description>
+  <DA_Shot_Phrak.label>dardo farpado tóxico</DA_Shot_Phrak.label>
+  <DA_Pilgrim.label>peregrino</DA_Pilgrim.label>
+  <DA_Pilgrim.description>Uma grande ave frequentemente vista caminhando entre as dunas. Os peregrinos receberam esse nome por seus longos períodos de migração, que podem durar meses enquanto viajam de um deserto a outro.\n\nOs peregrinos são frequentemente domesticados pelas tribos do sul para servir como montarias e por seus ovos, que fornecem nutrição nas duras condições do deserto.</DA_Pilgrim.description>
+  <DA_Pilgrim.tools.0.label>garras</DA_Pilgrim.tools.0.label>
+  <DA_Pilgrim.tools.1.label>bico</DA_Pilgrim.tools.1.label>
+  <DA_Pilgrim.tools.2.label>cabeça</DA_Pilgrim.tools.2.label>
+  <EggPilgrimUnfertilized.label>ovo de peregrino (não fert.)</EggPilgrimUnfertilized.label>
+  <EggPilgrimUnfertilized.description>O ovo cor de areia de um peregrino. Pode ser comido cru, mas fica muito, muito melhor cozido.</EggPilgrimUnfertilized.description>
+  <EggPilgrimFertilized.label>ovo de peregrino (fert.)</EggPilgrimFertilized.label>
+  <EggPilgrimFertilized.description>Um ovo fertilizado de peregrino. Se tudo correr bem, deve chocar um filhote de peregrino. Pode ser comido cru, mas fica muito melhor cozido.</EggPilgrimFertilized.description>
+  <DA_RedhornedLarpah.label>larpah de chifres vermelhos</DA_RedhornedLarpah.label>
+  <DA_RedhornedLarpah.description>Uma criatura esquiva e enganosa, o larpah de chifres vermelhos é um grande leporídeo com uma galhada marrom alta saindo de sua cabeça. Embora pareça gentil, a aparência do larpah oculta sua natureza predatória e feroz. À medida que envelhecem, uma espessa camada de sangue seco de batalhas passadas reveste seus chifres, rendendo-lhes o apelido de "chifres vermelhos".\n\nLetal e resistente para seu tamanho, sua agressividade raramente desencoraja os caçadores de tentar a sorte abatendo a fera por sua pele resistente e galhada valiosa, que pode ser transformada em uma mistura poderosa.</DA_RedhornedLarpah.description>
+  <DA_RedhornedLarpah.tools.0.label>chifre</DA_RedhornedLarpah.tools.0.label>
+  <DA_ScarletScent.label>perfume escarlate</DA_ScarletScent.label>
+  <DA_ScarletScent.description>Uma mistura vermelha de medula óssea extraída da galhada de um larpah e várias ervas. É consumida queimando a mistura e inalando os vapores, que aumentam drasticamente as habilidades e a força de quem a usa.\n\nEmbora a poderosa droga não cause dependência, pode levar a um frenesi incontrolável.</DA_ScarletScent.description>
+  <DA_UnfinishedScarlentScent.label>perfume escarlate inacabado</DA_UnfinishedScarlentScent.label>
+  <DA_UnfinishedScarlentScent.description>Perfume escarlate inacabado que ainda está em processo de mistura.</DA_UnfinishedScarlentScent.description>
+  <DA_ImperialRedhound.label>sabujo vermelho imperial</DA_ImperialRedhound.label>
+  <DA_ImperialRedhound.description>Quase do tamanho de um urso, o sabujo vermelho imperial é a maior raça de cão do mundo. Treinados para proteger e servir reis, são vistos como puros e nobres, com uma lealdade eterna, capazes até de dominar os homens mais ferozes com sua força prodigiosa.\n\nOs sabujos vermelhos são bestas astutas, e sua inteligência é conhecida por todas as terras, pois são capazes de seguir até as ordens mais complexas. Como apenas alguns mestres de canil autorizados podem criá-los, é raro vê-los fora de uma corte nobre.</DA_ImperialRedhound.description>
+  <DA_ImperialRedhound.tools.0.label>garra esquerda</DA_ImperialRedhound.tools.0.label>
+  <DA_ImperialRedhound.tools.1.label>garra direita</DA_ImperialRedhound.tools.1.label>
+  <DA_ImperialRedhound.tools.2.label>mandíbula</DA_ImperialRedhound.tools.2.label>
+  <DA_ImperialRedhound.tools.3.label>cabeça</DA_ImperialRedhound.tools.3.label>
+  <DA_Taraal.label>taraal</DA_Taraal.label>
+  <DA_Taraal.description>O taraal, também conhecido como grande coruja terrestre, é uma enorme ave onívora que habita as muitas florestas do mundo. Alimenta-se principalmente de peixes e pode ser visto com frequência perto de rios e lagos em busca de sua presa favorita. Na falta deles, o taraal não hesita em usar sua imensa força, comparável à de um urso, para caçar presas vivas.\n\nQuando o vento esfria e as primeiras neves começam, os taraais deixam suas florestas para buscar abrigo nas montanhas, onde hibernam.</DA_Taraal.description>
+  <DA_SnowTaraal.label>taraal das neves</DA_SnowTaraal.label>
+  <DA_SnowTaraal.description>Um primo do taraal comum adaptado a climas congelados. Eles vagam pelas terras geladas em busca de carcaças de animais mortos pela geada e de lebres-da-neve durante a maior parte do ano.\n\nQuando o vento esfria ainda mais e a neve engrossa, os taraais das neves deixam os gelos do norte para buscar abrigo nas montanhas, onde hibernam.</DA_SnowTaraal.description>
+  <EggTaraalUnfertilized.label>ovo de taraal (não fert.)</EggTaraalUnfertilized.label>
+  <EggTaraalUnfertilized.description>Um ovo de taraal grande e pesado. É muito nutritivo e pode ser comido cru, mas fica muito, muito melhor cozido.</EggTaraalUnfertilized.description>
+  <EggTaraalFertilized.label>ovo de taraal (fert.)</EggTaraalFertilized.label>
+  <EggTaraalFertilized.description>Um ovo fertilizado de taraal. Se tudo correr bem, deve chocar um filhote de taraal. É muito nutritivo e pode ser comido cru, mas fica muito melhor cozido.</EggTaraalFertilized.description>
+  <EggSnowTaraalUnfertilized.label>taraal das neves (não fert.)</EggSnowTaraalUnfertilized.label>
+  <EggSnowTaraalUnfertilized.description>Um ovo de taraal grande e pesado. É muito nutritivo e pode ser comido cru, mas fica muito, muito melhor cozido.</EggSnowTaraalUnfertilized.description>
+  <EggSnowTaraalFertilized.label>ovo de taraal das neves (fert.)</EggSnowTaraalFertilized.label>
+  <EggSnowTaraalFertilized.description>Um ovo fertilizado de taraal. Se tudo correr bem, deve chocar um filhote de taraal. É muito nutritivo e pode ser comido cru, mas fica muito melhor cozido.</EggSnowTaraalFertilized.description>
+  <DA_MealMufftonCheese.label>queijo de muffton</DA_MealMufftonCheese.label>
+  <DA_MealMufftonCheese.description>Uma roda de queijo de sabor acentuado, criada por um processo especial de coalhar propositalmente leite animal. É uma iguaria saborosa por si só, além de um ingrediente versátil em refeições.</DA_MealMufftonCheese.description>
+  <DA_MealGoldfortCheese.label>queijo goldfort</DA_MealGoldfortCheese.label>
+  <DA_MealGoldfortCheese.description>Uma roda de queijo mole de sabor acentuado, criada por um processo especial de coalhar propositalmente leite de goldilox. Com sua casca dourada e núcleo macio que derrete na boca, é um queijo digno de reis, além de um ingrediente versátil em refeições.</DA_MealGoldfortCheese.description>
+  <DA_Proj_MuckbileSpew.label>bile lodosa</DA_Proj_MuckbileSpew.label>
+  <DA_GiantRock.label>rocha gigante</DA_GiantRock.label>
+  <DA_EmperorPearls.label>pérolas imperiais</DA_EmperorPearls.label>
+  <DA_EmperorPearls.description>Grandes excrescências semelhantes a pérolas, formadas de quitina polida, extraídas da garra de um leviatã adulto. Um troféu bastante valioso.</DA_EmperorPearls.description>
+  <DA_LeviathanStripes.label>tira branca de leviatã</DA_LeviathanStripes.label>
+  <DA_LeviathanStripes.description>Tiras cruas de carne de um caranguejo leviatã.\n\nEstilhaçar sua densa carapaça para extrair a carne é um processo longo e tedioso; o resultado é uma carne salgada e de aspecto pálido. Leva muito tempo para apodrecer.</DA_LeviathanStripes.description>
+  <DA_Sangonite.label>sangonita</DA_Sangonite.label>
+  <DA_Sangonite.description>O sangue petrificado de um troll de pedra. A sangonita é um material extremamente duro e denso, que pode ser moldado em armas e armaduras com a quantidade certa de calor.\n\nA carapaça de sangonita de um troll de pedra costuma ser moldada por incontáveis batalhas, enquanto eles lutam por território. Alguns até dizem que as próprias montanhas são trolls colossais que existem desde que a primeira poeira assentou sobre a terra.</DA_Sangonite.description>
+  <DA_LeviathanChitin.label>quitina dura de leviatã</DA_LeviathanChitin.label>
+  <DA_LeviathanChitin.description>A rígida quitina azul de um caranguejo leviatã. Embora seja incrivelmente dura por si só, pode ser amolecida e usada como substituta do couro se fervida por tempo suficiente.</DA_LeviathanChitin.description>
+  <DA_Leather_SilverMole.label>pelagem prateada</DA_Leather_SilverMole.label>
+  <DA_Leather_SilverMole.description>Peles brilhantes de uma toupeira prateada. São delicadas, mas luxuosas.</DA_Leather_SilverMole.description>
+  <DA_Leather_RockTroll.label>pele endurecida</DA_Leather_RockTroll.label>
+  <DA_Leather_RockTroll.description>A pele incrivelmente pesada e resistente de um troll de pedra. É tão dura quanto uma cota de malha e exige um trabalho tremendo para ser moldada.</DA_Leather_RockTroll.description>
+  <DA_Leather_Snaptoad.label>pele verrugosa</DA_Leather_Snaptoad.label>
+  <DA_Leather_Snaptoad.description>A pele verrugosa de um sapo-mordedor gigante. Resistente e bem isolante, mas muito feia.</DA_Leather_Snaptoad.description>
+  <DA_Snaptoad.label>sapo-mordedor gigante</DA_Snaptoad.label>
+  <DA_Snaptoad.description>Um enorme anfíbio carnívoro que reina como predador de topo dos pântanos. A goela repleta de dentes que rendeu ao sapo-mordedor gigante seu nome pode esmagar ossos com facilidade e se deslocar para engolir presas menores inteiras após uma emboscada saltando de entre os juncos. Sua dentição, única entre os anfíbios contemporâneos, leva os estudiosos a especular se o sapo-mordedor gigante é um sapo verdadeiro ou um anfíbio sem parentesco que desenvolveu traços semelhantes por convergência.\n\nOs sapos-mordedores gigantes praticam uma rara forma de criação chamada incubação gástrica: após a fertilização, os ovos são imediatamente engolidos pela fêmea e guardados em uma câmara especial em seu estômago. Lá, os girinos podem eclodir e se desenvolver em segurança, sendo regurgitados pelos pais apenas quando se transformam em filhotes de sapo-mordedor. No entanto, em casos raros, essa prática é omitida, e os girinos são deixados por conta própria nas águas pantanosas.</DA_Snaptoad.description>
+  <DA_Snaptoad.tools.0.label>cabeça</DA_Snaptoad.tools.0.label>
+  <DA_IroncasketBeetle.label>besouro-caixão-de-ferro</DA_IroncasketBeetle.label>
+  <DA_IroncasketBeetle.description>Um grande besouro coberto por uma carapaça semelhante a ferro. Temerosos e reclusos, esses insetoides peculiares cavam em depósitos de minério para dar à luz, onde seus filhotes podem ficar seguros e absorver os minerais necessários para a formação de suas cascas metálicas.\n\nSupervisores de pedreira experientes costumam contratar caçadores para rastrear ninhos de besouros-caixão-de-ferro, pois suas cascas podem ser extraídas como uma fonte de aço sem complicações.</DA_IroncasketBeetle.description>
+  <DA_IroncasketBeetle.tools.0.label>mandíbulas</DA_IroncasketBeetle.tools.0.label>
+  <DA_IroncasketBeetle.tools.1.label>cabeça</DA_IroncasketBeetle.tools.1.label>
+  <DA_MineableSteelBeetle.label>aço compactado</DA_MineableSteelBeetle.label>
+  <DA_MineableSteelBeetle.description>Os restos de alguma antiga estrutura desabada. Rica em aço.</DA_MineableSteelBeetle.description>
+  <DA_MineableIronBeetle.label>minério de ferro</DA_MineableIronBeetle.label>
+  <DA_MineableIronBeetle.description>Rocha contendo pedaços de ferro.</DA_MineableIronBeetle.description>
+  <DA_LeviathanCrab.label>leviatã</DA_LeviathanCrab.label>
+  <DA_LeviathanCrab.description>Um crustáceo gigante que passa a maior parte da vida sob o manto frio do mar. Quando a maré está baixa, os leviatãs podem vagar para o interior para predar os desafortunados usando sua garra maciça.\nAlguns pescadores corajosos fizeram disso um hábito: caçar leviatãs jovens, pois sua carne pode durar muito tempo sem estragar.</DA_LeviathanCrab.description>
+  <DA_LeviathanCrab.tools.0.label>garra direita</DA_LeviathanCrab.tools.0.label>
+  <DA_LeviathanCrab.tools.1.label>garra gigante</DA_LeviathanCrab.tools.1.label>
+  <DA_LeviathanCrab.tools.2.label>cabeça</DA_LeviathanCrab.tools.2.label>
+  <DA_ForestOwlcat.label>gato-coruja da floresta</DA_ForestOwlcat.label>
+  <DA_ForestOwlcat.description>Uma criatura estranha que combina características de felino e de coruja. O ágil predador, conhecido apenas como gato-coruja, é comumente encontrado caçando e fazendo ninhos nas matas. Suas longas e elegantes asas são vestigiais e servem principalmente na estação de acasalamento, para atrair novos parceiros ou assustar predadores parecendo maiores do que são.\n\nAlguns caçadores passaram a apreciar os gatos-coruja por sua habilidade de rastrear e caçar roedores rapidamente.</DA_ForestOwlcat.description>
+  <DA_ArcticOwlcat.label>gato-coruja do ártico</DA_ArcticOwlcat.label>
+  <DA_ArcticOwlcat.description>Uma criatura estranha que combina características de felino e de coruja. O ágil predador, conhecido apenas como gato-coruja, é comumente encontrado caçando e fazendo ninhos nas matas. Suas longas e elegantes asas são vestigiais e servem principalmente na estação de acasalamento, para atrair novos parceiros ou assustar predadores parecendo maiores do que são.\n\nAdaptado aos climas congelados, o gato-coruja do ártico pode ser visto vagando pelas paisagens brancas em busca de presas, buscando abrigo apenas nas florestas próximas quando o inverno chega.</DA_ArcticOwlcat.description>
+  <EggOwlcatUnfertilized.label>ovo de gato-coruja da floresta (não fert.)</EggOwlcatUnfertilized.label>
+  <EggOwlcatUnfertilized.description>O ovo espinhoso de um gato-coruja, que imita as características de uma pinha. Pode ser comido cru, mas fica muito melhor cozido.</EggOwlcatUnfertilized.description>
+  <EggOwlcatFertilized.label>ovo de gato-coruja da floresta (fert.)</EggOwlcatFertilized.label>
+  <EggOwlcatFertilized.description>Um ovo fertilizado de gato-coruja. Se tudo correr bem, deve chocar um filhote de gato-coruja. É muito nutritivo e pode ser comido cru, mas fica muito melhor cozido.</EggOwlcatFertilized.description>
+  <EggArcticOwlcatUnfertilized.label>ovo de gato-coruja do ártico (não fert.)</EggArcticOwlcatUnfertilized.label>
+  <EggArcticOwlcatUnfertilized.description>O ovo espinhoso de um gato-coruja, que imita as características de uma pinha. Pode ser comido cru, mas fica muito melhor cozido.</EggArcticOwlcatUnfertilized.description>
+  <EggArcticOwlcatFertilized.label>ovo de gato-coruja do ártico (fert.)</EggArcticOwlcatFertilized.label>
+  <EggArcticOwlcatFertilized.description>Um ovo fertilizado de gato-coruja. Se tudo correr bem, deve chocar um filhote de gato-coruja. É muito nutritivo e pode ser comido cru, mas fica muito melhor cozido.</EggArcticOwlcatFertilized.description>
+  <DA_RockTroll.label>troll de pedra</DA_RockTroll.label>
+  <DA_RockTroll.description>O troll de pedra é uma criatura colossal e sem olhos, frequentemente encontrada vivendo em cavernas e abismos subterrâneos. Muito mais recluso que seus primos do norte, o troll de pedra só emerge de seu covil subterrâneo quando provocado.\n\nSem habilidades regenerativas, o troll de pedra compensa isso com um processo estranho conhecido como autopetrificação. Qualquer ferida aberta é quase imediatamente fechada por uma coagulação ultrarrápida do sangue, que ossifica logo depois, criando formações densas semelhantes a pedra que fornecem à fera uma armadura ablativa temporária.</DA_RockTroll.description>
+  <DA_RockTroll.tools.0.label>cabeça</DA_RockTroll.tools.0.label>
+  <DA_RockTroll.tools.1.label>garra esquerda</DA_RockTroll.tools.1.label>
+  <DA_RockTroll.tools.2.label>garra direita</DA_RockTroll.tools.2.label>
+  <DA_HibernatingRockTroll.label>formação rochosa estranha</DA_HibernatingRockTroll.label>
+  <DA_HibernatingRockTroll.description>Uma grande formação rochosa irregular.</DA_HibernatingRockTroll.description>
+  <DA_SilverMole.label>toupeira prateada</DA_SilverMole.label>
+  <DA_SilverMole.description>Um pequeno mamífero escavador com pelagem prateada e reluzente. Esquiva e arisca, a toupeira prateada raramente é vista fora da segurança de seu covil subterrâneo nas profundezas das montanhas.\n\nMuitos lenhadores costumam patrulhar os habitats da toupeira prateada, na esperança de capturar o bichinho enquanto ele cava em busca de seu alimento favorito — as trufas brancas, cogumelos raros de sabor sublime que crescem sob solo pedregoso.</DA_SilverMole.description>
+  <DA_SilverMole.tools.0.label>garra esquerda</DA_SilverMole.tools.0.label>
+  <DA_SilverMole.tools.1.label>garra direita</DA_SilverMole.tools.1.label>
+  <DA_SilverMole.tools.3.label>cabeça</DA_SilverMole.tools.3.label>
+  <DA_WhiteTruffle.label>trufa branca</DA_WhiteTruffle.label>
+  <DA_WhiteTruffle.description>Crescendo frequentemente sob solo pedregoso, as trufas brancas são uma iguaria rara e muito procurada por seu sabor único.</DA_WhiteTruffle.description>
+  <DA_Fish_SnappingTadpole.label>girino mordedor</DA_Fish_SnappingTadpole.label>
+  <DA_Fish_SnappingTadpole.description>A fase larval do sapo-mordedor gigante. Sua carne esponjosa tem gosto de lama e pouco mais, mas ainda assim é considerada uma iguaria em algumas culturas.</DA_Fish_SnappingTadpole.description>
+  <DA_RawTadpole.label>girino mordedor</DA_RawTadpole.label>
+  <DA_RawTadpole.description>A fase larval do sapo-mordedor gigante. Sua carne esponjosa tem gosto de lama e pouco mais, mas ainda assim é considerada uma iguaria em algumas culturas.</DA_RawTadpole.description>
+</LanguageData>

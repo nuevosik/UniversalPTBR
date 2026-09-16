@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_Construct_Tunneler.label>gestar escavador</VR_Construct_Tunneler.label>
+  <VR_Construct_Tunneler.description>Gestar um constructo escavador.</VR_Construct_Tunneler.description>
+  <VR_Construct_Centurion_Melee_Sword.label>gestar sentinela (espada)</VR_Construct_Centurion_Melee_Sword.label>
+  <VR_Construct_Centurion_Melee_Hammer.label>gestar sentinela (martelo)</VR_Construct_Centurion_Melee_Hammer.label>
+  <VR_Construct_Centurion_Melee_StakeDriver.label>gestar sentinela (cravador de estacas)</VR_Construct_Centurion_Melee_StakeDriver.label>
+  <VR_Construct_Centurion_Burner.label>gestar sentinela (queimador)</VR_Construct_Centurion_Burner.label>
+  <VR_Construct_Centurion_Burner.description>Gestar um constructo sentinela (queimador).</VR_Construct_Centurion_Burner.description>
+  <VR_Construct_Centurion_Shooter.label>gestar sentinela (à distância)</VR_Construct_Centurion_Shooter.label>
+  <VR_Construct_Centurion_Shooter.description>Gestar um constructo sentinela (à distância).</VR_Construct_Centurion_Shooter.description>
+  <VR_MakeConstruct_Militor.label>gestar vanguarda (atiradora)</VR_MakeConstruct_Militor.label>
+  <VR_MakeConstruct_Militor.description>Gestar um constructo de vanguarda.</VR_MakeConstruct_Militor.description>
+  <VR_MakeConstruct_Militor_Melee.label>gestar vanguarda (corpo a corpo)</VR_MakeConstruct_Militor_Melee.label>
+  <VR_MakeConstruct_Militor_Melee.description>Gestar um constructo de vanguarda.</VR_MakeConstruct_Militor_Melee.description>
+  <VR_MakeConstruct_Lifter.label>gestar aranha de transporte</VR_MakeConstruct_Lifter.label>
+  <VR_MakeConstruct_Lifter.description>Gestar um constructo aranha de transporte.</VR_MakeConstruct_Lifter.description>
+  <VR_MakeConstruct_Constructoid.label>gestar aranha de construção</VR_MakeConstruct_Constructoid.label>
+  <VR_MakeConstruct_Constructoid.description>Gestar um constructo aranha de construção.</VR_MakeConstruct_Constructoid.description>
+  <VR_MakeConstruct_Agrihand.label>gestar aranha agricultora</VR_MakeConstruct_Agrihand.label>
+  <VR_MakeConstruct_Agrihand.description>Gestar um constructo aranha agricultora.</VR_MakeConstruct_Agrihand.description>
+  <VR_MakeConstruct_Assembler.label>gestar montador</VR_MakeConstruct_Assembler.label>
+  <VR_MakeConstruct_Assembler.description>Gestar um constructo montador.</VR_MakeConstruct_Assembler.description>
+  <VR_MakeConstruct_Mender.label>gestar reparador</VR_MakeConstruct_Mender.label>
+  <VR_MakeConstruct_Mender.description>Gestar um constructo reparador.</VR_MakeConstruct_Mender.description>
+  <VR_Construct_Sphere_Melee_Sword.label>gestar esfera (espada)</VR_Construct_Sphere_Melee_Sword.label>
+  <VR_Construct_Sphere_Melee_Hammer.label>gestar esfera (martelo)</VR_Construct_Sphere_Melee_Hammer.label>
+  <VR_Construct_Sphere_Melee_Lance.label>gestar esfera (lança)</VR_Construct_Sphere_Melee_Lance.label>
+  <VR_Construct_Sphere_Range.label>gestar esfera (à distância)</VR_Construct_Sphere_Range.label>
+  <VR_Construct_Sphere_Range.description>Gestar um constructo esfera à distância.</VR_Construct_Sphere_Range.description>
+  <VR_Construct_Ballistae.label>gestar balista</VR_Construct_Ballistae.label>
+  <VR_Construct_Ballistae.description>Gestar um constructo balista.</VR_Construct_Ballistae.description>
+  <VR_Construct_Scorcher.label>gestar esfera (calcinador)</VR_Construct_Scorcher.label>
+  <VR_Construct_Scorcher.description>Gestar um constructo esfera (calcinador).</VR_Construct_Scorcher.description>
+  <VR_Construct_Tesseron.label>gestar esfera (tesla)</VR_Construct_Tesseron.label>
+  <VR_Construct_Tesseron.description>Gestar um constructo esfera (tesla).</VR_Construct_Tesseron.description>
+  <VR_Construct_Colossus.label>gestar colosso (à distância)</VR_Construct_Colossus.label>
+  <VR_Construct_Colossus.description>Gestar um constructo colosso.</VR_Construct_Colossus.description>
+  <VR_Construct_Colossus_Melee.label>gestar colosso (corpo a corpo)</VR_Construct_Colossus_Melee.label>
+  <VR_Construct_Colossus_Melee.description>Gestar um constructo colosso.</VR_Construct_Colossus_Melee.description>
+  <VR_Construct_ScarabQueen.label>gestar rainha escaravelho</VR_Construct_ScarabQueen.label>
+  <VR_Construct_ScarabQueen.description>Gestar um constructo rainha escaravelho.</VR_Construct_ScarabQueen.description>
+  <VR_ResurrectLightConstruct.label>ressuscitar constructo leve</VR_ResurrectLightConstruct.label>
+  <VR_ResurrectLightConstruct.description>Ressuscite um constructo amigável da classe de peso leve. Enquanto o corpo do constructo não for completamente destruído, ele pode ser ressuscitado.</VR_ResurrectLightConstruct.description>
+  <VR_ResurrectMediumConstruct.label>ressuscitar constructo médio</VR_ResurrectMediumConstruct.label>
+  <VR_ResurrectMediumConstruct.description>Ressuscite um constructo amigável da classe de peso médio. Enquanto o corpo do constructo não for completamente destruído, ele pode ser ressuscitado.</VR_ResurrectMediumConstruct.description>
+  <VR_ResurrectHeavyConstruct.label>ressuscitar constructo pesado</VR_ResurrectHeavyConstruct.label>
+  <VR_ResurrectHeavyConstruct.description>Ressuscite um constructo amigável da classe de peso pesado. Enquanto o corpo do constructo não for completamente destruído, ele pode ser ressuscitado.</VR_ResurrectHeavyConstruct.description>
+  <VR_ResurrectUltraheavyConstruct.label>ressuscitar constructo ultrapesado</VR_ResurrectUltraheavyConstruct.label>
+  <VR_ResurrectUltraheavyConstruct.description>Ressuscite um constructo amigável da classe de peso ultrapesado. Enquanto o corpo do constructo não for completamente destruído, ele pode ser ressuscitado.</VR_ResurrectUltraheavyConstruct.description>
+</LanguageData>

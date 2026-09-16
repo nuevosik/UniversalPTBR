@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_SteamPower.label>energia a vapor</VR_SteamPower.label>
+  <VR_SteamPower.description>Permite a coleta, produção e armazenamento de vapor. Esse vapor pode então ser usado para energizar outras construções.</VR_SteamPower.description>
+  <VR_CommsConsole.label>console de comunicação</VR_CommsConsole.label>
+  <VR_CommsConsole.description>Permite a comunicação a longas distâncias.</VR_CommsConsole.description>
+  <VR_TradeDisplacement.label>deslocamento comercial</VR_TradeDisplacement.label>
+  <VR_TradeDisplacement.description>Permite o comércio de mercadorias através do deslocamento harmônico.</VR_TradeDisplacement.description>
+  <VR_BasicConstructTech.label>tecnologia de constructos básica</VR_BasicConstructTech.label>
+  <VR_BasicConstructTech.description>A tecnologia necessária para seu artífice criar e controlar constructos de baixo nível.</VR_BasicConstructTech.description>
+  <VR_StandardConstructTech.label>tecnologia de constructos padrão</VR_StandardConstructTech.label>
+  <VR_StandardConstructTech.description>A tecnologia necessária para seu artífice criar e controlar constructos de nível padrão.\n\nVocê pode obter chips de sinal ao usar um artífice para convocar a ameaça de um colosso.</VR_StandardConstructTech.description>
+  <VR_HighConstructTech.label>tecnologia de constructos elevada</VR_HighConstructTech.label>
+  <VR_HighConstructTech.description>A tecnologia necessária para seu artífice criar e controlar constructos de alto nível.\n\nVocê pode obter chips de foco energético ao usar um artífice para convocar a ameaça de uma rainha escaravelho.</VR_HighConstructTech.description>
+  <VR_UltraConstructTech.label>ultra tecnologia de constructos</VR_UltraConstructTech.label>
+  <VR_UltraConstructTech.description>A tecnologia avançada necessária para seu artífice criar e controlar constructos de nível ultra, incluindo grandes constructos e equipamentos de artífice de nível ultra.\n\nVocê pode obter chips de nanoestruturação ao usar um artífice para convocar a ameaça de um supervisor.</VR_UltraConstructTech.description>
+  <VR_BasicGenetics.label>Quimerimancia</VR_BasicGenetics.label>
+  <VR_BasicGenetics.description>Crie xenogermes que podem ser implantados em uma pessoa para modificá-la geneticamente. Extraia pacotes de genes de pessoas vivas usando um extrator de genes para que possa reimplantar seus genes em outra pessoa.</VR_BasicGenetics.description>
+  <VR_AdvancedGenetics.label>Quimerimancia avançada</VR_AdvancedGenetics.label>
+  <VR_AdvancedGenetics.description>Construa fornalhas mutagênicas, que permitem a uma forja de enxertos criar xenogermes de maior complexidade genética.</VR_AdvancedGenetics.description>
+  <VR_ArchiteGenetics.label>Quimerimancia de arquita</VR_ArchiteGenetics.label>
+  <VR_ArchiteGenetics.description>Permite que uma forja de enxertos use até duas cápsulas de arquita para criar genes aparentemente impossíveis. Genes de arquita e cápsulas de arquita podem ser obtidos com comerciantes.</VR_ArchiteGenetics.description>
+  <VR_MasterArchiteGenetics.label>Quimerimancia mestra</VR_MasterArchiteGenetics.label>
+  <VR_MasterArchiteGenetics.description>Permite que uma forja de enxertos use uma quantidade ilimitada de cápsulas de arquita para criar genes aparentemente impossíveis. Genes de arquita e cápsulas de arquita podem ser obtidos com comerciantes.</VR_MasterArchiteGenetics.description>
+</LanguageData>

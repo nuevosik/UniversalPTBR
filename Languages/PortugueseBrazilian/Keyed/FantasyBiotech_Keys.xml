@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FantasyBiotech_TraderArrival>Recebendo mensagens harmônicas para comércio.\n\nO remetente é conhecido como {0}. É {1}.\n\n{2}</FantasyBiotech_TraderArrival>
+  <FantasyBiotech_TraderArrivalFromFaction>O remetente parece estar afiliado a {FACTION_name}.</FantasyBiotech_TraderArrivalFromFaction>
+  <FantasyBiotech_TraderArrivalNoFaction>O remetente não é afiliado a nenhuma facção.</FantasyBiotech_TraderArrivalNoFaction>
+  <FantasyBiotech.ModNameShort>Fantasy Biotech</FantasyBiotech.ModNameShort>
+  <FantasyBiotech_Settings_Options>Configurações</FantasyBiotech_Settings_Options>
+  <FantasyBiotech_Settings_HeaderConstructs>Constructos</FantasyBiotech_Settings_HeaderConstructs>
+  <FantasyBiotech_Settings_HeaderGenetics>Genética</FantasyBiotech_Settings_HeaderGenetics>
+  <FantasyBiotech_Settings_HeaderVampires>Vampiros</FantasyBiotech_Settings_HeaderVampires>
+  <FantasyBiotech_Settings_HeaderMisc>Diversos</FantasyBiotech_Settings_HeaderMisc>
+  <FantasyBiotech_Settings_Mech_Replace_Title>Substituir mecanoides</FantasyBiotech_Settings_Mech_Replace_Title>
+  <FantasyBiotech_Settings_Mech_Replace_Desc>Substitui os mecanoides do jogo base por constructos de artífice em vários eventos. Recomenda-se manter ativado para ter a experiência completa do mod.</FantasyBiotech_Settings_Mech_Replace_Desc>
+  <FantasyBiotech_Settings_MedievalGrowthVat_Replace_Title>Tanque de crescimento medieval</FantasyBiotech_Settings_MedievalGrowthVat_Replace_Title>
+  <FantasyBiotech_Settings_MedievalGrowthVat_Replace_Desc>Modifica o tanque de crescimento e os procedimentos de fertilidade para a era medieval.</FantasyBiotech_Settings_MedievalGrowthVat_Replace_Desc>
+  <FantasyBiotech_Settings_MedievalGoJuice_Replace_Title>Suco-turbo medieval</FantasyBiotech_Settings_MedievalGoJuice_Replace_Title>
+  <FantasyBiotech_Settings_MedievalGoJuice_Replace_Desc>Modifica o suco-turbo para ser medieval e ser fabricado no fogão abastecido. Irá sobrescrever as configurações padrão do WTL para tornar os hussardos medievais.</FantasyBiotech_Settings_MedievalGoJuice_Replace_Desc>
+  <FantasyBiotech_Settings_BasicDeathrestCasket_Replace_Title>Caixão de descanso mortal básico</FantasyBiotech_Settings_BasicDeathrestCasket_Replace_Title>
+  <FantasyBiotech_Settings_BasicDeathrestCasket_Replace_Desc>Habilita um caixão básico para descanso mortal</FantasyBiotech_Settings_BasicDeathrestCasket_Replace_Desc>
+  <FantasyBiotech_Settings_RenameSanguophage_Replace_Title>Renomear sanguófago</FantasyBiotech_Settings_RenameSanguophage_Replace_Title>
+  <FantasyBiotech_Settings_RenameSanguophage_Replace_Desc>Renomeia tudo relacionado a sanguófagos para ser mais próximo de vampiros de fantasia</FantasyBiotech_Settings_RenameSanguophage_Replace_Desc>
+  <FantasyBiotech_Settings_MedievalVampireScenario_Replace_Title>Tornar o cenário de sanguófago medieval</FantasyBiotech_Settings_MedievalVampireScenario_Replace_Title>
+  <FantasyBiotech_Settings_MedievalVampireScenario_Replace_Desc>Torna o cenário de sanguófago do jogo base medieval</FantasyBiotech_Settings_MedievalVampireScenario_Replace_Desc>
+  <FantasyBiotech_Settings_MedievalSanguophageFaction_Replace_Title>Tornar a facção de sanguófagos medieval</FantasyBiotech_Settings_MedievalSanguophageFaction_Replace_Title>
+  <FantasyBiotech_Settings_MedievalSanguophageFaction_Replace_Desc>Torna a facção de sanguófagos medieval</FantasyBiotech_Settings_MedievalSanguophageFaction_Replace_Desc>
+  <FantasyBiotech_Settings_TradeShip_Replace_Title>Reescrever o incidente da nave de comércio</FantasyBiotech_Settings_TradeShip_Replace_Title>
+  <FantasyBiotech_Settings_TradeShip_Replace_Desc>Deixa o incidente da nave de comércio mais fantasioso e alinhado com a nova baliza de comércio</FantasyBiotech_Settings_TradeShip_Replace_Desc>
+  <FantasyBiotech_Settings_MedievalHemogenTexture_Replace_Title>Retexturizar pacotes de hemogênio</FantasyBiotech_Settings_MedievalHemogenTexture_Replace_Title>
+  <FantasyBiotech_Settings_MedievalHemogenTexture_Replace_Desc>Muda os pacotes de hemogênio para terem textura de frasco</FantasyBiotech_Settings_MedievalHemogenTexture_Replace_Desc>
+  <FantasyBiotech_ResetDefault>Redefinir para o padrão</FantasyBiotech_ResetDefault>
+  <FantasyBiotech_MessagePawnKilledRipscanner>O corpo de {PAWN_nameDef} se dissolveu quando sua essência foi transferida pelo {BUILDING}</FantasyBiotech_MessagePawnKilledRipscanner>
+  <FantasyBiotech_MessageSubcoreSoftscannerCompleted>Amostragem harmônica concluída para {PAWN_nameDef}.</FantasyBiotech_MessageSubcoreSoftscannerCompleted>
+  <FantasyBiotech_MessageArtificerCasketOpened>{0} era um artífice. Você pode remover {0_possessive} {1_label} e usá-lo em um colono.</FantasyBiotech_MessageArtificerCasketOpened>
+  <FantasyBiotech_LetterLabelArtificerCasketOpened>Implante de {PAWN_nameDef} disponível</FantasyBiotech_LetterLabelArtificerCasketOpened>
+  <FantasyBiotech_LetterArtificerCasketOpened>Você encontrou o cadáver de um artífice ancestral!\n\nExtraia {PAWN_possessive} implante selecionando um colono e clicando com o botão direito no cadáver.</FantasyBiotech_LetterArtificerCasketOpened>
+  <FantasyBiotech_LetterLabelArtificerCasketFound>Caixão de artífice encontrado</FantasyBiotech_LetterLabelArtificerCasketFound>
+  <FantasyBiotech_LetterArtificerCasketFound>Você descobriu o sarcófago de um artífice!\n\nAbra-o para encontrá-lo lá dentro.</FantasyBiotech_LetterArtificerCasketFound>
+  <FantasyBiotech_MessageShipHasLeftCommsRange>{0} parou de transmitir.</FantasyBiotech_MessageShipHasLeftCommsRange>
+  <FantasyBiotech_LetterLabelConstructsFeral>Constructo(s) enlouquecido(s)</FantasyBiotech_LetterLabelConstructsFeral>
+  <FantasyBiotech_LetterConstructsFeral>Alguns constructos que estavam vagando sem um supervisor se conectaram a antigos sinais de controle mecanoide de todo o planeta. Eles se juntaram a {0} e se tornaram hostis, e parecem estar tentando abrir caminho para fora do mapa.\n\nConstructos selvagens não podem ser ressuscitados em um gestador quando mortos.\n\nEstes constructos estão envolvidos:\n\n{1}</FantasyBiotech_LetterConstructsFeral>
+  <LetterLabelConstructlinkInstalled>Implante de artífice instalado</LetterLabelConstructlinkInstalled>
+  <LetterConstructlinkInstalled>{PAWN_labelShort} instalou um implante de artífice! {PAWN_pronoun} agora é artífice e pode criar e controlar constructos.\n\nPesquise tecnologia de constructos básica para começar.\n\n(*SectionTitle)Criando constructos:(/SectionTitle) Seu artífice pode criar constructos em um edifício de produção chamado de gestador.\n\n(*SectionTitle)Sobre a banda-larga:(/SectionTitle) Artífices podem controlar tantos constructos quanto sua banda-larga total permitir. Selecione {PAWN_labelShort} e observe {PAWN_possessive} leitura de 'Banda-larga' para ver quanto {PAWN_pronoun} está usando no momento e quanto {PAWN_pronoun} tem disponível. A banda-larga pode ser aumentada com certas roupas e construindo edifícios de nós de banda.\n\n(*SectionTitle)Sobre grupos de controle:(/SectionTitle) Artífices controlam constructos em grupos. Cada grupo de controle pode ser configurado para um destes modos:\n\n- Trabalho\n- Escolta\n- Recarga\n- Auto-carregamento inativo\n\nPara saber mais sobre o que cada modo faz, selecione o ícone do modo de trabalho em um dos grupos de controle de {PAWN_labelShort} e passe o mouse sobre as diferentes tarefas. O número máximo de grupos de controle pode ser aumentado com vestimentas e implantes.\n\n(*SectionTitle)Sobre a chamada de ameaças:(/SectionTitle) Artífices podem sinalizar para que antigos constructos líderes ataquem com intuito de obter os itens raros deles. Você deve fazer isso para melhorar seu artífice além de certos limites, mas cuidado com o perigo.</LetterConstructlinkInstalled>
+  <Fantasy_AlertGenebankUnfueled>O banco de genes precisa de combustível</Fantasy_AlertGenebankUnfueled>
+  <Fantasy_AlertGenebankUnfueledDesc>Um banco de genes está sem combustível, então os pacotes de genes dentro dele estão se deteriorando lentamente. Reabasteça o banco de genes para evitar que os pacotes de genes se deteriorem.\n\nAssim que o banco de genes estiver abastecido, ele reverterá lentamente a deterioração dos pacotes de genes dentro dele.</Fantasy_AlertGenebankUnfueledDesc>
+  <FantasyBiotech_SteamNetExcess>Excesso: {0} SPU ({1} SPUd armazenado)</FantasyBiotech_SteamNetExcess>
+  <FantasyBiotech_PipeSystem_NotConnected>Vapor insuficiente na rede.</FantasyBiotech_PipeSystem_NotConnected>
+  <FantasyBiotech_SteamCharger_CurrentlyCharging>Carregando {0} no momento</FantasyBiotech_SteamCharger_CurrentlyCharging>
+  <FantasyBiotech_Valve>Liga/desliga o fluxo de vapor.</FantasyBiotech_Valve>
+  <FantasyBiotech_ValveDesc>Liga/desliga o fluxo de vapor. Um colono virá abrir/fechar a válvula.</FantasyBiotech_ValveDesc>
+</LanguageData>
