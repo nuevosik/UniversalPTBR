@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_BandNode.label>nó de banda (N.A.C.S.)</DMS_BandNode.label>
+  <DMS_BandNode.description>Seguindo o protocolo N.A.C.S., a matriz de computação assistida aumentou a banda-larga deste\n      mecanizador.</DMS_BandNode.description>
+  <DMS_InfrasoundWave.label>barragem de infrassom</DMS_InfrasoundWave.label>
+  <DMS_InfrasoundWave.description>Esta unidade está criando ondas de infrassom que interferem nos sistemas sensoriais de todas as criaturas dentro do alcance.</DMS_InfrasoundWave.description>
+  <DMS_InfrasoundWaveBuff.label>infrassom</DMS_InfrasoundWaveBuff.label>
+  <DMS_InfrasoundWaveBuff.description>Ondas sonoras de baixa frequência que deixam corpos vivos desconfortáveis e podem causar vômito e confusão.</DMS_InfrasoundWaveBuff.description>
+  <DMS_SharpShooting.label>modo de tiro de precisão</DMS_SharpShooting.label>
+  <DMS_SharpShooting.description>Esta unidade está realizando cálculos balísticos complexos e não pode se mover. Quando seus cálculos estiverem concluídos, ela dará um tiro de precisão com exatidão letal.</DMS_SharpShooting.description>
+  <DMS_RangeFinder.label>calibração de reconhecimento</DMS_RangeFinder.label>
+  <DMS_RangeFinder.description>Uma grande quantidade de dados de controle de tiro está sendo compartilhada com as forças amigas ao redor por meio desta unidade, o que diminui temporariamente sua capacidade de responder a comandos.</DMS_RangeFinder.description>
+  <DMS_RangeFinderBuff.label>calibração recebida</DMS_RangeFinderBuff.label>
+  <DMS_RangeFinderBuff.description>O míssil sabe onde está em todos os momentos. Ele sabe disso porque sabe onde não está. Ao subtrair onde está de onde não está, ou onde não está de onde está...</DMS_RangeFinderBuff.description>
+  <DMS_MechlinkKillSwitch.label>interruptor de desligamento</DMS_MechlinkKillSwitch.label>
+  <DMS_MechlinkKillSwitch.description>Este dispositivo destruirá a meca-conexão sobrecarregando a interface neural após a morte do usuário.</DMS_MechlinkKillSwitch.description>
+  <DMS_MechlinkFatalTrigger.label>gatilho fatal</DMS_MechlinkFatalTrigger.label>
+  <DMS_MechlinkFatalTrigger.description>Devido à instabilidade deste dispositivo, este protocolo de segurança foi criado para ejetar e destruir automaticamente a meca-conexão desativada antes que ela possa causar danos catastróficos ao cérebro do usuário.</DMS_MechlinkFatalTrigger.description>
+  <DMS_MechlinkRejection.label>rejeição de meca-conexão</DMS_MechlinkRejection.label>
+  <DMS_MechlinkRejection.description>Devido à tecnologia limitada e à falta de nanomáquinas médicas, há alguns efeitos colaterais após a instalação desta meca-conexão. Levará algum tempo até que o sistema nervoso do implantado se ajuste à sua presença.</DMS_MechlinkRejection.description>
+  <DMS_MechlinkRejection.stages.0.label>febre</DMS_MechlinkRejection.stages.0.label>
+  <DMS_MechlinkOverload.label>N.A.C.S.</DMS_MechlinkOverload.label>
+  <DMS_MechlinkOverload.description>Sistema de Computação e Controle Neural Auxiliar — o protocolo exclusivo deste sistema permite ao usuário se conectar à tecnologia existente de mecanoides e autômatos.</DMS_MechlinkOverload.description>
+  <DMS_MechlinkOverload.stages.0.label>baixa</DMS_MechlinkOverload.stages.0.label>
+  <DMS_MechlinkOverload.stages.1.label>média</DMS_MechlinkOverload.stages.1.label>
+  <DMS_MechlinkOverload.stages.2.label>alta</DMS_MechlinkOverload.stages.2.label>
+  <DMS_MechlinkOverload.stages.3.label>muito alta</DMS_MechlinkOverload.stages.3.label>
+  <DMS_MechlinkOverload.stages.4.label>sobrecarregada</DMS_MechlinkOverload.stages.4.label>
+  <DMS_MechlinkOverload.stages.5.label>perigo</DMS_MechlinkOverload.stages.5.label>
+  <DMS_SyntheticRejection.label>rejeição sintética</DMS_SyntheticRejection.label>
+  <DMS_SyntheticRejection.description>Devido a modificações no sistema circulatório, os aprimoramentos biônicos sintéticos podem ser temporariamente rejeitados pelo corpo. O efeito não dura muito, e a capacidade do corpo de combater infecções fica reduzida durante sua duração.</DMS_SyntheticRejection.description>
+  <DMS_SyntheticRejection.stages.0.label>febre</DMS_SyntheticRejection.stages.0.label>
+  <DMS_BionicShockRemove.label>síndrome do membro fantasma</DMS_BionicShockRemove.label>
+  <DMS_BionicShockRemove.description>Uma síndrome comum em mundos pré-espaciais quando biônicos com interface neural são removidos.</DMS_BionicShockRemove.description>
+  <DMS_BionicShockRemove.stages.0.label>inicial</DMS_BionicShockRemove.stages.0.label>
+  <DMS_BionicShockRemove.stages.1.label>dor</DMS_BionicShockRemove.stages.1.label>
+  <DMS_BionicShock.label>síndrome do membro xeno</DMS_BionicShock.label>
+  <DMS_BionicShock.description>Uma síndrome comum em mundos pré-espaciais quando um ou mais biônicos com interface neural são instalados. Devido à falta de receptores biológicos, o corpo rejeitará temporariamente a conexão biônica ao sistema nervoso.\n\nHá cinco classificações de gravidade para esses sintomas.</DMS_BionicShock.description>
+  <DMS_BionicShock.stages.0.label>inicial</DMS_BionicShock.stages.0.label>
+  <DMS_BionicShock.stages.1.label>Nv.1 inicial</DMS_BionicShock.stages.1.label>
+  <DMS_BionicShock.stages.2.label>Nv.2 leve</DMS_BionicShock.stages.2.label>
+  <DMS_BionicShock.stages.3.label>Nv.3 grave</DMS_BionicShock.stages.3.label>
+  <DMS_BionicShock.stages.4.label>Nv.4 catatônico</DMS_BionicShock.stages.4.label>
+  <DMS_BionicShock.stages.5.label>Nv.5 incapacitado</DMS_BionicShock.stages.5.label>
+  <DMS_FilterShock.label>desalinhamento emocional</DMS_FilterShock.label>
+  <DMS_FilterShock.description>Uma síndrome causada por uma dissonância cognitiva criada pelo conflito entre a mente do usuário e os biônicos instalados. Este conflito interno causa trauma emocional enquanto o usuário luta para se ajustar à sua nova condição.</DMS_FilterShock.description>
+  <DMS_FilterShock.stages.0.label>catatônico</DMS_FilterShock.stages.0.label>
+  <DMS_ProstheticEye.label>sensor visual</DMS_ProstheticEye.label>
+  <DMS_ProstheticEye.labelNoun>um sensor biônico</DMS_ProstheticEye.labelNoun>
+  <DMS_ProstheticEye.description>Um sensor visual instalado que serve como substituto para o olho.</DMS_ProstheticEye.description>
+  <DMS_ProstheticArm.label>braço neuromecânico</DMS_ProstheticArm.label>
+  <DMS_ProstheticArm.labelNoun>um braço neuromecânico</DMS_ProstheticArm.labelNoun>
+  <DMS_ProstheticArm.description>Um braço neuromecânico instalado.</DMS_ProstheticArm.description>
+  <DMS_ProstheticArm.comps.0.tools.0.label>punho</DMS_ProstheticArm.comps.0.tools.0.label>
+  <DMS_ProstheticLeg.label>perna neuromecânica</DMS_ProstheticLeg.label>
+  <DMS_ProstheticLeg.labelNoun>uma perna neuromecânica</DMS_ProstheticLeg.labelNoun>
+  <DMS_ProstheticLeg.description>Uma perna neuromecânica instalada.</DMS_ProstheticLeg.description>
+  <DMS_ProstheticSpine.label>neurocorda neuromecânica</DMS_ProstheticSpine.label>
+  <DMS_ProstheticSpine.labelNoun>Uma coluna vertebral neuromecânica avançada que funciona como um subcérebro. \n\n Ela assume os nervos reflexos do usuário e, assim, reduz a carga sobre o cérebro do operador ao custo de efeitos colaterais menores.</DMS_ProstheticSpine.labelNoun>
+  <DMS_ProstheticSpine.description>Uma coluna vertebral biônica instalada.</DMS_ProstheticSpine.description>
+  <DMS_SensoryFilter.label>neutralizador de emoções</DMS_SensoryFilter.label>
+  <DMS_SensoryFilter.labelNoun>um neutralizador de emoções</DMS_SensoryFilter.labelNoun>
+  <DMS_SensoryFilter.description>Um implante regulador que sequestra as vias neurais das emoções, cortando suas conexões. O processo remove a maior parte do que significa ser humano.</DMS_SensoryFilter.description>
+  <DMS_NutrientPort.label>porta de nutrição</DMS_NutrientPort.label>
+  <DMS_NutrientPort.labelNoun>uma porta de nutrição</DMS_NutrientPort.labelNoun>
+  <DMS_NutrientPort.description>Uma reformulação total do sistema digestivo do paciente, substituindo-o por uma porta de abastecimento e armazenamento de nutrientes.</DMS_NutrientPort.description>
+  <DMS_SyntheticArm.label>braço biossintético</DMS_SyntheticArm.label>
+  <DMS_SyntheticArm.labelNoun>um braço biossintético</DMS_SyntheticArm.labelNoun>
+  <DMS_SyntheticArm.description>Um braço biossintético instalado.</DMS_SyntheticArm.description>
+  <DMS_SyntheticArm.comps.0.tools.0.label>punho</DMS_SyntheticArm.comps.0.tools.0.label>
+  <DMS_SyntheticLeg.label>perna biossintética</DMS_SyntheticLeg.label>
+  <DMS_SyntheticLeg.labelNoun>uma perna biossintética</DMS_SyntheticLeg.labelNoun>
+  <DMS_SyntheticLeg.description>Uma perna biossintética instalada.</DMS_SyntheticLeg.description>
+  <NeuroglueHigh.label>gel de receptores</NeuroglueHigh.label>
+  <NeuroglueHigh.description>Gel de receptores que conecta nervos biológicos e mecânicos, capaz de curar a síndrome biônica com apenas efeitos colaterais menores.</NeuroglueHigh.description>
+  <DMS_SelfRepair.label>manutenção do sistema</DMS_SelfRepair.label>
+  <DMS_SelfRepair.description>Este mecanoide entrou em modo de automanutenção e está se reparando usando metal de memória eletroativo. Todos os sensores ficam temporariamente desativados durante este processo, que durará pelo menos um dia.</DMS_SelfRepair.description>
+  <DMS_RangeRepair.label>campo de reparo</DMS_RangeRepair.label>
+  <DMS_RangeRepair.description>Um campo de aglomerado de nanomáquinas.</DMS_RangeRepair.description>
+  <DMS_BurstSprint.label>arrancada</DMS_BurstSprint.label>
+  <DMS_BurstSprint.description>Libera energia mecânica acumulada, permitindo que o pioneiro corra em alta velocidade por um curto período.</DMS_BurstSprint.description>
+  <DMS_WeaponInprint.label>calibração</DMS_WeaponInprint.label>
+  <DMS_WeaponInprint.description>Este sinte está integrado com um mecanismo adaptativo que permite ao seu corpo desenvolver ações reflexas com base em sua experiência de manuseio e aumentar a densidade dos músculos artificiais em partes específicas para se adaptar melhor à arma. Como resultado, um MG-1 pode alcançar uma eficácia de combate superior ao operar a arma à qual está adaptado.\n\nNo entanto, problemas de sobreajuste no sistema o impedem de se calibrar para apenas uma arma, geralmente a primeira arma equipada na inicialização.</DMS_WeaponInprint.description>
+  <DMS_WeaponInprint.stages.0.label>familiarização</DMS_WeaponInprint.stages.0.label>
+  <DMS_WeaponInprint.stages.1.label>adaptação</DMS_WeaponInprint.stages.1.label>
+  <DMS_WeaponInprint.stages.2.label>otimização</DMS_WeaponInprint.stages.2.label>
+  <DMS_WeaponInprint.stages.3.label>experiente</DMS_WeaponInprint.stages.3.label>
+  <DMS_WeaponInprint.stages.4.label>especializado</DMS_WeaponInprint.stages.4.label>
+  <DMS_WeaponInprint.stages.5.label>maximizado</DMS_WeaponInprint.stages.5.label>
+  <DMS_ProstheticLung.label>pulmão neuromecânico</DMS_ProstheticLung.label>
+  <DMS_ProstheticLung.labelNoun>um pulmão neuromecânico</DMS_ProstheticLung.labelNoun>
+  <DMS_ProstheticLung.description>Um pulmão neuromecânico instalado.</DMS_ProstheticLung.description>
+  <DMS_ProstheticKidney.label>rim neuromecânico</DMS_ProstheticKidney.label>
+  <DMS_ProstheticKidney.labelNoun>um rim neuromecânico</DMS_ProstheticKidney.labelNoun>
+  <DMS_ProstheticKidney.description>Um rim neuromecânico instalado.</DMS_ProstheticKidney.description>
+  <DMS_CeramicsPlating.label>placas de cerâmica</DMS_CeramicsPlating.label>
+  <DMS_CeramicsPlating.description>Armadura de cerâmica descartável que protege efetivamente o usuário contra fogo de armas leves e estilhaços.\n\nEmbora seja uma excelente armadura protetora, ela deve ser completamente substituída quando danificada.</DMS_CeramicsPlating.description>
+  <DMS_ReinforcedFrame.label>estrutura reforçada</DMS_ReinforcedFrame.label>
+  <DMS_ReinforcedFrame.description>Um conjunto de peças de aço-tungstênio feitas para substituir as peças propensas ao desgaste, melhorando efetivamente a confiabilidade e a durabilidade durante combates de alta intensidade. Estas peças de reposição reforçadas aumentarão significativamente o peso do mecanoide e afetarão sua velocidade.</DMS_ReinforcedFrame.description>
+  <DMS_NuclearBattery.label>bateria nuclear</DMS_NuclearBattery.label>
+  <DMS_NuclearBattery.description>A produção abundante das baterias quânticas de energia nuclear instaladas elimina a necessidade de recarga. O reator pode ser sobrecarregado para produzir um colapso por reação em cadeia comparável a uma ogiva antigrão.</DMS_NuclearBattery.description>
+  <DMS_SyntheticTendon.label>tendão sintético</DMS_SyntheticTendon.label>
+  <DMS_SyntheticTendon.description>Músculos biossintéticos anexados à camada externa de membros mecânicos. Tendões sintéticos aumentam efetivamente a potência ao custo de consumo adicional de energia.</DMS_SyntheticTendon.description>
+  <DMS_TB_HeavyHydraulicFrame.label>estrutura hidráulica pesada</DMS_TB_HeavyHydraulicFrame.label>
+  <DMS_TB_HeavyHydraulicFrame.description>Um módulo hidráulico pesado e uma unidade de energia para mecanoides bípedes obterem a capacidade de levantar objetos mais pesados ou montar armas pesadas.</DMS_TB_HeavyHydraulicFrame.description>
+  <DMS_BF_ExtendCargo.label>compartimento de carga estendido</DMS_BF_ExtendCargo.label>
+  <DMS_BF_ExtendCargo.description>Compartimentos de carga montados nas laterais, adequados para os pilones das estruturas de batalha. Os compartimentos aumentam a capacidade de carga das estruturas de batalha e de suas variantes.</DMS_BF_ExtendCargo.description>
+  <DMS_BF_ExtendArmor.label>blindagem adicional</DMS_BF_ExtendArmor.label>
+  <DMS_BF_ExtendArmor.description>Placas de blindagem composta projetadas para os pilones das estruturas de batalha aumentam a sobrevivência da estrutura de batalha, protegendo-a contra fragmentação e disparos de médio calibre.</DMS_BF_ExtendArmor.description>
+  <DMS_OrbitalService.label>banda-larga suportada</DMS_OrbitalService.label>
+  <DMS_OrbitalService.description>Naves de apoio orbital das frotas coloniais fornecem banda-larga a mecanizadores aliados.</DMS_OrbitalService.description>
+  <DMS_OrbitalService.stages.0.label>nenhum</DMS_OrbitalService.stages.0.label>
+  <DMS_OrbitalService.stages.1.label>cabo</DMS_OrbitalService.stages.1.label>
+  <DMS_OrbitalService.stages.2.label>pré-sargento</DMS_OrbitalService.stages.2.label>
+  <DMS_OrbitalService.stages.3.label>sargento</DMS_OrbitalService.stages.3.label>
+  <DMS_OrbitalService.stages.4.label>subtenente</DMS_OrbitalService.stages.4.label>
+  <DMS_OrbitalService.stages.5.label>tenente</DMS_OrbitalService.stages.5.label>
+  <DMS_OrbitalService.stages.6.label>capitão</DMS_OrbitalService.stages.6.label>
+  <DMS_OrbitalService.stages.7.label>major</DMS_OrbitalService.stages.7.label>
+  <DMS_OrbitalService.stages.8.label>coronel</DMS_OrbitalService.stages.8.label>
+  <DMS_OrbitalService.stages.9.label>brigadeiro</DMS_OrbitalService.stages.9.label>
+  <DMS_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</DMS_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <DMS_SyntheticArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</DMS_SyntheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <DMS_TB_HeavyHydraulicFrame.renderNodeProperties.0.debugLabel>estrutura hidráulica</DMS_TB_HeavyHydraulicFrame.renderNodeProperties.0.debugLabel>
+  <DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>a síndrome biônica foi curada</DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_BionicShock.stages.Initial.label>inicial</DMS_BionicShock.stages.Initial.label>
+  <DMS_BionicShock.stages.LV1_Initial.label>Nv.1 inicial</DMS_BionicShock.stages.LV1_Initial.label>
+  <DMS_BionicShock.stages.LV2_Minor.label>Nv.2 leve</DMS_BionicShock.stages.LV2_Minor.label>
+  <DMS_BionicShock.stages.LV3_Serious.label>Nv.3 grave</DMS_BionicShock.stages.LV3_Serious.label>
+  <DMS_BionicShock.stages.LV4_Catatonic.label>Nv.4 catatônico</DMS_BionicShock.stages.LV4_Catatonic.label>
+  <DMS_BionicShock.stages.LV5_Disabled.label>Nv.5 incapacitado</DMS_BionicShock.stages.LV5_Disabled.label>
+  <DMS_BionicShock.stages.initial.label>inicial</DMS_BionicShock.stages.initial.label>
+  <DMS_BionicShock.stages.LV1_initial.label>Nv.1 inicial</DMS_BionicShock.stages.LV1_initial.label>
+  <DMS_BionicShock.stages.LV2_minor.label>Nv.2 leve</DMS_BionicShock.stages.LV2_minor.label>
+  <DMS_BionicShock.stages.LV3_serious.label>Nv.3 grave</DMS_BionicShock.stages.LV3_serious.label>
+  <DMS_BionicShock.stages.LV4_catatonic.label>Nv.4 catatônico</DMS_BionicShock.stages.LV4_catatonic.label>
+  <DMS_BionicShock.stages.LV5_disabled.label>Nv.5 incapacitado</DMS_BionicShock.stages.LV5_disabled.label>
+  <DMS_BionicShockRemove.comps.HediffComp_RemoveIfOtherHediff.message>A síndrome do membro fantasma foi curada.</DMS_BionicShockRemove.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_BionicShockRemove.stages.initial.label>inicial</DMS_BionicShockRemove.stages.initial.label>
+  <DMS_BionicShockRemove.stages.pain.label>dor</DMS_BionicShockRemove.stages.pain.label>
+  <DMS_FilterShock.stages.catatonic.label>catatônico</DMS_FilterShock.stages.catatonic.label>
+  <DMS_MechlinkOverload.stages.low.label>baixa</DMS_MechlinkOverload.stages.low.label>
+  <DMS_MechlinkOverload.stages.medium.label>média</DMS_MechlinkOverload.stages.medium.label>
+  <DMS_MechlinkOverload.stages.high.label>alta</DMS_MechlinkOverload.stages.high.label>
+  <DMS_MechlinkOverload.stages.very_high.label>muito alta</DMS_MechlinkOverload.stages.very_high.label>
+  <DMS_MechlinkOverload.stages.overloaded.label>sobrecarregada</DMS_MechlinkOverload.stages.overloaded.label>
+  <DMS_MechlinkOverload.stages.danger.label>perigo</DMS_MechlinkOverload.stages.danger.label>
+  <DMS_MechlinkRejection.stages.fever.label>febre</DMS_MechlinkRejection.stages.fever.label>
+  <DMS_SyntheticRejection.comps.HediffComp_RemoveIfOtherHediff.message>A síndrome de rejeição biônica foi curada.</DMS_SyntheticRejection.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_SyntheticRejection.stages.fever.label>febre</DMS_SyntheticRejection.stages.fever.label>
+  <DMS_WeaponInprint.descriptionShort>Adapta-se a armas específicas e tem melhor eficácia de combate ao usar as armas adaptadas. O efeito aumenta com o tempo.</DMS_WeaponInprint.descriptionShort>
+  <DMS_WeaponInprint.stages.acquaintance.label>familiarização</DMS_WeaponInprint.stages.acquaintance.label>
+  <DMS_WeaponInprint.stages.adaptation.label>adaptação</DMS_WeaponInprint.stages.adaptation.label>
+  <DMS_WeaponInprint.stages.optimization.label>otimização</DMS_WeaponInprint.stages.optimization.label>
+  <DMS_WeaponInprint.stages.experienced.label>experiente</DMS_WeaponInprint.stages.experienced.label>
+  <DMS_WeaponInprint.stages.specialized.label>especializado</DMS_WeaponInprint.stages.specialized.label>
+  <DMS_WeaponInprint.stages.maximized.label>maximizado</DMS_WeaponInprint.stages.maximized.label>
+  <DMS_OrbitalService.stages.none.label>nenhum</DMS_OrbitalService.stages.none.label>
+  <DMS_OrbitalService.stages.corporal.label>cabo</DMS_OrbitalService.stages.corporal.label>
+  <DMS_OrbitalService.stages.presergeant.label>pré-sargento</DMS_OrbitalService.stages.presergeant.label>
+  <DMS_OrbitalService.stages.sergeant.label>sargento</DMS_OrbitalService.stages.sergeant.label>
+  <DMS_OrbitalService.stages.warrant_officer.label>subtenente</DMS_OrbitalService.stages.warrant_officer.label>
+  <DMS_OrbitalService.stages.lieutenant.label>tenente</DMS_OrbitalService.stages.lieutenant.label>
+  <DMS_OrbitalService.stages.captain.label>capitão</DMS_OrbitalService.stages.captain.label>
+  <DMS_OrbitalService.stages.major.label>major</DMS_OrbitalService.stages.major.label>
+  <DMS_OrbitalService.stages.colonel.label>coronel</DMS_OrbitalService.stages.colonel.label>
+  <DMS_OrbitalService.stages.brigadier.label>brigadeiro</DMS_OrbitalService.stages.brigadier.label>
+</LanguageData>

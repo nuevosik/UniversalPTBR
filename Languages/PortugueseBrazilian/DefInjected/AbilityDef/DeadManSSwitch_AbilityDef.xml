@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_Camouflage.label>camuflagem ativa</DMS_Camouflage.label>
+  <DMS_Camouflage.description>Misture-se ao ambiente ativando camuflagem mórfica com revestimentos nanomecânicos.</DMS_Camouflage.description>
+  <DMS_PioneerSpotter.label>observador de artilharia</DMS_PioneerSpotter.label>
+  <DMS_PioneerSpotter.description>direcionando apoio de fogo de artilharia e morteiro sobre um alvo.</DMS_PioneerSpotter.description>
+  <DMS_FlashShock.label>clarão de assalto</DMS_FlashShock.label>
+  <DMS_FlashShock.description>Ative a Matriz de Clarão de Assalto, cegando temporariamente os inimigos que se aproximam. A bateria do dispositivo recarrega lentamente após o uso.</DMS_FlashShock.description>
+  <DMS_Infrasound.label>barragem de infrassom</DMS_Infrasound.label>
+  <DMS_Infrasound.description>Emita poderosas ondas de infrassom para interferir nos sistemas sensoriais de todas as criaturas dentro do alcance.</DMS_Infrasound.description>
+  <DMS_CallDrop.label>solicitar reforços</DMS_CallDrop.label>
+  <DMS_CallDrop.description>Envie um pedido de reforço a uma instalação industrial automatizada em órbita; os reforços serão despachados com base no código de identificação do transceptor.</DMS_CallDrop.description>
+  <DMS_CallDrop_Falcon.label>solicitar apoio aéreo</DMS_CallDrop_Falcon.label>
+  <DMS_CallDrop_Falcon.description>Envie um pedido de reforço de três Falcões a uma instalação industrial automatizada em órbita; os reforços serão despachados com base no código de identificação do transceptor.</DMS_CallDrop_Falcon.description>
+  <DMS_SharpShooting.label>tiro de precisão</DMS_SharpShooting.label>
+  <DMS_SharpShooting.description>O mecanoide usa seu computador balístico integrado para compensar as condições do ambiente, melhorando muito a precisão por um curto período.</DMS_SharpShooting.description>
+  <DMS_RangeFinder.label>calibração de reconhecimento</DMS_RangeFinder.label>
+  <DMS_RangeFinder.description>Compartilhe dados de controle de tiro com forças aliadas dentro do alcance para melhorar a precisão do esquadrão por um curto período.</DMS_RangeFinder.description>
+  <DMS_FlashLauncher.label>barragem de granadas de luz</DMS_FlashLauncher.label>
+  <DMS_FlashLauncher.description>Lance uma granada de luz de tiro indireto para atordoar o inimigo.</DMS_FlashLauncher.description>
+  <DMS_SmokeLauncher.label>barragem de fumaça de partículas</DMS_SmokeLauncher.label>
+  <DMS_SmokeLauncher.description>Lance uma cortina de fumaça de antipartículas para interferir em munições carregadas recebidas.</DMS_SmokeLauncher.description>
+  <DMS_MissileLauncher.label>lançar míssil</DMS_MissileLauncher.label>
+  <DMS_MissileLauncher.description>Lance um míssil guiado de longo alcance com carga altamente explosiva.</DMS_MissileLauncher.description>
+  <DMS_LongJump.label>salto longo biônico</DMS_LongJump.label>
+  <DMS_LongJump.description>Salte para um local distante usando músculos biônicos.</DMS_LongJump.description>
+  <DMS_RepairMode.label>autorreparo</DMS_RepairMode.label>
+  <DMS_RepairMode.description>Inicialize o modo de autorreparo para reconstruir peças ausentes; todos os sensores serão temporariamente desativados para evitar danos elétricos.</DMS_RepairMode.description>
+  <DMS_NuclearOverload.label>sobrecarga de fissão</DMS_NuclearOverload.label>
+  <DMS_NuclearOverload.description>Para evitar poluição ambiental catastrófica ou captura pelo inimigo, a bateria de fissão pode ser forçada manualmente a colapsar. \n\nO colapso fará com que todo o material nuclear não reagido se atomize instantaneamente, causando uma reação explosiva violenta.</DMS_NuclearOverload.description>
+  <DMS_Strafing.label>metralhamento</DMS_Strafing.label>
+  <DMS_Strafing.description>Concentre o poder de fogo para realizar um ataque de metralhamento em uma direção específica.</DMS_Strafing.description>
+  <DMS_RangeRepair.label>campo de reparo</DMS_RangeRepair.label>
+  <DMS_RangeRepair.description>Libere uma ampola de nanitos de reparo para auxiliar mecanoides aliados próximos. Os nanitos induzem os mecanoides ao modo de automanutenção.</DMS_RangeRepair.description>
+  <DMS_BurstSprint.label>arranque de velocidade</DMS_BurstSprint.label>
+  <DMS_BurstSprint.description>Libere a energia mecânica acumulada, permitindo que o Pioneiro corra em alta velocidade por um curto período.</DMS_BurstSprint.description>
+  <DMS_TarbosaurusJump.label>salto pesado</DMS_TarbosaurusJump.label>
+  <DMS_TarbosaurusJump.description>Músculos biônicos densos permitem que este monstro de metal de 40 toneladas salte uma curta distância, esmagando tudo que tiver o azar de estar por perto.</DMS_TarbosaurusJump.description>
+  <DMS_LongJump.verbProperties.label>saltar</DMS_LongJump.verbProperties.label>
+  <DMS_NuclearOverload.confirmationDialogText>Sobrecarregar a bateria de fissão criará uma explosão devastadora e destruirá esta unidade. \n\nTem certeza de que deseja fazer isso?</DMS_NuclearOverload.confirmationDialogText>
+  <DMS_NuclearOverload.verbProperties.label>sobrecarga de fissão</DMS_NuclearOverload.verbProperties.label>
+  <DMS_RepairMode.verbProperties.label>inicializar modo de autorreparo</DMS_RepairMode.verbProperties.label>
+  <DMS_TarbosaurusJump.verbProperties.label>saltar</DMS_TarbosaurusJump.verbProperties.label>
+</LanguageData>

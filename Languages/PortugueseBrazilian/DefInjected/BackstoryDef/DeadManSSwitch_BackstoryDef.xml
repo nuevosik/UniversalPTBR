@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_CivilianChild01.title>Adaptador de Baixa Gravidade</DMS_CivilianChild01.title>
+  <DMS_CivilianChild01.titleShort>Adaptador</DMS_CivilianChild01.titleShort>
+  <DMS_CivilianChild01.baseDesc>Como [PAWN_nameDef] cresceu em um ambiente sem gravidade, [PAWN_pronoun] passou a infância em incontáveis treinamentos de reabilitação e tratamentos. Embora esses tratamentos tenham permitido que [PAWN_pronoun] se movesse livremente em um ambiente com gravidade, [PAWN_pronoun] ainda está em condição física muito inferior à de crianças da mesma idade.</DMS_CivilianChild01.baseDesc>
+  <DMS_OfficerChild01.title>Cadete Oficial</DMS_OfficerChild01.title>
+  <DMS_OfficerChild01.titleFemale>Cadete</DMS_OfficerChild01.titleFemale>
+  <DMS_OfficerChild01.titleShort>Cadete</DMS_OfficerChild01.titleShort>
+  <DMS_OfficerChild01.titleShortFemale>Cadete</DMS_OfficerChild01.titleShortFemale>
+  <DMS_OfficerChild01.baseDesc>Devido ao [PAWN_possessive] desempenho excepcional na academia militar, [PAWN_nameDef] foi treinado como oficial da reserva desde que [PAWN_pronoun] era criança, e alcançou a patente de subtenente antes de atingir a idade adulta.</DMS_OfficerChild01.baseDesc>
+  <DMS_OfficerChild02.title>Ordenança Infantil</DMS_OfficerChild02.title>
+  <DMS_OfficerChild02.titleShort>Ordenança</DMS_OfficerChild02.titleShort>
+  <DMS_OfficerChild02.baseDesc>[PAWN_nameDef] cresceu em um planeta colonial cheio de tumultos, e [PAWN_pronoun] usou a própria flexibilidade para se tornar mensageiro e circular pelas linhas de frente do campo de batalha, repletas de interferência eletromagnética. Após a guerra, [PAWN_pronoun] pôde voltar à escola para estudar.</DMS_OfficerChild02.baseDesc>
+  <DMS_OfficerChild03.title>Filho de Mártires</DMS_OfficerChild03.title>
+  <DMS_OfficerChild03.titleFemale>Filha de Mártires</DMS_OfficerChild03.titleFemale>
+  <DMS_OfficerChild03.titleShort>Órfão de Mártires</DMS_OfficerChild03.titleShort>
+  <DMS_OfficerChild03.baseDesc>Os pais de [PAWN_nameDef] desapareceram em serviço quando [PAWN_pronoun] ainda era capaz de se lembrar. Devido à cláusula de martírio militar da frota colonial, [PAWN_pronoun] recebeu uma série de compensações para custear a [PAWN_possessive] formação na academia de oficiais.</DMS_OfficerChild03.baseDesc>
+  <DMS_MilitaryChild01.title>Filho Bastardo</DMS_MilitaryChild01.title>
+  <DMS_MilitaryChild01.titleShort>Criança</DMS_MilitaryChild01.titleShort>
+  <DMS_MilitaryChild01.baseDesc>[PAWN_nameDef] nasceu fora do casamento na frota colonial estacionada na superfície do planeta, e [PAWN_possessive] pai biológico é desconhecido. Felizmente, os soldados estacionados no acampamento cuidaram da [PAWN_possessive] criação como se [PAWN_pronoun] fosse um dos seus, permitindo que tivesse uma infância relativamente completa.</DMS_MilitaryChild01.baseDesc>
+  <DMS_Civilian01.title>Pioneiro Colonial</DMS_Civilian01.title>
+  <DMS_Civilian01.titleShort>Pioneiro</DMS_Civilian01.titleShort>
+  <DMS_Civilian01.baseDesc>[PAWN_nameDef] participou de um grandioso plano de colonização e veio para o mundo da borda. [PAWN_pronoun] recebeu um longo período de treinamento de sobrevivência e exercícios físicos durante a viagem. Em comparação com a maioria das pessoas que vive neste planeta, [PAWN_pronoun] está totalmente preparado.</DMS_Civilian01.baseDesc>
+  <DMS_Civilian02.title>Especialista em Sobrevivência</DMS_Civilian02.title>
+  <DMS_Civilian02.titleShort>Sobrevivente</DMS_Civilian02.titleShort>
+  <DMS_Civilian02.baseDesc>[PAWN_nameDef] participou de um grandioso plano de colonização e veio para o mundo da borda. [PAWN_pronoun] é um dos colonos mais experientes da equipe de colonização e participou de inúmeros projetos de colonização bem-sucedidos e fracassados ao longo de [PAWN_possessive] vida.</DMS_Civilian02.baseDesc>
+  <DMS_Civilian03.title>Astropata Colonial</DMS_Civilian03.title>
+  <DMS_Civilian03.titleShort>Astropata</DMS_Civilian03.titleShort>
+  <DMS_Civilian03.baseDesc>[PAWN_nameDef] participou de um grandioso plano de colonização e veio para o mundo da borda. [PAWN_pronoun] tem a função de estabelecer um posto avançado bem antes da chegada da força principal e enviar sinais de volta para mostrar à frota que o planeta ainda vale a longa viagem.</DMS_Civilian03.baseDesc>
+  <DMS_Civilian04.title>Xenobiólogo</DMS_Civilian04.title>
+  <DMS_Civilian04.titleShort>Biólogo</DMS_Civilian04.titleShort>
+  <DMS_Civilian04.baseDesc>[PAWN_nameDef] participou de um grandioso plano de colonização e veio para o mundo da borda. [PAWN_pronoun] tem o dever de realizar a exterminação médica ou química de doenças alienígenas e riscos biológicos em postos avançados muito antes da chegada das grandes forças.</DMS_Civilian04.baseDesc>
+  <DMS_Civilian05.title>Xenoecologista</DMS_Civilian05.title>
+  <DMS_Civilian05.titleShort>Ecologista</DMS_Civilian05.titleShort>
+  <DMS_Civilian05.baseDesc>[PAWN_nameDef] é de um grupo pioneiro profissional. É responsável por concluir a pesquisa ecológica e de espécies deste planeta antes da chegada do grande exército, para que o trabalho de colonização futuro seja mais tranquilo.</DMS_Civilian05.baseDesc>
+  <DMS_Civilian06.title>Geólogo</DMS_Civilian06.title>
+  <DMS_Civilian06.titleShort>Geólogo</DMS_Civilian06.titleShort>
+  <DMS_Civilian06.baseDesc>[PAWN_nameDef] é de um grupo pioneiro profissional. É responsável por cooperar com os detectores em órbita para concluir a coleta e a marcação de dados geológicos do planeta antes da chegada do grupo de colonização.</DMS_Civilian06.baseDesc>
+  <DMS_Civilian07.title>Arquiteto Colonial</DMS_Civilian07.title>
+  <DMS_Civilian07.titleShort>Arquiteto</DMS_Civilian07.titleShort>
+  <DMS_Civilian07.baseDesc>[PAWN_nameDef] é de um grupo pioneiro profissional. [PAWN_pronoun] é responsável pelo planejamento e pela construção de residências permanentes e temporárias nos locais de pouso. É claro que também precisava aprender a salvar a própria vida dos ataques dos nativos locais.</DMS_Civilian07.baseDesc>
+  <DMS_Civilian08.title>Diplomata Local</DMS_Civilian08.title>
+  <DMS_Civilian08.titleShort>Diplomata</DMS_Civilian08.titleShort>
+  <DMS_Civilian08.baseDesc>Como todos sabem, a maioria dos planetas do mundo da borda está em um estado de desorganização social, mas o trabalho de [PAWN_nameDef] é estabelecer boas relações com esses povos indígenas locais o máximo possível em nome da frota colonial, para facilitar que o trabalho de colonização futuro ocorra de forma mais tranquila.</DMS_Civilian08.baseDesc>
+  <DMS_Civilian09.title>Fazendeiro Colonial</DMS_Civilian09.title>
+  <DMS_Civilian09.titleShort>Fazendeiro</DMS_Civilian09.titleShort>
+  <DMS_Civilian09.baseDesc>[PAWN_nameDef] é responsável por cuidar das plantas da comunidade e por testar o pH e a umidade do solo. Acompanha o crescimento e escolhe as culturas adequadas às condições locais.</DMS_Civilian09.baseDesc>
+  <DMS_Civilian10.title>Mecânico Colonial</DMS_Civilian10.title>
+  <DMS_Civilian10.titleShort>Mecânico</DMS_Civilian10.titleShort>
+  <DMS_Civilian10.baseDesc>[PAWN_nameDef] era responsável por forjar ferramentas e peças à mão em um assentamento colonial onde não havia impressora de estampagem alocada, e também desenvolveu conhecimento sobre máquinas de corte e montagem.</DMS_Civilian10.baseDesc>
+  <DMS_Civilian11.title>Minerador Colonial</DMS_Civilian11.title>
+  <DMS_Civilian11.titleShort>Minerador</DMS_Civilian11.titleShort>
+  <DMS_Civilian11.baseDesc>[PAWN_nameDef] passou quase toda a vida trabalhando em minas, onde [PAWN_pronoun] cavava com máquinas e explosivos. É claro que, às vezes, [PAWN_pronoun] também precisava cavar com as próprias mãos, e por isso [PAWN_pronoun] conhecia bem o ofício.</DMS_Civilian11.baseDesc>
+  <DMS_Military01.title>Bandido Reabilitado</DMS_Military01.title>
+  <DMS_Military01.titleShort>Ex-bandido</DMS_Military01.titleShort>
+  <DMS_Military01.baseDesc>[PAWN_nameDef] fracassou como bandido e infelizmente foi capturado por um grupo colonial. No entanto, ao perceber o estilo de vida e os objetivos dessas pessoas enquanto cumpria pena de trabalho, [PAWN_pronoun] decidiu permanecer após ser libertado da prisão.</DMS_Military01.baseDesc>
+  <DMS_Military02.title>Médico Reformado</DMS_Military02.title>
+  <DMS_Military02.titleShort>Médico</DMS_Military02.titleShort>
+  <DMS_Military02.baseDesc>[PAWN_nameDef] serviu como médico nas Forças Armadas e se aposentou prematuramente da vida militar após um ferimento grave.</DMS_Military02.baseDesc>
+  <DMS_Military03.title>Agente Penitenciário</DMS_Military03.title>
+  <DMS_Military03.titleShort>Agente</DMS_Military03.titleShort>
+  <DMS_Military03.baseDesc>[PAWN_nameDef] era um segurança encarregado de vigiar os bandidos e invasores capturados, supervisionando-os até que pudessem partir em liberdade após cumprirem suas sentenças.</DMS_Military03.baseDesc>
+  <DMS_Military04.title>Milícia Voluntária</DMS_Military04.title>
+  <DMS_Military04.titleShort>Miliciano</DMS_Military04.titleShort>
+  <DMS_Military04.baseDesc>[PAWN_nameDef] tornou-se miliciano voluntário do grupo colonial ao ver a vastidão deste planeta, mudando-se para vários redutos coloniais acompanhando o ritmo do desenvolvimento dos redutos, e [PAWN_pronoun] usava a arma em mãos para se proteger e proteger os companheiros quando necessário.</DMS_Military04.baseDesc>
+  <DMS_Military05.title>Colono da Reserva</DMS_Military05.title>
+  <DMS_Military05.titleShort>Reservista</DMS_Military05.titleShort>
+  <DMS_Military05.baseDesc>Como o exame físico só foi aprovado por arredondamento, [PAWN_nameDef], que não tinha habilidades especiais, seguiu a ordem de alistamento da frota colonial e, após receber um treinamento simples, tornou-se um substituto e foi enviado à superfície para auxiliar no trabalho de colonização.</DMS_Military05.baseDesc>
+  <DMS_Military06.title>Especialista em Controle de Distúrbios</DMS_Military06.title>
+  <DMS_Military06.titleShort>Especialista</DMS_Military06.titleShort>
+  <DMS_Military06.baseDesc>Devido à distribuição caótica das áreas controladas por facções no mundo da borda, o trabalho de [PAWN_nameDef] é acompanhar a polícia especial no uso de violência limitada para desenraizar, um a um, os redutos de bandidos que se espalham como ervas daninhas.</DMS_Military06.baseDesc>
+  <DMS_Military07.title>Piloto de Transporte</DMS_Military07.title>
+  <DMS_Military07.titleShort>Piloto</DMS_Military07.titleShort>
+  <DMS_Military07.baseDesc>[PAWN_pronoun] viveu uma longa vida como piloto, e [PAWN_nameDef] era responsável por transportar pessoas e materiais por um grande setor; ao longo do caminho, também aprendeu a resolver problemas mecânicos e humanos irritantes.</DMS_Military07.baseDesc>
+  <DMS_Military08.title>Escolta Armada</DMS_Military08.title>
+  <DMS_Military08.titleShort>Escolta</DMS_Military08.titleShort>
+  <DMS_Military08.baseDesc>[PAWN_nameDef] é de um grupo pioneiro profissional. Para lidar com as ameaças existenciais durante o período de desbravamento, [PAWN_pronoun] usa armas para afugentar aquelas coisas que são prejudiciais aos colonos... se as armas ainda puderem resolver isso.</DMS_Military08.baseDesc>
+  <DMS_Officer01.title>Oficial de Sistemas de Armas</DMS_Officer01.title>
+  <DMS_Officer01.titleShort>Controlador</DMS_Officer01.titleShort>
+  <DMS_Officer01.baseDesc>[PAWN_nameDef] era um controlador de armas em um Centro de Comando e Controle. Antes de ser temporariamente dispensado por falta de peças de manutenção para o sistema de controle, [PAWN_pronoun] controlava os sistemas de armas dos robôs autônomos da força-tarefa na estação de controle de armas para evitar mortes sem sentido... e consertava alguns problemas mecânicos de passagem.</DMS_Officer01.baseDesc>
+  <DMS_Officer02.title>Xenopesquisador</DMS_Officer02.title>
+  <DMS_Officer02.titleShort>Pesquisador</DMS_Officer02.titleShort>
+  <DMS_Officer02.baseDesc>Embora já tenham se passado mais de 3.000 anos desde que a humanidade saiu da galáxia, devido à cronologia dos registros e ao inevitável longo tempo de viagem interestelar, geralmente há erros em tudo no planeta-alvo quando se chega lá. O trabalho de [PAWN_nameDef] é estudar tudo neste planeta, aqueles ecossistemas e organismos que mudam ao longo do tempo e sob diversos fatores.</DMS_Officer02.baseDesc>
+  <DMS_Officer03.title>Médico Itinerante</DMS_Officer03.title>
+  <DMS_Officer03.titleShort>Médico</DMS_Officer03.titleShort>
+  <DMS_Officer03.baseDesc>[PAWN_nameDef] trabalha para o departamento médico da frota colonial. Devido a algumas disputas surgidas durante um circuito de atendimento médico gratuito na superfície do planeta, [PAWN_pronoun] teve que permanecer brevemente na superfície até que o problema fosse resolvido.</DMS_Officer03.baseDesc>
+  <DMS_Officer04.title>Engenheiro de Autômatos</DMS_Officer04.title>
+  <DMS_Officer04.titleShort>Engenheiro</DMS_Officer04.titleShort>
+  <DMS_Officer04.baseDesc>[PAWN_nameDef] trabalha para o departamento técnico da frota colonial e faz ajustes técnicos e otimiza os Autômatos para o ambiente local do planeta colonial. Se não fosse pela pesquisa de campo, talvez [PAWN_pronoun] ficasse apenas em casa.</DMS_Officer04.baseDesc>
+  <DMS_Officer05.title>Adido Militar</DMS_Officer05.title>
+  <DMS_Officer05.titleShort>Adido</DMS_Officer05.titleShort>
+  <DMS_Officer05.baseDesc>[PAWN_nameDef] trabalhava para o departamento diplomático da frota colonial. Antes de o posto anterior ser suspenso devido à mudança de regime, [PAWN_pronoun], como outros adidos militares, foi destacado para várias bases de facções no planeta para fornecer contatos e entregar mensagens.</DMS_Officer05.baseDesc>
+  <DMS_CivilianChild01.description>Como [PAWN_nameDef] cresceu em um ambiente sem gravidade, [PAWN_pronoun] passou a infância em tratamentos de reabilitação e exposição à gravidade. Embora esses tratamentos tenham permitido que [PAWN_pronoun] se movesse com desenvoltura em um ambiente de gravidade normal, [PAWN_pronoun] ainda está em condição física muito inferior em comparação com outras crianças da mesma idade.</DMS_CivilianChild01.description>
+  <DMS_OfficerChild01.description>Devido ao seu desempenho excepcional na Academia Militar Colonial, [PAWN_nameDef] foi treinado como Cadete Oficial durante a infância. [PAWN_nameDef] alcançou a patente de Subtenente ao atingir a idade adulta.</DMS_OfficerChild01.description>
+  <DMS_OfficerChild02.description>[PAWN_nameDef] cresceu em um planeta colonial cheio de tumultos, e [PAWN_pronoun] atuou como mensageiro nas linhas de frente do campo de batalha, repletas de interferência eletromagnética e fogo hostil, valendo-se da própria flexibilidade. Após a guerra, [PAWN_pronoun] pôde voltar à escola para estudar.</DMS_OfficerChild02.description>
+  <DMS_OfficerChild03.description>Os pais de [PAWN_nameDef] foram declarados Desaparecidos em Combate durante sua mobilização quando ainda era muito jovem. Devido à Cláusula de Martírio Militar da Frota Colonial, recebeu uma bolsa de estudos para custear o Curso da Academia de Oficiais.</DMS_OfficerChild03.description>
+  <DMS_MilitaryChild01.description>[PAWN_nameDef] nasceu fora do casamento na frota colonial estacionada na superfície do planeta, e seu pai biológico é desconhecido. Felizmente, os soldados estacionados no acampamento trataram [PAWN_pronoun] como um dos seus, permitindo que [PAWN_pronoun] tivesse uma infância relativamente completa.</DMS_MilitaryChild01.description>
+  <DMS_Civilian01.description>[PAWN_nameDef] participou da grandiosa colonização e veio para um mundo da borda. [PAWN_pronoun] passou por um extenso treinamento físico de sobrevivência durante a viagem. Em comparação com a maioria das pessoas que vive neste planeta, [PAWN_pronoun] está totalmente preparado.</DMS_Civilian01.description>
+  <DMS_Civilian02.description>[PAWN_nameDef] participou da grandiosa colonização e veio para um mundo da borda. [PAWN_pronoun] é um dos colonos mais experientes da Força de Colonização, tendo participado de inúmeras tentativas de colonização bem-sucedidas e fracassadas em sua vida.</DMS_Civilian02.description>
+  <DMS_Civilian03.description>[PAWN_nameDef] participou da grandiosa colonização e veio para um mundo da borda. Seu trabalho era estabelecer um posto avançado funcional bem antes da chegada da Força Colonial principal e enviar dados de volta para mostrar à frota que o planeta ainda valia a longa viagem.</DMS_Civilian03.description>
+  <DMS_Civilian04.description>[PAWN_nameDef] participou da grandiosa colonização e veio para um mundo da borda. Sua obrigação era exterminar quaisquer doenças alienígenas ou riscos biológicos encontrados pelo posto avançado antes da chegada da Força Colonial principal.</DMS_Civilian04.description>
+  <DMS_Civilian05.description>[PAWN_nameDef] é de um grupo pioneiro profissional. [PAWN_nameDef] era responsável por pesquisar a flora e a fauna do planeta antes da chegada da Força Colonial principal, para facilitar o trabalho de colonização futuro.</DMS_Civilian05.description>
+  <DMS_Civilian06.description>[PAWN_nameDef] é de um grupo pioneiro profissional. [PAWN_nameDef] era responsável por operar os repetidores detectores orbitais para concluir levantamentos geológicos no planeta antes da chegada da Força Colonial principal.</DMS_Civilian06.description>
+  <DMS_Civilian07.description>[PAWN_nameDef] é de um grupo pioneiro profissional. [PAWN_nameDef] era responsável pelo planejamento e pela construção de estruturas permanentes e temporárias nos locais de pouso. A vida em um mundo da borda hostil forçou [PAWN_pronoun] a aprender como salvar a própria vida.</DMS_Civilian07.description>
+  <DMS_Civilian08.description>A maioria dos mundos da borda está em um estado de anarquia desorganizada, mas [PAWN_nameDef] trabalhou para estabelecer boas relações com os grupos indígenas em nome da Força Colonial.</DMS_Civilian08.description>
+  <DMS_Civilian09.description>[PAWN_nameDef] era responsável por cultivar plantações para a comunidade, bem como testar os níveis de compatibilidade do solo para projetos futuros. [PAWN_pronoun] acompanhava o crescimento de diferentes culturas e plantava as adequadas às condições locais.</DMS_Civilian09.description>
+  <DMS_Civilian10.description>&gt;[PAWN_nameDef] era responsável por forjar ferramentas e peças de reposição para um assentamento colonial onde uma impressora de estampagem não foi alocada. [PAWN_pronoun] desenvolveu um conhecimento prático de máquinas de corte e montagem.</DMS_Civilian10.description>
+  <DMS_Civilian11.description>[PAWN_nameDef] trabalhou em minas quase toda a sua vida. [PAWN_nameDef] cavou manualmente, com máquinas e com explosivos, e tornou-se uma espécie de especialista no assunto.</DMS_Civilian11.description>
+  <DMS_Military01.description>[PAWN_nameDef] fracassou como bandido e infelizmente foi capturado por um grupo colonial. Enquanto cumpria pena de trabalho, [PAWN_nameDef] percebeu como a vida dessas pessoas era muito melhor e decidiu ficar após ser libertado da prisão.</DMS_Military01.description>
+  <DMS_Military02.description>[PAWN_nameDef] serviu como médico nas Forças Armadas e se aposentou prematuramente da vida militar após um ferimento grave.</DMS_Military02.description>
+  <DMS_Military03.description>[PAWN_nameDef] era um segurança encarregado de vigiar os bandidos e invasores capturados, supervisionando-os até que pudessem partir em liberdade após cumprirem suas sentenças.</DMS_Military03.description>
+  <DMS_Military04.description>Depois de ver a extensão surpreendente deste planeta, [PAWN_nameDef] tornou-se um soldado da Milícia Voluntária das Forças Coloniais. [PAWN_nameDef] foi transferido para vários redutos coloniais necessitados de gente, e teve que usar o que estivesse à mão para protegê-los.</DMS_Military04.description>
+  <DMS_Military05.description>[PAWN_nameDef] participou do Exame Físico de Colonos e só foi aprovado devido a um erro administrativo. [PAWN_nameDef] não tem habilidades especiais e seguiu as ordens de alistamento da Frota Colonial para receber um treinamento simples, o suficiente para atuar como colono substituto. [PAWN_nameDef] foi enviado à superfície para auxiliar no trabalho de colonização em andamento.</DMS_Military05.description>
+  <DMS_Military06.description>Devido à distribuição caótica das áreas controladas por facções na maioria dos mundos da borda, [PAWN_nameDef] foi designado para acompanhar a polícia especial encarregada de usar violência limitada para desenraizar, um a um, os incontáveis acampamentos de bandidos que infestam o planeta.</DMS_Military06.description>
+  <DMS_Military07.description>[PAWN_nameDef] era responsável por pilotar um transporte contendo pessoas e materiais por um grande setor do planeta. [PAWN_nameDef] aprendeu a resolver muitos problemas mecânicos e humanos irritantes ao longo do caminho.</DMS_Military07.description>
+  <DMS_Military08.description>[PAWN_nameDef] é de um grupo pioneiro profissional. Para lidar com as ameaças constantes ao seu esquadrão durante o período de desbravamento, [PAWN_nameDef] usou uma boa variedade de armas de fogo para matar qualquer coisa que representasse uma ameaça aos colonos que [PAWN_nameDef] foi designado a proteger.</DMS_Military08.description>
+  <DMS_Officer01.description>[PAWN_nameDef] era um controlador de armas em um Centro de Comando e Controle. [PAWN_nameDef] foi temporariamente dispensado devido à falta de peças de manutenção para o sistema de controle e teve que se reciclar como operador de sistemas de armas dos robôs autônomos da força-tarefa na estação de controle de armas para mitigar incidentes de fogo amigo.</DMS_Officer01.description>
+  <DMS_Officer02.description>Devido ao imenso tempo necessário para atravessar galáxias sem tecnologia FTL, quando as Forças Coloniais chegam ao planeta-alvo, gerações inteiras já se passaram e tornaram seus dados iniciais obsoletos. [PAWN_nameDef] teve que pesquisar e catalogar as mudanças na xenologia e no clima do planeta que ocorreram enquanto sua nave estava em trânsito.</DMS_Officer02.description>
+  <DMS_Officer03.description>[PAWN_nameDef] trabalhou para o Departamento Médico das Forças Coloniais. Devido a disputas sobre os direitos médicos dos prisioneiros no planeta, [PAWN_nameDef] teve que permanecer na superfície até que a situação fosse resolvida.</DMS_Officer03.description>
+  <DMS_Officer04.description>[PAWN_nameDef] trabalhou para o Departamento de Projeto Astromecânico das Forças Coloniais e fez ajustes e otimizações na frota de Autômatos para a colônia local.</DMS_Officer04.description>
+  <DMS_Officer05.description>[PAWN_nameDef] trabalhou para o departamento diplomático das Forças Coloniais. [PAWN_nameDef] foi destacado para vários postos avançados no planeta para fornecer contato tanto com milícias locais amigáveis quanto com grupos mercenários.</DMS_Officer05.description>
+</LanguageData>

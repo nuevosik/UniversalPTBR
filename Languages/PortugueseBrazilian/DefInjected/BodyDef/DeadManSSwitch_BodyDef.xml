@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_Chop.label>vertidrone</DMS_Chop.label>
+  <DMS_TrashBin.label>lixeira</DMS_TrashBin.label>
+  <DMS_Hound.label>quadrúpede</DMS_Hound.label>
+  <DMS_Humanoid_Soldat.label>erectus soldado</DMS_Humanoid_Soldat.label>
+  <DMS_Bipedal.label>bípede</DMS_Bipedal.label>
+  <DMS_Humanoid_TypeA.label>erectus arcabuzeiro</DMS_Humanoid_TypeA.label>
+  <DMS_Humanoid_TypeB.label>erectus ronin</DMS_Humanoid_TypeB.label>
+  <DMS_Humanoid_TypeB_ShieldL.label>protetor com escudo</DMS_Humanoid_TypeB_ShieldL.label>
+  <DMS_Caterpillar.label>plataforma de esteiras</DMS_Caterpillar.label>
+  <DMS_KillDozer.label>killdozer</DMS_KillDozer.label>
+  <DMS_Humanoid_TypeB_Ronin.label>erectus ronin (lâmina)</DMS_Humanoid_TypeB_Ronin.label>
+  <DMS_Humanoid_TypeB_ShieldS.label>assaltante com escudo</DMS_Humanoid_TypeB_ShieldS.label>
+  <DMS_Synthroid.label>sintético</DMS_Synthroid.label>
+  <DMS_Bipedal.corePart.parts.top_searching_sensor.customLabel>sensor de busca superior</DMS_Bipedal.corePart.parts.top_searching_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.top_searching_sensor.parts.central_sight_sensor.customLabel>sensor de visão central</DMS_Bipedal.corePart.parts.top_searching_sensor.parts.central_sight_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.top_searching_sensor.parts.central_hearing_sensor.customLabel>sensor auditivo central</DMS_Bipedal.corePart.parts.top_searching_sensor.parts.central_hearing_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.customLabel>sensor de busca principal</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.central_sight_sensor.customLabel>sensor de visão central</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.central_sight_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.phased_array_radar.customLabel>radar de matriz em fase</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.phased_array_radar.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.left_hearing_sensor.customLabel>sensor auditivo esquerdo</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.left_hearing_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.right_hearing_sensor.customLabel>sensor auditivo direito</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.main_searching_sensor.parts.right_hearing_sensor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.customLabel>suporte de arma esquerdo</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.customLabel>rotor horizontal</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.customLabel>rotor vertical</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.ammo_feeder.customLabel>alimentador de munição</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.ammo_feeder.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.range_finder.customLabel>telêmetro</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.range_finder.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.trigger_safty.customLabel>trava do gatilho</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.trigger_safty.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.mount_lock.customLabel>trava do suporte</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.mount_lock.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.customLabel>suporte de arma direito</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.customLabel>rotor horizontal</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.customLabel>rotor vertical</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.ammo_feeder.customLabel>alimentador de munição</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.ammo_feeder.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.range_finder.customLabel>telêmetro</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.range_finder.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.weapon_safty.customLabel>trava da arma</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.weapon_safty.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.mount_lock.customLabel>trava do suporte</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.mount_lock.customLabel>
+  <DMS_Bipedal.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Bipedal.corePart.parts.left_leg.customLabel>
+  <DMS_Bipedal.corePart.parts.left_leg.parts.leg_armour_plate.customLabel>placa de armadura da perna</DMS_Bipedal.corePart.parts.left_leg.parts.leg_armour_plate.customLabel>
+  <DMS_Bipedal.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Bipedal.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Bipedal.corePart.parts.right_leg.customLabel>perna direita</DMS_Bipedal.corePart.parts.right_leg.customLabel>
+  <DMS_Bipedal.corePart.parts.right_leg.parts.leg_armour_plate.customLabel>placa de armadura da perna</DMS_Bipedal.corePart.parts.right_leg.parts.leg_armour_plate.customLabel>
+  <DMS_Bipedal.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Bipedal.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Bipedal.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Bipedal.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Bipedal.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Bipedal.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Bipedal.corePart.parts.main_battery_array.customLabel>conjunto de baterias principal</DMS_Bipedal.corePart.parts.main_battery_array.customLabel>
+  <DMS_Bipedal.corePart.parts.secondary_battery_array.customLabel>conjunto de baterias secundário</DMS_Bipedal.corePart.parts.secondary_battery_array.customLabel>
+  <DMS_Caterpillar.corePart.customLabel>chassi</DMS_Caterpillar.corePart.customLabel>
+  <DMS_Caterpillar.corePart.parts.wetware_computer_core.customLabel>núcleo do computador wetware</DMS_Caterpillar.corePart.parts.wetware_computer_core.customLabel>
+  <DMS_Caterpillar.corePart.parts.turret_seat.customLabel>assento da torreta</DMS_Caterpillar.corePart.parts.turret_seat.customLabel>
+  <DMS_Caterpillar.corePart.parts.turret_seat.parts.elevator.customLabel>elevador</DMS_Caterpillar.corePart.parts.turret_seat.parts.elevator.customLabel>
+  <DMS_Caterpillar.corePart.parts.integrated_sensor_system.customLabel>sistema de sensores integrado</DMS_Caterpillar.corePart.parts.integrated_sensor_system.customLabel>
+  <DMS_Caterpillar.corePart.parts.integrated_sensor_system.parts.armored_casing.customLabel>carcaça blindada</DMS_Caterpillar.corePart.parts.integrated_sensor_system.parts.armored_casing.customLabel>
+  <DMS_Caterpillar.corePart.parts.main_generator.customLabel>gerador principal</DMS_Caterpillar.corePart.parts.main_generator.customLabel>
+  <DMS_Caterpillar.corePart.parts.secondary_generator.customLabel>gerador secundário</DMS_Caterpillar.corePart.parts.secondary_generator.customLabel>
+  <DMS_Caterpillar.corePart.parts.front_armour_plate.customLabel>placa de armadura frontal</DMS_Caterpillar.corePart.parts.front_armour_plate.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_armour_plate.customLabel>placa de armadura direita</DMS_Caterpillar.corePart.parts.right_armour_plate.customLabel>
+  <DMS_Caterpillar.corePart.parts.left_armour_plate.customLabel>placa de armadura esquerda</DMS_Caterpillar.corePart.parts.left_armour_plate.customLabel>
+  <DMS_Caterpillar.corePart.parts.left_track.customLabel>esteira esquerda</DMS_Caterpillar.corePart.parts.left_track.customLabel>
+  <DMS_Caterpillar.corePart.parts.left_track.parts.left_wheel.customLabel>roda esquerda</DMS_Caterpillar.corePart.parts.left_track.parts.left_wheel.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_track.customLabel>esteira direita</DMS_Caterpillar.corePart.parts.right_track.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_track.parts.right_wheel.customLabel>roda direita</DMS_Caterpillar.corePart.parts.right_track.parts.right_wheel.customLabel>
+  <DMS_Caterpillar.corePart.parts.left_leg.customLabel>esteira esquerda</DMS_Caterpillar.corePart.parts.left_leg.customLabel>
+  <DMS_Caterpillar.corePart.parts.left_leg.parts.left_wheel.customLabel>roda esquerda</DMS_Caterpillar.corePart.parts.left_leg.parts.left_wheel.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_leg.customLabel>esteira direita</DMS_Caterpillar.corePart.parts.right_leg.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_leg.parts.right_wheel.customLabel>roda direita</DMS_Caterpillar.corePart.parts.right_leg.parts.right_wheel.customLabel>
+  <DMS_Chop.corePart.parts.hover_system-0.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-0.customLabel>
+  <DMS_Chop.corePart.parts.hover_system-1.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-1.customLabel>
+  <DMS_Chop.corePart.parts.hover_system-2.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-2.customLabel>
+  <DMS_Chop.corePart.parts.hover_system-3.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-3.customLabel>
+  <DMS_Chop.corePart.parts.weapon_mount.customLabel>suporte de arma</DMS_Chop.corePart.parts.weapon_mount.customLabel>
+  <DMS_Chop.corePart.parts.main_battery.customLabel>bateria principal</DMS_Chop.corePart.parts.main_battery.customLabel>
+  <DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.central_sight_sensor.customLabel>sensor de visão central</DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.central_sight_sensor.customLabel>
+  <DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.infrared_sensor.customLabel>sensor infravermelho</DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.infrared_sensor.customLabel>
+  <DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>sensor auditivo esquerdo</DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>sensor auditivo direito</DMS_Hound.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <DMS_Hound.corePart.parts.robotic_arm.customLabel>braço robótico</DMS_Hound.corePart.parts.robotic_arm.customLabel>
+  <DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.customLabel>mão robótica</DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.customLabel>
+  <DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.pinky.customLabel>mindinho</DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.pinky.customLabel>
+  <DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.middle_finger.customLabel>dedo médio</DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.middle_finger.customLabel>
+  <DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.index_finger.customLabel>dedo indicador</DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.index_finger.customLabel>
+  <DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.thumb.customLabel>polegar</DMS_Hound.corePart.parts.robotic_arm.parts.robotic_hand.parts.thumb.customLabel>
+  <DMS_Hound.corePart.parts.main_battery.customLabel>bateria principal</DMS_Hound.corePart.parts.main_battery.customLabel>
+  <DMS_Hound.corePart.parts.left_front_leg.customLabel>perna dianteira esquerda</DMS_Hound.corePart.parts.left_front_leg.customLabel>
+  <DMS_Hound.corePart.parts.left_front_leg.parts.left_front_foot.customLabel>pé dianteiro esquerdo</DMS_Hound.corePart.parts.left_front_leg.parts.left_front_foot.customLabel>
+  <DMS_Hound.corePart.parts.left_back_leg.customLabel>perna traseira esquerda</DMS_Hound.corePart.parts.left_back_leg.customLabel>
+  <DMS_Hound.corePart.parts.left_back_leg.parts.left_back_foot.customLabel>pé traseiro esquerdo</DMS_Hound.corePart.parts.left_back_leg.parts.left_back_foot.customLabel>
+  <DMS_Hound.corePart.parts.right_front_leg.customLabel>perna dianteira direita</DMS_Hound.corePart.parts.right_front_leg.customLabel>
+  <DMS_Hound.corePart.parts.right_front_leg.parts.right_front_foot.customLabel>pé dianteiro direito</DMS_Hound.corePart.parts.right_front_leg.parts.right_front_foot.customLabel>
+  <DMS_Hound.corePart.parts.right_back_leg.customLabel>perna traseira direita</DMS_Hound.corePart.parts.right_back_leg.customLabel>
+  <DMS_Hound.corePart.parts.right_back_leg.parts.right_back_foot.customLabel>pé traseiro direito</DMS_Hound.corePart.parts.right_back_leg.parts.right_back_foot.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.central_sight_sensor.customLabel>sensor de visão central</DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.central_sight_sensor.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>sensor de visão esquerdo</DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>sensor de visão direito</DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>sensor auditivo esquerdo</DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>sensor auditivo direito</DMS_Humanoid_Soldat.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Humanoid_Soldat.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Humanoid_Soldat.corePart.parts.left_leg.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Humanoid_Soldat.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_leg.customLabel>perna direita</DMS_Humanoid_Soldat.corePart.parts.right_leg.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Humanoid_Soldat.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Humanoid_Soldat.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Humanoid_Soldat.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.main_battery.customLabel>bateria principal</DMS_Humanoid_Soldat.corePart.parts.main_battery.customLabel>
+  <DMS_Humanoid_Soldat.corePart.parts.secondary_battery.customLabel>bateria secundária</DMS_Humanoid_Soldat.corePart.parts.secondary_battery.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.central_sight_sensor.customLabel>sensor de visão central</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.central_sight_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.left_infrared_sensor.customLabel>sensor infravermelho esquerdo</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.left_infrared_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.right_infrared_sensor.customLabel>sensor infravermelho direito</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.right_infrared_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.left_sight_sensor.customLabel>sensor de visão esquerdo</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.left_sight_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.right_sight_sensor.customLabel>sensor de visão direito</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.right_sight_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.left_hearing_sensor.customLabel>sensor auditivo esquerdo</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.left_hearing_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.right_hearing_sensor.customLabel>sensor auditivo direito</DMS_Humanoid_TypeA.corePart.parts.MechanicalNeck.parts.DMS_SniperHead.parts.right_hearing_sensor.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Humanoid_TypeA.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Humanoid_TypeA.corePart.parts.left_leg.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Humanoid_TypeA.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_leg.customLabel>perna direita</DMS_Humanoid_TypeA.corePart.parts.right_leg.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Humanoid_TypeA.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Humanoid_TypeA.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Humanoid_TypeA.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.main_battery.customLabel>bateria principal</DMS_Humanoid_TypeA.corePart.parts.main_battery.customLabel>
+  <DMS_Humanoid_TypeA.corePart.parts.secondary_battery.customLabel>bateria secundária</DMS_Humanoid_TypeA.corePart.parts.secondary_battery.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Humanoid_TypeB.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Humanoid_TypeB.corePart.parts.left_leg.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Humanoid_TypeB.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_leg.customLabel>perna direita</DMS_Humanoid_TypeB.corePart.parts.right_leg.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Humanoid_TypeB.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Humanoid_TypeB.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Humanoid_TypeB.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.main_battery.customLabel>bateria principal</DMS_Humanoid_TypeB.corePart.parts.main_battery.customLabel>
+  <DMS_Humanoid_TypeB.corePart.parts.secondary_battery.customLabel>bateria secundária</DMS_Humanoid_TypeB.corePart.parts.secondary_battery.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_arm_blade.customLabel>lâmina do braço esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_arm_blade.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_arm_blade.customLabel>lâmina do braço direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_arm_blade.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_leg.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Humanoid_TypeB_Ronin.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_leg.customLabel>perna direita</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_leg.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Humanoid_TypeB_Ronin.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Humanoid_TypeB_Ronin.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Humanoid_TypeB_Ronin.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.main_battery.customLabel>bateria principal</DMS_Humanoid_TypeB_Ronin.corePart.parts.main_battery.customLabel>
+  <DMS_Humanoid_TypeB_Ronin.corePart.parts.secondary_battery.customLabel>bateria secundária</DMS_Humanoid_TypeB_Ronin.corePart.parts.secondary_battery.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.ballistic_shield.customLabel>escudo balístico</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.ballistic_shield.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_leg.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Humanoid_TypeB_ShieldL.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_leg.customLabel>perna direita</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_leg.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Humanoid_TypeB_ShieldL.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Humanoid_TypeB_ShieldL.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.main_battery.customLabel>bateria principal</DMS_Humanoid_TypeB_ShieldL.corePart.parts.main_battery.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.secondary_battery.customLabel>bateria secundária</DMS_Humanoid_TypeB_ShieldL.corePart.parts.secondary_battery.customLabel>
+  <DMS_Humanoid_TypeB_ShieldL.corePart.parts.ballistic_shield.customLabel>escudo balístico</DMS_Humanoid_TypeB_ShieldL.corePart.parts.ballistic_shield.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.central_sight_sensor.customLabel>sensor de visão central</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.central_sight_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_infrared_sensor.customLabel>sensor infravermelho esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_infrared_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_infrared_sensor.customLabel>sensor infravermelho direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_infrared_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>sensor de visão esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>sensor de visão direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>sensor auditivo esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>sensor auditivo direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.assault_shield.customLabel>escudo de assalto</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.assault_shield.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_leg.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Humanoid_TypeB_ShieldS.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_leg.customLabel>perna direita</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_leg.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.waist_armour_plate.customLabel>placa de armadura da cintura</DMS_Humanoid_TypeB_ShieldS.corePart.parts.waist_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.chest_armour_plate.customLabel>placa de armadura do peito</DMS_Humanoid_TypeB_ShieldS.corePart.parts.chest_armour_plate.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.main_battery.customLabel>bateria principal</DMS_Humanoid_TypeB_ShieldS.corePart.parts.main_battery.customLabel>
+  <DMS_Humanoid_TypeB_ShieldS.corePart.parts.secondary_battery.customLabel>bateria secundária</DMS_Humanoid_TypeB_ShieldS.corePart.parts.secondary_battery.customLabel>
+  <DMS_KillDozer.corePart.customLabel>chassi</DMS_KillDozer.corePart.customLabel>
+  <DMS_KillDozer.corePart.parts.wetware_computer_core.customLabel>núcleo do computador wetware</DMS_KillDozer.corePart.parts.wetware_computer_core.customLabel>
+  <DMS_KillDozer.corePart.parts.turret_seat.customLabel>assento da torreta</DMS_KillDozer.corePart.parts.turret_seat.customLabel>
+  <DMS_KillDozer.corePart.parts.turret_seat.parts.elevator.customLabel>elevador</DMS_KillDozer.corePart.parts.turret_seat.parts.elevator.customLabel>
+  <DMS_KillDozer.corePart.parts.integrated_sensor_system.customLabel>sistema de sensores integrado</DMS_KillDozer.corePart.parts.integrated_sensor_system.customLabel>
+  <DMS_KillDozer.corePart.parts.integrated_sensor_system.parts.armored_casing.customLabel>carcaça blindada</DMS_KillDozer.corePart.parts.integrated_sensor_system.parts.armored_casing.customLabel>
+  <DMS_KillDozer.corePart.parts.main_generator.customLabel>gerador principal</DMS_KillDozer.corePart.parts.main_generator.customLabel>
+  <DMS_KillDozer.corePart.parts.secondary_generator.customLabel>gerador secundário</DMS_KillDozer.corePart.parts.secondary_generator.customLabel>
+  <DMS_KillDozer.corePart.parts.front_ERA_plate-0.customLabel>placa ERA frontal</DMS_KillDozer.corePart.parts.front_ERA_plate-0.customLabel>
+  <DMS_KillDozer.corePart.parts.front_ERA_plate-1.customLabel>placa ERA frontal</DMS_KillDozer.corePart.parts.front_ERA_plate-1.customLabel>
+  <DMS_KillDozer.corePart.parts.right_ERA_plate.customLabel>placa ERA direita</DMS_KillDozer.corePart.parts.right_ERA_plate.customLabel>
+  <DMS_KillDozer.corePart.parts.left_ERA_plate.customLabel>placa ERA esquerda</DMS_KillDozer.corePart.parts.left_ERA_plate.customLabel>
+  <DMS_KillDozer.corePart.parts.left_track.customLabel>esteira esquerda</DMS_KillDozer.corePart.parts.left_track.customLabel>
+  <DMS_KillDozer.corePart.parts.left_track.parts.left_side_skirt_ERA.customLabel>placa ERA da saia lateral esquerda</DMS_KillDozer.corePart.parts.left_track.parts.left_side_skirt_ERA.customLabel>
+  <DMS_KillDozer.corePart.parts.left_track.parts.left_wheel.customLabel>roda esquerda</DMS_KillDozer.corePart.parts.left_track.parts.left_wheel.customLabel>
+  <DMS_KillDozer.corePart.parts.right_track.customLabel>esteira direita</DMS_KillDozer.corePart.parts.right_track.customLabel>
+  <DMS_KillDozer.corePart.parts.right_track.parts.right_side_skirt_ERA.customLabel>placa ERA da saia lateral direita</DMS_KillDozer.corePart.parts.right_track.parts.right_side_skirt_ERA.customLabel>
+  <DMS_KillDozer.corePart.parts.right_track.parts.right_wheel.customLabel>roda direita</DMS_KillDozer.corePart.parts.right_track.parts.right_wheel.customLabel>
+  <DMS_KillDozer.corePart.parts.dozer_blade.customLabel>lâmina de terraplenagem</DMS_KillDozer.corePart.parts.dozer_blade.customLabel>
+  <DMS_KillDozer.corePart.parts.left_leg.customLabel>esteira esquerda</DMS_KillDozer.corePart.parts.left_leg.customLabel>
+  <DMS_KillDozer.corePart.parts.left_leg.parts.left_wheel.customLabel>roda esquerda</DMS_KillDozer.corePart.parts.left_leg.parts.left_wheel.customLabel>
+  <DMS_KillDozer.corePart.parts.right_leg.customLabel>esteira direita</DMS_KillDozer.corePart.parts.right_leg.customLabel>
+  <DMS_KillDozer.corePart.parts.right_leg.parts.right_wheel.customLabel>roda direita</DMS_KillDozer.corePart.parts.right_leg.parts.right_wheel.customLabel>
+  <DMS_TrashBin.corePart.parts.main_battery.customLabel>bateria principal</DMS_TrashBin.corePart.parts.main_battery.customLabel>
+  <DMS_TrashBin.corePart.parts.visual_sensor.customLabel>sensor visual</DMS_TrashBin.corePart.parts.visual_sensor.customLabel>
+  <DMS_TrashBin.corePart.parts.infrared_sensor.customLabel>sensor infravermelho</DMS_TrashBin.corePart.parts.infrared_sensor.customLabel>
+  <DMS_TrashBin.corePart.parts.hover_system.customLabel>sistema de flutuação</DMS_TrashBin.corePart.parts.hover_system.customLabel>
+  <DMS_TrashBin.corePart.parts.grabbing_arm.customLabel>braço agarrador</DMS_TrashBin.corePart.parts.grabbing_arm.customLabel>
+  <DMS_TrashBin.corePart.parts.hearing_sensor.customLabel>sensor auditivo</DMS_TrashBin.corePart.parts.hearing_sensor.customLabel>
+  <DMS_Synthroid.corePart.parts.left_lung.customLabel>pulmão esquerdo</DMS_Synthroid.corePart.parts.left_lung.customLabel>
+  <DMS_Synthroid.corePart.parts.right_lung.customLabel>pulmão direito</DMS_Synthroid.corePart.parts.right_lung.customLabel>
+  <DMS_Synthroid.corePart.parts.left_fluid_reprocessor.customLabel>reprocessador de fluido esquerdo</DMS_Synthroid.corePart.parts.left_fluid_reprocessor.customLabel>
+  <DMS_Synthroid.corePart.parts.right_fluid_reprocessor.customLabel>reprocessador de fluido direito</DMS_Synthroid.corePart.parts.right_fluid_reprocessor.customLabel>
+  <DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.left_sight_sensor.customLabel>sensor de visão esquerdo</DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.left_sight_sensor.customLabel>
+  <DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.right_sight_sensor.customLabel>sensor de visão direito</DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.right_sight_sensor.customLabel>
+  <DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.left_hearing_sensor.customLabel>sensor auditivo esquerdo</DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.left_hearing_sensor.customLabel>
+  <DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.right_hearing_sensor.customLabel>sensor auditivo direito</DMS_Synthroid.corePart.parts.Neck.parts.Head.parts.right_hearing_sensor.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.customLabel>ombro mecânico esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_clavicle.customLabel>clavícula esquerda</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_clavicle.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_humerus.customLabel>úmero esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_radius.customLabel>rádio esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>mindinho esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>dedo anelar esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Synthroid.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.customLabel>ombro mecânico direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_clavicle.customLabel>clavícula direita</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_clavicle.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braço direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_humerus.customLabel>úmero direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_radius.customLabel>rádio direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>mindinho direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>dedo anelar direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Synthroid.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Synthroid.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Synthroid.corePart.parts.left_leg.customLabel>
+  <DMS_Synthroid.corePart.parts.left_leg.parts.left_femur.customLabel>fêmur esquerdo</DMS_Synthroid.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <DMS_Synthroid.corePart.parts.left_leg.parts.left_tibia.customLabel>tíbia esquerda</DMS_Synthroid.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <DMS_Synthroid.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Synthroid.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Synthroid.corePart.parts.right_leg.customLabel>perna direita</DMS_Synthroid.corePart.parts.right_leg.customLabel>
+  <DMS_Synthroid.corePart.parts.right_leg.parts.right_femur.customLabel>fêmur direito</DMS_Synthroid.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <DMS_Synthroid.corePart.parts.right_leg.parts.right_tibia.customLabel>tíbia direita</DMS_Synthroid.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <DMS_Synthroid.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Synthroid.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

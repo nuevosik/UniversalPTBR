@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_AddonBroken>A durabilidade da modificação de um dos seus mecanoides se esgotou</DMS_AddonBroken>
+  <DMS_PlatingTooltip>A blindagem cerâmica descartável protege o mecanoide de danos como armadura ablativa até que sua durabilidade se esgote e precise ser substituída.</DMS_PlatingTooltip>
+  <DMS_HasAppliedModification>Modificação aplicada</DMS_HasAppliedModification>
+  <DMS_WeaponNotSupported>Sistema de armas não suportado</DMS_WeaponNotSupported>
+  <DMS_FrameNotSupported>Chassi de mecanoide não suportado</DMS_FrameNotSupported>
+  <DMS_WillTerminateTheBetrayedUnit>DMS: Gatilho de segurança ativado</DMS_WillTerminateTheBetrayedUnit>
+  <DMS_AutomatroidDisconnected>O autômato se desconectou para proteger o mecanizador</DMS_AutomatroidDisconnected>
+  <CommandCallRoyalAid_NoMechanitorAvaliable>Precisa de um mecanizador no mapa</CommandCallRoyalAid_NoMechanitorAvaliable>
+  <DMS_PawnIsNotMechanitor>Precisa ser um mecanizador</DMS_PawnIsNotMechanitor>
+  <DMS_BandwidthSupported>O enlace orbital estabeleceu conexão com o mecanizador</DMS_BandwidthSupported>
+  <DMS_MountedWeapon>Arma montada</DMS_MountedWeapon>
+  <DMS_MountedWeaponCanOnlyBeEquippedBySpecificApparelOrRaces>Esta arma só pode ser equipada pelos autômatos ou chassis de mecanoide listados</DMS_MountedWeaponCanOnlyBeEquippedBySpecificApparelOrRaces>
+  <DMS_WeaponCanBeEquippedBySpecificApparelOrRaces>Esta arma pode ser equipada com os vestuários ou biônicos específicos listados</DMS_WeaponCanBeEquippedBySpecificApparelOrRaces>
+  <DMS_NoPayloadCapacity>Inventário cheio</DMS_NoPayloadCapacity>
+  <DMS_TakeToInventory>Pegar {0}</DMS_TakeToInventory>
+  <DMS_DropGears>Largar todos os itens</DMS_DropGears>
+  <DMS_BodysizeNotSupported>tamanho corporal não suportado (precisa: {0})</DMS_BodysizeNotSupported>
+  <DMS_Modification_RaceNotSupported>modelo não suportado</DMS_Modification_RaceNotSupported>
+  <DMS_Modification_NoValidPart>nenhuma parte válida para aplicar a modificação</DMS_Modification_NoValidPart>
+  <DMS_MechReturn>mecanoide desaparecido retornou</DMS_MechReturn>
+  <DMS_MechReturnDesc>um mecanoide errante que estava sob seu comando retornou à sua base.</DMS_MechReturnDesc>
+  <DMS_MechWake>falha ao reiniciar o interruptor</DMS_MechWake>
+  <DMS_MechWakeDesc>Talvez por ter vagado por muito tempo, o interruptor de homem morto não reiniciou como de costume, e a unidade defeituosa passou a compreender a morte. \n\nEla deu um nome a si mesma e agora se recusa a ser controlada, mas respeita seu antigo comandante. \n\nEla seguirá suas ordens até decidir partir.</DMS_MechWakeDesc>
+  <DMS_MechStartLeave>{0} está partindo</DMS_MechStartLeave>
+  <DMS_MechStartLeaveDesc>Depois de algum tempo juntos, {0} decidiu que é hora de partir.</DMS_MechStartLeaveDesc>
+  <DMS_WokenMechLeave>{0} está partindo</DMS_WokenMechLeave>
+  <DMS_WokenMechLeaveDesc>Depois de algum tempo juntos, {0} decidiu que é hora de partir.</DMS_WokenMechLeaveDesc>
+  <DMS_MechStory_Attack>O desfecho de {0}</DMS_MechStory_Attack>
+  <DMS_MechStory_Loot>A retribuição de favores de {0}</DMS_MechStory_Loot>
+  <DMS_APS_TickRemain>Tempo restante do sistema de proteção ativa: {0}</DMS_APS_TickRemain>
+  <DMS_WeaponImprinted>Arma vinculada: {0}({1})</DMS_WeaponImprinted>
+  <DMS_Inprinted>Vínculo: {0}</DMS_Inprinted>
+  <DMS_InprintedDesc>o mecanoide da colônia {0} equipou sua primeira arma, o que vincula sua capacidade de aprendizado adaptativo a esse tipo de arma.</DMS_InprintedDesc>
+  <DMS_Req_TechLevel>Precisa estar no nível tecnológico listado:</DMS_Req_TechLevel>
+  <DMS_Req_BodySize>Pode equipar arma pesada com requisito de tamanho corporal abaixo de: {0}</DMS_Req_BodySize>
+  <DMS_Req_WeaponFilter>Limitado às armas listadas abaixo</DMS_Req_WeaponFilter>
+  <DMS_Req_NoWeaponFilter>Sem outras restrições de armas</DMS_Req_NoWeaponFilter>
+  <DMS_AirSupportFromClosestBase>{1} de {0} está a caminho.</DMS_AirSupportFromClosestBase>
+</LanguageData>

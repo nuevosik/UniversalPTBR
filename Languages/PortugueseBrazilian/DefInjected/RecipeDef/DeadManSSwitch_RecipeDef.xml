@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_Make_Falcon.label>gestar falcão</DMS_Make_Falcon.label>
+  <DMS_Make_Falcon.description>Gestar um autômato falcão.</DMS_Make_Falcon.description>
+  <DMS_Make_Noctula.label>gestar nóctula</DMS_Make_Noctula.label>
+  <DMS_Make_Noctula.description>Gestar um autômato nóctula.</DMS_Make_Noctula.description>
+  <DMS_Make_Ape.label>gestar autômato macaco</DMS_Make_Ape.label>
+  <DMS_Make_Ape.description>Gestar um autômato macaco.</DMS_Make_Ape.description>
+  <DMS_Make_Soldat.label>gestar soldado</DMS_Make_Soldat.label>
+  <DMS_Make_Soldat.description>Gestar um autômato soldado.</DMS_Make_Soldat.description>
+  <DMS_Make_Grenadier.label>gestar granadeiro</DMS_Make_Grenadier.label>
+  <DMS_Make_Grenadier.description>Gestar um autômato granadeiro.</DMS_Make_Grenadier.description>
+  <DMS_Make_Sergeant.label>gestar sargento</DMS_Make_Sergeant.label>
+  <DMS_Make_Sergeant.description>Gestar um autômato sargento.</DMS_Make_Sergeant.description>
+  <DMS_Make_BattleFrame.label>gestar autômato camarada de batalha</DMS_Make_BattleFrame.label>
+  <DMS_Make_BattleFrame.description>Gestar um autômato camarada de batalha.</DMS_Make_BattleFrame.description>
+  <DMS_Make_FieldCommand.label>gestar autômato comando de campo</DMS_Make_FieldCommand.label>
+  <DMS_Make_FieldCommand.description>Gestar um autômato comando de campo.</DMS_Make_FieldCommand.description>
+  <DMS_Make_EscortLifter.label>gestar autômato transportador de escolta</DMS_Make_EscortLifter.label>
+  <DMS_Make_EscortLifter.description>Gestar um autômato transportador de escolta.</DMS_Make_EscortLifter.description>
+  <DMS_Make_ShaftWorker.label>gestar autômato operário de poço</DMS_Make_ShaftWorker.label>
+  <DMS_Make_ShaftWorker.description>Gestar um autômato operário de poço.</DMS_Make_ShaftWorker.description>
+  <DMS_Make_Ronin.label>gestar ronin</DMS_Make_Ronin.label>
+  <DMS_Make_Ronin.description>Gestar um autômato ronin.</DMS_Make_Ronin.description>
+  <DMS_Make_Siegebreaker.label>gestar quebra-cerco</DMS_Make_Siegebreaker.label>
+  <DMS_Make_Siegebreaker.description>Gestar um autômato quebra-cerco.</DMS_Make_Siegebreaker.description>
+  <DMS_Make_Protector.label>gestar protetor</DMS_Make_Protector.label>
+  <DMS_Make_Protector.description>Gestar um autômato protetor.</DMS_Make_Protector.description>
+  <DMS_Make_Phalanx.label>gestar falange</DMS_Make_Phalanx.label>
+  <DMS_Make_Phalanx.description>Gestar um autômato falange.</DMS_Make_Phalanx.description>
+  <DMS_Make_Arquebusier.label>gestar arcabuzeiro</DMS_Make_Arquebusier.label>
+  <DMS_Make_Arquebusier.description>Gestar um mecanoide arcabuzeiro, a versão padrão de soldados mecanizados, com a capacidade de operar a maioria das armas comuns.</DMS_Make_Arquebusier.description>
+  <DMS_Make_Pioneer.label>gestar pioneiro</DMS_Make_Pioneer.label>
+  <DMS_Make_Pioneer.description>Gestar um autômato pioneiro.</DMS_Make_Pioneer.description>
+  <DMS_Make_Sniper.label>gestar franco-atirador</DMS_Make_Sniper.label>
+  <DMS_Make_Sniper.description>Gestar um autômato franco-atirador.</DMS_Make_Sniper.description>
+  <DMS_Make_Jaeger.label>gestar caçador</DMS_Make_Jaeger.label>
+  <DMS_Make_Jaeger.description>Gestar um autômato caçador.</DMS_Make_Jaeger.description>
+  <DMS_Make_Iguana.label>gestar iguana</DMS_Make_Iguana.label>
+  <DMS_Make_Iguana.description>Gestar um autômato iguana.</DMS_Make_Iguana.description>
+  <DMS_Make_Gecko.label>gestar geco</DMS_Make_Gecko.label>
+  <DMS_Make_Gecko.description>Gestar um autômato geco.</DMS_Make_Gecko.description>
+  <DMS_Make_Geochelone.label>gestar jabuti</DMS_Make_Geochelone.label>
+  <DMS_Make_Geochelone.description>Gestar um autômato jabuti.</DMS_Make_Geochelone.description>
+  <DMS_Make_Tarbosaurus.label>gestar tarbossauro</DMS_Make_Tarbosaurus.label>
+  <DMS_Make_Tarbosaurus.description>Gestar um autômato tarbossauro.</DMS_Make_Tarbosaurus.description>
+  <DMS_ResurrectMediumMech.label>ressuscitar autômato médio</DMS_ResurrectMediumMech.label>
+  <DMS_ResurrectMediumMech.description>Ressuscite um autômato amigável da classe de peso médio. Enquanto o corpo do autômato não for completamente destruído, ele pode ser ressuscitado.</DMS_ResurrectMediumMech.description>
+  <DMS_ResurrectHeavyMech.label>ressuscitar autômato pesado</DMS_ResurrectHeavyMech.label>
+  <DMS_ResurrectHeavyMech.description>Ressuscite um autômato amigável da classe de peso pesado. Enquanto o corpo do autômato não for completamente destruído, ele pode ser ressuscitado.</DMS_ResurrectHeavyMech.description>
+  <DMS_ResurrectUltraheavyMech.label>ressuscitar autômato ultrapesado</DMS_ResurrectUltraheavyMech.label>
+  <DMS_ResurrectUltraheavyMech.description>Ressuscite um autômato amigável da classe de peso ultrapesado. Enquanto o corpo do autômato não for completamente destruído, ele pode ser ressuscitado.</DMS_ResurrectUltraheavyMech.description>
+  <MakeAmmo_9M311_SAM.label>fazer míssil antiaéreo 9M311</MakeAmmo_9M311_SAM.label>
+  <MakeAmmo_9M311_SAM.description>Fabricar 1 míssil antiaéreo 9M311.</MakeAmmo_9M311_SAM.description>
+  <MakeAmmo_9M311_SAM.jobString>Fabricando mísseis antiaéreos 9M311.</MakeAmmo_9M311_SAM.jobString>
+  <DMS_InstallProstheticEye.label>implantar sensor visual neuromecânico</DMS_InstallProstheticEye.label>
+  <DMS_InstallProstheticEye.description>Implantar um sensor visual neuromecânico.</DMS_InstallProstheticEye.description>
+  <DMS_InstallProstheticEye.jobString>Implantando olho biônico.</DMS_InstallProstheticEye.jobString>
+  <DMS_InstallProstheticArm.label>implantar braço neuromecânico</DMS_InstallProstheticArm.label>
+  <DMS_InstallProstheticArm.description>Implantar um braço neuromecânico.</DMS_InstallProstheticArm.description>
+  <DMS_InstallProstheticArm.jobString>Implantando braço neuromecânico.</DMS_InstallProstheticArm.jobString>
+  <DMS_InstallProstheticLeg.label>implantar perna neuromecânica</DMS_InstallProstheticLeg.label>
+  <DMS_InstallProstheticLeg.description>Implantar uma perna neuromecânica.</DMS_InstallProstheticLeg.description>
+  <DMS_InstallProstheticLeg.jobString>Implantando perna neuromecânica.</DMS_InstallProstheticLeg.jobString>
+  <DMS_InstallSensoryFilter.label>implantar neutralizador de emoções</DMS_InstallSensoryFilter.label>
+  <DMS_InstallSensoryFilter.description>Implantar um neutralizador de emoções.</DMS_InstallSensoryFilter.description>
+  <DMS_InstallSensoryFilter.jobString>Implantando filtro sensorial.</DMS_InstallSensoryFilter.jobString>
+  <DMS_RemoveSensoryFilter.label>remover neutralizador de emoções</DMS_RemoveSensoryFilter.label>
+  <DMS_RemoveSensoryFilter.description>Remover um neutralizador de emoções. Pode causar trauma mental grave.</DMS_RemoveSensoryFilter.description>
+  <DMS_RemoveSensoryFilter.jobString>Removendo filtro sensorial.</DMS_RemoveSensoryFilter.jobString>
+  <DMS_InstallNutrientPort.label>implantar porta de nutrição</DMS_InstallNutrientPort.label>
+  <DMS_InstallNutrientPort.description>Implantar uma porta de nutrição.</DMS_InstallNutrientPort.description>
+  <DMS_InstallNutrientPort.jobString>Implantando porta de nutrição.</DMS_InstallNutrientPort.jobString>
+  <DMS_InstallSyntheticArm.label>implantar braço biossintético</DMS_InstallSyntheticArm.label>
+  <DMS_InstallSyntheticArm.description>Implantar um braço biossintético.</DMS_InstallSyntheticArm.description>
+  <DMS_InstallSyntheticArm.jobString>Implantando braço biossintético.</DMS_InstallSyntheticArm.jobString>
+  <DMS_InstallSyntheticLeg.label>implantar perna biossintética</DMS_InstallSyntheticLeg.label>
+  <DMS_InstallSyntheticLeg.description>Implantar uma perna biossintética.</DMS_InstallSyntheticLeg.description>
+  <DMS_InstallSyntheticLeg.jobString>Implantando perna biossintética.</DMS_InstallSyntheticLeg.jobString>
+  <DMS_Make_Polyester.label>fazer poliéster x50</DMS_Make_Polyester.label>
+  <DMS_Make_Polyester.description>Sintetizar fibras de poliéster sintético usando combustível químico.</DMS_Make_Polyester.description>
+  <DMS_Make_Polyester.jobString>Sintetizando.</DMS_Make_Polyester.jobString>
+  <DMS_Make_PolyesterMass.label>fazer poliéster x200</DMS_Make_PolyesterMass.label>
+  <DMS_Make_PolyesterMass.description>Sintetizar fibras de poliéster sintético usando combustível químico.</DMS_Make_PolyesterMass.description>
+  <DMS_Make_PolyesterMass.jobString>Sintetizando.</DMS_Make_PolyesterMass.jobString>
+  <DMS_Make_Plasfiber.label>fazer fibra plástica x20</DMS_Make_Plasfiber.label>
+  <DMS_Make_Plasfiber.description>Sintetizar fibras plásticas.</DMS_Make_Plasfiber.description>
+  <DMS_Make_Plasfiber.jobString>Sintetizando.</DMS_Make_Plasfiber.jobString>
+  <DMS_Make_PlasfiberMass.label>fazer fibra plástica x80</DMS_Make_PlasfiberMass.label>
+  <DMS_Make_PlasfiberMass.description>Sintetizar um grande lote de fibra plástica.</DMS_Make_PlasfiberMass.description>
+  <DMS_Make_PlasfiberMass.jobString>Sintetizando.</DMS_Make_PlasfiberMass.jobString>
+  <DMS_Make_Tungsteel.label>fazer aço-tungstênio x20</DMS_Make_Tungsteel.label>
+  <DMS_Make_Tungsteel.description>Sinterizar uma pequena quantidade de aço-tungstênio.</DMS_Make_Tungsteel.description>
+  <DMS_Make_Tungsteel.jobString>Sinterizando.</DMS_Make_Tungsteel.jobString>
+  <DMS_Make_TungsteelMass.label>fazer aço-tungstênio x80</DMS_Make_TungsteelMass.label>
+  <DMS_Make_TungsteelMass.description>Sinterizar uma grande quantidade de aço-tungstênio.</DMS_Make_TungsteelMass.description>
+  <DMS_Make_TungsteelMass.jobString>Sinterizando.</DMS_Make_TungsteelMass.jobString>
+  <DMS_Make_Ceramics.label>fazer cerâmica x20</DMS_Make_Ceramics.label>
+  <DMS_Make_Ceramics.description>Fazer uma pequena quantidade de placas de cerâmica.</DMS_Make_Ceramics.description>
+  <DMS_Make_Ceramics.jobString>Fabricando.</DMS_Make_Ceramics.jobString>
+  <DMS_Make_CeramicsMass.label>fazer cerâmica x80</DMS_Make_CeramicsMass.label>
+  <DMS_Make_CeramicsMass.description>Fazer uma grande quantidade de placas de cerâmica.</DMS_Make_CeramicsMass.description>
+  <DMS_Make_CeramicsMass.jobString>Fabricando.</DMS_Make_CeramicsMass.jobString>
+  <DMS_Make_ComponentStamped.label>fazer componente estampado</DMS_Make_ComponentStamped.label>
+  <DMS_Make_ComponentStamped.description>Fazer um componente estampado.</DMS_Make_ComponentStamped.description>
+  <DMS_Make_ComponentStamped.jobString>Estampando componentes.</DMS_Make_ComponentStamped.jobString>
+  <DMS_Make_ComponentStampedMass.label>fazer componente estampado x4</DMS_Make_ComponentStampedMass.label>
+  <DMS_Make_ComponentStampedMass.description>Fazer componentes estampados.</DMS_Make_ComponentStampedMass.description>
+  <DMS_Make_ComponentStampedMass.jobString>Estampando componentes.</DMS_Make_ComponentStampedMass.jobString>
+  <DMS_Make_ComponentIndustrial.label>fazer componente x4</DMS_Make_ComponentIndustrial.label>
+  <DMS_Make_ComponentIndustrial.description>Fazer 4 componentes usando a impressora de máquinas, o que leva mais tempo e mais recursos.</DMS_Make_ComponentIndustrial.description>
+  <DMS_Make_ComponentIndustrial.jobString>Fabricando componente.</DMS_Make_ComponentIndustrial.jobString>
+  <DMS_Convert_ComponentIndustrial.label>converter componente estampado</DMS_Convert_ComponentIndustrial.label>
+  <DMS_Convert_ComponentIndustrial.description>Converter um componente estampado em um componente.</DMS_Convert_ComponentIndustrial.description>
+  <DMS_Convert_ComponentIndustrial.jobString>Fabricando componente.</DMS_Convert_ComponentIndustrial.jobString>
+  <DMS_Make_Artifuscle.label>cultivar músculo artificial x25</DMS_Make_Artifuscle.label>
+  <DMS_Make_Artifuscle.description>Cultivar músculo artificial usando fibra plástica como pele, aço-tungstênio como osso, ouro como neurofilamento e neutroamina como sangue.</DMS_Make_Artifuscle.description>
+  <DMS_Make_Artifuscle.jobString>Cultivando músculo artificial.</DMS_Make_Artifuscle.jobString>
+  <DMS_Make_ArtifuscleMass.label>cultivar músculo artificial x100</DMS_Make_ArtifuscleMass.label>
+  <DMS_Make_ArtifuscleMass.description>Cultivar um grande lote de músculo artificial.</DMS_Make_ArtifuscleMass.description>
+  <DMS_Make_ArtifuscleMass.jobString>Cultivando músculo artificial.</DMS_Make_ArtifuscleMass.jobString>
+  <DMS_Make_WetWare.label>sintetizar computador de wetware</DMS_Make_WetWare.label>
+  <DMS_Make_WetWare.description>Sintetizar um computador de wetware — um computador de alta precisão que pode ser produzido e usado em larga escala.</DMS_Make_WetWare.description>
+  <DMS_Make_WetWare.jobString>Sintetizando computador de wetware.</DMS_Make_WetWare.jobString>
+  <DMS_Make_Gladiator.label>gestar gladiador</DMS_Make_Gladiator.label>
+  <DMS_Make_Gladiator.description>Gestar um autômato gladiador.</DMS_Make_Gladiator.description>
+  <DMS_Make_Killdozer.label>gestar killdozer</DMS_Make_Killdozer.label>
+  <DMS_Make_Killdozer.description>Gestar um autômato killdozer.</DMS_Make_Killdozer.description>
+  <DMS_Make_Caretta.label>gestar caretta</DMS_Make_Caretta.label>
+  <DMS_Make_Caretta.description>Gestar um mecanoide caretta.</DMS_Make_Caretta.description>
+  <DMS_Make_HermitCrab.label>gestar caranguejo-ermitão</DMS_Make_HermitCrab.label>
+  <DMS_Make_HermitCrab.description>Gestar um autômato caranguejo-ermitão.</DMS_Make_HermitCrab.description>
+  <DMS_Make_Dogge.label>gestar dogue</DMS_Make_Dogge.label>
+  <DMS_Make_Dogge.description>Gestar um autômato dogue.</DMS_Make_Dogge.description>
+  <DMS_ExtractMetalFromSlag.label>fundir metal de destroços de autômato</DMS_ExtractMetalFromSlag.label>
+  <DMS_ExtractMetalFromSlag.description>Use calor e eletroímãs fortes para extrair metais úteis de destroços de autômatos.</DMS_ExtractMetalFromSlag.description>
+  <DMS_ExtractMetalFromSlag.jobString>Fundindo metal de destroços de autômatos.</DMS_ExtractMetalFromSlag.jobString>
+  <DMS_ExtractCompFromSlag.label>desmontar destroços de autômato</DMS_ExtractCompFromSlag.label>
+  <DMS_ExtractCompFromSlag.description>Desmontar destroços de autômatos para extrair componentes úteis.</DMS_ExtractCompFromSlag.description>
+  <DMS_ExtractCompFromSlag.jobString>Desmontando destroços de autômatos.</DMS_ExtractCompFromSlag.jobString>
+  <DMS_InstallProstheticLung.label>implantar pulmão neuromecânico</DMS_InstallProstheticLung.label>
+  <DMS_InstallProstheticLung.description>Implantar um pulmão neuromecânico.</DMS_InstallProstheticLung.description>
+  <DMS_InstallProstheticLung.jobString>Implantando pulmão neuromecânico.</DMS_InstallProstheticLung.jobString>
+  <DMS_InstallProstheticKidney.label>implantar rim neuromecânico</DMS_InstallProstheticKidney.label>
+  <DMS_InstallProstheticKidney.description>Implantar um rim neuromecânico.</DMS_InstallProstheticKidney.description>
+  <DMS_InstallProstheticKidney.jobString>Implantando rim neuromecânico.</DMS_InstallProstheticKidney.jobString>
+  <DMS_Make_NuclearBattery.label>fazer bateria nuclear</DMS_Make_NuclearBattery.label>
+  <DMS_Make_NuclearBattery.description>Fazer uma bateria nuclear.</DMS_Make_NuclearBattery.description>
+  <DMS_Make_NuclearBattery.jobString>Fabricando bateria nuclear.</DMS_Make_NuclearBattery.jobString>
+  <DMS_Make_Mammoth.label>gestar autômato mamute anão</DMS_Make_Mammoth.label>
+  <DMS_Make_Mammoth.description>Gestar um autômato mamute anão.</DMS_Make_Mammoth.description>
+  <DMS_ResurrectLightMech.label>ressuscitar autômato leve</DMS_ResurrectLightMech.label>
+  <DMS_ResurrectLightMech.description>Ressuscite um autômato amigável da classe de peso leve. Enquanto o corpo do autômato não for completamente destruído, ele pode ser ressuscitado.</DMS_ResurrectLightMech.description>
+  <DMS_Make_Hyrax.label>gestar damão</DMS_Make_Hyrax.label>
+  <DMS_Make_Hyrax.description>Gestar um autômato damão.</DMS_Make_Hyrax.description>
+  <DMS_Make_Ape.jobString>Gestando mecanoide.</DMS_Make_Ape.jobString>
+  <DMS_Make_Arquebusier.jobString>Gestando mecanoide.</DMS_Make_Arquebusier.jobString>
+  <DMS_Make_BattleFrame.jobString>Gestando mecanoide.</DMS_Make_BattleFrame.jobString>
+  <DMS_Make_EscortLifter.jobString>Gestando mecanoide.</DMS_Make_EscortLifter.jobString>
+  <DMS_Make_FieldCommand.jobString>Gestando mecanoide.</DMS_Make_FieldCommand.jobString>
+  <DMS_Make_Gladiator.jobString>Gestando mecanoide.</DMS_Make_Gladiator.jobString>
+  <DMS_Make_Jaeger.jobString>Gestando mecanoide.</DMS_Make_Jaeger.jobString>
+  <DMS_Make_Phalanx.jobString>Gestando mecanoide.</DMS_Make_Phalanx.jobString>
+  <DMS_Make_Pioneer.jobString>Gestando mecanoide.</DMS_Make_Pioneer.jobString>
+  <DMS_Make_Protector.jobString>Gestando mecanoide.</DMS_Make_Protector.jobString>
+  <DMS_Make_Ronin.jobString>Gestando mecanoide.</DMS_Make_Ronin.jobString>
+  <DMS_Make_ShaftWorker.jobString>Gestando mecanoide.</DMS_Make_ShaftWorker.jobString>
+  <DMS_Make_Siegebreaker.jobString>Gestando mecanoide.</DMS_Make_Siegebreaker.jobString>
+  <DMS_Make_Sniper.jobString>Gestando mecanoide.</DMS_Make_Sniper.jobString>
+  <DMS_ResurrectHeavyMech.jobString>Ressuscitando mecanoide.</DMS_ResurrectHeavyMech.jobString>
+  <DMS_ResurrectMediumMech.jobString>Ressuscitando mecanoide.</DMS_ResurrectMediumMech.jobString>
+  <DMS_ResurrectUltraheavyMech.jobString>Ressuscitando mecanoide.</DMS_ResurrectUltraheavyMech.jobString>
+  <DMS_Make_Caretta.jobString>Gestando mecanoide.</DMS_Make_Caretta.jobString>
+  <DMS_Make_Gecko.jobString>Gestando mecanoide.</DMS_Make_Gecko.jobString>
+  <DMS_Make_Geochelone.jobString>Gestando mecanoide.</DMS_Make_Geochelone.jobString>
+  <DMS_Make_HermitCrab.jobString>Gestando mecanoide.</DMS_Make_HermitCrab.jobString>
+  <DMS_Make_Iguana.jobString>Gestando mecanoide.</DMS_Make_Iguana.jobString>
+  <DMS_Make_Killdozer.jobString>Gestando mecanoide.</DMS_Make_Killdozer.jobString>
+  <DMS_Make_Tarbosaurus.jobString>Gestando mecanoide.</DMS_Make_Tarbosaurus.jobString>
+  <DMS_Make_Dogge.jobString>Gestando mecanoide.</DMS_Make_Dogge.jobString>
+  <DMS_Make_Falcon.jobString>Gestando mecanoide.</DMS_Make_Falcon.jobString>
+  <DMS_Make_Grenadier.jobString>Gestando mecanoide.</DMS_Make_Grenadier.jobString>
+  <DMS_Make_Noctula.jobString>Gestando mecanoide.</DMS_Make_Noctula.jobString>
+  <DMS_Make_Sergeant.jobString>Gestando mecanoide.</DMS_Make_Sergeant.jobString>
+  <DMS_Make_Soldat.jobString>Gestando mecanoide.</DMS_Make_Soldat.jobString>
+  <DMS_ResurrectLightMech.jobString>Ressuscitando mecanoide.</DMS_ResurrectLightMech.jobString>
+</LanguageData>

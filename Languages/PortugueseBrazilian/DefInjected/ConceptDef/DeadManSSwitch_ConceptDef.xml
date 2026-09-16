@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_WeaponSystems.label>Sistema de armas</DMS_WeaponSystems.label>
+  <DMS_Autofacturer.label>Produção autônoma</DMS_Autofacturer.label>
+  <DMS_DronePlatform.label>Plataforma de drones</DMS_DronePlatform.label>
+  <DMS_Drone.label>Drone</DMS_Drone.label>
+  <DMS_HeavyWeapon.label>Arma pesada</DMS_HeavyWeapon.label>
+  <DMS_Autofacturer.helpText>As bancadas de produção automatizadas são um pouco diferentes das bancadas de trabalho comuns. Seu funcionamento é mais semelhante ao do gestador mecanoide. Ou seja, após inserir os materiais e inicializar, os colonos podem fazer outras coisas. Só é necessário reiniciar periodicamente o processo de inicialização para concluir a fabricação.</DMS_Autofacturer.helpText>
+  <DMS_Drone.helpText>Drones são um tipo primitivo de mecanoide que não depende de um mecanizador. Eles dependem de plataformas de controle remoto e da operação de um operador, e também têm bateria limitada. Você pode ordenar que o drone retorne à plataforma para reabastecê-la e permitir que o drone seja reparado e a bateria recarregada.</DMS_Drone.helpText>
+  <DMS_DronePlatform.helpText>A plataforma de controle é uma estação base fixa que permite gerenciar drones com flexibilidade. Você pode ordenar que seus colonos carreguem recursos consumíveis na plataforma e configurar os botões da plataforma para liberar e recolher drones automaticamente quando possível; apenas saiba que os drones serão destruídos se a plataforma for destruída.</DMS_DronePlatform.helpText>
+  <DMS_HeavyWeapon.helpText>Obviamente você tem uma arma muito pesada. Essas armas não foram projetadas para uso direto e podem até ser inutilizáveis por humanos, então você pode precisar de uma pessoa equipada com exoesqueleto ou de um mecanoide dedicado para equipar esse tipo de arma. As condições específicas de equipamento podem ser verificadas no cartão de informações da arma.</DMS_HeavyWeapon.helpText>
+  <DMS_WeaponSystems.helpText>Aparentemente você poderá criar mecanoides que podem personalizar armas. Observe que esses mecanoides geralmente têm restrições quanto às armas que podem equipar. Você pode ver todas as armas suportadas pelo mecanoide nas propriedades do sistema de armas no cartão de informações.</DMS_WeaponSystems.helpText>
+</LanguageData>
