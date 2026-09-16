@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SMYH.settings>Configurações</SMYH.settings>
+  <SMYH.summary>Resumo</SMYH.summary>
+  <SMYH.summary.tooltip>Clique no nome de um mod para filtrar a lista e mostrar apenas as armas desse mod</SMYH.summary.tooltip>
+  <SMYH.unknown>Desconhecido</SMYH.unknown>
+  <SMYH.uiscale.label>INFO \nA escala da interface não está definida como 1,0x. A interface de configurações ficará estranha para algumas armas.</SMYH.uiscale.label>
+  <SMYH.uiscale.tooltip>Algumas armas precisam ser rotacionadas, pois sua textura não tem o ângulo padrão. A função de rotação tem problemas quando a escala da interface está definida como qualquer valor diferente de 1,0x. Não é preciso alterá-la para que as configurações tenham efeito.</SMYH.uiscale.tooltip>
+  <SMYH.copy.label>Copiar valores manuais</SMYH.copy.label>
+  <SMYH.copy.tooltip>Copia os valores alterados em um formato XML que pode ser usado para criar melhores definições padrão</SMYH.copy.tooltip>
+  <SMYH.copy.button>Copiar tudo</SMYH.copy.button>
+  <SMYH.copied>Dados modificados copiados para a área de transferência.</SMYH.copied>
+  <SMYH.copyselected.button>Copiar selecionados</SMYH.copyselected.button>
+  <SMYH.paste.button>Colar configurações</SMYH.paste.button>
+  <SMYH.copyone.button>Copiar configurações</SMYH.copyone.button>
+  <SMYH.paste.info>Configurações coladas</SMYH.paste.info>
+  <SMYH.copy.info>Configurações copiadas</SMYH.copy.info>
+  <SMYH.resetall.label>Redefinição da configuração manual</SMYH.resetall.label>
+  <SMYH.resetall.tooltip>Redefine todas as configurações de mão definidas</SMYH.resetall.tooltip>
+  <SMYH.resetall.button>Redefinir tudo</SMYH.resetall.button>
+  <SMYH.resetselected.button>Redefinir selecionados</SMYH.resetselected.button>
+  <SMYH.logging.label>Ativar registro detalhado</SMYH.logging.label>
+  <SMYH.logging.tooltip>Mostra o registro detalhado, para encontrar erros</SMYH.logging.tooltip>
+  <SMYH.rotation.label>Ativar suporte a rotação</SMYH.rotation.label>
+  <SMYH.rotation.tooltip>Permite definir uma rotação personalizada das mãos; isso só terá efeito ao usar uma textura de mão não padrão</SMYH.rotation.tooltip>
+  <SMYH.matchartificiallimb.label>Tentar igualar mãos substituídas</SMYH.matchartificiallimb.label>
+  <SMYH.matchartificiallimb.tooltip>Se as mãos do colono forem substituídas por uma mão artificial, tentará mostrar a cor do membro artificial em vez disso</SMYH.matchartificiallimb.tooltip>
+  <SMYH.matchhandamounts.label>Não mostrar mãos ausentes</SMYH.matchhandamounts.label>
+  <SMYH.matchhandamounts.tooltip>Se o colono não tiver uma mão, mostrará apenas a mão principal em armas de duas mãos</SMYH.matchhandamounts.tooltip>
+  <SMYH.showwhencarry.label>Mostrar mãos ao carregar coisas</SMYH.showwhencarry.label>
+  <SMYH.showwhencarry.tooltip>Desenhará as mãos quando os colonos estiverem carregando coisas</SMYH.showwhencarry.tooltip>
+  <SMYH.showcrawling.label>Mostrar mãos ao rastejar</SMYH.showcrawling.label>
+  <SMYH.showcrawling.tooltip>Mostrará as mãos quando o colono estiver caído e rastejando</SMYH.showcrawling.tooltip>
+  <SMYH.showothertimes.label>Mostrar mãos sempre</SMYH.showothertimes.label>
+  <SMYH.showothertimes.tooltip>Desenhará mãos estáticas nas laterais do colono quando ele não estiver fazendo outra coisa com elas; alguns problemas foram relatados e estou trabalhando em uma maneira melhor de fazer isso</SMYH.showothertimes.tooltip>
+  <SMYH.matcharmor.label>Tentar igualar a cor da armadura</SMYH.matcharmor.label>
+  <SMYH.matcharmor.tooltip>Se o colono estiver usando uma armadura que cobre as mãos, a cor das mãos tentará igualar a cor da armadura</SMYH.matcharmor.tooltip>
+  <SMYH.resizehands.label>Redimensionar mãos com base no tamanho de desenho do corpo</SMYH.resizehands.label>
+  <SMYH.resizehands.tooltip>Tenta igualar o tamanho do colono ao desenhar as mãos. Isso pode parecer estranho se a definição da raça usar valores inesperados.</SMYH.resizehands.tooltip>
+  <SMYH.repositionhands.label>Reposicionar mãos em armas superdimensionadas</SMYH.repositionhands.label>
+  <SMYH.repositionhands.tooltip>Compensará armas que têm um tamanho de desenho maior. Esta opção pode ser desativada em alguns casos em que outro mod substitui o tamanho de desenho, por exemplo as animações do Yayo Combat 3.</SMYH.repositionhands.tooltip>
+  <SMYH.version.label>Versão do mod instalada: {0}</SMYH.version.label>
+  <SMYH.error.weapon>Erro, não foi possível encontrar a arma {0} no banco de dados</SMYH.error.weapon>
+  <SMYH.error.hands>Erro, não foi possível encontrar as informações de mão de {0} no banco de dados</SMYH.error.hands>
+  <SMYH.error.texture>Erro, não foi possível encontrar as informações de textura de {0} no banco de dados</SMYH.error.texture>
+  <SMYH.twohands.label>Usa duas mãos</SMYH.twohands.label>
+  <SMYH.nohands.label>Não usa mãos</SMYH.nohands.label>
+  <SMYH.mainhandhorizontal.label>Mão principal horizontal</SMYH.mainhandhorizontal.label>
+  <SMYH.mainhandvertical.label>Mão principal vertical</SMYH.mainhandvertical.label>
+  <SMYH.mainhandrotation.label>Rotação da mão principal</SMYH.mainhandrotation.label>
+  <SMYH.renderbehind.label>Desenhar atrás da arma</SMYH.renderbehind.label>
+  <SMYH.offhandhorizontal.label>Mão secundária horizontal</SMYH.offhandhorizontal.label>
+  <SMYH.offhandvertical.label>Mão secundária vertical</SMYH.offhandvertical.label>
+  <SMYH.offhandrotation.label>Rotação da mão secundária</SMYH.offhandrotation.label>
+  <SMYH.style.label>Estilo:</SMYH.style.label>
+  <SMYH.styledefault.label>Padrão</SMYH.styledefault.label>
+  <SMYH.degree>{0}°</SMYH.degree>
+  <SMYH.reset.button>Redefinir</SMYH.reset.button>
+  <SMYH.undo.button>Desfazer</SMYH.undo.button>
+  <SMYH.save.button>Salvar</SMYH.save.button>
+  <SMYH.resetsingle.confirm>Isso removerá qualquer configuração de mão salva para a arma e recarregará as configurações padrão</SMYH.resetsingle.confirm>
+  <SMYH.resetall.confirm>Isso removerá TODAS as configurações de mão salvas de TODAS as armas e recarregará as configurações padrão</SMYH.resetall.confirm>
+  <SMYH.resetselected.confirm>Isso removerá todas as configurações de mão salvas do mod {0}</SMYH.resetselected.confirm>
+  <SMYH.showhidden>Mostrar {0} armas ocultas</SMYH.showhidden>
+  <SMYH.weaponrow.red>Usa as configurações padrão</SMYH.weaponrow.red>
+  <SMYH.weaponrow.cyan>Tem configurações personalizadas incluídas no mod</SMYH.weaponrow.cyan>
+  <SMYH.weaponrow.green>Tem configurações pessoais definidas pelo jogador</SMYH.weaponrow.green>
+  <SMYH.draginfo>Arraste com o clique esquerdo para definir a posição da mão principal; arraste com o clique direito para definir a posição da mão secundária.</SMYH.draginfo>
+  <SMYH.rotate>Use a roda do mouse para girar as mãos; segure SHIFT para girar mais rápido</SMYH.rotate>
+  <SMYH.basehandsize.label>Tamanho base das mãos: {0}</SMYH.basehandsize.label>
+  <SMYH.basehandsize.tooltip>O tamanho base das mãos antes de qualquer recálculo de tamanho do corpo</SMYH.basehandsize.tooltip>
+  <SMYH.showhandscolonistsonly.label>Mostrar apenas em colonos</SMYH.showhandscolonistsonly.label>
+  <SMYH.showhandscolonistsonly.tooltip>As mãos só serão mostradas em colonos, escravos, mecanoides da colônia e outros colonos controlados pelo jogador.</SMYH.showhandscolonistsonly.tooltip>
+  <SMYH.showonraces.label>Raças habilitadas</SMYH.showonraces.label>
+  <SMYH.showonraces.search>Pesquisar</SMYH.showonraces.search>
+  <SMYH.search.tooltip>Pesquise por nome de arma, defname ou nome do mod</SMYH.search.tooltip>
+  <SMYH.showonraces.reset>Redefinir</SMYH.showonraces.reset>
+</LanguageData>

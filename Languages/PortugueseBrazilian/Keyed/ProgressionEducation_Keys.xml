@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PE_Create>Criar</PE_Create>
+  <PE_Select>Selecionar</PE_Select>
+  <PE_PasteHex>Colar hex</PE_PasteHex>
+  <PE_Classes>Aulas ativas</PE_Classes>
+  <PE_Classrooms>Salas de aula</PE_Classrooms>
+  <PE_ProgressFormat>{0} / {1}</PE_ProgressFormat>
+  <PE_ClassScheduling>Ver cronograma</PE_ClassScheduling>
+  <PE_HourlyProgress>Progresso por hora</PE_HourlyProgress>
+  <PE_Xp>{0} xp</PE_Xp>
+  <PE_ClassroomsDescription>As salas de aula aparecerão aqui conforme você as construir em sua colônia.</PE_ClassroomsDescription>
+  <PE_CreateClass>Criar uma aula</PE_CreateClass>
+  <PE_CreateClassDesc>Crie uma nova aula para o semestre. As aulas treinam alunos em várias habilidades. As creches são apenas para crianças e ensinam uma habilidade aleatória por sessão, com base na proficiência do professor e no que os alunos podem aprender. Todas as aulas satisfazem a necessidade de aprendizado das crianças.</PE_CreateClassDesc>
+  <PE_ClassName>Nome da aula</PE_ClassName>
+  <PE_Subject>Matéria</PE_Subject>
+  <PE_SkillFocus>Foco de habilidade</PE_SkillFocus>
+  <PE_ProficiencyFocus>Foco de proficiência</PE_ProficiencyFocus>
+  <PE_SemesterGoal>Meta do semestre</PE_SemesterGoal>
+  <PE_ConfirmDeleteClass>Tem certeza de que deseja excluir esta aula?</PE_ConfirmDeleteClass>
+  <PE_StudyTimeNeeded>Tempo de estudo contínuo necessário: {0}</PE_StudyTimeNeeded>
+  <PE_Requirements>Requisitos</PE_Requirements>
+  <PE_LearningBoard>lousa de aprendizado</PE_LearningBoard>
+  <PE_Bell>sino</PE_Bell>
+  <PE_SchoolDesks>carteiras escolares</PE_SchoolDesks>
+  <PE_ClassHours>Horário da aula</PE_ClassHours>
+  <PE_Present>({0} presentes)</PE_Present>
+  <PE_NotPresent>ausente do mapa</PE_NotPresent>
+  <PE_Classroom>Sala de aula</PE_Classroom>
+  <PE_SelectClassroom>Selecionar sala de aula</PE_SelectClassroom>
+  <PE_NoClassroomsAvailable>Nenhuma sala de aula disponível.</PE_NoClassroomsAvailable>
+  <PE_NotEnoughBenches>Quantidade insuficiente de {0}. Necessário: {1}, Disponível: {2}.</PE_NotEnoughBenches>
+  <PE_SubjectSkill>habilidade</PE_SubjectSkill>
+  <PE_SubjectProficiency>proficiência</PE_SubjectProficiency>
+  <PE_SubjectDaycare>creche</PE_SubjectDaycare>
+  <PE_Daycare>Satisfaz a necessidade de aprendizado das crianças. Agendada até ser excluída.</PE_Daycare>
+  <PE_SkillFocusMissing>Foco de habilidade ausente</PE_SkillFocusMissing>
+  <PE_ScheduleTime>{0}h - {1}h</PE_ScheduleTime>
+  <PE_EditClassroom>Editar sala de aula</PE_EditClassroom>
+  <PE_ChangeColor>Mudar cor</PE_ChangeColor>
+  <PE_NameClassroom>Nomear sala de aula</PE_NameClassroom>
+  <PE_NewClassroomCreated>Nova sala de aula: {0}</PE_NewClassroomCreated>
+  <PE_NewClassroomCreatedDesc>Você criou uma sala de aula. As aulas podem ser gerenciadas no menu de salas de aula na barra inferior.</PE_NewClassroomCreatedDesc>
+  <PE_Spectators>Espectadores</PE_Spectators>
+  <PE_NotParticipating>Não participantes</PE_NotParticipating>
+  <PE_TeacherRole>professor</PE_TeacherRole>
+  <PE_StudentRole>Aluno</PE_StudentRole>
+  <PE_TeacherRoleOnlyForAdults>Apenas adultos podem ser professores.</PE_TeacherRoleOnlyForAdults>
+  <PE_TeacherRoleRequiresSocialSkill>Os professores precisam ter a habilidade Social habilitada.</PE_TeacherRoleRequiresSocialSkill>
+  <PE_ClassCancelled>Aula cancelada: {0}</PE_ClassCancelled>
+  <PE_ClassCancelledDesc>A aula "{0}" foi cancelada porque nem todos os alunos conseguiram chegar à aula a tempo.</PE_ClassCancelledDesc>
+  <PE_MissingStudents>Alunos ausentes: {0}</PE_MissingStudents>
+  <PE_ClassCompleted>Aula concluída: {0}</PE_ClassCompleted>
+  <PE_ClassCompletedDesc>A aula "{0}" concluiu seu semestre com sucesso.</PE_ClassCompletedDesc>
+  <PE_ClassGraduates>Formandos: {0}</PE_ClassGraduates>
+  <PE_CannotEquipItem>O colono precisa aprender a proficiência em {0}.</PE_CannotEquipItem>
+  <PE_ProficiencyLowTech>Baixa tecnologia</PE_ProficiencyLowTech>
+  <PE_ProficiencyFirearm>Arma de fogo</PE_ProficiencyFirearm>
+  <PE_ProficiencyHighTech>Alta tecnologia</PE_ProficiencyHighTech>
+  <PE_StudentNotQualifiedProficiency>{0} não possui a proficiência necessária em {1}.</PE_StudentNotQualifiedProficiency>
+  <PE_StudentAlreadyHasProficiency>{0} já possui a proficiência necessária em {1} ou superior.</PE_StudentAlreadyHasProficiency>
+  <PE_CannotParticipateScheduled>Não é possível participar: já está agendado(a) das {0}h às {1}h para a aula "{2}".</PE_CannotParticipateScheduled>
+  <PE_CannotRescheduleScheduled>Não é possível reagendar: {0} já está agendado(a) das {1}h às {2}h para a aula "{3}".</PE_CannotRescheduleScheduled>
+  <PE_TrainingProficiency>Ensinando: {0}</PE_TrainingProficiency>
+  <PE_TeacherNotQualifiedProficiency>{0} não possui a proficiência necessária em {1} para lecionar.</PE_TeacherNotQualifiedProficiency>
+  <PE_TrainingSkill>Treinando a habilidade {0}</PE_TrainingSkill>
+  <PE_TeacherNotQualifiedSkill>A habilidade {1} de {0} é baixa demais para lecionar (deve ser pelo menos 5).</PE_TeacherNotQualifiedSkill>
+  <PE_StudentSkillDisabled>A habilidade {1} de {0} está desabilitada e não pode ser treinada.</PE_StudentSkillDisabled>
+  <PE_MustBeChild>Deve ser uma criança.</PE_MustBeChild>
+  <PE_NoLearningNeed>Sem necessidade de aprendizado.</PE_NoLearningNeed>
+  <PE_JobReport_WaitingForStudents>Aguardando alunos</PE_JobReport_WaitingForStudents>
+  <PE_JobReport_WaitingForClass>Aguardando a aula começar</PE_JobReport_WaitingForClass>
+  <PE_GlobalLearningSpeed>Velocidade global de aprendizado</PE_GlobalLearningSpeed>
+  <PE_SkillClassesLearningSpeed>Velocidade de aprendizado das aulas de habilidade</PE_SkillClassesLearningSpeed>
+  <PE_ProficiencyClassesLearningSpeed>Velocidade de aprendizado das aulas de proficiência</PE_ProficiencyClassesLearningSpeed>
+  <PE_DaycareClassesLearningSpeed>Velocidade da necessidade de aprendizado das crianças</PE_DaycareClassesLearningSpeed>
+  <PE_EnableProficiencySystem>Habilitar sistema de proficiência</PE_EnableProficiencySystem>
+  <PE_EnableDebugMode>Habilitar modo de depuração</PE_EnableDebugMode>
+  <PE_EnterClassName>Digite um nome para a aula</PE_EnterClassName>
+  <PE_SelectTeacher>Selecione um professor</PE_SelectTeacher>
+  <PE_SelectAtLeastOneStudent>Selecione pelo menos um aluno</PE_SelectAtLeastOneStudent>
+  <PE_TeacherUnassigned>{0} foi removido(a) da função de professor: {1}</PE_TeacherUnassigned>
+  <PE_NoLearningBoard>Nenhuma lousa de aprendizado encontrada na sala de aula</PE_NoLearningBoard>
+  <PE_NoBell>Nenhum sino encontrado no mapa</PE_NoBell>
+  <PE_BellNotPowered>O sino está sem energia</PE_BellNotPowered>
+  <PE_StudentsUnqualified>{0} não pode participar da aula</PE_StudentsUnqualified>
+  <PE_ClassroomSettings>Configurações da sala de aula</PE_ClassroomSettings>
+  <PE_RestrictReservationsDuringClass>Proibir trabalho comum na sala de aula</PE_RestrictReservationsDuringClass>
+  <PE_RestrictReservationsDuringClass_Desc>Se habilitado, os colonos não poderão usar os móveis da sala de aula (carteiras etc.).</PE_RestrictReservationsDuringClass_Desc>
+  <PE_InterruptJobsDuringClass>Interromper todas as tarefas para assistir às aulas aqui</PE_InterruptJobsDuringClass>
+  <PE_InterruptJobsDuringClass_Desc>Se habilitado, os colonos interromperão todas as suas tarefas atuais para assistir à aula nesta sala quando o sino tocar.</PE_InterruptJobsDuringClass_Desc>
+  <PE_ClassCancelledOffMap>Aula {0} cancelada hoje porque os membros estão fora do mapa.</PE_ClassCancelledOffMap>
+  <PE_ClassCancelledToday>Aula {0} cancelada hoje,</PE_ClassCancelledToday>
+  <PE_NoClassesScheduled>Nenhuma aula agendada. Clique no botão de mais para criar uma aula.</PE_NoClassesScheduled>
+  <PE_TriedToEquipButCouldNotDueToLackOfProficiency>{0} tentou equipar {1}, mas não conseguiu por falta de proficiência</PE_TriedToEquipButCouldNotDueToLackOfProficiency>
+  <PE_CreateClassroomFirst>Crie uma sala de aula primeiro.</PE_CreateClassroomFirst>
+  <PE_SuspendClass>Suspender aula</PE_SuspendClass>
+  <PE_ResumeClass>Retomar aula</PE_ResumeClass>
+  <PE_ClassPartiallyFunctioningWarning>A aula {0} funcionará com eficiência reduzida porque nem todos os participantes estão presentes.</PE_ClassPartiallyFunctioningWarning>
+  <PE_ProficiencyClassNeverStarted>A aula {0} não iniciou porque nem todos os alunos chegaram a tempo.</PE_ProficiencyClassNeverStarted>
+  <PE_AlreadyHasLearningBoard>Esta sala já tem uma lousa de aprendizado.</PE_AlreadyHasLearningBoard>
+  <PE_LearningBoardNearby>Há outra lousa de aprendizado muito próxima.</PE_LearningBoardNearby>
+  <PE_NoTeacherForBell>Nenhum professor válido encontrado para a sala de aula. Não é possível tocar o sino.</PE_NoTeacherForBell>
+  <PE_SelectTrait>Selecione o traço de proficiência</PE_SelectTrait>
+  <PE_ScenPart_ForcedProficiencyTrait>Os colonos iniciais começarão com o traço {0}.</PE_ScenPart_ForcedProficiencyTrait>
+  <PE_ScenPart_ForcedProficiencyTrait_NoTrait>Todos os colonos iniciais terão um traço de proficiência.</PE_ScenPart_ForcedProficiencyTrait_NoTrait>
+  <PE_RemovedFromDaycareOnAgeUp>{0} cresceu e foi removido(a) da creche "{1}".</PE_RemovedFromDaycareOnAgeUp>
+  <PE_TeacherBellFailure>A aula não começou porque o professor não conseguiu alertar alunos suficientes dentro do tempo programado. Considere melhorar o sino escolar ou prolongar a sessão de aula.</PE_TeacherBellFailure>
+  <PE_NoBellToCreateClass>Você precisa construir um sino ou uma sineta de aula antes de poder criar uma aula.</PE_NoBellToCreateClass>
+  <PE_LearningBoardIsBlocked>Há uma obstrução em {0}.</PE_LearningBoardIsBlocked>
+  <PE_Suspended>(suspensa)</PE_Suspended>
+  <PE_TeacherOffMap>A aula {0} foi cancelada porque o professor não está no mapa.</PE_TeacherOffMap>
+  <PE_NoStudents>A aula {0} foi cancelada porque não havia alunos.</PE_NoStudents>
+  <PE_AddStudents>Adicionar alunos</PE_AddStudents>
+  <PE_ToggleStudentList>Editar aula</PE_ToggleStudentList>
+  <PE_AddedToDaycareOnAgeUp>{0} cresceu e foi adicionado(a) automaticamente à creche "{1}".</PE_AddedToDaycareOnAgeUp>
+  <PE_StudyGroupFull>O grupo de estudo já tem {0} alunos e não pode aceitar mais.</PE_StudyGroupFull>
+  <PE_CannotUnsuspendNoStudents>Não é possível retomar a aula: sem alunos</PE_CannotUnsuspendNoStudents>
+  <PE_StudentsOffMap>Alunos fora do mapa</PE_StudentsOffMap>
+  <PE_DeleteClass>Excluir aula</PE_DeleteClass>
+  <PE_TeacherSkillDisabled>A habilidade {1} de {0} está desabilitada e, portanto, não pode lecionar.</PE_TeacherSkillDisabled>
+  <PE_HourlyTeaching>Ensino por hora</PE_HourlyTeaching>
+  <PE_PerSession>por sessão</PE_PerSession>
+  <PE_ClassSpeed>Velocidade de aula</PE_ClassSpeed>
+  <PE_StudySessionsNeeded>Estimativa de sessões de estudo necessárias: {0}</PE_StudySessionsNeeded>
+  <PE_CannotSchedule>Não é possível agendar: {0} já está agendado(a) das {1}h às {2}h na sala de aula {3}.</PE_CannotSchedule>
+  <PE_TooYoung>{0} ainda não tem idade suficiente.</PE_TooYoung>
+  <PE_EditClass>Editar aula</PE_EditClass>
+  <PE_EditClassDesc>Atualize a lista de alunos de uma aula em andamento, renomeie-a ou altere os horários. Os alunos podem ser removidos livremente, mas, se a aula já tiver algum progresso, eles não poderão ser adicionados.</PE_EditClassDesc>
+  <PE_SemesterProgress>Progresso do semestre</PE_SemesterProgress>
+  <PE_CannotAddOngoing>Não é possível adicionar a uma aula em andamento da qual não faz parte.</PE_CannotAddOngoing>
+  <PE_AsATeacher>Como professor</PE_AsATeacher>
+  <PE_AsAStudent>Como aluno</PE_AsAStudent>
+  <PE_SkillPassionBonus>Paixão</PE_SkillPassionBonus>
+  <PE_LearningFactor>Fator de aprendizado</PE_LearningFactor>
+  <PE_TeachingFactor>Fator de ensino</PE_TeachingFactor>
+  <PE_LessonOptions>Opções de aula</PE_LessonOptions>
+  <PE_CantChangeTeacher>A aula está em andamento, então a função de professor está bloqueada</PE_CantChangeTeacher>
+  <PE_AddKids>Pode aceitar crianças ao crescerem</PE_AddKids>
+  <PE_AddKids_Desc>Se habilitado, as creches desta sala de aula poderão adicionar crianças quando elas crescerem.</PE_AddKids_Desc>
+  <PE_CannotAttendClass>A aula {0} foi cancelada hoje porque o professor não está disponível.</PE_CannotAttendClass>
+  <PE_CannotUnsuspendNoTeacher>Não é possível retomar a aula: professor indisponível para lecionar</PE_CannotUnsuspendNoTeacher>
+  <PE_ClassSuspended>Aula suspensa</PE_ClassSuspended>
+  <PE_ClassSuspendedNamed>Aula {0} suspensa</PE_ClassSuspendedNamed>
+  <PE_ClassesSuspended>{0} aulas suspensas</PE_ClassesSuspended>
+  <PE_ClassSuspendedDesc>Uma ou mais aulas estão suspensas. Os alunos não assistirão às aulas até que a aula seja retomada na aba Educação.\n\nClique neste alerta para abrir a aba Educação.\n\nSuspensas:</PE_ClassSuspendedDesc>
+  <PE_ClassSuspendedLine>{0} (professor: {1})</PE_ClassSuspendedLine>
+  <PE_ClassSuspendedNoTeacher>nenhum</PE_ClassSuspendedNoTeacher>
+  <PE_BestowProficiency>Conceder nova proficiência</PE_BestowProficiency>
+  <PE_BestowProficiencyDesc>Selecione um colono para receber a proficiência pesquisada. Ele precisa ser capaz de realizar trabalho intelectual.</PE_BestowProficiencyDesc>
+  <PE_BestowProficiencyDescWithProf>Você pesquisou {0}. Selecione um colono para receber a proficiência pesquisada. Ele precisa ser capaz de realizar trabalho intelectual.</PE_BestowProficiencyDescWithProf>
+  <PE_Knowledge>Conhecimento</PE_Knowledge>
+  <PE_StudentMustBeOneTierBelow>Cada aluno deve ser {0}.</PE_StudentMustBeOneTierBelow>
+  <PE_TeacherMustHaveProficiency>O professor deve ser no mínimo {0}.</PE_TeacherMustHaveProficiency>
+  <PE_EnableKnowledgePanel>Habilitar painel de conhecimento? (Desative para mostrar como traços padrão)</PE_EnableKnowledgePanel>
+  <PE_BestowProficiencyToAll>Conceder proficiência a toda a população atual assim que for pesquisada?</PE_BestowProficiencyToAll>
+  <PE_EnableWeaponProficiency>Habilitar proficiência com armas</PE_EnableWeaponProficiency>
+  <PE_EnableVehicleProficiency>Habilitar proficiência com veículos</PE_EnableVehicleProficiency>
+  <PE_EnableSpeechProficiency>Habilitar proficiência de fala</PE_EnableSpeechProficiency>
+  <PE_ShowClassSuspendedAlert>Mostrar alerta de aula suspensa</PE_ShowClassSuspendedAlert>
+  <PE_GiddyUpNeedRiding>O colono precisa aprender a proficiência em montaria.</PE_GiddyUpNeedRiding>
+  <PE_VehicleProficiencyRequired>Requer proficiência em {0}</PE_VehicleProficiencyRequired>
+  <PE_RequiredProficiencyStat>Proficiência necessária</PE_RequiredProficiencyStat>
+  <PE_RequiredProficiencyStatDesc>O nível de proficiência necessário para usar esta arma com eficácia.</PE_RequiredProficiencyStatDesc>
+  <PE_RequiredProficiencyStatVehicleDesc>O nível de proficiência necessário para usar este veículo com eficácia.</PE_RequiredProficiencyStatVehicleDesc>
+  <PE_CannotTradeMute>Impossível negociar: {0} é mudo(a)</PE_CannotTradeMute>
+</LanguageData>

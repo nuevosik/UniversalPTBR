@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PE_TribalBell.label>sineta de aula</PE_TribalBell.label>
+  <PE_TribalBell.description>Uma sineta silenciosa e incrivelmente lenta para alertar, usada para sinalizar o início das aulas. Um professor a toca manualmente para chamar os alunos.</PE_TribalBell.description>
+  <PE_SchoolBell.label>sino escolar</PE_SchoolBell.label>
+  <PE_SchoolBell.description>Um sino alto usado para sinalizar o início das aulas. Um professor o toca manualmente para chamar os alunos.</PE_SchoolBell.description>
+  <PE_ElectricSchoolBell.label>sino escolar elétrico</PE_ElectricSchoolBell.label>
+  <PE_ElectricSchoolBell.description>Um sino automático usado para sinalizar o início das aulas. Mais confiável que um sino comum, pois não precisa ser tocado manualmente.</PE_ElectricSchoolBell.description>
+  <PE_LessonStone.label>pedra de lição</PE_LessonStone.label>
+  <PE_LessonStone.description>Uma superfície austera para ensinar lições. Colocar uma lousa marca a área como uma sala de aula, onde aulas podem então ser designadas.</PE_LessonStone.description>
+  <PE_LargeBlackboard.label>lousa (1x3)</PE_LargeBlackboard.label>
+  <PE_LargeBlackboard.description>Uma superfície plana semelhante a pedra para escrever com giz. Colocar uma lousa marca a área como uma sala de aula, onde aulas podem então ser designadas.</PE_LargeBlackboard.description>
+  <PE_Whiteboard.label>lousa branca (1x2)</PE_Whiteboard.label>
+  <PE_Whiteboard.description>Uma superfície elegante para escrever com marcadores. Colocar uma lousa marca a área como uma sala de aula, onde aulas podem então ser designadas.</PE_Whiteboard.description>
+  <PE_LargeWhiteboard.label>lousa branca (1x3)</PE_LargeWhiteboard.label>
+  <PE_LargeWhiteboard.description>Uma superfície elegante para escrever com marcadores. Colocar uma lousa marca a área como uma sala de aula, onde aulas podem então ser designadas.</PE_LargeWhiteboard.description>
+  <PE_HoloEducatorScreen.label>tela de holo-educador (1x2)</PE_HoloEducatorScreen.label>
+  <PE_HoloEducatorScreen.description>Uma tela holográfica interativa. Colocar uma lousa marca a área como uma sala de aula, onde aulas podem então ser designadas.</PE_HoloEducatorScreen.description>
+  <PE_LargeHoloEducatorScreen.label>tela de holo-educador (1x3)</PE_LargeHoloEducatorScreen.label>
+  <PE_LargeHoloEducatorScreen.description>Uma tela holográfica interativa. Colocar uma lousa marca a área como uma sala de aula, onde aulas podem então ser designadas.</PE_LargeHoloEducatorScreen.description>
+  <TribalCrib.label>berço rústico</TribalCrib.label>
+  <TribalCrib.description>Uma cama tecida instável, perfeita para um bebê sonolento. Um berço de alta qualidade fará um bebê feliz. Vários berços podem ser colocados em um quarto sem transformá-lo em um quartel.</TribalCrib.description>
+  <RoyalCrib.label>berço real</RoyalCrib.label>
+  <RoyalCrib.description>Uma cama de ouro luxuosamente confortável, com laterais de treliça seguras, perfeita para um bebê sonolento. Um berço de alta qualidade fará um bebê feliz. Vários berços podem ser colocados em um quarto sem transformá-lo em um quartel.</RoyalCrib.description>
+  <PE_StoneSchoolDesk.label>carteira escolar rústica</PE_StoneSchoolDesk.label>
+  <PE_StoneSchoolDesk.description>Uma carteira desconfortável onde alunos podem aprender em aulas gerais. Funciona em baixa velocidade para a maioria das lições.</PE_StoneSchoolDesk.description>
+  <PE_TouchscreenSchoolDesk.label>carteira escolar com tela sensível ao toque</PE_TouchscreenSchoolDesk.label>
+  <PE_TouchscreenSchoolDesk.description>Uma mesa com tela sensível ao toque onde os alunos podem se sentar e aprender em aulas gerais. Exemplos interativos aparecem na tela para ajudar os alunos a aprender em velocidade relâmpago.</PE_TouchscreenSchoolDesk.description>
+  <PE_Projector.label>projetor</PE_Projector.label>
+  <PE_Projector.description>Um projetor de sala de aula que pode ser vinculado a uma lousa de aprendizado para melhorar a eficácia do aprendizado.</PE_Projector.description>
+  <PE_StrikingBoard.label>tábua de golpes</PE_StrikingBoard.label>
+  <PE_StrikingBoard.description>Uma tábua fincada no chão, com uma corda amortecedora enrolada em sua metade superior, capaz de absorver golpes diretos. Pode ser usada para treinar habilidades de combate corpo a corpo nas aulas.</PE_StrikingBoard.description>
+  <PE_Cadaver.label>manequim cadavérico</PE_Cadaver.label>
+  <PE_Cadaver.description>Uma réplica em tecido de nível médico de um humano padrão, até os músculos individuais. Alunos podem treinar suas habilidades médicas realizando cirurgias de treino nele.</PE_Cadaver.description>
+  <PE_ShootingTarget.label>estande de tiro</PE_ShootingTarget.label>
+  <PE_ShootingTarget.description>Um alvo metálico equipado com um rifle de treinamento. Alunos podem atirar no alvo para treinar suas habilidades de tiro.</PE_ShootingTarget.description>
+  <PE_Gun_AssaultRifleTraining.label>rifle de treinamento</PE_Gun_AssaultRifleTraining.label>
+  <PE_Gun_AssaultRifleTraining.description>Uma arma projetada puramente para fins educacionais. Seus projéteis não causam nenhum dano.</PE_Gun_AssaultRifleTraining.description>
+  <PE_Gun_AssaultRifleTraining.tools.0.label>coronha</PE_Gun_AssaultRifleTraining.tools.0.label>
+  <PE_Gun_AssaultRifleTraining.tools.1.label>cano</PE_Gun_AssaultRifleTraining.tools.1.label>
+  <PE_Bullet_AssaultRifleTraining.label>bala de rifle de assalto de treinamento</PE_Bullet_AssaultRifleTraining.label>
+  <PE_PracticeShortBow.label>arco de treinamento</PE_PracticeShortBow.label>
+  <PE_PracticeShortBow.description>Uma arma projetada puramente para fins educacionais. Seus projéteis não causam nenhum dano.</PE_PracticeShortBow.description>
+  <PE_PracticeShortBow.tools.0.label>arco</PE_PracticeShortBow.tools.0.label>
+  <PE_Bullet_PracticeShortBow.label>flecha de arco de treinamento</PE_Bullet_PracticeShortBow.label>
+  <PE_Gun_SpacerTraining.label>rifle de carga de treinamento</PE_Gun_SpacerTraining.label>
+  <PE_Gun_SpacerTraining.description>Uma arma projetada puramente para fins educacionais. Seus projéteis não causam nenhum dano.</PE_Gun_SpacerTraining.description>
+  <PE_Gun_SpacerTraining.tools.0.label>coronha</PE_Gun_SpacerTraining.tools.0.label>
+  <PE_Gun_SpacerTraining.tools.1.label>cano</PE_Gun_SpacerTraining.tools.1.label>
+</LanguageData>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AM.ModTitle>Epicguru's Melee Animation</AM.ModTitle>
+  <AM.LoadingText>Carregando Melee Animation</AM.LoadingText>
+  <AM.Animation>Animação</AM.Animation>
+  <AM.Error.Grapple.FloatMenu>Não é possível laçar: {0}</AM.Error.Grapple.FloatMenu>
+  <AM.Grapple.FloatMenu>Laçar {0}</AM.Grapple.FloatMenu>
+  <AM.Grapple.FloatMenu.Tip>Use um laço para puxar {1} em direção a {0}.\nIsso não machuca {1}.</AM.Grapple.FloatMenu.Tip>
+  <AM.Grapple.FloatMenu.TipEnemy>Use um laço para puxar {1} em direção a {0}.\nIsso não machuca {1}, mas o coloca no alcance corpo a corpo/de execução.</AM.Grapple.FloatMenu.TipEnemy>
+  <AM.Exec.FloatMenu>Executar {0}</AM.Exec.FloatMenu>
+  <AM.Exec.FloatMenu.Tip>Realize uma animação de execução em {1}.\nResultados possíveis com base na arma, habilidade corpo a corpo, armadura, configurações do mod etc:\n{2}</AM.Exec.FloatMenu.Tip>
+  <AM.Exec.FloatMenu.Walk> (caminhar até o alvo)</AM.Exec.FloatMenu.Walk>
+  <AM.Exec.FloatMenu.Lasso> (laçar)</AM.Exec.FloatMenu.Lasso>
+  <AM.Error.Grapple.Internal>Erro interno: {Error}</AM.Error.Grapple.Internal>
+  <AM.Error.Grapple.AlreadyAtTarget>{Target} já está no alcance corpo a corpo</AM.Error.Grapple.AlreadyAtTarget>
+  <AM.ProbReport.Kill>Matar</AM.ProbReport.Kill>
+  <AM.ProbReport.Down>Abater</AM.ProbReport.Down>
+  <AM.ProbReport.Injure>Ferir</AM.ProbReport.Injure>
+  <AM.ProbReport.Fail>Falhar</AM.ProbReport.Fail>
+  <AM.Error.Duel.Internal>Erro interno: {Error}</AM.Error.Duel.Internal>
+  <AM.Error.Duel.Dead>{Pawn} está morto</AM.Error.Duel.Dead>
+  <AM.Error.Duel.Down>{Pawn} está abatido</AM.Error.Duel.Down>
+  <AM.Error.Duel.NotSpawned>{Pawn} não pode duelar no momento</AM.Error.Duel.NotSpawned>
+  <AM.Error.Duel.NotSpawned.Short>{Pawn} não está disponível</AM.Error.Duel.NotSpawned.Short>
+  <AM.Error.Duel.MissingWeapon>{Pawn} não tem uma arma corpo a corpo válida</AM.Error.Duel.MissingWeapon>
+  <AM.Error.Duel.NoAnim>As armas que estes colonos estão carregando não podem ser usadas em duelo.</AM.Error.Duel.NoAnim>
+  <AM.Error.Duel.NoAnim.Short>Estas armas corpo a corpo não podem ser usadas em duelo</AM.Error.Duel.NoAnim.Short>
+  <AM.Error.Duel.NoPath>{0} não consegue alcançar {1} para iniciar um duelo</AM.Error.Duel.NoPath>
+  <AM.Error.Duel.OnCooldown>O duelo de {0} está em recarga</AM.Error.Duel.OnCooldown>
+  <AM.Error.Duel.WaitedTooLong>{0} se cansou de esperar {1} chegar para o duelo e o cancelou.</AM.Error.Duel.WaitedTooLong>
+  <AM.Gizmos.DuelSpot.StartDuel.Label>Iniciar duelo</AM.Gizmos.DuelSpot.StartDuel.Label>
+  <AM.Gizmos.DuelSpot.StartDuel.Desc>Inicie manualmente um duelo entre dois colonos aliados com armas válidas. Prisioneiros não podem participar.\n\nEste é um duelo amistoso; ninguém se machucará.</AM.Gizmos.DuelSpot.StartDuel.Desc>
+  <AM.Gizmos.DuelSpot.StartDuel.InUse>O local de duelo está em uso no momento</AM.Gizmos.DuelSpot.StartDuel.InUse>
+  <AM.Gizmos.DuelSpot.StartDuel.Forbidden>O local de duelo está proibido</AM.Gizmos.DuelSpot.StartDuel.Forbidden>
+  <AM.Gizmos.DuelSpot.StartDuel.MissingWeapon>{0} não tem uma arma corpo a corpo válida (deve ser uma arma longa, não curta)</AM.Gizmos.DuelSpot.StartDuel.MissingWeapon>
+  <AM.Gizmos.DuelSpot.StartDuel.IncompatWeapon>A arma de {0} não pode ser usada para duelar com {1}; as armas deles são incompatíveis (devem ser armas longas, não curtas)</AM.Gizmos.DuelSpot.StartDuel.IncompatWeapon>
+  <AM.Gizmos.DuelSpot.StartDuel.CannotInterrupt>A tarefa atual de {0} não pode ser interrompida</AM.Gizmos.DuelSpot.StartDuel.CannotInterrupt>
+  <AM.Gizmos.DuelSpot.StartDuel.NoPath>{0} não consegue alcançar o local de duelo</AM.Gizmos.DuelSpot.StartDuel.NoPath>
+  <AM.Gizmos.DuelSpot.StartDuel.OnCooldown>{0} não pode fazer um duelo amistoso por mais {2} segundos</AM.Gizmos.DuelSpot.StartDuel.OnCooldown>
+  <AM.Gizmos.DuelSpot.StartDuel.FloatMenuTitle>Selecione um colono para duelar</AM.Gizmos.DuelSpot.StartDuel.FloatMenuTitle>
+  <AM.Gizmos.DuelSpot.StartDuel.FailedToStart>Um erro inesperado impediu o início do duelo. Envie os registros ao autor do mod.</AM.Gizmos.DuelSpot.StartDuel.FailedToStart>
+  <AM.Gizmos.DuelSpot.ToggleVisibility>Alternar visibilidade</AM.Gizmos.DuelSpot.ToggleVisibility>
+  <AM.Gizmos.DuelSpot.ToggleVisibility.Desc>Torna este local de duelo invisível ou o exibe novamente.\nAviso: ele fica realmente invisível! Não se esqueça de onde o colocou, ou pode ser difícil encontrá-lo de novo...</AM.Gizmos.DuelSpot.ToggleVisibility.Desc>
+  <AM.Error.Grapple.Dead>{Grappler} está morto</AM.Error.Grapple.Dead>
+  <AM.Error.Grapple.Stunned>{Grappler} está atordoado</AM.Error.Grapple.Stunned>
+  <AM.Error.Grapple.DeadTarget>{Target} está morto</AM.Error.Grapple.DeadTarget>
+  <AM.Error.Grapple.Downed>{Grappler} está abatido</AM.Error.Grapple.Downed>
+  <AM.Error.Grapple.AlreadyTarget>{Target} já está sendo laçado</AM.Error.Grapple.AlreadyTarget>
+  <AM.Error.Grapple.AlreadyTarget.Short>Já está sendo laçado</AM.Error.Grapple.AlreadyTarget.Short>
+  <AM.Error.Exec.FloatMenu>Não é possível executar: {0}</AM.Error.Exec.FloatMenu>
+  <AM.Error.Exec.Internal>Erro interno: {Error}</AM.Error.Exec.Internal>
+  <AM.Error.Exec.Dead>{Exec} está morto</AM.Error.Exec.Dead>
+  <AM.Error.Exec.NoWalk.Short>Não é possível alcançar {Target}</AM.Error.Exec.NoWalk.Short>
+  <AM.Error.Exec.DeadTarget>{Target} está morto</AM.Error.Exec.DeadTarget>
+  <AM.Error.Exec.Downed>{Exec} está abatido</AM.Error.Exec.Downed>
+  <AM.Error.Exec.DownedTarget>{Target} está abatido. Colonos abatidos não podem ser executados.</AM.Error.Exec.DownedTarget>
+  <AM.Error.Exec.DownedTarget.Short>{Target} está abatido</AM.Error.Exec.DownedTarget.Short>
+  <AM.Error.Exec.BadRace>{Target} não é um alvo válido.</AM.Error.Exec.BadRace>
+  <AM.Error.Exec.BadRace.Short>{Target} não é um alvo válido</AM.Error.Exec.BadRace.Short>
+  <AM.Error.Exec.CannotFist>{Exec} não tem arma e não pode usar os punhos: {Additional}</AM.Error.Exec.CannotFist>
+  <AM.Error.Exec.CannotFist.Short>{Exec} não pode usar os punhos</AM.Error.Exec.CannotFist.Short>
+  <AM.Error.Exec.SelfInAnimation>{Exec} não pode executar ninguém no momento</AM.Error.Exec.SelfInAnimation>
+  <AM.Error.Exec.InAnimation>{Target} não pode ser executado no momento</AM.Error.Exec.InAnimation>
+  <AM.Error.Exec.Stunned>{Exec} está atordoado</AM.Error.Exec.Stunned>
+  <AM.Error.Exec.NoWalk>{Target} não está adjacente a {Exec}, e não pode ser laçado nem alcançado a pé.</AM.Error.Exec.NoWalk>
+  <AM.Error.Exec.NoWeapon>{Exec} não está empunhando uma arma corpo a corpo válida</AM.Error.Exec.NoWeapon>
+  <AM.Error.Exec.NoWeapon.Short>Sem arma corpo a corpo</AM.Error.Exec.NoWeapon.Short>
+  <AM.Error.Exec.Cooldown>A execução de {Exec} está em recarga</AM.Error.Exec.Cooldown>
+  <AM.Error.Exec.Cooldown.Short>Execução em recarga</AM.Error.Exec.Cooldown.Short>
+  <AM.Error.Exec.NoAnims>{Exec} não pode realizar nenhuma animação de execução usando sua {Weapon}.\nIsso provavelmente se deve à falta de habilidade corpo a corpo ou porque todas as animações estão desativadas nas configurações do mod.</AM.Error.Exec.NoAnims>
+  <AM.Error.Exec.NoAnims.Short>Nenhuma animação disponível</AM.Error.Exec.NoAnims.Short>
+  <AM.Error.Exec.NoSpace>Não há espaço suficiente para realizar nenhuma animação de execução aqui</AM.Error.Exec.NoSpace>
+  <AM.Error.Exec.NoSpace.Short>Espaço insuficiente</AM.Error.Exec.NoSpace.Short>
+  <AM.Error.Exec.NoPath>{Exec} não consegue alcançar {Target} a pé, e seu laço está indisponível ou inutilizável.</AM.Error.Exec.NoPath>
+  <AM.Error.Exec.NoPath.Short>Sem caminho até o alvo</AM.Error.Exec.NoPath.Short>
+  <AM.Error.Exec.BadFists>{Exec} usa os punhos para execução: {Additional}.</AM.Error.Exec.BadFists>
+  <AM.Error.Exec.BadFists.Short>Não pode usar os punhos para execução</AM.Error.Exec.BadFists.Short>
+  <AM.Error.Grapple.MissingLOS>Sem linha de visão</AM.Error.Grapple.MissingLOS>
+  <AM.Error.Grapple.TooFar>{Target} está fora do alcance do laço de {Grappler}</AM.Error.Grapple.TooFar>
+  <AM.Error.Grapple.TooFar.Short>Longe demais</AM.Error.Grapple.TooFar.Short>
+  <AM.Error.Grapple.InAnimation>{Target} não pode ser laçado no momento</AM.Error.Grapple.InAnimation>
+  <AM.Error.Grapple.SelfInAnimation>{Grappler} não pode laçar no momento</AM.Error.Grapple.SelfInAnimation>
+  <AM.Error.Grapple.BadRace>{Target} não é um alvo válido para laço.</AM.Error.Grapple.BadRace>
+  <AM.Error.Grapple.BadRace.Short>{Target} não é um alvo válido para laço</AM.Error.Grapple.BadRace.Short>
+  <AM.Error.Grapple.Mass>{Target} é pesado demais para {Grappler} laçar</AM.Error.Grapple.Mass>
+  <AM.Error.Grapple.Mass.Short>{Target} é pesado demais</AM.Error.Grapple.Mass.Short>
+  <AM.Error.Grapple.Size>{Target} é grande demais para {Grappler} laçar</AM.Error.Grapple.Size>
+  <AM.Error.Grapple.Size.Short>{Target} é grande demais</AM.Error.Grapple.Size.Short>
+  <AM.Error.Grapple.Cooldown>O laço de {Grappler} está em recarga</AM.Error.Grapple.Cooldown>
+  <AM.Error.Grapple.Cooldown.Short>Laço em recarga</AM.Error.Grapple.Cooldown.Short>
+  <AM.Error.Grapple.SkillIssue>{Grappler} não tem a habilidade corpo a corpo necessária ({MeleeSkill}) para usar seu laço</AM.Error.Grapple.SkillIssue>
+  <AM.Error.Grapple.SkillIssue.Short>Habilidade corpo a corpo insuficiente</AM.Error.Grapple.SkillIssue.Short>
+  <AM.Error.Grapple.Manipulation>{Grappler} não tem a manipulação necessária para usar seu laço</AM.Error.Grapple.Manipulation>
+  <AM.Error.Grapple.Manipulation.Short>Manipulação insuficiente</AM.Error.Grapple.Manipulation.Short>
+  <AM.Error.Grapple.NoDest>Não há espaço livre ao redor de {Grappler} para arrastar {Target}</AM.Error.Grapple.NoDest>
+  <AM.Error.Grapple.NoDest.Short>Sem espaço livre ao redor de {Grappler}</AM.Error.Grapple.NoDest.Short>
+  <AM.Stats.BaseValue>Valor base: {0}</AM.Stats.BaseValue>
+  <AM.Stats.MeleeSkillOffset>Efeito da habilidade corpo a corpo ({0}): {1}</AM.Stats.MeleeSkillOffset>
+  <AM.Stats.ConsciousnessOffset>Efeito da consciência ({0}): {1}</AM.Stats.ConsciousnessOffset>
+  <AM.Stats.ManipulationOffset>Efeito da manipulação ({0}): {1}</AM.Stats.ManipulationOffset>
+  <AM.Stats.WeaponDamageTypeOffset>Efeito do tipo de dano da arma ({0}): {1}</AM.Stats.WeaponDamageTypeOffset>
+  <AM.Stats.WeaponDPSCoef>Efeito do DPS da arma ({0}): {1}</AM.Stats.WeaponDPSCoef>
+  <AM.Stats.NoWeapon>Sem arma corpo a corpo equipada: {0}</AM.Stats.NoWeapon>
+  <AM.Stats.GlobalCoef>Multiplicador global de {0} (das configurações do mod): {1}</AM.Stats.GlobalCoef>
+  <AM.Stats.FriendlyCoef>Multiplicador de colonos aliados (das configurações do mod): x{0}</AM.Stats.FriendlyCoef>
+  <AM.Stats.SkillCoef>Multiplicador de habilidade corpo a corpo: x{0}</AM.Stats.SkillCoef>
+  <AM.Stats.EnemyCoef>Multiplicador de colonos hostis (das configurações do mod): x{0}</AM.Stats.EnemyCoef>
+  <AM.Stats.Lethality>letalidade</AM.Stats.Lethality>
+  <AM.Stats.DuelAbility>habilidade de duelo</AM.Stats.DuelAbility>
+  <AM.Stats.FriendlyPawnBonus>Bônus de colonos aliados (das configurações do mod): {0}</AM.Stats.FriendlyPawnBonus>
+  <AM.Skill.Cast>Conjurar habilidade única '{0}' em {1}</AM.Skill.Cast>
+  <AM.Skill.CantCast>Não é possível conjurar {0}: {1}</AM.Skill.CantCast>
+  <AM.Skill.CantCastGeneric>Não é possível conjurar {0} em {1} no momento.</AM.Skill.CantCastGeneric>
+  <AM.Skill.BadTargetState>Estado inválido do alvo.</AM.Skill.BadTargetState>
+  <AM.Skill.AlreadyActive>A habilidade já está ativa.</AM.Skill.AlreadyActive>
+  <AM.Skill.OnCooldown>Em recarga por {0} segundos.</AM.Skill.OnCooldown>
+  <AM.Skill.OnCooldownExec>Em recarga por {0} segundos (devido a uma execução recente).</AM.Skill.OnCooldownExec>
+  <AM.Skill.BadWeapon>Falta a arma necessária.</AM.Skill.BadWeapon>
+  <AM.Skill.Gilgamesh.LowPsy>Nível de psínculo {0} está abaixo do nível exigido {1}.</AM.Skill.Gilgamesh.LowPsy>
+  <AM.Skill.Gilgamesh.LowMelee>Nível de corpo a corpo {0} está abaixo do nível exigido {1}.</AM.Skill.Gilgamesh.LowMelee>
+  <AM.Patch.OptDisabled>A otimização de invisibilidade foi desativada pelo mod Melee Animation devido a bugs visuais.</AM.Patch.OptDisabled>
+  <SimpleSettings.Preset>Predefinição:</SimpleSettings.Preset>
+  <SimpleSettings.Preset.Custom>Personalizado</SimpleSettings.Preset.Custom>
+  <SimpleSettings.ClickToReset>Clique com o botão direito para redefinir uma opção ao seu valor padrão.</SimpleSettings.ClickToReset>
+  <AM.AMSettings.Presets.Default>Padrão</AM.AMSettings.Presets.Default>
+  <AM.AMSettings.Presets.Default.Desc>Ativa todos os recursos que o mod oferece</AM.AMSettings.Presets.Default.Desc>
+  <AM.AMSettings.Presets.NoLassos>Sem laços</AM.AMSettings.Presets.NoLassos>
+  <AM.AMSettings.Presets.NoLassos.Desc>Tudo está ativado exceto os laços. Você ainda pode fabricar e usar laços manualmente se quiser, mas os inimigos não surgirão com laços nem os usarão.\n\n* Adiciona animações de ataque corpo a corpo.\n* Adiciona animações de espera de armas corpo a corpo\n* Adiciona duelos\n* Adiciona animações de execução\n* Adiciona habilidades únicas</AM.AMSettings.Presets.NoLassos.Desc>
+  <AM.AMSettings.Presets.VanillaPlus>Vanilla+</AM.AMSettings.Presets.VanillaPlus>
+  <AM.AMSettings.Presets.VanillaPlus.Desc>Mantém tudo muito próximo do combate vanilla. Seus colonos não usarão laços a menos que você os instrua manualmente. Seus colonos nunca poderão fazer execuções. Os inimigos nunca farão execuções nem usarão laços.\n\n* Adiciona animações de ataque corpo a corpo.\n* Adiciona animações de espera de armas corpo a corpo\n* Laços podem ser usados por colonos aliados, mas devem ser equipados e acionados manualmente.</AM.AMSettings.Presets.VanillaPlus.Desc>
+  <AM.AMSettings.Settings.Header.General>Geral</AM.AMSettings.Settings.Header.General>
+  <AM.AMSettings.Settings.AnimateAtIdle>Sempre animar armas</AM.AMSettings.Settings.AnimateAtIdle>
+  <AM.AMSettings.Settings.AnimateAtIdle.Desc>Se ativado, as armas corpo a corpo são animadas sempre que estão em mãos, como ao ficar alistado ou ao se mover em combate.\nSe desativado, as animações se limitam a duelos, habilidades especiais e execuções.\n\n&lt;b&gt;Deixar isto ativado pode ter um grande impacto no desempenho em mapas densamente povoados.\nRecarregue seu jogo salvo após alterar esta configuração.&lt;/b&gt;</AM.AMSettings.Settings.AnimateAtIdle.Desc>
+  <AM.AMSettings.Settings.EnableUniqueSkills>Ativar habilidades únicas</AM.AMSettings.Settings.EnableUniqueSkills>
+  <AM.AMSettings.Settings.EnableUniqueSkills.Desc>Ativa ou desativa o sistema de habilidades únicas.\nAs habilidades únicas são ataques ou habilidades poderosos desbloqueados sob certas condições.\nSomente seus colonos podem usar essas habilidades e elas devem ser ativadas manualmente. Veja a página da Oficina da Steam para mais informações.</AM.AMSettings.Settings.EnableUniqueSkills.Desc>
+  <AM.AMSettings.Settings.AllowInvisiblePawns>Colonos animados considerados invisíveis</AM.AMSettings.Settings.AllowInvisiblePawns>
+  <AM.AMSettings.Settings.AllowInvisiblePawns.Desc>Durante uma animação, como uma execução, os colonos são considerados invisíveis por todos os outros colonos e torretas: eles não serão alvo ativo nem receberão disparos. Isso torna as execuções menos arriscadas.\nObserve que colonos em animações ainda podem sofrer dano, como de tiros perdidos ou explosões.</AM.AMSettings.Settings.AllowInvisiblePawns.Desc>
+  <AM.AMSettings.Settings.GlobalAnimationSpeed>Velocidade global das animações</AM.AMSettings.Settings.GlobalAnimationSpeed>
+  <AM.AMSettings.Settings.GlobalAnimationSpeed.Desc>Um modificador na velocidade de todas as animações.\nQuanto maior, mais rápido.</AM.AMSettings.Settings.GlobalAnimationSpeed.Desc>
+  <AM.AMSettings.Settings.animSettings>Configurações individuais de animação</AM.AMSettings.Settings.animSettings>
+  <AM.AMSettings.Settings.animSettings.Desc>​</AM.AMSettings.Settings.animSettings.Desc>
+  <AM.AMSettings.Settings.Header.Lasso>Laço</AM.AMSettings.Settings.Header.Lasso>
+  <AM.AMSettings.Settings.AutoGrapple>Laço automático</AM.AMSettings.Settings.AutoGrapple>
+  <AM.AMSettings.Settings.AutoGrapple.Desc>Se ativado, seus colonos usarão seus laços automaticamente contra inimigos.\n\nIsso altera apenas a configuração &lt;b&gt;padrão&lt;/b&gt;. Também pode ser configurado individualmente por colono.</AM.AMSettings.Settings.AutoGrapple.Desc>
+  <AM.AMSettings.Settings.GrappleAttemptMTBSeconds>Intervalo médio do laço automático (Aliados)</AM.AMSettings.Settings.GrappleAttemptMTBSeconds>
+  <AM.AMSettings.Settings.GrappleAttemptMTBSeconds.Desc>Este é o tempo médio, em segundos, no qual colonos aliados tentarão usar seu laço para puxar um inimigo para o alcance corpo a corpo.\nSe a execução deles não estiver em recarga e a Execução automática estiver ativada, eles executarão imediatamente o alvo laçado também.</AM.AMSettings.Settings.GrappleAttemptMTBSeconds.Desc>
+  <AM.AMSettings.Settings.LassoSpawnChance>Frequência de laços</AM.AMSettings.Settings.LassoSpawnChance>
+  <AM.AMSettings.Settings.LassoSpawnChance.Desc>Esta é a % de chance de qualquer colono &lt;b&gt;lutador corpo a corpo&lt;/b&gt; surgir com um laço equipado.\nDefina como 0% para desativar a geração natural de laços nos colonos.</AM.AMSettings.Settings.LassoSpawnChance.Desc>
+  <AM.AMSettings.Settings.EnemiesCanGrapple>Inimigos podem usar laços</AM.AMSettings.Settings.EnemiesCanGrapple>
+  <AM.AMSettings.Settings.EnemiesCanGrapple.Desc>Inimigos podem usar laços (se tiverem algum) para puxar seus colonos para o alcance corpo a corpo?</AM.AMSettings.Settings.EnemiesCanGrapple.Desc>
+  <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy>Intervalo médio do laço automático (Inimigos)</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy>
+  <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>Este é o tempo médio, em segundos, no qual colonos inimigos tentarão usar seu laço para puxar um alvo para o alcance corpo a corpo.\nSe a execução deles não estiver em recarga e &apos;Inimigos podem realizar execuções&apos; estiver ativada, eles executarão imediatamente o alvo laçado também.</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>
+  <AM.AMSettings.Settings.MinMeleeSkillToLasso>Habilidade mínima de corpo a corpo</AM.AMSettings.Settings.MinMeleeSkillToLasso>
+  <AM.AMSettings.Settings.MinMeleeSkillToLasso.Desc>A habilidade mínima de corpo a corpo necessária para usar um laço.\nAfeta todos os colonos.</AM.AMSettings.Settings.MinMeleeSkillToLasso.Desc>
+  <AM.AMSettings.Settings.MinManipulationToLasso>Manipulação mínima</AM.AMSettings.Settings.MinManipulationToLasso>
+  <AM.AMSettings.Settings.MinManipulationToLasso.Desc>A estatística de Manipulação mínima necessária para usar um laço.\nAfeta todos os colonos.</AM.AMSettings.Settings.MinManipulationToLasso.Desc>
+  <AM.AMSettings.Settings.MaxLassoMass>Massa máxima do colono</AM.AMSettings.Settings.MaxLassoMass>
+  <AM.AMSettings.Settings.MaxLassoMass.Desc>A massa máxima que um colono pode ter para poder ser laçado. A massa é medida em quilogramas. Você pode verificar a massa dos colonos na aba de estatísticas deles.\nDefina como zero para desativar o limite de massa.</AM.AMSettings.Settings.MaxLassoMass.Desc>
+  <AM.AMSettings.Settings.MaxLassoBodySize>Tamanho máximo do colono</AM.AMSettings.Settings.MaxLassoBodySize>
+  <AM.AMSettings.Settings.MaxLassoBodySize.Desc>O &apos;tamanho corporal&apos; máximo que um colono pode ter para poder ser laçado.\nPara referência, alguns exemplos de tamanhos corporais:\n• Galinha: 0.3\n• Humano: 1\n• Bumalope: 2\n• Warg: 3\n• Trumbo: 4\n\n\nDefina como zero para desativar o limite de tamanho corporal.</AM.AMSettings.Settings.MaxLassoBodySize.Desc>
+  <AM.AMSettings.Settings.GrappleSpeed>Velocidade de deslocamento do laço</AM.AMSettings.Settings.GrappleSpeed>
+  <AM.AMSettings.Settings.GrappleSpeed.Desc>Ajusta a velocidade &lt;b&gt;(não a recarga)&lt;/b&gt; dos laços, tornando mais rápido ou mais lento enredar e puxar um inimigo.\nValores mais altos tornam o laço mais rápido.\nAfeta todos os colonos.</AM.AMSettings.Settings.GrappleSpeed.Desc>
+  <AM.AMSettings.Settings.MaxFillPctForLasso>Preenchimento máximo de construção para arrasto com laço</AM.AMSettings.Settings.MaxFillPctForLasso>
+  <AM.AMSettings.Settings.MaxFillPctForLasso.Desc>A porcentagem máxima de &apos;preenchimento&apos; de uma construção pela qual um colono pode ser arrastado por um laço.\nValores mais baixos significam que os colonos &lt;b&gt;não&lt;/b&gt; podem ser arrastados através/acima de cobertura parcial, como sacos de areia ou seteiras. Um valor de 100% significa que o laço pode puxar colonos através/acima de qualquer coisa, exceto paredes e construções completamente sólidas.</AM.AMSettings.Settings.MaxFillPctForLasso.Desc>
+  <AM.AMSettings.Settings.Header.Executions___Duels>Execuções e Duelos</AM.AMSettings.Settings.Header.Executions___Duels>
+  <AM.AMSettings.Settings.EnableExecutions>Ativar execuções</AM.AMSettings.Settings.EnableExecutions>
+  <AM.AMSettings.Settings.EnableExecutions.Desc>Ativa ou desativa completamente o sistema de execuções. Desativar isso significa que nenhum colono poderá jamais fazer execuções, e a opção é removida da interface.</AM.AMSettings.Settings.EnableExecutions.Desc>
+  <AM.AMSettings.Settings.AutoExecute>Execução automática</AM.AMSettings.Settings.AutoExecute>
+  <AM.AMSettings.Settings.AutoExecute.Desc>Se ativado, seus colonos executarão automaticamente colonos inimigos em combate, sem a sua intervenção.\nIsso pode incluir o uso oportunista de seus ganchos de laço se a configuração Laço automático estiver ativada.\n\nIsso altera apenas a configuração &lt;b&gt;padrão&lt;/b&gt;. Também pode ser configurado individualmente por colono.</AM.AMSettings.Settings.AutoExecute.Desc>
+  <AM.AMSettings.Settings.EnemiesCanExecute>Inimigos podem realizar execuções</AM.AMSettings.Settings.EnemiesCanExecute>
+  <AM.AMSettings.Settings.EnemiesCanExecute.Desc>Inimigos podem realizar animações de execução?</AM.AMSettings.Settings.EnemiesCanExecute.Desc>
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSeconds>Intervalo médio da execução automática (Aliados)</AM.AMSettings.Settings.ExecuteAttemptMTBSeconds>
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSeconds.Desc>Este é o tempo médio, em segundos, no qual colonos aliados tentarão iniciar uma animação de execução no inimigo que estão enfrentando no momento.\nPor exemplo, se isto estiver definido como 5 e seu colono estiver lutando corpo a corpo, uma animação de execução será acionada em média após 5 segundos.\nIsso não afeta a recarga da execução, que é uma estatística específica de cada colono.\n\nValores mais baixos podem impactar bastante o desempenho em mapas povoados.</AM.AMSettings.Settings.ExecuteAttemptMTBSeconds.Desc>
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy>Intervalo médio da execução automática (Inimigos)</AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy>
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy.Desc>Este é o tempo médio, em segundos, no qual colonos inimigos tentarão iniciar uma animação de execução no alvo que estão enfrentando no momento.\nPor exemplo, se isto estiver definido como 5 e um inimigo estiver lutando corpo a corpo, uma animação de execução será acionada em média após 5 segundos.\nIsso não afeta a recarga da execução, que é uma estatística específica de cada colono.\n\nValores mais baixos podem impactar bastante o desempenho em mapas povoados.</AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy.Desc>
+  <AM.AMSettings.Settings.AnimalsCanBeExecuted>Animais podem ser executados</AM.AMSettings.Settings.AnimalsCanBeExecuted>
+  <AM.AMSettings.Settings.AnimalsCanBeExecuted.Desc>Permite que animais sejam executados.\nVocê é uma pessoa má se ativar isso.</AM.AMSettings.Settings.AnimalsCanBeExecuted.Desc>
+  <AM.AMSettings.Settings.ExecutionLethalityModifier>Modificador de letalidade das execuções</AM.AMSettings.Settings.ExecutionLethalityModifier>
+  <AM.AMSettings.Settings.ExecutionLethalityModifier.Desc>Um modificador geral na letalidade das animações de execução. Valores mais altos tornam as execuções mais letais. Afeta todos os colonos.</AM.AMSettings.Settings.ExecutionLethalityModifier.Desc>
+  <AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal>Execuções não são letais em aliados</AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal>
+  <AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal.Desc>Se ativado, as animações de execução em colonos aliados são sempre não letais, independentemente de outras configurações.\nPrisioneiros e escravos são considerados aliados.\n\nÚtil ao tentar impedir um colapso mental ou uma rebelião de prisioneiros sem causar um banho de sangue.</AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal.Desc>
+  <AM.AMSettings.Settings.ExecutionArmorCoefficient>Força da armadura nas execuções</AM.AMSettings.Settings.ExecutionArmorCoefficient>
+  <AM.AMSettings.Settings.ExecutionArmorCoefficient.Desc>Um multiplicador na eficácia da armadura ao calcular o resultado da animação de execução.\nValores mais baixos diminuem o efeito da armadura no resultado; valores mais altos aumentam a força da armadura.\nDefina como 0% para ignorar a armadura.</AM.AMSettings.Settings.ExecutionArmorCoefficient.Desc>
+  <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts>Execuções podem destruir partes do corpo</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts>
+  <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>Se ativado, as execuções podem destruir partes vitais específicas do corpo, como o coração ou a cabeça.\nSe desativado, o colono é simplesmente morto por &apos;mágica&apos; (nenhuma parte específica sofre dano)\nObservação: se desativado, a geração do registro de combate não funciona corretamente para a execução e exibirá uma mensagem padrão: &quot;&lt;i&gt;nome morreu.&lt;/i&gt;&quot;</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>
+  <AM.AMSettings.Settings.MeleeSkillExecCooldownFactor>Quanto a habilidade afeta a recarga da execução</AM.AMSettings.Settings.MeleeSkillExecCooldownFactor>
+  <AM.AMSettings.Settings.MeleeSkillExecCooldownFactor.Desc>O quanto a habilidade corpo a corpo afeta o tempo de recarga da execução.\nHabilidade corpo a corpo mais alta significa menos recarga; alterar este valor aumenta ou diminui o efeito da habilidade corpo a corpo.\nDefina como 0% para desativar a habilidade corpo a corpo como fator.\n\nObservação: afeta apenas colonos aliados.</AM.AMSettings.Settings.MeleeSkillExecCooldownFactor.Desc>
+  <AM.AMSettings.Settings.FriendlyExecCooldownFactor>Fator de recarga da execução (Aliados)</AM.AMSettings.Settings.FriendlyExecCooldownFactor>
+  <AM.AMSettings.Settings.FriendlyExecCooldownFactor.Desc>Isto ajusta o tempo de recarga da execução para colonos aliados. Valores mais baixos diminuem a recarga. Você pode ver o tempo de recarga final nas estatísticas do colono.</AM.AMSettings.Settings.FriendlyExecCooldownFactor.Desc>
+  <AM.AMSettings.Settings.EnemyExecCooldownFactor>Fator de recarga da execução (Inimigos)</AM.AMSettings.Settings.EnemyExecCooldownFactor>
+  <AM.AMSettings.Settings.EnemyExecCooldownFactor.Desc>Isto ajusta o tempo de recarga da execução para colonos hostis. Valores mais baixos diminuem a recarga. Você pode ver o tempo de recarga final nas estatísticas do colono.</AM.AMSettings.Settings.EnemyExecCooldownFactor.Desc>
+  <AM.AMSettings.Settings.MinDuelDuration>Duração mínima do duelo</AM.AMSettings.Settings.MinDuelDuration>
+  <AM.AMSettings.Settings.MinDuelDuration.Desc>O número mínimo de ataques em um duelo. Afeta apenas a duração da animação, sem impacto no resultado do duelo.</AM.AMSettings.Settings.MinDuelDuration.Desc>
+  <AM.AMSettings.Settings.MaxDuelDuration>Duração máxima do duelo</AM.AMSettings.Settings.MaxDuelDuration>
+  <AM.AMSettings.Settings.MaxDuelDuration.Desc>O número máximo de ataques em um duelo. Afeta apenas a duração da animação, sem impacto no resultado do duelo.</AM.AMSettings.Settings.MaxDuelDuration.Desc>
+  <AM.AMSettings.Settings.FriendlyDuelCooldown>Recarga de duelo amistoso</AM.AMSettings.Settings.FriendlyDuelCooldown>
+  <AM.AMSettings.Settings.FriendlyDuelCooldown.Desc>O tempo de recarga, em segundos, após um duelo amistoso durante o qual um novo duelo amistoso não pode ser iniciado.</AM.AMSettings.Settings.FriendlyDuelCooldown.Desc>
+  <AM.AMSettings.Settings.Header.Visuals>Visuais</AM.AMSettings.Settings.Header.Visuals>
+  <AM.AMSettings.Settings.ShowHands>Mostrar mãos</AM.AMSettings.Settings.ShowHands>
+  <AM.AMSettings.Settings.ShowHands.Desc>As mãos dos colonos devem ser exibidas segurando armas corpo a corpo?</AM.AMSettings.Settings.ShowHands.Desc>
+  <AM.AMSettings.Settings.Gore_DamageEffect>Efeito de dano</AM.AMSettings.Settings.Gore_DamageEffect>
+  <AM.AMSettings.Settings.Gore_DamageEffect.Desc>Ativa ou desativa o efeito de dano nas animações.\nO efeito de dano normalmente é uma pequena nuvem temporária de sangue.</AM.AMSettings.Settings.Gore_DamageEffect.Desc>
+  <AM.AMSettings.Settings.Gore_FloorBlood>Sangue (sujeira)</AM.AMSettings.Settings.Gore_FloorBlood>
+  <AM.AMSettings.Settings.Gore_FloorBlood.Desc>Ativa ou desativa o surgimento de sangue nas animações.\nO sangue é sujeira que precisa ser limpa. Inclui sangue de mods e sangue de mecanoide (óleo).</AM.AMSettings.Settings.Gore_FloorBlood.Desc>
+  <AM.AMSettings.Settings.CorpseOffsetMode>Modo de deslocamento de cadáveres</AM.AMSettings.Settings.CorpseOffsetMode>
+  <AM.AMSettings.Settings.CorpseOffsetMode.Desc>Para que a animação faça a transição perfeitamente para o jogo normal, as animações de execução deixam o cadáver da vítima em posições e rotações fora do padrão.\nNo entanto, esse deslocamento pode ser confuso, pois o cadáver não ocupa mais o centro do quadrado.\n&lt;b&gt;Observação:&lt;/b&gt; Os cadáveres deslocados são redefinidos após recarregar um jogo salvo.</AM.AMSettings.Settings.CorpseOffsetMode.Desc>
+  <AM.AMSettings.Settings.MoveAnimSpeedCoef>Velocidade das animações de movimento</AM.AMSettings.Settings.MoveAnimSpeedCoef>
+  <AM.AMSettings.Settings.MoveAnimSpeedCoef.Desc>Altera a velocidade das animações de movimento.\nValores mais altos aumentam a velocidade. Esta é apenas uma mudança visual; obviamente não altera a velocidade de movimento do colono.</AM.AMSettings.Settings.MoveAnimSpeedCoef.Desc>
+  <AM.AMSettings.Settings.SpeedUpAttackAnims>Aumentar a velocidade da animação quando os ataques são rápidos</AM.AMSettings.Settings.SpeedUpAttackAnims>
+  <AM.AMSettings.Settings.SpeedUpAttackAnims.Desc>Se ativado, a velocidade das animações de ataque corpo a corpo será aumentada automaticamente para corresponder à velocidade corpo a corpo do colono.\nSe desativado, a velocidade da animação de ataque nunca mudará; no entanto, a animação pode ser interrompida pelo início da próxima antes que a última termine.\nEsta é uma mudança puramente visual e não afeta o combate.</AM.AMSettings.Settings.SpeedUpAttackAnims.Desc>
+  <AM.AMSettings.Settings.FlavourMTB>Intervalo médio da animação de espera</AM.AMSettings.Settings.FlavourMTB>
+  <AM.AMSettings.Settings.FlavourMTB.Desc>Colonos parados com a arma em mãos (como quando alistados) às vezes exibirão uma animação em que balançam a arma, fazem floreios etc.\nEsta opção controla o tempo médio, em segundos, entre a ocorrência dessa animação.\nDefina como 0 para desativar completamente as animações.</AM.AMSettings.Settings.FlavourMTB.Desc>
+  <AM.AMSettings.Settings.AttackPauseDuration>Duração da pausa de ataque</AM.AMSettings.Settings.AttackPauseDuration>
+  <AM.AMSettings.Settings.AttackPauseDuration.Desc>Ao realizar um ataque corpo a corpo normal, a animação pausará brevemente no momento em que a arma intersecta o alvo.\nIsso permite saber se o ataque acertou, além de dar ao golpe um pouco mais de &lt;i&gt;impacto&lt;/i&gt; visual.\nEsta configuração altera a duração dessa pausa ou a desativa completamente. Esta é uma mudança puramente visual e não afeta o combate.</AM.AMSettings.Settings.AttackPauseDuration.Desc>
+  <AM.AMSettings.Settings.TrailColor>Cor do rastro da arma</AM.AMSettings.Settings.TrailColor>
+  <AM.AMSettings.Settings.TrailColor.Desc>A cor base dos rastros das armas. Se você definir o alfa como 0, os rastros serão desativados.</AM.AMSettings.Settings.TrailColor.Desc>
+  <AM.AMSettings.Settings.TrailLengthScale>Comprimento do rastro da arma</AM.AMSettings.Settings.TrailLengthScale>
+  <AM.AMSettings.Settings.TrailLengthScale.Desc>Um multiplicador no comprimento dos rastros das armas. Se 0%, os rastros são desativados.</AM.AMSettings.Settings.TrailLengthScale.Desc>
+  <AM.AMSettings.Settings.DrawNamesInAnimation>Exibir nomes durante a animação</AM.AMSettings.Settings.DrawNamesInAnimation>
+  <AM.AMSettings.Settings.DrawNamesInAnimation.Desc>Se ativado, o nome dos colonos é exibido abaixo deles, assim como no jogo base.\nSe desativado, o nome não é exibido, para uma animação mais cinematográfica.</AM.AMSettings.Settings.DrawNamesInAnimation.Desc>
+  <AM.AMSettings.Settings.ShowExecutionMotes>Mostrar texto do resultado da execução</AM.AMSettings.Settings.ShowExecutionMotes>
+  <AM.AMSettings.Settings.ShowExecutionMotes.Desc>Ativa ou desativa o texto pop-up que mostra o resultado de uma execução (ou seja, ferir, abater ou matar) quando uma animação de execução é reproduzida.</AM.AMSettings.Settings.ShowExecutionMotes.Desc>
+  <AM.AMSettings.Settings.Header.Performance>Desempenho</AM.AMSettings.Settings.Header.Performance>
+  <AM.AMSettings.Settings.MaxProcessingThreads>Máximo de threads de processamento</AM.AMSettings.Settings.MaxProcessingThreads>
+  <AM.AMSettings.Settings.MaxProcessingThreads.Desc>O número máximo de threads da CPU a usar ao processar colonos para execuções automáticas e uso de laços.\nSe definido como 0, a contagem de threads é determinada automaticamente com base na sua CPU; se definido como 1, o processamento multithread é desativado.\nDefina como 1 se você tiver uma enxurrada de erros causada por um conflito de mods, embora isso diminua consideravelmente o desempenho.</AM.AMSettings.Settings.MaxProcessingThreads.Desc>
+  <AM.AMSettings.Settings.MultithreadedMatrixCalculations>Cálculos de matrizes multithread</AM.AMSettings.Settings.MultithreadedMatrixCalculations>
+  <AM.AMSettings.Settings.MultithreadedMatrixCalculations.Desc>Quando ativado, várias threads da CPU são usadas para calcular a transformação complexa de matrizes necessária para as animações.\nO número de threads é definido pela configuração Máximo de threads de processamento.</AM.AMSettings.Settings.MultithreadedMatrixCalculations.Desc>
+  <AM.AMSettings.Settings.OffscreenCulling>Ocultação fora da tela</AM.AMSettings.Settings.OffscreenCulling>
+  <AM.AMSettings.Settings.OffscreenCulling.Desc>Quando ativado, as animações fora da tela não são desenhadas para economizar tempo e aumentar os FPS.\nEsta opção está aqui apenas caso haja bugs inesperados relacionados a essa ocultação.</AM.AMSettings.Settings.OffscreenCulling.Desc>
+  <AM.AMSettings.Settings.ScanTickInterval>Intervalo de verificação em ticks</AM.AMSettings.Settings.ScanTickInterval>
+  <AM.AMSettings.Settings.ScanTickInterval.Desc>O número de ticks entre verificações de todos os colonos do mapa em busca de oportunidades de execução/duelo/laço automáticos.\nValores mais altos podem aumentar os FPS ao custo de menor capacidade de resposta.</AM.AMSettings.Settings.ScanTickInterval.Desc>
+  <AM.AMSettings.Settings.Header.Other>Outros</AM.AMSettings.Settings.Header.Other>
+  <AM.AMSettings.Settings.FriendlyPawnLethalityBonus>Bônus de letalidade de colonos aliados</AM.AMSettings.Settings.FriendlyPawnLethalityBonus>
+  <AM.AMSettings.Settings.FriendlyPawnLethalityBonus.Desc>Valores positivos funcionam como um bônus de letalidade para colonos aliados (incluindo escravos) nos resultados de execução e duelo, ou seja, eles serão letais com mais frequência.</AM.AMSettings.Settings.FriendlyPawnLethalityBonus.Desc>
+  <AM.AMSettings.Settings.FriendlyPawnDuelBonus>Bônus de habilidade de duelo de colonos aliados</AM.AMSettings.Settings.FriendlyPawnDuelBonus>
+  <AM.AMSettings.Settings.FriendlyPawnDuelBonus.Desc>Valores positivos funcionam como um bônus de habilidade de duelo para colonos aliados (incluindo escravos), ou seja, eles vencerão duelos com mais frequência.</AM.AMSettings.Settings.FriendlyPawnDuelBonus.Desc>
+  <AM.AMSettings.Settings.NormalDist>Distribuição normal do duelo</AM.AMSettings.Settings.NormalDist>
+  <AM.AMSettings.Settings.NormalDist.Desc>Valores mais altos tornam os resultados dos duelos menos dependentes da habilidade de duelo e mais da aleatoriedade; valores mais baixos tornam o resultado mais dependente da habilidade de duelo e menos da aleatoriedade.\n\nTécnico: Este é o desvio padrão usado na curva de distribuição normal do resultado do duelo.</AM.AMSettings.Settings.NormalDist.Desc>
+  <AM.AMSettings.Settings.WarnOfFriendlyExecution>Mostrar aviso antes de executar um aliado</AM.AMSettings.Settings.WarnOfFriendlyExecution>
+  <AM.AMSettings.Settings.WarnOfFriendlyExecution.Desc>Impede que você execute acidentalmente um colono aliado, exigindo que você segure a tecla [Shift] ao selecionar um colono aliado para execução.</AM.AMSettings.Settings.WarnOfFriendlyExecution.Desc>
+  <AM.AMSettings.Settings.SendStatistics>Enviar estatísticas anônimas de patches</AM.AMSettings.Settings.SendStatistics>
+  <AM.AMSettings.Settings.SendStatistics.Desc>Quando um mod não tem um patch (que permite que as armas corpo a corpo façam animações), o ID desse mod é registrado anonimamente para informar ao autor deste mod que um patch é necessário. As &lt;b&gt;únicas&lt;/b&gt; informações registradas são: ID do mod, nome do mod, contagem de armas.\nVocê pode desativar essa funcionalidade desativando esta opção.\nObservação: o registro não ocorre na primeira vez que você executa o jogo com este mod.</AM.AMSettings.Settings.SendStatistics.Desc>
+  <AM.AMSettings.Settings.ChanceToFailMinSkill>Chance de falha na execução (Habilidade baixa)</AM.AMSettings.Settings.ChanceToFailMinSkill>
+  <AM.AMSettings.Settings.ChanceToFailMinSkill.Desc>A chance de uma tentativa de execução resultar em falha, atordoando o colono atacante e deixando-o vulnerável por um breve período.\nEsta é a chance quando um colono tem 0 de habilidade corpo a corpo.\nAfeta todos os colonos.</AM.AMSettings.Settings.ChanceToFailMinSkill.Desc>
+  <AM.AMSettings.Settings.ChanceToFailMaxSkill>Chance de falha na execução (Habilidade alta)</AM.AMSettings.Settings.ChanceToFailMaxSkill>
+  <AM.AMSettings.Settings.ChanceToFailMaxSkill.Desc>A chance de uma tentativa de execução resultar em falha, atordoando o colono atacante e deixando-o vulnerável por um breve período.\nEsta é a chance quando um colono tem 20 de habilidade corpo a corpo.\nAfeta todos os colonos.</AM.AMSettings.Settings.ChanceToFailMaxSkill.Desc>
+  <AM.ExecutionOutcome.Injured>Ferido</AM.ExecutionOutcome.Injured>
+  <AM.ExecutionOutcome.Downed>Abatido</AM.ExecutionOutcome.Downed>
+  <AM.ExecutionOutcome.Killed>Morto</AM.ExecutionOutcome.Killed>
+  <AM.ExecutionOutcome.Failed>Falhou!</AM.ExecutionOutcome.Failed>
+</LanguageData>

@@ -20,7 +20,7 @@
   <VBE_AnimatronicMechanic.titleShort>Mecânico</VBE_AnimatronicMechanic.titleShort>
   <VBE_AnomalousCreatureResearcher.baseDesc>Parte de uma organização secreta dedicada à captura e estudo de fenômenos considerados “anômalos”, [PAWN_nameDef] fazia parte de um departamento dedicado à captura e estudo de criaturas anômalas. Depois de muitas violações de contenção, [PAWN_nameDef] ficou traumatizado e deixou a organização.</VBE_AnomalousCreatureResearcher.baseDesc>
   <VBE_AnomalousCreatureResearcher.title>Pesquisador de criaturas anômalas</VBE_AnomalousCreatureResearcher.title>
-  <VBE_AnomalousCreatureResearcher.titleShort>Investigador</VBE_AnomalousCreatureResearcher.titleShort>
+  <VBE_AnomalousCreatureResearcher.titleShort>Pesquisador</VBE_AnomalousCreatureResearcher.titleShort>
   <VBE_Apprentice.baseDesc>Ao atingir a maioridade, um jovem [PAWN_nameDef] começou a estudar com os grandes mestres, aprendendo de baixo para cima. [PAWN_pronoun] deixou família e casa para seguir uma paixão e um comércio. O trabalho foi árduo, mas valeu a pena traçar o próprio caminho de [PAWN_possessive].</VBE_Apprentice.baseDesc>
   <VBE_Apprentice.title>Aprendiz</VBE_Apprentice.title>
   <VBE_Apprentice.titleShort>Aprendiz</VBE_Apprentice.titleShort>
@@ -28,7 +28,7 @@
   <VBE_AquaponicWorker.title>Trabalhador aquapônico</VBE_AquaponicWorker.title>
   <VBE_AquaponicWorker.titleShort>Piscicultor</VBE_AquaponicWorker.titleShort>
   <VBE_ArchotechFanatic.baseDesc>[PAWN_nameDef] afirma que a mente de [PAWN_possessive] foi visitada por uma entidade onipotente que se manifesta através de objetos arqueológicos avançados. Enquanto [PAWN_nameDef] mostra grande afinidade com tecnologia e pesquisa, [PAWN_pronoun] nutre igualmente forte repulsa quando se trata de plantas e animais.</VBE_ArchotechFanatic.baseDesc>
-  <VBE_ArchotechFanatic.title>Fanático por Arquotecnologia</VBE_ArchotechFanatic.title>
+  <VBE_ArchotechFanatic.title>Fanático por arquotecnologia</VBE_ArchotechFanatic.title>
   <VBE_ArchotechFanatic.titleShort>Arcofanático</VBE_ArchotechFanatic.titleShort>
   <VBE_ArtCritic.baseDesc>[PAWN_nameDef] tornou-se conhecido como um dos críticos mais influentes. Avaliações de [PAWN_possessive] podem fazer ou destruir carreiras.</VBE_ArtCritic.baseDesc>
   <VBE_ArtCritic.title>Crítico de arte</VBE_ArtCritic.title>
@@ -43,26 +43,26 @@
   <VBE_Bioweapon.title>Arma biológica</VBE_Bioweapon.title>
   <VBE_Bioweapon.titleShort>Arma biológica</VBE_Bioweapon.titleShort>
   <VBE_Blackguard.baseDesc>[PAWN_nameDef] carrega consigo uma nuvem de infortúnio, fazendo com que [PAWN_objective] atraísse desastres e fosse expulso de todas as cidades onde [PAWN_pronoun] viveu por causa das superstições das pessoas. Apesar de [PAWN_objective] ser seguido por desastres a cada passo, [PAWN_pronoun] aprendeu a se virar sozinho, e [PAWN_pronoun] tornou-se autossuficiente.</VBE_Blackguard.baseDesc>
-  <VBE_Blackguard.title>Guarda Negro</VBE_Blackguard.title>
-  <VBE_Blackguard.titleShort>Guarda Negro</VBE_Blackguard.titleShort>
+  <VBE_Blackguard.title>Vilão</VBE_Blackguard.title>
+  <VBE_Blackguard.titleShort>Vilão</VBE_Blackguard.titleShort>
   <VBE_BlacksmithApprentice.baseDesc>[PAWN_nameDef] trabalhou com um ferreiro respeitado quando era um jovem aprendiz. As tarefas diárias de [PAWN_possessive] incluíam cuidar da forja, transportar suprimentos e, às vezes, fazer ferramentas menores e mais simples.\n\nA coisa favorita de [PAWN_possessive] eram pequenas adagas e armas de madeira para [PAWN_possessive] colegas crianças, o que tornava [PAWN_objective] bastante popular.</VBE_BlacksmithApprentice.baseDesc>
   <VBE_BlacksmithApprentice.title>Aprendiz de ferreiro</VBE_BlacksmithApprentice.title>
   <VBE_BlacksmithApprentice.titleShort>Aprendiz</VBE_BlacksmithApprentice.titleShort>
   <VBE_BloodKnight.baseDesc>[PAWN_nameDef] foi um Cavaleiro de Sangue do Império, ganhando esse título após passar por anos de treinamento rigoroso e potencialmente mortal. O dever [PAWN_possessive] e o único propósito do império era eliminar qualquer um que ousasse desafiar seu governo. [PAWN_nameDef] é impiedoso e fará tudo e qualquer coisa que esteja ao alcance de [PAWN_possessive] para fazer com que os inimigos de [PAWN_possessive] passem para a vida após a morte.</VBE_BloodKnight.baseDesc>
   <VBE_BloodKnight.title>Cavaleiro de sangue</VBE_BloodKnight.title>
-  <VBE_BloodKnight.titleShort>Sangramento</VBE_BloodKnight.titleShort>
+  <VBE_BloodKnight.titleShort>Sangrador</VBE_BloodKnight.titleShort>
   <VBE_BloodlineFounder.baseDesc>[PAWN_nameDef] teve uma origem muito contestada, e ninguém queria reconhecer [PAWN_possessive] linhagem. De alguma forma, porém, [PAWN_pronoun] tinha origem nobre, tendo sido criado por pessoas que não se importavam com esse tipo de coisa. Quando [PAWN_possessive] direitos à alta nobreza vieram à tona, de repente todos quiseram uma fatia do bolo.</VBE_BloodlineFounder.baseDesc>
   <VBE_BloodlineFounder.title>Fundador da linhagem</VBE_BloodlineFounder.title>
   <VBE_BloodlineFounder.titleShort>Fundador</VBE_BloodlineFounder.titleShort>
   <VBE_BountyHunter.baseDesc>[PAWN_nameDef] tem muito orgulho de [PAWN_possessive] encontrar, capturar e entregar indivíduos que irritaram as pessoas erradas, principalmente se isso envolver um grande influxo de dinheiro na direção de [PAWN_possessive]. Pode não ser o trabalho mais glamoroso, mas paga por um estilo de vida decente e isso é tudo que [PAWN_pronoun] sempre quis na vida. Além disso, [PAWN_pronoun] consegue atirar no rosto das pessoas, o que pode ser surpreendentemente terapêutico.</VBE_BountyHunter.baseDesc>
-  <VBE_BountyHunter.title>Caçador de Recompensa</VBE_BountyHunter.title>
+  <VBE_BountyHunter.title>Caçador de recompensa</VBE_BountyHunter.title>
   <VBE_BountyHunter.titleShort>Caçador</VBE_BountyHunter.titleShort>
   <VBE_Bullleaper.baseDesc>[PAWN_nameDef] é dançarino e acrobata. [PAWN_pronoun] costumava dançar e pular nas costas de um touro para entreter a multidão. Todos os saltadores de touro precisam ser muito ágeis, mas o que tornou [PAWN_objective] especialmente bom foi o profundo entendimento de [PAWN_possessive] sobre o comportamento do animal. Como saltar em touro é uma atividade muito perigosa, [PAWN_nameDef] muitas vezes tinha que prestar primeiros socorros a colegas feridos.</VBE_Bullleaper.baseDesc>
-  <VBE_Bullleaper.title>Saltador de touro</VBE_Bullleaper.title>
+  <VBE_Bullleaper.title>Saltador de touros</VBE_Bullleaper.title>
   <VBE_Bullleaper.titleShort>Acrobata</VBE_Bullleaper.titleShort>
   <VBE_BureaucraticProgrammer.baseDesc>[PAWN_nameDef] passou [PAWN_possessive] programas de codificação da vida adulta para extrair dados de formulários burocráticos para que pudessem preencher automaticamente outros formulários. É claro que, uma vez que outros burocratas tiveram que verificar legalmente os resultados do programa [PAWN_possessive], as poupanças reais de trabalho foram, na melhor das hipóteses, marginais. [PAWN_pronoun] passou muito tempo atrás de uma mesa para ser útil no trabalho manual.</VBE_BureaucraticProgrammer.baseDesc>
   <VBE_BureaucraticProgrammer.title>Programador burocrático</VBE_BureaucraticProgrammer.title>
-  <VBE_BureaucraticProgrammer.titleShort>burocrata</VBE_BureaucraticProgrammer.titleShort>
+  <VBE_BureaucraticProgrammer.titleShort>Burocrata</VBE_BureaucraticProgrammer.titleShort>
   <VBE_CannibalisticSurgeon.baseDesc>[PAWN_nameDef] era cirurgião em uma instituição de prestígio até que a tendência de [PAWN_possessive] de tomar 'liberdades culinárias' com o falecido foi revelada. Em vez de prejudicar a reputação de [PAWN_possessive] ao abrir o capital, foi oferecida a [PAWN_pronoun] uma viagem só de ida para um mundo distante como um 'pacote de aposentadoria'.</VBE_CannibalisticSurgeon.baseDesc>
   <VBE_CannibalisticSurgeon.title>Cirurgião canibal</VBE_CannibalisticSurgeon.title>
   <VBE_CannibalisticSurgeon.titleShort>Cirurgião</VBE_CannibalisticSurgeon.titleShort>
@@ -79,10 +79,10 @@
   <VBE_CaveinSurvivor.title>Sobrevivente do desabamento</VBE_CaveinSurvivor.title>
   <VBE_CaveinSurvivor.titleShort>Sobrevivente</VBE_CaveinSurvivor.titleShort>
   <VBE_CenturionsDeputy.baseDesc>[PAWN_nameDef] serviu nas forças armadas do governo [PAWN_possessive] com distinção, eventualmente recompensado com o posto de optio e teria sucesso em se tornar um centurião assim que [PAWN_possessive] superior fosse promovido. Em geral, [PAWN_pronoun] era bastante simples com essas novas responsabilidades, já que o centurião comandava uma equipe restrita e raramente tinha que lidar com insubordinação, o que resultou na perda de algum treinamento disciplinador importante para [PAWN_nameDef].</VBE_CenturionsDeputy.baseDesc>
-  <VBE_CenturionsDeputy.title>Deputado do Centurião</VBE_CenturionsDeputy.title>
-  <VBE_CenturionsDeputy.titleShort>Opção</VBE_CenturionsDeputy.titleShort>
+  <VBE_CenturionsDeputy.title>Imediato do centurião</VBE_CenturionsDeputy.title>
+  <VBE_CenturionsDeputy.titleShort>Optio</VBE_CenturionsDeputy.titleShort>
   <VBE_ChemfuelFarmer.baseDesc>[PAWN_nameDef] é um empresário. [PAWN_pronoun] reconheceu imediatamente quanto dinheiro seria ganho com o chemfuel, uma substância tão amplamente utilizada que a procura parece nunca diminuir, não importa a quantidade de produto que se venda. [PAWN_pronoun] primeiro convenceu a família [PAWN_possessive] a comprar um rancho boomalope, depois seus vizinhos a plantar chemroot. Logo, toda a cidade estava refinando tudo o que conseguiam. Desde a tempestade do verão passado, [PAWN_pronoun] está procurando uma nova cidade para morar. Em qualquer lugar, na verdade: [PAWN_pronoun] não tem família para amarrá-lo.</VBE_ChemfuelFarmer.baseDesc>
-  <VBE_ChemfuelFarmer.title>Agricultor de Chemfuel</VBE_ChemfuelFarmer.title>
+  <VBE_ChemfuelFarmer.title>Agricultor de combustível químico</VBE_ChemfuelFarmer.title>
   <VBE_ChemfuelFarmer.titleShort>Agricultor</VBE_ChemfuelFarmer.titleShort>
   <VBE_Chemist.baseDesc>[PAWN_nameDef] dominou a arte da química. Provou ser uma habilidade bastante versátil na vida de [PAWN_possessive] - desde vulcão para uma feira de ciências até bombas caseiras, provavelmente [PAWN_nameDef] sabe como criar isso.</VBE_Chemist.baseDesc>
   <VBE_Chemist.title>Químico</VBE_Chemist.title>
@@ -129,8 +129,8 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_CosplayEnthusiast.title>Entusiasta de cosplay</VBE_CosplayEnthusiast.title>
   <VBE_CosplayEnthusiast.titleShort>Cosplayer</VBE_CosplayEnthusiast.titleShort>
   <VBE_CriminalPriest.baseDesc>[PAWN_nameDef] de alguma forma conseguiu que [PAWN_possessive] conseguisse uma posição confortável entre o clero em uma pequena cidade estrangeira em um mundo periférico. [PAWN_pronoun] frequentemente explorava essa posição para ganho pessoal, seja chantageando aqueles que confessavam ou roubando doações diretamente.\n\nDurante esse tempo, [PAWN_nameDef] confiou fortemente no carisma de [PAWN_possessive] para evitar conflitos.</VBE_CriminalPriest.baseDesc>
-  <VBE_CriminalPriest.title>Padre criminoso</VBE_CriminalPriest.title>
-  <VBE_CriminalPriest.titleShort>Padre</VBE_CriminalPriest.titleShort>
+  <VBE_CriminalPriest.title>Sacerdote criminoso</VBE_CriminalPriest.title>
+  <VBE_CriminalPriest.titleShort>Sacerdote</VBE_CriminalPriest.titleShort>
   <VBE_Cryonic.baseDesc>[PAWN_nameDef] pertence a uma civilização que pereceu em uma era glacial que devastou o mundo natal de [PAWN_possessive]. O corpo de [PAWN_possessive] foi preservado no gelo por séculos até que [PAWN_pronoun] foi recuperado por uma expedição arqueológica do mundo brilhante e foi ressuscitado com soros mecaníticos avançados em seu planeta. Não querendo ser mantido como sujeito de pesquisa, [PAWN_nameDef] escapou com a ajuda de um grupo de ativistas humanitários. Essa experiência fez com que [PAWN_objective] desconfiasse de estranhos, mas [PAWN_pronoun] também adquiriu algum conhecimento do tempo de [PAWN_possessive] no laboratório.</VBE_Cryonic.baseDesc>
   <VBE_Cryonic.title>Criônico</VBE_Cryonic.title>
   <VBE_Cryonic.titleShort>Criônico</VBE_Cryonic.titleShort>
@@ -141,11 +141,11 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_CyberDilettante.title>Diletante cibernético</VBE_CyberDilettante.title>
   <VBE_CyberDilettante.titleShort>Técnico</VBE_CyberDilettante.titleShort>
   <VBE_DeepSpaceScrapper.baseDesc>Devido à quantidade de batalhas interestelares recentes, existem muitas naves abandonadas flutuando no espaço. É trabalho de [PAWN_nameDef] encontrar esses navios e salvá-los. [PAWN_nameDef] desmancha naves, tanto em órbita quanto em destroços planetários, e vende o material e as peças. Como a propriedade desses navios pode ser questionada, [PAWN_nameDef] às vezes se vê [PAWN_objective] do lado errado da lei.   </VBE_DeepSpaceScrapper.baseDesc>
-  <VBE_DeepSpaceScrapper.title>Raspador de espaço profundo</VBE_DeepSpaceScrapper.title>
+  <VBE_DeepSpaceScrapper.title>Sucateiro do espaço profundo</VBE_DeepSpaceScrapper.title>
   <VBE_DeepSpaceScrapper.titleShort>Sucateiro</VBE_DeepSpaceScrapper.titleShort>
   <VBE_Demoscener.baseDesc>[PAWN_nameDef] sempre se interessou por computadores e programação. Especificamente os computadores que são tão antigos que a linha entre programação e engenharia fica confusa. [PAWN_nameDef] se apaixonou por uma cultura que usa essas máquinas antigas para criar arte, utilizando toda a extensão da programação primitiva disponível.</VBE_Demoscener.baseDesc>
-  <VBE_Demoscener.title>Democenador</VBE_Demoscener.title>
-  <VBE_Demoscener.titleShort>Democenador</VBE_Demoscener.titleShort>
+  <VBE_Demoscener.title>Demoscener</VBE_Demoscener.title>
+  <VBE_Demoscener.titleShort>Demoscener</VBE_Demoscener.titleShort>
   <VBE_DeposedRoyalty.baseDesc>[PAWN_nameDef] fundou um território que abrange uma região através de conflitos sangrentos, recusando-se a desistir do direito das pessoas [PAWN_possessive] e [PAWN_possessive] de viver sem opressão por seu gênero e crenças. Eventualmente, múltiplas facções se uniram para travar uma guerra contra a nação [PAWN_possessive], culminando com guarda-costas de [PAWN_possessive] forçando [PAWN_objective] a fugir. Embora [PAWN_pronoun] tenha feito tudo que [PAWN_pronoun] pôde para construir um futuro para as pessoas [PAWN_possessive], o fracasso de [PAWN_possessive] em protegê-las foi a maior vergonha de [PAWN_possessive].</VBE_DeposedRoyalty.baseDesc>
   <VBE_DeposedRoyalty.title>Realeza deposta</VBE_DeposedRoyalty.title>
   <VBE_DeposedRoyalty.titleShort>Realeza</VBE_DeposedRoyalty.titleShort>
@@ -157,10 +157,10 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_Dietetician.titleShort>Dietista</VBE_Dietetician.titleShort>
   <VBE_DogWalker.baseDesc>[PAWN_nameDef] gosta tanto de estar perto de animais que [PAWN_pronoun] se ofereceu como voluntário em seu abrigo local para ajudar a passear com os cães e fazer-lhes algum exercício. Isso durou até que [PAWN_pronoun] percebeu o quão lucrativo poderia ser um negócio e [PAWN_nameDef] ampliou as operações para se tornar um passeador de cães em tempo integral com dezenas de clientes.</VBE_DogWalker.baseDesc>
   <VBE_DogWalker.title>Passeador de cães</VBE_DogWalker.title>
-  <VBE_DogWalker.titleShort>Andador</VBE_DogWalker.titleShort>
+  <VBE_DogWalker.titleShort>Passeador</VBE_DogWalker.titleShort>
   <VBE_Doomsayer.baseDesc>Após a morte de um animal de estimação muito querido por [PAWN_objective], [PAWN_nameDef] partiu para uma jornada rumo ao exterior e compartilhou a dor de [PAWN_possessive] entre aqueles que a mereciam. Às vezes isso era feito de forma oratória, proclamando que os pecadores sofreriam por suas ações e todos deveriam saudar a vinda do destruidor. Outras vezes - muito mais preferencialmente - isso era feito com uma espada de vingança de cano de aço.</VBE_Doomsayer.baseDesc>
-  <VBE_Doomsayer.title>Apocalypse</VBE_Doomsayer.title>
-  <VBE_Doomsayer.titleShort>Apocalypse</VBE_Doomsayer.titleShort>
+  <VBE_Doomsayer.title>Profeta do apocalipse</VBE_Doomsayer.title>
+  <VBE_Doomsayer.titleShort>Profeta do apocalipse</VBE_Doomsayer.titleShort>
   <VBE_DrillOperator.baseDesc>[PAWN_nameDef] foi empregado em uma operação de mineração de penetração na crosta que deu errado. [PAWN_nameDef] foi um dos poucos sobreviventes e, com os outros, [PAWN_pronoun] abriu um processo legal contra a mineradora alegando que eles haviam encoberto a descoberta de uma infestação de insetoides para garantir mais lucros. Quando a empresa começou a silenciar os sobreviventes, [PAWN_pronoun] embarcou clandestinamente em uma nave estelar por questões de segurança.</VBE_DrillOperator.baseDesc>
   <VBE_DrillOperator.title>Operador de perfuração</VBE_DrillOperator.title>
   <VBE_DrillOperator.titleShort>Perfurador</VBE_DrillOperator.titleShort>
@@ -174,19 +174,19 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_EngineHelper.title>Ajudante de motor</VBE_EngineHelper.title>
   <VBE_EngineHelper.titleShort>Ajudante</VBE_EngineHelper.titleShort>
   <VBE_EngineRoomTech.baseDesc>Como técnico de casa de máquinas, [PAWN_nameDef] manteve o coração da nave espacial funcionando. [PAWN_pronoun] poderia consertar quase tudo com as ferramentas certas, mas [PAWN_pronoun] faltava sutileza nas interações sociais e evitava qualquer tarefa que exigisse um toque gentil.</VBE_EngineRoomTech.baseDesc>
-  <VBE_EngineRoomTech.title>Tecnologia da sala de máquinas</VBE_EngineRoomTech.title>
+  <VBE_EngineRoomTech.title>Técnico de casa de máquinas</VBE_EngineRoomTech.title>
   <VBE_EngineRoomTech.titleShort>Técnico</VBE_EngineRoomTech.titleShort>
   <VBE_EnlistedTeen.baseDesc>[PAWN_nameDef] alistou-se ainda jovem no exército, usando documentos falsos, ansioso por sair pelo mundo e fazer a diferença. Isso não durou muito, pois [PAWN_pronoun] aprendeu rapidamente que [PAWN_possessive] novos camaradas eram os que morriam, enquanto aqueles que instigavam conflitos obtinham lucros cada vez maiores às custas de idealistas como [PAWN_objective].</VBE_EnlistedTeen.baseDesc>
   <VBE_EnlistedTeen.title>Adolescente alistado</VBE_EnlistedTeen.title>
   <VBE_EnlistedTeen.titleShort>Alistado</VBE_EnlistedTeen.titleShort>
   <VBE_ExtranetTroll.baseDesc>[PAWN_nameDef] passou [PAWN_possessive] dias espalhando desinformação pela extranet a pedido dos empregadores de [PAWN_possessive]. Eventualmente, [PAWN_pronoun] sobreviveu à utilidade de [PAWN_possessive] e foi demitido, e sem habilidades comercializáveis, [PAWN_pronoun] teve que trabalhar em empregos miseráveis e sem saída apenas para alimentar [PAWN_objective]. </VBE_ExtranetTroll.baseDesc>
-  <VBE_ExtranetTroll.title>Provocador da Extranet</VBE_ExtranetTroll.title>
-  <VBE_ExtranetTroll.titleShort>Provocador</VBE_ExtranetTroll.titleShort>
+  <VBE_ExtranetTroll.title>Troll da extranet</VBE_ExtranetTroll.title>
+  <VBE_ExtranetTroll.titleShort>Troll</VBE_ExtranetTroll.titleShort>
   <VBE_FanaticInventor.baseDesc>O amor de [PAWN_nameDef] por máquinas e engenharia é totalmente fanático. Na casa de [PAWN_possessive] Urbworld, [PAWN_pronoun] fabricava drones, armas e máquinas ilegais, muitas vezes sendo perseguido pela polícia. [PAWN_nameDef] não vê a natureza como outra coisa senão uma fonte de materiais a serem refinados em algo útil.</VBE_FanaticInventor.baseDesc>
   <VBE_FanaticInventor.title>Inventor fanático</VBE_FanaticInventor.title>
   <VBE_FanaticInventor.titleShort>Inventor</VBE_FanaticInventor.titleShort>
   <VBE_FashionDesigner.baseDesc>[PAWN_nameDef] sempre disse que o mundo nunca estava pronto para [PAWN_possessive] criações, mas [PAWN_pronoun] seria fabuloso de qualquer maneira. Com [PAWN_possessive] máquina de costura confiável, [PAWN_nameDef] fui de pista em pista tentando fazer um nome para [PAWN_objective] auto.</VBE_FashionDesigner.baseDesc>
-  <VBE_FashionDesigner.title>Designer de moda</VBE_FashionDesigner.title>
+  <VBE_FashionDesigner.title>Estilista</VBE_FashionDesigner.title>
   <VBE_FashionDesigner.titleShort>Costureira</VBE_FashionDesigner.titleShort>
   <VBE_FieldTechnician.baseDesc>[PAWN_nameDef] trabalhou como técnico de campo, mantendo e reparando equipamentos em locais remotos. Adepto da resolução de problemas técnicos complexos, [PAWN_pronoun] preferiu a companhia de máquinas a pessoas, levando a [PAWN_possessive] habilidades sociais subdesenvolvidas.</VBE_FieldTechnician.baseDesc>
   <VBE_FieldTechnician.title>Técnico de campo</VBE_FieldTechnician.title>
@@ -199,7 +199,7 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_FoodCritic.titleShort>Crítico</VBE_FoodCritic.titleShort>
   <VBE_ForcedPrimitivist.baseDesc>[PAWN_nameDef] nem sempre fez parte das tribos. Depois de ser exilado do sindicato local de estrangeiros [PAWN_possessive] devido a arruinar uma colheita inteira, [PAWN_nameDef] teve que viver ao ar livre por anos, com apenas ferramentas rudimentares para ajudar [PAWN_objective]. Isso fez de [PAWN_objective] um pau para toda obra, mas quebrou completamente a confiança de [PAWN_possessive] nas pessoas.  </VBE_ForcedPrimitivist.baseDesc>
   <VBE_ForcedPrimitivist.title>Primitivista forçado</VBE_ForcedPrimitivist.title>
-  <VBE_ForcedPrimitivist.titleShort>Primitivista </VBE_ForcedPrimitivist.titleShort>
+  <VBE_ForcedPrimitivist.titleShort>Primitivista</VBE_ForcedPrimitivist.titleShort>
   <VBE_Foreman.baseDesc>[PAWN_nameDef] era capataz em uma mina de extração de metais industriais. [PAWN_pronoun] trabalhou ao lado dos trabalhadores para garantir a segurança e motivá-los. Os trabalhadores sob [PAWN_objective] eram bem pagos e gostavam da liderança [PAWN_possessive].</VBE_Foreman.baseDesc>
   <VBE_Foreman.title>Capataz</VBE_Foreman.title>
   <VBE_Foreman.titleShort>Capataz</VBE_Foreman.titleShort>
@@ -213,10 +213,10 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_ForsakenPatriot.title>Patriota abandonado</VBE_ForsakenPatriot.title>
   <VBE_ForsakenPatriot.titleShort>Patriota</VBE_ForsakenPatriot.titleShort>
   <VBE_Freak.baseDesc>[PAWN_nameDef] nasceu muito deformado. [PAWN_pronoun] foi vendido para um circo espacial e viajou entre mundos. Lá, as pessoas pagavam para assistir [PAWN_objective] realizar vários shows. Um dia, enquanto a empresa viajava para uma estação espacial próxima, [PAWN_nameDef] conseguiu escapar.</VBE_Freak.baseDesc>
-  <VBE_Freak.title>Doido</VBE_Freak.title>
-  <VBE_Freak.titleShort>Doido</VBE_Freak.titleShort>
+  <VBE_Freak.title>Aberração</VBE_Freak.title>
+  <VBE_Freak.titleShort>Aberração</VBE_Freak.titleShort>
   <VBE_FringeShitposter.baseDesc>Quando jovem, [PAWN_nameDef] interessou-se por fóruns de nicho e marginais da Internet. Obcecado pela cultura profunda e pelas piadas internas intrincadas, [PAWN_nameDef] permitiu que isso consumisse a vida de [PAWN_possessive]. Agora, na Orla, [PAWN_nameDef] encontra [PAWN_objective] despreparado para a sobrevivência e tem dificuldade de se comunicar sem trazer à tona alguma gíria antiga e esquecida ou meme profundo. Pelo menos [PAWN_pronoun] pegou algum jargão militar vago e desatualizado...</VBE_FringeShitposter.baseDesc>
-  <VBE_FringeShitposter.title>shitposter</VBE_FringeShitposter.title>
+  <VBE_FringeShitposter.title>Shitposter de nicho</VBE_FringeShitposter.title>
   <VBE_FringeShitposter.titleShort>Shitposter</VBE_FringeShitposter.titleShort>
   <VBE_GalacticMedic.baseDesc>[PAWN_nameDef] serviu como médico em uma nave espacial, tratando de tudo, desde doenças espaciais até ferimentos causados ​​por impactos de asteroides. [PAWN_possessive] o conhecimento da medicina era incomparável, mas [PAWN_pronoun] não tinha cabeça para pesquisas ou teorias complexas.</VBE_GalacticMedic.baseDesc>
   <VBE_GalacticMedic.title>Médico galáctico</VBE_GalacticMedic.title>
@@ -231,14 +231,14 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_GardenCurator.title>Curador de jardim</VBE_GardenCurator.title>
   <VBE_GardenCurator.titleShort>Curador</VBE_GardenCurator.titleShort>
   <VBE_GeneModdedBeauty.baseDesc>[PAWN_nameDef] é o resultado de algumas das cirurgias estéticas mais avançadas do mundo brilhante natal de [PAWN_possessive]. Durante a vida de [PAWN_possessive], [PAWN_pronoun] gastou uma fortuna incalculável na aparência de [PAWN_possessive] e não teve muito tempo para praticar habilidades mais úteis.</VBE_GeneModdedBeauty.baseDesc>
-  <VBE_GeneModdedBeauty.title>Beleza modificada geneticamente</VBE_GeneModdedBeauty.title>
-  <VBE_GeneModdedBeauty.titleShort>Belo</VBE_GeneModdedBeauty.titleShort>
+  <VBE_GeneModdedBeauty.title>Beldade geneticamente modificada</VBE_GeneModdedBeauty.title>
+  <VBE_GeneModdedBeauty.titleShort>Beldade</VBE_GeneModdedBeauty.titleShort>
   <VBE_GeneticReincarnation.baseDesc>[PAWN_nameDef] foi cultivado em cubas como um clone genético de um antigo filósofo-tirano. Visto como uma celebridade da revitalização cultural desde a infância, [PAWN_pronoun] foi simultaneamente adorado e sufocado, todos exigindo que [PAWN_objective] agisse exatamente como [PAWN_pronoun] fez em [PAWN_possessive] vida anterior.</VBE_GeneticReincarnation.baseDesc>
   <VBE_GeneticReincarnation.title>Reencarnação genética</VBE_GeneticReincarnation.title>
   <VBE_GeneticReincarnation.titleShort>Reencarnação</VBE_GeneticReincarnation.titleShort>
   <VBE_GiftedBurnout.baseDesc>Desde tenra idade, [PAWN_nameDef] foi considerado um gênio. Os constantes testes, treinamento e elogios dos adultos ao redor foram bons, mas a constante pressão, expectativa e eventual fracasso exacerbaram uma longa lista de transtornos mentais adormecidos na mente de [PAWN_nameDef]. [PAWN_pronoun] ainda mantém o treinamento de [PAWN_possessive], mas será difícil usá-lo pelo resto da vida de [PAWN_possessive].</VBE_GiftedBurnout.baseDesc>
-  <VBE_GiftedBurnout.title>Esgotamento de superdotados</VBE_GiftedBurnout.title>
-  <VBE_GiftedBurnout.titleShort>Dotado</VBE_GiftedBurnout.titleShort>
+  <VBE_GiftedBurnout.title>Superdotado esgotado</VBE_GiftedBurnout.title>
+  <VBE_GiftedBurnout.titleShort>Superdotado</VBE_GiftedBurnout.titleShort>
   <VBE_HerbalKin.baseDesc>[PAWN_nameDef] foi criado pelo curandeiro da tribo, aprendendo as propriedades de cada planta e como usá-las para curar doenças. Esta exposição precoce à medicina natural fez [PAWN_pronoun] proficiente em práticas de cura, embora [PAWN_pronoun] nunca se dedicou aos aspectos mais violentos da vida tribal, como caçar ou defender a tribo.</VBE_HerbalKin.baseDesc>
   <VBE_HerbalKin.title>Parente de ervas</VBE_HerbalKin.title>
   <VBE_HerbalKin.titleShort>Parente</VBE_HerbalKin.titleShort>
@@ -246,13 +246,13 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_HostessInTraining.title>Anfitriã em treinamento</VBE_HostessInTraining.title>
   <VBE_HostessInTraining.titleShort>Anfitriã</VBE_HostessInTraining.titleShort>
   <VBE_Housecarl.baseDesc>[PAWN_nameDef] era um housecarl de um chefe poderoso. [PAWN_pronoun] foi treinado em uma variedade de armas e estava sempre armado dentro e fora do campo de batalha. Depois que um conflito com um clã mais poderoso deixou o chefe [PAWN_possessive] e muitos membros do clã mortos, [PAWN_pronoun] saiu em busca de uma nova casa para emprestar a lâmina [PAWN_possessive] ou simplesmente fazer algo totalmente novo. </VBE_Housecarl.baseDesc>
-  <VBE_Housecarl.title>Housecarl</VBE_Housecarl.title>
-  <VBE_Housecarl.titleShort>Housecarl</VBE_Housecarl.titleShort>
+  <VBE_Housecarl.title>Huscarl</VBE_Housecarl.title>
+  <VBE_Housecarl.titleShort>Huscarl</VBE_Housecarl.titleShort>
   <VBE_HumanFarm.baseDesc>[PAWN_nameDef] foi feito apenas para um propósito, consumo. Crescido a partir de um conjunto fino de injetores de hormônio e desenvolvimento conectados a um tubo cheio de solução, muitos anos de vida [PAWN_possessive] foram gastos espiando o laboratório, onde açougueiros e cientistas continuavam com suas vidas diárias. Durante um acidente estranho que destruiu a fazenda, [PAWN_nameDef] escapou.\nIsso deu a [PAWN_nameDef] uma compreensão básica da anatomia humana, mas marcou [PAWN_objective] para o resto da vida. </VBE_HumanFarm.baseDesc>
   <VBE_HumanFarm.title>Fazenda humana</VBE_HumanFarm.title>
   <VBE_HumanFarm.titleShort>Carne</VBE_HumanFarm.titleShort>
   <VBE_HumanSupremacist.baseDesc>[PAWN_nameDef] é fervorosamente contra a modificação genética e a criação de xenohumanos. [PAWN_pronoun] acredita que os humanos básicos e não modificados têm mentes e espíritos superiores em comparação. Embora preconceituosos, os argumentos [PAWN_possessive] foram bem ensaiados e falados com autoridade.</VBE_HumanSupremacist.baseDesc>
-  <VBE_HumanSupremacist.title>Supremacia humana</VBE_HumanSupremacist.title>
+  <VBE_HumanSupremacist.title>Supremacista humano</VBE_HumanSupremacist.title>
   <VBE_HumanSupremacist.titleShort>Supremacista</VBE_HumanSupremacist.titleShort>
   <VBE_ImperialCircusPerformer.baseDesc>Embora [PAWN_pronoun] seja conhecido pelos amigos [PAWN_possessive] como [PAWN_nameDef], em todos os sistemas [PAWN_pronoun] é conhecido como [PAWN_nameDef] o Incrível. [PAWN_nameDef] realizou acrobacias teatrais e acrobáticas para os nobres imperiais. [PAWN_pronoun] costuma se gabar do grupo [PAWN_possessive] de seguidores que assiste a [PAWN_possessive] todos os shows. Porém, ninguém sabe realmente quantas histórias de [PAWN_possessive] são simplesmente inventadas. </VBE_ImperialCircusPerformer.baseDesc>
   <VBE_ImperialCircusPerformer.title>Artista do circo imperial</VBE_ImperialCircusPerformer.title>
@@ -261,7 +261,7 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_IncompetentPilot.title>Piloto incompetente</VBE_IncompetentPilot.title>
   <VBE_IncompetentPilot.titleShort>Incompetente</VBE_IncompetentPilot.titleShort>
   <VBE_IndustrialGunsmith.baseDesc>[PAWN_nameDef] passou a maior parte dos [PAWN_possessive] dias trabalhando meticulosamente na mesa de usinagem de [PAWN_possessive] para criar armas de fogo. [PAWN_pronoun] passou várias horas no campo de tiro para testar novos designs de [PAWN_possessive]. No entanto, passar tanto tempo trabalhando com armas de fogo deixou [PAWN_objective] bastante deficiente no combate de curta distância.   </VBE_IndustrialGunsmith.baseDesc>
-  <VBE_IndustrialGunsmith.title>Armeiro industrial </VBE_IndustrialGunsmith.title>
+  <VBE_IndustrialGunsmith.title>Armeiro industrial</VBE_IndustrialGunsmith.title>
   <VBE_IndustrialGunsmith.titleShort>Armeiro</VBE_IndustrialGunsmith.titleShort>
   <VBE_IndustrialSoldier.baseDesc>[PAWN_nameDef] foi recrutado para o exército de uma potência industrial no mundo intermediário. Quando o treinamento finalmente terminou, [PAWN_pronoun] foi enviado para a linha de frente, onde [PAWN_pronoun] participou de uma batalha incrivelmente sangrenta. O resto do pelotão [PAWN_possessive] foi morto na batalha que se seguiu. Esta terrível tragédia deixou [PAWN_nameDef] uma concha do antigo eu de [PAWN_possessive].</VBE_IndustrialSoldier.baseDesc>
   <VBE_IndustrialSoldier.title>Soldado industrial</VBE_IndustrialSoldier.title>
@@ -270,8 +270,8 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_IndustrialTinkerer.title>Funileiro industrial</VBE_IndustrialTinkerer.title>
   <VBE_IndustrialTinkerer.titleShort>Funileiro</VBE_IndustrialTinkerer.titleShort>
   <VBE_IndustrialWorldCounterterrorist.baseDesc>[PAWN_nameDef] serviu numa unidade de contraterrorismo num mundo industrial faccionado. [PAWN_pronoun] compreendeu as razões pelas quais eles operavam, mas manteve-se firmemente contra os métodos violentos que usaram contra os inocentes. [PAWN_pronoun] adquiriu habilidades consideráveis em retórica, negociação, combate e primeiros socorros de emergência. Apesar disso, as habilidades de vida pessoal de [PAWN_possessive] não foram desenvolvidas, pois o pessoal da custódia e do refeitório cuidava da maior parte delas.</VBE_IndustrialWorldCounterterrorist.baseDesc>
-  <VBE_IndustrialWorldCounterterrorist.title>Contraterrorismo do mundo industrial</VBE_IndustrialWorldCounterterrorist.title>
-  <VBE_IndustrialWorldCounterterrorist.titleShort>Contraterrorismo</VBE_IndustrialWorldCounterterrorist.titleShort>
+  <VBE_IndustrialWorldCounterterrorist.title>Contraterrorista do mundo industrial</VBE_IndustrialWorldCounterterrorist.title>
+  <VBE_IndustrialWorldCounterterrorist.titleShort>Contraterrorista</VBE_IndustrialWorldCounterterrorist.titleShort>
   <VBE_Informant.baseDesc>[PAWN_nameDef] já fez parte de uma grande organização criminosa, mas depois de ser capturado, [PAWN_pronoun] tornou-se informante da polícia do Mundo Brilhante. Como parte do acordo, [PAWN_pronoun] receberia um novo nome e identidade e seria enviado para um mundo exterior.</VBE_Informant.baseDesc>
   <VBE_Informant.title>Informante</VBE_Informant.title>
   <VBE_Informant.titleShort>Informante</VBE_Informant.titleShort>
@@ -297,11 +297,11 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_LifelongPersonalAssistant.title>Assistente pessoal vitalício</VBE_LifelongPersonalAssistant.title>
   <VBE_LifelongPersonalAssistant.titleShort>Assistente</VBE_LifelongPersonalAssistant.titleShort>
   <VBE_LighthouseKeeper.baseDesc>Um indivíduo solitário, [PAWN_nameDef] passou grande parte da vida de [PAWN_possessive] cuidando das (principalmente) estações espaciais automatizadas do farol. Fornecendo informações de navegação a navios de muitas épocas, essas postagens silenciosas eram frequentemente consideradas punições por aqueles que nelas trabalhavam. [PAWN_nameDef] discorda, entretanto, e o silêncio foi maravilhoso para [PAWN_objective] e [PAWN_possessive] art.</VBE_LighthouseKeeper.baseDesc>
-  <VBE_LighthouseKeeper.title>faroleiro</VBE_LighthouseKeeper.title>
-  <VBE_LighthouseKeeper.titleShort>Guardador</VBE_LighthouseKeeper.titleShort>
+  <VBE_LighthouseKeeper.title>Faroleiro</VBE_LighthouseKeeper.title>
+  <VBE_LighthouseKeeper.titleShort>Faroleiro</VBE_LighthouseKeeper.titleShort>
   <VBE_LightingAssistant.baseDesc>[PAWN_nameDef] ajudou a criar a iluminação de fundo em filmes e programas. Trabalhando nos bastidores completamente sem ser detectado, [PAWN_pronoun] nunca foi reconhecido pelos superiores e apenas optou por trabalhar mais até que alguém notasse o talento de [PAWN_possessive]. Todos os ajustes em equipamentos elétricos deram a [PAWN_nameDef] um conhecimento distinto de fabricação.</VBE_LightingAssistant.baseDesc>
   <VBE_LightingAssistant.title>Assistente de iluminação</VBE_LightingAssistant.title>
-  <VBE_LightingAssistant.titleShort>Isqueiro</VBE_LightingAssistant.titleShort>
+  <VBE_LightingAssistant.titleShort>Iluminador</VBE_LightingAssistant.titleShort>
   <VBE_LiteraryCritic.baseDesc>[PAWN_nameDef] participou do ensino formal de Literatura, obtendo a maior pontuação na turma [PAWN_possessive] e até na história da fundação daquele departamento. Como tal, [PAWN_pronoun] tem um prazer quase sádico em criticar o trabalho das pessoas, especialmente se elas forem consideradas sua obra-prima. Muitos autores de best-sellers foram levados às lágrimas pelo julgamento severo de [PAWN_possessive], o que muitas vezes faz com que o trabalho de suas vidas se torne publicamente desprezado.</VBE_LiteraryCritic.baseDesc>
   <VBE_LiteraryCritic.title>Crítico literário</VBE_LiteraryCritic.title>
   <VBE_LiteraryCritic.titleShort>Crítico</VBE_LiteraryCritic.titleShort>
@@ -313,7 +313,7 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_LoneTraveller.titleShort>Viajante</VBE_LoneTraveller.titleShort>
   <VBE_Maid.baseDesc>Aparado e arrumado, esta é a moto de [PAWN_nameDef]. [PAWN_pronoun] vê muito mais o lado decadente do mundo, limpando-o de uma forma ou de outra. Mas [PAWN_pronoun] sabe melhor quando aplicar a troca [PAWN_possessive], pois há mais na habilidade de [PAWN_possessive] do que apenas limpar.</VBE_Maid.baseDesc>
   <VBE_Maid.title>Empregada doméstica</VBE_Maid.title>
-  <VBE_Maid.titleShort>Empregada doméstica</VBE_Maid.titleShort>
+  <VBE_Maid.titleShort>Empregada</VBE_Maid.titleShort>
   <VBE_Marauder.baseDesc>[PAWN_nameDef] passou a maior parte da vida de [PAWN_possessive] como lutador em uma frota nômade de piratas espaciais até que ela se dissolveu devido a lutas internas. [PAWN_pronoun] viu muitas batalhas, mas nunca chegou perto de nenhum livro.</VBE_Marauder.baseDesc>
   <VBE_Marauder.title>Saqueador</VBE_Marauder.title>
   <VBE_Marauder.titleShort>Saqueador</VBE_Marauder.titleShort>
@@ -321,8 +321,8 @@ Quando o herdeiro acabou por estar vivo, [PAWN_nameDef] foi descartado para dar 
   <VBE_Mariner.title>Marinheiro</VBE_Mariner.title>
   <VBE_Mariner.titleShort>Marinheiro</VBE_Mariner.titleShort>
   <VBE_MarineworldResearcher.baseDesc>Vendo o potencial inexplorado nos oceanos para alimentar colônias e cidades, [PAWN_nameDef] estabeleceu-se [PAWN_objective] em um mundo que era quase inteiramente coberto por oceanos. Embora [PAWN_nameDef] fosse adepto do estudo de algas e da vida aquática, [PAWN_pronoun] raramente tirava tempo do trabalho para interagir com colegas pesquisadores ou aprimorar outras habilidades.</VBE_MarineworldResearcher.baseDesc>
-  <VBE_MarineworldResearcher.title>Pesquisador do mundo marinho</VBE_MarineworldResearcher.title>
-  <VBE_MarineworldResearcher.titleShort>Mundo marinho</VBE_MarineworldResearcher.titleShort>
+  <VBE_MarineworldResearcher.title>Pesquisador de planeta oceânico</VBE_MarineworldResearcher.title>
+  <VBE_MarineworldResearcher.titleShort>Pesquisador oceânico</VBE_MarineworldResearcher.titleShort>
   <VBE_Masterofceremonies.baseDesc>[PAWN_nameDef] era um mestre de cerimônias. [PAWN_pronoun] treinou durante décadas apenas para atender aos requisitos mínimos para o trabalho: [PAWN_pronoun] teve que memorizar os milhares de rituais complicados que regem as reuniões diplomáticas em seu mundo, incluindo a maneira correta de executar quem comete um erro. Na cultura [PAWN_possessive], a guerra praticamente desapareceu: ninguém jamais conseguiu chegar ao fim do ritual necessário para declarar guerra sem cometer um erro. [PAWN_pronoun] agora espera trazer a mesma paz para a Orla, um ritual de cada vez.</VBE_Masterofceremonies.baseDesc>
   <VBE_Masterofceremonies.title>Mestre de cerimônias</VBE_Masterofceremonies.title>
   <VBE_Masterofceremonies.titleShort>Árbitro</VBE_Masterofceremonies.titleShort>
@@ -338,13 +338,13 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_MedievalOrphan.title>Órfão medieval</VBE_MedievalOrphan.title>
   <VBE_MedievalOrphan.titleShort>Órfão</VBE_MedievalOrphan.titleShort>
   <VBE_MedievalPage.baseDesc>Servindo sob o comando de um grande senhor ou senhora, [PAWN_nameDef] foi juramentado ao seu soberano. Isso significava principalmente muito trabalho, limpeza e trabalho pesado, mas havia muito a ser aprendido estudando sob os “cuidados” da nobreza.</VBE_MedievalPage.baseDesc>
-  <VBE_MedievalPage.title>Página medieval</VBE_MedievalPage.title>
-  <VBE_MedievalPage.titleShort>Página</VBE_MedievalPage.titleShort>
+  <VBE_MedievalPage.title>Pajem medieval</VBE_MedievalPage.title>
+  <VBE_MedievalPage.titleShort>Pajem</VBE_MedievalPage.titleShort>
   <VBE_MidworldNomad.baseDesc>[PAWN_nameDef] passou [PAWN_possessive] anos de juventude em um mundo intermediário estudando uma variedade de assuntos modernos e históricos, incluindo agricultura, engenharia e política. Depois que a cápsula de transporte [PAWN_possessive] caiu em um mundo medieval, [PAWN_nameDef] foi anunciado como um campeão convocado enviado pelos deuses. Nos anos seguintes, [PAWN_pronoun] começou a introduzir várias reformas culturais, tecnológicas e sociais que melhorariam drasticamente a qualidade de vida neste mundo.</VBE_MidworldNomad.baseDesc>
-  <VBE_MidworldNomad.title>Nômade do meio do mundo</VBE_MidworldNomad.title>
+  <VBE_MidworldNomad.title>Nômade do m. isolado</VBE_MidworldNomad.title>
   <VBE_MidworldNomad.titleShort>Criança nômade</VBE_MidworldNomad.titleShort>
   <VBE_MidworldProgrammer.baseDesc>O sonho de [PAWN_nameDef] era se tornar um programador e criar softwares que salvassem vidas e melhorassem o bem-estar das pessoas. No entanto, como a vida muitas vezes toma rumos inesperados, [PAWN_pronoun] descobriu que [PAWN_objective] estava desenvolvendo softwares de ponta para os militares. O trabalho deu a [PAWN_objective] uma ampla oportunidade de expandir [PAWN_possessive] conhecimento em programação e obter uma compreensão profunda das complexidades dos armamentos avançados. Apesar do desvio em relação aos planos originais de [PAWN_possessive], [PAWN_nameDef] aceitou o desafio e continuou a aprimorar [PAWN_possessive] habilidades.</VBE_MidworldProgrammer.baseDesc>
-  <VBE_MidworldProgrammer.title>Programador do mundo médio</VBE_MidworldProgrammer.title>
+  <VBE_MidworldProgrammer.title>Programador do m. isolado</VBE_MidworldProgrammer.title>
   <VBE_MidworldProgrammer.titleShort>Programador</VBE_MidworldProgrammer.titleShort>
   <VBE_MilitarySurplusSupplier.baseDesc>[PAWN_nameDef] acredita firmemente no direito de portar armas e no direito de portar armas. Como tal, [PAWN_pronoun] tem uma reputação estabelecida como um dos exportadores mais prolíficos de equipamento militar excedentário. Muitos reclamam que [PAWN_pronoun] está perpetuando a escala cada vez maior de conflito entre piratas e militares do governo. No entanto, o contra-argumento de [PAWN_possessive] é que é simplesmente uma boa prática comercial e que os militares deveriam dispor adequadamente de seu próprio decreto em vez de confiar em pessoas como [PAWN_objective].</VBE_MilitarySurplusSupplier.baseDesc>
   <VBE_MilitarySurplusSupplier.title>Fornecedor de excedentes militares</VBE_MilitarySurplusSupplier.title>
@@ -359,7 +359,7 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_NatureLover.title>Amante da natureza</VBE_NatureLover.title>
   <VBE_NatureLover.titleShort>Naturista</VBE_NatureLover.titleShort>
   <VBE_NoirDetective.baseDesc>[PAWN_nameDef] preenche um nicho muito particular na aplicação da lei, embora não esteja sob a influência direta de qualquer polícia. Embora [PAWN_pronoun] tenha um escritório com seu próprio letreiro de néon na frente e uma secretária que está constantemente tentando entrar em contato com [PAWN_objective], [PAWN_pronoun] raramente aparece, pois as investigações de [PAWN_possessive] levam [PAWN_objective] por todo o lugar. E como [PAWN_pronoun] tem o hábito de enfiar o nariz [PAWN_possessive] onde os outros não querem, é muito mais fácil encontrar problemas [PAWN_objective].</VBE_NoirDetective.baseDesc>
-  <VBE_NoirDetective.title>Detetive negro</VBE_NoirDetective.title>
+  <VBE_NoirDetective.title>Detetive noir</VBE_NoirDetective.title>
   <VBE_NoirDetective.titleShort>Detetive</VBE_NoirDetective.titleShort>
   <VBE_OldWarSurvivor.baseDesc>[PAWN_nameDef] esteve envolvido em muitos conflitos que afetaram a mente de [PAWN_possessive], já que [PAWN_pronoun] ainda acredita que a guerra nunca terminou. Como tal, [PAWN_pronoun] está no gatilho muito tenso e sofre de intenso TEPT. Muito poucas pessoas poderiam enfrentar [PAWN_objective] e qualquer aliado em potencial faria bem em ficar fora do caminho de [PAWN_possessive] e deixar [PAWN_objective] fazer o que [PAWN_pronoun] faz de melhor: eliminar todas as ameaças.</VBE_OldWarSurvivor.baseDesc>
   <VBE_OldWarSurvivor.title>Velho sobrevivente da guerra</VBE_OldWarSurvivor.title>
@@ -383,7 +383,7 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_PirateKid.title>Garoto pirata</VBE_PirateKid.title>
   <VBE_PirateKid.titleShort>Pirata</VBE_PirateKid.titleShort>
   <VBE_PodChild.baseDesc>O planeta natal de [PAWN_nameDef] estava rapidamente evoluindo para uma guerra nuclear logo após o nascimento de [PAWN_pronoun]. [PAWN_pronoun] foi forçado a entrar em sono criptográfico e escapou para relativa segurança. Depois de navegar por décadas em sono profundo, [PAWN_pronoun] foi encontrado por uma comunidade estrangeira. [PAWN_nameDef] tenta se manter atualizado sobre a vida devido à pura sorte que estava em jogo para a sobrevivência de [PAWN_possessive].</VBE_PodChild.baseDesc>
-  <VBE_PodChild.title>Filho do pod</VBE_PodChild.title>
+  <VBE_PodChild.title>Criança da cápsula</VBE_PodChild.title>
   <VBE_PodChild.titleShort>Fugitivo</VBE_PodChild.titleShort>
   <VBE_PondDesigner.baseDesc>[PAWN_nameDef] criou lagos extravagantes para os ricos. O conhecimento [PAWN_possessive] da flora e fauna aquáticas e como elas interagem é insuperável. Um dia, um cliente introduziu um novo peixe em um dos lagos [PAWN_possessive], destruindo o delicado ecossistema. Essa foi a última gota para [PAWN_nameDef], que deixou tudo para trás e pegou o primeiro navio para a Orla, onde [PAWN_pronoun] espera realizar o sonho de [PAWN_possessive]: projetar um ecossistema totalmente novo em escala planetária.</VBE_PondDesigner.baseDesc>
   <VBE_PondDesigner.title>Designer de lagoa</VBE_PondDesigner.title>
@@ -404,10 +404,10 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_ProsecutedWarVeteran.title>Veterano de guerra processado</VBE_ProsecutedWarVeteran.title>
   <VBE_ProsecutedWarVeteran.titleShort>Veterano processado</VBE_ProsecutedWarVeteran.titleShort>
   <VBE_Pushover.baseDesc>[PAWN_nameDef] era uma Simplificação e um severo pária social. Sendo constantemente intimidado, [PAWN_pronoun] ganhou aversão por outras pessoas. No entanto, todas as noites sendo forçado a fazer o dever de casa de outras pessoas proporcionou ótimos resultados nos testes. </VBE_Pushover.baseDesc>
-  <VBE_Pushover.title>Simplificação</VBE_Pushover.title>
-  <VBE_Pushover.titleShort>Simplificação</VBE_Pushover.titleShort>
+  <VBE_Pushover.title>Trouxa</VBE_Pushover.title>
+  <VBE_Pushover.titleShort>Trouxa</VBE_Pushover.titleShort>
   <VBE_RefugeeRunner.baseDesc>Escapar de zonas de conflito foi uma parte constante da infância de [PAWN_nameDef]. [PAWN_pronoun] aprendeu a atravessar paisagens perigosas e a confiar acima de tudo em [PAWN_possessive] instintos. Essas experiências angustiantes aprimoraram [PAWN_possessive] habilidades de sobrevivência, mas deixaram pouco espaço para educação ou sutilezas sociais.</VBE_RefugeeRunner.baseDesc>
-  <VBE_RefugeeRunner.title>Corredor de refugiados</VBE_RefugeeRunner.title>
+  <VBE_RefugeeRunner.title>Mensageiro de refugiados</VBE_RefugeeRunner.title>
   <VBE_RefugeeRunner.titleShort>Corredor</VBE_RefugeeRunner.titleShort>
   <VBE_ReincarnatedSoul.baseDesc>[PAWN_nameDef] acredita que [PAWN_pronoun] já foi um administrador piedoso de alguma religião há muito perdida. Renascido novamente para viver a vida como [PAWN_pronoun] escolher, [PAWN_nameDef] parece ter uma proficiência não natural com culinária e arte artesanal, apesar de [PAWN_possessive] ser jovem.</VBE_ReincarnatedSoul.baseDesc>
   <VBE_ReincarnatedSoul.title>Alma reencarnada</VBE_ReincarnatedSoul.title>
@@ -422,17 +422,17 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_RetiredSoldier.title>Soldado aposentado</VBE_RetiredSoldier.title>
   <VBE_RetiredSoldier.titleShort>Soldado</VBE_RetiredSoldier.titleShort>
   <VBE_Rocker.baseDesc>[PAWN_nameDef] ficou desiludido com o governo [PAWN_possessive] e com a influência controladora das megacorporações. Então [PAWN_pronoun] decidiu iniciar o próprio tipo de protesto de [PAWN_possessive] produzindo música underground. Às vezes, esses eventos eram simplesmente frentes para encenar um ataque a diferentes locais de interesse.</VBE_Rocker.baseDesc>
-  <VBE_Rocker.title>Balancim</VBE_Rocker.title>
-  <VBE_Rocker.titleShort>Balancim</VBE_Rocker.titleShort>
+  <VBE_Rocker.title>Roqueiro</VBE_Rocker.title>
+  <VBE_Rocker.titleShort>Roqueiro</VBE_Rocker.titleShort>
   <VBE_RodentRancher.baseDesc>[PAWN_nameDef] passou muito tempo [PAWN_possessive] trabalhando em uma fazenda de roedores em uma cidade superpovoada em um dos mundos urbanos. Devido ao espaçamento limitado e à maioria dos alimentos processados, [PAWN_pronoun] obteve grande sucesso ao oferecer carne de verdade para aqueles que queriam uma pausa na mediocridade. É verdade que [PAWN_pronoun] acabou fugindo porque [PAWN_possessive] Ratburgers atraiu o coletor de impostos, mas [PAWN_pronoun] achou divertido enquanto durou.</VBE_RodentRancher.baseDesc>
-  <VBE_RodentRancher.title>Fazendeiro de roedores</VBE_RodentRancher.title>
-  <VBE_RodentRancher.titleShort>Fazendeiro</VBE_RodentRancher.titleShort>
+  <VBE_RodentRancher.title>Rancheiro de roedores</VBE_RodentRancher.title>
+  <VBE_RodentRancher.titleShort>Rancheiro</VBE_RodentRancher.titleShort>
   <VBE_Rudie.baseDesc>Crescendo em um mundo industrial, [PAWN_nameDef] descobriu que o mundo ao redor de [PAWN_objective] estava sendo rapidamente corporativo e gentrificado. Quando a cidade [PAWN_possessive] ficou sob ameaça, [PAWN_pronoun] juntou-se a uma gangue local de jovens que sabotariam os esforços corporativos e espalhariam a cultura de volta às ruas. Após a morte suspeita e acidental do CEO da corporação, [PAWN_nameDef] desligou [PAWN_possessive] patins e latas de spray e partiu para uma vida mais segura.</VBE_Rudie.baseDesc>
-  <VBE_Rudie.title>Garoto grosso</VBE_Rudie.title>
-  <VBE_Rudie.titleShort>Garoto grosso</VBE_Rudie.titleShort>
+  <VBE_Rudie.title>Rudie</VBE_Rudie.title>
+  <VBE_Rudie.titleShort>Rudie</VBE_Rudie.titleShort>
   <VBE_ShipSalvager.baseDesc>Rápido, astuto e sujo. É assim que [PAWN_nameDef] vive. [PAWN_pronoun] abraçou o perigoso comércio de desmantelamento de navios como meio de sobrevivência. A experiência de [PAWN_possessive] cresceu, à medida que [PAWN_pronoun] se destacou na desmontagem de embarcações, mas o risco permaneceu alto, com experiências de quase morte em quase todos os trabalhos.</VBE_ShipSalvager.baseDesc>
-  <VBE_ShipSalvager.title>Salvador de navio</VBE_ShipSalvager.title>
-  <VBE_ShipSalvager.titleShort>Salvador</VBE_ShipSalvager.titleShort>
+  <VBE_ShipSalvager.title>Sucateiro de naves</VBE_ShipSalvager.title>
+  <VBE_ShipSalvager.titleShort>Sucateiro</VBE_ShipSalvager.titleShort>
   <VBE_ShipsNavigator.baseDesc>[PAWN_nameDef] mapeou as estrelas como o principal navegador a bordo de uma nave espacial. [PAWN_pronoun] tinha uma habilidade incrível de encontrar as rotas mais seguras e rápidas através do cosmos, embora [PAWN_pronoun] lutou com tarefas mecânicas e muitas vezes as deixou para outros.</VBE_ShipsNavigator.baseDesc>
   <VBE_ShipsNavigator.title>Navegador de navio</VBE_ShipsNavigator.title>
   <VBE_ShipsNavigator.titleShort>Navegador</VBE_ShipsNavigator.titleShort>
@@ -440,35 +440,35 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_SiloManager.title>Gerente de silo</VBE_SiloManager.title>
   <VBE_SiloManager.titleShort>Gerente</VBE_SiloManager.titleShort>
   <VBE_Simraised.baseDesc>[PAWN_nameDef] cresceu em um ambiente simulado composto de realidade aumentada e elementos de realidade virtual dentro de uma cúpula ambientalmente selada, cuidada por um robô. Embora seguro e idílico, esse estilo de vida plácido deixou [PAWN_objective] querendo algo mais na vida.</VBE_Simraised.baseDesc>
-  <VBE_Simraised.title>Criado por Sim</VBE_Simraised.title>
+  <VBE_Simraised.title>Criado em simulação</VBE_Simraised.title>
   <VBE_Simraised.titleShort>Abrigado</VBE_Simraised.titleShort>
   <VBE_SlaveTrader.baseDesc>Percebendo o lucro que os corpos trazem quando estão quentes em vez de frios, [PAWN_nameDef] insistiria que o clã [PAWN_possessive] fizesse tantos prisioneiros quanto possível durante uma invasão, empregando redes, bolas e outros itens que poderiam ser jogados contra aqueles que fugiam. Quando a luta terminasse, [PAWN_pronoun] viajaria, vendendo mercadorias [PAWN_possessive] em vários reinos. Ter sempre escravos por perto tornou [PAWN_nameDef] adverso ao chamado “trabalho escravo” e geralmente menos compassivo. </VBE_SlaveTrader.baseDesc>
   <VBE_SlaveTrader.title>Comerciante de escravos</VBE_SlaveTrader.title>
   <VBE_SlaveTrader.titleShort>Escravista</VBE_SlaveTrader.titleShort>
   <VBE_Sommelier.baseDesc>[PAWN_nameDef] era um enólogo experiente, cultivando [PAWN_possessive] próprias uvas e dedicando [PAWN_possessive] máximo cuidado ao trabalho. [PAWN_pronoun] também gosta muito de preparar refeições para combinar com [PAWN_possessive] vinhos.</VBE_Sommelier.baseDesc>
-  <VBE_Sommelier.title>sommelier</VBE_Sommelier.title>
-  <VBE_Sommelier.titleShort>sommelier</VBE_Sommelier.titleShort>
+  <VBE_Sommelier.title>Sommelier</VBE_Sommelier.title>
+  <VBE_Sommelier.titleShort>Sommelier</VBE_Sommelier.titleShort>
   <VBE_Standardbearer.baseDesc>[PAWN_nameDef] era um porta-estandarte destemido, encarregado de carregar o símbolo do povo [PAWN_possessive] em conflitos. [PAWN_pronoun] era conhecido por [PAWN_possessive] pensamento estratégico e proficiência em combate, capaz de liderar o ataque ou recuar com o emblema conforme necessário. As contribuições de [PAWN_possessive] renderam a [PAWN_objective] uma posição privilegiada, liberando [PAWN_objective] de tarefas como cozinhar e cavar.</VBE_Standardbearer.baseDesc>
   <VBE_Standardbearer.title>Porta-estandarte</VBE_Standardbearer.title>
-  <VBE_Standardbearer.titleShort>Estandarte</VBE_Standardbearer.titleShort>
+  <VBE_Standardbearer.titleShort>Porta-estandarte</VBE_Standardbearer.titleShort>
   <VBE_StarfighterMaintainer.baseDesc>[PAWN_nameDef] serviu em navios porta-aviões em campanhas no sistema doméstico [PAWN_possessive], trabalhando para manter os caças estelares e os transportes em boa forma de combate. Embora [PAWN_pronoun] saiba quase tudo o que há para saber sobre manutenção de espaçonaves, a confiança de [PAWN_possessive] em seguir os manuais de reparo ao pé da letra teve um impacto negativo no pensamento lateral de [PAWN_possessive].</VBE_StarfighterMaintainer.baseDesc>
-  <VBE_StarfighterMaintainer.title>Mantenedor do Starfighter</VBE_StarfighterMaintainer.title>
+  <VBE_StarfighterMaintainer.title>Mecânico de caças estelares</VBE_StarfighterMaintainer.title>
   <VBE_StarfighterMaintainer.titleShort>Mecânico</VBE_StarfighterMaintainer.titleShort>
   <VBE_StarshipScamp.baseDesc>Quando criança, nascida a bordo da nave interestelar 'Endeavour', [PAWN_nameDef] cresceu navegando pelos corredores estreitos e vastos porões de carga do navio. [PAWN_pronoun] aprendi a consertar pequenos problemas mecânicos observando a tripulação, mas [PAWN_possessive] a educação em outras áreas era, na melhor das hipóteses, irregular, dependendo de terminais de bordo e de quaisquer tabelas de dados [PAWN_pronoun] poderia conseguir [PAWN_possessive] mãos à obra.</VBE_StarshipScamp.baseDesc>
-  <VBE_StarshipScamp.title>Acampamento de nave estelar</VBE_StarshipScamp.title>
+  <VBE_StarshipScamp.title>Arteira da nave estelar</VBE_StarshipScamp.title>
   <VBE_StarshipScamp.titleShort>Scamp</VBE_StarshipScamp.titleShort>
   <VBE_StarvingArtist.baseDesc>[PAWN_nameDef] era um estudante de arte relativamente abastado em um mundo urbano. Um colapso financeiro forçou [PAWN_objective] a sair às ruas, vendendo pinturas para ganhar a vida. [PAWN_pronoun] não rendeu muito, e o excedente que [PAWN_pronoun] tinha foi usado em mais materiais e comida para alguns cães vadios amigáveis ​​e leais.</VBE_StarvingArtist.baseDesc>
   <VBE_StarvingArtist.title>Artista faminto</VBE_StarvingArtist.title>
   <VBE_StarvingArtist.titleShort>Artista</VBE_StarvingArtist.titleShort>
   <VBE_StewCooker.baseDesc>[PAWN_nameDef] marchou com longas filas de exércitos medievais e foi responsável pelas panelas de ensopado nos campos. O conhecimento [PAWN_possessive] sobre algumas plantas e fungos locais permitiu às pessoas esticar a ração por mais tempo e salvou uma ou duas vidas quando os suprimentos acabaram.</VBE_StewCooker.baseDesc>
-  <VBE_StewCooker.title>Panela de guisado</VBE_StewCooker.title>
+  <VBE_StewCooker.title>Cozinheiro de ensopado</VBE_StewCooker.title>
   <VBE_StewCooker.titleShort>Cozinheiro</VBE_StewCooker.titleShort>
   <VBE_StorytellersKin.baseDesc>Como parente do contador de histórias da tribo, [PAWN_nameDef] aprendeu de cor os contos e lendas antigas, compreendendo a moral e as lições de cada história. [PAWN_pronoun] poderia cativar qualquer público com [PAWN_possessive] palavras, mas [PAWN_pronoun] lutou com as habilidades práticas de caça e artesanato, encontrando mais conforto nos contos do que nas ferramentas.</VBE_StorytellersKin.baseDesc>
   <VBE_StorytellersKin.title>Parente do contador de histórias</VBE_StorytellersKin.title>
   <VBE_StorytellersKin.titleShort>Parente</VBE_StorytellersKin.titleShort>
   <VBE_StrangeChild.baseDesc>[PAWN_nameDef] gostava de torturar pequenos animais e, à medida que [PAWN_pronoun] envelhecia, outras pessoas. Isso lhes deu uma compreensão única do corpo, mas prejudicou consideravelmente as habilidades sociais [PAWN_possessive].</VBE_StrangeChild.baseDesc>
   <VBE_StrangeChild.title>Criança estranha</VBE_StrangeChild.title>
-  <VBE_StrangeChild.titleShort>psicopata</VBE_StrangeChild.titleShort>
+  <VBE_StrangeChild.titleShort>Psicopata</VBE_StrangeChild.titleShort>
   <VBE_StructuralEngineer.baseDesc>Depois de estudar engenharia por alguns anos, [PAWN_nameDef] agora projeta edifícios, pontes e outras estruturas. [PAWN_pronoun] tem um ótimo entendimento de como construir cada parte de um projeto. Muito do tempo de [PAWN_possessive] é gasto na coordenação com o arquiteto, empreiteiro e outros engenheiros.</VBE_StructuralEngineer.baseDesc>
   <VBE_StructuralEngineer.title>Engenheiro estrutural</VBE_StructuralEngineer.title>
   <VBE_StructuralEngineer.titleShort>Engenheiro</VBE_StructuralEngineer.titleShort>
@@ -482,8 +482,8 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_Thane.title>Thane</VBE_Thane.title>
   <VBE_Thane.titleShort>Thane</VBE_Thane.titleShort>
   <VBE_TombMaker.baseDesc>Quando [PAWN_nameDef] era jovem, uma varíola letal varreu o assentamento [PAWN_possessive], matando quatro em cada cinco pessoas. Com idade suficiente para usar uma pá, [PAWN_pronoun] cavou sepulturas para muitas pessoas que [PAWN_pronoun] conhecia e amava, mas o enterro não foi suficiente para homenageá-los. [PAWN_pronoun] retornaria rotineiramente ao longo dos anos e gradualmente ergueria tumbas ornamentadas para os caídos.</VBE_TombMaker.baseDesc>
-  <VBE_TombMaker.title>Criador de tumbas</VBE_TombMaker.title>
-  <VBE_TombMaker.titleShort>Sepulcherista</VBE_TombMaker.titleShort>
+  <VBE_TombMaker.title>Criador de túmulos</VBE_TombMaker.title>
+  <VBE_TombMaker.titleShort>Sepultureiro</VBE_TombMaker.titleShort>
   <VBE_TrainDriver.baseDesc>[PAWN_nameDef] adora trens. [PAWN_pronoun] costumava dirigir uma locomotiva a vapor em uma pequena linha em uma paisagem idílica. [PAWN_pronoun] cumprimentava as aldeias sonolentas ao longo da linha todas as manhãs com o som alegre da buzina. A única preocupação de [PAWN_possessive] era retirar carvão suficiente para manter a locomotiva funcionando e consertar o trem de vez em quando. Um dia, [PAWN_pronoun] teve que parar em uma aldeia. Uma multidão enfurecida e sem sono aproveitou a oportunidade para destruir o trem e [PAWN_nameDef] decidiu partir antes que se lembrassem de quem foi o responsável por soar a buzina.</VBE_TrainDriver.baseDesc>
   <VBE_TrainDriver.title>Maquinista</VBE_TrainDriver.title>
   <VBE_TrainDriver.titleShort>Engenheiro</VBE_TrainDriver.titleShort>
@@ -500,19 +500,19 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_TroupeChild.title>Criança da trupe</VBE_TroupeChild.title>
   <VBE_TroupeChild.titleShort>Criança da trupe</VBE_TroupeChild.titleShort>
   <VBE_TunerPunk.baseDesc>Um pouco solitário, [PAWN_nameDef] encontrou pertencimento e família nos mecânicos que pilotavam carros modificados. Isso levou a muitas brigas com facas, perseguições em alta velocidade e ocasionais ferimentos à bala, mas isso não impediu [PAWN_nameDef] de aproveitar a competição.</VBE_TunerPunk.baseDesc>
-  <VBE_TunerPunk.title>Sintonizador punk</VBE_TunerPunk.title>
-  <VBE_TunerPunk.titleShort>Sintonizador</VBE_TunerPunk.titleShort>
+  <VBE_TunerPunk.title>Punk tuner</VBE_TunerPunk.title>
+  <VBE_TunerPunk.titleShort>Tuner</VBE_TunerPunk.titleShort>
   <VBE_UrbworldRioter.baseDesc>Quando o protesto pacífico não era suficiente para incitar a mudança social, [PAWN_nameDef] vestia o equipamento improvisado de [PAWN_possessive] e levava a luta contra a autoridade para as ruas da cidade. Em grave desvantagem contra aqueles que estão no poder, [PAWN_nameDef] teve que criar suas próprias armas e proteção para [PAWN_possessive], e cuidar dos próprios ferimentos de [PAWN_possessive].</VBE_UrbworldRioter.baseDesc>
-  <VBE_UrbworldRioter.title>Desordeiro do Urbworld</VBE_UrbworldRioter.title>
+  <VBE_UrbworldRioter.title>Desordeiro do urbamundo</VBE_UrbworldRioter.title>
   <VBE_UrbworldRioter.titleShort>Desordeiro</VBE_UrbworldRioter.titleShort>
   <VBE_UrbworldWarStudent.baseDesc>[PAWN_nameDef] cresceu em condições bastante favoráveis em um Urbworld turbulento. [PAWN_pronoun] dedicou grande parte da infância de [PAWN_possessive] aos estudos formais em um planeta constantemente envolvido em conflitos. Como resultado, [PAWN_nameDef] cresceu com um conhecimento complexo sobre as máquinas de guerra e desenvolveu uma paixão por elas.</VBE_UrbworldWarStudent.baseDesc>
-  <VBE_UrbworldWarStudent.title>Estudante de guerra Urbworld</VBE_UrbworldWarStudent.title>
+  <VBE_UrbworldWarStudent.title>Estudante de guerra do urbamundo</VBE_UrbworldWarStudent.title>
   <VBE_UrbworldWarStudent.titleShort>Estudante</VBE_UrbworldWarStudent.titleShort>
   <VBE_VatgrownColonist.baseDesc>[PAWN_nameDef] foi cultivado em laboratório como um corpo dispensável no [PAWN_possessive] Mundo Brilhante. [PAWN_pronoun] foi criado junto com outras crianças modelo padrão que só conheceram a vida sob seus guias cientistas.</VBE_VatgrownColonist.baseDesc>
-  <VBE_VatgrownColonist.title>Colono cultivado no Vat</VBE_VatgrownColonist.title>
+  <VBE_VatgrownColonist.title>Colono de tanque</VBE_VatgrownColonist.title>
   <VBE_VatgrownColonist.titleShort>Colono</VBE_VatgrownColonist.titleShort>
   <VBE_WalkerEngineer.baseDesc>Sempre ansioso por desafios, [PAWN_nameDef] trabalhou em vários veículos militares, incluindo os assustadores Warwalkers. Um trabalho difícil e suado com alto risco de lesões nos membros, [PAWN_nameDef] adaptou-se rapidamente a ciclos de trabalho extenuantes. No entanto, isso custou criatividade a [PAWN_objective]  [PAWN_possessive] e deixou pouco tempo para outros hobbies.</VBE_WalkerEngineer.baseDesc>
-  <VBE_WalkerEngineer.title>Engenheiro Walker</VBE_WalkerEngineer.title>
+  <VBE_WalkerEngineer.title>Engenheiro de Warwalker</VBE_WalkerEngineer.title>
   <VBE_WalkerEngineer.titleShort>Engenheiro</VBE_WalkerEngineer.titleShort>
   <VBE_WarOrphan.baseDesc>A guerra levou tudo, desde [PAWN_nameDef]: família, casa e inocência. Na sequência, [PAWN_pronoun] encontrou consolo nas páginas dos livros, aprendendo sobre o mundo na segurança da biblioteca de um campo de refugiados. Enquanto [PAWN_pronoun] desenvolveu um intelecto aguçado, [PAWN_pronoun] lutou com tarefas físicas e interação social.</VBE_WarOrphan.baseDesc>
   <VBE_WarOrphan.title>Órfão de guerra</VBE_WarOrphan.title>
@@ -522,7 +522,7 @@ Para [PAWN_possessive] benfeitores, [PAWN_pronoun] foi um investimento caro.</VB
   <VBE_Watchman.titleShort>Vigia</VBE_Watchman.titleShort>
   <VBE_WretchedChild.baseDesc>Quando criança, [PAWN_nameDef] foi expulso por colegas [PAWN_possessive]. [PAWN_pronoun] tornou-se indiferente aos outros e se concentrou em sobreviver com o que [PAWN_pronoun] tinha perto de casa de [PAWN_possessive].</VBE_WretchedChild.baseDesc>
   <VBE_WretchedChild.title>Criança miserável</VBE_WretchedChild.title>
-  <VBE_WretchedChild.titleShort>Desgraçado</VBE_WretchedChild.titleShort>
+  <VBE_WretchedChild.titleShort>Miserável</VBE_WretchedChild.titleShort>
   <VBE_YoungAstronomer.baseDesc>[PAWN_pronoun] foi fascinado pelas estrelas desde muito jovem. Viver em uma espaçonave deu [PAWN_objective] uma perspectiva única sobre o cosmos. [PAWN_pronoun] passou noites mapeando mapas estelares e sonhando com galáxias distantes. No entanto, esta obsessão deixava pouco espaço para habilidades práticas ou socialização.</VBE_YoungAstronomer.baseDesc>
   <VBE_YoungAstronomer.title>Jovem astrônomo</VBE_YoungAstronomer.title>
   <VBE_YoungAstronomer.titleShort>Astrônomo</VBE_YoungAstronomer.titleShort>

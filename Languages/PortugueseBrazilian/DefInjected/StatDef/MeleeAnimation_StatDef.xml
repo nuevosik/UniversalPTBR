@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AM_GrappleRadius.label>distância máxima do laço</AM_GrappleRadius.label>
+  <AM_GrappleRadius.description>A distância máxima a partir da qual um inimigo pode ser laçado por esta pessoa.\nAfetado pelo tipo de laço equipado.</AM_GrappleRadius.description>
+  <AM_Lethality.label>letalidade corpo a corpo</AM_Lethality.label>
+  <AM_Lethality.description>A letalidade desta pessoa ao realizar execuções. Este valor representa a chance de matar ao realizar animações de execução, inclusive ao vencer um duelo.</AM_Lethality.description>
+  <AM_DuelAbility.label>habilidade de duelo corpo a corpo</AM_DuelAbility.label>
+  <AM_DuelAbility.description>A eficácia desta pessoa em duelos corpo a corpo. Este valor de estatística é comparado com o dos oponentes e influencia o resultado do duelo.</AM_DuelAbility.description>
+  <AM_GrappleCooldown.label>recarga do laço</AM_GrappleCooldown.label>
+  <AM_GrappleCooldown.description>A recarga, medida em segundos, entre os usos do laço. Afetado pelo tipo de laço e pelo estado de saúde da pessoa.</AM_GrappleCooldown.description>
+  <AM_ExecutionCooldown.label>recarga de execução</AM_ExecutionCooldown.label>
+  <AM_ExecutionCooldown.description>A recarga, medida em segundos, entre execuções corpo a corpo. Afetado pela habilidade de combate corpo a corpo da pessoa e outros fatores.</AM_ExecutionCooldown.description>
+  <AM_GrappleSpeed.label>velocidade de recolhimento do laço</AM_GrappleSpeed.label>
+  <AM_GrappleSpeed.description>A velocidade de enlaçar e depois recolher um inimigo usando um laço.\nValores mais altos significam que leva menos tempo para agarrar e puxar o alvo até o alcance corpo a corpo.\nIsto NÃO é a recarga do laço.</AM_GrappleSpeed.description>
+</LanguageData>
