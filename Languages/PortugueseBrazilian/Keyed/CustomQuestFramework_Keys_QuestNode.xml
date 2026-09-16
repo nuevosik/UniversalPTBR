@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuestNode_RandomCustomMap>Nó: mapa personalizado aleatório</QuestNode_RandomCustomMap>
+  <planetLayer>Camada do planeta:{0}</planetLayer>
+  <MapDataDefName>Nome de def dos dados de mapa:</MapDataDefName>
+  <MapName>Nome do mapa:</MapName>
+  <MapDesc>Descrição do mapa</MapDesc>
+  <MapDatas>Mapas:\n {0}</MapDatas>
+  <MapData>Mapa：{0}</MapData>
+  <MapTags>Etiquetas do mapa:</MapTags>
+  <FoggedWhenPlayerEnter>Nevoeiro quando o jogador entrar:</FoggedWhenPlayerEnter>
+  <DeleteMapData>Excluir dados de mapa</DeleteMapData>
+  <ChildNodes>Nós filhos:</ChildNodes>
+  <RootNode_CustomMap>Nó: gerar mapa personalizado</RootNode_CustomMap>
+  <RootNode_MainMap>Nó: gerar mapa principal</RootNode_MainMap>
+  <MapFaction>Facção do mapa:</MapFaction>
+  <CurFaction>Facção atual:{0}</CurFaction>
+  <SelectFaction>Selecionar facção</SelectFaction>
+  <MapNameRule>Regra de nome do mapa:</MapNameRule>
+  <BiomesBlackList>Lista negra de biomas:</BiomesBlackList>
+  <BiomesWhiteList>Lista branca de biomas:</BiomesWhiteList>
+  <NoBiomeFilters>Sem filtros de bioma</NoBiomeFilters>
+  <WorldConditions>Condições do mundo:</WorldConditions>
+  <NoWorldConditions>Sem condições do mundo</NoWorldConditions>
+  <ConditionWithTarget>{0} - {1}</ConditionWithTarget>
+  <EnableBlackList>Ativar lista negra:</EnableBlackList>
+  <EndSignal>Sinal de término:</EndSignal>
+  <SelectEndType>Selecionar tipo de término:</SelectEndType>
+  <ArriveMap>Chegar ao mapa</ArriveMap>
+  <SaveMapToFile>Salvar mapa em arquivo</SaveMapToFile>
+  <CQF_MapSave_BasicInformation>Informações básicas</CQF_MapSave_BasicInformation>
+  <CQF_MapSave_Generation>Geração</CQF_MapSave_Generation>
+  <CQF_MapSave_MapContent>Conteúdo do mapa</CQF_MapSave_MapContent>
+  <CQF_MapSave_DataTools>Ferramentas de dados</CQF_MapSave_DataTools>
+  <WorldObjectDefOfSite>Def de objeto mundial do local:</WorldObjectDefOfSite>
+  <WorldObjectDefOfSite_Tip>O objeto mundial deve herdar de CustomSite. Pode ser deixado vazio para usar o objeto mundial integrado do CQF por padrão.</WorldObjectDefOfSite_Tip>
+  <DisdestroyBecauseOfNoColonist>Destruir por falta de colonos:</DisdestroyBecauseOfNoColonist>
+  <Reenterable>Reentrável:</Reenterable>
+  <BeUnreenterableWhenAllEnemiesDefeated>Destruído quando todos os inimigos forem derrotados:</BeUnreenterableWhenAllEnemiesDefeated>
+  <StoreAsText>Armazenar como:</StoreAsText>
+  <SelectMapData>Selecionar dados de mapa</SelectMapData>
+  <AddMapData>Adicionar dados de mapa</AddMapData>
+  <MapDistance>Distância do mapa:</MapDistance>
+  <SiteIconPath>Caminho do ícone do local:</SiteIconPath>
+  <ExpandingIconPath>Caminho do ícone expansível:</ExpandingIconPath>
+  <OpenNode>Abrir nó</OpenNode>
+  <QuestNode_IsNull>Nó: é nulo</QuestNode_IsNull>
+  <ObjectKeyword>Chave:</ObjectKeyword>
+  <SelectTrueNode>Selecionar nó verdadeiro</SelectTrueNode>
+  <SelectFalseNode>Selecionar nó falso</SelectFalseNode>
+  <text>texto:</text>
+  <SelectLetterType>Selecionar tipo de carta</SelectLetterType>
+  <True>Verdadeiro</True>
+  <False>Falso</False>
+  <QuestNode_GameUnique>Nó: único por jogo</QuestNode_GameUnique>
+  <QuestNode_GameUnique_Tip>Só pode ser acionado uma vez por jogo</QuestNode_GameUnique_Tip>
+  <QuestNode_FindTileOnCoast>Nó: encontrar bloco na costa</QuestNode_FindTileOnCoast>
+  <RequiredRotation>Direção do oceano necessária:{0}</RequiredRotation>
+  <QuestNode_GenerateGroup>Nó: gerar grupo</QuestNode_GenerateGroup>
+  <groupDef>Def de grupo:</groupDef>
+  <QuestNode_RemoveDataWhenEnd>Nó: remover dados ao terminar</QuestNode_RemoveDataWhenEnd>
+  <QuestNode_DoCQFActions>Nó: executar ações</QuestNode_DoCQFActions>
+  <CQF_QuestNodeCategory_CQF>CQF</CQF_QuestNodeCategory_CQF>
+  <CQF_QuestNodeCategory_Vanilla>Jogo base</CQF_QuestNodeCategory_Vanilla>
+</LanguageData>

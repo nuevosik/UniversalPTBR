@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DialogImages>Imagens do diálogo</DialogImages>
+  <DialogImages_Tip>Configure as imagens exibidas acima do texto deste nó de diálogo. Cada imagem pode ser selecionada no seletor de imagens e receber uma escala de tamanho.</DialogImages_Tip>
+  <DialogImage_Title>Imagens do diálogo</DialogImage_Title>
+  <DialogImage_Mod>Mod</DialogImage_Mod>
+  <DialogImage_All>Todos</DialogImage_All>
+  <DialogImage_Search>Pesquisar</DialogImage_Search>
+  <DialogImage_Element>Imagem</DialogImage_Element>
+  <DialogImage_Select>Selecionar</DialogImage_Select>
+  <DialogImage_Scale>Escala de tamanho</DialogImage_Scale>
+  <DialogImage_SelectTip>Clique na imagem para selecioná-la</DialogImage_SelectTip>
+  <DialogImage_None>Nenhuma</DialogImage_None>
+  <DialogImage_NotSelected>Não selecionada</DialogImage_NotSelected>
+  <CQF_NoDialogImages>Nenhuma imagem de diálogo configurada.</CQF_NoDialogImages>
+  <CQF_NoDialogOptions>Nenhuma opção de diálogo configurada.</CQF_NoDialogOptions>
+  <CQF_NoDialogConditions>Nenhuma condição de diálogo configurada.</CQF_NoDialogConditions>
+  <CQF_NoDialogResults>Nenhum resultado de diálogo configurado.</CQF_NoDialogResults>
+  <CQF_NoDialogActions>Nenhuma ação de diálogo configurada.</CQF_NoDialogActions>
+</LanguageData>

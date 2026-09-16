@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuestEditor>Editor de missões</QuestEditor>
+  <SelectOutputMod>Mod de saída: {0}</SelectOutputMod>
+  <OutputModTip>As missões, mapas e diálogos gerados pelo CQF serão salvos no mod de saída</OutputModTip>
+  <OpenQuestEditer>Abrir o editor de missões</OpenQuestEditer>
+  <QuestNameRulePack>Regra de nome de missão:</QuestNameRulePack>
+  <QuestDescriptionRulePack>Regra de descrição de missão:</QuestDescriptionRulePack>
+  <CurRuleName>Nome da regra atual: {0}</CurRuleName>
+  <SelectRule>Selecionar regra</SelectRule>
+  <CQF_DialogSelectType>Tipo: {0}</CQF_DialogSelectType>
+  <CQF_DialogSelectAllTypes>Todos</CQF_DialogSelectAllTypes>
+  <AddNewNode>Adicionar novo nó</AddNewNode>
+  <DeleteNode>Excluir nó</DeleteNode>
+  <LoadQuest>Carregar missão</LoadQuest>
+  <RuleTip>As regras usam o método:
+O formato de uma regra é: chave->texto.
+O texto pode ser especificado usando [key] para indicar que o texto aqui é o texto ao qual a chave se refere. Se a chave tiver vários textos correspondentes, um será escolhido aleatoriamente durante a geração.
+Ao editar o texto de uma missão, você também pode usar [a chave do objeto] para obter o texto correspondente do objeto.
+As regras são aplicadas em lugares diferentes, exigindo chaves diferentes para produzir o texto final.
+Por exemplo, quando as regras são usadas para nomes de missões, questName é necessário para produzir o texto final. Para mais detalhes, consulte os exemplos fornecidos neste mod.
+
+Aqui estão alguns requisitos importantes:
+
+QuestName: questName-> 
+QuestDescription: questDescription->
+SiteName: SiteName-></RuleTip>
+  <CustomQuestMap>Mapa de missão personalizado</CustomQuestMap>
+  <SpawnNewCustomMap>Gerar um novo mapa personalizado</SpawnNewCustomMap>
+  <NoGame>Por favor, inicie um novo jogo.</NoGame>
+  <MapSizeCantBeZero>O tamanho do mapa não pode ser zero</MapSizeCantBeZero>
+  <RuleCreater>Criador de regras</RuleCreater>
+  <RuleName>Nome da regra:</RuleName>
+  <AutoAccept>Aceitar automaticamente:</AutoAccept>
+  <sendAvailableLetter>Enviar carta de disponibilidade:</sendAvailableLetter>
+  <GenerationChance>Chance de geração:</GenerationChance>
+  <CQFExpireDaysRange>Intervalo de dias para expirar:</CQFExpireDaysRange>
+  <StringRule>Regras de texto:</StringRule>
+  <AddNewRuleString>Adicionar uma nova regra de texto</AddNewRuleString>
+  <DeleteRuleString>Excluir a última regra de texto</DeleteRuleString>
+  <RuleFilePaths>Caminhos de arquivo das regras</RuleFilePaths>
+  <AddNewFilePath>Adicionar um novo caminho de arquivo</AddNewFilePath>
+  <DeleteFilePath>Excluir caminho de arquivo</DeleteFilePath>
+  <DesignatorDestroyThing>Destruir objeto</DesignatorDestroyThing>
+  <DesignatorDestroyThingDesc>Destrói todos os objetos dentro da área selecionada.</DesignatorDestroyThingDesc>
+  <DestroyAllPawn>Destruir todos os colonos do mapa atual</DestroyAllPawn>
+  <DestroyAllFilth>Destruir toda a sujeira do mapa atual</DestroyAllFilth>
+  <DesignatorRoute>Designador de rota</DesignatorRoute>
+  <DesignatorRouteDesc>Descrição do designador de rota</DesignatorRouteDesc>
+  <DesignatorSpawnSpawner>Designador de gerador de colonos</DesignatorSpawnSpawner>
+  <DesignatorSpawnSpawnerDesc>Descrição do designador de gerador de colonos</DesignatorSpawnSpawnerDesc>
+  <ManageRoute>Gerenciar rota</ManageRoute>
+  <AddRoute>Adicionar rota</AddRoute>
+  <RemoveRoute>Remover rota</RemoveRoute>
+  <CurRoute>Rota atual</CurRoute>
+  <SaveToFile>Salvar em arquivo</SaveToFile>
+  <SaveSucceed>Salvo com sucesso</SaveSucceed>
+  <NoName>Sem nome</NoName>
+  <SaveInNonEditorMap>Salvar em mapa fora do editor</SaveInNonEditorMap>
+  <CQF_SaveWholeMap>Salvar mapa inteiro</CQF_SaveWholeMap>
+  <LoadRule>Carregar regra</LoadRule>
+  <ITab_Spawner>Gerador de colonos</ITab_Spawner>
+  <GenerationChance>Chance de geração:</GenerationChance>
+  <RandomHostile>Hostil aleatório</RandomHostile>
+  <RandomAlly>Aliado aleatório</RandomAlly>
+  <RandomNeutral>Neutro aleatório</RandomNeutral>
+  <DutyType>Tipo de dever</DutyType>
+  <SelectRotation>Selecionar rotação</SelectRotation>
+  <Defend>Vigiar</Defend>
+  <InventoryThing>Objeto do inventário</InventoryThing>
+  <InventoryThingCategorys>Categorias de objetos do inventário</InventoryThingCategorys>
+  <CurArrivingWay>Forma de chegada: {0}</CurArrivingWay>
+  <ArrivingWay>Normal</ArrivingWay>
+  <ArrivingWay_DropPod>Cápsula de lançamento</ArrivingWay_DropPod>
+  <PawnEditor>Editor de colonos</PawnEditor>
+  <Gender>Gênero: {0}</Gender>
+  <DataName>Nome dos dados</DataName>
+  <BirthName>Nome de nascimento</BirthName>
+  <SelectHair>Selecionar cabelo</SelectHair>
+  <SelectHeadType>Selecionar tipo de cabeça</SelectHeadType>
+  <SelectBodyType>Selecionar tipo de corpo</SelectBodyType>
+  <Thin>Magro</Thin>
+  <Fat>Gordo</Fat>
+  <Hulk>Brutamontes</Hulk>
+  <ITab_LootBox>Caixa de saque</ITab_LootBox>
+  <LootBoxName>Nome da caixa de saque</LootBoxName>
+  <LootThings>Objetos de saque</LootThings>
+  <LootCategorys>Categorias de saque</LootCategorys>
+  <AddNewLootData>Adicionar dados</AddNewLootData>
+  <DeleteLootData>Excluir</DeleteLootData>
+  <TickToOpenLoot>Ticks para abrir o saque</TickToOpenLoot>
+  <LootChance>Chance:</LootChance>
+  <AE_Loot_Corpses_Plunder>Abrir saque</AE_Loot_Corpses_Plunder>
+  <JobReport>Relatório de trabalho</JobReport>
+  <CantReseverveOrReachLootBox>Não é possível reservar ou alcançar a caixa de saque</CantReseverveOrReachLootBox>
+  <LootThingStuff>Material do objeto de saque</LootThingStuff>
+  <SelectStuff>Selecionar material{0}</SelectStuff>
+  <LootPawn>Saquear colono</LootPawn>
+  <DestroyAfterOpening>Destruir após abrir</DestroyAfterOpening>
+  <OpenWhenDestroyed>Abrir quando destruída:</OpenWhenDestroyed>
+  <MessageAfterOpening>Mensagem após abrir</MessageAfterOpening>
+  <PastePawns>Colar colonos</PastePawns>
+  <UseLootDef>Usar def de saque (para reduzir o tempo de carregamento)</UseLootDef>
+  <SaveAsDef>Salvar como def</SaveAsDef>
+  <SavingAsDef>Salvando como def</SavingAsDef>
+  <LootDef>Def de saque: {0}</LootDef>
+  <CQFStuffTip>Se o material estiver vazio e o item gerado exigir um material, será escolhido aleatoriamente um material adequado ao item gerado</CQFStuffTip>
+  <SpecialThingData>Dados de objetos especiais:</SpecialThingData>
+  <CQFThingSetMaker>Gerador de conjuntos de objetos</CQFThingSetMaker>
+  <ThingSetMaker>Gerador de conjuntos de objetos: {0}</ThingSetMaker>
+  <CQFThingData_Value_Category>Categoria: {0}</CQFThingData_Value_Category>
+  <TotalMarketValueRange>Intervalo de valor total:</TotalMarketValueRange>
+  <CQFThingData_Corpse>Cadáver</CQFThingData_Corpse>
+  <CurRotMode>Modo de apodrecimento: {0}</CurRotMode>
+  <Rotting>Apodrecendo</Rotting>
+  <Dessicated>Dessecado</Dessicated>
+  <Fresh>Fresco</Fresh>
+  <CQFThingData_Value>Valor</CQFThingData_Value>
+  <ITab_CompActionWorker>Ações</ITab_CompActionWorker>
+  <DialogEditor>Editor de diálogos</DialogEditor>
+  <TreeDefName>Nome da def da árvore</TreeDefName>
+  <DialogTitle>Título do diálogo</DialogTitle>
+  <DialogText>Texto do diálogo</DialogText>
+  <ExtraDialogText>Texto extra</ExtraDialogText>
+  <DialogReportKey>Chave de relatório do diálogo</DialogReportKey>
+  <DialogReportKeyTip>Dica da chave de relatório do diálogo</DialogReportKeyTip>
+  <AutoCompileDialogTextKey>Compilar automaticamente as chaves de texto do diálogo</AutoCompileDialogTextKey>
+  <DialogOptions>Opções de diálogo</DialogOptions>
+  <OptionText>Texto da opção</OptionText>
+  <NextNode>Próximo nó: {0}</NextNode>
+  <NextNodeTip>Dica do próximo nó</NextNodeTip>
+  <SelectNode>Selecionar nó</SelectNode>
+  <IdleNode>Nó inativo</IdleNode>
+  <Null>Nulo</Null>
+  <DialogTree>Árvore de diálogo</DialogTree>
+  <RepeatableDialog>Diálogo repetível</RepeatableDialog>
+  <RequireNonHostile>Requer não hostil</RequireNonHostile>
+  <UnableToInterviewTargetIsHostile>Não é possível entrevistar: o alvo é hostil</UnableToInterviewTargetIsHostile>
+  <GenerateNodeText>Gerar texto do nó</GenerateNodeText>
+  <ConfirmCreateNewDialogTree>Confirmar a criação de uma nova árvore de diálogo</ConfirmCreateNewDialogTree>
+  <LootDatas>Dados de saque</LootDatas>
+  <RemoveRoof>Remover teto</RemoveRoof>
+  <Designator_TerrainAndRoofDesc>Define um teto ou terreno dentro do intervalo especificado.</Designator_TerrainAndRoofDesc>
+  <SelectLootThing>Selecionar objeto de saque</SelectLootThing>
+  <HideWhenDisable>Ocultar quando desativado:</HideWhenDisable>
+  <hideFailReason>Ocultar motivo da falha:</hideFailReason>
+  <removeDialogAfterSelect>Remover diálogo após selecionar:</removeDialogAfterSelect>
+  <SelectReplacedThing>Selecionar objeto substituído</SelectReplacedThing>
+  <SelectReplacedTerrain>Selecionar terreno substituído</SelectReplacedTerrain>
+  <SelectTerrainDefToReplace>Selecionar def de terreno a substituir</SelectTerrainDefToReplace>
+  <DefToReplace>Def a substituir</DefToReplace>
+  <SelectThingDefToReplace>Selecionar ThingDef a substituir</SelectThingDefToReplace>
+  <ReplaceDatas>Dados de substituição</ReplaceDatas>
+  <ReplaceDefTip>Ao gerar o mapa, um dado de substituição é sorteado aleatoriamente da lista, e os objetos ou terrenos são substituídos de acordo com o dado sorteado no momento da geração.</ReplaceDefTip>
+  <ReplaceData>base</ReplaceData>
+  <ThingReplacement>Substituição de objeto:</ThingReplacement>
+  <StuffReplacement>Substituição de material:</StuffReplacement>
+  <TerrainReplacement>Substituição de terreno:</TerrainReplacement>
+  <ReplaceData_Def>def</ReplaceData_Def>
+  <ReplacementDef>Def de substituição: {0}</ReplacementDef>
+  <MapDataFaction>Facção do mapa</MapDataFaction>
+  <MapDataFactionTip>Ao gerar o mapa, se forem geradas construções sem facção, define a facção das construções com base nisto</MapDataFactionTip>
+  <CQF_MapGenerator>Gerador de mapa: {0}</CQF_MapGenerator>
+  <CQF_MapGenerator_Tip>Se não houver circunstâncias especiais, use o gerador padrão do CQF</CQF_MapGenerator_Tip>
+  <CustomMapTags>Etiquetas do mapa</CustomMapTags>
+  <CustomMapTags_Tip>Usado para classificar mapas.</CustomMapTags_Tip>
+  <AdvancedSetting>Configurações avançadas</AdvancedSetting>
+  <DialogManager>Gerenciador de diálogos</DialogManager>
+  <DialogManagerForSpawner>Gerenciador de diálogos: {0}</DialogManagerForSpawner>
+  <DialogManagerDefName>Nome da def do gerenciador:</DialogManagerDefName>
+  <Conditions>Condições:</Conditions>
+  <FullBody>corpo inteiro</FullBody>
+  <DefaultDialogKey>Conversar com {Interviewer_nameDef}</DefaultDialogKey>
+  <PawnSpawnActions>Ações de geração de colonos:</PawnSpawnActions>
+  <ITab_CustomThing>Objeto personalizado</ITab_CustomThing>
+  <GenerateCustomMap>Gerar mapa personalizado</GenerateCustomMap>
+  <CustomMap>Mapa personalizado</CustomMap>
+  <CurCustomMap>Mapa personalizado atual: {0}</CurCustomMap>
+  <ExitName>Nome da saída:</ExitName>
+  <CustomMapExit>Saída do mapa personalizado</CustomMapExit>
+  <CQF_PortalMapSection>Configurações do mapa</CQF_PortalMapSection>
+  <CQF_PortalMapSectionTip>Selecione o mapa personalizado gerado e acessado por meio desta entrada.</CQF_PortalMapSectionTip>
+  <CQF_PortalSettingsSection>Configurações do portal</CQF_PortalSettingsSection>
+  <CQF_PortalSettingsSectionTip>Configure o nome do vínculo e as configurações disponíveis para este portal.</CQF_PortalSettingsSectionTip>
+  <CQF_PortalEnterActions>Ações ao entrar</CQF_PortalEnterActions>
+  <CQF_PortalEnterActionsTip>Executadas depois que um objeto entra com sucesso no outro mapa. A chave de alvo do Gatilho é o objeto que entra, e CustomThing é esta entrada ou saída.</CQF_PortalEnterActionsTip>
+  <CQF_PortalNoActions>Nenhuma ação foi configurada.</CQF_PortalNoActions>
+  <CQF_ChanceMapPoolSection>Conjunto de definições de mapa</CQF_ChanceMapPoolSection>
+  <CQF_ChanceTagPoolSection>Conjunto de etiquetas de mapa</CQF_ChanceTagPoolSection>
+  <CQF_ChanceNoMapDefs>Nenhuma definição de mapa foi adicionada.</CQF_ChanceNoMapDefs>
+  <CQF_ChanceNoTags>Nenhuma etiqueta de mapa foi adicionada.</CQF_ChanceNoTags>
+  <CQF_ChanceCopySettingsTip>Copiar o nome do vínculo e os conjuntos de chances.</CQF_ChanceCopySettingsTip>
+  <CQF_ChancePasteSettingsTip>Colar o nome do vínculo e os conjuntos de chances copiados.</CQF_ChancePasteSettingsTip>
+  <CustomMapDef>MapDef: {0}</CustomMapDef>
+  <MapDefWithChance>Defs de mapa:</MapDefWithChance>
+  <MapDefWithChance_Tip>Ao gerar, será criado um conjunto de geração contendo defs de mapa e suas chances, e um será sorteado com base na chance de cada def para a geração.</MapDefWithChance_Tip>
+  <TagWithChance>Etiquetas:</TagWithChance>
+  <TagWithChance_Tip>Procura por todas as defs de mapa personalizado durante a geração e as adiciona ao conjunto de geração se contiverem as etiquetas correspondentes. A chance de todas as defs que contêm a mesma etiqueta é igual.</TagWithChance_Tip>
+  <EnterNextMap>Entrar em {0}</EnterNextMap>
+  <Exit>Sair</Exit>
+  <QE_Designator_MoveIn_NoTarget>Mover para submapa (sem submapa)</QE_Designator_MoveIn_NoTarget>
+  <QE_Designator_MoveInDesc>Marca itens que precisam ser movidos para dentro do submapa; atenção! Só pode ser usado quando houver um submapa de destino.</QE_Designator_MoveInDesc>
+  <QE_Designator_MoveIn>mover alvo para dentro de {0}</QE_Designator_MoveIn>
+  <QE_Designator_MoveOutDesc>Marca itens que precisam ser movidos para fora do submapa; atenção! Só pode ser usado quando o mapa de destino for um submapa de algum mapa.</QE_Designator_MoveOutDesc>
+  <QE_Designator_MoveOut>mover para fora</QE_Designator_MoveOut>
+  <SwitchMoveToRoot>Alternar estado de movimento</SwitchMoveToRoot>
+  <QE_Designator_MoveToRoot>Mover para fora até o ponto inicial</QE_Designator_MoveToRoot>
+  <ThereIsntTargetSubMap>O mapa atual não tem {0}</ThereIsntTargetSubMap>
+  <NoCustomMapSelected>Nenhum submapa selecionado!</NoCustomMapSelected>
+  <TargetIsntWithinSubMap>O alvo não está dentro do submapa</TargetIsntWithinSubMap>
+  <EntranceToSubMap>Leva a {0}</EntranceToSubMap>
+  <EntranceIsBlocked>A entrada está bloqueada</EntranceIsBlocked>
+  <TrapName>Nome da armadilha:</TrapName>
+  <TrapComps>Componentes da armadilha:</TrapComps>
+  <CustomTrapTip>Recomenda-se destruir a armadilha após o acionamento para evitar uma explosão infinita causada por uma combinação com ação explosiva.</CustomTrapTip>
+  <CustomTrapMode>Modo de acionamento da armadilha: {0}</CustomTrapMode>
+  <ActionTriggerMode_None>nenhum</ActionTriggerMode_None>
+  <ActionTriggerMode_Signal>receber sinal</ActionTriggerMode_Signal>
+  <ActionTriggerMode_StepOn>pisado</ActionTriggerMode_StepOn>
+  <ActionTriggerMode_Damaged>ser danificado</ActionTriggerMode_Damaged>
+  <ActionTriggerMode_Tick>acionado por tempo</ActionTriggerMode_Tick>
+  <ActionTriggerMode_Destroy>após destruição</ActionTriggerMode_Destroy>
+  <ActionTriggerMode_Spawn>após geração</ActionTriggerMode_Spawn>
+  <ActionTriggerMode_MapGeneration>após geração do mapa</ActionTriggerMode_MapGeneration>
+  <ActionTriggerMode_Open>após abertura</ActionTriggerMode_Open>
+  <ActionTriggerMode_Down>Incapacitado</ActionTriggerMode_Down>
+  <ActionTriggerMode_Kill>Morto</ActionTriggerMode_Kill>
+  <TickToTrigger>Tempo de acionamento (ticks):</TickToTrigger>
+  <TickToTriggerTip>1 hora de jogo = 2500 ticks</TickToTriggerTip>
+  <TrapInSignal>No sinal:</TrapInSignal>
+  <SignalOnlyIsValidInPart>O sinal só é válido na parte:</SignalOnlyIsValidInPart>
+  <SignalOnlyIsValidInPartTip>Quando o núcleo de zona gera uma parte do mapa, ativar esta opção impede que o sinal tenha efeito sobre objetos fora da parte do mapa.</SignalOnlyIsValidInPartTip>
+  <TrapActions>Ações da armadilha:</TrapActions>
+  <TriggerWhenDamaged>Acionar quando danificada:</TriggerWhenDamaged>
+  <InnerThings>Dados dos objetos internos:</InnerThings>
+  <TickToOpen>Ticks para abrir:</TickToOpen>
+  <OpeningActions>Ações de abertura:</OpeningActions>
+  <OpeningActionsTip>As ações executadas quando aberto, com a chave de alvo "Inner" sendo um objeto interno</OpeningActionsTip>
+  <OpeningConditions>Condições de abertura:</OpeningConditions>
+  <CustomDoorOpeningActionsTip>Ações executadas após a porta se abrir.</CustomDoorOpeningActionsTip>
+  <CustomDoorOpeningConditionsTip>Todas as condições configuradas devem ser atendidas antes que um colono possa abrir a porta.</CustomDoorOpeningConditionsTip>
+  <CustomDoorNoActions>Nenhuma ação de abertura configurada.</CustomDoorNoActions>
+  <CustomDoorNoConditions>Nenhuma condição de abertura configurada.</CustomDoorNoConditions>
+  <TrapEditor>Editor de armadilhas</TrapEditor>
+  <TrapEditorDesc>Usado para editar armadilhas.</TrapEditorDesc>
+  <CQFSetFaction>Definir facção: {0}</CQFSetFaction>
+  <CQFSetFactionDesc>Define a facção dos objetos selecionados.</CQFSetFactionDesc>
+  <CQFSetStyle>Definir estilo: {0}</CQFSetStyle>
+  <CQFSetStyleDesc>Define o estilo dos objetos selecionados.</CQFSetStyleDesc>
+  <CQFSetHitPoints>Definir pontos de vida: {0}</CQFSetHitPoints>
+  <CQFSetHitPointsDesc>Define os pontos de vida dos objetos selecionados. Clique com o botão direito para alternar os modos.</CQFSetHitPointsDesc>
+  <CQF_SetHitPointsPercentage>Porcentagem</CQF_SetHitPointsPercentage>
+  <CQF_SetHitPointsPercentagePrompt>Definir pontos de vida em {0}%</CQF_SetHitPointsPercentagePrompt>
+  <CQF_SetHitPointsNoTarget>Nenhum objeto com pontos de vida neste local.</CQF_SetHitPointsNoTarget>
+  <CQFSetQuality>Definir qualidade: {0}</CQFSetQuality>
+  <CQFSetQualityDesc>Define a qualidade dos objetos selecionados. Clique com o botão direito para alternar entre os modos fixo, melhorar e piorar.</CQFSetQualityDesc>
+  <CQF_SetQualityNoTarget>Nenhum objeto com qualidade pode ser definido neste local.</CQF_SetQualityNoTarget>
+  <CQF_UpgradeQuality>Melhorar qualidade</CQF_UpgradeQuality>
+  <CQF_DowngradeQuality>Piorar qualidade</CQF_DowngradeQuality>
+  <CQFSetPlantGrowth>Definir maturidade da planta: {0}%</CQFSetPlantGrowth>
+  <CQFSetPlantGrowthDesc>Define a maturidade das plantas selecionadas. Clique com o botão direito para ajustar a maturidade.</CQFSetPlantGrowthDesc>
+  <CQF_SetPlantGrowthPercentage>Porcentagem de maturidade</CQF_SetPlantGrowthPercentage>
+  <CQF_SetPlantGrowthPercentagePrompt>Definir a maturidade da planta em {0}%</CQF_SetPlantGrowthPercentagePrompt>
+  <CQF_SetPlantGrowthNoTarget>Nenhuma planta com maturidade ajustável neste local.</CQF_SetPlantGrowthNoTarget>
+  <CQFSetThingCount>Definir quantidade de itens: {0}</CQFSetThingCount>
+  <CQFSetThingCountDesc>Define a quantidade da pilha dos itens selecionados. Clique com o botão direito para alternar entre os modos personalizado e de ajuste.</CQFSetThingCountDesc>
+  <CQF_SetThingCountCustom>Quantidade personalizada</CQF_SetThingCountCustom>
+  <CQF_SetThingCountCustomPrompt>Definir a quantidade de itens em {0}</CQF_SetThingCountCustomPrompt>
+  <CQF_SetThingCountAdd1>+1</CQF_SetThingCountAdd1>
+  <CQF_SetThingCountSubtract1>-1</CQF_SetThingCountSubtract1>
+  <CQF_SetThingCountAdd10>+10</CQF_SetThingCountAdd10>
+  <CQF_SetThingCountSubtract10>-10</CQF_SetThingCountSubtract10>
+  <CQF_SetThingCountAdd75>+75</CQF_SetThingCountAdd75>
+  <CQF_SetThingCountSubtract75>-75</CQF_SetThingCountSubtract75>
+  <CQF_SetThingCountNoTarget>Nenhum item empilhável com quantidade ajustável neste local.</CQF_SetThingCountNoTarget>
+  <CQF_PinWindow>Fixar janela</CQF_PinWindow>
+  <CQF_UnpinWindow>Desafixar janela</CQF_UnpinWindow>
+  <CQFSpawnThing>Gerar: {0}</CQFSpawnThing>
+  <CQFSpawnThingTip>Dica: clique com o botão direito para abrir o menu e selecionar o objeto a gerar.</CQFSpawnThingTip>
+  <CQF_OpenFloatingPalette>Abrir paleta flutuante</CQF_OpenFloatingPalette>
+  <CQF_ThingPalette>Paleta de objetos</CQF_ThingPalette>
+  <CQF_TerrainPalette>Paleta de terrenos</CQF_TerrainPalette>
+  <CQF_RecentSelections>Seleções recentes</CQF_RecentSelections>
+  <CQF_AllSelections>Todas as seleções</CQF_AllSelections>
+  <CQF_NoRecentSelections>Nenhuma seleção recente</CQF_NoRecentSelections>
+  <CQF_BlueprintDesignator>Projeto: {0}</CQF_BlueprintDesignator>
+  <CQF_BlueprintDesignatorEmpty>Projeto</CQF_BlueprintDesignatorEmpty>
+  <CQF_BlueprintDesignatorDesc>Coloca projetos de mapas personalizados. Clique com o botão direito para abrir a paleta flutuante de projetos.</CQF_BlueprintDesignatorDesc>
+  <CQF_BlueprintPalette>Paleta de projetos</CQF_BlueprintPalette>
+  <CQF_SaveBlueprint>Salvar projeto</CQF_SaveBlueprint>
+  <CQF_SaveBlueprintDesc>Selecione uma área do mapa atual e salve-a como um projeto na memória.</CQF_SaveBlueprintDesc>
+  <CQF_BlueprintAutoName>Projeto {0}</CQF_BlueprintAutoName>
+  <CQF_ImportLoadedMaps>Importar mapas carregados</CQF_ImportLoadedMaps>
+  <CQF_SelectBlueprintImports>Selecionar mapas para importar como projetos</CQF_SelectBlueprintImports>
+  <CQF_SelectAll>Selecionar todos os resultados</CQF_SelectAll>
+  <CQF_ClearSelection>Limpar seleção</CQF_ClearSelection>
+  <CQF_ImportSelected>Importar selecionados</CQF_ImportSelected>
+  <CQF_SelectedBlueprintCount>Selecionados: {0} / {1}</CQF_SelectedBlueprintCount>
+  <CQF_NoMatchingLoadedMaps>Nenhum mapa carregado corresponde à pesquisa.</CQF_NoMatchingLoadedMaps>
+  <CQF_NoBlueprintsSelectedForImport>Nenhum projeto de mapa está selecionado.</CQF_NoBlueprintsSelectedForImport>
+  <CQF_BlueprintImportTooltip>{0}&#10;Def: {1}&#10;Tamanho: {2}</CQF_BlueprintImportTooltip>
+  <CQF_NoLoadedMapsToImport>Nenhum mapa carregado disponível para importar.</CQF_NoLoadedMapsToImport>
+  <CQF_ImportedLoadedMaps>Importados {0} projetos de mapa.</CQF_ImportedLoadedMaps>
+  <CQF_BlueprintSourceImported>Importado nesta sessão</CQF_BlueprintSourceImported>
+  <CQF_BlueprintPreviewSize>Tamanho: {0} x {1}</CQF_BlueprintPreviewSize>
+  <CQF_BlueprintSavedInMemory>O projeto "{0}" foi salvo na memória.</CQF_BlueprintSavedInMemory>
+  <CQF_BlueprintSaveFailed>Falha ao salvar o projeto: {0}</CQF_BlueprintSaveFailed>
+  <CQF_BlueprintInvalidName>O projeto não tem um defName válido e não pode ser exportado.</CQF_BlueprintInvalidName>
+  <CQF_BlueprintOverwriteXml>O arquivo já existe. Sobrescrevê-lo?&#10;{0}</CQF_BlueprintOverwriteXml>
+  <CQF_BlueprintExportFailed>Falha ao exportar o XML do projeto: {0}</CQF_BlueprintExportFailed>
+  <CQF_BlueprintEmptySelection>Nenhum quadrado do mapa foi selecionado.</CQF_BlueprintEmptySelection>
+  <CQF_NoBlueprints>Nenhum projeto</CQF_NoBlueprints>
+  <CQF_DeleteBlueprint>Excluir projeto</CQF_DeleteBlueprint>
+  <CQF_SaveBlueprintXml>Salvar projeto como XML</CQF_SaveBlueprintXml>
+  <CQF_BlueprintSourceMemory>Projeto na memória</CQF_BlueprintSourceMemory>
+  <CQF_BlueprintTooltip>{0}&#10;Def: {1}&#10;Tamanho: {2}&#10;Origem: {3}&#10;&#10;{4}</CQF_BlueprintTooltip>
+  <CQF_NoBlueprintSelected>Nenhum projeto selecionado.</CQF_NoBlueprintSelected>
+  <CQF_BlueprintOutOfBounds>O projeto ultrapassa os limites do mapa.</CQF_BlueprintOutOfBounds>
+  <CQF_BlueprintPlacementFailed>Falha ao posicionar o projeto "{0}". Verifique o registro para mais detalhes.</CQF_BlueprintPlacementFailed>
+  <CQF_BlueprintMouseAttachment>{0} | Rotação: {1}</CQF_BlueprintMouseAttachment>
+  <CQF_RotateBlueprintClockwise>Girar projeto no sentido horário</CQF_RotateBlueprintClockwise>
+  <CQF_RotateBlueprintCounterclockwise>Girar projeto no sentido anti-horário</CQF_RotateBlueprintCounterclockwise>
+  <CQF_NoCurrentMap>Não há um mapa atual para operar.</CQF_NoCurrentMap>
+  <CQFToolsTip>Dica: clique com o botão direito para selecionar um objeto personalizado.</CQFToolsTip>
+  <ExtraKinds>Tipos extras</ExtraKinds>
+  <ExtraKindsTip>Os tipos de colono que serão gerados em conjunto durante a geração. Eles usarão a mesma facção, condições de saúde e outros parâmetros dos dados do colono.</ExtraKindsTip>
+  <CQFPaste>Colar em lote</CQFPaste>
+  <CQFPasteDesc>Cola os dados copiados em um objeto selecionado.</CQFPasteDesc>
+  <CompName>Nome do componente:</CompName>
+  <CQFActionTriggerMode>Modo de acionamento da ação: {0}</CQFActionTriggerMode>
+  <InSignal>No sinal:</InSignal>
+  <CustomMapIsPart>É parte:</CustomMapIsPart>
+  <CustomMapIsPartTip>É uma parte de um mapa completo que será extraída e gerada ao gerar regiões aleatoriamente.</CustomMapIsPartTip>
+  <CustomMapDestroyAllThing>Destruir todos os objetos:</CustomMapDestroyAllThing>
+  <CustomMapDestroyAllThingTip>Destrói os objetos existentes na área do mapa antes de gerar este mapa personalizado.</CustomMapDestroyAllThingTip>
+  <Designator_Round>Salvar zona: circular</Designator_Round>
+  <Designator_RoundDesc>Selecione uma zona circular para salvar como uma def de mapa personalizado. (Aplicável apenas ao salvar uma parte do mapa. Se estiver salvando um mapa inteiro, use Salvar mapa inteiro)</Designator_RoundDesc>
+  <SaveMode_Round>Modo: circular</SaveMode_Round>
+  <Designator_Rectangle>Salvar zona: retângulo</Designator_Rectangle>
+  <Designator_RectangleDesc>Selecione uma zona retangular para salvar como uma def de mapa personalizado. (Aplicável apenas ao salvar uma parte do mapa. Se estiver salvando um mapa inteiro, use Salvar mapa inteiro)</Designator_RectangleDesc>
+  <SaveMode_Rectangle>Modo: retângulo</SaveMode_Rectangle>
+  <Designator_RectangleUseCentre>Salvar zona: quadrado</Designator_RectangleUseCentre>
+  <Designator_RectangleUseCentreDesc>Selecione um raio centrado em um ponto e salve a área como uma def de mapa personalizado. (Aplicável apenas ao salvar uma parte do mapa. Se estiver salvando um mapa inteiro, use Salvar mapa inteiro)</Designator_RectangleUseCentreDesc>
+  <SaveMode_RectangleUseCentre>Modo: quadrado</SaveMode_RectangleUseCentre>
+  <OutOfVanillaRange>Excede o intervalo do jogo base, com no máximo {0}</OutOfVanillaRange>
+  <ZoneGenerationConditions>Condições de geração da zona:</ZoneGenerationConditions>
+  <CoreZoneRotation>Direção do núcleo: {0}</CoreZoneRotation>
+  <CoreZoneRotationTip>A direção do núcleo em relação ao centro da zona. Escolha Centro para torná-lo o núcleo central, que não se acopla a outro núcleo.</CoreZoneRotationTip>
+  <GenerationKey>Chave de geração:</GenerationKey>
+  <GenerationKeyTip>Compartilha um contador de geração entre núcleos de zona; o contador aumenta somente depois que uma parte do mapa é gerada com sucesso.</GenerationKeyTip>
+  <ProhibitRotatingDocking>Proibir acoplamento com rotação:</ProhibitRotatingDocking>
+  <ProhibitRotatingDockingTip>Quando ativado, o núcleo de acoplamento não pode ser girado no sentido horário ou anti-horário para se ajustar à zona.</ProhibitRotatingDockingTip>
+  <ProhibitFlippingDocking>Proibir acoplamento com espelhamento:</ProhibitFlippingDocking>
+  <ProhibitFlippingDockingTip>Quando ativado, o núcleo de acoplamento não pode ser espelhado mantendo a mesma orientação.</ProhibitFlippingDockingTip>
+  <DestroyThingsWhenGeneration>Destruir objetos durante a geração:</DestroyThingsWhenGeneration>
+  <DestroyThingsWhenGenerationTip>Antes de gerar uma parte do mapa, destrói os objetos existentes na área de geração que podem ser destruídos; áreas marcadas como não destruir são preservadas.</DestroyThingsWhenGenerationTip>
+  <CoreTagsTip>Armazenadas neste núcleo quando a parte do mapa é salva; outros núcleos de zona podem incluir ou excluir este núcleo usando condições de etiqueta de núcleo.</CoreTagsTip>
+  <ZoneGenerationConditionsTip>A parte do mapa só é selecionada quando todas as condições passarem. Os núcleos de acoplamento também devem passar em condições avaliadas especificamente para núcleos.</ZoneGenerationConditionsTip>
+  <MapPartGenerationLimit>Limite de geração de partes do mapa</MapPartGenerationLimit>
+  <MapPartGenerationLimit_Tip>Quando o núcleo de zona estiver gerando, ele aumentará o contador correspondente à chave de geração em um; ao atingir o limite máximo, não gerará mais partes.</MapPartGenerationLimit_Tip>
+  <CustomMapEnterDirection>Direção de entrada: {0}</CustomMapEnterDirection>
+  <CustomMapEnterDirection_Tip>Quando não definido como Centro, os colonos que entrarem neste mapa personalizado usarão um ponto de entrada no lado selecionado.</CustomMapEnterDirection_Tip>
+  <Rot_Invalid>Centro</Rot_Invalid>
+  <NoSatisfiedCustomMapData>Nenhum dado de mapa personalizado compatível</NoSatisfiedCustomMapData>
+  <DefaultOpened>Estado de abertura padrão:</DefaultOpened>
+  <ReserveGenerationThing>Gerar objeto reserva: {0}</ReserveGenerationThing>
+  <NoGenerate>Não gerar</NoGenerate>
+  <ReserveGenerationThingTip>Quando o núcleo de zona não puder ser gerado, ele gerará um objeto reserva no lugar, como criar uma parede para bloquear este caminho.</ReserveGenerationThingTip>
+  <ReserveGenerationThing_MapDef_Tip>Depois que o mapa é gerado, objetos reserva são gerados em todos os espaços abertos que não passaram por "geração de zona". A geração de zona refere-se à geração de partes do mapa pelo "núcleo de zona".</ReserveGenerationThing_MapDef_Tip>
+  <QE_Designator_Disgenerate>Bloquear geração</QE_Designator_Disgenerate>
+  <QE_Designator_Disgenerate_Desc>Marque a área; o núcleo de zona não gerará a "parte do mapa" na área de bloqueio de geração.</QE_Designator_Disgenerate_Desc>
+  <QE_Designator_Disdestroy>Bloquear destruição</QE_Designator_Disdestroy>
+  <QE_Designator_Disdestroy_Desc>Marque a área; ao gerar dados de mapa personalizado, os objetos dentro da área não serão destruídos.</QE_Designator_Disdestroy_Desc>
+  <InteractionDataDefs>Defs de dados de interação:</InteractionDataDefs>
+  <SetDefname>Definir defname</SetDefname>
+  <ITab_CustomText>Texto</ITab_CustomText>
+  <UseCustomName>Usar nome personalizado:</UseCustomName>
+  <CQF_CustomName>Nome personalizado:</CQF_CustomName>
+  <UseCustomDescription>Usar descrição personalizada:</UseCustomDescription>
+  <CQF_CustomDescription>Descrição personalizada:</CQF_CustomDescription>
+  <LootBox>Caixa de saque</LootBox>
+  <InteractableThing>Objeto interativo</InteractableThing>
+  <CustomTrap>Armadilha personalizada</CustomTrap>
+  <ZoneCore>Núcleo de zona</ZoneCore>
+  <ActionComp>Componente de ação (único)</ActionComp>
+  <CustomDoor>Porta personalizada</CustomDoor>
+  <CustomMapEntrance_Chance>Entrada aleatória</CustomMapEntrance_Chance>
+  <Spawner>Gerador de colonos</Spawner>
+  <CustomMapEnterSpot>Ponto de entrada do mapa personalizado</CustomMapEnterSpot>
+  <CustomMapEntrance>Entrada do submapa</CustomMapEntrance>
+  <CustomContainer>Contêiner personalizado</CustomContainer>
+  <ActionComps>Componentes de ação</ActionComps>
+  <InteractionOption_RequiredThing>Objetos necessários:</InteractionOption_RequiredThing>
+  <CQFThingDefCount>Objeto</CQFThingDefCount>
+  <CQFThingCategoryCount>Categoria</CQFThingCategoryCount>
+  <onlyGenerateSingleResult>Gerar apenas um único resultado:</onlyGenerateSingleResult>
+  <NoRequiredThing>requer {0} [{1}/{2}]</NoRequiredThing>
+  <NoRequiredThingCategory>faltam {0}*{1}</NoRequiredThingCategory>
+  <DialogResults>Resultados do diálogo:</DialogResults>
+  <ResultName>Nome do resultado:</ResultName>
+  <Tags>Etiquetas:</Tags>
+  <GenerationLimit>Limite de geração:</GenerationLimit>
+  <GenerationLimitTip>Se for 0, será ignorado.</GenerationLimitTip>
+  <QuestIconColor>Cor do ícone da missão:</QuestIconColor>
+  <RemoveWhenThingDespawned>Remover ao desaparecer:</RemoveWhenThingDespawned>
+  <RemoveWhenPawnDied>Remover ao morrer:</RemoveWhenPawnDied>
+  <genrationConditions>Condições de geração:</genrationConditions>
+  <replaceMapGeneration>Substituir geração do mapa:</replaceMapGeneration>
+  <replaceMapGeneration_Tip>Apenas mapas personalizados são gerados durante a geração, e não ambientes de campo como o jogo base geraria</replaceMapGeneration_Tip>
+  <CQF_OpenLootbox>\nEnviar colono para {0}</CQF_OpenLootbox>
+  <CQF_InteracteThing>\nEnviar colono para interagir</CQF_InteracteThing>
+  <QuestDatas>Dados de missão:</QuestDatas>
+  <Index>Índice:</Index>
+  <Data>Dados:</Data>
+  <Dialogs>Diálogos:</Dialogs>
+  <Dialog>Diálogo</Dialog>
+  <PawnGroups>---Grupo de colonos---</PawnGroups>
+  <TargetDatas>---Dados de alvo---</TargetDatas>
+  <GlobalDatabase>---Banco de dados global---</GlobalDatabase>
+  <ExecutiveRequests>---Solicitações executivas---</ExecutiveRequests>
+  <DisarmReport>Relatório de desarme:</DisarmReport>
+  <TickToDisarm>Ticks para desarmar (ticks):</TickToDisarm>
+  <DisarmActions>Ações de desarme:</DisarmActions>
+  <DisarmTrap>desarmar armadilha</DisarmTrap>
+  <CQFCooldown>em recarga</CQFCooldown>
+  <StartMap>Mapa inicial: {0}</StartMap>
+  <ExtraThingRefer>Referências de objetos extras:</ExtraThingRefer>
+  <GenerationActionWorker>Executor de ações de geração</GenerationActionWorker>
+  <ShowCQF>Mostrar botões do CQF:</ShowCQF>
+  <Chance>Chance:</Chance>
+  <Show>Mostrar</Show>
+  <Hide>Ocultar</Hide>
+  <CQFThingData_Genepack>Pacote de genes</CQFThingData_Genepack>
+  <Genes>Genes:</Genes>
+  <CQF_Landfill>Aterro</CQF_Landfill>
+  <CQF_CancelLandfill>Cancelar aterro</CQF_CancelLandfill>
+  <CQF_CancelLandfillDesc>Cancela a operação de aterro para esta construção</CQF_CancelLandfillDesc>
+  <CQF_StartLandfill>Iniciar aterro</CQF_StartLandfill>
+  <CQF_StartLandfillDesc>Marca esta construção para ser aterrada. AVISO: isto destruirá o mapa anexado à construção!</CQF_StartLandfillDesc>
+  <ToggleOutputMode>Modo de saída</ToggleOutputMode>
+  <ToggleOutputModeDesc>Alterna para o modo de saída, transmitindo energia ao receptor</ToggleOutputModeDesc>
+  <SetOutput>Definir saída</SetOutput>
+  <SetOutputDesc>Define a quantidade de saída</SetOutputDesc>
+  <TargetOutput>Saída alvo: {0}</TargetOutput>
+  <AddSpecialOption>Especial</AddSpecialOption>
+  <DialogOption>Opção normal</DialogOption>
+  <DialogOption_SelectColonists>Opção: selecionar colonos</DialogOption_SelectColonists>
+  <CQF_SetReceiver>Receptor: {0}</CQF_SetReceiver>
+  <CQF_SetReceiverDesc>Define o receptor. O receptor pode ser uma construção receptora no mapa pai ou em qualquer mapa filho do mapa atual.</CQF_SetReceiverDesc>
+  <CQF_SetReceiverText>Selecionar receptor</CQF_SetReceiverText>
+  <Fail>Falhou</Fail>
+  <Success>Sucesso</Success>
+  <MainMapDefEditor>Editor de mapa principal</MainMapDefEditor>
+  <MainMapDef>Mapa principal: {0}</MainMapDef>
+  <MainMapDefName>DefName do mapa principal:</MainMapDefName>
+  <MainMapAndConditions>Candidatos de mapa principal</MainMapAndConditions>
+  <MainMapAndConditionLabel>Candidato {0}</MainMapAndConditionLabel>
+  <MainMapDefaultMapName>Mapa padrão</MainMapDefaultMapName>
+  <MainMapConditionName>Nome:</MainMapConditionName>
+  <MainMapGenerationSet>Conjunto de geração do mapa</MainMapGenerationSet>
+  <MainMapConditions>Condições</MainMapConditions>
+  <ConfirmCreateNewMainMapDef>Criar uma nova MainMapDef e descartar os dados de edição atuais?</ConfirmCreateNewMainMapDef>
+  <Drag>Arrastar</Drag>
+  <MainMapSystemTip>Mapas principais são locais do mundo reutilizáveis de longo prazo. Seus mapas em tempo de execução seguem a geração e remoção do jogo base; comportamentos persistentes devem ser armazenados no estado do MainSite, e colonos importantes devem ser reutilizados por meio de MainPawnSpawnData.</MainMapSystemTip>
+  <MainMapDefNameTip>O defName desta MainMapDef. Ele é referenciado por nós de missão de mapa principal, ações, XML salvo e defs carregadas dinamicamente.</MainMapDefNameTip>
+  <MainMapAndConditionsTip>As entradas de geração de mapas candidatas são verificadas de cima para baixo. O primeiro candidato cujas condições forem atendidas é selecionado; mantenha a última entrada incondicional como reserva.</MainMapAndConditionsTip>
+  <MainMapCandidateTip>Abra esta entrada de candidato para editar seu nome no editor, conjunto de geração e condições de seleção. Ela não armazena o estado do mapa em tempo de execução.</MainMapCandidateTip>
+  <MainMapDragTip>Arraste esta alça até outra linha de candidato para reordenar os candidatos. A ordem importa porque os candidatos são selecionados de cima para baixo.</MainMapDragTip>
+  <MainMapAddCandidateTip>Adiciona uma nova entrada de geração de mapa candidata. Coloque candidatos de reserva abrangentes mais abaixo na lista.</MainMapAddCandidateTip>
+  <MainMapDeleteCandidateTip>Exclui uma entrada existente de geração de mapa candidata.</MainMapDeleteCandidateTip>
+  <MainMapConditionNameTip>Nome de exibição deste candidato na lista do editor. Serve apenas para legibilidade no editor e não é estado em tempo de execução.</MainMapConditionNameTip>
+  <MainMapGenerationSetTip>O CustomMapGenerationSet usado por este candidato. Ele decide qual CustomMapDataDef pode ser gerada quando o mapa do MainSite é criado.</MainMapGenerationSetTip>
+  <MainMapConditionsTip>Condições que devem ser atendidas para que este candidato seja selecionado. Deixe vazio apenas para o candidato de reserva pretendido.</MainMapConditionsTip>
+  <CQF_MapBackgroundTexturePath>Caminho da textura do plano de fundo:</CQF_MapBackgroundTexturePath>
+  <CQF_MapBackgroundAlpha>Alfa do plano de fundo:</CQF_MapBackgroundAlpha>
+  <CQF_MapBackgroundDrawScope>Escopo de desenho do plano de fundo:</CQF_MapBackgroundDrawScope>
+  <CQF_MapBackgroundDrawScope_Map>Mapa</CQF_MapBackgroundDrawScope_Map>
+  <CQF_MapBackgroundDrawScope_CameraVisible>Plano de fundo panorâmico</CQF_MapBackgroundDrawScope_CameraVisible>
+  <CQF_MapBackgroundFitMode>Modo de ajuste do plano de fundo:</CQF_MapBackgroundFitMode>
+  <CQF_MapBackgroundFitMode_Tile>Repetir</CQF_MapBackgroundFitMode_Tile>
+  <CQF_MapBackgroundFitMode_Stretch>Esticar</CQF_MapBackgroundFitMode_Stretch>
+  <CQF_MapBackgroundFitMode_Cover>Preencher</CQF_MapBackgroundFitMode_Cover>
+  <CQF_MapBackgroundDrawSize>Tamanho de desenho do plano de fundo:</CQF_MapBackgroundDrawSize>
+  <CQF_MapBackgroundScale>Escala do plano de fundo:</CQF_MapBackgroundScale>
+  <CQF_MapBackgroundOffset>Deslocamento do plano de fundo:</CQF_MapBackgroundOffset>
+  <CQF_MapBackgroundColor>Cor do plano de fundo</CQF_MapBackgroundColor>
+  <CQF_MapBackgroundPreview>Pré-visualização do plano de fundo</CQF_MapBackgroundPreview>
+  <CQF_MapBackgroundNoPreview>Pré-visualização indisponível</CQF_MapBackgroundNoPreview>
+  <CQF_MapBackgroundEnableTerrainEdges>Ativar desenho das bordas do terreno</CQF_MapBackgroundEnableTerrainEdges>
+  <CQF_MapBackgroundDynamicEffects>Efeitos dinâmicos do plano de fundo</CQF_MapBackgroundDynamicEffects>
+  <CQF_MapBackgroundSelectDynamicEffect>Selecionar efeito do plano de fundo</CQF_MapBackgroundSelectDynamicEffect>
+  <CQF_BlankMapEnableTerrainEdges>Ativar desenho das bordas do terreno</CQF_BlankMapEnableTerrainEdges>
+  <CQF_MapBackgroundIsBackgroundMap>Mapa de fundo</CQF_MapBackgroundIsBackgroundMap>
+  <CQF_MapBackgroundIsBackgroundMapTip>Quando ativado, este mapa é tratado como um mapa de fundo: terrenos transparentes ou de fundo podem revelar o plano de fundo do mapa, e o CQF desenha as bordas do terreno para esse mapa de fundo.</CQF_MapBackgroundIsBackgroundMapTip>
+  <MapBackgroundImage_Title>Selecionar plano de fundo do mapa</MapBackgroundImage_Title>
+  <MapBackgroundImage_Mod>Mod:</MapBackgroundImage_Mod>
+  <MapBackgroundImage_All>Todos</MapBackgroundImage_All>
+  <MapBackgroundImage_Search>Pesquisar:</MapBackgroundImage_Search>
+  <CQFSpecialBuilding>Construção especial</CQFSpecialBuilding>
+  <CQFFixedWallLabel>Parede fixa</CQFFixedWallLabel>
+  <CQFFixedWallDescription>Uma parede intransponível capaz de sustentar um teto. Não pode ser danificada nem destruída.</CQFFixedWallDescription>
+  <CQFFixedDoorLabel>Porta fixa</CQFFixedDoorLabel>
+  <CQFFixedDoorDescription>Uma porta especial que não pode ser quebrada pela força bruta.</CQFFixedDoorDescription>
+  <UseCustomInspectText>Usar texto de inspeção personalizado:</UseCustomInspectText>
+  <CQF_CustomInspectText>Texto de inspeção personalizado:</CQF_CustomInspectText>
+  <CQFAction_SetCustomName>Definir nome personalizado</CQFAction_SetCustomName>
+  <CQFAction_SetCustomName_Tip>Define o nome personalizado de cada alvo que possui CompCustomText.</CQFAction_SetCustomName_Tip>
+  <CQFAction_SetCustomDescription>Definir descrição personalizada</CQFAction_SetCustomDescription>
+  <CQFAction_SetCustomDescription_Tip>Define a descrição personalizada de cada alvo que possui CompCustomText.</CQFAction_SetCustomDescription_Tip>
+  <CQFAction_SetCustomInspectText>Definir texto de inspeção personalizado</CQFAction_SetCustomInspectText>
+  <CQFAction_SetCustomInspectText_Tip>Define o texto de inspeção de cada alvo que possui CompCustomText.</CQFAction_SetCustomInspectText_Tip>
+</LanguageData>

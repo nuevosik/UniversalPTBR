@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LordName>Nome do lorde:</LordName>
+  <LordNameWithTarget>Nome do lorde:</LordNameWithTarget>
+  <CustomLordNameTip>Procura automaticamente por lordes com o nome correspondente e os junta na geração, ou cria um lorde com o trabalho "Ação personalizada do CQF" se estiver vazio.</CustomLordNameTip>
+  <CQF_LordJob>Trabalho do lorde:{0}</CQF_LordJob>
+  <ActionsAfterGeneration>Ações após a geração:</ActionsAfterGeneration>
+  <DesignatorLord>Lorde personalizado</DesignatorLord>
+  <DesignatorLordDesc>Personalize o lorde dentro do mapa; os dados do lorde serão salvos na def de mapa personalizado</DesignatorLordDesc>
+  <LordJob_Custom>Trabalho personalizado do CQF</LordJob_Custom>
+  <LordJob_ComplexCustom>Trabalho de mapa de deveres</LordJob_ComplexCustom>
+  <LordJob_ComplexCustom_Tip>Executa um mapa de deveres e alterna os deveres dos colonos pelos nós e transições configurados.</LordJob_ComplexCustom_Tip>
+  <LordJobData_DefendBase>Dados do lorde:defender base</LordJobData_DefendBase>
+  <TargetPositionName>Centro de defesa:</TargetPositionName>
+  <GroupEditor>Editor de grupo</GroupEditor>
+  <CQFAction_Lord_Visit>Ação do lorde:visitar colônia</CQFAction_Lord_Visit>
+  <CQFAction_Lord_Visit_Tip>Define o trabalho do lorde como visitar a colônia; o grupo deixará o mapa após a duração</CQFAction_Lord_Visit_Tip>
+  <LordJob_VisitColony>Visitar colônia</LordJob_VisitColony>
+  <LordJob_DefendBase>Defender base</LordJob_DefendBase>
+  <LordJobData>Dados do trabalho do lorde</LordJobData>
+</LanguageData>

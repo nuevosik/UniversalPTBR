@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ZoneCondition_Size>Condição de zona: tamanho</ZoneCondition_Size>
+  <ZoneCondition_Size_Tip>Só passa quando tanto a largura quanto a altura da parte do mapa estiverem dentro dos intervalos configurados.</ZoneCondition_Size_Tip>
+  <RangeOfX>Largura (X):</RangeOfX>
+  <RangeOfZ>Altura (Z):</RangeOfZ>
+  <ZoneCondition_Tag>Condição de zona: etiqueta</ZoneCondition_Tag>
+  <ZoneCondition_Tag_Tip>Passa quando a parte do mapa contém pelo menos uma das etiquetas de mapa especificadas.</ZoneCondition_Tag_Tip>
+  <ZoneCondition_Wealth>Condição de zona: riqueza</ZoneCondition_Wealth>
+  <ZoneCondition_Wealth_Tip>Será atendida quando a riqueza do jogador não estiver dentro do intervalo definido ou quando as subcondições forem atendidas.</ZoneCondition_Wealth_Tip>
+  <WealthRange>Intervalo de riqueza:</WealthRange>
+  <SelectCondition>Selecionar condição</SelectCondition>
+  <ZoneCondition_CoreTag>Condição de zona: etiqueta do núcleo</ZoneCondition_CoreTag>
+  <ZoneCondition_CoreTag_Tip>Sem a opção Inverter resultado, núcleos com uma etiqueta correspondente são excluídos; com ela ativada, apenas núcleos correspondentes são aceitos como núcleos de acoplamento.</ZoneCondition_CoreTag_Tip>
+  <CoreTags>Etiquetas do núcleo:</CoreTags>
+  <InvertResult>Inverter resultado:</InvertResult>
+  <ZoneCondition_Invert>Condição de zona: inverter</ZoneCondition_Invert>
+  <ZoneCondition_Invert_Tip>Inverte o resultado da subcondição selecionada.</ZoneCondition_Invert_Tip>
+  <ZoneCondition_FactionMeme>Condição de zona: meme</ZoneCondition_FactionMeme>
+  <ZoneCondition_FactionMeme_Tip>Passa quando a ideologia primária da facção selecionada contém o meme especificado.</ZoneCondition_FactionMeme_Tip>
+  <RequiredMeme>Meme necessário: {0}</RequiredMeme>
+</LanguageData>

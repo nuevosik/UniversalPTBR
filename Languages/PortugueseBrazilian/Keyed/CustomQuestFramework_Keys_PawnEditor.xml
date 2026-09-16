@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CQF_PawnEditor_Title>Editor de colonos</CQF_PawnEditor_Title>
+  <CQF_PawnEditor_LoadPremade>Carregar</CQF_PawnEditor_LoadPremade>
+  <CQF_PawnEditor_Save>Salvar</CQF_PawnEditor_Save>
+  <CQF_PawnEditor_New>Novo</CQF_PawnEditor_New>
+  <CQF_PawnEditor_Cancel>Cancelar</CQF_PawnEditor_Cancel>
+  <CQF_PawnEditor_Confirm>Confirmar</CQF_PawnEditor_Confirm>
+  <CQF_PawnEditor_Add>Adicionar</CQF_PawnEditor_Add>
+  <CQF_PawnEditor_Delete>Excluir</CQF_PawnEditor_Delete>
+  <CQF_PawnEditor_Select>Selecionar</CQF_PawnEditor_Select>
+  <CQF_PawnEditor_SelectStuff>Selecionar material</CQF_PawnEditor_SelectStuff>
+  <CQF_PawnEditor_None>Nenhum</CQF_PawnEditor_None>
+  <CQF_PawnEditor_DefName>Nome de def do colono:</CQF_PawnEditor_DefName>
+  <CQF_PawnEditor_Label>Rótulo:</CQF_PawnEditor_Label>
+  <CQF_PawnEditor_ComplexPawnDef>NPC personalizado:{0}</CQF_PawnEditor_ComplexPawnDef>
+  <CQF_PawnEditor_ConfirmCreateNew>Criar um novo NPC personalizado e descartar as edições não salvas atuais?</CQF_PawnEditor_ConfirmCreateNew>
+  <CQF_PawnEditor_NoPawnModAvailable>Nenhum módulo de colono está disponível para o tipo de colono atual.</CQF_PawnEditor_NoPawnModAvailable>
+  <CQF_PawnEditor_Preview>Prévia</CQF_PawnEditor_Preview>
+  <CQF_PawnEditor_Modules>Módulos</CQF_PawnEditor_Modules>
+  <CQF_PawnEditor_PawnKind>Tipo de colono:{0}</CQF_PawnEditor_PawnKind>
+  <CQF_PawnEditor_SelectPawnKind>Selecionar tipo de colono</CQF_PawnEditor_SelectPawnKind>
+  <CQF_PawnEditor_FleshType_Normal>Orgânico</CQF_PawnEditor_FleshType_Normal>
+  <CQF_PawnEditor_FleshType_Mechanoid>Mecanoide</CQF_PawnEditor_FleshType_Mechanoid>
+  <CQF_PawnEditor_FleshType_Insectoid>Insetoide</CQF_PawnEditor_FleshType_Insectoid>
+  <CQF_PawnEditor_FleshType_EntityMechanical>Entidade mecânica</CQF_PawnEditor_FleshType_EntityMechanical>
+  <CQF_PawnEditor_FleshType_EntityFlesh>Entidade de carne</CQF_PawnEditor_FleshType_EntityFlesh>
+  <CQF_PawnEditor_FleshType_Fleshbeast>Besta carnal</CQF_PawnEditor_FleshType_Fleshbeast>
+  <CQF_PawnEditor_FleshType_Drone>Drone</CQF_PawnEditor_FleshType_Drone>
+  <CQF_PawnEditor_Faction>Facção:</CQF_PawnEditor_Faction>
+  <CQF_PawnEditor_Name>Nome:</CQF_PawnEditor_Name>
+  <CQF_PawnEditor_BioAge>Idade biológica:</CQF_PawnEditor_BioAge>
+  <CQF_PawnEditor_ChronologicalAge>Idade cronológica:</CQF_PawnEditor_ChronologicalAge>
+  <CQF_PawnEditor_Gender>Gênero:{0}</CQF_PawnEditor_Gender>
+  <CQF_PawnEditor_Childhood>Infância:{0}</CQF_PawnEditor_Childhood>
+  <CQF_PawnEditor_Adulthood>Idade adulta:{0}</CQF_PawnEditor_Adulthood>
+  <CQF_PawnEditor_Weapon>Arma:{0}</CQF_PawnEditor_Weapon>
+  <CQF_PawnEditor_RandomNameOnGeneration>Aleatorizar nome na geração</CQF_PawnEditor_RandomNameOnGeneration>
+  <CQF_PawnEditor_NameMaker>Gerador de nomes:{0}</CQF_PawnEditor_NameMaker>
+  <CQF_PawnEditor_RandomizeName>Aleatorizar nome</CQF_PawnEditor_RandomizeName>
+  <CQF_PawnEditor_NoNameMaker>Nenhum gerador de nomes disponível</CQF_PawnEditor_NoNameMaker>
+  <CQF_PawnEditor_Hair>Cabelo:{0}</CQF_PawnEditor_Hair>
+  <CQF_PawnEditor_SelectHairColor>Selecionar cor do cabelo</CQF_PawnEditor_SelectHairColor>
+  <CQF_PawnEditor_HeadType>Tipo de cabeça:{0}</CQF_PawnEditor_HeadType>
+  <CQF_PawnEditor_SelectSkinColor>Cor da pele:{0}</CQF_PawnEditor_SelectSkinColor>
+  <CQF_PawnEditor_GeneSkinColor>padrão do gene</CQF_PawnEditor_GeneSkinColor>
+  <CQF_PawnEditor_DefaultSkinColor>padrão</CQF_PawnEditor_DefaultSkinColor>
+  <CQF_PawnEditor_CustomSkinColor>personalizada</CQF_PawnEditor_CustomSkinColor>
+  <CQF_PawnEditor_UseGeneSkinColor>Usar cor de pele do gene/padrão</CQF_PawnEditor_UseGeneSkinColor>
+  <CQF_PawnEditor_UseDefaultSkinColor>Usar cor de pele padrão</CQF_PawnEditor_UseDefaultSkinColor>
+  <CQF_PawnEditor_Xenotype>Xenótipo:{0}</CQF_PawnEditor_Xenotype>
+  <CQF_PawnEditor_SelectXenotype>Selecionar xenótipo</CQF_PawnEditor_SelectXenotype>
+  <CQF_PawnEditor_CustomGenes>Genes personalizados</CQF_PawnEditor_CustomGenes>
+  <CQF_PawnEditor_SelectGene>Selecionar gene</CQF_PawnEditor_SelectGene>
+  <CQF_PawnEditor_ColorLibrary>Biblioteca de cores</CQF_PawnEditor_ColorLibrary>
+  <CQF_PawnEditor_HexColor>Hex</CQF_PawnEditor_HexColor>
+  <CQF_PawnEditor_BodyType>Tipo de corpo:{0}</CQF_PawnEditor_BodyType>
+  <CQF_PawnEditor_Chance>Chance</CQF_PawnEditor_Chance>
+  <CQF_PawnEditor_SkillLevel>Nível</CQF_PawnEditor_SkillLevel>
+  <CQF_PawnEditor_SkillPassion>Paixão:{0}</CQF_PawnEditor_SkillPassion>
+  <CQF_PawnEditor_HediffPart>Parte:{0}</CQF_PawnEditor_HediffPart>
+  <CQF_PawnEditor_WholeBody>Corpo inteiro</CQF_PawnEditor_WholeBody>
+  <CQF_PawnEditor_Severity>Gravidade</CQF_PawnEditor_Severity>
+  <CQF_PawnEditor_DialogManager>Gerenciador de diálogos:{0}</CQF_PawnEditor_DialogManager>
+  <CQF_PawnEditor_DutyMap>Mapa de deveres:{0}</CQF_PawnEditor_DutyMap>
+  <CQF_PawnEditor_DutyMapStartNode>Nó inicial do mapa de deveres:{0}</CQF_PawnEditor_DutyMapStartNode>
+  <CQF_PawnEditor_TriggerKey>Chave do gatilho:</CQF_PawnEditor_TriggerKey>
+  <CQF_PawnEditor_TriggerMode>Modo de gatilho:{0}</CQF_PawnEditor_TriggerMode>
+  <CQF_PawnEditor_TriggerActions>Ações de gatilho</CQF_PawnEditor_TriggerActions>
+  <CQF_PawnEditor_NoName>Nome de def do colono ausente</CQF_PawnEditor_NoName>
+  <CQF_PawnEditor_SaveSucceed>Salvo:{0}</CQF_PawnEditor_SaveSucceed>
+  <CQF_PawnMod_Basic.label>Básico</CQF_PawnMod_Basic.label>
+  <CQF_PawnMod_Basic.description>Dados básicos do colono personalizado.</CQF_PawnMod_Basic.description>
+  <CQF_PawnMod_NameAndBody.label>Nome e corpo</CQF_PawnMod_NameAndBody.label>
+  <CQF_PawnMod_NameAndBody.description>Dados de nome, gênero e idade.</CQF_PawnMod_NameAndBody.description>
+  <CQF_PawnMod_Appearance.label>Aparência</CQF_PawnMod_Appearance.label>
+  <CQF_PawnMod_Appearance.description>Cabeça, corpo, cabelo e cores.</CQF_PawnMod_Appearance.description>
+  <CQF_PawnMod_Genes.label>Modelo de genes</CQF_PawnMod_Genes.label>
+  <CQF_PawnMod_Genes.description>Xenótipo e modelo de genes do colono.</CQF_PawnMod_Genes.description>
+  <CQF_PawnMod_Backstory.label>Passado</CQF_PawnMod_Backstory.label>
+  <CQF_PawnMod_Backstory.description>Passado de infância e idade adulta.</CQF_PawnMod_Backstory.description>
+  <CQF_PawnMod_Traits.label>Traços</CQF_PawnMod_Traits.label>
+  <CQF_PawnMod_Traits.description>Traços do colono.</CQF_PawnMod_Traits.description>
+  <CQF_PawnMod_Skills.label>Habilidades</CQF_PawnMod_Skills.label>
+  <CQF_PawnMod_Skills.description>Habilidades do colono.</CQF_PawnMod_Skills.description>
+  <CQF_PawnMod_Abilities.label>Habilidades</CQF_PawnMod_Abilities.label>
+  <CQF_PawnMod_Abilities.description>Habilidades especiais do colono.</CQF_PawnMod_Abilities.description>
+  <CQF_PawnMod_Apparel.label>Vestuário</CQF_PawnMod_Apparel.label>
+  <CQF_PawnMod_Apparel.description>Vestuário do colono.</CQF_PawnMod_Apparel.description>
+  <CQF_PawnMod_Weapon.label>Arma</CQF_PawnMod_Weapon.label>
+  <CQF_PawnMod_Weapon.description>Arma do colono.</CQF_PawnMod_Weapon.description>
+  <CQF_PawnMod_Hediff.label>Condição de saúde</CQF_PawnMod_Hediff.label>
+  <CQF_PawnMod_Hediff.description>Condições de saúde do colono.</CQF_PawnMod_Hediff.description>
+  <CQF_PawnMod_Dialog.label>Diálogo</CQF_PawnMod_Dialog.label>
+  <CQF_PawnMod_Dialog.description>Gerenciador de diálogos do colono.</CQF_PawnMod_Dialog.description>
+  <CQF_PawnMod_ActionTrigger.label>Gatilho de ação</CQF_PawnMod_ActionTrigger.label>
+  <CQF_PawnMod_ActionTrigger.description>Gatilhos de ação do colono.</CQF_PawnMod_ActionTrigger.description>
+  <CQF_PawnMod_DutyMap.label>Mapa de deveres</CQF_PawnMod_DutyMap.label>
+  <CQF_PawnMod_DutyMap.description>Atribuição de mapa de deveres do colono.</CQF_PawnMod_DutyMap.description>
+  <CQF_LordData_DutyMap>Mapa de deveres:{0}</CQF_LordData_DutyMap>
+  <CQF_LordData_DutyMapStartNode>Nó inicial do mapa de deveres</CQF_LordData_DutyMapStartNode>
+</LanguageData>

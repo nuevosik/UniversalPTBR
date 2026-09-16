@@ -59,6 +59,7 @@ aos subagentes. Regras:
 | empire | império | oficial — `Royalty/DefInjected/FactionDef/Faction_Empire.xml` `Empire.description`. |
 | royal title | título real | oficial — `Royalty/Keyed/MainTabs.xml` `WorkDisabledByRoyalTitle`. |
 | noble | nobre | repo — termo herdado (ver `docs/medieval/GLOSSARY.md`). |
+| lord (sistema Lord/LordJob do CQF) | lorde | oficial usa "lorde" em backstories (Solid_Adult) e "senhor" como título; no CQF adota-se "lorde" para o sistema e "senhor" permanece o título do glossário medieval. Divergência de contexto, não retraduzir. |
 | vassal | vassalo | repo — `Keyed/VFE_Empire_Keyed.xml` `VFEE.ReleaseAllVassals`. |
 | allegiance | lealdade | novo — WD2 `TSA_WD_AllegianceLock_Title`; sem precedente. |
 | diplomacy | diplomacia | oficial — `Core/DefInjected/BackstoryDef/Offworld_Nonspecific_Adult.xml` `Bartender62.description`; repo — `BackstoriesPatch_BackstoryDef.xml` `GTF_CommonerLord45`. |

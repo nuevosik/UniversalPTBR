@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QE_Exit.label>saída</QE_Exit.label>
+  <QE_Exit.description>Uma saída que leva ao solo.</QE_Exit.description>
+  <QE_SubMap_Burrow.label>toca</QE_SubMap_Burrow.label>
+  <QE_SubMap_Burrow.description>Uma toca para o subterrâneo.</QE_SubMap_Burrow.description>
+  <QE_LootBox_HumanCorpses.label>esqueleto</QE_LootBox_HumanCorpses.label>
+  <QE_LootBox_HumanCorpses.description>Um cadáver humano ressequido, do qual já não é possível reconhecer nenhuma feição.</QE_LootBox_HumanCorpses.description>
+  <QE_LootBox_Corpses.label>alguns cadáveres</QE_LootBox_Corpses.label>
+  <QE_LootBox_Corpses.description>Os cadáveres de algumas pessoas pobres, mas talvez possamos tirar algo de valor deles.</QE_LootBox_Corpses.description>
+  <QE_TriggerTrap.label>armadilha personalizada (exibida apenas no modo desenvolvedor)</QE_TriggerTrap.label>
+  <QE_TriggerTrap.description>.</QE_TriggerTrap.description>
+  <QE_StonePressurePlate.label>placa de pressão de pedra</QE_StonePressurePlate.label>
+  <QE_StonePressurePlate.description>Uma placa de pressão de pedra.</QE_StonePressurePlate.description>
+  <QE_PressurePlate.label>placa de pressão</QE_PressurePlate.label>
+  <QE_PressurePlate.description>Uma placa de pressão.</QE_PressurePlate.description>
+  <QE_Cabinet.label>armário antigo</QE_Cabinet.label>
+  <QE_Cabinet.description>Um armário que está por aqui há um período de tempo desconhecido pode conter alguns tesouros valiosos.</QE_Cabinet.description>
+  <QE_TreasureChest.label>baú do tesouro</QE_TreasureChest.label>
+  <QE_TreasureChest.description>Um baú cheio de perigo e tesouros; ninguém sabe o que há dentro.</QE_TreasureChest.description>
+  <QE_Bookshelf.label>estante de livros</QE_Bookshelf.label>
+  <QE_Bookshelf.description>Uma estante de livros com vários livros, dos quais é possível obter conhecimento ou informação.</QE_Bookshelf.description>
+  <CQF_CryptosleepCasket.label>sarcófago de criptosono antigo</CQF_CryptosleepCasket.label>
+  <CQF_CryptosleepCasket.description>Este sarcófago de criptosono parece que está aqui há muito tempo. Quem sabe o que ele pode conter?</CQF_CryptosleepCasket.description>
+  <QE_WorkSpot.label>local de trabalho</QE_WorkSpot.label>
+  <QE_WorkSpot.description>Um local para trabalhar.</QE_WorkSpot.description>
+  <QE_EmplyBookshelf.label>estante de livros vazia</QE_EmplyBookshelf.label>
+  <QE_EmplyBookshelf.description>Uma estante de livros sem nada.</QE_EmplyBookshelf.description>
+  <QE_Tunnel.label>túnel</QE_Tunnel.label>
+  <QE_Tunnel.description>Um túnel.</QE_Tunnel.description>
+  <QE_Sign.label>placa</QE_Sign.label>
+  <QE_Sign.description>Uma placa que registra algumas informações.</QE_Sign.description>
+  <QE_DamagedSign.label>placa danificada</QE_DamagedSign.label>
+  <QE_DamagedSign.description>Uma placa danificada que registra algumas informações. Devido aos danos, não conseguimos ler totalmente as informações nela contidas.</QE_DamagedSign.description>
+  <QE_Sarcophagus.label>sarcófago</QE_Sarcophagus.label>
+  <QE_Sarcophagus.description>Um receptáculo de enterro ornamentado para mortos honrados.</QE_Sarcophagus.description>
+  <QF_MiracleWall.label>parede fixa</QF_MiracleWall.label>
+  <QF_MiracleWall.description>Uma parede intransponível capaz de sustentar um teto. Não pode ser danificada nem destruída.</QF_MiracleWall.description>
+  <QF_StrangeWall.label>parede estranha</QF_StrangeWall.label>
+  <QF_StrangeWall.description>Uma parede que parece muito normal.</QF_StrangeWall.description>
+  <QE_Spawner_Editor.label>gerador de pawns</QE_Spawner_Editor.label>
+  <QE_Spawner_Editor.description>Usado para gerar pawns.</QE_Spawner_Editor.description>
+  <QE_LootBox.label>caixa de saque</QE_LootBox.label>
+  <QE_LootBox.description>Uma caixa de saque para testes.</QE_LootBox.description>
+  <QE_InteractableThing.label>objeto interativo</QE_InteractableThing.label>
+  <QE_InteractableThing.description>Um objeto interativo para testes.</QE_InteractableThing.description>
+  <QE_CustomMapEntrance.label>entrada de mapa personalizada</QE_CustomMapEntrance.label>
+  <QE_CustomMapEntrance.description>Uma entrada para testes.</QE_CustomMapEntrance.description>
+  <QE_CustomMapEntrance_Chance.label>entrada de mapa aleatória personalizada</QE_CustomMapEntrance_Chance.label>
+  <QE_CustomMapEntrance_Chance.description>Uma entrada para testes.</QE_CustomMapEntrance_Chance.description>
+  <QE_CustomMapExit.label>saída de mapa personalizada</QE_CustomMapExit.label>
+  <QE_CustomMapExit.description>Uma saída para testes.</QE_CustomMapExit.description>
+  <QE_ZoneCore.label>núcleo de zona</QE_ZoneCore.label>
+  <QE_ZoneCore.description>O núcleo de zona é uma ferramenta para projetar mapas personalizados, que pode ser usado para gerar "partes de mapa". Ao gerar um mapa personalizado, se houver um núcleo de zona no mapa, ele extrairá as "partes de mapa" com base em suas configurações para geração.</QE_ZoneCore.description>
+  <QE_CustomTrap.label>armadilha personalizada</QE_CustomTrap.label>
+  <QE_CustomTrap.description>Uma armadilha para testes.</QE_CustomTrap.description>
+  <QE_CellarDoor.label>porta de porão</QE_CellarDoor.label>
+  <QE_CellarDoor.description>Uma porta de porão que leva ao subterrâneo.</QE_CellarDoor.description>
+  <QE_Labber.label>escada</QE_Labber.label>
+  <QE_Labber.description>Uma escada que leva ao exterior.</QE_Labber.description>
+  <QE_Flash.label>?</QE_Flash.label>
+  <QE_Flash.description>.</QE_Flash.description>
+  <QE_SubMap_StoneBurrow.label>toca de pedra</QE_SubMap_StoneBurrow.label>
+  <QE_SubMap_StoneBurrow.description>Uma toca para o subterrâneo.</QE_SubMap_StoneBurrow.description>
+  <QE_Crate.label>caixote</QE_Crate.label>
+  <QE_Crate.description>Um caixote cheio de miudezas.</QE_Crate.description>
+  <QE_SomeCrate.label>alguns caixotes</QE_SomeCrate.label>
+  <QE_SomeCrate.description>Alguns caixotes cheios de miudezas.</QE_SomeCrate.description>
+  <QE_APileOfCrate.label>uma pilha de caixotes</QE_APileOfCrate.label>
+  <QE_APileOfCrate.description>Uma pilha de caixotes cheios de miudezas.</QE_APileOfCrate.description>
+  <QE_Cage.label>gaiola</QE_Cage.label>
+  <QE_Cage.description>Uma gaiola pequena usada para prender prisioneiros ou outras criaturas.</QE_Cage.description>
+  <QE_LargeCage.label>gaiola grande</QE_LargeCage.label>
+  <QE_LargeCage.description>Uma gaiola grande usada para prender criaturas de grande porte, como trumbos ou megapreguiças.</QE_LargeCage.description>
+  <QE_GenerationActionWorker.label>executor de ações de geração</QE_GenerationActionWorker.label>
+  <QE_GenerationActionWorker.description>Ao gerar o mapa, suas ações definidas serão executadas. A chave de destino da posição é "Position".</QE_GenerationActionWorker.description>
+  <CQF_CustomDoor.label>porta personalizada</CQF_CustomDoor.label>
+  <CQF_CustomDoor.description>Divide os cômodos. Portas simples devem ser abertas manualmente, o que atrasa as pessoas. A quantidade de atraso depende do material da porta.</CQF_CustomDoor.description>
+  <QE_CaptureNet.label>rede de captura</QE_CaptureNet.label>
+  <QE_CaptureNet.description>Uma rede de captura.</QE_CaptureNet.description>
+  <QE_StoneBurrow.label>.</QE_StoneBurrow.label>
+  <QE_LabberEntrance.label>escada</QE_LabberEntrance.label>
+  <QE_LabberEntrance.description>Uma escada que leva para cima.</QE_LabberEntrance.description>
+  <QE_LadderDown.label>escada</QE_LadderDown.label>
+  <QE_LadderDown.description>Uma escada que leva ao exterior.</QE_LadderDown.description>
+  <QF_MiracleDoor.label>porta fixa</QF_MiracleDoor.label>
+  <QF_MiracleDoor.description>Uma porta especial que não pode ser quebrada pela força bruta.</QF_MiracleDoor.description>
+  <CQF_CustomMapEnterSpot.label>ponto de entrada do mapa personalizado</CQF_CustomMapEnterSpot.label>
+  <CQF_CustomMapEnterSpot.description>Controla onde os colonos entram neste mapa personalizado.</CQF_CustomMapEnterSpot.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CustomSteps>Etapas personalizadas:</CustomSteps>
+  <CustomMapPreSteps>Etapas de pré-geração:</CustomMapPreSteps>
+  <CustomMapPreSteps_Tip>Executa antes de o conteúdo do mapa ser gerado. As etapas podem alterar a missão vinculada a esta geração.</CustomMapPreSteps_Tip>
+  <CustomSteps_Tip>Executa após o conteúdo principal do mapa ser gerado.</CustomSteps_Tip>
+  <CustomMapStep_StartQuest>Etapa: iniciar missão</CustomMapStep_StartQuest>
+  <CustomMapStep_StartQuestWithQuest>Etapa: iniciar missão - {0}</CustomMapStep_StartQuestWithQuest>
+  <CQF_StartQuest_SendLetter>Enviar carta de missão disponível</CQF_StartQuest_SendLetter>
+  <CQF_MapGeneratorLabel>Gerador de mapa</CQF_MapGeneratorLabel>
+  <CQF_MapFaction_None>Nenhuma</CQF_MapFaction_None>
+  <CQF_MapEnterDirectionLabel>Direção de entrada</CQF_MapEnterDirectionLabel>
+  <CQF_NotSelected>Não selecionado</CQF_NotSelected>
+  <CQF_None>Nenhum</CQF_None>
+  <CustomMapStep_GenStepDef>Etapa:GenStepDef</CustomMapStep_GenStepDef>
+  <CQF_GenStepDef>GenStepDef:{0}</CQF_GenStepDef>
+  <CustomMapStep_MapPart>Etapa: parte do mapa</CustomMapStep_MapPart>
+  <CustomMapStep_MapBackground>Etapa: plano de fundo do mapa</CustomMapStep_MapBackground>
+  <CustomMapStep_BackgroundEffects>Etapa: efeitos de fundo</CustomMapStep_BackgroundEffects>
+  <GenerationCount>Número de gerações:</GenerationCount>
+</LanguageData>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CQF_DutyMapEditor>Editor de mapa de deveres</CQF_DutyMapEditor>
+  <CQF_DutyDefEditor>Editor de deveres</CQF_DutyDefEditor>
+  <CQF_DefName>Nome de def:</CQF_DefName>
+  <CQF_DutyMapLabel>Rótulo:</CQF_DutyMapLabel>
+  <CQF_DutyLabel>Rótulo do dever:</CQF_DutyLabel>
+  <CQF_DutyDescription>Descrição do dever:</CQF_DutyDescription>
+  <CQF_DutyMapNodeId>ID do nó:</CQF_DutyMapNodeId>
+  <CQF_DutyType>Tipo de dever: {0}</CQF_DutyType>
+  <CQF_DutyMapTransition>Transição de dever</CQF_DutyMapTransition>
+  <CQF_DutyTransitionTriggers>Gatilhos de transição</CQF_DutyTransitionTriggers>
+  <CQF_DutyTransitionConditions>Condições de transição</CQF_DutyTransitionConditions>
+  <CQF_DutySelectNode>Selecionar nó de dever</CQF_DutySelectNode>
+  <CQF_SelectDialogCondition>Selecionar condição</CQF_SelectDialogCondition>
+  <CQF_SubConditions>Condições filhas</CQF_SubConditions>
+  <CQF_DutyMapFromNode>Nó de origem:</CQF_DutyMapFromNode>
+  <CQF_DutyMapToNode>Nó de destino:</CQF_DutyMapToNode>
+  <CQF_AddTransition>Adicionar transição</CQF_AddTransition>
+  <CQF_FocusTarget>Alvo de foco:</CQF_FocusTarget>
+  <CQF_FocusSecondTarget>Segundo foco:</CQF_FocusSecondTarget>
+  <CQF_FocusThirdTarget>Terceiro foco:</CQF_FocusThirdTarget>
+  <CQF_Radius>Raio:</CQF_Radius>
+  <CQF_WanderRadius>Raio de perambulação:</CQF_WanderRadius>
+  <CQF_LocomotionUrgency>Locomoção: {0}</CQF_LocomotionUrgency>
+  <CQF_EnterActions>Ações de entrada</CQF_EnterActions>
+  <CQF_ExitActions>Ações de saída</CQF_ExitActions>
+  <CQF_SetStartNode>Definir nó inicial</CQF_SetStartNode>
+  <CQF_DutyMapNoOptions>Sem opções</CQF_DutyMapNoOptions>
+  <CQF_DutySelectTrigger>Selecionar gatilho de transição de dever</CQF_DutySelectTrigger>
+  <CQF_IntervalTicks>Intervalo em ticks:</CQF_IntervalTicks>
+  <CQF_PawnCount>Contagem de colonos:</CQF_PawnCount>
+  <CQF_CustomDutyTransition>Transição</CQF_CustomDutyTransition>
+  <CQF_StartCreateDutyMapTransition>Criar transição</CQF_StartCreateDutyMapTransition>
+  <CQF_DutyMapTransitionSource>Origem da transição</CQF_DutyMapTransitionSource>
+  <CQF_DutyMapTransitionTargetHint>Clique para criar</CQF_DutyMapTransitionTargetHint>
+  <CQF_CustomDutyTrigger_TickInterval>Gatilho de intervalo</CQF_CustomDutyTrigger_TickInterval>
+  <CQF_CustomDutyTrigger_TickInterval_Tip>Dispara uma vez a cada número especificado de ticks.</CQF_CustomDutyTrigger_TickInterval_Tip>
+  <CQF_CustomDutyTrigger_LordPawnCountBelow>Contagem de colonos do lorde abaixo de</CQF_CustomDutyTrigger_LordPawnCountBelow>
+  <CQF_CustomDutyTrigger_LordPawnCountBelow_Tip>Dispara quando o lorde atual possui menos colonos que a quantidade especificada.</CQF_CustomDutyTrigger_LordPawnCountBelow_Tip>
+  <CQF_CustomDutyTrigger_Damaged>Danificado</CQF_CustomDutyTrigger_Damaged>
+  <CQF_CustomDutyTrigger_Damaged_Tip>Dispara quando este colono recebe dano.</CQF_CustomDutyTrigger_Damaged_Tip>
+  <CQF_CustomDutyTrigger_Signal>Sinal recebido</CQF_CustomDutyTrigger_Signal>
+  <CQF_CustomDutyTrigger_Signal_Tip>Dispara quando o sinal especificado é recebido. Deixe vazio para aceitar qualquer sinal.</CQF_CustomDutyTrigger_Signal_Tip>
+  <CQF_DutySignalAddQuestPrefix>Adicionar prefixo de missão</CQF_DutySignalAddQuestPrefix>
+  <CQF_DutySignalAddQuestPrefix_Tip>Quando ativado, o gatilho compara com Quest[id].[signal].</CQF_DutySignalAddQuestPrefix_Tip>
+  <CQF_DutyMapNodeEditor>Editor de nó de dever</CQF_DutyMapNodeEditor>
+  <CQF_DutyMapTransitionEditor>Editor de transição de dever</CQF_DutyMapTransitionEditor>
+  <CQF_DutyMapDef>Mapa de deveres: {0}</CQF_DutyMapDef>
+  <CQF_EditDutyMapNode>Editar dever</CQF_EditDutyMapNode>
+  <CQF_DutyDefBasicSettings>Configurações básicas do dever</CQF_DutyDefBasicSettings>
+  <CQF_DutyMiscSettings>Configurações diversas do dever</CQF_DutyMiscSettings>
+  <CQF_DutyAlwaysShowWeapon>Sempre mostrar arma</CQF_DutyAlwaysShowWeapon>
+  <CQF_DutyThreatDisabled>Ameaça desativada</CQF_DutyThreatDisabled>
+  <CQF_DutyRitualSpectateTarget>Alvo de observação de ritual</CQF_DutyRitualSpectateTarget>
+  <CQF_DutyForceFaceUpPosture>Forçar postura deitado de costas</CQF_DutyForceFaceUpPosture>
+  <CQF_DutyHook>Gancho da árvore de pensamento: {0}</CQF_DutyHook>
+  <CQF_DutySocialModeMax>Modo social máximo: {0}</CQF_DutySocialModeMax>
+  <CQF_DutyDrawBodyOverride>Substituição de desenho do corpo</CQF_DutyDrawBodyOverride>
+  <CQF_DutyThinkNode>Nó de comportamento principal</CQF_DutyThinkNode>
+  <CQF_DutyThinkNode_Tip>O nó de comportamento principal tenta emitir trabalhos por prioridade. Esta é a árvore de comportamento primária do dever.</CQF_DutyThinkNode_Tip>
+  <CQF_DutyConstantThinkNode>Nó de comportamento constante</CQF_DutyConstantThinkNode>
+  <CQF_DutyConstantThinkNode_Tip>O nó de comportamento constante é verificado enquanto o dever está ativo. Use-o para comportamentos prolongados ou complementares.</CQF_DutyConstantThinkNode_Tip>
+  <CQF_DutySelectThinkNode>Selecionar nó de comportamento</CQF_DutySelectThinkNode>
+  <CQF_DutyThinkNodeCategory_CQF>CQF</CQF_DutyThinkNodeCategory_CQF>
+  <CQF_DutyThinkNodeCategory_Vanilla>Jogo base</CQF_DutyThinkNodeCategory_Vanilla>
+  <CQF_DutyThinkNodeMod>Origem: {0}\nTipo: {1}</CQF_DutyThinkNodeMod>
+  <CQF_DutyChangeNode>Alterar nó</CQF_DutyChangeNode>
+  <CQF_DutyAddSubNode>Adicionar nó filho</CQF_DutyAddSubNode>
+  <CQF_DutySubNodes>Nós filhos</CQF_DutySubNodes>
+  <CQF_DutyNoSubNodes>Nenhum nó filho. Arraste um nó para cá ou clique em adicionar nó filho.</CQF_DutyNoSubNodes>
+  <CQF_DutyDragNodeTip>Arraste este nó para a área de filhos de outro nó para movê-lo para baixo dele.</CQF_DutyDragNodeTip>
+  <CQF_DutyMoveUp>Mover para cima</CQF_DutyMoveUp>
+  <CQF_DutyMoveDown>Mover para baixo</CQF_DutyMoveDown>
+  <CQF_DutyUnsupportedField>{0} (não suportado: {1})</CQF_DutyUnsupportedField>
+  <CQF_DutyField_tag>Etiqueta</CQF_DutyField_tag>
+  <CQF_DutyField_priority>Prioridade</CQF_DutyField_priority>
+  <CQF_DutyField_leaveJoinableLordIfIssuesJob>Sair do lorde ingressável se emitir trabalho</CQF_DutyField_leaveJoinableLordIfIssuesJob>
+  <CQF_DutyFieldTip_leaveJoinableLordIfIssuesJob>Quando ativado, um colono sai de seu lorde ingressável após este nó emitir um trabalho com sucesso. Use para trabalhos pontuais atribuídos que devem deixar de ser controlados pelo fluxo do lorde original.</CQF_DutyFieldTip_leaveJoinableLordIfIssuesJob>
+  <CQF_DutyField_reportStringOverride>Substituição do texto de relatório</CQF_DutyField_reportStringOverride>
+  <CQF_DutyField_crawlingReportStringOverride>Substituição do texto de relatório de rastejo</CQF_DutyField_crawlingReportStringOverride>
+  <CQF_DutyField_routeKey>Chave de rota</CQF_DutyField_routeKey>
+  <CQF_DutyField_targetKey>Chave de alvo</CQF_DutyField_targetKey>
+  <CQF_DutyField_useRuntimeDatabase>Ler banco de dados de execução do mapa de deveres</CQF_DutyField_useRuntimeDatabase>
+  <CQF_DutyField_useQuestDatabase>Ler banco de dados da missão</CQF_DutyField_useQuestDatabase>
+  <CQF_DutyField_useTemporaryDatabase>Ler banco de dados temporário</CQF_DutyField_useTemporaryDatabase>
+  <CQF_DutyField_useGlobalDatabase>Ler banco de dados global</CQF_DutyField_useGlobalDatabase>
+  <CQF_DutyField_routeIndexKey>Chave de índice de rota</CQF_DutyField_routeIndexKey>
+  <CQF_DutyField_locomotion>Locomoção</CQF_DutyField_locomotion>
+  <CQF_DutyField_maxDanger>Perigo máximo</CQF_DutyField_maxDanger>
+  <CQF_DutyField_pathEndMode>Modo de fim do caminho</CQF_DutyField_pathEndMode>
+  <CQF_DutyField_leftTicks>Ticks de olhar à esquerda</CQF_DutyField_leftTicks>
+  <CQF_DutyField_rightTicks>Ticks de olhar à direita</CQF_DutyField_rightTicks>
+  <CQF_DutyField_forced>Forçado</CQF_DutyField_forced>
+  <CQF_DutyEnum_ThinkTreeDutyHook_None>Nenhum</CQF_DutyEnum_ThinkTreeDutyHook_None>
+  <CQF_DutyEnum_ThinkTreeDutyHook_HighPriority>Alta prioridade</CQF_DutyEnum_ThinkTreeDutyHook_HighPriority>
+  <CQF_DutyEnum_ThinkTreeDutyHook_MediumPriority>Média prioridade</CQF_DutyEnum_ThinkTreeDutyHook_MediumPriority>
+  <CQF_DutyEnum_ThinkTreeDutyHook_LowPriority>Baixa prioridade</CQF_DutyEnum_ThinkTreeDutyHook_LowPriority>
+  <CQF_DutyEnum_RandomSocialMode_Off>Desativado</CQF_DutyEnum_RandomSocialMode_Off>
+  <CQF_DutyEnum_RandomSocialMode_Quiet>Silencioso</CQF_DutyEnum_RandomSocialMode_Quiet>
+  <CQF_DutyEnum_RandomSocialMode_Normal>Normal</CQF_DutyEnum_RandomSocialMode_Normal>
+  <CQF_DutyEnum_RandomSocialMode_SuperActive>Superativo</CQF_DutyEnum_RandomSocialMode_SuperActive>
+  <CQF_DutyEnum_PathEndMode_None>Nenhum</CQF_DutyEnum_PathEndMode_None>
+  <CQF_DutyEnum_PathEndMode_OnCell>No quadrado</CQF_DutyEnum_PathEndMode_OnCell>
+  <CQF_DutyEnum_PathEndMode_Touch>Toque</CQF_DutyEnum_PathEndMode_Touch>
+  <CQF_DutyEnum_PathEndMode_ClosestTouch>Toque mais próximo</CQF_DutyEnum_PathEndMode_ClosestTouch>
+  <CQF_DutyEnum_PathEndMode_InteractionCell>Quadrado de interação</CQF_DutyEnum_PathEndMode_InteractionCell>
+  <CQF_DutyEnum_Danger_None>Nenhum</CQF_DutyEnum_Danger_None>
+  <CQF_DutyEnum_Danger_Some>Algum</CQF_DutyEnum_Danger_Some>
+  <CQF_DutyEnum_Danger_Dangerous>Perigoso</CQF_DutyEnum_Danger_Dangerous>
+  <CQF_DutyEnum_Danger_Deadly>Letal</CQF_DutyEnum_Danger_Deadly>
+  <CQF_DutyEnum_LocomotionUrgency_None>Nenhuma</CQF_DutyEnum_LocomotionUrgency_None>
+  <CQF_DutyEnum_LocomotionUrgency_Amble>Vagaroso</CQF_DutyEnum_LocomotionUrgency_Amble>
+  <CQF_DutyEnum_LocomotionUrgency_Walk>Andar</CQF_DutyEnum_LocomotionUrgency_Walk>
+  <CQF_DutyEnum_LocomotionUrgency_Jog>Trotar</CQF_DutyEnum_LocomotionUrgency_Jog>
+  <CQF_DutyEnum_LocomotionUrgency_Sprint>Correr</CQF_DutyEnum_LocomotionUrgency_Sprint>
+  <CQF_DutyNode_ThinkNode_Priority>Nó de prioridade</CQF_DutyNode_ThinkNode_Priority>
+  <CQF_DutyNode_ThinkNode_Priority_Tip>Tenta os nós filhos em ordem. Quando um filho anterior emite um trabalho, os filhos posteriores não são verificados.</CQF_DutyNode_ThinkNode_Priority_Tip>
+  <CQF_DutyNode_JobGiver_Wait>Espera de guarda</CQF_DutyNode_JobGiver_Wait>
+  <CQF_DutyNode_JobGiver_Wait_Tip>Lê primeiro uma posição de guarda dos bancos de dados ativados pela chave de alvo e, em seguida, recorre aos dados de posição legados do LordJob_Custom. Enquanto espera, verifica periodicamente comportamentos de prioridade mais alta.</CQF_DutyNode_JobGiver_Wait_Tip>
+  <CQF_DutyNode_JobGiver_Patrol>Patrulha legada</CQF_DutyNode_JobGiver_Patrol>
+  <CQF_DutyNode_JobGiver_Patrol_Tip>Emite o trabalho de patrulha legado usando os dados de rota armazenados no LordJob_Custom.</CQF_DutyNode_JobGiver_Patrol_Tip>
+  <CQF_DutyNode_JobGiver_ExitSubMapAndExitMap>Sair do submapa e do mapa</CQF_DutyNode_JobGiver_ExitSubMapAndExitMap>
+  <CQF_DutyNode_JobGiver_ExitSubMapAndExitMap_Tip>Prioriza a saída atual do submapa. Se não houver nenhuma, encontra uma saída normal na borda do mapa e sai do mapa.</CQF_DutyNode_JobGiver_ExitSubMapAndExitMap_Tip>
+  <CQF_DutyNode_JobGiver_MoveToNewLevel>Mover para novo nível</CQF_DutyNode_JobGiver_MoveToNewLevel>
+  <CQF_DutyNode_JobGiver_MoveToNewLevel_Tip>Usa a solicitação de movimento de lorde multinível para encontrar um caminho de portal até o mapa alvo e entrar nele.</CQF_DutyNode_JobGiver_MoveToNewLevel_Tip>
+  <CQF_DutyNode_JobGiver_PatrolMove>Movimento de patrulha</CQF_DutyNode_JobGiver_PatrolMove>
+  <CQF_DutyNode_JobGiver_PatrolMove_Tip>Lê uma rota de patrulha pela chave de rota do mapa e se move até o ponto de rota indicado pelo índice de execução do mapa de deveres.</CQF_DutyNode_JobGiver_PatrolMove_Tip>
+  <CQF_DutyNode_JobGiver_GotoTarget>Ir para alvo do banco de dados</CQF_DutyNode_JobGiver_GotoTarget>
+  <CQF_DutyNode_JobGiver_GotoTarget_Tip>Lê um quadrado ou objeto dos bancos de dados ativados pela chave de alvo e se move até ele.</CQF_DutyNode_JobGiver_GotoTarget_Tip>
+  <CQF_DutyNode_JobGiver_RepairTarget>Reparar alvo do banco de dados</CQF_DutyNode_JobGiver_RepairTarget>
+  <CQF_DutyNode_JobGiver_RepairTarget_Tip>Lê um alvo de construção pela chave e emite trabalho de reparo quando ele pode ser reparado, reservado e não está marcado para desconstrução ou mineração.</CQF_DutyNode_JobGiver_RepairTarget_Tip>
+  <CQF_DutyNode_JobGiver_PatrolObserve>Observar patrulha</CQF_DutyNode_JobGiver_PatrolObserve>
+  <CQF_DutyNode_JobGiver_PatrolObserve_Tip>Olha para a esquerda e para a direita no ponto de patrulha atual. Tenta o combate primeiro, entrando em combate quando inimigos são encontrados.</CQF_DutyNode_JobGiver_PatrolObserve_Tip>
+  <CQF_DutyNode_JobGiver_TargetBase>Base de alvo do banco de dados</CQF_DutyNode_JobGiver_TargetBase>
+  <CQF_DutyNode_JobGiver_TargetBase_Tip>Comportamento base para ler alvos do banco de dados de execução do mapa de deveres, da missão, temporário ou global. Normalmente não é usado diretamente como nó.</CQF_DutyNode_JobGiver_TargetBase_Tip>
+  <CQF_DutyNode_JobGiver_PlayWithGoldenCube>Brincar com cubo dourado</CQF_DutyNode_JobGiver_PlayWithGoldenCube>
+  <CQF_DutyNode_JobGiver_PrepareCaravan_CollectPawns>Preparar caravana: reunir colonos</CQF_DutyNode_JobGiver_PrepareCaravan_CollectPawns>
+  <CQFAction_Pawn_RunDutyMapTransition>Ação de colono: executar transição do mapa de deveres</CQFAction_Pawn_RunDutyMapTransition>
+  <CQFAction_Pawn_SetDutyMap>Ação de colono: definir mapa de deveres</CQFAction_Pawn_SetDutyMap>
+  <CQF_DutyMapUseStartNode>Entrar no nó inicial após definir</CQF_DutyMapUseStartNode>
+</LanguageData>

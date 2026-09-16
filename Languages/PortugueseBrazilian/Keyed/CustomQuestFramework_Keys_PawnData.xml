@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PawnDataEditor>Editor de dados de colono</PawnDataEditor>
+  <SpawnMessage>Mensagem de geração</SpawnMessage>
+  <PawnSpawnDatas>Dados de colono:</PawnSpawnDatas>
+  <AddNewPawns>Adicionar um novo colono</AddNewPawns>
+  <DeleteNewPawns>Excluir um colono</DeleteNewPawns>
+  <PawnDataCannotSaveToMapWarning>Não é possível salvar estes dados de colono no mapa: configure os dados de geração necessários antes de salvar.</PawnDataCannotSaveToMapWarning>
+  <PawnSpawnData>Dados de geração normais</PawnSpawnData>
+  <PawnSpawnData_Tip>Dados de geração de colonos padrão. Use-os para configurar tipo de colono, quantidade, facção, lorde, dever, inventário, vestimenta, condições de saúde e momento de geração.</PawnSpawnData_Tip>
+  <QE_PawnKind>Tipo de colono: {0}</QE_PawnKind>
+  <SelectPawnKind>Selecionar tipo de colono</SelectPawnKind>
+  <PawnDataFaction>Facção:</PawnDataFaction>
+  <PawnDataFactionTip>Se for hostil/neutro/aliado aleatório, selecionará aleatoriamente uma facção hostil/neutra/aliada para gerar durante a geração; se for facção do mapa, selecionará a facção do mapa atual para gerar</PawnDataFactionTip>
+  <PawnDataMapFaction>Facção do mapa</PawnDataMapFaction>
+  <QE_Count>Quantidade</QE_Count>
+  <SpawnType>Tipo de geração: {0}</SpawnType>
+  <SelectSpawnType>Selecionar tipo de geração</SelectSpawnType>
+  <MapGeneration>Geração de mapa</MapGeneration>
+  <BuildingDamaged>Construção danificada</BuildingDamaged>
+  <BuildingTick>Tick de construção</BuildingTick>
+  <SpawnTypeTip_BuildingTick>Ao gerar, seleciona automaticamente a construção no local de geração como &quot;gerador&quot; e gera colonos em intervalos enquanto o gerador existir, mas será invalidado quando o gerador for destruído.</SpawnTypeTip_BuildingTick>
+  <TimeToSpawn>Tempo para gerar</TimeToSpawn>
+  <BuildingDestroyed>Construção destruída</BuildingDestroyed>
+  <EnableLord>Ativar lorde</EnableLord>
+  <LordAndFactionTip>Dica de lorde e facção</LordAndFactionTip>
+  <PawnDataNameTip>Usado para emitir sinais.\nCada colono emitirá uma etiqueta ao executar eventos como ser morto ou ferido [DataName] [Number] O sinal de comportamento (na verdade, o número da tarefa relevante é adicionado no início para identificar qual tarefa precisa receber o sinal).\nO número é atribuído de acordo com a ordem de geração ao gerar todas as entidades destes dados, começando em 0. Por exemplo, se um total de dez entidades for gerado, o quinto número gerado é 4\nSe um mapa for gerado com um nome de dados de &quot;HaiLuan&quot;, o quinto colono gerado emitirá um sinal de &quot;HaiLuan.4.Killed&quot; quando for morto,\nQuando gerado a partir do LootBox, [label] é o nome da caixa de saque. Caso contrário, significa nenhum e não terá um &apos;.&apos; após o rótulo.\n\nA seguir está uma lista de comportamentos e sinais correspondentes:\nChangeFaction\nAlterar facção e a nova facção não é uma facção do jogador: ChangedFactionToNonPlayer\nAlterar facção e a nova facção é uma facção do jogador: ChangedFactionToPlayer\nAo gerar um colono: Spawned\nQuando o colono é destruído: Despawned\nQuando um colono é morto: Killed\nSofrer dano de facção do jogador: TookDamageFromPlayer\nSair do mapa: LeftMap\n\nAo gerar, o colono gerado será registrado no &quot;banco de dados da missão&quot;, e sua &quot;chave&quot; é o nome de seus dados</PawnDataNameTip>
+  <PawnRotation>Rotação do colono</PawnRotation>
+  <PawnHediffs>Condições de saúde: </PawnHediffs>
+  <PawnSpawnDataHediff>Condição de saúde: {0}</PawnSpawnDataHediff>
+  <PawnSpawnDataHediffPart>Parte: {0}</PawnSpawnDataHediffPart>
+  <NoPawnKindToGetBody>Sem tipo de colono para obter corpo</NoPawnKindToGetBody>
+  <PawnSpawnData_Random>Dados de geração aleatória</PawnSpawnData_Random>
+  <PawnSpawnData_Random_Tip>Dados de geração aleatória de colonos. Seleciona aleatoriamente uma entrada de dados de colono secundária para gerar.</PawnSpawnData_Random_Tip>
+  <PawnSpawnData_Faction>Dados de geração de facção</PawnSpawnData_Faction>
+  <PawnSpawnData_Faction_Tip>Dados de geração de colonos de facção. Gera colonos a partir de um criador de grupos de colonos da facção por pontos de combate.</PawnSpawnData_Faction_Tip>
+  <CQF_PawnGroupMaker>Criador de grupo de colonos:{0}</CQF_PawnGroupMaker>
+  <CQF_PawnGroupMaker_Tip>Gera colonos com base no criador de grupos de colonos da facção</CQF_PawnGroupMaker_Tip>
+  <SpawmPoint>Ponto de geração:</SpawmPoint>
+  <PawnSpawnData_Group>Dados de geração de grupo</PawnSpawnData_Group>
+  <PawnSpawnData_Group_Tip>Dados de geração de grupos de colonos. Registra os colonos gerados em um grupo de missão nomeado para ações ou condições posteriores.</PawnSpawnData_Group_Tip>
+  <CQF_PawnGroupDef>Def de grupo:{0}</CQF_PawnGroupDef>
+  <PawnSpawnData_Character>Dados de geração de personagem</PawnSpawnData_Character>
+  <CharacterSpawnDef>Def de personagem:{0}</CharacterSpawnDef>
+  <PawnSpawnData_ComplexPawn>Dados de geração de NPC personalizado</PawnSpawnData_ComplexPawn>
+  <PawnSpawnData_ComplexPawn_Tip>Gera um colono a partir de uma definição de NPC personalizado ComplexPawnDef.</PawnSpawnData_ComplexPawn_Tip>
+  <MainPawnSpawnData>Dados de geração do colono principal</MainPawnSpawnData>
+  <MainPawnSpawnData_Tip>Dados de geração do colono principal. Use-os para personagens importantes e reutilizáveis que podem ser armazenados em cache por mapas principais e, opcionalmente, restaurados de bancos de dados de missão ou globais.</MainPawnSpawnData_Tip>
+  <MainPawnSpawnDataSpawnData>Dados de geração de colono</MainPawnSpawnDataSpawnData>
+  <MainPawnChangeSubPawnData>Alterar dados de colono secundários</MainPawnChangeSubPawnData>
+  <MainPawnAllowGetFromQuestDatabase>Obter do banco de dados da missão</MainPawnAllowGetFromQuestDatabase>
+  <MainPawnAllowGetFromGlobalDatabase>Obter do banco de dados global</MainPawnAllowGetFromGlobalDatabase>
+  <MainPawnQuestDatabaseKey>Chave do banco de dados da missão:</MainPawnQuestDatabaseKey>
+  <MainPawnGlobalDatabaseKey>Chave do banco de dados global:</MainPawnGlobalDatabaseKey>
+  <MainPawnRegenerateIfDead>Regenerar se estiver morto</MainPawnRegenerateIfDead>
+  <MainPawnGenerateConditions>Condições de geração</MainPawnGenerateConditions>
+  <MainPawnRegenerateConditions>Condições de regeneração</MainPawnRegenerateConditions>
+</LanguageData>

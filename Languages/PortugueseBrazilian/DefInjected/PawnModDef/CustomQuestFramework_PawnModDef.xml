@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CQF_PawnMod_Basic.label>básico</CQF_PawnMod_Basic.label>
+  <CQF_PawnMod_Basic.description>Dados básicos do colono personalizado.</CQF_PawnMod_Basic.description>
+  <CQF_PawnMod_NameAndBody.label>nome e corpo</CQF_PawnMod_NameAndBody.label>
+  <CQF_PawnMod_NameAndBody.description>Dados de nome, gênero e idade.</CQF_PawnMod_NameAndBody.description>
+  <CQF_PawnMod_Appearance.label>aparência</CQF_PawnMod_Appearance.label>
+  <CQF_PawnMod_Appearance.description>Cabeça, corpo, cabelo e cores.</CQF_PawnMod_Appearance.description>
+  <CQF_PawnMod_Genes.label>modelo de genes</CQF_PawnMod_Genes.label>
+  <CQF_PawnMod_Genes.description>Xenótipo e modelo de genes do colono.</CQF_PawnMod_Genes.description>
+  <CQF_PawnMod_Backstory.label>passado</CQF_PawnMod_Backstory.label>
+  <CQF_PawnMod_Backstory.description>Passado de infância e idade adulta.</CQF_PawnMod_Backstory.description>
+  <CQF_PawnMod_Traits.label>traços</CQF_PawnMod_Traits.label>
+  <CQF_PawnMod_Traits.description>Traços do colono.</CQF_PawnMod_Traits.description>
+  <CQF_PawnMod_Skills.label>habilidades</CQF_PawnMod_Skills.label>
+  <CQF_PawnMod_Skills.description>Habilidades do colono.</CQF_PawnMod_Skills.description>
+  <CQF_PawnMod_Abilities.label>habilidades</CQF_PawnMod_Abilities.label>
+  <CQF_PawnMod_Abilities.description>Habilidades especiais do colono.</CQF_PawnMod_Abilities.description>
+  <CQF_PawnMod_Apparel.label>vestuário</CQF_PawnMod_Apparel.label>
+  <CQF_PawnMod_Apparel.description>Vestuário do colono.</CQF_PawnMod_Apparel.description>
+  <CQF_PawnMod_Weapon.label>arma</CQF_PawnMod_Weapon.label>
+  <CQF_PawnMod_Weapon.description>Arma do colono.</CQF_PawnMod_Weapon.description>
+  <CQF_PawnMod_Hediff.label>condição de saúde</CQF_PawnMod_Hediff.label>
+  <CQF_PawnMod_Hediff.description>Condições de saúde do colono.</CQF_PawnMod_Hediff.description>
+  <CQF_PawnMod_Dialog.label>diálogo</CQF_PawnMod_Dialog.label>
+  <CQF_PawnMod_Dialog.description>Gerenciador de diálogos do colono.</CQF_PawnMod_Dialog.description>
+  <CQF_PawnMod_ActionTrigger.label>gatilho de ação</CQF_PawnMod_ActionTrigger.label>
+  <CQF_PawnMod_ActionTrigger.description>Gatilhos de ação do colono.</CQF_PawnMod_ActionTrigger.description>
+  <CQF_PawnMod_DutyMap.label>mapa de deveres</CQF_PawnMod_DutyMap.label>
+  <CQF_PawnMod_DutyMap.description>Atribuição de mapa de deveres do colono.</CQF_PawnMod_DutyMap.description>
+</LanguageData>

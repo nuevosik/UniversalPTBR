@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CQFActions>Ações de diálogo</CQFActions>
+  <AddCQFAction>Adicionar ação de diálogo</AddCQFAction>
+  <CQFAction_SentSignal>Ação: enviar sinal</CQFAction_SentSignal>
+  <DialogConditions>Condições de diálogo</DialogConditions>
+  <AddDialogCondition>Adicionar condição</AddDialogCondition>
+  <AddQuestPrefix>Adicionar prefixo de missão ao enviar:</AddQuestPrefix>
+  <AddQuestPrefixTip>Usado para evitar interferência de sinal entre missões diferentes</AddQuestPrefixTip>
+  <OutSignal>Sinal de saída:</OutSignal>
+  <CQFAction_Trait>Ação: conceder traço</CQFAction_Trait>
+  <GivenTrait>Traço concedido: {0}</GivenTrait>
+  <DegreeOfTrait>Grau do traço</DegreeOfTrait>
+  <CQFAction_RemoveTrait>Ação: remover traço</CQFAction_RemoveTrait>
+  <CQFAction_Hediff>Ação: conceder condição de saúde</CQFAction_Hediff>
+  <GivenHediff>Condição de saúde concedida: </GivenHediff>
+  <SeverityOfHediff>Gravidade da condição de saúde</SeverityOfHediff>
+  <CQFBodyPartForHediff>Parte do corpo: {0}</CQFBodyPartForHediff>
+  <CQFAction_GainMood>Ação: conceder pensamento</CQFAction_GainMood>
+  <CQF_ThoughtDef>Def de pensamento: {0}</CQF_ThoughtDef>
+  <CQFAction_Spawn>Ação: gerar</CQFAction_Spawn>
+  <CQFAction_Faction>Ação: definir facção</CQFAction_Faction>
+  <CQFAction_Sequence>Lista de ações</CQFAction_Sequence>
+  <TriggerActions>Ações de gatilho:</TriggerActions>
+  <CQFAction_StartDialog>Ação: iniciar diálogo</CQFAction_StartDialog>
+  <CQFAction_GainExperience>Ação: ganhar experiência</CQFAction_GainExperience>
+  <SkillType>Tipo de habilidade: {0}</SkillType>
+  <Random>Aleatório</Random>
+  <GainExperienceRange>Intervalo de experiência:</GainExperienceRange>
+  <PawnGainExperience>{0} ganhou {1} de experiência em {2}</PawnGainExperience>
+  <CQFAction_Chance>Ação: chance</CQFAction_Chance>
+  <SelectAction>Selecionar ação</SelectAction>
+  <CQFAction_Random>Ação: aleatório</CQFAction_Random>
+  <CQFAction_Random_Tip>Seleciona aleatoriamente uma de suas subações.</CQFAction_Random_Tip>
+  <CQFAction_OpenLootBox>Ação: abrir caixa de saque</CQFAction_OpenLootBox>
+  <CQFAction_SetDuty>Ação: definir dever</CQFAction_SetDuty>
+  <CQFAction_SetXenotype>Ação: definir xenótipo</CQFAction_SetXenotype>
+  <CQFXenotypeDef>Xenótipo: {0}</CQFXenotypeDef>
+  <DialogCondition_Skill>Condição: habilidade</DialogCondition_Skill>
+  <SkillIsntsatisfied>Habilidade não satisfeita</SkillIsntsatisfied>
+  <TargetIsntPawn>O alvo não é um colono</TargetIsntPawn>
+  <TargetIsntLikeHumanOrTargetIsNull>O alvo não é humanoide ou o alvo é nulo</TargetIsntLikeHumanOrTargetIsNull>
+  <DialogueTarget>Nome do alvo:</DialogueTarget>
+  <Interviewee>Entrevistado (jogador)</Interviewee>
+  <Interviewer>Entrevistador (NPC)</Interviewer>
+  <CustomThing>Objeto personalizado</CustomThing>
+  <Trigger>Gatilho</Trigger>
+  <Captured>Capturado</Captured>
+  <Position>Posição</Position>
+  <Inner>Objeto interno</Inner>
+  <SelectTarget>Selecionar alvo</SelectTarget>
+  <RequiredSkill>Habilidade necessária</RequiredSkill>
+  <Select>Selecionar</Select>
+  <RequiredLevel>Nível necessário</RequiredLevel>
+  <NeedToBeGreater>Precisa ser maior</NeedToBeGreater>
+  <DialogCondition_Hediff>Condição: condição de saúde</DialogCondition_Hediff>
+  <TargetHasntRequired>O alvo não tem o necessário</TargetHasntRequired>
+  <RequiredHediff>Condição de saúde necessária</RequiredHediff>
+  <RequiredSeverity>Gravidade necessária</RequiredSeverity>
+  <HediffIsntsatisfied>Condição de saúde não satisfeita</HediffIsntsatisfied>
+  <DialogCondition_Trait>Condição: traço</DialogCondition_Trait>
+  <TargetHasntRequiredTrait>O alvo não tem o traço {0} necessário</TargetHasntRequiredTrait>
+  <RequiredTrait>Traço necessário: {0}</RequiredTrait>
+  <RequiredDegree>Grau necessário</RequiredDegree>
+  <TraitIsntsatisfied>Traço não satisfeito</TraitIsntsatisfied>
+  <Accurate>Preciso:</Accurate>
+  <Accurate_Tip>Só será satisfeito quando o traço for exatamente o traço concedido</Accurate_Tip>
+  <DialogTreeCondition_Faction>Condição: facção</DialogTreeCondition_Faction>
+  <DialogCondition_Faction>Condição: facção</DialogCondition_Faction>
+  <RequiredFaction>Facção necessária: {0}</RequiredFaction>
+  <TargetIsntNumberOfFaction>O alvo não é membro de {0}</TargetIsntNumberOfFaction>
+  <DialogCondition_Bool>Condição: bool</DialogCondition_Bool>
+  <DialogCondition_Bool_Tip>Obtém o valor bool do banco de dados da missão para determinar se passa</DialogCondition_Bool_Tip>
+  <keyOfBoolValue>Chave do bool:</keyOfBoolValue>
+  <CQFFailReason>Motivo da falha:</CQFFailReason>
+  <DialogCondition_Age>Condição: idade</DialogCondition_Age>
+  <CQFAge>Idade:</CQFAge>
+  <DialogCondition_Chance>Condição: chance</DialogCondition_Chance>
+  <DialogCondition_PrisonerOrSlave>Condição: prisioneiro ou escravo</DialogCondition_PrisonerOrSlave>
+  <DialogCondition_Thought>Condição: pensamento</DialogCondition_Thought>
+  <DialogCondition_And>Condição: e</DialogCondition_And>
+  <DialogCondition_And_Tip>Se todas as subcondições forem verdadeiras, retorna verdadeiro. Caso contrário, é falso. O motivo da falha é o motivo da condição que for falsa</DialogCondition_And_Tip>
+  <DialogCondition_Or>Condição: ou</DialogCondition_Or>
+  <DialogCondition_Or_Tip>Qualquer subcondição verdadeira retornará verdadeiro; caso contrário, será falso, e o motivo da falha será o motivo personalizado da condição</DialogCondition_Or_Tip>
+  <DialogCondition_QuestIsGenerated>Condição: a missão não foi gerada</DialogCondition_QuestIsGenerated>
+  <DialogCondition_QuestIsGenerated_Tip>Se a missão fornecida tiver sido gerada no jogo, retorna falso</DialogCondition_QuestIsGenerated_Tip>
+  <DialogCondition_Reversal>Condição: inversão</DialogCondition_Reversal>
+  <DialogCondition_Reversal_Tip>Retorna o valor da subcondição invertida</DialogCondition_Reversal_Tip>
+  <DialogCondition_QuestState>Condição: estado da missão</DialogCondition_QuestState>
+  <DialogCondition_QuestState_Tip>Se nenhum def de missão for fornecido, recupera automaticamente a missão do alvo da condição de gatilho</DialogCondition_QuestState_Tip>
+  <QuestState>Estado da missão: {0}</QuestState>
+  <EndedFailed>Missão falhou</EndedFailed>
+  <EndedSuccess>Missão concluída</EndedSuccess>
+  <Ongoing>Missão em andamento</Ongoing>
+  <EndedOfferExpired>Oferta de missão expirada</EndedOfferExpired>
+  <DialogCondition_CapturedPawn>Condição: colono capturado</DialogCondition_CapturedPawn>
+  <DialogCondition_CapturedPawn_Tip>Determina se a armadilha de captura fornecida, como uma rede de captura, capturou um colono</DialogCondition_CapturedPawn_Tip>
+  <DialogCondition_ContainerIsFull>Condição: contêiner cheio</DialogCondition_ContainerIsFull>
+  <CQFAction_RemoveDialogManager>Ação: remover gerenciador de diálogo</CQFAction_RemoveDialogManager>
+  <CQFAction_SentSignal_Tip>O sinal real enviado é [Nome de dados do entrevistado] + [Este sinal].</CQFAction_SentSignal_Tip>
+  <CQFAction_RemoveDialogManagerl_Tip>Para reduzir a complexidade computacional e melhorar o desempenho.</CQFAction_RemoveDialogManagerl_Tip>
+  <ITab_InteractableThing>Objeto interativo</ITab_InteractableThing>
+  <InteractionOperations>Operações de interação</InteractionOperations>
+  <CQF_NoInteractionOperations>Nenhuma operação de interação</CQF_NoInteractionOperations>
+  <CQF_NoInteractionDefs>Nenhum def de interação vinculado</CQF_NoInteractionDefs>
+  <CQF_ClickToEdit>Clique para editar</CQF_ClickToEdit>
+  <CQF_LinkedInteractionDefs>Defs de interação vinculados</CQF_LinkedInteractionDefs>
+  <CQF_NoLootData>Nenhum dado de saque personalizado</CQF_NoLootData>
+  <CQF_NoLootThings>Nenhum objeto de saque</CQF_NoLootThings>
+  <CQF_NoLootCategories>Nenhuma categoria de saque</CQF_NoLootCategories>
+  <CQF_NoSpecialThingData>Nenhum dado de objeto especial</CQF_NoSpecialThingData>
+  <CQF_NoLootPawns>Nenhum colono no saque</CQF_NoLootPawns>
+  <CQF_CustomLootData>Dados de saque personalizados</CQF_CustomLootData>
+  <CQF_UseLootDataDef>Usar def de dados de saque</CQF_UseLootDataDef>
+  <CQF_LootSettings>Configurações de abertura</CQF_LootSettings>
+  <InteractionConditions>Condições de interação:</InteractionConditions>
+  <InteractionResults>Resultados de interação:</InteractionResults>
+  <CQF_NoRequiredThings>Nenhum objeto necessário</CQF_NoRequiredThings>
+  <CQF_NoInteractionConditions>Nenhuma condição de interação</CQF_NoInteractionConditions>
+  <CQF_NoInteractionResults>Nenhum resultado de interação</CQF_NoInteractionResults>
+  <CQF_NoResultConditions>Nenhuma condição de resultado</CQF_NoResultConditions>
+  <CQF_NoResultActions>Nenhuma ação de resultado</CQF_NoResultActions>
+  <TickToOperate>Tempo necessário para interação (tick):</TickToOperate>
+  <DialogCondition_ThingInPosition>Condição: posição do objeto</DialogCondition_ThingInPosition>
+  <DialogCondition_ThingInPosition_Tip>Determina se o objeto fornecido está na posição fornecida (se a posição fornecida incluir um mapa, o mapa também será verificado)</DialogCondition_ThingInPosition_Tip>
+  <PositionName>Posição:</PositionName>
+  <DialogCondition_Inventory>Condição: inventário</DialogCondition_Inventory>
+  <RequiredThings>Objetos necessários:</RequiredThings>
+  <DialogCondition_DatabaseExists>Condição: banco de dados existe</DialogCondition_DatabaseExists>
+  <TargetKey>Chave do alvo:</TargetKey>
+  <NeedSpawned>O alvo precisa estar gerado:</NeedSpawned>
+  <CheckGlobalDatabase>Verificar banco de dados global:</CheckGlobalDatabase>
+  <CheckTemporaryDatabase>Verificar banco de dados temporário:</CheckTemporaryDatabase>
+  <CheckQuestDatabase>Verificar banco de dados da missão:</CheckQuestDatabase>
+  <DialogCondition_SkillCheck>Condição: teste de habilidade</DialogCondition_SkillCheck>
+  <DialogCondition_SkillCheck_Tip>Rola um número aleatório entre 0 e 20. Se o resultado for menor que o nível da habilidade correspondente do alvo mais o modificador do teste, a condição é aprovada.</DialogCondition_SkillCheck_Tip>
+  <CheckModifier>Modificador do teste:</CheckModifier>
+  <DialogCondition_GroupExists>Condição: grupo existe</DialogCondition_GroupExists>
+  <DialogCondition_ColonistCount>Condição: contagem de colonos</DialogCondition_ColonistCount>
+  <NeedCount>Contagem necessária:</NeedCount>
+  <If>Se:</If>
+  <InteractionActions>Ação de interação:</InteractionActions>
+  <CQFAction_TakeDamage>Ação: sofrer dano</CQFAction_TakeDamage>
+  <CQF_DamageType>Tipo de dano:</CQF_DamageType>
+  <DamageAmount>Quantidade de dano:</DamageAmount>
+  <CQFAction_Explosion>Ação: causar explosão</CQFAction_Explosion>
+  <ExplostionDamageType>Tipo de dano da explosão:</ExplostionDamageType>
+  <ExplosionRadius>Raio da explosão:</ExplosionRadius>
+  <CQFAction_Destory>Ação: destruir</CQFAction_Destory>
+  <CQFTargetTextTip>Usado para determinar o objetivo da ação. "Objeto personalizado" geralmente se refere ao executor da ação, como o "objeto personalizado" da ação gerada por uma armadilha personalizada, que é ele mesmo. O mesmo se aplica a objetos interativos. "Gatilho" geralmente é um colono que acionou a armadilha. O alvo também pode ser "nulo", o que pode ser usado em diálogos onde o entrevistado é uma parede ou um animal.\nTambém é possível usar a "chave" de objetos registrados no "banco de dados da missão" para obtê-los como alvos.</CQFTargetTextTip>
+  <CQFAction_Message>Ação: enviar mensagem</CQFAction_Message>
+  <CQFMessage>Mensagem:</CQFMessage>
+  <CQFMessageType>Tipo de mensagem: {0}</CQFMessageType>
+  <CQFAction_AddQuestDescription>Ação: adicionar descrição da missão</CQFAction_AddQuestDescription>
+  <CQFAction_AddQuestDescription_Tip>Acrescenta texto à descrição atual da missão. Argumentos nomeados usam as chaves dos alvos obtidos por esta ação e funcionam com alvos da ação, alvos do banco de dados da missão e alvos restaurados de receivedArgs do sinal.</CQFAction_AddQuestDescription_Tip>
+  <CQFQuestDescription>Descrição da missão:</CQFQuestDescription>
+  <ThreatBig>Ameaça grande</ThreatBig>
+  <ThreatSmall>Ameaça pequena</ThreatSmall>
+  <PawnDeath>Morte de colono</PawnDeath>
+  <NegativeHealthEvent>Evento de saúde negativo</NegativeHealthEvent>
+  <NegativeEvent>Evento negativo</NegativeEvent>
+  <NeutralEvent>Evento neutro</NeutralEvent>
+  <TaskCompletion>Conclusão de tarefa</TaskCompletion>
+  <PositiveEvent>Evento positivo</PositiveEvent>
+  <SituationResolved>Situação resolvida</SituationResolved>
+  <RejectInput>Rejeitar entrada</RejectInput>
+  <CautionInput>Advertir entrada</CautionInput>
+  <SilentInput>Entrada silenciosa</SilentInput>
+  <CQFAction_Replace>Ação: substituir</CQFAction_Replace>
+  <CQFReplaceThing>Substituir por: {0}</CQFReplaceThing>
+  <UseSameStuff>Usar o mesmo material:</UseSameStuff>
+  <CQFAction_Quest>Ação: conceder missão</CQFAction_Quest>
+  <CQFQuestDef>Missão: {0}</CQFQuestDef>
+  <CQFAction_Incident>Ação: executar incidente</CQFAction_Incident>
+  <CQFIncidentDef>Incidente: {0}</CQFIncidentDef>
+  <SpawnAfterAction_GiveTrait>Ação: conceder traço</SpawnAfterAction_GiveTrait>
+  <SpawnAfterAction_DoAction>Ação: executar ações</SpawnAfterAction_DoAction>
+  <CQFAction_AddDialogManager>Ação: adicionar gerenciador de diálogo</CQFAction_AddDialogManager>
+  <CQFAction_StartMentalState>Ação: iniciar estado mental</CQFAction_StartMentalState>
+  <CQFMentalState>Estado mental: {0}</CQFMentalState>
+  <stateTargetText>Alvo do estado:</stateTargetText>
+  <CQFAction_RecordToDatabase>Ação: registrar no banco de dados</CQFAction_RecordToDatabase>
+  <CQFAction_RecordToDatabase_Tip>Registra o alvo no banco de dados para que ele possa ser usado como objeto alvo em outros lugares</CQFAction_RecordToDatabase_Tip>
+  <RecordKeyOfData>Chave de registro dos dados:</RecordKeyOfData>
+  <RecordToTemporaryBase>Registrar no banco temporário:</RecordToTemporaryBase>
+  <RecordToTemporaryBase_Tip>O banco de dados temporário é independente do banco de dados da missão e opera durante os seguintes períodos, limpando os dados registrados após esses períodos\nGeração de mapa\nAbrir a caixa de saque\nInteragir com objetos interativos</RecordToTemporaryBase_Tip>
+  <RecordToQuestBase>Registrar no banco da missão:</RecordToQuestBase>
+  <RecordToGlobalBase>Registrar no banco global:</RecordToGlobalBase>
+  <CQFAction_GetThingToRecord>Ação: obter objeto para registrar</CQFAction_GetThingToRecord>
+  <CQFAction_GetThingToRecord_Tip>Obtém o primeiro objeto no local alvo fornecido (excluindo o alvo fornecido) e o registra no banco de dados</CQFAction_GetThingToRecord_Tip>
+  <CQFAction_GetCellToRecord>Ação: obter quadrado para registrar</CQFAction_GetCellToRecord>
+  <CQFAction_GetCellToRecord_Tip>Obtém o quadrado do alvo fornecido e o registra no banco de dados</CQFAction_GetCellToRecord_Tip>
+  <CQFAction_SpawnAndAddToContainer>Ação: gerar e adicionar ao contêiner</CQFAction_SpawnAndAddToContainer>
+  <CQFAction_SpawnAndAddToContainer_Tip>Gera objetos e os adiciona ao contêiner alvo</CQFAction_SpawnAndAddToContainer_Tip>
+  <CQFAction_ReleaseFromContainer>Ação: liberar do contêiner</CQFAction_ReleaseFromContainer>
+  <CQFAction_ReleaseFromContainer_Tip>Libera o conteúdo do contêiner</CQFAction_ReleaseFromContainer_Tip>
+  <CQFAction_SetBool>Ação: definir bool</CQFAction_SetBool>
+  <CQFAction_SetBool_Tip>Define um valor bool (verdadeiro ou falso) no banco de dados da missão</CQFAction_SetBool_Tip>
+  <valueOfBool>Valor do bool:</valueOfBool>
+  <CQFAction_Skip>Ação: teleportar</CQFAction_Skip>
+  <skipedTargetText>Alvo teleportado:</skipedTargetText>
+  <targetLocationText>Local de destino:</targetLocationText>
+  <CQFAction_SetGlobalBool>Ação: definir bool global</CQFAction_SetGlobalBool>
+  <CQFAction_SetGlobalBool_Tip>Define um bool global (verdadeiro ou falso) no banco de dados da missão, que terá efeito em todo o jogo salvo</CQFAction_SetGlobalBool_Tip>
+  <LordNameTip>Procura no banco de dados por lordes com nomes correspondentes como alvo. Se estiver no editor de grupo ou em um lorde personalizado, o lorde editado será selecionado automaticamente como alvo. Este campo pode ficar em branco</LordNameTip>
+  <CQFAction_ReplaceUsingCustomThing>Ação: substituir (objeto personalizado)</CQFAction_ReplaceUsingCustomThing>
+  <EditCustomThing>Editar objeto personalizado</EditCustomThing>
+  <EditActionAndText>Editar ação e texto</EditActionAndText>
+  <CQFAction_ActivateCustomMap>Ação: ativar mapa personalizado</CQFAction_ActivateCustomMap>
+  <CQFAction_ActivateCustomMap_Tip>Se o alvo for uma entrada de mapa personalizado e a entrada não gerar um mapa personalizado, ativa a entrada para gerar um mapa personalizado</CQFAction_ActivateCustomMap_Tip>
+  <CQFAction_DelayExecute>Ação: atrasar execução</CQFAction_DelayExecute>
+  <CQFAction_DelayExecute_Tip>As subações serão acionadas após o tempo de atraso</CQFAction_DelayExecute_Tip>
+  <DelayTime>Tempo de atraso:</DelayTime>
+  <CQFAction_Loop>Ação: repetir</CQFAction_Loop>
+  <LoopCount>Contagem de repetições:</LoopCount>
+  <CQFAction_Condition>Ação: condição</CQFAction_Condition>
+  <CQFAction_Condition_Tip>Aciona subações quando as condições forem satisfeitas</CQFAction_Condition_Tip>
+  <TriggerConditions>Condições de gatilho:</TriggerConditions>
+  <CQFAction_Pollute>Ação: poluir</CQFAction_Pollute>
+  <PolluatingRadius>Raio de poluição:</PolluatingRadius>
+  <CQFAction_AddExtraOpteration>Ação: adicionar operação extra</CQFAction_AddExtraOpteration>
+  <CQFAction_AddExtraOpteration_Tip>Adiciona uma operação de interação extra ao alvo fornecido para torná-lo interativo</CQFAction_AddExtraOpteration_Tip>
+  <CQFAction_DoEffect>Ação: aplicar efeito</CQFAction_DoEffect>
+  <CQF_EffectDef>Efeito: {0}</CQF_EffectDef>
+  <CQFAction_Lightning>Ação: relâmpago</CQFAction_Lightning>
+  <CQFAction_MakeMoteStatic>Ação: criar mote estático</CQFAction_MakeMoteStatic>
+  <CQF_MoteDef>Mote: {0}</CQF_MoteDef>
+  <MoteOffset>Deslocamento do mote:</MoteOffset>
+  <MoteScale>Escala:</MoteScale>
+  <CQFAction_ThrowMote>Ação: lançar mote</CQFAction_ThrowMote>
+  <CQFAction_SwtichEntranceStatus>Ação: definir status de abertura da entrada</CQFAction_SwtichEntranceStatus>
+  <OpeningStatus>Status:</OpeningStatus>
+  <AlwaysIsOpposite>Sempre é o oposto:</AlwaysIsOpposite>
+  <CQFAction_EndGame>Ação: encerrar jogo</CQFAction_EndGame>
+  <CQFAction_EndGame_Message>Mensagem:</CQFAction_EndGame_Message>
+  <CQFAction_ChangeGoodwillOfFaction>Ação: alterar boa vontade com facção</CQFAction_ChangeGoodwillOfFaction>
+  <CQFAction_ChangeGoodwillOfFaction_Tip>Altera a boa vontade da facção. Se a facção fornecida for nula, altera a boa vontade da facção do alvo selecionado</CQFAction_ChangeGoodwillOfFaction_Tip>
+  <IsIncrease>É aumento:</IsIncrease>
+  <SendLetter>Enviar carta:</SendLetter>
+  <GoodwillValue>Valor da boa vontade:</GoodwillValue>
+  <CQFAction_ConsumeInInventory>Ação: consumir objetos no inventário</CQFAction_ConsumeInInventory>
+  <CQFAction_SpawnAndAddToInventory>Ação: gerar e adicionar ao inventário</CQFAction_SpawnAndAddToInventory>
+  <CQFAction_AddQuestTag>Ação: adicionar etiqueta de missão</CQFAction_AddQuestTag>
+  <CQFAction_AddQuestTag_Tip>Adiciona uma etiqueta de missão ao alvo; objetos com etiqueta de missão podem enviar sinais</CQFAction_AddQuestTag_Tip>
+  <QuestTag>Etiqueta de missão:</QuestTag>
+  <CQFAction_SetRelation>Ação: definir relação</CQFAction_SetRelation>
+  <CQF_RelationDef>Relação: {0}</CQF_RelationDef>
+  <TargetA>Alvo A:</TargetA>
+  <TargetB>Alvo B:</TargetB>
+  <CQFAction_GenerateSubMap>Ação: gerar submapa</CQFAction_GenerateSubMap>
+  <StartPosition>Posição inicial:</StartPosition>
+  <EditCustomMapGenerationSet>Editar conjunto de mapas</EditCustomMapGenerationSet>
+  <CQFAction_Fog>Ação: névoa</CQFAction_Fog>
+  <CQFAction_Fog_Tip>cobre de névoa o quadrado alvo</CQFAction_Fog_Tip>
+  <CQFAction_FloodUnfog>Ação: revelar névoa em área</CQFAction_FloodUnfog>
+  <CQFAction_FloodUnfog_Tip>Limpa a névoa a partir do quadrado alvo e continua limpando a névoa adjacente até encontrar uma construção.</CQFAction_FloodUnfog_Tip>
+  <CQFAction_PostGenerationExecute>Ação: executar após a geração do mapa</CQFAction_PostGenerationExecute>
+  <CQFAction_SetGameCondition>Ação: definir condição de jogo</CQFAction_SetGameCondition>
+  <IsPermanent>É permanente:</IsPermanent>
+  <Duration>Duração:</Duration>
+  <CQFGameConditionDef>Condição: {0}</CQFGameConditionDef>
+  <CQFAction_InfectTarget>Ação: infectar alvo</CQFAction_InfectTarget>
+  <CQFAction_InfectTarget_Tip>（Rustspark Crisis）infecta o alvo para se tornar biometal</CQFAction_InfectTarget_Tip>
+  <CQFAction_RecordStartCell>Ação: registrar quadrado inicial</CQFAction_RecordStartCell>
+  <CQFAction_RecordStartCell_Tip>Registra o quadrado inicial no banco de dados do mapa; o quadrado inicial é usado para criar um retângulo.</CQFAction_RecordStartCell_Tip>
+  <CQFAction_FinishRect>Ação: finalizar retângulo</CQFAction_FinishRect>
+  <CQFAction_FinishRect_Tip>Cria um retângulo usando o quadrado alvo e o quadrado inicial registrado no banco de dados do mapa. Executa ações em cada quadrado dentro do retângulo. A chave de alvo de cada quadrado é: [Position]</CQFAction_FinishRect_Tip>
+  <CQFAction_AddThingActionTrigger>Ação: adicionar gatilho de ação de objeto</CQFAction_AddThingActionTrigger>
+  <CQFAction_AddThingActionTrigger_Tip>Adiciona um gatilho de ação de objeto ao mapa. Quando o objeto encontra um evento específico, o gatilho correspondente é executado.</CQFAction_AddThingActionTrigger_Tip>
+  <TriggerMode>Modo de gatilho: {0}</TriggerMode>
+  <CQFAction_SkipToPlayerMap>Ação: teleportar para o mapa do jogador</CQFAction_SkipToPlayerMap>
+  <CQFAction_RecordToGroup>Ação: registrar no grupo</CQFAction_RecordToGroup>
+  <CQFAction_RecordToGroup_Tip>Adiciona o colono alvo aos dados de grupo no banco de dados de missões.\nOs dados de grupo podem conter vários colonos e, quando as ações forem executadas, serão aplicadas individualmente a cada colono.</CQFAction_RecordToGroup_Tip>
+  <CQFAction_LinkEntranceAndExit>Ação: vincular entrada e saída</CQFAction_LinkEntranceAndExit>
+  <EntranceKey>Chave de entrada:</EntranceKey>
+  <ExitKey>Chave de saída:</ExitKey>
+  <CQFAction_SetGameConditionWithActions>Ação: definir condição de jogo com ações</CQFAction_SetGameConditionWithActions>
+  <UseTick>Gatilho periódico:</UseTick>
+  <CQFAction_AddRandomDialogManager>Ação: adicionar diálogo aleatório</CQFAction_AddRandomDialogManager>
+  <CQFAction_SpawnCustomThing>Ação: gerar objeto personalizado</CQFAction_SpawnCustomThing>
+  <SpawnThing>Objeto:</SpawnThing>
+  <CQFAction_DoActionForGroup>Ação: executar ações do grupo</CQFAction_DoActionForGroup>
+  <CQFAction_DoActionForGroup_Tip>Obtém todos os colonos do grupo, usa cada colono como alvo e executa cada subação separadamente com a chave como Alvo.</CQFAction_DoActionForGroup_Tip>
+  <CQFAction_SetCustomHediff>Ação: definir condição de saúde personalizada</CQFAction_SetCustomHediff>
+  <HediffColor>Cor da condição de saúde:</HediffColor>
+  <CQFAction_UpgradeTrait>Ação: melhorar traço</CQFAction_UpgradeTrait>
+  <CQFAction_UpgradeTrait_Tip>Se o alvo não tiver o traço especificado, ele será concedido. Se o alvo já o tiver, o traço será melhorado.</CQFAction_UpgradeTrait_Tip>
+  <GiveTrait>Conceder traço:</GiveTrait>
+  <InitDegree>Grau inicial:</InitDegree>
+  <InitMessage>Mensagem inicial:</InitMessage>
+  <CQFAction_Ability>Ação: ganhar habilidade</CQFAction_Ability>
+  <CQFAbilityDef>Def de habilidade:</CQFAbilityDef>
+  <CQFAction_JoinHiveGroup>Ação HCF: entrar no grupo de colmeia</CQFAction_JoinHiveGroup>
+  <CQFAction_JoinHiveGroup_Tip>Usa a chave para obter a entidade correspondente e seu grupo de colmeia, permitindo que o alvo entre no grupo de colmeia obtido</CQFAction_JoinHiveGroup_Tip>
+  <HiveKey>Chave da colmeia:</HiveKey>
+  <CQFAction_SetHiveGroupMode>Ação HCF: definir modo do grupo de colmeia</CQFAction_SetHiveGroupMode>
+  <CQFAction_DestroyMainSite>Ação: destruir local principal</CQFAction_DestroyMainSite>
+  <CQFAction_DestroyMainSite_Tip>Destrói o local principal resolvido a partir da chave fornecida. A chave pode apontar para um alvo de mapa de local principal registrado ou ser a MainMapKey do local diretamente.</CQFAction_DestroyMainSite_Tip>
+  <MainSiteKey>Chave do local principal:</MainSiteKey>
+  <CQFAction_RecordMainSiteVisitCount>Ação: registrar contagem de visitas ao local principal</CQFAction_RecordMainSiteVisitCount>
+  <CQFAction_RecordMainSiteVisitCount_Tip>Obtém a contagem de visitas do local principal resolvido a partir da chave fornecida e a grava no banco de dados selecionado.</CQFAction_RecordMainSiteVisitCount_Tip>
+  <CQFAction_ClearMainPawnCache>Ação: limpar cache de colono principal</CQFAction_ClearMainPawnCache>
+  <CQFAction_ClearMainPawnCache_Tip>Remove o colono principal em cache com o nome de colono fornecido de um mapa principal ou de todos os mapas principais, para que ele possa ser regenerado ou restaurado novamente.</CQFAction_ClearMainPawnCache_Tip>
+  <pawnName>Nome do colono principal:</pawnName>
+  <mainMapDef>Def do mapa principal:</mainMapDef>
+  <clearAllMainMaps>Limpar todos os mapas principais:</clearAllMainMaps>
+  <CQFAction_CreateEventArea>Ação: criar área de evento</CQFAction_CreateEventArea>
+  <CQFAction_CreateEventArea_Tip>Cria uma área que aciona ações quando um colono correspondente entra nela. Quadrados podem ser adicionados com Adicionar quadrado à área de evento.</CQFAction_CreateEventArea_Tip>
+  <CQFAction_AddCellToEventArea>Ação: adicionar quadrado à área de evento</CQFAction_AddCellToEventArea>
+  <CQFAction_AddCellToEventArea_Tip>Adiciona o quadrado alvo à área de evento com a chave fornecida.</CQFAction_AddCellToEventArea_Tip>
+  <CQFAction_DeleteEventArea>Ação: excluir área de evento</CQFAction_DeleteEventArea>
+  <CQFAction_DeleteEventArea_Tip>Exclui a área de evento com a chave fornecida.</CQFAction_DeleteEventArea_Tip>
+  <EventAreaKey>Chave da área de evento:</EventAreaKey>
+  <EventAreaFaction>Facção necessária:</EventAreaFaction>
+  <EventAreaFactionTip>Filtra quais facções de colonos podem acionar a área de evento. Hostil/neutro/aliado aleatório corresponde a facções com essa relação, facção do mapa corresponde à facção do mapa atual, e um defName de facção específico também pode ser inserido.</EventAreaFactionTip>
+  <EventAreaOnlyHumanlike>Somente humanoide:</EventAreaOnlyHumanlike>
+  <EventAreaReplaceExisting>Substituir área existente:</EventAreaReplaceExisting>
+  <CQFActionCategory_FlowControl>Controle de fluxo</CQFActionCategory_FlowControl>
+  <CQFActionCategory_FlowControl_Tip>Ações que controlam a ordem de execução, ramificações, chance, repetições ou execução atrasada.</CQFActionCategory_FlowControl_Tip>
+  <CQFActionCategory_SignalState>Sinal e estado</CQFActionCategory_SignalState>
+  <CQFActionCategory_SignalState_Tip>Ações que enviam sinais, definem bools, adicionam etiquetas de missão ou criam condições de jogo.</CQFActionCategory_SignalState_Tip>
+  <CQFActionCategory_DataWrite>Gravação de dados</CQFActionCategory_DataWrite>
+  <CQFActionCategory_DataWrite_Tip>Ações que registram objetos, quadrados, grupos ou retângulos de mapa nos bancos de dados do CQF.</CQFActionCategory_DataWrite_Tip>
+  <CQFActionCategory_SpawnThing>Gerar objetos</CQFActionCategory_SpawnThing>
+  <CQFActionCategory_SpawnThing_Tip>Ações que geram dados de saque normais ou objetos personalizados do CQF. Ações de contêiner não estão incluídas aqui.</CQFActionCategory_SpawnThing_Tip>
+  <CQFActionCategory_MapAction>Ações de mapa</CQFActionCategory_MapAction>
+  <CQFActionCategory_MapAction_Tip>Ações que afetam mapas, submapas, entradas, saídas, névoa, poluição ou teletransporte entre mapas.</CQFActionCategory_MapAction_Tip>
+  <CQFActionCategory_ThingChange>Alterações em objetos</CQFActionCategory_ThingChange>
+  <CQFActionCategory_ThingChange_Tip>Ações que substituem, destroem, danificam, explodem, atingem ou adicionam gatilhos a objetos.</CQFActionCategory_ThingChange_Tip>
+  <CQFActionCategory_Pawn>Relacionadas a colonos</CQFActionCategory_Pawn>
+  <CQFActionCategory_Pawn_Tip>Ações que alteram colonos, incluindo condições de saúde, traços, habilidades, xenótipos, pensamentos, experiência, deveres, estados mentais ou relações.</CQFActionCategory_Pawn_Tip>
+  <CQFActionCategory_Faction>Relacionadas a facções</CQFActionCategory_Faction>
+  <CQFActionCategory_Faction_Tip>Ações que alteram facções, boa vontade ou IA de grupo controlada por facção.</CQFActionCategory_Faction_Tip>
+  <CQFActionCategory_VisualEffect>Efeitos visuais</CQFActionCategory_VisualEffect>
+  <CQFActionCategory_VisualEffect_Tip>Ações que criam efeitos visuais ou motes. Ações que causam dano não estão incluídas aqui.</CQFActionCategory_VisualEffect_Tip>
+  <CQFActionCategory_DialogEvent>Diálogo e evento</CQFActionCategory_DialogEvent>
+  <CQFActionCategory_DialogEvent_Tip>Ações que mostram mensagens, iniciam diálogos, gerenciam gerenciadores de diálogo, iniciam missões ou incidentes, ou encerram o jogo.</CQFActionCategory_DialogEvent_Tip>
+  <CQFActionCategory_QuestBook>Ações de livro de missões</CQFActionCategory_QuestBook>
+  <CQFActionCategory_QuestBook_Tip>Ações que iniciam ou abrem livros de missões, controlam etapas do livro de missões ou entregam recompensas a uma colônia.</CQFActionCategory_QuestBook_Tip>
+  <CQFActionCategory_MainMap>Mapa principal</CQFActionCategory_MainMap>
+  <CQFActionCategory_MainMap_Tip>Ações para o estado do mapa principal e dos locais principais, como destruir locais, registrar visitas ou limpar colonos principais em cache.</CQFActionCategory_MainMap_Tip>
+  <CQFActionCategory_EventArea>Área de evento</CQFActionCategory_EventArea>
+  <CQFActionCategory_EventArea_Tip>Ações que criam, modificam ou excluem áreas de evento.</CQFActionCategory_EventArea_Tip>
+  <CQFActionCategory_Misc>Diversos</CQFActionCategory_Misc>
+  <CQFActionCategory_Misc_Tip>Ações que não se encaixam nas outras categorias, incluindo ações utilitárias de contêiner e inventário.</CQFActionCategory_Misc_Tip>
+</LanguageData>

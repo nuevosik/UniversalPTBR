@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CQF_Leave>Sair</CQF_Leave>
+  <CQF_Search>Revistar</CQF_Search>
+  <CQF_SearchFail>Não há nada de valor para revistar.</CQF_SearchFail>
+  <CQF_SearchSucceed>Encontrado {0}.</CQF_SearchSucceed>
+  <CQF_SearchInsect>Alguns insetos rastejaram para fora dos restos mortais!</CQF_SearchInsect>
+  <CQF_Mine>Minerar</CQF_Mine>
+  <CQF_MineSucceed>Extraído {0}.</CQF_MineSucceed>
+  <CQF_GorgeousTreasures>Tesouros deslumbrantes emergem dele! Entre eles, estão {0}</CQF_GorgeousTreasures>
+  <CQF_ArtifactsTreasures>O baú de tesouros está impregnado de uma atmosfera ancestral; alguns artefatos ({0}) despertaram</CQF_ArtifactsTreasures>
+  <CQF_Open>Abrir</CQF_Open>
+  <CQF_OpenSarcophagus_Treasures>O sarcófago está repleto de itens funerários ricos e magníficos! Os itens funerários incluem {0}</CQF_OpenSarcophagus_Treasures>
+  <CQF_OpenSarcophagus_Poor>Há apenas um osso branco e alguns itens funerários esfarrapados ({0}) no sarcófago; parece que este osso branco não era rico</CQF_OpenSarcophagus_Poor>
+  <CQF_OpenSarcophagus_Insect>O sarcófago está........MEEERDAAAAAA! INSETOSSSSSSSSSSS!</CQF_OpenSarcophagus_Insect>
+  <CQF_OpenSarcophagus_Mechanoid>Luzes vermelhas dispararam do sarcófago, parecendo indicar que temos um grande problema</CQF_OpenSarcophagus_Mechanoid>
+  <CQF_OpenSarcophagus_PlasmaSword>Uma espada de plasma com brilho vermelho era empunhada por um esqueleto no sarcófago, como se o falecido tivesse sido um bravo guerreiro em vida</CQF_OpenSarcophagus_PlasmaSword>
+  <CQF_Look>Observar</CQF_Look>
+  <CQF_IsDeveloping>A área frontal está em desenvolvimento</CQF_IsDeveloping>
+  <CQF_Dialog_Talk>Conversar com {INTERVIEWER_nameDef}</CQF_Dialog_Talk>
+</LanguageData>

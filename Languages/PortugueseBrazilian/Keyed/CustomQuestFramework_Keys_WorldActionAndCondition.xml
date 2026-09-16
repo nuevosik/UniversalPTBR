@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorldAction_Chance>Ação de mundo: chance</WorldAction_Chance>
+  <WorldAction_GenerateMapAndEnter>Ação de mundo: gerar mapa e entrar</WorldAction_GenerateMapAndEnter>
+  <WorldAction_GenerateSiteAndEnter>Ação de mundo: gerar local e entrar</WorldAction_GenerateSiteAndEnter>
+  <WorldAction_GenerateCustomMapAndEnter>Ação de mundo: gerar mapa personalizado e entrar</WorldAction_GenerateCustomMapAndEnter>
+  <WorldAction_GenerateQuest>Ação de mundo: gerar missão</WorldAction_GenerateQuest>
+  <WorldCondition_WorldObject>Condição: objeto do mundo</WorldCondition_WorldObject>
+  <WorldCondition_And>Condição: e</WorldCondition_And>
+  <WorldCondition_And_Tip>Todas as subcondições de mundo devem ser verdadeiras.</WorldCondition_And_Tip>
+  <WorldCondition_Or>Condição: ou</WorldCondition_Or>
+  <WorldCondition_Or_Tip>Qualquer subcondição de mundo pode ser verdadeira.</WorldCondition_Or_Tip>
+  <WorldCondition_Reversal>Condição: reversão</WorldCondition_Reversal>
+  <WorldCondition_Reversal_Tip>Retorna o resultado oposto da condição de mundo selecionada.</WorldCondition_Reversal_Tip>
+  <WorldCondition_Landmark>Condição: marco</WorldCondition_Landmark>
+  <WorldCondition_Biome>Condição: bioma</WorldCondition_Biome>
+  <WorldCondition_TileMutator>Condição: mutador de bloco</WorldCondition_TileMutator>
+  <WorldCondition_TotalSkill>Condição: habilidade total da caravana</WorldCondition_TotalSkill>
+  <WorldObjectDef>Objeto do mundo: {0}</WorldObjectDef>
+  <WorldConditionFaction>Facção do mapa: {0}</WorldConditionFaction>
+  <LandmarkDef>Marco: {0}</LandmarkDef>
+  <BiomeDef>Bioma: {0}</BiomeDef>
+  <TileMutatorDef>Mutador de bloco: {0}</TileMutatorDef>
+  <SitePartDef>Parte do local: {0}</SitePartDef>
+  <SkillDef>Habilidade: {0}</SkillDef>
+  <NonHostile>Não hostil:</NonHostile>
+  <NonPlayer>Não jogador:</NonPlayer>
+  <SetCaravanTileAsTarget>Definir bloco da caravana como alvo:</SetCaravanTileAsTarget>
+  <SentDefeatLetter>Enviar carta de derrota:</SentDefeatLetter>
+  <ReplaceMapGeneration>Substituir geração do mapa:</ReplaceMapGeneration>
+</LanguageData>
