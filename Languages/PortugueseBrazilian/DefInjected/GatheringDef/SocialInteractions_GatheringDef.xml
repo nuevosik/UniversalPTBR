@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSIE_MealTogether.label>refeição a dois</VSIE_MealTogether.label>
+  <VSIE_MealTogether.letterText>{ORGANIZER_labelShort} está tendo uma refeição romântica com {COMPANION_labelShort}.</VSIE_MealTogether.letterText>
+  <VSIE_MovieNight.label>noite de cinema</VSIE_MovieNight.label>
+  <VSIE_MovieNight.letterText>{ORGANIZER_labelShort} está tendo uma noite de cinema com {COMPANION_labelShort}.</VSIE_MovieNight.letterText>
+  <VSIE_BuildingSnowmen.label>construindo bonecos de neve</VSIE_BuildingSnowmen.label>
+  <VSIE_BuildingSnowmen.letterText>{ORGANIZER_labelShort} está construindo bonecos de neve com {COMPANION_labelShort}.</VSIE_BuildingSnowmen.letterText>
+  <VSIE_ViewingArtTogether.label>vendo arte juntos</VSIE_ViewingArtTogether.label>
+  <VSIE_ViewingArtTogether.letterText>{ORGANIZER_labelShort} está vendo arte com {COMPANION_labelShort}.</VSIE_ViewingArtTogether.letterText>
+  <VSIE_Skygazing.label>observando o céu</VSIE_Skygazing.label>
+  <VSIE_Skygazing.letterText>{ORGANIZER_labelShort} está observando o céu com {COMPANION_labelShort}.</VSIE_Skygazing.letterText>
+  <VSIE_GoingForAWalk.label>dando um passeio</VSIE_GoingForAWalk.label>
+  <VSIE_GoingForAWalk.letterText>{ORGANIZER_labelShort} está dando um passeio com {COMPANION_labelShort}.</VSIE_GoingForAWalk.letterText>
+  <VSIE_GrabbingBeer.label>tomando cerveja</VSIE_GrabbingBeer.label>
+  <VSIE_GrabbingBeer.letterText>{ORGANIZER_labelShort} está tomando uma cerveja com {COMPANION_labelShort}.</VSIE_GrabbingBeer.letterText>
+  <VSIE_BingeParty.label>farra</VSIE_BingeParty.label>
+  <VSIE_BingeParty.letterText>{ORGANIZER_labelShort} sugere fazer uma pequena farra. Esteja avisado: as farras podem durar algumas horas. Os colonos vão exagerar em comida e drogas até que acabe. Basta alistar seus colonos para impedi-los de participar da farra.</VSIE_BingeParty.letterText>
+  <VSIE_OutdoorParty.label>festa ao ar livre</VSIE_OutdoorParty.label>
+  <VSIE_OutdoorParty.letterText>{ORGANIZER_labelShort} sugere fazer uma festa ao ar livre. Os colonos irão para fora, farão uma fogueira e depois se sentarão ao redor dela para conversar.</VSIE_OutdoorParty.letterText>
+  <VSIE_Funeral.label>funeral</VSIE_Funeral.label>
+  <VSIE_Funeral.letterText>Os colonos se reúnem ao redor do túmulo de {DEADPAWN_labelShort} para honrar {DEADPAWN_possessive} memória.</VSIE_Funeral.letterText>
+  <VSIE_BirthdayParty.label>aniversário</VSIE_BirthdayParty.label>
+  <VSIE_BirthdayParty.letterText>{ORGANIZER_labelShort} está dando uma festa de aniversário! Todo mundo que for ganhará recreação e energia social, e um impulso positivo duradouro no humor.</VSIE_BirthdayParty.letterText>
+</LanguageData>

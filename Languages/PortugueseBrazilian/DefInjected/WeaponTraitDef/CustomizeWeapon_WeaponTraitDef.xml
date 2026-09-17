@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CWF_Trait_HeavyRounds.label>munição pesada</CWF_Trait_HeavyRounds.label>
+  <CWF_Trait_HeavyRounds.description>Munição especializada com balas mais pesadas. Seu impacto mais forte aumenta bastante o poder de parada e melhora ligeiramente o dano.</CWF_Trait_HeavyRounds.description>
+  <CWF_Trait_HollowPointRounds.label>munição de ponta oca</CWF_Trait_HollowPointRounds.label>
+  <CWF_Trait_HollowPointRounds.description>Munição de ponta oca projetada para se expandir no impacto. Causa ferimentos mais graves e aumenta bastante o dano.</CWF_Trait_HollowPointRounds.description>
+  <CWF_Trait_ToxRounds.label>munição tóxica</CWF_Trait_ToxRounds.label>
+  <CWF_Trait_ToxRounds.description>Munição revestida com uma toxina potente. Fere o alvo e causa acúmulo tóxico.</CWF_Trait_ToxRounds.description>
+  <CWF_Trait_PiercingRounds.label>munição perfurante</CWF_Trait_PiercingRounds.label>
+  <CWF_Trait_PiercingRounds.description>Munição com um núcleo denso e endurecido feito para atravessar armadura. Melhora a penetração de armadura.</CWF_Trait_PiercingRounds.description>
+  <CWF_Trait_IncendiaryRounds.label>munição incendiária</CWF_Trait_IncendiaryRounds.label>
+  <CWF_Trait_IncendiaryRounds.description>Munição carregada com um composto incendiário. Irrompe em chamas no impacto, causando queimaduras e iniciando incêndios.</CWF_Trait_IncendiaryRounds.description>
+  <CWF_Trait_EMPRounds.label>munição PEM</CWF_Trait_EMPRounds.label>
+  <CWF_Trait_EMPRounds.description>Munição equipada com microcapacitores. Libera um pulso eletromagnético no impacto que interfere em eletrônicos e atordoa mecanoides.</CWF_Trait_EMPRounds.description>
+  <CWF_Trait_HighPowerRounds.label>munição de alta potência</CWF_Trait_HighPowerRounds.label>
+  <CWF_Trait_HighPowerRounds.description>Esta munição usa uma carga propelente potente. Causa mais dano, acerta com mais força e penetra melhor a armadura, mas o recuo mais forte prejudica a precisão.</CWF_Trait_HighPowerRounds.description>
+  <CWF_Trait_PulseChargeRounds.label>munição de carga de pulso</CWF_Trait_PulseChargeRounds.label>
+  <CWF_Trait_PulseChargeRounds.description>Munição avançada com uma célula de energia instável. Causa dano alto e forte penetração de armadura.</CWF_Trait_PulseChargeRounds.description>
+  <CWF_Trait_IncendiaryPellets.label>balins incendiários</CWF_Trait_IncendiaryPellets.label>
+  <CWF_Trait_IncendiaryPellets.description>Balins preenchidos com material incendiário. Espalham fragmentos em chamas no impacto e provavelmente incendeiam o alvo.</CWF_Trait_IncendiaryPellets.description>
+  <CWF_Trait_ToxPellets.label>balins tóxicos</CWF_Trait_ToxPellets.label>
+  <CWF_Trait_ToxPellets.description>Balins preenchidos com toxina. Explodem em fragmentos tóxicos no impacto e acumulam veneno rapidamente.</CWF_Trait_ToxPellets.description>
+  <CWF_Trait_BirdshotPellets.label>balins para pássaros</CWF_Trait_BirdshotPellets.label>
+  <CWF_Trait_BirdshotPellets.description>Balins pequenos e leves que se espalham em cone. São muito eficazes de perto, mas perdem força rapidamente e têm dificuldade contra armadura.</CWF_Trait_BirdshotPellets.description>
+  <CWF_Trait_ExtendedBarrel.label>cano estendido</CWF_Trait_ExtendedBarrel.label>
+  <CWF_Trait_ExtendedBarrel.description>Um cano estendido feito com cuidado. Aumenta a velocidade de saída, fazendo a munição voar mais longe e melhorando o alcance efetivo.</CWF_Trait_ExtendedBarrel.description>
+  <CWF_Trait_ShortenedBarrel.label>cano encurtado</CWF_Trait_ShortenedBarrel.label>
+  <CWF_Trait_ShortenedBarrel.description>Um cano encurtado. Reduz a velocidade de saída e o alcance, mas o peso menor e o equilíbrio melhor tornam a arma mais rápida de mirar.</CWF_Trait_ShortenedBarrel.description>
+  <CWF_Trait_TacticalBarrel.label>cano tático</CWF_Trait_TacticalBarrel.label>
+  <CWF_Trait_TacticalBarrel.description>Um cano redesenhado para ergonomia e manuseio. Seu perfil mais leve reduz o peso e torna a arma mais rápida de estabilizar.</CWF_Trait_TacticalBarrel.description>
+  <CWF_Trait_CustomGrip.label>empunhadura personalizada</CWF_Trait_CustomGrip.label>
+  <CWF_Trait_CustomGrip.description>Uma empunhadura personalizada ergonômica. Oferece melhor controle e melhora a precisão de curta distância.</CWF_Trait_CustomGrip.description>
+  <CWF_Trait_QuickMagazine.label>carregador rápido</CWF_Trait_QuickMagazine.label>
+  <CWF_Trait_QuickMagazine.description>Este carregador usa um mecanismo de liberação aprimorado. As recargas são mais rápidas, então o tempo sem atirar é menor.</CWF_Trait_QuickMagazine.description>
+  <CWF_Trait_ExtendedMagazine.label>carregador estendido</CWF_Trait_ExtendedMagazine.label>
+  <CWF_Trait_ExtendedMagazine.description>Este carregador comporta mais munição que a versão padrão, permitindo que a arma dispare mais tiros por rajada.</CWF_Trait_ExtendedMagazine.description>
+  <CWF_Trait_BeltMagazine.label>carregador de cinta</CWF_Trait_BeltMagazine.label>
+  <CWF_Trait_BeltMagazine.description>Esta alimentação por cinta fornece um fluxo constante de munição, permitindo rajadas mais longas e mais supressivas.</CWF_Trait_BeltMagazine.description>
+  <CWF_Trait_DrumMagazine.label>carregador de tambor</CWF_Trait_DrumMagazine.label>
+  <CWF_Trait_DrumMagazine.description>Este tambor de alta capacidade comporta muito mais munição, permitindo rajadas longas e pesadas.</CWF_Trait_DrumMagazine.description>
+  <CWF_Trait_Suppressor.label>supressor</CWF_Trait_Suppressor.label>
+  <CWF_Trait_Suppressor.description>Um supressor montado na boca do cano que reduz o som e o clarão produzidos ao disparar, tornando animais caçados menos propensos a revidar.</CWF_Trait_Suppressor.description>
+  <CWF_Trait_RapidReceiver.label>mecanismo rápido</CWF_Trait_RapidReceiver.label>
+  <CWF_Trait_RapidReceiver.description>Este mecanismo foi finamente ajustado. Peças móveis mais leves permitem que a arma cicle mais rápido e dispare rajadas com mais rapidez.</CWF_Trait_RapidReceiver.description>
+  <CWF_Trait_Holoscope.label>mira holográfica</CWF_Trait_Holoscope.label>
+  <CWF_Trait_Holoscope.description>Uma mira holográfica avançada. Seu retículo nítido acelera a aquisição de alvos e melhora a precisão de curta a média distância.</CWF_Trait_Holoscope.description>
+  <CWF_Trait_RedDotScope.label>mira de ponto vermelho</CWF_Trait_RedDotScope.label>
+  <CWF_Trait_RedDotScope.description>Uma mira de ponto vermelho com um ponto de mira brilhante. Simplifica a mira e melhora a precisão em todos os alcances efetivos.</CWF_Trait_RedDotScope.description>
+  <CWF_Trait_2xScope.label>mira 2x</CWF_Trait_2xScope.label>
+  <CWF_Trait_2xScope.description>Uma mira 2x que torna os alvos maiores e mais nítidos. Ajuda em tiros precisos a média distância.</CWF_Trait_2xScope.description>
+  <CWF_Trait_4xScope.label>mira 4x</CWF_Trait_4xScope.label>
+  <CWF_Trait_4xScope.description>Uma mira 4x feita para média a longa distância. Ajuda a identificar alvos distantes e estende ligeiramente o alcance efetivo.</CWF_Trait_4xScope.description>
+  <CWF_Trait_8xScope.label>mira 8x</CWF_Trait_8xScope.label>
+  <CWF_Trait_8xScope.description>Uma mira 8x para precisão de longa distância. Sua alta ampliação ajuda o atirador a acertar alvos perto do limite de alcance da arma.</CWF_Trait_8xScope.description>
+  <CWF_Trait_ShortenedStock.label>coronha encurtada</CWF_Trait_ShortenedStock.label>
+  <CWF_Trait_ShortenedStock.description>Uma coronha encurtada que reduz o peso. A arma fica mais leve, mais compacta e mais fácil de manusear em espaços apertados.</CWF_Trait_ShortenedStock.description>
+  <CWF_Trait_TelescopicStock.label>coronha telescópica</CWF_Trait_TelescopicStock.label>
+  <CWF_Trait_TelescopicStock.description>Uma coronha ajustável que melhora o encaixe e a ergonomia. Uma postura mais firme proporciona melhor precisão.</CWF_Trait_TelescopicStock.description>
+  <CWF_Trait_FoldStock.label>coronha dobrável</CWF_Trait_FoldStock.label>
+  <CWF_Trait_FoldStock.description>Uma coronha dobrável com travamento firme. Oferece um apoio de ombro estável para disparos precisos e também reduz um pouco o peso.</CWF_Trait_FoldStock.description>
+  <CWF_Trait_StabilizerBrace.label>apoio estabilizador</CWF_Trait_StabilizerBrace.label>
+  <CWF_Trait_StabilizerBrace.description>Um apoio que sustenta o braço do usuário. Melhora bastante a estabilidade e a precisão de curta distância.</CWF_Trait_StabilizerBrace.description>
+  <CWF_Trait_RapidTrigger.label>gatilho rápido</CWF_Trait_RapidTrigger.label>
+  <CWF_Trait_RapidTrigger.description>Este gatilho tem um curso mais curto e um retorno mais rápido. Ele permite que o mecanismo de disparo responda mais rápido, aumentando a cadência das rajadas.</CWF_Trait_RapidTrigger.description>
+  <CWF_Trait_VerticalGrip.label>empunhadura vertical</CWF_Trait_VerticalGrip.label>
+  <CWF_Trait_VerticalGrip.description>Uma empunhadura frontal vertical que dá ao atirador uma pegada mais firme. Melhora o controle e a precisão de curta distância.</CWF_Trait_VerticalGrip.description>
+  <CWF_Trait_TriangularGrip.label>empunhadura triangular</CWF_Trait_TriangularGrip.label>
+  <CWF_Trait_TriangularGrip.description>Uma empunhadura frontal ergonômica que melhora o manuseio. Ajuda o atirador a preparar a arma mais rápido e estabiliza tiros à queima-roupa.</CWF_Trait_TriangularGrip.description>
+  <CWF_Trait_LaserSight.label>mira a laser</CWF_Trait_LaserSight.label>
+  <CWF_Trait_LaserSight.description>Uma mira a laser que projeta um ponto visível no alvo. Acelera a mira e melhora a precisão de curta a média distância.</CWF_Trait_LaserSight.description>
+  <CWF_Trait_GrenadeLauncher.label>lançador de granadas</CWF_Trait_GrenadeLauncher.label>
+  <CWF_Trait_GrenadeLauncher.description>Este lançador dispara uma única granada altamente explosiva para causar forte dano em área. Precisa ser recarregado após cada tiro.</CWF_Trait_GrenadeLauncher.description>
+  <CWF_Trait_EMPLauncher.label>canhão PEM</CWF_Trait_EMPLauncher.label>
+  <CWF_Trait_EMPLauncher.description>Este lançador dispara projéteis PEM que atordoam mecanoides e inutilizam eletrônicos. Pode disparar duas vezes antes de recarregar.</CWF_Trait_EMPLauncher.description>
+  <CWF_Trait_SmokeLauncher.label>lançador de fumaça</CWF_Trait_SmokeLauncher.label>
+  <CWF_Trait_SmokeLauncher.description>Este lançador dispara projéteis de fumaça que criam uma nuvem densa no impacto. Pode disparar duas vezes antes de recarregar.</CWF_Trait_SmokeLauncher.description>
+  <CWF_Trait_IncendiaryLauncher.label>lançador incendiário</CWF_Trait_IncendiaryLauncher.label>
+  <CWF_Trait_IncendiaryLauncher.description>Este lançador dispara um único projétil incendiário que espalha fogo no impacto. Precisa ser recarregado após cada tiro.</CWF_Trait_IncendiaryLauncher.description>
+</LanguageData>

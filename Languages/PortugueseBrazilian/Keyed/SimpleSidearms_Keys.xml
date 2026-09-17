@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActiveTab_desc>Abas de configuração do Simple Sidearms.</ActiveTab_desc>
+  <ActiveTab_title>Abas de configuração</ActiveTab_title>
+  <ToolAutoSwitch_desc>Os colonos devem trocar para ferramentas/armas com bônus de estatísticas adequadas ao trabalho atual?</ToolAutoSwitch_desc>
+  <ToolAutoSwitch_title>Troca automática de ferramenta</ToolAutoSwitch_title>
+  <OptimalMelee_desc>Os colonos devem trocar automaticamente para uma arma corpo a corpo com DPS maior?</OptimalMelee_desc>
+  <OptimalMelee_title>Usar a melhor arma corpo a corpo</OptimalMelee_title>
+  <CQCAutoSwitch_desc>Os colonos devem trocar para suas armas secundárias corpo a corpo quando forem atacados em combate corpo a corpo?</CQCAutoSwitch_desc>
+  <CQCAutoSwitch_title>Troca automática em combate corpo a corpo</CQCAutoSwitch_title>
+  <CQCFistSwitch_desc>Os colonos devem trocar mesmo quando não estiverem usando uma arma?</CQCFistSwitch_desc>
+  <CQCFistSwitch_title>Troca automática em combate desarmado</CQCFistSwitch_title>
+  <CQCTargetOnly_desc>Os colonos devem reagir apenas a ataques do alvo atual?</CQCTargetOnly_desc>
+  <CQCTargetOnly_title>Trocar apenas em ataques do alvo</CQCTargetOnly_title>
+  <DropMode_desc>Em quais situações os colonos podem derrubar a arma em vez de movê-la para o inventário?</DropMode_desc>
+  <DropMode_title>Critérios de derrubar a arma</DropMode_title>
+  <ReEquipBest_desc>O reequipamento automático procurará a melhor arma disponível (em vez da mais próxima)</ReEquipBest_desc>
+  <ReEquipBest_title>Reequipar a melhor disponível</ReEquipBest_title>
+  <LimitCarryInfo_desc>As armas secundárias nunca podem exceder a capacidade de transporte do colono.</LimitCarryInfo_desc>
+  <LimitCarryInfo_title>Sempre limitado pela capacidade de transporte do colono</LimitCarryInfo_title>
+  <CEOverrideInfo_desc>Estas opções são controladas pelo Combat Extended quando ele está ativo.</CEOverrideInfo_desc>
+  <CEOverrideInfo_title>Desativado em favor do sistema do CE.</CEOverrideInfo_title>
+  <LimitModeAmountMelee_desc>Quais restrições se aplicam a todas as armas secundárias corpo a corpo.</LimitModeAmountMelee_desc>
+  <LimitModeAmountMelee_title>Modo de limite total de armas secundárias corpo a corpo</LimitModeAmountMelee_title>
+  <LimitModeAmountRanged_desc>Quais restrições se aplicam a todas as armas secundárias à distância.</LimitModeAmountRanged_desc>
+  <LimitModeAmountRanged_title>Modo de limite total de armas secundárias à distância</LimitModeAmountRanged_title>
+  <LimitModeAmount_desc>Quais restrições se aplicam a todas as armas secundárias.</LimitModeAmount_desc>
+  <LimitModeAmount_title>Modo de limite total de armas secundárias</LimitModeAmount_title>
+  <LimitModeSingleMelee_desc>Quais restrições se aplicam a cada arma secundária corpo a corpo.</LimitModeSingleMelee_desc>
+  <LimitModeSingleMelee_title>Modo de limite individual de armas secundárias corpo a corpo</LimitModeSingleMelee_title>
+  <LimitModeSingleRanged_desc>Quais restrições se aplicam a cada arma secundária à distância.</LimitModeSingleRanged_desc>
+  <LimitModeSingleRanged_title>Modo de limite individual de armas secundárias à distância</LimitModeSingleRanged_title>
+  <LimitModeSingle_desc>Quais restrições se aplicam a cada arma secundária.</LimitModeSingle_desc>
+  <LimitModeSingle_title>Modo de limite individual de armas secundárias</LimitModeSingle_title>
+  <LimitModeAmountTotal_title>Modo de limite total de armas secundárias</LimitModeAmountTotal_title>
+  <LimitModeAmountTotal_desc>Quais restrições se aplicam a todas as armas secundárias.</LimitModeAmountTotal_desc>
+  <MaximumMassAmountAbsolute_desc>Massa total máxima de armas secundárias que um colono pode carregar.</MaximumMassAmountAbsolute_desc>
+  <MaximumMassAmountAbsolute_title>Massa máx. de armas secundárias</MaximumMassAmountAbsolute_title>
+  <MaximumMassAmountRelative_desc>Massa total máxima de armas secundárias que um colono pode carregar em relação à sua capacidade de transporte.</MaximumMassAmountRelative_desc>
+  <MaximumMassAmountRelative_title>Massa máx. de armas secundárias</MaximumMassAmountRelative_title>
+  <MaximumMassSingleAbsolute_desc>Massa máxima de cada arma secundária que um colono pode carregar.</MaximumMassSingleAbsolute_desc>
+  <MaximumMassSingleAbsolute_title>Massa máx. por arma secundária</MaximumMassSingleAbsolute_title>
+  <MaximumMassSingleRelative_desc>Massa máxima de cada arma secundária que um colono pode carregar em relação à sua capacidade de transporte.</MaximumMassSingleRelative_desc>
+  <MaximumMassSingleRelative_title>Massa máx. por arma secundária</MaximumMassSingleRelative_title>
+  <MaximumSlots_desc>Quantas armas secundárias um colono pode carregar.</MaximumSlots_desc>
+  <MaximumSlots_title>Espaços</MaximumSlots_title>
+  <RangedCombatAutoSwitchMaxWarmup_desc>Qual é o limite a partir do qual um colono se recusa a interromper o ataque para trocar para uma arma secundária?</RangedCombatAutoSwitchMaxWarmup_desc>
+  <RangedCombatAutoSwitchMaxWarmup_title>Porcentagem máxima de mira</RangedCombatAutoSwitchMaxWarmup_title>
+  <RangedCombatAutoSwitch_desc>Os colonos devem trocar para armas secundárias à distância adequadas ao alcance ao atacar à distância?</RangedCombatAutoSwitch_desc>
+  <RangedCombatAutoSwitch_title>Usar a melhor arma à distância</RangedCombatAutoSwitch_title>
+  <SeparateModes_desc>As armas corpo a corpo e à distância devem ter restrições compartilhadas ou separadas?</SeparateModes_desc>
+  <SeparateModes_title>Separar corpo a corpo/à distância</SeparateModes_title>
+  <SidearmSelection_desc>Critérios usados na seleção de armas secundárias.</SidearmSelection_desc>
+  <SidearmSelection_title>Seleção de armas secundárias</SidearmSelection_title>
+  <SingleshotAutoSwitch_desc>Os colonos devem trocar para armas secundárias após gastar armas de uso único?</SingleshotAutoSwitch_desc>
+  <SingleshotAutoSwitch_title>Troca automática após uso único</SingleshotAutoSwitch_title>
+  <SpeedSelectionBiasMelee_desc>Tendência dos colonos a escolher armas com velocidade de ataque maior.</SpeedSelectionBiasMelee_desc>
+  <SpeedSelectionBiasMelee_title>Tendência de velocidade (corpo a corpo)</SpeedSelectionBiasMelee_title>
+  <SpeedSelectionBiasRanged_desc>Tendência dos colonos a escolher armas com tempo de mira menor.</SpeedSelectionBiasRanged_desc>
+  <SpeedSelectionBiasRanged_title>Tendência de velocidade (à distância)</SpeedSelectionBiasRanged_title>
+  <WeaponMatch_desc>Estas são as armas que atendem aos critérios definidos.</WeaponMatch_desc>
+  <WeaponMatch_title>Armas compatíveis</WeaponMatch_title>
+  <SidearmSpawnChance_desc>A chance de qualquer colono que surja com uma arma também ter uma arma secundária.</SidearmSpawnChance_desc>
+  <SidearmSpawnChance_title>Chance de arma secundária ao surgir</SidearmSpawnChance_title>
+  <SidearmSpawnChanceDropoff_desc>O quanto a chance de surgir com uma arma secundária é reduzida por arma secundária adicional.</SidearmSpawnChanceDropoff_desc>
+  <SidearmSpawnChanceDropoff_title>Redução adicional da chance de surgir</SidearmSpawnChanceDropoff_title>
+  <SidearmBudgetMultiplier_desc>O valor em dinheiro que uma arma secundária pode valer, com base na arma primária padrão.</SidearmBudgetMultiplier_desc>
+  <SidearmBudgetMultiplier_title>Multiplicador de orçamento da arma secundária</SidearmBudgetMultiplier_title>
+  <SidearmBudgetDropoff_desc>O quanto o orçamento é reduzido por arma secundária adicional.</SidearmBudgetDropoff_desc>
+  <SidearmBudgetDropoff_title>Redução adicional do orçamento de armas secundárias</SidearmBudgetDropoff_title>
+  <ColonistDefaultWeaponMode_desc>O modo padrão de preferência de arma para colonos controlados pelo jogador.</ColonistDefaultWeaponMode_desc>
+  <ColonistDefaultWeaponMode_title>Modo de arma padrão dos colonos</ColonistDefaultWeaponMode_title>
+  <NPCDefaultWeaponMode_desc>O modo padrão de preferência de arma para colonos NPC.</NPCDefaultWeaponMode_desc>
+  <NPCDefaultWeaponMode_title>Modo de arma padrão dos NPCs</NPCDefaultWeaponMode_title>
+  <PrimaryWeaponMode_option_Ranged>À distância</PrimaryWeaponMode_option_Ranged>
+  <PrimaryWeaponMode_option_Melee>Corpo a corpo</PrimaryWeaponMode_option_Melee>
+  <PrimaryWeaponMode_option_BySkill>Por habilidade</PrimaryWeaponMode_option_BySkill>
+  <PrimaryWeaponMode_option_ByGenerated>Pela arma primária</PrimaryWeaponMode_option_ByGenerated>
+  <LimitModeSingle_option_None>Sem limite</LimitModeSingle_option_None>
+  <LimitModeSingle_option_RelativeWeight>Massa\nrelativa</LimitModeSingle_option_RelativeWeight>
+  <LimitModeSingle_option_AbsoluteWeight>Massa\nabsoluta</LimitModeSingle_option_AbsoluteWeight>
+  <LimitModeSingle_option_Selection>Armas\nespecíficas</LimitModeSingle_option_Selection>
+  <LimitModeAmount_option_MaximumCarryWeightOnly>Sem limite</LimitModeAmount_option_MaximumCarryWeightOnly>
+  <LimitModeAmount_option_RelativeWeight>Massa\nrelativa</LimitModeAmount_option_RelativeWeight>
+  <LimitModeAmount_option_AbsoluteWeight>Massa\nabsoluta</LimitModeAmount_option_AbsoluteWeight>
+  <LimitModeAmount_option_Slots>Espaços</LimitModeAmount_option_Slots>
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+  <ActiveTab_option_Presets>Predefinições</ActiveTab_option_Presets>
+  <ActiveTab_option_Automation>Gatilhos</ActiveTab_option_Automation>
+  <ActiveTab_option_Allowances>Limites</ActiveTab_option_Allowances>
+  <ActiveTab_option_Spawning>Geração</ActiveTab_option_Spawning>
+  <ActiveTab_option_Misc>Diversos</ActiveTab_option_Misc>
+  <DropMode_option_Never>Nunca</DropMode_option_Never>
+  <DropMode_option_InDistress>Em perigo</DropMode_option_InDistress>
+  <DropMode_option_InCombat>Em combate</DropMode_option_InCombat>
+  <DropMode_option_Always>Sempre</DropMode_option_Always>
+  <PresetExport_title>Exportar configuração</PresetExport_title>
+  <PresetExport_desc>Copia a configuração ativa para a área de transferência.</PresetExport_desc>
+  <PresetExport_label>Copiar configuração ativa para a área de transferência</PresetExport_label>
+  <PresetCustom_title>Personalizado</PresetCustom_title>
+  <PresetCustom_desc>Configurações personalizadas. Selecionado automaticamente ao fazer uma alteração.</PresetCustom_desc>
+  <PresetCustom_label>Personalizado</PresetCustom_label>
+  <Preset0_title>Desativado</Preset0_title>
+  <Preset0_desc>Todas as opções desativadas. Boa base para configurações que usam apenas uma pequena parte dos recursos do mod.</Preset0_desc>
+  <Preset0_label>Desativado</Preset0_label>
+  <Preset1half_title>Leve</Preset1half_title>
+  <Preset1half_desc>Permite uma única arma leve como arma secundária.</Preset1half_desc>
+  <Preset1half_label>Leve</Preset1half_label>
+  <Preset1_title>Somente equipamento</Preset1_title>
+  <Preset1_desc>Permite equipar armas secundárias, mas nada além disso. Essencialmente uma extensão conveniente do inventário.</Preset1_desc>
+  <Preset1_label>Somente equipamento</Preset1_label>
+  <Preset2_title>Básico</Preset2_title>
+  <Preset2_desc>Uma configuração simples. Os colonos podem usar algumas armas leves e tentarão usá-las nas situações adequadas.</Preset2_desc>
+  <Preset2_label>Básico</Preset2_label>
+  <Preset3_title>Avançado</Preset3_title>
+  <Preset3_desc>Os colonos ficam mais criativos na escolha de armas, mas ainda dentro do que se esperaria de pessoas comuns tentando sobreviver em um mundo de borda perigoso.</Preset3_desc>
+  <Preset3_label>Avançado</Preset3_label>
+  <Preset4_title>Excessivo</Preset4_title>
+  <Preset4_desc>Traga tudo! Metralhadora giratória? Traga duas! Lanças? Tenho uma coleção inteira na mochila!</Preset4_desc>
+  <Preset4_label>Excessivo</Preset4_label>
+  <Preset5_title>Modo lutador</Preset5_title>
+  <Preset5_desc>Armas secundárias corpo a corpo para todos.</Preset5_desc>
+  <Preset5_label>Modo lutador</Preset5_label>
+  <SidearmPickupFail_NoFreeSpace>Sem espaço livre</SidearmPickupFail_NoFreeSpace>
+  <SidearmPickupFail_TooHeavyForSidearm>Pesada demais para uma arma secundária</SidearmPickupFail_TooHeavyForSidearm>
+  <SidearmPickupFail_TooHeavyForSidearmMelee>Pesada demais para uma arma secundária corpo a corpo</SidearmPickupFail_TooHeavyForSidearmMelee>
+  <SidearmPickupFail_TooHeavyForSidearmRanged>Pesada demais para uma arma secundária à distância</SidearmPickupFail_TooHeavyForSidearmRanged>
+  <SidearmPickupFail_SidearmsTooHeavy>Pesada demais para uma arma secundária</SidearmPickupFail_SidearmsTooHeavy>
+  <SidearmPickupFail_SidearmsTooHeavyMelee>Equipamento corpo a corpo muito pesado</SidearmPickupFail_SidearmsTooHeavyMelee>
+  <SidearmPickupFail_SidearmsTooHeavyRanged>Equipamento à distância muito pesado</SidearmPickupFail_SidearmsTooHeavyRanged>
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>Equipamento muito pesado</SidearmPickupFail_SidearmsTooHeavyInTotal>
+  <SidearmPickupFail_NotASidearm>Não é uma arma secundária</SidearmPickupFail_NotASidearm>
+  <SidearmPickupFail_NotASidearmMelee>Não é uma arma secundária</SidearmPickupFail_NotASidearmMelee>
+  <SidearmPickupFail_NotASidearmRanged>Não é uma arma secundária</SidearmPickupFail_NotASidearmRanged>
+  <SidearmPickupFail_AllSlotsFull>Espaços cheios</SidearmPickupFail_AllSlotsFull>
+  <SidearmPickupFail_MeleeSlotsFull>Espaços corpo a corpo cheios</SidearmPickupFail_MeleeSlotsFull>
+  <SidearmPickupFail_RangedSlotsFull>Espaços à distância cheios</SidearmPickupFail_RangedSlotsFull>
+  <SidearmPickupFail_NotAToolForPacifist>Não é uma ferramenta. {0} é incapaz de violência.</SidearmPickupFail_NotAToolForPacifist>
+  <SidearmPickupPass>Sem problema</SidearmPickupPass>
+  <AsSidearm> como arma secundária</AsSidearm>
+  <AsTool> como ferramenta</AsTool>
+  <Preset_option_NoneApplied>Nenhuma</Preset_option_NoneApplied>
+  <Preset_option_Custom>Personalizado</Preset_option_Custom>
+  <Preset_option_Lite>Leve</Preset_option_Lite>
+  <Preset_option_Disabled>Desativado</Preset_option_Disabled>
+  <Preset_option_LoadoutOnly>Somente equipamento</Preset_option_LoadoutOnly>
+  <Preset_option_Basic>Básico</Preset_option_Basic>
+  <Preset_option_Advanced>Avançado</Preset_option_Advanced>
+  <Preset_option_Excessive>Excessivo</Preset_option_Excessive>
+  <Preset_option_Brawler>Lutador</Preset_option_Brawler>
+  <WeaponListKind_option_Both>Ambas</WeaponListKind_option_Both>
+  <WeaponListKind_option_Melee>Corpo a corpo</WeaponListKind_option_Melee>
+  <WeaponListKind_option_Ranged>À distância</WeaponListKind_option_Ranged>
+  <TribalWeapons>Tribais</TribalWeapons>
+  <NonTribalWeapons>Não tribais</NonTribalWeapons>
+  <ConsideredSidearms>Armas secundárias</ConsideredSidearms>
+  <NotConsideredSidearms>Não são armas secundárias</NotConsideredSidearms>
+  <LockedWeaponSwitch>Não pode trocar automaticamente (à distância)</LockedWeaponSwitch>
+  <UnlockedWeaponSwitch>Pode trocar automaticamente (à distância)</UnlockedWeaponSwitch>
+  <WeaponSwitchAutolockOn>Bloquear troca automática ao sacar</WeaponSwitchAutolockOn>
+  <WeaponSwitchAutolockOff>Desativado</WeaponSwitchAutolockOff>
+  <DrawSidearm_gizmoTitle>Armas secundárias</DrawSidearm_gizmoTitle>
+  <SidearmPreference_Ranged>Usar armas à distância.</SidearmPreference_Ranged>
+  <SidearmPreference_Skill>Usar armas de acordo com a própria habilidade ou paixão.</SidearmPreference_Skill>
+  <SidearmPreference_Melee>Usar armas corpo a corpo.</SidearmPreference_Melee>
+  <DrawSidearm_gizmoTooltipRanged>Clique com o botão esquerdo para definir {0} como arma à distância padrão.\nClique com o botão direito para largar {0}.</DrawSidearm_gizmoTooltipRanged>
+  <DrawSidearm_gizmoTooltipMelee>Clique com o botão esquerdo para definir {0} como arma corpo a corpo preferida.\nClique com o botão direito para largar {0}.</DrawSidearm_gizmoTooltipMelee>
+  <DrawSidearm_gizmoTooltipRangedDefault>Clique com o botão esquerdo para forçar o uso de {0}.\nClique com o botão direito para desfazer {0} como arma à distância padrão.</DrawSidearm_gizmoTooltipRangedDefault>
+  <DrawSidearm_gizmoTooltipMeleePreferred>Clique com o botão esquerdo para forçar o uso de {0}.\nClique com o botão direito para remover a preferência de arma corpo a corpo de {0}.</DrawSidearm_gizmoTooltipMeleePreferred>
+  <DrawSidearm_gizmoTooltipForced>Clique com o botão direito para remover o uso forçado de {0}.</DrawSidearm_gizmoTooltipForced>
+  <DrawSidearm_gizmoTooltipWhileDrafted>Clique com o botão esquerdo para forçar o uso de {0} até o fim do combate.</DrawSidearm_gizmoTooltipWhileDrafted>
+  <DrawSidearm_gizmoTooltipForcedWhileDrafted>Clique com o botão direito para remover o uso forçado de {0}.</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+  <DrawSidearm_gizmoTooltipMemory>Clique com o botão direito para esquecer {0}.</DrawSidearm_gizmoTooltipMemory>
+  <DrawSidearm_gizmoTooltipMemoryWhileDrafted>Sem interação enquanto alistado.</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmed>Clique com o botão esquerdo para definir combate desarmado como opção corpo a corpo preferida.</DrawSidearm_gizmoTooltipUnarmed>
+  <DrawSidearm_gizmoTooltipUnarmedPreferred>Clique com o botão esquerdo para forçar o uso de combate desarmado.\nClique com o botão direito para remover combate desarmado como opção corpo a corpo preferida.</DrawSidearm_gizmoTooltipUnarmedPreferred>
+  <DrawSidearm_gizmoTooltipUnarmedForced>Clique com o botão direito para remover o uso forçado de combate desarmado.</DrawSidearm_gizmoTooltipUnarmedForced>
+  <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>Clique com o botão esquerdo para forçar o uso de combate desarmado até o fim do combate.</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>Clique com o botão direito para remover o uso forçado de combate desarmado.</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
+  <Alert_MissingSidearm_label>Colono sem arma secundária</Alert_MissingSidearm_label>
+  <Alert_MissingPrimary_label>Colono sem arma primária</Alert_MissingPrimary_label>
+  <Alert_MissingSidearm_desc>Estes colonos estão sem uma ou mais de suas armas secundárias:\n\n{0}</Alert_MissingSidearm_desc>
+  <Alert_MissingPrimary_desc>Estes colonos estão sem sua arma primária:\n\n{0}</Alert_MissingPrimary_desc>
+  <DropMode_option_Panic>Em perigo</DropMode_option_Panic>
+  <DropMode_option_PanicOrRange>Em combate</DropMode_option_PanicOrRange>
+  <SidearmsEnableNeolithicExtension_desc>Permitir que tribais usem mais armas como armas secundárias.</SidearmsEnableNeolithicExtension_desc>
+  <SidearmsEnableNeolithicExtension_title>Ampliar armas secundárias neolíticas</SidearmsEnableNeolithicExtension_title>
+  <SidearmsNeolithicExtension_desc>Armas neolíticas disponíveis como armas secundárias.</SidearmsNeolithicExtension_desc>
+  <SidearmsNeolithicExtension_title>Armas secundárias consideradas neolíticas</SidearmsNeolithicExtension_title>
+  <SidearmPickupFail_NotYetBladelinkBonded>Ainda não vinculada</SidearmPickupFail_NotYetBladelinkBonded>
+  <SimpleSidearms_ModTitle>Simple Sidearms</SimpleSidearms_ModTitle>
+  <FirstTimeSettingsWarning>Primeira vez executando o Simple Sidearms?\n\nEste ícone indica que as configurações do mod ainda não foram definidas. Ele desaparecerá quando o menu de configurações for aberto pela primeira vez.\n\nClique para ir às configurações agora.</FirstTimeSettingsWarning>
+  <FumbleRecoveryChance_title>Chance de evitar derrubar a arma</FumbleRecoveryChance_title>
+  <FumbleRecoveryChance_hint>O eixo vertical é a chance de evitar derrubar a arma\nO eixo horizontal é a habilidade corpo a corpo ou à distância (a que for maior)</FumbleRecoveryChance_hint>
+  <ReEquipOutOfCombat_desc>Depois de derrubar uma arma, equipá-la novamente de forma automática após o combate, quando estiver fora de perigo imediato.</ReEquipOutOfCombat_desc>
+  <ReEquipOutOfCombat_title>Reequipar armas derrubadas</ReEquipOutOfCombat_title>
+  <ReEquipInCombat_desc>Reequipar armas automaticamente mesmo em combate, quando não estiver lutando ativamente.</ReEquipInCombat_desc>
+  <ReEquipInCombat_title>Reequipar durante o combate</ReEquipInCombat_title>
+  <SkipDangerousWeapons_desc>Proibir o equipamento automático de armas perigosas (coquetéis molotov, granadas de fragmentação, lança-foguetes etc.)</SkipDangerousWeapons_desc>
+  <SkipDangerousWeapons_title>Ignorar armas perigosas</SkipDangerousWeapons_title>
+  <SkipEMPWeapons_desc>Proibir o equipamento automático de armas de PEM (observe que os colonos só consideram equipá-las automaticamente ao lutar contra mecanoides).</SkipEMPWeapons_desc>
+  <SkipEMPWeapons_title>Ignorar armas de PEM</SkipEMPWeapons_title>
+  <PreserveInventoryInCaravans_desc>Manter as armas secundárias no inventário correto ao retornar de caravanas. (Experimental, implementado por XT-0xFF @Github)</PreserveInventoryInCaravans_desc>
+  <PreserveInventoryInCaravans_title>Preservar armas secundárias durante caravanas</PreserveInventoryInCaravans_title>
+  <HideSidearmsInCaravanDialogs_desc>Ocultar armas secundárias nos diálogos de caravana, para evitar vendê-las por acidente. (Experimental, implementado por XT-0xFF @Github)</HideSidearmsInCaravanDialogs_desc>
+  <HideSidearmsInCaravanDialogs_title>Ocultar armas secundárias em diálogos de caravana</HideSidearmsInCaravanDialogs_title>
+  <ShowAlertsMissingSidearm_desc>Mostrar alertas para colonos que lembram ter armas secundárias que não possuem mais e não encontram substituta.</ShowAlertsMissingSidearm_desc>
+  <ShowAlertsMissingSidearm_title>Mostrar alertas de arma secundária ausente</ShowAlertsMissingSidearm_title>
+  <AllowBlockedWeaponUse_desc>Permitir o uso de armas normalmente bloqueadas (como armas persona, armas biocodificadas e armas restritas por cargo de ideologia) - veja o XKCD #1172</AllowBlockedWeaponUse_desc>
+  <AllowBlockedWeaponUse_title>Permitir uso de armas bloqueadas</AllowBlockedWeaponUse_title>
+  <MaximumMassAmountRelative_hint>A listagem considera a capacidade de transporte padrão de 35 kg</MaximumMassAmountRelative_hint>
+  <LimitModeAmount_option_None>Sem limite</LimitModeAmount_option_None>
+  <Fumbled>Arma derrubada!</Fumbled>
+  <Fumbled_dev>Arma derrubada! ({0})</Fumbled_dev>
+  <DrawSidearm_blocked>Arma inutilizável</DrawSidearm_blocked>
+  <SidearmsPlaySounds_desc>Reproduzir sons ao trocar de arma.</SidearmsPlaySounds_desc>
+  <SidearmsPlaySounds_title>Reproduzir sons</SidearmsPlaySounds_title>
+  <ShowBrainscope_desc>Mostrar um botão de ferramenta de desenvolvedor que revela o estado interno do colono selecionado.</ShowBrainscope_desc>
+  <ShowBrainscope_title>Mostrar Brainscope</ShowBrainscope_title>
+  <SS_EquipWarning_CannotUseWithShield>Usar {0} impedirá o uso de {1}.</SS_EquipWarning_CannotUseWithShield>
+  <SS_EquipWarning_WillUnequipOffhand>Equipar {0} desequipará {1} da mão secundária.</SS_EquipWarning_WillUnequipOffhand>
+  <SS_EquipOffandFail_NoPrimary>Não é possível equipar {0} como arma de mão secundária - é preciso ter uma arma primária para combiná-la primeiro.</SS_EquipOffandFail_NoPrimary>
+  <SS_EquipOffandFail_PrimaryTwoHanded>Não é possível equipar {0} como arma de mão secundária - {1} é uma arma de duas mãos.</SS_EquipOffandFail_PrimaryTwoHanded>
+  <SS_EquipOffandFail_AlreadyHoldingShield>Não é possível equipar {0} como arma de mão secundária - já está segurando {1}.</SS_EquipOffandFail_AlreadyHoldingShield>
+  <SS_EquipAsOffand>Clique com o botão esquerdo no ícone da mão secundária para equipar {0} como arma de mão secundária.</SS_EquipAsOffand>
+  <SS_CanEquipAsOffand>Clique com o botão esquerdo no ícone da mão secundária para equipar {0} como arma de mão secundária.</SS_CanEquipAsOffand>
+</LanguageData>

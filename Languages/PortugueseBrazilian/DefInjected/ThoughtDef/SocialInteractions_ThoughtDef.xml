@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSIE_OpinionOfMyBestFriend.stages.0.label>opinião de {0} {1}</VSIE_OpinionOfMyBestFriend.stages.0.label>
+  <VSIE_OpinionOfMyBestFriend.stages.0.description>Estar com meu melhor amigo me faz sentir assim.</VSIE_OpinionOfMyBestFriend.stages.0.description>
+  <VSIE_InspirationSatisfied.stages.0.label>inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>
+  <VSIE_InspirationSatisfied.stages.0.description>Completei minha aspiração!</VSIE_InspirationSatisfied.stages.0.description>
+  <VSIE_InspirationNotSatisfied.stages.0.label>inspiração não satisfeita</VSIE_InspirationNotSatisfied.stages.0.label>
+  <VSIE_InspirationNotSatisfied.stages.0.description>Falhei em completar minha aspiração.</VSIE_InspirationNotSatisfied.stages.0.description>
+  <VSIE_HadNiceChatWithBeer.stages.0.label>teve um bom bate-papo com uma cerveja</VSIE_HadNiceChatWithBeer.stages.0.label>
+  <VSIE_HadNiceChatWithBeer.stages.0.description>Aproveitei o bate-papo e uma cerveja gelada na mão.</VSIE_HadNiceChatWithBeer.stages.0.description>
+  <VSIE_AttendedBingeParty.stages.0.label>participou de uma farra</VSIE_AttendedBingeParty.stages.0.label>
+  <VSIE_AttendedBingeParty.stages.0.description>Me diverti muito na farra.</VSIE_AttendedBingeParty.stages.0.description>
+  <VSIE_AttendedOutdoorParty.stages.0.label>participou de uma festa ao ar livre</VSIE_AttendedOutdoorParty.stages.0.label>
+  <VSIE_AttendedOutdoorParty.stages.0.description>Me diverti muito ao ar livre!</VSIE_AttendedOutdoorParty.stages.0.description>
+  <VSIE_GotSomeClosure.stages.0.label>conseguiu se despedir</VSIE_GotSomeClosure.stages.0.label>
+  <VSIE_GotSomeClosure.stages.0.description>Vou guardar cada lembrança com carinho.</VSIE_GotSomeClosure.stages.0.description>
+  <VSIE_AttendedBirthdayParty.stages.0.label>participou de uma festa de aniversário</VSIE_AttendedBirthdayParty.stages.0.label>
+  <VSIE_AttendedBirthdayParty.stages.0.description>Me diverti muito na festa de aniversário.</VSIE_AttendedBirthdayParty.stages.0.description>
+  <VSIE_HadBirthdayParty.stages.0.label>teve uma festa de aniversário</VSIE_HadBirthdayParty.stages.0.label>
+  <VSIE_HadBirthdayParty.stages.0.description>Fizeram uma festa de aniversário para mim!</VSIE_HadBirthdayParty.stages.0.description>
+  <VSIE_SufferedLossPositive.stages.0.label>sofreu uma perda</VSIE_SufferedLossPositive.stages.0.label>
+  <VSIE_SufferedLossPositive.stages.0.description>Perdemos, mas podemos perseverar!</VSIE_SufferedLossPositive.stages.0.description>
+  <VSIE_SufferedLossNegative.stages.0.label>sofreu uma perda</VSIE_SufferedLossNegative.stages.0.label>
+  <VSIE_SufferedLossNegative.stages.0.description>Que perda devastadora!</VSIE_SufferedLossNegative.stages.0.description>
+  <VSIE_SharingBurden.stages.0.label>compartilhando o fardo</VSIE_SharingBurden.stages.0.label>
+  <VSIE_SharingBurden.stages.0.description>Foi bom finalmente desabafar meus sentimentos com um amigo.</VSIE_SharingBurden.stages.0.description>
+  <VSIE_VentedOnMe.stages.0.label>meu amigo desabafou comigo</VSIE_VentedOnMe.stages.0.label>
+  <VSIE_VentedOnMe.stages.0.description>Meu amigo desabafou seus sentimentos comigo.</VSIE_VentedOnMe.stages.0.description>
+  <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>ciúmes</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>
+  <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>Estou com ciúmes. Meu {0} saiu com outra pessoa!</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>
+  <VSIE_SocialEnvironment.stages.0.label>boa reputação</VSIE_SocialEnvironment.stages.0.label>
+  <VSIE_SocialEnvironment.stages.0.description>Sou querido e respeitado aqui. Essas pessoas precisam de mim.</VSIE_SocialEnvironment.stages.0.description>
+  <VSIE_SocialEnvironment.stages.1.label>má reputação</VSIE_SocialEnvironment.stages.1.label>
+  <VSIE_SocialEnvironment.stages.1.description>Não estou me divertindo aqui. Parece que ninguém me respeita!</VSIE_SocialEnvironment.stages.1.description>
+  <VSIE_BondedPetButcheredOpinion.stages.0.label>{BUTCHER_nameDef} esquartejou meu mascote {VICTIM_nameDef}, nunca vou perdoar o ato {BUTCHER_objective}</VSIE_BondedPetButcheredOpinion.stages.0.label>
+  <VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>{OTHERPAWN_nameDef} exumou e expôs o cadáver do meu {0} {VICTIM_nameDef}, sempre vou guardar rancor {OTHERPAWN_objective} por isso</VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>
+  <VSIE_IngestedHumanFlesh.stages.0.label>{OTHERPAWN_nameDef} comeu carne humana, eu sempre terei medo de {OTHERPAWN_possessive} presença</VSIE_IngestedHumanFlesh.stages.0.label>
+  <VSIE_BingedFood.stages.0.label>{OTHERPAWN_nameDef} teve uma compulsão por comida. Que desperdício</VSIE_BingedFood.stages.0.label>
+  <VSIE_BingedDrug.stages.0.label>{OTHERPAWN_nameDef} teve uma compulsão por drogas. Não preciso de um viciado na minha vida</VSIE_BingedDrug.stages.0.label>
+  <VSIE_HideInRoom.stages.0.label>{OTHERPAWN_nameDef} estava se escondendo no {OTHERPAWN_possessive} quarto. Que esquisito</VSIE_HideInRoom.stages.0.label>
+  <VSIE_WanderedInSaddness.stages.0.label>{OTHERPAWN_nameDef} vagou em tristeza. Sinto pena {OTHERPAWN_objective}</VSIE_WanderedInSaddness.stages.0.label>
+  <VSIE_WentIntoSadisticRage.stages.0.label>{OTHERPAWN_nameDef} entrou em raiva sádica. É absolutamente repugnante</VSIE_WentIntoSadisticRage.stages.0.label>
+  <VSIE_ThrewTantrum.stages.0.label>{OTHERPAWN_nameDef} teve um chilique. {OTHERPAWN_pronoun} precisa aprender a se controlar</VSIE_ThrewTantrum.stages.0.label>
+  <VSIE_WentBerserk.stages.0.label>{OTHERPAWN_nameDef} entrou em fúria. Nunca vou me sentir seguro perto {OTHERPAWN_objective}</VSIE_WentBerserk.stages.0.label>
+  <VSIE_WentOnFireStartingSpree.stages.0.label>{OTHERPAWN_nameDef} fez uma onda de incêndios. Chegou tão perto e tudo o que conhecemos teria virado cinzas. Como posso perdoar isso?</VSIE_WentOnFireStartingSpree.stages.0.label>
+  <VSIE_WentOnMurderousRage.stages.0.label>{OTHERPAWN_nameDef} entrou em raiva assassina. E se eu for o {OTHERPAWN_possessive} próximo alvo?</VSIE_WentOnMurderousRage.stages.0.label>
+  <VSIE_RanWild.stages.0.label>{OTHERPAWN_nameDef} ficou selvagem. Que esquisito</VSIE_RanWild.stages.0.label>
+  <VSIE_InsultedMe.stages.0.label>{OTHERPAWN_nameDef} insultou-me. Palavras cortam mais fundo que adagas</VSIE_InsultedMe.stages.0.label>
+  <VSIE_SlaughteredAnimalInRage.stages.0.label>{OTHERPAWN_nameDef} abateu nosso animal em uma fúria cega. Eu sinto repulsa {OTHERPAWN_objective}</VSIE_SlaughteredAnimalInRage.stages.0.label>
+  <VSIE_RebuffedMe.stages.0.label>{OTHERPAWN_nameDef} me rejeitou. Eu achava que {OTHERPAWN_pronoun} era a pessoa certa</VSIE_RebuffedMe.stages.0.label>
+  <VSIE_InducedPrisonerToEscape.stages.0.label>{OTHERPAWN_nameDef} libertou nossos prisioneiros. Poderia ter terminado muito mal!</VSIE_InducedPrisonerToEscape.stages.0.label>
+  <VSIE_TamedThrumbo.stages.0.label>{OTHERPAWN_nameDef} domou um trumbo. Que feito lendário!</VSIE_TamedThrumbo.stages.0.label>
+  <VSIE_WasPreviouslyOurEnemy.stages.0.label>{OTHERPAWN_nameDef} já foi nosso inimigo. Desconfio {OTHERPAWN_objective}</VSIE_WasPreviouslyOurEnemy.stages.0.label>
+  <VSIE_WasBadlyInjured.stages.0.label>{OTHERPAWN_nameDef} ficou gravemente ferido em batalha. Admiro a {OTHERPAWN_possessive} coragem</VSIE_WasBadlyInjured.stages.0.label>
+  <VSIE_DidNotAttendWedding.stages.0.label>{OTHERPAWN_nameDef} não compareceu à nossa cerimônia de casamento! Foi tão difícil vir e simplesmente ficar comigo naquele dia?</VSIE_DidNotAttendWedding.stages.0.label>
+  <VSIE_AttendedMyWedding.stages.0.label>{OTHERPAWN_nameDef} compareceu ao meu casamento</VSIE_AttendedMyWedding.stages.0.label>
+  <VSIE_RemovedPrisonersOrgans.stages.0.label>{OTHERPAWN_nameDef} removeu os órgãos do prisioneiro! Como uma pessoa é capaz de tal coisa?</VSIE_RemovedPrisonersOrgans.stages.0.label>
+  <VSIE_FailedMedicalOperationAndKilled.stages.0.label>{OTHERPAWN_nameDef} falhou em uma operação médica e matou um de nós</VSIE_FailedMedicalOperationAndKilled.stages.0.label>
+  <VSIE_TamedMe.stages.0.label>{OTHERPAWN_nameDef} me domou, sempre ficarei feliz pelas maravilhas que me mostrou</VSIE_TamedMe.stages.0.label>
+  <VSIE_ArrestedMe.stages.0.label>{OTHERPAWN_nameDef} me prendeu</VSIE_ArrestedMe.stages.0.label>
+  <VSIE_ResurrectedMe.stages.0.label>{OTHERPAWN_nameDef} me ressuscitou</VSIE_ResurrectedMe.stages.0.label>
+  <VSIE_BrokeUpWithMe.stages.0.label>{OTHERPAWN_nameDef} terminou comigo. Será que ainda vou encontrar alguém?</VSIE_BrokeUpWithMe.stages.0.label>
+  <VSIE_WeHadNiceChat.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma boa conversa. Parece que podemos falar sobre qualquer coisa</VSIE_WeHadNiceChat.stages.0.label>
+  <VSIE_WeHadSocialFight.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma briga social</VSIE_WeHadSocialFight.stages.0.label>
+  <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} me salvou dos meus ferimentos. Sempre serei {OTHERPAWN_possessive} devedor</VSIE_SavedMeFromMyWounds.stages.0.label>
+  <VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>{OTHERPAWN_nameDef} é meu amigo desde a infância, temos tanto em comum que ninguém pode nos separar</VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>
+  <VSIE_SavedMeFromRaiders.stages.0.label>{SECONDPAWN_nameDef} me salvou de {THIRDPAWN_kindDef}, sempre serei {SECONDPAWN_possessive} devedor</VSIE_SavedMeFromRaiders.stages.0.label>
+  <VSIE_CuredMyFriend.stages.0.label>{SECONDPAWN_nameDef} curou meu {0} {THIRDPAWN_nameDef}, serei sempre grato pelo ato {SECONDPAWN_objective}</VSIE_CuredMyFriend.stages.0.label>
+  <VSIE_StoleMyLover.stages.0.label>{THIRDPAWN_nameDef} roubou {SECONDPAWN_nameDef} de mim. O que torna a pessoa {THIRDPAWN_objective} tão melhor?</VSIE_StoleMyLover.stages.0.label>
+  <VSIE_IsRoyalty.stages.0.label>{OTHERPAWN_nameDef} é da realeza. Estou impressionado</VSIE_IsRoyalty.stages.0.label>
+  <VSIE_GotSomeLovin.stages.0.label>recebeu um pouco de amor</VSIE_GotSomeLovin.stages.0.label>
+  <VSIE_GotSomeLovin.stages.0.description>Não há nada como uma queda entre os lençóis para levantar o humor.</VSIE_GotSomeLovin.stages.0.description>
+  <VSIE_SoldMyBestFriend.stages.0.label>melhor amigo vendido</VSIE_SoldMyBestFriend.stages.0.label>
+  <VSIE_SoldMyBestFriend.stages.0.description>Um amigo meu foi vendido para um comerciante como um pedaço de carne!</VSIE_SoldMyBestFriend.stages.0.description>
+  <VSIE_KilledMyBestFriend.stages.0.label>matou meu melhor amigo</VSIE_KilledMyBestFriend.stages.0.label>
+  <VSIE_MyBestFriendLost.stages.0.label>meu melhor amigo {0} se perdeu</VSIE_MyBestFriendLost.stages.0.label>
+  <VSIE_MyBestFriendLost.stages.0.description>Meu melhor amigo se perdeu. Espero que ele volte para nós algum dia.</VSIE_MyBestFriendLost.stages.0.description>
+  <VSIE_MyBestFriendLost_Female.stages.0.label>minha melhor amiga {0} se perdeu</VSIE_MyBestFriendLost_Female.stages.0.label>
+  <VSIE_MyBestFriendLost_Female.stages.0.description>Minha melhor amiga se perdeu. Espero que ela volte para nós algum dia.</VSIE_MyBestFriendLost_Female.stages.0.description>
+  <VSIE_MyBestFriendDied.stages.0.label>meu melhor amigo {0} morreu</VSIE_MyBestFriendDied.stages.0.label>
+  <VSIE_MyBestFriendDied.stages.0.description>Meu melhor amigo morreu. Como isso pôde acontecer!</VSIE_MyBestFriendDied.stages.0.description>
+  <VSIE_MyBestFriendDied_Female.stages.0.label>minha melhor amiga {0} morreu</VSIE_MyBestFriendDied_Female.stages.0.label>
+  <VSIE_MyBestFriendDied_Female.stages.0.description>Minha melhor amiga morreu. Como isso pôde acontecer!</VSIE_MyBestFriendDied_Female.stages.0.description>
+</LanguageData>
