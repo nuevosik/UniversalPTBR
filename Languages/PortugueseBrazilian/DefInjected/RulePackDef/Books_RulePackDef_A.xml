@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <ArtDescription_BookShooting.rulePack.rulesStrings>
-    <li>physical_description_root-&gt;[ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Estudar este livro aumenta a habilidade de Tiro.</li>
+    <li>physical_description_root-&gt;[ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Estudar este livro aumenta a habilidade de Tiro.</li>
   </ArtDescription_BookShooting.rulePack.rulesStrings>
   <VBE_BookDescription_Animals.rulePack.rulesStrings>
-    <li>r_animalsbook_desc-&gt;[cover] [first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Por ser um livro sobre Animais, lê-lo aumentará o conhecimento de Animais.</li>
+    <li>r_animalsbook_desc-&gt;[cover] [first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Por ser um livro sobre Animais, lê-lo aumentará o conhecimento de Animais.</li>
   </VBE_BookDescription_Animals.rulePack.rulesStrings>
   <VBE_BookDescription_Art.rulePack.rulesStrings>
-    <li>r_artbook_desc-&gt;[cover] [first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Por ser um livro de Arte, lê-lo aumentará o conhecimento de Arte.</li>
+    <li>r_artbook_desc-&gt;[cover] [first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Por ser um livro de Arte, lê-lo aumentará o conhecimento de Arte.</li>
   </VBE_BookDescription_Art.rulePack.rulesStrings>
   <VBE_BookDescription_Construction.rulePack.rulesStrings>
-    <li>r_constructionbook_desc-&gt;[cover] [first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Por ser um livro de Construção, lê-lo aumentará o conhecimento de Construção.</li>
+    <li>r_constructionbook_desc-&gt;[cover] [first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Por ser um livro de Construção, lê-lo aumentará o conhecimento de Construção.</li>
   </VBE_BookDescription_Construction.rulePack.rulesStrings>
   <VBE_BookDescription_Cooking.rulePack.rulesStrings>
-    <li>r_cookingbook_desc-&gt;[cover] [first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Culinária.</li>
+    <li>r_cookingbook_desc-&gt;[cover] [first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Culinária.</li>
   </VBE_BookDescription_Cooking.rulePack.rulesStrings>
   <VBE_BookDescription_Crafting.rulePack.rulesStrings>
-    <li>r_craftingbook_desc-&gt;[cover] [first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Fabricação.</li>
+    <li>r_craftingbook_desc-&gt;[cover] [first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Fabricação.</li>
   </VBE_BookDescription_Crafting.rulePack.rulesStrings>
   <VBE_BookDescription_Growing.rulePack.rulesStrings>
-    <li>r_growingbook_desc-&gt;[cover] [first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Estudar este livro aumenta a habilidade de Plantio.</li>
+    <li>r_growingbook_desc-&gt;[cover] [first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Estudar este livro aumenta a habilidade de Plantio.</li>
   </VBE_BookDescription_Growing.rulePack.rulesStrings>
   <VBE_BookDescription_Intellectual.rulePack.rulesStrings>
-    <li>r_intellectualbook_desc-&gt;[cover] [first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Intelectual.</li>
+    <li>r_intellectualbook_desc-&gt;[cover] [first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Intelectual.</li>
   </VBE_BookDescription_Intellectual.rulePack.rulesStrings>
   <VBE_BookDescription_Medical.rulePack.rulesStrings>
-    <li>r_medicalbook_desc-&gt;[cover] [first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Estudar este livro aumenta a habilidade de Medicina.</li>
+    <li>r_medicalbook_desc-&gt;[cover] [first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Estudar este livro aumenta a habilidade de Medicina.</li>
   </VBE_BookDescription_Medical.rulePack.rulesStrings>
   <VBE_BookDescription_Melee.rulePack.rulesStrings>
-    <li>r_meleebook_desc-&gt;[cover] [first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Por ser um livro de combate corpo a corpo, lê-lo aumentará o conhecimento de Corpo a corpo.</li>
+    <li>r_meleebook_desc-&gt;[cover] [first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Por ser um livro de combate corpo a corpo, lê-lo aumentará o conhecimento de Corpo a corpo.</li>
   </VBE_BookDescription_Melee.rulePack.rulesStrings>
   <VBE_BookDescription_Mining.rulePack.rulesStrings>
-    <li>r_miningbook_desc-&gt;[cover] [first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Mineração.</li>
+    <li>r_miningbook_desc-&gt;[cover] [first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Ler este livro aumentará a habilidade de Mineração.</li>
   </VBE_BookDescription_Mining.rulePack.rulesStrings>
   <VBE_BookDescription_Social.rulePack.rulesStrings>
-    <li>r_socialbook_desc-&gt;[cover] [first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. Por ser um livro sobre Social, lê-lo aumentará o conhecimento de Social.</li>
+    <li>r_socialbook_desc-&gt;[cover] [first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. Este [book] é [book_context][maybe_writingstyles]. Por ser um livro sobre Social, lê-lo aumentará o conhecimento de Social.</li>
   </VBE_BookDescription_Social.rulePack.rulesStrings>
   <VBE_BookUtility.rulePack.rulesStrings>
     <li>maybe_adjective-&gt;</li>
