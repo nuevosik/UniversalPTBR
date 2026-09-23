@@ -1,144 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CE_Artillery_Howitzer.label>105mm howitzer</CE_Artillery_Howitzer.label>
-  <CE_Artillery_Howitzer.description>A high caliber, relatively compact field artillery piece for indirect fire at extended ranges.</CE_Artillery_Howitzer.description>
-  <CE_Gun_Howitzer.label>105mm howitzer</CE_Gun_Howitzer.label>
-  <CE_Gun_Howitzer.description>105mm artillery gun.</CE_Gun_Howitzer.description>
-  <CE_Gun_Crossbow.label>crossbow</CE_Gun_Crossbow.label>
-  <CE_Gun_Crossbow.description>A medieval bow-like armament which launches bolts instead of arrows at relatively fast speeds. Easier to operate and more accurate than a bow in exchange of a lower fire rate.</CE_Gun_Crossbow.description>
-  <CE_Gun_FlintlockPistol.label>flintlock pistol</CE_Gun_FlintlockPistol.label>
-  <CE_Gun_FlintlockPistol.description>An ancient pistol featuring a smoothbore barrel and a long, wooden grip ending in a knob. As its name implies, the flintlock pistol is operated by a flintlock mechanism.</CE_Gun_FlintlockPistol.description>
-  <CE_Gun_FlintlockPistol.tools.0.label>grip</CE_Gun_FlintlockPistol.tools.0.label>
-  <CE_Gun_FlintlockPistol.tools.1.label>muzzle</CE_Gun_FlintlockPistol.tools.1.label>
-  <CE_Gun_FlintlockMusket.label>flintlock musket</CE_Gun_FlintlockMusket.label>
-  <CE_Gun_FlintlockMusket.description>An ancient pattern musket. As one of the first of its kind, it only has short range and low fire rate.</CE_Gun_FlintlockMusket.description>
-  <CE_Gun_FlintlockMusket.tools.0.label>stock</CE_Gun_FlintlockMusket.tools.0.label>
-  <CE_Gun_FlintlockMusket.tools.1.label>barrel</CE_Gun_FlintlockMusket.tools.1.label>
-  <CE_Gun_FlintlockMusket.tools.2.label>bayonet</CE_Gun_FlintlockMusket.tools.2.label>
+  <CE_Artillery_Howitzer.label>obuseiro de 105mm</CE_Artillery_Howitzer.label>
+  <CE_Artillery_Howitzer.description>Uma peça de artilharia de campo de alto calibre e relativamente compacta para fogo indireto em alcance estendido.</CE_Artillery_Howitzer.description>
+  <CE_Gun_Howitzer.label>obuseiro de 105mm</CE_Gun_Howitzer.label>
+  <CE_Gun_Howitzer.description>Peça de artilharia de 105mm.</CE_Gun_Howitzer.description>
+  <CE_Gun_Crossbow.label>besta</CE_Gun_Crossbow.label>
+  <CE_Gun_Crossbow.description>Um armamento medieval semelhante a um arco que lança setas de bestas em vez de flechas a velocidades relativamente rápidas. Mais fácil de operar e mais preciso que um arco em troca de menor cadência de tiro.</CE_Gun_Crossbow.description>
+  <CE_Gun_FlintlockPistol.label>pistola de pederneira</CE_Gun_FlintlockPistol.label>
+  <CE_Gun_FlintlockPistol.description>Uma pistola antiga com um cano de alma lisa e uma empunhadura longa de madeira terminada em um pomo. Como o nome sugere, a pistola de pederneira opera por um mecanismo de pederneira.</CE_Gun_FlintlockPistol.description>
+  <CE_Gun_FlintlockPistol.tools.0.label>empunhadura</CE_Gun_FlintlockPistol.tools.0.label>
+  <CE_Gun_FlintlockPistol.tools.1.label>boca do cano</CE_Gun_FlintlockPistol.tools.1.label>
+  <CE_Gun_FlintlockMusket.label>mosquete de pederneira</CE_Gun_FlintlockMusket.label>
+  <CE_Gun_FlintlockMusket.description>Um mosquete de padrão antigo. Como um dos primeiros do tipo, tem apenas alcance curto e baixa cadência de tiro.</CE_Gun_FlintlockMusket.description>
+  <CE_Gun_FlintlockMusket.tools.0.label>coronha</CE_Gun_FlintlockMusket.tools.0.label>
+  <CE_Gun_FlintlockMusket.tools.1.label>cano</CE_Gun_FlintlockMusket.tools.1.label>
+  <CE_Gun_FlintlockMusket.tools.2.label>baioneta</CE_Gun_FlintlockMusket.tools.2.label>
   <CE_Gun_WinchesterNintyFour.label>Winchester 94</CE_Gun_WinchesterNintyFour.label>
-  <CE_Gun_WinchesterNintyFour.description>Ancient lever-action repeating rifle that became one of the most famous and popular hunting rifles of all time.</CE_Gun_WinchesterNintyFour.description>
-  <CE_Gun_WinchesterNintyFour.tools.0.label>stock</CE_Gun_WinchesterNintyFour.tools.0.label>
-  <CE_Gun_WinchesterNintyFour.tools.1.label>barrel</CE_Gun_WinchesterNintyFour.tools.1.label>
-  <CE_Gun_WinchesterNintyFour.tools.2.label>muzzle</CE_Gun_WinchesterNintyFour.tools.2.label>
+  <CE_Gun_WinchesterNintyFour.description>Fuzil de repetição por alavanca antigo que se tornou um dos fuzis de caça mais famosos e populares de todos os tempos.</CE_Gun_WinchesterNintyFour.description>
+  <CE_Gun_WinchesterNintyFour.tools.0.label>coronha</CE_Gun_WinchesterNintyFour.tools.0.label>
+  <CE_Gun_WinchesterNintyFour.tools.1.label>cano</CE_Gun_WinchesterNintyFour.tools.1.label>
+  <CE_Gun_WinchesterNintyFour.tools.2.label>boca do cano</CE_Gun_WinchesterNintyFour.tools.2.label>
   <CE_Gun_USASTwelve.label>USAS-12</CE_Gun_USASTwelve.label>
-  <CE_Gun_USASTwelve.description>Ancient assault shotgun designed for full-auto fire in close quarters.</CE_Gun_USASTwelve.description>
-  <CE_Gun_USASTwelve.tools.0.label>stock</CE_Gun_USASTwelve.tools.0.label>
-  <CE_Gun_USASTwelve.tools.1.label>barrel</CE_Gun_USASTwelve.tools.1.label>
-  <CE_Gun_USASTwelve.tools.2.label>muzzle</CE_Gun_USASTwelve.tools.2.label>
+  <CE_Gun_USASTwelve.description>Escopeta de assalto antiga projetada para fogo automático total em curtas distâncias.</CE_Gun_USASTwelve.description>
+  <CE_Gun_USASTwelve.tools.0.label>coronha</CE_Gun_USASTwelve.tools.0.label>
+  <CE_Gun_USASTwelve.tools.1.label>cano</CE_Gun_USASTwelve.tools.1.label>
+  <CE_Gun_USASTwelve.tools.2.label>boca do cano</CE_Gun_USASTwelve.tools.2.label>
   <CE_Gun_FNFAL.label>FN FAL</CE_Gun_FNFAL.label>
-  <CE_Gun_FNFAL.description>Ancient military battle rifle firing a full-power rifle cartridge. Famous for being the right hand of the free world.</CE_Gun_FNFAL.description>
-  <CE_Gun_FNFAL.tools.0.label>stock</CE_Gun_FNFAL.tools.0.label>
-  <CE_Gun_FNFAL.tools.1.label>barrel</CE_Gun_FNFAL.tools.1.label>
-  <CE_Gun_FNFAL.tools.2.label>muzzle</CE_Gun_FNFAL.tools.2.label>
+  <CE_Gun_FNFAL.description>Fuzil de batalha militar antigo que dispara um cartucho de fuzil de potência total. Famoso por ser a mão direita do mundo livre.</CE_Gun_FNFAL.description>
+  <CE_Gun_FNFAL.tools.0.label>coronha</CE_Gun_FNFAL.tools.0.label>
+  <CE_Gun_FNFAL.tools.1.label>cano</CE_Gun_FNFAL.tools.1.label>
+  <CE_Gun_FNFAL.tools.2.label>boca do cano</CE_Gun_FNFAL.tools.2.label>
   <CE_Gun_SKS.label>SKS</CE_Gun_SKS.label>
-  <CE_Gun_SKS.description>Ancient semi-automatic rifle. Fires an intermediate rifle cartridge and is a popular choice for long-range engagements.</CE_Gun_SKS.description>
-  <CE_Gun_SKS.tools.0.label>stock</CE_Gun_SKS.tools.0.label>
-  <CE_Gun_SKS.tools.1.label>barrel</CE_Gun_SKS.tools.1.label>
-  <CE_Gun_SKS.tools.2.label>muzzle</CE_Gun_SKS.tools.2.label>
+  <CE_Gun_SKS.description>Fuzil semiautomático antigo. Dispara um cartucho intermediário de fuzil e é uma escolha popular para combates de longo alcance.</CE_Gun_SKS.description>
+  <CE_Gun_SKS.tools.0.label>coronha</CE_Gun_SKS.tools.0.label>
+  <CE_Gun_SKS.tools.1.label>cano</CE_Gun_SKS.tools.1.label>
+  <CE_Gun_SKS.tools.2.label>boca do cano</CE_Gun_SKS.tools.2.label>
   <CE_Gun_AKFortySeven.label>AK-47</CE_Gun_AKFortySeven.label>
-  <CE_Gun_AKFortySeven.description>Ancient military weapon chambered for an intermediate cartridge. The simple design makes it easy to assemble and gives it high reliability.</CE_Gun_AKFortySeven.description>
-  <CE_Gun_AKFortySeven.tools.0.label>stock</CE_Gun_AKFortySeven.tools.0.label>
-  <CE_Gun_AKFortySeven.tools.1.label>barrel</CE_Gun_AKFortySeven.tools.1.label>
-  <CE_Gun_AKFortySeven.tools.2.label>muzzle</CE_Gun_AKFortySeven.tools.2.label>
+  <CE_Gun_AKFortySeven.description>Arma militar antiga calibrada para um cartucho intermediário. O design simples a torna fácil de montar e confere alta confiabilidade.</CE_Gun_AKFortySeven.description>
+  <CE_Gun_AKFortySeven.tools.0.label>coronha</CE_Gun_AKFortySeven.tools.0.label>
+  <CE_Gun_AKFortySeven.tools.1.label>cano</CE_Gun_AKFortySeven.tools.1.label>
+  <CE_Gun_AKFortySeven.tools.2.label>boca do cano</CE_Gun_AKFortySeven.tools.2.label>
   <CE_Gun_SVD.label>SVD</CE_Gun_SVD.label>
-  <CE_Gun_SVD.description>Ancient sniper rifle with a fairly simple assembly. It is known for its reliability.</CE_Gun_SVD.description>
-  <CE_Gun_SVD.tools.0.label>stock</CE_Gun_SVD.tools.0.label>
-  <CE_Gun_SVD.tools.1.label>barrel</CE_Gun_SVD.tools.1.label>
-  <CE_Gun_SVD.tools.2.label>muzzle</CE_Gun_SVD.tools.2.label>
+  <CE_Gun_SVD.description>Fuzil de precisão antigo com uma montagem bem simples. É conhecido pela confiabilidade.</CE_Gun_SVD.description>
+  <CE_Gun_SVD.tools.0.label>coronha</CE_Gun_SVD.tools.0.label>
+  <CE_Gun_SVD.tools.1.label>cano</CE_Gun_SVD.tools.1.label>
+  <CE_Gun_SVD.tools.2.label>boca do cano</CE_Gun_SVD.tools.2.label>
   <CE_Gun_HecateTwo.label>Hecate II</CE_Gun_HecateTwo.label>
-  <CE_Gun_HecateTwo.description>Ancient bolt-action anti-materiel rifle. Combines a large caliber cartridge with a high-magnification scope for sniping at extreme range. Comes with a quick detachable stock for ease of transport.</CE_Gun_HecateTwo.description>
-  <CE_Gun_HecateTwo.tools.0.label>stock</CE_Gun_HecateTwo.tools.0.label>
-  <CE_Gun_HecateTwo.tools.1.label>barrel</CE_Gun_HecateTwo.tools.1.label>
-  <CE_Gun_HecateTwo.tools.2.label>muzzle</CE_Gun_HecateTwo.tools.2.label>
+  <CE_Gun_HecateTwo.description>Fuzil antimaterial de ferrolho antigo. Combina um cartucho de grande calibre com uma luneta de alto aumento para tiros de precisão em alcance extremo. Vem com uma coronha destacável rápida para facilitar o transporte.</CE_Gun_HecateTwo.description>
+  <CE_Gun_HecateTwo.tools.0.label>coronha</CE_Gun_HecateTwo.tools.0.label>
+  <CE_Gun_HecateTwo.tools.1.label>cano</CE_Gun_HecateTwo.tools.1.label>
+  <CE_Gun_HecateTwo.tools.2.label>boca do cano</CE_Gun_HecateTwo.tools.2.label>
   <CE_Gun_PTRS.label>PTRS-41</CE_Gun_PTRS.label>
-  <CE_Gun_PTRS.description>Ancient anti-tank rifle, originally designed for use against primitive armored vehicles. Fires a very powerful cartridge but the large size and weight make it unwieldy.</CE_Gun_PTRS.description>
-  <CE_Gun_PTRS.tools.0.label>stock</CE_Gun_PTRS.tools.0.label>
-  <CE_Gun_PTRS.tools.1.label>barrel</CE_Gun_PTRS.tools.1.label>
-  <CE_Gun_PTRS.tools.2.label>muzzle</CE_Gun_PTRS.tools.2.label>
+  <CE_Gun_PTRS.description>Fuzil antitanque antigo, originalmente projetado para uso contra veículos blindados primitivos. Dispara um cartucho bem poderoso, mas o tamanho e o peso grandes o tornam desajeitado.</CE_Gun_PTRS.description>
+  <CE_Gun_PTRS.tools.0.label>coronha</CE_Gun_PTRS.tools.0.label>
+  <CE_Gun_PTRS.tools.1.label>cano</CE_Gun_PTRS.tools.1.label>
+  <CE_Gun_PTRS.tools.2.label>boca do cano</CE_Gun_PTRS.tools.2.label>
   <CE_Gun_MSixty.label>M60E6</CE_Gun_MSixty.label>
-  <CE_Gun_MSixty.description>Ancient belt-fed general-purpose machine gun. Lots of firepower but heavy and cumbersome to carry around. Commonly nicknamed "The Pig".</CE_Gun_MSixty.description>
-  <CE_Gun_MSixty.tools.0.label>stock</CE_Gun_MSixty.tools.0.label>
-  <CE_Gun_MSixty.tools.1.label>barrel</CE_Gun_MSixty.tools.1.label>
-  <CE_Gun_MSixty.tools.2.label>muzzle</CE_Gun_MSixty.tools.2.label>
+  <CE_Gun_MSixty.description>Metralhadora de uso geral antiga alimentada por fita. Muito poder de fogo, mas pesada e desajeitada de carregar. Comumente apelidada de "A Porca".</CE_Gun_MSixty.description>
+  <CE_Gun_MSixty.tools.0.label>coronha</CE_Gun_MSixty.tools.0.label>
+  <CE_Gun_MSixty.tools.1.label>cano</CE_Gun_MSixty.tools.1.label>
+  <CE_Gun_MSixty.tools.2.label>boca do cano</CE_Gun_MSixty.tools.2.label>
   <CE_Gun_RPD.label>RPD</CE_Gun_RPD.label>
-  <CE_Gun_RPD.description>Ancient light machine gun design. The precursor to modern squad automatic weapons, it is comparatively light for a weapon of its class.</CE_Gun_RPD.description>
-  <CE_Gun_RPD.tools.0.label>stock</CE_Gun_RPD.tools.0.label>
-  <CE_Gun_RPD.tools.1.label>barrel</CE_Gun_RPD.tools.1.label>
-  <CE_Gun_RPD.tools.2.label>muzzle</CE_Gun_RPD.tools.2.label>
+  <CE_Gun_RPD.description>Projeto antigo de metralhadora leve. Predecessora das modernas armas automáticas de esquadrão, é comparativamente leve para uma arma de sua classe.</CE_Gun_RPD.description>
+  <CE_Gun_RPD.tools.0.label>coronha</CE_Gun_RPD.tools.0.label>
+  <CE_Gun_RPD.tools.1.label>cano</CE_Gun_RPD.tools.1.label>
+  <CE_Gun_RPD.tools.2.label>boca do cano</CE_Gun_RPD.tools.2.label>
   <CE_Gun_PKM.label>PKM</CE_Gun_PKM.label>
-  <CE_Gun_PKM.description>Ancient general-purpose machine gun. The rugged design makes it a popular weapon for the people inhabiting Rimworlds.</CE_Gun_PKM.description>
-  <CE_Gun_PKM.tools.0.label>stock</CE_Gun_PKM.tools.0.label>
-  <CE_Gun_PKM.tools.1.label>barrel</CE_Gun_PKM.tools.1.label>
-  <CE_Gun_PKM.tools.2.label>muzzle</CE_Gun_PKM.tools.2.label>
+  <CE_Gun_PKM.description>Metralhadora de uso geral antiga. O design robusto a torna uma arma popular entre os habitantes dos ermos.</CE_Gun_PKM.description>
+  <CE_Gun_PKM.tools.0.label>coronha</CE_Gun_PKM.tools.0.label>
+  <CE_Gun_PKM.tools.1.label>cano</CE_Gun_PKM.tools.1.label>
+  <CE_Gun_PKM.tools.2.label>boca do cano</CE_Gun_PKM.tools.2.label>
   <CE_Gun_RPGSeven.label>RPG-7</CE_Gun_RPGSeven.label>
-  <CE_Gun_RPGSeven.description>A short rocket-propelled grenade launcher that fires single projectiles which explode on impact. A relatively very cheap, multiple use alternative to single-shot launchers.</CE_Gun_RPGSeven.description>
-  <CE_Gun_RPGSeven.tools.0.label>barrel</CE_Gun_RPGSeven.tools.0.label>
+  <CE_Gun_RPGSeven.description>Um lançador curto de granadas propelidas por foguete que dispara projéteis únicos que explodem ao impacto. Uma alternativa relativamente barata e de múltiplos usos a lançadores de tiro único.</CE_Gun_RPGSeven.description>
+  <CE_Gun_RPGSeven.tools.0.label>cano</CE_Gun_RPGSeven.tools.0.label>
   <CE_Gun_MilkorMGL.label>Milkor MGL</CE_Gun_MilkorMGL.label>
-  <CE_Gun_MilkorMGL.description>Ancient, man-portable grenade launcher. The 6-shot cylinder allows for a relatively high volume of fire.</CE_Gun_MilkorMGL.description>
-  <CE_Gun_MilkorMGL.tools.0.label>stock</CE_Gun_MilkorMGL.tools.0.label>
-  <CE_Gun_MilkorMGL.tools.1.label>barrel</CE_Gun_MilkorMGL.tools.1.label>
-  <CE_Gun_MilkorMGL.tools.2.label>muzzle</CE_Gun_MilkorMGL.tools.2.label>
-  <CE_Gun_ChargePistol.label>P-6 charge pistol</CE_Gun_ChargePistol.label>
-  <CE_Gun_ChargePistol.description>Charged-shot pistol, commonly used by glitterworld police forces and mercenaries as a sidearm.</CE_Gun_ChargePistol.description>
-  <CE_Gun_ChargePistol.tools.0.label>grip</CE_Gun_ChargePistol.tools.0.label>
-  <CE_Gun_ChargePistol.tools.1.label>muzzle</CE_Gun_ChargePistol.tools.1.label>
-  <CE_Gun_ChargeShotgun.label>S-12 charge shotgun</CE_Gun_ChargeShotgun.label>
-  <CE_Gun_ChargeShotgun.description>Charged-shot shotgun, designed for maximum lethality in close-quarters combat.</CE_Gun_ChargeShotgun.description>
-  <CE_Gun_ChargeShotgun.tools.0.label>stock</CE_Gun_ChargeShotgun.tools.0.label>
-  <CE_Gun_ChargeShotgun.tools.1.label>barrel</CE_Gun_ChargeShotgun.tools.1.label>
-  <CE_Gun_ChargeShotgun.tools.2.label>muzzle</CE_Gun_ChargeShotgun.tools.2.label>
-  <CE_Gun_ChargeSMG.label>S-6 charge SMG</CE_Gun_ChargeSMG.label>
-  <CE_Gun_ChargeSMG.description>Charged-shot bullpup sub-machine gun highly effective in close-quarters combat.</CE_Gun_ChargeSMG.description>
-  <CE_Gun_ChargeSMG.tools.0.label>stock</CE_Gun_ChargeSMG.tools.0.label>
-  <CE_Gun_ChargeSMG.tools.1.label>barrel</CE_Gun_ChargeSMG.tools.1.label>
-  <CE_Gun_ChargeSMG.tools.2.label>muzzle</CE_Gun_ChargeSMG.tools.2.label>
-  <CE_Gun_ChargeSniperRifle.label>R-8 charge sniper rifle</CE_Gun_ChargeSniperRifle.label>
-  <CE_Gun_ChargeSniperRifle.description>Charged-shot sniper rifle equipped with advanced optics for long-range shooting.</CE_Gun_ChargeSniperRifle.description>
-  <CE_Gun_ChargeSniperRifle.tools.0.label>stock</CE_Gun_ChargeSniperRifle.tools.0.label>
-  <CE_Gun_ChargeSniperRifle.tools.1.label>barrel</CE_Gun_ChargeSniperRifle.tools.1.label>
-  <CE_Gun_ChargeSniperRifle.tools.2.label>muzzle</CE_Gun_ChargeSniperRifle.tools.2.label>
-  <CE_Gun_ChargeLMG.label>L-8 charge LMG</CE_Gun_ChargeLMG.label>
-  <CE_Gun_ChargeLMG.description>Charged-shot light machine gun designed for suppression.</CE_Gun_ChargeLMG.description>
-  <CE_Gun_ChargeLMG.tools.0.label>stock</CE_Gun_ChargeLMG.tools.0.label>
-  <CE_Gun_ChargeLMG.tools.1.label>barrel</CE_Gun_ChargeLMG.tools.1.label>
-  <CE_Gun_ChargeLMG.tools.2.label>muzzle</CE_Gun_ChargeLMG.tools.2.label>
-  <CE_Gun_ChargeAMR.label>A-12 charge anti-materiel rifle</CE_Gun_ChargeAMR.label>
-  <CE_Gun_ChargeAMR.description>Charged-shot anti-materiel rifle equipped with advanced optics for long-range shooting.</CE_Gun_ChargeAMR.description>
-  <CE_Gun_ChargeAMR.tools.0.label>stock</CE_Gun_ChargeAMR.tools.0.label>
-  <CE_Gun_ChargeAMR.tools.1.label>barrel</CE_Gun_ChargeAMR.tools.1.label>
-  <CE_Gun_ChargeAMR.tools.2.label>muzzle</CE_Gun_ChargeAMR.tools.2.label>
-  <CE_Gun_Flamethrower.label>RM2 Flamethrower</CE_Gun_Flamethrower.label>
-  <CE_Gun_Flamethrower.description>Unconventional flamethrower design that uses replaceable canisters of pressurized fuel canisters instead of a back-mounted tank. Less encumbering but needs to reload frequently.</CE_Gun_Flamethrower.description>
-  <CE_Gun_Flamethrower.tools.0.label>barrel</CE_Gun_Flamethrower.tools.0.label>
-  <CE_Gun_Flamethrower.tools.1.label>muzzle</CE_Gun_Flamethrower.tools.1.label>
-  <CE_Gun_Flamethrower.tools.2.label>muzzle</CE_Gun_Flamethrower.tools.2.label>
-  <CE_Gun_FlintlockBlunderbuss.label>flintlock blunderbuss</CE_Gun_FlintlockBlunderbuss.label>
-  <CE_Gun_FlintlockBlunderbuss.description>An ancient muzzle-loaded firearm with a short, large caliber barrel which is flared at the muzzle and frequently throughout the entire bore, and used with shot and other projectiles of relevant quantity or caliber. The blunderbuss is commonly considered to be an early predecessor of the modern shotgun, with similar military and defensive use.</CE_Gun_FlintlockBlunderbuss.description>
-  <CE_Gun_FlintlockBlunderbuss.tools.0.label>stock</CE_Gun_FlintlockBlunderbuss.tools.0.label>
-  <CE_Gun_FlintlockBlunderbuss.tools.1.label>barrel</CE_Gun_FlintlockBlunderbuss.tools.1.label>
-  <CE_Gun_FlintlockBlunderbuss.tools.2.label>muzzle</CE_Gun_FlintlockBlunderbuss.tools.2.label>
+  <CE_Gun_MilkorMGL.description>Lançador de granadas antigo e portátil. O cilindro de 6 tiros permite um volume de fogo relativamente alto.</CE_Gun_MilkorMGL.description>
+  <CE_Gun_MilkorMGL.tools.0.label>coronha</CE_Gun_MilkorMGL.tools.0.label>
+  <CE_Gun_MilkorMGL.tools.1.label>cano</CE_Gun_MilkorMGL.tools.1.label>
+  <CE_Gun_MilkorMGL.tools.2.label>boca do cano</CE_Gun_MilkorMGL.tools.2.label>
+  <CE_Gun_ChargePistol.label>pistola de carga P-6</CE_Gun_ChargePistol.label>
+  <CE_Gun_ChargePistol.description>Pistola de tiro carregado, comumente usada por polícias e mercenários de mundos de brilho como arma secundária.</CE_Gun_ChargePistol.description>
+  <CE_Gun_ChargePistol.tools.0.label>empunhadura</CE_Gun_ChargePistol.tools.0.label>
+  <CE_Gun_ChargePistol.tools.1.label>boca do cano</CE_Gun_ChargePistol.tools.1.label>
+  <CE_Gun_ChargeShotgun.label>escopeta de carga S-12</CE_Gun_ChargeShotgun.label>
+  <CE_Gun_ChargeShotgun.description>Escopeta de tiro carregado, projetada para letalidade máxima em combate a curtas distâncias.</CE_Gun_ChargeShotgun.description>
+  <CE_Gun_ChargeShotgun.tools.0.label>coronha</CE_Gun_ChargeShotgun.tools.0.label>
+  <CE_Gun_ChargeShotgun.tools.1.label>cano</CE_Gun_ChargeShotgun.tools.1.label>
+  <CE_Gun_ChargeShotgun.tools.2.label>boca do cano</CE_Gun_ChargeShotgun.tools.2.label>
+  <CE_Gun_ChargeSMG.label>submetralhadora de carga S-6</CE_Gun_ChargeSMG.label>
+  <CE_Gun_ChargeSMG.description>Submetralhadora bullpup de tiro carregado, altamente eficaz em combate a curtas distâncias.</CE_Gun_ChargeSMG.description>
+  <CE_Gun_ChargeSMG.tools.0.label>coronha</CE_Gun_ChargeSMG.tools.0.label>
+  <CE_Gun_ChargeSMG.tools.1.label>cano</CE_Gun_ChargeSMG.tools.1.label>
+  <CE_Gun_ChargeSMG.tools.2.label>boca do cano</CE_Gun_ChargeSMG.tools.2.label>
+  <CE_Gun_ChargeSniperRifle.label>fuzil de precisão de carga R-8</CE_Gun_ChargeSniperRifle.label>
+  <CE_Gun_ChargeSniperRifle.description>Fuzil de precisão de tiro carregado equipado com óptica avançada para tiros de longo alcance.</CE_Gun_ChargeSniperRifle.description>
+  <CE_Gun_ChargeSniperRifle.tools.0.label>coronha</CE_Gun_ChargeSniperRifle.tools.0.label>
+  <CE_Gun_ChargeSniperRifle.tools.1.label>cano</CE_Gun_ChargeSniperRifle.tools.1.label>
+  <CE_Gun_ChargeSniperRifle.tools.2.label>boca do cano</CE_Gun_ChargeSniperRifle.tools.2.label>
+  <CE_Gun_ChargeLMG.label>metralhadora leve de carga L-8</CE_Gun_ChargeLMG.label>
+  <CE_Gun_ChargeLMG.description>Metralhadora leve de tiro carregado projetada para supressão.</CE_Gun_ChargeLMG.description>
+  <CE_Gun_ChargeLMG.tools.0.label>coronha</CE_Gun_ChargeLMG.tools.0.label>
+  <CE_Gun_ChargeLMG.tools.1.label>cano</CE_Gun_ChargeLMG.tools.1.label>
+  <CE_Gun_ChargeLMG.tools.2.label>boca do cano</CE_Gun_ChargeLMG.tools.2.label>
+  <CE_Gun_ChargeAMR.label>fuzil antimaterial de carga A-12</CE_Gun_ChargeAMR.label>
+  <CE_Gun_ChargeAMR.description>Fuzil antimaterial de tiro carregado equipado com óptica avançada para tiros de longo alcance.</CE_Gun_ChargeAMR.description>
+  <CE_Gun_ChargeAMR.tools.0.label>coronha</CE_Gun_ChargeAMR.tools.0.label>
+  <CE_Gun_ChargeAMR.tools.1.label>cano</CE_Gun_ChargeAMR.tools.1.label>
+  <CE_Gun_ChargeAMR.tools.2.label>boca do cano</CE_Gun_ChargeAMR.tools.2.label>
+  <CE_Gun_Flamethrower.label>Lança-chamas RM2</CE_Gun_Flamethrower.label>
+  <CE_Gun_Flamethrower.description>Projeto não convencional de lança-chamas que usa cilindros substituíveis de combustível pressurizado em vez de um tanque de costas. Menos oneroso, mas precisa ser recarregado com frequência.</CE_Gun_Flamethrower.description>
+  <CE_Gun_Flamethrower.tools.0.label>cano</CE_Gun_Flamethrower.tools.0.label>
+  <CE_Gun_Flamethrower.tools.1.label>boca do cano</CE_Gun_Flamethrower.tools.1.label>
+  <CE_Gun_Flamethrower.tools.2.label>boca do cano</CE_Gun_Flamethrower.tools.2.label>
+  <CE_Gun_FlintlockBlunderbuss.label>mosquete de funil de pederneira</CE_Gun_FlintlockBlunderbuss.label>
+  <CE_Gun_FlintlockBlunderbuss.description>Uma arma de fogo antiga carregada pela boca com um cano curto de grande calibre, alargado na boca e frequentemente em todo o tubo, usada com chumbo granulado e outros projéteis de quantidade ou calibre relevantes. O mosquete de funil é comumente considerado um antecessor precoce da escopeta moderna, com uso militar e defensivo semelhante.</CE_Gun_FlintlockBlunderbuss.description>
+  <CE_Gun_FlintlockBlunderbuss.tools.0.label>coronha</CE_Gun_FlintlockBlunderbuss.tools.0.label>
+  <CE_Gun_FlintlockBlunderbuss.tools.1.label>cano</CE_Gun_FlintlockBlunderbuss.tools.1.label>
+  <CE_Gun_FlintlockBlunderbuss.tools.2.label>boca do cano</CE_Gun_FlintlockBlunderbuss.tools.2.label>
   <CE_Gun_SWGovernor.label>S&amp;W Governor</CE_Gun_SWGovernor.label>
-  <CE_Gun_SWGovernor.description>Ancient revolver designed for self-defense. Fires a powerful pistol cartridge as well as small shotgun shells.</CE_Gun_SWGovernor.description>
-  <CE_Gun_SWGovernor.tools.0.label>grip</CE_Gun_SWGovernor.tools.0.label>
-  <CE_Gun_SWGovernor.tools.1.label>muzzle</CE_Gun_SWGovernor.tools.1.label>
+  <CE_Gun_SWGovernor.description>Revólver antigo projetado para autodefesa. Dispara um cartucho de pistola poderoso além de cartuchos pequenos de escopeta.</CE_Gun_SWGovernor.description>
+  <CE_Gun_SWGovernor.tools.0.label>empunhadura</CE_Gun_SWGovernor.tools.0.label>
+  <CE_Gun_SWGovernor.tools.1.label>boca do cano</CE_Gun_SWGovernor.tools.1.label>
   <CE_Gun_AKM.label>AKM</CE_Gun_AKM.label>
-  <CE_Gun_AKM.description>Ancient military weapon chambered for an intermediate cartridge. The simple design makes it easy to assemble and gives it high reliability.</CE_Gun_AKM.description>
-  <CE_Gun_AKM.tools.0.label>stock</CE_Gun_AKM.tools.0.label>
-  <CE_Gun_AKM.tools.1.label>barrel</CE_Gun_AKM.tools.1.label>
-  <CE_Gun_AKM.tools.2.label>muzzle</CE_Gun_AKM.tools.2.label>
+  <CE_Gun_AKM.description>Arma militar antiga calibrada para um cartucho intermediário. O design simples a torna fácil de montar e dá alta confiabilidade.</CE_Gun_AKM.description>
+  <CE_Gun_AKM.tools.0.label>coronha</CE_Gun_AKM.tools.0.label>
+  <CE_Gun_AKM.tools.1.label>cano</CE_Gun_AKM.tools.1.label>
+  <CE_Gun_AKM.tools.2.label>boca do cano</CE_Gun_AKM.tools.2.label>
   <CE_Gun_MTwoFourNine.label>M249</CE_Gun_MTwoFourNine.label>
-  <CE_Gun_MTwoFourNine.description>Ancient belt-fed squad automatic weapon. It provides infantry squads with a high rate of machine gun fire, combined with the accuracy and portability of a rifle.</CE_Gun_MTwoFourNine.description>
-  <CE_Gun_MTwoFourNine.tools.0.label>stock</CE_Gun_MTwoFourNine.tools.0.label>
-  <CE_Gun_MTwoFourNine.tools.1.label>barrel</CE_Gun_MTwoFourNine.tools.1.label>
-  <CE_Gun_MTwoFourNine.tools.2.label>muzzle</CE_Gun_MTwoFourNine.tools.2.label>
+  <CE_Gun_MTwoFourNine.description>Arma automática de esquadrão antiga alimentada por fita. Dá às esquadrões de infantaria uma alta cadência de metralhadora, combinada com a precisão e a portabilidade de um fuzil.</CE_Gun_MTwoFourNine.description>
+  <CE_Gun_MTwoFourNine.tools.0.label>coronha</CE_Gun_MTwoFourNine.tools.0.label>
+  <CE_Gun_MTwoFourNine.tools.1.label>cano</CE_Gun_MTwoFourNine.tools.1.label>
+  <CE_Gun_MTwoFourNine.tools.2.label>boca do cano</CE_Gun_MTwoFourNine.tools.2.label>
   <CE_Gun_AKMSU.label>AKMS-U</CE_Gun_AKMSU.label>
-  <CE_Gun_AKMSU.description>Ancient sub-carbine design, combining the firepower of a potent intermediate cartridge with the compactness of an SMG.</CE_Gun_AKMSU.description>
-  <CE_Gun_AKMSU.tools.0.label>stock</CE_Gun_AKMSU.tools.0.label>
-  <CE_Gun_AKMSU.tools.1.label>barrel</CE_Gun_AKMSU.tools.1.label>
-  <CE_Gun_AKMSU.tools.2.label>muzzle</CE_Gun_AKMSU.tools.2.label>
+  <CE_Gun_AKMSU.description>Projeto antigo de subcarabina, combinando o poder de fogo de um cartucho intermediário potente com a compacidade de uma submetralhadora.</CE_Gun_AKMSU.description>
+  <CE_Gun_AKMSU.tools.0.label>coronha</CE_Gun_AKMSU.tools.0.label>
+  <CE_Gun_AKMSU.tools.1.label>cano</CE_Gun_AKMSU.tools.1.label>
+  <CE_Gun_AKMSU.tools.2.label>boca do cano</CE_Gun_AKMSU.tools.2.label>
   <CE_Gun_MiniFourteen.label>Ruger Mini-14</CE_Gun_MiniFourteen.label>
-  <CE_Gun_MiniFourteen.description>An ancient lightweight semi-automatic rifle design, widely popular in rimworlds due to it's venerable simplicity and accuracy.</CE_Gun_MiniFourteen.description>
-  <CE_Gun_MiniFourteen.tools.0.label>stock</CE_Gun_MiniFourteen.tools.0.label>
-  <CE_Gun_MiniFourteen.tools.1.label>barrel</CE_Gun_MiniFourteen.tools.1.label>
-  <CE_Gun_MiniFourteen.tools.2.label>muzzle</CE_Gun_MiniFourteen.tools.2.label>
+  <CE_Gun_MiniFourteen.description>Um projeto antigo de fuzil semiautomático leve, amplamente popular nos ermos por sua venerável simplicidade e precisão.</CE_Gun_MiniFourteen.description>
+  <CE_Gun_MiniFourteen.tools.0.label>coronha</CE_Gun_MiniFourteen.tools.0.label>
+  <CE_Gun_MiniFourteen.tools.1.label>cano</CE_Gun_MiniFourteen.tools.1.label>
+  <CE_Gun_MiniFourteen.tools.2.label>boca do cano</CE_Gun_MiniFourteen.tools.2.label>
 </LanguageData>

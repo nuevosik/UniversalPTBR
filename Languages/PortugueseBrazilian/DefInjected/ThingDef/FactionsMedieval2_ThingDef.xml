@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFEM2_Wine.label>wine</VFEM2_Wine.label>
-  <VFEM2_Wine.description>A large bottle of a strong alcoholic beverage that is made from fermented grapes. Excessive consumption can lead to alcohol blackouts and, over time, addiction. Consuming wine increases psychic sensitivity.</VFEM2_Wine.description>
-  <VFEM2_ImmunizationDraught.label>immunization draught</VFEM2_ImmunizationDraught.label>
-  <VFEM2_ImmunizationDraught.description>An amber-colored drink with tiny particles floating in it that bolsters the immune system of anyone that drinks it. While it helps them fight off sickness better, the downside is that it makes the user feel much more tired after drinking it, as well as overall makes the user get sleepy much faster than usual. The effects of the draught are strongest immediately after consumption, and then slowly fade away over the following days.</VFEM2_ImmunizationDraught.description>
-  <VFEM2_HealingDraught.label>healing draught</VFEM2_HealingDraught.label>
-  <VFEM2_HealingDraught.description>A vibrant red liquid. When the user drinks it, it greatly enhances their injury healing rate, speeding up the process of wound closure and tissue repair. This potion works by boosting the body’s natural healing mechanisms, making recovery from injuries much quicker.</VFEM2_HealingDraught.description>
-  <VFEM2_StrengthDraught.label>strength draught</VFEM2_StrengthDraught.label>
-  <VFEM2_StrengthDraught.description>A bold, deep red liquid. When the user drinks it, it significantly increases their physical strength, giving them the power to perform feats they normally couldn't. However, the potion also raises the user's mental break threshold, making them more prone to psychological stress. Additionally, the intense surge of strength increases the likelihood of conflicts, leading to a higher chance of social fights.</VFEM2_StrengthDraught.description>
-  <VFEM2_EfficiencyDraught.label>efficiency draught</VFEM2_EfficiencyDraught.label>
-  <VFEM2_EfficiencyDraught.description>A slate-gray liquid that when drunk, enhances the user’s global work speed and reduces their energy depletion, allowing them to work faster and longer without feeling tired. However, the intense boost in productivity comes at a significant risk, increasing the chance of a heart attack due to the strain on the body. After the potion's effects diminish, the user experiences a sharp increase in the rate at which they become sleepy, necessitating immediate rest to recover.</VFEM2_EfficiencyDraught.description>
-  <VFEM2_PainkillerDraught.label>painkiller draught</VFEM2_PainkillerDraught.label>
-  <VFEM2_PainkillerDraught.description>A pale blue liquid known as Painkiller Draught. When the user drinks it, it effectively reduces their sensation of pain, providing relief from discomfort and injuries. However, the sedative components of the draught also diminish the user's productivity and focus, making it harder to concentrate and complete tasks efficiently. This makes it suitable for recovery periods but less ideal when active mental or physical effort is required.</VFEM2_PainkillerDraught.description>
-  <VFEM2_TorturerDraught.label>torturer draught</VFEM2_TorturerDraught.label>
-  <VFEM2_TorturerDraught.description>A dark, foreboding purple liquid. When the user drinks it, it induces severe pain, incapacitating them to the point where movement becomes impossible. For prisoners, this intense agony causes a rapid decline in their will to resist, breaking down any mental barriers they may have. In the case of slaves, the draught completely suppresses their spirit, leaving them entirely subdued. This potion is used with caution due to its extreme effects.</VFEM2_TorturerDraught.description>
-  <VFEM2_FocusDraught.label>focus draught</VFEM2_FocusDraught.label>
-  <VFEM2_FocusDraught.description>A crisp, energizing turquoise liquid that when drank, significantly enhances learning abilities of the user, enabling them to absorb and retain more information rapidly. Additionally, the draught increases the efficiency of eating and resting, allowing quicker nourishment and recovery. It also boosts the accumulation of psyfocus, enhancing mental clarity and psychic abilities. However, once the effects of the draught begin to fade, these enhancements reverse, leading to decreased learning capacity, slower eating and resting rates, and diminished psyfocus.</VFEM2_FocusDraught.description>
-  <VFEM2_FertilityDraught.label>fertility draught</VFEM2_FertilityDraught.label>
-  <VFEM2_FertilityDraught.description>A gentle, rose-pink liquid. When the user drinks it, it artificially boosts their fertility, giving even those who are infertile a chance to conceive. This slight increase in fertility opens the possibility for individuals or couples struggling with infertility to become parents, focusing on enhancing natural reproductive processes.</VFEM2_FertilityDraught.description>
-  <VFEM2_InspirationDraught.label>inspiration  draught</VFEM2_InspirationDraught.label>
-  <VFEM2_InspirationDraught.description>A radiant, golden-colored liquid. When the user drinks it, it provides them with mental clarity, sharpening their focus specifically on acquiring new knowledge in areas they are passionate about. However, the draught comes at the cost of diminished combat capabilities, as the user's attention is diverted away from physical prowess and towards intellectual pursuits.</VFEM2_InspirationDraught.description>
-  <VFEM2_StoneskinDraught.label>stoneskin draught</VFEM2_StoneskinDraught.label>
-  <VFEM2_StoneskinDraught.description>A deep, slate-gray liquid. When the user drinks it, their skin undergoes a dramatic transformation, thickening and hardening to resemble a built-in suit of armor. The entire epidermis becomes tough enough to resist burns, while jointed exterior keratin plates form over the body, including the head and face, providing additional protection. This formidable physical shield makes it extremely difficult to inflict physical harm on the user. However, the appearance of the plates and hardened skin significantly reduces the user's physical attractiveness, impacting their social interactions.</VFEM2_StoneskinDraught.description>
-  <VFEM2_AmnesiaDraught.label>amnesia draught</VFEM2_AmnesiaDraught.label>
-  <VFEM2_AmnesiaDraught.description>A crystal-clear, white liquid. When the user drinks it, it causes them to rapidly lose their memory. This effect makes both negative and positive memories fade much quicker than normal, leading to a transient experience of life's events. While this can alleviate the burden of painful memories, it also diminishes the joy and learning gained from positive experiences.</VFEM2_AmnesiaDraught.description>
-  <VFEM2_ComaDraught.label>coma draught</VFEM2_ComaDraught.label>
-  <VFEM2_ComaDraught.description>A deep indigo liquid. When the user drinks it, it induces a chemically controlled coma, significantly slowing down their metabolism. This state allows the body to conserve energy and potentially aid in healing processes under controlled conditions.</VFEM2_ComaDraught.description>
-  <VFEM2_PoisonDraught.label>poison draught</VFEM2_PoisonDraught.label>
-  <VFEM2_PoisonDraught.description>A dark, ominous green liquid. When consumed, it drastically reduces the user's consciousness, inducing a chemically forced coma. This state not only incapacitates the individual but also initiates a rapid decay of their organs. The effects of this draught are severe and irreversible, leading inevitably to death.</VFEM2_PoisonDraught.description>
-  <VFEM2_AntitoxDraught.label>antitox draught</VFEM2_AntitoxDraught.label>
-  <VFEM2_AntitoxDraught.description>A clear, vibrant teal liquid. When the user drinks it, it enhances their resistance to toxins, fortifying their body against harmful substances. Additionally, this draught actively works to remove any existing toxic buildup within the user’s system, purifying their body and preventing the detrimental effects of toxins.</VFEM2_AntitoxDraught.description>
-  <VFEM2_MeleeWeapon_HeavyMace.tools.0.label>handle</VFEM2_MeleeWeapon_HeavyMace.tools.0.label>
-  <VFEM2_MeleeWeapon_HeavyMace.tools.1.label>head</VFEM2_MeleeWeapon_HeavyMace.tools.1.label>
-  <VFEM2_MeleeWeapon_DaneAxe.tools.0.label>handle</VFEM2_MeleeWeapon_DaneAxe.tools.0.label>
-  <VFEM2_MeleeWeapon_DaneAxe.tools.1.label>edge</VFEM2_MeleeWeapon_DaneAxe.tools.1.label>
-  <VFEM2_MeleeWeapon_Claymore.tools.0.label>handle</VFEM2_MeleeWeapon_Claymore.tools.0.label>
-  <VFEM2_MeleeWeapon_Claymore.tools.1.label>point</VFEM2_MeleeWeapon_Claymore.tools.1.label>
-  <VFEM2_MeleeWeapon_Claymore.tools.2.label>edge</VFEM2_MeleeWeapon_Claymore.tools.2.label>
-  <VFEM2_MeleeWeapon_Halberd.tools.0.label>shaft</VFEM2_MeleeWeapon_Halberd.tools.0.label>
-  <VFEM2_MeleeWeapon_Halberd.tools.1.label>shaft</VFEM2_MeleeWeapon_Halberd.tools.1.label>
-  <VFEM2_MeleeWeapon_Halberd.tools.2.label>point</VFEM2_MeleeWeapon_Halberd.tools.2.label>
-  <VFEM2_MeleeWeapon_Halberd.tools.3.label>edge</VFEM2_MeleeWeapon_Halberd.tools.3.label>
-  <VFEM2_MeleeWeapon_Standard.tools.0.label>shaft</VFEM2_MeleeWeapon_Standard.tools.0.label>
-  <VFEM2_MeleeWeapon_Standard.tools.1.label>shaft</VFEM2_MeleeWeapon_Standard.tools.1.label>
-  <VFEM2_MeleeWeapon_Pike.tools.0.label>shaft</VFEM2_MeleeWeapon_Pike.tools.0.label>
-  <VFEM2_MeleeWeapon_Pike.tools.1.label>shaft</VFEM2_MeleeWeapon_Pike.tools.1.label>
-  <VFEM2_MeleeWeapon_Pike.tools.2.label>point</VFEM2_MeleeWeapon_Pike.tools.2.label>
-  <VFEM2_MeleeWeapon_Shortsword.tools.0.label>handle</VFEM2_MeleeWeapon_Shortsword.tools.0.label>
-  <VFEM2_MeleeWeapon_Shortsword.tools.1.label>point</VFEM2_MeleeWeapon_Shortsword.tools.1.label>
-  <VFEM2_MeleeWeapon_Shortsword.tools.2.label>edge</VFEM2_MeleeWeapon_Shortsword.tools.2.label>
-  <VFEM2_MeleeWeapon_Flail.tools.0.label>handle</VFEM2_MeleeWeapon_Flail.tools.0.label>
-  <VFEM2_MeleeWeapon_Flail.tools.1.label>head</VFEM2_MeleeWeapon_Flail.tools.1.label>
-  <VFEM2_ThrowingAxe.tools.0.label>handle</VFEM2_ThrowingAxe.tools.0.label>
-  <VFEM2_ThrowingAxe.tools.1.label>blade</VFEM2_ThrowingAxe.tools.1.label>
-  <VFEM2_Gun_Arquebus.tools.0.label>stock</VFEM2_Gun_Arquebus.tools.0.label>
-  <VFEM2_Gun_Arquebus.tools.1.label>barrel</VFEM2_Gun_Arquebus.tools.1.label>
-  <VFEM2_Gun_HandCannon.tools.0.label>stock</VFEM2_Gun_HandCannon.tools.0.label>
-  <VFEM2_Gun_HandCannon.tools.1.label>barrel</VFEM2_Gun_HandCannon.tools.1.label>
-  <VFEM2_Arbalest.tools.0.label>limb</VFEM2_Arbalest.tools.0.label>
-  <VFEM2_Warbow.tools.0.label>limb</VFEM2_Warbow.tools.0.label>
-  <VFEM2_HemogenDraught.label>hemogen draught</VFEM2_HemogenDraught.label>
-  <VFEM2_HemogenDraught.description>A rich, crimson liquid crafted from concentrated hemogen packs. When the user drinks it, it enhances all traits and abilities tied to their hemogenic nature, boosting physical and mental capacities. Additionally, this draught replenishes the user's hemogen supply over time, maintaining their vitality and enhancing their overall function.</VFEM2_HemogenDraught.description>
-  <VFEM2_ClarityDraught.label>clarity draught</VFEM2_ClarityDraught.label>
-  <VFEM2_ClarityDraught.description>A light blue liquid that’s sparkling with a subtle effervescence. When the user drinks it, it restores some of their psychic focus and enhances their psychic sensitivity, allowing for clearer mental processing and heightened awareness. However, this increased mental activity significantly raises the user's hunger rate, making them need to eat more often. Additionally, the relentless mental buzz from the draught leads to a noticeable drop in mood due to the overwhelming flow of thoughts.</VFEM2_ClarityDraught.description>
-  <VFEM2_RoyalJellyDraught.label>royal jelly draught</VFEM2_RoyalJellyDraught.label>
-  <VFEM2_RoyalJellyDraught.description>A shimmering golden liquid. When the user drinks it, it significantly improves their immunity gain speed, enhancing their body's natural defenses against diseases and infections. Additionally, this draught boosts the user's consciousness and movement speed, sharpening their mental alertness and enhancing their physical agility. Upon consumption, it also lowers the progress of any ongoing infections by 5%.</VFEM2_RoyalJellyDraught.description>
-  <VFEM2_Gun_Musket.tools.0.label>stock</VFEM2_Gun_Musket.tools.0.label>
-  <VFEM2_Gun_Musket.tools.1.label>barrel</VFEM2_Gun_Musket.tools.1.label>
-  <VFEM2_Gun_Musket.tools.2.label>bayonet</VFEM2_Gun_Musket.tools.2.label>
-  <VFEM2_Gun_Flintlock.tools.0.label>grip</VFEM2_Gun_Flintlock.tools.0.label>
-  <VFEM2_Gun_Flintlock.tools.1.label>barrel</VFEM2_Gun_Flintlock.tools.1.label>
+  <VFEM2_Wine.label>vinho</VFEM2_Wine.label>
+  <VFEM2_Wine.description>Uma garrafa grande de uma bebida alcoólica forte feita de uvas fermentadas. O consumo excessivo pode levar a apagões alcoólicos e, com o tempo, à dependência. O consumo de vinho aumenta a sensibilidade psíquica.</VFEM2_Wine.description>
+  <VFEM2_ImmunizationDraught.label>poção de imunização</VFEM2_ImmunizationDraught.label>
+  <VFEM2_ImmunizationDraught.description>Uma bebida âmbar com partículas minúsculas flutuando nela que fortalece o sistema imunológico de quem a bebe. Embora ajude a combater doenças melhor, o contraponto é que deixa o usuário muito mais cansado depois de bebê-la, além de fazê-lo adormecer bem mais rápido que o normal. Os efeitos da poção são mais fortes logo após o consumo e depois desaparecem lentamente ao longo dos dias seguintes.</VFEM2_ImmunizationDraught.description>
+  <VFEM2_HealingDraught.label>poção de cura</VFEM2_HealingDraught.label>
+  <VFEM2_HealingDraught.description>Um líquido vermelho vivo. Quando o usuário a bebe, ela aumenta muito o ritmo de cura dos ferimentos dele, acelerando o fechamento de feridas e o reparo dos tecidos. Esta poção funciona ao impulsionar os mecanismos naturais de cura do corpo, tornando a recuperação de ferimentos bem mais rápida.</VFEM2_HealingDraught.description>
+  <VFEM2_StrengthDraught.label>poção de força</VFEM2_StrengthDraught.label>
+  <VFEM2_StrengthDraught.description>Um líquido vermelho intenso e escuro. Quando o usuário a bebe, a força física dele aumenta de forma significativa, dando-o o poder de realizar feitos que normalmente não conseguiria. Porém, a poção também eleva o limite de colapso mental do usuário, tornando-o mais propenso ao estresse psicológico. Além disso, a onda intensa de força aumenta a probabilidade de conflitos, levando a uma chance maior de brigas sociais.</VFEM2_StrengthDraught.description>
+  <VFEM2_EfficiencyDraught.label>poção de eficiência</VFEM2_EfficiencyDraught.label>
+  <VFEM2_EfficiencyDraught.description>Um líquido cinza-ardósia que, quando bebido, melhora a velocidade global de trabalho do usuário e reduz o esgotamento de energia dele, permitindo trabalhar mais rápido e por mais tempo sem sentir cansaço. Porém, o impulso intenso de produtividade vem com um risco considerável: aumenta a chance de infarto pela sobrecarga no corpo. Quando os efeitos da poção diminuem, o usuário sente um aumento acentuado no ritmo com que fica com sono, exigindo repouso imediato para se recuperar.</VFEM2_EfficiencyDraught.description>
+  <VFEM2_PainkillerDraught.label>poção analgésica</VFEM2_PainkillerDraught.label>
+  <VFEM2_PainkillerDraught.description>Um líquido azul-claro conhecido como poção analgésica. Quando o usuário a bebe, a sensação de dor dele é efetivamente reduzida, trazendo alívio ao desconforto e às feridas. Porém, os componentes sedativos da poção também diminuem a produtividade e a concentração do usuário, dificultando se concentrar e completar tarefas com eficiência. Isso a torna adequada para períodos de recuperação, mas menos ideal quando é preciso esforço mental ou físico ativo.</VFEM2_PainkillerDraught.description>
+  <VFEM2_TorturerDraught.label>poção do torturador</VFEM2_TorturerDraught.label>
+  <VFEM2_TorturerDraught.description>Um líquido roxo escuro e sinistro. Quando o usuário a bebe, ela induz dor severa, incapacitando-o a ponto de o movimento se tornar impossível. Para prisioneiros, essa agonia intensa causa um declínio rápido da vontade de resistir, derrubando qualquer barreira mental que tenham. No caso de escravos, a poção suprime completamente o espírito deles, deixando-os totalmente submissos. Esta poção é usada com cautela por causa de seus efeitos extremos.</VFEM2_TorturerDraught.description>
+  <VFEM2_FocusDraught.label>poção de foco</VFEM2_FocusDraught.label>
+  <VFEM2_FocusDraught.description>Um líquido turquesa refrescante e energizante que, quando bebido, melhora de forma significativa as capacidades de aprendizado do usuário, permitindo absorver e reter mais informação rapidamente. Além disso, a poção aumenta a eficiência de comer e descansar, permitindo nutrição e recuperação mais rápidas. Também impulsiona o acúmulo de psicofoco, realçando a clareza mental e as habilidades psíquicas. Porém, quando os efeitos da poção começam a passar, essas melhorias se invertem, levando a menor capacidade de aprendizado, rituais de comer e descansar mais lentos e psicofoco reduzido.</VFEM2_FocusDraught.description>
+  <VFEM2_FertilityDraught.label>poção de fertilidade</VFEM2_FertilityDraught.label>
+  <VFEM2_FertilityDraught.description>Um líquido rosa suave. Quando o usuário a bebe, a fertilidade dele é impulsionada artificialmente, dando até a quem é infértil uma chance de conceber. Este leve aumento de fertilidade abre a possibilidade de que indivíduos ou casais em dificuldade de infertilidade se tornem pais, focando em aprimorar os processos naturais de reprodução.</VFEM2_FertilityDraught.description>
+  <VFEM2_InspirationDraught.label>poção de inspiração</VFEM2_InspirationDraught.label>
+  <VFEM2_InspirationDraught.description>Um líquido radiante de cor dourada. Quando o usuário a bebe, recebe clareza mental, afiando o foco especificamente na aquisição de novos conhecimentos nas áreas de que gosta. Porém, a poção vem ao custo de capacidades de combate diminuídas, já que a atenção do usuário é desviada da proeza física para os empreendimentos intelectuais.</VFEM2_InspirationDraught.description>
+  <VFEM2_StoneskinDraught.label>poção de pele de pedra</VFEM2_StoneskinDraught.label>
+  <VFEM2_StoneskinDraught.description>Um líquido cinza-ardósia profundo. Quando o usuário a bebe, a pele dele passa por uma transformação dramática, engrossando e endurecendo até parecer uma armadura embutida. Toda a epiderme fica dura o bastante para resistir a queimaduras, enquanto placas de queratina exteriores articuladas se formam sobre o corpo, incluindo cabeça e rosto, dando proteção adicional. Este escudo físico formidável torna extremamente difícil infligir dano físico ao usuário. Porém, a aparência das placas e da pele endurecida reduz muito a atratividade física do usuário, impactando as interações sociais dele.</VFEM2_StoneskinDraught.description>
+  <VFEM2_AmnesiaDraught.label>poção de amnésia</VFEM2_AmnesiaDraught.label>
+  <VFEM2_AmnesiaDraught.description>Um líquido branco cristalino. Quando o usuário a bebe, ele perde a memória rapidamente. Este efeito faz memórias negativas e positivas se desvanecerem bem mais rápido que o normal, levando a uma experiência passageira dos eventos da vida. Embora isso alivie o peso das memórias dolorosas, também diminui a alegria e o aprendizado ganhos das experiências positivas.</VFEM2_AmnesiaDraught.description>
+  <VFEM2_ComaDraught.label>poção de coma</VFEM2_ComaDraught.label>
+  <VFEM2_ComaDraught.description>Um líquido índigo profundo. Quando o usuário a bebe, ela induz um coma controlado quimicamente, reduzindo bem o metabolismo dele. Este estado permite que o corpo conserve energia e pode ajudar nos processos de cura em condições controladas.</VFEM2_ComaDraught.description>
+  <VFEM2_PoisonDraught.label>poção de veneno</VFEM2_PoisonDraught.label>
+  <VFEM2_PoisonDraught.description>Um líquido verde escuro e sinistro. Quando consumida, reduz drasticamente a consciência do usuário, induzindo um coma forçado quimicamente. Este estado não só incapacita o indivíduo como também inicia um decaimento rápido dos órgãos dele. Os efeitos desta poção são severos e irreversíveis, levando inevitavelmente à morte.</VFEM2_PoisonDraught.description>
+  <VFEM2_AntitoxDraught.label>poção antitóxica</VFEM2_AntitoxDraught.label>
+  <VFEM2_AntitoxDraught.description>Um líquido azul-esverdeado vibrante e translúcido. Quando o usuário a bebe, a resistência dele a toxinas melhora, fortalecendo o corpo contra substâncias nocivas. Além disso, esta poção trabalha ativamente para remover qualquer acúmulo de toxinas existente no sistema do usuário, purificando o corpo dele e prevenindo os efeitos prejudiciais das toxinas.</VFEM2_AntitoxDraught.description>
+  <VFEM2_MeleeWeapon_HeavyMace.tools.0.label>cabo</VFEM2_MeleeWeapon_HeavyMace.tools.0.label>
+  <VFEM2_MeleeWeapon_HeavyMace.tools.1.label>cabeça</VFEM2_MeleeWeapon_HeavyMace.tools.1.label>
+  <VFEM2_MeleeWeapon_DaneAxe.tools.0.label>cabo</VFEM2_MeleeWeapon_DaneAxe.tools.0.label>
+  <VFEM2_MeleeWeapon_DaneAxe.tools.1.label>fio</VFEM2_MeleeWeapon_DaneAxe.tools.1.label>
+  <VFEM2_MeleeWeapon_Claymore.tools.0.label>cabo</VFEM2_MeleeWeapon_Claymore.tools.0.label>
+  <VFEM2_MeleeWeapon_Claymore.tools.1.label>ponta</VFEM2_MeleeWeapon_Claymore.tools.1.label>
+  <VFEM2_MeleeWeapon_Claymore.tools.2.label>fio</VFEM2_MeleeWeapon_Claymore.tools.2.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.0.label>haste</VFEM2_MeleeWeapon_Halberd.tools.0.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.1.label>haste</VFEM2_MeleeWeapon_Halberd.tools.1.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.2.label>ponta</VFEM2_MeleeWeapon_Halberd.tools.2.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.3.label>fio</VFEM2_MeleeWeapon_Halberd.tools.3.label>
+  <VFEM2_MeleeWeapon_Standard.tools.0.label>haste</VFEM2_MeleeWeapon_Standard.tools.0.label>
+  <VFEM2_MeleeWeapon_Standard.tools.1.label>haste</VFEM2_MeleeWeapon_Standard.tools.1.label>
+  <VFEM2_MeleeWeapon_Pike.tools.0.label>haste</VFEM2_MeleeWeapon_Pike.tools.0.label>
+  <VFEM2_MeleeWeapon_Pike.tools.1.label>haste</VFEM2_MeleeWeapon_Pike.tools.1.label>
+  <VFEM2_MeleeWeapon_Pike.tools.2.label>ponta</VFEM2_MeleeWeapon_Pike.tools.2.label>
+  <VFEM2_MeleeWeapon_Shortsword.tools.0.label>cabo</VFEM2_MeleeWeapon_Shortsword.tools.0.label>
+  <VFEM2_MeleeWeapon_Shortsword.tools.1.label>ponta</VFEM2_MeleeWeapon_Shortsword.tools.1.label>
+  <VFEM2_MeleeWeapon_Shortsword.tools.2.label>fio</VFEM2_MeleeWeapon_Shortsword.tools.2.label>
+  <VFEM2_MeleeWeapon_Flail.tools.0.label>cabo</VFEM2_MeleeWeapon_Flail.tools.0.label>
+  <VFEM2_MeleeWeapon_Flail.tools.1.label>cabeça</VFEM2_MeleeWeapon_Flail.tools.1.label>
+  <VFEM2_ThrowingAxe.tools.0.label>cabo</VFEM2_ThrowingAxe.tools.0.label>
+  <VFEM2_ThrowingAxe.tools.1.label>lâmina</VFEM2_ThrowingAxe.tools.1.label>
+  <VFEM2_Gun_Arquebus.tools.0.label>coronha</VFEM2_Gun_Arquebus.tools.0.label>
+  <VFEM2_Gun_Arquebus.tools.1.label>cano</VFEM2_Gun_Arquebus.tools.1.label>
+  <VFEM2_Gun_HandCannon.tools.0.label>coronha</VFEM2_Gun_HandCannon.tools.0.label>
+  <VFEM2_Gun_HandCannon.tools.1.label>cano</VFEM2_Gun_HandCannon.tools.1.label>
+  <VFEM2_Arbalest.tools.0.label>braço</VFEM2_Arbalest.tools.0.label>
+  <VFEM2_Warbow.tools.0.label>braço</VFEM2_Warbow.tools.0.label>
+  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
+  <VFEM2_HemogenDraught.description>Um líquido carmesim rico, elaborado a partir de pacotes de hemogênio concentrados. Quando o usuário a bebe, ela melhora todos os traços e capacidades ligados à natureza hemogênica dele, impulsionando as capacidades físicas e mentais. Além disso, esta poção reabastece o suprimento de hemogênio do usuário ao longo do tempo, mantendo a vitalidade e melhorando o funcionamento geral dele.</VFEM2_HemogenDraught.description>
+  <VFEM2_ClarityDraught.label>poção de lucidez</VFEM2_ClarityDraught.label>
+  <VFEM2_ClarityDraught.description>Um líquido azul-claro cintilante com uma efervescência sutil. Quando o usuário a bebe, ela restaura parte do psicofoco dele e melhora a sensibilidade psíquica, permitindo processamento mental mais claro e percepção aguçada. Porém, esta atividade mental aumentada eleva muito a taxa de fome do usuário, fazendo com que precise comer com mais frequência. Além disso, o zumbido mental implacável da poção leva a uma queda notável do humor, por causa do fluxo avassalador de pensamentos.</VFEM2_ClarityDraught.description>
+  <VFEM2_RoyalJellyDraught.label>poção de geléia real</VFEM2_RoyalJellyDraught.label>
+  <VFEM2_RoyalJellyDraught.description>Um líquido dourado cintilante. Quando o usuário a bebe, a velocidade de ganho de imunidade dele melhora de forma significativa, reforçando as defesas naturais do corpo contra doenças e infecções. Além disso, esta poção impulsiona a consciência e a velocidade de movimento do usuário, afiando o alerta mental e melhorando a agilidade física. Ao consumo, ela também reduz em 5% o progresso de qualquer infecção em curso.</VFEM2_RoyalJellyDraught.description>
+  <VFEM2_Gun_Musket.tools.0.label>coronha</VFEM2_Gun_Musket.tools.0.label>
+  <VFEM2_Gun_Musket.tools.1.label>cano</VFEM2_Gun_Musket.tools.1.label>
+  <VFEM2_Gun_Musket.tools.2.label>baioneta</VFEM2_Gun_Musket.tools.2.label>
+  <VFEM2_Gun_Flintlock.tools.0.label>empunhadura</VFEM2_Gun_Flintlock.tools.0.label>
+  <VFEM2_Gun_Flintlock.tools.1.label>cano</VFEM2_Gun_Flintlock.tools.1.label>
 </LanguageData>
