@@ -39,17 +39,17 @@ Alvos: 139 | chaves: 26296
 | B12 | 3444347874 | OskarPotocki.VFE.Medieval2 | Vanilla Factions Expanded - Medieval 2 | 179 | 0 | 179 | feito |
 | B12 | 761421485 | UnlimitedHugs.AllowTool | Allow Tool | 39 | 132 | 171 | feito |
 | B12 | 3565025938 | CETeam.CombatExtendedGuns | Combat Extended Guns | 162 | 0 | 162 | feito |
-| B13 | 2903293603 | Sierra.RF.HouseDoyle | RimFantasy - House Doyle | 158 | 0 | 158 | pendente |
-| B13 | 2877392159 | Scherub.PlanningExtended | Planning Extended | 17 | 139 | 156 | pendente |
-| B13 | 2871933948 | VanillaExpanded.VanillaAnimalsExpanded | Vanilla Animals Expanded | 146 | 0 | 146 | pendente |
-| B13 | 1235181370 | Merthsoft.DesignatorShapes | Designator Shapes | 108 | 36 | 144 | pendente |
-| B13 | 2888380373 | wvc.sergkart.biotech.MoreMechanoidsWorkModes | WVC - Work Modes | 46 | 88 | 134 | pendente |
-| B13 | 3656316229 | VanillaExpanded.VExplorationE | Vanilla Landmarks Expanded | 132 | 0 | 132 | pendente |
-| B13 | 730936602 | brrainz.achtung | Achtung! | 0 | 122 | 122 | pendente |
-| B13 | 3328729902 | Andromeda.NiceHealthTab | Nice Health Tab | 0 | 121 | 121 | pendente |
-| B13 | 1938420742 | VanillaExpanded.VEE | Vanilla Events Expanded | 51 | 63 | 114 | pendente |
-| B13 | 3726293423 | ICC.FOV.ELVES | Faction - Elves | 113 | 0 | 113 | pendente |
-| B13 | 3609897594 | Andromeda.NiceInventoryTab | Nice Inventory Tab | 2 | 108 | 110 | pendente |
+| B13 | 2903293603 | Sierra.RF.HouseDoyle | RimFantasy - House Doyle | 158 | 0 | 158 | feito |
+| B13 | 2877392159 | Scherub.PlanningExtended | Planning Extended | 17 | 139 | 156 | feito |
+| B13 | 2871933948 | VanillaExpanded.VanillaAnimalsExpanded | Vanilla Animals Expanded | 146 | 0 | 146 | feito |
+| B13 | 1235181370 | Merthsoft.DesignatorShapes | Designator Shapes | 108 | 36 | 144 | feito |
+| B13 | 2888380373 | wvc.sergkart.biotech.MoreMechanoidsWorkModes | WVC - Work Modes | 46 | 88 | 134 | feito |
+| B13 | 3656316229 | VanillaExpanded.VExplorationE | Vanilla Landmarks Expanded | 132 | 0 | 132 | feito |
+| B13 | 730936602 | brrainz.achtung | Achtung! | 0 | 122 | 122 | feito |
+| B13 | 3328729902 | Andromeda.NiceHealthTab | Nice Health Tab | 0 | 121 | 121 | feito |
+| B13 | 1938420742 | VanillaExpanded.VEE | Vanilla Events Expanded | 51 | 63 | 114 | feito |
+| B13 | 3726293423 | ICC.FOV.ELVES | Faction - Elves | 113 | 0 | 113 | feito |
+| B13 | 3609897594 | Andromeda.NiceInventoryTab | Nice Inventory Tab | 2 | 108 | 110 | feito |
 | B14 | 2193152410 | VanillaExpanded.VBooksE | Vanilla Books Expanded | 92 | 14 | 106 | pendente |
 | B14 | 3524247750 | jecrell.jecstools | JecsTools Unofficial 1.6 BETA | 17 | 87 | 104 | pendente |
 | B14 | 3210544395 | syrchalis.processor.framework | [SYR] Processor Framework | 10 | 89 | 99 | pendente |
