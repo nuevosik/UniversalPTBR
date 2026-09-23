@@ -184,3 +184,16 @@ Termos novos cunhados nos maiores alvos; nenhum substitui termo herdado.
 | raw shaping | modelagem de recursos brutos | novo — WD2 `TSA_WD_Outpost_RawShaping`. |
 | academy / acolyte | academia / acólito | "acólito" oficial — `Core/DefInjected/BackstoryDef/Solid_Adult.xml` `AcolyteOfStars6`; "academia" novo (WD2 `TSA_WD_Outpost_Academy`). |
 | cowanoid / chickenoid | cowanoide / galinhenoide | novo — DMS; trocadilhos com "mecanoide", preservar o radical "-noide". |
+
+## Registro de cunhagens — B9 (VPE e bibliotecas)
+
+| EN | PT-BR | Obs |
+|---|---|---|
+| psycaster (pessoa) | psinjurador | herdado do oficial (VME `PreceptDef` "psinjurador", VRE Archon) — unificado no B9 em 69b173a; "psicocaster" era divergente. |
+| psycast (habilidade) | psicocast | convenção do repo B9; "psi-talento" oficial não adotado para não reterraduzir 56 ocorrências. |
+| psyessence | psiessência | novo — VPE. |
+| skipgate / skipdoor / skipbarrier / skipshield | portal de salto / porta de salto / barreira de salto / escudo de salto | novo — VPE B9; radical "salto" do `VPE_Skipdoor` ("porta de salto") já existente. |
+| archotechist | arqueotecista | novo — VPE; stem segue "arqueotecnológicos" (Core archist). |
+| skipmaster / staticlord | mestre do salto / senhor da estática | novo — VPE rótulos de caminho. |
+| psyring | anel psíquico | novo — VPE `VPE_Psyring` + receita; antes ficava "psiring" em EN. |
+| path | caminho | VPE rótulos de caminho ("O caminho do X"). |
