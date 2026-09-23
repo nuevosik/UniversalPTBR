@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CWF_Range>Alcance</CWF_Range>
+  <CWF_RangeDPS>DPS</CWF_RangeDPS>
+  <CWF_RangeBurstCount>Rajadas</CWF_RangeBurstCount>
+  <CWF_RangeWarmupTime>Tempo de preparação</CWF_RangeWarmupTime>
+  <CWF_RangeCooldown>Recarga</CWF_RangeCooldown>
+  <CWF_Projectile>Projétil</CWF_Projectile>
+  <CWF_Damage>Dano</CWF_Damage>
+  <CWF_ArmorPenetration>Penetração de armadura</CWF_ArmorPenetration>
+  <CWF_StoppingPower>Poder de parada</CWF_StoppingPower>
+  <CWF_Accuracy>Precisão</CWF_Accuracy>
+  <CWF_Touch>Contato</CWF_Touch>
+  <CWF_Short>Curto</CWF_Short>
+  <CWF_Medium>Médio</CWF_Medium>
+  <CWF_Long>Longo</CWF_Long>
+  <CWF_BurstShotCountMultiplier>Multiplicador de rajadas</CWF_BurstShotCountMultiplier>
+  <CWF_BurstShotSpeedMultiplier>Multiplicador de cadência</CWF_BurstShotSpeedMultiplier>
+  <CWF_AdditionalStoppingPower>Bônus de poder de parada</CWF_AdditionalStoppingPower>
+  <CWF_WeaponPanel>Painel da arma</CWF_WeaponPanel>
+  <CWF_WeaponPanelDesc>Abrir o painel da arma</CWF_WeaponPanelDesc>
+  <CWF_PickUp>Pegar {MODULE_label}</CWF_PickUp>
+  <CWF_NoColonistToModifyWeapon>Nenhum colono pode modificar esta arma</CWF_NoColonistToModifyWeapon>
+  <CWF_CannotFindModuleForModification>Não foi possível encontrar {MODULE_label} para esta modificação</CWF_CannotFindModuleForModification>
+  <CWF_ModificationJobDispatched>{PAWN_label} modificará {WEAPON_label}</CWF_ModificationJobDispatched>
+  <CWF_ModificationComplete>{PAWN_label} terminou de modificar {WEAPON_label}</CWF_ModificationComplete>
+  <CWF_NoWorkbenchToCraftModule>Nenhuma bancada adequada para fabricar {MODULE_label}</CWF_NoWorkbenchToCraftModule>
+  <CWF_BillAdded>Tarefa adicionada: {MODULE_label} ({BENCH_label})</CWF_BillAdded>
+  <CWF_SettingsCategory>Customize Weapon</CWF_SettingsCategory>
+  <CWF_Parts>Peças</CWF_Parts>
+  <CWF_CompatibleModules>Módulos compatíveis</CWF_CompatibleModules>
+  <CWF_BrowseCompatibleModules>Ver módulos compatíveis</CWF_BrowseCompatibleModules>
+  <CWF_PartOf>Peça de</CWF_PartOf>
+  <CWF_Uninstall>Desinstalar</CWF_Uninstall>
+  <CWF_NoCompatibleModules>Nenhum módulo compatível</CWF_NoCompatibleModules>
+  <CWF_NoCompatibleModulesInInventory>Nenhum módulo compatível no inventário</CWF_NoCompatibleModulesInInventory>
+  <CWF_NoCompatibleModulesOnMap>Nenhum módulo compatível no mapa</CWF_NoCompatibleModulesOnMap>
+  <CWF_WeaponModules>Módulos de arma</CWF_WeaponModules>
+  <CWF_WeaponModules_Desc>Módulos instalados nesta arma.</CWF_WeaponModules_Desc>
+  <CWF_ModuleEffects>Efeitos do módulo</CWF_ModuleEffects>
+  <CWF_ModuleEffectsDesc>Instalar {MODULE_label} confere à arma estes efeitos</CWF_ModuleEffectsDesc>
+  <CWF_Rarity>Raridade</CWF_Rarity>
+  <CWF_RarityDesc>A raridade deste módulo de arma.</CWF_RarityDesc>
+  <CWF_Rarity_Standard>Padrão</CWF_Rarity_Standard>
+  <CWF_Rarity_Rare>Raro</CWF_Rarity_Rare>
+  <CWF_Rarity_Legendary>Lendário</CWF_Rarity_Legendary>
+  <CWF_InputTitle>Entrada</CWF_InputTitle>
+  <CWF_NotRanged>No momento apenas armas de longo alcance são suportadas.</CWF_NotRanged>
+  <CWF_ConfirmInstallTitle>Confirmar instalação</CWF_ConfirmInstallTitle>
+  <CWF_ConfirmInstallBody>Instalar {MODULE} também removerá estes módulos:\n\n{CONFLICTS}\n\nContinuar?</CWF_ConfirmInstallBody>
+  <CWF_ConfirmUninstallTitle>Confirmar desinstalação</CWF_ConfirmUninstallTitle>
+  <CWF_ConfirmUninstallBody>Desinstalar {MODULE} também removerá estes módulos:\n\n{DEPENDENCIES}\n\nContinuar?</CWF_ConfirmUninstallBody>
+  <CWF_FromEquipped>De módulos de arma</CWF_FromEquipped>
+  <CWF_DynamicTextures>Ativar texturas dinâmicas</CWF_DynamicTextures>
+  <CWF_DynamicTexturesDesc>Se ativado, as texturas da arma são compostas dinamicamente a partir dos módulos instalados. Desative para manter a aparência original da arma.</CWF_DynamicTexturesDesc>
+  <CWF_RandomModuleGeneration>Geração aleatória de módulos</CWF_RandomModuleGeneration>
+  <CWF_RandomModuleGenerationDesc>Se ativado, colonos de outras facções, como invasores, aliados e negociantes, podem surgir com armas que têm módulos aleatórios</CWF_RandomModuleGenerationDesc>
+  <CWF_RarityWeights>Pesos de raridade</CWF_RarityWeights>
+  <CWF_RarityWeightsDesc>Determina com que frequência cada raridade é atribuída na geração aleatória de módulos. Peso maior significa mais comum.</CWF_RarityWeightsDesc>
+  <CWF_RarityWeight_Standard>Padrão</CWF_RarityWeight_Standard>
+  <CWF_RarityWeight_Rare>Raro</CWF_RarityWeight_Rare>
+  <CWF_RarityWeight_Legendary>Lendário</CWF_RarityWeight_Legendary>
+  <CWF_All>Tudo</CWF_All>
+  <CWF_Craft>Fabricar</CWF_Craft>
+  <CWF_CannotCraft>Não é possível fabricar</CWF_CannotCraft>
+  <CWF_ClearAllModules>Desinstalar todos os módulos</CWF_ClearAllModules>
+  <CWF_SaveCurrentPreset>Salvar predefinição atual...</CWF_SaveCurrentPreset>
+  <CWF_SaveCurrentPresetTitle>Salvar predefinição de montagem atual</CWF_SaveCurrentPresetTitle>
+  <CWF_ApplyPreset>Aplicar predefinição de montagem...</CWF_ApplyPreset>
+  <CWF_DeletePreset>Excluir predefinição de montagem...</CWF_DeletePreset>
+  <CWF_PresetNameEmpty>O nome da predefinição não pode estar vazio.</CWF_PresetNameEmpty>
+  <CWF_PresetManagerUnavailable>O armazenamento de predefinições não está disponível neste save.</CWF_PresetManagerUnavailable>
+  <CWF_PresetSaved>Predefinição salva: {NAME}</CWF_PresetSaved>
+  <CWF_PresetDeleted>Predefinição excluída: {NAME}</CWF_PresetDeleted>
+  <CWF_PresetDeleteFailed>Falha ao excluir predefinição: {NAME}</CWF_PresetDeleteFailed>
+  <CWF_PresetApplied>Predefinição aplicada: {NAME}</CWF_PresetApplied>
+  <CWF_PresetAppliedWithSkipped>Predefinição aplicada: {NAME} ({COUNT} módulos ausentes ou incompatíveis ignorados)</CWF_PresetAppliedWithSkipped>
+</LanguageData>

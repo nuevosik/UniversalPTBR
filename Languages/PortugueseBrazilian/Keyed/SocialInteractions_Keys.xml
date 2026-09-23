@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de fazer um pouco de trabalho.</VSIE.WorkFrenzyBeginLetterContinue>
+  <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de se juntar a uma caravana e se aventurar pelo mundo.</VSIE.GoFrenzyBeginLetterContinue>
+  <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de sair para uma caçada.</VSIE.ShootingFrenzyBeginLetterContinue>
+  <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de fechar uma negociação.</VSIE.InspiredTradeBeginLetterContinue>
+  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de recrutar um prisioneiro.</VSIE.InspiredRecruitmentBeginLetterContinue>
+  <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de tentar domesticar um animal.</VSIE.InspiredTamingBeginLetterContinue>
+  <VSIE.InspiredSurgeryBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de realizar uma cirurgia.</VSIE.InspiredSurgeryBeginLetterContinue>
+  <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de criar um item obra-prima ou lendário.</VSIE.InspiredCreativityBeginLetterContinue>
+  <VSIE.TraitChangeTitle>{PAWN_nameDef} obteve o traço {0}</VSIE.TraitChangeTitle>
+  <VSIE.TraitChangePrisonerRecruited>Ao recrutar {PAWN_nameDef}, descobriu-se que {PAWN_pronoun} tem o traço {0}.\n\n{1}</VSIE.TraitChangePrisonerRecruited>
+  <VSIE.TraitChangePawnResurrected>Quando {PAWN_nameDef} morreu e voltou à vida, notou-se que agora tem o traço {0}.\n\n{1}</VSIE.TraitChangePawnResurrected>
+  <VSIE.TraitChangePawnHasCatatonicBreakdown>Quando {PAWN_nameDef} sucumbiu ao colapso mental catatônico, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.TraitChangePawnHasCatatonicBreakdown>
+  <VSIE.TraitChangeFamilyMemberDied>Quando um familiar de {PAWN_nameDef} morreu, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.TraitChangeFamilyMemberDied>
+  <VSIE.CatarhisAfterMentalBreak>O surto mental extremo de {PAWN_nameDef} causou uma mudança permanente no caráter, pois {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.CatarhisAfterMentalBreak>
+  <VSIE.RecoveredAfterDeadlyDisease>O tempo que {PAWN_nameDef} passou lutando contra a doença fatal foi suficiente para uma autorreflexão, pois {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.RecoveredAfterDeadlyDisease>
+  <VSIE.BirthdayEvent>{PAWN_nameDef} aproveitou o aniversário para refletir sobre si mesmo, o que resultou no desenvolvimento do traço {0}.\n\n{1}</VSIE.BirthdayEvent>
+  <VSIE.BestowingCeremony>Talvez o maior momento da vida de {PAWN_nameDef}, uma cerimônia de concessão permitiu o desenvolvimento do traço {0}.\n\n{1}</VSIE.BestowingCeremony>
+  <VSIE.ToughtRaidEvent>Após os eventos recentes e a difícil incursão que a colônia enfrentou, {PAWN_nameDef} refletiu sobre si mesmo e desenvolveu o traço {0}.\n\n{1}</VSIE.ToughtRaidEvent>
+  <VSIE.Discord>Uma briga social coletiva eclodiu.</VSIE.Discord>
+  <VSIE.OneNightStandTitle>aventura de uma noite</VSIE.OneNightStandTitle>
+  <VSIE.OneNightStandText>{INITIATOR_nameDef} vive uma aventura de uma noite com {PARTNER_nameDef}. Embora ambos recebam todos os benefícios de uma noite de amor, eles não formam um casal.</VSIE.OneNightStandText>
+  <VSIE.EnableMemories>Ativar memórias</VSIE.EnableMemories>
+  <VSIE.EnableInspirations>Ativar inspirações</VSIE.EnableInspirations>
+  <VSIE.EnableAspirations>Ativar aspirações</VSIE.EnableAspirations>
+  <VSIE.EnableObtainingNewTraits>Ativar obtenção de novos traços</VSIE.EnableObtainingNewTraits>
+  <VSIE.EnableVenting>Ativar desabafo</VSIE.EnableVenting>
+  <VSIE.EnableBestFriend>Ativar melhor amigo</VSIE.EnableBestFriend>
+  <VSIE.EnableTeaching>Ativar ensino</VSIE.EnableTeaching>
+  <VSIE.EnableManyHandsMakeLightWork>Ativar união faz a força</VSIE.EnableManyHandsMakeLightWork>
+  <VSIE.EnableDiscord>Ativar discórdia</VSIE.EnableDiscord>
+  <VSIE.EnableGroupActivities>Ativar atividades em grupo</VSIE.EnableGroupActivities>
+  <VSIE.EnableDating>Ativar namoro</VSIE.EnableDating>
+  <VSIE.EnableUnitedWeStand>Ativar unidos resistimos</VSIE.EnableUnitedWeStand>
+  <VSIE.EnableSocialEnvironmentThoughts>Ativar pensamentos do ambiente social</VSIE.EnableSocialEnvironmentThoughts>
+  <VSIE.EnableOneNightStand>Ativar aventura de uma noite</VSIE.EnableOneNightStand>
+</LanguageData>
