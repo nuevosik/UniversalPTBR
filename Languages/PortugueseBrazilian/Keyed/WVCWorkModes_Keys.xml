@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WVC_MechanoidShutdownZone>Zona de desligamento de mecanoide</WVC_MechanoidShutdownZone>
+  <WVC_MechanoidShutdownZoneDesc>Os mecanoides voltam para cá antes de desligar.</WVC_MechanoidShutdownZoneDesc>
+  <WVC_ShutdownZone_AllowWorkers>Tipo de trabalho</WVC_ShutdownZone_AllowWorkers>
+  <WVC_ShutdownZone_AllowSafe>Tipo seguro</WVC_ShutdownZone_AllowSafe>
+  <WVC_ShutdownZone_AllowCombatants>Tipo de combate</WVC_ShutdownZone_AllowCombatants>
+  <WVC_ShutdownZone_AllowAmbush>Tipo de emboscada</WVC_ShutdownZone_AllowAmbush>
+  <WVC_WorkModes_allowAllGroups>Todos os grupos permitidos</WVC_WorkModes_allowAllGroups>
+  <WVC_ShutdownZone_BasicDesc>Responsável por determinar se os mecanoides com este tipo de trabalho podem se desligar aqui.</WVC_ShutdownZone_BasicDesc>
+  <WVC_WorkModes_allowAllGroupsDesc>Responsável por determinar se todos os mecanoides, independente do grupo, podem usar esta zona.</WVC_WorkModes_allowAllGroupsDesc>
+  <WVC_WorkModes_On>Ligado</WVC_WorkModes_On>
+  <WVC_WorkModes_Off>Desligado</WVC_WorkModes_Off>
+  <WVC_MechanoidScavengeZone>Zona de coleta de sucata de mecanoides</WVC_MechanoidScavengeZone>
+  <WVC_MechanoidScavengeZoneDesc>No modo de trabalho "Coleta de sucata", os mecanoides procuram recursos úteis nesta zona.</WVC_MechanoidScavengeZoneDesc>
+  <WVC_MechanoidScavengeZone_CellsCount>Quadrados: {0} | Mínimo permitido: {1}</WVC_MechanoidScavengeZone_CellsCount>
+  <WVC_WorkModes_AssignToPawnEscortLabel>Atribuir à escolta</WVC_WorkModes_AssignToPawnEscortLabel>
+  <WVC_WorkModes_AssignToPawnEscortLabelReset>Redefinir colono escoltado</WVC_WorkModes_AssignToPawnEscortLabelReset>
+  <WVC_WorkModes_AssignToPawnEscortDesc>{0} escoltante atribuído {1}\n\nPermite especificar ao mecanoide qual colono ele vai escoltar.\n\n{0} não pode seguir ninguém além de um supervisor em uma caravana ou em mapas não domésticos.</WVC_WorkModes_AssignToPawnEscortDesc>
+  <WVC_WorkModes_AssignToPawnEscortAssigned>{0} atribuído para escoltar {1}.</WVC_WorkModes_AssignToPawnEscortAssigned>
+  <WVC_WorkModes_AssignToPawnEscortNoLongerEscort>{0} não escolta mais {1}.</WVC_WorkModes_AssignToPawnEscortNoLongerEscort>
+  <WVC_WorkModes_EscortsAssignTargetLabel>Atribuído a escoltas {0}</WVC_WorkModes_EscortsAssignTargetLabel>
+  <WVC_WorkModes_ChangeModDefaultMessage>{0} não foi pesquisado. Modo mudou para {1}.</WVC_WorkModes_ChangeModDefaultMessage>
+  <WVC_WorkModes_ModeTechnologyRequirement>Tecnologias exigidas:</WVC_WorkModes_ModeTechnologyRequirement>
+  <WVC_WorkModes_TechnologyAllowsModes>Permite usar novos modos:</WVC_WorkModes_TechnologyAllowsModes>
+  <WVC_WorkModes_TechnologyAllowsModes_Desc>- &lt;color=#00cccc&gt;{0}&lt;/color&gt;: {1}</WVC_WorkModes_TechnologyAllowsModes_Desc>
+  <WVC_WorkModes_CurrentZoneGroup>Grupo atual</WVC_WorkModes_CurrentZoneGroup>
+  <WVC_WorkModes_CurrentZoneOwner>Dono atual</WVC_WorkModes_CurrentZoneOwner>
+  <WVC_WorkModes_ChosenGroupLabel>Atribuir grupo</WVC_WorkModes_ChosenGroupLabel>
+  <WVC_WorkModes_ChosenGroupDesc>Permite designar um grupo de mecanoides que voltará a esta zona.</WVC_WorkModes_ChosenGroupDesc>
+  <WVC_WorkModes_GroupIsChosen>Grupo {0} atribuído a {1}.</WVC_WorkModes_GroupIsChosen>
+  <WVC_WorkModes_ChosenMechanitorLabel>Atribuir mecanitor</WVC_WorkModes_ChosenMechanitorLabel>
+  <WVC_WorkModes_ChosenMechanitorDesc>Permite atribuir um dono à zona.</WVC_WorkModes_ChosenMechanitorDesc>
+  <WVC_WorkModes_MechanitorIsChosen>{0} atribuído como dono de {1}.</WVC_WorkModes_MechanitorIsChosen>
+  <WVC_WorkModes_ResetOwnerLabel>Redefinir dono</WVC_WorkModes_ResetOwnerLabel>
+  <WVC_WorkModes_ResetOwnerDesc>Permite redefinir o dono de uma zona.</WVC_WorkModes_ResetOwnerDesc>
+  <WVC_WorkModes_ResetOwnerMessage>As configurações de {0} foram redefinidas para o padrão.</WVC_WorkModes_ResetOwnerMessage>
+  <WVC_WorkModes_RestrictZoneByGroupLabel>Usar apenas zonas de grupo</WVC_WorkModes_RestrictZoneByGroupLabel>
+  <WVC_WorkModes_RestrictZoneByGroupDesc>Permite limitar a escolha de zonas do mecanoide àquelas especificamente atribuídas ao grupo dele.</WVC_WorkModes_RestrictZoneByGroupDesc>
+  <WVC_WorkModes_RestrictZoneByGroupInspect>Usa apenas zonas do grupo dele</WVC_WorkModes_RestrictZoneByGroupInspect>
+  <WVC_MMWM_Settings>Modos de trabalho</WVC_MMWM_Settings>
+  <WVC_Label_MainModeLabelSetting>Principal</WVC_Label_MainModeLabelSetting>
+  <WVC_Label_BonusModeLabelSetting>Bônus</WVC_Label_BonusModeLabelSetting>
+  <WVC_Label_WorkModeMechanicsLabelSetting>Mecânicas</WVC_Label_WorkModeMechanicsLabelSetting>
+  <WVC_Label_FindAndDestroy>Procurar e destruir</WVC_Label_FindAndDestroy>
+  <WVC_Label_WaitEnemy>Aguardar inimigo</WVC_Label_WaitEnemy>
+  <WVC_Label_WorkAndWaitEnemy>Trabalhar e aguardar</WVC_Label_WorkAndWaitEnemy>
+  <WVC_Label_DefendYourself>Defenda-se</WVC_Label_DefendYourself>
+  <WVC_Label_Ambush>Emboscada</WVC_Label_Ambush>
+  <WVC_Label_WorkAndRecharge>Trabalhar e recarregar</WVC_Label_WorkAndRecharge>
+  <WVC_Label_SafeWorkAndRecharge>Trabalhar se seguro</WVC_Label_SafeWorkAndRecharge>
+  <WVC_Label_EscaortAndRecharge>Escoltar e recarregar</WVC_Label_EscaortAndRecharge>
+  <WVC_Label_WorkRechargeEscort>Trabalhar, recarregar e escoltar</WVC_Label_WorkRechargeEscort>
+  <WVC_Label_EscortIfEnemyOnMap>Escoltar se houver inimigo</WVC_Label_EscortIfEnemyOnMap>
+  <WVC_ToolTip_Setting>Antes de desativar, mude todos os modos de mecanoide para o do jogo base. É preciso reiniciar para aplicar as configurações.</WVC_ToolTip_Setting>
+  <WVC_Label_EscortIfEnemyWorkAndRecharge>Escoltar se houver inimigo, trabalhar e recarregar</WVC_Label_EscortIfEnemyWorkAndRecharge>
+  <WVC_Label_EscortIfDraftedOrDowned>Escoltar se recrutado ou caído</WVC_Label_EscortIfDraftedOrDowned>
+  <WVC_Label_HiveMindResearching>Pesquisando mente colmeia</WVC_Label_HiveMindResearching>
+  <WVC_Label_Scavenging>Coleta de sucata</WVC_Label_Scavenging>
+  <WVC_Label_ScavenZoneCells>Quadrados mínimos exigidos na zona de coleta: {0}</WVC_Label_ScavenZoneCells>
+  <WVC_ToolTip_BonusSetting>Modo bônus. Vem desativado por padrão. Ativar é compatível com saves.</WVC_ToolTip_BonusSetting>
+  <WVC_Label_enableShutdownForAllMechanoids>Otimização de ociosidade para modos do jogo base</WVC_Label_enableShutdownForAllMechanoids>
+  <WVC_ToolTip_enableShutdownForAllMechanoids>Se ativo, a otimização de ociosidade também afeta os modos do jogo base.</WVC_ToolTip_enableShutdownForAllMechanoids>
+  <WVC_Label_enableSmartChargingForAllMechanoids>Recarga inteligente para modos do jogo base</WVC_Label_enableSmartChargingForAllMechanoids>
+  <WVC_ToolTip_enableSmartChargingForAllMechanoids>Se ativo, então os mecanoides irão carregar quando não estiverem ocupados com nada, e não apenas quando a carga acabar.</WVC_ToolTip_enableSmartChargingForAllMechanoids>
+  <WVC_ToolTip_VanillaModeOptimizationWarning>Não afeta mecanoides de combate, pois a ociosidade deles foi substituída por uma patrulha simulada.</WVC_ToolTip_VanillaModeOptimizationWarning>
+  <WVC_Label_enableShutdownSearching>Ativar busca de zona de desligamento</WVC_Label_enableShutdownSearching>
+  <WVC_ToolTip_enableShutdownSearching>Se ativo, os mecanoides buscam uma zona de desligamento de mecanoide antes de desligar.</WVC_ToolTip_enableShutdownSearching>
+  <WVC_Label_enableEnemySearching>Ativar busca de inimigos</WVC_Label_enableEnemySearching>
+  <WVC_ToolTip_enableEnemySearching>Se ativo, nos modos seguros, os mecanoides verificam o mapa em busca de inimigos.</WVC_ToolTip_enableEnemySearching>
+  <WVC_ToolTip_enableSearchingWarning>Se você não entende o que esta opção faz, deixe-a ativada.</WVC_ToolTip_enableSearchingWarning>
+  <WVC_Label_enableSmartEscort>Escolta inteligente</WVC_Label_enableSmartEscort>
+  <WVC_ToolTip_enableSmartEscort>Se ativo, permite selecionar um alvo de escolta para os mecanoides.\n\nÉ preciso reiniciar!</WVC_ToolTip_enableSmartEscort>
+  <WVC_Label_shutdownModeZonesOrSpots>Modo de desligamento: Zonas ou Pontos</WVC_Label_shutdownModeZonesOrSpots>
+  <WVC_ToolTip_shutdownModeZonesOrSpots>Se ativo, serão usadas zonas. Caso contrário, pontos. É recomendado ativá-lo.\n\nEsta opção é para usuários avançados. Se você não sabe o que são pontos, deixe-a ativada.\n\nÉ preciso reiniciar!</WVC_ToolTip_shutdownModeZonesOrSpots>
+  <WVC_Label_useCustomShutdownBehavior>Usar comportamento de desligamento personalizado</WVC_Label_useCustomShutdownBehavior>
+  <WVC_ToolTip_useCustomShutdownBehavior>O desligamento do jogo base é burro demais, mas confiável. Se você encontrar bugs relacionados ao desligamento de mecanoides, desative esta opção.</WVC_ToolTip_useCustomShutdownBehavior>
+  <WVC_WorkModes_DormantModeStatPart>Em modo de desligamento x{0}%</WVC_WorkModes_DormantModeStatPart>
+  <WVC_WorkModes_ResetButton>Redefinir</WVC_WorkModes_ResetButton>
+  <WVC_WorkModes_ResetButtonWarning>As configurações serão alteradas, tem certeza?</WVC_WorkModes_ResetButtonWarning>
+  <WVC_WorkModes_ResetButton_SettingsChanged>As configurações foram alteradas.</WVC_WorkModes_ResetButton_SettingsChanged>
+  <WVC_Label_RechargeAndShutdown>Recarregar e desligar</WVC_Label_RechargeAndShutdown>
+  <WVC_Label_enableDormantMode>Modo dormente</WVC_Label_enableDormantMode>
+  <WVC_ToolTip_enableDormantMode>Se ativo, então quando o mecanoide está em modo de desligamento ele não consome largura de banda.\n\nEm caso de problemas de desempenho, é recomendado desativá-lo.\n\nÉ preciso reiniciar!</WVC_ToolTip_enableDormantMode>
+  <WVC_Label_mechBandwithCostInDormantMode>Fator de custo de largura de banda no modo dormente x{0}%</WVC_Label_mechBandwithCostInDormantMode>
+  <WVC_WM_Label_enableAutoRepairByDefault>Autorreparo ativo por padrão</WVC_WM_Label_enableAutoRepairByDefault>
+  <WVC_WM_ToolTip_enableAutoRepairByDefault>Após surgir, muda automaticamente o autorreparo do mecanoide para verdadeiro.</WVC_WM_ToolTip_enableAutoRepairByDefault>
+  <WVC_WM_ShutdownGroup>desligar</WVC_WM_ShutdownGroup>
+  <WVC_Label_enable_GoToShutdownRoomJob>Ativar cômodos de hangar de mecanoides (Beta)</WVC_Label_enable_GoToShutdownRoomJob>
+  <WVC_ToolTip_enable_GoToShutdownRoomJob>Se ativo, todos os carregadores de mecanoides criam um novo tipo de cômodo "Hangar de mecanoides". Os mecanoides dormem lá se não houver alternativas na forma de zonas.\n\nRecomendado ao jogar com gravinaves (DLC Odyssey), já que as zonas são redefinidas quando a nave voa.\n\n(Beta) Um farol especial está planejado para permitir ajuste fino semelhante ao das zonas.\n\nÉ preciso reiniciar!</WVC_ToolTip_enable_GoToShutdownRoomJob>
+</LanguageData>

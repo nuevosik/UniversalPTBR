@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_IceAge.label>era do gelo</VEE_IceAge.label>
+  <VEE_IceAge.letterText>A composição atmosférica do planeta mudou drasticamente, resultando em uma queda significativa de temperatura.\n\nFlora e Fauna estão sofrendo com essas mudanças, à medida que os biomas mudam para seus equivalentes mais frios. Os recursos escasseiam, forçando as facções ao conflito.\n\nVai durar entre uma estação e vários anos.</VEE_IceAge.letterText>
+  <VEE_GlobalWarming.label>aquecimento global</VEE_GlobalWarming.label>
+  <VEE_GlobalWarming.letterText>As temperaturas globais subiram de repente a níveis perigosos.\n\nFlora e Fauna estão sofrendo com essas mudanças, à medida que os biomas mudam para seus equivalentes mais quentes. Os recursos escasseiam, forçando as facções ao conflito.\n\nVai durar entre uma estação e vários anos.</VEE_GlobalWarming.letterText>
+  <VEE_LongNight.label>noite longa</VEE_LongNight.label>
+  <VEE_LongNight.letterText>Uma entidade espacial de tamanho inimaginável cobriu uma estrela local, resultando em um eclipse duradouro.\n\nAterrorizadas com este fenômeno sobrenatural, as outras facções usam esse tempo para travar guerra e conflito pela superfície.\n\nVai durar entre uma estação e vários anos.</VEE_LongNight.letterText>
+  <VEE_PsychicBloom.label>florescimento psíquico</VEE_PsychicBloom.label>
+  <VEE_PsychicBloom.letterText>Um forte pulso psíquico emitido por uma entidade há muito esquecida mudou a própria estrutura genética da flora local. Enquanto o céu se enchia de auroras aparentemente infinitas, flores coloridas começaram a brotar por toda parte. \n\nTodos os colonos ganharão um bônus positivo de humor durante o evento. As flores que se espalham rápido tomam conta de tudo, incluindo seus campos. \n\nVai durar entre alguns dias e uma estação.</VEE_PsychicBloom.letterText>
+  <VEE_HailStorm.label>tempestade de granizo</VEE_HailStorm.label>
+  <VEE_HailStorm.letterText>Uma tempestade de granizo anormal e de pequena escala está devastando a área local. Qualquer pessoa ou criatura fora do telhado corre risco de se ferir com os pedriscos de gelo. Arranje uma armadura resistente a impacto!</VEE_HailStorm.letterText>
+  <VEE_Drought.label>seca</VEE_Drought.label>
+  <VEE_Drought.letterText>Uma seca extrema tomou a área. As nuvens de chuva sumiram, e o sol está assando a terra.\n\nPlantações ao ar livre e plantas selvagens sofrem bastante com a falta de umidade, quase parando de crescer e, por fim, morrendo. Os incêndios se espalham bem mais rápido.\n\nPlantas semeadas em sistemas de hidroponia não são afetadas.</VEE_Drought.letterText>
+  <VEE_WandererJoinTraitor.label>andarilho se junta</VEE_WandererJoinTraitor.label>
+  <VEE_WandererJoinTraitor.letterText>Um {PAWN_kind} chamado {PAWN_nameDef} chegou e está se juntando à colônia. {PAWN_pronoun} é um {PAWN_title}.\n\n[PAWN_pronoun] está disposto a contribuir, mas não vai embora voluntariamente. Se você não quiser {PAWN_nameDef}, pode banir {PAWN_objective}, vender {PAWN_objective} em escravidão ou simplesmente matar {PAWN_objective}. Porém, seus outros colonos podem achar isso perturbador.</VEE_WandererJoinTraitor.letterText>
+  <VEE_SpaceBattle.letterText>Várias naves espaciais enormes entraram em combate na órbita do planeta. Tiros errados e destroços podem atingir o chão na área. Isso pode causar incêndios massivos.</VEE_SpaceBattle.letterText>
+  <VEE_PsychicStimulation.label>estimulação psíquica</VEE_PsychicStimulation.label>
+  <VEE_PsychicOverdrive.label>sobrecarga psíquica</VEE_PsychicOverdrive.label>
+  <VEE_PsychicHum.label>zumbido psíquico</VEE_PsychicHum.label>
+  <VEE_Whiteout.label>branqueamento</VEE_Whiteout.label>
+  <VEE_Scorch.label>chamusco</VEE_Scorch.label>
+</LanguageData>

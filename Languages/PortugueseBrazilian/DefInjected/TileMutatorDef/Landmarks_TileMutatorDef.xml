@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_NocturnalFauna.label>fauna noturna</VEE_NocturnalFauna.label>
+  <VEE_NocturnalFauna.description>Animais noturnos e crepusculares aparecem em maior número aqui.</VEE_NocturnalFauna.description>
+  <VEE_ColossalFauna.label>fauna colossal</VEE_ColossalFauna.label>
+  <VEE_ColossalFauna.description>Toda a fauna desta área é bem maior que o normal.</VEE_ColossalFauna.description>
+  <VEE_Microfauna.label>microfauna</VEE_Microfauna.label>
+  <VEE_Microfauna.description>Toda a fauna desta área é bem menor que o normal.</VEE_Microfauna.description>
+  <VEE_Alphabeavers.label>alfacastores</VEE_Alphabeavers.label>
+  <VEE_MigratoryHerds.label>manadas migratórias</VEE_MigratoryHerds.label>
+  <VEE_WastelandFauna.label>fauna do ermo</VEE_WastelandFauna.label>
+  <VEE_WastelandFauna.description>Animais do ermo aparecem em maior número aqui.</VEE_WastelandFauna.description>
+  <VEE_EltexDeposits.label>depósitos de eltex</VEE_EltexDeposits.label>
+  <VEE_EltexDeposits.description>Esta área tem depósitos de eltex psiquicamente ativo.</VEE_EltexDeposits.description>
+  <VEE_Sinkholes.label>dolinas</VEE_Sinkholes.label>
+  <VEE_UndergroundGasDeposits.label>depósitos subterrâneos de gás</VEE_UndergroundGasDeposits.label>
+  <VEE_UndergroundGasDeposits.description>Esta região é rica em depósitos profundos de gás helixieno.</VEE_UndergroundGasDeposits.description>
+  <VEE_StrongerTides.label>marés mais fortes</VEE_StrongerTides.label>
+  <VEE_StrongerTides.description>As marés nesta região são particularmente fortes, aumentando a produção dos geradores de maré em 40%.</VEE_StrongerTides.description>
+  <VEE_MineableComponentSpacer.label>depósitos de componentes avançados</VEE_MineableComponentSpacer.label>
+  <VEE_MineableComponentSpacer.description>Esta área tem depósitos de maquinaria antiga avançada, que pode ser minerada para componentes avançados.</VEE_MineableComponentSpacer.description>
+  <VEE_DeepSnow.label>neve sólida</VEE_DeepSnow.label>
+  <VEE_DeepSnow.description>Esta região é coberta por camadas pesadas e compactadas de neve que resistem ao movimento e abafam o som.</VEE_DeepSnow.description>
+  <VEE_AbandonedFarmland.label>terreno agrícola abandonado</VEE_AbandonedFarmland.label>
+  <VEE_MeteorCrater.label>cratera de meteoro</VEE_MeteorCrater.label>
+  <VEE_ResurgentCaldera.label>caldeira ressurgente</VEE_ResurgentCaldera.label>
+  <VEE_CraterLake.label>lago de cratera</VEE_CraterLake.label>
+  <VEE_ToxicCrater.label>cratera tóxica</VEE_ToxicCrater.label>
+  <VEE_Volcano.label>vulcão</VEE_Volcano.label>
+  <VEE_CalmBasin.label>bacia calma</VEE_CalmBasin.label>
+  <VEE_LoneIsland.label>ilha costeira isolada</VEE_LoneIsland.label>
+  <VEE_DetachedIceberg.label>iceberg à deriva</VEE_DetachedIceberg.label>
+  <VEE_IceAndFire.label>gelo e fogo</VEE_IceAndFire.label>
+  <VEE_LoneIslandWithLake.label>ilha de lago central</VEE_LoneIslandWithLake.label>
+  <VEE_LoneIslandWithMountain.label>ilha ressurgente</VEE_LoneIslandWithMountain.label>
+  <VEE_CoralReef.label>recife de coral</VEE_CoralReef.label>
+  <VEE_SaltPlains.label>planícies de sal</VEE_SaltPlains.label>
+  <VEE_RockRidge.label>cume rochoso</VEE_RockRidge.label>
+  <VEE_JaggedRocks.label>rochas dentadas</VEE_JaggedRocks.label>
+  <VEE_DryRiver.label>rio seco</VEE_DryRiver.label>
+  <VEE_SerpentineCanyons.label>cânions serpentinos</VEE_SerpentineCanyons.label>
+  <VEE_DustBowl.label>bacia de poeira</VEE_DustBowl.label>
+  <VEE_SulfuricLake.label>lago sulfúrico</VEE_SulfuricLake.label>
+  <VEE_SulfuricRiver.label>rio sulfúrico</VEE_SulfuricRiver.label>
+  <VEE_BurnedForest.label>floresta queimada</VEE_BurnedForest.label>
+  <VEE_FloodPlains.label>planícies de inundação</VEE_FloodPlains.label>
+  <VEE_ContaminatedReservoir.label>reservatório contaminado</VEE_ContaminatedReservoir.label>
+  <VEE_ContaminatedRiver.label>rio contaminado</VEE_ContaminatedRiver.label>
+  <VEE_ContaminatedCoast.label>costa contaminada</VEE_ContaminatedCoast.label>
+  <VEE_QuicksandPits.label>poços de areia movediça</VEE_QuicksandPits.label>
+  <VEE_DriftwoodShore.label>madeira à deriva</VEE_DriftwoodShore.label>
+  <VEE_AlluvialFan.label>leque aluvial</VEE_AlluvialFan.label>
+  <VEE_RelictDelta.label>delta relicto</VEE_RelictDelta.label>
+  <VEE_StagnantRivulet.label>riacho estagnado</VEE_StagnantRivulet.label>
+  <VEE_StoneForest.label>floresta de pedra</VEE_StoneForest.label>
+  <VEE_GravelBeach.label>praia de cascalho</VEE_GravelBeach.label>
+  <VEE_Cenotes.label>cenotes</VEE_Cenotes.label>
+  <VEE_BasaltCape.label>cabo de basalto</VEE_BasaltCape.label>
+  <VEE_RedDesert.label>deserto vermelho</VEE_RedDesert.label>
+  <VEE_VolcanicSandDesert.label>deserto de areia vulcânica</VEE_VolcanicSandDesert.label>
+  <VEE_PermafrostBasin.label>bacia de permafrost</VEE_PermafrostBasin.label>
+  <VEE_QuicksandDunes.label>dunas de areia movediça</VEE_QuicksandDunes.label>
+  <VEE_PebbleDunes.label>dunas de seixos</VEE_PebbleDunes.label>
+  <VEE_LittoralDunes.label>dunas litorâneas</VEE_LittoralDunes.label>
+  <VEE_RisingWaters.label>águas ascendentes</VEE_RisingWaters.label>
+  <VEE_FleshPits.label>poços de carne</VEE_FleshPits.label>
+  <VEE_IceSpires.label>agulhas de gelo</VEE_IceSpires.label>
+  <VEE_GlacialMoraine.label>moreia glacial</VEE_GlacialMoraine.label>
+  <VEE_TropicalBeach.label>praia tropical</VEE_TropicalBeach.label>
+  <VEE_LaurelForest.label>floresta de louros</VEE_LaurelForest.label>
+  <VEE_Moor.label>charneca</VEE_Moor.label>
+  <VEE_LushLavaFields.label>campos exuberantes de lava</VEE_LushLavaFields.label>
+  <VEE_WildWheat.label>trigo selvagem</VEE_WildWheat.label>
+  <VEE_WildWheat.description>Esta área pode crescer um grande número de {0} selvagens.</VEE_WildWheat.description>
+  <VEE_WildCereals.label>cereais selvagens</VEE_WildCereals.label>
+  <VEE_WildCereals.description>Esta área pode crescer um grande número de cereais selvagens.</VEE_WildCereals.description>
+  <VEE_WildFruitTrees.label>árvores frutíferas selvagens</VEE_WildFruitTrees.label>
+  <VEE_WildFruitTrees.description>Esta área pode crescer um grande número de {0} selvagens.</VEE_WildFruitTrees.description>
+  <VEE_WildSucculents.label>suculentas selvagens</VEE_WildSucculents.label>
+  <VEE_WildSucculents.description>Esta área pode crescer um grande número de {0} selvagens.</VEE_WildSucculents.description>
+  <VEE_NoWind.label>sem vento</VEE_NoWind.label>
+  <VEE_NoWind.description>Os ventos estão praticamente ausentes nesta região.</VEE_NoWind.description>
+  <VEE_RagingWind.label>ventos furiosos</VEE_RagingWind.label>
+  <VEE_RagingWind.description>Os ventos são extraordinariamente mais fortes nesta área.</VEE_RagingWind.description>
+  <VEE_GeomagneticStorm.label>tempestade geomagnética</VEE_GeomagneticStorm.label>
+  <VEE_GeomagneticStorm.description>Um intenso evento geomagnético cobre a região, desativando por completo todos os dispositivos elétricos.</VEE_GeomagneticStorm.description>
+  <VEE_SkygazingSpot.label>ponto de contemplação do céu</VEE_SkygazingSpot.label>
+  <VEE_SkygazingSpot.description>Um fenômeno atmosférico sereno incentiva os colonos a passar mais tempo olhando o céu. Aumenta a chance de contemplar o céu e impulsiona a diversão que ele dá.</VEE_SkygazingSpot.description>
+  <VEE_TornadoAlley.label>beco de tornados</VEE_TornadoAlley.label>
+  <VEE_RottenStench.label>fedor podre</VEE_RottenStench.label>
+  <VEE_RottenStench.description>Vapores acres escoam do chão, cobrindo a área com um cheiro fétido que queima os pulmões e azeda o humor.</VEE_RottenStench.description>
+  <VEE_FertileRains.label>chuvas férteis</VEE_FertileRains.label>
+</LanguageData>

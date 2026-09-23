@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NiceHealthTabSettingsCategory>Nice Health Tab</NiceHealthTabSettingsCategory>
+  <ExtraOverlayEnabled>Ativa camadas adicionais (ossos podem se sobrepor visualmente aos órgãos)</ExtraOverlayEnabled>
+  <AlwaysVanillaEyes>Olhos do jogo base</AlwaysVanillaEyes>
+  <AllowKidDollVariant>Permite variante de boneco criança</AllowKidDollVariant>
+  <UsingVanillaListRowColors>Usa as cores de partes do corpo do jogo base na lista</UsingVanillaListRowColors>
+  <NHTCommonTab>Comum</NHTCommonTab>
+  <NHTBodyPartsTab>Partes do corpo</NHTBodyPartsTab>
+  <AssignDefaultBodyParts>Atribui partes adequadas a outro tipo de corpo</AssignDefaultBodyParts>
+  <DefaultBodyParts>Partes do corpo padrão:</DefaultBodyParts>
+  <BodyPartsSuff>partes do corpo:</BodyPartsSuff>
+  <ResetAll>Redefine tudo</ResetAll>
+  <Reset>Redefine</Reset>
+  <AutoAssign>Atribui automaticamente</AutoAssign>
+  <NHT_NoAffectingEffects>Nenhum efeito afetando: {0}</NHT_NoAffectingEffects>
+  <NHT_HitChanceDamage>Chance de dano ({0}) por parte do corpo</NHT_HitChanceDamage>
+  <NHT_HitChanceGroupHead>Cabeça</NHT_HitChanceGroupHead>
+  <NHT_HitChanceGroupTorso>Tronco</NHT_HitChanceGroupTorso>
+  <NHT_HitChanceGroupArms>Braços</NHT_HitChanceGroupArms>
+  <NHT_HitChanceGroupLegs>Pernas</NHT_HitChanceGroupLegs>
+  <NHT_HitChanceCatHead>Cabeça</NHT_HitChanceCatHead>
+  <NHT_HitChanceCatTorso>Tronco</NHT_HitChanceCatTorso>
+  <NHT_HitChanceCatArms>Braços</NHT_HitChanceCatArms>
+  <NHT_HitChanceCatLegs>Pernas</NHT_HitChanceCatLegs>
+  <NHT_HitChanceCatOther>Outros</NHT_HitChanceCatOther>
+  <NHT_HitChanceKindSharp>Cortante</NHT_HitChanceKindSharp>
+  <NHT_HitChanceKindBlunt>Contundente</NHT_HitChanceKindBlunt>
+  <NHT_HitChanceBluntRange>dano {0}–{1}</NHT_HitChanceBluntRange>
+  <NHT_HitChanceBluntRangeTip>40% de chance de o dano contundente passar para dentro\nDano secundário: {0} do dano recebido</NHT_HitChanceBluntRangeTip>
+  <NHT_HitChanceSharpChainTip>Esta parte do corpo com certeza sofre o dano associado</NHT_HitChanceSharpChainTip>
+  <NHT_HitChanceBluntFinalTip>Chance final de sofrer dano: {0}</NHT_HitChanceBluntFinalTip>
+  <NHT_DiseaseChanceGroupAge>Doenças da idade</NHT_DiseaseChanceGroupAge>
+  <NHT_DiseaseChanceGroupComp>Complicações</NHT_DiseaseChanceGroupComp>
+  <NHT_DiseaseChanceGroupEpidemic>Epidemias</NHT_DiseaseChanceGroupEpidemic>
+  <NHT_DiseaseChanceNextYear>Chance de pegar dentro do próximo ano: {0}</NHT_DiseaseChanceNextYear>
+  <NHT_DiseaseChanceNextBirthday>Chance de pegar no próximo aniversário: {0}</NHT_DiseaseChanceNextBirthday>
+  <NHT_DiseaseChanceSource>Complicação de "{0}"</NHT_DiseaseChanceSource>
+  <NHT_DiseaseChanceZero>Outros</NHT_DiseaseChanceZero>
+  <NHT_DiseaseChanceGeneImmune>imunidade</NHT_DiseaseChanceGeneImmune>
+  <NHT_DiseaseChanceGeneImmuneTip>O gene {0} torna esta doença impossível.</NHT_DiseaseChanceGeneImmuneTip>
+  <NHT_DiseaseChanceEpidemicBiome>Bioma {0}: {1}</NHT_DiseaseChanceEpidemicBiome>
+  <NHT_DiseaseChanceDifficulty>Dificuldade: {0}</NHT_DiseaseChanceDifficulty>
+  <NHT_ArmorNoCover>Não coberto pela armadura vestida.</NHT_ArmorNoCover>
+  <NHT_TimeNever>Nunca</NHT_TimeNever>
+  <NHT_TimeDays>d.</NHT_TimeDays>
+  <NHT_TimingSummary>Tempo até cura total</NHT_TimingSummary>
+  <NHT_TimingSummaryTip>Tempo estimado para todos os ferimentos do colono cicatrizarem. Cada tick de cura realmente cicatriza um ferimento aleatório, então o tempo é uma expectativa aproximada, não uma duração exata.</NHT_TimingSummaryTip>
+  <NHT_TimingPartWhole>Até restauração total: {0}</NHT_TimingPartWhole>
+  <NHT_TimingInjuryLine>{0}: {1}</NHT_TimingInjuryLine>
+  <NHT_TimingBleedTip>O sangramento para sozinho em {0}; o ferimento cicatriza em {1}</NHT_TimingBleedTip>
+  <NHT_TimingRecoveryTitle>Recuperação total: {0}</NHT_TimingRecoveryTitle>
+  <NHT_TimingRecoveryNone>Recuperação total: não necessária</NHT_TimingRecoveryNone>
+  <NHT_TimingRecoveryRegen>Velocidade de cura: {0}</NHT_TimingRecoveryRegen>
+  <NHT_TimingRecoveryTip>Tempo até o colono se recuperar por completo e o ritmo em que todos os ferimentos cicatrizam.</NHT_TimingRecoveryTip>
+  <NHT_TimingRecoveryRateBad>Ruim</NHT_TimingRecoveryRateBad>
+  <NHT_TimingRecoveryRateNormal>Normal</NHT_TimingRecoveryRateNormal>
+  <NHT_TimingRecoveryRateGood>Boa</NHT_TimingRecoveryRateGood>
+  <NHT_TimingRecoveryRateFast>Rápida</NHT_TimingRecoveryRateFast>
+  <NHT_TimingRecoveryRateTotal>Velocidade de cura: {0}/dia</NHT_TimingRecoveryRateTotal>
+  <NHT_TimingRecoveryRateLabel>Velocidade de cura:</NHT_TimingRecoveryRateLabel>
+  <NHT_TimingRecoveryRateRegen>Regeneração: {0}/dia</NHT_TimingRecoveryRateRegen>
+  <NHT_TimingRecoveryRateLying>Deitado: {0}/dia</NHT_TimingRecoveryRateLying>
+  <NHT_TimingRecoveryRateBed>Cama: {0}/dia</NHT_TimingRecoveryRateBed>
+  <NHT_TimingRecoveryRateTend>Cuidados: {0}/dia</NHT_TimingRecoveryRateTend>
+  <NHT_TimingRecoveryRateGenes>Genes: {0}/dia</NHT_TimingRecoveryRateGenes>
+  <NHT_DiseasePrognosis>Resultado provável:</NHT_DiseasePrognosis>
+  <NHT_DiseasePrognosisImmuneWins>a imunidade vence</NHT_DiseasePrognosisImmuneWins>
+  <NHT_DiseasePrognosisDiseaseWins>a doença vence</NHT_DiseasePrognosisDiseaseWins>
+  <NHT_DiseasePrognosisDepends>depende do tratamento</NHT_DiseasePrognosisDepends>
+  <NHT_DiseasePrognosisHasChances>há uma chance</NHT_DiseasePrognosisHasChances>
+  <NHT_DiseasePrognosisMinQuality>qualidade de tratamento ≥ {0}% necessária</NHT_DiseasePrognosisMinQuality>
+  <NHT_DiseasePrognosisImmunityGain>Velocidade de ganho de imunidade: {0}</NHT_DiseasePrognosisImmunityGain>
+  <NHT_AssignOperation>Atribui</NHT_AssignOperation>
+  <NHT_CancelOperation>Cancela</NHT_CancelOperation>
+  <NHT_SurgerySuccessChance>Chance de sucesso</NHT_SurgerySuccessChance>
+  <NHT_SurgeryDeathOnFailChance>Chance de morte em caso de falha</NHT_SurgeryDeathOnFailChance>
+  <NHT_SurgeryFinalChanceTitle>Chance de sucesso da operação:</NHT_SurgeryFinalChanceTitle>
+  <NHT_SurgeryChanceBase>Chance-base</NHT_SurgeryChanceBase>
+  <NHT_SurgeryChanceSurgeon>Melhor cirurgião</NHT_SurgeryChanceSurgeon>
+  <NHT_SurgeryChanceBed>Cama médica</NHT_SurgeryChanceBed>
+  <NHT_SurgeryChanceBedQuality>Qualidade da cama</NHT_SurgeryChanceBedQuality>
+  <NHT_SurgeryChanceBedCleanliness>Limpeza</NHT_SurgeryChanceBedCleanliness>
+  <NHT_SurgeryChanceBedLight>Iluminação</NHT_SurgeryChanceBedLight>
+  <NHT_SurgeryChanceBedIndoors>Dentro de casa</NHT_SurgeryChanceBedIndoors>
+  <NHT_SurgeryChanceBedOutdoors>Ao ar livre</NHT_SurgeryChanceBedOutdoors>
+  <NHT_SurgeryChanceBedBonus>Bônus</NHT_SurgeryChanceBedBonus>
+  <NHT_SurgeryChanceInspiration>Inspiração ({0})</NHT_SurgeryChanceInspiration>
+  <NHT_SurgeryChanceLimit>Limite de sucesso: não mais que {0}</NHT_SurgeryChanceLimit>
+  <NHT_SurgeryChanceOtherSurgeons>Outros cirurgiões:</NHT_SurgeryChanceOtherSurgeons>
+  <NHT_SurgeryChanceNoSurgeon>Nenhum cirurgião capaz de realizar a operação</NHT_SurgeryChanceNoSurgeon>
+  <NHT_PawnPriceChange>Preço do colono</NHT_PawnPriceChange>
+  <NHT_DeathRow>Morte</NHT_DeathRow>
+  <NHT_DeathRowTip>O colono morre após esta operação\na tarefas restantes não serão executadas</NHT_DeathRowTip>
+  <NHT_IncompatibleGroup>Incompatível</NHT_IncompatibleGroup>
+  <NHT_IncompatibleWarning>Incompatível com tarefas atribuídas ou próteses instaladas</NHT_IncompatibleWarning>
+  <NHT_IncompatibleGroupTip>Estas operações são incompatíveis com tarefas já atribuídas ou uma prótese instalada: a parte já está ocupada ou será ocupada por uma operação anterior. Elas voltam a ser possíveis após remover as tarefas conflitantes ou a prótese antiga.</NHT_IncompatibleGroupTip>
+  <NHT_TaskIncompatibleTip>Esta operação é incompatível com uma anterior: {0}. arraste a tarefa para cima da operação conflitante.</NHT_TaskIncompatibleTip>
+  <NHT_OptionIncompatibleTip>Esta operação é incompatível com tarefas já atribuídas ou uma prótese instalada: a parte já está ocupada ou será ocupada por uma operação anterior. Ela volta a ser possível após remover as tarefas conflitantes ou a prótese antiga.</NHT_OptionIncompatibleTip>
+  <NHT_TaskAddedIncompatible>A operação "{0}" é incompatível com tarefas já atribuídas. Arraste-a mais para cima na lista de tarefas.</NHT_TaskAddedIncompatible>
+  <NHT_BodyPartFilterTip>Use {0} para filtrar por uma parte do corpo específica.</NHT_BodyPartFilterTip>
+  <NHT_ModFilterTip>Use {0} para filtrar por mod ou DLC.</NHT_ModFilterTip>
+  <NHT_DevInstall>Instala implante</NHT_DevInstall>
+  <NHT_DevRemove>Remove parte</NHT_DevRemove>
+  <NHT_DevAddHediff>Adiciona hediff</NHT_DevAddHediff>
+  <NHT_DollIndexWarningTitle>Corpo incompatível detectado</NHT_DollIndexWarningTitle>
+  <NHT_DollIndexWarningTip>O corpo "{0}" não casa com o boneco: os índices das partes estão deslocados ou misturados, então o boneco mostra partes erradas. "Correção automática" reconstrói o mapeamento pelos nomes das partes; se não ajudar, defina manualmente na aba "Partes do corpo" das opções do mod.</NHT_DollIndexWarningTip>
+  <NHT_DollFixIgnore>Ignora</NHT_DollFixIgnore>
+  <NHT_DollFixAuto>Correção automática</NHT_DollFixAuto>
+  <NHT_MedicineLabel>Remédio</NHT_MedicineLabel>
+  <NHT_SettingsCategory>Nice Health Tab</NHT_SettingsCategory>
+  <UseLegacyTab>Usa a versão legada (antiga) da interface da aba de saúde</UseLegacyTab>
+  <NHT_ShowEyes>Mostra os olhos do colono no boneco</NHT_ShowEyes>
+  <MedicineRowIcons>Linha de seleção de remédio alternativa</MedicineRowIcons>
+  <MedicineRowIconsDesc>Ligado: a configuração de remédio são cinco botões de ícone (sem cuidado, sem remédio, fitoterápico, industrial, ultratecnológico) e uma engrenagem para os padrões. Desligado: o botão clássico de texto e menu suspenso.</MedicineRowIconsDesc>
+  <NHT_CommonTab>Comum</NHT_CommonTab>
+  <NHT_BodyPartsTab>Partes do corpo</NHT_BodyPartsTab>
+  <ProstheticNoMissingBodyPartsFill>Completa uma parte do corpo com prótese</ProstheticNoMissingBodyPartsFill>
+  <ShowImplantedOrgans>Mostra órgãos implantados</ShowImplantedOrgans>
+  <KidAgeRange>Faixa etária criança ({0} - {1})</KidAgeRange>
+  <ShowAllMissingParts>Sempre mostra todas as partes do corpo ausentes</ShowAllMissingParts>
+  <ShowUnavailableOperations>Mostra operações indisponíveis</ShowUnavailableOperations>
+  <NHT_UseOperationsDropdown>Adiciona operações por menu suspenso</NHT_UseOperationsDropdown>
+</LanguageData>

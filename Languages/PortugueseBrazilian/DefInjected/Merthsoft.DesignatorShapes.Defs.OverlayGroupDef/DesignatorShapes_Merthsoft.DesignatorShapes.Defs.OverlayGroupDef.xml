@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Line.label>Linhas</Line.label>
+  <Rectangle.label>Retângulos</Rectangle.label>
+  <Rectangle_Input.label>Retângulos fixos</Rectangle_Input.label>
+  <Rectangle_Input.description>Retângulos com tamanhos fixos que o usuário determina.</Rectangle_Input.description>
+  <Ellipse.label>Elipses</Ellipse.label>
+  <Ellipse_Input.label>Elipses fixas</Ellipse_Input.label>
+  <Ellipse_Input.description>Elipses com tamanhos fixos que o usuário determina.</Ellipse_Input.description>
+  <MoreShapes.label>Mais formas</MoreShapes.label>
+  <MoreShapes.description>Mais formas geométricas.</MoreShapes.description>
+  <FloodFill.label>Preenchimento por inundação</FloodFill.label>
+  <FloodFill.description>Preenche entre uma área murada.</FloodFill.description>
+  <Etc.label>Etc.</Etc.label>
+  <Etc.description>Formas predefinidas do RimWorld</Etc.description>
+  <Grids.label>Grades</Grids.label>
+  <Grids.description>Grades.</Grids.description>
+  <Grids_Input.label>Grades de tamanho personalizado</Grids_Input.label>
+  <Grids_Input.description>Grades de tamanho personalizado</Grids_Input.description>
+  <Grids_Inverse.label>Grades inversas</Grids_Inverse.label>
+  <Grids_Inverse.description>Grades inversas.</Grids_Inverse.description>
+  <Grids_Inverse_Input.label>Grades inversas de tamanho personalizado</Grids_Inverse_Input.label>
+  <Grids_Inverse_Input.description>Grades inversas de tamanho personalizado</Grids_Inverse_Input.description>
+</LanguageData>

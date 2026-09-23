@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Line.label>linha</Line.label>
+  <Line.description>Designa em linha</Line.description>
+  <Rectangle.label>retângulo</Rectangle.label>
+  <Rectangle.description>Designa em um retângulo</Rectangle.description>
+  <RectangleFilled.label>retângulo preenchido</RectangleFilled.label>
+  <RectangleFilled.description>Designa em um retângulo preenchido</RectangleFilled.description>
+  <Rectangle_Input.label>retângulo fixo</Rectangle_Input.label>
+  <Rectangle_Input.description>Designa em um retângulo fixo com tamanho definido pelo usuário</Rectangle_Input.description>
+  <RectangleFilled_Input.label>retângulo preenchido fixo</RectangleFilled_Input.label>
+  <RectangleFilled_Input.description>Designa em um retângulo preenchido fixo com tamanho definido pelo usuário</RectangleFilled_Input.description>
+  <Ellipse.label>elipse</Ellipse.label>
+  <Ellipse.description>Designa em uma elipse</Ellipse.description>
+  <EllipseFilled.label>elipse preenchida</EllipseFilled.label>
+  <EllipseFilled.description>Designa em uma elipse preenchida</EllipseFilled.description>
+  <Ellipse_Input.label>elipse fixa</Ellipse_Input.label>
+  <Ellipse_Input.description>Designa em uma elipse fixa com tamanho definido pelo usuário</Ellipse_Input.description>
+  <EllipseFilled_Input.label>elipse preenchida fixa</EllipseFilled_Input.label>
+  <EllipseFilled_Input.description>Designa em uma elipse preenchida fixa com tamanho definido pelo usuário</EllipseFilled_Input.description>
+  <Hexagon.label>hexágono</Hexagon.label>
+  <Hexagon.description>Designa em um hexágono</Hexagon.description>
+  <HexagonFilled.label>hexágono preenchido</HexagonFilled.label>
+  <HexagonFilled.description>Designa em um hexágono preenchido</HexagonFilled.description>
+  <Pentagon.label>pentágono</Pentagon.label>
+  <Pentagon.description>Designa em um pentágono</Pentagon.description>
+  <PentagonFilled.label>pentágono preenchido</PentagonFilled.label>
+  <PentagonFilled.description>Designa em um pentágono preenchido</PentagonFilled.description>
+  <Circle.label>círculo</Circle.label>
+  <Circle.description>Designa em um círculo</Circle.description>
+  <CircleFilled.label>círculo preenchido</CircleFilled.label>
+  <CircleFilled.description>Designa em um círculo preenchido</CircleFilled.description>
+  <FloodFill.label>preenchimento por inundação</FloodFill.label>
+  <FloodFill.description>Preenche entre uma área murada.</FloodFill.description>
+  <SunLamp.label>lâmpada solar</SunLamp.label>
+  <SunLamp.description>Designa em uma forma do raio da lâmpada solar</SunLamp.description>
+  <SunLampOutline.label>contorno de lâmpada solar</SunLampOutline.label>
+  <SunLampOutline.description>Designa no contorno de uma forma do raio da lâmpada solar</SunLampOutline.description>
+  <Redo.label>refazer</Redo.label>
+  <Redo.description>Refaz a última ação desfeita. Só funciona com o jogo pausado</Redo.description>
+  <LineFreeform.label>linha livre</LineFreeform.label>
+  <LineFreeform.description>Designa em uma linha livre, como uma caneta</LineFreeform.description>
+  <MidpointHexagon.label>hexágono do ponto médio</MidpointHexagon.label>
+  <MidpointHexagon.description>Designa em um hexágono a partir do centro</MidpointHexagon.description>
+  <MidpointHexagonFilled.label>hexágono preenchido do ponto médio</MidpointHexagonFilled.label>
+  <MidpointHexagonFilled.description>Designa em um hexágono preenchido a partir do centro</MidpointHexagonFilled.description>
+  <TradeBeacon.description>Designa em uma forma do raio da baliza de comércio</TradeBeacon.description>
+  <TradeBeaconOutline.label>contorno de baliza de comércio</TradeBeaconOutline.label>
+  <TradeBeaconOutline.description>Designa no contorno de uma forma do raio da baliza de comércio</TradeBeaconOutline.description>
+  <Undo.label>desfazer</Undo.label>
+  <Undo.description>Desfaz a última ação. Só funciona com o jogo pausado</Undo.description>
+  <GridThreeByThree.label>grade 3x3</GridThreeByThree.label>
+  <GridThreeByThree.description>Designa em uma grade 3x3</GridThreeByThree.description>
+  <GridFourByFour.label>grade 4x4</GridFourByFour.label>
+  <GridFourByFour.description>Designa em uma grade 4x4</GridFourByFour.description>
+  <GridFiveByFive.label>grade 5x5</GridFiveByFive.label>
+  <GridFiveByFive.description>Designa em uma grade 5x5</GridFiveByFive.description>
+  <GridSixBySix.label>grade 6x6</GridSixBySix.label>
+  <GridSixBySix.description>Designa em uma grade 6x6</GridSixBySix.description>
+  <GridSevenBySeven.label>grade 7x7</GridSevenBySeven.label>
+  <GridSevenBySeven.description>Designa em uma grade 7x7</GridSevenBySeven.description>
+  <GridSizeInput.label>Grade personalizada</GridSizeInput.label>
+  <GridSizeInput.description>Designa em uma grade de dimensão personalizada</GridSizeInput.description>
+  <GridThreeByThreeInverse.label>Grade 3x3 inversa</GridThreeByThreeInverse.label>
+  <GridThreeByThreeInverse.description>Designa em uma grade 3x3 inversa</GridThreeByThreeInverse.description>
+  <GridFourByFourInverse.label>Grade 4x4 inversa</GridFourByFourInverse.label>
+  <GridFourByFourInverse.description>Designa em uma grade 4x4 inversa</GridFourByFourInverse.description>
+  <GridFiveByFiveInverse.label>Grade 5x5 inversa</GridFiveByFiveInverse.label>
+  <GridFiveByFiveInverse.description>Designa em uma grade 5x5 inversa</GridFiveByFiveInverse.description>
+  <GridSixBySixInverse.label>Grade 6x6 inversa</GridSixBySixInverse.label>
+  <GridSixBySixInverse.description>Designa em uma grade 6x6 inversa</GridSixBySixInverse.description>
+  <GridSevenBySevenInverse.label>Grade 7x7 inversa</GridSevenBySevenInverse.label>
+  <GridSevenBySevenInverse.description>Designa em uma grade 7x7 inversa</GridSevenBySevenInverse.description>
+  <GridSizeInputInverse.label>Grade inversa personalizada</GridSizeInputInverse.label>
+  <GridSizeInputInverse.description>Designa em uma grade inversa de dimensão personalizada</GridSizeInputInverse.description>
+</LanguageData>

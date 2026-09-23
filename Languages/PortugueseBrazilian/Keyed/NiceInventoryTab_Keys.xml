@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NIT_MS>0,# m/s</NIT_MS>
+  <NIT_M>0 m</NIT_M>
+  <NIT_Seconds>0,## s</NIT_Seconds>
+  <NIT_RPM>0 rpm</NIT_RPM>
+  <NIT_PerDay_Add>/d</NIT_PerDay_Add>
+  <NIT_KG>0,# kg</NIT_KG>
+  <NIT_PawnAutoWearExpl>{0} recebeu a tarefa de vestir {1}</NIT_PawnAutoWearExpl>
+  <NIT_BillCreatedExpl>Criada uma tarefa em {0} para {1}</NIT_BillCreatedExpl>
+  <NIT_Forbidden>(proib.)</NIT_Forbidden>
+  <NIT_MayDrop>(pode derrubar)</NIT_MayDrop>
+  <NIT_CannotDrop>Não pode ser derrubado</NIT_CannotDrop>
+  <NIT_CannotConsumeThing>Não pode ser consumido</NIT_CannotConsumeThing>
+  <NIT_Equip>Equipar</NIT_Equip>
+  <NIT_MoveToInventory>Desequipar</NIT_MoveToInventory>
+  <NIT_WearFromInventory>Vestir do inventário</NIT_WearFromInventory>
+  <SettingsCommonTab>Comum</SettingsCommonTab>
+  <SettingsStatTab>Estatísticas</SettingsStatTab>
+  <SettingsExperimentalTab>Experimental</SettingsExperimentalTab>
+  <SettingsIntegrationTab>Integração de mods</SettingsIntegrationTab>
+  <SettingsColorsTab>Cores</SettingsColorsTab>
+  <GearTabWidth>Largura da aba {0} px</GearTabWidth>
+  <StatDebuffVisible>Mostra penalidades</StatDebuffVisible>
+  <NIT_AutoRenameBillLabelSettings>Renomeia tarefa automaticamente ao criar</NIT_AutoRenameBillLabelSettings>
+  <NIT_EnableStarsAsQuality>Ativa a exibição de qualidade como estrelas</NIT_EnableStarsAsQuality>
+  <NIT_EnableOptionToOpenApparelMaster>Ativa a opção de abrir o mestre de roupas</NIT_EnableOptionToOpenApparelMaster>
+  <NIT_EnableProgressBars>Ativa barras de progresso</NIT_EnableProgressBars>
+  <NIT_EnableAutoWear>Ativa vestir automático após fabricar roupa (pode causar conflitos de mods)</NIT_EnableAutoWear>
+  <NIT_CLI_UseVanillaButtons>Usa botões do jogo base</NIT_CLI_UseVanillaButtons>
+  <NIT_ShowWeaponsInEquipmentSection>Mostra armas na seção de equipamento</NIT_ShowWeaponsInEquipmentSection>
+  <NIT_DepressionMode>Modo depressão {0}</NIT_DepressionMode>
+  <NIT_DepressionColor>Sua cor de depressão</NIT_DepressionColor>
+  <NIT_Showcase>Vitrine</NIT_Showcase>
+  <NIT_OnlyOnHover>Apenas ao passar o mouse</NIT_OnlyOnHover>
+  <NIT_MatchToQualityColorsMod>Combina com Quality Colors</NIT_MatchToQualityColorsMod>
+  <NIT_Reset>Padrão</NIT_Reset>
+  <NIT_RefreshDelay>Atraso de atualização {0}</NIT_RefreshDelay>
+  <NIT_MaxRangeOfAttackTip>Alcance máx. de ataque</NIT_MaxRangeOfAttackTip>
+  <NIT_OptimalRangeTip>Alcance ideal: {0} ~ {1} m ({2} ±{3})</NIT_OptimalRangeTip>
+  <NIT_AtRangeTip>A {0} m: {1}</NIT_AtRangeTip>
+  <NIT_ArmorPenetration>Penetração de armadura</NIT_ArmorPenetration>
+  <NIT_RangedDPSTip>DPS à distância</NIT_RangedDPSTip>
+  <NIT_MeleeDPSTip>DPS corpo a corpo</NIT_MeleeDPSTip>
+  <NIT_DPSatOptimalRange>DPS no alcance ideal</NIT_DPSatOptimalRange>
+  <NIT_DPS100Accuracy>DPS com 100% de precisão</NIT_DPS100Accuracy>
+  <NIT_PawnModifiers>Modificadores do colono</NIT_PawnModifiers>
+  <NIT_OneShotDamage>Dano por tiro</NIT_OneShotDamage>
+  <NIT_Damage>Dano</NIT_Damage>
+  <NIT_DPS>Dano (DPS)</NIT_DPS>
+  <NIT_FireRate>Cadência de tiro</NIT_FireRate>
+  <NIT_AtkSpeed>Vel. de ataque</NIT_AtkSpeed>
+  <NIT_Melee>Corpo a corpo</NIT_Melee>
+  <NIT_Ranged>À distância</NIT_Ranged>
+  <NIT_Range>Alcance</NIT_Range>
+  <NIT_Speed>Velocidade</NIT_Speed>
+  <NIT_Sharp>Corte</NIT_Sharp>
+  <NIT_Blunt>Impacto</NIT_Blunt>
+  <NIT_Heat>Calor</NIT_Heat>
+  <NIT_TemperatureRangeShort>Faixa de temperatura</NIT_TemperatureRangeShort>
+  <NIT_Toxic>Tóxico</NIT_Toxic>
+  <NIT_Vacuum>Vácuo</NIT_Vacuum>
+  <NIT_Flammability>Inflam.</NIT_Flammability>
+  <NIT_Psychic>Sens. psíq.</NIT_Psychic>
+  <NIT_Medical>Médico</NIT_Medical>
+  <NIT_Social>Social</NIT_Social>
+  <NIT_Negotiation>Negociação</NIT_Negotiation>
+  <NIT_Meditation>Meditação</NIT_Meditation>
+  <NIT_Mass>Massa</NIT_Mass>
+  <NIT_Combat>Combate</NIT_Combat>
+  <NIT_Resistances>Resistências</NIT_Resistances>
+  <NIT_Inventory>Inventário</NIT_Inventory>
+  <NIT_Equipment>Equipamento</NIT_Equipment>
+  <NIT_Apparel>Vestuário</NIT_Apparel>
+  <NIT_MassAndBulk>Massa e volume</NIT_MassAndBulk>
+  <NIT_AvailableApparel>Roupas adequadas</NIT_AvailableApparel>
+  <NIT_Wear>Vestir</NIT_Wear>
+  <NIT_NothingToWear>Nada para vestir</NIT_NothingToWear>
+  <NIT_Make>Fabricar</NIT_Make>
+  <NIT_NothingToMake>Nada para fabricar</NIT_NothingToMake>
+  <NIT_AutoNameRecipe>{0} para {1}</NIT_AutoNameRecipe>
+  <NIT_PawnModifierPercent>x{0} por {1}</NIT_PawnModifierPercent>
+  <NIT_PawnModifierPercentSigned>{0} por {1}</NIT_PawnModifierPercentSigned>
+  <NIT_WorktableTasks>{0} ({1} tarefas)</NIT_WorktableTasks>
+  <NIT_Biocoded>Biocodificado</NIT_Biocoded>
+  <NIT_CorpseApparel>Roupas de cadáver</NIT_CorpseApparel>
+  <OpenOptimizationMaster>Abre o mestre de otimização</OpenOptimizationMaster>
+  <NIT_ApparelDamageWarning>Roupa rasgada</NIT_ApparelDamageWarning>
+  <NIT_ApparelNudistWarning>Roupas não adequadas para nudistas</NIT_ApparelNudistWarning>
+  <NIT_WeaponNotUsableWithShieldWarning>Arma não utilizável com escudo de energia</NIT_WeaponNotUsableWithShieldWarning>
+  <NIT_UnforceApparel>Desforça</NIT_UnforceApparel>
+  <NIT_ForceApparel>Força</NIT_ForceApparel>
+  <NIT_WorkEfficiency>Velocidade de trabalho</NIT_WorkEfficiency>
+  <NIT_ClearWork>Limpeza</NIT_ClearWork>
+  <NIT_EatWork>Comer</NIT_EatWork>
+  <NIT_RepairWork>Reparo</NIT_RepairWork>
+  <NIT_ConstructionWork>Construção</NIT_ConstructionWork>
+  <NIT_MiningWork>Mineração</NIT_MiningWork>
+  <NIT_CookingWork>Culinária</NIT_CookingWork>
+  <NIT_CraftingWork>Artesanato</NIT_CraftingWork>
+  <NIT_PlantsWork>Plantas</NIT_PlantsWork>
+  <NIT_AnimalsWork>Animais</NIT_AnimalsWork>
+  <NIT_MedicalWork>Médico</NIT_MedicalWork>
+  <NIT_SocialWork>Social</NIT_SocialWork>
+  <NIT_IntellectualWork>Intelectual</NIT_IntellectualWork>
+  <NIT_ArtisticWork>Artístico</NIT_ArtisticWork>
+  <NIT_ShootingWork>Tiro</NIT_ShootingWork>
+  <NIT_MeleeWork>Corpo a corpo</NIT_MeleeWork>
+  <NIT_InsulationCold>Isol. frio</NIT_InsulationCold>
+  <NIT_InsulationHeat>Isol. calor</NIT_InsulationHeat>
+</LanguageData>

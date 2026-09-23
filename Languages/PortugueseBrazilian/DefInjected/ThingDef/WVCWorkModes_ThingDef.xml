@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WVC_IdleOptimization_MechanoidShutdownSpot.label>ponto de desligamento de mecanoide</WVC_IdleOptimization_MechanoidShutdownSpot.label>
+  <WVC_IdleOptimization_MechanoidShutdownSpot.description>Os mecanoides voltam para cá antes de desligar.\n\n&lt;color=#f5ffa2&gt;Nota:&lt;/color&gt; Os mecanoides voltam para cá se não houver outros pontos. Exceto emboscada.</WVC_IdleOptimization_MechanoidShutdownSpot.description>
+  <WVC_IOMSS_WorkAndRecharge.label>ponto de trabalho</WVC_IOMSS_WorkAndRecharge.label>
+  <WVC_IOMSS_WorkAndRecharge.description>Os mecanoides com o modo de tipo &lt;color=#f5ffa2&gt;"Trabalho"&lt;/color&gt; voltam para cá.</WVC_IOMSS_WorkAndRecharge.description>
+  <WVC_IOMSS_TotallySafeSpot.label>ponto seguro</WVC_IOMSS_TotallySafeSpot.label>
+  <WVC_IOMSS_TotallySafeSpot.description>Os mecanoides com o modo de tipo &lt;color=#f5ffa2&gt;"Seguro"&lt;/color&gt; voltam para cá em caso de perigo.</WVC_IOMSS_TotallySafeSpot.description>
+  <WVC_IOMSS_Ambush.label>ponto de emboscada</WVC_IOMSS_Ambush.label>
+  <WVC_IOMSS_Ambush.description>Os mecanoides com o modo de tipo &lt;color=#f5ffa2&gt;"Emboscada"&lt;/color&gt; voltam para cá.</WVC_IOMSS_Ambush.description>
+  <WVC_IOMSS_WaitEnemy.label>ponto de espera</WVC_IOMSS_WaitEnemy.label>
+  <WVC_IOMSS_WaitEnemy.description>Os mecanoides com o modo de tipo &lt;color=#f5ffa2&gt;"Combate"&lt;/color&gt; voltam para cá.</WVC_IOMSS_WaitEnemy.description>
+</LanguageData>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Feature_Achtung_Welcome>Bem-vindo ao Achtung!</Feature_Achtung_Welcome>
+  <Feature_Achtung_Forcing>Trabalho forçado</Feature_Achtung_Forcing>
+  <Feature_Achtung_MenuError>Erros de menu</Feature_Achtung_MenuError>
+  <Feature_Achtung_Formations>Formações</Feature_Achtung_Formations>
+  <Feature_Achtung_Cooperation>Cooperação</Feature_Achtung_Cooperation>
+  <Feature_Achtung_FourModes>Quatro modos</Feature_Achtung_FourModes>
+  <Feature_Achtung_Settings>Configurações</Feature_Achtung_Settings>
+  <Feature_Achtung_Draftstatus>Status de recrutamento</Feature_Achtung_Draftstatus>
+  <Feature_Achtung_Rescue>Resgate</Feature_Achtung_Rescue>
+  <Feature_Achtung_Dragging>Arrastar recrutado</Feature_Achtung_Dragging>
+  <AchtungTutorialButton>Tutorial</AchtungTutorialButton>
+  <PositioningSettingsHeader>Posicionamento</PositioningSettingsHeader>
+  <ForcingSettingsHeader>Trabalho forçado</ForcingSettingsHeader>
+  <ForcingCommandsTitle>Comandos</ForcingCommandsTitle>
+  <ForcingJobBehaviorTitle>Comportamento de trabalho</ForcingJobBehaviorTitle>
+  <ForcingStopRulesTitle>Regras de parada</ForcingStopRulesTitle>
+  <ForcingFeedbackTitle>Retorno</ForcingFeedbackTitle>
+  <PositioningRightClickTitle>Clique direito</PositioningRightClickTitle>
+  <PositioningDraggingTitle>Arrastar e formações</PositioningDraggingTitle>
+  <PositioningEnabledTitle>Posicionamento personalizado com mouse</PositioningEnabledTitle>
+  <PositioningEnabledExplained>Ativa o posicionamento por clique direito, o arraste e os controles de formação do Achtung.</PositioningEnabledExplained>
+  <AchtungModifierTitle>Tecla do Achtung!</AchtungModifierTitle>
+  <AchtungModifierExplained>Segure esta tecla ao posicionar para recrutar os colonos selecionados. Eles mantêm a formação atual enquanto você arrasta com o botão direito do mouse. É possível soltar a tecla quando o botão direito já estiver pressionado. Gira a formação com Q e E.</AchtungModifierExplained>
+  <ForceCommandMenuModeTitle>Modo de clique direito</ForceCommandMenuModeTitle>
+  <ForceCommandMenuKeyTitle>Tecla de substituição</ForceCommandMenuKeyTitle>
+  <CommandMenuModeOptionAuto>Status de recrutamento</CommandMenuModeOptionAuto>
+  <CommandMenuModeOptionAutoExplained>Usa o status de recrutamento do colono para escolher entre o menu de contexto e o posicionamento.</CommandMenuModeOptionAutoExplained>
+  <CommandMenuModeOptionPressForMenu>Tecla para menu</CommandMenuModeOptionPressForMenu>
+  <CommandMenuModeOptionPressForMenuExplained>Segure a tecla para abrir o menu de contexto em vez de executar a ação padrão.</CommandMenuModeOptionPressForMenuExplained>
+  <CommandMenuModeOptionPressForPosition>Tecla para posicionar</CommandMenuModeOptionPressForPosition>
+  <CommandMenuModeOptionPressForPositionExplained>Segure a tecla para posicionar colonos em vez de abrir o menu de contexto.</CommandMenuModeOptionPressForPositionExplained>
+  <CommandMenuModeOptionDelayed>Segura para o menu</CommandMenuModeOptionDelayed>
+  <CommandMenuModeOptionDelayedExplained>Clique direito para posicionar; segure o botão pelo atraso configurado para abrir o menu de contexto.</CommandMenuModeOptionDelayedExplained>
+  <DelayTitle>Atraso de segurar para o menu</DelayTitle>
+  <DelayExplained>Quanto tempo, em milissegundos, segurar o clique direito antes de o menu de contexto abrir.</DelayExplained>
+  <DraftedColonistDraggingModeTitle>Colonos recrutados</DraftedColonistDraggingModeTitle>
+  <DraftedColonistDraggingModeExplained>Escolhe quando clicar com o botão direito em um colono recrutado inicia arraste ou posicionamento de formação.</DraftedColonistDraggingModeExplained>
+  <DraftedColonistDraggingModeOptionOff>Desligado</DraftedColonistDraggingModeOptionOff>
+  <DraftedColonistDraggingModeOptionOffExplained>Clicar com o botão direito em colonos recrutados não inicia arraste.</DraftedColonistDraggingModeOptionOffExplained>
+  <DraftedColonistDraggingModeOptionUnselected>Nenhum selecionado</DraftedColonistDraggingModeOptionUnselected>
+  <DraftedColonistDraggingModeOptionUnselectedExplained>Inicia o arraste apenas se nenhum colono ordenável estava selecionado antes do clique direito.</DraftedColonistDraggingModeOptionUnselectedExplained>
+  <DraftedColonistDraggingModeOptionAlways>Sempre</DraftedColonistDraggingModeOptionAlways>
+  <DraftedColonistDraggingModeOptionAlwaysExplained>Clicar com o botão direito em um colono recrutado sempre ativa arraste ou posicionamento de formação.</DraftedColonistDraggingModeOptionAlwaysExplained>
+  <RescueEnabledTitle>Coluna Resgate na aba Trabalho</RescueEnabledTitle>
+  <RescueEnabledExplained>Adiciona uma prioridade de trabalho de Resgate para que os colonos carreguem automaticamente aliados caídos até camas.</RescueEnabledExplained>
+  <ShowForceEndLetterTitle>Notifica quando o trabalho forçado termina</ShowForceEndLetterTitle>
+  <ShowForceEndLetterExplained>Mostra uma carta quando um colono fica sem trabalho forçado.</ShowForceEndLetterExplained>
+  <KeepDraftedAndUndraftedCommandsSeparateTitle>Separa comandos de recrutados e não recrutados</KeepDraftedAndUndraftedCommandsSeparateTitle>
+  <KeepDraftedAndUndraftedCommandsSeparateExplained>Mantém os comandos de clique direito para colonos recrutados e não recrutados separados, como no RimWorld sem mods.</KeepDraftedAndUndraftedCommandsSeparateExplained>
+  <ReplaceCleanRoomTitle>Substitui o comando "Limpar cômodo"</ReplaceCleanRoomTitle>
+  <ReplaceCleanRoomExplained>Usa o comando de limpeza completa de cômodo do Achtung em vez do comando do RimWorld.</ReplaceCleanRoomExplained>
+  <ReplaceFightFireTitle>Substitui o comando "Apagar incêndio"</ReplaceFightFireTitle>
+  <ReplaceFightFireExplained>Usa o comando de combate a incêndio completo do Achtung em vez do comando do RimWorld.</ReplaceFightFireExplained>
+  <ForcedCommandState>Ordenado a continuar trabalhando até terminar.</ForcedCommandState>
+  <ForceMenuButtonText>Forçar</ForceMenuButtonText>
+  <IncreaseForceRadius>Aumentar raio</IncreaseForceRadius>
+  <IncreaseForceRadiusDesc>Aumenta o raio de busca para o trabalho forçado (atualmente {0}).</IncreaseForceRadiusDesc>
+  <DecreaseForceRadius>Diminuir raio</DecreaseForceRadius>
+  <DecreaseForceRadiusDesc>Diminui o raio de busca para o trabalho forçado (atualmente {0}).</DecreaseForceRadiusDesc>
+  <BuildingSmart>Construção esperta</BuildingSmart>
+  <BuildingSmartDesc>Evita vãos inalcançáveis e construtores presos. É mais lento e constrói para fora a partir do ponto inicial.</BuildingSmartDesc>
+  <AchtungModKeyOptionNone>Desativado</AchtungModKeyOptionNone>
+  <AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
+  <AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
+  <AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
+  <AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
+  <BreakLevelTitle>Risco de colapso mental</BreakLevelTitle>
+  <BreakLevelExplained>Interrompe o trabalho forçado quando o colono chega a este nível de risco de colapso mental.</BreakLevelExplained>
+  <BreakLevelOptionNone>Ignora</BreakLevelOptionNone>
+  <BreakLevelOptionMinor>Leve</BreakLevelOptionMinor>
+  <BreakLevelOptionMajor>Grave</BreakLevelOptionMajor>
+  <BreakLevelOptionAlmostExtreme>Quase extremo</BreakLevelOptionAlmostExtreme>
+  <BreakLevelOptionExtreme>Extremo</BreakLevelOptionExtreme>
+  <HealthLevelTitle>Condição de saúde</HealthLevelTitle>
+  <HealthLevelExplained>Interrompe o trabalho forçado quando o colono chega a esta condição de saúde.</HealthLevelExplained>
+  <HealthLevelOptionNone>Ignora</HealthLevelOptionNone>
+  <HealthLevelOptionShouldBeTendedNow>Precisa de cuidados agora</HealthLevelOptionShouldBeTendedNow>
+  <HealthLevelOptionPrefersMedicalRest>Prefere repouso médico</HealthLevelOptionPrefersMedicalRest>
+  <HealthLevelOptionNeedsMedicalRest>Precisa de repouso médico urgente</HealthLevelOptionNeedsMedicalRest>
+  <HealthLevelOptionInPainShock>Em choque de dor</HealthLevelOptionInPainShock>
+  <IgnoreForbiddenTitle>Ignora status de proibido</IgnoreForbiddenTitle>
+  <IgnoreForbiddenExplained>Permite trabalho forçado em itens proibidos.</IgnoreForbiddenExplained>
+  <IgnoreRestrictionsTitle>Ignora restrições de área permitida</IgnoreRestrictionsTitle>
+  <IgnoreRestrictionsExplained>Permite trabalho forçado fora da área permitida de um colono.</IgnoreRestrictionsExplained>
+  <IgnoreAssignmentsTitle>Ignora prioridades de trabalho</IgnoreAssignmentsTitle>
+  <IgnoreAssignmentsExplained>Permite trabalho forçado quando a prioridade de trabalho relevante está desativada.</IgnoreAssignmentsExplained>
+  <BuildingSmartTitle>Usa construção esperta em novas tarefas forçadas</BuildingSmartTitle>
+  <BuildingSmartExplained>Usa a ordem de construção mais segura por padrão nas novas tarefas forçadas.</BuildingSmartExplained>
+  <WorkMarkersTitle>Marcadores de trabalho forçado</WorkMarkersTitle>
+  <WorkMarkersExplained>Mostra marcadores pequenos nos alvos de trabalho forçado.</WorkMarkersExplained>
+  <WorkMarkersOptionAnimated>Animado</WorkMarkersOptionAnimated>
+  <WorkMarkersOptionStatic>Estático</WorkMarkersOptionStatic>
+  <WorkMarkersOptionOff>Desligado</WorkMarkersOptionOff>
+  <ForceCommandsEnabledTitle>Comandos de trabalho forçado</ForceCommandsEnabledTitle>
+  <ForceCommandsEnabledExplained>Mostra um botão de raio nas tarefas comuns de clique direito. Ele inicia o trabalho forçado e pode adicionar alvos próximos correspondentes.</ForceCommandsEnabledExplained>
+  <MaxForcedItemsTitle>Limite de alvos de trabalho forçado</MaxForcedItemsTitle>
+  <MaxForcedItemsExplained>Limita quantos alvos próximos correspondentes o Achtung adiciona a um comando de trabalho forçado.</MaxForcedItemsExplained>
+  <MaxForcedItemsUnlimited>Ilimitado</MaxForcedItemsUnlimited>
+  <JobInterruptedLabel>Cancelado: {0}</JobInterruptedLabel>
+  <JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
+  <JobInterruptedBadHealth>{0} está em más condições de saúde.</JobInterruptedBadHealth>
+  <CleanRoomLabel>Limpar cômodo (Achtung)</CleanRoomLabel>
+  <CleanRoomInfoText>Limpando cômodo por completo</CleanRoomInfoText>
+  <CleanRoomDescription>Limpa o cômodo inteiro, não apenas um ponto.</CleanRoomDescription>
+  <CleanRoomReport>Limpando{0}: {1}</CleanRoomReport>
+  <FireFightLabel>Apagar incêndio (Achtung)</FireFightLabel>
+  <FireFightInfoText>Combatendo um incêndio</FireFightInfoText>
+  <FireFightDescription>Apaga um incêndio por completo, mesmo fora da área doméstica.</FireFightDescription>
+  <FireFightReport>Combatendo incêndio: {0}</FireFightReport>
+  <SowZoneLabel>Plantar nesta zona ou cômodo</SowZoneLabel>
+  <SowZoneInfoText>Plantando zona ou cômodo</SowZoneInfoText>
+  <SowZoneDescription>Planta em uma zona de cultivo ou cômodo inteiro.</SowZoneDescription>
+  <SowZoneReport>Plantando{0}: {1}</SowZoneReport>
+  <AlreadyDoing>(Tarefa nº {0})</AlreadyDoing>
+  <CouldNotFindMoreForcedWork>{0} não achou mais trabalho forçado. Os alvos restantes provavelmente estão reservados ou inalcançáveis.</CouldNotFindMoreForcedWork>
+  <NoForcedWork>Sem trabalho forçado</NoForcedWork>
+  <ForcedWorkWasInterrupted>O trabalho forçado de {0} foi interrompido.</ForcedWorkWasInterrupted>
+  <WorkType_Rescue_Label>resgate</WorkType_Rescue_Label>
+  <WorkType_Rescue_PawnLabel>Resgatante</WorkType_Rescue_PawnLabel>
+  <WorkType_Rescue_GerundLabel>resgatando</WorkType_Rescue_GerundLabel>
+  <WorkType_Rescue_Description>Carrega aliados caídos até camas onde podem ser tratados.</WorkType_Rescue_Description>
+  <WorkType_Rescue_Verb>Resgatar</WorkType_Rescue_Verb>
+</LanguageData>

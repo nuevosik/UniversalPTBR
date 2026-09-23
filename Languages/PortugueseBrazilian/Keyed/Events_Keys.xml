@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelAnimalPodCrash>Queda de cápsula de transporte com animal</LetterLabelAnimalPodCrash>
+  <AnimalPodCrash>Uma caixa com um {PAWN_kind} chamado {PAWN_nameDef} está caindo em uma cápsula de transporte nas proximidades. Se sobreviver à queda, ficará gravemente ferido.\n\nSe for resgatado, pode se juntar livremente à colônia ou voltar a viver na natureza.</AnimalPodCrash>
+  <AJLabel>Animal resgatado se junta</AJLabel>
+  <AJLetter>O animal que você resgatou está se juntando à colônia</AJLetter>
+  <ADJLabel>Animal resgatado não se junta</ADJLabel>
+  <ADJLetter>O animal que você resgatou não está se juntando à colônia</ADJLetter>
+  <TraitorLabel>Traidor!</TraitorLabel>
+  <Traitor>Um colono chamado {PAWN_nameDef}, que você aceitou nas suas fileiras, revela-se um agente inimigo de {PAWN_factionName}.\n\nÉ possível capturar {PAWN_objective} para recrutamento ou escravidão.</Traitor>
+  <SpaceBattleLabel>Batalha espacial</SpaceBattleLabel>
+  <SpaceBattle>Várias naves espaciais enormes entraram em combate na órbita do planeta. Tiros errados e destroços podem atingir o chão na área. Isso pode causar incêndios massivos.</SpaceBattle>
+  <ShuttleCrashLabel>Queda de nave</ShuttleCrashLabel>
+  <ShuttleCrash>Uma nave com destino ao planeta está caindo nas proximidades. Se a tripulação sobreviver ao impacto, ficará gravemente ferida. A nave caída pode ser desconstruída para obter recursos úteis.\n\nA tripulação não é afiliada a nenhuma facção, o que significa que podem ser resgatados e se juntar a você livremente, ou capturados para recrutamento ou escravidão.</ShuttleCrash>
+  <EarthquakeLabel>Terremoto</EarthquakeLabel>
+  <Earthquake>Mudanças na crosta do planeta causaram um pequeno terremoto local. Algumas estruturas podem sofrer danos e telhados podem desabar.</Earthquake>
+  <CPWLabel>Cápsulas de carga (armas)</CPWLabel>
+  <CPW>Você detectou um aglomerado de cápsulas de carga caindo nas proximidades.\n\nTalvez encontre algo útil nos destroços.</CPW>
+  <CPALabel>Cápsulas de carga (roupas)</CPALabel>
+  <CPA>Você detectou um aglomerado de cápsulas de carga caindo nas proximidades.\n\nTalvez encontre algo útil nos destroços.</CPA>
+  <CAWILabel>Animais de caravana entram errantes</CAWILabel>
+  <CAWI>Um grupo de {PAWN_kind}, abandonados ou perdidos, entra errante.\n\nParecem ter pertencido a alguma caravana, pois ainda carregam fardos com itens valiosos. É possível coletar esses itens se você domesticá-los ou matá-los. Caso contrário, eles sairão da área em alguns dias.</CAWI>
+  <CSLabel>Broto de cultivo</CSLabel>
+  <CS1>Um grande campo de</CS1>
+  <CS2>brotou nas proximidades. Se você esperar crescer, poderá colher muita comida! Se ficar sem colher, apodrece lentamente e desaparece.</CS2>
+  <BAWILabel>Animais de batalha entram errantes</BAWILabel>
+  <BAWI>Um grupo de {0}, abandonados ou perdidos, entra errante.\n\nParecem acostumados ao contato humano e estão se juntando à colônia.</BAWI>
+  <WMWILabel>Homens selvagens entram errantes</WMWILabel>
+  <WMWI>Uma pequena tribo pré-neolítica de homens selvagens entra errante. É possível tentar domesticá-los.</WMWI>
+  <HPLabel>Expedição de caça</HPLabel>
+  <HP>Um grupo de caçadores de {0} está passando pela área. Eles caçam aqui por algumas horas e depois seguem viagem.</HP>
+  <VEE_Decay>Apodrecendo por causa da seca.</VEE_Decay>
+  <VEE_DroughtGui>Fertilidade ajustada pela seca: {0}</VEE_DroughtGui>
+  <SCat>Vanilla Events Expanded</SCat>
+  <BReset>Redefinir configurações</BReset>
+  <GCWReset>Interrompe todas as condições de mundo</GCWReset>
+  <GCMReset>Interrompe todas as condições de mapa</GCMReset>
+  <NeedToBeIngame>É preciso estar em jogo para encerrar as condições de jogo</NeedToBeIngame>
+  <CEBC>&lt;color=cyan&gt;&lt;b&gt;Muda a chance-base dos eventos (defina como 0 para desativar):&lt;/b&gt;&lt;/color&gt;</CEBC>
+  <BCS>Abre as configurações de chance-base dos eventos</BCS>
+  <MinTPE>Dias mínimos antes de disparar de novo:</MinTPE>
+  <ETPE>Dias mínimos antes de disparar:</ETPE>
+  <PES>&lt;color=cyan&gt;&lt;b&gt;Configurações de eventos roxos:&lt;/b&gt;&lt;/color&gt;</PES>
+  <IABaseC>Era do gelo</IABaseC>
+  <GWBaseC>Aquecimento global</GWBaseC>
+  <PRBaseC>Chuva psíquica</PRBaseC>
+  <LNBaseC>Noite longa</LNBaseC>
+  <PBBaseC>Florescimento psíquico</PBBaseC>
+  <HSBaseC>Tempestade de granizo</HSBaseC>
+  <MSBaseC>Chuva de meteoritos</MSBaseC>
+  <APCBaseC>Queda de cápsula com animal</APCBaseC>
+  <WJTBaseC>Andarilho traidor</WJTBaseC>
+  <SPBaseC>Batalha espacial</SPBaseC>
+  <SCBaseC>Queda de nave</SCBaseC>
+  <EBaseC>Terremoto</EBaseC>
+  <CPWBaseC>Cápsulas de carga com armas</CPWBaseC>
+  <CPABaseC>Cápsulas de carga com roupas</CPABaseC>
+  <CAWIBaseC>Animais de caravana errantes</CAWIBaseC>
+  <CSBaseC>Broto de cultivo</CSBaseC>
+  <BAWIBaseC>Animais de batalha errantes</BAWIBaseC>
+  <DBaseC>Seca</DBaseC>
+  <WMWIBaseC>Homens selvagens errantes</WMWIBaseC>
+  <HPBaseC>Expedição de caça</HPBaseC>
+  <GCWResetOBO>Interrompe condição de mundo...</GCWResetOBO>
+  <GCMResetOBO>Interrompe condição de mapa...</GCMResetOBO>
+  <VEE_DaysBetweenPurpleEvents>Número de dias entre eventos roxos:</VEE_DaysBetweenPurpleEvents>
+  <VEE_AnimalPodCrashLabel>Queda de cápsula com animal</VEE_AnimalPodCrashLabel>
+  <VEE_AnimalPodCrashDesc>Uma cápsula de transporte carregando um {PAWN_kind} chamado {PAWN_nameDef} está caindo nas proximidades. Se sobreviver à queda, ficará gravemente ferido.\n\nSe você cuidar dos ferimentos dele, ele pode decidir ficar por perto.</VEE_AnimalPodCrashDesc>
+  <VEE_AnimalPodCrashLabel_AceptedJoining>Animal resgatado se juntou</VEE_AnimalPodCrashLabel_AceptedJoining>
+  <VEE_AnimalPodCrashDesc_AceptedJoining>O animal que você resgatou está se juntando à colônia.</VEE_AnimalPodCrashDesc_AceptedJoining>
+  <VEE_AnimalPodCrashLabel_RefusedJoining>Animal resgatado não se juntou</VEE_AnimalPodCrashLabel_RefusedJoining>
+  <VEE_AnimalPodCrashDesc_RefusedJoining>O animal que você resgatou não está se juntando à colônia.</VEE_AnimalPodCrashDesc_RefusedJoining>
+  <VEE_TraitorLabel>Traidor: {PAWN_nameDef}</VEE_TraitorLabel>
+  <VEE_TraitorDesc>{PAWN_nameDef} revelou as verdadeiras cores de {PAWN_possessive}!\n\n{PAWN_pronoun} era um agente de {Hostile_FactionName} enviado para infiltrar sua colônia. {PAWN_pronoun} virou-se violentamente contra você e agora está atacando seu povoado por dentro. É possível dominar ou matar {PAWN_objective}!</VEE_TraitorDesc>
+  <VEE_TraitorGroupLabel>Incursão (Visitantes)</VEE_TraitorGroupLabel>
+  <VEE_TraitorGroupDesc>Os visitantes revelaram-se uma incursão disfarçada de {0}. Estão atacando imediatamente.</VEE_TraitorGroupDesc>
+  <VEE_OrbitalCrashLabel>Queda de nave orbital</VEE_OrbitalCrashLabel>
+  <VEE_OrbitalCrashDesc>Uma nave orbital enorme de {0} sofreu uma falha estrutural catastrófica na órbita diretamente acima da sua região!\n\nNas próximas horas, pedaços enormes de casco, componentes voláteis de motor, baias de carga e cápsulas de escape choverão por toda a área.\n\nMantenha seus colonos sob telhados ou desvie com cuidado dos destroços caindo. Quando a chuva terminar, haverá muitos recursos para recuperar e prováveis sobreviventes para resgatar dos destroços.</VEE_OrbitalCrashDesc>
+  <VEE_ShuttleCrashLabel>Queda de nave</VEE_ShuttleCrashLabel>
+  <VEE_ShuttleCrashDesc>Uma nave bastante danificada está despencando do céu e vai cair violentamente nas proximidades.\n\nO impacto vai espalhar quemicombustível e iniciar um incêndio perigoso.\n\nCarga e passageiros serão encontrados entre os destroços.\n\nÉ preciso agir rápido se quiser resgatar os sobreviventes, recuperar a carga e impedir que o fogo saia do controle.</VEE_ShuttleCrashDesc>
+  <VEE_EarthquakeLabel>Terremoto (magnitude {0})</VEE_EarthquakeLabel>
+  <VEE_EarthquakeDesc>Um terremoto de magnitude {0} atingiu a região!\n\nO tremor violento rompeu o chão e causou dano estrutural severo perto do epicentro. Reparos podem ser necessários.</VEE_EarthquakeDesc>
+  <VEE_WeaponCargoPodLabel>Cápsulas de carga (arma)</VEE_WeaponCargoPodLabel>
+  <VEE_WeaponCargoPodDesc>Você detectou uma cápsula de carga pousando nas proximidades!\n\nEla parece ter carregado alguma arma, que você pode recuperar dos destroços.</VEE_WeaponCargoPodDesc>
+  <VEE_ApparelCargoPodLabel>Cápsulas de carga (roupas)</VEE_ApparelCargoPodLabel>
+  <VEE_ApparelCargoPodDesc>Você detectou um aglomerado de cápsulas de carga pousando nas proximidades!\n\nParecem conter roupas aleatórias, que você pode recuperar dos destroços.</VEE_ApparelCargoPodDesc>
+  <VEE_CaravanAnimalsWanderLabel>Animais de caravana entram errantes</VEE_CaravanAnimalsWanderLabel>
+  <VEE_CaravanAnimalsWanderDesc>Um pequeno grupo de {0} entrou errante na área vindo da natureza.\n\nParecem ser os restos de uma caravana mercante perdida ou destruída, pois estão sobrecarregados com fardos cheios de mercadorias.\n\nÉ possível tentar domesticar os animais para reivindicá-los e a carga deles com segurança, ou caçá-los para tomar os suprimentos à força.</VEE_CaravanAnimalsWanderDesc>
+  <VEE_CropSproutLabel>Broto selvagem de {0}</VEE_CropSproutLabel>
+  <VEE_CropSproutDesc>Um bosque de {0} selvagem brotou nas proximidades!\n\nSe você esperar as plantas crescerem, poderá colhê-las.</VEE_CropSproutDesc>
+  <VEE_BattleAnimalsWanderLabel>Animais de batalha entram errantes</VEE_BattleAnimalsWanderLabel>
+  <VEE_BattleAnimalsWanderDesc>Um pequeno bando de {0} entrou errante na área vindo da natureza.\n\nParecem acostumados com a presença humana e imediatamente criaram vínculo com a colônia. \n\nDadas as capacidades naturais de combate deles, serão excelentes mascotes defensivos se você designar um tratador para treiná-los. Como alternativa, se não puder alimentá-los, podem ser abatidos para comida.</VEE_BattleAnimalsWanderDesc>
+  <VEE_WildMenWanderLabel>Homens selvagens entram errantes</VEE_WildMenWanderLabel>
+  <VEE_WildMenWanderDesc>Uma pequena tribo de humanos que vivem entre animais selvagens entrou errante na área.\n\nSão primitivos e famintos, e vão forragear ativamente por comida, o que inclui comer seus cultivos ou saquear pilhas de comida desprotegidas.\n\nÉ possível tentar domesticá-los um a um para adicioná-los à colônia, prendê-los ou lidar com eles à força se se tornarem um incômodo demais.</VEE_WildMenWanderDesc>
+  <VEE_HuntingPartyLabel>Expedição de caça</VEE_HuntingPartyLabel>
+  <VEE_HuntingPartyDesc>Uma pequena expedição de caça de {0} entrou na área.\n\nVieram caçar a fauna local por carne e couro. São pacíficos e não atacam seus colonos, mas podem esgotar a caça local. Quando cada caçador abater um animal, eles juntam as caças e partem.</VEE_HuntingPartyDesc>
+  <VEE_ManhunterSingleArrivalLabel>Caçador de homens: {0}</VEE_ManhunterSingleArrivalLabel>
+  <VEE_ManhunterSingleArrivalDesc>Um {0} solitário infectado com sarna entrou na área vindo da natureza.\n\nEstá totalmente raivoso e ataca agressivamente qualquer humano que veja. Mantenha seus colonos dentro ou recrute-os para lidar com a ameaça.\n\nPor causa da doença, provavelmente morre sozinho em poucos dias.</VEE_ManhunterSingleArrivalDesc>
+  <VEE_CrashlandedLabel>Naufragados</VEE_CrashlandedLabel>
+  <VEE_CrashlandedDesc>Três cápsulas de escape se chocaram com o chão nas proximidades. \n\nTrês sobreviventes emergiram dos destroços, parecendo atordoados e perdidos. Parecem ter escapado por pouco de uma nave se partindo em órbita. Provavelmente vão descansar aqui para se recuperar da doença de criossono antes de seguir viagem.</VEE_CrashlandedDesc>
+  <VEE_CrashlandedChoiceLabel>Sobreviventes oferecem se juntar</VEE_CrashlandedChoiceLabel>
+  <VEE_CrashlandedChoiceText>Os sobreviventes do naufrágio notaram os números escassos da sua colônia. Percebendo que sobreviver no ermo sozinho é quase impossível, eles ofereceram se juntar ao seu povoado, trazendo o mascote e os suprimentos deles.\n\nVocê aceita a oferta deles?</VEE_CrashlandedChoiceText>
+  <VEE_CrashlandedLeaving>Sobreviventes do naufrágio estão juntando as coisas e partindo.</VEE_CrashlandedLeaving>
+  <VEE_WhiteoutRefugees>Refugiados desesperados</VEE_WhiteoutRefugees>
+  <VEE_WhiteoutRefugeesText>Um pequeno grupo de {0} sobreviventes congelando apareceu na borda do seu povoado.\n\nEstão gravemente hipotérmicos e famintos por causa do branqueamento em curso. Estão implorando para você abrir as portas e compartilhar seu calor e sua comida.\n\nAtenção: têm o olhar selvagem de pessoas desesperadas. Se você os mandar embora para congelar na neve, provavelmente tentarão tomar seu abrigo à força.\n\nVocê os aceita?</VEE_WhiteoutRefugeesText>
+  <VEE_WhiteoutRefugees_Accepted>Os refugiados agradecem sua misericórdia e se juntaram à colônia para se recuperar do sofrimento.</VEE_WhiteoutRefugees_Accepted>
+  <VEE_WhiteoutRefugees_Rejected>Os refugiados se voltaram contra você! Traídos e desesperados, juraram tomar seu abrigo à força.\n\nEstão atacando imediatamente.</VEE_WhiteoutRefugees_Rejected>
+  <VEE_Young>Jovem</VEE_Young>
+  <VEE_Elder>Idoso</VEE_Elder>
+  <VEE_Male>Macho</VEE_Male>
+  <VEE_Female>Fêmea</VEE_Female>
+  <VEE_CurrentStage>Estágio atual: {0}. Estágio ativo há {1}</VEE_CurrentStage>
+  <VEE_ResetSettings>Redefinir configurações</VEE_ResetSettings>
+  <VEE_NeedToBeIngame>É preciso estar em jogo para encerrar as condições de jogo</VEE_NeedToBeIngame>
+  <VEE_StopWorldCondition>Interrompe condição de mundo...</VEE_StopWorldCondition>
+  <VEE_StopMapCondition>Interrompe condição de mapa...</VEE_StopMapCondition>
+  <VEE_HideHazeVisualEffects>Esconde efeitos visuais de névoa</VEE_HideHazeVisualEffects>
+  <VEE_HideHazeVisualEffectsDesc>Remove o efeito visual de névoa que aparece com o evento roxo "Chamusco". Isso afeta apenas o efeito visual.</VEE_HideHazeVisualEffectsDesc>
+</LanguageData>

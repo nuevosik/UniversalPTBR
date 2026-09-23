@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AEXP_WalrusTusk.label>walrus tusk</AEXP_WalrusTusk.label>
+  <AEXP_WalrusTusk.description>A walrus's tusk. It is quite valuable, but somewhat unwieldy as a melee weapon.</AEXP_WalrusTusk.description>
+  <AEXP_WalrusTusk.tools.0.label>point</AEXP_WalrusTusk.tools.0.label>
+  <AEXP_WalrusTusk.tools.1.label>base</AEXP_WalrusTusk.tools.1.label>
+  <AEXP_EggPenguinUnfertilized.label>penguin egg (unfert.)</AEXP_EggPenguinUnfertilized.label>
+  <AEXP_EggPenguinUnfertilized.description>An unfertilized penguin egg. It can be eaten raw, but it's much, much better cooked.</AEXP_EggPenguinUnfertilized.description>
+  <AEXP_EggPenguinFertilized.label>penguin egg (fert.)</AEXP_EggPenguinFertilized.label>
+  <AEXP_EggPenguinFertilized.description>A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked.</AEXP_EggPenguinFertilized.description>
+  <AEXP_EggAlligatorUnfertilized.label>alligator egg (unfert.)</AEXP_EggAlligatorUnfertilized.label>
+  <AEXP_EggAlligatorUnfertilized.description>An unfertilized alligator egg. It can be eaten raw, but it's much, much better cooked.</AEXP_EggAlligatorUnfertilized.description>
+  <AEXP_EggAlligatorFertilized.label>alligator egg (fert.)</AEXP_EggAlligatorFertilized.label>
+  <AEXP_EggAlligatorFertilized.description>A fertilized alligator egg. If all goes well, it should hatch into an alligator. It can be eaten raw, but it's much better cooked.</AEXP_EggAlligatorFertilized.description>
+  <AEXP_RawFish.label>raw fish</AEXP_RawFish.label>
+  <AEXP_RawFish.description>Raw fish. A resourceful penguin has fished this.</AEXP_RawFish.description>
+  <AEXP_RawFish.tools.0.label>raw fish</AEXP_RawFish.tools.0.label>
+  <AEXP_Leather_Hippopotamus.label>hippopotamus leather</AEXP_Leather_Hippopotamus.label>
+  <AEXP_Leather_Hippopotamus.description>A thick leather of a hippopotamus. Not only it's extremely durable, but it also provides considerable heat insulation.</AEXP_Leather_Hippopotamus.description>
+  <AEXP_Leather_Pinniped.label>pinniped leather</AEXP_Leather_Pinniped.label>
+  <AEXP_Leather_Pinniped.description>Tanned and dried leather from a Pinniped. It is of average strength but insulates well against heat.</AEXP_Leather_Pinniped.description>
+  <AEXP_Leather_Tiger.label>tiger leather</AEXP_Leather_Tiger.label>
+  <AEXP_Leather_Tiger.description>Tigers were often the target of poachers in old Earth due to their luxurious pelts, a fact that almost drove them to extinction. With the near lawlessness of the Rim, tiger leather is seen as another exotic commodity to trade between settlements.</AEXP_Leather_Tiger.description>
+  <AEXP_MuskOxWool.label>musk ox wool</AEXP_MuskOxWool.label>
+  <AEXP_MuskOxWool.description>The inner wool of the muskox, originally known in Inuktitut as Qiviuq. Stronger and warmer than sheep's wool, and softer than cashmere wool.</AEXP_MuskOxWool.description>
+  <AEXP_Hippopotamus.label>hippopotamus</AEXP_Hippopotamus.label>
+  <AEXP_Hippopotamus.description>A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt.</AEXP_Hippopotamus.description>
+  <AEXP_Hippopotamus.tools.1.label>left foot</AEXP_Hippopotamus.tools.1.label>
+  <AEXP_Hippopotamus.tools.2.label>right foot</AEXP_Hippopotamus.tools.2.label>
+  <AEXP_Hippopotamus.tools.3.label>head</AEXP_Hippopotamus.tools.3.label>
+  <AEXP_Otter.label>otter</AEXP_Otter.label>
+  <AEXP_Otter.description>Long, slim, semi-aquatic mammal dieting mostly on fish and small plants. They are extremaly good swimmers and can hold breath under water for a prolonged amount of time.</AEXP_Otter.description>
+  <AEXP_Otter.tools.0.label>left claw</AEXP_Otter.tools.0.label>
+  <AEXP_Otter.tools.1.label>right claw</AEXP_Otter.tools.1.label>
+  <AEXP_Otter.tools.3.label>head</AEXP_Otter.tools.3.label>
+  <AEXP_Penguin.label>penguin</AEXP_Penguin.label>
+  <AEXP_Penguin.description>An aquatic, flightless bird, only found in arctic regions. Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them.</AEXP_Penguin.description>
+  <AEXP_Penguin.tools.0.label>claws</AEXP_Penguin.tools.0.label>
+  <AEXP_Penguin.tools.1.label>beak</AEXP_Penguin.tools.1.label>
+  <AEXP_Penguin.tools.2.label>head</AEXP_Penguin.tools.2.label>
+  <AEXP_Seal.label>seal</AEXP_Seal.label>
+  <AEXP_Seal.description>A medium sized semi-aquatic mammal, which only comes ashore to eat, mate and escape from predators. Being an aggresive hunter, seals are capable of tackling much bigger prey and are known for cannibalism if the food is scarce.</AEXP_Seal.description>
+  <AEXP_Seal.tools.0.label>left fore-flipper</AEXP_Seal.tools.0.label>
+  <AEXP_Seal.tools.1.label>right fore-flipper</AEXP_Seal.tools.1.label>
+  <AEXP_Seal.tools.3.label>head</AEXP_Seal.tools.3.label>
+  <AEXP_Walrus.label>walrus</AEXP_Walrus.label>
+  <AEXP_Walrus.description>A large marine animal only found in the arctic regions of the planet, a walrus has prominent tusks which are a valuable luxury good across the planet.</AEXP_Walrus.description>
+  <AEXP_Walrus.tools.1.label>head</AEXP_Walrus.tools.1.label>
+  <AEXP_Badger.label>badger</AEXP_Badger.label>
+  <AEXP_Badger.description>Badgers are small nocturnal mammals with flat, wedge-shaped bodies, broad feet with long claws and coarse hair. Badgers have strong limbs and sharp claws that help them dig burrows and find food underground. They are omnivorous, with a diet consisting largely of earthworms, insects, grubs and small animals such as hedgehogs and rabbits.</AEXP_Badger.description>
+  <AEXP_Badger.tools.0.label>left paw</AEXP_Badger.tools.0.label>
+  <AEXP_Badger.tools.1.label>right paw</AEXP_Badger.tools.1.label>
+  <AEXP_Badger.tools.3.label>head</AEXP_Badger.tools.3.label>
+  <AEXP_Gorilla.label>gorilla</AEXP_Gorilla.label>
+  <AEXP_Gorilla.description>These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened.</AEXP_Gorilla.description>
+  <AEXP_Gorilla.tools.0.label>left fist</AEXP_Gorilla.tools.0.label>
+  <AEXP_Gorilla.tools.1.label>right fist</AEXP_Gorilla.tools.1.label>
+  <AEXP_Gorilla.tools.3.label>head</AEXP_Gorilla.tools.3.label>
+  <AEXP_Tiger.label>tiger</AEXP_Tiger.label>
+  <AEXP_Tiger.description>The tiger is the largest species among the big cats. It is most recognisable for its dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, territorial and generally solitary. In the wild, tigers mostly feed on large and medium-sized mammals.</AEXP_Tiger.description>
+  <AEXP_Tiger.tools.0.label>left claw</AEXP_Tiger.tools.0.label>
+  <AEXP_Tiger.tools.1.label>right claw</AEXP_Tiger.tools.1.label>
+  <AEXP_Tiger.tools.3.label>head</AEXP_Tiger.tools.3.label>
+  <AEXP_Alligator.label>alligator</AEXP_Alligator.label>
+  <AEXP_Alligator.description>The alligator is a large reptile that inhabits freshwater wetlands. They are apex predators and consume fish, amphibians, reptiles, birds, and mammals.  Like other crocodilians, healthy alligators may continue to grow throughout their lives.</AEXP_Alligator.description>
+  <AEXP_Muskox.label>musk ox</AEXP_Muskox.label>
+  <AEXP_Muskox.description>Musk oxen are massive buffalo-like mammals that roam the tundra areas in search for roots, mosses and lichens to sustain them. Being related to muffalos, musk oxen can be used as pack animals. They are noted for their thick coat and for the strong odor emitted during the seasonal rut by males, from which their name derives.</AEXP_Muskox.description>
+  <AEXP_Muskox.tools.0.label>head</AEXP_Muskox.tools.0.label>
+  <AEXP_Muskox.tools.1.label>left hoof</AEXP_Muskox.tools.1.label>
+  <AEXP_Muskox.tools.2.label>right hoof</AEXP_Muskox.tools.2.label>
+  <AEXP_Moose.label>moose</AEXP_Moose.label>
+  <AEXP_Moose.description>The largest and heaviest member of the deer family, well-adapted to life in cold climates. Can easily be identified due to the size of the antlers and long, thin legs. Cannot carry packs, but domesticated moose can be milked. Unlike most other deer species, moose do not form herds and are solitary animals. Although generally slow-moving and sedentary, moose can become aggressive and move quickly if angered or startled.</AEXP_Moose.description>
+  <AEXP_Moose.tools.0.label>left hoof</AEXP_Moose.tools.0.label>
+  <AEXP_Moose.tools.1.label>right hoof</AEXP_Moose.tools.1.label>
+  <AEXP_Moose.tools.3.label>head</AEXP_Moose.tools.3.label>
+  <AEXP_Porcupine.label>porcupine</AEXP_Porcupine.label>
+  <AEXP_Porcupine.description>A large rodent with a coat of sharp quills that protect it against predators.</AEXP_Porcupine.description>
+  <AEXP_Porcupine.tools.0.label>left claw</AEXP_Porcupine.tools.0.label>
+  <AEXP_Porcupine.tools.1.label>right claw</AEXP_Porcupine.tools.1.label>
+  <AEXP_Porcupine.tools.3.label>head</AEXP_Porcupine.tools.3.label>
+  <AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+  <AEXP_Giraffe.label>giraffe</AEXP_Giraffe.label>
+  <AEXP_Zebra.label>zebra</AEXP_Zebra.label>
+  <AEXP_Wildebeest.label>wildebeest</AEXP_Wildebeest.label>
+  <AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+  <AEXP_Cheetah.label>cheetah</AEXP_Cheetah.label>
+  <AEXP_Boombat.label>boombat</AEXP_Boombat.label>
+  <AEXP_Kangaroo.label>kangaroo</AEXP_Kangaroo.label>
+  <AEXP_Koala.label>koala</AEXP_Koala.label>
+  <AEXP_Platypus.label>platypus</AEXP_Platypus.label>
+  <AEXP_ArcticCoyote.label>arctic coyote</AEXP_ArcticCoyote.label>
+  <AEXP_BlackBear.label>black bear</AEXP_BlackBear.label>
+  <AEXP_CatAbyssinian.label>abyssinian cat</AEXP_CatAbyssinian.label>
+  <AEXP_CatBengal.label>bengal cat</AEXP_CatBengal.label>
+  <AEXP_CatBritishShorthair.label>british shorthair cat</AEXP_CatBritishShorthair.label>
+  <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+  <AEXP_CatMunchkin.label>munchkin cat</AEXP_CatMunchkin.label>
+  <AEXP_CatNorwegianForest.label>norwegian forest cat</AEXP_CatNorwegianForest.label>
+  <AEXP_CatPersian.label>persian cat</AEXP_CatPersian.label>
+  <AEXP_CatSiamese.label>siamese cat</AEXP_CatSiamese.label>
+  <AEXP_CatSomali.label>somali cat</AEXP_CatSomali.label>
+  <AEXP_CatSphynx.label>sphynx cat</AEXP_CatSphynx.label>
+  <AEXP_Hyena.label>hyena</AEXP_Hyena.label>
+  <AEXP_DesertTortoise.label>desert tortoise</AEXP_DesertTortoise.label>
+  <AEXP_Lion.label>lion</AEXP_Lion.label>
+  <AEXP_GilaMonster.label>gila monster</AEXP_GilaMonster.label>
+  <AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+  <AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+  <AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+  <AEXP_FrenchBulldog.label>french bulldog</AEXP_FrenchBulldog.label>
+  <AEXP_GermanShepherd.label>german shepherd</AEXP_GermanShepherd.label>
+  <AEXP_GreatDane.label>great dane</AEXP_GreatDane.label>
+  <AEXP_Poodle.label>poodle</AEXP_Poodle.label>
+  <AEXP_Pug.label>pug</AEXP_Pug.label>
+  <AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+  <AEXP_Shih-Tzu.label>shih-tzu</AEXP_Shih-Tzu.label>
+  <AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+  <AEXP_Camel.label>camel</AEXP_Camel.label>
+  <AEXP_Rattlesnake.label>rattlesnake</AEXP_Rattlesnake.label>
+  <AEXP_Megascorpion.label>megascorpion</AEXP_Megascorpion.label>
+  <AEXP_RedPanda.label>red panda</AEXP_RedPanda.label>
+  <AEXP_WildGoose.label>wild goose</AEXP_WildGoose.label>
+  <AEXP_Beaver.label>beaver</AEXP_Beaver.label>
+  <AEXP_Hedgehog.label>hedgehog</AEXP_Hedgehog.label>
+  <AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
+  <AEXP_Lemur.label>lemur</AEXP_Lemur.label>
+  <AEXP_Mandrill.label>mandrill</AEXP_Mandrill.label>
+  <AEXP_Tapir.label>tapir</AEXP_Tapir.label>
+  <AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
+  <AEXP_IndianElephant.label>indian elephant</AEXP_IndianElephant.label>
+  <AEXP_MegaWolverine.label>megawolverine</AEXP_MegaWolverine.label>
+</LanguageData>
