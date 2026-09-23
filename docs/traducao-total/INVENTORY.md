@@ -50,24 +50,24 @@ Alvos: 139 | chaves: 26296
 | B13 | 1938420742 | VanillaExpanded.VEE | Vanilla Events Expanded | 51 | 63 | 114 | feito |
 | B13 | 3726293423 | ICC.FOV.ELVES | Faction - Elves | 113 | 0 | 113 | feito |
 | B13 | 3609897594 | Andromeda.NiceInventoryTab | Nice Inventory Tab | 2 | 108 | 110 | feito |
-| B14 | 2193152410 | VanillaExpanded.VBooksE | Vanilla Books Expanded | 92 | 14 | 106 | pendente |
-| B14 | 3524247750 | jecrell.jecstools | JecsTools Unofficial 1.6 BETA | 17 | 87 | 104 | pendente |
-| B14 | 3210544395 | syrchalis.processor.framework | [SYR] Processor Framework | 10 | 89 | 99 | pendente |
-| B14 | 1814987817 | VanillaExpanded.VAPPE | Vanilla Apparel Expanded | 98 | 0 | 98 | pendente |
-| B14 | 2023507013 | OskarPotocki.VanillaFactionsExpanded.Core | Vanilla Expanded Framework | 61 | 29 | 90 | pendente |
-| B14 | 1561769193 | avilmask.CommonSense | Common Sense | 6 | 83 | 89 | pendente |
-| B14 | 3469863391 | al9000.tastycore | Tasty Armory - Core | 89 | 0 | 89 | pendente |
-| B14 | 2062943477 | VanillaExpanded.VFEPower | Vanilla Furniture Expanded - Power | 84 | 0 | 84 | pendente |
-| B14 | 3030499331 | Mlie.ResearchTree | Research Tree (Continued) | 10 | 71 | 81 | pendente |
-| B14 | 2007576583 | Ogliss.TheWhiteCrayon.Quarry | Quarry | 25 | 51 | 76 | pendente |
-| B14 | 2664723367 | Taranchuk.PerformanceOptimizer | Performance Optimizer | 4 | 68 | 72 | pendente |
-| B14 | 1845154007 | VanillaExpanded.VFESecurity | Vanilla Furniture Expanded - Security | 71 | 0 | 71 | pendente |
-| B14 | 1098354593 | Oblitus.AnimalsLogic | Animals Logic | 0 | 69 | 69 | pendente |
-| B14 | 1447140290 | Ogre.OgreStack | OgreStack | 0 | 69 | 69 | pendente |
-| B14 | 2990596478 | VanillaExpanded.VPE.Hemosage | Vanilla Psycasts Expanded - Hemosage | 59 | 10 | 69 | pendente |
-| B14 | 1541460369 | VouLT.BetterPawnControl | Better Pawn Control | 3 | 65 | 68 | pendente |
-| B14 | 3520130671 | Andromeda.NiceBillTab | Nice Bill Tab | 0 | 67 | 67 | pendente |
-| B14 | 2688941031 | vanillaexpanded.outposts | Vanilla Outposts Expanded | 26 | 39 | 65 | pendente |
+| B14 | 2193152410 | VanillaExpanded.VBooksE | Vanilla Books Expanded | 92 | 14 | 106 | feito |
+| B14 | 3524247750 | jecrell.jecstools | JecsTools Unofficial 1.6 BETA | 17 | 87 | 104 | feito |
+| B14 | 3210544395 | syrchalis.processor.framework | [SYR] Processor Framework | 10 | 89 | 99 | feito |
+| B14 | 1814987817 | VanillaExpanded.VAPPE | Vanilla Apparel Expanded | 98 | 0 | 98 | feito |
+| B14 | 2023507013 | OskarPotocki.VanillaFactionsExpanded.Core | Vanilla Expanded Framework | 61 | 29 | 90 | feito |
+| B14 | 1561769193 | avilmask.CommonSense | Common Sense | 6 | 83 | 89 | feito |
+| B14 | 3469863391 | al9000.tastycore | Tasty Armory - Core | 89 | 0 | 89 | feito |
+| B14 | 2062943477 | VanillaExpanded.VFEPower | Vanilla Furniture Expanded - Power | 84 | 0 | 84 | feito |
+| B14 | 3030499331 | Mlie.ResearchTree | Research Tree (Continued) | 10 | 71 | 81 | feito |
+| B14 | 2007576583 | Ogliss.TheWhiteCrayon.Quarry | Quarry | 25 | 51 | 76 | feito |
+| B14 | 2664723367 | Taranchuk.PerformanceOptimizer | Performance Optimizer | 4 | 68 | 72 | feito |
+| B14 | 1845154007 | VanillaExpanded.VFESecurity | Vanilla Furniture Expanded - Security | 71 | 0 | 71 | feito |
+| B14 | 1098354593 | Oblitus.AnimalsLogic | Animals Logic | 0 | 69 | 69 | feito |
+| B14 | 1447140290 | Ogre.OgreStack | OgreStack | 0 | 69 | 69 | feito |
+| B14 | 2990596478 | VanillaExpanded.VPE.Hemosage | Vanilla Psycasts Expanded - Hemosage | 59 | 10 | 69 | feito |
+| B14 | 1541460369 | VouLT.BetterPawnControl | Better Pawn Control | 3 | 65 | 68 | feito |
+| B14 | 3520130671 | Andromeda.NiceBillTab | Nice Bill Tab | 0 | 67 | 67 | feito |
+| B14 | 2688941031 | vanillaexpanded.outposts | Vanilla Outposts Expanded | 26 | 39 | 65 | feito |
 | B15 | 2608762624 | VanillaExpanded.VFEArchitect | Vanilla Furniture Expanded - Architect | 64 | 0 | 64 | pendente |
 | B15 | 2938820380 | OskarPotocki.VFE.Empire | Vanilla Factions Expanded - Empire | 64 | 0 | 64 | pendente |
 | B15 | 3630049419 | MemeGoddess.DualWield | Dual Wield - Continued | 3 | 60 | 63 | pendente |
