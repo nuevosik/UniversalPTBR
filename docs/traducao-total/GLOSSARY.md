@@ -197,3 +197,4 @@ Termos novos cunhados nos maiores alvos; nenhum substitui termo herdado.
 | skipmaster / staticlord | mestre do salto / senhor da estática | novo — VPE rótulos de caminho. |
 | psyring | anel psíquico | novo — VPE `VPE_Psyring` + receita; antes ficava "psiring" em EN. |
 | path | caminho | VPE rótulos de caminho ("O caminho do X"). |
+| pawn | colono | unificação repo (a112677): "peões" removidos de VQE, VVE, RimCuisine/Cooking, VFE Architect, Classical e Alpha Animals; `wildpawn` mantém EN como nome de criatura. Citação de nome de configuração do VehicleFramework segue o rótulo real "Trabalhos de Multi-Colonos". |
