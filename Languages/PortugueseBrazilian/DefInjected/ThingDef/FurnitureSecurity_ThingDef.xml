@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VFES_DeployableBarrier.label>barreira posicionável</VFES_DeployableBarrier.label>
   <VFES_DeployableBarrier.description>Uma barreira submersível que age como bloco de piso normal quando sem energia. Dá cobertura excelente contra ataques à distância. Só sofre metade do dano quando submersa.</VFES_DeployableBarrier.description>
@@ -27,21 +27,11 @@
   <VFES_Gun_SentryTurret.description>Uma metralhadora giratória totalmente automática feita para ser montada em uma torreta.</VFES_Gun_SentryTurret.description>
   <VFES_Artillery_Rock.label>pedregulho enorme</VFES_Artillery_Rock.label>
   <VFES_ShieldGenerator_Small.label>gerador de escudo pequeno</VFES_ShieldGenerator_Small.label>
-  <VFES_ShieldGenerator_Small.description>Um dispositivo ultratecnológico que projeta um campo de energia potente ao redor para proteger tudo dentro, mas consome uma quantidade enorme de energia quando ativo. Funciona através de paredes.
-
-Geradores de escudo só ativam quando há uma ameaça ativa presente, como uma incursão ou um bombardeio de artilharia. Caso contrário, ficam em estado inativo e consomem bem menos energia.
-
-Pode incendiar a área ao redor se dano suficiente for absorvido em um curto período.</VFES_ShieldGenerator_Small.description>
+  <VFES_ShieldGenerator_Small.description>Um dispositivo ultratecnológico que projeta um campo de energia potente ao redor para proteger tudo dentro, mas consome uma quantidade enorme de energia quando ativo. Funciona através de paredes.\n\nGeradores de escudo só ativam quando há uma ameaça ativa presente, como uma incursão ou um bombardeio de artilharia. Caso contrário, ficam em estado inativo e consomem bem menos energia.\n\nPode incendiar a área ao redor se dano suficiente for absorvido em um curto período.</VFES_ShieldGenerator_Small.description>
   <VFES_ShieldGenerator_Large.label>gerador de escudo grande</VFES_ShieldGenerator_Large.label>
-  <VFES_ShieldGenerator_Large.description>Um dispositivo ultratecnológico que projeta um campo de energia grande ao redor para proteger tudo dentro, mas consome uma quantidade enorme de energia quando ativo. Funciona através de paredes.
-
-Geradores de escudo só ativam quando há uma ameaça ativa presente, como uma incursão ou um bombardeio de artilharia. Caso contrário, ficam em estado inativo e consomem bem menos energia.</VFES_ShieldGenerator_Large.description>
+  <VFES_ShieldGenerator_Large.description>Um dispositivo ultratecnológico que projeta um campo de energia grande ao redor para proteger tudo dentro, mas consome uma quantidade enorme de energia quando ativo. Funciona através de paredes.\n\nGeradores de escudo só ativam quando há uma ameaça ativa presente, como uma incursão ou um bombardeio de artilharia. Caso contrário, ficam em estado inativo e consomem bem menos energia.</VFES_ShieldGenerator_Large.description>
   <VFES_ShieldGenerator_Archotech.label>gerador de escudo arqueotecnológico</VFES_ShieldGenerator_Archotech.label>
-  <VFES_ShieldGenerator_Archotech.description>Um dispositivo arqueotecnológico autoalimentado que projeta um campo de energia potentíssimo ao redor para proteger tudo dentro. Funciona através de paredes.
-
-Geradores de escudo só ativam quando há uma ameaça ativa presente, como uma incursão ou um bombardeio de artilharia. Caso contrário, ficam em estado inativo e consomem bem menos energia.
-
-Pode incendiar a área ao redor se dano suficiente for absorvido em um curto período.</VFES_ShieldGenerator_Archotech.description>
+  <VFES_ShieldGenerator_Archotech.description>Um dispositivo arqueotecnológico autoalimentado que projeta um campo de energia potentíssimo ao redor para proteger tudo dentro. Funciona através de paredes.\n\nGeradores de escudo só ativam quando há uma ameaça ativa presente, como uma incursão ou um bombardeio de artilharia. Caso contrário, ficam em estado inativo e consomem bem menos energia.\n\nPode incendiar a área ao redor se dano suficiente for absorvido em um curto período.</VFES_ShieldGenerator_Archotech.description>
   <VFES_Turret_ChargeRailgunTurret.label>canhão de trilhos de carga</VFES_Turret_ChargeRailgunTurret.label>
   <VFES_Turret_ChargeRailgunTurret.description>Um canhão de trilhos pesado geralmente montado em espaçonaves, usando uma matriz de sensores avançados que oferece precisão de primeira classe. Exige a substituição de componentes para operar. Pode explodir quando danificada.</VFES_Turret_ChargeRailgunTurret.description>
   <VFES_Bullet_DoubleChargeLance.label>tiros de canhão de trilhos de carga</VFES_Bullet_DoubleChargeLance.label>

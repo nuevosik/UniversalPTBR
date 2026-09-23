@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial.</VEF_AcidBuildup.description>
   <VEF_AcidBuildup.label>queimadura ácida</VEF_AcidBuildup.label>
@@ -30,9 +30,7 @@
   <VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedLabel>
   <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
   <VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun>
-  <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isto pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.
-\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.
-\nAo contrário do acúmulo tóxico do jogo base, as criaturas que morrem com esse dano tóxico podem ser comidas.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isto pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.\n\nAo contrário do acúmulo tóxico do jogo base, as criaturas que morrem com esse dano tóxico podem ser comidas.</VEF_ToxicBuildup.description>
   <VEF_ToxicBuildup.label>acúmulo tóxico</VEF_ToxicBuildup.label>
   <VEF_ToxicBuildup.stages.0.label>inicial</VEF_ToxicBuildup.stages.0.label>
   <VEF_ToxicBuildup.stages.1.label>inicial</VEF_ToxicBuildup.stages.1.label>

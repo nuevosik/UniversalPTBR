@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AAVPE_Electrified.description>Esse colono ou animal tinha seu sangue carregado com potencial de entropia reversa, permitindo-lhes recarregar baterias elétricas simplesmente por estar perto deles. Essa mudança é permanente e bastante traumática.</AAVPE_Electrified.description>
   <AAVPE_Electrified.label>eletrificado</AAVPE_Electrified.label>
@@ -152,9 +152,7 @@
   <AA_TheSpasmodicEye.description>Um olho que não para de piscar incontrolavelmente. Embora extremamente perturbador e desconcertante, permite que seu hospedeiro lance mais poderes psíquicos antes da exaustão.</AA_TheSpasmodicEye.description>
   <AA_TheSpasmodicEye.label>o olho espasmódico</AA_TheSpasmodicEye.label>
   <AA_TheSpasmodicEye.labelNoun>um olho espasmódico</AA_TheSpasmodicEye.labelNoun>
-  <AA_ToxicBuildup.description>Toxinas na corrente sanguínea. Isto pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.
-\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.
-\nAo contrário do acúmulo tóxico do jogo base, as criaturas que morrem com esse dano tóxico podem ser comidas.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.description>Toxinas na corrente sanguínea. Isto pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.\n\nAo contrário do acúmulo tóxico do jogo base, as criaturas que morrem com esse dano tóxico podem ser comidas.</AA_ToxicBuildup.description>
   <AA_ToxicBuildup.label>acúmulo tóxico</AA_ToxicBuildup.label>
   <AA_ToxicBuildup.stages.0.label>inicial</AA_ToxicBuildup.stages.0.label>
   <AA_ToxicBuildup.stages.1.label>inicial</AA_ToxicBuildup.stages.1.label>

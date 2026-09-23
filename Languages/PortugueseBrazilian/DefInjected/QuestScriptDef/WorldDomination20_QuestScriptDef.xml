@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_ColonyRoadLink.questNameRules.rulesStrings>
+    <li>questName-&gt;Estrada para [askerSettlement_label]</li>
+    <li>questName-&gt;Ligação com [askerSettlement_label]</li>
+    <li>questName-&gt;Pedido de estrada de [faction_name]</li>
+  </TSA_WD_ColonyRoadLink.questNameRules.rulesStrings>
+  <TSA_WD_ColonyRoadLink.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[faction_name] quer uma estrada entre sua colônia e [askerSettlement_label]. Conecte os dois assentamentos por estrada. Não importa como a estrada seja construída.\n\nVocê tem 30 dias.</li>
+  </TSA_WD_ColonyRoadLink.questDescriptionRules.rulesStrings>
+  <TSA_WD_CommonEnemySettlement.questNameRules.rulesStrings>
+    <li>questName-&gt;Ataque a [enemySettlement_label]</li>
+    <li>questName-&gt;[faction_name] contra [enemySettlement_label]</li>
+    <li>questName-&gt;Inimigo comum: [enemySettlement_label]</li>
+  </TSA_WD_CommonEnemySettlement.questNameRules.rulesStrings>
+  <TSA_WD_CommonEnemySettlement.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[faction_name] quer que você aniquile ou conquiste [enemySettlement_label], um inimigo comum. Faça você mesmo: ataque pessoalmente ou lance uma incursão a partir de um de seus postos avançados do Domínio Mundial.\n\nOrdens de incursão de assentamentos aliados e ataques de facções não relacionadas não contam. Você tem 8 dias.</li>
+  </TSA_WD_CommonEnemySettlement.questDescriptionRules.rulesStrings>
+  <TSA_WD_FirstOutpostIntro.questNameRules.rulesStrings>
+    <li>questName-&gt;Primeiro posto avançado para [faction_name]</li>
+    <li>questName-&gt;Pedido de posto avançado de [faction_name]</li>
+    <li>questName-&gt;Funde um posto avançado</li>
+  </TSA_WD_FirstOutpostIntro.questNameRules.rulesStrings>
+  <TSA_WD_FirstOutpostIntro.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[faction_name] pede que você funde seu primeiro posto avançado do Domínio Mundial em qualquer lugar do mapa-múndi.\n\nO pedido permanece aberto até você fundar um posto avançado. Ele falha se eles se tornarem hostis ou forem destruídos.</li>
+  </TSA_WD_FirstOutpostIntro.questDescriptionRules.rulesStrings>
+  <TSA_WD_WorldDominationVictory.questNameRules.rulesStrings>
+    <li>questName-&gt;Domínio Mundial</li>
+    <li>questName-&gt;Domine o planeta</li>
+    <li>questName-&gt;O mais forte do mapa</li>
+  </TSA_WD_WorldDominationVictory.questNameRules.rulesStrings>
+  <TSA_WD_WorldDominationVictory.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Torne-se a facção mais forte do Domínio Mundial e mantenha essa liderança por 15 dias consecutivos.\n\nSua classificação considera apenas postos avançados do Domínio Mundial. Se você perder a liderança, a sequência é reiniciada. Não há limite de tempo.</li>
+  </TSA_WD_WorldDominationVictory.questDescriptionRules.rulesStrings>
+</LanguageData>

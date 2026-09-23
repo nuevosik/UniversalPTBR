@@ -2,8 +2,7 @@
 <LanguageData>
   
   <NamerWantedNickname.rulePack.rulesStrings>
-    <li>defaultWantedNick->[wantedNoun], o [wantedAdj]</li>
-    <li>defaultWantedNick->[wantedNoun], a [wantedAdj]</li>
+    <li>defaultWantedNick->[wantedAdj] [wantedNoun]</li>
   </NamerWantedNickname.rulePack.rulesStrings>
 
   <NamerFactionBandits.rulePack.rulesStrings>

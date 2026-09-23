@@ -1,21 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VPWE.AlreadyBondedWarning>{PAWN_nameDef} já está vinculado {1}. Tem certeza de que deseja reivindicar uma nova arma pessoal?</VPWE.AlreadyBondedWarning>
   <VPWE.ClaimFor>Reclamar por {PAWN_nameDef}</VPWE.ClaimFor>
   <VPWE.ClaimWeapon>Reivindique um {0}</VPWE.ClaimWeapon>
   <VPWE.ConfirmReject>Tem certeza de que deseja rejeitar uma arma pessoal por {PAWN_labelShort}? {PAWN_pronoun} não será oferecido outro novamente.</VPWE.ConfirmReject>
-  <VPWE.GainedPersonaWeaponDesc>Porque {PAWN_nameDef} alcançou uma classificação de {1} com o Império, eles agora podem receber uma arma ultratecnológica vinculada a eles.
-Você pode selecionar o tipo de arma, bem como personalizar totalmente a aparência dela e a personalidade que ela acompanha. Alternativamente, você pode fechar esta notificação e revisitá-la mais tarde.
-A arma chegará imediatamente via drop pod e será vinculada a {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+  <VPWE.GainedPersonaWeaponDesc>Porque {PAWN_nameDef} alcançou uma classificação de {1} com o Império, eles agora podem receber uma arma ultratecnológica vinculada a eles.\nVocê pode selecionar o tipo de arma, bem como personalizar totalmente a aparência dela e a personalidade que ela acompanha. Alternativamente, você pode fechar esta notificação e revisitá-la mais tarde.\nA arma chegará imediatamente via drop pod e será vinculada a {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
   <VPWE.GainedPersonaWeaponTitle>Arma pessoal para {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
   <VPWE.NoCustomizationWeapon>{WEAPON_label} não pode ser personalizado e será entregue com uma ou mais características aleatórias.\n\nDeseja continuar?</VPWE.NoCustomizationWeapon>
   <VPWE.NoDeliverySpotFound>Não foi possível encontrar um local para entregar {WEAPON_label} para {PAWN_labelShort}.</VPWE.NoDeliverySpotFound>
   <VPWE.NotAllowedDead>{PAWN_labelShort} está morto</VPWE.NotAllowedDead>
   <VPWE.NotAllowedNoTitle>{PAWN_labelShort} não tem mais o título exigido</VPWE.NotAllowedNoTitle>
   <VPWE.NotPlayerFaction>{PAWN_labelShort} não faz mais parte da sua facção</VPWE.NotPlayerFaction>
-  <VPWE.Persona>Pessoa: </VPWE.Persona>
+  <VPWE.Persona>Pessoa:</VPWE.Persona>
   <VPWE.Postpone>Adiar</VPWE.Postpone>
-  <VPWE.Psycast>Psicocast: </VPWE.Psycast>
+  <VPWE.Psycast>Psicocast:</VPWE.Psycast>
   <VPWE.ReceivedWeaponDesc>{0} para {PAWN_nameDef} chegou por perto.</VPWE.ReceivedWeaponDesc>
   <VPWE.ReceivedWeaponTitle>Cápsulas de carga (arma Persona)</VPWE.ReceivedWeaponTitle>
   <VPWE.RejectLetter>Rejeitar</VPWE.RejectLetter>

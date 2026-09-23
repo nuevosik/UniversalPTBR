@@ -13,18 +13,7 @@
   <AddNewNode>Adicionar novo nó</AddNewNode>
   <DeleteNode>Excluir nó</DeleteNode>
   <LoadQuest>Carregar missão</LoadQuest>
-  <RuleTip>As regras usam o método:
-O formato de uma regra é: chave->texto.
-O texto pode ser especificado usando [key] para indicar que o texto aqui é o texto ao qual a chave se refere. Se a chave tiver vários textos correspondentes, um será escolhido aleatoriamente durante a geração.
-Ao editar o texto de uma missão, você também pode usar [a chave do objeto] para obter o texto correspondente do objeto.
-As regras são aplicadas em lugares diferentes, exigindo chaves diferentes para produzir o texto final.
-Por exemplo, quando as regras são usadas para nomes de missões, questName é necessário para produzir o texto final. Para mais detalhes, consulte os exemplos fornecidos neste mod.
-
-Aqui estão alguns requisitos importantes:
-
-QuestName: questName-> 
-QuestDescription: questDescription->
-SiteName: SiteName-></RuleTip>
+  <RuleTip>As regras usam o método:\nO formato de uma regra é: chave-&gt;texto.\nO texto pode ser especificado usando [key] para indicar que o texto aqui é o texto ao qual a chave se refere. Se a chave tiver vários textos correspondentes, um será escolhido aleatoriamente durante a geração.\nAo editar o texto de uma missão, você também pode usar [a chave do objeto] para obter o texto correspondente do objeto.\nAs regras são aplicadas em lugares diferentes, exigindo chaves diferentes para produzir o texto final.\nPor exemplo, quando as regras são usadas para nomes de missões, questName é necessário para produzir o texto final. Para mais detalhes, consulte os exemplos fornecidos neste mod.\n\nAqui estão alguns requisitos importantes:\n\nQuestName: questName-&gt; \nQuestDescription: questDescription-&gt;\nSiteName: SiteName-&gt;</RuleTip>
   <CustomQuestMap>Mapa de missão personalizado</CustomQuestMap>
   <SpawnNewCustomMap>Gerar um novo mapa personalizado</SpawnNewCustomMap>
   <NoGame>Por favor, inicie um novo jogo.</NoGame>
@@ -54,13 +43,12 @@ SiteName: SiteName-></RuleTip>
   <RemoveRoute>Remover rota</RemoveRoute>
   <CurRoute>Rota atual</CurRoute>
   <SaveToFile>Salvar em arquivo</SaveToFile>
-  <SaveSucceed>Salvo com sucesso</SaveSucceed>
+  <SaveSucceed>Salvo: {0}</SaveSucceed>
   <NoName>Sem nome</NoName>
   <SaveInNonEditorMap>Salvar em mapa fora do editor</SaveInNonEditorMap>
   <CQF_SaveWholeMap>Salvar mapa inteiro</CQF_SaveWholeMap>
   <LoadRule>Carregar regra</LoadRule>
   <ITab_Spawner>Gerador de colonos</ITab_Spawner>
-  <GenerationChance>Chance de geração:</GenerationChance>
   <RandomHostile>Hostil aleatório</RandomHostile>
   <RandomAlly>Aliado aleatório</RandomAlly>
   <RandomNeutral>Neutro aleatório</RandomNeutral>
@@ -298,7 +286,7 @@ SiteName: SiteName-></RuleTip>
   <CQF_SelectedBlueprintCount>Selecionados: {0} / {1}</CQF_SelectedBlueprintCount>
   <CQF_NoMatchingLoadedMaps>Nenhum mapa carregado corresponde à pesquisa.</CQF_NoMatchingLoadedMaps>
   <CQF_NoBlueprintsSelectedForImport>Nenhum projeto de mapa está selecionado.</CQF_NoBlueprintsSelectedForImport>
-  <CQF_BlueprintImportTooltip>{0}&#10;Def: {1}&#10;Tamanho: {2}</CQF_BlueprintImportTooltip>
+  <CQF_BlueprintImportTooltip>{0}\nDef: {1}\nTamanho: {2}</CQF_BlueprintImportTooltip>
   <CQF_NoLoadedMapsToImport>Nenhum mapa carregado disponível para importar.</CQF_NoLoadedMapsToImport>
   <CQF_ImportedLoadedMaps>Importados {0} projetos de mapa.</CQF_ImportedLoadedMaps>
   <CQF_BlueprintSourceImported>Importado nesta sessão</CQF_BlueprintSourceImported>
@@ -306,14 +294,14 @@ SiteName: SiteName-></RuleTip>
   <CQF_BlueprintSavedInMemory>O projeto "{0}" foi salvo na memória.</CQF_BlueprintSavedInMemory>
   <CQF_BlueprintSaveFailed>Falha ao salvar o projeto: {0}</CQF_BlueprintSaveFailed>
   <CQF_BlueprintInvalidName>O projeto não tem um defName válido e não pode ser exportado.</CQF_BlueprintInvalidName>
-  <CQF_BlueprintOverwriteXml>O arquivo já existe. Sobrescrevê-lo?&#10;{0}</CQF_BlueprintOverwriteXml>
+  <CQF_BlueprintOverwriteXml>O arquivo já existe. Sobrescrevê-lo?\n{0}</CQF_BlueprintOverwriteXml>
   <CQF_BlueprintExportFailed>Falha ao exportar o XML do projeto: {0}</CQF_BlueprintExportFailed>
   <CQF_BlueprintEmptySelection>Nenhum quadrado do mapa foi selecionado.</CQF_BlueprintEmptySelection>
   <CQF_NoBlueprints>Nenhum projeto</CQF_NoBlueprints>
   <CQF_DeleteBlueprint>Excluir projeto</CQF_DeleteBlueprint>
   <CQF_SaveBlueprintXml>Salvar projeto como XML</CQF_SaveBlueprintXml>
   <CQF_BlueprintSourceMemory>Projeto na memória</CQF_BlueprintSourceMemory>
-  <CQF_BlueprintTooltip>{0}&#10;Def: {1}&#10;Tamanho: {2}&#10;Origem: {3}&#10;&#10;{4}</CQF_BlueprintTooltip>
+  <CQF_BlueprintTooltip>{0}\nDef: {1}\nTamanho: {2}\nOrigem: {3}\n\n{4}</CQF_BlueprintTooltip>
   <CQF_NoBlueprintSelected>Nenhum projeto selecionado.</CQF_NoBlueprintSelected>
   <CQF_BlueprintOutOfBounds>O projeto ultrapassa os limites do mapa.</CQF_BlueprintOutOfBounds>
   <CQF_BlueprintPlacementFailed>Falha ao posicionar o projeto "{0}". Verifique o registro para mais detalhes.</CQF_BlueprintPlacementFailed>

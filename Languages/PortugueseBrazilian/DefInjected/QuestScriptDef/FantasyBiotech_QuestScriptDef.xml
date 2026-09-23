@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_OpportunitySite_AncientComplex_Artificer.questNameRules.rulesStrings>
+    <li>questName(p=3)-&gt;[complex] [complexAdj] de artífice</li>
+    <li>questName-&gt;[complex] de artífice</li>
+    <li>complexAdj-&gt;secreto</li>
+    <li>complexAdj-&gt;ancestral</li>
+    <li>complexAdj-&gt;antigo</li>
+    <li>complexAdj-&gt;oculto</li>
+    <li>complexAdj-&gt;empoeirado</li>
+    <li>complexAdj-&gt;perigoso</li>
+    <li>complexAdj-&gt;oculto</li>
+    <li>complex-&gt;complexo</li>
+    <li>complex-&gt;covil</li>
+    <li>complex-&gt;reduto</li>
+    <li>complex-&gt;recinto</li>
+    <li>complex-&gt;sepulcro</li>
+    <li>complex-&gt;forno</li>
+    <li>complex-&gt;cadinho</li>
+  </VR_OpportunitySite_AncientComplex_Artificer.questNameRules.rulesStrings>
+  <VR_OpportunitySite_AncientComplex_Artificer.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Você [discoveryDesc] antigo complexo nas proximidades que contém os restos de um artífice morto há muito tempo.\n\nArtífices podem criar, controlar e manipular constructos para trabalho e combate. Se você conseguir invadir o complexo e coletar o cadáver do artífice, poderá extrair a conexão de artífice e transformar um de seus próprios colonos em um artífice.\n\nEsteja avisado - esses tipos de estruturas podem conter uma variedade de ameaças, e sua atividade no complexo pode chamar atenção indesejada.</li>
+    <li>discoveryDesc(discovered==false)-&gt;aprendeu sobre um</li>
+    <li>discoveryDesc(discovered==true)-&gt;determinou o local de um</li>
+  </VR_OpportunitySite_AncientComplex_Artificer.questDescriptionRules.rulesStrings>
+  <VR_Bossgroup.questNameRules.rulesStrings>
+    <li>questName-&gt;bossgroup</li>
+  </VR_Bossgroup.questNameRules.rulesStrings>
+  <VR_Bossgroup.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;bossgroup</li>
+  </VR_Bossgroup.questDescriptionRules.rulesStrings>
+  <VR_Bossgroup.questContentRules.rulesStrings>
+    <li>bossDefeatedLetterLabel-&gt;[escortees0_label] derrotado: [reward_label]</li>
+    <li>bossDefeatedStudyChipLetterText-&gt;[defeated][study][manufacture]</li>
+    <li>bossDefeatedLetterText-&gt;[defeated][manufacture]</li>
+    <li>defeated-&gt;O(a) hostil [escortees0_label] foi derrotado(a) e deixou cair um [reward_label]!</li>
+    <li>manufacture-&gt;\n\nO chip também pode ser usado para criar mecanoides mais avançados.</li>
+    <li>study-&gt;\n\nVocê pode estudar o [reward_label] selecionando um mecanizador e clicando com o botão direito do mouse no chip. Estudar um [reward_label] ajuda a desbloquear níveis mais altos de pesquisa de meca-tecnologia.</li>
+  </VR_Bossgroup.questContentRules.rulesStrings>
+  <VR_ArtificerProtect.questNameRules.rulesStrings>
+    <li>questName-&gt;Proteja o artífice</li>
+    <li>adjAny-&gt;caçado</li>
+    <li>adjAny-&gt;fugitivo</li>
+    <li>adjAny-&gt;solitário</li>
+    <li>adjAny-&gt;emboscado</li>
+  </VR_ArtificerProtect.questNameRules.rulesStrings>
+  <VR_ArtificerProtect.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], um explorador, enviou uma missiva. [asker_pronoun] adquiriu uma conexão de artífice rara durante uma escavação em ruínas, e seus guardas foram mortos em uma emboscada. [asker_pronoun] escapou, mas agora está sendo seguido(a) por (*Threat)um esquadrão de recuperação(/Threat).\n\n[asker_nameDef] quer se juntar à sua colônia.</li>
+  </VR_ArtificerProtect.questDescriptionRules.rulesStrings>
+  <VR_VampireAssault.questNameRules.rulesStrings>
+    <li>questName-&gt;[shipNoun] [shipAdjective]</li>
+    <li>shipAdjective-&gt;vampiro(a)</li>
+    <li>shipAdjective-&gt;de sedentos por sangue</li>
+    <li>shipAdjective-&gt;de sangue</li>
+    <li>shipAdjective-&gt;das sombras</li>
+    <li>shipAdjective-&gt;da escuridão</li>
+    <li>shipAdjective-&gt;carmesim</li>
+    <li>shipAdjective-&gt;vermelho(a)</li>
+    <li>shipAdjective-&gt;da cicatriz</li>
+    <li>shipAdjective-&gt;hemio(a)</li>
+    <li>shipAdjective-&gt;sanguíneo(a)</li>
+    <li>shipNoun-&gt;nave</li>
+    <li>shipNoun-&gt;transporte</li>
+    <li>shipNoun-&gt;aeronave</li>
+    <li>shipNoun-&gt;casco de nave</li>
+    <li>shipNoun-&gt;nave colidida</li>
+    <li>shipNoun-&gt;nave naufragada</li>
+  </VR_VampireAssault.questNameRules.rulesStrings>
+  <VR_VampireAssault.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Você interceptou um sinal de socorro! Uma nave hostil carregando um mestre sanguófago e [thrallCount] servos está tendo problemas com seus motores. Você pode usar sinais para levá-lo a um acidente perto de [map_definite].\n\nDepois que a nave cair, você pode lutar contra o sanguófago e seus lacaios. Se você conseguir capturar o mestre, poderá forçar [vampire_objective] a transformar um de seus colonos em um sanguófago.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo-&gt;(*Gray)Sobre os sanguófagos: Os sanguófagos são super-humanos com juventude eterna e imortais, alimentados por arquitas, criadas por arquotécnicos, na corrente sanguínea. Eles são belos e extremamente inteligentes. Eles podem curar qualquer ferimento e nunca sofrem de doenças ou venenos. Em combate, eles podem lançar espinhos mortais e curar amigos feridos. O preço é que os sanguófagos devem consumir hemogênio derivado do sangue humano para sobreviver, e devem periodicamente realizar o descanso mortal por longos períodos. Eles são facilmente destruídos pelo fogo e desacelerados pela luz UV.(/Gray)</li>
+  </VR_VampireAssault.questDescriptionRules.rulesStrings>
+  <VR_VampireAssault.questContentRules.rulesStrings>
+    <li>sanguophageShuttleCrashedLetterLabel-&gt;transporte acidentado</li>
+    <li>sanguophageShuttleCrashedLetterText-&gt;Um transporte contendo um mestre sanguófago e [thrallCount] servos caiu nas proximidades. Eles sairão da nave acidentada e se prepararão para lutar.</li>
+    <li>reinforcementsArrivedLetterLabel-&gt;Reforços de servos</li>
+    <li>reinforcementsArrivedLetterText-&gt;Servos estão chegando em cápsulas para fortalecer o sanguófago acidentado.</li>
+    <li>assaultBeginLetterLabel-&gt;Ataque iniciado</li>
+    <li>assaultBeginLetterText-&gt;O mestre sanguófago hostil e os seus servos iniciaram um ataque à colônia!</li>
+  </VR_VampireAssault.questContentRules.rulesStrings>
+  <VR_ArtificerStartingConstruct.questContentRules.rulesStrings>
+    <li>arrivalLetterLabel-&gt;[mech_label] ligado a: [mechanitor_nameDef]</li>
+    <li>arrivalLetterText-&gt;Um [mech_label] saiu de órbita e está se colocando sob o controle de [mechanitor_nameDef].\n\nEle parece ter sido anexado ao seu implante e está ansioso para servir ao seu propósito mais uma vez.</li>
+  </VR_ArtificerStartingConstruct.questContentRules.rulesStrings>
+  <VR_Util_Raid.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;[enemyFaction_pawnsPlural] de [enemyFaction_name] atacarão você. O grupo deles é composto por:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  </VR_Util_Raid.questDescriptionRules.rulesStrings>
+  <VR_Util_ConstructCluster.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;um aglomerado de constructos pousará em [map_definite] contendo:\n\n[allThreats]</li>
+  </VR_Util_ConstructCluster.questDescriptionRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BasicSettings>Configurações básicas</BasicSettings>
+  <AdvancedSettings>Configurações avançadas</AdvancedSettings>
+  <DebugLog>Registrar mensagens de depuração</DebugLog>
+  <DebugLogTooltips>Ativa o registro de depuração. Não use isso em partidas normais, pois gera muitas mensagens.</DebugLogTooltips>
+  <MaxDistanceToHaul>Distância máxima para carregar</MaxDistanceToHaul>
+  <MaxDistanceToHaulTooltips>Só carregue até o armazenamento se a distância até ele não for maior que este valor.\n\nDefina um valor grande o suficiente (como 999) para permitir o carregamento em qualquer distância prática.\n\nDefina como 0 se quiser desativar completamente o carregamento.</MaxDistanceToHaulTooltips>
+</LanguageData>

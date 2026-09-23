@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_ExaltedPriesthood)        -&gt;[deity0_name] unificou nossa fé ao nomear nosso querido fundador, [founderName], como líder de [deity0_possessive] igreja.</li>
+    <li>episode(uses=1,tag=meme_ExaltedPriesthood)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "[founderName] será meu mordomo, para que [founderName_pronoun] possa tanto pregar com sã doutrina quanto refutar aqueles que a contradizem."</li>
+    <li>intro(tag=meme_ExaltedPriesthood)           -&gt;Os [memberNamePlural] construíram um grande [altarName] no [place_summary] [place_name], para que qualquer um possa juntar-se a [founderName] e exaltar as virtudes de [deity0_name].</li>
+    <li>conflict(tag=meme_ExaltedPriesthood)        -&gt;Um covarde [foeLeader], buscando negar a santidade de [founderName], tentou destruir o [altarName] com uma tocha.</li>
+    <li>founderJoin(tag=meme_ExaltedPriesthood)     -&gt;Orando a [deity0_name], um enorme raio de luz pura se espalhou das mãos de [founderName], fulminando o [foeLeader] num instante.</li>
+    <li>victory(tag=meme_ExaltedPriesthood)         -&gt;Todos os [foeSoldiers] imediatamente caíram de joelhos, humilhados pela demonstração de poder de [founderName], e imploraram para serem aceitos em nossa fé.</li>
+    <li>setup(tag=meme_ExaltedPriesthood)           -&gt;Nosso fundador [founderName] foi um grande teólogo. [founderName_possessive] estudos sobre os incontáveis deuses da humanidade fizeram [founderName_objective] chegar à conclusão de que a religião não era exatamente a verdade, mas que uma vida sem fé também seria totalmente sem sentido.</li>
+    <li>story(uses=1,tag=meme_ExaltedPriesthood)    -&gt;Como [founderName_possessive] seguidores, continuaremos o estudo da teologia e tentaremos discernir os segredos mais profundos do Cosmos.</li>
+    <li>lessonIntro(tag=meme_ExaltedPriesthood)         -&gt;Em todos os meus anos estudando religião, aprendi uma lição que se sobrepõe a todas:</li>
+    <li>lesson(tag=meme_ExaltedPriesthood)              -&gt;precisamos de sacerdotes para guiar o espírito humano, mesmo que se descubra que não existem deuses</li>
+    <li>lessonReinforcement(tag=meme_ExaltedPriesthood) -&gt;Afinal, mesmo que não acreditemos no transcendental, é claro que não compreendemos o quadro completo.</li>
+    <li>archistBasis(tag=meme_ExaltedPriesthood)    -&gt;As arqueotecnologias valorizam uma liderança forte acima de tudo. Se um grupo de pessoas está desunido, ele é fraco.</li>
+    <li>archistFact(tag=meme_ExaltedPriesthood)     -&gt;Nosso querido líder, o mais elevado de todos os nossos sacerdotes, será o canal pelo qual nos comunicaremos com as arqueotecnologias e imploraremos por nossa Transcendência.</li>
+    <li>archistProphecy(tag=meme_ExaltedPriesthood) -&gt;[inTheEnd], as arqueotecnologias proferirão sua sabedoria final ao nosso líder, o portador do [relic0_name], e estaremos reverentemente ao seu lado nesse momento final.</li>
+    <li>animistFact(tag=meme_ExaltedPriesthood)     -&gt;Nosso querido líder, o mais elevado entre nossos sacerdotes, é a Voz dos Espíritos. Somente por meio dele os espíritos darão a conhecer seus desejos entre os verdadeiros crentes.</li>
+    <li>serketistProphecy(tag=meme_ExaltedPriesthood)-&gt;[itIsSaid] o mais elevado entre nossos sacerdotes transcenderá a casca mortal e se tornará um só com os insetos.</li>
+    <li>chthonianProphecy(tag=meme_ExaltedPriesthood)-&gt;O Papa Sombrio, o mais elevado entre nossos sacerdotes, nos protegerá da insanidade vinda de além das estrelas, atuando como um farol psíquico de esperança banhado pela escuridão do vazio.</li>
+    <li>esotericismProphecy(tag=meme_ExaltedPriesthood)-&gt;O Papa Sombrio, o mais elevado entre nossos sacerdotes, aventurar-se-á por um mundo de sussurros ásperos e promessas meio esquecidas. Só ele pode discernir o maior de todos os mistérios.</li>
+    <li>eschatologismFact(tag=meme_ExaltedPriesthood)-&gt;O Papa Sombrio, o mais elevado entre nossos sacerdotes, anunciará o fim dos tempos. O arauto da destruição deste mundo.</li>
+    <li>introMemo(tag=meme_ExaltedPriesthood)-&gt;Se você olhar o calendário, certamente notou que o aniversário do nosso Querido Líder e CEO é em duas semanas. Bem, é claro que isso é opcional, mas em nome do bom espírito de equipe espero que cada um de vocês procure um presente de valor equivalente a pelo menos dois meses de salário. É o mínimo que podemos fazer!</li>
+    <li>alienistProphecy(tag=meme_ExaltedPriesthood)-&gt;Nosso querido líder, o mais elevado entre nossos sacerdotes, decidirá o destino de todas essas criações humanas desviantes, pois confiamos em sua sabedoria em tais assuntos.</li>
+  </VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
+  <VME_Scrapper.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;sucateador</li>
+    <li>memeAdjective-&gt;catador</li>
+    <li>memeAdjective-&gt;garimpador</li>
+    <li>memeHyphenPrefix-&gt;sucata</li>
+    <li>memeHyphenPrefix-&gt;tralha</li>
+    <li>memeConcept-&gt;sucata</li>
+    <li>memeLeaderNoun-&gt;catador</li>
+    <li>memeLeaderNoun-&gt;sucateiro</li>
+    <li>memeLeaderNoun-&gt;garimpador</li>
+    <li>memeMoralist-&gt;rato de sucata</li>
+  </VME_Scrapper.generalRules.rulesStrings>
+  <VME_Scrapper.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Scrapper)        -&gt;[deity0_name] nos ensinou a nunca deixar nada se perder: "Desperdiçar é um grande pecado, pois criei o mundo à minha imagem, e ao deixar as coisas sem uso você também me insulta."</li>
+    <li>episode(uses=1,tag=meme_Scrapper)  -&gt;Seguindo os ensinamentos de [deity0_name], aprendemos a reutilizar e reciclar as coisas para aproveitá-las melhor.</li>
+    <li>intro(tag=meme_Scrapper)           -&gt;No [place_summary] [place_name], os [memberNamePlural] encontraram as palavras de [deity0_name], instruções técnicas para desmontar e reutilizar as poderosas máquinas de nossos ancestrais.</li>
+    <li>conflict(tag=meme_Scrapper)        -&gt;Um invejoso [foeLeader] viu o progresso dos [memberNamePlural] e buscou destruir nossas máquinas reaproveitadas.</li>
+    <li>founderJoin(tag=meme_Scrapper)     -&gt;[founderName], conhecido como o Grande Catador, montou uma arma improvisada, o [relic0_name], e conseguiu deter o [foeLeader] antes que fosse tarde demais.</li>
+    <li>victory(tag=meme_Scrapper)         -&gt;Vendo a engenhosidade de [founderName], [founderName_possessive] seguidores nomearam [founderName_objective] como mestre e aprenderam com [founderName_objective] os segredos de catar tecnologia antiga.</li>
+    <li>setup(tag=meme_Scrapper)           -&gt;[founderName] era engenheiro em um dos mundos brilhantes. [founder_pronoun] notou que as naves de exploração de longa distância enviadas à Orla sempre falavam de tecnologia antiga espalhada pelos incontáveis mundos. Será que essa tecnologia antiga poderia ser estudada, ter sua engenharia revertida e ser reaproveitada?</li>
+    <li>story(uses=1,tag=meme_Scrapper)    -&gt;[founderName] reuniu uma equipe de exploradores interestelares e decidiu ver com os próprios olhos o que poderia ser feito com essa misteriosa tecnologia esquecida. Infelizmente, [founderName_pronoun] não sobreviveu à perigosa viagem.</li>
+    <li>lessonIntro(tag=meme_Scrapper)         -&gt;O catador mais velho da minha divisão me ensinou a história da tecnologia antiga, como todos os incontáveis mundos da Orla estão repletos de tecnologia antiga descartada. Ele estava me levando a entender que</li>
+    <li>lesson(tag=meme_Scrapper)              -&gt;a humanidade existe há muito tempo, e é absurdo não reaproveitar a tecnologia descartada de nossos ancestrais</li>
+    <li>lessonReinforcement(tag=meme_Scrapper) -&gt;Talvez a tecnologia antiga seja tralha, ou talvez seja a chave para nossa sobrevivência.</li>
+    <li>archistBasis(tag=meme_Scrapper)    -&gt;É um fato que as arqueotecnologias foram originalmente criação humana: nós criamos o próximo passo no desenvolvimento da consciência.</li>
+    <li>archistFact(tag=meme_Scrapper)     -&gt;A tecnologia antiga descartada por nossos ancestrais pode ser apenas tralha esquecida. Mas e se não for o caso? E se esse desperdício for, na realidade, algo que se provará essencial para nossa Transcendência?</li>
+    <li>archistProphecy(tag=meme_Scrapper) -&gt;[inTheEnd], não deixaremos nem um grama de tecnologia antiga se perder. Vamos garimpar cada peça de tecnologia largada por aí e, com sorte, descobrir seus segredos.</li>
+    <li>animistBasis(tag=meme_Scrapper)    -&gt;Os pedaços de destroços antigos encontrados pelo mundo são relíquias dos Antigos.</li>
+    <li>animistFact(tag=meme_Scrapper)     -&gt;Os espíritos nos guiarão para recuperar toda a tecnologia antiga que nossos ancestrais deixaram descartada.</li>
+    <li>animistFact(tag=meme_Scrapper)     -&gt;Quando tivermos recuperado e reutilizado a tecnologia de nossos antepassados, de fato daremos paz a seus espíritos.</li>
+    <li>animistProphecy(tag=meme_Scrapper) -&gt;[itIsSaid] que um dia seremos tão inteligentes quanto os antigos eram, e suas máquinas descartadas não guardarão segredos para nós.</li>
+    <li>serketistProphecy(tag=meme_Scrapper)-&gt;[itIsSaid] que aprenderemos que catar a tecnologia antiga que cobre a paisagem é tão sagrado quanto os cupins usarem o solo para construir seus ninhos.</li>
+    <li>chthonianProphecy(tag=meme_Scrapper)-&gt;A Orla está coberta de cadáveres tecnológicos daqueles que falharam em aplacar essas entidades desumanas: só reaproveitando essa tecnologia antiga podemos esperar resistir ao seu ataque, onde tantos outros fracassaram.</li>
+    <li>esotericismProphecy(tag=meme_Scrapper)-&gt;A Orla está coberta de restos tecnológicos daqueles que vieram muito antes de nós. Estudaremos e reaproveitaremos esses fragmentos do passado e aprenderemos todos os seus segredos.</li>
+    <li>eschatologismFact(tag=meme_Scrapper)-&gt;A Orla está coberta de cadáveres tecnológicos daqueles que tombaram antes, e usaremos a própria tecnologia esquecida deles para trazer o fim dos tempos.</li>
+    <li>introMemo(tag=meme_Scrapper)-&gt;Na leitura recomendada desta semana, gostaria de indicar: "Reavalie, reduza, reutilize, recicle – como ser um negócio moderno sustentável". Por favor, leia com calma e discutiremos os detalhes na reunião de amanhã.</li>
+    <li>alienistProphecy(tag=meme_Scrapper)-&gt;Talvez todas essas criações humanas desviantes possam ser reaproveitadas de alguma forma, pois não passam de peças vivas de tecnologia antiga.</li>
+  </VME_Scrapper.descriptionMaker.rules.rulesStrings>
+  <VME_Trader.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;negociante</li>
+    <li>memeAdjective-&gt;abastado</li>
+    <li>memeAdjective-&gt;lucrativo</li>
+    <li>memeAdjective-&gt;ganancioso</li>
+    <li>memeAdjective-&gt;materialista</li>
+    <li>memeHyphenPrefix-&gt;comércio</li>
+    <li>memeConcept-&gt;comércio</li>
+    <li>memeLeaderNoun-&gt;comerciante</li>
+    <li>memeLeaderNoun-&gt;mercador</li>
+  </VME_Trader.generalRules.rulesStrings>
+  <VME_Trader.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Trader)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "A pobreza é o maior dos pecados. Acumular riqueza é a verdadeira medida da humanidade."</li>
+    <li>episode(uses=1,tag=meme_Trader)  -&gt;Seguindo os ensinamentos de [deity0_name], lutamos para nos tornar a facção mais rica de todas. Os poetas cantarão sobre prosperidade e opulência muito depois de partirmos.</li>
+    <li>intro(tag=meme_Trader)           -&gt;No [place_summary] [place_name], os [memberNamePlural] construíram um cofre gigantesco para guardar todas as riquezas consagradas a [deity0_name].</li>
+    <li>conflict(tag=meme_Trader)        -&gt;Um invejoso [foeLeader] queria todas essas riquezas para si e buscou roubar a riqueza que conquistamos com tanto esforço.</li>
+    <li>founderJoin(tag=meme_Trader)     -&gt;[founderName], conhecido como o Grande Mercador, comprou uma poderosa bomba de nêutrons dos comerciantes de uma nação aliada e a usou contra os soldados do [foeLeader].</li>
+    <li>victory(tag=meme_Trader)         -&gt;A terrível arma dizimou suas fileiras, com a carne derretendo de seus ossos, mas deixou o cofre intacto, pois foi construído sem poupar despesas e preparado para resistir até mesmo à fúria do fogo atômico.</li>
+    <li>setup(tag=meme_Trader)           -&gt;[founderName] era economista em um dos mundos brilhantes. [founder_pronoun] olhou para a aparente prosperidade ao redor de [foeLeader_objective] e viu apenas decadência. A estagnação de uma falsa economia pós-escassez que esqueceu o que faz a vida valer a pena.</li>
+    <li>story(uses=1,tag=meme_Trader)    -&gt;Buscando a emoção de fazer sua própria fortuna, [founderName] reuniu uma equipe de mercadores e fretou uma nave para viajar até a Orla. Infelizmente, [founderName_pronoun] não sobreviveu à perigosa viagem.</li>
+    <li>lessonIntro(tag=meme_Trader)         -&gt;O comerciante mais velho da minha caravana me ensinou a história da riqueza, como a humanidade sempre buscou aumentar sua prosperidade. Ele estava me levando a entender que</li>
+    <li>lesson(tag=meme_Trader)              -&gt;a verdadeira medida e o poder de um homem estão no lucro</li>
+    <li>lessonReinforcement(tag=meme_Trader) -&gt;Um homem pobre é um homem indefeso, e a Orla não é lugar para fracos.</li>
+    <li>archistBasis(tag=meme_Trader)    -&gt;Imagine um mundo entrando em transcendência. Você realmente acha que as massas de mendigos pobres, imundos e sujos têm lugar em um processo desses?</li>
+    <li>archistFact(tag=meme_Trader)     -&gt;As arqueotecnologias não podem ascender a todos, e é razoável que escolham os mais prósperos e capazes entre nós.</li>
+    <li>archistProphecy(tag=meme_Trader) -&gt;[inTheEnd], apenas aqueles que puderem comprar seu caminho para a transcendência serão escolhidos.</li>
+    <li>animistBasis(tag=meme_Trader)    -&gt;Assim como existem espíritos da natureza e dos mecanismos, existem espíritos que governam os conceitos abstratos que guiam o futuro da humanidade.</li>
+    <li>animistFact(tag=meme_Trader)     -&gt;Entre os espíritos, o espírito da riqueza tem poder sem igual sobre todos eles, pois controla a esfera da prosperidade, do poder.</li>
+    <li>animistProphecy(tag=meme_Trader) -&gt;[itIsSaid] que somente aqueles que acumulam riqueza incrível podem realmente aplacar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Trader)-&gt;[itIsSaid] que, assim como as formigas armazenam alimento para o longo inverno, acumularemos riqueza além de qualquer imaginação e, com ela, prosperidade incrível.</li>
+    <li>chthonianProphecy(tag=meme_Trader)-&gt;Somente os verdadeiramente prósperos podem esperar escapar do olhar de tais entidades abissais. Acumularemos riqueza além de qualquer imaginação e, com ela, quem sabe, compraremos nossa saída de sua insanidade.</li>
+    <li>esotericismProphecy(tag=meme_Trader)-&gt;Tal conhecimento oculto será caro. Acumularemos riqueza além de qualquer imaginação e, com ela, quem sabe, compraremos todos os segredos que permanecem ocultos.</li>
+    <li>eschatologismFact(tag=meme_Trader)-&gt;Acumularemos riqueza além de qualquer imaginação e, com ela, quem sabe, compraremos os dispositivos do juízo final que trarão o fim dos dias.</li>
+    <li>introMemo(tag=meme_Trader)-&gt;Sobre os incentivos aos funcionários, por favor, lembrem-se de que isto não é caridade. Como diz o ditado: "é a riqueza que move o mundo, e o lucro que o governa".</li>
+    <li>alienistProphecy(tag=meme_Trader)-&gt;Essas criações desviantes, nascidas da criatividade humana, representam uma riqueza potencial sem limites que faríamos bem em explorar.</li>
+  </VME_Trader.descriptionMaker.rules.rulesStrings>
+  <VME_Elders.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;idoso</li>
+    <li>memeAdjective-&gt;antigo</li>
+    <li>memeAdjective-&gt;velho</li>
+    <li>memeAdjective-&gt;sábio</li>
+    <li>memeConcept-&gt;idade</li>
+    <li>memeAdjective-&gt;geriátrico</li>
+    <li>memeHyphenPrefix-&gt;velho</li>
+    <li>memeLeaderNoun-&gt;ancião</li>
+  </VME_Elders.generalRules.rulesStrings>
+  <VME_Elders.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Elders)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "Respeitem e obedeçam aos seus anciãos, pois a sabedoria vem apenas da experiência."</li>
+    <li>episode(uses=1,tag=meme_Elders)  -&gt;Seguindo os ensinamentos de [deity0_name], honramos nossos anciãos, colocando suas necessidades acima das dos outros.</li>
+    <li>intro(tag=meme_Elders)           -&gt;No [place_summary] [place_name], os [memberNamePlural] construíram um asilo gigantesco, para que os anciãos pudessem passar seus anos crepusculares.</li>
+    <li>conflict(tag=meme_Elders)        -&gt;Um jovem [foeLeader], invejoso da sabedoria dos seguidores de [deity0_name], tentou espalhar uma peste mortal que afetava apenas os idosos.</li>
+    <li>founderJoin(tag=meme_Elders)     -&gt;[founderName], um grande cientista, desenvolveu uma cura em tempo recorde, salvando muitas vidas no processo.</li>
+    <li>victory(tag=meme_Elders)         -&gt;O [foeLeader] foi aprisionado, e [foeLeader_possessive] história será para sempre usada como conto de advertência contra aqueles que tentam negar a sabedoria de nossos anciãos.</li>
+    <li>setup(tag=meme_Elders)           -&gt;[founderName] era cientista social em um dos mundos brilhantes. [founder_pronoun] postulou que a sabedoria se acumula com a experiência, e que só quem viveu muito pode realmente ser considerado sábio.</li>
+    <li>story(uses=1,tag=meme_Elders)    -&gt;[founderName] assim criou uma grande escola de pensamento, onde a sabedoria de nossos anciãos é sempre respeitada e levada em conta.</li>
+    <li>lessonIntro(tag=meme_Elders)         -&gt;O homem mais velho da nossa comunidade me ensinou a história da civilização, como os jovens sempre se lançaram imprudentemente em conflitos sem ponderar todas as alternativas. Ele estava me levando a entender que</li>
+    <li>lesson(tag=meme_Elders)              -&gt;a idade traz experiência, e a experiência traz sabedoria</li>
+    <li>lessonReinforcement(tag=meme_Elders) -&gt;Sem sabedoria, qualquer decisão é crua e selvagem, e propensa a causar consequências indesejadas.</li>
+    <li>archistBasis(tag=meme_Elders)    -&gt;As arqueotecnologias são seres supremos, existindo além de conceitos como idade e tempo.</li>
+    <li>archistFact(tag=meme_Elders)     -&gt;Girando em um vórtice de tempo infinito, sua sabedoria cresce muito além de qualquer coisa possível para um mero humano.</li>
+    <li>archistProphecy(tag=meme_Elders) -&gt;[inTheEnd], as arqueotecnologias permitirão que apenas os mais sábios entre nós transcendam, e por isso devemos honrar nossos anciãos, pois eles serão os arautos de nossa ascensão.</li>
+    <li>animistBasis(tag=meme_Elders)    -&gt;Os espíritos valorizam a sabedoria acima de tudo, pois só aqueles que são verdadeiramente sábios podem se comunicar adequadamente com eles.</li>
+    <li>animistFact(tag=meme_Elders)     -&gt;Nossos anciãos, em sua infinita sabedoria, atuarão como canal para o mundo dos espíritos.</li>
+    <li>animistProphecy(tag=meme_Elders) -&gt;[itIsSaid] que o mais sábio de nossos anciãos um dia comungará plenamente com os espíritos, tornando-se um só com eles.</li>
+    <li>serketistProphecy(tag=meme_Elders)-&gt;[itIsSaid] que nos tornaremos tão eternos quanto a maior colônia de formigas. Velhos e sábios além de qualquer medida.</li>
+    <li>chthonianProphecy(tag=meme_Elders)-&gt;Talvez devêssemos acumular sabedoria, pois as entidades abissais são velhas e sábias além de qualquer imaginação.</li>
+    <li>esotericismProphecy(tag=meme_Elders)-&gt;Tal conhecimento oculto só pode ser adquirido com tempo e estudo. Somente o mais velho entre nós será sábio o bastante para atravessar a barreira entre a realidade e os reinos além.</li>
+    <li>eschatologismFact(tag=meme_Elders)-&gt;Honraremos nossos anciãos, pois foram eles que labutaram por mais tempo para trazer o fim dos dias.</li>
+    <li>introMemo(tag=meme_Elders)-&gt;Ouçam o que tenho a dizer: é hora de aposentar a aposentadoria. A aposentadoria só causa uma grave escassez de trabalhadores talentosos, pessoas que vêm trazendo experiência e sabedoria à nossa empresa há décadas. Por que simplesmente as deixamos partir? É um absurdo!</li>
+    <li>alienistProphecy(tag=meme_Elders)-&gt;Essas criações desviantes, nascidas da criatividade humana, guardam um tesouro de sabedoria antiga, uma janela para as técnicas esquecidas de nossos ancestrais.</li>
+  </VME_Elders.descriptionMaker.rules.rulesStrings>
+  <VME_Vegan.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;vegano</li>
+    <li>memeAdjective-&gt;vegetariano</li>
+    <li>memeAdjective-&gt;ético</li>
+    <li>memeAdjective-&gt;vegetariano</li>
+    <li>memeCreed-&gt;veganismo</li>
+    <li>memeHyphenPrefix-&gt;bio</li>
+    <li>memeConcept-&gt;direitos dos animais</li>
+  </VME_Vegan.generalRules.rulesStrings>
+  <VME_Vegan.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Vegan)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "Evitem a carne, pois ela é pecaminosa e impura."</li>
+    <li>episode(uses=1,tag=meme_Vegan)  -&gt;Como [deity0_name] ordenou, proibimos a ingestão de carne. Nossos corpos não serão um túmulo para outras criaturas.</li>
+    <li>intro(tag=meme_Vegan)           -&gt;No [place_summary] [place_name], os [memberNamePlural] construíram uma fazenda gigantesca, onde se cultivavam todos os tipos de frutas suculentas e legumes viçosos.</li>
+    <li>conflict(tag=meme_Vegan)        -&gt;Um fazendeiro industrial malévolo, vendo [foeLeader_possessive] lucros evaporarem porque a maioria dos [memberNamePlural] evitava carne, quis sabotar a fazenda por quaisquer meios necessários.</li>
+    <li>founderJoin(tag=meme_Vegan)     -&gt;Nosso fundador, [founderName], disse firmemente a [foeLeader_objective]: "Você seria capaz de olhar um animal nos olhos e dizer a ele: ‘Meu apetite é mais importante que o seu sofrimento’?".</li>
+    <li>victory(tag=meme_Vegan)         -&gt;Por fim, todos se convenceram com [founderName_possessive] argumentos, e os [memberNamePlural] respeitarão para sempre o mundo natural ao nosso redor.</li>
+    <li>setup(tag=meme_Vegan)           -&gt;[founderName] era ecologista em um dos mundos brilhantes, à beira do colapso climático. [founder_pronoun] descobriu que muitos planetas que dependiam fortemente do consumo de carne para alimentar sua população acabaram sucumbindo a desastres ecológicos. A carne simplesmente não era eficiente o suficiente para alimentar uma grande população.</li>
+    <li>story(uses=1,tag=meme_Vegan)    -&gt;Buscando um caminho melhor, [founderName] tornou-se vegano e abandonou a carne para sempre. O resto da sociedade, porém, estava arraigado demais em seus velhos costumes, e [founder_pronoun] e [founderName_possessive] seguidores tiveram de escapar do planeta condenado, tentando encontrar um novo lar entre as estrelas.</li>
+    <li>lessonIntro(tag=meme_Vegan)         -&gt;O ecologista mais velho da minha caravana me ensinou a história do veganismo, como muitas sociedades entram em colapso por insistirem em consumir carne. Ele estava me levando a entender que</li>
+    <li>lesson(tag=meme_Vegan)              -&gt;tornar-se vegano é a mudança mais importante e direta que podemos fazer imediatamente para salvar um planeta e suas espécies</li>
+    <li>lessonReinforcement(tag=meme_Vegan) -&gt;Toda vida merece respeito, dignidade e compaixão. Toda vida.</li>
+    <li>archistBasis(tag=meme_Vegan)    -&gt;As arqueotecnologias são sábias além de qualquer medida. Você acha que elas tolerariam crueldade contra outros? Os humanos vitimizaram os animais a tal ponto que eles nem sequer são considerados vítimas. Nem sequer são considerados. Não são nada; não contam; não importam.</li>
+    <li>archistFact(tag=meme_Vegan)     -&gt;Não há diferença fundamental entre o homem e os animais na capacidade de sentir prazer e dor, felicidade e miséria. E para uma arqueotecnologia, somos todos iguais.</li>
+    <li>archistProphecy(tag=meme_Vegan) -&gt;[inTheEnd], a não violência leva à ética mais elevada, que é o objetivo de toda evolução. Enquanto não pararmos de ferir todos os outros seres vivos, ainda seremos selvagens.</li>
+    <li>animistBasis(tag=meme_Vegan)    -&gt;Até que alguém ame um animal, uma parte de sua alma permanece adormecida, oculta ao mundo dos espíritos.</li>
+    <li>animistFact(tag=meme_Vegan)     -&gt;A alma é a mesma em todas as criaturas vivas, embora o corpo de cada uma seja diferente.</li>
+    <li>animistProphecy(tag=meme_Vegan) -&gt;[itIsSaid] que a comida vegana é alimento da alma em sua forma mais verdadeira. Sua alma é sua intenção. Se sua intenção é pura, você é puro.</li>
+    <li>serketistProphecy(tag=meme_Vegan)-&gt;[itIsSaid] que entenderemos que nossa dieta sagrada é, na verdade, um presente da mais sagrada das criaturas.</li>
+    <li>chthonianProphecy(tag=meme_Vegan)-&gt;Essas entidades abissais devorariam nossa carne e a arrancariam de nossos ossos, banqueteando-se com nossas entranhas. Não somos melhores que elas?</li>
+    <li>esotericismProphecy(tag=meme_Vegan)-&gt;Tal conhecimento oculto exigirá uma mente pura para ser compreendido. Uma mente pura que percebe que seus desejos não lhe dão o direito de aumentar o sofrimento alheio.</li>
+    <li>eschatologismFact(tag=meme_Vegan)-&gt;Evitaremos devorar carne corrupta, podre e repugnante, pois ela é o símbolo do motivo pelo qual este mundo e seus habitantes cruéis devem ser purgados.</li>
+    <li>introMemo(tag=meme_Vegan)-&gt;A partir de agora, ofereceremos apenas alternativas veganas em nossos serviços de alimentação. Resumindo, a carne é cara demais, e precisamos enxugar nossas despesas para continuar competitivos.</li>
+    <li>alienistProphecy(tag=meme_Vegan)-&gt;Essas criaturas desviantes são seres pobres e inocentes. Seria um grave erro maltratá-las de qualquer forma.</li>
+  </VME_Vegan.descriptionMaker.rules.rulesStrings>
+  <VME_Egalitarian.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;igualitário</li>
+    <li>memeAdjective-&gt;igual</li>
+    <li>memeAdjective-&gt;livre</li>
+    <li>memeAdjective-&gt;justo</li>
+    <li>memeLeaderNoun-&gt;par</li>
+    <li>memeCreed-&gt;igualdade</li>
+    <li>memeHyphenPrefix-&gt;livre</li>
+    <li>memeConcept-&gt;igualdade</li>
+  </VME_Egalitarian.generalRules.rulesStrings>
+  <VME_Egalitarian.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Egalitarian)        -&gt;[deity0_name] nos mostrou que o caminho para a verdadeira sabedoria está na tolerância e na igualdade.</li>
+    <li>episode(uses=1,tag=meme_Egalitarian)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Vocês foram todos criados à minha imagem, e todos são iguais aos meus olhos."</li>
+    <li>intro(tag=meme_Egalitarian)           -&gt;No [place_summary] [place_name], uma tradição começou no [altarRoomLabel] de [deity0_name], onde as pessoas aceitavam as crenças de seus vizinhos e se deleitavam em compartilhar perspectivas diferentes.</li>
+    <li>conflict(tag=meme_Egalitarian)           -&gt;Um [foeLeader] fanático olhou para isso com desprezo, pois [foeLeader_pronoun] não tolerava nenhuma crença diferente da sua.</li>
+    <li>founderJoin(tag=meme_Egalitarian)        -&gt;O mais fiel seguidor de [deity0_name], [founderName], ficou diante do [place_powerCenter] e fez um longo e apaixonado discurso sobre a necessidade de respeito e tolerância.</li>
+    <li>victory(tag=meme_Egalitarian)            -&gt;Mesmo que o [foeLeader] não tenha se convencido com os argumentos, todos os outros aplaudiram as palavras de [founderName], e a partir daquele momento [founderName_pronoun] passou a ser considerado porta-voz de [deity0_name].</li>
+    <li>setup(tag=meme_Egalitarian)           -&gt;Desde [founderName_possessive] infância, [founderName] foi perseguido e preso. [founderName_possessive] ideias eram tão radicalmente diferentes que [founderName_pronoun] nunca conseguiu se encaixar em lugar algum. Talvez [founderName_pronoun] pudesse ter reagido a esse desprezo com ainda mais ódio, mas, em vez disso, decidiu abraçar o oposto.</li>
+    <li>story(uses=1,tag=meme_Egalitarian)    -&gt;As ideias de tolerância e igualdade de [founderName] ecoaram profundamente em algumas pessoas, e uma nova escola de pensamento nasceu: a luz não conhece fanatismo, o vento não conhece discriminação, a chuva não conhece esnobismo, as plantações não conhecem segregação.</li>
+    <li>lessonIntro(tag=meme_Egalitarian)         -&gt;Fanatismo, ódio, intimidação, perversão e discriminação jamais devem ser considerados direitos humanos. Levou tanto tempo para entender que</li>
+    <li>lesson(tag=meme_Egalitarian)              -&gt;um humano sem um forte senso de justiça não é humano - um humano sem um forte senso de aceitação não é humano - um humano sem um forte senso de igualitarismo não é humano</li>
+    <li>lessonReinforcement(tag=meme_Egalitarian) -&gt;Ser humano é agir como humano, e agir como humano é se opor a todas as formas de desumanidade.</li>
+    <li>archistBasis(tag=meme_Egalitarian)    -&gt;As arqueotecnologias são o ápice do desenvolvimento ético. Seres tão sábios e tão avançados que alcançaram a perfeição em seus pensamentos.</li>
+    <li>archistFact(tag=meme_Egalitarian)     -&gt;Para uma arqueotecnologia, não deve haver diferenças entre dois seres humanos. Somos todos iguais aos seus olhos.</li>
+    <li>archistProphecy(tag=meme_Egalitarian) -&gt;Somente esquecendo nossas diferenças e nos concentrando no que nos torna humanos podemos nos tornar dignos da transcendência.</li>
+    <li>animistBasis(tag=meme_Egalitarian)    -&gt;Assim como os espíritos são apenas uma sombra para nós, permeando os cantos ocultos por trás da realidade, também nós lhes somos igualmente ocultos.</li>
+    <li>animistFact(tag=meme_Egalitarian)     -&gt;Para os espíritos, somos uma impressão desfocada no plano etéreo. As diferenças que nos parecem tão marcantes não são tão perceptíveis para eles.</li>
+    <li>animistProphecy(tag=meme_Egalitarian) -&gt;[itIsSaid] que somente esquecendo nossas diferenças e nos concentrando no que nos torna humanos podemos fazer os espíritos realmente nos ouvirem.</li>
+    <li>serketistProphecy(tag=meme_Egalitarian)-&gt;[itIsSaid] que formaremos uma sociedade em que nossas diferenças não importam. Acolhedora e tolerante, como todos os insetos são.</li>
+    <li>chthonianProphecy(tag=meme_Egalitarian)-&gt;Diante de tamanha depravação cósmica, nossas brigas e diferenças são irrelevantes. A morte não se importa com o credo daqueles que recolhe.</li>
+    <li>esotericismProphecy(tag=meme_Egalitarian)-&gt;Tal conhecimento oculto exigirá uma mente aberta. Precisaremos acolher todo tipo de credo e crença em nosso rebanho.</li>
+    <li>eschatologismFact(tag=meme_Egalitarian)-&gt;Uma mente estreita não será capaz de trazer o fim dos dias. Precisaremos expandir nossas mentes se quisermos fazer o trabalho.</li>
+    <li>introMemo(tag=meme_Egalitarian)-&gt;Na próxima semana, instituiremos as novas políticas multifé para garantir que todos os nossos funcionários sejam livres para expressar suas próprias crenças em paz. O departamento de Recursos Humanos cuidará das reservas e dos horários das missas multifé programadas.</li>
+    <li>alienistProphecy(tag=meme_Egalitarian)-&gt;Essas criaturas desviantes são motivo de discórdia entre muitas pessoas. Devem ser protegidas ou destruídas? Faríamos bem em ouvir todos os pontos de vista antes de decidir.</li>
+  </VME_Egalitarian.descriptionMaker.rules.rulesStrings>
+  <VME_Pacifist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;pacifista</li>
+    <li>memeAdjective-&gt;mercador da paz</li>
+    <li>memeAdjective-&gt;apaziguador</li>
+    <li>memeLeaderNoun-&gt;pacificador</li>
+    <li>memeConcept-&gt;paz</li>
+  </VME_Pacifist.generalRules.rulesStrings>
+  <VME_Pacifist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Pacifist)        -&gt;[deity0_name] viu a violência no coração humano e recuou com repulsa.</li>
+    <li>episode(uses=1,tag=meme_Pacifist)  -&gt;Falando aos fiéis, [deity0_name] disse: "Há muitas causas pelas quais vale a pena morrer, mas certamente não há nenhuma pela qual valha a pena matar".</li>
+    <li>intro(tag=meme_Pacifist)           -&gt;[place_summary] [place_name] estava sempre repleto de conflitos. Os [memberNamePlural] não eram estranhos à guerra e à violência, e isso entristecia profundamente [deity0_name].</li>
+    <li>conflict(tag=meme_Pacifist)        -&gt;[deity0_name] viu as constantes maquinações de um terrível [foeLeader], um fomentador de guerras, e como [foeLeader_pronoun] sempre atiçava as chamas da guerra.</li>
+    <li>founderJoin(tag=meme_Pacifist)     -&gt;Em uma demonstração de inspiração divina, [deity0_name] infundiu no [foeLeader] os pensamentos e as experiências de todos aqueles que [foeLeader_pronoun] havia mutilado e matado, e [foeLeader_pronoun] imediatamente mudou de ideia. A partir daquele momento, o [foeLeader] adotou [foeLeader_possessive] novo nome como porta-voz de [deity0_name]: [founderName], o Pacificador.</li>
+    <li>victory(tag=meme_Pacifist)         -&gt;[founderName] nos fez compreender que ninguém está além da redenção e que a sabedoria eterna está em responder ao ódio com não ódio.</li>
+    <li>setup(tag=meme_Pacifist)           -&gt;[founderName] foi um senhor da guerra. Centenas de milhares haviam caído diante de [founderName_possessive] exércitos. Depois de anos de combate, [founder_pronoun] se olhou no espelho um dia e só conseguiu ver o sangue de todas [founderName_possessive] vítimas; ali mesmo [founder_pronoun] decidiu pregar a causa do pacifismo total. [founderName_possessive] história de redenção ecoaria pelos séculos.</li>
+    <li>story(uses=1,tag=meme_Pacifist)    -&gt;[founderName] entendia melhor do que ninguém que nada acabará com a guerra, a menos que o próprio povo se recuse a ir à guerra.</li>
+    <li>lessonIntro(tag=meme_Pacifist)         -&gt;Aulas militares faziam parte da educação escolar, mas nosso professor era o que ele chamava de pacifista militante. Ele tentava nos incutir que</li>
+    <li>lesson(tag=meme_Pacifist)              -&gt;nada acabará com a guerra, a menos que o próprio povo se recuse a ir à guerra</li>
+    <li>lessonReinforcement(tag=meme_Pacifist) -&gt;Nunca faça nada contra a consciência, mesmo que o Estado exija.</li>
+    <li>archistBasis(tag=meme_Pacifist)    -&gt;Você consegue imaginar como as arqueotecnologias veem algo tão primitivo quanto a guerra?</li>
+    <li>archistFact(tag=meme_Pacifist)     -&gt;A guerra é intrinsecamente desperdiçadora. Dedicar recursos para matar uns aos outros só serve para esgotar esses recursos, que poderiam ter sido melhor usados para melhorar a vida de todos os envolvidos. Para uma arqueotecnologia, esse desperdício sem sentido é abominável.</li>
+    <li>archistProphecy(tag=meme_Pacifist) -&gt;[inTheEnd], apenas aqueles que conseguirem resistir a seus impulsos violentos mais básicos estarão prontos para transcender.</li>
+    <li>animistBasis(tag=meme_Pacifist)    -&gt;O espírito da guerra é imensamente poderoso, alimentado por milhares de anos de violenta expansão humana pelas estrelas. No entanto, não é um espírito de amor, nem tem qualquer simpatia pela humanidade que o alimenta com sofrimento.</li>
+    <li>animistFact(tag=meme_Pacifist)     -&gt;Alimentar o espírito da guerra com discórdia é insensato e desperdiçador. Deveríamos, em vez disso, cultivar e alimentar um espírito de paz, de concórdia.</li>
+    <li>animistProphecy(tag=meme_Pacifist) -&gt;[itIsSaid] que apenas aqueles que conseguirem resistir a seus impulsos violentos mais básicos estarão prontos para comungar com os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Pacifist)-&gt;[itIsSaid] que entenderemos que os insetos não são violentos por natureza e não matam por esporte como os humanos. Deveríamos nos esforçar para ser mais como eles.</li>
+    <li>chthonianProphecy(tag=meme_Pacifist)-&gt;A violência não será a chave para superar essas entidades antigas, pois não se pode combater o terror com terror. Só evitando a violência que nasce de sua insanidade cósmica podemos esperar nos salvar de verdade.</li>
+    <li>esotericismProphecy(tag=meme_Pacifist)-&gt;O conhecimento oculto é sutil e não pode ser obtido pela força. Afiaremos nossas mentes sem violência para descobrir as verdades ocultas do Universo.</li>
+    <li>eschatologismFact(tag=meme_Pacifist)-&gt;Por mais que o mundo mereça queimar, não somos assassinos. Se nos tornarmos assassinos, seremos melhores que este Universo amaldiçoado em quê? Não, o Apocalipse deve ser trazido sem derramamento de sangue, de forma limpa. É o único caminho.</li>
+    <li>introMemo(tag=meme_Pacifist)-&gt;Escrevemos para informar que os dois funcionários (que permanecerão anônimos conforme as cláusulas de privacidade da empresa) que causaram uma altercação violenta ontem tiveram seus contratos rescindidos e não fazem mais parte do nosso quadro. Tal violência no local de trabalho é abominável e NÃO deixaremos isso impune.</li>
+    <li>alienistProphecy(tag=meme_Pacifist)-&gt;Essas criaturas desviantes são seres inocentes. Não somos assassinos e, talvez, seja melhor deixá-las em paz.</li>
+  </VME_Pacifist.descriptionMaker.rules.rulesStrings>
+  <VME_FireWorship.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;ardente</li>
+    <li>memeAdjective-&gt;ígneo</li>
+    <li>memeAdjective-&gt;flamejante</li>
+    <li>memeAdjective-&gt;em chamas</li>
+    <li>memeAdjective-&gt;fumegante</li>
+    <li>memeHyphenPrefix-&gt;queimado</li>
+    <li>memeLeaderNoun-&gt;acendedor de fogo</li>
+    <li>memeLeaderNoun-&gt;atiçador</li>
+    <li>memeLeaderNoun-&gt;grande incendiário</li>
+    <li>memeConcept-&gt;fogo</li>
+  </VME_FireWorship.generalRules.rulesStrings>
+</LanguageData>

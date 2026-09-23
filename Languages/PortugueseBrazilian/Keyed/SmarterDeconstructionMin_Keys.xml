@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmartDeconstruct.StoppedByThickRoof>{0} não pode {2} {1} por causa de um teto de montanha que desabaria.</SmartDeconstruct.StoppedByThickRoof>
+  <SmartDeconstruct>Desconstrução Inteligente</SmartDeconstruct>
+  <SmartDeconstruct.Buildings.Label>Verificar tetos ao desconstruir construções?</SmartDeconstruct.Buildings.Label>
+  <SmartDeconstruct.Buildings.Tooltip>A funcionalidade básica do mod. Desative esta opção e 'Verificar tetos ao minerar' para desativar o mod.</SmartDeconstruct.Buildings.Tooltip>
+  <SmartDeconstruct.CancelThick.Label>Cancelar ordens em tetos grossos?</SmartDeconstruct.CancelThick.Label>
+  <SmartDeconstruct.CancelThick.Tooltip>Se ativado, as ordens que fariam um teto de montanha desabar serão canceladas e uma mensagem de aviso será exibida. Não é recomendável desativar. Ignorado se 'Remover tetos grossos' estiver ativado.</SmartDeconstruct.CancelThick.Tooltip>
+  <SmartDeconstruct.Mining.Label>Verificar tetos ao minerar?</SmartDeconstruct.Mining.Label>
+  <SmartDeconstruct.Mining.Tooltip>Define se a funcionalidade também se aplica à mineração.</SmartDeconstruct.Mining.Tooltip>
+  <SmartDeconstruct.Thick.Label>Remover tetos grossos?</SmartDeconstruct.Thick.Label>
+  <SmartDeconstruct.Thick.Tooltip>Os colonos podem remover tetos grossos? Observação: isso ficará ativado se um mod que permita isso estiver instalado, mas não é obrigatório ter um.</SmartDeconstruct.Thick.Tooltip>
+  <SmartDeconstruct.ThickResearch.Label>Pesquisa para remover tetos grossos</SmartDeconstruct.ThickResearch.Label>
+  <SmartDeconstruct.ThickResearch.Tooltip>Projeto de pesquisa que serve de pré-requisito para remover tetos grossos; será definido automaticamente se 'Extended Roofing' ou 'Raise the Roof' estiverem instalados. Requer que 'Remover tetos grossos' esteja ativado.</SmartDeconstruct.ThickResearch.Tooltip>
+  <SmartDeconstruct.NonColonists.Label>Ativar para não colonos?</SmartDeconstruct.NonColonists.Label>
+  <SmartDeconstruct.NonColonists.Tooltip>Permitir que outros colonos além dos seus, e além dos seus animais, executem as verificações?</SmartDeconstruct.NonColonists.Tooltip>
+  <SmartDeconstruct.Animals.Label>Ativar para animais?</SmartDeconstruct.Animals.Label>
+  <SmartDeconstruct.Animals.Tooltip>Permitir que os animais executem essas verificações? Se desativado, os animais derrubarão tetos sobre si mesmos, como no jogo base.</SmartDeconstruct.Animals.Tooltip>
+  <SmartDeconstruct.CurrentModVersion.Label>Versão do mod instalada: {0}</SmartDeconstruct.CurrentModVersion.Label>
+</LanguageData>

@@ -20,4 +20,84 @@
   <VWE_TacticalGrenades.description>Fabrique granadas especializadas, úteis em uma variedade de engajamentos.</VWE_TacticalGrenades.description>
   <VWE_LaserTargetingSystems.label>sistemas de mira a laser</VWE_LaserTargetingSystems.label>
   <VWE_LaserTargetingSystems.description>Adapte sistemas de mira a laser para a entrega precisa e rápida de cargas energizadas.</VWE_LaserTargetingSystems.description>
+  <VWE_Longbow.generalRules.rulesStrings>
+    <li>subject-&gt;precision archery</li>
+    <li>subject_story-&gt;refined the craft of longbow making, maximizing range and accuracy</li>
+    <li>subject_story-&gt;redefined warfare with the introduction of the sniper's bow</li>
+    <li>subject_story-&gt;inspired legends through feats of marksmanship that turned the tide of battles</li>
+    <li>subject_story-&gt;developed techniques that allowed rapid, precise shots over great distances</li>
+    <li>subject_gerund-&gt;enhancing long-range engagements with traditional craftsmanship</li>
+  </VWE_Longbow.generalRules.rulesStrings>
+  <VWE_Crossbow.generalRules.rulesStrings>
+    <li>subject-&gt;mechanical advantage</li>
+    <li>subject_story-&gt;merged the precision of archery with the power of mechanics</li>
+    <li>subject_story-&gt;developed crossbows that pierce the defenses of the armored</li>
+    <li>subject_story-&gt;innovated locking mechanisms for quicker reloads under pressure</li>
+    <li>subject_story-&gt;integrated advanced sighting systems to improve accuracy</li>
+    <li>subject_gerund-&gt;advancing siege warfare with innovation in armament</li>
+  </VWE_Crossbow.generalRules.rulesStrings>
+  <VWE_CompoundBow.generalRules.rulesStrings>
+    <li>subject-&gt;silent efficiency</li>
+    <li>subject_story-&gt;integrated modern technology to craft silent, deadly weapons</li>
+    <li>subject_story-&gt;pushed the boundaries of archery into the industrial era</li>
+    <li>subject_story-&gt;employed advanced materials for unmatched bow strength and flexibility</li>
+    <li>subject_story-&gt;optimized designs for ergonomic use and increased firing rates</li>
+    <li>subject_gerund-&gt;refining the art of stealth and precision in hunting and warfare</li>
+  </VWE_CompoundBow.generalRules.rulesStrings>
+  <VWE_Gunpowder.generalRules.rulesStrings>
+    <li>subject-&gt;the spark of revolution</li>
+    <li>subject_story-&gt;unleashed the potential of chemical reactions for explosive results</li>
+    <li>subject_story-&gt;transformed warfare and mining with the discovery of gunpowder</li>
+    <li>subject_story-&gt;revolutionized siege tactics with the introduction of cannons</li>
+    <li>subject_story-&gt;facilitated the creation of small arms, changing personal defense and hunting</li>
+    <li>subject_gerund-&gt;pioneering the era of explosives and ballistic weaponry</li>
+  </VWE_Gunpowder.generalRules.rulesStrings>
+  <VWE_HeavyWeapons.generalRules.rulesStrings>
+    <li>subject-&gt;the weight of power</li>
+    <li>subject_story-&gt;developed weapons that bring unparalleled firepower to the battlefield</li>
+    <li>subject_story-&gt;balanced the scales of warfare with heavy, decisive armaments</li>
+    <li>subject_story-&gt;created training programs for specialized units to operate these weapons</li>
+    <li>subject_story-&gt;engineered mobility solutions to transport and deploy heavy armaments</li>
+    <li>subject_gerund-&gt;mastering the art of destruction with heavy weapons</li>
+  </VWE_HeavyWeapons.generalRules.rulesStrings>
+  <VWE_Flamethrower.generalRules.rulesStrings>
+    <li>subject-&gt;fiery dominion</li>
+    <li>subject_story-&gt;harnessed fire in warfare to cleanse and conquer</li>
+    <li>subject_story-&gt;introduced a weapon feared for its psychological and physical impact</li>
+    <li>subject_story-&gt;innovated with fuel mixtures for longer range and burn times</li>
+    <li>subject_story-&gt;developed safety mechanisms to protect the operator from backlash</li>
+    <li>subject_gerund-&gt;spreading the flames of innovation and terror on the battlefield</li>
+  </VWE_Flamethrower.generalRules.rulesStrings>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings>
+    <li>subject-&gt;precision engineering</li>
+    <li>subject_story-&gt;crafted firearms designed for specific, challenging combat scenarios</li>
+    <li>subject_story-&gt;elevated the standards of gunsmithing to meet niche demands</li>
+    <li>subject_story-&gt;integrated cutting-edge optics for enhanced targeting accuracy</li>
+    <li>subject_story-&gt;customized weapons to suit individual user preferences and tactics</li>
+    <li>subject_gerund-&gt;tailoring firepower to the intricate needs of warfare</li>
+  </VWE_SpecializedFirearms.generalRules.rulesStrings>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+    <li>subject-&gt;long-distance overwatch</li>
+    <li>subject_story-&gt;bridged the gap between sniper precision and rifle agility</li>
+    <li>subject_story-&gt;empowered sharpshooters with semi-automatic precision</li>
+    <li>subject_story-&gt;developed stabilization systems for unmatched accuracy on the move</li>
+    <li>subject_story-&gt;adapted rifles for various environments, from urban to wilderness</li>
+    <li>subject_gerund-&gt;shaping the future of engagement with marksman rifles</li>
+  </VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+  <VWE_TacticalGrenades.generalRules.rulesStrings>
+    <li>subject-&gt;explosive versatility</li>
+    <li>subject_story-&gt;expanded the arsenal with grenades for every combat situation</li>
+    <li>subject_story-&gt;innovated with non-lethal options for crowd control and deterrence</li>
+    <li>subject_story-&gt;enhanced fuse mechanisms for precise timing and effect</li>
+    <li>subject_story-&gt;customized payloads for specific tactical needs</li>
+    <li>subject_gerund-&gt;arming troops with the right tools for any engagement</li>
+  </VWE_TacticalGrenades.generalRules.rulesStrings>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings>
+    <li>subject-&gt;pinpoint accuracy</li>
+    <li>subject_story-&gt;revolutionized precision strikes with advanced laser guidance</li>
+    <li>subject_story-&gt;enabled real-time target acquisition and adjustment</li>
+    <li>subject_story-&gt;integrated systems with existing weaponry for enhanced combat effectiveness</li>
+    <li>subject_story-&gt;developed compact, portable laser designators for field operations</li>
+    <li>subject_gerund-&gt;honing the edge of warfare with technology</li>
+  </VWE_LaserTargetingSystems.generalRules.rulesStrings>
 </LanguageData>

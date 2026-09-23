@@ -4,4 +4,19 @@
   <RG_MushroomCultivation.description>Cultive e plante cogumelos.</RG_MushroomCultivation.description>
   <RG_BerryCultivation.label>cultivo de frutos silvestres</RG_BerryCultivation.label>
   <RG_BerryCultivation.description>Cultive e plante arbustos de frutos silvestres.</RG_BerryCultivation.description>
+  <RG_MushroomCultivation.generalRules.rulesStrings>
+    <li>subject-&gt;mushroom cultivation</li>
+    <li>subject_story-&gt;harnessed the forest's hidden bounty, elevating their tribe's nutrition and medicine</li>
+    <li>subject_story-&gt;mastered the art of the spore, leading to a revolution in sustainable food sources</li>
+    <li>subject_story-&gt;explored the mystical properties of fungi, intertwining their culture with the sacred mycelium</li>
+    <li>subject_gerund-&gt;cultivating mushrooms</li>
+    <li>subject_gerund-&gt;growing your mushroom</li>
+  </RG_MushroomCultivation.generalRules.rulesStrings>
+  <RG_BerryCultivation.generalRules.rulesStrings>
+    <li>subject-&gt;agriculture</li>
+    <li>subject_story-&gt;uncovered the secrets of wild berry bushes, fostering the community's first steps towards agriculture</li>
+    <li>subject_story-&gt;led the tribe from nomadic wanderers to settled cultivators, revered for their lush berry groves</li>
+    <li>subject_story-&gt;brokered peace through the shared cultivation and exchange of berries, uniting neighboring tribes</li>
+    <li>subject_gerund-&gt;growing berries</li>
+  </RG_BerryCultivation.generalRules.rulesStrings>
 </LanguageData>

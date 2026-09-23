@@ -197,7 +197,7 @@
   <EdB.PC.Panel.Age.Chronological>Idade cronológica</EdB.PC.Panel.Age.Chronological>
   <EdB.PC.Panel.Apparel.ApparelLocked>Este personagem não pode usar vestuário</EdB.PC.Panel.Apparel.ApparelLocked>
   <EdB.PC.Panel.Appearance.ApparelConflict.Description>Não é possível usar {0} com o seguinte vestuário:</EdB.PC.Panel.Appearance.ApparelConflict.Description>
-  <EdB.PC.Panel.Appearance.ApparelConflict.LineItem> - {0}</EdB.PC.Panel.Appearance.ApparelConflict.LineItem>
+  <EdB.PC.Panel.Appearance.ApparelConflict.LineItem>- {0}</EdB.PC.Panel.Appearance.ApparelConflict.LineItem>
   <EdB.PC.Panel.Appearance.NoneSelected>Nenhum</EdB.PC.Panel.Appearance.NoneSelected>
   <EdB.PC.Panel.Appearance.WorldPawnAlert>O jogo frequentemente "trocará a roupa" de personagens do mundo, dando a eles novos vestuários e equipamentos antes de gerá-los no mapa. Se você selecionar uma opção de vestuário personalizada, essas personalizações provavelmente serão perdidas se você encontrar o personagem mais tarde.\n  \nEsse não é o caso de líderes de facção. Se você tornar este personagem um líder de facção, suas personalizações de vestuário serão preservadas.</EdB.PC.Panel.Appearance.WorldPawnAlert>
   <EdB.PC.Panel.AvailableEquipment.AddButtonLabel>Adicionar</EdB.PC.Panel.AvailableEquipment.AddButtonLabel>
@@ -219,7 +219,7 @@
   <EdB.PC.Panel.Health.SelectSeverity>Selecionar um nível de gravidade</EdB.PC.Panel.Health.SelectSeverity>
   <EdB.PC.Panel.Incapable.None>Nenhum</EdB.PC.Panel.Incapable.None>
   <EdB.PC.Panel.Incapable.Warning>Nenhum dos seus colonos é capaz dos seguintes tipos de trabalho considerados obrigatórios pelo jogo base.\n\n{0}\n\nVocê pode jogar com seus colonos como estão, mas será solicitado que você confirme antes de iniciar o cenário.</EdB.PC.Panel.Incapable.Warning>
-  <EdB.PC.Panel.Incapable.WarningItem> - {0}</EdB.PC.Panel.Incapable.WarningItem>
+  <EdB.PC.Panel.Incapable.WarningItem>- {0}</EdB.PC.Panel.Incapable.WarningItem>
   <EdB.PC.Panel.LoadSave.Load>Carregar personagem</EdB.PC.Panel.LoadSave.Load>
   <EdB.PC.Panel.LoadSave.Save>Salvar personagem</EdB.PC.Panel.LoadSave.Save>
   <EdB.PC.Panel.PawnList.Add>Adicionar...</EdB.PC.Panel.PawnList.Add>
@@ -240,10 +240,10 @@
   <EdB.PC.Panel.Titles.None>Nenhum título</EdB.PC.Panel.Titles.None>
   <EdB.PC.Panel.Traits.None>Nenhum traço</EdB.PC.Panel.Traits.None>
   <EdB.PC.Panel.Traits.Tip.Conflict>{0}\n\nConflita com:\n{1}</EdB.PC.Panel.Traits.Tip.Conflict>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.1> - {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.2> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.Many> - {0}\n{1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Many>
-  <EdB.PC.Panel.Traits.Tip.Conflict.List.Last> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Last>
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.1>- {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.2>- {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.Many>- {0}\n{1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Many>
+  <EdB.PC.Panel.Traits.Tip.Conflict.List.Last>- {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Last>
   <EdB.PC.TabView.Animals.Title>Animais</EdB.PC.TabView.Animals.Title>
   <EdB.PC.TabView.Equipment.Title>Equipamento</EdB.PC.TabView.Equipment.Title>
   <EdB.PC.TabView.Pawns.Title>Personagens</EdB.PC.TabView.Pawns.Title>

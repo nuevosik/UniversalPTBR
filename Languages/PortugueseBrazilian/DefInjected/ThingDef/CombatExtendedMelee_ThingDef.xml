@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UnfinishedPoweredMeleeWeapon.label>arma corpo a corpo energizada inacabada</UnfinishedPoweredMeleeWeapon.label>
+  <UnfinishedPoweredMeleeWeapon.description>Uma arma corpo a corpo energizada inacabada.</UnfinishedPoweredMeleeWeapon.description>
+  <CE_Melee_Maul.label>marreta</CE_Melee_Maul.label>
+  <CE_Melee_Maul.description>Um martelo pesado de duas mãos. Difícil de manejar, mas o impacto pesado permite ferir pessoas por trás da armadura.</CE_Melee_Maul.description>
+  <CE_Melee_Zweihander.label>montante</CE_Melee_Zweihander.label>
+  <CE_Melee_Zweihander.description>Uma espada grande projetada para uso com as duas mãos. Desajeitada para uma espada, mas um único golpe pode cortar um homem ao meio.</CE_Melee_Zweihander.description>
+  <CE_Melee_Halberd.label>alabarda</CE_Melee_Halberd.label>
+  <CE_Melee_Halberd.description>Uma arma de haste medieval com lâmina, adequada para cortar e estocar, com um gancho para prender as armas inimigas.</CE_Melee_Halberd.description>
+  <CE_Melee_PoweredMace.label>maça energizada</CE_Melee_PoweredMace.label>
+  <CE_Melee_PoweredMace.description>Arma de impacto avançada, normalmente usada por tropas de assalto de mundos brilhantes em conjunto com um escudo. A cabeça é revestida por um campo de plasma ionizado, que reduz a resistência a impacto da armadura inimiga.</CE_Melee_PoweredMace.description>
+  <CE_Melee_PoweredShortsword.label>espada curta energizada</CE_Melee_PoweredShortsword.label>
+  <CE_Melee_PoweredShortsword.description>Uma espada curta altamente avançada. Comumente usada por tropas de assalto de mundos brilhantes, a lâmina é revestida por um campo de plasma ionizado, o que ajuda a cortar a armadura inimiga.</CE_Melee_PoweredShortsword.description>
+  <CE_Melee_PoweredMaul.label>marreta energizada</CE_Melee_PoweredMaul.label>
+  <CE_Melee_PoweredMaul.description>Uma arma de impacto pesada de duas mãos, comumente usada por equipes de assalto de mundos brilhantes em arrombamentos urbanos. O golpe do martelo libera uma onda de plasma ionizado no alvo, devastando qualquer armadura em seu caminho.</CE_Melee_PoweredMaul.description>
+  <CE_Melee_WraithBlade.label>lâmina espectral</CE_Melee_WraithBlade.label>
+  <CE_Melee_WraithBlade.description>Arma corpo a corpo altamente avançada. Quando ativa, emite um fluxo constante de plasma ionizado capaz de cortar quase qualquer armadura. Sua aparência sobrenatural lhe rendeu o apelido e inspirou muitos contos populares.</CE_Melee_WraithBlade.description>
+  <CE_Melee_Maul.tools.0.label>cabo</CE_Melee_Maul.tools.0.label>
+  <CE_Melee_Maul.tools.1.label>cabeça</CE_Melee_Maul.tools.1.label>
+  <CE_Melee_Zweihander.tools.0.label>cabo</CE_Melee_Zweihander.tools.0.label>
+  <CE_Melee_Zweihander.tools.1.label>ponta</CE_Melee_Zweihander.tools.1.label>
+  <CE_Melee_Zweihander.tools.2.label>gume</CE_Melee_Zweihander.tools.2.label>
+  <CE_Melee_Halberd.tools.0.label>haste</CE_Melee_Halberd.tools.0.label>
+  <CE_Melee_Halberd.tools.1.label>gume</CE_Melee_Halberd.tools.1.label>
+  <CE_Melee_Halberd.tools.2.label>ponta</CE_Melee_Halberd.tools.2.label>
+  <CE_Melee_PoweredMace.tools.0.label>cabo</CE_Melee_PoweredMace.tools.0.label>
+  <CE_Melee_PoweredMace.tools.1.label>cabeça</CE_Melee_PoweredMace.tools.1.label>
+  <CE_Melee_PoweredShortsword.tools.0.label>cabo</CE_Melee_PoweredShortsword.tools.0.label>
+  <CE_Melee_PoweredShortsword.tools.1.label>ponta</CE_Melee_PoweredShortsword.tools.1.label>
+  <CE_Melee_PoweredShortsword.tools.2.label>gume</CE_Melee_PoweredShortsword.tools.2.label>
+  <CE_Melee_PoweredMaul.tools.0.label>cabo</CE_Melee_PoweredMaul.tools.0.label>
+  <CE_Melee_PoweredMaul.tools.1.label>cabeça</CE_Melee_PoweredMaul.tools.1.label>
+  <CE_Melee_WraithBlade.tools.0.label>cabo</CE_Melee_WraithBlade.tools.0.label>
+  <CE_Melee_WraithBlade.tools.1.label>ponta</CE_Melee_WraithBlade.tools.1.label>
+  <CE_Melee_WraithBlade.tools.2.label>gume</CE_Melee_WraithBlade.tools.2.label>
+</LanguageData>

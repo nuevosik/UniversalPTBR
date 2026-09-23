@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Settlers_Wanted.questDescriptionAndNameRules.rulesStrings>
+    <li>questName-&gt;Recompensa: [nameFull] [nickname]</li>
+    <li>questName-&gt;Procurado, Vivo ou Morto: [nickname]</li>
+    <li>questName-&gt;Os bandoleiros de [nickname]</li>
+    <li>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name] nos contatou. Ao que parece, o notório [criminal_nameFull] de [siteFaction_name] está escondido em nossa vizinhança.\n\n[asker_nameDef] está pedindo para levarmos [nickname] a um de seus assentamentos por uma grande quantia de [bounty] pratas — o dobro se estiver vivo. Eles estão escondidos em um esconderijo seguro e provavelmente está guardado.\n\nSe eliminarmos o acampamento deles, [allRewardsDescriptions]</li>
+  </Settlers_Wanted.questDescriptionAndNameRules.rulesStrings>
+</LanguageData>

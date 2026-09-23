@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DM.Tab.AddCustomDay>Adicionar</DM.Tab.AddCustomDay>
+  <DM.Tab.CustomDayDefaultName>Dia comemorativo sem título</DM.Tab.CustomDayDefaultName>
+  <DM.Tab.RenameCustomDay>Ctrl + Clique esquerdo para renomear</DM.Tab.RenameCustomDay>
+  <DM.Tab.TableHeader.Name>Nome</DM.Tab.TableHeader.Name>
+  <DM.Tab.TableHeader.Quadrum>Quadrimestre</DM.Tab.TableHeader.Quadrum>
+  <DM.Tab.TableHeader.Day>Dia</DM.Tab.TableHeader.Day>
+  <DM.Tab.TableHeader.Celebration>Celebração</DM.Tab.TableHeader.Celebration>
+  <DM.Tab.BuiltIn.Settlement>Assentamento no planeta</DM.Tab.BuiltIn.Settlement>
+  <DM.Tab.BuiltIn.ChronologicalBirthday>Aniversários cronológicos</DM.Tab.BuiltIn.ChronologicalBirthday>
+  <DM.Tab.BuiltIn.RelationshipAnniversary>Aniversários de relacionamento</DM.Tab.BuiltIn.RelationshipAnniversary>
+  <DM.Tab.BuiltIn.MarriageAnniversary>Aniversários de casamento</DM.Tab.BuiltIn.MarriageAnniversary>
+  <DM.Tab.Misc.ShowAll>Mostrar tudo</DM.Tab.Misc.ShowAll>
+  <DM.Tab.Duration.None>Nenhum</DM.Tab.Duration.None>
+  <DM.Tab.Duration.AllDay>Dia inteiro</DM.Tab.Duration.AllDay>
+  <DM.Tab.Duration.Morning>Manhã</DM.Tab.Duration.Morning>
+  <DM.Tab.Duration.Noon>Meio-dia</DM.Tab.Duration.Noon>
+  <DM.Tab.Duration.Afternoon>Tarde</DM.Tab.Duration.Afternoon>
+  <DM.Tab.Duration.Evening>Noite</DM.Tab.Duration.Evening>
+  <DM.Tab.Duration.Night>Madrugada</DM.Tab.Duration.Night>
+  <DM.Error.NoStarter>Festa cancelada: ninguém quer começar a festa</DM.Error.NoStarter>
+  <DM.Error.NoSpot>Festa cancelada: nenhum local de festa</DM.Error.NoSpot>
+  <DM.Message.TodayBirthday>Hoje é o aniversário de {1} anos de {0}!</DM.Message.TodayBirthday>
+  <DM.Message.TodayCustomDay>Hoje é {0}!</DM.Message.TodayCustomDay>
+  <DM.Message.TodaySettlement>Hoje é o Dia de {0}!</DM.Message.TodaySettlement>
+  <DM.Message.TodayMarriageAnniversary>O aniversário de casamento de {0} e {1} é hoje!</DM.Message.TodayMarriageAnniversary>
+  <DM.Message.TodayRelationshipAnniversary>O aniversário de relacionamento de {0} e {1} é hoje!</DM.Message.TodayRelationshipAnniversary>
+  <DM.Letter.PartyTitle>Festa</DM.Letter.PartyTitle>
+  <DM.Letter.Party>{0} está acontecendo agora mesmo!</DM.Letter.Party>
+  <DM.Letter.BirthdayParty>Festa de aniversário de {0}</DM.Letter.BirthdayParty>
+  <DM.Letter.SettlementParty>O dia de {0}</DM.Letter.SettlementParty>
+  <DM.Letter.RelationshipAnniversaryParty>Festa de relacionamento de {0} e {1}</DM.Letter.RelationshipAnniversaryParty>
+  <DM.Letter.MarriageAnniversaryParty>Festa de casamento de {0} e {1}</DM.Letter.MarriageAnniversaryParty>
+  <DM.Letter.CustomDayParty>Uma festa para {0}</DM.Letter.CustomDayParty>
+  <DM.Message.LoversAway>Festa dos amantes cancelada: {0} e {1} estão longe um do outro</DM.Message.LoversAway>
+  <DM.Message.LoversBusy>Festa dos amantes cancelada: {0} está participando de outra festa</DM.Message.LoversBusy>
+  <DM.Message.SpousesAway>Festa dos cônjuges cancelada: {0} e {1} estão longe um do outro</DM.Message.SpousesAway>
+  <DM.Message.SpousesBusy>Festa dos cônjuges cancelada: {0} está participando de outra festa</DM.Message.SpousesBusy>
+  <PrivateAnniversaries>O mundo a dois</PrivateAnniversaries>
+  <PrivateAnniversaries_Desc>Pessoas de fora não comparecerão às festas de aniversário.</PrivateAnniversaries_Desc>
+</LanguageData>

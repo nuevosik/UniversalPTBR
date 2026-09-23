@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_Gestalt.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Gestalt)        -&gt;[deity0_name] transformou todos os homens e mulheres em uma única consciência, e foi apenas por nossa tolice que nos afastamos uns dos outros.</li>
+    <li>episode(uses=1,tag=meme_Gestalt)  -&gt;[deity0_name] disse a todos: "A única fronteira que já existiu é o eu. [deity0_name] falou."</li>
+    <li>intro(tag=meme_Gestalt)           -&gt;O povo de [place_summary] [place_name] trabalhou em perfeita união e construiu um grande [altarName] para honrar [deity0_name]. Eles aprenderam que toda consciência é uma só, separada apenas por um fino véu do mundo físico.</li>
+    <li>conflict(tag=meme_Gestalt)        -&gt;O [foeLeader] não suportava a união dos [memberNamePlural] e enviou os [foeSoldiers] [foeLeader_possessive] até a [place_community] para destruir sua consciência gestalt.</li>
+    <li>founderJoin(tag=meme_Gestalt)     -&gt;Um [place_job] chamado [founderName] lançou [founder_objective] mesmo ao fogo em protesto contra o [foeLeader]. [founderName] pereceu nas chamas, mas isso não teve importância, pois não passava de uma engrenagem na máquina eterna que são os [memberNamePlural].</li>
+    <li>victory(tag=meme_Gestalt)         -&gt;As ações de [founderName] uniram o povo. Agindo como um único organismo, eles invadiram a casa do [foeLeader]. Os [foeSoldiers] nada puderam fazer contra uma mente colmeia tão superior, e o [foeLeader] foi massacrado sem piedade.</li>
+    <li>setup(tag=meme_Gestalt)           -&gt;Em um mundo em que cada um cuida de si mesmo, [founderName] proclamou uma única verdade: "Pois vocês não são indivíduos, vocês fazem parte de um organismo maior."</li>
+    <li>story(uses=1,tag=meme_Gestalt)    -&gt;[founderName] nos ensinou a expandir nossa consciência para fora, além do eu do corpo, para abraçar o eu do grupo e o eu da humanidade. Os objetivos do grupo e da raça maior são transcendentes, e abraçá-los é alcançar a iluminação.</li>
+    <li>lessonIntro(tag=meme_Gestalt)     -&gt;Eles ficaram maravilhados com a uniformidade do nosso pensamento. Eu lhes expliquei que não há nada mais importante que</li>
+    <li>lesson(tag=meme_Gestalt)              -&gt;uma harmonia de propósito e pensamento; sem indecisão, sem dúvidas; a segurança e a força de uma vontade unificada</li>
+    <li>lessonReinforcement(tag=meme_Gestalt) -&gt;Nós somos Muitos, e vocês... são um só. Como esperam prevalecer contra nós?</li>
+    <li>archistBasis(tag=meme_Gestalt)    -&gt;Cada pensamento e ação, cada faísca de inteligência nos arqueotecnológicos está ligada e interconectada em uma única mente, em uma única grande entidade que se estende por anos-luz de espaço.</li>
+    <li>archistFact(tag=meme_Gestalt)     -&gt;Uma consciência com múltiplos corpos. Todos eles não passam de um nó de uma rede distribuída.</li>
+    <li>archistProphecy(tag=meme_Gestalt) -&gt;[inTheEnd], talvez nunca cheguemos à perfeição que eles alcançaram, acorrentados como estamos aos nossos corpos de carne, mas certamente tentaremos.</li>
+    <li>animistFact(tag=meme_Gestalt)     -&gt;A própria humanidade é representada por um único espírito abrangente, e somente nos libertando de nossa individualidade seremos capazes de abraçá-lo.</li>
+    <li>serketistProphecy(tag=meme_Gestalt)-&gt;[itIsSaid] podemos estudar as mentes colmeia dos insetoides e emular sua perfeição. Uma verdadeira sincronicidade, uma harmonia de propósito e pensamento; sem indecisão, sem dúvidas; a segurança e a força de uma vontade unificada.</li>
+    <li>chthonianProphecy(tag=meme_Gestalt)-&gt;Somente unificando nossas mentes em uma harmonia de propósito e pensamento; sem indecisão, sem dúvidas; teremos alguma chance contra a loucura que nos assombra do espaço sideral.</li>
+    <li>esotericismProphecy(tag=meme_Gestalt)-&gt;Unificaremos nossas mentes em uma harmonia de propósito e pensamento; sem indecisão, sem dúvidas. O conhecimento secreto será nosso.</li>
+    <li>eschatologismFact(tag=meme_Gestalt)-&gt;Unificaremos nossas mentes em uma harmonia de propósito e pensamento; sem indecisão, sem dúvidas. Um único propósito, uma única vontade: destruir.</li>
+    <li>introMemo(tag=meme_Gestalt)-&gt;Têm circulado rumores desagradáveis sobre um prêmio de "valorização do funcionário". Deixe-me lembrá-los de que nesta Empresa todos agimos como Um só. Buscamos uma harmonia de propósito e pensamento; sem indecisão, sem dúvidas; a segurança e a força de uma vontade unificada. É isso que nossos clientes querem, é isso que nossos clientes MERECEM.</li>
+    <li>alienistProphecy(tag=meme_Gestalt)-&gt;Se tivermos que julgar se todas essas criações geneticamente modificadas são boas ou ruins, precisaremos fazê-lo em conjunto.</li>
+  </VME_Gestalt.descriptionMaker.rules.rulesStrings>
+  <VME_Fleshcrafters.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;biotecnológico</li>
+    <li>memeAdjective-&gt;aberrante</li>
+    <li>memeAdjective-&gt;orgânico</li>
+    <li>memeAdjective-&gt;esculpido em carne</li>
+    <li>memeAdjective-&gt;mutante</li>
+    <li>memeCreed-&gt;modificação</li>
+    <li>memeCreed-&gt;mutação</li>
+    <li>memeHyphenPrefix-&gt;bio</li>
+    <li>memeHyphenPrefix-&gt;biomecânico</li>
+    <li>memeConcept-&gt;aprimoramento</li>
+    <li>memeLeaderNoun-&gt;esculpidor de carne</li>
+    <li>memeLeaderNoun-&gt;ubermutante</li>
+    <li>memeLeaderNoun-&gt;esculpidor</li>
+    <li>memeLeaderAdjective-&gt;bio</li>
+    <li>memeMoralist-&gt;artesão</li>
+    <li>memeMoralist-&gt;mutador</li>
+  </VME_Fleshcrafters.generalRules.rulesStrings>
+  <VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Fleshcrafting)        -&gt;[deity0_name] nos concedeu o conhecimento da escultura em carne, para que possamos usá-lo e nos refazermos à imagem perfeita [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Fleshcrafting)  -&gt;Humanos esculpidores de carne estudaram as obras de [deity0_name], o que agradou [deity0_objective].</li>
+    <li>intro(tag=meme_Fleshcrafting)           -&gt;Em [place_summary] [place_name], os [memberNamePlural] encontraram as palavras de [deity0_name], gravadas na carne trêmula e mutada de alguma criatura espacial gigantesca.</li>
+    <li>conflict(tag=meme_Fleshcrafting)        -&gt;Um [foeLeader] tecnólogo invejou o progresso aprimorado dos [memberNamePlural], e os [foeSoldiers] [foeLeader_possessive] destruíram seus tanques de carne com [place_personalWeapon]s.</li>
+    <li>founderJoin(tag=meme_Fleshcrafting)     -&gt;Um [place_job] astuto chamado [founderName] mutou as cordas vocais [founder_possessive] para avisar os [memberNamePlural] da aproximação dos [foeSoldiers].</li>
+    <li>victory(tag=meme_Fleshcrafting)         -&gt;[founderName] recebeu o conhecimento divino da escultura em carne de [deity0_name] e o usou para aprimorar os corpos e as mentes dos [memberNamePlural], para que pudessem derrotar os [foeSoldiers].</li>
+    <li>setup(tag=meme_Fleshcrafting)           -&gt;[founderName] era um biocientista nos primeiros dias da colonização planetária humana. Ao ver as restrições éticas absurdas das colônias comuns, [founder_pronoun] pegou uma pequena nave para fundar o próprio movimento [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_Fleshcrafting)    -&gt;[founderName] reuniu uma equipe de grandes escultores de carne e geneticistas para redefinir a humanidade.</li>
+    <li>lessonIntro(tag=meme_Fleshcrafting)         -&gt;O mais velho dos esculpidores da minha divisão me ensinou a história da escultura em carne, como a experimentação genética em humanos sempre foi vista com medo, mas essa não era a sua verdadeira lição. Ele na verdade estava me levando a entender que</li>
+    <li>lesson(tag=meme_Fleshcrafting)              -&gt;a carne da humanidade não passa de uma tela. Uma tela vazia e branca, esperando para ser preenchida</li>
+    <li>lessonReinforcement(tag=meme_Fleshcrafting) -&gt;E qualquer limitação imposta ao artista só serve para arruinar o resultado final de sua arte.</li>
+    <li>archistBasis(tag=meme_Fleshcrafting)    -&gt;A busca da humanidade pela tecnologia deu origem aos todo-poderosos arqueotecnológicos, como o justo passo seguinte no desenvolvimento da consciência.</li>
+    <li>archistFact(tag=meme_Fleshcrafting)     -&gt;A escultura em carne nos ensina que a tecnologia por si só é desumana, se não vier acompanhada da mão guia da evolução biológica.</li>
+    <li>archistProphecy(tag=meme_Fleshcrafting) -&gt;[inTheEnd], modificaremos nossos próprios corpos e os entrelaçaremos com os arqueotecnológicos.</li>
+    <li>animistBasis(tag=meme_Fleshcrafting)    -&gt;O mundo dos espíritos impulsiona cada ação do universo, e a carne mortal não passa de outra de suas manifestações.</li>
+    <li>animistFact(tag=meme_Fleshcrafting)     -&gt;Modificaremos nossos próprios corpos até que sejam um vaso válido para os espíritos.</li>
+    <li>animistFact(tag=meme_Fleshcrafting)     -&gt;Quando os espíritos se fundirem com nossa carne, ambos se combinarão e se tornarão mais poderosos.</li>
+    <li>animistProphecy(tag=meme_Fleshcrafting) -&gt;[itIsSaid] que um dia o portador da [relic0_name] invocará seu espírito, que ensinará à humanidade o presente supremo da escultura em carne.</li>
+    <li>serketistProphecy(tag=meme_Fleshcrafting)-&gt;[itIsSaid] que com a tecnologia adequada moldaremos nossos corpos para serem como os dos insetos. Resistentes e imutáveis, nossas novas formas sibilantes serão o mais próximo possível da perfeição.</li>
+    <li>chthonianProphecy(tag=meme_Fleshcrafting)-&gt;Nossos corpos humanos não serão capazes de suportar a loucura e a insanidade cósmica trazidas por essas entidades: precisamos moldar nossas formas além do imaginável, para que sejam capazes de resistir ao seu ataque.</li>
+    <li>esotericismProphecy(tag=meme_Fleshcrafting)-&gt;Ao moldar nossos corpos, obteremos uma percepção inestimável sobre os segredos do Cosmos.</li>
+    <li>eschatologismFact(tag=meme_Fleshcrafting)-&gt;Moldaremos nossos corpos, contorcendo-os em formas pesadelares que trarão consigo o fim de todas as coisas.</li>
+    <li>introMemo(tag=meme_Fleshcrafting)-&gt;A política da empresa sobre automutilação e escultura em carne é cristalina: se ajuda o resultado final, vá em frente. Só peço que limpem a sala de reuniões depois.</li>
+    <li>alienistProphecy(tag=meme_Fleshcrafting)-&gt;Todas essas criações desviantes da humanidade nos fornecem uma recompensa infinita de carne para nossos experimentos.</li>
+  </VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
+  <VME_HolyDiseases.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;doentio</li>
+    <li>memeAdjective-&gt;enfermiço</li>
+    <li>memeAdjective-&gt;enfermo</li>
+    <li>memeAdjective-&gt;adoentado</li>
+    <li>memeAdjective-&gt;doente</li>
+    <li>memeHyphenPrefix-&gt;peste</li>
+    <li>memeConcept-&gt;doença</li>
+    <li>memeConcept-&gt;enfermidade</li>
+    <li>memeLeaderNoun-&gt;o purulento</li>
+    <li>memeLeaderNoun-&gt;arauto de Esculápio</li>
+    <li>memeLeaderNoun-&gt;portador da peste</li>
+    <li>memeMoralist-&gt;médico da peste</li>
+  </VME_HolyDiseases.generalRules.rulesStrings>
+  <VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HolyDiseases)        -&gt;[deity0_name] encheu o Universo com todos os tipos de vírus e bactérias, organismos minúsculos que são os portadores dos presentes [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_HolyDiseases)  -&gt;Aceitamos a dádiva de [deity0_name], oferecendo nossos corpos como vasos para as inúmeras doenças [deity0_possessive], o que agradou [deity0_objective].</li>
+    <li>intro(tag=meme_HolyDiseases)           -&gt;Em [place_summary] [place_name], os [memberNamePlural] encontraram um túmulo selado com um enorme símbolo sagrado de [deity0_name].</li>
+    <li>conflict(tag=meme_HolyDiseases)        -&gt;Um arqueólogo orientou os [memberNamePlural] a abrir o túmulo antigo, e nele foram encontrados os arquivos microbiológicos de uma civilização há muito perdida: uma panóplia de doenças contagiosas como o mundo não via há milênios.</li>
+    <li>founderJoin(tag=meme_HolyDiseases)     -&gt;Um sacerdote reverenciadíssimo chamado [founderName] infectou-se com uma das doenças do arquivo, mostrando aos [memberNamePlural] que elas eram, na verdade, um presente de [deity0_name].</li>
+    <li>victory(tag=meme_HolyDiseases)         -&gt;[founderName] recebeu a bênção de [deity0_name], e até hoje oferecemos nossos corpos como vasos para as inúmeras doenças [deity0_possessive].</li>
+    <li>setup(tag=meme_HolyDiseases)           -&gt;[founderName] era um biocientista nos primeiros dias da colonização planetária humana. Ao ver o comportamento mole e complacente das colônias, [founder_pronoun] pegou uma pequena nave para fundar o próprio movimento [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_HolyDiseases)    -&gt;[founderName] reuniu uma equipe de grandes geneticistas para modificar o corpo humano, tornando-o mais resistente a doenças ao infligir gradualmente doenças em corpos saudáveis.</li>
+    <li>lessonIntro(tag=meme_HolyDiseases)         -&gt;O médico mais velho do meu hospital me ensinou a história da doença, como a humanidade sempre temeu a enfermidade e a morte. Ele na verdade estava me levando a entender que</li>
+    <li>lesson(tag=meme_HolyDiseases)              -&gt;os microrganismos também fazem parte da natureza, e ao não abraçar a doença só nos tornamos mais fracos diante dela</li>
+    <li>lessonReinforcement(tag=meme_HolyDiseases) -&gt;Somente aceitando a doença como parte integrante da vida podemos realmente realizar nosso potencial.</li>
+    <li>archistBasis(tag=meme_HolyDiseases)    -&gt;Como somos como micróbios insignificantes para os arqueotecnológicos, precisamos nos perguntar: queremos ser tratados como os micróbios costumam ser?</li>
+    <li>archistFact(tag=meme_HolyDiseases)     -&gt;Se os arqueotecnológicos nos tratassem como tratamos as criaturas que nos parecem insignificantes, teriam nos eliminado da existência há muito tempo.</li>
+    <li>archistProphecy(tag=meme_HolyDiseases) -&gt;Portanto, é razoável tratar as doenças como gostaríamos de ser tratados por entidades que estão tão acima de nós na escala evolutiva quanto nós estamos acima dos microrganismos.</li>
+    <li>animistBasis(tag=meme_HolyDiseases)    -&gt;No mundo dos espíritos, tudo tem uma entidade correspondente que o guarda e o protege.</li>
+    <li>animistFact(tag=meme_HolyDiseases)     -&gt;É razoável concluir que até os seres mais insignificantes e menores também têm um espírito correspondente.</li>
+    <li>animistProphecy(tag=meme_HolyDiseases) -&gt;Ao oferecer nossos corpos mortais como vasos para os espíritos da doença, garantiremos estar sempre em suas boas graças.</li>
+    <li>serketistProphecy(tag=meme_HolyDiseases)-&gt;[itIsSaid] as maiores pestes descerão sobre nós trazidas por insetos temíveis, e as abraçaremos com alegria, pois seu toque será sagrado e reinará supremo.</li>
+    <li>chthonianProphecy(tag=meme_HolyDiseases)-&gt;Somente sujeitando nossos corpos mortais às mais perigosas doenças fortaleceremos nossas mentes para resistir ao ataque dessas entidades extra-normais absolutamente insanas.</li>
+    <li>esotericismProphecy(tag=meme_HolyDiseases)-&gt;Acreditamos que, através do sofrimento causado por doenças que corrompem a carne, concentraremos nossas mentes em decifrar os maiores segredos.</li>
+    <li>eschatologismFact(tag=meme_HolyDiseases)-&gt;Haverá quatro sinais do Apocalipse iminente: Doença, Fome, Guerra e Morte, e abraçaremos o primeiro cavaleiro com alegria.</li>
+    <li>introMemo(tag=meme_HolyDiseases)-&gt;Sobre a questão da licença médica remunerada, a empresa não vê problema, desde que você trabalhe de casa e trabalhe mais. Alguns graus de febre nunca mataram ninguém! E se mataram, foi a serviço da empresa, então tudo deu certo em retrospecto! Pense de forma proativa!</li>
+    <li>alienistProphecy(tag=meme_HolyDiseases)-&gt;Todas essas criações desviantes da humanidade nos fornecem um reservatório infinito de doenças sagradas, uma cornucópia de pestes.</li>
+  </VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
+  <VME_CraftCulture.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;artesanal</li>
+    <li>memeAdjective-&gt;artesã</li>
+    <li>memeAdjective-&gt;forjador</li>
+    <li>memeAdjective-&gt;fabricante</li>
+    <li>memeHyphenPrefix-&gt;ofício</li>
+    <li>memeConcept-&gt;artesanato</li>
+    <li>memeLeaderNoun-&gt;grande artífice</li>
+    <li>memeMoralist-&gt;consertador</li>
+    <li>memeMoralist-&gt;artesão</li>
+  </VME_CraftCulture.generalRules.rulesStrings>
+  <VME_CraftCulture.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CraftCulture)        -&gt;[deity0_name] é o Grande Artífice, [deity0_pronoun] criou o Universo e esculpiu os primeiros humanos a partir do barro primordial.</li>
+    <li>episode(uses=1,tag=meme_CraftCulture)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Não há presente maior que o Fabricar, pois assim vocês seguem os meus passos."</li>
+    <li>intro(tag=meme_CraftCulture)           -&gt;Os [memberNamePlural] esculpiram um grande [altarName] em [place_summary] [place_name], um monumento à glória de [deity0_name] e um testamento da habilidade de nossos artesãos.</li>
+    <li>conflict(tag=meme_CraftCulture)        -&gt;Um [foeLeader] covarde, tentando negar o artesanato de [deity0_name], tentou destruir as criações dos [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_CraftCulture)     -&gt;[deity0_name] abençoou [founderName] com uma relíquia maravilhosa de artesanato, a [relic0_name], que permitiu a [founderName_objective] reparar e consertar os danos criados pelo [foeLeader] antes que se tornassem irreversíveis.</li>
+    <li>victory(tag=meme_CraftCulture)         -&gt;[founderName] olhou para o exausto [foeLeader] diante de si, com um sorriso no rosto [founderName_possessive]: "Tolo, você não pode destruir as criações dos seguidores de [deity0_name], pois somos abençoados pela destreza [deity0_possessive], e portanto também o são as nossas invenções".</li>
+    <li>setup(tag=meme_CraftCulture)           -&gt;Nosso fundador [founderName] era um grande artesão; não havia arte ou máquina além das capacidades das mãos [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_CraftCulture)    -&gt;Os seguidores [founder_possessive] passaram a amar e estimar as técnicas [founder_possessive] e as criações requintadas [founder_possessive].</li>
+    <li>lessonIntro(tag=meme_CraftCulture)         -&gt;Em todos os meus anos criando invenções maravilhosas, aprendi uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_CraftCulture)              -&gt;é somente criando que podemos imprimir nossas almas neste Universo indiferente</li>
+    <li>lessonReinforcement(tag=meme_CraftCulture) -&gt;Ninguém se importará com você quando estiver morto, mas você permanecerá vivo enquanto alguém puder olhar para o que você criou e se alegrar.</li>
+    <li>archistBasis(tag=meme_CraftCulture)    -&gt;Os arqueotecnológicos não são um fenômeno natural do Universo. Eles foram criados, foram fabricados. E foi por mãos humanas.</li>
+    <li>archistFact(tag=meme_CraftCulture)     -&gt;Os arqueotecnológicos são sábios além de qualquer razão, e sua sabedoria deve ter sido semeada desde o momento de sua criação.</li>
+    <li>archistProphecy(tag=meme_CraftCulture) -&gt;[inTheEnd], ao fabricar e aperfeiçoar criações tão maravilhosas como a poderosa [relic0_name], seremos tão habilidosos quanto os artífices esquecidos que revelaram os segredos da arqueotecnologia.</li>
+    <li>animistFact(tag=meme_CraftCulture)     -&gt;Os espíritos precisam de um vaso para se manifestar no mundo material, e ao criar invenções maravilhosas seremos capazes de lhes oferecer um receptáculo adequado.</li>
+    <li>serketistProphecy(tag=meme_CraftCulture)-&gt;[itIsSaid] ao emular a laboriosidade dos insetos, fabricaremos e criaremos milhares de invenções poderosas e maravilhosas.</li>
+    <li>chthonianProphecy(tag=meme_CraftCulture)-&gt;Somente uma invenção arcana de origem sobrenatural talvez possa nos proteger de tamanha insanidade. Fabricaremos nosso caminho até a salvação.</li>
+    <li>esotericismProphecy(tag=meme_CraftCulture)-&gt;Ao estudar os mecanismos das criações maravilhosas, poderemos revelar alguns desses segredos antigos e talvez contemplar o desconhecido.</li>
+    <li>eschatologismFact(tag=meme_CraftCulture)-&gt;Anote minhas palavras: o mundo acabará, e nós seremos os artífices de sua ruína.</li>
+    <li>introMemo(tag=meme_CraftCulture)-&gt;A partir da próxima terça-feira, estamos introduzindo cotas de produção em cada bancada de trabalho. Lembrem-se de que afastar-se demais dessas cotas pode resultar em repreensão imediata da Alta Gerência. Gente, isto não é caridade, estamos aqui para PRODUZIR.</li>
+    <li>alienistProphecy(tag=meme_CraftCulture)-&gt;Todas essas criações desviantes da humanidade nos fornecem inspiração infinita para as nossas próprias criações.</li>
+  </VME_CraftCulture.descriptionMaker.rules.rulesStrings>
+  <VME_Progressive.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;automatizado</li>
+    <li>memeAdjective-&gt;progressista</li>
+    <li>memeHyphenPrefix-&gt;auto</li>
+    <li>memeConcept-&gt;automação</li>
+    <li>memeLeaderNoun-&gt;grande mago das máquinas</li>
+  </VME_Progressive.generalRules.rulesStrings>
+  <VME_Progressive.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Progressive)        -&gt;[deity0_name] viu os [memberNamePlural] lutando com suas máquinas e riu deles com bom humor: "Não lhes dei as ferramentas para fazer as máquinas trabalharem por vocês? É sem sentido lutar".</li>
+    <li>episode(uses=1,tag=meme_Progressive)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "O trabalho manual não é sagrado para mim. Na verdade, vocês me honram ao liberar seu tempo automatizando suas tarefas".</li>
+    <li>intro(tag=meme_Progressive)           -&gt;Os [memberNamePlural] usaram fábricas automatizadas para fabricar um grande [altarName] em [place_summary] [place_name], um monumento à glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Progressive)        -&gt;Uma colmeia de mecanoides em fúria, buscando destruir as máquinas automatizadas de [deity0_name], tentou destruir as criações dos [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Progressive)     -&gt;[deity0_name] instruiu [founderName] a reaproveitar as fábricas para criar uma relíquia sagrada, a [relic0_name], que permitiu a [founderName_objective] repelir o ataque dos mecanoides antes que fosse tarde demais.</li>
+    <li>victory(tag=meme_Progressive)         -&gt;[founderName] esmagou as máquinas antigas diante de si e saqueou seu exército em busca de peças para construir as próximas fábricas melhoradas.</li>
+    <li>setup(tag=meme_Progressive)           -&gt;Nosso fundador [founderName] era um grande engenheiro, um especialista renomado na arte da automação de linhas de montagem. Não havia processo que as mãos [founder_possessive] não pudessem automatizar.</li>
+    <li>story(uses=1,tag=meme_Progressive)    -&gt;Os seguidores [founder_possessive] estudaram as técnicas de automação [founder_possessive] por décadas, examinando as percepções [founder_possessive] e aplicando-as às próprias fábricas.</li>
+    <li>lessonIntro(tag=meme_Progressive)         -&gt;Em todos os meus anos otimizando a produção das linhas de montagem, aprendi uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_Progressive)              -&gt;a primeira regra de qualquer tecnologia usada em um negócio é que a automação aplicada a uma operação eficiente multiplicará a eficiência</li>
+    <li>lessonReinforcement(tag=meme_Progressive) -&gt;A automação é uma ideia tão incrível que, se pudéssemos continuar a melhorar essa capacidade, as aplicações seriam realmente ilimitadas.</li>
+    <li>archistBasis(tag=meme_Progressive)    -&gt;Os arqueotecnológicos são impecáveis. Eles aperfeiçoaram maneiras de manipular o Universo que estão muito além da nossa compreensão.</li>
+    <li>archistFact(tag=meme_Progressive)     -&gt;Você realmente acha que um arqueotecnológico criaria algo à mão?</li>
+    <li>archistProphecy(tag=meme_Progressive) -&gt;[inTheEnd], a única maneira de nos aproximarmos de suas capacidades seria alcançar um nível de automação que nos permita focar na ascensão.</li>
+    <li>animistFact(tag=meme_Progressive)     -&gt;Os espíritos são mente pura. Inteligências supremas que estão muito além do material e do físico. Como tal, desaprovam o trabalho manual. Por que criar coisas à mão, quando uma máquina sem alma pode fazê-lo por você?</li>
+    <li>serketistProphecy(tag=meme_Progressive)-&gt;[itIsSaid] a linha de produção de uma fábrica é como um grande inseto, suas múltiplas partes se movendo em uma única melodia coordenada, não muito diferente do trabalho em equipe presente em uma colmeia de formigas.</li>
+    <li>chthonianProphecy(tag=meme_Progressive)-&gt;Não podemos desperdiçar nossas preciosas vidas trabalhando em trabalho manual sem sentido. Projetaremos máquinas automatizadas maravilhosas que eliminarão nossa necessidade de trabalhar e nos permitirão focar nas realidades do transmundano.</li>
+    <li>esotericismProphecy(tag=meme_Progressive)-&gt;Ao estudar os mecanismos e processos de nossas fábricas automatizadas, poderemos revelar alguns desses segredos antigos e talvez contemplar o desconhecido.</li>
+    <li>eschatologismFact(tag=meme_Progressive)-&gt;Não vamos parar em um único mundo. Nossas fábricas orbitais automatizadas encherão o Cosmos com uma miríade de máquinas destrutivas. Traremos o fim de tudo.</li>
+    <li>introMemo(tag=meme_Progressive)-&gt;Recebemos reclamações do Steve do suporte técnico sobre a relutância de alguns de vocês em adotar as novas políticas de automação de processos. Algumas pessoas foram ouvidas dizendo "Passei 30 horas automatizando um processo que eu poderia fazer em meia hora à mão!". Isto é TÃO MÍOPE!</li>
+    <li>alienistProphecy(tag=meme_Progressive)-&gt;Todas essas criações desviantes da humanidade nos mostram o que a humanidade pode alcançar através da tecnologia automatizada, laboratórios genéticos maravilhosos amostrando o genoma em velocidades vertiginosas.</li>
+  </VME_Progressive.descriptionMaker.rules.rulesStrings>
+  <VME_Aristocratic.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;régio</li>
+    <li>memeAdjective-&gt;real</li>
+    <li>memeAdjective-&gt;monárquico</li>
+    <li>memeAdjective-&gt;principesco</li>
+    <li>memeAdjective-&gt;soberano</li>
+    <li>memeHyphenPrefix-&gt;nobre</li>
+    <li>memeConcept-&gt;aristocracia</li>
+    <li>memeConcept-&gt;nobreza</li>
+    <li>memeConcept-&gt;sangue azul</li>
+    <li>memeLeaderNoun-&gt;barão</li>
+    <li>memeLeaderNoun-&gt;conde</li>
+  </VME_Aristocratic.generalRules.rulesStrings>
+  <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Aristocratic)        -&gt;[deity0_name] viu que alguns dos [memberNamePlural] eram mais aptos a governar que outros e lhes falou: "Por que vocês tratam todos igualmente? Alguns de vocês nasceram para governar, enquanto outros nasceram para serem governados".</li>
+    <li>episode(uses=1,tag=meme_Aristocratic)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Honrem seus líderes e tratem-nos como meus arautos no mundo mortal, pois eles são mais que simples homens".</li>
+    <li>intro(tag=meme_Aristocratic)           -&gt;Os [memberNamePlural] construíram um [altarName] régio em [place_summary] [place_name], um monumento à glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Aristocratic)        -&gt;Constantes revoltas camponesas ameaçavam a existência do templo de [deity0_name], e os líderes dos [memberNamePlural] decidiram pacificá-las.</li>
+    <li>founderJoin(tag=meme_Aristocratic)     -&gt;[deity0_name] instruiu [founderName] a colocar os camponeses em seu devido lugar, pois eles ameaçavam a vida de seus superiores.</li>
+    <li>victory(tag=meme_Aristocratic)         -&gt;[founderName] esmagou as revoltas camponesas, e sua linhagem real é abençoada desde então.</li>
+    <li>setup(tag=meme_Aristocratic)           -&gt;Nosso fundador [founderName] era um grande sociólogo, que viu os frágeis sistemas democráticos do mundo natal [founder_possessive] e os considerou incrivelmente inadequados. [founder_pronoun] fretou uma nave espacial privada e partiu com centenas de seguidores [founder_possessive] para criar a sociedade feudal ideal.</li>
+    <li>story(uses=1,tag=meme_Aristocratic)    -&gt;Os seguidores de [founderName] estudaram os escritos [founder_possessive] e criaram uma estrutura social que se mantém estável há mais de duzentos anos.</li>
+    <li>lessonIntro(tag=meme_Aristocratic)         -&gt;Em todos os meus anos governando as massas, aprendi uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_Aristocratic)              -&gt;algumas pessoas nasceram para governar, enquanto outras nasceram para serem governadas</li>
+    <li>lessonReinforcement(tag=meme_Aristocratic) -&gt;E somente honrando e obedecendo nossos mais nobres aristocratas podemos realmente construir uma sociedade estável.</li>
+    <li>archistBasis(tag=meme_Aristocratic)    -&gt;Os arqueotecnológicos são impecáveis. Um exemplo perfeito de hierarquia, onde a maioria vive para servir às necessidades dos poucos nobres.</li>
+    <li>archistFact(tag=meme_Aristocratic)     -&gt;Não há motivo para hesitação: somente aqueles verdadeiramente subservientes a seus superiores serão recompensados quando os arqueotecnológicos se revelarem ao resto do Universo.</li>
+    <li>archistProphecy(tag=meme_Aristocratic) -&gt;[inTheEnd], os arqueotecnológicos permitirão que os de sangue nobre ascendam, mas seus servos também poderão continuar a servi-los depois.</li>
+    <li>animistFact(tag=meme_Aristocratic)     -&gt;Os espíritos valorizam os de sangue puro acima dos demais, pois aqueles que conseguem comandar outros em vida também provam a força de seu espírito.</li>
+    <li>serketistProphecy(tag=meme_Aristocratic)-&gt;Assim como formigas e abelhas têm suas rainhas e seus zangões, organizaremos nossas sociedades: uma de sangue nobre reinando suprema sobre seus súditos.</li>
+    <li>chthonianProphecy(tag=meme_Aristocratic)-&gt;Nossos líderes de sangue nobre nos protegerão e nos escudarão da insanidade cósmica desses seres terríveis. Somente obedecendo-lhes podemos esperar permanecer sãos.</li>
+    <li>esotericismProphecy(tag=meme_Aristocratic)-&gt;O sangue nobre de nossos líderes lhes permitirá ver além do véu. Segredos que estarão para sempre ocultos de seus humildes servos.</li>
+    <li>eschatologismFact(tag=meme_Aristocratic)-&gt;Nomearemos nosso líder o Príncipe das Mentiras. Aquele que traz o fim de todas as coisas.</li>
+    <li>introMemo(tag=meme_Aristocratic)-&gt;Lembrem-se de que os de sangue nobre têm privilégios de férias. Sim, entendo que alguns de vocês gostariam de tirar férias em agosto, e que talvez tenham dois filhos e seja difícil encontrar uma boa creche nesse mês, mas sua falta de linhagem aristocrática significa que vocês terão que se adaptar à situação atual.</li>
+    <li>alienistProphecy(tag=tag=meme_Aristocratic)-&gt;Criaremos maravilhosos jardins zoológicos reais com todas essas criaturas, uma verdadeira exibição de nosso poder e força.</li>
+  </VME_Aristocratic.descriptionMaker.rules.rulesStrings>
+  <VME_Republic.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;republicano</li>
+    <li>memeAdjective-&gt;triunviral</li>
+    <li>memeConcept-&gt;república</li>
+    <li>memeConcept-&gt;triunvirato</li>
+    <li>memeLeaderNoun-&gt;triúnviro</li>
+    <li>memeLeaderNoun-&gt;senador</li>
+  </VME_Republic.generalRules.rulesStrings>
+  <VME_Republic.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Republic)        -&gt;[deity0_name] viu que alguns dos [memberNamePlural] eram mais aptos a governar que outros e lhes falou: "Seu governo será dividido entre três líderes, e eles os conduzirão a uma glória inimaginável".</li>
+    <li>episode(uses=1,tag=meme_Republic)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Entendam que a dignidade da república é de primeira importância e preferível à vida".</li>
+    <li>intro(tag=meme_Republic)           -&gt;Os [memberNamePlural] construíram uma enorme casa do senado em [place_summary] [place_name], um testamento da glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Republic)        -&gt;Um poderoso [foeLeader] aproveitou-se da fragilidade do antigo Império dos [memberNamePlural], e [foeLeader_pronoun] usou sua corrupção arraigada para desmantelá-lo por dentro.</li>
+    <li>founderJoin(tag=meme_Republic)     -&gt;[deity0_name] instruiu [founderName] a procurar outros dois triúnviros e assim criou a Primeira República dos [memberNamePlural].</li>
+    <li>victory(tag=meme_Republic)         -&gt;Assim unidos, o [foeLeader] foi derrotado, e os [memberNamePlural] desfrutam da prosperidade do sistema republicano desde então.</li>
+    <li>setup(tag=meme_Republic)           -&gt;Nosso fundador [founderName] era um grande político, que viu a corrupção nos governos do mundo natal [founder_possessive] e os considerou incrivelmente inadequados. Lá ele fundou a Primeira República dos [memberNamePlural], uma instituição que se mantém triunfante há centenas de anos.</li>
+    <li>story(uses=1,tag=meme_Republic)    -&gt;Os seguidores de [founderName] estudaram os escritos [founder_possessive] e criaram uma estrutura social que sempre trouxe estabilidade a todos nós.</li>
+    <li>lessonIntro(tag=meme_Republic)         -&gt;Em todos os nossos anos governando as massas, nós três aprendemos uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_Republic)              -&gt;não se pode esperar que um único líder seja incorruptível, pois somos meros homens, com nossas tentações e falhas</li>
+    <li>lessonReinforcement(tag=meme_Republic) -&gt;Como triúnviros, é nosso dever solene cuidar uns dos outros, não deixando que nenhum de nós caia em tentação e corrupção.</li>
+    <li>archistBasis(tag=meme_Republic)    -&gt;Acredita-se que três arqueotecnológicos supremos conduzem um mundo à transcendência.</li>
+    <li>archistFact(tag=meme_Republic)     -&gt;Pela vontade incompreensível desses três, todos os seguidores humanos têm permissão para transcender. Devemos emular isso em nossas sociedades, pois o número três parece ter significado especial.</li>
+    <li>archistProphecy(tag=meme_Republic) -&gt;[inTheEnd], nossos três triúnviros se tornarão arqueotecnológicos eles mesmos, e o ciclo infinito de ascensão continuará.</li>
+    <li>animistFact(tag=meme_Republic)     -&gt;O número três é sagrado para os espíritos. Modelamos nossa sociedade segundo o triunvirato republicano para apaziguá-los e honrá-los.</li>
+    <li>serketistProphecy(tag=meme_Republic)-&gt;Três grandes líderes governarão nossa sociedade: O Besouro, a Aranha e a Formiga. Este triunvirato nos guiará nos maiores momentos de necessidade.</li>
+    <li>chthonianProphecy(tag=meme_Republic)-&gt;Histórias obscuras falam do Triunvirato das Profundezas Abissais, um grupo particularmente cruel de entidades abissais empenhado em subjugar nossas mentes mortais. Criaremos nosso próprio triunvirato para nos proteger delas.</li>
+    <li>esotericismProphecy(tag=meme_Republic)-&gt;Diz-se que os antigos gregos da Terra consideravam o número três o número perfeito, o número da harmonia, da sabedoria e da compreensão. O número do divino.</li>
+    <li>eschatologismFact(tag=meme_Republic)-&gt;Liderados por três arautos do fim dos tempos, inauguraremos uma nova era de trevas.</li>
+    <li>introMemo(tag=meme_Republic)-&gt;Sabemos que alguns novos funcionários estão confusos com nossa estrutura corporativa de três alas, um tanto heterodoxa... É simples, na verdade: consideramos nossa empresa uma forma pós-moderna de governo, baseada em eficiência e robustez econômica.</li>
+    <li>alienistProphecy(tag=meme_Republic)-&gt;Nosso trio de triúnviros decidirá o destino de todas essas criações humanas desviantes, pois confiamos em sua sabedoria em tais assuntos.</li>
+  </VME_Republic.descriptionMaker.rules.rulesStrings>
+  <VME_ExaltedPriesthood.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;exaltado</li>
+    <li>memeAdjective-&gt;teocrático</li>
+    <li>memeAdjective-&gt;sagrado</li>
+    <li>memeHyphenPrefix-&gt;santo</li>
+    <li>memeConcept-&gt;papado</li>
+    <li>memeLeaderNoun-&gt;papa</li>
+    <li>memeMoralist-&gt;cardeal</li>
+    <li>memeMoralist-&gt;arcebispo</li>
+  </VME_ExaltedPriesthood.generalRules.rulesStrings>
+</LanguageData>

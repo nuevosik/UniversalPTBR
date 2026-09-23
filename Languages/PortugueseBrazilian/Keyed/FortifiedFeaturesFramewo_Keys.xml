@@ -186,8 +186,8 @@
   <FFF_Green>Verde</FFF_Green>
   <FFF_Blue>Azul</FFF_Blue>
   <FFF_BaseBrightness>Brilho base</FFF_BaseBrightness>
-  <FFF_OverlayMultiply> Multiplicar</FFF_OverlayMultiply>
-  <FFF_OverlayDirect> Direto</FFF_OverlayDirect>
+  <FFF_OverlayMultiply>Multiplicar</FFF_OverlayMultiply>
+  <FFF_OverlayDirect>Direto</FFF_OverlayDirect>
   <FFF_OverlayTitle>Sobreposição</FFF_OverlayTitle>
   <FFF_OverlayNone>Sem sobreposição</FFF_OverlayNone>
   <FFF_CopyPaintConfig>Copiar configuração</FFF_CopyPaintConfig>
@@ -418,52 +418,6 @@
   <FFF_RimIgnore_Dbg_ScanFailed>Não foi possível examinar a pasta do mod.</FFF_RimIgnore_Dbg_ScanFailed>
   <FFF_RimIgnore_Dbg_TemplateCreated>Criado {0}</FFF_RimIgnore_Dbg_TemplateCreated>
   <FFF_RimIgnore_Dbg_TemplateFailed>Falha na criação. Veja o console de desenvolvedor para detalhes.</FFF_RimIgnore_Dbg_TemplateFailed>
-  <FFF_RimIgnore_Dbg_NoIgnoreSuffix> (sem {0})</FFF_RimIgnore_Dbg_NoIgnoreSuffix>
-  <FFF_RimIgnore_Template># .rimignore — arquivos e pastas a excluir ao enviar para a Oficina do Steam
-#
-# A sintaxe é idêntica à do .gitignore do GitHub:
-#   #        comentário (\# para um jogo da velha literal)
-#   !xxx     reinclui; regras posteriores substituem as anteriores
-#   /xxx     ancorado à raiz do mod
-#   xxx/     apenas diretórios
-#   *        quaisquer caracteres, mas nunca além de /
-#   ?        um único caractere, mas nunca além de /
-#   [abc]    conjunto de caracteres; [!abc] para negar
-#   **/xxx   em qualquer profundidade; xxx/** para tudo dentro dessa pasta
-#
-# Nota: como no Git, uma vez que um diretório é excluído, seu conteúdo não pode
-# ser reincluído com !.
-# Sempre excluídos por padrão: este arquivo, .git/ .gitignore .gitattributes
-#                             .svn/ .hg/ .vs/ .idea/ .vscode/
-#                             Thumbs.db desktop.ini .DS_Store
-# Essas regras integradas podem ser substituídas com !, por exemplo, !.rimignore também envia este arquivo.
-
-# -- Código-fonte e saída de compilação --
-/_Sources/
-/Source/
-**/obj/
-**/bin/
-*.pdb
-*.csproj.user
-*.sln
-*.suo
-
-# -- Projeto Unity --
-/UnityProject/
-
-# -- Ferramentas de desenvolvimento e atalhos --
-/_Tools/
-*.lnk
-*.bat
-
-# -- Ruído de editores e backups --
-*.orig
-*.rej
-*.bak
-*~
-
-# -- Exemplo: excluir o conteúdo de uma pasta, mas manter um arquivo --
-# Exclua o *conteúdo* em vez da pasta em si, depois reinclua:
-# /Docs/*
-# !/Docs/Manual.md</FFF_RimIgnore_Template>
+  <FFF_RimIgnore_Dbg_NoIgnoreSuffix>(sem {0})</FFF_RimIgnore_Dbg_NoIgnoreSuffix>
+  <FFF_RimIgnore_Template># .rimignore — arquivos e pastas a excluir ao enviar para a Oficina do Steam\n#\n# A sintaxe é idêntica à do .gitignore do GitHub:\n#   #        comentário (\# para um jogo da velha literal)\n#   !xxx     reinclui; regras posteriores substituem as anteriores\n#   /xxx     ancorado à raiz do mod\n#   xxx/     apenas diretórios\n#   *        quaisquer caracteres, mas nunca além de /\n#   ?        um único caractere, mas nunca além de /\n#   [abc]    conjunto de caracteres; [!abc] para negar\n#   **/xxx   em qualquer profundidade; xxx/** para tudo dentro dessa pasta\n#\n# Nota: como no Git, uma vez que um diretório é excluído, seu conteúdo não pode\n# ser reincluído com !.\n# Sempre excluídos por padrão: este arquivo, .git/ .gitignore .gitattributes\n#                             .svn/ .hg/ .vs/ .idea/ .vscode/\n#                             Thumbs.db desktop.ini .DS_Store\n# Essas regras integradas podem ser substituídas com !, por exemplo, !.rimignore também envia este arquivo.\n\n# -- Código-fonte e saída de compilação --\n/_Sources/\n/Source/\n**/obj/\n**/bin/\n*.pdb\n*.csproj.user\n*.sln\n*.suo\n\n# -- Projeto Unity --\n/UnityProject/\n\n# -- Ferramentas de desenvolvimento e atalhos --\n/_Tools/\n*.lnk\n*.bat\n\n# -- Ruído de editores e backups --\n*.orig\n*.rej\n*.bak\n*~\n\n# -- Exemplo: excluir o conteúdo de uma pasta, mas manter um arquivo --\n# Exclua o *conteúdo* em vez da pasta em si, depois reinclua:\n# /Docs/*\n# !/Docs/Manual.md</FFF_RimIgnore_Template>
 </LanguageData>

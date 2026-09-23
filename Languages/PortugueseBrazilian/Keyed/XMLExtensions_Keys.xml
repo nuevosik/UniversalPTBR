@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <XmlExtensions_Label>Extensões XML</XmlExtensions_Label>
+  <XmlExtensions_MoreModSettings>Mais Opções de Mods</XmlExtensions_MoreModSettings>
+  <XmlExtensions_Confirmation>Tem certeza?</XmlExtensions_Confirmation>
+  <XmlExtensions_ResetSettings>Redefinir configurações</XmlExtensions_ResetSettings>
+  <XmlExtensions_EnableStackTrace>Ativar rastreamento de pilha para erros de patch XML</XmlExtensions_EnableStackTrace>
+  <XmlExtensions_StackTraceTip>Melhora o relato de erros quando ativado</XmlExtensions_StackTraceTip>
+  <XmlExtensions_IncludeStandardMods>Exibir configurações de todos os mods</XmlExtensions_IncludeStandardMods>
+  <XmlExtensions_IncludeStandardModsTip>Inclui configurações de mods que não usam o XML Extensions (não dá suporte a configurações criadas via HugsLib)</XmlExtensions_IncludeStandardModsTip>
+  <XmlExtensions_ViewUnusedSettings>Ver configurações não utilizadas</XmlExtensions_ViewUnusedSettings>
+  <XmlExtensions_InactiveMods>Mods atualmente inativos:</XmlExtensions_InactiveMods>
+  <XmlExtensions_NoExtraSettings>Nenhuma configuração extra no momento</XmlExtensions_NoExtraSettings>
+  <XmlExtensions_SelectedModUnusedKeys>Chaves não utilizadas do mod selecionado:</XmlExtensions_SelectedModUnusedKeys>
+  <XmlExtensions_Delete>Excluir</XmlExtensions_Delete>
+  <XmlExtensions_DeleteKeys>Excluir {0} chaves</XmlExtensions_DeleteKeys>
+  <XmlExtensions_ConfirmationResetMod>Tem certeza de que deseja excluir todas as chaves não utilizadas do mod atual?</XmlExtensions_ConfirmationResetMod>
+  <XmlExtensions_DeleteAllUnusedKeys>Excluir todas as {0} chaves não utilizadas</XmlExtensions_DeleteAllUnusedKeys>
+  <XmlExtensions_ConfirmResetAll>Tem certeza de que deseja excluir todas as chaves não utilizadas de todos os mods?</XmlExtensions_ConfirmResetAll>
+  <XmlExtensions_Open>Abrir</XmlExtensions_Open>
+  <XmlExtensions_Apply>Aplicar</XmlExtensions_Apply>
+  <XmlExtensions_ModSettingsFor>Configurações de mod para</XmlExtensions_ModSettingsFor>
+  <XmlExtensions_Unpin>Desafixar mod</XmlExtensions_Unpin>
+  <XmlExtensions_Pin>Fixar mod</XmlExtensions_Pin>
+  <XmlExtensions_HowToPin>Clique com o botão direito em um mod para fixá-lo</XmlExtensions_HowToPin>
+  <XmlExtensions_AddMainButton>Adicionar um botão principal para abrir o menu Mais Opções de Mods</XmlExtensions_AddMainButton>
+  <XmlExtensions_AddMainButtonTip>Adiciona um botão principal que abre o menu Mais Opções de Mods quando clicado</XmlExtensions_AddMainButtonTip>
+  <XmlExtensions_AdvancedDebugging>Ativar modo avançado de depuração de XML? (Ative ao solucionar problemas)</XmlExtensions_AdvancedDebugging>
+  <XmlExtensions_AdvancedDebuggingTip>Ativar esta opção listará possíveis mods que estão causando erros de XML, mas pode afetar seus tempos de carregamento. Recomendado ativar apenas ao tentar resolver conflitos de mods ou solucionar problemas.</XmlExtensions_AdvancedDebuggingTip>
+  <XmlExtensions_DefTypes>Tipo de Def:</XmlExtensions_DefTypes>
+  <XmlExtensions_PatchAnalyzer>Analisador de patches</XmlExtensions_PatchAnalyzer>
+  <XmlExtensions_Defs>Def:</XmlExtensions_Defs>
+  <XmlExtensions_Mods>Mods:</XmlExtensions_Mods>
+  <XmlExtensions_EnableAdvancedDebuggingAndReboot>Inicie o jogo com a Depuração Avançada ativada para usar o Analisador de patches.</XmlExtensions_EnableAdvancedDebuggingAndReboot>
+  <XmlExtensions_PatchedDefs>Defs com patch:</XmlExtensions_PatchedDefs>
+  <XmlExtensions_AppliedPatches>Patches aplicados:</XmlExtensions_AppliedPatches>
+  <XmlExtensions_ByDef>Por Def</XmlExtensions_ByDef>
+  <XmlExtensions_ByDefTip>Ver patches por Def</XmlExtensions_ByDefTip>
+  <XmlExtensions_ByMod>Por Mod</XmlExtensions_ByMod>
+  <XmlExtensions_ByModTip>Ver patches por Mod</XmlExtensions_ByModTip>
+  <XmlExtensions_Mode>Modo:</XmlExtensions_Mode>
+  <XmlExtensions_Summary>Resumo</XmlExtensions_Summary>
+  <XmlExtensions_SummaryTip>Ver um resumo dos patches</XmlExtensions_SummaryTip>
+  <XmlExtensions_TimeTaken>Tempo decorrido:</XmlExtensions_TimeTaken>
+  <XmlExtensions_PatchesApplied>patch(es) aplicado(s)</XmlExtensions_PatchesApplied>
+  <XmlExtensions_DefsPatched>Def(s) com patch</XmlExtensions_DefsPatched>
+  <XmlExtensions_Elapsed>decorrido</XmlExtensions_Elapsed>
+  <XmlExtensions_ShowSettingsButton>Adicionar botão "+" para abrir o menu de configurações do mod XML Extensions?</XmlExtensions_ShowSettingsButton>
+  <XmlExtensions_ShowSettingsButtonTip>Se ativado, um pequeno botão "+" aparecerá ao lado do botão de opções de mods padrão, que abrirá rapidamente este menu alternativo de configurações de mods</XmlExtensions_ShowSettingsButtonTip>
+  <XmlExtensions_R>R</XmlExtensions_R>
+  <XmlExtensions_G>G</XmlExtensions_G>
+  <XmlExtensions_B>B</XmlExtensions_B>
+  <XmlExtensions_SearchResults>{0} resultado(s)</XmlExtensions_SearchResults>
+</LanguageData>

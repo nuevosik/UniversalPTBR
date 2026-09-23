@@ -9,8 +9,8 @@
   <AM.Grapple.FloatMenu.TipEnemy>Use um laço para puxar {1} em direção a {0}.\nIsso não machuca {1}, mas o coloca no alcance corpo a corpo/de execução.</AM.Grapple.FloatMenu.TipEnemy>
   <AM.Exec.FloatMenu>Executar {0}</AM.Exec.FloatMenu>
   <AM.Exec.FloatMenu.Tip>Realize uma animação de execução em {1}.\nResultados possíveis com base na arma, habilidade corpo a corpo, armadura, configurações do mod etc:\n{2}</AM.Exec.FloatMenu.Tip>
-  <AM.Exec.FloatMenu.Walk> (caminhar até o alvo)</AM.Exec.FloatMenu.Walk>
-  <AM.Exec.FloatMenu.Lasso> (laçar)</AM.Exec.FloatMenu.Lasso>
+  <AM.Exec.FloatMenu.Walk>(caminhar até o alvo)</AM.Exec.FloatMenu.Walk>
+  <AM.Exec.FloatMenu.Lasso>(laçar)</AM.Exec.FloatMenu.Lasso>
   <AM.Error.Grapple.Internal>Erro interno: {Error}</AM.Error.Grapple.Internal>
   <AM.Error.Grapple.AlreadyAtTarget>{Target} já está no alcance corpo a corpo</AM.Error.Grapple.AlreadyAtTarget>
   <AM.ProbReport.Kill>Matar</AM.ProbReport.Kill>
@@ -149,7 +149,7 @@
   <AM.AMSettings.Settings.EnemiesCanGrapple>Inimigos podem usar laços</AM.AMSettings.Settings.EnemiesCanGrapple>
   <AM.AMSettings.Settings.EnemiesCanGrapple.Desc>Inimigos podem usar laços (se tiverem algum) para puxar seus colonos para o alcance corpo a corpo?</AM.AMSettings.Settings.EnemiesCanGrapple.Desc>
   <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy>Intervalo médio do laço automático (Inimigos)</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy>
-  <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>Este é o tempo médio, em segundos, no qual colonos inimigos tentarão usar seu laço para puxar um alvo para o alcance corpo a corpo.\nSe a execução deles não estiver em recarga e &apos;Inimigos podem realizar execuções&apos; estiver ativada, eles executarão imediatamente o alvo laçado também.</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>
+  <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>Este é o tempo médio, em segundos, no qual colonos inimigos tentarão usar seu laço para puxar um alvo para o alcance corpo a corpo.\nSe a execução deles não estiver em recarga e 'Inimigos podem realizar execuções' estiver ativada, eles executarão imediatamente o alvo laçado também.</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>
   <AM.AMSettings.Settings.MinMeleeSkillToLasso>Habilidade mínima de corpo a corpo</AM.AMSettings.Settings.MinMeleeSkillToLasso>
   <AM.AMSettings.Settings.MinMeleeSkillToLasso.Desc>A habilidade mínima de corpo a corpo necessária para usar um laço.\nAfeta todos os colonos.</AM.AMSettings.Settings.MinMeleeSkillToLasso.Desc>
   <AM.AMSettings.Settings.MinManipulationToLasso>Manipulação mínima</AM.AMSettings.Settings.MinManipulationToLasso>
@@ -157,11 +157,11 @@
   <AM.AMSettings.Settings.MaxLassoMass>Massa máxima do colono</AM.AMSettings.Settings.MaxLassoMass>
   <AM.AMSettings.Settings.MaxLassoMass.Desc>A massa máxima que um colono pode ter para poder ser laçado. A massa é medida em quilogramas. Você pode verificar a massa dos colonos na aba de estatísticas deles.\nDefina como zero para desativar o limite de massa.</AM.AMSettings.Settings.MaxLassoMass.Desc>
   <AM.AMSettings.Settings.MaxLassoBodySize>Tamanho máximo do colono</AM.AMSettings.Settings.MaxLassoBodySize>
-  <AM.AMSettings.Settings.MaxLassoBodySize.Desc>O &apos;tamanho corporal&apos; máximo que um colono pode ter para poder ser laçado.\nPara referência, alguns exemplos de tamanhos corporais:\n• Galinha: 0.3\n• Humano: 1\n• Bumalope: 2\n• Warg: 3\n• Trumbo: 4\n\n\nDefina como zero para desativar o limite de tamanho corporal.</AM.AMSettings.Settings.MaxLassoBodySize.Desc>
+  <AM.AMSettings.Settings.MaxLassoBodySize.Desc>O 'tamanho corporal' máximo que um colono pode ter para poder ser laçado.\nPara referência, alguns exemplos de tamanhos corporais:\n• Galinha: 0.3\n• Humano: 1\n• Bumalope: 2\n• Warg: 3\n• Trumbo: 4\n\n\nDefina como zero para desativar o limite de tamanho corporal.</AM.AMSettings.Settings.MaxLassoBodySize.Desc>
   <AM.AMSettings.Settings.GrappleSpeed>Velocidade de deslocamento do laço</AM.AMSettings.Settings.GrappleSpeed>
   <AM.AMSettings.Settings.GrappleSpeed.Desc>Ajusta a velocidade &lt;b&gt;(não a recarga)&lt;/b&gt; dos laços, tornando mais rápido ou mais lento enredar e puxar um inimigo.\nValores mais altos tornam o laço mais rápido.\nAfeta todos os colonos.</AM.AMSettings.Settings.GrappleSpeed.Desc>
   <AM.AMSettings.Settings.MaxFillPctForLasso>Preenchimento máximo de construção para arrasto com laço</AM.AMSettings.Settings.MaxFillPctForLasso>
-  <AM.AMSettings.Settings.MaxFillPctForLasso.Desc>A porcentagem máxima de &apos;preenchimento&apos; de uma construção pela qual um colono pode ser arrastado por um laço.\nValores mais baixos significam que os colonos &lt;b&gt;não&lt;/b&gt; podem ser arrastados através/acima de cobertura parcial, como sacos de areia ou seteiras. Um valor de 100% significa que o laço pode puxar colonos através/acima de qualquer coisa, exceto paredes e construções completamente sólidas.</AM.AMSettings.Settings.MaxFillPctForLasso.Desc>
+  <AM.AMSettings.Settings.MaxFillPctForLasso.Desc>A porcentagem máxima de 'preenchimento' de uma construção pela qual um colono pode ser arrastado por um laço.\nValores mais baixos significam que os colonos &lt;b&gt;não&lt;/b&gt; podem ser arrastados através/acima de cobertura parcial, como sacos de areia ou seteiras. Um valor de 100% significa que o laço pode puxar colonos através/acima de qualquer coisa, exceto paredes e construções completamente sólidas.</AM.AMSettings.Settings.MaxFillPctForLasso.Desc>
   <AM.AMSettings.Settings.Header.Executions___Duels>Execuções e Duelos</AM.AMSettings.Settings.Header.Executions___Duels>
   <AM.AMSettings.Settings.EnableExecutions>Ativar execuções</AM.AMSettings.Settings.EnableExecutions>
   <AM.AMSettings.Settings.EnableExecutions.Desc>Ativa ou desativa completamente o sistema de execuções. Desativar isso significa que nenhum colono poderá jamais fazer execuções, e a opção é removida da interface.</AM.AMSettings.Settings.EnableExecutions.Desc>
@@ -182,7 +182,7 @@
   <AM.AMSettings.Settings.ExecutionArmorCoefficient>Força da armadura nas execuções</AM.AMSettings.Settings.ExecutionArmorCoefficient>
   <AM.AMSettings.Settings.ExecutionArmorCoefficient.Desc>Um multiplicador na eficácia da armadura ao calcular o resultado da animação de execução.\nValores mais baixos diminuem o efeito da armadura no resultado; valores mais altos aumentam a força da armadura.\nDefina como 0% para ignorar a armadura.</AM.AMSettings.Settings.ExecutionArmorCoefficient.Desc>
   <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts>Execuções podem destruir partes do corpo</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts>
-  <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>Se ativado, as execuções podem destruir partes vitais específicas do corpo, como o coração ou a cabeça.\nSe desativado, o colono é simplesmente morto por &apos;mágica&apos; (nenhuma parte específica sofre dano)\nObservação: se desativado, a geração do registro de combate não funciona corretamente para a execução e exibirá uma mensagem padrão: &quot;&lt;i&gt;nome morreu.&lt;/i&gt;&quot;</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>
+  <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>Se ativado, as execuções podem destruir partes vitais específicas do corpo, como o coração ou a cabeça.\nSe desativado, o colono é simplesmente morto por 'mágica' (nenhuma parte específica sofre dano)\nObservação: se desativado, a geração do registro de combate não funciona corretamente para a execução e exibirá uma mensagem padrão: "&lt;i&gt;nome morreu.&lt;/i&gt;"</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>
   <AM.AMSettings.Settings.MeleeSkillExecCooldownFactor>Quanto a habilidade afeta a recarga da execução</AM.AMSettings.Settings.MeleeSkillExecCooldownFactor>
   <AM.AMSettings.Settings.MeleeSkillExecCooldownFactor.Desc>O quanto a habilidade corpo a corpo afeta o tempo de recarga da execução.\nHabilidade corpo a corpo mais alta significa menos recarga; alterar este valor aumenta ou diminui o efeito da habilidade corpo a corpo.\nDefina como 0% para desativar a habilidade corpo a corpo como fator.\n\nObservação: afeta apenas colonos aliados.</AM.AMSettings.Settings.MeleeSkillExecCooldownFactor.Desc>
   <AM.AMSettings.Settings.FriendlyExecCooldownFactor>Fator de recarga da execução (Aliados)</AM.AMSettings.Settings.FriendlyExecCooldownFactor>

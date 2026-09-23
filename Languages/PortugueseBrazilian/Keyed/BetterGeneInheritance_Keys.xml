@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BGI_InheritSharedArchite>Genes de arquita compartilhados por ambos os pais são sempre herdados.</BGI_InheritSharedArchite>
+  <BGI_InheritArchite>Genes de arquita são herdáveis.</BGI_InheritArchite>
+  <BGI_InheritXeno>Os xenogenes podem ser herdados junto com os genes de linha germinativa.</BGI_InheritXeno>
+  <BGInheritance>Herança Genética Aprimorada</BGInheritance>
+  <BGI_MetabolismLimit>Metabolismo mínimo permitido</BGI_MetabolismLimit>
+  <BGI_ParentBGeneInheritanceChanceMin>% mín. do segundo progenitor (aleatório)</BGI_ParentBGeneInheritanceChanceMin>
+  <BGI_ParentBGeneInheritanceChanceMax>% máx. do segundo progenitor (aleatório)</BGI_ParentBGeneInheritanceChanceMax>
+  <BGI_ResetSettings>Redefinir para o padrão</BGI_ResetSettings>
+  <BGI_RemoveOverridden>Remover genes substituídos</BGI_RemoveOverridden>
+  <BGI_AllPawnsBinaryInheritance>Fazer TODOS os colonos usarem SOMENTE a lógica de herança binária.</BGI_AllPawnsBinaryInheritance>
+  <BGI_ConsiderOnlyXenoEndo>Buscar diretamente as listas de genes germinativos e xenogenes (compatibilidade)</BGI_ConsiderOnlyXenoEndo>
+</LanguageData>

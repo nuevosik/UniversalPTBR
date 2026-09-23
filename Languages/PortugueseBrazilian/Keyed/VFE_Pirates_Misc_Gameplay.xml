@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <VFEPirates.EntombingWarning>Integrar um colono em uma carcaça de guerra é uma operação permanente que não pode ser revertida sem consequências dolorosas.</VFEPirates.EntombingWarning>
   <VFEM.MissingMaterials>Materiais ausentes: {0}</VFEM.MissingMaterials>
   <VFEP.Occupied>Ocupado</VFEP.Occupied>
@@ -9,13 +8,12 @@
   <VFEP.MessagePawnArrived>{PAWN_nameDef} chegou.</VFEP.MessagePawnArrived>
   <VFEP.RequiresWarcasket>Requer carcaça de guerra</VFEP.RequiresWarcasket>
   <VFEP.ExplodeIn>Explodirá em: {0}</VFEP.ExplodeIn>
-
   <VFEP.ChooseCurses>Selecione suas Maldições</VFEP.ChooseCurses>
   <VFEP.ChooseCurses.Desc>Quanto mais maldições você selecionar, mais colonos seu narrador permitirá que você tenha, e mais raros serão os eventos de grandes ameaças.</VFEP.ChooseCurses.Desc>
   <VFEP.DesiredPopMax>Pop. máx. desejada: {0}</VFEP.DesiredPopMax>
   <VFEP.DaysBigThreats>Dias entre ameaças: {0}</VFEP.DaysBigThreats>
   <VFEP.WarcasketCustom>Customização de Carcaça</VFEP.WarcasketCustom>
-  <VFEP.WarcasketText>Quando você pressionar Aceitar, o fabricante escolhido trará os recursos para a estrutura e começará a montar uma carcaça de guerra. A velocidade da montagem depende da habilidade de fabricação do seu artífice. Assim que o processo for concluído, uma carcaça de guerra sairá da plataforma. Tenha cuidado, pois o colono na plataforma ainda pode morrer de fome - você deve priorizar a montagem da carcaça sobre outras tarefas.</VFEP.WarcasketText>
+  <VFEP.WarcasketText>Quando você pressionar Aceitar, o fabricante escolhido trará os recursos para a estrutura e começará a\nmontar uma carcaça de guerra. A velocidade da montagem depende da habilidade de fabricação do seu artífice.\nAssim que o processo for concluído, uma carcaça de guerra sairá da plataforma. Tenha cuidado, pois o colono\nna plataforma ainda pode morrer de fome - você deve priorizar a\nmontagem da carcaça sobre outras tarefas.</VFEP.WarcasketText>
   <VFEP.WorkAmount>Quantidade de Trabalho:</VFEP.WorkAmount>
   <VFEP.Crafter>Fabricante:</VFEP.Crafter>
   <VFEP.Helmet>Capacete:</VFEP.Helmet>
@@ -30,12 +28,11 @@
   <VFEP.SiegeModeOn>Modo de cerco ligado</VFEP.SiegeModeOn>
   <VFEPirates.CannotEntomb>Não é possível integrar na carcaça: {0}</VFEPirates.CannotEntomb>
   <VFEPirates.EntombInWarcasket>Integrar em carcaça de guerra</VFEPirates.EntombInWarcasket>
-  <VFEP.EntombInIncapableOfViolenceWarning> (Aviso: {PAWN_nameDef} é incapaz de violência, isso o(a) tornará inútil.)</VFEP.EntombInIncapableOfViolenceWarning>
+  <VFEP.EntombInIncapableOfViolenceWarning>(Aviso: {PAWN_nameDef} é incapaz de violência, isso o(a) tornará inútil.)</VFEP.EntombInIncapableOfViolenceWarning>
   <VFEP.ActivateShield>Ativar campo de escudo</VFEP.ActivateShield>
   <VFEP.ActivateShieldDesc>Clique para ativar o campo de escudo. Ele possui 10 segundos de modo ativo e 90 segundos de recarga.</VFEP.ActivateShieldDesc>
   <VFEP.DeployWarDrone>Lança pequenos drones prontos para combate a partir da porta de acoplamento traseira. Esses drones podem ser controlados para fornecer suporte de fogo, mas se autodetonarão após 60 segundos.</VFEP.DeployWarDrone>
   <VFEP.DeploySpidermineDesc>Dispara uma mina-aranha de longo alcance que correrá automaticamente em direção ao inimigo mais próximo, detonando assim que o alcançar.</VFEP.DeploySpidermineDesc>
   <VFEP.Cancel>Cancelar</VFEP.Cancel>
   <VFEP.ChildrenCannotUseThis>Crianças não podem usar isto.</VFEP.ChildrenCannotUseThis>
-
 </LanguageData>

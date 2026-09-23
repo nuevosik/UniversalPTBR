@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <sbz_Fridge.label>geladeira</sbz_Fridge.label>
+  <sbz_Fridge.description>Uma geladeira que pode congelar até 2 itens. Não funciona em temperaturas acima de 100°C.</sbz_Fridge.description>
+  <sbz_LargeFridge.label>geladeira grande</sbz_LargeFridge.label>
+  <sbz_LargeFridge.description>Uma geladeira que pode congelar até 10 itens. Não funciona em temperaturas acima de 100°C.</sbz_LargeFridge.description>
+  <sbz_SingleChestFridge.label>geladeira de baú simples</sbz_SingleChestFridge.label>
+  <sbz_SingleChestFridge.description>Uma geladeira que pode congelar até 3 itens. Não funciona em temperaturas acima de 100°C.</sbz_SingleChestFridge.description>
+  <sbz_DoubleChestFridge.label>geladeira de baú dupla</sbz_DoubleChestFridge.label>
+  <sbz_DoubleChestFridge.description>Uma geladeira que pode congelar até 6 itens. Não funciona em temperaturas acima de 100°C.</sbz_DoubleChestFridge.description>
+  <sbz_SingleWallFridge.label>geladeira de parede simples</sbz_SingleWallFridge.label>
+  <sbz_SingleWallFridge.description>Uma geladeira que pode congelar até 3 itens. Não funciona em temperaturas acima de 100°C. Não consegue sustentar o telhado.</sbz_SingleWallFridge.description>
+  <sbz_DoubleWallFridge.label>geladeira de parede dupla</sbz_DoubleWallFridge.label>
+  <sbz_DoubleWallFridge.description>Uma geladeira que pode congelar até 6 itens. Não funciona em temperaturas acima de 100°C. Não consegue sustentar o telhado.</sbz_DoubleWallFridge.description>
+  <sbz_CorpseFridge.label>geladeira de cadáveres</sbz_CorpseFridge.label>
+  <sbz_CorpseFridge.description>Uma geladeira que pode congelar até 20 cadáveres. Não funciona em temperaturas acima de 100°C.</sbz_CorpseFridge.description>
+</LanguageData>

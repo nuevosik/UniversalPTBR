@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <sbz_CorpseSpot.label>local de despejo de cadáveres</sbz_CorpseSpot.label>
+  <sbz_CorpseSpot.description>Um local que pode armazenar até 12 cadáveres.</sbz_CorpseSpot.description>
+  <sbz_TallCrate.label>caixote alto</sbz_TallCrate.label>
+  <sbz_TallCrate.description>Um caixote alto que pode conter até 24 itens de vários tipos.</sbz_TallCrate.description>
+  <sbz_Crate.label>caixote grande</sbz_Crate.label>
+  <sbz_Crate.description>Um caixote grande que pode conter até 24 itens de vários tipos.</sbz_Crate.description>
+  <sbz_MidCrate.label>caixote</sbz_MidCrate.label>
+  <sbz_MidCrate.description>Um caixote que pode conter até 12 itens de vários tipos.</sbz_MidCrate.description>
+  <sbz_SmallCrate.label>caixote pequeno</sbz_SmallCrate.label>
+  <sbz_SmallCrate.description>Um caixote pequeno que pode conter até 6 itens de vários tipos.</sbz_SmallCrate.description>
+  <sbz_Pallet.label>palete</sbz_Pallet.label>
+  <sbz_Pallet.description>Um palete que pode empilhar até 24 itens de vários tipos.</sbz_Pallet.description>
+  <sbz_MiniPallet.label>palete pequeno</sbz_MiniPallet.label>
+  <sbz_MiniPallet.description>Um palete que pode empilhar até 6 itens de vários tipos.</sbz_MiniPallet.description>
+  <sbz_HalfPallet.label>meio palete</sbz_HalfPallet.label>
+  <sbz_HalfPallet.description>Um palete que pode empilhar até 12 itens de vários tipos.</sbz_HalfPallet.description>
+  <sbz_OpenShelf.label>estante aberta</sbz_OpenShelf.label>
+  <sbz_OpenShelf.description>Uma estante aberta que pode armazenar até 12 itens de vários tipos.</sbz_OpenShelf.description>
+  <sbz_TwoTierDisplayShelf.label>estante de exposição de 2 níveis</sbz_TwoTierDisplayShelf.label>
+  <sbz_TwoTierDisplayShelf.description>Uma estante de exposição de 2 níveis que pode armazenar até 12 itens de vários tipos.</sbz_TwoTierDisplayShelf.description>
+  <sbz_DisplayShelf.label>estante de exposição</sbz_DisplayShelf.label>
+  <sbz_DisplayShelf.description>Uma estante de exposição que pode armazenar até 6 itens de vários tipos.</sbz_DisplayShelf.description>
+  <sbz_SmallDisplayShelf.label>estante de exposição pequena</sbz_SmallDisplayShelf.label>
+  <sbz_SmallDisplayShelf.description>Uma estante de exposição pequena que pode armazenar até 3 itens de vários tipos.</sbz_SmallDisplayShelf.description>
+  <sbz_TallDisplayShelf.label>estante de exposição alta</sbz_TallDisplayShelf.label>
+  <sbz_TallDisplayShelf.description>Uma estante de exposição alta que pode empilhar até 12 itens de vários tipos.</sbz_TallDisplayShelf.description>
+  <sbz_NarrowTallDisplayShelf.label>estante de exposição alta e estreita</sbz_NarrowTallDisplayShelf.label>
+  <sbz_NarrowTallDisplayShelf.description>Uma estante de exposição alta e estreita que pode empilhar até 6 itens de vários tipos.</sbz_NarrowTallDisplayShelf.description>
+  <sbz_WideHangerShelf.label>arara de roupas</sbz_WideHangerShelf.label>
+  <sbz_WideHangerShelf.description>Uma arara de roupas que pode conter até 8 peças de vestuário.</sbz_WideHangerShelf.description>
+  <sbz_HangerShelf.label>arara de roupas estreita</sbz_HangerShelf.label>
+  <sbz_HangerShelf.description>Uma arara de roupas que pode conter até 4 peças de vestuário.</sbz_HangerShelf.description>
+  <sbz_DisplayCabinet.label>armário de exposição</sbz_DisplayCabinet.label>
+  <sbz_DisplayCabinet.description>Um armário de exposição que pode armazenar até 8 itens de vários tipos.</sbz_DisplayCabinet.description>
+  <sbz_NarrowDisplayCabinet.label>armário de exposição estreito</sbz_NarrowDisplayCabinet.label>
+  <sbz_NarrowDisplayCabinet.description>Um armário de exposição estreito que pode armazenar até 4 itens de vários tipos.</sbz_NarrowDisplayCabinet.description>
+  <sbz_DisplayTable.label>vitrine</sbz_DisplayTable.label>
+  <sbz_DisplayTable.description>Uma vitrine que pode exibir até 1 item.</sbz_DisplayTable.description>
+  <sbz_RoundPedestal.label>pedestal redondo</sbz_RoundPedestal.label>
+  <sbz_RoundPedestal.description>Um pedestal redondo que pode exibir até 1 item.</sbz_RoundPedestal.description>
+  <sbz_MeatHook.label>gancho de carne</sbz_MeatHook.label>
+  <sbz_MeatHook.description>Um gancho de carne que pode pendurar até 12 peças de carne ou cadáveres.</sbz_MeatHook.description>
+  <sbz_TextileRack.label>suporte de tecidos</sbz_TextileRack.label>
+  <sbz_TextileRack.description>Um suporte de tecidos que pode conter até 6 tecidos de vários tipos.</sbz_TextileRack.description>
+  <sbz_Safe.label>cofre</sbz_Safe.label>
+  <sbz_Safe.description>O cofre pode conter até 6 itens de vários tipos.</sbz_Safe.description>
+  <sbz_Drum.label>tambor</sbz_Drum.label>
+  <sbz_Drum.description>O tambor pode conter até 6 itens de vários tipos.</sbz_Drum.description>
+  <sbz_HorizontalWeaponRack.label>porta-armas horizontal</sbz_HorizontalWeaponRack.label>
+  <sbz_HorizontalWeaponRack.description>Um porta-armas horizontal que pode exibir até 12 armas.</sbz_HorizontalWeaponRack.description>
+  <sbz_VerticalWeaponRack.label>porta-armas vertical</sbz_VerticalWeaponRack.label>
+  <sbz_VerticalWeaponRack.description>Um porta-armas vertical que pode exibir até 12 armas.</sbz_VerticalWeaponRack.description>
+  <sbz_WeaponRack.label>porta-armas</sbz_WeaponRack.label>
+  <sbz_WeaponRack.description>Um porta-armas que pode exibir até 6 armas.</sbz_WeaponRack.description>
+</LanguageData>

@@ -218,7 +218,7 @@
   <TSA_WD_ProductivityTooltip_MiningIntro>A eficiência de mineração parte do relevo deste bloco (Plano=10%, Colinas pequenas=50%, Colinas grandes=80%, Montanhoso=100%, Intransponível=0%) e então adiciona pontos percentuais fixos dos recursos do bloco do mundo (mutadores) que este mod reconhece.</TSA_WD_ProductivityTooltip_MiningIntro>
   <TSA_WD_ProductivityTooltip_Base>Base: {0}%</TSA_WD_ProductivityTooltip_Base>
   <TSA_WD_ProductivityTooltip_MutatorsHeader>Recursos do bloco do mundo:</TSA_WD_ProductivityTooltip_MutatorsHeader>
-  <TSA_WD_ProductivityTooltip_MutatorLine>  • {0}: {1}</TSA_WD_ProductivityTooltip_MutatorLine>
+  <TSA_WD_ProductivityTooltip_MutatorLine>• {0}: {1}</TSA_WD_ProductivityTooltip_MutatorLine>
   <TSA_WD_ProductivityTooltip_NoMutators>Nenhum modificador de bloco.</TSA_WD_ProductivityTooltip_NoMutators>
   <TSA_WD_ProductivityTooltip_OutpostUpgradesHeader>Melhorias de posto avançado aqui:</TSA_WD_ProductivityTooltip_OutpostUpgradesHeader>
   <TSA_WD_ProductivityTooltip_PollutionLine>Poluição aqui ({0} %): x{1} %</TSA_WD_ProductivityTooltip_PollutionLine>
@@ -715,7 +715,7 @@
   <TSA_WD_Production_EligibleSkillTooltip>Requer pelo menos um colono com {0} ≥ {1}; a produção usa a habilidade {0} total do posto avançado.\nRequer pesquisa: {2}</TSA_WD_Production_EligibleSkillTooltip>
   <TSA_WD_Production_EligibleSkillTooltipNoResearch>Requer pelo menos um colono com {0} ≥ {1}; a produção usa a habilidade {0} total do posto avançado.</TSA_WD_Production_EligibleSkillTooltipNoResearch>
   <TSA_WD_Text_EmDash>—</TSA_WD_Text_EmDash>
-  <TSA_WD_Text_ListJoinAnd> e </TSA_WD_Text_ListJoinAnd>
+  <TSA_WD_Text_ListJoinAnd>e</TSA_WD_Text_ListJoinAnd>
   <TSA_WD_Text_Nothing>nada</TSA_WD_Text_Nothing>
   <TSA_WD_Hunting_AnimalBaseline_Intro>Por habilidade com 100% de eficiência do bloco:</TSA_WD_Hunting_AnimalBaseline_Intro>
   <TSA_WD_Hunting_AnimalBaselineTooltip>Orçamento de {0} de prata por habilidade Animais por entrega. Abater um deste animal ≈ {1} de prata (valor de mercado de carne, couro e lã juntos).\n{2}\nEntrega = base × eficiência do bloco × habilidade Animais atribuída × multiplicador de produção.</TSA_WD_Hunting_AnimalBaselineTooltip>
@@ -723,7 +723,7 @@
   <TSA_WD_Hunting_RowBundleTooltip>{0} — cada entrega inclui todos estes: {1}.\n\n{2}</TSA_WD_Hunting_RowBundleTooltip>
   <TSA_WD_Fishing_RowTooltip>{0}: ~{1} por habilidade Animais neste bloco (antes do multiplicador de produção).</TSA_WD_Fishing_RowTooltip>
   <TSA_WD_Hunting_AnimalBaseline_Outpost>\n\nDef. deste posto avançado: ~{0} dias por ciclo para esse cálculo; (÷30) = {1}.</TSA_WD_Hunting_AnimalBaseline_Outpost>
-  <TSA_WD_Hunting_AnimalBaseline_OutputMult> A produção ×{0} aplica-se às pilhas finais.</TSA_WD_Hunting_AnimalBaseline_OutputMult>
+  <TSA_WD_Hunting_AnimalBaseline_OutputMult>A produção ×{0} aplica-se às pilhas finais.</TSA_WD_Hunting_AnimalBaseline_OutputMult>
   <TSA_WD_Hunting_TileEfficiencyTooltip>Abundância de animais neste bloco: {0}% (0–100%). Mesma pontuação de caça do painel de bioma. Consulte a dica do bioma para a fórmula.</TSA_WD_Hunting_TileEfficiencyTooltip>
   <TSA_WD_Hunting_ProductFormulaTooltip>{0} {1}\n\n= {2} ({3})\n× {4}% ({5})\n× {6} ({7})</TSA_WD_Hunting_ProductFormulaTooltip>
   <TSA_WD_Hunting_FormulaLabel_BaselinePerKill>base por abate</TSA_WD_Hunting_FormulaLabel_BaselinePerKill>
@@ -745,9 +745,9 @@
   <TSA_WD_Production_Formula_UpgradeBonusTip>Bônus de produção de melhoria de posto avançado: +{0}%.</TSA_WD_Production_Formula_UpgradeBonusTip>
   <TSA_WD_Production_Formula_WarehouseBonusTip>Aura de produtividade do armazém: +{0}%.</TSA_WD_Production_Formula_WarehouseBonusTip>
   <TSA_WD_Production_Formula_WarehouseBonusNamedTip>Aura de produtividade do armazém de {1}: +{0}%.</TSA_WD_Production_Formula_WarehouseBonusNamedTip>
-  <TSA_WD_Production_ItemLabel_MinMining> (mín. {0} de Mineração)</TSA_WD_Production_ItemLabel_MinMining>
-  <TSA_WD_Production_ItemLabel_MinPlants> (mín. {0} de Plantas)</TSA_WD_Production_ItemLabel_MinPlants>
-  <TSA_WD_Production_ItemLabel_MinSkill> (mín. {0} {1})</TSA_WD_Production_ItemLabel_MinSkill>
+  <TSA_WD_Production_ItemLabel_MinMining>(mín. {0} de Mineração)</TSA_WD_Production_ItemLabel_MinMining>
+  <TSA_WD_Production_ItemLabel_MinPlants>(mín. {0} de Plantas)</TSA_WD_Production_ItemLabel_MinPlants>
+  <TSA_WD_Production_ItemLabel_MinSkill>(mín. {0} {1})</TSA_WD_Production_ItemLabel_MinSkill>
   <TSA_WD_Production_MiningEfficiency>Eficiência de mineração</TSA_WD_Production_MiningEfficiency>
   <TSA_WD_Production_NextCycle>Isso será produzido no próximo ciclo.</TSA_WD_Production_NextCycle>
   <TSA_WD_Production_NextCycleLabel>Próximo ciclo: {0}</TSA_WD_Production_NextCycleLabel>
@@ -856,11 +856,11 @@
   <TSA_WD_Recruiting_Math_ResultNoPenalty>Colonos resultantes: {0}</TSA_WD_Recruiting_Math_ResultNoPenalty>
   <TSA_WD_Recruiting_Math_None>Nenhum no alcance</TSA_WD_Recruiting_Math_None>
   <TSA_WD_Recruiting_XenotypePoolHeader>Xenótipos de assentamentos próximos:</TSA_WD_Recruiting_XenotypePoolHeader>
-  <TSA_WD_Recruiting_XenotypePoolLine>  - {0}: {1}</TSA_WD_Recruiting_XenotypePoolLine>
+  <TSA_WD_Recruiting_XenotypePoolLine>- {0}: {1}</TSA_WD_Recruiting_XenotypePoolLine>
   <TSA_WD_Recruiting_XenotypePoolTip>Os xenótipos dos colonos recrutados vêm dos parceiros contribuintes no alcance (3 melhores por facção). Expanda esta seção para ver o detalhamento.</TSA_WD_Recruiting_XenotypePoolTip>
   <TSA_WD_Recruiting_PawnKindNone>Colono 100%</TSA_WD_Recruiting_PawnKindNone>
   <TSA_WD_Recruiting_PawnKindPoolHeader>Tipos de colono de assentamentos próximos:</TSA_WD_Recruiting_PawnKindPoolHeader>
-  <TSA_WD_Recruiting_PawnKindPoolLine>  - {0}: {1}</TSA_WD_Recruiting_PawnKindPoolLine>
+  <TSA_WD_Recruiting_PawnKindPoolLine>- {0}: {1}</TSA_WD_Recruiting_PawnKindPoolLine>
   <TSA_WD_Recruiting_PawnKindPoolTip>Os tipos de colono dos recrutados vêm dos parceiros contribuintes no alcance (3 melhores por facção), usando os pesos de tipos de incursão de combate de cada facção (tipos mais baratos com mais frequência). Expanda esta seção para ver o detalhamento.</TSA_WD_Recruiting_PawnKindPoolTip>
   <TSA_WD_Recruiting_Info_ExpectedCount>~{0} {1}</TSA_WD_Recruiting_Info_ExpectedCount>
   <TSA_WD_Recruiting_Math_NeighborConversion>{0} pontos ÷ {1} = {2} recrutas extras</TSA_WD_Recruiting_Math_NeighborConversion>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RG_tab1>Definir pesadas/leves...</RG_tab1>
+  <RG_tab2>Proibir armas...</RG_tab2>
+  <RG_Tabs_Title>Opções avançadas</RG_Tabs_Title>
+  <RG_WeaponForbidder_Title>Proibir o Correr e Atirar para armas</RG_WeaponForbidder_Title>
+  <RG_WeaponForbidder_Description>Selecione as armas para as quais você quer proibir o Correr e Atirar</RG_WeaponForbidder_Description>
+  <RG_Forbid>Proibir</RG_Forbid>
+  <RG_Allow>Permitir</RG_Allow>
+  <RG_AccuracyPenalty_Title>Penalidade de precisão (%)</RG_AccuracyPenalty_Title>
+  <RG_AccuracyPenalty_Description>A penalidade de precisão quando o Correr e Atirar está ativado</RG_AccuracyPenalty_Description>
+  <RG_MovementPenaltyHeavy_Title>Penalidade de movimento para armas pesadas (%)</RG_MovementPenaltyHeavy_Title>
+  <RG_MovementPenaltyHeavy_Description>A penalidade de movimento ao atirar com armas pesadas</RG_MovementPenaltyHeavy_Description>
+  <RG_MovementPenaltyLight_Title>Penalidade de movimento para armas leves (%)</RG_MovementPenaltyLight_Title>
+  <RG_MovementPenaltyLight_Description>A penalidade de movimento ao atirar com armas leves</RG_MovementPenaltyLight_Description>
+  <RG_EnableRGForAI_Title>Ativar o Correr e Atirar para a IA</RG_EnableRGForAI_Title>
+  <RG_EnableRGForAI_Description>Ativa o Correr e Atirar para todos os colonos da IA. Cuidado: isso os torna incrivelmente letais.</RG_EnableRGForAI_Description>
+  <RG_EnableRGForFleeChance_Title>Chance de fugir e atirar (%)</RG_EnableRGForFleeChance_Title>
+  <RG_EnableRGForFleeChance_Description>Chance de colonos inimigos em fuga usarem o Correr e Atirar enquanto fogem</RG_EnableRGForFleeChance_Description>
+  <RG_WeightLimitFilter_Title>Filtrar pesadas/leves por limite de peso</RG_WeightLimitFilter_Title>
+  <RG_WeightLimitFilter_Description>Use o controle deslizante para definir o limite de peso usado pelo filtro. Ao clicar em aplicar, as armas são categorizadas como pesadas ou leves com base nesse limite de peso. Armas pesadas recebem uma penalidade de movimento diferente das armas leves.</RG_WeightLimitFilter_Description>
+  <RG_WeaponSelection_Title>Quais armas são leves/pesadas? \n(usado para a penalidade de movimento)</RG_WeaponSelection_Title>
+  <RG_WeaponSelection_Description>Clique nas armas para configurar se elas devem ser consideradas armas pesadas ou leves quando a penalidade de movimento for aplicada</RG_WeaponSelection_Description>
+  <RG_Button_Apply>Aplicar</RG_Button_Apply>
+  <RG_ConsideredLight>Armas leves</RG_ConsideredLight>
+  <RG_ConsideredHeavy>Armas pesadas</RG_ConsideredHeavy>
+  <RG_Action_Enable_Label>Correr e Atirar</RG_Action_Enable_Label>
+  <RG_Action_Disable_Label>Desativar o Correr e Atirar</RG_Action_Disable_Label>
+  <RG_Action_Disable_Description>Desativa o modo Correr e Atirar</RG_Action_Disable_Description>
+  <RG_Action_Enable_Description>Ativa o Correr e Atirar, um modo no qual os colonos podem atirar enquanto correm. Atirar enquanto corre causa uma penalidade de precisão e de movimento</RG_Action_Enable_Description>
+  <RG_Dialog_CE_Title>Preparar o Correr e Atirar para o Combat Extended</RG_Dialog_CE_Title>
+  <RG_Dialog_CE_Description>Parece que você está usando a versão mais recente do Correr e Atirar junto com o Combat Extended pela primeira vez. O Combat Extended funciona muito bem com o Correr e Atirar, mas não com todas as armas. \nPara a melhor experiência, permita que o Combat Extended defina para quais armas correr e atirar é proibido. Se você já configurou armas proibidas para o Correr e Atirar, sua configuração (apenas dessa opção específica) será sobrescrita.</RG_Dialog_CE_Description>
+  <RG_Dialog_CE_ConfirmButton>Permitir</RG_Dialog_CE_ConfirmButton>
+  <RG_Dialog_CE_DisallowButton>Não permitir</RG_Dialog_CE_DisallowButton>
+</LanguageData>

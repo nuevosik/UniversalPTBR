@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_SweetTeeth)        -&gt;[deity0_name] falou a todos [deity0_possessive] seguidores e disse: "Quem comer deste bolo, que é a minha carne, permanece em mim, e eu nele."</li>
+    <li>episode(uses=1,tag=meme_SweetTeeth)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Olhem o mundo como se fosse um bolo de aniversário gigantesco. Peguem um pedaço, mas não peguem demais."</li>
+    <li>intro(tag=meme_SweetTeeth)           -&gt;Os [memberNamePlural] ergueram um grande [altarName] no(a) [place_summary] [place_name], e o encheram de doces açucarados para servir a qualquer peregrino visitante.</li>
+    <li>conflict(tag=meme_SweetTeeth)        -&gt;Um [foeLeader] severo, querendo negar a vontade de [deity0_name], ordenou a [foeLeader_possessive] [foeSoldiers] que se livrassem de todas as sobremesas deliciosas, pois [foeLeader_pronoun] estava de dieta rigorosa.</li>
+    <li>founderJoin(tag=meme_SweetTeeth)     -&gt;[deity0_name] abençoou um [place_job] chamado [founderName] com [deity0_possessive] apetite e criatividade infindáveis, e [founder_pronoun] criou as maiores criações de confeitaria que alguém já viu.</li>
+    <li>victory(tag=meme_SweetTeeth)         -&gt;[founderName] serviu [founderName_possessive] criações aos [foeSoldiers] e eles ficaram encantados. Até o [foeLeader] se convenceu de sua qualidade sublime, e [foeLeader_pronoun] proclamou a sabedoria da vontade de [deity0_name].</li>
+    <li>setup(tag=meme_SweetTeeth)           -&gt;Nosso fundador [founderName] era confeiteiro, criador das maiores criações de confeitaria que alguém já viu.</li>
+    <li>story(uses=1,tag=meme_SweetTeeth)    -&gt;[founderName] acreditava que [founderName_possessive] arte não era apenas uma ferramenta para alimentar pessoas, mas algo mais profundo, capaz de unir e reconciliar até os maiores inimigos.</li>
+    <li>lessonIntro(tag=meme_SweetTeeth)         -&gt;Trabalho como confeiteiro há muitos e muitos anos, e aprendi que</li>
+    <li>lesson(tag=meme_SweetTeeth)              -&gt;nada neste mundo é melhor que bolo, exceto mais bolo</li>
+    <li>lessonReinforcement(tag=meme_SweetTeeth) -&gt;Obcecado não começa nem a descrever meu amor por bolo. Eu até brigo com criancinhas se for preciso.</li>
+    <li>archistBasis(tag=meme_SweetTeeth)    -&gt;Os arqueotecnológicos nos abençoaram com apetites requintados, para que possamos apreciar os sabores mais doces da vida.</li>
+    <li>archistFact(tag=meme_SweetTeeth)     -&gt;Os arqueotecnológicos não querem que passemos a vida sem nos divertir e sem agradar o paladar.</li>
+    <li>archistProphecy(tag=meme_SweetTeeth) -&gt;[inTheEnd], os arqueotecnológicos nos mostrarão que a transcendência sem se entregar a alguns dos prazeres mais simples é apenas um objetivo vazio.</li>
+    <li>animistFact(tag=meme_SweetTeeth)     -&gt;Os espíritos querem que exploremos nossos sentidos e apreciemos os sabores mais doces da vida. Eles não querem que passemos a vida sem nos divertir e sem agradar o paladar.</li>
+    <li>serketistProphecy(tag=meme_SweetTeeth)-&gt;[itIsSaid] aprenderemos a incorporar a sabedoria deles em nossas próprias receitas culinárias. A geleia de inseto é uma ambrosia que oferece um dos sabores mais doces da natureza.</li>
+    <li>chthonianProphecy(tag=meme_SweetTeeth)-&gt;Não há escapatória, nem alívio. Melhor nos empanturrar de doces deliciosos e aproveitar nossas vidas breves e sórdidas.</li>
+    <li>esotericismProphecy(tag=meme_SweetTeeth)-&gt;Talvez, escondida entre todo o arcano, exista uma receita maravilhosa para uma iguaria de confeitaria de enlouquecer. Sonhar não custa.</li>
+    <li>eschatologismFact(tag=meme_SweetTeeth)-&gt;Cobriremos tudo com um mar de sangue e... bolo. Sim, bolo.</li>
+    <li>introMemo(tag=meme_SweetTeeth)-&gt;Como você sabe, há uma política da empresa de comemorar os aniversários dos colegas trazendo no mínimo 4 doces por assistente. Tivemos que regulamentar isso porque ALGUÉM estava abusando e comendo mais do que sua parte. Você sabe quem é, e deveria se envergonhar.</li>
+  </VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
+  <VME_Angler.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;piscatório</li>
+    <li>memeAdjective-&gt;costeiro</li>
+    <li>memeAdjective-&gt;marítimo</li>
+    <li>memeAdjective-&gt;pesqueiro</li>
+    <li>memeHyphenPrefix-&gt;peixe</li>
+    <li>memeHyphenPrefix-&gt;rio</li>
+    <li>memeHyphenPrefix-&gt;mar</li>
+    <li>memeConcept-&gt;pesca</li>
+  </VME_Angler.generalRules.rulesStrings>
+  <VME_Angler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Anglers)        -&gt;[deity0_name] falou a todos [deity0_possessive] seguidores e lhes disse: "Mais uma vez, o reino dos céus é como uma rede lançada ao mar, que recolhe peixes de toda espécie."</li>
+    <li>episode(uses=1,tag=meme_Anglers)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Sigam-me, e eu os farei pescadores de homens."</li>
+    <li>intro(tag=meme_Anglers)           -&gt;Os [memberNamePlural] ergueram um grande [altarName] no(a) [place_summary] [place_name], e grandes competições de pesca aconteciam ali todos os anos.</li>
+    <li>conflict(tag=meme_Anglers)        -&gt;Um [foeLeader] invejoso, querendo negar a vontade de [deity0_name], ordenou a [foeLeader_possessive] [foeSoldiers] que envenenassem os lagos e mares ao redor do [altarName].</li>
+    <li>founderJoin(tag=meme_Anglers)     -&gt;[deity0_name] abençoou um [place_job] chamado [founderName] com [deity0_possessive] inteligência divina, e [founder_pronoun] construiu um grande purificador de água, e as águas voltaram a fervilhar com milhares de peixes.</li>
+    <li>victory(tag=meme_Anglers)         -&gt;Os [foeSoldiers] e o [foeLeader] foram humilhados e frustrados, e tiveram que deixar os [memberNamePlural] em paz.</li>
+    <li>setup(tag=meme_Anglers)           -&gt;Nosso fundador [founderName] foi o maior pescador que já existiu. Nenhum peixe era grande o bastante para [founderName_objective].</li>
+    <li>story(uses=1,tag=meme_Anglers)    -&gt;[founderName] nos ensinou que a pesca é um estado de espírito. [founderName_pronoun] sempre dizia que o encanto da pesca está em perseguir o que é esquivo, mas alcançável, numa série perpétua de ocasiões de esperança.</li>
+    <li>lessonIntro(tag=meme_Anglers)         -&gt;Passei pescando tanto da minha vida quanto a decência permitiu, e às vezes nem isso me atrapalha. Aprendi que</li>
+    <li>lesson(tag=meme_Anglers)              -&gt;pescar é trabalho duro. Pescar à noite. Chuva. Dia, noite. É preciso ser sábio e esperto. E rápido.</li>
+    <li>lessonReinforcement(tag=meme_Anglers) -&gt;Depois de um dia de pesca, descubro a solução de alguma coisa ou tenho boas ideias que antes não me vinham.</li>
+    <li>archistBasis(tag=meme_Anglers)    -&gt;Os arqueotecnológicos encheram os oceanos e os rios de abundância maravilhosa, acessível a quem tem o conhecimento para aproveitá-la.</li>
+    <li>archistFact(tag=meme_Anglers)     -&gt;Os arqueotecnológicos valorizam a desenvoltura acima de tudo, e devemos aceitar a fartura das águas como seu presente.</li>
+    <li>archistProphecy(tag=meme_Anglers) -&gt;[inTheEnd], os arqueotecnológicos serão os maiores pescadores, e o que pescarem serão os dignos da transcendência.</li>
+    <li>animistFact(tag=meme_Anglers)     -&gt;Os espíritos dos peixes nos oferecem a maior das farturas: a vida fervilhante presente nos rios e oceanos.</li>
+    <li>serketistProphecy(tag=meme_Anglers)-&gt;[itIsSaid] aprenderemos os costumes dos insetos para encontrar alimento sempre que for preciso, aproveitando a maior das farturas: a vida fervilhante presente nos rios e oceanos.</li>
+    <li>chthonianProphecy(tag=meme_Anglers)-&gt;Ph'nglui mglw'nafh [deity0_name] [place_name] wgah'nagl fhtagn.</li>
+    <li>esotericismProphecy(tag=meme_Anglers)-&gt;Discerniremos o que se esconde por trás desses segredos, talvez adivinhando pelas entranhas de peixes mortos.</li>
+    <li>eschatologismFact(tag=meme_Anglers)-&gt;Como os peixes escorregadios que se escondem além das profundezas abissais, atacaremos das sombras e seremos imparáveis.</li>
+    <li>introMemo(tag=meme_Anglers)-&gt;Boas notícias! No sorteio da empresa deste ano incluímos novamente como prêmio uma viagem de pesca de duas semanas, com todas as despesas pagas! Sei que vocês estão tão animados quanto eu, então garantam seus bilhetes o quanto antes!</li>
+  </VME_Angler.descriptionMaker.rules.rulesStrings>
+  <VME_Royal.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;real</li>
+    <li>memeAdjective-&gt;régio</li>
+    <li>memeAdjective-&gt;monárquico</li>
+    <li>memeAdjective-&gt;principesco</li>
+    <li>memeAdjective-&gt;soberano</li>
+    <li>memeHyphenPrefix-&gt;nobre</li>
+    <li>memeConcept-&gt;aristocracia</li>
+    <li>memeConcept-&gt;nobreza</li>
+    <li>memeConcept-&gt;sangue azul</li>
+    <li>memeLeaderNoun-&gt;barão</li>
+    <li>memeLeaderNoun-&gt;conde</li>
+  </VME_Royal.generalRules.rulesStrings>
+  <VME_Royal.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Royal)        -&gt;[deity0_name] viu que alguns dos [memberNamePlural] eram mais aptos a governar que outros, e lhes disse: "Por que tratam todos como iguais? Alguns de vocês nasceram para governar, enquanto outros nasceram para serem governados."</li>
+    <li>episode(uses=1,tag=meme_Royal)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Honrem seus líderes e tratem-nos como meus arautos no mundo mortal, pois eles são mais que meros homens."</li>
+    <li>intro(tag=meme_Royal)           -&gt;Os [memberNamePlural] ergueram um [altarName] majestoso no(a) [place_summary] [place_name], um monumento à glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Royal)        -&gt;Constantes revoltas camponesas ameaçavam a existência do templo de [deity0_name], e os líderes dos [memberNamePlural] decidiram pacificá-las.</li>
+    <li>founderJoin(tag=meme_Royal)     -&gt;[deity0_name] instruiu [founderName] a pôr os camponeses em seu devido lugar, pois eles ameaçavam a vida de seus superiores.</li>
+    <li>victory(tag=meme_Royal)         -&gt;[founderName] esmagou as revoltas camponesas, e sua linhagem real é abençoada desde então.</li>
+    <li>setup(tag=meme_Royal)           -&gt;Nosso fundador [founderName] era um grande sociólogo, que viu os frágeis sistemas democráticos de [founder_possessive] mundo natal e os considerou incrivelmente inadequados. [founder_pronoun] fretou uma nave espacial particular e partiu com centenas de [founder_possessive] seguidores para criar a sociedade feudal ideal.</li>
+    <li>story(uses=1,tag=meme_Royal)    -&gt;Os seguidores de [founderName] estudaram [founder_possessive] escritos e criaram uma estrutura social que se mantém estável há mais de duzentos anos.</li>
+    <li>lessonIntro(tag=meme_Royal)         -&gt;Em todos os meus anos governando as massas, aprendi uma lição que se sobrepõe a todas:</li>
+    <li>lesson(tag=meme_Royal)              -&gt;algumas pessoas nascem para governar, enquanto outras nascem para serem governadas</li>
+    <li>lessonReinforcement(tag=meme_Royal) -&gt;E só honrando e obedecendo nossos mais nobres aristocratas podemos de fato construir uma sociedade estável.</li>
+    <li>archistBasis(tag=meme_Royal)    -&gt;Os arqueotecnológicos são impecáveis. Um exemplo perfeito de hierarquia, em que a maioria vive para servir às necessidades de uns poucos nobres.</li>
+    <li>archistFact(tag=meme_Royal)     -&gt;Não há motivo para hesitar: só aqueles verdadeiramente subservientes a seus superiores serão recompensados quando os arqueotecnológicos se revelarem ao resto do Universo.</li>
+    <li>archistProphecy(tag=meme_Royal) -&gt;[inTheEnd], os arqueotecnológicos permitirão que os de sangue nobre ascendam, mas seus servos também poderão servi-los depois.</li>
+    <li>animistFact(tag=meme_Royal)     -&gt;Os espíritos valorizam os de sangue puro acima dos demais, pois quem consegue comandar outros em vida também prova a força de seu espírito.</li>
+    <li>serketistProphecy(tag=meme_Royal)-&gt;Assim como formigas e abelhas têm suas rainhas e seus zangões, organizaremos nossas sociedades: alguém de sangue nobre reinando supremo sobre seus súditos.</li>
+    <li>chthonianProphecy(tag=meme_Royal)-&gt;Nossos líderes de sangue nobre nos protegerão e nos escudarão da insanidade cósmica desses seres terríveis. Só obedecendo a eles podemos esperar manter a sanidade.</li>
+    <li>esotericismProphecy(tag=meme_Royal)-&gt;O sangue nobre de nossos líderes lhes permitirá ver além do véu. Segredos que devem ficar para sempre ocultos de seus humildes servos.</li>
+    <li>eschatologismFact(tag=meme_Royal)-&gt;Chamaremos nosso líder de Príncipe das Mentiras. Aquele que traz o fim de todas as coisas.</li>
+    <li>introMemo(tag=meme_Royal)-&gt;Recentemente, chegou ao meu conhecimento que alguns de vocês andam abusando das licenças reais em benefício próprio. Lembro que consideramos o desvio de verbas da empresa uma infração gravíssima. Lembrem-se: nenhum de nós é nobre se algum de nós age como camponês!</li>
+    <li>alienistProphecy(tag=tag=meme_Royal)-&gt;Criaremos maravilhosos viveiros reais com todas essas criaturas, uma verdadeira demonstração de nosso poder e força.</li>
+  </VME_Royal.descriptionMaker.rules.rulesStrings>
+  <VFEA_Isolationist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;isolado</li>
+    <li>memeAdjective-&gt;oculto</li>
+    <li>memeAdjective-&gt;solitário</li>
+    <li>memeAdjective-&gt;recluso</li>
+    <li>memeAdjective-&gt;excepcional</li>
+    <li>memeAdjective-&gt;superior</li>
+    <li>memeAdjective-&gt;distante</li>
+    <li>memeCreed-&gt;exército</li>
+    <li>memeCreed-&gt;nação</li>
+    <li>memeHyphenPrefix-&gt;oculto</li>
+    <li>memeConcept-&gt;guerra</li>
+    <li>memeConcept-&gt;isolamento</li>
+    <li>memeConcept-&gt;solidão</li>
+    <li>memeLeaderNoun-&gt;general</li>
+    <li>memeLeaderNoun-&gt;comandante</li>
+    <li>memeLeaderNoun-&gt;marechal</li>
+    <li>memeLeaderNoun-&gt;capitão</li>
+    <li>memeLeaderNoun-&gt;sargento</li>
+    <li>memeLeaderNoun-&gt;ditador</li>
+    <li>memeLeaderNoun-&gt;presidente</li>
+    <li>memeLeaderNoun-&gt;líder</li>
+  </VFEA_Isolationist.generalRules.rulesStrings>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Isolationist)        -&gt;O povo do(a) [place_summary] [place_name] brigava sem parar entre si, e [deity0_name] cansou-se da discórdia e ungiu os [memberNamePlural] como os únicos governantes legítimos de todo ser vivo.</li>
+    <li>episode(uses=1,tag=meme_Isolationist)  -&gt;Os fiéis lutaram contra os descrentes, e [deity0_name] disse: "Combatam-nos, em toda parte, pois eles são seus inimigos, e a paz com eles nunca foi uma opção."</li>
+    <li>intro(tag=meme_Isolationist)           -&gt;O povo do(a) [place_summary] [place_name] adorava [deity0_name]. [deity0_pronoun] viu que eles eram talhados para [memeConcept], e determinou que seriam a única facção digna da ascensão.</li>
+    <li>conflict(tag=meme_Isolationist)        -&gt;Um [foeLeader] aprovou uma lei proibindo os [memberNamePlural] de ascender às classes governantes de [place_name]. Por isso, os [memberNamePlural] começaram a conspirar e a criar alianças ocultas e secretas.</li>
+    <li>founderJoin(tag=meme_Isolationist)     -&gt;Um guerreiro chamado [founderName] usou [place_massWeapon] para destruir uma [place_community]. [deity0_name] viu a crueldade de [founderName] e disse a [founder_objective] para levar uma vida de isolamento e sigilo.</li>
+    <li>victory(tag=meme_Isolationist)         -&gt;[founderName] destruiu a capital de [place_name] com [place_massWeapon], matando o [foeLeader]. [founder_pronoun] não assumiu [founder_possessive] lugar como governante de [place_name] — em vez disso, [founderName] se escondeu.</li>
+    <li>setup(tag=meme_Isolationist)           -&gt;[founderName] formou um exército que espalhou [founder_possessive] poder e glória pela terra, colocando aqueles que se recusavam a seguir direito na ponta de [founder_possessive] faca.</li>
+    <li>story(uses=1,tag=meme_Isolationist)    -&gt;[founderName] instruiu todos os forasteiros a lutar até a morte, pois a paz nunca foi uma opção. Quando a primeira cidade se recusou e implorou para se juntar a [founder_objective], [founder_pronoun] usou [place_massWeapon] para matar todos lá dentro.</li>
+    <li>lessonIntro(tag=meme_Isolationist)         -&gt;Olhei para esse [foeLeader], com [foeLeader_possessive] [foeSoldiers] lamentáveis, todo aquele poder deixado em repouso. Tentei convencer [foeLeader_objective] de que</li>
+    <li>lesson(tag=meme_Isolationist)              -&gt;há muito provamos que temos força para atacar das sombras, isolados mas não enfraquecidos</li>
+    <li>lessonReinforcement(tag=meme_Isolationist) -&gt;É por isso que nos orgulhamos de expressar a força de nossos corações com o fio de nossas lâminas e a cabeça de nossos martelos.</li>
+    <li>archistBasis(tag=meme_Isolationist)    -&gt;Foram necessários os humanos mais superiores para criar os arqueotecnológicos. Sendo tão poderosos quanto eles, é justo que nos escondamos nas sombras.</li>
+    <li>archistFact(tag=meme_Isolationist)     -&gt;Os arqueotecnológicos podem nos exterminar sem hesitar — assim como nós devemos exterminar nossos inimigos.</li>
+    <li>archistProphecy(tag=meme_Isolationist) -&gt;Os arqueotecnológicos nunca nos levarão para nos juntar a eles — e nunca devemos dar essa oportunidade a nossos inimigos.</li>
+    <li>animistFact(tag=meme_Isolationist)     -&gt;Espíritos poderosos de [spiritElement] decidem quem é digno de governar e emprestam poder aos seus escolhidos quando eles matam outros.</li>
+    <li>animistProphecy(tag=meme_Isolationist) -&gt;[itIsSaid] que uma nova ordem será criada quando um governante supremo emergir das sombras em um planeta transbordante de sangue e vísceras.</li>
+  </VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
+</LanguageData>

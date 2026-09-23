@@ -2,4 +2,49 @@
 <LanguageData>
   <VFEA_InterrogatePrisoner.label>tentativa de interrogatório</VFEA_InterrogatePrisoner.label>
   <VFEA_Intimidate.label>tentativa de intimidação</VFEA_Intimidate.label>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</li>
+    <li>information-&gt;information</li>
+    <li>information-&gt;knowledge</li>
+    <li>information-&gt;intelligence</li>
+  </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</li>
+    <li>negative-&gt;had no future</li>
+    <li>negative-&gt;had no way to escape</li>
+    <li>negative-&gt;should submit immediately</li>
+    <li>negative-&gt;should forget [RECIPIENT_possessive] aspirations</li>
+    <li>negative-&gt;should submit to the colony</li>
+    <li>negative-&gt;should give up the information</li>
+    <li>threat-&gt;torture</li>
+    <li>threat-&gt;punishment</li>
+    <li>threat-&gt;mutilation</li>
+    <li>threat-&gt;starvation</li>
+    <li>threat-&gt;lifetime incarceration</li>
+    <li>threat-&gt;death</li>
+    <li>threat-&gt;isolation</li>
+    <li>threat-&gt;dismemberment</li>
+    <li>threat-&gt;blunt trauma</li>
+    <li>threat-&gt;lacerations</li>
+    <li>threat-&gt;cannibalism</li>
+    <li>threat-&gt;organ harvesting</li>
+    <li>threat-&gt;long confinement</li>
+    <li>refused-&gt;tried to escape</li>
+    <li>refused-&gt;insulted the colony</li>
+    <li>refused-&gt;resisted submitting</li>
+    <li>refused-&gt;behaved impertinently</li>
+    <li>disillusionment-&gt;should accept [RECIPIENT_possessive] situation</li>
+    <li>disillusionment-&gt;had no hope for another future</li>
+    <li>disillusionment-&gt;would be best off submitting</li>
+    <li>disillusionment-&gt;would not survive on [RECIPIENT_possessive] own</li>
+    <li>disillusionment-&gt;had no option but to submit</li>
+    <li>givein-&gt;give in</li>
+    <li>givein-&gt;submit [RECIPIENT_objective]self</li>
+    <li>givein-&gt;surrender [RECIPIENT_objective]self</li>
+    <li>givein-&gt;yield [RECIPIENT_objective]self</li>
+  </VFEA_Intimidate.logRulesInitiator.rulesStrings>
 </LanguageData>

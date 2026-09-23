@@ -142,7 +142,7 @@
   <VF_RenameVehicleTooltip>Atribuir ou limpar nome.</VF_RenameVehicleTooltip>
   <VF_RecolorTooltip>Pintar veículo ou mudar o padrão.</VF_RecolorTooltip>
   <VF_DoubleClickShuttleTarget>Clique para confirmar o destino</VF_DoubleClickShuttleTarget>
-  <VF_SwapColors>Alterna as cores entre si.\nCor 1 -> Cor 2 -> Cor 3</VF_SwapColors>
+  <VF_SwapColors>Alterna as cores entre si.\n\nCor 1 -> Cor 2 -> Cor 3</VF_SwapColors>
   <VF_StartFishing>Pescar</VF_StartFishing>
   <VF_StartFishingDesc>Coleta peixes da água. A profundidade da água afeta a chance de sucesso.</VF_StartFishingDesc>
   <VF_NoFishermenTooltip>Não há colonos a bordo capazes de pescar.</VF_NoFishermenTooltip>
@@ -454,7 +454,7 @@
   <VF_RateOfFireValue>{0} tiros / minuto</VF_RateOfFireValue>
   <VF_ShotsPerBurst>Tiros por rajada</VF_ShotsPerBurst>
   <VF_ShotGroup>Grupo de Tiro</VF_ShotGroup>
-  <VF_ShotGroupValue>{0} célula{0_multiple ? s : }</VF_ShotGroupValue>
+  <VF_ShotGroupValue>{0} células</VF_ShotGroupValue>
 
   <VF_MainSettings>Principal</VF_MainSettings>
   <VF_ListSearchText>Buscar...</VF_ListSearchText>

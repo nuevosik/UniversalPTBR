@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodAnimations_Title>Animações de Sangue</BloodAnimations_Title>
+  <BloodAnimations_Warning>*Números altos podem afetar o desempenho</BloodAnimations_Warning>
+  <BloodAnimations_BloodMultiplier>Quantidade de partículas de sangue/destroços (Partículas lançadas por dano direto)</BloodAnimations_BloodMultiplier>
+  <BloodAnimations_BleedRate>Quantidade de partículas de sangramento (Sangramento animado com base na taxa de sangramento do colono)</BloodAnimations_BleedRate>
+  <BloodAnimations_BloodTime>Tempo até as partículas desaparecerem</BloodAnimations_BloodTime>
+  <BloodAnimations_FilthMultiplier>Sujeira deixada pelas partículas (Porcentagem de partículas que deixam sujeira de sangue/destroços que exige que os colonos limpem)</BloodAnimations_FilthMultiplier>
+  <BloodAnimations_BulletCasingToggle>Ativar cápsulas de bala (Animação de ejeção de cápsulas ao disparar armas)</BloodAnimations_BulletCasingToggle>
+  <BloodAnimations_BulletCasingFilthToggle>Ativar sujeira deixada por balas (Chance de tiros deixarem sujeira de cápsulas de bala que exige que os colonos limpem)</BloodAnimations_BulletCasingFilthToggle>
+  <BloodAnimations_GroundImpactToggle>Ativar partículas de impacto no solo (Balas que atingem o solo criam torrões de terra lançados)</BloodAnimations_GroundImpactToggle>
+  <BloodAnimations_ResetAll>Redefinir tudo</BloodAnimations_ResetAll>
+</LanguageData>

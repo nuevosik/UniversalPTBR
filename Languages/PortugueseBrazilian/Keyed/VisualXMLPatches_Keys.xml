@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VXP.ModVersion>Versão do mod instalada: {0}</VXP.ModVersion>
+  <VXP.Search>Tipo de patch, nome do mod, xpath, nome do arquivo, atributo</VXP.Search>
+  <VXP.SearchWithoutXmlValues>Tipo de patch, nome do mod, xpath, nome do arquivo, atributo</VXP.SearchWithoutXmlValues>
+  <VXP.SearchWithXmlValues>Tipo de patch, nome do mod, xpath, nome do arquivo, atributo, valor XML</VXP.SearchWithXmlValues>
+  <VXP.IncludeXmlValues>Incluir valores XML</VXP.IncludeXmlValues>
+  <VXP.IncludeXmlValuesTooltip>Quando ativado, as linhas expandidas mostram os valores XML e a busca pode corresponder ao conteúdo dos valores XML. Desative esta opção para a navegação mais rápida em listas grandes de mods.</VXP.IncludeXmlValuesTooltip>
+  <VXP.ExpandAll>Expandir tudo</VXP.ExpandAll>
+  <VXP.CollapseAll>Recolher tudo</VXP.CollapseAll>
+  <VXP.CollapseAllTooltip>Recolhe todos os grupos de mods e detalhes de patch visíveis.</VXP.CollapseAllTooltip>
+  <VXP.ExpandAllTooltip>Expande todos os grupos de mods e detalhes de patch visíveis.</VXP.ExpandAllTooltip>
+  <VXP.XmlValueHidden>Valor XML oculto. Ative 'Incluir valores XML' para exibi-lo ou pesquisá-lo.</VXP.XmlValueHidden>
+  <VXP.FoundPatches>Total de patches aplicados: {0}</VXP.FoundPatches>
+  <VXP.Open>Abrir</VXP.Open>
+  <VXP.FailedPatches>Patches com falha: {0}</VXP.FailedPatches>
+  <VXP.Unknown>(desconhecido)</VXP.Unknown>
+  <VXP.NoImage>sem img</VXP.NoImage>
+  <VXP.Attribute>atributo</VXP.Attribute>
+  <VXP.FileNotFound>Arquivo não encontrado: {0}</VXP.FileNotFound>
+  <VXP.Fail>[FALHA]</VXP.Fail>
+  <VXP.UnknownMod>Mod desconhecido</VXP.UnknownMod>
+  <VXP.NoXPath>(sem xpath)</VXP.NoXPath>
+  <VXP.Mods>mods: {0}</VXP.Mods>
+  <VXP.Operations>operações: {0}</VXP.Operations>
+</LanguageData>

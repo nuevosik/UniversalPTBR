@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <AllowDesignator.label>Allow selection</AllowDesignator.label>
-  <AllowDesignator.description>Unforbid all items in the selected area.\nClick and drag over an area to use.</AllowDesignator.description>
-  <ForbidDesignator.label>Forbid selection</ForbidDesignator.label>
-  <ForbidDesignator.description>Forbid all items in the selected area.\nClick and drag over an area to use.</ForbidDesignator.description>
-  <AllowAllDesignator.label>Allow everything</AllowAllDesignator.label>
-  <AllowAllDesignator.description>Unforbids all forbidden items on the map.\nClick to activate.\n&lt;b&gt;Hold Ctrl/Option&lt;/b&gt; to include buildings.\n&lt;b&gt;Hold Shift&lt;/b&gt; to include skeletons and non-fresh corpses.</AllowAllDesignator.description>
-  <SelectSimilarDesignator.label>Select similar</SelectSimilarDesignator.label>
-  <SelectSimilarDesignator.description>Selects only things similar to those already selected.\n&lt;b&gt;Hold Shift&lt;/b&gt; to pick additional things.\n&lt;b&gt;Hold Alt&lt;/b&gt; to ignore selection limits.</SelectSimilarDesignator.description>
-  <HaulUrgentlyDesignator.label>Haul urgently</HaulUrgentlyDesignator.label>
-  <HaulUrgentlyDesignator.description>Mark things to be hauled as soon as possible. Colonists will delay other work until hauling is complete.\nConfigurable in the Work tab.\n&lt;b&gt;Hold Shift&lt;/b&gt; to interrupt current colonist work.</HaulUrgentlyDesignator.description>
-  <FinishOffDesignator.label>Finish off</FinishOffDesignator.label>
-  <FinishOffDesignator.description>Quickly and painlessly kill downed creatures.\n&lt;b&gt;Hold Shift&lt;/b&gt; to include colonists and allies.</FinishOffDesignator.description>
-  <HarvestFullyGrownDesignator.label>Harvest fully grown</HarvestFullyGrownDesignator.label>
-  <HarvestFullyGrownDesignator.description>Orders the harvesting or chopping crops and trees that are sufficiently grown to yield their maximum amount of resources when gathered.\n&lt;b&gt;Hold Shift&lt;/b&gt; to include only plants.\n&lt;b&gt;Hold Ctrl/Option&lt;/b&gt; to include only trees.</HarvestFullyGrownDesignator.description>
-  <StripMineDesignator.label>Strip mine</StripMineDesignator.label>
-  <StripMineDesignator.description>Lays out mine orders in a grid to maximize the chance to find hidden ores.\n&lt;b&gt;Hold Shift&lt;/b&gt; to show settings window or designate using current settings.</StripMineDesignator.description>
+  <AllowDesignator.label>Permitir seleção</AllowDesignator.label>
+  <AllowDesignator.description>Permite todos os itens proibidos na área selecionada.\nClique e arraste sobre uma área para usar.</AllowDesignator.description>
+  <ForbidDesignator.label>Proibir seleção</ForbidDesignator.label>
+  <ForbidDesignator.description>Proíbe todos os itens na área selecionada.\nClique e arraste sobre uma área para usar.</ForbidDesignator.description>
+  <AllowAllDesignator.label>Permitir tudo</AllowAllDesignator.label>
+  <AllowAllDesignator.description>Permite todos os itens proibidos no mapa.\nClique para ativar.\n&lt;b&gt;Segure Ctrl/Option&lt;/b&gt; para incluir construções.\n&lt;b&gt;Segure Shift&lt;/b&gt; para incluir esqueletos e cadáveres não frescos.</AllowAllDesignator.description>
+  <SelectSimilarDesignator.label>Selecionar semelhantes</SelectSimilarDesignator.label>
+  <SelectSimilarDesignator.description>Seleciona apenas coisas semelhantes às já selecionadas.\n&lt;b&gt;Segure Shift&lt;/b&gt; para escolher coisas adicionais.\n&lt;b&gt;Segure Alt&lt;/b&gt; para ignorar os limites de seleção.</SelectSimilarDesignator.description>
+  <HaulUrgentlyDesignator.label>Transporte urgente</HaulUrgentlyDesignator.label>
+  <HaulUrgentlyDesignator.description>Marca coisas para serem transportadas o quanto antes. Os colonos adiarão outros trabalhos até o transporte terminar.\nConfigurável na aba Trabalho.\n&lt;b&gt;Segure Shift&lt;/b&gt; para interromper o trabalho atual do colono.</HaulUrgentlyDesignator.description>
+  <FinishOffDesignator.label>Rematar</FinishOffDesignator.label>
+  <FinishOffDesignator.description>Mata criaturas caídas de forma rápida e indolor.\n&lt;b&gt;Segure Shift&lt;/b&gt; para incluir colonos e aliados.</FinishOffDesignator.description>
+  <HarvestFullyGrownDesignator.label>Colher plantas totalmente crescidas</HarvestFullyGrownDesignator.label>
+  <HarvestFullyGrownDesignator.description>Ordena a colheita ou o corte de plantações e árvores que estejam crescidas o suficiente para render o máximo de recursos quando coletadas.\n&lt;b&gt;Segure Shift&lt;/b&gt; para incluir apenas plantas.\n&lt;b&gt;Segure Ctrl/Option&lt;/b&gt; para incluir apenas árvores.</HarvestFullyGrownDesignator.description>
+  <StripMineDesignator.label>Mineração em faixa</StripMineDesignator.label>
+  <StripMineDesignator.description>Organiza ordens de mineração em uma grade para maximizar a chance de encontrar minérios ocultos.\n&lt;b&gt;Segure Shift&lt;/b&gt; para mostrar a janela de configurações ou designar usando as configurações atuais.</StripMineDesignator.description>
 </LanguageData>

@@ -2,16 +2,43 @@
 <LanguageData>
 
   <VFEM2_NamerDeityVikings.rulePack.rulesStrings>
-    <li>name->[syl][end]</li>
-    <li>name->[syl]'[end]</li>
-    <li>syl->[NorseNames]</li>
-    <li>end->ir</li>
-    <li>end->ur</li>
-    <li>end->on</li>
-    <li>end->gard</li>
-    <li>end->mir</li>
-    <li>end->mund</li>
-    <li>end->thari</li>
+    <li>name-&gt;[syl][end]</li>
+    <li>name-&gt;[syl]'[end]</li>
+    <li>syl-&gt;[NorseNames]</li>
+    <li>end-&gt;ir</li>
+    <li>end-&gt;ur</li>
+    <li>end-&gt;on</li>
+    <li>end-&gt;gard</li>
+    <li>end-&gt;mir</li>
+    <li>end-&gt;mund</li>
+    <li>end-&gt;thari</li>
+    <li>end-&gt;abrei</li>
+    <li>end-&gt;tro</li>
+    <li>end-&gt;ox</li>
+    <li>end-&gt;brin</li>
+    <li>end-&gt;bai</li>
+    <li>end-&gt;bust</li>
+    <li>end-&gt;vast</li>
+    <li>end-&gt;varg</li>
+    <li>end-&gt;vix</li>
+    <li>end-&gt;tor</li>
+    <li>end-&gt;tear</li>
+    <li>end-&gt;cut</li>
+    <li>end-&gt;lop</li>
+    <li>end-&gt;oze</li>
+    <li>end-&gt;ozzle</li>
+    <li>end-&gt;latch</li>
+    <li>end-&gt;lock</li>
+    <li>end-&gt;burn</li>
+    <li>end-&gt;sear</li>
+    <li>end-&gt;shank</li>
+    <li>end-&gt;hurt</li>
+    <li>end-&gt;vash</li>
+    <li>end-&gt;warg</li>
+    <li>end-&gt;wug</li>
+    <li>end-&gt;thot</li>
+    <li>end-&gt;thard</li>
+    <li>end-&gt;thad</li>
   </VFEM2_NamerDeityVikings.rulePack.rulesStrings>
 
   <ArtDescription_Hearth.rulePack.rulesStrings>
@@ -60,11 +87,15 @@
   </VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
 
   <VFEM2_NamerPersonViking.rulePack.rulesStrings>
-    <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
-    <li>r_name->[NorseNames] [NorseNames]berg</li>
-    <li>r_name->[NorseNames] '[AnimalBadass]slayer'</li>
-    <li>r_name->[NorseNames] '[Animal] [Color]'</li>
-    <li>r_name->[NorseNames] do Clã [Animal]</li>
+    <li>r_name(p=2)-&gt;[NorseNames] [NorseNames]son</li>
+    <li>r_name-&gt;[NorseNames] [NorseNames]berg</li>
+    <li>r_name-&gt;[NorseNames] '[AnimalBadass]slayer'</li>
+    <li>r_name-&gt;[NorseNames] '[Animal] [Color]'</li>
+    <li>r_name-&gt;[NorseNames] do Clã [Animal]</li>
+    <li>r_name-&gt;[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+    <li>r_name-&gt;[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+    <li>r_name-&gt;[NorseNames] [NorseNames]-son</li>
+    <li>r_name-&gt;[NorseNames] '[NorseNames]son' of [Animal] clan</li>
   </VFEM2_NamerPersonViking.rulePack.rulesStrings>
 
   <VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
@@ -75,20 +106,36 @@
   </VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
 
   <VFEM2_NamerSettlementViking.rulePack.rulesStrings>
-    <li>r_name->[townname_wordgen]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
-    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
-    <li>townendevil->vast</li>
-    <li>townendevil->varg</li>
-    <li>townendevil->tor</li>
-    <li>townendevil->gard</li>
-    <li>townendevil->heim</li>
-    <li>townendevil->stad</li>
-    <li>townendevil->borg</li>
-    <li>townendevil->burn</li>
-    <li>townendevil->thad</li>
+    <li>r_name-&gt;[townname_wordgen]</li>
+    <li>townname_wordgen(p=2)-&gt;[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)-&gt;[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)-&gt;[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)-&gt;[SylE][SylE][townendevil]</li>
+    <li>townendevil-&gt;vast</li>
+    <li>townendevil-&gt;varg</li>
+    <li>townendevil-&gt;tor</li>
+    <li>townendevil-&gt;gard</li>
+    <li>townendevil-&gt;heim</li>
+    <li>townendevil-&gt;stad</li>
+    <li>townendevil-&gt;borg</li>
+    <li>townendevil-&gt;burn</li>
+    <li>townendevil-&gt;thad</li>
+    <li>townendevil-&gt;vix</li>
+    <li>townendevil-&gt;tear</li>
+    <li>townendevil-&gt;cut</li>
+    <li>townendevil-&gt;lop</li>
+    <li>townendevil-&gt;oze</li>
+    <li>townendevil-&gt;ozzle</li>
+    <li>townendevil-&gt;latch</li>
+    <li>townendevil-&gt;lock</li>
+    <li>townendevil-&gt;sear</li>
+    <li>townendevil-&gt;shank</li>
+    <li>townendevil-&gt;hurt</li>
+    <li>townendevil-&gt;vash</li>
+    <li>townendevil-&gt;warg</li>
+    <li>townendevil-&gt;wug</li>
+    <li>townendevil-&gt;thot</li>
+    <li>townendevil-&gt;thard</li>
   </VFEM2_NamerSettlementViking.rulePack.rulesStrings>
 
 </LanguageData>

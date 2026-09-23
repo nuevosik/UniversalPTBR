@@ -191,7 +191,7 @@
   <TSA_WD_Dis_LetterCollapsedLabel>Assentamento entrou em colapso!</TSA_WD_Dis_LetterCollapsedLabel>
   <TSA_WD_Dis_LetterCollapsedText>A campanha de desinformação de {0} foi tão eficaz que {1} se dissolveu no caos. Ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Dis_LetterCollapsedText>
   <TSA_WD_Dis_LetterFailedLabel>Desinformação falhou</TSA_WD_Dis_LetterFailedLabel>
-  <TSA_WD_Dis_LetterFailedTextBase>{0} falhou em semear discórdia em {1}. </TSA_WD_Dis_LetterFailedTextBase>
+  <TSA_WD_Dis_LetterFailedTextBase>{0} falhou em semear discórdia em {1}.</TSA_WD_Dis_LetterFailedTextBase>
   <TSA_WD_Dis_LetterSuccessLabel>Desinformação bem-sucedida</TSA_WD_Dis_LetterSuccessLabel>
   <TSA_WD_Dis_LetterSuccessText>{0} reduziu a força de {1} em {2} por meio de boatos e discórdia.</TSA_WD_Dis_LetterSuccessText>
   <TSA_WD_Dis_LogClean>Falhou (fuga limpa)</TSA_WD_Dis_LogClean>
@@ -255,7 +255,7 @@
   <TSA_WD_Sab_HealthImpact>Impacto da saúde no sucesso</TSA_WD_Sab_HealthImpact>
   <TSA_WD_Sab_HealthImpactTooltip>O quanto a saúde do colono afeta o sucesso. Em 100%, um colono com 50% de saúde tem seu peso de sucesso reduzido pela metade.</TSA_WD_Sab_HealthImpactTooltip>
   <TSA_WD_Sab_LetterFailedLabel>Sabotagem falhou</TSA_WD_Sab_LetterFailedLabel>
-  <TSA_WD_Sab_LetterFailedTextBase>{0} falhou na missão em {1}. </TSA_WD_Sab_LetterFailedTextBase>
+  <TSA_WD_Sab_LetterFailedTextBase>{0} falhou na missão em {1}.</TSA_WD_Sab_LetterFailedTextBase>
   <TSA_WD_Sab_LetterObliteratedLabel>Assentamento sabotado!</TSA_WD_Sab_LetterObliteratedLabel>
   <TSA_WD_Sab_LetterObliteratedText>{0} destruiu {1}. Ruínas permanecem por um tempo e bloqueiam novos assentamentos nas proximidades.</TSA_WD_Sab_LetterObliteratedText>
   <TSA_WD_Sab_LetterSuccessLabel>Sabotagem bem-sucedida</TSA_WD_Sab_LetterSuccessLabel>

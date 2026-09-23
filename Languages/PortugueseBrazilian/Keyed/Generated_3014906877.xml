@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VVE_AccelerationHigh>Aceleração: alto preceito</VVE_AccelerationHigh>
   <VVE_AccelerationSundayDriver>Aceleração: preceito do motorista de domingo</VVE_AccelerationSundayDriver>
@@ -17,8 +17,7 @@
   <VVE_Reload>Recarregar {0} com {AMMO_label}</VVE_Reload>
   <VVE_RestoreWreck>Restaurar destroços</VVE_RestoreWreck>
   <VVE_RestoreWreckDesc>Entregue os componentes necessários do veículo para restaurar completamente este destroço, transformando-o em um veículo funcional.</VVE_RestoreWreckDesc>
-  <VVE_StatsReport_AccelerationRate>Taxa de aceleração: {0}
-Velocidade atual: {1} c/s</VVE_StatsReport_AccelerationRate>
+  <VVE_StatsReport_AccelerationRate>Taxa de aceleração: {0}\nVelocidade atual: {1} c/s</VVE_StatsReport_AccelerationRate>
   <VVE_Tier0>Camada 0</VVE_Tier0>
   <VVE_Tier0Desc>Os veículos de nível 0 são os mais básicos e de fácil acesso. Não necessitam de recursos para serem construídos, nem de projetos de pesquisa para serem pesquisados, nem nenhum dos dois.</VVE_Tier0Desc>
   <VVE_Tier1>Camada 1</VVE_Tier1>

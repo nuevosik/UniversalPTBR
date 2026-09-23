@@ -91,17 +91,17 @@
   <SmartFarming.Settings.AutoCutDying>Tentar colher automaticamente plantações moribundas</SmartFarming.Settings.AutoCutDying>
   <SmartFarming.Settings.AutoCutDying.Desc>Se uma plantação morrer de frio, tentar colher automaticamente quaisquer plantações sobreviventes antes que seja tarde demais. Alterar isto requer reiniciar o jogo.</SmartFarming.Settings.AutoCutDying.Desc>
   <SmartFarming.Settings.ProcessedFood.Desc>Quando as zonas de cultivo exibem um rendimento nutricional potencial estimado, ele multiplica a nutrição do alimento cru por este valor. Para referência, uma refeição simples multiplica o valor por 1,8, refeições boas por 1,2 e refeições luxuosas por 1,0.</SmartFarming.Settings.ProcessedFood.Desc>
-  <SmartFarming.Settings.MinTempSlider>Tolerância mínima de temperatura (padrão do mod: {0}, mín.: {1}, máx.: {2}): </SmartFarming.Settings.MinTempSlider>
+  <SmartFarming.Settings.MinTempSlider>Tolerância mínima de temperatura (padrão do mod: {0}, mín.: {1}, máx.: {2}):</SmartFarming.Settings.MinTempSlider>
   <SmartFarming.Settings.MinTemp>Ao prever o clima do primeiro dia de colheita, considere qualquer temperatura abaixo desta inaceitável. As plantas podem morrer a 0 °C, mas geralmente conseguem sobreviver se ficar apenas um pouco abaixo de zero por algumas horas. No entanto, o desvio diário aleatório de temperatura pode reduzir a precisão.</SmartFarming.Settings.MinTemp>
-  <SmartFarming.Settings.PettyJobsSlider>Margem de tarefas miúdas (padrão do mod: {0}, mín.: {1}, máx.: {2}): </SmartFarming.Settings.PettyJobsSlider>
+  <SmartFarming.Settings.PettyJobsSlider>Margem de tarefas miúdas (padrão do mod: {0}, mín.: {1}, máx.: {2}):</SmartFarming.Settings.PettyJobsSlider>
   <SmartFarming.Settings.PettyJobs>Se "sem tarefas miúdas" estiver ativado em uma zona, os colonos não semearão um campo a menos que haja pelo menos esta porcentagem de quadrados vazios para semear. Isso pode ser útil para zonas de pastagem de animais.</SmartFarming.Settings.PettyJobs>
-  <SmartFarming.Inspector.MinHarvestDay>\nPrimeiro dia de colheita: </SmartFarming.Inspector.MinHarvestDay>
+  <SmartFarming.Inspector.MinHarvestDay>\nPrimeiro dia de colheita:</SmartFarming.Inspector.MinHarvestDay>
   <SmartFarming.Inspector.MinHarvestDayFail>\nAs plantas provavelmente morrerão antes da colheita</SmartFarming.Inspector.MinHarvestDayFail>
   <SmartFarming.Inspector.Fertility>\nFertilidade: {0} média / {1} mais fraca</SmartFarming.Inspector.Fertility>
-  <SmartFarming.Inspector.AverageGrowth>\nCrescimento médio: </SmartFarming.Inspector.AverageGrowth>
-  <SmartFarming.Inspector.Yield>\nNutrição potencial: </SmartFarming.Inspector.Yield>
-  <SmartFarming.Inspector.DaysWorth> (equivalente a {0} dias)</SmartFarming.Inspector.DaysWorth>
-  <SmartFarming.Icon.SetAll>Definir zonas como </SmartFarming.Icon.SetAll>
+  <SmartFarming.Inspector.AverageGrowth>\nCrescimento médio:</SmartFarming.Inspector.AverageGrowth>
+  <SmartFarming.Inspector.Yield>\nNutrição potencial:</SmartFarming.Inspector.Yield>
+  <SmartFarming.Inspector.DaysWorth>(equivalente a {0} dias)</SmartFarming.Inspector.DaysWorth>
+  <SmartFarming.Icon.SetAll>Definir zonas como</SmartFarming.Icon.SetAll>
   <SmartFarming.Icon.ConfirmMergeZones>Tem certeza de que deseja mesclar essas zonas? Esta ação não pode ser desfeita.</SmartFarming.Icon.ConfirmMergeZones>
   <ScatteredFlames.Settings.DisableAll>Desative todos esses recursos se você quiser apenas o fogo vanilla com alto desempenho.</ScatteredFlames.Settings.DisableAll>
   <ScatteredFlames.Settings.MultiFlames>Ativar gráficos de múltiplas chamas</ScatteredFlames.Settings.MultiFlames>

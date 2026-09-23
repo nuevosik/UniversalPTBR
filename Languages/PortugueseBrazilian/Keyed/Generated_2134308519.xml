@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VCE_CancelBringingMilk>Cancelar trazer leite</VCE_CancelBringingMilk>
   <VCE_CancelBringingMilkDesc>Cancele levar leite para a prensa de queijo.</VCE_CancelBringingMilkDesc>
@@ -62,7 +62,7 @@
   <VCE_RemoveMilkDesc>Retire o leite da prensa. Isso só pode ser feito antes de você começar a pressioná-lo.</VCE_RemoveMilkDesc>
   <VCE_RemoveSoup>Remover sopa</VCE_RemoveSoup>
   <VCE_RemoveSoupDesc>Retire a sopa da panela. Isso só pode ser feito antes de começar a cozinhar.</VCE_RemoveSoupDesc>
-  <VCE_ResourcePercentage> (preenchido em {0} de {1})</VCE_ResourcePercentage>
+  <VCE_ResourcePercentage>(preenchido em {0} de {1})</VCE_ResourcePercentage>
   <VCE_SelectMilk>Selecione um tipo de leite a ser prensado</VCE_SelectMilk>
   <VCE_SelectSoup>Selecione um tipo de sopa a ser preparada</VCE_SelectSoup>
   <VCE_SoupFailurePower>A sopa estragou devido a uma falha de energia na panela elétrica</VCE_SoupFailurePower>

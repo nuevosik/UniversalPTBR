@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_PsionicNuzzleInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)-&gt;[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [nuzzleadverb] esfregou [INITIATOR_possessive] nariz contra [rubbedpart] de [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)-&gt;esfregou psiquicamente o nariz em</li>
+    <li>nuzzled-&gt;se aconchegou psiquicamente a</li>
+    <li>nuzzleadverb(p=4)-&gt;</li>
+    <li>nuzzleadverb-&gt;gentilmente</li>
+    <li>nuzzleadverb-&gt;encorajadoramente</li>
+    <li>nuzzleadverb-&gt;alegremente</li>
+    <li>nuzzleadverb-&gt;suavemente</li>
+    <li>nuzzleadverb-&gt;solidariamente</li>
+    <li>nuzzleadverb-&gt;levemente</li>
+    <li>nuzzleadverb-&gt;calorosamente</li>
+    <li>nuzzleadverb-&gt;lamentosamente</li>
+    <li>nuzzleadverb-&gt;amorosamente</li>
+    <li>nuzzleadverb-&gt;carinhosamente</li>
+    <li>rubbedpart-&gt;perna</li>
+    <li>rubbedpart-&gt;joelho</li>
+    <li>rubbedpart-&gt;pé</li>
+    <li>rubbedpart-&gt;cotovelo</li>
+    <li>rubbedpart-&gt;quadril</li>
+    <li>rubbedpart-&gt;ombro</li>
+    <li>rubbedpart-&gt;mão</li>
+    <li>rubbedpart-&gt;lado</li>
+    <li>rubbedpart-&gt;braço</li>
+  </AA_PsionicNuzzleInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

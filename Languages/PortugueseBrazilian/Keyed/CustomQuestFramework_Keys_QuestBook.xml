@@ -60,7 +60,7 @@
   <CQF_QuestBook_State_Failed>Falhou</CQF_QuestBook_State_Failed>
   <CQF_QuestBook_State_Skipped>Pulado</CQF_QuestBook_State_Skipped>
   <CQF_QuestBook_StepCompletedLabel>{0} concluída</CQF_QuestBook_StepCompletedLabel>
-  <CQF_QuestBook_StepCompletedText>{0} foi concluída.&#xA;&#xA;{1}</CQF_QuestBook_StepCompletedText>
+  <CQF_QuestBook_StepCompletedText>{0} foi concluída.\n\n{1}</CQF_QuestBook_StepCompletedText>
   <QuestBookDef>Definição do Livro de Missões</QuestBookDef>
   <CQF_QuestBook_BoundQuest>Missão vinculada</CQF_QuestBook_BoundQuest>
   <CQF_QuestBook_NextSteps>Próximas etapas</CQF_QuestBook_NextSteps>

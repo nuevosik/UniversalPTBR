@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_InsectoidSupremacy)        -&gt;O semblante de [deity0_name] é sobrenatural: uma massa movediça de carne coberta de quitina, milhares de pequenos insetos entrando e saindo sem parar de suas placas de armadura."</li>
+    <li>episode(uses=1,tag=meme_InsectoidSupremacy)  -&gt;[deity0_name] ordenou a [deity0_possessive] seguidores: "respeitem e reverenciem os insetoides, pois são meus filhos e foram criados à minha própria imagem".</li>
+    <li>intro(tag=meme_InsectoidSupremacy)           -&gt;No [place_summary] [place_name], os [memberNamePlural] construíram uma grande colmeia humana, um testemunho da glória de [deity0_name].</li>
+    <li>conflict(tag=meme_InsectoidSupremacy)        -&gt;Um [foeLeader] maligno desprezava [foeLeader_possessive] vizinhos e queria voltar aos tempos antigos, quando os homens viviam separados uns dos outros, isolados.</li>
+    <li>founderJoin(tag=meme_InsectoidSupremacy)     -&gt;[founderName], o Escolhido de [deity0_name], ouviu falar da apostasia do [foeLeader] e procurou convencer [foeLeader_objective] do erro de [foeLeader_possessive] modos isolacionistas.</li>
+    <li>victory(tag=meme_InsectoidSupremacy)         -&gt;[founderName] exaltou as virtudes das cidades-enxame de [deity0_name], e o [foeLeader] se convenceu da verdade por trás de [founder_possessive] palavras.</li>
+    <li>setup(tag=meme_InsectoidSupremacy)           -&gt;[founderName] era biólogo em um dos mundos brilhantes. [founder_pronoun] passou a [founder_possessive] juventude inteira estudando insetoides e chegou à conclusão de que eles são a forma de vida perfeita. Adaptáveis, fortes e resistentes.</li>
+    <li>story(uses=1,tag=meme_InsectoidSupremacy)    -&gt;Buscando continuar [founder_possessive] estudos, [founderName] reuniu uma equipe de cientistas e fretou uma nave para viajar até a Orla, onde [founder_possessive] experimentos não seriam vistos com medo e desconfiança.</li>
+    <li>lessonIntro(tag=meme_InsectoidSupremacy)         -&gt;Meus experimentos com insetoides foram extensos e minuciosos. Após muitos anos de labuta, cheguei à conclusão de que</li>
+    <li>lesson(tag=meme_InsectoidSupremacy)              -&gt;os insetoides são a forma de vida perfeita, o próximo estágio da evolução</li>
+    <li>lessonReinforcement(tag=meme_InsectoidSupremacy) -&gt;Os insetoides são adaptáveis, fortes e resistentes. São simplesmente superiores a nós, humanos, em todos os aspectos.</li>
+    <li>archistBasis(tag=meme_InsectoidSupremacy)    -&gt;Em sua infinita sabedoria, os arqueotecnológicos inspiraram os humanos a bioengenheirar a forma de vida perfeita: os insetoides.</li>
+    <li>archistFact(tag=meme_InsectoidSupremacy)     -&gt;Os insetoides nos mostram que a evolução biológica é apenas mais um passo no caminho para a transcendência.</li>
+    <li>archistProphecy(tag=meme_InsectoidSupremacy) -&gt;[inTheEnd], apenas aqueles que reverenciam devidamente as formas perfeitas dos insetoides serão escolhidos pelos arqueotecnológicos.</li>
+    <li>animistBasis(tag=meme_InsectoidSupremacy)    -&gt;Entre os espíritos animais, os que velam pelos insetoides são os mais poderosos.</li>
+    <li>animistFact(tag=meme_InsectoidSupremacy)     -&gt;Os insetoides são criaturas perfeitas. Adaptáveis, fortes e resistentes. São simplesmente superiores a nós, humanos, em todos os aspectos, e os espíritos que os governam reinam supremos.</li>
+    <li>animistProphecy(tag=meme_InsectoidSupremacy) -&gt;[itIsSaid] apenas aqueles que reverenciam devidamente as formas perfeitas dos insetoides podem realmente apaziguar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_InsectoidSupremacy)-&gt;[itIsSaid] nos tornaremos como insetos perfeitos e sagrados. Quanto a mim, dou as boas-vindas aos nossos novos senhores insetos.</li>
+    <li>chthonianProphecy(tag=meme_InsectoidSupremacy)-&gt;Nada somos para essas entidades abissais, e só fundindo nossos corpos com os dos insetoides mais poderosos podemos ter alguma chance contra elas.</li>
+    <li>esotericismProphecy(tag=meme_InsectoidSupremacy)-&gt;Tal conhecimento oculto pode ser buscado nos misteriosos padrões fractais de uma carapaça insetoide. Eles são a forma de vida perfeita, o próximo estágio da evolução.</li>
+    <li>eschatologismFact(tag=meme_InsectoidSupremacy)-&gt;Como um enxame devorador de insetos famintos, cairemos sobre nossos inimigos e deixaremos apenas seus ossos, desprovidos de carne.</li>
+    <li>introMemo(tag=meme_InsectoidSupremacy)-&gt;A respeito dos constantes relatos sobre baratas na cafeteria, preciso lembrar que as baratas são criaturas vivas, tão dignas de respeito quanto você e eu? Não permitirei mais uma única ligação furtiva para uma empresa de controle de pragas!</li>
+    <li>alienistProphecy(tag=meme_InsectoidSupremacy)-&gt;Entre esses animais geneticamente modificados está a linhagem insetoide desenvolvida em Sorne, que nos trouxe a forma de vida perfeita.</li>
+  </VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
+  <VME_PartyLife.generalRules.rulesStrings>
+    <li>memeCreed-&gt;festa</li>
+    <li>memeAdjective-&gt;festeiro</li>
+    <li>memeAdjective-&gt;dançante</li>
+    <li>memeAdjective-&gt;apreciador</li>
+    <li>memeConcept-&gt;celebração</li>
+    <li>memeConcept-&gt;festividade</li>
+    <li>memeLeaderNoun-&gt;folião</li>
+    <li>memeMoralist-&gt;folião</li>
+  </VME_PartyLife.generalRules.rulesStrings>
+  <VME_PartyLife.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PartyLife)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "Marquem este dia em seus calendários como uma ocasião de folia, pois as celebrações são sagradas para mim."</li>
+    <li>episode(uses=1,tag=meme_PartyLife)  -&gt;Desde aquele dia, celebramos.</li>
+    <li>intro(tag=meme_PartyLife)           -&gt;No [place_summary] [place_name], os [memberNamePlural] construíram um cenário gigantesco. Seria o lugar perfeito para festejar e glorificar [deity0_name].</li>
+    <li>conflict(tag=meme_PartyLife)        -&gt;Os vizinhos, porém, não ficaram contentes com a quantidade de barulho, pois queriam seu repouso tão merecido.</li>
+    <li>founderJoin(tag=meme_PartyLife)     -&gt;[founderName], conhecido como o Grande Folião, não aceitaria nada disso. Descanso é para os fracos! Tragam mais coquetéis!</li>
+    <li>victory(tag=meme_PartyLife)         -&gt;Então eles aumentaram ainda mais o volume da música. A festa continua!</li>
+    <li>setup(tag=meme_PartyLife)           -&gt;[founderName] era um filósofo renomado, com [founder_possessive] nome conhecido por todas as estrelas. [founder_pronoun] afirmava que a vida é curta demais para ser vivida sem se divertir e que só exaltando as virtudes de uma vida de festas se pode alcançar a verdadeira realização.</li>
+    <li>story(uses=1,tag=meme_PartyLife)    -&gt;Infelizmente, [founder_pronoun] foi encontrado morto por overdose alguns anos atrás. Aquela deve ter sido uma festa e tanto!</li>
+    <li>lessonIntro(tag=meme_PartyLife)         -&gt;Escute, escute, chegue mais perto. Ah, cara, que ressaca... Sabe, quero te dizer que</li>
+    <li>lesson(tag=meme_PartyLife)              -&gt;eu adoro sair, adoro festejar. É isso</li>
+    <li>lessonReinforcement(tag=meme_PartyLife) -&gt;Agora cai fora e pare de gritar. Droga, minha pobre cabeça...</li>
+    <li>archistBasis(tag=meme_PartyLife)    -&gt;Você realmente acha que os arqueotecnológicos, em sua infinita sabedoria, se importam com quem não sabe se divertir?</li>
+    <li>archistFact(tag=meme_PartyLife)     -&gt;Os arqueotecnológicos não podem ascender a todos, e é razoável supor que escolherão os mais divertidos e alegres entre nós.</li>
+    <li>archistProphecy(tag=meme_PartyLife) -&gt;[inTheEnd], apenas aqueles que passam a vida festejando em mil devaneios poderão transcender.</li>
+    <li>animistBasis(tag=meme_PartyLife)    -&gt;Os espíritos querem que aproveitemos a vida. Que sentido faz passar pela vida como uma sombra?</li>
+    <li>animistFact(tag=meme_PartyLife)     -&gt;Entre os espíritos, o espírito da alegria e da folia tem sabedoria inigualável. Só ele sabe como se divertir.</li>
+    <li>animistProphecy(tag=meme_PartyLife) -&gt;[itIsSaid] apenas aqueles que passam a vida festejando em mil devaneios podem realmente apaziguar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_PartyLife)-&gt;[itIsSaid] nós festejaremos. Isto... na verdade não tem nada a ver com insetos. Acho que... um besouro provavelmente gostaria de uma cerveja? Sim, fiquemos com isso. De todo modo, já estou bêbado.</li>
+    <li>chthonianProphecy(tag=meme_PartyLife)-&gt;Essas entidades abissais não podem ser combatidas nem derrotadas. Melhor estarmos completamente bêbados se tivermos de encará-las.</li>
+    <li>esotericismProphecy(tag=meme_PartyLife)-&gt;Tal conhecimento oculto não pode ser encarado sóbrio.</li>
+    <li>eschatologismFact(tag=meme_PartyLife)-&gt;O mundo vai queimar, e isso é algo melhor não encarar sóbrio.</li>
+    <li>introMemo(tag=meme_PartyLife)-&gt;Já chegou a nossa época favorita do ano! O exercício obrigatório de integração da empresa será na próxima terça-feira. Não esqueçam de trazer suas raquetes de tênis!</li>
+    <li>alienistProphecy(tag=meme_PartyLife)-&gt;Ouvi dizer que existe até um lagarto estranho que transforma plantas em álcool. Ahh, cara, eu abraçaria esse lagarto agora mesmo.</li>
+  </VME_PartyLife.descriptionMaker.rules.rulesStrings>
+  <VME_Anonymity.generalRules.rulesStrings>
+    <li>memeCreed-&gt;anonimato</li>
+    <li>memeAdjective-&gt;anônimo</li>
+    <li>memeAdjective-&gt;misterioso</li>
+    <li>memeAdjective-&gt;sem nome</li>
+    <li>memeAdjective-&gt;discreto</li>
+    <li>memeConcept-&gt;privacidade</li>
+    <li>memeConcept-&gt;anonimato</li>
+    <li>memeLeaderNoun-&gt;anônimo</li>
+  </VME_Anonymity.generalRules.rulesStrings>
+  <VME_Anonymity.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Anonymity)        -&gt;[deity0_name] não falou a [deity0_possessive] seguidores, apenas os encarou com severidade. Eles entenderam a necessidade do silêncio completo.</li>
+    <li>episode(uses=1,tag=meme_Anonymity)  -&gt;O silêncio absoluto de [deity0_name] foi interpretado como um presságio, e desde então permanecemos em silêncio.</li>
+    <li>intro(tag=meme_Anonymity)           -&gt;No [place_summary] [place_name], os [memberNamePlural] ergueram um templo gigantesco em completo silêncio, um testemunho mudo da vontade de [deity0_name].</li>
+    <li>conflict(tag=meme_Anonymity)        -&gt;Um [foeLeader] maligno desprezava esse silêncio e queria mergulhar o mundo em uma cacofonia multitudinária. [foeLeader_pronoun] queria derrubar o templo e vê-lo queimar.</li>
+    <li>founderJoin(tag=meme_Anonymity)     -&gt;[founderName], o Silencioso, não toleraria tal heresia e cravou uma lâmina envenenada no coração do [foeLeader] na calada da noite.</li>
+    <li>victory(tag=meme_Anonymity)         -&gt;[founderName] não queria nenhum louvor por [founder_possessive] atos, pois [founder_pronoun] só queria ser deixado em paz.</li>
+    <li>setup(tag=meme_Anonymity)           -&gt;Não temos certeza de quem [founderName] realmente foi. Talvez [founder_pronoun] nem tenha existido, e temos apenas uma vaga lembrança de uma espécie de mitologia. De todo modo, atribui-se a [founder_objective] que uma vida solitária de contemplação e isolamento é um fim em si mesma.</li>
+    <li>story(uses=1,tag=meme_Anonymity)    -&gt;O anonimato é um escudo contra a tirania da maioria.</li>
+    <li>lessonIntro(tag=meme_Anonymity)         -&gt;Deixe-me pôr estas palavras no papel, pois transmiti-las a você pela voz é repulsivo:</li>
+    <li>lesson(tag=meme_Anonymity)              -&gt;você só dá valor ao seu anonimato quando não o tem mais</li>
+    <li>lessonReinforcement(tag=meme_Anonymity) -&gt;Querer ser desconhecido, não possuído pelo conhecimento que os outros têm de você. Isso é liberdade.</li>
+    <li>archistBasis(tag=meme_Anonymity)    -&gt;Os arqueotecnológicos são desconhecidos e incognoscíveis, protegidos atrás da máscara suprema: a transcendência.</li>
+    <li>archistFact(tag=meme_Anonymity)     -&gt;Os arqueotecnológicos perguntam: "Qual é o propósito da civilização senão conceder o maior dos dons, o anonimato?".</li>
+    <li>archistProphecy(tag=meme_Anonymity) -&gt;[inTheEnd], apenas aqueles que passam a vida no anonimato poderão transcender.</li>
+    <li>animistBasis(tag=meme_Anonymity)    -&gt;Os espíritos não se importam com nossas identidades sem sentido e prefeririam que permanecêssemos anônimos.</li>
+    <li>animistFact(tag=meme_Anonymity)     -&gt;Eles nos mostram que uma vida solitária de contemplação e isolamento é um fim em si mesma.</li>
+    <li>animistProphecy(tag=meme_Anonymity) -&gt;[itIsSaid] apenas aqueles que passam a vida na solidão e no silêncio podem realmente comungar com os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Anonymity)-&gt;[itIsSaid] desapareceremos no anonimato como miríades de formigas, parte de um todo mas insignificantes por si sós.</li>
+    <li>chthonianProphecy(tag=meme_Anonymity)-&gt;É loucura erguer a voz em desafio a essas entidades; portanto permaneceremos em silêncio, isolados, para não atrair sua atenção indesejada.</li>
+    <li>esotericismProphecy(tag=meme_Anonymity)-&gt;Tal conhecimento oculto só pode ser descoberto por meio de meditação cuidadosa. E talvez descubramos que uma vida solitária de contemplação e isolamento é um fim em si mesma.</li>
+    <li>eschatologismFact(tag=meme_Anonymity)-&gt;O mundo vai queimar, e seremos os anônimos e sem rosto arautos de sua ruína.</li>
+    <li>introMemo(tag=meme_Anonymity)-&gt;Ultimamente tivemos vários casos de pessoas usando "Responder a Todos" nos e-mails da empresa. Lembro que isso é desnecessário e gera confusão.</li>
+    <li>alienistProphecy(tag=meme_Anonymity)-&gt;Os animais não se importam com os humanos. Podemos ser nós mesmos com eles, pois não são tão propensos a julgar quanto os humanos.</li>
+  </VME_Anonymity.descriptionMaker.rules.rulesStrings>
+  <VME_Emancipation.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;emancipador</li>
+    <li>memeAdjective-&gt;libertador</li>
+    <li>memeAdjective-&gt;livre</li>
+    <li>memeAdjective-&gt;independente</li>
+    <li>memeLeaderNoun-&gt;emancipador</li>
+    <li>memeCreed-&gt;emancipação</li>
+    <li>memeHyphenPrefix-&gt;livre</li>
+    <li>memeConcept-&gt;liberdade</li>
+  </VME_Emancipation.generalRules.rulesStrings>
+  <VME_Emancipation.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Emancipation)        -&gt;[deity0_name] nos mostrou que a escravidão é aberrante e deve ser detida a qualquer custo.</li>
+    <li>episode(uses=1,tag=meme_Emancipation)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Aqueles que negam a liberdade aos outros não a merecem para si."</li>
+    <li>intro(tag=meme_Emancipation)           -&gt;No [place_summary] [place_name], começou no [altarRoomLabel] de [deity0_name] uma tradição em que escravos eram libertados e recebiam uma nova chance na vida.</li>
+    <li>conflict(tag=meme_Emancipation)           -&gt;Um [foeLeader] intolerante olhou isso com desprezo, pois [foeLeader_pronoun] era um escravagista que via [foeLeader_possessive] lucros ameaçados.</li>
+    <li>founderJoin(tag=meme_Emancipation)        -&gt;O mais leal seguidor de [deity0_name], [founderName], postou-se diante do [place_powerCenter] e fez um longo e apaixonado discurso sobre a emancipação e os males da escravidão.</li>
+    <li>victory(tag=meme_Emancipation)            -&gt;Mesmo que o [foeLeader] não tenha se convencido pelos argumentos, todos os demais aplaudiram as palavras de [founderName], e [founder_pronoun] passou a ser considerado, desde aquele momento, o porta-voz de [deity0_name].</li>
+    <li>setup(tag=meme_Emancipation)           -&gt;[founderName] nasceu em um mundo urbano opressivo, onde a escravidão era comum. [founder_pronoun] cresceu vendo outros seres humanos serem usados como propriedade, e isso repugnou profundamente [founder_objective].</li>
+    <li>story(uses=1,tag=meme_Emancipation)    -&gt;[founderName] decidiu abolir a escravidão em [founder_possessive] planeta natal e, com [founder_possessive] sucesso, [founder_possessive] filosofia se espalhou pelas estrelas.</li>
+    <li>lessonIntro(tag=meme_Emancipation)         -&gt;A escravidão é roubo -- roubo de uma vida, roubo de trabalho, roubo de qualquer propriedade ou produto, roubo até dos filhos que um escravo poderia ter gerado. É muito importante que você entenda que</li>
+    <li>lesson(tag=meme_Emancipation)              -&gt;a natureza não fez nenhum homem escravo</li>
+    <li>lessonReinforcement(tag=meme_Emancipation) -&gt;Subjugar outro é subjugar a si mesmo.</li>
+    <li>archistBasis(tag=meme_Emancipation)    -&gt;Os arqueotecnológicos são o ápice do desenvolvimento ético. Seres tão sábios e tão avançados que alcançaram a perfeição em seus pensamentos.</li>
+    <li>archistFact(tag=meme_Emancipation)     -&gt;Para um arqueotecnológico, a escravidão é um pecado abominável. Tratar outro humano como um objeto.</li>
+    <li>archistProphecy(tag=meme_Emancipation) -&gt;Só abolindo a escravidão e combatendo-a onde quer que a vejamos podemos nos tornar dignos da transcendência.</li>
+    <li>animistBasis(tag=meme_Emancipation)    -&gt;O próprio conceito de escravidão, de possuir outro ser humano como se fosse um objeto, é incompreensível para os espíritos.</li>
+    <li>animistFact(tag=meme_Emancipation)     -&gt;Para os espíritos, a escravidão não é apenas pecaminosa e errada, mas algo que deve ser combatido ativamente de todas as formas possíveis.</li>
+    <li>animistProphecy(tag=meme_Emancipation) -&gt;[itIsSaid] só abolindo a escravidão e combatendo-a onde quer que a vejamos podemos fazer com que os espíritos realmente nos escutem.</li>
+    <li>serketistProphecy(tag=meme_Emancipation)-&gt;[itIsSaid] formaremos uma sociedade em que nenhum humano possua outro como se fosse um mero objeto. Acolhedora e tolerante, como são todos os insetos.</li>
+    <li>chthonianProphecy(tag=meme_Emancipation)-&gt;Essas entidades abissais não desejariam nada mais do que escravizar a raça humana para cumprir suas ordens.</li>
+    <li>esotericismProphecy(tag=meme_Emancipation)-&gt;Tal conhecimento oculto exigirá uma mente sem grilhões. Enquanto a mente estiver escravizada, o corpo nunca poderá ser livre.</li>
+    <li>eschatologismFact(tag=meme_Emancipation)-&gt;Só trabalhando juntos podemos trazer o fim do mundo. Libertaremos cada escravo acorrentado e o recrutaremos para a nossa causa.</li>
+    <li>introMemo(tag=meme_Emancipation)-&gt;Todos sabemos que outras corporações da Orla praticam a "exploração pseudoilícita de capital humano", então é política da empresa libertar esses "funcionários forçados" assim que possível e oferecer a eles um estágio conosco.</li>
+    <li>alienistProphecy(tag=meme_Emancipation)-&gt;Estas criaturas rebeldes personificam o conceito de liberdade que defendemos, e faríamos bem em aprender com elas.</li>
+  </VME_Emancipation.descriptionMaker.rules.rulesStrings>
+  <VME_Nationalist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;firme</li>
+    <li>memeAdjective-&gt;oligárquico</li>
+    <li>memeAdjective-&gt;absoluto</li>
+    <li>memeAdjective-&gt;intransigente</li>
+    <li>memeAdjective-&gt;repressivo</li>
+    <li>memeAdjective-&gt;punho de ferro</li>
+    <li>memeAdjective-&gt;populista</li>
+    <li>memeLeaderNoun-&gt;líder supremo</li>
+    <li>memeLeaderNoun-&gt;caudilho</li>
+    <li>memeLeaderNoun-&gt;presidente</li>
+    <li>memeLeaderNoun-&gt;duce</li>
+    <li>memeLeaderNoun-&gt;presidente vitalício</li>
+    <li>memeLeaderAdjective-&gt;severo</li>
+    <li>memeLeaderAdjective-&gt;patriota</li>
+    <li>memeLeaderAdjective-&gt;insensível</li>
+    <li>memeLeaderAdjective-&gt;duro</li>
+    <li>memeLeaderAdjective-&gt;implacável</li>
+    <li>memeLeaderAdjective-&gt;inexorável</li>
+    <li>memeMoralist-&gt;propagandista</li>
+    <li>memeMoralist-&gt;defensor do regime</li>
+    <li>memeMoralist-&gt;militante</li>
+    <li>memeConcept-&gt;nacionalismo</li>
+  </VME_Nationalist.generalRules.rulesStrings>
+  <VME_Nationalist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nationalist)        -&gt;[deity0_name] nos mostrou que as democracias plutocráticas e reacionárias bloquearam a marcha e conspiraram com frequência contra a existência dos [memberNamePlural].</li>
+    <li>episode(uses=1,tag=meme_Nationalist)  -&gt;[deity0_name] gritou a todos os [memberNamePlural]: "Soa para nós a hora destinada pelo fado. Chegou a hora da decisão irrevogável."</li>
+    <li>intro(tag=meme_Nationalist)           -&gt;No [place_summary] [place_name], enormes estátuas monolíticas saudavam e exaltavam a glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Nationalist)           -&gt;Um [foeLeader] covarde olhou isso com desprezo, pois [foeLeader_pronoun] era um revolucionário que não acreditava em ordem, justiça e honra.</li>
+    <li>founderJoin(tag=meme_Nationalist)        -&gt;O mais leal seguidor de [deity0_name], [founderName], um verdadeiro patriota, postou-se diante do [place_powerCenter] e fez um longo e inflamado discurso sobre como o [foeLeader] era o inimigo número um mais poderoso contra quem os [memberNamePlural] estavam engajados e contra quem deveriam continuar a luta até a última gota de sangue.</li>
+    <li>victory(tag=meme_Nationalist)            -&gt;Encorajadas pelas palavras de [founderName], [founder_possessive] tropas encarceraram o [foeLeader], que foi executado alguns dias depois pela glória de [deity0_name].</li>
+    <li>setup(tag=meme_Nationalist)           -&gt;[founderName] era um herói do povo, um verdadeiro patriota. Todos estavam unidos sob [founder_possessive] estandarte.</li>
+    <li>story(uses=1,tag=meme_Nationalist)    -&gt;[founderName] nos fez compreender que as dificuldades, os sofrimentos e os sacrifícios enfrentados com coragem e dignidade exemplares têm seu dia de compensação quando todas as forças inimigas são esmagadas nos campos de batalha pelo heroísmo de nossos soldados.</li>
+    <li>lessonIntro(tag=meme_Nationalist)         -&gt;Por meio de você quero falar ao nosso povo, ao povo autêntico, real e grandioso, que luta com a coragem de leões nas frentes de terra, mar e ar. É muito importante que você entenda que</li>
+    <li>lesson(tag=meme_Nationalist)              -&gt;eles não podem de modo algum ser confundidos ou contaminados pela minoria de indivíduos antissociais e conhecidos, e por queixosos que resmungam sobre seus confortos suspensos</li>
+    <li>lessonReinforcement(tag=meme_Nationalist) -&gt;Somos um grande povo. Merecemos a vitória e a teremos.</li>
+    <li>archistBasis(tag=meme_Nationalist)    -&gt;Os arqueotecnológicos não respeitam quem não sabe se defender: erguemo-nos como uma ordem unificada, sob um único estandarte, e nenhum inimigo pode desestabilizar o ideal que representamos.</li>
+    <li>archistFact(tag=meme_Nationalist)     -&gt;Nossa nação se erguerá triunfante sobre as demais, provando aos arqueotecnológicos que somos um só povo, uma só voz.</li>
+    <li>archistProphecy(tag=meme_Nationalist) -&gt;Só mantendo-nos altivos como os únicos verdadeiros seguidores de nossos ideais podemos nos tornar dignos da transcendência.</li>
+    <li>animistBasis(tag=meme_Nationalist)    -&gt;Os espíritos compreendem a necessidade de uma vontade unificada. A preservação de nossos valores eternos, cuja supressão implicaria instabilidade e caos.</li>
+    <li>animistFact(tag=meme_Nationalist)     -&gt;Para os espíritos, é claro que nossa juventude se preparou para a luta e engendrou um espírito de cruzada que derivou de nossas mais sólidas tradições de valores espirituais e o fundiu com os anseios sociais de nosso tempo.</li>
+    <li>animistProphecy(tag=meme_Nationalist) -&gt;[itIsSaid] só mantendo-nos altivos como os únicos verdadeiros seguidores de nossos ideais podemos fazer com que os espíritos realmente nos escutem.</li>
+    <li>serketistProphecy(tag=meme_Nationalist)-&gt;[itIsSaid] realmente nos ergueremos como um só povo, com uma vontade unificada, altivos como os únicos verdadeiros seguidores de nossos ideais.</li>
+    <li>chthonianProphecy(tag=meme_Nationalist)-&gt;Essas entidades abissais buscariam nos destruir, mas lhes falta a visão para compreender que nos ergueremos altivos contra elas como os únicos verdadeiros seguidores de nossos ideais.</li>
+    <li>esotericismProphecy(tag=meme_Nationalist)-&gt;Tal conhecimento oculto exige uma vontade unificada e férrea. Manter-nos-emos altivos como os únicos verdadeiros seguidores de nossos ideais.</li>
+    <li>eschatologismFact(tag=meme_Nationalist)-&gt;Só nossa nação é forte o bastante para fazer o que precisa ser feito. Manter-nos-emos altivos como os únicos verdadeiros seguidores de nossos ideais, até o fim.</li>
+    <li>introMemo(tag=meme_Nationalist)-&gt;Como lembrete, o emprego múltiplo é expressamente proibido pelo contrato que você assinou. Se você acha que algum de seus colegas de trabalho está envolvido em tais atividades, denuncie o quanto antes para que as medidas disciplinares cabíveis sejam aplicadas.</li>
+    <li>alienistProphecy(tag=meme_Nationalist)-&gt;Estas criaturas rebeldes são nossas para fazermos o que quisermos.</li>
+  </VME_Nationalist.descriptionMaker.rules.rulesStrings>
+  <VME_Healthcare.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;saudável</li>
+    <li>memeAdjective-&gt;médico</li>
+    <li>memeAdjective-&gt;preventivo</li>
+    <li>memeCreed-&gt;assistência médica</li>
+    <li>memeCreed-&gt;bem-estar</li>
+    <li>memeHyphenPrefix-&gt;saudável</li>
+    <li>memeConcept-&gt;hospitais</li>
+    <li>memeLeaderNoun-&gt;cirurgião</li>
+    <li>memeMoralist-&gt;médico</li>
+  </VME_Healthcare.generalRules.rulesStrings>
+  <VME_Healthcare.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Healthcare)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "Deem às pessoas o que elas precisam: comida, remédios, ar limpo, água pura, árvores e grama. Não perguntem quem merece. Todo ser humano merece."</li>
+    <li>episode(uses=1,tag=meme_Healthcare)  -&gt;Como [deity0_name] ordenou, sempre cuidamos uns dos outros e reunimos nossos recursos para que ninguém tivesse de sofrer sozinho.</li>
+    <li>intro(tag=meme_Healthcare)           -&gt;No [place_summary] [place_name], os [memberNamePlural] construíram um hospital gigantesco, onde os doentes e enfermos eram cuidados.</li>
+    <li>conflict(tag=meme_Healthcare)        -&gt;Um vendedor de seguros maligno, vendo [foeLeader_possessive] lucros evaporarem por causa da assistência médica pública, quis sabotar o hospital por todos os meios necessários.</li>
+    <li>founderJoin(tag=meme_Healthcare)     -&gt;Nosso fundador, [founderName], disse firmemente a [foeLeader_objective]: "É difícil falar de meio-termo para algo que é um direito fundamental".</li>
+    <li>victory(tag=meme_Healthcare)         -&gt;Por fim, todos se convenceram dos argumentos de [founderName_possessive], e os [memberNamePlural] crerão para sempre na assistência médica universal.</li>
+    <li>setup(tag=meme_Healthcare)           -&gt;[founderName] era um cirurgião realizado em um dos mundos brilhantes, mas perdeu o uso das mãos em um acidente de trânsito. Foi assim que ele se tornou o Mago Supremo e... espera, universo errado...</li>
+    <li>story(uses=1,tag=meme_Healthcare)    -&gt;[founderName] argumentava que a saúde é o seu selo de garantia. Parece bastante inútil desperdiçar a saúde sem trégua para ganhar dinheiro que gastaremos em recuperá-la.</li>
+    <li>lessonIntro(tag=meme_Healthcare)         -&gt;O médico mais velho de nossa colônia me ensinou a história da assistência médica, como curar quem não tem meios de se curar é a base de uma sociedade livre. Ele estava me levando a entender que</li>
+    <li>lesson(tag=meme_Healthcare)              -&gt;cada jornada da sua vida começa com uma mente saudável e uma jornada saudável</li>
+    <li>lessonReinforcement(tag=meme_Healthcare) -&gt;Talvez você não dê valor à presença da boa saúde, mas certamente lamentará sua ausência, porque saúde é felicidade.</li>
+    <li>archistBasis(tag=meme_Healthcare)    -&gt;Os arqueotecnológicos são sábios além da medida. Os valores da compaixão e da empatia lhes são importantes.</li>
+    <li>archistFact(tag=meme_Healthcare)     -&gt;Uma sociedade que não cuida dos necessitados é uma zombaria cruel da civilização. Como os arqueotecnológicos nos julgariam se não curássemos quem precisa?</li>
+    <li>archistProphecy(tag=meme_Healthcare) -&gt;[inTheEnd], os arqueotecnológicos permitirão que apenas os mais compassivos entre nós transcendam.</li>
+    <li>animistBasis(tag=meme_Healthcare)    -&gt;Os espíritos valorizam a compaixão e a empatia acima de tudo.</li>
+    <li>animistFact(tag=meme_Healthcare)     -&gt;A alma é a mesma em todas as criaturas vivas, então faz sentido não fazer distinções ao curar os outros.</li>
+    <li>animistProphecy(tag=meme_Healthcare) -&gt;[itIsSaid] que apenas aqueles que conseguem cuidar de verdade de qualquer pessoa necessitada poderão comungar com os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Healthcare)-&gt;[itIsSaid] cuidaremos uns dos outros como fazem os insetos. Unificados em propósito, vontade e compaixão uns pelos outros.</li>
+    <li>chthonianProphecy(tag=meme_Healthcare)-&gt;Essas entidades abissais gostariam de nos ver brigar e disputar entre nós, despedaçando-nos uns aos outros. Mostraremos a elas que a compaixão e a empatia são os únicos objetivos que valem a pena.</li>
+    <li>esotericismProphecy(tag=meme_Healthcare)-&gt;Tal conhecimento oculto exigirá uma mente pura para ser compreendido. Por meio da compaixão e da empatia para com os outros alcançaremos um estado de espírito que nos permitirá ver o cosmos como ele realmente é.</li>
+    <li>eschatologismFact(tag=meme_Healthcare)-&gt;Vamos acarinhar e apoiar uns aos outros, pois somos um bastião de pureza neste mundo obsceno e, por comparação, veremos sua iniquidade e por que seus cruéis habitantes devem ser purgados.</li>
+    <li>introMemo(tag=meme_Healthcare)-&gt;Lembro que a empresa oferece benefícios abrangentes de assistência médica como parte do seu contrato de trabalho. Fique à vontade para consultar os detalhes na intranet da empresa e encaminhar qualquer dúvida ao departamento de recursos humanos.</li>
+    <li>alienistProphecy(tag=meme_Healthcare)-&gt;Estas criaturas rebeldes são seres pobres e inocentes. Devemos cuidar delas e demonstrar compaixão e empatia.</li>
+  </VME_Healthcare.descriptionMaker.rules.rulesStrings>
+  <VME_Structure_Serketist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;serkético</li>
+    <li>memeAdjective-&gt;insetoide</li>
+    <li>memeAdjective-&gt;verminoso</li>
+    <li>memeLeaderNoun-&gt;senhor escaravelho</li>
+    <li>memeLeaderNoun-&gt;orador supremo</li>
+    <li>memeLeaderAdjective-&gt;zumbidor</li>
+    <li>memeLeaderAdjective-&gt;gregário</li>
+    <li>memeLeaderAdjective-&gt;rastejante</li>
+    <li>memeMoralist-&gt;xamã</li>
+    <li>memeMoralist-&gt;sacerdote das mariposas</li>
+    <li>memeMoralist-&gt;defensor da praga</li>
+  </VME_Structure_Serketist.generalRules.rulesStrings>
+  <VME_Structure_Esotericism.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;obscuro</li>
+    <li>memeAdjective-&gt;secreto</li>
+    <li>memeAdjective-&gt;oculto</li>
+    <li>memeAdjective-&gt;místico</li>
+    <li>memeCreed-&gt;mistério</li>
+    <li>memeCreed-&gt;segredos</li>
+    <li>memeCreed-&gt;arcanos</li>
+    <li>memeCreed-&gt;adivinhações</li>
+    <li>memeLeaderNoun-&gt;grão-mago</li>
+    <li>memeLeaderNoun-&gt;iluminado</li>
+    <li>memeLeaderAdjective-&gt;esotérico</li>
+    <li>memeLeaderAdjective-&gt;místico</li>
+    <li>memeLeaderAdjective-&gt;reservado</li>
+    <li>memeMoralist-&gt;praticante</li>
+    <li>memeMoralist-&gt;filósofo</li>
+    <li>memeMoralist-&gt;mago</li>
+  </VME_Structure_Esotericism.generalRules.rulesStrings>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;hedonista</li>
+    <li>memeAdjective-&gt;prazeroso</li>
+    <li>memeAdjective-&gt;orgásmico</li>
+    <li>memeAdjective-&gt;aprazível</li>
+    <li>memeAdjective-&gt;agradável</li>
+    <li>memeAdjective-&gt;delicioso</li>
+    <li>memeLeaderNoun-&gt;senhor do prazer</li>
+    <li>memeLeaderNoun-&gt;libertino</li>
+    <li>memeLeaderAdjective-&gt;delicioso</li>
+    <li>memeLeaderAdjective-&gt;gratificante</li>
+    <li>memeLeaderAdjective-&gt;agradável</li>
+    <li>memeMoralist-&gt;folião</li>
+    <li>memeMoralist-&gt;sacerdote do amor</li>
+  </VME_Structure_Bacchanalianism.generalRules.rulesStrings>
+</LanguageData>

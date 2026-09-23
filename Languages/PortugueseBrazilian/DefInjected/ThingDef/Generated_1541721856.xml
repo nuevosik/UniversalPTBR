@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AAVPE_BlackQueen.description>Um insetoide gigante geneticamente modificado responsável pela criação de novas crias. Mãe dos insetos da colmeia negra, a rainha negra é incrivelmente agressiva e não foge do combate brutal. Tão massiva quanto um thrumbo adulto, a rainha inspira medo na maioria dos oponentes. Sua espessa armadura quitinosa torna-a difícil de matar, enquanto lâminas longas e mortais podem rasgar a proteção de plasteel em segundos e causar ferimentos graves e infectados.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt; A Rainha Negra regenera a saúde e seus ataques físicos têm 95% de chance de causar infecções.</AAVPE_BlackQueen.description>
   <AAVPE_BlackQueen.tools.0.label>mandíbulas infectadas</AAVPE_BlackQueen.tools.0.label>
@@ -9,21 +9,21 @@
   <AA_AcanthamoebaGiganteaLarge.tools.0.label>pseudópodes</AA_AcanthamoebaGiganteaLarge.tools.0.label>
   <AA_AcanthamoebaGiganteaSmall.description>Literalmente a "ameba gigante com espinhos", esta estranha criatura é um enorme organismo unicelular geneticamente modificado para servir como uma máquina de limpeza biológica. As Acanthamoebas se alimentam alegremente da maioria dos tipos de lixo não metálico, ingurgitando-se no processo.\n\nDepois de uma certa quantidade de alimentação, as Acanthamoebas aumentarão de tamanho e, após atingir um limite, se dividirão em dois indivíduos diferentes. Observe que criaturas assexuadas não podem ser esterilizadas.\n\nArte de Feroxiious (confira o Instagram dela em https://www.instagram.com/feroxiious/).</AA_AcanthamoebaGiganteaSmall.description>
   <AA_AcanthamoebaGiganteaSmall.tools.0.label>pseudópodes</AA_AcanthamoebaGiganteaSmall.tools.0.label>
-  <AA_Aerofleet.comps.1.customString>Fissão assexuada em: </AA_Aerofleet.comps.1.customString>
+  <AA_Aerofleet.comps.1.customString>Fissão assexuada em:</AA_Aerofleet.comps.1.customString>
   <AA_Aerofleet.description>Uma pequena criatura gelatinosa flutuante. Impulsionadas pelo hidrogênio que coleta da água e de vários materiais vegetais, essas criaturas moles vagam pelas terras, ricocheteando sem rumo nos objetos em seu caminho. Uma das poucas criaturas raras por aqui que estranhamente não está interessada em sangue humano. Bem, não é legal?\n\nAs frotas aéreas não têm gênero e se reproduzem por estrobilação, uma forma de reprodução assexuada. Observe que criaturas assexuadas não podem ser esterilizadas. Como criaturas flutuantes, as Aerofleets ignoram os custos de movimentação do terreno.\n\nAs Aerofleets produzem lentamente uma substância espessa e gelatinosa conhecida como Gel Azul. Esse resíduo xaroposo pode ser coletado e refinado em um composto de alta densidade energética e potencialmente usado para construir baterias e geradores potentes, com a pesquisa apropriada (Refinamento de biocombustíveis, Baterias e Fabricação Avançada).\n\nArte de Feroxiious (confira seu Instagram em https://www.instagram.com/feroxiious/).</AA_Aerofleet.description>
   <AA_Aerofleet.tools.1.label>tentáculos</AA_Aerofleet.tools.1.label>
   <AA_AerofleetMeat.description>Carne crua de uma frota aérea.\n\nMastigável, gelatinosa e insípida. Textura semelhante a uma água-viva.</AA_AerofleetMeat.description>
   <AA_AerofleetMeat.label>carne da aerofrota</AA_AerofleetMeat.label>
   <AA_AgariluxRawFungus.description>Agarilux crus de um Agaripod vivo, são muito gostosos de comer, mesmo quando crus.</AA_AgariluxRawFungus.description>
   <AA_AgariluxRawFungus.label>fungo cru agarilux</AA_AgariluxRawFungus.label>
-  <AA_Agaripawn.comps.0.customString>Dispersão de esporos em: </AA_Agaripawn.comps.0.customString>
+  <AA_Agaripawn.comps.0.customString>Dispersão de esporos em:</AA_Agaripawn.comps.0.customString>
   <AA_Agaripawn.description>O Agaripawn é uma subespécie do Wildpawn que cresceu no ambiente isolado de uma Selva Micótica. Seu corpo é coberto por cogumelos Agarilux que parecem estar em estado de simbiose. Os Agaripawns são menos resistentes a tiros do que os Agaripods, mas mantêm a fraqueza ao fogo de seus irmãos maiores. Os agaripawns se reproduzem assexuadamente, liberando aglomerados de esporos a cada poucas semanas, de modo que seus filhos são completamente selvagens e independentes deles, sem nenhum conceito de paternidade. Observe que criaturas assexuadas não podem ser esterilizadas.\n\nEmbora seja arriscado, o Agaripawn pode ser caçado ou cultivado para obter pequenas quantidades de agarilux cru comestível, que pode ser comido cru e dura um pouco mais do que o fungo normal.</AA_Agaripawn.description>
   <AA_Agaripawn.tools.0.label>pata esquerda</AA_Agaripawn.tools.0.label>
   <AA_Agaripawn.tools.1.label>pata direita</AA_Agaripawn.tools.1.label>
   <AA_Agaripawn.tools.3.label>cabeça</AA_Agaripawn.tools.3.label>
   <AA_AgaripawnSpores.description>Esporos de agaripawn fertilizados. Eu... eu não comeria isso. Eca. Se tudo correr bem, ele deverá eclodir em um agaripawn.</AA_AgaripawnSpores.description>
   <AA_AgaripawnSpores.label>aglomerado de esporos de agaripawn (fert.)</AA_AgaripawnSpores.label>
-  <AA_Agaripod.comps.0.customString>Dispersão de esporos em: </AA_Agaripod.comps.0.customString>
+  <AA_Agaripod.comps.0.customString>Dispersão de esporos em:</AA_Agaripod.comps.0.customString>
   <AA_Agaripod.description>O Agaripod é uma subespécie do Wildpod que cresceu no ambiente isolado de uma selva micótica. Seu corpo é coberto por cogumelos Agarilux que parecem estar em estado de simbiose. O Agaripod é quase imune a tiros, com as balas simplesmente sendo absorvidas por sua massa sem causar muitos danos, mas muito fraco ao fogo. Curiosamente, ele se reproduz assexuadamente, liberando aglomerados de esporos a cada poucas semanas, de modo que seus filhos são completamente selvagens e independentes dele, sem nenhum conceito de paternidade. Observe que criaturas assexuadas não podem ser esterilizadas.\n\nEmbora seja arriscado, o Agaripod pode ser caçado ou cultivado para obter quantidades decentes de agarilux cru comestível, que pode ser comido cru e dura um pouco mais do que o fungo normal.</AA_Agaripod.description>
   <AA_Agaripod.tools.0.label>pata esquerda</AA_Agaripod.tools.0.label>
   <AA_Agaripod.tools.1.label>pata direita</AA_Agaripod.tools.1.label>
@@ -195,7 +195,7 @@
   <AA_Cinderlisk.tools.3.label>cabeça</AA_Cinderlisk.tools.3.label>
   <AA_CinderliskEggFertilized.description>Ovo de cinderlisk fertilizado. Pode ser comido cru, mas fica muito, muito melhor cozido. Na verdade, é um ovo de pseudo-aranha, é nojento de qualquer maneira... Se tudo correr bem, ele deverá eclodir e se transformar em um cindelisco.</AA_CinderliskEggFertilized.description>
   <AA_CinderliskEggFertilized.label>ovo de cinderela (fert.)</AA_CinderliskEggFertilized.label>
-  <AA_ColossalAerofleet.comps.2.customString>Fissão assexuada em: </AA_ColossalAerofleet.comps.2.customString>
+  <AA_ColossalAerofleet.comps.2.customString>Fissão assexuada em:</AA_ColossalAerofleet.comps.2.customString>
   <AA_ColossalAerofleet.description>Uma enorme criatura gelatinosa flutuante. Impulsionadas pelo hidrogênio que coleta da água e de vários materiais vegetais, essas criaturas moles vagam pelas terras, ricocheteando sem rumo nos objetos em seu caminho. Uma das poucas criaturas raras por aqui que estranhamente não está interessada em sangue humano. Bem, isso não é legal?\n\nEsta Aerofleet de alguma forma cresceu até atingir um tamanho extremo. Um pequeno número de Aerofleets mais jovens parecem ser atraídos por ele e o seguem por toda parte.\n\nAerofleets Colossais produzem uma substância espessa e gelatinosa conhecida como Gel Azul. Esse resíduo xaroposo pode ser coletado e refinado em um composto de alta densidade energética e potencialmente usado para construir baterias e geradores potentes com a pesquisa apropriada (Refinamento de biocombustíveis, Baterias e Fabricação Avançada).\n\nArte de Feroxiious (confira seu Instagram em https://www.instagram.com/feroxiious/).</AA_ColossalAerofleet.description>
   <AA_ColossalAerofleet.tools.1.label>tentáculos</AA_ColossalAerofleet.tools.1.label>
   <AA_CrepuscularBeetle.description>Um artrópode muito grande que lembra um enorme Besouro Hércules, o Besouro Crepuscular é um herbívoro pacífico que se originou de um misterioso Rimworld orbitando uma estrela muito fraca, perpetuamente coberta pela escuridão. Este era o planeta natal de uma raça esquiva conhecida como os Renegados, e os Besouros Crepusculares eram frequentemente usados ​​como bestas de carga domesticadas.\n\nOs Besouros Crepusculares ficam ativos durante o anoitecer. Eles também não precisam de muito descanso, gastando muito menos tempo do que outras criaturas para repor as energias.</AA_CrepuscularBeetle.description>
@@ -390,14 +390,7 @@
   <AA_FungalHusk.tools.1.label>punho direito</AA_FungalHusk.tools.1.label>
   <AA_FungalHusk.tools.2.label>dentes</AA_FungalHusk.tools.2.label>
   <AA_FungalHusk.tools.3.label>cabeça</AA_FungalHusk.tools.3.label>
-  <AA_Gallatross.description>Em todos os mundos,
-      Flua a história antiga,
-      Uma criatura com poder incalculável
-      E uma altura imensurável.
-      Força que as máquinas não conseguem copiar
-      Poder que os chamados deuses chamam de heresia.
-      Cuidado, cuidado com possíveis inimigos
-      Cuidado, a ira do Gallatross.\n\nConceito e arte de A_Friend (também conhecido como SentientLine), o artista original do Alpha Animals.</AA_Gallatross.description>
+  <AA_Gallatross.description>Em todos os mundos,\n      Flua a história antiga,\n      Uma criatura com poder incalculável\n      E uma altura imensurável.\n      Força que as máquinas não conseguem copiar\n      Poder que os chamados deuses chamam de heresia.\n      Cuidado, cuidado com possíveis inimigos\n      Cuidado, a ira do Gallatross.\n\nConceito e arte de A_Friend (também conhecido como SentientLine), o artista original do Alpha Animals.</AA_Gallatross.description>
   <AA_Gallatross.tools.0.label>buzina</AA_Gallatross.tools.0.label>
   <AA_Gallatross.tools.1.label>buzina</AA_Gallatross.tools.1.label>
   <AA_Gallatross.tools.3.label>cabeça</AA_Gallatross.tools.3.label>
@@ -432,7 +425,7 @@
   <AA_GreatDevourerEggUnfertilized.description>Ovo grande devorador não fertilizado. Pode ser comido cru, mas fica muito, muito melhor cozido. Na verdade, é um ovo de minhoca, de qualquer forma é nojento...</AA_GreatDevourerEggUnfertilized.description>
   <AA_GreatDevourerEggUnfertilized.label>ovo grande devorador (não fert.)</AA_GreatDevourerEggUnfertilized.label>
   <AA_GreaterBlackHiveBolt.label>maior cuspe vil</AA_GreaterBlackHiveBolt.label>
-  <AA_GreenGoo.comps.0.customString>Clonando em: </AA_GreenGoo.comps.0.customString>
+  <AA_GreenGoo.comps.0.customString>Clonando em:</AA_GreenGoo.comps.0.customString>
   <AA_GreenGoo.description>Essas massas amorfas e ambulantes de fluido gelatinoso parecem uma zombaria da vida. Embora pareçam indivíduos, na realidade fazem parte de um superorganismo gelatinoso maior, com apenas um objetivo: crescer e expandir.\n\nEles foram apelidados de gosma verde devido à sua capacidade de reprodução constante, exigindo muito pouco sustento e preenchendo rapidamente todos os nichos ecológicos disponíveis. No campo da escatologia, uma gosma cinzenta é um cenário de fim do mundo que envolve nanotecnologia molecular, no qual robôs auto-replicantes descontrolados consomem toda a biomassa enquanto constroem mais de si próprios. Um cenário de gosma verde, entretanto, envolve entidades biológicas auto-replicantes. NOTA: devido a restrições de jogo, a gosma verde só se auto-replicará até que o mapa contenha 40 criaturas, porque não quero fritar seus computadores. Observe que criaturas assexuadas não podem ser esterilizadas.</AA_GreenGoo.description>
   <AA_GreenGoo.tools.0.label>tentáculos</AA_GreenGoo.tools.0.label>
   <AA_GreyCoatedMouflon.description>O Mouflon Cinzento (Ovis Cinerea) é uma variante geneticamente modificada de ovelha selvagem que produz uma lã grossa e cinza que atua como um ótimo isolante. No entanto, esta não é a habilidade mais interessante: Mouflons de Revestimento Cinzento foram criados com um órgão especializado capaz de amplificar as ondas cerebrais humanas, agindo como um harmonizador psíquico biológico.\n\nSe o Mouflon estiver feliz, ou seja, sem sentir fome ou dor, ele fornecerá um bônus de humor aos seres humanos próximos. No entanto, se o Mouflon estiver sofrendo de alguma forma, isso afetará psiquicamente todos ao seu redor.\n\nArte de Feroxiious (confira o Instagram dela em https://www.instagram.com/feroxiious/).</AA_GreyCoatedMouflon.description>
@@ -463,7 +456,7 @@
   <AA_HugeAnimaPearl.comps.0.useLabel>Plante uma enorme pérola de anima</AA_HugeAnimaPearl.comps.0.useLabel>
   <AA_HugeAnimaPearl.description>Esta enorme pérola de anima parece estar repleta de energia viva mal contida. Ela pode ser plantada e dela crescerá uma árvore anima.</AA_HugeAnimaPearl.description>
   <AA_HugeAnimaPearl.label>enorme pérola anima</AA_HugeAnimaPearl.label>
-  <AA_InfectedAerofleet.comps.0.customString>Fissão assexuada em: </AA_InfectedAerofleet.comps.0.customString>
+  <AA_InfectedAerofleet.comps.0.customString>Fissão assexuada em:</AA_InfectedAerofleet.comps.0.customString>
   <AA_InfectedAerofleet.description>Uma pequena criatura gelatinosa flutuante. Impulsionadas pelo hidrogênio que coleta da água e de vários materiais vegetais, essas criaturas moles vagam pelas terras, ricocheteando em objetos em seu caminho.\n\nEsta Aerofleet parece ter sido afetada pela exposição prolongada aos gases que emanam de uma floresta ocular, e pústulas e bolhas vermelhas estão aparecendo em sua membrana externa. Seu hidrogênio parece estar em processo de transformação em um gás ácido de origem desconhecida.\n\nAs frotas aéreas não têm gênero e se reproduzem por estrobilação, uma forma de reprodução assexuada. Observe que criaturas assexuadas não podem ser esterilizadas. Como criaturas flutuantes, as Aerofleets ignoram os custos de movimentação do terreno.\n\nAs Aerofleets produzem lentamente uma substância espessa e gelatinosa conhecida como Gel Azul. Este resíduo xaroposo pode ser coletado e refinado em um composto de alta densidade energética e potencialmente usado para construir baterias e geradores potentes com a pesquisa apropriada (Refinação de biocombustíveis, Baterias e Fabricação Avançada).</AA_InfectedAerofleet.description>
   <AA_InfectedAerofleet.tools.1.label>tentáculos</AA_InfectedAerofleet.tools.1.label>
   <AA_IronhuskBeetle.description>Os besouros Ironhusk foram geneticamente modificados por uma das inúmeras empresas de mineração que operam na Orla. É um animal de fazenda pacífico que ocasionalmente solta cascas metálicas que podem ser usadas como aço, dispensando assim a necessidade de maquinário pesado nas operações de mineração. Como desvantagem, o besouro consome uma enorme quantidade de madeira de árvores vivas.\n\nInfelizmente, a empresa de mineração que criou os besouros Ironhusk não levou em conta isso, e vários planetas na Orla são agora um desastre ecológico árido.\n\nArte de Feroxiious (confira o Instagram dela em https://www.instagram.com/feroxiious/).</AA_IronhuskBeetle.description>
@@ -533,7 +526,7 @@
   <AA_Murkling.tools.2.label>portador da peste</AA_Murkling.tools.2.label>
   <AA_Murkling.tools.3.label>mordida venenosa</AA_Murkling.tools.3.label>
   <AA_Murkling.tools.4.label>cabeça</AA_Murkling.tools.4.label>
-  <AA_MycoidColossus.comps.0.customString>Dispersão de esporos em: </AA_MycoidColossus.comps.0.customString>
+  <AA_MycoidColossus.comps.0.customString>Dispersão de esporos em:</AA_MycoidColossus.comps.0.customString>
   <AA_MycoidColossus.description>O Colosso Mycoid é uma variante do colosso Overgrown nativo de uma selva micótica.\n\nParece ser de natureza reptiliana, com sangue frio, metabolismo lento e um corpo muito estranho: tem seis pernas, duas espinhas entrelaçadas e seis olhos. Tem uma relação simbiótica com fungos, com vários cogumelos Agarilux mutantes crescendo em seu dorso. Esses fungos prendem insetos e parecem fornecer sustento em uma relação simbiótica com o colosso. Estranhamente, este colosso se reproduz por esporulação, em vez de ser uma criatura vivípara, portanto seus filhos são completamente selvagens e independentes dele, sem nenhum conceito de paternidade. Observe que criaturas assexuadas não podem ser esterilizadas.\n\nQuando domesticado, o Colosso Mycoid pode ser "aparado" periodicamente para obter cogumelos agarilux crus.</AA_MycoidColossus.description>
   <AA_MycoidColossus.tools.1.label>cabeça</AA_MycoidColossus.tools.1.label>
   <AA_MycoidColossusSpores.description>Esporos de colosso micoide fertilizados. Eu... eu não comeria isso. Eca. Se tudo correr bem, ele deverá eclodir em um colosso micoide.</AA_MycoidColossusSpores.description>
@@ -567,7 +560,7 @@
   <AA_Nightling.tools.1.label>garra direita</AA_Nightling.tools.1.label>
   <AA_Nightling.tools.3.label>cabeça</AA_Nightling.tools.3.label>
   <AA_OcularGas.label>gás ocular</AA_OcularGas.label>
-  <AA_OcularJelly.comps.0.customString>Fissão assexuada em: </AA_OcularJelly.comps.0.customString>
+  <AA_OcularJelly.comps.0.customString>Fissão assexuada em:</AA_OcularJelly.comps.0.customString>
   <AA_OcularJelly.description>A Orla está repleta de criaturas que podem ser o produto de uma evolução acelerada de origens terrestres ou, mais frequentemente, de uma antiga engenharia genética humana que deu errado. A geleia ocular, no entanto, é tão fundamentalmente estranha que alguns cientistas especularam sobre uma possível origem extradimensional. Ou talvez seja apenas uma piada cruel, embora elaborada.\n\nParece ter algumas semelhanças biológicas com a Aerofleet, sendo preenchida com um gás flutuante, mas seus efeitos nos ecossistemas terrestres são incrivelmente incomuns: a criatura libera nuvens de um gás avermelhado que é inofensivo para os animais. Porém, quando a flora é exposta a ela, ela sofre mutações e se transforma em estranhos espécimes que compartilham 98% de seu genoma com a geleia. Esta flora é quase não comestível e a sua relação com a geleia ocular permanece ainda inexplicada. Como criaturas flutuantes, as Geleias Oculares ignoram os custos de movimentação do terreno. Observe que criaturas assexuadas não podem ser esterilizadas.</AA_OcularJelly.description>
   <AA_OcularJelly.tools.1.label>tentáculos</AA_OcularJelly.tools.1.label>
   <AA_OcularJellyMeat.description>Carne crua de uma geleia ocular.\n\nEm borracha, gelatinosa e insípida. Textura semelhante a uma água-viva.</AA_OcularJellyMeat.description>
@@ -622,7 +615,7 @@
   <AA_Razorjack.tools.2.label>dentes de navalha</AA_Razorjack.tools.2.label>
   <AA_Razorjack.tools.3.label>cabeça</AA_Razorjack.tools.3.label>
   <AA_RedGas.label>gás vermelho</AA_RedGas.label>
-  <AA_RedGoo.comps.1.customString>Clonando em: </AA_RedGoo.comps.1.customString>
+  <AA_RedGoo.comps.1.customString>Clonando em:</AA_RedGoo.comps.1.customString>
   <AA_RedGoo.description>Essa bolha de matéria orgânica borbulhante parece ser uma extensão do próprio terreno, uma excrescência desfigurada com uma aparência de vida.\n\nA gosma vermelha parece prosperar no ambiente estranhamente bizarro da floresta ocular, mordiscando a vegetação aberrante e clonando-se periodicamente. NOTA: devido a restrições de jogo, a gosma vermelha só se auto-replicará até que o mapa contenha 15 criaturas, porque não quero fritar seus computadores. Observe que criaturas assexuadas não podem ser esterilizadas.</AA_RedGoo.description>
   <AA_RedGoo.tools.0.label>tentáculos</AA_RedGoo.tools.0.label>
   <AA_RedLeaves.description>Esta grama é completamente sobrenatural, provavelmente nem mesmo 100% baseada em carbono, e parece estar se decompondo rapidamente devido à exposição a um ambiente terrestre.</AA_RedLeaves.description>
@@ -704,7 +697,7 @@
   <AA_TarGuzzler.tools.1.label>garra direita</AA_TarGuzzler.tools.1.label>
   <AA_TarGuzzler.tools.2.label>boca escancarada</AA_TarGuzzler.tools.2.label>
   <AA_TarGuzzler.tools.3.label>cabeça</AA_TarGuzzler.tools.3.label>
-  <AA_TeratogenicOriginator.comps.0.customString>Clonando em: </AA_TeratogenicOriginator.comps.0.customString>
+  <AA_TeratogenicOriginator.comps.0.customString>Clonando em:</AA_TeratogenicOriginator.comps.0.customString>
   <AA_TeratogenicOriginator.description>Esta criatura amorfa, cor de carne e translúcida parece carecer de tudo, exceto dos instintos mais básicos, movendo-se lentamente e às vezes devorando qualquer planta com a qual entra em contato, incorporando-a em seu citoplasma. Existem alguns pedaços de carne aparentemente normal flutuando dentro dele.\n\nOs Originadores Teratogênicos são basicamente uma enorme colônia clonal de células-tronco pluripotentes, capazes de se diferenciar em diferentes tecidos. Eles foram projetados por um grupo de cientistas antiéticos como uma forma barata de criar membros cultivados em laboratório adequados para transplantes, mas os resultados finais não são os ideais. Esses estranhos membros mutantes podem ser periodicamente extirpados da criatura e usados ​​à vontade. Observe que criaturas assexuadas não podem ser esterilizadas.</AA_TeratogenicOriginator.description>
   <AA_TeratogenicOriginator.tools.0.label>tentáculos</AA_TeratogenicOriginator.tools.0.label>
   <AA_Terramorph.description>Este crustáceo de aparência estranha foi criado com um único objetivo em mente: processamento mineral. O Terramorfo pode se alimentar de compostos de ferro e processá-los quimicamente para transformá-los lentamente em um mineral endurecido geralmente conhecido como "aço do céu", que normalmente só é encontrado em asteroides.\n\nO processo de transmutação é muito lento, então o Terramorfo precisa passar muito tempo cercado por pedaços de aço extraídos. O Terramorph também pode consumir lentamente, mas não converter, pedaços de escória de aço.</AA_Terramorph.description>
@@ -726,14 +719,14 @@
   <AA_UnblinkingEye.description>Uma criatura quitinosa flutuante coberta de espinhos e olhos que não piscam. Criado pela infusão de um animal muito grande com as estranhas energias de uma corrupção extradimensional.</AA_UnblinkingEye.description>
   <AA_UraniumCrystals.description>Este cristal pode ser refinado em urânio em uma refinaria de combustível químico.</AA_UraniumCrystals.description>
   <AA_UraniumCrystals.label>cristais de urânio não refinados</AA_UraniumCrystals.label>
-  <AA_Wildpawn.comps.0.customString>Dispersão de esporos em: </AA_Wildpawn.comps.0.customString>
+  <AA_Wildpawn.comps.0.customString>Dispersão de esporos em:</AA_Wildpawn.comps.0.customString>
   <AA_Wildpawn.description>Wildpawns são uma variante dos wildpods que se adaptaram à vida fora dos pântanos e florestas tropicais. Como têm menos acesso à água e à vegetação em decomposição, crescem muito menos e são muito menos perigosos. Os Wildpawns são menos resistentes a tiros, mas mantêm a fraqueza ao fogo de seus irmãos maiores. Os wildpawns se reproduzem assexuadamente, liberando aglomerados de esporos a cada poucas semanas, de modo que seus filhos são completamente selvagens e independentes dele, sem nenhum conceito de paternidade. Observe que criaturas assexuadas não podem ser esterilizadas.\n\nEmbora seja arriscado, os Wildpawns podem ser caçados ou criados para obter pequenas quantidades de fungos crus comestíveis.</AA_Wildpawn.description>
   <AA_Wildpawn.tools.0.label>pata esquerda</AA_Wildpawn.tools.0.label>
   <AA_Wildpawn.tools.1.label>pata direita</AA_Wildpawn.tools.1.label>
   <AA_Wildpawn.tools.3.label>cabeça</AA_Wildpawn.tools.3.label>
   <AA_WildpawnSpores.description>Esporos fertilizados de wildpawns. Eu... eu não comeria isso. Eca. Se tudo correr bem, ele deverá eclodir em um wildpawn.</AA_WildpawnSpores.description>
   <AA_WildpawnSpores.label>Aglomerado de esporos de peão selvagem (fert.)</AA_WildpawnSpores.label>
-  <AA_Wildpod.comps.0.customString>Dispersão de esporos em: </AA_Wildpod.comps.0.customString>
+  <AA_Wildpod.comps.0.customString>Dispersão de esporos em:</AA_Wildpod.comps.0.customString>
   <AA_Wildpod.description>Esta massa pesada de matéria vegetal aparentemente em decomposição é um Wildpod, uma criatura micoide senciente nativa de algum planeta infestado de selva na Orla. O Wildpod é quase imune a tiros, com as balas simplesmente sendo absorvidas por sua massa sem causar muitos danos, mas muito fraco ao fogo. Curiosamente, ele se reproduz assexuadamente, liberando aglomerados de esporos a cada poucas semanas, de modo que seus filhos são completamente selvagens e independentes dele, sem nenhum conceito de paternidade. Observe que criaturas assexuadas não podem ser esterilizadas.\n\nEmbora seja arriscado, o Wildpod pode ser caçado ou cultivado para obter quantidades decentes de fungos crus comestíveis.</AA_Wildpod.description>
   <AA_Wildpod.tools.0.label>pata esquerda</AA_Wildpod.tools.0.label>
   <AA_Wildpod.tools.1.label>pata direita</AA_Wildpod.tools.1.label>

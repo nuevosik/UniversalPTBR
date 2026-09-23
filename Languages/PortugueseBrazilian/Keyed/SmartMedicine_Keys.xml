@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TD.SettingDoctorInv>Usar medicina do inventário do médico</TD.SettingDoctorInv>
+  <TD.SettingPatientInv>Usar medicina do inventário do paciente</TD.SettingPatientInv>
+  <TD.SettingNearby>... Mas usar medicina próxima (se da mesma qualidade)</TD.SettingNearby>
+  <TD.SettingNearbyDesc>Isso também verifica se há medicina no caminho até o paciente (aproximadamente com base na distância, não no caminho real)</TD.SettingNearbyDesc>
+  <TD.SettingNearbyDist>Quão longe caminhar para encontrar medicina próxima</TD.SettingNearbyDist>
+  <TD.SpacesFormat>{0:0} espaços</TD.SpacesFormat>
+  <TD.SettingNearbyDistDesc>Isso só substitui a medicina do inventário - se não houver medicina no inventário, eles caminharão até os confins do mapa para pegar medicina</TD.SettingNearbyDistDesc>
+  <TD.SettingOtherInv>Largar medicina do inventário de um colono próximo</TD.SettingOtherInv>
+  <TD.SettingAnimalInv>Largar medicina do inventário de um animal próximo</TD.SettingAnimalInv>
+  <TD.SettingOtherAnyDist>... Não importa quão longe esteja</TD.SettingOtherAnyDist>
+  <TD.SettingOtherAnyDistDesc>Marque para usar medicina melhor de outra pessoa distante, mas ao custo de caminhar até ela</TD.SettingOtherAnyDistDesc>
+  <TD.SettingOtherDist>Quão longe caminhar para buscá-la</TD.SettingOtherDist>
+  <TD.SettingMinimal>Usar o mínimo de medicina para cuidados não urgentes</TD.SettingMinimal>
+  <TD.SettingMinimalDesc>Cuidados urgentes incluem qualquer doença, ou ferimentos com sangramento, chance de infecção ou efeitos permanentes - guarde a medicina valiosa apenas para esses casos</TD.SettingMinimalDesc>
+  <TD.SettingNoMed>Sem medicina para cuidados não urgentes</TD.SettingNoMed>
+  <TD.SettingNoMedDesc>O mesmo que acima, mas sem medicina, cada ferimento é tratado um de cada vez</TD.SettingNoMedDesc>
+  <TD.SettingMedicineGoodEnough>... incluir medicina que seja boa o suficiente:</TD.SettingMedicineGoodEnough>
+  <TD.SettingStockUp>Estocar medicina e drogas</TD.SettingStockUp>
+  <TD.SettingStockUpDesc>As configurações de estoque ficam na aba de itens do colono</TD.SettingStockUpDesc>
+  <TD.SettingFieldTendingIfDying>Médicos tratarão pacientes no local se eles não sobreviverem até chegar ao hospital</TD.SettingFieldTendingIfDying>
+  <TD.SettingFieldTendingNoBeds>Médicos tratarão pacientes se não houver camas disponíveis</TD.SettingFieldTendingNoBeds>
+  <TD.SettingFieldTendingNoBedsDesc>O paciente deve estar descansando, caído ou alistado como alvo</TD.SettingFieldTendingNoBedsDesc>
+  <TD.SettingFieldTendingAlways>Médicos podem sempre tratar, com ou sem uma cama</TD.SettingFieldTendingAlways>
+  <TD.SettingFieldTendingAlwaysDesc>Os colonos darão prioridade a ir para uma cama, mas você pode alistar os pacientes para mantê-los no lugar.</TD.SettingFieldTendingAlwaysDesc>
+  <TD.SmartMedicine>Smart Medicine</TD.SmartMedicine>
+  <TD.StockUpSettings>Configurações de estoque</TD.StockUpSettings>
+  <TD.StockUpSettingsForPawn>Configurações de estoque para {0}</TD.StockUpSettingsForPawn>
+  <TD.ClearStockUp>Limpar todas as configurações de estoque</TD.ClearStockUp>
+  <TD.CancelCopyStockUp>Cancelar cópia das configurações de {0}</TD.CancelCopyStockUp>
+  <TD.CopyStockUpFrom>Copiar configurações de estoque de {0}</TD.CopyStockUpFrom>
+  <TD.SettingsMedicineGoodEnoughDesc>Por exemplo, se a medicina natural tiver 90% da eficácia de uma normal, use a natural em vez disso</TD.SettingsMedicineGoodEnoughDesc>
+  <TD.SettingStockUpEnough>Estocar apenas se houver o suficiente disponível:</TD.SettingStockUpEnough>
+  <TD.SettingStockUpEnoughDesc>Por exemplo, a 150%, os estoques precisam ter o suficiente para todos estocarem até 100%, mais 50% extra</TD.SettingStockUpEnoughDesc>
+  <TD.SettingStockUpReturn>Devolver itens se não houver o suficiente disponível</TD.SettingStockUpReturn>
+  <TD.Paused>Pausado</TD.Paused>
+  <TD.Encumbered>Sobrecarregado</TD.Encumbered>
+  <TD.NotEnoughStockUp>Não há o suficiente disponível para estocar</TD.NotEnoughStockUp>
+  <TD.SettingGlobalSurgeryUnlimited>As configurações médicas padrão de um jogo novo têm 'cirurgia usar a melhor' marcado</TD.SettingGlobalSurgeryUnlimited>
+  <TD.SettingGlobalSurgeryUnlimitedDesc>Durante um jogo, esta configuração não é usada - o padrão para novos colonos fica junto das outras configurações médicas padrão, acessíveis na aba de saúde</TD.SettingGlobalSurgeryUnlimitedDesc>
+  <TD.DefaultSurgeryUnlimited>A cirurgia usa a melhor medicina disponível</TD.DefaultSurgeryUnlimited>
+  <TD.PawnSettingSurgeryUnlimited>A cirurgia usa a melhor</TD.PawnSettingSurgeryUnlimited>
+  <TD.DefaultCare>Cuidado padrão</TD.DefaultCare>
+  <TD.RemoveTempTendDesc>Remover isto (caso permaneça depois de não ser mais usado)</TD.RemoveTempTendDesc>
+  <TD.StockAnythingWithoutDev>Botão de estocar QUALQUER COISA sem o modo desenvolvedor</TD.StockAnythingWithoutDev>
+  <TD.NiceHealthTab.Optimize>Otimizações de baixo nível para a aba de saúde</TD.NiceHealthTab.Optimize>
+  <TD.NiceHealthTab.OptimizeDesc>Otimizações:\n- Armazenar em cache os rótulos estáticos de condições de saúde em vez de traduzir a cada quadro</TD.NiceHealthTab.OptimizeDesc>
+</LanguageData>

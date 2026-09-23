@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <VAEI_Sanity>Sanidade</VAEI_Sanity>
   <VAEI_SanityLetterDesc>A sanidade de {PAWN_nameDef} foi testada por eventos recentes. O nível de sanidade de seus colonos agora pode ser visto na aba Necessidades.</VAEI_SanityLetterDesc>
   <VAEI_SanityLossMessage>{PAWN_nameDef} perdeu sanidade devido a: {0}. A sanidade de {PAWN_nameDef} agora é {1}</VAEI_SanityLossMessage>
@@ -50,11 +49,7 @@
   <VAEI_ObservingVoidDrawings>Observando desenhos do vazio</VAEI_ObservingVoidDrawings>
   <VAEI_Wearing>Vestindo {0}</VAEI_Wearing>
   <VAEI_Rehumanized>Reumanizado: {PAWN_nameDef}</VAEI_Rehumanized>
-  <VAEI_RehumanizedDesc>Como {PAWN_nameDef} recuperou sua sanidade, {PAWN_pronoun} foi reumanizado(a). O traço Desumanizado foi substituído por: {0}.
-
-{1}
-
-Infelizmente, {PAWN_nameDef} permanecerá para sempre propenso(a) a perder o juízo novamente, ainda mais que os outros. Qualquer efeito negativo na sanidade será dobrado, o que pode fazer com que {PAWN_nameDef} se torne desumanizado(a) novamente.</VAEI_RehumanizedDesc>
+  <VAEI_RehumanizedDesc>Como {PAWN_nameDef} recuperou sua sanidade, {PAWN_pronoun} foi reumanizado(a). O traço Desumanizado foi substituído por: {0}.  {1}  Infelizmente, {PAWN_nameDef} permanecerá para sempre propenso(a) a perder o juízo novamente, ainda mais que os outros. Qualquer efeito negativo na sanidade será dobrado, o que pode fazer com que {PAWN_nameDef} se torne desumanizado(a) novamente.</VAEI_RehumanizedDesc>
   <VAEI_SanityLossEffects>Efeitos de perda/ganho de sanidade:</VAEI_SanityLossEffects>
   <VAEI_SuppressingEntities>Suprimindo entidades (sanidade por dia):</VAEI_SuppressingEntities>
   <VAEI_StudyingEntities>Estudando entidades:</VAEI_StudyingEntities>
@@ -77,5 +72,4 @@ Infelizmente, {PAWN_nameDef} permanecerá para sempre propenso(a) a perder o ju�
   <VAEI_PitGateCollapsing>Colapso do portão do abismo</VAEI_PitGateCollapsing>
   <VAEI_RecoveringFromMadness>Recuperando-se da loucura</VAEI_RecoveringFromMadness>
   <VAEI_PassiveEffectsPerDay>Efeitos passivos (sanidade por dia):</VAEI_PassiveEffectsPerDay>
-  
 </LanguageData>

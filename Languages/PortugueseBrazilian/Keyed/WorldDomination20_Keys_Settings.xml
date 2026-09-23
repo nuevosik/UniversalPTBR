@@ -464,7 +464,6 @@
   <TSA_WD_HeaderTribalGarrisons>Facções tribais</TSA_WD_HeaderTribalGarrisons>
   <TSA_WD_HeaderWorldActions>Ações mundiais</TSA_WD_HeaderWorldActions>
   <TSA_WD_OpenAllegianceMatrix>Escopo de facções e lealdades do WD</TSA_WD_OpenAllegianceMatrix>
-  <TSA_WD_DescAllegianceMatrix>Apenas no jogo: participação das facções (ações do World Domination, geração do mapa, narrador) e lealdades por par.</TSA_WD_DescAllegianceMatrix>
   <TSA_WD_Allegiances_LiveEditWarning>Você está editando lealdades ao vivo. Certifique-se de saber o que está fazendo!</TSA_WD_Allegiances_LiveEditWarning>
   <TSA_WD_Allegiances_ResetConfirm>Redefinir esta seção? A participação manual e as substituições do narrador serão limpas.</TSA_WD_Allegiances_ResetConfirm>
   <TSA_WD_Allegiances_SectionParticipation>Facções controladas pelo WD</TSA_WD_Allegiances_SectionParticipation>
@@ -814,7 +813,7 @@
   <TSA_WD_BuildReq_ResearchMissing>Pesquisa: {0} (ausente)</TSA_WD_BuildReq_ResearchMissing>
   <TSA_WD_BuildReq_MaterialsNone>Materiais: nenhum</TSA_WD_BuildReq_MaterialsNone>
   <TSA_WD_BuildReq_MaterialsHeader>Materiais:</TSA_WD_BuildReq_MaterialsHeader>
-  <TSA_WD_BuildReq_MaterialLine>  - {0} x{1}</TSA_WD_BuildReq_MaterialLine>
+  <TSA_WD_BuildReq_MaterialLine>- {0} x{1}</TSA_WD_BuildReq_MaterialLine>
   <TSA_WD_BuildReq_Unmet>Os requisitos de habilidade de Construção ou de pesquisa não foram atendidos.</TSA_WD_BuildReq_Unmet>
   <TSA_WD_SkillScaling_Reset>Redefinir escalonamento de habilidade</TSA_WD_SkillScaling_Reset>
   <TSA_WD_SkillScaling_Intro>Decida se adicionar pontos de habilidade, como Plantio para um posto avançado agrícola, deve aumentar a produção indefinidamente ou se deve haver retornos decrescentes em certos limites. Os requisitos de fundação ainda usam a habilidade bruta.</TSA_WD_SkillScaling_Intro>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SV.CheckForDanger>Visitantes verificam se há perigo antes de partir</SV.CheckForDanger>
+  <SV.CheckForDangerTT>Ao se prepararem para partir, os visitantes verificarão se há perigos e, se houver, pedirão para ficar por um tempo.</SV.CheckForDangerTT>
+  <SV.AddExtraFood>Adicionar {0} rações de comida aos visitantes</SV.AddExtraFood>
+  <SV.AddExtraFoodTT>Os visitantes adicionarão comida ao inventário para ficarem mais preparados para atrasos.</SV.AddExtraFoodTT>
+  <SV.DelayThoughts>Atrasos causam pensamentos negativos</SV.DelayThoughts>
+  <SV.DelayThoughtsTT>Os visitantes terão pensamentos cada vez mais negativos se forem atrasados.</SV.DelayThoughtsTT>
+  <SV.CheckHealth>Visitantes não partem se precisarem de repouso médico</SV.CheckHealth>
+  <SV.CheckHealthTT>Se houver algum colono no grupo de visitantes precisando de repouso médico, o grupo esperará até que todos estejam saudáveis.</SV.CheckHealthTT>
+  <SV.UVLightSensitivity>Visitantes sensíveis a UV partem após o pôr do sol</SV.UVLightSensitivity>
+  <SV.UVLightSensitivityTT>Se houver algum colono com sensibilidade a UV grave no grupo, eles escolherão partir após o pôr do sol. Isso também inclui os vampiros do mod Rim of Madness.</SV.UVLightSensitivityTT>
+  <SV.ModVersion>Versão do mod instalada: {0}</SV.ModVersion>
+  <SV.VisitorsLeaving>Eles têm medo de fazer isso pelos seguintes motivos:\n{0}\n\nVocê permite que fiquem até amanhã?</SV.VisitorsLeaving>
+  <SV.VisitorsLeavingTitle>Visitantes de {0} estão prestes a partir</SV.VisitorsLeavingTitle>
+  <SV.Allow>Claro, podem ficar</SV.Allow>
+  <SV.WaitALittle>Perguntar novamente em uma hora</SV.WaitALittle>
+  <SV.Deny>Não, por favor partam agora</SV.Deny>
+  <SV.DismissVisitor>Dispensar visitante</SV.DismissVisitor>
+  <SV.DismissedVisitor>Visitante já dispensado</SV.DismissedVisitor>
+  <SV.ChillSpotDestroyed>Só é possível posicionar um ponto de visita; removendo o ponto antigo</SV.ChillSpotDestroyed>
+</LanguageData>

@@ -11,56 +11,22 @@ Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni cora
 
 ---
 
-## ✨ Mods Atualmente Traduzidos
+## ✨ Cobertura da Tradução
 
-A tradução já abrange os seguintes módulos do Vanilla Expanded e mods universais curados. Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
+A tradução cobre **139 mods** (26.296 chaves) — a série Vanilla Expanded completa, mais mods
+universais curados (The Dead Man's Switch, World Domination 2.0, Dubs Rimatomics, Alpha Animals,
+Combat Extended Armory/Guns/etc., Geological Landforms, Simple Sidearms e dezenas de utilitários).
 
-| Mod Traduzido | Descrição |
-| :--- | :--- |
-| **Vanilla Expanded Framework** | Estrutura base e funcionalidades centrais do sistema. |
-| **Vanilla Races Expanded - Android** | Mecânicas de senciência e androides despertos. |
-| **Vanilla Races Expanded - Archon** | Defs e habilidades da raça Archon. |
-| **Vanilla Races Expanded - Fungoid** | Genes de infecção e mecânicas da raça Fungoid. |
-| **Vanilla Races Expanded - Genie** | Especialização em engenharia e intelecto. |
-| **Vanilla Races Expanded - Highmate** | Habilidades sociais e itens da raça Highmate. |
-| **Vanilla Races Expanded - Hussar** | Táticas militares e dependências químicas. |
-| **Vanilla Races Expanded - Insector** | Genes e mutações de insetos. |
-| **Vanilla Races Expanded - Lycanthrope** | Transformações e formas de licantropo. |
-| **Vanilla Races Expanded - Phytokin** | Mecânicas botânicas e genes de plantas. |
-| **Vanilla Races Expanded - Pigskin** | Habilidades e itens da raça Pigskin. |
-| **Vanilla Races Expanded - Sanguophage** | Sistema de hemogênio e habilidades de sangue. |
-| **Vanilla Races Expanded - Saurid** | Mecânicas e itens da raça Saurid. |
-| **Vanilla Races Expanded - Starjack** | Defs, itens e habilidades espaciais. |
-| **Vanilla Races Expanded - Waster** | Sobrevivência e mecânicas de poluição. |
-| **Vanilla Furniture Expanded - Core** | Mobiliários básicos e decorações. |
-| **Vanilla Furniture Expanded - Architect** | Novos pisos, paredes e elementos arquitetônicos. |
-| **Vanilla Furniture Expanded - Power** | Geradores e sistemas avançados de energia. |
-| **Vanilla Furniture Expanded - Production** | Bancadas e ferramentas de produção. |
-| **Vanilla Furniture Expanded - Farming** | Estruturas e itens voltados à agricultura. |
-| **Vanilla Furniture Expanded - Medical** | Equipamentos e mobília hospitalar. |
-| **Vanilla Furniture Expanded - Art** | Esculturas e itens de decoração artística. |
-| **Vanilla Furniture Expanded - Spacer Module** | Mobiliário de alta tecnologia e ficção científica. |
-| **Vanilla Furniture Expanded - Factory** | Automação industrial e produção em cadeia. |
-| **Vanilla Furniture Expanded - Security** | Defesas e estruturas militares para todos os níveis de tecnologia. |
-| **Vanilla Factions Expanded - Insectoids 2** | Facções, itens e mecânicas de insetoides. |
-| **Vanilla Factions Expanded - Pirates** | Facção de piratas, armaduras e sistema de mercenários. |
-| **Vanilla Factions Expanded - Classical** | Facção da Antiguidade Clássica, com legiões, hoplitas e filosofia. |
-| **Vanilla Factions Expanded - Empire** | Facção imperial, títulos de nobreza e equipamentos de elite. |
-| **Vanilla Factions Expanded - Medieval 2** | Facção medieval com castelos, cavaleiros e novas mecânicas. |
-| **Vanilla Factions Expanded - Settlers** | Facção de colonos e novas mecânicas de assentamento. |
-| **Vanilla Gravship Expanded - Chapter 1** | Gravinaves, projetos de pesquisa e construções. |
-| **Vanilla Vehicles Expanded** | Veículos, peças, combustível e upgrades. |
-| **Vanilla Plants Expanded - Core** | Novos cultivos, árvores e flora. |
-| **Vanilla Armour Expanded** | Coleção de novas armaduras e equipamentos de defesa. |
-| **Vanilla Nutrient Paste Expanded** | Sistemas e tubulações de pasta de nutrientes. |
-| **Vanilla Temperature Expanded** | Novos sistemas de aquecimento, resfriamento e ventilação. |
-| **Vanilla Events Expanded** | Novos eventos e condições climáticas aleatórias. |
-| **Vanilla Quests Expanded** | Ancients, Cryptoforge, Deadlife e Generator — missões, ruínas e conteúdo dos antigos. |
-| **Geological Landforms** | Formatos de relevo geológicos, editor de relevo e opções do mapa-múndi. |
-| **Vanilla Social Interactions Expanded** | Memórias sociais, inspirações, aspirações, frenesis sociais e relacionamentos. |
-| **Customize Weapon** | Módulos de armas, raridade e customização de armas de fogo. |
-| **The Dead Man's Switch** | Eventos, ruínas e o mecanismo do homem morto — missões e mecânicas dos antigos. |
-| **World Domination 2.0** | Dominação mundial, diplomacia, espionagem, postos avançados e morteiros. |
+A lista completa, com `folderId`, `packageId` e contagem de chaves por mod, está em
+[`docs/traducao-total/INVENTORY.md`](docs/traducao-total/INVENTORY.md).
+
+Também traduzidos: descrições de itens e habilidades, cartas e diálogos (`Keyed`), **listas de
+gramática** dos geradores procedurais de nomes e textos (`rulesStrings`) e as **listas de
+palavras** usadas por livros, ensinamentos e apelidos (`Strings/`).
+
+Mods com pacote PT-BR próprio (Combat Extended, Medieval Overhaul, HugsLib, RimHUD etc.) são
+excluídos de propósito — já têm tradução mantida pelos autores.
+
 ---
 
 ## 📝 Sobre o Projeto

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VFES_Artillery.label>artilharia</VFES_Artillery.label>
   <VFES_Artillery.description>Aprende a construir artilharia de campo capaz de bombardear alvos distantes dentro da região de um local no mundo.</VFES_Artillery.description>
@@ -6,4 +6,28 @@
   <VFES_SentryGuns.description>Fabrica torretas sentinelas autoalimentadas e confiáveis para usar em campo.</VFES_SentryGuns.description>
   <VFES_PulseChargedDefenses.label>defesas de carga de pulso</VFES_PulseChargedDefenses.label>
   <VFES_PulseChargedDefenses.description>Desenvolve canhões de carga avançados capazes de manter velocidade de tiro consistente.</VFES_PulseChargedDefenses.description>
+  <VFES_Artillery.generalRules.rulesStrings>
+    <li>subject-&gt;kings of the battlefield</li>
+    <li>subject_story-&gt;mastered the art of long-range bombardment, shaping the course of engagements from afar</li>
+    <li>subject_story-&gt;crafted cannons and howitzers that roar, laying waste to enemy formations with precision</li>
+    <li>subject_story-&gt;innovated mobile artillery units, bringing firepower where it's needed most</li>
+    <li>subject_story-&gt;pioneered predictive targeting techniques, foreseeing the evolution of warfare</li>
+    <li>subject_gerund-&gt;dominating the field with superior firepower</li>
+  </VFES_Artillery.generalRules.rulesStrings>
+  <VFES_SentryGuns.generalRules.rulesStrings>
+    <li>subject-&gt;automated guardians</li>
+    <li>subject_story-&gt;ushered in a new era of defense with the deployment of self-operating sentry guns</li>
+    <li>subject_story-&gt;merged artificial intelligence with lethal efficiency, setting a new standard for perimeter security</li>
+    <li>subject_story-&gt;designed systems that remain ever-vigilant, providing unwavering protection against threats</li>
+    <li>subject_story-&gt;integrated advanced targeting systems to minimize collateral damage</li>
+    <li>subject_gerund-&gt;watching over the silent fields with unblinking eyes</li>
+  </VFES_SentryGuns.generalRules.rulesStrings>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings>
+    <li>subject-&gt;charged dominion</li>
+    <li>subject_story-&gt;harnessed the raw energy of pulse technology to fortify defenses</li>
+    <li>subject_story-&gt;developed charge cannons that maintain relentless assaults on invaders</li>
+    <li>subject_story-&gt;integrated pulse tech into defensive strategies, setting a new era of warfare</li>
+    <li>subject_story-&gt;balanced the ebb and flow of battle with steady, unyielding firepower</li>
+    <li>subject_gerund-&gt;energizing the future of defense with pulse-charged might</li>
+  </VFES_PulseChargedDefenses.generalRules.rulesStrings>
 </LanguageData>

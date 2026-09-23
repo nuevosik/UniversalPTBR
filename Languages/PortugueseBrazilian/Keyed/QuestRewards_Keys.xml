@@ -2,7 +2,7 @@
 <LanguageData>
   <BladelinkEquipWarning>Uma vez vinculado a um portador, o espírito que reside nesta arma se recusará a ser empunhado por qualquer outra pessoa.</BladelinkEquipWarning>
   <LetterBladelinkWeaponBondedLabel>Vínculo espiritual: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} estabeleceu um vínculo com o espírito que reside em {WEAPON_labelShort}.\nA partir de agora, {WEAPON_labelShort} se recusará a ser empunhada por qualquer pessoa, exceto {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} estabeleceu um vínculo com o espírito que reside em {WEAPON_labelShort}.\n\nA partir de agora, {WEAPON_labelShort} se recusará a ser empunhada por qualquer pessoa, exceto {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   <SkillNeurotrainerLabel>tomo de habilidade ({0})</SkillNeurotrainerLabel>
   <SkillNeurotrainerUseLabel>Ler tomo de habilidade para melhorar o conhecimento de {0}</SkillNeurotrainerUseLabel>
   <SkillNeurotrainerDescription>Um tomo ancestral escrito por um mestre de seu ofício; pode ser lido para melhorar uma habilidade específica.</SkillNeurotrainerDescription>

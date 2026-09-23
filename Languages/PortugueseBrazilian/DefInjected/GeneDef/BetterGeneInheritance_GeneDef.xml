@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BGI_DominantGenes.label>genes dominantes</BGI_DominantGenes.label>
+  <BGI_DominantGenes.description>Os portadores deste gene terão todos os seus genes transmitidos à sua prole, ignorando quaisquer genes do parceiro, a menos que este também possua este gene.</BGI_DominantGenes.description>
+  <BGI_RecessiveGenes.label>genes recessivos</BGI_RecessiveGenes.label>
+  <BGI_RecessiveGenes.description>Os portadores deste gene não terão nenhum de seus genes transmitido à sua prole, recebendo apenas genes do parceiro, a menos que este também possua este gene.</BGI_RecessiveGenes.description>
+  <BGI_BinaryInheritance.label>herança binária</BGI_BinaryInheritance.label>
+  <BGI_BinaryInheritance.description>Se tanto o portador deste gene QUANTO seu parceiro tiverem este gene, um conjunto genético completo será escolhido de um dos progenitores.\n\nEste gene é comumente encontrado entre xenótipos com castas ou dimorfismo sexual extremo.\n\nPode ser combinado com genes dominantes/recessivos que, nesse caso, terão precedência sobre este gene.</BGI_BinaryInheritance.description>
+  <BGI_PrimaryGenes.label>genes primários</BGI_PrimaryGenes.label>
+  <BGI_PrimaryGenes.description>Os portadores deste gene terão seus genes mais prevalentes em sua prole, especialmente quando misturados com um humano padrão.\n\nIsso significa que eles normalmente transmitirão todos os seus genes, a menos que entrem em conflito com os do outro progenitor.</BGI_PrimaryGenes.description>
+  <BGI_SecondaryGenes.label>genes secundários</BGI_SecondaryGenes.label>
+  <BGI_SecondaryGenes.description>Os portadores deste gene terão seus genes menos prevalentes em sua prole.\n\nIsso significa que o outro progenitor normalmente transmitirá todos os seus genes, a menos que haja um conflito.</BGI_SecondaryGenes.description>
+</LanguageData>

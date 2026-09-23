@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <PH.EnableProxyHeat>Ativar calor por proximidade</PH.EnableProxyHeat>
   <PH.EnableProxyHeatEffectIndoors>Ativar efeito de calor por proximidade em interiores</PH.EnableProxyHeatEffectIndoors>
@@ -7,9 +7,9 @@
   <PH.ProxyHeatRadius>Raio de calor por proximidade</PH.ProxyHeatRadius>
   <PH.MinTemperature>Limite de temperatura mínima</PH.MinTemperature>
   <PH.MaxTemperature>Limite de temperatura máxima</PH.MaxTemperature>
-  <PN.NotSet> (não definido)</PN.NotSet>
+  <PN.NotSet>(não definido)</PN.NotSet>
   <PH.TemperatureOutput>Saída de temperatura</PH.TemperatureOutput>
-  <PH.Search>Buscar: </PH.Search>
+  <PH.Search>Buscar:</PH.Search>
   <PH.BuildingHasTemperatureControl>A construção possui controle próprio de temperatura alvo</PH.BuildingHasTemperatureControl>
   <VTE.MustPlaceHeaterWithFreeSpaces>O lado quente do aquecedor deve estar exposto.</VTE.MustPlaceHeaterWithFreeSpaces>
   <VTE.MustPlaceUnderRoof>Deve ser colocado sob um telhado.</VTE.MustPlaceUnderRoof>

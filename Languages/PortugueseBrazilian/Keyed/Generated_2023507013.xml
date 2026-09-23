@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AskForPopUp>Adicionar facção(ões)</AskForPopUp>
   <AskForPopUpExplained>Clique aqui para ser consultado sobre a adição de cada facção ao seu jogo</AskForPopUpExplained>
-  <CSGLog>Habilite o log de depuração de geração de estrutura: </CSGLog>
+  <CSGLog>Habilite o log de depuração de geração de estrutura:</CSGLog>
   <CSGTitle>Geração de estrutura personalizada:</CSGTitle>
   <CanAddXFaction>{0} facções podem ser adicionadas ao seu save atual</CanAddXFaction>
   <FDTitle>Descoberta de facção</FDTitle>
@@ -23,7 +23,7 @@
   <IP_FilledWithThird>{0}: o 3º compartimento está cheio de {1}</IP_FilledWithThird>
   <IP_GenericProductFinished>Um produto terminou o processamento e está aguardando para ser recolhido</IP_GenericProductFinished>
   <IP_IngredientImproperlyDefined>Um dos ingredientes foi definido incorretamente para funcionar com o processador de itens, entre em contato com o autor da modificação</IP_IngredientImproperlyDefined>
-  <IP_IngredientPercentage> (preenchido: {0} de {1})</IP_IngredientPercentage>
+  <IP_IngredientPercentage>(preenchido: {0} de {1})</IP_IngredientPercentage>
   <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
   <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
   <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
@@ -45,11 +45,11 @@
   <IP_OutputDesc>O processador produzirá {0}. É necessário fornecer {1}.</IP_OutputDesc>
   <IP_OutputVariable>Saída {0} de {1}</IP_OutputVariable>
   <IP_OutsideLightRange>O processo nesta máquina está sendo interrompido devido a um nível inadequado de luz e será prejudicado em breve</IP_OutsideLightRange>
-  <IP_OverThreshold> Aguardando a saída ser limpa. O limite de saída é {0}</IP_OverThreshold>
+  <IP_OverThreshold>Aguardando a saída ser limpa. O limite de saída é {0}</IP_OverThreshold>
   <IP_ProcessingInProgress>{0} está processando {1}. {2} estará pronto com qualidade {3} em {4}</IP_ProcessingInProgress>
   <IP_ProcessingInProgressNoQuality>{0} está processando {1}. {2} estará pronto em {3}</IP_ProcessingInProgressNoQuality>
-  <IP_ProcessorPaused>{0} está pausado: </IP_ProcessorPaused>
-  <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
+  <IP_ProcessorPaused>{0} está pausado:</IP_ProcessorPaused>
+  <IP_ProcessorWorking>{0} está funcionando:</IP_ProcessorWorking>
   <IP_ProductWaiting>Aguardando retirada</IP_ProductWaiting>
   <IP_QualityAutoEstablished>Qualidade automática, o produto será extraído no nível de qualidade: {0}</IP_QualityAutoEstablished>
   <IP_QualityAutoIs>Qualidade automática: {0}</IP_QualityAutoIs>
@@ -317,8 +317,7 @@
   <VEF.Factions.FactionDef_Description_Positives>Goodwill positivo de negociação {0}</VEF.Factions.FactionDef_Description_Positives>
   <VEF.Hire>Contratar {0}</VEF.Hire>
   <VEF.HireDesc>Contrate alguns {0} para ajudar na colônia, por exemplo na defesa.</VEF.HireDesc>
-  <VEF.HiringDesc>Você pode contratar {0} por qualquer período de tempo. Você só pode ter um contrato ativo por vez e não pode misturar e combinar as facções das quais contrata.
-Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros durante um ano inteiro.</VEF.HiringDesc>
+  <VEF.HiringDesc>Você pode contratar {0} por qualquer período de tempo. Você só pode ter um contrato ativo por vez e não pode misturar e combinar as facções das quais contrata.\nSe contratado {0} morrer em serviço, você incorrerá em um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros durante um ano inteiro.</VEF.HiringDesc>
   <VEF.HuntDescription>Enquanto estiver ativado, os personagens se moverão automaticamente para atacar alvos próximos.\n\nVocê pode clicar com o botão direito neste botão para ativar o disparo automático para TODAS as habilidades no peão selecionado.</VEF.HuntDescription>
   <VEF.LongTerm>Contratos de longo prazo são significativamente mais caros</VEF.LongTerm>
   <VEF.MechsSection>Mecanoides</VEF.MechsSection>
@@ -331,7 +330,7 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VEF.RiskMult>Multiplicador de risco</VEF.RiskMult>
   <VEF.Shields.ExplanationTitle>Defina as armas para serem utilizáveis ​​ou não com escudos.</VEF.Shields.ExplanationTitle>
   <VEF.Shields.ResetModSettingsToDefault>Redefinir as configurações do mod para o padrão</VEF.Shields.ResetModSettingsToDefault>
-  <VEF.Shields.Search>Procurar: </VEF.Shields.Search>
+  <VEF.Shields.Search>Procurar:</VEF.Shields.Search>
   <VEF.Shields.ShowMeleeWeapons>Mostrar armas brancas</VEF.Shields.ShowMeleeWeapons>
   <VEF.Shields.ShowRangeWeapons>Mostrar armas de alcance</VEF.Shields.ShowRangeWeapons>
   <VEF.Spent>Prata gasta:</VEF.Spent>
@@ -381,7 +380,7 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VEF_NeverDesc>Nunca proíba minérios extraídos (é assim que o jogo base funciona para peões não humanos, como animais e mechs)</VEF_NeverDesc>
   <VEF_NotTameable>Esta criatura é indomável</VEF_NotTameable>
   <VEF_RangeAttackSpeedFactor>Fator de velocidade de ataque de alcance</VEF_RangeAttackSpeedFactor>
-  <VEF_StomachContents>{0} criaturas engolidas inteiras. </VEF_StomachContents>
+  <VEF_StomachContents>{0} criaturas engolidas inteiras.</VEF_StomachContents>
   <VEF_TPTitle>Patches alternáveis</VEF_TPTitle>
   <VEF_TerrainsNeedsDiggable>O terreno precisa ser escavado para fazer isso</VEF_TerrainsNeedsDiggable>
   <VEF_TextureVariations>Variações de textura:</VEF_TextureVariations>
@@ -390,7 +389,7 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VEF_UnforbidMinedOres>Minérios extraídos não proibidos</VEF_UnforbidMinedOres>
   <VEF_VerboseLogging>Registro detalhado</VEF_VerboseLogging>
   <VEF_WarningEggExplodes>Atenção, este ovo explode ao eclodir!</VEF_WarningEggExplodes>
-  <VEF_WhileCaravaning>Durante a caravana, produz {0} {1} todo: </VEF_WhileCaravaning>
+  <VEF_WhileCaravaning>Durante a caravana, produz {0} {1} todo:</VEF_WhileCaravaning>
   <VFE.ChangeColorTo>Mude a cor para {0}</VFE.ChangeColorTo>
   <VFE.ChangeVisualDesc>Defina um visual específico para a construção ou item.</VFE.ChangeVisualDesc>
   <VFE.ChangeVisualLabel>Alterar visual</VFE.ChangeVisualLabel>

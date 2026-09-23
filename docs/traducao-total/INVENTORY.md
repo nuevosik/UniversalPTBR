@@ -1,7 +1,26 @@
 # Inventário — Tradução Total (PT-BR)
 
-Alvos: 139 | chaves: 26296
+Alvos: 139 | chaves: 26.296 — **todos os lotes B1–B16 concluídos**. `tools/coverage.py` regenerado
+acusa **0 alvos / 0 chaves** pendentes (critério da Task 22 do plano).
 
+Única chave que não cabe no formato `<DefName.campo>`: `21stCenturyArsenal_HandsSettings.label`
+(`defName` começa com dígito e não é nome de elemento XML válido) — traduzida via sintaxe antiga
+`<rep><path>…</path><trans>…</trans></rep>`, que o coverage também reconhece.
+
+Complementos desta rodada (fora da whitelist original DefInjected+Keyed):
+
+- **Listas de gramática** (`<DefName>...rulesStrings`) em formato de lista completa (`<li>`),
+  o mesmo do pacote oficial PT-BR; 344 listas novas e 14 listas legadas realinhadas ao EN 1.6
+  (regras ausentes, chaves de regra traduzidas por engano, condições de regra perdidas).
+- **Camada `Strings/`**: `Words/BookWords/*` e `Words/TeachingWords/*` (VBE/VSIE),
+  `Nickname/*` (VFE Settlers) — 32 arquivos, mesma contagem de linhas do EN.
+- **Limpeza**: 2 arquivos de regras de livro do Core 1.5 (estrutura `<li>` sem chave =
+  900+ erros de injeção) movidos para `docs/legado/`; 181 entradas Keyed duplicadas removidas
+  (RimWorld acusa "Duplicate keyed translation key"); valores com quebra de linha literal
+  normalizados; placeholders `{...}` perdidos restaurados.
+
+| lote | folderId | packageId | mod | defs | keys | total | status |
+|---|---|---|---|---:|---:|---:|---|
 | lote | folderId | packageId | mod | defs | keys | total | status |
 |---|---|---|---|---:|---:|---:|---|
 | B1 | 3680501610 | TSA.WorldDominationExperimental | World Domination 2.0 | 262 | 5146 | 5408 | feito |
@@ -68,78 +87,78 @@ Alvos: 139 | chaves: 26296
 | B14 | 1541460369 | VouLT.BetterPawnControl | Better Pawn Control | 3 | 65 | 68 | feito |
 | B14 | 3520130671 | Andromeda.NiceBillTab | Nice Bill Tab | 0 | 67 | 67 | feito |
 | B14 | 2688941031 | vanillaexpanded.outposts | Vanilla Outposts Expanded | 26 | 39 | 65 | feito |
-| B15 | 2608762624 | VanillaExpanded.VFEArchitect | Vanilla Furniture Expanded - Architect | 64 | 0 | 64 | pendente |
-| B15 | 2938820380 | OskarPotocki.VFE.Empire | Vanilla Factions Expanded - Empire | 64 | 0 | 64 | pendente |
-| B15 | 3630049419 | MemeGoddess.DualWield | Dual Wield - Continued | 3 | 60 | 63 | pendente |
-| B15 | 3453549086 | Fluffy.WorkTab | Work Tab | 0 | 56 | 56 | pendente |
-| B15 | 3416243474 | sbz.NeatStorage | [sbz] Neat Storage | 55 | 0 | 55 | pendente |
-| B15 | 3526251680 | Memegoddess.SmartMedicine | Smart Medicine - Continued | 8 | 46 | 54 | pendente |
-| B15 | 2574315206 | imranfish.xmlextensions | XML Extensions | 2 | 51 | 53 | pendente |
-| B15 | 3014915404 | SmashPhil.VehicleFramework | Vehicle Framework | 20 | 33 | 53 | pendente |
-| B15 | 2983471725 | vanillaracesexpanded.waster | Vanilla Races Expanded - Waster | 52 | 0 | 52 | pendente |
-| B15 | 2134308519 | VanillaExpanded.VCookE | Vanilla Cooking Expanded | 49 | 0 | 49 | pendente |
-| B15 | 3033901359 | adaptive.storage.framework | Adaptive Storage Framework | 20 | 22 | 42 | pendente |
-| B15 | 2045496988 | WiseClock.AC.DaysMatter | Days Matter (fork) | 2 | 39 | 41 | pendente |
-| B15 | 1886150617 | won2.hair | Won hair_women | 40 | 0 | 40 | pendente |
-| B15 | 3565026147 | CETeam.CombatExtendedAttachments | Combat Extended Attachments | 40 | 0 | 40 | pendente |
-| B15 | 3565026517 | CETeam.CombatExtendedMelee | Combat Extended Melee | 40 | 0 | 40 | pendente |
-| B15 | 1914064942 | VanillaExpanded.VCEF | Vanilla Fishing Expanded | 38 | 0 | 38 | pendente |
-| B15 | 1879950403 | won.hair | Won hair_men | 37 | 0 | 37 | pendente |
-| B15 | 1561221991 | Sandy.RPGStyleInventory | RPG Style Inventory | 10 | 22 | 32 | pendente |
-| B15 | 1814988282 | VanillaExpanded.VARME | Vanilla Armour Expanded | 32 | 0 | 32 | pendente |
-| B15 | 2521176396 | VanillaExpanded.VAEAccessories | Vanilla Apparel Expanded — Accessories | 29 | 3 | 32 | pendente |
-| B15 | 3523879860 | roolo.RunAndGun.kotobike | RunAndGun | 0 | 32 | 32 | pendente |
-| B15 | 3562365100 | MemeGoddess.RunAndGun | RunAndGun - Continued | 0 | 32 | 32 | pendente |
-| B15 | 2877292196 | com.yayo.yayoAni.continued | Yayo's Animation (Continued) | 0 | 31 | 31 | pendente |
-| B15 | 3012491521 | Mlie.SmarterVisitors | Smarter Visitors | 11 | 19 | 30 | pendente |
-| B15 | 1718190143 | VanillaExpanded.VFECore | Vanilla Furniture Expanded | 29 | 0 | 29 | pendente |
-| B15 | 2787850474 | OskarPotocki.VFE.Classical | Vanilla Factions Expanded - Classical | 26 | 2 | 28 | pendente |
-| B15 | 2963116383 | vanillaracesexpanded.sanguophage | Vanilla Races Expanded - Sanguophage | 26 | 0 | 26 | pendente |
-| B15 | 2052918119 | OskarPotocki.VanillaFactionsExpanded.SettlersModule | Vanilla Factions Expanded - Settlers | 25 | 0 | 25 | pendente |
-| B15 | 1509278793 | Kota.InventoryTab | InventoryTab | 2 | 21 | 23 | pendente |
-| B15 | 3570531169 | Mlie.VisualXMLPatches | Visual XML Patches | 0 | 23 | 23 | pendente |
-| B15 | 1541438907 | Dylan.AnimalGear | Animal Gear | 2 | 20 | 22 | pendente |
-| B15 | 2198652536 | VanillaExpanded.VPlantsESucculents | Vanilla Plants Expanded - Succulents | 22 | 0 | 22 | pendente |
-| B15 | 2584269293 | juanlopez2008.LightsOut | LightsOut | 0 | 21 | 21 | pendente |
-| B15 | 3046776238 | RedMattis.BetterGeneInheritance | Better Gene Inheritance | 10 | 11 | 21 | pendente |
-| B15 | 3565026039 | CETeam.CombatExtendedArmors | Combat Extended Armors | 20 | 0 | 20 | pendente |
-| B15 | 2995385834 | vanillaracesexpanded.highmate | Vanilla Races Expanded - Highmate | 18 | 0 | 18 | pendente |
-| B15 | 3261302741 | Mlie.SmarterDeconstructionAndMining | Smarter Deconstruction and Mining (Continued) | 0 | 17 | 17 | pendente |
-| B15 | 2194472657 | VanillaExpanded.VWEG | Vanilla Weapons Expanded - Grenades | 16 | 0 | 16 | pendente |
-| B15 | 2886919774 | Mlie.YayosCaravan | Yayo's Caravan (Continued) | 0 | 16 | 16 | pendente |
-| B15 | 2014789938 | fed1sPlay.PawnTargetFix | Pawn Target Fix | 0 | 15 | 15 | pendente |
-| B15 | 2028381079 | VanillaExpanded.VFESpacer | Vanilla Furniture Expanded - Spacer Module | 15 | 0 | 15 | pendente |
-| B15 | 2927323805 | vanillaracesexpanded.phytokin | Vanilla Races Expanded - Phytokin | 15 | 0 | 15 | pendente |
-| B15 | 3486264784 | sbz.NeatStorageFridge | [sbz] Fridge | 15 | 0 | 15 | pendente |
-| B15 | 2961752749 | Darknote.BunkBeds | Bunk Beds | 12 | 2 | 14 | pendente |
-| B15 | 3228047321 | Fuu.BloodAnimations | Blood Animations | 4 | 10 | 14 | pendente |
-| B15 | 3558784993 | als.anomalygravship | Anomaly for Gravship | 14 | 0 | 14 | pendente |
-| B16 | 3009738919 | tk421storm.PriorityTreatmentRessurected | Priority Treatment Ressurected | 0 | 13 | 13 | pendente |
-| B16 | 3550216763 | Mlie.Shoo | Shoo! (Continued) | 5 | 8 | 13 | pendente |
-| B16 | 2558042766 | Lucifer.RealisticRooms | Realistic Rooms Rewritten | 0 | 11 | 11 | pendente |
-| B16 | 2186560858 | VanillaExpanded.VBrewE | Vanilla Brewing Expanded | 9 | 0 | 9 | pendente |
-| B16 | 1718191613 | VanillaExpanded.VFEMedical | Vanilla Furniture Expanded - Medical Module | 8 | 0 | 8 | pendente |
-| B16 | 2016331497 | CaesarV6.DamageIndicators | Damage Indicators [1.6] | 0 | 8 | 8 | pendente |
-| B16 | 2893586390 | vanillaracesexpanded.hussar | Vanilla Races Expanded - Hussar | 3 | 5 | 8 | pendente |
-| B16 | 3738350131 | meathax.ShowMeYourTools | Show Me Your Tools | 8 | 0 | 8 | pendente |
-| B16 | 3769804600 | rabiosus.minesight | Mine Sight | 0 | 8 | 8 | pendente |
-| B16 | 2880990495 | vanillaracesexpanded.saurid | Vanilla Races Expanded - Saurid | 7 | 0 | 7 | pendente |
-| B16 | 2748222814 | Aelanna.CleaningSpeed | Cleaning Speed | 6 | 0 | 6 | pendente |
-| B16 | 2801452324 | PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter | Vanilla Fix: Haul After Slaughter | 0 | 6 | 6 | pendente |
-| B16 | 3232242247 | MemeGoddess.SearchAndDestroy | Search and Destroy (Continued) | 0 | 6 | 6 | pendente |
-| B16 | 2022480344 | Mlie.RunAndHide | Run and Hide (Continued) | 4 | 0 | 4 | pendente |
-| B16 | 2195390245 | Mlie.DrugPolicyFix | Drug Policy Fix (Continued) | 0 | 4 | 4 | pendente |
-| B16 | 2901424072 | vanillaracesexpanded.genie | Vanilla Races Expanded - Genie | 4 | 0 | 4 | pendente |
-| B16 | 3266720501 | zal.wmbp | World Map Beautification Project (Continued) | 0 | 4 | 4 | pendente |
-| B16 | 3318794297 | zal.jointbattles | Joint Battles (Continued) | 4 | 0 | 4 | pendente |
-| B16 | 3333608025 | scone.SIB | Snow IS Beautiful! | 4 | 0 | 4 | pendente |
-| B16 | 3520167264 | Defi.AutoCutBlight | Auto-Cut Blight - 1.6 | 4 | 0 | 4 | pendente |
-| B16 | 3528263608 | rabiosus.noqualityfilter | No Quality Filter | 4 | 0 | 4 | pendente |
-| B16 | 1968134023 | VanillaExpanded.VFEArt | Vanilla Furniture Expanded - Art | 3 | 0 | 3 | pendente |
-| B16 | 2056012179 | ben.automaticnightowl | Automatic Night Owl | 0 | 3 | 3 | pendente |
-| B16 | 3539609975 | ChaoticEnrico.BetterTrees | Better Trees | 3 | 0 | 3 | pendente |
-| B16 | 1957158779 | VanillaExpanded.VFEFarming | Vanilla Furniture Expanded - Farming | 2 | 0 | 2 | pendente |
-| B16 | 3108763487 | RedMattis.BetterConversion | Wololoo - Better Conversion and Recruitment | 0 | 2 | 2 | pendente |
-| B16 | 3268401022 | VanillaExpanded.VanillaAspirationsExpanded | Vanilla Aspirations Expanded | 2 | 0 | 2 | pendente |
-| B16 | 3539609161 | ChaoticEnrico.BetterMountains | Better Mountains | 2 | 0 | 2 | pendente |
-| B16 | 3014906877 | OskarPotocki.VanillaVehiclesExpanded | Vanilla Vehicles Expanded | 1 | 0 | 1 | pendente |
+| B15 | 2608762624 | VanillaExpanded.VFEArchitect | Vanilla Furniture Expanded - Architect | 64 | 0 | 64 | feito |
+| B15 | 2938820380 | OskarPotocki.VFE.Empire | Vanilla Factions Expanded - Empire | 64 | 0 | 64 | feito |
+| B15 | 3630049419 | MemeGoddess.DualWield | Dual Wield - Continued | 3 | 60 | 63 | feito |
+| B15 | 3453549086 | Fluffy.WorkTab | Work Tab | 0 | 56 | 56 | feito |
+| B15 | 3416243474 | sbz.NeatStorage | [sbz] Neat Storage | 55 | 0 | 55 | feito |
+| B15 | 3526251680 | Memegoddess.SmartMedicine | Smart Medicine - Continued | 8 | 46 | 54 | feito |
+| B15 | 2574315206 | imranfish.xmlextensions | XML Extensions | 2 | 51 | 53 | feito |
+| B15 | 3014915404 | SmashPhil.VehicleFramework | Vehicle Framework | 20 | 33 | 53 | feito |
+| B15 | 2983471725 | vanillaracesexpanded.waster | Vanilla Races Expanded - Waster | 52 | 0 | 52 | feito |
+| B15 | 2134308519 | VanillaExpanded.VCookE | Vanilla Cooking Expanded | 49 | 0 | 49 | feito |
+| B15 | 3033901359 | adaptive.storage.framework | Adaptive Storage Framework | 20 | 22 | 42 | feito |
+| B15 | 2045496988 | WiseClock.AC.DaysMatter | Days Matter (fork) | 2 | 39 | 41 | feito |
+| B15 | 1886150617 | won2.hair | Won hair_women | 40 | 0 | 40 | feito |
+| B15 | 3565026147 | CETeam.CombatExtendedAttachments | Combat Extended Attachments | 40 | 0 | 40 | feito |
+| B15 | 3565026517 | CETeam.CombatExtendedMelee | Combat Extended Melee | 40 | 0 | 40 | feito |
+| B15 | 1914064942 | VanillaExpanded.VCEF | Vanilla Fishing Expanded | 38 | 0 | 38 | feito |
+| B15 | 1879950403 | won.hair | Won hair_men | 37 | 0 | 37 | feito |
+| B15 | 1561221991 | Sandy.RPGStyleInventory | RPG Style Inventory | 10 | 22 | 32 | feito |
+| B15 | 1814988282 | VanillaExpanded.VARME | Vanilla Armour Expanded | 32 | 0 | 32 | feito |
+| B15 | 2521176396 | VanillaExpanded.VAEAccessories | Vanilla Apparel Expanded — Accessories | 29 | 3 | 32 | feito |
+| B15 | 3523879860 | roolo.RunAndGun.kotobike | RunAndGun | 0 | 32 | 32 | feito |
+| B15 | 3562365100 | MemeGoddess.RunAndGun | RunAndGun - Continued | 0 | 32 | 32 | feito |
+| B15 | 2877292196 | com.yayo.yayoAni.continued | Yayo's Animation (Continued) | 0 | 31 | 31 | feito |
+| B15 | 3012491521 | Mlie.SmarterVisitors | Smarter Visitors | 11 | 19 | 30 | feito |
+| B15 | 1718190143 | VanillaExpanded.VFECore | Vanilla Furniture Expanded | 29 | 0 | 29 | feito |
+| B15 | 2787850474 | OskarPotocki.VFE.Classical | Vanilla Factions Expanded - Classical | 26 | 2 | 28 | feito |
+| B15 | 2963116383 | vanillaracesexpanded.sanguophage | Vanilla Races Expanded - Sanguophage | 26 | 0 | 26 | feito |
+| B15 | 2052918119 | OskarPotocki.VanillaFactionsExpanded.SettlersModule | Vanilla Factions Expanded - Settlers | 25 | 0 | 25 | feito |
+| B15 | 1509278793 | Kota.InventoryTab | InventoryTab | 2 | 21 | 23 | feito |
+| B15 | 3570531169 | Mlie.VisualXMLPatches | Visual XML Patches | 0 | 23 | 23 | feito |
+| B15 | 1541438907 | Dylan.AnimalGear | Animal Gear | 2 | 20 | 22 | feito |
+| B15 | 2198652536 | VanillaExpanded.VPlantsESucculents | Vanilla Plants Expanded - Succulents | 22 | 0 | 22 | feito |
+| B15 | 2584269293 | juanlopez2008.LightsOut | LightsOut | 0 | 21 | 21 | feito |
+| B15 | 3046776238 | RedMattis.BetterGeneInheritance | Better Gene Inheritance | 10 | 11 | 21 | feito |
+| B15 | 3565026039 | CETeam.CombatExtendedArmors | Combat Extended Armors | 20 | 0 | 20 | feito |
+| B15 | 2995385834 | vanillaracesexpanded.highmate | Vanilla Races Expanded - Highmate | 18 | 0 | 18 | feito |
+| B15 | 3261302741 | Mlie.SmarterDeconstructionAndMining | Smarter Deconstruction and Mining (Continued) | 0 | 17 | 17 | feito |
+| B15 | 2194472657 | VanillaExpanded.VWEG | Vanilla Weapons Expanded - Grenades | 16 | 0 | 16 | feito |
+| B15 | 2886919774 | Mlie.YayosCaravan | Yayo's Caravan (Continued) | 0 | 16 | 16 | feito |
+| B15 | 2014789938 | fed1sPlay.PawnTargetFix | Pawn Target Fix | 0 | 15 | 15 | feito |
+| B15 | 2028381079 | VanillaExpanded.VFESpacer | Vanilla Furniture Expanded - Spacer Module | 15 | 0 | 15 | feito |
+| B15 | 2927323805 | vanillaracesexpanded.phytokin | Vanilla Races Expanded - Phytokin | 15 | 0 | 15 | feito |
+| B15 | 3486264784 | sbz.NeatStorageFridge | [sbz] Fridge | 15 | 0 | 15 | feito |
+| B15 | 2961752749 | Darknote.BunkBeds | Bunk Beds | 12 | 2 | 14 | feito |
+| B15 | 3228047321 | Fuu.BloodAnimations | Blood Animations | 4 | 10 | 14 | feito |
+| B15 | 3558784993 | als.anomalygravship | Anomaly for Gravship | 14 | 0 | 14 | feito |
+| B16 | 3009738919 | tk421storm.PriorityTreatmentRessurected | Priority Treatment Ressurected | 0 | 13 | 13 | feito |
+| B16 | 3550216763 | Mlie.Shoo | Shoo! (Continued) | 5 | 8 | 13 | feito |
+| B16 | 2558042766 | Lucifer.RealisticRooms | Realistic Rooms Rewritten | 0 | 11 | 11 | feito |
+| B16 | 2186560858 | VanillaExpanded.VBrewE | Vanilla Brewing Expanded | 9 | 0 | 9 | feito |
+| B16 | 1718191613 | VanillaExpanded.VFEMedical | Vanilla Furniture Expanded - Medical Module | 8 | 0 | 8 | feito |
+| B16 | 2016331497 | CaesarV6.DamageIndicators | Damage Indicators [1.6] | 0 | 8 | 8 | feito |
+| B16 | 2893586390 | vanillaracesexpanded.hussar | Vanilla Races Expanded - Hussar | 3 | 5 | 8 | feito |
+| B16 | 3738350131 | meathax.ShowMeYourTools | Show Me Your Tools | 8 | 0 | 8 | feito |
+| B16 | 3769804600 | rabiosus.minesight | Mine Sight | 0 | 8 | 8 | feito |
+| B16 | 2880990495 | vanillaracesexpanded.saurid | Vanilla Races Expanded - Saurid | 7 | 0 | 7 | feito |
+| B16 | 2748222814 | Aelanna.CleaningSpeed | Cleaning Speed | 6 | 0 | 6 | feito |
+| B16 | 2801452324 | PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter | Vanilla Fix: Haul After Slaughter | 0 | 6 | 6 | feito |
+| B16 | 3232242247 | MemeGoddess.SearchAndDestroy | Search and Destroy (Continued) | 0 | 6 | 6 | feito |
+| B16 | 2022480344 | Mlie.RunAndHide | Run and Hide (Continued) | 4 | 0 | 4 | feito |
+| B16 | 2195390245 | Mlie.DrugPolicyFix | Drug Policy Fix (Continued) | 0 | 4 | 4 | feito |
+| B16 | 2901424072 | vanillaracesexpanded.genie | Vanilla Races Expanded - Genie | 4 | 0 | 4 | feito |
+| B16 | 3266720501 | zal.wmbp | World Map Beautification Project (Continued) | 0 | 4 | 4 | feito |
+| B16 | 3318794297 | zal.jointbattles | Joint Battles (Continued) | 4 | 0 | 4 | feito |
+| B16 | 3333608025 | scone.SIB | Snow IS Beautiful! | 4 | 0 | 4 | feito |
+| B16 | 3520167264 | Defi.AutoCutBlight | Auto-Cut Blight - 1.6 | 4 | 0 | 4 | feito |
+| B16 | 3528263608 | rabiosus.noqualityfilter | No Quality Filter | 4 | 0 | 4 | feito |
+| B16 | 1968134023 | VanillaExpanded.VFEArt | Vanilla Furniture Expanded - Art | 3 | 0 | 3 | feito |
+| B16 | 2056012179 | ben.automaticnightowl | Automatic Night Owl | 0 | 3 | 3 | feito |
+| B16 | 3539609975 | ChaoticEnrico.BetterTrees | Better Trees | 3 | 0 | 3 | feito |
+| B16 | 1957158779 | VanillaExpanded.VFEFarming | Vanilla Furniture Expanded - Farming | 2 | 0 | 2 | feito |
+| B16 | 3108763487 | RedMattis.BetterConversion | Wololoo - Better Conversion and Recruitment | 0 | 2 | 2 | feito |
+| B16 | 3268401022 | VanillaExpanded.VanillaAspirationsExpanded | Vanilla Aspirations Expanded | 2 | 0 | 2 | feito |
+| B16 | 3539609161 | ChaoticEnrico.BetterMountains | Better Mountains | 2 | 0 | 2 | feito |
+| B16 | 3014906877 | OskarPotocki.VanillaVehiclesExpanded | Vanilla Vehicles Expanded | 1 | 0 | 1 | feito |

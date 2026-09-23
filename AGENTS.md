@@ -9,8 +9,10 @@ RimWorld translation mod. No build system, package manager, tests, or CI. 100% X
 - `Languages/PortugueseBrazilian/` — all translation content:
   - `LanguageInfo.xml` — `LanguageWorker_Portuguese`, `canBeTiny=true`.
   - `Keyed/*.xml` — `<LanguageData><Key>translated text</Key></LanguageData>` — UI, messages, dialogs.
-  - `DefInjected/<DefType>/*.xml` — `<LanguageData><DefName.field>text</DefName.field></LanguageData>` — def injections (ThingDef, GeneDef, HediffDef, etc.). ~150 DefType subdirs, ~919 XML files + 4 TXT total.
-  - `Strings/Words/Nouns/*.txt` — plain word lists for procedural generation (one term per line, UTF-8 with BOM).
+  - `DefInjected/<DefType>/*.xml` — `<LanguageData><DefName.field>text</DefName.field></LanguageData>` — def injections (ThingDef, GeneDef, HediffDef, etc.). ~239 DefType subdirs, ~1779 XML + 38 TXT no total.
+    - Listas de gramática vão sob `<DefName>...rulesStrings>` com um `<li>` por regra (formato do pacote oficial PT-BR). O lado esquerdo da regra (`lhs->`) nunca é traduzido.
+    - Chave cujo `defName` não é nome de elemento XML válido (começa com dígito) vai via sintaxe antiga `<rep><path>…</path><trans>…</trans></rep>`.
+  - `Strings/Words/{Nouns,BookWords,TeachingWords}/*.txt` e `Strings/Nickname/*.txt` — listas de palavras para geração procedural (uma linha por termo, UTF-8 com BOM; o RimWorld **anexa** às listas EN).
 - `Patches/*.xml` — `PatchOperation` XPath overrides (not `LanguageData`). Contain Portuguese strings inline in `<value>` blocks. 11 files (e.g., `Patch_VRE_Starjack.xml`, `Patch_VGE_Chapter1.xml`).
 
 ## Validation (no test suite)
@@ -23,6 +25,13 @@ xmllint --noout Languages/PortugueseBrazilian/**/*.xml Patches/*.xml About/About
 git diff --check
 git diff --stat
 git status --short   # check dirty state before staging
+
+# Lotes da campanha total (chaves órfãs, valores vazios, placeholders, regras ausentes)
+python3 tools/validate_medieval.py --batch B15        # DefInjected
+python3 tools/validate_medieval.py --batch B15 --keyed
+
+# Cobertura: lista alvos ainda sem tradução (por chave, sem a pasta de DefType)
+python3 tools/coverage.py --json /tmp/targets.json --md /tmp/INVENTORY.md
 ```
 
 `xmllint` (libxml 2.15.3) and `python3` are available. No `npm`/`dotnet`/`pytest`.

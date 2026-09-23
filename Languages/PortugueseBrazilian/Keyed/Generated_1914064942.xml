@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VCEF_CaughtSpecial>Enquanto pescava, {0} capturou algo especial: {1}</VCEF_CaughtSpecial>
   <VCEF_ChooseFish>Escolha pegar</VCEF_ChooseFish>
@@ -10,10 +10,10 @@
   <VCEF_CommandAllowFishingDesc>Permitir a pesca nesta zona de pesca</VCEF_CommandAllowFishingDesc>
   <VCEF_DisableGillRot>Desativar podridão branquial</VCEF_DisableGillRot>
   <VCEF_DisableGillRotDesc>Se marcado, tornará Gill Rit impossível de acontecer em qualquer circunstância.</VCEF_DisableGillRotDesc>
-  <VCEF_FishesInThisZone>Peixes nesta zona: </VCEF_FishesInThisZone>
+  <VCEF_FishesInThisZone>Peixes nesta zona:</VCEF_FishesInThisZone>
   <VCEF_FishingGrowingZone>Zona de Pesca</VCEF_FishingGrowingZone>
   <VCEF_FishingGrowingZoneDesc>Crie uma zona onde seus colonos tentarão pescar</VCEF_FishingGrowingZoneDesc>
-  <VCEF_IsZoneOceanZone>Zona de pesca oceânica: </VCEF_IsZoneOceanZone>
+  <VCEF_IsZoneOceanZone>Zona de pesca oceânica:</VCEF_IsZoneOceanZone>
   <VCEF_No>Não</VCEF_No>
   <VCEF_NoFish>Não há peixes para pescar neste bioma (isso pode acontecer com biomas modificados, peça ao proprietário para adicionar suporte! Ou talvez você esteja em um bioma sem vida)</VCEF_NoFish>
   <VCEF_Reset_Plain>Redefinir tudo</VCEF_Reset_Plain>

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VMF_GotoAcrossMaps.reportString>moving.</VMF_GotoAcrossMaps.reportString>
-  <VMF_AttackMeleeAcrossMaps.reportString>melee attacking TargetC.</VMF_AttackMeleeAcrossMaps.reportString>
-  <VMF_HaulToCellAcrossMaps.reportString>hauling TargetA.</VMF_HaulToCellAcrossMaps.reportString>
-  <VMF_HaulToContainerAcrossMaps.reportString>hauling TargetA.</VMF_HaulToContainerAcrossMaps.reportString>
-  <VMF_CarryDownedPawnDraftedAcrossMaps.reportString>carrying TargetA.</VMF_CarryDownedPawnDraftedAcrossMaps.reportString>
-  <VMF_TakeDownedPawnToBedDraftedAcrossMaps.reportString>taking TargetA to bed.</VMF_TakeDownedPawnToBedDraftedAcrossMaps.reportString>
-  <VMF_CarryToPrisonerBedDraftedAcrossMaps.reportString>arresting TargetA.</VMF_CarryToPrisonerBedDraftedAcrossMaps.reportString>
-  <VMF_CarryToEntityHolderAcrossMaps.reportString>carrying TargetB to TargetA.</VMF_CarryToEntityHolderAcrossMaps.reportString>
-  <VMF_CarryToEntityHolderAlreadyHoldingAcrossMaps.reportString>carrying TargetB to TargetA.</VMF_CarryToEntityHolderAlreadyHoldingAcrossMaps.reportString>
-  <VMF_TransferBetweenEntityHoldersAcrossMaps.reportString>transferring TargetC to another holding location.</VMF_TransferBetweenEntityHoldersAcrossMaps.reportString>
-  <VMF_ArrestAcrossMaps.reportString>arresting TargetA.</VMF_ArrestAcrossMaps.reportString>
-  <VMF_RescueAcrossMaps.reportString>rescuing TargetA.</VMF_RescueAcrossMaps.reportString>
-  <VMF_BringBabyToSafetyAcrossMaps.reportString>putting TargetA somewhere safe.</VMF_BringBabyToSafetyAcrossMaps.reportString>
-  <VMF_CaptureAcrossMaps.reportString>capturing TargetA.</VMF_CaptureAcrossMaps.reportString>
-  <VMF_CarryToCryptosleepCasketAcrossMaps.reportString>carrying TargetA to clyptosleep casket.</VMF_CarryToCryptosleepCasketAcrossMaps.reportString>
-  <VMF_CarryToCryptosleepCasketDraftedAcrossMaps.reportString>carrying TargetA to clyptosleep casket.</VMF_CarryToCryptosleepCasketDraftedAcrossMaps.reportString>
-  <VMF_HaulToTransporterAcrossMaps.reportString>hauling TargetA.</VMF_HaulToTransporterAcrossMaps.reportString>
-  <VMF_ExtractRelicAcrossMaps.reportString>extracting TargetB from TargetA.</VMF_ExtractRelicAcrossMaps.reportString>
-  <VMF_InstallRelicAcrossMaps.reportString>installing TargetA in TargetB</VMF_InstallRelicAcrossMaps.reportString>
-  <VMF_HaulMechToChargerAcrossMaps.reportString>hauling TargetA to charger.</VMF_HaulMechToChargerAcrossMaps.reportString>
-  <VMF_DeliverToBedAcrossMaps.reportString>delivering TargetA.</VMF_DeliverToBedAcrossMaps.reportString>
-  <VMF_GiveToPackAnimalAcrossMaps.reportString>taking TargetA.</VMF_GiveToPackAnimalAcrossMaps.reportString>
-  <VMF_CarryDownedPawnToPortalAcrossMaps.reportString>carrying TargetA.</VMF_CarryDownedPawnToPortalAcrossMaps.reportString>
-  <VMF_CarryDownedPawnToExitAcrossMaps.reportString>carrying TargetA.</VMF_CarryDownedPawnToExitAcrossMaps.reportString>
-  <VMF_TendPatientAcrossMaps.reportString>tending to TargetA.</VMF_TendPatientAcrossMaps.reportString>
-  <VMF_TendEntityAcrossmaps.reportString>tending to TargetA.</VMF_TendEntityAcrossmaps.reportString>
-  <VMF_BoardAcrossMaps.reportString>Entering TargetA.</VMF_BoardAcrossMaps.reportString>
-  <VMF_RefuelAcrossMaps.reportString>refueling TargetA.</VMF_RefuelAcrossMaps.reportString>
-  <VMF_RefuelAtomicAcrossMaps.reportString>refueling TargetA.</VMF_RefuelAtomicAcrossMaps.reportString>
-  <VMF_RearmTurretAcrossMaps.reportString>rearming TargetA.</VMF_RearmTurretAcrossMaps.reportString>
-  <VMF_RearmTurretAtomicAcrossMaps.reportString>rearming TargetA.</VMF_RearmTurretAtomicAcrossMaps.reportString>
-  <VMF_DoBillAcrossMaps.reportString>doing bill at TargetA.</VMF_DoBillAcrossMaps.reportString>
-  <VMF_RefuelVehicleTank.reportString>Refueling TargetA</VMF_RefuelVehicleTank.reportString>
-  <VMF_HaulToInventoryAcrossMaps.reportString>gathering TargetA to hauling inventory.</VMF_HaulToInventoryAcrossMaps.reportString>
-  <VMF_RepairMapVehicle.reportString>Repairing TargetA.</VMF_RepairMapVehicle.reportString>
+  <VMF_GotoAcrossMaps.reportString>deslocando-se.</VMF_GotoAcrossMaps.reportString>
+  <VMF_AttackMeleeAcrossMaps.reportString>atacando TargetC em combate corpo a corpo.</VMF_AttackMeleeAcrossMaps.reportString>
+  <VMF_HaulToCellAcrossMaps.reportString>transportando TargetA.</VMF_HaulToCellAcrossMaps.reportString>
+  <VMF_HaulToContainerAcrossMaps.reportString>transportando TargetA.</VMF_HaulToContainerAcrossMaps.reportString>
+  <VMF_CarryDownedPawnDraftedAcrossMaps.reportString>carregando TargetA.</VMF_CarryDownedPawnDraftedAcrossMaps.reportString>
+  <VMF_TakeDownedPawnToBedDraftedAcrossMaps.reportString>levando TargetA para a cama.</VMF_TakeDownedPawnToBedDraftedAcrossMaps.reportString>
+  <VMF_CarryToPrisonerBedDraftedAcrossMaps.reportString>prendendo TargetA.</VMF_CarryToPrisonerBedDraftedAcrossMaps.reportString>
+  <VMF_CarryToEntityHolderAcrossMaps.reportString>carregando TargetB para TargetA.</VMF_CarryToEntityHolderAcrossMaps.reportString>
+  <VMF_CarryToEntityHolderAlreadyHoldingAcrossMaps.reportString>carregando TargetB para TargetA.</VMF_CarryToEntityHolderAlreadyHoldingAcrossMaps.reportString>
+  <VMF_TransferBetweenEntityHoldersAcrossMaps.reportString>transferindo TargetC para outro local de contenção.</VMF_TransferBetweenEntityHoldersAcrossMaps.reportString>
+  <VMF_ArrestAcrossMaps.reportString>prendendo TargetA.</VMF_ArrestAcrossMaps.reportString>
+  <VMF_RescueAcrossMaps.reportString>resgatando TargetA.</VMF_RescueAcrossMaps.reportString>
+  <VMF_BringBabyToSafetyAcrossMaps.reportString>colocando TargetA em um lugar seguro.</VMF_BringBabyToSafetyAcrossMaps.reportString>
+  <VMF_CaptureAcrossMaps.reportString>capturando TargetA.</VMF_CaptureAcrossMaps.reportString>
+  <VMF_CarryToCryptosleepCasketAcrossMaps.reportString>carregando TargetA para o caixão de criptossono.</VMF_CarryToCryptosleepCasketAcrossMaps.reportString>
+  <VMF_CarryToCryptosleepCasketDraftedAcrossMaps.reportString>carregando TargetA para o caixão de criptossono.</VMF_CarryToCryptosleepCasketDraftedAcrossMaps.reportString>
+  <VMF_HaulToTransporterAcrossMaps.reportString>transportando TargetA.</VMF_HaulToTransporterAcrossMaps.reportString>
+  <VMF_ExtractRelicAcrossMaps.reportString>extraindo TargetB de TargetA.</VMF_ExtractRelicAcrossMaps.reportString>
+  <VMF_InstallRelicAcrossMaps.reportString>instalando TargetA em TargetB</VMF_InstallRelicAcrossMaps.reportString>
+  <VMF_HaulMechToChargerAcrossMaps.reportString>transportando TargetA para o carregador.</VMF_HaulMechToChargerAcrossMaps.reportString>
+  <VMF_DeliverToBedAcrossMaps.reportString>entregando TargetA.</VMF_DeliverToBedAcrossMaps.reportString>
+  <VMF_GiveToPackAnimalAcrossMaps.reportString>pegando TargetA.</VMF_GiveToPackAnimalAcrossMaps.reportString>
+  <VMF_CarryDownedPawnToPortalAcrossMaps.reportString>carregando TargetA.</VMF_CarryDownedPawnToPortalAcrossMaps.reportString>
+  <VMF_CarryDownedPawnToExitAcrossMaps.reportString>carregando TargetA.</VMF_CarryDownedPawnToExitAcrossMaps.reportString>
+  <VMF_TendPatientAcrossMaps.reportString>cuidando de TargetA.</VMF_TendPatientAcrossMaps.reportString>
+  <VMF_TendEntityAcrossmaps.reportString>cuidando de TargetA.</VMF_TendEntityAcrossmaps.reportString>
+  <VMF_BoardAcrossMaps.reportString>Entrando em TargetA.</VMF_BoardAcrossMaps.reportString>
+  <VMF_RefuelAcrossMaps.reportString>reabastecendo TargetA.</VMF_RefuelAcrossMaps.reportString>
+  <VMF_RefuelAtomicAcrossMaps.reportString>reabastecendo TargetA.</VMF_RefuelAtomicAcrossMaps.reportString>
+  <VMF_RearmTurretAcrossMaps.reportString>rearmando TargetA.</VMF_RearmTurretAcrossMaps.reportString>
+  <VMF_RearmTurretAtomicAcrossMaps.reportString>rearmando TargetA.</VMF_RearmTurretAtomicAcrossMaps.reportString>
+  <VMF_DoBillAcrossMaps.reportString>executando tarefa em TargetA.</VMF_DoBillAcrossMaps.reportString>
+  <VMF_RefuelVehicleTank.reportString>Reabastecendo TargetA</VMF_RefuelVehicleTank.reportString>
+  <VMF_HaulToInventoryAcrossMaps.reportString>recolhendo TargetA para o inventário de transporte.</VMF_HaulToInventoryAcrossMaps.reportString>
+  <VMF_RepairMapVehicle.reportString>Reparando TargetA.</VMF_RepairMapVehicle.reportString>
 </LanguageData>

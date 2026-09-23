@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DesignatorShoo>Espantar</DesignatorShoo>
+  <DesignatorShooDesc>Marca animais para serem espantados da colônia sem violência. Os animais atravessarão portas enquanto fogem.</DesignatorShooDesc>
+  <MessageMustDesignateShooable>É preciso designar animais.</MessageMustDesignateShooable>
+  <MessageAnimalDangerousToShoo>Aviso: {0} pode atacar se for espantado.</MessageAnimalDangerousToShoo>
+  <ShooSuccess>fugindo</ShooSuccess>
+  <ShooFailure>falha ao espantar (chance de {0})</ShooFailure>
+  <ManhuntOnFailedShoo>{0} está atacando depois de ter sido espantado.</ManhuntOnFailedShoo>
+  <ManhuntOnFailedShooLabel>{0} busca vingança</ManhuntOnFailedShooLabel>
+</LanguageData>

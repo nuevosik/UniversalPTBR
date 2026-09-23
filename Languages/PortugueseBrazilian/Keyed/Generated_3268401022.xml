@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VAspirE.Abilities>habilidades</VAspirE.Abilities>
   <VAspirE.AbilityLevel>nível de psicocast</VAspirE.AbilityLevel>
@@ -11,7 +11,7 @@
   <VAspirE.BecomesList>{0} torna-se {1} para um destes: {2}.</VAspirE.BecomesList>
   <VAspirE.BirthdaySelectAspirationSingular>Escolha uma aspiração para {0} para ganhar:</VAspirE.BirthdaySelectAspirationSingular>
   <VAspirE.BirthdaySelectAspirationsPlural>Escolha aspirações para {0} para ganhar:</VAspirE.BirthdaySelectAspirationsPlural>
-  <VAspirE.CompletedOn>Concluído em: </VAspirE.CompletedOn>
+  <VAspirE.CompletedOn>Concluído em:</VAspirE.CompletedOn>
   <VAspirE.Condition>doença</VAspirE.Condition>
   <VAspirE.Enabled>{0} habilitado</VAspirE.Enabled>
   <VAspirE.FullfilledGrowthMoment>{0} alcançou a realização de suas aspirações e viveu um momento de crescimento.</VAspirE.FullfilledGrowthMoment>
@@ -25,8 +25,8 @@
   <VAspirE.Prosthetic>prótese</VAspirE.Prosthetic>
   <VAspirE.Recipe>{0} completa a receita {1}</VAspirE.Recipe>
   <VAspirE.RecipeProduct>{0} completa a receita {1}, usando pelo menos 1 {2}</VAspirE.RecipeProduct>
-  <VAspirE.SatisfiedWhen>Satisfeito quando: </VAspirE.SatisfiedWhen>
-  <VAspirE.Scar> cicatriz (permanente)</VAspirE.Scar>
+  <VAspirE.SatisfiedWhen>Satisfeito quando:</VAspirE.SatisfiedWhen>
+  <VAspirE.Scar>cicatriz (permanente)</VAspirE.Scar>
   <VAspirE.Search>Procurar</VAspirE.Search>
   <VAspirE.SelectAspirationSingular>Selecione uma aspiração.</VAspirE.SelectAspirationSingular>
   <VAspirE.SelectAspirationsPlural>Selecione {0} aspirações.</VAspirE.SelectAspirationsPlural>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <SAR_FieldRescue.description>Coordinates battlefield triage, stabilization, medical supply, capture and evacuation. This work type sets the overall priority of battlefield rescue. Also enable Doctor, Hauling and other relevant work types to perform the individual tasks.</SAR_FieldRescue.description>
-  <SAR_FieldRescue.verb>Rescue</SAR_FieldRescue.verb>
-  <SAR_FieldRescue.labelShort>field rescue</SAR_FieldRescue.labelShort>
-  <SAR_FieldRescue.pawnLabel>Field responder</SAR_FieldRescue.pawnLabel>
-  <SAR_FieldRescue.gerundLabel>field rescue</SAR_FieldRescue.gerundLabel>
+  <SAR_FieldRescue.description>Coordena triagem, estabilização, suprimento médico, captura e evacuação no campo de batalha. Este tipo de trabalho define a prioridade geral do resgate de campo. Ative também os tipos de trabalho Médico, Transporte e outros relevantes para executar as tarefas individuais.</SAR_FieldRescue.description>
+  <SAR_FieldRescue.verb>Resgatar</SAR_FieldRescue.verb>
+  <SAR_FieldRescue.labelShort>resgate de campo</SAR_FieldRescue.labelShort>
+  <SAR_FieldRescue.pawnLabel>Respondente de campo</SAR_FieldRescue.pawnLabel>
+  <SAR_FieldRescue.gerundLabel>resgate de campo</SAR_FieldRescue.gerundLabel>
 </LanguageData>

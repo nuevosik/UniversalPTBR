@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AM_Execution_Includes.rulePack.rulesStrings>
+    <li>exec_desc-&gt;hábil</li>
+    <li>exec_desc-&gt;rápida</li>
+    <li>exec_desc-&gt;misericordiosa</li>
+    <li>exec_desc-&gt;brutal</li>
+    <li>exec_desc-&gt;vingativa</li>
+    <li>exec_desc-&gt;grosseira</li>
+    <li>exec_desc-&gt;eficiente</li>
+    <li>exec_desc-&gt;limpa</li>
+    <li>exec_desc-&gt;chocante</li>
+    <li>exec_desc-&gt;espetacular</li>
+    <li>impaled-&gt;empalou</li>
+    <li>impaled-&gt;traspassou</li>
+    <li>stabbed-&gt;esfaqueou</li>
+    <li>stabbed-&gt;traspassou</li>
+    <li>slashed-&gt;cortou</li>
+    <li>slashed-&gt;lacerou</li>
+    <li>slashed-&gt;retalhou</li>
+    <li>slashed-&gt;rasgou</li>
+    <li>beat-&gt;espancou</li>
+    <li>beat-&gt;surrou</li>
+    <li>beat-&gt;golpeou</li>
+    <li>skillfully-&gt;habilidosamente</li>
+    <li>skillfully-&gt;magistralmente</li>
+    <li>skillfully-&gt;agilmente</li>
+    <li>weeb_legend-&gt;o Espírito Demoníaco</li>
+    <li>weeb_legend(p=6)-&gt;[INITIATOR_definite], Assassino de [RECIPIENT_labelPlural]</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], o Imortal</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], Conquistador das Estrelas</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], o Morto-Vivo</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], o Sombrio</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], o Edgelord Supremo</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], Colecionador de Fotos de Pés</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], o Penetrador</li>
+  </AM_Execution_Includes.rulePack.rulesStrings>
+  <AM_Execution_Generic.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[RECIPIENT_definite] morreu pelas mãos de [INITIATOR_definite] em uma execução [exec_desc].</li>
+  </AM_Execution_Generic.rulePack.rulesStrings>
+  <AM_Execution_Stab.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [stabbed] [RECIPIENT_definite] no [recipient_part0_label].</li>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [impaled] [RECIPIENT_definite] com [INITIATOR_possessive] [TOOL_label].</li>
+  </AM_Execution_Stab.rulePack.rulesStrings>
+  <AM_Execution_Slashed.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [slashed] [RECIPIENT_definite] no [recipient_part0_label].</li>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [slashed] [RECIPIENT_definite] com [INITIATOR_possessive] [TOOL_label].</li>
+  </AM_Execution_Slashed.rulePack.rulesStrings>
+  <AM_Execution_Blunt.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [beat] [RECIPIENT_definite] até a morte!</li>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [beat] [RECIPIENT_definite] usando [INITIATOR_possessive] [TOOL_label].</li>
+  </AM_Execution_Blunt.rulePack.rulesStrings>
+  <AM_Execution_Passover.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Executando uma execução [exec_desc], [INITIATOR_definite] [impaled] [RECIPIENT_definite] em [INITIATOR_possessive] [TOOL_label], depois arremessou [RECIPIENT_definite] por cima de [INITIATOR_possessive] costas! Brutal!</li>
+  </AM_Execution_Passover.rulePack.rulesStrings>
+  <AM_Execution_Weebstick.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Empunhando [INITIATOR_possessive] [TOOL_label], uma arma que teria matado Deus, [INITIATOR_definite] confrontou [RECIPIENT_definite]. Rápido demais para os olhos acompanharem, [INITIATOR_pronoun] [slashed] [RECIPIENT_definite].\nTodos aplaudiram.</li>
+    <li>r_logentry(p=5)-&gt;Empunhando [INITIATOR_possessive] [TOOL_label], uma arma que teria matado Deus, [INITIATOR_definite] confrontou [RECIPIENT_definite]. Rápido demais para os olhos acompanharem, [INITIATOR_pronoun] [slashed] [RECIPIENT_definite].\nAssim nasceu a lenda de [weeb_legend].</li>
+    <li>r_logentry-&gt;Empunhando [INITIATOR_possessive] [TOOL_label], uma arma que teria matado Deus, [INITIATOR_definite] confrontou [RECIPIENT_definite]. Rápido demais para os olhos acompanharem, [INITIATOR_pronoun] [slashed] [RECIPIENT_definite].\nNinguém pode ter certeza se foi a lâmina que desferiu o golpe fatal, ou se [INITIATOR_definite] é simplesmente tão sombrio que [INITIATOR_possessive] aura poderosa drenou de [RECIPIENT_definite] toda a vontade de viver.</li>
+  </AM_Execution_Weebstick.rulePack.rulesStrings>
+  <AM_Execution_Gilgamesh.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Em um impressionante feito de maestria em psicocast, [INITIATOR_definite] invocou dezenas de armas para empalar [RECIPIENT_definite].</li>
+  </AM_Execution_Gilgamesh.rulePack.rulesStrings>
+</LanguageData>

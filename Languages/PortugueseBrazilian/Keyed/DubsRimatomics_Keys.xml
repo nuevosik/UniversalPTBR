@@ -54,15 +54,15 @@
   <AlertCoreOverheatDesc>Um reator está sendo danificado por superaquecimento</AlertCoreOverheatDesc>
   <AlertCracked>Núcleo fissurado</AlertCracked>
   <AlertCrackedDesc>O desgaste de operar o núcleo em altas temperaturas por um longo período fez o núcleo fissurar. Ele precisará ser desconstruído e reconstruído, ou continuará emitindo radiação letal, produzindo menos energia e danificando as varetas de combustível.</AlertCrackedDesc>
-  <CRACKEDFUEL>    ::COMBUSTÍVEL FISSURADO::</CRACKEDFUEL>
-  <NOCOOLING>    ::SEM RESFRIAMENTO::</NOCOOLING>
-  <OVERHEATING>    ::SUPERAQUECIMENTO:: {0}</OVERHEATING>
-  <COREMELT>    ::FUSÃO DO NÚCLEO IMINENTE::</COREMELT>
-  <EVACUATE>    ::EVACUAR::</EVACUATE>
-  <CONTROLRODJAM>    ::BARRAS DE CONTROLE TRAVADAS::</CONTROLRODJAM>
+  <CRACKEDFUEL>::COMBUSTÍVEL FISSURADO::</CRACKEDFUEL>
+  <NOCOOLING>::SEM RESFRIAMENTO::</NOCOOLING>
+  <OVERHEATING>::SUPERAQUECIMENTO:: {0}</OVERHEATING>
+  <COREMELT>::FUSÃO DO NÚCLEO IMINENTE::</COREMELT>
+  <EVACUATE>::EVACUAR::</EVACUATE>
+  <CONTROLRODJAM>::BARRAS DE CONTROLE TRAVADAS::</CONTROLRODJAM>
   <ReactorAlerts>Alertas do reator:</ReactorAlerts>
-  <RADIATIONLEAK>    ::VAZAMENTO DE RADIAÇÃO::</RADIATIONLEAK>
-  <RADIATIONLEAKSYSTEM>    ::RADIAÇÃO NO SISTEMA::</RADIATIONLEAKSYSTEM>
+  <RADIATIONLEAK>::VAZAMENTO DE RADIAÇÃO::</RADIATIONLEAK>
+  <RADIATIONLEAKSYSTEM>::RADIAÇÃO NO SISTEMA::</RADIATIONLEAKSYSTEM>
   <PodsScrambledOK>Cápsulas de transporte inimigas sofreram interferência do TACS</PodsScrambledOK>
   <PodsScrambledDesc>Os sistemas de orientação das cápsulas de transporte inimigas sofreram interferência do TACS usando um pulso de {0} kW</PodsScrambledDesc>
   <PodsScrambledFail>Falha ao interferir nas cápsulas de transporte inimigas</PodsScrambledFail>
@@ -104,7 +104,7 @@
   <critProg>Progresso: {0}</critProg>
   <critRemovePlutonium>Processamento concluído; remova o material</critRemovePlutonium>
   <critEnouPU>Pode ser reprocessado</critEnouPU>
-  <VeteranBonus>  Bônus: Recarga -{0}%</VeteranBonus>
+  <VeteranBonus>Bônus: Recarga -{0}%</VeteranBonus>
   <AnUnknownForce>uma força desconhecida</AnUnknownForce>
   <ATOMattackGround>por terra</ATOMattackGround>
   <ATOMattackPods>por cápsulas de transporte</ATOMattackPods>
@@ -236,9 +236,9 @@
   <RimUnlocked>Sonda detectada.</RimUnlocked>
   <RimatomicsResearchAlert>Pesquisa Rimatomics</RimatomicsResearchAlert>
   <RimatomicResearchAlertMess>Projeto: {0}\nEtapa: {1}\nTarefa: {2}</RimatomicResearchAlertMess>
-  <thingsUnlocked>Desbloqueado - </thingsUnlocked>
+  <thingsUnlocked>Desbloqueado -</thingsUnlocked>
   <RimatomStepComplete>Etapa concluída</RimatomStepComplete>
-  <RequiresFac> Requer: </RequiresFac>
+  <RequiresFac>Requer:</RequiresFac>
   <StepInspect>Etapa: {0}</StepInspect>
   <ResearchComplete>Pesquisa concluída</ResearchComplete>
   <StillTestingDef>Ainda testando o protótipo</StillTestingDef>
@@ -263,7 +263,7 @@
   <coreUpgradeFail>Não é possível melhorar enquanto o núcleo estiver ativo</coreUpgradeFail>
   <powerUpgradeFail>O edifício precisa ser desligado antes de ser melhorado</powerUpgradeFail>
   <RimatomicResearchCompleteDialog>{0} - concluído\n\n{1}</RimatomicResearchCompleteDialog>
-  <rimatomicsProto> Protótipo</rimatomicsProto>
+  <rimatomicsProto>Protótipo</rimatomicsProto>
   <StartProject>Iniciar projeto</StartProject>
   <ProjectInitiated>Projeto iniciado</ProjectInitiated>
   <StopProject>Parar projeto</StopProject>

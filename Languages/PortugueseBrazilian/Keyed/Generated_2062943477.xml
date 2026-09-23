@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Fluffy.GasNetwork.BufferOff>Armazenamento de gás desligado.</Fluffy.GasNetwork.BufferOff>
   <Fluffy.GasNetwork.CommandToggleGas.Desc>Designe o fluxo de gás para ser ativado ou desativado. Um colono virá em breve para apertar o botão.</Fluffy.GasNetwork.CommandToggleGas.Desc>
@@ -40,7 +40,7 @@
   <VPE_GasUpdateNoticeLetterText>O mod Vanilla Furniture Expanded: Power recebeu uma atualização muito importante relacionada à rede de gás Helixien.\n\nO código original foi feito por mim (Sarg Bjornson) e era bastante desleixado, causando muitos bugs e comportamentos inconsistentes. Graças ao incrível Fluffy, todo o código da rede de gás foi reescrito e agora deve funcionar perfeitamente.\n\nNOTA: como a maioria das classes que controlam a rede de gás mudou, você deve refazer todos os componentes da rede de gás existentes em um salvamento. Você pode substituir edifícios gratuitamente acessando o modo de desenvolvimento e ativando o modo Deus. Depois, basta desconstruir sua rede de gás atual (com todos os objetos que usam gás) e reconstruí-la de graça.</VPE_GasUpdateNoticeLetterText>
   <VPE_GeneratorIsOff>O gerador está desligado e inativo no momento</VPE_GeneratorIsOff>
   <VPE_LetterLabelGasExplosion>Kaboom!</VPE_LetterLabelGasExplosion>
-  <VPE_LightningTime>Energia relâmpago armazenada para: </VPE_LightningTime>
+  <VPE_LightningTime>Energia relâmpago armazenada para:</VPE_LightningTime>
   <VPE_LiquidOutput>Saída de gás</VPE_LiquidOutput>
   <VPE_LiquidTankEfficiency>Eficiência do tanque</VPE_LiquidTankEfficiency>
   <VPE_LiquidTankStored>Gás armazenado</VPE_LiquidTankStored>
@@ -76,7 +76,7 @@
   <VPE_SoulHeader>Gerador de violência arquotecnológico</VPE_SoulHeader>
   <VPE_SoulMultiplier>Horas de energia por cadáver consumido</VPE_SoulMultiplier>
   <VPE_SoulMultiplierTooltip>Por padrão, cada cadáver consumido pelo reator produz 2 horas de energia. Isso será multiplicado por este fator.</VPE_SoulMultiplierTooltip>
-  <VPE_SoulsTime>Almas armazenadas para: </VPE_SoulsTime>
+  <VPE_SoulsTime>Almas armazenadas para:</VPE_SoulsTime>
   <VPE_TankLeakage>Vazamento mínimo de selante</VPE_TankLeakage>
   <VPE_TempInReactorRoom>Temperatura na sala do reator: {0} ºC</VPE_TempInReactorRoom>
   <VPE_TempInReactorRoomCritical>Aviso: Temperatura na sala do reator: {0} ºC</VPE_TempInReactorRoomCritical>

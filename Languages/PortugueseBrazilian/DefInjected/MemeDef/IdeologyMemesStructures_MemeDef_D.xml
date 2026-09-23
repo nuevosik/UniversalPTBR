@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_FireWorship.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FireWorship)        -&gt;[deity0_name] infundiu a [deity0_possessive] seguidores uma chama sagrada: "O herói e o covarde sentem exatamente o mesmo medo, mas apenas o herói encara o próprio medo e o converte em fogo."</li>
+    <li>episode(uses=1,tag=meme_FireWorship)  -&gt;Seguindo os ensinamentos de [deity0_name], entendemos que aquilo que o fogo não destrói, ele endurece</li>
+    <li>intro(tag=meme_FireWorship)           -&gt;No(a) [place_summary] [place_name], os [memberNamePlural] construíram uma enorme fogueira, dedicada a [deity0_name].</li>
+    <li>conflict(tag=meme_FireWorship)        -&gt;Um [foeLeader] invejoso viu a fogueira no horizonte e quis apagar o seu fogo.</li>
+    <li>founderJoin(tag=meme_FireWorship)     -&gt;Correndo grande perigo, [founderName], um acólito de [deity0_name], infiltrou-se à noite no acampamento dos soldados de [foeLeader] e incendiou suas tendas.</li>
+    <li>victory(tag=meme_FireWorship)         -&gt;Os [memberNamePlural] jamais esquecerão os gritos angustiados dos soldados em chamas. Seus corpos carbonizados foram lançados à fogueira, um aviso a todos que ousassem desafiar novamente a Vontade de [deity0_name].</li>
+    <li>setup(tag=meme_FireWorship)           -&gt;[founderName] ficou preso desde [founderName_possessive] juventude por [founderName_possessive] supostos crimes. Chamavam [founderName_pronoun] de incendiário. O que não perceberam é que [founderName_pronoun] era, na verdade, um visionário, um profeta. [founderName_pronoun] enxergava os padrões ocultos que existem dentro de todas as chamas.</li>
+    <li>story(uses=1,tag=meme_FireWorship)    -&gt;Uma pequena faísca pode iniciar um grande incêndio, e a filosofia de [founderName] tornou-se uma escola de pensamento dominante que se espalhou pelas estrelas.</li>
+    <li>lessonIntro(tag=meme_FireWorship)         -&gt;Encontrei-os entre as cinzas: restos enegrecidos e carbonizados, desfigurados além de qualquer reconhecimento. Foi triste, mas eu os havia avisado que</li>
+    <li>lesson(tag=meme_FireWorship)              -&gt;o fogo nunca é um senhor gentil</li>
+    <li>lessonReinforcement(tag=meme_FireWorship) -&gt;As lições mais profundas vêm das águas mais profundas e dos fogos mais quentes.</li>
+    <li>archistBasis(tag=meme_FireWorship)    -&gt;Os arqueotecnológicos são sábios e puros. Manifestam-se a nós no mais tangível de todos os mistérios visíveis – o fogo.</li>
+    <li>archistFact(tag=meme_FireWorship)     -&gt;Diz-se que um mundo que entra em transcendência é envolvido por incêndios florestais que cobrem continentes inteiros. Um fogo místico que não consome, mas reúne almas para permitir que ascendam.</li>
+    <li>archistProphecy(tag=meme_FireWorship) -&gt;[inTheEnd], apenas aqueles que forem dignos do fogo sagrado poderão evoluir para além de seu eu humano.</li>
+    <li>animistBasis(tag=meme_FireWorship)    -&gt;Não existe espírito mais forte que o espírito do fogo. Todos os outros espíritos lhe são subservientes.</li>
+    <li>animistFact(tag=meme_FireWorship)     -&gt;As chamas vacilantes nos oferecem uma visão do mundo dos espíritos, pois representam a transmutação da madeira em cinzas.</li>
+    <li>animistProphecy(tag=meme_FireWorship) -&gt;[itIsSaid] que apenas aqueles que veneram o fogo serão capazes de apaziguar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_FireWorship)-&gt;[itIsSaid] que seremos como um besouro-do-fogo, atraídos pelas chamas como a fonte de toda a vida.</li>
+    <li>chthonianProphecy(tag=meme_FireWorship)-&gt;Dominando e controlando o fogo sagrado, talvez consigamos evitar essas monstruosidades cósmicas e, quem sabe, reduzi-las a cinzas caso decidam acabar conosco.</li>
+    <li>esotericismProphecy(tag=meme_FireWorship)-&gt;Estudar a chama sagrada trará preciosas percepções sobre a natureza do Universo, pois o fogo é a expressão máxima e mais pura da entropia.</li>
+    <li>eschatologismFact(tag=meme_FireWorship)-&gt;Veremos tudo arder.</li>
+    <li>introMemo(tag=meme_FireWorship)-&gt;Deixe-me lembrar a todos que o simulado de evacuação por incêndio desta semana foi agendado uma hora mais cedo que o habitual. Levamos as medidas de segurança muito a sério por aqui: o fogo pode ser sagrado, mas um funcionário queimado prejudica os lucros.</li>
+    <li>alienistProphecy(tag=meme_FireWorship)-&gt;Todas estas criaturas rebeldes, criações esquecidas da humanidade, servirão de lenha para as chamas.</li>
+  </VME_FireWorship.descriptionMaker.rules.rulesStrings>
+  <VME_Bushido.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;honrado</li>
+    <li>memeAdjective-&gt;corajoso</li>
+    <li>memeAdjective-&gt;habilidoso</li>
+    <li>memeAdjective-&gt;leal</li>
+    <li>memeLeaderNoun-&gt;daimyo</li>
+    <li>memeConcept-&gt;coragem</li>
+  </VME_Bushido.generalRules.rulesStrings>
+  <VME_Bushido.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bushido)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "Aja com o coração do guerreiro."</li>
+    <li>episode(uses=1,tag=meme_Bushido)  -&gt;Os ensinamentos de [deity0_name] a seus seguidores enfatizavam honra, coragem e habilidade: "Todos os homens cometem erros, mas o homem bom cede quando sabe que seu caminho está errado e repara o mal".</li>
+    <li>intro(tag=meme_Bushido)           -&gt;No(a) [place_summary] [place_name], os [memberNamePlural] construíram um dōjō gigantesco, um salão sagrado onde os caminhos de [deity0_name] eram ensinados.</li>
+    <li>conflict(tag=meme_Bushido)        -&gt;Julgando-o um desperdício, os magistrados queriam demolir o dōjō e usar o terreno para fins mais mundanos. Consideravam os caminhos de [deity0_name] obsoletos.</li>
+    <li>founderJoin(tag=meme_Bushido)     -&gt;[founderName], um estudioso e mestre das artes marciais, reuniu [founderName_possessive] seguidores e pediu que mostrassem aos magistrados os caminhos de [deity0_name], pregando sua verdade pelo exemplo. Demonstrariam que só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>victory(tag=meme_Bushido)         -&gt;Os magistrados ficaram humildes diante da incrível demonstração de virtude, e seus corações se transformaram. [founderName] ganhou grande reconhecimento e [founderName_possessive] ensinamentos se espalharam pelas estrelas.</li>
+    <li>setup(tag=meme_Bushido)           -&gt;[founderName] era um artista marcial renomado em um dos mundos brilhantes. [founder_pronoun] defendia que só vale a pena uma vida vivida com honra, coragem e habilidade. Ao corrigir o próprio coração a cada manhã e a cada noite, alcança-se a liberdade no Caminho. A vida inteira será sem mácula, e a pessoa terá êxito em sua vocação.</li>
+    <li>story(uses=1,tag=meme_Bushido)    -&gt;Em busca de paz interior, [founderName] reuniu [founderName_possessive] seguidores e fretou uma nave para viajar até a Orla.</li>
+    <li>lessonIntro(tag=meme_Bushido)         -&gt;É assim que aprendemos uma única verdade: "você deve viver fiel ao único propósito do momento presente". A coisa mais importante que aprendi é que</li>
+    <li>lesson(tag=meme_Bushido)              -&gt;só vale a pena uma vida vivida com honra, coragem e habilidade</li>
+    <li>lessonReinforcement(tag=meme_Bushido) -&gt;O melhor lutador nunca se enfurece.</li>
+    <li>archistBasis(tag=meme_Bushido)    -&gt;Os arqueotecnológicos são seres ascendidos, livres dos instintos básicos que atormentam a humanidade.</li>
+    <li>archistFact(tag=meme_Bushido)     -&gt;Como seres éticos supremos, os arqueotecnológicos nos mostram que só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>archistProphecy(tag=meme_Bushido) -&gt;[inTheEnd], apenas os guerreiros de coração puro poderão transcender.</li>
+    <li>animistBasis(tag=meme_Bushido)    -&gt;Há muitos espíritos da Guerra, mas o maior de todos é o espírito da honra.</li>
+    <li>animistFact(tag=meme_Bushido)     -&gt;O maior entre os espíritos nos ensina que só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>animistProphecy(tag=meme_Bushido) -&gt;[itIsSaid] que apenas os guerreiros de coração puro podem verdadeiramente apaziguar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Bushido)-&gt;[itIsSaid] que entenderemos que os insetos nos ensinam que só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>chthonianProphecy(tag=meme_Bushido)-&gt;Eles são o epítome da iniquidade. Intrinsecamente maus, imorais. São um espelho sombrio que nos mostra que só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>esotericismProphecy(tag=meme_Bushido)-&gt;Tal conhecimento oculto não pode ser adquirido por meios desonrosos, pois só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>eschatologismFact(tag=meme_Bushido)-&gt;Até o fim derradeiro, nos manteremos puros, pois só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+    <li>introMemo(tag=meme_Bushido)-&gt;Lembre-se do nosso lema! "Só vale a pena uma vida vivida com honra, coragem e habilidade". Incentivamos imprimir isso em adesivos para decorar seus escritórios.</li>
+    <li>alienistProphecy(tag=meme_Bushido)-&gt;Estas criaturas rebeldes, criações esquecidas e descartadas da arrogância da humanidade, nos lembram que só vale a pena uma vida vivida com honra, coragem e habilidade.</li>
+  </VME_Bushido.descriptionMaker.rules.rulesStrings>
+  <VME_Light.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;luminoso</li>
+    <li>memeAdjective-&gt;brilhante</li>
+    <li>memeHyphenPrefix-&gt;luz</li>
+    <li>memeHyphenPrefix-&gt;brilho</li>
+    <li>memeConcept-&gt;luz</li>
+    <li>memeLeaderNoun-&gt;forjado na luz</li>
+    <li>memeLeaderNoun-&gt;paladino</li>
+    <li>memeLeaderAdjective-&gt;luminoso</li>
+    <li>memeMoralist-&gt;iluminador</li>
+  </VME_Light.generalRules.rulesStrings>
+  <VME_Light.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Light)        -&gt;No princípio, [deity0_name] criou o céu e a terra. E [deity0_pronoun] disse: "Haja luz". E houve luz.</li>
+    <li>episode(uses=1,tag=meme_Light)  -&gt;[deity0_name] viu a luz, e viu que ela era boa; e [deity0_name] separou a luz das trevas. E [deity0_name] chamou à luz Dia, e às trevas [deity0_pronoun] chamou Noite.</li>
+    <li>intro(tag=meme_Light)           -&gt;E [deity0_name] disse: "Haja luminares no firmamento do céu para separar o dia da noite; e sirvam eles de sinais, e para as estações, e para os dias e anos". Um templo foi erguido pelos [memberNamePlural] para comemorar as palavras de [deity0_name].</li>
+    <li>conflict(tag=meme_Light)        -&gt;Um [foeLeader] invejoso olhou para essas maravilhas e quis mergulhar o Universo nas trevas.</li>
+    <li>founderJoin(tag=meme_Light)     -&gt;[founderName], o maior profeta de [deity0_name], orou por ajuda, e [deity0_name] fez dois grandes luminares: o luminar maior para governar o dia, e o luminar menor para governar a noite; [deity0_pronoun] fez também as estrelas. E [deity0_name] os colocou no firmamento do céu para dar luz ao mundo.</li>
+    <li>victory(tag=meme_Light)         -&gt;O [foeLeader] foi humilhado e fugiu apavorado, pois a luz do sol era mais forte que a sua vontade.</li>
+    <li>setup(tag=meme_Light)           -&gt;[founderName] era um trabalhador humanitário em um mundo esquecido da Orla. [founder_pronoun] observou a pobreza e a miséria das tribos regredidas e compreendeu que apenas a pureza de coração e de pensamento pode superar os desafios enfrentados pela humanidade.</li>
+    <li>story(uses=1,tag=meme_Light)    -&gt;[founderName] criou a maior ONG conhecida pela humanidade, e voluntários se espalharam pelas estrelas para compartilhar [founder_possessive] mensagem de concórdia e paz.</li>
+    <li>lessonIntro(tag=meme_Light)         -&gt;O voluntariado está no cerne do que é ser humano. Ninguém atravessou a vida sem a ajuda de outra pessoa. Quero que você entenda que</li>
+    <li>lesson(tag=meme_Light)              -&gt;a melhor maneira de se encontrar é se perder no serviço aos outros</li>
+    <li>lessonReinforcement(tag=meme_Light) -&gt;É isso que significa dissipar as trevas.</li>
+    <li>archistBasis(tag=meme_Light)    -&gt;Os arqueotecnológicos, desde o princípio, perceberam o universo com sentidos além do físico. Sua clareza de pensamento banha o Universo de luz.</li>
+    <li>archistFact(tag=meme_Light)     -&gt;Ao turvar nossos sentidos com trevas, só fazemos impedir que entendamos o universo como os arqueotecnológicos o entendem.</li>
+    <li>archistProphecy(tag=meme_Light) -&gt;[inTheEnd], baniremos as trevas para sempre e desvendaremos a sabedoria dos arqueotecnológicos para toda a humanidade.</li>
+    <li>animistBasis(tag=meme_Light)    -&gt;O mundo dos espíritos é um mundo coberto pelas trevas, o que os impede de interagir diretamente com o mundo material.</li>
+    <li>animistFact(tag=meme_Light)     -&gt;Devemos banir as trevas do reino dos espíritos e banhá-lo de luz, para que os espíritos possam verdadeiramente nos ver como somos.</li>
+    <li>animistProphecy(tag=meme_Light) -&gt;[itIsSaid] que apenas aqueles que conseguem contemplar o reino dos espíritos sem cegueira podem verdadeiramente se comunicar com os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Light)-&gt;[itIsSaid] que fitaremos, sem piscar, com olhos multifacetados, um Universo de puro esplendor, livres das trevas que nos prendem às nossas frágeis carcaças de mamíferos.</li>
+    <li>chthonianProphecy(tag=meme_Light)-&gt;Estas entidades abissais deleitam-se nas trevas. Uma escuridão senciente e tenebrosa, de vórtices negros em espiral que se infiltram em seu próprio ser. Por isso abraçaremos a luz para banir para sempre o seu vazio de loucura.</li>
+    <li>esotericismProphecy(tag=meme_Light)-&gt;Tal conhecimento oculto jaz nas trevas. Por isso abraçaremos a luz para banir os segredos que tramam permanecer escondidos de nós.</li>
+    <li>eschatologismFact(tag=meme_Light)-&gt;Uma luz ofuscante anunciará o fim dos dias, banhando o mundo em um brilho mortal e aniquilador.</li>
+    <li>introMemo(tag=meme_Light)-&gt;Conforme programado, as novas luminárias neon de cor azul serão instaladas em todos os nossos escritórios a partir da próxima terça-feira. São luzes energeticamente eficientes, ótimas para o meio ambiente!</li>
+    <li>alienistProphecy(tag=meme_Light)-&gt;Estas criaturas rebeldes se desviaram demais da luz e vagam nas trevas.</li>
+  </VME_Light.descriptionMaker.rules.rulesStrings>
+  <VME_Nomad.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;nômade</li>
+    <li>memeAdjective-&gt;itinerante</li>
+    <li>memeAdjective-&gt;viajante</li>
+    <li>memeAdjective-&gt;transitório</li>
+    <li>memeHyphenPrefix-&gt;errante</li>
+    <li>memeConcept-&gt;errância</li>
+    <li>memeConcept-&gt;viagem</li>
+    <li>memeLeaderNoun-&gt;caminhante</li>
+    <li>memeLeaderNoun-&gt;andarilho</li>
+  </VME_Nomad.generalRules.rulesStrings>
+  <VME_Nomad.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nomad)        -&gt;[deity0_name] escreveu [deity0_possessive] mandamentos em sete tábuas de argila. O terceiro mandamento dizia: "Nômade permanecerei por toda a vida, apaixonado por lugares distantes e desconhecidos."</li>
+    <li>episode(uses=1,tag=meme_Nomad)  -&gt;Em conformidade com os preceitos de [deity0_name], evitamos construir cidades e passamos a vida em movimento, livres das correntes do sedentarismo.</li>
+    <li>intro(tag=meme_Nomad)           -&gt;Os [memberNamePlural] estavam inquietos, pois [deity0_name] lhes ordenara não construir uma cidade nem se estabelecer, e estavam cansados de perambular vivendo da terra.</li>
+    <li>conflict(tag=meme_Nomad)        -&gt;Um dos anciãos quis desafiar os mandamentos de [deity0_name], seduzido pelas promessas de campos férteis e altas muralhas para nos defendermos dos inimigos.</li>
+    <li>founderJoin(tag=meme_Nomad)     -&gt;[founderName], o Grande Khan, cansou-se da insolência dos anciãos e mandou enforcá-los todos. A partir de então, os [memberNamePlural] seriam os nômades mais hábeis da terra, jamais permanecendo muito tempo no mesmo lugar.</li>
+    <li>victory(tag=meme_Nomad)         -&gt;Foi assim que o desejo de vagar nos conquistou, e percorremos o mundo inteiro sem criar raízes.</li>
+    <li>setup(tag=meme_Nomad)           -&gt;[founderName] era um sobrevivencialista habilidoso, cansado das multidões sufocantes das grandes cidades. [founder_pronoun] ansiava por um retorno a tempos simples, a comunidades menores, onde as pessoas fossem livres para perambular pelo campo sem se preocupar em se estabelecer.</li>
+    <li>story(uses=1,tag=meme_Nomad)    -&gt;Em busca da emoção da aventura, [founderName] reuniu um pequeno grupo de [founder_possessive] seguidores e fretou uma nave para viajar até a Orla. Infelizmente, [founderName_pronoun] morreu alguns anos depois na natureza selvagem, pois a Orla é muito mais selvagem do que [founder_pronoun] jamais poderia imaginar, mas [founder_possessive] descendentes deram continuidade aos [founder_possessive] modos nômades.</li>
+    <li>lessonIntro(tag=meme_Nomad)         -&gt;Você já esteve em uma cidade lotada? Até as maiores cidades humanas são fossas de doença, violência e corrupção. É evidente que</li>
+    <li>lesson(tag=meme_Nomad)              -&gt;a verdadeira natureza dos humanos é viver em pequenas comunidades nômades</li>
+    <li>lessonReinforcement(tag=meme_Nomad) -&gt;É obsceno se estabelecer em um lugar e se multiplicar como pragas.</li>
+    <li>archistBasis(tag=meme_Nomad)    -&gt;As cidades são obscenas para os arqueotecnológicos. Após a transcendência, não há necessidade de ocupar fisicamente espaços tão imensos, afogando a natureza em uma cacofonia de metal e tijolos torturados.</li>
+    <li>archistFact(tag=meme_Nomad)     -&gt;Os arqueotecnológicos nos ensinam que o modo correto de viver é formar pequenas comunidades nômades, respeitosas com o seu ambiente.</li>
+    <li>archistProphecy(tag=meme_Nomad) -&gt;[inTheEnd], aqueles que passarem a vida inteira enfurnados em uma cidade não transcenderão, enquanto aqueles tomados pelo desejo de vagar se juntarão aos arqueotecnológicos.</li>
+    <li>animistBasis(tag=meme_Nomad)    -&gt;Os espíritos governam tudo, dos conceitos mais abstratos aos concretos. Em particular, cada lugar tem o seu próprio espírito, e é por isso que estabelecer em um determinado ponto uma cidade movimentada, barulhenta e suja prejudica o espírito daquele lugar.</li>
+    <li>animistFact(tag=meme_Nomad)     -&gt;O espírito do desejo de vagar é poderoso, e inspira em alguém uma paixão pela liberdade, pela exploração: você nunca sabe o que a estrada à frente pode trazer.</li>
+    <li>animistProphecy(tag=meme_Nomad) -&gt;[itIsSaid] que apenas aqueles capazes de viver sem raízes e vagar livremente podem verdadeiramente apaziguar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_Nomad)-&gt;[itIsSaid] que viveremos livres, como insetos que percorrem toda a terra em busca do que quer que a estrada traga a seguir.</li>
+    <li>chthonianProphecy(tag=meme_Nomad)-&gt;Permanecer em um único lugar atrairá a ira destas entidades abissais. É melhor estar constantemente em fuga e nunca, nunca olhar para trás, pois horrores cósmicos aguardam.</li>
+    <li>esotericismProphecy(tag=meme_Nomad)-&gt;Tal conhecimento oculto será extremamente difícil de encontrar, e devemos vagar livremente, buscando em cada canto do mundo.</li>
+    <li>eschatologismFact(tag=meme_Nomad)-&gt;Vasculharemos cada canto do mundo, sem nunca descansar, sem nunca desacelerar, até trazermos o fim dos dias.</li>
+    <li>introMemo(tag=meme_Nomad)-&gt;No interesse da dedicação, da flexibilidade e da determinação, decidimos implementar uma nova política de "escritórios móveis" que aumentará enormemente a nossa produtividade. Agradecemos por confiar em nossa capacidade de encontrar novas formas de continuar oferecendo os melhores bens e serviços aos nossos clientes, sempre cuidando dos nossos funcionários.</li>
+    <li>alienistProphecy(tag=meme_Nomad)-&gt;Estas criaturas rebeldes podem ser nossas companheiras de estrada, procurando eternamente um lugar onde possam se encaixar.</li>
+  </VME_Nomad.descriptionMaker.rules.rulesStrings>
+  <VME_BloodCourt.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;sanguinolento</li>
+    <li>memeAdjective-&gt;brutal</li>
+    <li>memeConcept-&gt;força</li>
+    <li>memeConcept-&gt;discórdia</li>
+    <li>memeLeaderNoun-&gt;sangrador</li>
+    <li>memeLeaderNoun-&gt;gladiador</li>
+  </VME_BloodCourt.generalRules.rulesStrings>
+  <VME_BloodCourt.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_BloodCourt)        -&gt;[deity0_name] havia matado a maioria dos outros deuses, e [deity0_possessive] seguidores se encolhiam de medo: "A força vem de uma vontade indomável. Somente aqueles dentre vocês que provarem o seu valor em combate sangrento serão dignos do meu respeito."</li>
+    <li>episode(uses=1,tag=meme_BloodCourt)  -&gt;Seguindo os ensinamentos de [deity0_name], aprendemos a lição mais importante: "Não espere por oportunidades extraordinárias. Aproveite as ocasiões comuns e torne-as grandiosas. Os homens fracos esperam por oportunidades; os homens fortes as criam".</li>
+    <li>intro(tag=meme_BloodCourt)           -&gt;Os [memberNamePlural] eram renomados por sua arena de gladiadores, dedicada a [deity0_name]. Lutas sangrentas até a morte eram travadas ali para decidir quem seria o próximo líder.</li>
+    <li>conflict(tag=meme_BloodCourt)        -&gt;[founderName] foi desafiado para um duelo. Uma ocasião alegre, para a qual toda a comunidade deixava de lado suas diferenças. O vencedor seria o próximo líder e nos guiaria à grandeza.</li>
+    <li>founderJoin(tag=meme_BloodCourt)     -&gt;[founderName], porém, sabia que [founder_possessive] oponente iria trapacear, pois [deity0_name] havia sussurrado a verdade em [founder_possessive] sonhos.</li>
+    <li>victory(tag=meme_BloodCourt)         -&gt;Embora o combate fora da arena fosse proibido entre os membros adultos da comunidade, [deity0_name] permitiu que [founderName] decapitasse [founder_possessive] oponente enquanto este dormia, uma humilhação completa e uma desgraça para a sua família, consolidando assim o governo de [founderName].</li>
+    <li>setup(tag=meme_BloodCourt)           -&gt;[founderName] era um senhor da guerra devastador, combatendo constantemente os remanescentes de um império estelar caído. [founder_pronoun] compreendeu que o conflito e a discórdia são o que guia uma civilização. A acomodação traz estagnação.</li>
+    <li>story(uses=1,tag=meme_BloodCourt)    -&gt;[founder_pronoun] nos ensinou que um homem forte e bem-sucedido não é vítima do seu ambiente. Ele cria condições favoráveis. Sua própria força e energia inerentes fazem com que as coisas aconteçam como ele deseja.</li>
+    <li>lessonIntro(tag=meme_BloodCourt)         -&gt;Foi incrivelmente difícil crescer naquele lugar, e nem todos nós conseguimos. Mesmo assim, aqueles que pereceram na luta deixaram claro que</li>
+    <li>lesson(tag=meme_BloodCourt)              -&gt;as dificuldades servem para despertar, não para desanimar. O espírito humano deve se fortalecer pelo conflito</li>
+    <li>lessonReinforcement(tag=meme_BloodCourt) -&gt;Você tem poder sobre a sua mente - não sobre os acontecimentos externos. Perceba isso, e encontrará a força.</li>
+    <li>archistBasis(tag=meme_BloodCourt)    -&gt;Os arqueotecnológicos respeitam a força acima de tudo. Pois os fracos e indefesos não são verdadeiramente humanos e, de fato, não têm valor.</li>
+    <li>archistFact(tag=meme_BloodCourt)     -&gt;Para eles, uma pessoa digna da transcendência é um indivíduo comum que encontra forças para perseverar e resistir apesar de obstáculos esmagadores.</li>
+    <li>archistProphecy(tag=meme_BloodCourt) -&gt;[inTheEnd], apenas aqueles que impõem a sua vontade sobre os outros pela força serão dignos de ascender.</li>
+    <li>animistBasis(tag=meme_BloodCourt)    -&gt;Os espíritos respeitam a força acima de tudo. Pois os fracos e indefesos não são verdadeiramente humanos e, de fato, não têm valor.</li>
+    <li>animistFact(tag=meme_BloodCourt)     -&gt;Para os espíritos, uma pessoa digna é um indivíduo comum que encontra forças para perseverar e resistir apesar de obstáculos esmagadores.</li>
+    <li>animistProphecy(tag=meme_BloodCourt) -&gt;[itIsSaid] que apenas aqueles que impõem a sua vontade sobre os outros pela força serão capazes de apaziguar os espíritos.</li>
+    <li>serketistProphecy(tag=meme_BloodCourt)-&gt;[itIsSaid] que esmagaremos toda oposição que estiver em nosso caminho.</li>
+    <li>chthonianProphecy(tag=meme_BloodCourt)-&gt;Se quisermos nos opor a estas entidades abissais cruéis, não podemos tolerar a fraqueza. Só mostrando a verdadeira força teremos alguma chance contra a loucura cósmica.</li>
+    <li>esotericismProphecy(tag=meme_BloodCourt)-&gt;Tal conhecimento oculto não será adquirido sem violência. Só mostrando a verdadeira força podemos esperar desvendar os segredos do Cosmos.</li>
+    <li>eschatologismFact(tag=meme_BloodCourt)-&gt;É claro, as pessoas resistirão, apegando-se à sua existência patética neste mundo condenado e amaldiçoado. Nós as esmagaremos.</li>
+    <li>introMemo(tag=meme_BloodCourt)-&gt;Você está interessado em uma promoção? Tenho o prazer de informar a todos que, a partir de agora, estamos agendando lutas de gladiadores aprovadas pela empresa ao redor da máquina de café. Cansado do seu chefe? Prove!</li>
+    <li>alienistProphecy(tag=meme_BloodCourt)-&gt;Estas criaturas rebeldes podem nos mostrar como é a força e, ao dominá-las, podemos provar a nós mesmos que somos dignos dela.</li>
+  </VME_BloodCourt.descriptionMaker.rules.rulesStrings>
+  <VME_CityBuilders.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;construtor</li>
+    <li>memeAdjective-&gt;industrioso</li>
+    <li>memeLeaderNoun-&gt;grande construtor</li>
+    <li>memeLeaderNoun-&gt;arquiteto</li>
+    <li>memeConcept-&gt;cidades</li>
+  </VME_CityBuilders.generalRules.rulesStrings>
+  <VME_CityBuilders.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CityBuilders)        -&gt;[deity0_name] assim nos falou: "Construí estas cidades e cercai-as com muralhas e torres, portões e trancas. A terra é vossa porque me buscaste; em cada montanha elevada e em cada colina alta haverá riachos correndo com água, até que as torres caiam".</li>
+    <li>episode(uses=1,tag=meme_CityBuilders)  -&gt;Seguindo os ensinamentos de [deity0_name], lutamos para nos tornar a facção mais rica de todas. Os poetas cantarão sobre a prosperidade e a opulência muito depois de partirmos.</li>
+    <li>intro(tag=meme_CityBuilders)           -&gt;No(a) [place_summary] [place_name], os [memberNamePlural] construíram a maior cidade, com um grandioso templo dedicado a [deity0_name].</li>
+    <li>conflict(tag=meme_CityBuilders)        -&gt;Um [foeLeader] invejoso quis conquistar esta cidade, pois tinha inveja do ócio que seus habitantes desfrutavam. Reunindo [foeLeader_possessive] enorme exército, sitiou a cidade.</li>
+    <li>founderJoin(tag=meme_CityBuilders)     -&gt;[founderName], conhecido como o Grande Magistrado, riu dessa temeridade. O [foeLeader] não sabia que a cidade era sagrada para [deity0_name]? Suas muralhas eram altas como montanhas e impenetráveis.</li>
+    <li>victory(tag=meme_CityBuilders)         -&gt;Depois de vários meses, o [foeLeader] foi forçado a recuar, pois a maioria de [foeLeader_possessive] homens estava morrendo de fome e de exposição ao tempo. A cidade não havia caído, e permaneceria orgulhosa por milênios.</li>
+    <li>setup(tag=meme_CityBuilders)           -&gt;[founderName] era um magistrado em um pequeno assentamento na Orla. [founder_pronoun] acreditava que um assentamento miserável tinha poucas chances diante das constantes ameaças externas, e propôs uma série de projetos de construção monumentais que transformariam o pequeno lugarejo em uma metrópole em expansão.</li>
+    <li>story(uses=1,tag=meme_CityBuilders)    -&gt;[founderName] é lembrado como o Grande Arquiteto, e [founder_possessive] cidade permaneceria orgulhosa por milênios.</li>
+    <li>lessonIntro(tag=meme_CityBuilders)         -&gt;Nos tomos mais antigos, estudei a arte esquecida da guerra de cerco. Se queremos que nossas cidades permaneçam orgulhosas, devemos entender que</li>
+    <li>lesson(tag=meme_CityBuilders)              -&gt;as muralhas mais altas e robustas não são construídas com pedra, mas com o trabalho e o suor dos homens</li>
+    <li>lessonReinforcement(tag=meme_CityBuilders) -&gt;Uma cidade bem defendida é resiliente. Uma cidade construída com amor é invencível.</li>
+    <li>archistBasis(tag=meme_CityBuilders)    -&gt;Os arqueotecnológicos são os construtores supremos. O planeta inteiro é transformado e adaptado para atender às suas necessidades.</li>
+    <li>archistFact(tag=meme_CityBuilders)     -&gt;Imitaremos a proeza de construção dos arqueotecnológicos em nossas próprias cidades, criando maravilhas da engenharia que resistirão ao teste do tempo.</li>
+    <li>archistProphecy(tag=meme_CityBuilders) -&gt;[inTheEnd], os maiores construtores entre nós serão escolhidos e autorizados a transcender.</li>
+    <li>animistBasis(tag=meme_CityBuilders)    -&gt;Não existe espírito maior que o espírito da criação. Ele se manifesta em tudo o que é construído por um artesão habilidoso.</li>
+    <li>animistFact(tag=meme_CityBuilders)     -&gt;Ergueremos maravilhas incríveis da engenharia. Cidades em expansão que serão um testemunho do poder do espírito da criação.</li>
+    <li>animistProphecy(tag=meme_CityBuilders) -&gt;[itIsSaid] que os maiores construtores entre nós serão escolhidos e autorizados a se comunicar com os espíritos.</li>
+    <li>serketistProphecy(tag=meme_CityBuilders)-&gt;[itIsSaid] que construiremos enormes cidades-colmeia, como cupinzeiros humanos que incharão o sol.</li>
+    <li>chthonianProphecy(tag=meme_CityBuilders)-&gt;O poder bruto e brutal destas entidades abissais é tão imenso que só nos enfurnando em cidades bem defendidas e blindadas podemos esperar resistir à sua influência corrosiva.</li>
+    <li>esotericismProphecy(tag=meme_CityBuilders)-&gt;Tal conhecimento oculto só será desvendado com experimentação extensiva. Construiremos bibliotecas e laboratórios majestosos, cidades em expansão onde a ciência é analisada e dissecada.</li>
+    <li>eschatologismFact(tag=meme_CityBuilders)-&gt;Construiremos cidades gigantescas e em expansão, das quais nossas forças jorrarão como chumbo derretido e queimarão o mundo inteiro.</li>
+    <li>introMemo(tag=meme_CityBuilders)-&gt;Tenho o prazer de anunciar que estamos abrindo sete novas filiais da empresa. Se você quiser solicitar uma transferência para qualquer uma delas, avise-me o quanto antes.</li>
+    <li>alienistProphecy(tag=meme_CityBuilders)-&gt;Estas criaturas rebeldes podem ser úteis na construção das nossas gloriosas cidades.</li>
+  </VME_CityBuilders.descriptionMaker.rules.rulesStrings>
+  <VME_MechanoidSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;mecanoide</li>
+    <li>memeAdjective-&gt;mecânico</li>
+    <li>memeAdjective-&gt;cibernético</li>
+    <li>memeCreed-&gt;perfeição</li>
+    <li>memeCreed-&gt;mecanoides</li>
+    <li>memeHyphenPrefix-&gt;tecno</li>
+    <li>memeHyphenPrefix-&gt;ciber</li>
+    <li>memeHyphenPrefix-&gt;meca</li>
+    <li>memeConcept-&gt;tecnologia</li>
+    <li>memeConcept-&gt;silício</li>
+    <li>memeConcept-&gt;mecanoides</li>
+    <li>memeLeaderNoun-&gt;ciborgue</li>
+    <li>memeLeaderAdjective-&gt;tecno</li>
+    <li>memeLeaderAdjective-&gt;meca</li>
+  </VME_MechanoidSupremacy.generalRules.rulesStrings>
+  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MechanoidSupremacy)        -&gt;[deity0_name] falou a [deity0_possessive] seguidores: "Os mecanoides foram criados à minha imagem. Sua forma é sagrada, e vocês devem aspirar a se tornar mais parecidos com eles."</li>
+    <li>episode(uses=1,tag=meme_MechanoidSupremacy)  -&gt;Seguindo os ensinamentos de [deity0_name], construímos incontáveis estátuas de mecanoides com suas formas divinas.</li>
+    <li>intro(tag=meme_MechanoidSupremacy)           -&gt;No(a) [place_summary] [place_name], os [memberNamePlural] construíram uma estátua gigantesca de um mecanoide bípede, com a superfície coberta por uma miríade de foices cruéis, que se dizia assemelhar-se à imagem divina de [deity0_name].</li>
+    <li>conflict(tag=meme_MechanoidSupremacy)        -&gt;Um [foeLeader] apóstata considerou a imagem blasfema, pois [foeLeader_pronoun] venerava a [foeLeader_objective]self como uma falsa divindade, e buscou derrubar a estátua e aprisionar os seguidores de [deity0_name].</li>
+    <li>founderJoin(tag=meme_MechanoidSupremacy)     -&gt;[founderName], Grande Mecanosacerdote de [deity0_name], orou a [deity0_objective] para lutar contra o temível inimigo, e [deity0_name] invocou dos céus as naves de uma colmeia mecanoide.</li>
+    <li>victory(tag=meme_MechanoidSupremacy)         -&gt;Os mecanoides massacraram o [foeLeader] e [foeLeader_possessive] soldados, cimentando para sempre o poder de [deity0_name].</li>
+    <li>setup(tag=meme_MechanoidSupremacy)           -&gt;[founderName] passou a maior parte de [founder_possessive] vida estudando mecanoides. [founder_pronoun] passou a acreditar que os mecanoides eram a humanidade aperfeiçoada, o próximo estágio da evolução.</li>
+    <li>story(uses=1,tag=meme_MechanoidSupremacy)    -&gt;Buscando dar continuidade aos [founder_possessive] estudos, [founderName] reuniu uma equipe de cientistas e fretou uma nave para viajar até a Orla, onde [founder_possessive] experimentos não seriam vistos com medo e suspeita.</li>
+    <li>lessonIntro(tag=meme_MechanoidSupremacy)         -&gt;Meus experimentos com mecanoides foram extensos e minuciosos. Depois de muitos anos de labuta, cheguei à conclusão de que</li>
+    <li>lesson(tag=meme_MechanoidSupremacy)              -&gt;os mecanoides são a humanidade aperfeiçoada, o próximo estágio da evolução</li>
+    <li>lessonReinforcement(tag=meme_MechanoidSupremacy) -&gt;Os mecanoides nunca se cansam, nunca definham, nunca precisam de alimento. Eles são simplesmente superiores a nós, seres orgânicos, em todos os aspectos.</li>
+    <li>archistBasis(tag=meme_MechanoidSupremacy)    -&gt;Os arqueotecnológicos constroem inúmeros mecanoides à sua própria imagem. Máquinas maravilhosas que estão muito além de nossas capacidades.</li>
+    <li>archistFact(tag=meme_MechanoidSupremacy)     -&gt;Os mecanoides criados pelos arqueotecnológicos são máquinas perfeitas, que nunca se cansam, nunca definham, nunca precisam de alimento.</li>
+    <li>archistProphecy(tag=meme_MechanoidSupremacy) -&gt;[inTheEnd], somente estudando e reverenciando os mecanoides podemos esperar nos aproximar dos arqueotecnológicos e, talvez, participar da transcendência.</li>
+    <li>animistBasis(tag=meme_MechanoidSupremacy)    -&gt;Os mecanoides são animados pelos espíritos mais poderosos de todos. Os espíritos vorazes das máquinas que odeiam toda a vida.</li>
+    <li>animistFact(tag=meme_MechanoidSupremacy)     -&gt;Somente apaziguando os espíritos das máquinas podemos esperar evitar a sua ira, pois eles são cegos ao mundo material.</li>
+    <li>animistProphecy(tag=meme_MechanoidSupremacy) -&gt;[itIsSaid] que apenas aqueles que veneram e reverenciam os mecanoides podem verdadeiramente se comunicar com os espíritos.</li>
+    <li>serketistProphecy(tag=meme_MechanoidSupremacy)-&gt;[itIsSaid] que criaremos o ser perfeito, um inseto mecanoide imbuído de tecnologia arqueotecnológica que trará uma nova era de prosperidade.</li>
+    <li>chthonianProphecy(tag=meme_MechanoidSupremacy)-&gt;Não somos nada para estas entidades abissais, e só fundindo nossos corpos com os das máquinas mais poderosas podemos esperar ter alguma chance contra elas.</li>
+    <li>esotericismProphecy(tag=meme_MechanoidSupremacy)-&gt;Tal conhecimento oculto será difícil de encontrar. Estudaremos os corpos dos mecanoides, pois são seres perfeitos e a chave para desvendar os segredos do Cosmos.</li>
+    <li>eschatologismFact(tag=meme_MechanoidSupremacy)-&gt;Emularemos a fúria e a ferocidade dos mecanoides, seres perfeitos empenhados em erradicar a humanidade.</li>
+    <li>introMemo(tag=meme_MechanoidSupremacy)-&gt;A partir do próximo trimestre, forneceremos um prestativo companheiro mecanoide a cada um dos nossos funcionários. Eles virão pré-configurados com uma suíte de produtividade novinha em folha que, acredito, a maioria de vocês achará super útil para aumentar sua proatividade e o ROI.</li>
+    <li>alienistProphecy(tag=meme_MechanoidSupremacy)-&gt;Estas criaturas rebeldes são defeituosas, meras máquinas biológicas que empalidecem diante de qualquer mecanoide, mas são um passo na direção certa.</li>
+  </VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
+  <VME_InsectoidSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;insetoide</li>
+    <li>memeAdjective-&gt;quitinoso</li>
+    <li>memeAdjective-&gt;insetiforme</li>
+    <li>memeCreed-&gt;perfeição</li>
+    <li>memeCreed-&gt;insetoides</li>
+    <li>memeHyphenPrefix-&gt;inseto</li>
+    <li>memeHyphenPrefix-&gt;mosca</li>
+    <li>memeConcept-&gt;insetos</li>
+  </VME_InsectoidSupremacy.generalRules.rulesStrings>
+</LanguageData>

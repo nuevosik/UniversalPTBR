@@ -57,7 +57,7 @@ def scan():
             keyed = scan_keyed(mod)
             if not entries and not keyed:
                 continue
-            md = {k for k in entries if k not in repo_def and k[1] not in repo_keyed}
+            md = {k for k in entries if k[1] not in repo_def and k[1] not in repo_keyed}
             mk = {k for k in keyed if k not in repo_keyed}
             if not md and not mk:
                 continue

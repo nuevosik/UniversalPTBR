@@ -210,7 +210,11 @@ def scan_keyed(mod):
 
 
 def repo_index(repo):
-    """(chaves DefInjected por (DefType, chave), chaves Keyed) ja existentes no repo."""
+    """Chaves DefInjected (`defName.campo`, sem a pasta de DefType) e Keyed ja existentes.
+
+    O RimWorld resolve DefInjected por tipo *atribuivel* (`DefDatabase<T>` inclui subclasses),
+    entao `DefInjected/BackstoryDef/` cobre `<VFECore.BackstoryDef>`: a identidade que importa
+    e a chave, nao a pasta."""
     def_keys, keyed_keys = set(), set()
     if not repo.is_dir():
         print(f'aviso: repo ausente: {repo}', file=sys.stderr)
@@ -221,10 +225,13 @@ def repo_index(repo):
         if root is None:
             continue
         if 'DefInjected' in parts:
-            dtype = parts[parts.index('DefInjected') + 1]
             for el in root.iter():
-                if el.tag != 'LanguageData':
-                    def_keys.add((dtype, el.tag))
+                if el.tag == 'rep':
+                    path_el = el.find('path')
+                    if path_el is not None and (path_el.text or '').strip():
+                        def_keys.add(path_el.text.strip())
+                elif el.tag != 'LanguageData':
+                    def_keys.add(el.tag)
         elif 'Keyed' in parts:
             for el in root.iter():
                 if el.tag != 'LanguageData':
@@ -362,7 +369,7 @@ def main(argv=None):
         entries, labels, descriptions = scan_defs(mod)
         groups = {}
         for (dtype, key), value in entries.items():
-            if (dtype, key) in repo_def or key in repo_keyed or (dtype, key) in emitted:
+            if key in repo_def or key in repo_keyed or (dtype, key) in emitted:
                 continue
             groups.setdefault(dtype, []).append((key, value))
             emitted.add((dtype, key))

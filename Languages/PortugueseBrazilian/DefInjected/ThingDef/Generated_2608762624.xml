@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VFEArch_AnimalGate.description>Uma porta com um portão fácil de abrir para que possa ser empurrado por animais. Permite a passagem de animais, mas não isola o ambiente. Portões para animais são frequentemente usados ​​como entradas de celeiros em climas mais quentes.</VFEArch_AnimalGate.description>
   <VFEArch_AnimalGate.label>portão de animais</VFEArch_AnimalGate.label>
@@ -24,9 +24,7 @@
   <VFEArch_LogWall.label>parede de toras</VFEArch_LogWall.label>
   <VFEArch_LowFence.description>Cerca feita de postes unidos por travessas, usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.</VFEArch_LowFence.description>
   <VFEArch_LowFence.label>cerca baixa</VFEArch_LowFence.label>
-  <VFEArch_PicketFence.description>Cerca feita de postes unidos por tábuas verticais de madeira chamadas estacas, usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.
-	
-As cercas de estacas são consideravelmente mais bonitas do que as alternativas e evocam uma sensação agradável e caseira.</VFEArch_PicketFence.description>
+  <VFEArch_PicketFence.description>Cerca feita de postes unidos por tábuas verticais de madeira chamadas estacas, usada para construir currais para certos tipos de animais. Alguns tipos de animais podem passar por cercas. Os predadores não caçarão criaturas do outro lado da cerca, mas ainda assim poderão vagar por dentro.\n\nAs cercas de estacas são consideravelmente mais bonitas do que as alternativas e evocam uma sensação agradável e caseira.</VFEArch_PicketFence.description>
   <VFEArch_SingleDoor.description>Divide quartos. Portas simples devem ser abertas manualmente, o que retarda as pessoas. A quantidade de desaceleração não depende do material da porta.</VFEArch_SingleDoor.description>
   <VFEArch_SingleDoor.label>porta única</VFEArch_SingleDoor.label>
   <VFEArch_SingleDoor_Flipped.label>porta única (invertida)</VFEArch_SingleDoor_Flipped.label>

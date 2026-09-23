@@ -3,4 +3,43 @@
   <VSIE_Discord.label>discórdia</VSIE_Discord.label>
   <VSIE_Vent.label>desabafo</VSIE_Vent.label>
   <VSIE_Teaching.label>ensino</VSIE_Teaching.label>
+  <VSIE_Discord.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)-&gt;[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>target(p=4)-&gt;[RECIPIENT_nameDef]</li>
+    <li>target-&gt;[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>insulted(p=3)-&gt;insulted</li>
+    <li>insulted-&gt;openly insulted</li>
+    <li>insulted-&gt;loudly insulted</li>
+    <li>insulted-&gt;flagrantly insulted</li>
+    <li>insulted-&gt;directly insulted</li>
+    <li>insulted-&gt;viciously insulted</li>
+    <li>insulted-&gt;flagrantly disrespected</li>
+    <li>insulted-&gt;slandered</li>
+    <li>insulted-&gt;hurled invective about</li>
+    <li>insulted-&gt;derided</li>
+    <li>insultcomparison(p=2)-&gt;[Animal]</li>
+    <li>insultcomparison-&gt;[Enemy]</li>
+  </VSIE_Discord.logRulesInitiator.rulesStrings>
+  <VSIE_Vent.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)-&gt;chatted about</li>
+    <li>talkedabout-&gt;shared a word about</li>
+    <li>talkedabout-&gt;spoke about</li>
+    <li>talkedabout-&gt;gabbed about</li>
+    <li>talkedabout-&gt;talked about</li>
+    <li>talkedabout-&gt;joked about</li>
+    <li>talkedabout-&gt;quipped about</li>
+    <li>commentedabout-&gt;said something about</li>
+    <li>commentedabout-&gt;said a word about</li>
+    <li>commentedabout-&gt;made a comment about</li>
+    <li>commentedabout-&gt;commented about</li>
+    <li>commentedabout-&gt;told a joke about</li>
+  </VSIE_Vent.logRulesInitiator.rulesStrings>
+  <VSIE_Teaching.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;</li>
+  </VSIE_Teaching.logRulesInitiator.rulesStrings>
 </LanguageData>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_SerketistDescription.rules.rulesStrings>
+    <li>serketistBasis   -&gt;Não existe forma de vida superior às Rainhas da Colmeia. Sua geleia nutritiva é como ambrosia, e o mundo inteiro deveria ser refeito à sua imagem.</li>
+    <li>serketistBasis   -&gt;Em sua arrogância, a humanidade tropeçou acidentalmente na criação da forma de vida perfeita: os insetoides.</li>
+    <li>serketistBasis   -&gt;Criação descontrolada de algum geneticista antigo esquecido, os insetoides evoluíram até se tornar a forma de vida perfeita.</li>
+    <li>serketistBasis   -&gt;Ameaçada pela ameaça mecanoide, a humanidade projetou a forma de vida perfeita: os insetoides.</li>
+    <li>serketistBasis   -&gt;Liderados pelas sagradas Rainhas da Colmeia, os insetoides são a forma de vida perfeita da galáxia.</li>
+    <li>serketistFact    -&gt;Eles são o ápice da evolução. [InsectAdjective]. [InsectAdjective2]. [InsectAdjective3]. Todos deveriam se esforçar para se tornar como eles.</li>
+    <li>serketistProphecy-&gt;[itIsSaid] aprenderemos com eles, nos tornando como um tsunami que varrerá nossos inimigos.</li>
+    <li>itIsSaid-&gt;Talvez, com o tempo,</li>
+    <li>itIsSaid-&gt;Está escrito em nosso destino que</li>
+    <li>itIsSaid-&gt;Seja pela tecnologia ou por meios mais arcanos</li>
+    <li>itIsSaid-&gt;Reverenciaremos seus costumes, sua inteligência coletiva e</li>
+    <li>itIsSaid-&gt;Ao reverenciar a Vontade da Rainha da Colmeia</li>
+    <li>InsectAdjective-&gt;Adaptativos</li>
+    <li>InsectAdjective-&gt;Vorazes</li>
+    <li>InsectAdjective-&gt;Avassaladores</li>
+    <li>InsectAdjective2-&gt;Versáteis</li>
+    <li>InsectAdjective2-&gt;Intransigentes</li>
+    <li>InsectAdjective2-&gt;Destrutivos</li>
+    <li>InsectAdjective3-&gt;Complexos</li>
+    <li>InsectAdjective3-&gt;Indestrutíveis</li>
+    <li>InsectAdjective3-&gt;Resistentes</li>
+  </VME_SerketistDescription.rules.rulesStrings>
+  <VME_ChthonianDescription.rules.rulesStrings>
+    <li>chthonianBasis   -&gt;Existem entidades vastas neste mundo que desafiam qualquer explicação. Conceitos muito mais antigos do que meros Deuses.</li>
+    <li>chthonianBasis   -&gt;Além do Véu, aguarda todo um novo universo de Deuses Antigos que levam à loucura.</li>
+    <li>chthonianBasis   -&gt;Os Deuses não são o predador supremo do Universo, pois existem entidades antigas muito mais poderosas. Entidades que deveriam ser respeitadas... e temidas.</li>
+    <li>chthonianBasis   -&gt;Na vastidão desconhecida do espaço, existem entidades insanas capazes de refazer todo o Universo com um simples pensamento desviante.</li>
+    <li>chthonianFact    -&gt;Somos como insetos para essas entidades. Nem sequer dignos de sua atenção. Tão insignificantes para elas quanto uma formiga seria para nós.</li>
+    <li>chthonianFact    -&gt;Elas não se importam com a humanidade. Não somos nada para elas. Nem sequer uma nota de rodapé.</li>
+    <li>chthonianFact    -&gt;Embora poderosas, são indiferentes. Estão tão além da nossa inteligência que nem sequer somos sapientes aos seus olhos.</li>
+    <li>chthonianFact    -&gt;Do ponto de vista delas, nem sequer existimos. Do mesmo modo como você não pensa nos micróbios na superfície da cadeira em que está sentado.</li>
+    <li>chthonianProphecy-&gt;[weMustBe] cuidadosos, pois não seria sábio atrair sua atenção, já que poderiam nos destruir num instante.</li>
+    <li>chthonianProphecy-&gt;[byWorshipping] elas, talvez possamos evitar seu olhar.</li>
+    <li>chthonianProphecy-&gt;Não se engane: elas não merecem nossa devoção. Mas talvez, ao exibir uma falsa fachada de piedade, possamos evitar sua atenção por tempo suficiente.</li>
+    <li>chthonianProphecy-&gt;Mesmo assim, muito pode ser aprendido com elas. Conhecimento abissal aguarda aqueles corajosos -ou tolos- o bastante para espiar a face gritante da loucura.</li>
+    <li>weMustBe-&gt;Devemos ser</li>
+    <li>weMustBe-&gt;É imperativo que sejamos</li>
+    <li>weMustBe-&gt;É melhor que sejamos</li>
+    <li>byWorshipping-&gt;Ao adorar</li>
+    <li>byWorshipping-&gt;Esperamos que, se adorarmos</li>
+  </VME_ChthonianDescription.rules.rulesStrings>
+  <VME_EsotericismDescription.rules.rulesStrings>
+    <li>esotericismBasis   -&gt;Além do alcance da ciência comum, existe uma riqueza inigualável de conhecimento secreto.</li>
+    <li>esotericismBasis   -&gt;Escondido dos olhos curiosos de cientistas e filósofos, aguarda um mundo oculto de conhecimento secreto.</li>
+    <li>esotericismBasis   -&gt;A ciência só pode levar você até certo ponto. Além do véu da realidade há um tesouro de conhecimento secreto, à espera de ser revelado.</li>
+    <li>esotericismBasis   -&gt;O Universo é vasto demais para se limitar às restrições da matemática e da física puras. Além dessas limitações humanas há um vasto tesouro de conhecimento secreto, acessível àqueles dispostos a fazê-lo a qualquer custo necessário.</li>
+    <li>esotericismFact    -&gt;Apenas alguns poucos escolhidos têm força mental para adquirir tais percepções.</li>
+    <li>esotericismFact    -&gt;Essas percepções ocultas não são para todos. Apenas um pequeno grupo de sábios pode explorá-las e observá-las. Os Escolhidos.</li>
+    <li>esotericismFact    -&gt;Tais percepções provavelmente seriam demais para o povo comum. Apenas aqueles com grande fortaleza mental podem espiar o oculto... e manter a mente intacta.</li>
+    <li>esotericismProphecy-&gt;Talvez, ao mergulhar em tal conhecimento, possamos até transcender nossa existência mortal.</li>
+    <li>esotericismProphecy-&gt;Com tempo suficiente, decifraremos os segredos mais bem guardados e finalmente entenderemos nosso lugar neste Universo.</li>
+    <li>esotericismProphecy-&gt;Os alquimistas da Antiguidade talvez não fossem tão tolos em sua busca pelo ouro, mas nós somos muito mais ambiciosos: aplicaremos o transmundano às nossas próprias almas e nos tornaremos mais que humanos.</li>
+    <li>esotericismProphecy-&gt;Com tal conhecimento, teremos uma vantagem clara sobre o restante dos habitantes deste planeta, e nossa dominação estará praticamente garantida.</li>
+  </VME_EsotericismDescription.rules.rulesStrings>
+  <VME_HedonistDescription.rules.rulesStrings>
+    <li>lesson(priority=-1)-&gt;coisas acontecem</li>
+    <li>r_pattern-&gt;"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-&gt;&lt;i&gt;[attributionSource_titleCase]&lt;/i&gt; por [founder_nameFull]</li>
+    <li>lessonAttribution-&gt;carta de [founder_nameFull] para [believer_nameFull]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], em [founder_possessive] leito de morte</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], pouco antes da execução</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], [speech] no(a) [TerrainFeature]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], [speech] na [Community]</li>
+    <li>attributionSource-&gt;[memeConcept]</li>
+    <li>attributionSource-&gt;[memeAdjective] [memeConcept]</li>
+    <li>attributionSource-&gt;Uma Vida [memeAdjective]</li>
+    <li>attributionSource-&gt;Reflexões de um(a) [attributionJob]</li>
+    <li>attributionSource-&gt;Diário de um(a) [attributionJob]</li>
+    <li>attributionSource-&gt;Pensamentos de um(a) [attributionJob]</li>
+    <li>attributionSource-&gt;Vida de um(a) [attributionJob]</li>
+    <li>attributionJob-&gt;[memeAdjective] [place_job]</li>
+    <li>attributionJob-&gt;[place_job]</li>
+    <li>speech-&gt;Discurso</li>
+    <li>speech-&gt;Pronunciamento</li>
+    <li>lessonIntro-&gt;Depois de tantas noites em claro de cuidadosa deliberação, cheguei a uma simples conclusão:</li>
+    <li>lessonIntro-&gt;Qual é uma verdade fundamental da existência humana?</li>
+    <li>lessonIntro-&gt;Sofri muito nesta vida. Mas esse sofrimento me ensinou um princípio simples:</li>
+    <li>lessonIntro-&gt;Crescendo na miséria no(a) [place_summary] [place_name], aprendi um axioma sincero:</li>
+    <li>lessonIntro-&gt;Internalize esta lição, pois ela lhe será útil:</li>
+    <li>lessonIntro-&gt;Está se sentindo perdido? Talvez ainda não tenha compreendido este conceito muito simples:</li>
+    <li>lessonIntro-&gt;Tentaram me tentar com uma vida de produtividade rica e monótona, mas não conseguiram me enganar:</li>
+    <li>lessonMain-&gt;o prazer, a satisfação dos desejos do corpo, é o bem supremo e o objetivo próprio da vida humana. Seja pela religião ou pela filosofia, nossas vidas inteiras deveriam se concentrar em nos divertir o máximo possível</li>
+    <li>lessonMain-&gt;finalmente entendi que a única razão de estar vivo é aproveitar a vida</li>
+    <li>lessonMain-&gt;a única maneira de se livrar da tentação é ceder a ela</li>
+    <li>lessonMain-&gt;a salvação é para os fracos. Não quero salvação, quero a vida, toda a vida, a miserável e também a soberba</li>
+    <li>lessonMain-&gt;o prazer não é uma necessidade, mas um incentivo</li>
+    <li>lessonMain-&gt;a maneira mais responsável de viver agora é aproveitar enquanto podemos</li>
+    <li>lessonMain-&gt;você pode viver até os cem anos se abrir mão de todas as coisas que fazem você querer viver até os cem</li>
+    <li>lessonReinforcement-&gt;Ninguém pode discutir isso.</li>
+    <li>lessonReinforcement-&gt;Só os tolos pensam o contrário.</li>
+    <li>lessonReinforcement-&gt;E, como agora sabemos, isso logo se tornaria evidente para todos.</li>
+    <li>lessonReinforcement-&gt;Tudo o que aconteceu desde então reforçou esse fato.</li>
+    <li>lessonReinforcement-&gt;É como se isso estivesse gravado diretamente em minha mente.</li>
+    <li>lessonReinforcement-&gt;É algo que jamais esquecerei.</li>
+  </VME_HedonistDescription.rules.rulesStrings>
+  <VME_EschatologismDescription.rules.rulesStrings>
+    <li>eschatologismBasis   -&gt;Este mundo está maculado, impuro, e precisa ser purgado. Traremos o fim dos dias, e um novo Universo renascerá das cinzas do atual.</li>
+    <li>eschatologismBasis   -&gt;Não há mais nada de valor neste mundo. Vastas inteligências pós-humanas conspirando na escuridão. Criações cruéis criadas por engenharia genética devastando a terra. Humanos gananciosos, estúpidos e ambiciosos explorando os fracos. Tudo isso precisa ser destruído.</li>
+    <li>eschatologismBasis   -&gt;Este mundo precisa ser purgado. Por tempo demais o deixamos sem controle. A estupidez humana correndo solta e arruinando tudo.</li>
+    <li>eschatologismBasis   -&gt;É um fato inescapável: o único caminho adiante é recomeçar do zero. Este mundo precisa ser destruído.</li>
+    <li>eschatologismBasis   -&gt;Não há mais espaço para concessões. Este mundo está maculado, impuro. Precisa ser destruído.</li>
+    <li>eschatologismFact    -&gt;Seja pelo fogo atômico ou por outros meios, precisamos trazer o Apocalipse.</li>
+    <li>eschatologismFact    -&gt;A Grande Batalha no Fim de Tudo está chegando, e estaremos preparados.</li>
+    <li>eschatologismFact    -&gt;Ninguém deve ser deixado vivo para reconstruir, pois as sementes da corrupção estão no fundo de cada um de nós.</li>
+    <li>eschatologismFact    -&gt;Nada além de restos carbonizados deve restar.</li>
+    <li>eschatologismFact    -&gt;Uma vez que tudo tenha sido destruído. Nós, os Escolhidos, recriaremos o mundo ao nosso gosto.</li>
+    <li>eschatologismProphecy-&gt;Seremos vitoriosos.</li>
+    <li>eschatologismProphecy-&gt;Ninguém estará preparado para nossa ira.</li>
+    <li>eschatologismProphecy-&gt;Quando finalmente atacarmos, todos cairão diante de nós.</li>
+    <li>eschatologismProphecy-&gt;Os dias deste mundo estão contados.</li>
+  </VME_EschatologismDescription.rules.rulesStrings>
+  <VME_AuthoritarianDescription.rules.rulesStrings>
+    <li>lesson(priority=-1)-&gt;coisas acontecem</li>
+    <li>r_pattern-&gt;"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], em um [speech] [speechadjective] no(a) [TerrainFeature]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], [speech] [speechadjective] na [Community]</li>
+    <li>speechadjective-&gt;emocionante</li>
+    <li>speechadjective-&gt;público</li>
+    <li>speechadjective-&gt;multitudinário</li>
+    <li>speechadjective-&gt;político</li>
+    <li>speechadjective-&gt;apaixonado</li>
+    <li>speechadjective-&gt;inflamado</li>
+    <li>speech-&gt;Discurso</li>
+    <li>speech-&gt;Pronunciamento</li>
+    <li>speech-&gt;Dissertação</li>
+    <li>speech-&gt;Declamação</li>
+    <li>lessonIntro-&gt;Toda a luta pela sobrevivência é uma conquista dos meios de existência.</li>
+    <li>lessonIntro-&gt;Estendo também nobres respeitos aos mártires revolucionários, cantados e não cantados, que sacrificaram suas preciosas vidas na guerra sagrada pela reunificação e independência do nosso povo.</li>
+    <li>lessonIntro-&gt;Não podemos pensar em nosso povo hoje sem lembrar do suor e do sangue derramados pela geração dos vitoriosos na guerra, do grande espírito que demonstraram e do sacrifício enobrecedor dos guerreiros.</li>
+    <li>lessonIntro-&gt;Só existe uma ordem. Ela é categórica e obrigatória para todos. Ela já paira sobre e inflama corações de [place_name] até os cantos deste mundo: Conquistar!</li>
+    <li>lessonIntro-&gt;Nada é possível a menos que uma vontade comande, uma vontade que precisa ser obedecida pelos outros, começando no topo e terminando somente na base.</li>
+    <li>lessonIntro-&gt;Meus compatriotas, o homem não vive de teorias e frases, de declarações ou de sistemas de filosofia política; ele vive daquilo que consegue obter da terra com seu próprio trabalho.</li>
+    <li>lessonIntro-&gt;Nossa vitória foi a vitória do patriotismo enobrecedor e do heroísmo de massa de nossos cidadãos, a vitória da justiça e do progresso sobre a injustiça e a reação, do futuro da humanidade sobre nossos inimigos.</li>
+    <li>lessonMain-&gt;Aos que podem me ouvir, eu digo - não se desesperem</li>
+    <li>lessonMain-&gt;Ninguém se surpreenderá se agora, quando esta fase pode ser considerada superada, nos livrarmos de tudo e de todos que queiram nos desviar da marcha rumo à realização do nosso movimento</li>
+    <li>lessonMain-&gt;Somos agentes de uma nova era na qual não podemos ter qualquer relação com a mentalidade do passado</li>
+    <li>lessonMain-&gt;A juventude marchou consciente de sua responsabilidade histórica rumo a um objetivo pressentido, mas não claramente definido</li>
+    <li>lessonMain-&gt;Nestes dias, nossas gerações não enfrentam apenas problemas territoriais e políticos, mas também questões supremas da existência da nossa fé, da nossa civilização e da nossa cultura, que estão mais uma vez em jogo</li>
+    <li>lessonMain-&gt;Certas pessoas desejavam estar em nossas fileiras para criar entre nós um órgão controlador ou um novo grupo minoritário. Isso não poderia ser permitido</li>
+    <li>lessonReinforcement-&gt;Juntos, marcharemos rumo ao amanhecer de uma nova era.</li>
+    <li>lessonReinforcement-&gt;Nosso futuro é brilhante, e perseveraremos.</li>
+    <li>lessonReinforcement-&gt;Quaisquer que sejam os projetos existentes agora, o destino histórico da nossa era será decidido.</li>
+    <li>lessonReinforcement-&gt;Por essa razão, porque sabemos que a nossa é a verdade, e porque trabalhamos por ela incansavelmente, encaramos os acontecimentos com serenidade.</li>
+    <li>lessonReinforcement-&gt;Reunimos vocês para levar nosso trabalho até a conclusão, pois ele é anunciado por triunfos contínuos.</li>
+    <li>lessonReinforcement-&gt;Não basta definir nosso objetivo. Ele precisa ser perseguido com constância e sacrifício.</li>
+  </VME_AuthoritarianDescription.rules.rulesStrings>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings>
+    <li>story(priority=-999)-&gt;</li>
+    <li>setup-&gt;Não há ordem sem uma mão firme dirigindo as coisas. Isso era claro para [founderName], nosso primeiro [leaderTitle].</li>
+    <li>setup-&gt;Somos os Escolhidos da [founder_possessive] Vontade Divina. Os filhos e filhas de [founderName] [honorific], nosso primeiro [leaderTitle].</li>
+    <li>setup-&gt;Conta-se que o primeiro [leaderTitle] do nosso povo, [founderName] [honorific], foi forjado pelo Universo a partir do barro da própria criação.</li>
+    <li>setup-&gt;Do terrível caos abraçado por nossos ancestrais surgiu [founderName], nosso primeiro [leaderTitle].</li>
+    <li>setup-&gt;De origens humildes e comuns, [founderName], nosso primeiro [leaderTitle], ergueu-se acima de [founder_possessive] condição, impondo [founder_possessive] vontade inabalável.</li>
+    <li>honorific-&gt;O Magnífico</li>
+    <li>honorific-&gt;O Grande</li>
+    <li>honorific-&gt;O Santo</li>
+    <li>honorific-&gt;O Imponente</li>
+    <li>honorific-&gt;O Conquistador</li>
+    <li>honorific-&gt;O Resplandecente</li>
+    <li>story(uses=1,priority=-10)-&gt;Os [memberNamePlural] juraram lealdade eterna a [founderName] e a [founder_possessive] descendentes, para sempre atados em devota servidão.</li>
+    <li>story(uses=1,priority=-10)-&gt;[founderName] inspirou muitos a levar uma vida de retidão e, assim, recebeu nossa devoção infindável.</li>
+    <li>story(uses=1,priority=-10)-&gt;Com um exército de seguidores [founder_possessive] sob [founder_possessive] comando, a linhagem de [founderName] perdurou até o presente, representada por nosso amado líder.</li>
+    <li>story(uses=1,priority=-10)-&gt;Nosso amado líder, o mais recente sucessor de [founderName], nos levará à prosperidade, permitindo que todos nós vivamos uma vida [memeAdjective].</li>
+  </VME_CultOfPersonalityDescription.rules.rulesStrings>
+  <VME_PantheismDescription.rules.rulesStrings>
+    <li>episode(priority=-1)-&gt;</li>
+    <li>creation-&gt;[deity0_name] está em todas as coisas. Todos somos feitos de poeira estelar, e somos parte da divindade tanto quanto qualquer [Animal] possa ser.</li>
+    <li>creation-&gt;Tudo faz parte de um Deus imanente e abrangente, [deity0_name]. Todas as formas de realidade podem então ser consideradas modos desse Ser, ou idênticas a ele.</li>
+    <li>creation-&gt;O Universo, no sentido da totalidade de toda a existência, e Deus são idênticos. A divindade está ao nosso redor, formando [deity0_name].</li>
+    <li>creation-&gt;Havia um vazio sem fim. Nesse vazio, [deity0_name] foi formado, dando início à contagem do tempo.</li>
+    <li>episode(uses=1)-&gt;Somente estudando [deity0_name] com cuidado podemos realmente compreender a natureza da realidade.</li>
+    <li>episode(uses=1)-&gt;Devemos reconhecer essa divindade imanente em tudo ao nosso redor e respeitar como sagradas todas as criações dentro de [deity0_name].</li>
+    <li>episode(uses=1)-&gt;Se quisermos realmente compreender a natureza de [deity0_name], devemos nos dedicar à contemplação silenciosa e respeitosa de tudo o que há nele.</li>
+    <li>episode(uses=1)-&gt;Controlar [deity0_name] seria uma consequência natural da nossa própria divindade intrínseca.</li>
+  </VME_PantheismDescription.rules.rulesStrings>
+  <VME_OmnismDescription.rules.rulesStrings>
+    <li>episode(priority=-1)-&gt;</li>
+    <li>creation-&gt;É limitante além das palavras se prender a qualquer deus ou crença em particular. Os dons combinados de todos os seres supremos, filósofos e forças é o que deveria ser verdadeiramente valorizado.</li>
+    <li>creation-&gt;Todas as religiões e ideologias apontam para a verdade completa, de que um único propósito transcendente une todas as coisas.</li>
+    <li>creation-&gt;Parece que os ensinamentos dos antigos estudiosos [religion] e [religion2] tinham muita verdade a nos ensinar.</li>
+    <li>creation-&gt;A verdade pode ser encontrada em todas as religiões e ideologias, pois todas fazem parte da grande experiência humana. Sejam os ensinamentos dos textos [religion] ou as filosofias dos antigos estudiosos [religion2], podemos aprender sobre o universo abrindo nossas mentes para essa verdade.</li>
+    <li>creation-&gt;Os seres humanos são criaturas curiosas e, como tal, inventamos alguns conceitos incríveis: tanto os ensinamentos [religion] quanto os preceitos [religion2] contêm uma porção da verdade completa e, assim, todas as crenças são intrinsecamente verdadeiras e úteis.</li>
+    <li>creation-&gt;Todas as religiões e ideologias são legítimas. Um único propósito transcendente une todas as coisas e pessoas, e você pode alcançar esse propósito universal por qualquer meio, seja pelo estudo dos antigos textos [religion] ou seguindo o dogma [religion2].</li>
+    <li>episode(uses=1)-&gt;Somente estudando cuidadosamente todas as crenças podemos realmente compreender a natureza da realidade.</li>
+    <li>episode(uses=1)-&gt;Devemos reconhecer que todas as religiões contêm elementos variados de uma verdade comum e respeitar todas as crenças de acordo.</li>
+    <li>religion-&gt;Cristão</li>
+    <li>religion-&gt;Budista</li>
+    <li>religion-&gt;Muçulmano</li>
+    <li>religion-&gt;Judeu</li>
+    <li>religion-&gt;Taoista</li>
+    <li>religion-&gt;Confucianista</li>
+    <li>religion-&gt;Zoroastriano</li>
+    <li>religion2-&gt;Capitalista</li>
+    <li>religion2-&gt;Comunista</li>
+    <li>religion2-&gt;Autoritário</li>
+    <li>religion2-&gt;Livre-pensador</li>
+    <li>religion2-&gt;Maçom</li>
+    <li>religion2-&gt;Ecologista</li>
+    <li>religion2-&gt;Anarquista</li>
+    <li>religion2-&gt;Libertário</li>
+    <li>religion2-&gt;Utopiano</li>
+  </VME_OmnismDescription.rules.rulesStrings>
+  <VME_AgnosticismDescription.rules.rulesStrings>
+    <li>story(priority=-999)-&gt;</li>
+    <li>setup-&gt;[founderName] nos fez ver que a existência de Deus, do divino e do sobrenatural é desconhecida e incognoscível.</li>
+    <li>setup-&gt;[founderName] foi o primeiro a perceber que não precisávamos de Deuses para explicar o Universo.</li>
+    <li>setup-&gt;Impressionado com a natureza não espiritual do mundo, [founderName] estudou história e filosofia e descobriu a nova verdade que nos guia.</li>
+    <li>setup-&gt;Durante um antigo ritual, [founderName] começou a questionar a validade de [founder_possessive] antigas crenças. Por que dedicar a vida inteira ao serviço de um Deus incognoscível?</li>
+    <li>setup-&gt;A vida difícil de [founderName] fez com que [founder_objective] rejeitasse [founder_possessive] fé. Os Deuses são incognoscíveis e não deveriam influenciar o dia a dia de uma pessoa.</li>
+    <li>story(uses=1,priority=-10)-&gt;Os [memberNamePlural] ainda estariam adorando espíritos antigos sem os ensinamentos de [founderName] e, portanto, [founder_pronoun] será sempre lembrado entre nosso povo como: [honorific].</li>
+    <li>story(uses=1,priority=-10)-&gt;O discurso de [founderName] em um(a) [ritualName] inspirou muitos a levar uma vida [memeAdjective], livre das correntes do pensamento mágico. Assim, [founder_pronoun] será sempre lembrado entre nosso povo como: [honorific].</li>
+    <li>story(uses=1,priority=-10)-&gt;[founderName] será sempre lembrado entre nosso povo como [honorific]: Aquele que baniu para sempre o pensamento mágico de nossas mentes.</li>
+    <li>honorific-&gt;O Matador de Deuses</li>
+    <li>honorific-&gt;O Ateu</li>
+    <li>honorific-&gt;O Agnóstico</li>
+    <li>honorific-&gt;O Dissidente</li>
+    <li>honorific-&gt;A Luz na Escuridão</li>
+    <li>honorific-&gt;O Incrédulo</li>
+    <li>honorific-&gt;O Herege</li>
+  </VME_AgnosticismDescription.rules.rulesStrings>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings>
+    <li>lesson(priority=-1)-&gt;coisas acontecem</li>
+    <li>r_pattern-&gt;"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull]</li>
+    <li>lessonAttribution-&gt;carta de [founder_nameFull] para [believer_nameFull]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], em [founder_possessive] dissertação sobre atenção plena</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], [speech] no(a) [TerrainFeature]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], [speech] na [Community]</li>
+    <li>speech-&gt;Discurso de Meditação</li>
+    <li>speech-&gt;Pronunciamento Conheça a Si Mesmo</li>
+    <li>lessonIntro-&gt;Sempre repito: "deixar ir é o asana mais difícil":</li>
+    <li>lessonIntro-&gt;Levei longos anos de intensa meditação para entender que</li>
+    <li>lessonIntro-&gt;Não devemos ser como o(a) [foeLeader], que não se conhece. Observá-lo(a) me ensinou uma coisa:</li>
+    <li>lessonIntro-&gt;Ao ensinar Yoga no(a) [place_summary] [place_name], percebi que</li>
+    <li>lessonIntro-&gt;Encontre seu centro e defina intenções para o dia ao começar a focar na conexão entre respiração e corpo. Você então perceberá que</li>
+    <li>lessonIntro-&gt;Você deve começar com uma série de fluxos de respiração para movimento, energizando e revigorando o corpo e a mente. E finalmente saberá que</li>
+    <li>lessonIntro-&gt;Uma flor não pensa em competir com a flor ao lado. Ela apenas floresce. Uma coisa se tornará cada vez mais clara então: que</li>
+    <li>lessonIntro-&gt;Você começará a jornada do eu, através do eu, até o eu. Então verá que</li>
+    <li>lessonIntro-&gt;Você não pode sempre controlar o que acontece lá fora. Mas pode sempre controlar o que acontece dentro de você. Uma vez alcançado isso, você verá que</li>
+    <li>lessonIntro-&gt;A jornada mais longa de qualquer pessoa é a jornada interior. Essa jornada lhe mostra que</li>
+    <li>lessonIntro-&gt;A verdade está em seguir uma filosofia espiritual sem adesão a uma religião; o crescimento pessoal e a paz interior de um indivíduo são mais importantes que uma relação com o divino e, portanto,</li>
+    <li>lessonReinforcement-&gt;Apenas respire.</li>
+    <li>lessonReinforcement-&gt;Esteja onde você está, não onde você acha que deveria estar.</li>
+    <li>lessonReinforcement-&gt;A postura começa quando você quer sair dela.</li>
+    <li>lessonReinforcement-&gt;Inspire o futuro, expire o passado.</li>
+    <li>lessonReinforcement-&gt;Não se trata de ser bom em algo. Trata-se de ser bom consigo mesmo.</li>
+  </VME_SecularSpiritualityDescription.rules.rulesStrings>
+  <VME_TaoismDescription.rules.rulesStrings>
+    <li>episode(priority=-1)-&gt;</li>
+    <li>r_pattern-&gt;"[r_creation] [r_episode] [r_episode]."\n\n  - Lao Tzu, Tao Te Ching</li>
+    <li>creation-&gt;Ao viver em harmonia com o Tao, pode-se alcançar a perfeição e se tornar um com os ritmos não planejados do universo.</li>
+    <li>creation-&gt;Ser profundamente amado por alguém lhe dá força, enquanto amar alguém profundamente lhe dá coragem.</li>
+    <li>creation-&gt;Simplicidade, paciência, compaixão. Estes três são os maiores tesouros.</li>
+    <li>creation-&gt;A jornada de mil milhas começa com um único passo.</li>
+    <li>creation-&gt;A vida é uma série de mudanças naturais e espontâneas. Não resista a elas; isso só cria sofrimento. Deixe a realidade ser realidade. Deixe as coisas fluírem naturalmente adiante, da maneira que quiserem.</li>
+    <li>episode(uses=1)-&gt;Quando você se contenta em ser simplesmente você mesmo e não compara nem compete, todos o respeitarão.</li>
+    <li>episode(uses=1)-&gt;A verdade nem sempre é bela, nem as palavras belas são a verdade.</li>
+    <li>episode(uses=1)-&gt;Porque se acredita em si mesmo, não se tenta convencer os outros. Porque se está contente consigo mesmo, não se precisa da aprovação dos outros. Porque se aceita a si mesmo, o mundo inteiro o aceita.</li>
+    <li>episode(uses=1)-&gt;Importe-se com o que as outras pessoas pensam e você será sempre prisioneiro delas.</li>
+  </VME_TaoismDescription.rules.rulesStrings>
+  <VME_CorporateDescription.rules.rulesStrings>
+    <li>episodeCorporate(priority=-1)-&gt;</li>
+    <li>r_pattern-&gt;"Para: Todos os Funcionários\n\nDe: Alta Gerência\n\nAssunto: [subject]\n\n[r_introMemo] [r_episodeCorporate] [r_episodeCorporate]"</li>
+    <li>introMemo-&gt;Colegas de trabalho, chegou ao meu conhecimento que muitos no escritório têm passado o tempo realizando atividades não aprovadas.</li>
+    <li>introMemo-&gt;Este é um lembrete para a divisão de que, a partir de hoje, estamos arquivando todos os relatórios de Especificação de Procedimento de Teste (TPS) com novas folhas de rosto.</li>
+    <li>introMemo-&gt;Em nossos esforços para tornar sua integração agradável, implementamos um sistema de autoatendimento para funcionários para ajudá-lo a concluir o processo de admissão, incluindo a inscrição em benefícios.</li>
+    <li>introMemo-&gt;Como você sabe, amanhã à tarde nos reuniremos para discutir o status de todos os nossos projetos atuais.</li>
+    <li>introMemo-&gt;Para a reunião de equipe de amanhã às 15h na sala de conferências, por favor traga 5 cópias dos materiais mencionados.</li>
+    <li>introMemo-&gt;Devido ao seu excelente desempenho no último ano —especialmente seu trabalho na Região Noroeste!— gostaríamos de destacá-lo como um dos nossos funcionários em evidência.</li>
+    <li>introMemo-&gt;Você sabe a coisa número 1 que mais importa para nossos clientes? Dinheiro, é claro.</li>
+    <li>introMemo-&gt;Você está usando as 3 ferramentas de colaboração mais úteis? Agradeceríamos muito se você fizesse essas sinergias fluírem.</li>
+    <li>introMemo-&gt;Bom dia. Há algumas mudanças empolgantes chegando ao nosso departamento sobre as quais gostaria de alertá-lo.</li>
+    <li>introMemo-&gt;Fico muito satisfeito que você tenha aceitado nossa oferta e esteja se juntando à nossa equipe.</li>
+    <li>introMemo-&gt;Estamos muito felizes em tê-lo como parte da nossa equipe. A equipe daqui está ansiosa para ajudá-lo a preencher o vazio de gestão que temos há algum tempo.</li>
+    <li>episodeCorporate(uses=1)-&gt;Este memorando é um lembrete para usar suas horas de trabalho para trabalhar.</li>
+    <li>episodeCorporate(uses=1)-&gt;É claro que não queremos que você veja nossa organização como um lugar de labuta e regras draconianas. Incentivamos um ambiente divertido e competitivo.</li>
+    <li>episodeCorporate(uses=1)-&gt;Embora essa mudança possa inicialmente parecer um incômodo e uma etapa extra, ela é necessária para garantir o funcionamento adequado da nossa empresa.</li>
+    <li>episodeCorporate(uses=1)-&gt;Por favor, certifique-se de seguir este novo procedimento.</li>
+    <li>episodeCorporate(uses=1)-&gt;Acho que não preciso lembrar a todos que somos uma equipe, não, uma família. E famílias ficam juntas, não importa o desafio.</li>
+    <li>episodeCorporate(uses=1)-&gt;Esta questão crítica será discutida em uma reunião geral, o mais rápido possível.</li>
+    <li>episodeCorporate(uses=1)-&gt;É prioritário que comecemos a pensar fora da caixa. E vamos todos cantar do mesmo hinário.</li>
+    <li>episodeCorporate(uses=1)-&gt;Vamos levar isso ao próximo nível, pessoal.</li>
+    <li>episodeCorporate(uses=1)-&gt;Nossa alta administração decidiu que uma reestruturação do nosso departamento é necessária para que nossa transição através dessa fusão seja o mais suave possível. Você receberá mais informações em breve.</li>
+    <li>episodeCorporate(uses=1)-&gt;Estamos agendando uma reunião de equipe para amanhã, das 12h às 13h, na qual delinearemos as etapas dessa importante transição; o almoço será oferecido.</li>
+    <li>episodeCorporate(uses=1)-&gt;Sua experiência e visão serão um grande trunfo para este grupo, e sei que a equipe está ansiosa para trabalhar com você.</li>
+    <li>subject-&gt;Uso inadequado do tempo em jogos do Google Doodle</li>
+    <li>subject-&gt;Por favor, recarregue a tinta da impressora quando ela acabar</li>
+    <li>subject-&gt;Promoção da Linha de Roupas de Outono</li>
+    <li>subject-&gt;Não convide o Steve para a reunião. Ele vai se vestir como um fantasma</li>
+    <li>subject-&gt;Aviso: itens deixados sem vigilância em suas mesas podem ser roubados. A Empresa não se responsabiliza por seus pertences</li>
+    <li>subject-&gt;Memorando de Escritório para Todos os Funcionários</li>
+    <li>subject-&gt;Política de Uso do Banheiro</li>
+    <li>subject-&gt;Posição da Empresa Sobre "Correr Pelado"</li>
+    <li>subject-&gt;Satisfação do Cliente</li>
+    <li>subject-&gt;As Regras do Chefe</li>
+    <li>subject-&gt;Avaliação de Candidato a Funcionário</li>
+    <li>subject-&gt;Re: Pedido de Aumento</li>
+    <li>subject-&gt;Re: este é meu último e-mail!</li>
+    <li>subject-&gt;O Programa de Aposentadoria Antecipada da Sua Empresa</li>
+    <li>subject-&gt;VIOLAÇÃO DE ESTACIONAMENTO</li>
+    <li>subject-&gt;Encaminhado para Sua Consideração</li>
+    <li>subject-&gt;Para Sua Informação</li>
+    <li>subject-&gt;Nos Dê o Benefício do Seu Pensamento Atual</li>
+    <li>subject-&gt;Em Análise</li>
+    <li>subject-&gt;Os marcos quase foram alcançados</li>
+    <li>subject-&gt;Esclarecimento</li>
+  </VME_CorporateDescription.rules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_GiftsAndPurchases_SettingsHeader>Presentes e compras</TSA_WD_GiftsAndPurchases_SettingsHeader>
+  <TSA_WD_GiftSettlement_GoodwillDivisor>Prata de presente por ponto de bônus de boa vontade</TSA_WD_GiftSettlement_GoodwillDivisor>
+  <TSA_WD_GiftSettlement_GoodwillDivisorTip>Ao chegar o presente, a boa vontade ganha é o valor de mercado dos bens brutos dividido por este número (não a avaliação pelo preço de venda do medidor de negócio). Valores mais altos significam boa vontade mais fraca. O jogo base usa 40.</TSA_WD_GiftSettlement_GoodwillDivisorTip>
+  <TSA_WD_GiftSettlement_MinSilverSetting>Presente mínimo (prata)</TSA_WD_GiftSettlement_MinSilverSetting>
+  <TSA_WD_GiftSettlement_MinSilverSettingTip>Os bens da caravana de presente precisam alcançar este equivalente em prata no medidor de negócio (avaliação pelo preço de venda) antes que você possa confirmar.</TSA_WD_GiftSettlement_MinSilverSettingTip>
+  <TSA_WD_Gizmo_RecruitingNone>Sem recrutamento</TSA_WD_Gizmo_RecruitingNone>
+  <TSA_WD_Recruiting_Inspect_None>Nenhum (recrutamento interrompido)</TSA_WD_Recruiting_Inspect_None>
+  <TSA_WD_Outpost_RecruitSocialXpPerResistance>Reserva de XP de Social por resistência reduzida</TSA_WD_Outpost_RecruitSocialXpPerResistance>
+  <TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>Quando prisioneiros perdem resistência neste posto avançado, essa quantidade de XP de Social entra em uma reserva e é dividida igualmente entre os humanoides guarnecidos que ainda podem aprender Social. Defina como 0 para desativar.</TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>
+  <TSA_WD_Recruiting_ClearConfirm>Parar de recrutar? Nenhum novo colono até você escolher Qualquer ou um foco de habilidade novamente.</TSA_WD_Recruiting_ClearConfirm>
+  <TSA_WD_WarehouseTab_ColGoods>Mercadorias</TSA_WD_WarehouseTab_ColGoods>
+  <TSA_WD_WarehouseTab_ColShipAmt>Enviar</TSA_WD_WarehouseTab_ColShipAmt>
+  <TSA_WD_WarehouseTab_FilterGoodsTitle>Filtrar mercadorias</TSA_WD_WarehouseTab_FilterGoodsTitle>
+  <TSA_WD_WarehouseTab_FilterGoodsTip>Mostra todas as mercadorias, apenas comida ou apenas itens que não sejam comida.</TSA_WD_WarehouseTab_FilterGoodsTip>
+  <TSA_WD_WarehouseTab_FilterAll>Tudo</TSA_WD_WarehouseTab_FilterAll>
+  <TSA_WD_WarehouseTab_FilterFood>Comida</TSA_WD_WarehouseTab_FilterFood>
+  <TSA_WD_WarehouseTab_FilterNonfood>Não comida</TSA_WD_WarehouseTab_FilterNonfood>
+  <TSA_WD_WarehouseTab_SearchHint>Pesquisar…</TSA_WD_WarehouseTab_SearchHint>
+  <TSA_WD_WarehouseTab_SearchTip>Filtra a lista de mercadorias por nome.</TSA_WD_WarehouseTab_SearchTip>
+  <TSA_WD_WarehouseTab_RegularDest>Destino: {0}</TSA_WD_WarehouseTab_RegularDest>
+  <TSA_WD_WarehouseTab_RowDeliveryType>Tipo de entrega:</TSA_WD_WarehouseTab_RowDeliveryType>
+  <TSA_WD_WarehouseTab_RowDailyAuto>Entrega automática diária</TSA_WD_WarehouseTab_RowDailyAuto>
+  <TSA_WD_WarehouseTab_AutoOn>Ligado</TSA_WD_WarehouseTab_AutoOn>
+  <TSA_WD_WarehouseTab_AutoOff>Desligado</TSA_WD_WarehouseTab_AutoOff>
+  <TSA_WD_WarehouseTab_AutoTo>Para {0}</TSA_WD_WarehouseTab_AutoTo>
+  <TSA_WD_WarehouseTab_ShipNow>Enviar agora</TSA_WD_WarehouseTab_ShipNow>
+  <TSA_WD_WarehouseTab_VirtualFood>Comida virtual</TSA_WD_WarehouseTab_VirtualFood>
+  <TSA_WD_WarehouseTab_VirtualFoodDetail>Suprimento de comida do armazém: {0}. Pelo menos {1} precisa permanecer aqui. Enviável agora: {2}. Pode ser misturada com comida física; os destinos são apenas postos avançados do jogador (não a colônia).</TSA_WD_WarehouseTab_VirtualFoodDetail>
+  <TSA_WD_WarehouseTab_AdHocSend>Enviar selecionados (incl. comida de posto avançado)</TSA_WD_WarehouseTab_AdHocSend>
+  <TSA_WD_WarehouseTab_AdHocSendTip>Escolha as quantidades acima e clique em um destino no mapa-múndi. Usa a lista suspensa de tipo de entrega. Não altera a entrega automática diária.</TSA_WD_WarehouseTab_AdHocSendTip>
+  <TSA_WD_WarehouseTab_DestRulesTip>Seleções apenas de comida (incl. comida virtual) podem ir para postos avançados do jogador. Comida virtual não pode ir para a colônia. Seleções com itens que não sejam comida só podem ir para uma colônia ou outro armazém (sem comida virtual). A entrega automática diária sempre envia todo o estoque físico para a colônia/armazém escolhido.</TSA_WD_WarehouseTab_DestRulesTip>
+  <TSA_WD_Warehouse_AdHocInvalidDest>Destino inválido. Comida pode ir para uma colônia do jogador, um armazém ou outro posto avançado.</TSA_WD_Warehouse_AdHocInvalidDest>
+  <TSA_WD_Warehouse_AdHocInvalidDestVirtual>Destino inválido. Comida virtual só pode ir para outro posto avançado do jogador (não a colônia).</TSA_WD_Warehouse_AdHocInvalidDestVirtual>
+  <TSA_WD_Warehouse_AdHocInvalidDestVirtualMix>Comida virtual não pode ser misturada com itens que não sejam comida em um mesmo envio.</TSA_WD_Warehouse_AdHocInvalidDestVirtualMix>
+  <TSA_WD_Warehouse_AdHocInvalidDestGoods>Destino inválido. Envios que não sejam de comida (ou mistos) só podem ir para uma colônia do jogador ou um armazém.</TSA_WD_Warehouse_AdHocInvalidDestGoods>
+  <TSA_WD_Warehouse_ShipInsufficientVirtual>Comida virtual insuficiente para enviar (o armazém precisa manter uma reserva).</TSA_WD_Warehouse_ShipInsufficientVirtual>
+  <TSA_WD_Warehouse_DestKind_Outpost>Posto avançado</TSA_WD_Warehouse_DestKind_Outpost>
+  <TSA_WD_Warehouse_FoodDelivery_LetterLabel>Entrega de comida: {0}</TSA_WD_Warehouse_FoodDelivery_LetterLabel>
+  <TSA_WD_Warehouse_FoodDelivery_Letter>Comida de {0} chegou a {1}. +{2} de suprimento de comida (agora {3}/{4}).</TSA_WD_Warehouse_FoodDelivery_Letter>
+  <TSA_WD_InterceptionFled>Confronto de caravanas perdido. Sua caravana fugiu. {0} continua sua missão.</TSA_WD_InterceptionFled>
+  <TSA_WD_OutpostDefense_RaidFailedToForm>A incursão de {1} contra {0} não chegou a se formar. Os defensores retornaram ao posto avançado.</TSA_WD_OutpostDefense_RaidFailedToForm>
+  <TSA_WD_Update_2_3_24_Title>Novas texturas de objetos de cenário, correções de bugs</TSA_WD_Update_2_3_24_Title>
+  <TSA_WD_Update_2_3_24_Body>&lt;size=16&gt;&lt;b&gt;2.3.24 – Novas texturas de objetos de cenário, correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 18 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Todas as texturas dos objetos de cenário de carroças, fardos de feno e caixotes/caixas foram refeitas pelo jogador Pesky (valeu por isso! As antigas eram realmente ruins).\n\n• Corrigido um bug em que, em uma defesa de posto avançado, você perdia a luta instantaneamente se os colonos originalmente guarnecidos ali morressem, mesmo com colonos de pé de reforços pontuais ainda presentes (enviados, por exemplo, via cápsula de transporte).\n\n• Corrigido um bug em que você perdia instantaneamente um confronto de caravanas se seus colonos chegassem lá via cápsula de transporte.\n\n• Se você adquiriu a melhoria de parede de aço/plastiaço ou BOR para um posto avançado, esses materiais agora também serão usados no mapa de defesa real.\n\n• Já adicionado anteriormente: facções derrotadas agora continuam listadas em todos os painéis do WD.\n</TSA_WD_Update_2_3_24_Body>
+  <TSA_WD_Update_2_3_23_Title>Mover prisioneiros, entrega de comida do armazém</TSA_WD_Update_2_3_23_Title>
+  <TSA_WD_Update_2_3_23_Body>&lt;size=16&gt;&lt;b&gt;2.3.23 – Mover prisioneiros, entrega de comida do armazém&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 17 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: prisioneiros agora podem ser movidos entre postos avançados e para a colônia. Eles precisam ser acompanhados por pelo menos 1 colono comum.\n\n• Novo recurso: postos avançados de armazém agora podem entregar comida a postos avançados. A comida é enviada por caravana terrestre ou de cápsulas de transporte. Você pode tanto enviar comida física, que então é convertida em comida virtual, quanto enviar comida virtual diretamente (15 de comida virtual precisam permanecer como valor mínimo no armazém). Alguns controles, como tipo de entrega e destino, foram movidos para a aba Armazenamento.\n\n• Postos avançados de armazém agora têm uma capacidade padrão de comida virtual maior (500). Os outros tipos de posto avançado mantêm o padrão anterior (300).\n\n• Já lançado hoje mais cedo: você agora pode fugir de defesas de postos avançados usando veículos aéreos como o ônibus espacial de passageiros do Odyssey.\n\n• Os detalhes de Presente/Compra agora são configuráveis no menu de configurações de Diplomacia.\n\n• Novas ações de depuração: Forçar Início, Meio e Fim de Jogo. Além disso, você pode forçar a adição de comida e de alguns itens que não sejam comida, como componentes, a um posto avançado de armazém (usei isso para testes).\n\n• Algumas correções de bugs e ajustes.\n</TSA_WD_Update_2_3_23_Body>
+  <TSA_WD_Update_2_3_22_Title>Ajustes finos e correções de bugs</TSA_WD_Update_2_3_22_Title>
+  <TSA_WD_Update_2_3_22_Body>&lt;size=16&gt;&lt;b&gt;2.3.22 – Ajustes finos e correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 16 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Recrutar prisioneiros em um posto avançado agora concede XP de Social. 400 de XP de Social por ponto de resistência reduzido entram em uma reserva; cada colono humanoide no posto avançado recebe uma parte igual.\n\n• Quando uma incursão por cápsulas de transporte conquista um assentamento e ainda está forte o suficiente para saquear, ela agora continua como caravana terrestre em vez de permanecer em cápsulas para o próximo alvo.\n\n• Você pode fugir de um mapa de confronto de caravanas (não de defesa de posto avançado) via ônibus espacial de passageiros ou outros veículos aéreos. Isso costumava atingir um caso extremo que excluía o ônibus e seus passageiros.\n\n• Postos avançados de recrutamento agora podem ser pausados (Redefinir no diálogo de recrutamento).\n\n• O recrutamento seletivo por habilidade eleva o nível mínimo para 5 (era 4).\n\n• Postos avançados de Resposta Rápida e de artilharia agora podem interceptar caravanas de Vanguarda, Invasão e Defensiva que passem por eles, não apenas incursões normais.\n\n• Promoções de nível de assentamento por Desenvolvimento, depósitos da Defensiva e investimento por presente/compra/suborno agora respeitam os limites regionais de nível. Reembolsos de força não promovem mais o nível de um assentamento. Como resultado, você deve ver menos assentamentos N3 e N4 em regiões densas.\n</TSA_WD_Update_2_3_22_Body>
+  <TSA_WD_Prisoners_Filter_InTransit>Em trânsito</TSA_WD_Prisoners_Filter_InTransit>
+  <TSA_WD_Prisoners_GroupInTransit>Em trânsito</TSA_WD_Prisoners_GroupInTransit>
+  <TSA_WD_Prisoners_GroupInTransitTip>Estes prisioneiros estão viajando com uma caravana escoltada.\nO recrutamento e as ações de posto avançado ficam pausados até que eles cheguem.\nExpulsar, agendar destino e mudanças de interação ficam desativados enquanto eles viajam.</TSA_WD_Prisoners_GroupInTransitTip>
+  <TSA_WD_Prisoners_InTransit>Em trânsito</TSA_WD_Prisoners_InTransit>
+  <TSA_WD_Prisoners_InTransitTip>Transferência escoltada em andamento. Este prisioneiro continua sendo prisioneiro da colônia até a caravana chegar.</TSA_WD_Prisoners_InTransitTip>
+  <TSA_WD_Prisoners_InTransitActionsDisabledTip>Não é possível mudar a agenda, a interação ou expulsar enquanto este prisioneiro estiver em trânsito.</TSA_WD_Prisoners_InTransitActionsDisabledTip>
+  <TSA_WD_PawnTransfer_PrisonerNeedsEscort>Selecione pelo menos um colono que não seja prisioneiro para escoltar os prisioneiros.</TSA_WD_PawnTransfer_PrisonerNeedsEscort>
+  <TSA_WD_PawnTransfer_PrisonerCannotLead>{0} é um prisioneiro e não pode liderar a caravana.</TSA_WD_PawnTransfer_PrisonerCannotLead>
+  <TSA_WD_PawnTransfer_PrisonerNoExitHere>Prisioneiros não podem sair por aqui — envie-os a uma colônia ou a um posto avançado que aceite prisioneiros.</TSA_WD_PawnTransfer_PrisonerNoExitHere>
+  <TSA_WD_PawnTransfer_DestRefusesPrisoners>Esse posto avançado não está aceitando prisioneiros.</TSA_WD_PawnTransfer_DestRefusesPrisoners>
+</LanguageData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BQ_OpportunitySite_AllyAttackOnBanditCamp.questNameRules.rulesStrings>
+    <li>questName-&gt;O [bandit] [camp]</li>
+    <li>questName-&gt;[bandit] [camp]</li>
+    <li>questName-&gt;[asker_nameDef] e o [camp]</li>
+    <li>camp-&gt;Acampamento</li>
+    <li>camp-&gt;Posto Avançado</li>
+    <li>camp-&gt;Covil</li>
+    <li>camp-&gt;Assentamento</li>
+    <li>bandit-&gt;Bandido</li>
+    <li>bandit-&gt;Saqueador</li>
+    <li>bandit-&gt;Foragido</li>
+    <li>bandit-&gt;Desesperado</li>
+    <li>bandit-&gt;Fugitivo</li>
+    <li>bandit-&gt;Carrasco</li>
+    <li>bandit-&gt;Ladrão</li>
+    <li>bandit-&gt;Salteador</li>
+  </BQ_OpportunitySite_AllyAttackOnBanditCamp.questNameRules.rulesStrings>
+  <BQ_OpportunitySite_AllyAttackOnBanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] que ocupam um acampamento próximo vêm saqueando suas caravanas. O acampamento é controlado por [siteFaction_name].\n\n[asker_nameDef] nos pede para destruir o acampamento, o que significa eliminar todos os inimigos e torretas. [asker_label] diz que [sitePart0_description].</li>
+  </BQ_OpportunitySite_AllyAttackOnBanditCamp.questDescriptionRules.rulesStrings>
+  <BQ_OpportunitySite_AllyCallForHelp.questNameRules.rulesStrings>
+    <li>questName(challengeRating==1)-&gt;Pedido de ajuda de [asker_faction_name]. É uma pequena emboscada</li>
+    <li>questName(challengeRating==2)-&gt;Pedido de ajuda de [asker_faction_name]. É um confronto moderado</li>
+    <li>questName(challengeRating==3)-&gt;Pedido de ajuda de [asker_faction_name]. É um combate em larga escala</li>
+  </BQ_OpportunitySite_AllyCallForHelp.questNameRules.rulesStrings>
+  <BQ_OpportunitySite_AllyCallForHelp.questDescriptionRules.rulesStrings>
+    <li>questDescription(challengeRating==1)-&gt;Os batedores de [asker_faction_name] descobriram um grupo de [siteFaction_name] e estão pedindo sua ajuda em uma emboscada.</li>
+    <li>questDescription(challengeRating==2)-&gt;Os batedores de [asker_faction_name] descobriram um grande grupo de [siteFaction_name] e estão pedindo sua ajuda em um confronto.</li>
+    <li>questDescription(challengeRating==3)-&gt;As forças de [asker_faction_name] estão se movendo para interceptar a grande força de incursão de [siteFaction_name]. Eles estão pedindo ajuda para esse combate massivo.</li>
+  </BQ_OpportunitySite_AllyCallForHelp.questDescriptionRules.rulesStrings>
+  <BQ_OpportunitySite_AttackOnEnemyBase.questNameRules.rulesStrings>
+    <li>questName(challengeRating==1)-&gt;Pedido de ajuda de [asker_faction_name].</li>
+    <li>questName(challengeRating==2)-&gt;Pedido de ajuda de [asker_faction_name].</li>
+    <li>questName(challengeRating==3)-&gt;Pedido de ajuda de [asker_faction_name].</li>
+  </BQ_OpportunitySite_AttackOnEnemyBase.questNameRules.rulesStrings>
+  <BQ_OpportunitySite_AttackOnEnemyBase.questDescriptionRules.rulesStrings>
+    <li>questDescription(challengeRating==1)-&gt;[asker_faction_name] pede sua ajuda para destruir a base de [siteFaction_name] em [site_label].</li>
+    <li>questDescription(challengeRating==2)-&gt;[asker_faction_name] pede sua ajuda para destruir a base de [siteFaction_name] em [site_label].</li>
+    <li>questDescription(challengeRating==3)-&gt;[asker_faction_name] pede sua ajuda para destruir a base de [siteFaction_name] em [site_label].</li>
+  </BQ_OpportunitySite_AttackOnEnemyBase.questDescriptionRules.rulesStrings>
+</LanguageData>

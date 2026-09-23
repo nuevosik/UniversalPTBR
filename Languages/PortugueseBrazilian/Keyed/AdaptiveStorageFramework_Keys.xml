@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ASF_XStacks>{0} pilhas</ASF_XStacks>
+  <ASF_Empty>vazio</ASF_Empty>
+  <ASF_MapFilled>Você preencheu o mapa.</ASF_MapFilled>
+  <ASF_SettingContentsTabSelection>Aba Conteúdo a exibir nos edifícios de armazenamento adaptativo:</ASF_SettingContentsTabSelection>
+  <ASF_SettingContentsTabDescription>É a aba chamada 'Conteúdo' no painel inferior esquerdo quando um edifício está selecionado. 'Nenhuma' exibe o conteúdo da forma padrão do jogo, pelos botões 'Selecionar x' na barra à direita, em vez da aba.</ASF_SettingContentsTabDescription>
+  <ASF_MaxNumStacks>número máximo de pilhas por quadrado</ASF_MaxNumStacks>
+  <ASF_MaxNumStacksDesc>O número máximo de pilhas que cabem em um único espaço. Edifícios com dois quadrados de tamanho terão o dobro da capacidade de armazenamento.\n\nObserve que outros fatores podem reduzir a capacidade de armazenamento.</ASF_MaxNumStacksDesc>
+  <ASF_DropSpecificCount>Largar quantidade específica</ASF_DropSpecificCount>
+  <ASF_TotalStorageCapacity>capacidade total de armazenamento</ASF_TotalStorageCapacity>
+  <ASF_StorageCapacityDescriptionCustomized>O número máximo de pilhas que cabem neste edifício de armazenamento, somando todos os quadrados.\n\n{sizeX} * {sizeZ} quadrados com capacidades definidas individualmente.</ASF_StorageCapacityDescriptionCustomized>
+  <ASF_StorageCapacityDescriptionStacksPerCell>O número máximo de pilhas que cabem neste edifício de armazenamento, somando todos os quadrados.\n\n{sizeX} * {sizeZ} quadrados com capacidade máxima de {maxItemsInCell} pilhas por quadrado.</ASF_StorageCapacityDescriptionStacksPerCell>
+  <ASF_AutomaticallyOpenContentsTab>Abrir a aba de conteúdo automaticamente</ASF_AutomaticallyOpenContentsTab>
+  <ASF_AutomaticallyOpenContentsTabDescription>Com esta opção ativada, selecionar um edifício de armazenamento abre automaticamente sua aba Conteúdo, ou as configurações de armazenamento quando ele estiver vazio.</ASF_AutomaticallyOpenContentsTabDescription>
+  <ASF_HideLabelsZoomSetting>Ocultar rótulos com o zoom afastado</ASF_HideLabelsZoomSetting>
+  <ASF_HideLabelsZoomDescription>Afeta os rótulos exibidos no mapa, como [ count ] ou Item xY. Quando ativado, eles só aparecem com o zoom aproximado.</ASF_HideLabelsZoomDescription>
+  <ASF_HideLabelsMouseOverSetting>Ocultar rótulos até passar o mouse</ASF_HideLabelsMouseOverSetting>
+  <ASF_HideLabelsMouseOverDescription>Afeta os rótulos exibidos no mapa, como [ count ] ou Item xY. Quando ativado, eles só aparecem quando apontados com o mouse. É substituído pelo mod Toggleable Overlays quando esse mod está ativado.</ASF_HideLabelsMouseOverDescription>
+  <ASF_DefaultLabelStyleSetting>Estilo de rótulo padrão</ASF_DefaultLabelStyleSetting>
+  <ASF_DefaultLabelStyleDescription>O que exibir nos rótulos de armazenamento do mapa. Cada edifício pode substituir isso em sua própria configuração.</ASF_DefaultLabelStyleDescription>
+  <ASF_MaxZoomLevelSetting>Nível máximo de zoom</ASF_MaxZoomLevelSetting>
+  <ASF_MaxZoomLevelDescription>O nível máximo de zoom para exibir os rótulos. Além desse ponto, eles ficam ocultos.</ASF_MaxZoomLevelDescription>
+  <ASF_OtherItems>Outros itens</ASF_OtherItems>
+</LanguageData>

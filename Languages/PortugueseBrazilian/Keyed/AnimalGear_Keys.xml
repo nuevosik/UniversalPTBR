@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalGearRenderMode_Title>Modo de renderização</AnimalGearRenderMode_Title>
+  <AnimalGearRenderMode_Desc>Pode ser usado para alterar como animais com equipamento ou roupas são renderizados (influencia o desempenho e possivelmente a compatibilidade — o modo Automático normalmente usa o novo modo de renderização (melhor desempenho), semelhante aos colonos na 1.3, e muda para o modo alternativo quando o zoom é reduzido, para limitar possíveis tremulações em animais maiores).</AnimalGearRenderMode_Desc>
+  <AnimalGearRenderMode_Desc_AutoMixed>Automático misto</AnimalGearRenderMode_Desc_AutoMixed>
+  <AnimalGearRenderMode_Desc_FallbackRenderPawnInternal>Somente modo alternativo</AnimalGearRenderMode_Desc_FallbackRenderPawnInternal>
+  <AnimalGearRenderMode_Desc_NewMeshMode>Somente novo modo</AnimalGearRenderMode_Desc_NewMeshMode>
+  <AnimalGearRenderMode_Desc_Off>Desativado: equipamento invisível</AnimalGearRenderMode_Desc_Off>
+  <AnimalGearFallbackToEmptyTextureEnabled_Title>Usar textura vazia como alternativa</AnimalGearFallbackToEmptyTextureEnabled_Title>
+  <AnimalGearFallbackToEmptyTextureEnabled_Desc>Usa uma textura vazia genérica como alternativa se nenhuma específica do animal for encontrada.</AnimalGearFallbackToEmptyTextureEnabled_Desc>
+  <AnimalGearReplaceLegacyGearWithNewVariantEnabled_Title>Substituir automaticamente equipamento de mods antigos</AnimalGearReplaceLegacyGearWithNewVariantEnabled_Title>
+  <AnimalGearReplaceLegacyGearWithNewVariantEnabled_Desc>Ao carregar o mapa, se configurado (veja as notas de alteração para detalhes).</AnimalGearReplaceLegacyGearWithNewVariantEnabled_Desc>
+  <AnimalGearRPGInventoryAnimalCompatibilityEnabled_Title>Mostrar 'Inventário estilo RPG' para animais de facção</AnimalGearRPGInventoryAnimalCompatibilityEnabled_Title>
+  <AnimalGearRPGInventoryAnimalCompatibilityEnabled_Desc></AnimalGearRPGInventoryAnimalCompatibilityEnabled_Desc>
+  <AnimalGearDraftedForceWearEnabled_Title>Ativar opção 'Forçar uso' para animais convocados</AnimalGearDraftedForceWearEnabled_Title>
+  <AnimalGearDraftedForceWearEnabled_Desc>Requer um mod como 'Draftable animals', que permite convocar animais.</AnimalGearDraftedForceWearEnabled_Desc>
+  <AnimalGearDraftedForceWearOnlyCarryTrainedEnabled_Title>Limitar a opção 'Forçar uso' a animais treinados em transporte</AnimalGearDraftedForceWearOnlyCarryTrainedEnabled_Title>
+  <AnimalGearDraftedForceWearOnlyCarryTrainedEnabled_Desc></AnimalGearDraftedForceWearOnlyCarryTrainedEnabled_Desc>
+  <AG_Disabled>opção desativada</AG_Disabled>
+  <AG_NotTrained>não treinado em transporte</AG_NotTrained>
+  <AG_Info>Informações</AG_Info>
+  <AG_Reset>Redefinir</AG_Reset>
+</LanguageData>

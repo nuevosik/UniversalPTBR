@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TKSPriortyTreatmentName>Tratamento Prioritário Ressuscitado</TKSPriortyTreatmentName>
+  <TKSIncludeSickness>Tratar doenças de longo prazo</TKSIncludeSickness>
+  <TKSIncludeSicknessToolTip>Por padrão, seus médicos tratarão apenas ferimentos como emergências absolutas. Marque esta caixa para incluir todas as formas de tratamento (incluindo o tratamento de doenças de longo prazo).</TKSIncludeSicknessToolTip>
+  <TKSWakeUpToTend>Acordar para tratar</TKSWakeUpToTend>
+  <TKSWakeUpToTendToolTip>Marque isto para que seus médicos acordem e tratem mesmo estando dormindo. Se você usa outro mod que faz isso (ex.: Wake Up), pode deixar isto desmarcado.</TKSWakeUpToTendToolTip>
+  <TKSDocPriority>Requisito de prioridade do médico de emergência</TKSDocPriority>
+  <TKSDocPriorityToolTip>Os colonos devem ter a prioridade de médico definida neste número ou menos para serem afetados por este mod.</TKSDocPriorityToolTip>
+  <TKSAllowEating>Permitir que médicos comam</TKSAllowEating>
+  <TKSAllowEatingToolTip>Se esta caixa estiver desmarcada, os médicos continuarão fazendo tratamentos de emergência em vez de se alimentarem (cuide dos seus médicos!)</TKSAllowEatingToolTip>
+  <TKSDebugPrint>Alterna a exibição de informações de depuração extras nos registros.</TKSDebugPrint>
+  <NotOperatingWithInjuries>{0} não realizará cirurgia enquanto estiver ferido (Tratamento Prioritário Ressuscitado)</NotOperatingWithInjuries>
+  <TKSAllowInjuredSurgery>Permitir que colonos feridos realizem cirurgias.</TKSAllowInjuredSurgery>
+  <TKSAllowInjuredSurgeryTooltip>Alterna o bloqueio de colonos feridos para realizar cirurgias; eles esperarão até ficarem saudáveis novamente.</TKSAllowInjuredSurgeryTooltip>
+</LanguageData>

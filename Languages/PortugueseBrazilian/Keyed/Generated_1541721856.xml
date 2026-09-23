@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AA_AlphaAnimalSpawnMultiplier>Multiplicador de comunalidade do Alpha Animals</AA_AlphaAnimalSpawnMultiplier>
   <AA_AlphaAnimalSpawnMultiplierTooltip>Este multiplicador afetará a geração (comunalidades) de TODOS os animais deste mod. Por exemplo, se definido como 0,5, os animais do mod aparecerão pela metade da frequência padrão (que é 1). Se definido como 2, você terá o dobro da frequência padrão, e assim por diante. Isso afeta apenas o surgimento de animais selvagens.</AA_AlphaAnimalSpawnMultiplierTooltip>
@@ -143,7 +143,7 @@
   <AA_SkewerFailed>Espeto falhado</AA_SkewerFailed>
   <AA_SpinCut>Corte giratório!</AA_SpinCut>
   <AA_SpinCutFailed>Falha no corte de rotação</AA_SpinCutFailed>
-  <AA_StomachContents>{0} criaturas engolidas inteiras. </AA_StomachContents>
+  <AA_StomachContents>{0} criaturas engolidas inteiras.</AA_StomachContents>
   <AA_Tank>Tanque</AA_Tank>
   <AA_TimeToMetamorphosis>Hora de metamorfose: {0}</AA_TimeToMetamorphosis>
   <AA_UraniumCrystalsDesc>Afrouxamento do cristal de urânio</AA_UraniumCrystalsDesc>
@@ -216,6 +216,6 @@
   <allowSummitCrab>Permitir evento de caranguejo do cume</allowSummitCrab>
   <allowVanillaAnimals>Permitir animais de caça básicos (afeta apenas crias selvagens)</allowVanillaAnimals>
   <alternatePokemonGraphics>Use gráficos alternativos "fofos" para animais selecionados, por Roidgy</alternatePokemonGraphics>
-  <alternatePokemonGraphics_Desc>Se estiver ativo, animais selecionados usarão a retextura legal de Roidgy. Os seguintes animais têm uma retextura: Agaripão, Agarípode, Leão Ártico, Dragão Decomposto, Ave do Deserto, Gallatross, Gigantelope, Corredor terrestre, Verme mamute, Megalouse, Colosso micoide, Colosso coberto de vegetação, Radyak, Leão da areia e Thermadon </alternatePokemonGraphics_Desc>
+  <alternatePokemonGraphics_Desc>Se estiver ativo, animais selecionados usarão a retextura legal de Roidgy. Os seguintes animais têm uma retextura: Agaripão, Agarípode, Leão Ártico, Dragão Decomposto, Ave do Deserto, Gallatross, Gigantelope, Corredor terrestre, Verme mamute, Megalouse, Colosso micoide, Colosso coberto de vegetação, Radyak, Leão da areia e Thermadon</alternatePokemonGraphics_Desc>
   <removeAnimalParticles>Remova partículas de animais</removeAnimalParticles>
 </LanguageData>

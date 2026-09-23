@@ -23,6 +23,6 @@
   <VFEE_BestowYeoman.description>Concede o título de Noviço a um colono selecionado. Esse colono agora terá 7 de honra. Não pode ser conjurado em um colono que já seja um Noviço ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowYeoman.description>
   
   <VFEE_RoyalAddress.label>discurso real</VFEE_RoyalAddress.label>
-  <VFEE_RoyalAddress.description>está fazendo um discurso real do trono. Se tudo correr bem, cada participante com título ganhará uma pequena quantidade de honra, e ganharão honra para cada participante intitulado presente. Se correr mal, o discurso causará dano social e perderão honra por cada participante intitulado. O resultado depende das habilidades sociais do orador. A nobreza imperial residindo na área no momento participará do discurso e contará como participantes intitulados.</VFEE_RoyalAddress.description>
+  <VFEE_RoyalAddress.description>Começa um discurso real a partir do trono. {ORGANIZER_labelShort} faz um discurso real do trono. Se tudo correr bem, cada participante com título ganhará uma pequena quantidade de honra, e {ORGANIZER_labelShort} ganhará honra para cada participante intitulado. Se correr mal, o discurso causará dano social e {ORGANIZER_labelShort} perderá honra por cada participante intitulado. O resultado depende das habilidades sociais de {ORGANIZER_labelShort}. A nobreza imperial que estiver na área no momento participará do discurso e contará como participante intitulado.</VFEE_RoyalAddress.description>
   
 </LanguageData>

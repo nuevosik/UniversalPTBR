@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Automatic.label>Automático</Automatic.label>
+  <Automatic.description>Escolhe automaticamente entre exibir os nomes dos itens com a contagem deles quando estiverem ocultos e exibir apenas a contagem quando houver conteúdo visível, seja diretamente ou quando o edifício aceitar apenas um tipo.</Automatic.description>
+  <TotalCount.label>Contagem total</TotalCount.label>
+  <TotalCount.description>Exibe a contagem total de todos os itens no armazenamento no formato [ COUNT ].</TotalCount.description>
+  <NamesWithCount.label>Nomes de itens com contagem</NamesWithCount.label>
+  <NamesWithCount.description>Exibe os nomes dos itens e a contagem deles no formato Item xY, uma entrada por linha.</NamesWithCount.description>
+  <NamesWithCountOrTotalCount.label>Nomes de itens com contagem ou contagem total</NamesWithCountOrTotalCount.label>
+  <NamesWithCountOrTotalCount.description>Exibe até 3 nomes de itens e a contagem deles no formato Item xY, uma entrada por linha, ou a contagem total quando houver mais itens.</NamesWithCountOrTotalCount.description>
+  <Names.label>Nomes de itens</Names.label>
+  <Names.description>Exibe os nomes dos itens armazenados, uma entrada por linha.</Names.description>
+  <NamesOrTotalCount.label>Nomes de itens ou contagem total</NamesOrTotalCount.label>
+  <NamesOrTotalCount.description>Exibe até 3 nomes de itens armazenados, uma entrada por linha, ou a contagem total quando houver mais itens.</NamesOrTotalCount.description>
+  <NamesOrNameCount.label>Nomes de itens ou contagem de nomes</NamesOrNameCount.label>
+  <NamesOrNameCount.description>Exibe até 3 nomes de itens armazenados, uma entrada por linha, ou a contagem de nomes diferentes quando houver mais itens.</NamesOrNameCount.description>
+  <Vanilla.label>Padrão</Vanilla.label>
+  <Vanilla.description>Exibe a contagem de itens individualmente em cada item.</Vanilla.description>
+</LanguageData>

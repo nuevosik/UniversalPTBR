@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VMF_LoadBuildableContainer.label>load buildable container</VMF_LoadBuildableContainer.label>
-  <VMF_LoadBuildableContainer.verb>load</VMF_LoadBuildableContainer.verb>
-  <VMF_LoadBuildableContainer.gerund>loading</VMF_LoadBuildableContainer.gerund>
-  <VMF_HaulGeneralAcrossMaps.label>haul general things</VMF_HaulGeneralAcrossMaps.label>
-  <VMF_HaulGeneralAcrossMaps.verb>haul</VMF_HaulGeneralAcrossMaps.verb>
-  <VMF_HaulGeneralAcrossMaps.gerund>hauling</VMF_HaulGeneralAcrossMaps.gerund>
-  <VMF_HaulCorpsesAcrossMaps.label>haul corpses</VMF_HaulCorpsesAcrossMaps.label>
-  <VMF_HaulCorpsesAcrossMaps.verb>haul</VMF_HaulCorpsesAcrossMaps.verb>
-  <VMF_HaulCorpsesAcrossMaps.gerund>hauling</VMF_HaulCorpsesAcrossMaps.gerund>
-  <VMF_RefuelVehicleTank.label>refuel vehicle tank</VMF_RefuelVehicleTank.label>
-  <VMF_RefuelVehicleTank.verb>refuel</VMF_RefuelVehicleTank.verb>
-  <VMF_RefuelVehicleTank.gerund>refueling</VMF_RefuelVehicleTank.gerund>
-  <VMF_HaulToInventoryAcrossMaps.label>stuff things in inventory and haul</VMF_HaulToInventoryAcrossMaps.label>
-  <VMF_HaulToInventoryAcrossMaps.verb>haul</VMF_HaulToInventoryAcrossMaps.verb>
-  <VMF_HaulToInventoryAcrossMaps.gerund>hauling</VMF_HaulToInventoryAcrossMaps.gerund>
-  <VMF_RepairMapVehicle.label>repair vehicle</VMF_RepairMapVehicle.label>
-  <VMF_RepairMapVehicle.verb>repair</VMF_RepairMapVehicle.verb>
-  <VMF_RepairMapVehicle.gerund>repairing</VMF_RepairMapVehicle.gerund>
-  <VMF_RemoveVehicleSegment.label>remove vehicle segment</VMF_RemoveVehicleSegment.label>
-  <VMF_RemoveVehicleSegment.verb>deconstruct</VMF_RemoveVehicleSegment.verb>
-  <VMF_RemoveVehicleSegment.gerund>deconstructing</VMF_RemoveVehicleSegment.gerund>
+  <VMF_LoadBuildableContainer.label>carregar contêiner construível</VMF_LoadBuildableContainer.label>
+  <VMF_LoadBuildableContainer.verb>carregar</VMF_LoadBuildableContainer.verb>
+  <VMF_LoadBuildableContainer.gerund>carregando</VMF_LoadBuildableContainer.gerund>
+  <VMF_HaulGeneralAcrossMaps.label>transportar coisas em geral</VMF_HaulGeneralAcrossMaps.label>
+  <VMF_HaulGeneralAcrossMaps.verb>transportar</VMF_HaulGeneralAcrossMaps.verb>
+  <VMF_HaulGeneralAcrossMaps.gerund>transportando</VMF_HaulGeneralAcrossMaps.gerund>
+  <VMF_HaulCorpsesAcrossMaps.label>transportar cadáveres</VMF_HaulCorpsesAcrossMaps.label>
+  <VMF_HaulCorpsesAcrossMaps.verb>transportar</VMF_HaulCorpsesAcrossMaps.verb>
+  <VMF_HaulCorpsesAcrossMaps.gerund>transportando</VMF_HaulCorpsesAcrossMaps.gerund>
+  <VMF_RefuelVehicleTank.label>reabastecer o tanque do veículo</VMF_RefuelVehicleTank.label>
+  <VMF_RefuelVehicleTank.verb>reabastecer</VMF_RefuelVehicleTank.verb>
+  <VMF_RefuelVehicleTank.gerund>reabastecendo</VMF_RefuelVehicleTank.gerund>
+  <VMF_HaulToInventoryAcrossMaps.label>enfiar coisas no inventário e transportar</VMF_HaulToInventoryAcrossMaps.label>
+  <VMF_HaulToInventoryAcrossMaps.verb>transportar</VMF_HaulToInventoryAcrossMaps.verb>
+  <VMF_HaulToInventoryAcrossMaps.gerund>transportando</VMF_HaulToInventoryAcrossMaps.gerund>
+  <VMF_RepairMapVehicle.label>reparar veículo</VMF_RepairMapVehicle.label>
+  <VMF_RepairMapVehicle.verb>reparar</VMF_RepairMapVehicle.verb>
+  <VMF_RepairMapVehicle.gerund>reparando</VMF_RepairMapVehicle.gerund>
+  <VMF_RemoveVehicleSegment.label>remover segmento do veículo</VMF_RemoveVehicleSegment.label>
+  <VMF_RemoveVehicleSegment.verb>desconstruir</VMF_RemoveVehicleSegment.verb>
+  <VMF_RemoveVehicleSegment.gerund>desconstruindo</VMF_RemoveVehicleSegment.gerund>
 </LanguageData>

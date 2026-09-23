@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <caravanVisual_ModVersion>Versão do mod instalada: {0}</caravanVisual_ModVersion>
+  <caravanVisual_toggleVisibility>Alternar visibilidade dos colonos da caravana</caravanVisual_toggleVisibility>
+  <caravanVisual_swinganimation>Animação de balanço</caravanVisual_swinganimation>
+  <caravanVisual_swinganimation_tooltip>Os colonos se moverão com um movimento de balanço</caravanVisual_swinganimation_tooltip>
+  <caravanVisual_showanimal>Mostrar animais</caravanVisual_showanimal>
+  <caravanVisual_showanimal_tooltip>Mostra os animais da caravana no mapa</caravanVisual_showanimal_tooltip>
+  <caravanVisual_spacingbetweenpawns>Espaçamento entre colonos: {0}</caravanVisual_spacingbetweenpawns>
+  <caravanVisual_spacingbetweenpawns_tooltip>Qual será a distância entre os colonos desenhados</caravanVisual_spacingbetweenpawns_tooltip>
+  <caravanVisual_pawnzoomoutscale>Escala dos colonos com zoom reduzido: {0}</caravanVisual_pawnzoomoutscale>
+  <caravanVisual_pawnzoomoutscale_tooltip>Escala dos colonos ao reduzir o zoom</caravanVisual_pawnzoomoutscale_tooltip>
+  <caravanVisual_pawnscale>Escala dos colonos: {0}</caravanVisual_pawnscale>
+  <caravanVisual_pawnscale_tooltip>Escala dos colonos</caravanVisual_pawnscale_tooltip>
+  <caravanVisual_maxpawncount>Número máximo de colonos (0 é ilimitado): {0}</caravanVisual_maxpawncount>
+  <caravanVisual_maxpawncount_tooltip>Número máximo de colonos exibidos em uma caravana</caravanVisual_maxpawncount_tooltip>
+  <caravanVisual_zoomoutmode>Modo de zoom reduzido</caravanVisual_zoomoutmode>
+  <caravanVisual_zoomoutmode_tooltip>Define como a caravana é exibida quando vista de longe, com o zoom reduzido.</caravanVisual_zoomoutmode_tooltip>
+</LanguageData>

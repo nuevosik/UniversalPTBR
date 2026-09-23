@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MineSight_NearThreshold>Limite próximo / médio: {0} px por quadrado</MineSight_NearThreshold>
+  <MineSight_FarThreshold>Limite médio / distante: {0} px por quadrado</MineSight_FarThreshold>
+  <MineSight_ShowLabels>Mostrar rótulos de veios no zoom distante</MineSight_ShowLabels>
+  <MineSight_ShowHoveredMarker>Mostrar um rótulo para o veio sob o cursor nos zooms próximo e médio</MineSight_ShowHoveredMarker>
+  <MineSight_EnableMarkerClickMineVein>Use a tecla de mineração de veios + clique no rótulo do veio para designar / cancelar um veio</MineSight_EnableMarkerClickMineVein>
+  <MineSight_VeinKey>Tecla de mineração de veios</MineSight_VeinKey>
+  <MineSight_PressKey>Pressione uma tecla...</MineSight_PressKey>
+  <MineSight_VeinKeyResetHint>Clique na caixa e pressione uma tecla. Clique com o botão direito para redefinir.</MineSight_VeinKeyResetHint>
+</LanguageData>

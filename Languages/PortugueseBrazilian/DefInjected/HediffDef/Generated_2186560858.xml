@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VBE_AmbrandyAsIngredient.description>Este colono bebeu um coquetel que tinha ambrandy como um dos ingredientes.</VBE_AmbrandyAsIngredient.description>
   <VBE_AmbrandyAsIngredient.label>bebi coquetel à base de ambrandy</VBE_AmbrandyAsIngredient.label>
   <VBE_AmbrandyInspiration.description>Abrandy consumido. Obra-prima e ambrandy de qualidade lendária fornecerão uma inspiração artística se o colono for capaz de obtê-la.</VBE_AmbrandyInspiration.description>
   <VBE_AmbrandyInspiration.label>inspiração ambrandy</VBE_AmbrandyInspiration.label>
   <VBE_AmbrandyInspiration.labelNoun>uma inspiração ambrandy</VBE_AmbrandyInspiration.labelNoun>
-  <VBE_CaffeineAddiction.description>Um vício químico em cafeína. A presença prolongada de cafeína causou adaptações neurológicas a nível celular, de modo que o cérebro não consegue mais funcionar adequadamente sem a droga.
-\nSem doses regulares de cafeína, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</VBE_CaffeineAddiction.description>
+  <VBE_CaffeineAddiction.description>Um vício químico em cafeína. A presença prolongada de cafeína causou adaptações neurológicas a nível celular, de modo que o cérebro não consegue mais funcionar adequadamente sem a droga.\n\nSem doses regulares de cafeína, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</VBE_CaffeineAddiction.description>
   <VBE_CaffeineAddiction.label>vício em cafeína</VBE_CaffeineAddiction.label>
   <VBE_CaffeineAddiction.stages.1.label>cancelamento</VBE_CaffeineAddiction.stages.1.label>
   <VBE_CaffeineTolerance.description>Uma tolerância crescente à cafeína. Quanto mais severa for essa tolerância, mais cafeína será necessária para obter o mesmo efeito.</VBE_CaffeineTolerance.description>
@@ -70,8 +69,7 @@
   <VBE_TequilaHigh.stages.2.label>bêbado</VBE_TequilaHigh.stages.2.label>
   <VBE_TequilaHigh.stages.3.label>martelado</VBE_TequilaHigh.stages.3.label>
   <VBE_TequilaHigh.stages.4.label>apagão</VBE_TequilaHigh.stages.4.label>
-  <VBE_TobaccoAddiction.description>Um vício químico em tabaco. O uso prolongado de tabaco causou adaptações neurológicas a nível celular, de modo que o cérebro não consegue mais funcionar adequadamente sem a droga.
-\nSem doses regulares de tabaco, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</VBE_TobaccoAddiction.description>
+  <VBE_TobaccoAddiction.description>Um vício químico em tabaco. O uso prolongado de tabaco causou adaptações neurológicas a nível celular, de modo que o cérebro não consegue mais funcionar adequadamente sem a droga.\n\nSem doses regulares de tabaco, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</VBE_TobaccoAddiction.description>
   <VBE_TobaccoAddiction.label>dependência do tabaco</VBE_TobaccoAddiction.label>
   <VBE_TobaccoAddiction.stages.1.label>cancelamento</VBE_TobaccoAddiction.stages.1.label>
   <VBE_TobaccoHigh.description>Nicotina na corrente sanguínea. Gera uma sensação suave de bem-estar difuso.</VBE_TobaccoHigh.description>

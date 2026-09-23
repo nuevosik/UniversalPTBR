@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings>
+    <li>_story-&gt;[KnownForm], um [MechType] [MechAdj][MechVerb].\n\n[Result]</li>
+    <li>KnownForm-&gt;Segundo um registro de comunicação interceptado</li>
+    <li>KnownForm-&gt;Segundo boatos de viajantes</li>
+    <li>KnownForm-&gt;Segundo comunicações de [Faction]</li>
+    <li>KnownForm-&gt;Após uma mensagem mencionada em uma transmissão chamar sua atenção</li>
+    <li>KnownForm-&gt;Segundo uma mensagem de um remetente anônimo</li>
+    <li>MechAdj-&gt;de origem desconhecida</li>
+    <li>MechAdj-&gt;em péssimo estado</li>
+    <li>MechAdj-&gt;de comportamento anômalo</li>
+    <li>MechAdj-&gt;fantasmagórico</li>
+    <li>MechAdj-&gt;autodenominado [Mech]</li>
+    <li>MechVerb-&gt;destruiu o assentamento [Settlement] pertencente a [Faction]</li>
+    <li>MechVerb-&gt;liderou um ataque a [Settlement] e o destruiu completamente antes da chegada dos reforços de [Faction]</li>
+    <li>MechVerb-&gt;atacou o assentamento hostil [Settlement] pertencente a [Faction]</li>
+    <li>MechVerb-&gt;destruiu sozinho o assentamento [Settlement] de [Faction]</li>
+    <li>MechVerb-&gt;atacou [Settlement] durante a noite e deixou o local antes que [Faction] pudesse reagir</li>
+    <li>Result-&gt;[Faction] está reunindo forças armadas para caçar e destruir este [MechType]</li>
+    <li>Result-&gt;Segundo boatos, agora só restam ruínas de [Settlement]</li>
+    <li>Result-&gt;Ao que tudo indica, [Settlement] deixou de existir</li>
+    <li>Result-&gt;Ao que tudo indica, após este ataque, [Faction] abandonou o assentamento [Settlement]</li>
+    <li>Result-&gt;[Faction] abandonou o assentamento [Settlement] após avaliar os danos</li>
+    <li>Result-&gt;[Settlement] ficou em silêncio após emitir apenas alguns pedidos de socorro</li>
+  </DMS_Outgoing_Attack.rulePack.rulesStrings>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings>
+    <li>_story-&gt;[SendForm], [SendAdj].\n\n[Result]</li>
+    <li>SendForm-&gt;Uma encomenda confiada foi entregue à sua colônia</li>
+    <li>SendForm-&gt;Uma entrega aérea anônima foi enviada à sua colônia</li>
+    <li>SendForm-&gt;Uma encomenda confiada foi despachada à sua colônia</li>
+    <li>SendForm-&gt;Uma entrega aérea chegou à colônia sem aviso prévio</li>
+    <li>SendAdj-&gt;a caixa está coberta de marcas de tiros, mas o conteúdo parece intacto</li>
+    <li>SendAdj-&gt;pela assinatura é possível saber que talvez tenha sido enviado por alguém que já fez parte da sua colônia</li>
+    <li>SendAdj-&gt;ninguém sabe quem enviou este pacote, mas o que há dentro é muito valioso</li>
+    <li>SendAdj-&gt;os colonos têm certeza de que não havia nenhuma programação logística recente, mas o pacote usou de fato o código de identificação IFF interno da colônia para ser lançado com precisão sobre ela</li>
+    <li>Result-&gt;Seja qual for a história por trás deste pacote, a carga dentro dele chegou de fato à colônia</li>
+    <li>Result-&gt;Segundo boatos, é bem provável que tenha sido obra de um [MechType] mencionado repetidamente nas comunicações de rádio recentes</li>
+    <li>Result-&gt;Seus colonos se lembraram de [Mech], pois a colônia de fato deixou aquele mecanoide de comportamento anômalo partir</li>
+    <li>Result-&gt;Segundo a mensagem dentro do pacote, isto é de fato uma retribuição de [Mech], que agora [Story]</li>
+    <li>Result-&gt;Segundo comunicações de rádio interceptadas, isto pode ser uma retribuição de [Mech], mencionado nas transmissões como agora [Story]</li>
+    <li>Story-&gt;se tornou um mecanoide errante e justiceiro, agindo para impor a própria justiça</li>
+    <li>Story-&gt;se tornou um mecanoide livre e vagabundo, viajando em busca do sentido de estar vivo</li>
+    <li>Story-&gt;se juntou à frota colonial e pretende retomar a longa viagem junto dela dentro de dez anos</li>
+    <li>Story-&gt;permaneceu por um breve período em um assentamento esclarecido, convivendo em harmonia com os moradores</li>
+    <li>Story-&gt;percorre este continente em busca de mecanoides despertos como ele</li>
+    <li>Story-&gt;vagueia por este continente, desvendando segredos enterrados nas profundezas deste planeta</li>
+  </DMS_Outgoing_Loot.rulePack.rulesStrings>
+  <DMS_FleetDialect_Standard.rulePack.rulesStrings>
+    <li>r_name(p=1)-&gt;[common], [edition]</li>
+    <li>common-&gt;[commonPrefix] Comunicações Padrão</li>
+    <li>commonPrefix-&gt;Frota Colonial</li>
+    <li>commonPrefix-&gt;Colonização</li>
+    <li>edition(p=0.3)-&gt;7ª Edição LTE</li>
+    <li>edition(p=1.5)-&gt;6ª Edição</li>
+    <li>edition(p=0.7)-&gt;5ª Edição</li>
+    <li>edition(p=0.5)-&gt;4ª Edição</li>
+    <li>edition(p=0.3)-&gt;3ª Edição</li>
+    <li>edition(p=0.1)-&gt;2ª Edição</li>
+  </DMS_FleetDialect_Standard.rulePack.rulesStrings>
+  <DMS_QuestDocumentRules.rulePack.rulesStrings>
+    <li>docName-&gt;[doc_type] de [subject] [fleet_prefix]</li>
+    <li>docDesc-&gt;Trata-se de [doc_type] sobre [subject], [details]</li>
+    <li>fleet_prefix-&gt;da Frota</li>
+    <li>fleet_prefix-&gt;colonial</li>
+    <li>fleet_prefix-&gt;dos pioneiros</li>
+    <li>subject(context==supply)-&gt;suprimentos</li>
+    <li>subject(context==supply)-&gt;material</li>
+    <li>subject(context==supply)-&gt;energia</li>
+    <li>doc_type(context==supply)-&gt;lista de auditoria</li>
+    <li>doc_type(context==supply)-&gt;folha de resumo</li>
+    <li>details(context==supply)-&gt;registrando os detalhes da programação de recursos em determinados setores recentemente.</li>
+    <li>details(context==supply)-&gt;detalhando os registros de flutuações anômalas dos reatores de energia durante o voo no espaço profundo.</li>
+    <li>details(context==supply)-&gt;contendo solicitações de reabastecimento para lacunas críticas de material nos postos avançados.</li>
+    <li>subject(context==combat)-&gt;perdas de batalha</li>
+    <li>subject(context==combat)-&gt;tática</li>
+    <li>subject(context==combat)-&gt;equipamento</li>
+    <li>doc_type(context==combat)-&gt;registro de processamento</li>
+    <li>doc_type(context==combat)-&gt;relatório confidencial</li>
+    <li>details(context==combat)-&gt;analisando perdas de ativos e recomendações de reparo após determinada operação.</li>
+    <li>details(context==combat)-&gt;um plano de otimização para a implantação de unidades mecanizadas na área atual.</li>
+    <li>details(context==combat)-&gt;registrando os números de série dos mecanismos neutralizados e confirmados como inoperantes em determinado confronto.</li>
+    <li>subject(context==personnel)-&gt;pessoal</li>
+    <li>subject(context==personnel)-&gt;sobrevivente</li>
+    <li>doc_type(context==personnel)-&gt;arquivo criptografado</li>
+    <li>doc_type(context==personnel)-&gt;credencial de transferência</li>
+    <li>details(context==personnel)-&gt;resumindo o estado de sobrevivência e os resultados da auditoria psicológica dos membros pioneiros.</li>
+    <li>details(context==personnel)-&gt;conclusões preliminares sobre o impacto da análise de sinais desconhecidos da superfície no pessoal.</li>
+    <li>details(context==personnel)-&gt;registrando desvios de operação humana ocorridos no protocolo de despertar das cápsulas de hibernação.</li>
+  </DMS_QuestDocumentRules.rulePack.rulesStrings>
+  <DMS_LegacyFaction.rulePack.rulesStrings>
+    <li>r_name-&gt;[AdjPrefix] do [BrigadeNum0][BrigadeNum1][BrigadeNum2]º [Scale] [BrigadeType]</li>
+    <li>AdjPrefix-&gt;Legados</li>
+    <li>AdjPrefix-&gt;Remanescentes</li>
+    <li>AdjPrefix-&gt;Última vontade</li>
+    <li>AdjPrefix-&gt;Memórias</li>
+    <li>BrigadeType-&gt;de Pioneiros</li>
+    <li>BrigadeType-&gt;de Expedição</li>
+    <li>BrigadeType-&gt;de Fronteira</li>
+    <li>BrigadeType-&gt;de Logística</li>
+    <li>Scale-&gt;Destacamento</li>
+    <li>Scale-&gt;Esquadrão</li>
+    <li>Scale-&gt;Pelotão</li>
+    <li>Scale-&gt;Grupo</li>
+    <li>BrigadeNum0-&gt;1</li>
+    <li>BrigadeNum0-&gt;2</li>
+    <li>BrigadeNum0-&gt;3</li>
+    <li>BrigadeNum0-&gt;4</li>
+    <li>BrigadeNum0-&gt;5</li>
+    <li>BrigadeNum0-&gt;6</li>
+    <li>BrigadeNum0-&gt;7</li>
+    <li>BrigadeNum0-&gt;8</li>
+    <li>BrigadeNum0-&gt;9</li>
+    <li>BrigadeNum1-&gt;0</li>
+    <li>BrigadeNum1-&gt;1</li>
+    <li>BrigadeNum1-&gt;2</li>
+    <li>BrigadeNum1-&gt;3</li>
+    <li>BrigadeNum1-&gt;4</li>
+    <li>BrigadeNum1-&gt;5</li>
+    <li>BrigadeNum1-&gt;6</li>
+    <li>BrigadeNum1-&gt;7</li>
+    <li>BrigadeNum1-&gt;8</li>
+    <li>BrigadeNum1-&gt;9</li>
+    <li>BrigadeNum2-&gt;0</li>
+    <li>BrigadeNum2-&gt;1</li>
+    <li>BrigadeNum2-&gt;2</li>
+    <li>BrigadeNum2-&gt;3</li>
+    <li>BrigadeNum2-&gt;4</li>
+    <li>BrigadeNum2-&gt;5</li>
+    <li>BrigadeNum2-&gt;6</li>
+    <li>BrigadeNum2-&gt;7</li>
+    <li>BrigadeNum2-&gt;8</li>
+    <li>BrigadeNum2-&gt;9</li>
+  </DMS_LegacyFaction.rulePack.rulesStrings>
+  <DMS_VanguardFaction.rulePack.rulesStrings>
+    <li>r_name-&gt;[BrigadeNum0][BrigadeNum1][BrigadeNum2]ª Divisão [BrigadeType]</li>
+    <li>BrigadeType-&gt;Pioneira</li>
+    <li>BrigadeType-&gt;Colonial</li>
+    <li>BrigadeType-&gt;Fronteiriça</li>
+    <li>BrigadeType-&gt;de Vanguarda</li>
+    <li>BrigadeType-&gt;Logística</li>
+    <li>BrigadeNum0-&gt;1</li>
+    <li>BrigadeNum0-&gt;2</li>
+    <li>BrigadeNum0-&gt;3</li>
+    <li>BrigadeNum0-&gt;4</li>
+    <li>BrigadeNum0-&gt;5</li>
+    <li>BrigadeNum0-&gt;6</li>
+    <li>BrigadeNum0-&gt;7</li>
+    <li>BrigadeNum0-&gt;8</li>
+    <li>BrigadeNum0-&gt;9</li>
+    <li>BrigadeNum1-&gt;0</li>
+    <li>BrigadeNum1-&gt;1</li>
+    <li>BrigadeNum1-&gt;2</li>
+    <li>BrigadeNum1-&gt;3</li>
+    <li>BrigadeNum1-&gt;4</li>
+    <li>BrigadeNum1-&gt;5</li>
+    <li>BrigadeNum1-&gt;6</li>
+    <li>BrigadeNum1-&gt;7</li>
+    <li>BrigadeNum1-&gt;8</li>
+    <li>BrigadeNum1-&gt;9</li>
+    <li>BrigadeNum2-&gt;0</li>
+    <li>BrigadeNum2-&gt;1</li>
+    <li>BrigadeNum2-&gt;2</li>
+    <li>BrigadeNum2-&gt;3</li>
+    <li>BrigadeNum2-&gt;4</li>
+    <li>BrigadeNum2-&gt;5</li>
+    <li>BrigadeNum2-&gt;6</li>
+    <li>BrigadeNum2-&gt;7</li>
+    <li>BrigadeNum2-&gt;8</li>
+    <li>BrigadeNum2-&gt;9</li>
+  </DMS_VanguardFaction.rulePack.rulesStrings>
+  <DMS_VanguardBase.rulePack.rulesStrings>
+    <li>r_name-&gt; [Type]-[Number][Number]</li>
+    <li>Type-&gt;Logística</li>
+    <li>Type-&gt;Reconhecimento</li>
+    <li>Type-&gt;Retransmissão</li>
+    <li>Type-&gt;Avançada</li>
+    <li>Type-&gt;Fronteira</li>
+    <li>Type-&gt;Colonial</li>
+    <li>Type-&gt;Posto Avançado</li>
+    <li>Number-&gt;0</li>
+    <li>Number-&gt;1</li>
+    <li>Number-&gt;2</li>
+    <li>Number-&gt;3</li>
+    <li>Number-&gt;4</li>
+    <li>Number-&gt;5</li>
+    <li>Number-&gt;6</li>
+    <li>Number-&gt;7</li>
+    <li>Number-&gt;8</li>
+  </DMS_VanguardBase.rulePack.rulesStrings>
+  <DMS_AutomaticArmy.rulePack.rulesStrings>
+    <li>r_name(p=6)-&gt;[namefile]-[Code]</li>
+    <li>r_name-&gt;[exoticname]-[Code]</li>
+    <li>name-&gt;[Code]-[Color]</li>
+    <li>Code-&gt;alpha</li>
+    <li>Code-&gt;bravo</li>
+    <li>Code-&gt;charlie</li>
+    <li>Code-&gt;delta</li>
+    <li>Code-&gt;echo</li>
+    <li>Code-&gt;foxtrot</li>
+    <li>Code-&gt;golf</li>
+    <li>Code-&gt;hotel</li>
+    <li>Code-&gt;india</li>
+    <li>Code-&gt;junker</li>
+    <li>Code-&gt;kilo</li>
+    <li>Code-&gt;lima</li>
+    <li>Code-&gt;mike</li>
+    <li>Code-&gt;nova</li>
+    <li>Code-&gt;oscar</li>
+    <li>Code-&gt;pela</li>
+    <li>Code-&gt;quiet</li>
+    <li>Code-&gt;rotor</li>
+    <li>Code-&gt;sierra</li>
+    <li>Code-&gt;tango</li>
+    <li>Code-&gt;uniform</li>
+    <li>Code-&gt;vega</li>
+    <li>Code-&gt;whiskey</li>
+    <li>Code-&gt;xeno</li>
+    <li>Code-&gt;yezi</li>
+    <li>Code-&gt;zulu</li>
+  </DMS_AutomaticArmy.rulePack.rulesStrings>
+  <DMS_VanguardMechStandard.rulePack.rulesStrings>
+    <li>r_name-&gt;[MechType] [BrigadeNum0]-[BrigadeNum1] "[Callsign][Code]"</li>
+    <li>MechType-&gt;Padrão</li>
+    <li>MechType-&gt;Exército</li>
+    <li>MechType-&gt;Combate</li>
+    <li>MechType-&gt;Unidade</li>
+    <li>BrigadeNum0-&gt;Um</li>
+    <li>BrigadeNum0-&gt;Dois</li>
+    <li>BrigadeNum0-&gt;Três</li>
+    <li>BrigadeNum0-&gt;Quatro</li>
+    <li>BrigadeNum0-&gt;Cinco</li>
+    <li>BrigadeNum0-&gt;Seis</li>
+    <li>BrigadeNum0-&gt;Sete</li>
+    <li>BrigadeNum0-&gt;Oito</li>
+    <li>BrigadeNum0-&gt;Nove</li>
+    <li>BrigadeNum1-&gt;Zero</li>
+    <li>BrigadeNum1-&gt;Um</li>
+    <li>BrigadeNum1-&gt;Dois</li>
+    <li>BrigadeNum1-&gt;Três</li>
+    <li>BrigadeNum1-&gt;Quatro</li>
+    <li>BrigadeNum1-&gt;Cinco</li>
+    <li>BrigadeNum1-&gt;Seis</li>
+    <li>BrigadeNum1-&gt;Sete</li>
+    <li>BrigadeNum1-&gt;Oito</li>
+    <li>BrigadeNum1-&gt;Nove</li>
+    <li>Callsign-&gt;Caveira</li>
+    <li>Callsign-&gt;Escudo</li>
+    <li>Callsign-&gt;Ferro</li>
+    <li>Callsign-&gt;Pedra</li>
+    <li>Callsign-&gt;Elmo</li>
+    <li>Callsign-&gt;Massa</li>
+    <li>Callsign-&gt;Lobo</li>
+    <li>Callsign-&gt;Raposa</li>
+    <li>Callsign-&gt;Sabujo</li>
+    <li>Callsign-&gt;Lince</li>
+    <li>Callsign-&gt;Esqueleto</li>
+    <li>Code-&gt;Alfa</li>
+    <li>Code-&gt;Bravo</li>
+    <li>Code-&gt;Charlie</li>
+    <li>Code-&gt;Delta</li>
+    <li>Code-&gt;Echo</li>
+    <li>Code-&gt;Foxtrot</li>
+    <li>Code-&gt;Golf</li>
+    <li>Code-&gt;Hotel</li>
+    <li>Code-&gt;India</li>
+    <li>Code-&gt;Juliett</li>
+    <li>Code-&gt;Kilo</li>
+    <li>Code-&gt;Lima</li>
+    <li>Code-&gt;Mike</li>
+    <li>Code-&gt;November</li>
+    <li>Code-&gt;Oscar</li>
+    <li>Code-&gt;Papa</li>
+    <li>Code-&gt;Quebec</li>
+    <li>Code-&gt;Romeo</li>
+    <li>Code-&gt;Sierra</li>
+    <li>Code-&gt;Tango</li>
+    <li>Code-&gt;Uniform</li>
+    <li>Code-&gt;Victor</li>
+    <li>Code-&gt;Whiskey</li>
+    <li>Code-&gt;X-ray</li>
+    <li>Code-&gt;Yankee</li>
+    <li>Code-&gt;Zulu</li>
+  </DMS_VanguardMechStandard.rulePack.rulesStrings>
+  <DMS_VanguardMechHeavy.rulePack.rulesStrings>
+    <li>r_name-&gt;[MechType] [BrigadeNum0]-[BrigadeNum1] "[Callsign]"</li>
+    <li>MechType-&gt;Pivô</li>
+    <li>MechType-&gt;Pesado</li>
+    <li>MechType-&gt;Blindado</li>
+    <li>MechType-&gt;Fulcro</li>
+    <li>MechType-&gt;Fortificado</li>
+    <li>BrigadeNum0-&gt;Um</li>
+    <li>BrigadeNum0-&gt;Dois</li>
+    <li>BrigadeNum0-&gt;Três</li>
+    <li>BrigadeNum0-&gt;Quatro</li>
+    <li>BrigadeNum0-&gt;Cinco</li>
+    <li>BrigadeNum0-&gt;Seis</li>
+    <li>BrigadeNum0-&gt;Sete</li>
+    <li>BrigadeNum0-&gt;Oito</li>
+    <li>BrigadeNum0-&gt;Nove</li>
+    <li>BrigadeNum1-&gt;Zero</li>
+    <li>BrigadeNum1-&gt;Um</li>
+    <li>BrigadeNum1-&gt;Dois</li>
+    <li>BrigadeNum1-&gt;Três</li>
+    <li>BrigadeNum1-&gt;Quatro</li>
+    <li>BrigadeNum1-&gt;Cinco</li>
+    <li>BrigadeNum1-&gt;Seis</li>
+    <li>BrigadeNum1-&gt;Sete</li>
+    <li>BrigadeNum1-&gt;Oito</li>
+    <li>BrigadeNum1-&gt;Nove</li>
+    <li>Callsign-&gt;Alfa</li>
+    <li>Callsign-&gt;Beta</li>
+    <li>Callsign-&gt;Delta</li>
+    <li>Callsign-&gt;Gama</li>
+    <li>Callsign-&gt;Ponta de Flecha</li>
+    <li>Callsign-&gt;Martelo</li>
+    <li>Callsign-&gt;Tungstênio</li>
+    <li>Callsign-&gt;Inoxidável</li>
+    <li>Callsign-&gt;Prata</li>
+    <li>Callsign-&gt;Ferrovia</li>
+    <li>Callsign-&gt;Aríete</li>
+    <li>Callsign-&gt;Fortaleza</li>
+    <li>Callsign-&gt;Cidadela</li>
+    <li>Callsign-&gt;Bastão</li>
+    <li>Callsign-&gt;Dragão</li>
+    <li>Callsign-&gt;Caracol</li>
+    <li>Callsign-&gt;Rinoceronte</li>
+    <li>Callsign-&gt;Tigre</li>
+    <li>Callsign-&gt;Eniac</li>
+    <li>Callsign-&gt;Enigma</li>
+    <li>Callsign-&gt;Autômato</li>
+  </DMS_VanguardMechHeavy.rulePack.rulesStrings>
+  <DMS_MechAwaken.rulePack.rulesStrings>
+    <li>r_name-&gt;[MechType] [BrigadeNum0]</li>
+    <li>r_name-&gt;[MechType] [BrigadeNum0]-[BrigadeNum1]</li>
+    <li>r_name-&gt;[Callsign] [BrigadeNum0]</li>
+    <li>r_name-&gt;[Callsign] [BrigadeNum0]-[BrigadeNum1]</li>
+    <li>r_name-&gt;[Callsign] [Code]</li>
+    <li>r_name-&gt;[Code]</li>
+    <li>r_name-&gt;[Code] [BrigadeNum0]</li>
+    <li>r_name-&gt;[Code] [BrigadeNum0]-[BrigadeNum1]</li>
+    <li>MechType-&gt;Padrão</li>
+    <li>MechType-&gt;Exército</li>
+    <li>MechType-&gt;Combate</li>
+    <li>MechType-&gt;Unidade</li>
+    <li>BrigadeNum0-&gt;Um</li>
+    <li>BrigadeNum0-&gt;Dois</li>
+    <li>BrigadeNum0-&gt;Três</li>
+    <li>BrigadeNum0-&gt;Quatro</li>
+    <li>BrigadeNum0-&gt;Cinco</li>
+    <li>BrigadeNum0-&gt;Seis</li>
+    <li>BrigadeNum0-&gt;Sete</li>
+    <li>BrigadeNum0-&gt;Oito</li>
+    <li>BrigadeNum0-&gt;Nove</li>
+    <li>BrigadeNum1-&gt;Zero</li>
+    <li>BrigadeNum1-&gt;Um</li>
+    <li>BrigadeNum1-&gt;Dois</li>
+    <li>BrigadeNum1-&gt;Três</li>
+    <li>BrigadeNum1-&gt;Quatro</li>
+    <li>BrigadeNum1-&gt;Cinco</li>
+    <li>BrigadeNum1-&gt;Seis</li>
+    <li>BrigadeNum1-&gt;Sete</li>
+    <li>BrigadeNum1-&gt;Oito</li>
+    <li>BrigadeNum1-&gt;Nove</li>
+    <li>Callsign-&gt;Caveira</li>
+    <li>Callsign-&gt;Escudo</li>
+    <li>Callsign-&gt;Ferro</li>
+    <li>Callsign-&gt;Pétreo</li>
+    <li>Callsign-&gt;Elmo</li>
+    <li>Callsign-&gt;Volumoso</li>
+    <li>Callsign-&gt;Lobo</li>
+    <li>Callsign-&gt;Raposa</li>
+    <li>Callsign-&gt;Sabujo</li>
+    <li>Callsign-&gt;Lince</li>
+    <li>Callsign-&gt;Esqueleto</li>
+    <li>Code-&gt;Alfa</li>
+    <li>Code-&gt;Bravo</li>
+    <li>Code-&gt;Charlie</li>
+    <li>Code-&gt;Delta</li>
+    <li>Code-&gt;Echo</li>
+    <li>Code-&gt;Foxtrot</li>
+    <li>Code-&gt;Golf</li>
+    <li>Code-&gt;Hotel</li>
+    <li>Code-&gt;India</li>
+    <li>Code-&gt;Juliett</li>
+    <li>Code-&gt;Kilo</li>
+    <li>Code-&gt;Lima</li>
+    <li>Code-&gt;Mike</li>
+    <li>Code-&gt;November</li>
+    <li>Code-&gt;Oscar</li>
+    <li>Code-&gt;Papa</li>
+    <li>Code-&gt;Quebec</li>
+    <li>Code-&gt;Romeo</li>
+    <li>Code-&gt;Sierra</li>
+    <li>Code-&gt;Tango</li>
+    <li>Code-&gt;Uniform</li>
+    <li>Code-&gt;Victor</li>
+    <li>Code-&gt;Whiskey</li>
+    <li>Code-&gt;X-ray</li>
+    <li>Code-&gt;Yankee</li>
+    <li>Code-&gt;Zulu</li>
+  </DMS_MechAwaken.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VME_ViolentConversion.label>conversão violenta</VME_ViolentConversion.label>
+  <VME_ViolentConversion.description>É nosso dever espalhar nossas crenças, mesmo que pela força.</VME_ViolentConversion.description>
+  <VME_Astrology.label>astrologia</VME_Astrology.label>
+  <VME_Astrology.description>Somos guiados pelas estrelas.</VME_Astrology.description>
+  <VME_GodEmperor.label>imperador-deus</VME_GodEmperor.label>
+  <VME_GodEmperor.description>Nosso líder deve ser adorado como um deus vivo.</VME_GodEmperor.description>
+  <VME_HardcoreIndustrialism.label>industrialismo</VME_HardcoreIndustrialism.label>
+  <VME_HardcoreIndustrialism.description>O trabalho dá dignidade ao homem; ser produtivo é nosso dever.</VME_HardcoreIndustrialism.description>
+  <VME_Gestalt.label>gestalt</VME_Gestalt.label>
+  <VME_Gestalt.description>Cada pessoa deve estar em perfeita sincronia. As pessoas devem alcançar consenso e chegar a um acordo.</VME_Gestalt.description>
+  <VME_Fleshcrafters.label>escultura de carne</VME_Fleshcrafters.label>
+  <VME_Fleshcrafters.description>Somente por meio de experimentação biológica extrema podemos desbloquear nosso potencial oculto.</VME_Fleshcrafters.description>
+  <VME_HolyDiseases.label>doenças sagradas</VME_HolyDiseases.label>
+  <VME_HolyDiseases.description>A doença é uma bênção e deve ser considerada um presente.</VME_HolyDiseases.description>
+  <VME_CraftCulture.label>cultura artesã</VME_CraftCulture.label>
+  <VME_CraftCulture.description>O artesanato é parte essencial de nossa cultura e o tratamos com grande respeito.</VME_CraftCulture.description>
+  <VME_Progressive.label>progressista</VME_Progressive.label>
+  <VME_Progressive.description>Devemos usar a automação para fazer nosso trabalho; as pessoas não devem realizar tarefas normalmente destinadas a máquinas.</VME_Progressive.description>
+  <VME_Aristocratic.label>aristocrático</VME_Aristocratic.label>
+  <VME_Aristocratic.description>Reis e rainhas são o verdadeiro caminho para a prosperidade; a mente do homem comum é inapta para a liderança.</VME_Aristocratic.description>
+  <VME_Republic.label>república</VME_Republic.label>
+  <VME_Republic.description>Nenhuma pessoa deve liderar sozinha; a liderança deve ser equilibrada entre poucos selecionados.</VME_Republic.description>
+  <VME_ExaltedPriesthood.label>sacerdócio exaltado</VME_ExaltedPriesthood.label>
+  <VME_ExaltedPriesthood.description>Nosso líder também deve ser nosso profeta, e é importante que o honremos.</VME_ExaltedPriesthood.description>
+  <VME_Scrapper.label>sucateiro</VME_Scrapper.label>
+  <VME_Scrapper.description>Os materiais não devem ser desperdiçados; é importante sucatear e recolher tudo com cuidado.</VME_Scrapper.description>
+  <VME_Trader.label>comerciante</VME_Trader.label>
+  <VME_Trader.description>Com a riqueza vem o poder; gerar lucro é parte importante da vida.</VME_Trader.description>
+  <VME_Elders.label>anciãos</VME_Elders.label>
+  <VME_Elders.description>Os idosos devem ser respeitados e devemos considerar sua sabedoria.</VME_Elders.description>
+  <VME_Vegan.label>vegano</VME_Vegan.label>
+  <VME_Vegan.description>Comer plantas é o caminho certo; criar animais para consumo, não.</VME_Vegan.description>
+  <VME_Egalitarian.label>igualitário</VME_Egalitarian.label>
+  <VME_Egalitarian.description>Nosso povo e os outros merecem igualdade e respeito.</VME_Egalitarian.description>
+  <VME_Pacifist.label>pacifista</VME_Pacifist.label>
+  <VME_Pacifist.description>A violência deve ser desencorajada; o pacifismo é o caminho certo.</VME_Pacifist.description>
+  <VME_FireWorship.label>adoração ao fogo</VME_FireWorship.label>
+  <VME_FireWorship.description>A chama deve ser reverenciada.</VME_FireWorship.description>
+  <VME_Bushido.label>bushido</VME_Bushido.label>
+  <VME_Bushido.description>A honra pode ser encontrada no combate e nas demonstrações de coragem.</VME_Bushido.description>
+  <VME_Light.label>luz</VME_Light.label>
+  <VME_Light.description>Devemos ser guiados pela luz; a luz negra é uma coisa perversa.</VME_Light.description>
+  <VME_Nomad.label>nômade</VME_Nomad.label>
+  <VME_Nomad.description>Viajar é importante para os nossos; é imprudente permanecer no mesmo lugar.</VME_Nomad.description>
+  <VME_BloodCourt.label>corte de sangue</VME_BloodCourt.label>
+  <VME_BloodCourt.description>O combate é uma prática honrosa e brutal.</VME_BloodCourt.description>
+  <VME_CityBuilders.label>construtores de cidades</VME_CityBuilders.label>
+  <VME_CityBuilders.description>Construir é importante para os nossos; viajar é imprudente. Devemos construir nosso lar como uma cidade.</VME_CityBuilders.description>
+  <VME_MechanoidSupremacy.label>supremacia mecanoide</VME_MechanoidSupremacy.label>
+  <VME_MechanoidSupremacy.description>Os mecanoides são melhores que a humanidade em todos os aspectos e devem ser considerados nossos superiores.</VME_MechanoidSupremacy.description>
+  <VME_InsectoidSupremacy.label>supremacia insetoide</VME_InsectoidSupremacy.label>
+  <VME_InsectoidSupremacy.description>Os insetoides são melhores que a humanidade em todos os aspectos e devem ser considerados nossos superiores.</VME_InsectoidSupremacy.description>
+  <VME_PartyLife.label>vida festiva</VME_PartyLife.label>
+  <VME_PartyLife.description>A vida é curta demais para não aproveitar cada celebração.</VME_PartyLife.description>
+  <VME_Anonymity.label>anonimato</VME_Anonymity.label>
+  <VME_Anonymity.description>É melhor não conhecer os seus semelhantes e permanecer distante.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - O anonimato afeta gravemente as interações com prisioneiros e escravos: guardas com o meme do anonimato ficarão irritados quando tiverem de interagir com prisioneiros. Escravos com o meme do anonimato não podem ser suprimidos por guardas, pois ignorarão a interação social. Resumindo: não use uma ideologia com este meme se pretende ter muitos prisioneiros ou escravos!</VME_Anonymity.description>
+  <VME_Emancipation.label>emancipação</VME_Emancipation.label>
+  <VME_Emancipation.description>As pessoas nunca devem ser escravizadas, e todos os escravos devem ser libertados.</VME_Emancipation.description>
+  <VME_Nationalist.label>nacionalista</VME_Nationalist.label>
+  <VME_Nationalist.description>Nosso povo tem um forte senso de patriotismo; temos o dever de corrigir os dissidentes e fazer justiça.</VME_Nationalist.description>
+  <VME_Healthcare.label>assistência médica</VME_Healthcare.label>
+  <VME_Healthcare.description>O bem-estar de nossos corpos e mentes é algo que nosso povo leva muito a sério.</VME_Healthcare.description>
+  <VME_Structure_Serketist.label>serketismo</VME_Structure_Serketist.label>
+  <VME_Structure_Serketist.description>O verdadeiro rosto dos deuses está na mordida da aranha, na ferroada do escorpião. Que os de muitas patas rastejem sobre nós.</VME_Structure_Serketist.description>
+  <VME_Structure_Esotericism.label>esoterismo</VME_Structure_Esotericism.label>
+  <VME_Structure_Esotericism.description>As forças que guiam este mundo não são para os fracos de coração nem de vontade. Somente por meio de textos proibidos, pactos sombrios e da devida iniciação alguém pode realmente ver além do véu.</VME_Structure_Esotericism.description>
+  <VME_Structure_Bacchanalianism.label>hedonismo</VME_Structure_Bacchanalianism.label>
+  <VME_Structure_Bacchanalianism.description>O tempo do homem nesta terra é breve e fugaz; privar-se de qualquer prazer da vida, como a luxúria ou a gula, é o único pecado verdadeiro. Escancare os portões para a festividade incansável; viva e respire esplendor infinito.</VME_Structure_Bacchanalianism.description>
+  <VME_Structure_ChthonianCult.label>culto sobrenatural</VME_Structure_ChthonianCult.label>
+  <VME_Structure_ChthonianCult.description>Há entidades antigas neste Universo mais poderosas que meros deuses. Imensamente poderosas e totalmente indiferentes a nós, humanos, que mal conseguimos começar a compreendê-las. Somente adorando-as podemos esperar aplacar sua ira.</VME_Structure_ChthonianCult.description>
+  <VME_Structure_Eschatologism.label>escatologismo</VME_Structure_Eschatologism.label>
+  <VME_Structure_Eschatologism.description>Ser amaldiçoado a caminhar por esta terra é verdadeira tortura; seja por cataclismo, fome ou peste, a partida da alma do corpo mortal deve ser celebrada.</VME_Structure_Eschatologism.description>
+  <VME_Structure_Authoritarianism.label>autoritário</VME_Structure_Authoritarianism.label>
+  <VME_Structure_Authoritarianism.description>A pluralidade traz apenas uma falsa ilusão de escolha e gera descontentamento, rebelião e caos. Com punho de ferro governaremos nosso povo e traremos prosperidade a todos.</VME_Structure_Authoritarianism.description>
+  <VME_Structure_CultOfPersonality.label>culto à personalidade</VME_Structure_CultOfPersonality.label>
+  <VME_Structure_CultOfPersonality.description>É proibido questionar a coroa de um rei ou rainha; nem o próprio solo é digno de sentir o toque dos pés divinos de nossos líderes. Nosso líder não deve precisar de nada e, por meio de seu grande desígnio, prosperaremos.</VME_Structure_CultOfPersonality.description>
+  <VME_Structure_Pantheism.label>panteísmo</VME_Structure_Pantheism.label>
+  <VME_Structure_Pantheism.description>O Universo é Deus. Não há Deus senão a substância, as forças e as leis combinadas que se manifestam no universo existente.</VME_Structure_Pantheism.description>
+  <VME_Structure_Omnism.label>omnismo</VME_Structure_Omnism.label>
+  <VME_Structure_Omnism.description>Todos os credos e crenças têm tanto verdades quanto invenções; uma mente saudável ouvirá com atenção e escrutínio tanto o que os princípios dizem quanto o que optam por não dizer.</VME_Structure_Omnism.description>
+  <VME_Structure_Agnosticism.label>agnosticismo</VME_Structure_Agnosticism.label>
+  <VME_Structure_Agnosticism.description>A teoria de que quaisquer deuses ou uma força onipotente nos observam ou guiam até nas trivialidades é, para o mero homem, ou estúpida ou incompreensível; o mesmo vale para a ideia de que tudo surgiu do nada. É melhor ignorar tais dogmas e respeitar a liberdade daqueles que encontram descanso nessas crenças.</VME_Structure_Agnosticism.description>
+  <VME_Structure_SecularSpirituality.label>espiritualidade secular</VME_Structure_SecularSpirituality.label>
+  <VME_Structure_SecularSpirituality.description>Depositar a fé em rituais, orações ou poderes superiores apenas retarda o crescimento pessoal. Iluminação, felicidade e propósito podem ser encontrados dentro de si e por meio de qualquer assunto que se sinta ser certo.</VME_Structure_SecularSpirituality.description>
+  <VME_Structure_Shintaoism.label>origem xintaoísta</VME_Structure_Shintaoism.label>
+  <VME_Structure_Shintaoism.description>Esta ideologia é descendente do antigo xintoísmo e taoísmo. Pode ter preceitos muito diferentes daqueles de milhares de anos atrás, mas seus símbolos são semelhantes.</VME_Structure_Shintaoism.description>
+  <VME_Structure_Corporate.label>origem corporativa</VME_Structure_Corporate.label>
+  <VME_Structure_Corporate.description>Nenhum deus ou rei deve ser adorado, apenas o homem e seu desejo insaciável de riqueza. As colônias devem ser administradas como empresas.</VME_Structure_Corporate.description>
+  <VME_PsychicFocus.label>foco psíquico</VME_PsychicFocus.label>
+  <VME_PsychicFocus.description>Dominar o poder da mente é essencial para garantir seu lugar no universo.</VME_PsychicFocus.description>
+  <VME_Cultured.label>erudito</VME_Cultured.label>
+  <VME_Cultured.description>Ler e transmitir conhecimento é uma missão das mais eruditas.</VME_Cultured.description>
+  <VME_SweetTeeth.label>gula por doces</VME_SweetTeeth.label>
+  <VME_SweetTeeth.description>Toda refeição deve incluir uma sobremesa; é importante se entregar aos prazeres.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;\n - Desbloqueia uma "Necessidade de sobremesas" que deixará os colonos mais felizes se consumirem sobremesas e chocolate regularmente (a expectativa de necessidades deve ser moderada ou superior)\n - Desbloqueia o plantio do arbusto de cacau, uma planta produtora de cacau mais eficiente que a árvore e que pode ser cultivada em ambientes fechados e em hidroponia\n - A colônia recebe 15 chocolates para começar</VME_SweetTeeth.description>
+  <VME_Angler.label>cultura da pesca</VME_Angler.label>
+  <VME_Angler.description>Serenos e terapêuticos, lagos plácidos e margens ondulantes são criminosamente subestimados. Com um pouco de tempo ou engenharia simples, tanto rios quanto oceanos podem encher nossas barrigas de peixes saborosos.</VME_Angler.description>
+  <VME_Royal.label>real</VME_Royal.label>
+  <VME_Royal.description>O povo deve seguir a realeza e tratá-la com grande respeito.</VME_Royal.description>
+  <VFEA_Isolationist.label>isolacionista</VFEA_Isolationist.label>
+  <VFEA_Isolationist.description>A confiança é um recurso escasso; todos que nosso povo encontra são inimigos.</VFEA_Isolationist.description>
+  <VME_ViolentConversion.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;forçado</li>
+    <li>memeAdjective-&gt;rigoroso</li>
+    <li>memeHyphenPrefix-&gt;extremo</li>
+    <li>memeConcept-&gt;verdade absoluta</li>
+    <li>memeLeaderNoun-&gt;alto inquisidor</li>
+    <li>memeMoralist-&gt;inquisidor</li>
+    <li>memeMoralist-&gt;cruzado</li>
+  </VME_ViolentConversion.generalRules.rulesStrings>
+  <VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_ViolentConversion)        -&gt;[deity0_name] ungiu alguns cruzados entre os mortais para cumprir [deity0_possessive] vontade.</li>
+    <li>episode(uses=1,tag=meme_ViolentConversion)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "O infiel aceitará minhas palavras, ou perecerá."</li>
+    <li>intro(tag=meme_ViolentConversion)           -&gt;Os [memberNamePlural] construíram um grande [altarName] no [place_summary] [place_name], para que muitos fossem dobrados à vontade de [deity0_name].</li>
+    <li>conflict(tag=meme_ViolentConversion)        -&gt;Um covarde [foeLeader], buscando negar a vontade de [deity0_name], ordenou a [foeLeader_possessive] [foeSoldiers] que arrancassem a língua de qualquer um que falasse do [deity0_type].</li>
+    <li>founderJoin(tag=meme_ViolentConversion)     -&gt;[deity0_name] abençoou um [place_job] chamado [founderName] com [deity0_possessive] determinação inabalável, e ninguém conseguia se afastar quando [founder_pronoun] falava.</li>
+    <li>victory(tag=meme_ViolentConversion)         -&gt;[founderName] massacrou muitos dos [foeSoldiers] e torturou os sobreviventes sem piedade para mostrar o poder de [deity0_name]. Seus gritos de angústia nos lembrarão para sempre do destino reservado àqueles que negam [deity0_name].</li>
+    <li>setup(tag=meme_ViolentConversion)           -&gt;Nosso fundador [founderName] foi um grande revolucionário e um gênio, convertendo milhares enquanto [founder_pronoun] viajava entre as cidades.</li>
+    <li>story(uses=1,tag=meme_ViolentConversion)    -&gt;Os fiéis se moviam entre cidades e instituições, espalhando a palavra da nova ordem e combatendo aqueles que discordassem.</li>
+    <li>lessonIntro(tag=meme_ViolentConversion)         -&gt;Em todos os meus anos espalhando nossa filosofia, aprendi uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_ViolentConversion)              -&gt;não há Verdade senão a Nossa Verdade. Não podemos deixar que ninguém fique em nosso caminho. Ou concordam, ou morrem</li>
+    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;Este é o fato que precisamos espalhar, e espalhar, e espalhar. Pela força, se necessário.</li>
+    <li>archistBasis(tag=meme_ViolentConversion)    -&gt;Os arqueotecnológicos anunciam sua presença do céu e da mente, e sua existência DEVE se tornar uma verdade universal.</li>
+    <li>archistFact(tag=meme_ViolentConversion)     -&gt;Os arqueotecnológicos devem ser obedecidos, e é nossa responsabilidade dobrar os outros à sua vontade.</li>
+    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd], os arqueotecnológicos proferirão sua sabedoria final ao portador do [relic0_name]. Qualquer um que não tenha escutado deve ser purgado.</li>
+    <li>animistFact(tag=meme_ViolentConversion)     -&gt;Os espíritos querem ser conhecidos, mas só falam com alguns. Faremos com que qualquer um que fique em nosso caminho tema a vontade dos espíritos.</li>
+    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid] aprenderemos com eles, e usaremos esse conhecimento para purgar o universo dos infiéis imundos.</li>
+    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;Adquiriremos seu conhecimento abissal, e o usaremos para purgar o universo dos infiéis imundos.</li>
+    <li>esotericismProphecy(tag=meme_ViolentConversion)-&gt;Com tal conhecimento, teremos uma vantagem clara sobre o resto dos habitantes deste planeta, e a usaremos para purgá-lo dos infiéis imundos.</li>
+    <li>eschatologismFact(tag=meme_ViolentConversion)-&gt;Não sobrará nada. Os infiéis imundos serão purgados pelo fogo atômico e por doenças mortais.</li>
+    <li>introMemo(tag=meme_ViolentConversion)-&gt;Como sabem, a missão de nossa Companhia é importante demais para deixarmos outros atrapalharem, então estamos preparando uma fusão hostil para nos livrarmos desses... concorrentes indesejáveis.</li>
+    <li>alienistProphecy(tag=meme_ViolentConversion)-&gt;Precisamos espalhar à força a realidade dessas criaturas, semeadas pela humanidade por toda a Orla.</li>
+  </VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
+  <VME_Astrology.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;astrológico</li>
+    <li>memeAdjective-&gt;zodiacal</li>
+    <li>memeHyphenPrefix-&gt;astro</li>
+    <li>memeConcept-&gt;estrelas</li>
+    <li>memeLeaderNoun-&gt;grande astrólogo</li>
+    <li>memeMoralist-&gt;adivinho</li>
+    <li>memeMoralist-&gt;vidente das estrelas</li>
+  </VME_Astrology.generalRules.rulesStrings>
+  <VME_Astrology.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Astrology)        -&gt;[deity0_name] nos mostrou que o caminho para a verdadeira sabedoria está em compreender as estrelas.</li>
+    <li>episode(uses=1,tag=meme_Astrology)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Pois no Firmamento vereis um reflexo da minha Vontade."</li>
+    <li>intro(tag=meme_Astrology)           -&gt;Os [memberNamePlural] construíram um grande [altarName] no [place_summary] [place_name], para que qualquer um possa contemplar as estrelas.</li>
+    <li>conflict(tag=meme_Astrology)        -&gt;Um covarde [foeLeader], buscando negar a vontade de [deity0_name], tentou obscurecer o firmamento para que não pudéssemos contemplar a majestade das estrelas.</li>
+    <li>founderJoin(tag=meme_Astrology)     -&gt;[deity0_name] abençoou um [place_job] chamado [founderName] com [foeLeader_possessive] determinação inabalável, e um signo zodiacal foi criado ali mesmo.</li>
+    <li>victory(tag=meme_Astrology)         -&gt;[founderName] leu a sorte astrológica dos [foeSoldiers] e a usou para convencê-los do poder de [deity0_name].</li>
+    <li>setup(tag=meme_Astrology)           -&gt;Nosso fundador [founderName] foi um grande astrólogo, capaz de adivinhar a sorte de [founder_possessive] seguidores enquanto viajava entre as cidades.</li>
+    <li>story(uses=1,tag=meme_Astrology)    -&gt;Os fiéis espalharam o conhecimento da sabedoria encontrada no movimento das estrelas.</li>
+    <li>lessonIntro(tag=meme_Astrology)         -&gt;Em todos os meus anos observando as estrelas, aprendi uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_Astrology)              -&gt;nossos signos zodiacais nos guiam por toda a nossa vida</li>
+    <li>lessonReinforcement(tag=meme_Astrology) -&gt;Este é o fato que precisamos espalhar, pois o destino de cada um se reflete nos céus.</li>
+    <li>archistBasis(tag=meme_Astrology)    -&gt;Os arqueotecnológicos anunciam sua presença do céu e da mente; eles nos mostraram que um grande conhecimento está codificado no movimento dos corpos celestes.</li>
+    <li>archistFact(tag=meme_Astrology)     -&gt;Os arqueotecnológicos são sábios além de toda razão, e codificaram um conhecimento imenso nas estrelas.</li>
+    <li>archistProphecy(tag=meme_Astrology) -&gt;[inTheEnd], os arqueotecnológicos proferirão sua sabedoria final ao portador do [relic0_name]. Somente quem é treinado na Arte do Zodíaco pode absorver seus ensinamentos.</li>
+    <li>animistFact(tag=meme_Astrology)     -&gt;Os espíritos querem ser conhecidos, e se manifestam não apenas nas criaturas da terra, mas também nos céus.</li>
+    <li>serketistProphecy(tag=meme_Astrology)-&gt;[itIsSaid] seremos sábios o bastante para criar um novo signo zodiacal. Serket. O Escaravelho Sagrado.</li>
+    <li>chthonianProphecy(tag=meme_Astrology)-&gt;O conhecimento abissal repousa sobre o Vazio Faminto e Inabalável entre as Estrelas, e ao estudá-las seremos eternos, talvez ao custo de nossa sanidade.</li>
+    <li>esotericismProphecy(tag=meme_Astrology)-&gt;Com tal conhecimento, conceberemos uma forma de controlar o zodíaco e, assim, o destino de todos.</li>
+    <li>eschatologismFact(tag=meme_Astrology)-&gt;As estrelas só mostrarão um único destino: a destruição.</li>
+    <li>introMemo(tag=meme_Astrology)-&gt;Chegou ao meu conhecimento que alguns de vocês estão usando os intervalos do trabalho para compartilhar seus mapas astrológicos. Embora este seja um assunto permitido pela Companhia, gostaria de lembrá-los de que os intervalos nunca devem exceder o tempo estipulado.</li>
+    <li>alienistProphecy(tag=meme_Astrology)-&gt;As estrelas nos revelarão a realidade dessas criaturas maravilhosas.</li>
+  </VME_Astrology.descriptionMaker.rules.rulesStrings>
+  <VME_GodEmperor.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;absoluto</li>
+    <li>memeAdjective-&gt;divino</li>
+    <li>memeHyphenPrefix-&gt;divino</li>
+    <li>memeConcept-&gt;soberania imperial</li>
+    <li>memeLeaderNoun-&gt;imperador-deus</li>
+    <li>memeMoralist-&gt;servo leal</li>
+    <li>memeMoralist-&gt;vidente</li>
+  </VME_GodEmperor.generalRules.rulesStrings>
+  <VME_GodEmperor.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_GodEmperor)        -&gt;[deity0_name] ungiu [deity0_possessive] Escolhido para nos conduzir por esta vida, nosso Imperador-Deus.</li>
+    <li>episode(uses=1,tag=meme_GodEmperor)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Pois seguireis meu Escolhido, o Imperador-Deus, e vos prostrareis em humildade, submissão e adoração."</li>
+    <li>intro(tag=meme_GodEmperor)           -&gt;Os [memberNamePlural] construíram um grande [altarName] no [place_summary] [place_name], um enorme monumento ao seu Imperador-Deus.</li>
+    <li>conflict(tag=meme_GodEmperor)        -&gt;Um covarde [foeLeader], buscando negar a vontade de [deity0_name], tentou matar nosso Imperador-Deus, encontrando apenas a ruína.</li>
+    <li>founderJoin(tag=meme_GodEmperor)     -&gt;[deity0_name] abençoou um [place_job] chamado [founderName] com [foeLeader_possessive] poder divino, e este lugar sagrado fortalece nosso eterno Imperador-Deus.</li>
+    <li>setup(tag=meme_GodEmperor)           -&gt;Nosso fundador [founderName] foi o maior dos discípulos de nosso Imperador-Deus, um verdadeiro servo.</li>
+    <li>story(uses=1,tag=meme_GodEmperor)    -&gt;Os fiéis espalharão a sabedoria da lealdade inabalável aos decretos de nosso Imperador-Deus.</li>
+    <li>lessonIntro(tag=meme_GodEmperor)         -&gt;Em todos os meus anos servindo a nosso Imperador-Deus, aprendi uma lição que está acima de todas:</li>
+    <li>lesson(tag=meme_GodEmperor)              -&gt;somente por meio da subserviência absoluta ao nosso líder alcançaremos nossos objetivos</li>
+    <li>lessonReinforcement(tag=meme_GodEmperor) -&gt;Somente por meio da Vontade Divina de nosso Imperador-Deus desvendaremos os segredos do Cosmos.</li>
+    <li>archistBasis(tag=meme_GodEmperor)    -&gt;Os arqueotecnológicos anunciam sua presença do céu e da mente; nosso Imperador-Deus é o Escolhido deles.</li>
+    <li>archistFact(tag=meme_GodEmperor)     -&gt;Os arqueotecnológicos são sábios além de toda razão; é lógico que seu paradigma também seja o epítome da sabedoria.</li>
+    <li>archistProphecy(tag=meme_GodEmperor) -&gt;[inTheEnd], os arqueotecnológicos proferirão sua sabedoria final ao nosso Imperador-Deus, portador do [relic0_name].</li>
+    <li>animistFact(tag=meme_GodEmperor)     -&gt;Os espíritos querem ser conhecidos, e se manifestam no corpo de nosso Imperador-Deus.</li>
+    <li>serketistProphecy(tag=meme_GodEmperor)-&gt;[itIsSaid] nosso Imperador-Deus se banhará no sangue de mil insetos, ungido por seu sacrifício.</li>
+    <li>chthonianProphecy(tag=meme_GodEmperor)-&gt;Nosso Imperador-Deus é o guardião da loucura, aquele que protege nossas mentes da insanidade cruel do Cosmos.</li>
+    <li>esotericismProphecy(tag=meme_GodEmperor)-&gt;Nosso Imperador-Deus é sábio além de qualquer medida nos caminhos ocultos, e nos guiará na criação de novas formas de empregar esses saberes ocultos.</li>
+    <li>eschatologismFact(tag=meme_GodEmperor)-&gt;Nosso Imperador-Deus trará o Fim dos Tempos. Em servidão, participaremos dessa glória divina.</li>
+    <li>introMemo(tag=meme_GodEmperor)-&gt;Ora, sei que houve boatos de que o CEO da Companhia é um Deus. Sim, um Imperador-Deus, na verdade. Mas isso não significa nada a menos que cada um de vocês aja PROATIVAMENTE. Precisamos alavancar nossos ativos!</li>
+    <li>alienistProphecy(tag=meme_GodEmperor)-&gt;Todos esses animais maravilhosos serão um grande troféu para nosso amado Imperador-Deus.</li>
+  </VME_GodEmperor.descriptionMaker.rules.rulesStrings>
+  <VME_HardcoreIndustrialism.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;de alto rendimento</li>
+    <li>memeAdjective-&gt;produtivo</li>
+    <li>memeAdjective-&gt;frutífero</li>
+    <li>memeAdjective-&gt;construtivo</li>
+    <li>memeAdjective-&gt;vigoroso</li>
+    <li>memeConcept-&gt;produção</li>
+    <li>memeLeaderNoun-&gt;industrialista</li>
+    <li>memeMoralist-&gt;capataz</li>
+  </VME_HardcoreIndustrialism.generalRules.rulesStrings>
+  <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HardcoreIndustrialis)        -&gt;[deity0_name] incitou [deity0_possessive] seguidores ao trabalho, pois não há nada mais sagrado que a perseverança.</li>
+    <li>episode(uses=1,tag=meme_HardcoreIndustrialis)  -&gt;[deity0_name] disse a todos os [memberNamePlural]: "Não há segredos para o sucesso. Ele é o resultado de preparação, trabalho duro e aprendizado com o fracasso."</li>
+    <li>intro(tag=meme_HardcoreIndustrialis)           -&gt;Os [memberNamePlural] construíram um grande [altarName] no [place_summary] [place_name], uma magnífica peça central para as fábricas que produziam uma miríade de produtos acabados.</li>
+    <li>conflict(tag=meme_HardcoreIndustrialis)        -&gt;Um covarde [foeLeader], buscando negar a vontade de [deity0_name], tentou sabotar nossas linhas de produção, mas nossa resiliência era infindável.</li>
+    <li>founderJoin(tag=meme_HardcoreIndustrialis)     -&gt;[deity0_name] abençoou um [place_job] chamado [founderName] com [foeLeader_possessive] poder divino, e ele se tornou o maior industrialista que já se conheceu.</li>
+    <li>setup(tag=meme_HardcoreIndustrialis)           -&gt;Nosso fundador [founderName] foi um gênio. Um industrialista e filantropo como os Barões do Petróleo da antiguidade.</li>
+    <li>story(uses=1,tag=meme_HardcoreIndustrialis)    -&gt;Havia fábricas infinitas construídas por [founder_possessive] mão. Um único lema pendia numa placa sobre a entrada delas: "Com trabalho duro e esforço, você pode alcançar qualquer coisa."</li>
+    <li>lessonIntro(tag=meme_HardcoreIndustrialis)         -&gt;Uma única lição vital foi gravada em todos nós:</li>
+    <li>lesson(tag=meme_HardcoreIndustrialis)              -&gt;no momento em que acreditarmos que o sucesso é determinado por um nível inato de habilidade em vez de resiliência e trabalho duro, seremos frágeis diante da adversidade</li>
+    <li>lessonReinforcement(tag=meme_HardcoreIndustrialis) -&gt;E é por isso que o trabalho duro sempre compensa, faça você o que fizer.</li>
+    <li>archistBasis(tag=meme_HardcoreIndustrialis)    -&gt;Os arqueotecnológicos são o ápice da tecnologia, e somente por meio do trabalho duro podemos ao menos começar a nos aproximar de seu poder.</li>
+    <li>archistFact(tag=meme_HardcoreIndustrialis)     -&gt;De nossas fábricas jorrarão cem mil toneladas de plastiaço e exocromo. A vitória da indústria sobre a natureza.</li>
+    <li>archistProphecy(tag=meme_HardcoreIndustrialis) -&gt;[inTheEnd], talvez consigamos replicar os segredos tecnológicos avançados do [relic0_name].</li>
+    <li>animistFact(tag=meme_HardcoreIndustrialis)     -&gt;Se existem espíritos da natureza, é razoável que também existam espíritos das máquinas.</li>
+    <li>serketistProphecy(tag=meme_HardcoreIndustrialis)-&gt;[itIsSaid] adquiriremos a resiliência e a produtividade de nossos amados insetos.</li>
+    <li>chthonianProphecy(tag=meme_HardcoreIndustrialis)-&gt;Somente por meio do trabalho duro podemos ser salvos desses demônios abissais. Nossa perseverança será a ruína deles.</li>
+    <li>esotericismProphecy(tag=meme_HardcoreIndustrialis)-&gt;Nossas máquinas serão imbuídas de magias ocultas, um poderoso motor de criação que inaugurará um novo mundo de abundância.</li>
+    <li>eschatologismFact(tag=meme_HardcoreIndustrialis)-&gt;Nossas fábricas incharão o céu e sufocarão toda a vida. A pele deles se dissolverá dos ossos e será consumida nos fogos da indústria.</li>
+    <li>introMemo(tag=meme_HardcoreIndustrialis)-&gt;Chegou ao meu conhecimento que nossas cotas de produção caíram 4,56% em relação ao último trimestre. Isso é inaceitável, e confio que vocês trabalharão mais duro do que nunca para elevar nossa produtividade a níveis desejáveis.</li>
+    <li>alienistProphecy(tag=meme_HardcoreIndustrialis)-&gt;Todas essas criaturas maravilhosas nos mostram o que a engenhosidade da humanidade pode fazer por meio do trabalho duro e da experimentação cuidadosa.</li>
+  </VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
+  <VME_Gestalt.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;unificado</li>
+    <li>memeAdjective-&gt;amalgamado</li>
+    <li>memeAdjective-&gt;de mente-colmeia</li>
+    <li>memeAdjective-&gt;coalescente</li>
+    <li>memeAdjective-&gt;agregado</li>
+    <li>memeCreed-&gt;coletivo</li>
+    <li>memeCreed-&gt;colmeia</li>
+    <li>memeConcept-&gt;unidade total</li>
+    <li>memeLeaderNoun-&gt;muitos-como-um</li>
+    <li>memeLeaderNoun-&gt;enxame</li>
+  </VME_Gestalt.generalRules.rulesStrings>
+</LanguageData>

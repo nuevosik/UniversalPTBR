@@ -37,8 +37,8 @@
   <GeologicalLandforms.WorldMap.FindLandform>Buscar formato de relevo próximo</GeologicalLandforms.WorldMap.FindLandform>
   <GeologicalLandforms.WorldMap.FindLandformAny>Qualquer</GeologicalLandforms.WorldMap.FindLandformAny>
   <GeologicalLandforms.WorldMap.FindLandformAnyPOI>Qualquer (POI)</GeologicalLandforms.WorldMap.FindLandformAnyPOI>
-  <GeologicalLandforms.WorldMap.FindLandformSuccess>Formato de relevo encontrado, distância do ponto inicial:</GeologicalLandforms.WorldMap.FindLandformSuccess>
-  <GeologicalLandforms.WorldMap.FindLandformFail>Não foi possível encontrar o formato de relevo dentro da distância máxima permitida (pode ser alterada nas configurações do mod). Distância máxima configurada:</GeologicalLandforms.WorldMap.FindLandformFail>
+  <GeologicalLandforms.WorldMap.FindLandformSuccess>Formato de relevo {0} encontrado a {1} blocos de distância</GeologicalLandforms.WorldMap.FindLandformSuccess>
+  <GeologicalLandforms.WorldMap.FindLandformFail>Não foi possível encontrar nenhum formato de relevo {0} em {1} blocos (a distância máxima pode ser alterada nas configurações do mod).</GeologicalLandforms.WorldMap.FindLandformFail>
   <GeologicalLandforms.WorldMap.SetLandform>Definir substituição de formato de relevo (modo divino)</GeologicalLandforms.WorldMap.SetLandform>
   <GeologicalLandforms.WorldMap.SetLandformAuto>Automático</GeologicalLandforms.WorldMap.SetLandformAuto>
   <GeologicalLandforms.Settings.Landform.Id>ID</GeologicalLandforms.Settings.Landform.Id>
