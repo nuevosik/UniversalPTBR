@@ -32,13 +32,13 @@ Alvos: 139 | chaves: 26296
 | B11 | 2773943594 | m00nl1ght.GeologicalLandforms | Geological Landforms | 0 | 228 | 228 | feito |
 | B11 | 2439736083 | VanillaExpanded.VanillaSocialInteractionsExpanded | Vanilla Social Interactions Expanded | 192 | 35 | 227 | feito |
 | B11 | 3550585103 | Vortex.CustomizeWeapon | Customize Weapon | 147 | 75 | 222 | feito |
-| B12 | 3426502333 | OELS.VehicleMapFramework | Vehicle Map Framework | 120 | 97 | 217 | pendente |
-| B12 | 3796056278 | CH4AcKO3.SearchAndRescue | Search and Rescue | 60 | 154 | 214 | pendente |
-| B12 | 2975771801 | vanillaracesexpanded.android | Vanilla Races Expanded - Android | 211 | 2 | 213 | pendente |
-| B12 | 2038874626 | Dubwise.DubsPerformanceAnalyzer.steam | Dubs Performance Analyzer | 7 | 187 | 194 | pendente |
-| B12 | 3444347874 | OskarPotocki.VFE.Medieval2 | Vanilla Factions Expanded - Medieval 2 | 179 | 0 | 179 | pendente |
-| B12 | 761421485 | UnlimitedHugs.AllowTool | Allow Tool | 39 | 132 | 171 | pendente |
-| B12 | 3565025938 | CETeam.CombatExtendedGuns | Combat Extended Guns | 162 | 0 | 162 | pendente |
+| B12 | 3426502333 | OELS.VehicleMapFramework | Vehicle Map Framework | 120 | 97 | 217 | feito |
+| B12 | 3796056278 | CH4AcKO3.SearchAndRescue | Search and Rescue | 60 | 154 | 214 | feito |
+| B12 | 2975771801 | vanillaracesexpanded.android | Vanilla Races Expanded - Android | 211 | 2 | 213 | feito |
+| B12 | 2038874626 | Dubwise.DubsPerformanceAnalyzer.steam | Dubs Performance Analyzer | 7 | 187 | 194 | feito |
+| B12 | 3444347874 | OskarPotocki.VFE.Medieval2 | Vanilla Factions Expanded - Medieval 2 | 179 | 0 | 179 | feito |
+| B12 | 761421485 | UnlimitedHugs.AllowTool | Allow Tool | 39 | 132 | 171 | feito |
+| B12 | 3565025938 | CETeam.CombatExtendedGuns | Combat Extended Guns | 162 | 0 | 162 | feito |
 | B13 | 2903293603 | Sierra.RF.HouseDoyle | RimFantasy - House Doyle | 158 | 0 | 158 | pendente |
 | B13 | 2877392159 | Scherub.PlanningExtended | Planning Extended | 17 | 139 | 156 | pendente |
 | B13 | 2871933948 | VanillaExpanded.VanillaAnimalsExpanded | Vanilla Animals Expanded | 146 | 0 | 146 | pendente |
