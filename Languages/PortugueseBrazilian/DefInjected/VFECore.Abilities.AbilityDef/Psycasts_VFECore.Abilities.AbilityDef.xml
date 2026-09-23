@@ -113,13 +113,13 @@
   <VPE_ColdZone.label>zona fria</VPE_ColdZone.label>
   <VPE_ColdZone.description>Faz uma área manifestar nós de entropia psíquica pelas próximas 24 horas, baixando drasticamente a temperatura.</VPE_ColdZone.description>
   <VPE_IceBlock.label>bloco de gelo</VPE_IceBlock.label>
-  <VPE_IceBlock.description>Combina nós de entropia psíquica e um skipgate ligado a um oceano, criando um grande bloco de gelo no local alvo. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceBlock.description>
+  <VPE_IceBlock.description>Combina nós de entropia psíquica e um portal de salto ligado a um oceano, criando um grande bloco de gelo no local alvo. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceBlock.description>
   <VPE_SnapFreeze.label>congelamento instantâneo</VPE_SnapFreeze.label>
-  <VPE_SnapFreeze.description>Cria partículas de entropia psíquica e skipgates em miniatura para reservatórios de água acima de todos os alvos em uma pequena área, aprisionando-os no gelo. As vítimas sofrerão hipotermia, mas o gelo pode derreter prematuramente se a temperatura estiver acima do ponto de congelamento.</VPE_SnapFreeze.description>
+  <VPE_SnapFreeze.description>Cria partículas de entropia psíquica e portais de salto em miniatura para reservatórios de água acima de todos os alvos em uma pequena área, aprisionando-os no gelo. As vítimas sofrerão hipotermia, mas o gelo pode derreter prematuramente se a temperatura estiver acima do ponto de congelamento.</VPE_SnapFreeze.description>
   <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
-  <VPE_IceWall.description>Combina nós de entropia psíquica e skipgates em miniatura ligados a um oceano, criando uma parede circular de gelo ao redor do lançador. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceWall.description>
+  <VPE_IceWall.description>Combina nós de entropia psíquica e portais de salto em miniatura ligados a um oceano, criando uma parede circular de gelo ao redor do lançador. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceWall.description>
   <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
-  <VPE_Blizzard.description>Usando skipgates de pressão diferencial, skipgates ligados à água e nós de entropia psíquica, cria uma nevasca giratória longe do lançador. Aqueles expostos à tempestade sofrem redução de visão, movimento e manipulação, além de acúmulo de hipotermia e frio cortante. A duração escala com a sensibilidade psíquica do lançador e o deixa em coma.</VPE_Blizzard.description>
+  <VPE_Blizzard.description>Usando portais de salto de pressão diferencial, portais de salto ligados à água e nós de entropia psíquica, cria uma nevasca giratória longe do lançador. Aqueles expostos à tempestade sofrem redução de visão, movimento e manipulação, além de acúmulo de hipotermia e frio cortante. A duração escala com a sensibilidade psíquica do lançador e o deixa em coma.</VPE_Blizzard.description>
   <VPE_Mindcontrol.label>controle mental</VPE_Mindcontrol.label>
   <VPE_Mindcontrol.description>Domina psiquicamente um alvo por um breve período, escalando com a sensibilidade psíquica dele, dando ao lançador um segundo corpo. No entanto, é difícil ser duas pessoas ao mesmo tempo.</VPE_Mindcontrol.description>
   <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
@@ -133,7 +133,7 @@
   <VPE_BendProbability.label>curvar probabilidade</VPE_BendProbability.label>
   <VPE_BendProbability.description>Cria uma ondulação de escala cósmica que forçará algo a acontecer.</VPE_BendProbability.description>
   <VPE_LocationSwap.label>troca de local</VPE_LocationSwap.label>
-  <VPE_LocationSwap.description>Usando skipgates de precisão, troca as posições do lançador e de um alvo visível.</VPE_LocationSwap.description>
+  <VPE_LocationSwap.description>Usando portais de salto de precisão, troca as posições do lançador e de um alvo visível.</VPE_LocationSwap.description>
   <VPE_HealthSwap.label>troca de saúde</VPE_HealthSwap.label>
   <VPE_HealthSwap.description>Pela lei da troca equivalente, devolve a vitalidade do alvo primário à sua origem, transferindo todos os corpos estranhos e ferimentos para o alvo secundário.</VPE_HealthSwap.description>
   <VPE_Transmutation.label>transmutação</VPE_Transmutation.label>
@@ -189,19 +189,19 @@
   <VPE_WordofImmunity.label>palavra de imunidade</VPE_WordofImmunity.label>
   <VPE_WordofImmunity.description>Estimula psiquicamente o sistema imunológico de uma pessoa ao máximo, efetivamente quase dobrando sua velocidade de ganho de imunidade por alguns dias.</VPE_WordofImmunity.description>
   <VPE_Overshield.label>superescudo</VPE_Overshield.label>
-  <VPE_Overshield.description>Gere um skipgate esférico em um alvo que envia todos os projéteis recebidos na altura do solo para algum lugar distante, com a duração escalando com a sensibilidade psíquica do alvo. Pessoas e itens não são afetados.</VPE_Overshield.description>
+  <VPE_Overshield.description>Gere um portal de salto esférico em um alvo que envia todos os projéteis recebidos na altura do solo para algum lugar distante, com a duração escalando com a sensibilidade psíquica do alvo. Pessoas e itens não são afetados.</VPE_Overshield.description>
   <VPE_Focus.label>foco</VPE_Focus.label>
   <VPE_Focus.description>Concentre psiquicamente a mente do alvo por um minuto, aumentando suas capacidades de visão, audição e movimentação.</VPE_Focus.description>
   <VPE_Skipshield.label>escudo de balas</VPE_Skipshield.label>
-  <VPE_Skipshield.description>Gera um skipgate esférico que envia todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados. A duração escala com a sensibilidade psíquica do lançador.</VPE_Skipshield.description>
+  <VPE_Skipshield.description>Gera um portal de salto esférico que envia todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados. A duração escala com a sensibilidade psíquica do lançador.</VPE_Skipshield.description>
   <VPE_Invisibility.label>invisibilidade</VPE_Invisibility.label>
   <VPE_Invisibility.description>Manipule psiquicamente os centros visuais de todos os que estão por perto, tornando-os incapazes de perceber um indivíduo específico por um curto período.</VPE_Invisibility.description>
   <VPE_RegrowLimbs.label>regenerar membros</VPE_RegrowLimbs.label>
   <VPE_RegrowLimbs.description>Induz no alvo um coma regenerativo psíquico que dura um dia inteiro. A energia psíquica ajuda o alvo, regenerando lentamente quaisquer membros ausentes.</VPE_RegrowLimbs.description>
   <VPE_GuardianSkipbarrier.label>barreira de salto guardiã</VPE_GuardianSkipbarrier.label>
-  <VPE_GuardianSkipbarrier.description>Gera um skipgate esférico ao redor do lançador que envia todos os projéteis recebidos na altura do solo para algum lugar distante, durando enquanto ele conseguir administrar o acúmulo de calor. Pessoas e itens não são afetados. Manter isso exige imensa concentração, então o lançador precisa ficar atento aos seus passos.</VPE_GuardianSkipbarrier.description>
+  <VPE_GuardianSkipbarrier.description>Gera um portal de salto esférico ao redor do lançador que envia todos os projéteis recebidos na altura do solo para algum lugar distante, durando enquanto ele conseguir administrar o acúmulo de calor. Pessoas e itens não são afetados. Manter isso exige imensa concentração, então o lançador precisa ficar atento aos seus passos.</VPE_GuardianSkipbarrier.description>
   <VPE_SolarPinhole.label>ponta de agulha solar</VPE_SolarPinhole.label>
-  <VPE_SolarPinhole.description>Gera um skipgate microscópico ligado ao núcleo de uma estrela próxima por alguns dias. Material solar vaza pelo furo no espaço-tempo, iluminando e aquecendo a área ao redor até que ele se feche. A luz é suficiente para trabalhar, mas não para cultivar plantas.</VPE_SolarPinhole.description>
+  <VPE_SolarPinhole.description>Gera um portal de salto microscópico ligado ao núcleo de uma estrela próxima por alguns dias. Material solar vaza pelo furo no espaço-tempo, iluminando e aquecendo a área ao redor até que ele se feche. A luz é suficiente para trabalhar, mas não para cultivar plantas.</VPE_SolarPinhole.description>
   <VPE_Chunkskip.label>teleporte de pedaços</VPE_Chunkskip.label>
   <VPE_Chunkskip.description>Teletransporta os 5 pedaços mais próximos de rocha ou escória para espalhá-los perto do ponto alvo. Isso é útil para produzir cobertura durante operações ofensivas.</VPE_Chunkskip.description>
   <VPE_Waterskip.label>mergulhar</VPE_Waterskip.label>
@@ -217,7 +217,7 @@
   <VPE_MassChaosSkip.label>teleporte caótico massivo</VPE_MassChaosSkip.label>
   <VPE_MassChaosSkip.description>Teletransporta todos os que estiverem perto de um ponto alvo para um local aleatório próximo. Considerado um incômodo, pois pode colocar aliados em perigo.</VPE_MassChaosSkip.description>
   <VPE_Skipdoor.label>porta de salto</VPE_Skipdoor.label>
-  <VPE_Skipdoor.description>Cria uma abertura para uma rede de skipgates que pode ser colocada em qualquer local com presença permanente. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psicocasters possam adicionar a ela. No entanto, os pontos de entrada são sensíveis a perturbações físicas que podem fazê-los entrar em colapso.</VPE_Skipdoor.description>
+  <VPE_Skipdoor.description>Cria uma abertura para uma rede de portais de salto que pode ser colocada em qualquer local com presença permanente. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psinjuradores possam adicionar a ela. No entanto, os pontos de entrada são sensíveis a perturbações físicas que podem fazê-los entrar em colapso.</VPE_Skipdoor.description>
   <VPE_Farskip.label>teleporte longo</VPE_Farskip.label>
   <VPE_Farskip.description>Teletransporta o lançador, junto com todos que estiverem perto dele, para um aliado disposto em um local distante. Isso pode enviar pessoas para bem longe pelo planeta; as pessoas teleportadas sempre aparecerão perto de um aliado aleatório no mapa de destino e ficarão atordoadas por alguns segundos devido à viagem.</VPE_Farskip.description>
   <VPE_Bolt.label>raio</VPE_Bolt.label>
@@ -235,11 +235,11 @@
   <VPE_StaticPulse.label>pulso estático</VPE_StaticPulse.label>
   <VPE_StaticPulse.description>O lançador descarrega uma quantidade massiva de voltagem no ar ao redor, causando uma explosão PEM em um raio enorme que, fora isso, é inofensiva.</VPE_StaticPulse.description>
   <VPE_Vortex.label>vórtice</VPE_Vortex.label>
-  <VPE_Vortex.description>Manifesta um vórtice de eletricidade de alta voltagem — redirecionado por skipgate de uma tempestade nebular — em uma área alvo, com um grande efeito. Prejudica severamente o movimento e a manipulação proporcionalmente, com o efeito mais forte no centro.</VPE_Vortex.description>
+  <VPE_Vortex.description>Manifesta um vórtice de eletricidade de alta voltagem — redirecionado por um portal de salto de uma tempestade nebular — em uma área alvo, com um grande efeito. Prejudica severamente o movimento e a manipulação proporcionalmente, com o efeito mais forte no centro.</VPE_Vortex.description>
   <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
-  <VPE_Hurricane.description>O lançador muda à força o clima — usando skipgates de pressão diferencial amplamente espalhados — para uma tempestade torrencial com ventos de força de furacão, que dura enquanto ele conseguir administrar o acúmulo de calor e pode parar instantaneamente à vontade. Aqueles ao ar livre sofrerão limitações progressivamente severas de visão, movimento e manipulação, a ponto de pararem completamente.</VPE_Hurricane.description>
+  <VPE_Hurricane.description>O lançador muda à força o clima — usando portais de salto de pressão diferencial amplamente espalhados — para uma tempestade torrencial com ventos de força de furacão, que dura enquanto ele conseguir administrar o acúmulo de calor e pode parar instantaneamente à vontade. Aqueles ao ar livre sofrerão limitações progressivamente severas de visão, movimento e manipulação, a ponto de pararem completamente.</VPE_Hurricane.description>
   <VPE_Flashstorm.label>tempestade</VPE_Flashstorm.label>
-  <VPE_Flashstorm.description>Usa skipgates de pressão diferencial concentrados na atmosfera para gerar uma tempestade localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</VPE_Flashstorm.description>
+  <VPE_Flashstorm.description>Usa portais de salto de pressão diferencial concentrados na atmosfera para gerar uma tempestade localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</VPE_Flashstorm.description>
   <VPE_EnchantQuality.label>encantar qualidade</VPE_EnchantQuality.label>
   <VPE_EnchantQuality.description>Manipula psiquicamente um objeto ou estrutura para melhorar sua qualidade geral. A qualidade máxima depende da sensibilidade psíquica.</VPE_EnchantQuality.description>
   <VPE_Mend.label>reparar</VPE_Mend.label>
@@ -254,8 +254,8 @@
   <VPE_RockConstruct.description>Comprime uma porção da tolerância ao calor neural do lançador em cristais metafísicos e os implanta em um pedaço de pedra. Cria um construto capaz de tarefas simples. Quebrar os cristais restaura a tolerância ao calor.</VPE_RockConstruct.description>
   <VPE_SteelConstruct.label>construto de aço</VPE_SteelConstruct.label>
   <VPE_SteelConstruct.description>Comprime uma porção da tolerância ao calor neural do lançador em cristais metafísicos e os implanta em escória de aço. Cria um construto que protege o lançador. Quebrar os cristais restaura a tolerância ao calor.</VPE_SteelConstruct.description>
-  <VPE_CraftPsyRing.label>fabricar psiring</VPE_CraftPsyRing.label>
-  <VPE_CraftPsyRing.description>Altera psiquicamente a forma de um pedaço de eltex para o formato de um anel, que é imbuído do conhecimento de psicocasting do lançador. Quando usado por outro psicocaster, isso lhe permite temporariamente usar esse conhecimento para realizar o psicocast armazenado sem prática.</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.label>fabricar anel psíquico</VPE_CraftPsyRing.label>
+  <VPE_CraftPsyRing.description>Altera psiquicamente a forma de um pedaço de eltex para o formato de um anel, que é imbuído do conhecimento de psicocasting do lançador. Quando usado por outro psinjurador, isso lhe permite temporariamente usar esse conhecimento para realizar o psicocast armazenado sem prática.</VPE_CraftPsyRing.description>
   <VPE_WordofProgress.label>palavra de progresso</VPE_WordofProgress.label>
   <VPE_WordofProgress.description>Fale palavras que incentivam a capacidade de resolver problemas enquanto sobrecarrega psiquicamente a mente do alvo com perspicácia. O alvo terá velocidade de pesquisa e ganho de habilidade Intelectual dobrados por 5 dias, escalando com sua sensibilidade psíquica.</VPE_WordofProgress.description>
   <VPE_ReverseEngineer.label>engenharia reversa</VPE_ReverseEngineer.label>
@@ -291,11 +291,11 @@
   <VPE_TreeSprout.label>broto de árvores</VPE_TreeSprout.label>
   <VPE_TreeSprout.description>Infunde uma área fértil com poderosa energia vital, fazendo brotar árvores nativas totalmente crescidas. O raio efetivo escala com a sensibilidade psíquica, até um máximo de 8 quadrados.</VPE_TreeSprout.description>
   <VPE_ShieldAnimals.label>escudo de animais</VPE_ShieldAnimals.label>
-  <VPE_ShieldAnimals.description>Gera skipgates esféricos em todos os animais da colônia ao alcance que enviam todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados e a duração escala com a sensibilidade psíquica do lançador.</VPE_ShieldAnimals.description>
+  <VPE_ShieldAnimals.description>Gera portais de salto esféricos em todos os animais da colônia ao alcance que enviam todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados e a duração escala com a sensibilidade psíquica do lançador.</VPE_ShieldAnimals.description>
   <VPE_AnimalAllies.label>aliados animais</VPE_AnimalAllies.label>
   <VPE_AnimalAllies.description>Infunde uma grande área com força vital harmônica que influencia o comportamento dos animais, fazendo com que ataquem aqueles hostis ao lançador por uma duração que escala com sua sensibilidade psíquica.</VPE_AnimalAllies.description>
   <VPE_Shrineshield.label>escudo do santuário</VPE_Shrineshield.label>
-  <VPE_Shrineshield.description>Gera um skipgate esférico em um santuário natural que envia quaisquer projéteis recebidos e emitidos, incluindo projéteis de morteiro, para algum lugar distante. Pessoas e itens não são afetados; o tamanho da esfera depende do tamanho do santuário, enquanto a duração escala com a sensibilidade psíquica do lançador.</VPE_Shrineshield.description>
+  <VPE_Shrineshield.description>Gera um portal de salto esférico em um santuário natural que envia quaisquer projéteis recebidos e emitidos, incluindo projéteis de morteiro, para algum lugar distante. Pessoas e itens não são afetados; o tamanho da esfera depende do tamanho do santuário, enquanto a duração escala com a sensibilidade psíquica do lançador.</VPE_Shrineshield.description>
   <VPE_EssenceTransfer.label>transferência de essência</VPE_EssenceTransfer.label>
   <VPE_EssenceTransfer.description>Infunde a força vital de outra pessoa próxima em um animal da colônia, vinculando-os e deixando o lançador em coma. Se a pessoa vinculada morrer, o animal vinculado irá até ela e transferirá sua própria essência vital harmonizada, morrendo ao concluir. Se o animal vinculado morrer primeiro, o efeito é perdido, e só pode haver um vínculo por vez.</VPE_EssenceTransfer.description>
   <VPE_SummonPack.label>convocar matilha</VPE_SummonPack.label>

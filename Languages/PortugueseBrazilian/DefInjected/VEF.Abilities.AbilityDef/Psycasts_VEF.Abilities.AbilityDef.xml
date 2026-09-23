@@ -26,11 +26,11 @@
   <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
   <VPE_IceCrystal.description>Cria um nó de entropia psíquica em forma de cristal, sugando o calor do ambiente pelos próximos 5 dias.</VPE_IceCrystal.description>
   <VPE_IceBlock.label>bloco de gelo</VPE_IceBlock.label>
-  <VPE_IceBlock.description>Combina nós de entropia psíquica e um skipgate ligado a um oceano, criando um grande bloco de gelo no local alvo. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceBlock.description>
+  <VPE_IceBlock.description>Combina nós de entropia psíquica e um portal de salto ligado a um oceano, criando um grande bloco de gelo no local alvo. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceBlock.description>
   <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
-  <VPE_IceWall.description>Combina nós de entropia psíquica e skipgates em miniatura ligados a um oceano, criando uma parede circular de gelo ao redor do lançador. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceWall.description>
+  <VPE_IceWall.description>Combina nós de entropia psíquica e portais de salto em miniatura ligados a um oceano, criando uma parede circular de gelo ao redor do lançador. Frágil e pode derreter se a temperatura estiver acima do ponto de congelamento.</VPE_IceWall.description>
   <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
-  <VPE_Blizzard.description>Usando skipgates de pressão diferencial, skipgates ligados à água e nós de entropia psíquica, cria uma nevasca giratória longe do lançador. Aqueles expostos à tempestade sofrem redução de visão, movimento e manipulação, além de acúmulo de hipotermia e frio cortante. A duração escala com a sensibilidade psíquica do lançador e o deixa em coma.</VPE_Blizzard.description>
+  <VPE_Blizzard.description>Usando portais de salto de pressão diferencial, portais de salto ligados à água e nós de entropia psíquica, cria uma nevasca giratória longe do lançador. Aqueles expostos à tempestade sofrem redução de visão, movimento e manipulação, além de acúmulo de hipotermia e frio cortante. A duração escala com a sensibilidade psíquica do lançador e o deixa em coma.</VPE_Blizzard.description>
   <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
   <VPE_PsychicGuidance.description>Atenua a visão, audição, movimento e manipulação do lançador em troca de sobrecarregar as próprias capacidades físicas do alvo.</VPE_PsychicGuidance.description>
   <VPE_Liferot.label>podridão vital</VPE_Liferot.label>
@@ -42,11 +42,11 @@
   <VPE_Darkness.label>escuridão</VPE_Darkness.label>
   <VPE_Decoy.label>isca</VPE_Decoy.label>
   <VPE_Overshield.label>superescudo</VPE_Overshield.label>
-  <VPE_Overshield.description>Gere um skipgate esférico em um alvo que envia todos os projéteis recebidos na altura do solo para algum lugar distante, com a duração escalando com a sensibilidade psíquica do alvo. Pessoas e itens não são afetados.</VPE_Overshield.description>
+  <VPE_Overshield.description>Gere um portal de salto esférico em um alvo que envia todos os projéteis recebidos na altura do solo para algum lugar distante, com a duração escalando com a sensibilidade psíquica do alvo. Pessoas e itens não são afetados.</VPE_Overshield.description>
   <VPE_RegrowLimbs.label>regenerar membros</VPE_RegrowLimbs.label>
   <VPE_RegrowLimbs.description>Induz no alvo um coma regenerativo psíquico que dura um dia inteiro. A energia psíquica ajuda o alvo, regenerando lentamente quaisquer membros ausentes.</VPE_RegrowLimbs.description>
   <VPE_Skipdoor.label>porta de salto</VPE_Skipdoor.label>
-  <VPE_Skipdoor.description>Cria uma abertura para uma rede de skipgates que pode ser colocada em qualquer local com presença permanente. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psicocasters possam adicionar a ela. No entanto, os pontos de entrada são sensíveis a perturbações físicas que podem fazê-los entrar em colapso.</VPE_Skipdoor.description>
+  <VPE_Skipdoor.description>Cria uma abertura para uma rede de portais de salto que pode ser colocada em qualquer local com presença permanente. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psinjuradores possam adicionar a ela. No entanto, os pontos de entrada são sensíveis a perturbações físicas que podem fazê-los entrar em colapso.</VPE_Skipdoor.description>
   <VPE_Bolt.label>raio</VPE_Bolt.label>
   <VPE_Bolt.description>Arremessa um raio fraco de eletricidade para atingir uma pequena área alvo, a uma distância que escala com a sensibilidade psíquica. Causa queimaduras em acertos diretos e dano PEM em área.</VPE_Bolt.description>
   <VPE_ChainBolt.label>raio em cadeia</VPE_ChainBolt.label>
@@ -56,9 +56,9 @@
   <VPE_Recharge.description>Ajusta cuidadosa e delicadamente um fluxo de eletricidade em uma bateria tocada para carregá-la com 100kW ou o equivalente a 100 Wd/s. A duração da carga depende da sensibilidade psíquica do lançador.</VPE_Recharge.description>
   <VPE_BallLightning.label>raio globular</VPE_BallLightning.label>
   <VPE_Vortex.label>vórtice</VPE_Vortex.label>
-  <VPE_Vortex.description>Manifesta um vórtice de eletricidade de alta voltagem — redirecionado por skipgate de uma tempestade nebular — em uma área alvo, com um grande efeito. Prejudica severamente o movimento e a manipulação proporcionalmente, com o efeito mais forte no centro.</VPE_Vortex.description>
+  <VPE_Vortex.description>Manifesta um vórtice de eletricidade de alta voltagem — redirecionado por um portal de salto de uma tempestade nebular — em uma área alvo, com um grande efeito. Prejudica severamente o movimento e a manipulação proporcionalmente, com o efeito mais forte no centro.</VPE_Vortex.description>
   <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
-  <VPE_Hurricane.description>O lançador muda à força o clima — usando skipgates de pressão diferencial amplamente espalhados — para uma tempestade torrencial com ventos de força de furacão, que dura enquanto ele conseguir administrar o acúmulo de calor e pode parar instantaneamente à vontade. Aqueles ao ar livre sofrerão limitações progressivamente severas de visão, movimento e manipulação, a ponto de pararem completamente.</VPE_Hurricane.description>
+  <VPE_Hurricane.description>O lançador muda à força o clima — usando portais de salto de pressão diferencial amplamente espalhados — para uma tempestade torrencial com ventos de força de furacão, que dura enquanto ele conseguir administrar o acúmulo de calor e pode parar instantaneamente à vontade. Aqueles ao ar livre sofrerão limitações progressivamente severas de visão, movimento e manipulação, a ponto de pararem completamente.</VPE_Hurricane.description>
   <VPE_Haywire.label>pane</VPE_Haywire.label>
   <VPE_Haywire.description>Sujeita uma área a interferência psíquica, reconfigurando temporariamente até 3 sistemas de armas automatizados para proteger o lançador e seus aliados. A duração escala com a sensibilidade psíquica do lançador.</VPE_Haywire.description>
   <VPE_RockConstruct.label>construto de rocha</VPE_RockConstruct.label>

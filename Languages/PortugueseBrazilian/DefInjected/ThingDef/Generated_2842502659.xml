@@ -24,13 +24,13 @@
   <VPE_FireTornado.label>tornado de fogo</VPE_FireTornado.label>
   <VPE_Flameball.description>Uma bola de fogo lançada por um conflagrador</VPE_Flameball.description>
   <VPE_Flameball.label>bola de fogo</VPE_Flameball.label>
-  <VPE_HeatPearls.description>Pérolas de calor místico criadas por um tecnomante em um processo de condensação de calor psíquico em uma forma física. Eles podem ser jogados em outros psicocasters para liberar uma quantidade insana de calor psíquico, desativando sua habilidade de psicocasting por um curto período.</VPE_HeatPearls.description>
+  <VPE_HeatPearls.description>Pérolas de calor místico criadas por um tecnomante em um processo de condensação de calor psíquico em uma forma física. Eles podem ser jogados em outros psinjuradores para liberar uma quantidade insana de calor psíquico, desativando sua habilidade de psicocasting por um curto período.</VPE_HeatPearls.description>
   <VPE_HeatPearls.label>pérolas de calor</VPE_HeatPearls.label>
   <VPE_HeatPearls.verbs.0.label>jogue pérola de calor</VPE_HeatPearls.verbs.0.label>
   <VPE_HurricaneMaker.label>criador de furacões</VPE_HurricaneMaker.label>
   <VPE_IceCrystal.description>Um pequeno cristal de gelo que esfria a temperatura do ambiente. Pode ajudar a congelar itens perecíveis.</VPE_IceCrystal.description>
   <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
-  <VPE_IceSpike.description>Um pico de gelo lançado pelo Frostshaper.</VPE_IceSpike.description>
+  <VPE_IceSpike.description>Um pico de gelo lançado pelo modelador de gelo.</VPE_IceSpike.description>
   <VPE_IceSpike.label>estaca de gelo</VPE_IceSpike.label>
   <VPE_IceWall.description>Uma parede frágil feita de gelo. Ele vai derreter com o calor.</VPE_IceWall.description>
   <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
@@ -48,18 +48,18 @@
   <VPE_MeleeWeapon_EltexSword.tools.0.label>lidar</VPE_MeleeWeapon_EltexSword.tools.0.label>
   <VPE_MeleeWeapon_EltexSword.tools.1.label>apontar</VPE_MeleeWeapon_EltexSword.tools.1.label>
   <VPE_MeleeWeapon_EltexSword.tools.2.label>borda</VPE_MeleeWeapon_EltexSword.tools.2.label>
-  <VPE_Psyring.description>Um anel Eltex criado por um tecnomante habilidoso. Ele contém o conhecimento de um psicocast específico e pode ser usado por outros psicocasters para lançá-lo.</VPE_Psyring.description>
-  <VPE_Psyring.label>psiring</VPE_Psyring.label>
-  <VPE_RockConstruct.description>Um pedaço de rocha, animado por uma poderosa energia psíquica. Ele fará trabalhos simples pela colônia incansavelmente e com a máxima dedicação.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psicocaster de lançar outras habilidades.</VPE_RockConstruct.description>
+  <VPE_Psyring.description>Um anel Eltex criado por um tecnomante habilidoso. Ele contém o conhecimento de um psicocast específico e pode ser usado por outros psinjuradores para lançá-lo.</VPE_Psyring.description>
+  <VPE_Psyring.label>anel psíquico</VPE_Psyring.label>
+  <VPE_RockConstruct.description>Um pedaço de rocha, animado por uma poderosa energia psíquica. Ele fará trabalhos simples pela colônia incansavelmente e com a máxima dedicação.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psinjurador de lançar outras habilidades.</VPE_RockConstruct.description>
   <VPE_RockConstruct.tools.0.label>cabeça</VPE_RockConstruct.tools.0.label>
   <VPE_Shrineshield_Large.label>grande escudo do santuário</VPE_Shrineshield_Large.label>
-  <VPE_Shrineshield_Small.label>pequeno santuário</VPE_Shrineshield_Small.label>
+  <VPE_Shrineshield_Small.label>pequeno escudo do santuário</VPE_Shrineshield_Small.label>
   <VPE_Skipdoor.description>Um ponto de entrada psíquico para uma rede de portais.</VPE_Skipdoor.description>
   <VPE_Skipdoor.label>porta de salto</VPE_Skipdoor.label>
   <VPE_SkyChanger.label>trocador de céu</VPE_SkyChanger.label>
   <VPE_SmallMeteorite_Incoming.label>pequeno meteorito</VPE_SmallMeteorite_Incoming.label>
   <VPE_SoulFromSky.label>alma</VPE_SoulFromSky.label>
-  <VPE_SteelConstruct.description>Um pedaço de escória de aço, animado por uma poderosa energia psíquica. Ele enfrentará ameaças próximas e defenderá o mestre de qualquer dano que possa acontecer a ele.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psicocaster de lançar outras habilidades.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.description>Um pedaço de escória de aço, animado por uma poderosa energia psíquica. Ele enfrentará ameaças próximas e defenderá o mestre de qualquer dano que possa acontecer a ele.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt;Os construtos geram calor constante para o lançador que os convocou. Manter muitos construtos vivos pode impedir o psinjurador de lançar outras habilidades.</VPE_SteelConstruct.description>
   <VPE_SteelConstruct.tools.0.label>cabeça</VPE_SteelConstruct.tools.0.label>
   <VPE_SummonedSkeleton.description>Uma casca psiquicamente reanimada de um indivíduo falecido. Extremamente agressivo, mas logo murchará e se transformará em nada.</VPE_SummonedSkeleton.description>
   <VPE_SummonedSkeleton.tools.0.label>punho esquerdo</VPE_SummonedSkeleton.tools.0.label>

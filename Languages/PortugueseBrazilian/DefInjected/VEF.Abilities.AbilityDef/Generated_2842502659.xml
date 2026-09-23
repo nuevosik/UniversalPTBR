@@ -38,8 +38,8 @@
   <VPE_ConsumeBodies.label>consumir corpos</VPE_ConsumeBodies.label>
   <VPE_Corpsetalk.description>Escolha um cadáver como alvo e aproprie-se temporariamente das habilidades da vítima para compensar as deficiências do lançador. O efeito dura uma estação antes de voltar ao normal.</VPE_Corpsetalk.description>
   <VPE_Corpsetalk.label>conversa com cadáver</VPE_Corpsetalk.label>
-  <VPE_CraftPsyRing.description>Altera psiquicamente a forma de um pedaço de eltex para o formato de um anel, que é imbuído do conhecimento de psicocasting do lançador. Quando usado por outro psicocaster, isso lhe permite temporariamente usar esse conhecimento para realizar o psicocast armazenado sem prática.</VPE_CraftPsyRing.description>
-  <VPE_CraftPsyRing.label>fabricar psiring</VPE_CraftPsyRing.label>
+  <VPE_CraftPsyRing.description>Altera psiquicamente a forma de um pedaço de eltex para o formato de um anel, que é imbuído do conhecimento de psicocasting do lançador. Quando usado por outro psinjurador, isso lhe permite temporariamente usar esse conhecimento para realizar o psicocast armazenado sem prática.</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.label>fabricar anel psíquico</VPE_CraftPsyRing.label>
   <VPE_CraftTimeskip.description>Usando saltos temporais muito precisos, leva o item desejado ao seu estado final como se o criador tivesse continuado a trabalhar nele. Envelhece biologicamente o lançador em um ano inteiro.</VPE_CraftTimeskip.description>
   <VPE_CraftTimeskip.label>salto temporal de fabricação</VPE_CraftTimeskip.label>
   <VPE_CropBurst.description>Infunde uma área fértil com energia vital, fazendo brotar plantações cultiváveis que terminam de crescer de acordo com a sensibilidade psíquica do lançador.</VPE_CropBurst.description>
@@ -68,11 +68,11 @@
   <VPE_FireBeam.description>Tenta recriar o poder de uma estrela dentro de uma coluna concentrada de oxigênio quase liquidificado. A emissão de plasma resultante é tão poderosa que só os sistemas de armas mais avançados podem se comparar. A concentração longa e intensa termina com o lançador entrando em coma.</VPE_FireBeam.description>
   <VPE_FlameTornado.description>Tenta recriar o poder de uma estrela dentro de um vórtice de oxigênio concentrado. A confusão de reações cria subprodutos inflamáveis em seu rastro, além de deixar sua trajetória completamente imprevisível.</VPE_FlameTornado.description>
   <VPE_FlameTornado.label>tornado de fogo</VPE_FlameTornado.label>
-  <VPE_Flashstorm.description>Usa skipgates de pressão diferencial concentrados na atmosfera para gerar uma tempestade localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</VPE_Flashstorm.description>
+  <VPE_Flashstorm.description>Usa portais de salto de pressão diferencial concentrados na atmosfera para gerar uma tempestade localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</VPE_Flashstorm.description>
   <VPE_Flashstorm.label>tempestade</VPE_Flashstorm.label>
   <VPE_Focus.description>Concentre psiquicamente a mente do alvo por um minuto, aumentando suas capacidades de visão, audição e movimentação.</VPE_Focus.description>
   <VPE_Focus.label>foco</VPE_Focus.label>
-  <VPE_GuardianSkipbarrier.description>Gera um skipgate esférico ao redor do lançador que envia todos os projéteis recebidos na altura do solo para algum lugar distante, durando enquanto ele conseguir administrar o acúmulo de calor. Pessoas e itens não são afetados. Manter isso exige imensa concentração, então o lançador precisa ficar atento aos seus passos.</VPE_GuardianSkipbarrier.description>
+  <VPE_GuardianSkipbarrier.description>Gera um portal de salto esférico ao redor do lançador que envia todos os projéteis recebidos na altura do solo para algum lugar distante, durando enquanto ele conseguir administrar o acúmulo de calor. Pessoas e itens não são afetados. Manter isso exige imensa concentração, então o lançador precisa ficar atento aos seus passos.</VPE_GuardianSkipbarrier.description>
   <VPE_GuardianSkipbarrier.label>barreira de salto guardiã</VPE_GuardianSkipbarrier.label>
   <VPE_HealthSwap.description>Pela lei da troca equivalente, devolve a vitalidade do alvo primário à sua origem, transferindo todos os corpos estranhos e ferimentos para o alvo secundário.</VPE_HealthSwap.description>
   <VPE_HealthSwap.label>troca de saúde</VPE_HealthSwap.label>
@@ -86,7 +86,7 @@
   <VPE_Invisibility.label>invisibilidade</VPE_Invisibility.label>
   <VPE_Killskip.description>Teleporta-se até o alvo e executa um golpe corpo a corpo, enfraquecido ou reforçado pela habilidade de combate corpo a corpo do lançador. Se o alvo for morto, teleporta-se até o inimigo mais próximo sem custo e ataca novamente, até não restar nada para matar.</VPE_Killskip.description>
   <VPE_Killskip.label>salto assassino</VPE_Killskip.label>
-  <VPE_LocationSwap.description>Usando skipgates de precisão, troca as posições do lançador e de um alvo visível.</VPE_LocationSwap.description>
+  <VPE_LocationSwap.description>Usando portais de salto de precisão, troca as posições do lançador e de um alvo visível.</VPE_LocationSwap.description>
   <VPE_LocationSwap.label>troca de local</VPE_LocationSwap.label>
   <VPE_LuckTransfer.description>Cria uma fenda no equilíbrio cármico ao transferir o carma negativo do primeiro alvo para o segundo, além de receber o carma positivo dele. Afeta apenas o combate e a duração escala com a sensibilidade psíquica do primeiro alvo.</VPE_LuckTransfer.description>
   <VPE_LuckTransfer.label>transferência de sorte</VPE_LuckTransfer.label>
@@ -145,21 +145,21 @@
   <VPE_ShadowFocus.label>foco sombrio</VPE_ShadowFocus.label>
   <VPE_Shadowskip.description>Vincular o lançador à própria sombra permite que ele se teletransporte para uma área de escuridão, mesmo que não consiga ver o local.</VPE_Shadowskip.description>
   <VPE_Shadowskip.label>salto de sombra</VPE_Shadowskip.label>
-  <VPE_ShieldAnimals.description>Gera skipgates esféricos em todos os animais da colônia ao alcance que enviam todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados e a duração escala com a sensibilidade psíquica do lançador.</VPE_ShieldAnimals.description>
+  <VPE_ShieldAnimals.description>Gera portais de salto esféricos em todos os animais da colônia ao alcance que enviam todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados e a duração escala com a sensibilidade psíquica do lançador.</VPE_ShieldAnimals.description>
   <VPE_ShieldAnimals.label>escudo de animais</VPE_ShieldAnimals.label>
-  <VPE_Shrineshield.description>Gera um skipgate esférico em um santuário natural que envia quaisquer projéteis recebidos e emitidos, incluindo projéteis de morteiro, para algum lugar distante. Pessoas e itens não são afetados; o tamanho da esfera depende do tamanho do santuário, enquanto a duração escala com a sensibilidade psíquica do lançador.</VPE_Shrineshield.description>
+  <VPE_Shrineshield.description>Gera um portal de salto esférico em um santuário natural que envia quaisquer projéteis recebidos e emitidos, incluindo projéteis de morteiro, para algum lugar distante. Pessoas e itens não são afetados; o tamanho da esfera depende do tamanho do santuário, enquanto a duração escala com a sensibilidade psíquica do lançador.</VPE_Shrineshield.description>
   <VPE_Shrineshield.label>escudo do santuário</VPE_Shrineshield.label>
   <VPE_SkillRoll.description>Inicia uma mudança no conhecimento e nas habilidades acumuladas do alvo, tentando reequilibrá-los de forma um tanto caótica com alguma orientação benéfica. O esforço deixa o lançador em coma.</VPE_SkillRoll.description>
   <VPE_SkillRoll.label>rolagem de habilidades</VPE_SkillRoll.label>
   <VPE_Skip.description>Teleporta o alvo para uma posição desejada; a distância a partir de seu ponto inicial escala com a sensibilidade psíquica do lançador. Isso é considerado uma ação hostil.</VPE_Skip.description>
   <VPE_Skip.label>teleporte</VPE_Skip.label>
-  <VPE_Skipshield.description>Gera um skipgate esférico que envia todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados. A duração escala com a sensibilidade psíquica do lançador.</VPE_Skipshield.description>
+  <VPE_Skipshield.description>Gera um portal de salto esférico que envia todos os projéteis recebidos e emitidos na altura do solo para algum lugar distante. Pessoas e itens não são afetados. A duração escala com a sensibilidade psíquica do lançador.</VPE_Skipshield.description>
   <VPE_Skipshield.label>escudo de balas</VPE_Skipshield.label>
   <VPE_Smokepop.description>Teletransporta partículas de poeira de sob a superfície do solo para formar uma nuvem espessa. Isso reduz a precisão de qualquer tiro disparado através dela e impede completamente que as torretas travem o alvo.</VPE_Smokepop.description>
   <VPE_Smokepop.label>bomba de fumaça</VPE_Smokepop.label>
-  <VPE_SnapFreeze.description>Cria partículas de entropia psíquica e skipgates em miniatura para reservatórios de água acima de todos os alvos em uma pequena área, aprisionando-os no gelo. As vítimas sofrerão hipotermia, mas o gelo pode derreter prematuramente se a temperatura estiver acima do ponto de congelamento.</VPE_SnapFreeze.description>
+  <VPE_SnapFreeze.description>Cria partículas de entropia psíquica e portais de salto em miniatura para reservatórios de água acima de todos os alvos em uma pequena área, aprisionando-os no gelo. As vítimas sofrerão hipotermia, mas o gelo pode derreter prematuramente se a temperatura estiver acima do ponto de congelamento.</VPE_SnapFreeze.description>
   <VPE_SnapFreeze.label>congelamento instantâneo</VPE_SnapFreeze.label>
-  <VPE_SolarPinhole.description>Gera um skipgate microscópico ligado ao núcleo de uma estrela próxima por alguns dias. Material solar vaza pelo furo no espaço-tempo, iluminando e aquecendo a área ao redor até que ele se feche. A luz é suficiente para trabalhar, mas não para cultivar plantas.</VPE_SolarPinhole.description>
+  <VPE_SolarPinhole.description>Gera um portal de salto microscópico ligado ao núcleo de uma estrela próxima por alguns dias. Material solar vaza pelo furo no espaço-tempo, iluminando e aquecendo a área ao redor até que ele se feche. A luz é suficiente para trabalhar, mas não para cultivar plantas.</VPE_SolarPinhole.description>
   <VPE_SolarPinhole.label>ponta de agulha solar</VPE_SolarPinhole.label>
   <VPE_SootheFemale.description>Envia um sinal a um mecanismo distante de felicidade para começar a projetar um zumbido psíquico positivo, enquanto também manipula um amplificador orbital que afeta apenas mulheres.</VPE_SootheFemale.description>
   <VPE_SootheFemale.label>calmante psíquico (feminino)</VPE_SootheFemale.label>
