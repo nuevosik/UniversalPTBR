@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SAR_AutomaticCasevac.label>coordinate battlefield CASEVAC</SAR_AutomaticCasevac.label>
+  <SAR_AutomaticCasevac.verb>evacuate</SAR_AutomaticCasevac.verb>
+  <SAR_AutomaticCasevac.gerund>evacuating</SAR_AutomaticCasevac.gerund>
+  <SAR_EmergencyMedicalCare.label>provide emergency medical care</SAR_EmergencyMedicalCare.label>
+  <SAR_EmergencyMedicalCare.verb>stabilize</SAR_EmergencyMedicalCare.verb>
+  <SAR_EmergencyMedicalCare.gerund>stabilizing</SAR_EmergencyMedicalCare.gerund>
+  <SAR_RescueMarkedGrimWorks.label>evacuate casualties (GrimWorks rescue)</SAR_RescueMarkedGrimWorks.label>
+  <SAR_RescueMarkedGrimWorks.verb>rescue</SAR_RescueMarkedGrimWorks.verb>
+  <SAR_RescueMarkedGrimWorks.gerund>rescuing</SAR_RescueMarkedGrimWorks.gerund>
+  <SAR_MechFieldRescueHauling.label>field rescue hauling</SAR_MechFieldRescueHauling.label>
+  <SAR_MechFieldRescueHauling.verb>rescue</SAR_MechFieldRescueHauling.verb>
+  <SAR_MechFieldRescueHauling.gerund>rescuing</SAR_MechFieldRescueHauling.gerund>
+  <SAR_MechFieldRescueDoctor.label>field rescue medicine</SAR_MechFieldRescueDoctor.label>
+  <SAR_MechFieldRescueDoctor.verb>rescue</SAR_MechFieldRescueDoctor.verb>
+  <SAR_MechFieldRescueDoctor.gerund>rescuing</SAR_MechFieldRescueDoctor.gerund>
+  <SAR_RepairMarkedMech.label>repair marked mechs</SAR_RepairMarkedMech.label>
+  <SAR_RepairMarkedMech.verb>repair</SAR_RepairMarkedMech.verb>
+  <SAR_RepairMarkedMech.gerund>repairing</SAR_RepairMarkedMech.gerund>
+  <SAR_CaptureMarked.label>capture marked battlefield casualties</SAR_CaptureMarked.label>
+  <SAR_CaptureMarked.verb>capture</SAR_CaptureMarked.verb>
+  <SAR_CaptureMarked.gerund>capturing</SAR_CaptureMarked.gerund>
+  <SAR_TreatMarked.label>coordinate treatment of bleeding and other emergencies</SAR_TreatMarked.label>
+  <SAR_TreatMarked.verb>stabilize</SAR_TreatMarked.verb>
+  <SAR_TreatMarked.gerund>stabilizing</SAR_TreatMarked.gerund>
+  <SAR_FollowupTreatMarked.label>coordinate follow-up tending</SAR_FollowupTreatMarked.label>
+  <SAR_FollowupTreatMarked.verb>tend</SAR_FollowupTreatMarked.verb>
+  <SAR_FollowupTreatMarked.gerund>tending</SAR_FollowupTreatMarked.gerund>
+  <SAR_AutomaticRoutineTreat.label>coordinate automatic routine tending</SAR_AutomaticRoutineTreat.label>
+  <SAR_AutomaticRoutineTreat.verb>tend</SAR_AutomaticRoutineTreat.verb>
+  <SAR_AutomaticRoutineTreat.gerund>tending</SAR_AutomaticRoutineTreat.gerund>
+  <SAR_SupportiveCareMarkedNursing.label>coordinate urgent supportive care</SAR_SupportiveCareMarkedNursing.label>
+  <SAR_SupportiveCareMarkedNursing.verb>provide supportive care</SAR_SupportiveCareMarkedNursing.verb>
+  <SAR_SupportiveCareMarkedNursing.gerund>providing supportive care</SAR_SupportiveCareMarkedNursing.gerund>
+  <SAR_RescueMarkedHauling.label>evacuate marked battlefield casualties</SAR_RescueMarkedHauling.label>
+  <SAR_RescueMarkedHauling.verb>evacuate</SAR_RescueMarkedHauling.verb>
+  <SAR_RescueMarkedHauling.gerund>evacuating</SAR_RescueMarkedHauling.gerund>
+  <SAR_RescueMarkedParamedic.label>evacuate marked battlefield casualties</SAR_RescueMarkedParamedic.label>
+  <SAR_RescueMarkedParamedic.verb>evacuate</SAR_RescueMarkedParamedic.verb>
+  <SAR_RescueMarkedParamedic.gerund>evacuating</SAR_RescueMarkedParamedic.gerund>
+  <SAR_RescueMarkedNursing.label>evacuate marked battlefield casualties</SAR_RescueMarkedNursing.label>
+  <SAR_RescueMarkedNursing.verb>evacuate</SAR_RescueMarkedNursing.verb>
+  <SAR_RescueMarkedNursing.gerund>evacuating</SAR_RescueMarkedNursing.gerund>
+  <SAR_NurseUseBloodBag.label>perform a blood transfusion to stabilize patients with severe blood loss</SAR_NurseUseBloodBag.label>
+  <SAR_NurseUseBloodBag.verb>perform blood transfusion on</SAR_NurseUseBloodBag.verb>
+  <SAR_NurseUseBloodBag.gerund>performing blood transfusion on</SAR_NurseUseBloodBag.gerund>
+  <SAR_NurseUseSalineBag.label>perform a saline IV infusion to stabilize patients with severe blood loss</SAR_NurseUseSalineBag.label>
+  <SAR_NurseUseSalineBag.verb>perform saline IV infusion on</SAR_NurseUseSalineBag.verb>
+  <SAR_NurseUseSalineBag.gerund>performing saline IV infusion on</SAR_NurseUseSalineBag.gerund>
+</LanguageData>

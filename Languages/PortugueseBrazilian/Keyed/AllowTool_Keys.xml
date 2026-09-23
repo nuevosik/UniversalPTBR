@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Allow_area_success>{0} itens permitidos.</Allow_area_success>
+  <Allow_area_failure>Nenhum item proibido encontrado.</Allow_area_failure>
+  <Forbid_area_success>{0} itens proibidos.</Forbid_area_success>
+  <Forbid_area_failure>Nenhum item proibível encontrado.</Forbid_area_failure>
+  <Allow_all_success>{0} coisas permitidas pelo mapa.</Allow_all_success>
+  <Allow_all_failure>Nenhuma coisa proibida encontrada.</Allow_all_failure>
+  <Mass_Select_success>Selecionados {0} {1} pelo mapa.</Mass_Select_success>
+  <setting_showTool_label>Mostrar ferramenta: {0}</setting_showTool_label>
+  <setting_showTool_desc>Quando ativo, esta ferramenta de designação aparecerá no menu Arquiteto.</setting_showTool_desc>
+  <setting_globalHotkeys_label>Usar atalhos globais</setting_globalHotkeys_label>
+  <setting_globalHotkeys_desc>Quando ativo, as ferramentas podem ser selecionadas de qualquer lugar pressionando a tecla atribuída.\nVeja Opções &gt; Configuração do teclado para personalizar as teclas.</setting_globalHotkeys_desc>
+  <setting_selectionLimit_label>Limite de seleção de coisas</setting_selectionLimit_label>
+  <setting_selectionLimit_desc>Limita o número de coisas que podem ser selecionadas simultaneamente pela ferramenta "Selecionar semelhantes". Definir este valor muito alto pode travar o jogo durante a seleção.</setting_selectionLimit_desc>
+  <setting_contextWatermark_label>Marca d'água do menu de contexto</setting_contextWatermark_label>
+  <setting_contextWatermark_desc>Exibe uma marca d'água do Allow Tool nos menus de contexto das ferramentas quando ativo.</setting_contextWatermark_desc>
+  <setting_contextOverlay_label>Ícone de clique direito nas ferramentas</setting_contextOverlay_label>
+  <setting_contextOverlay_desc>Quando ativo, exibe um ícone pequeno nas ferramentas de designação que têm menu de contexto.</setting_contextOverlay_desc>
+  <setting_extendedContextHotkey_label>Atalho estendido de "Ação de contexto"</setting_extendedContextHotkey_label>
+  <setting_extendedContextHotkey_desc>Quando nenhuma ferramenta está selecionada, o atalho de "Ação de contexto" ativa a ação de contexto da primeira ferramenta visível quando há itens selecionados.</setting_extendedContextHotkey_desc>
+  <setting_reverseDesignatorPick_label>Pegar ferramenta dos itens selecionados</setting_reverseDesignatorPick_label>
+  <setting_reverseDesignatorPick_desc>Segurar Shift e clicar em uma ferramenta com itens selecionados pega a ferramenta em vez de ativá-la sobre os itens.</setting_reverseDesignatorPick_desc>
+  <setting_finishOffUnforbids_label>"Rematar" libera itens derrubados</setting_finishOffUnforbids_label>
+  <setting_finishOffUnforbids_desc>Quando ativo, corpos e itens derrubados ao rematar criaturas são liberados automaticamente para transporte.</setting_finishOffUnforbids_desc>
+  <setting_providerPrefix>Ativar: {0}</setting_providerPrefix>
+  <setting_provider_desc>Quando ativo, adiciona um menu de clique direito à ferramenta que permite afetar o mapa inteiro.</setting_provider_desc>
+  <setting_showToggles_btn>▼ Mostrar configurações ▼</setting_showToggles_btn>
+  <setting_showToolToggles_label>Ativar ou desativar ferramentas</setting_showToolToggles_label>
+  <setting_showProviderToggles_label>Ativar ou desativar menus de contexto</setting_showProviderToggles_label>
+  <setting_showReverseToggles_label>Ferramentas em coisas selecionadas</setting_showReverseToggles_label>
+  <setting_reverseDesignator_desc>Quando ativo, mostra esta ferramenta quando coisas suportadas estão selecionadas.</setting_reverseDesignator_desc>
+  <setting_haulUrgentlyWorktype_label>Mostrar tipo de trabalho "Transporte+"</setting_haulUrgentlyWorktype_label>
+  <setting_haulUrgentlyWorktype_desc>Quando ativo, mostra o tipo de trabalho da ferramenta "Transporte urgente" na aba Trabalho.\nO jogo deve ser reiniciado para esta configuração valer.</setting_haulUrgentlyWorktype_desc>
+  <setting_finishOffWorktype_label>Mostrar tipo de trabalho "Rematar"</setting_finishOffWorktype_label>
+  <setting_finishOffWorktype_desc>Quando ativo, mostra o tipo de trabalho da ferramenta "Rematar" na aba Trabalho.\nO jogo deve ser reiniciado para esta configuração valer.</setting_finishOffWorktype_desc>
+  <setting_finishOffSkill_label>Requisito de habilidade de "Rematar"</setting_finishOffSkill_label>
+  <setting_finishOffSkill_desc>A ferramenta "Rematar" exigirá um colono com habilidade de combate corpo a corpo alta o suficiente para usar.</setting_finishOffSkill_desc>
+  <setting_replaceIcons_label>Substituir ícones de Proibir/Permitir</setting_replaceIcons_label>
+  <setting_replaceIcons_desc>Substitui os ícones das ferramentas Proibir e Permitir por versões mais claras.</setting_replaceIcons_desc>
+  <setting_partyHunt_label>Ferramenta de caça recrutada</setting_partyHunt_label>
+  <setting_partyHunt_desc>Quando ativo, mostra o botão "Caçar recrutado" para colonos recrutados.</setting_partyHunt_desc>
+  <setting_partyHuntFinish_label>Rematar animais caídos</setting_partyHuntFinish_label>
+  <setting_partyHuntDesignated_label>Apenas animais designados para caça</setting_partyHuntDesignated_label>
+  <setting_partyHuntUnforbid_label>Liberar presas</setting_partyHuntUnforbid_label>
+  <setting_storageSpaceAlert_label>Alerta de espaço de armazenamento</setting_storageSpaceAlert_label>
+  <setting_storageSpaceAlert_desc>Você será notificado com uma mensagem de alerta quando houver coisas marcadas para transporte urgente, mas sem lugar para armazená-las.</setting_storageSpaceAlert_desc>
+  <SelectSimilar_cursor_needConstraint>Clique para escolher algo</SelectSimilar_cursor_needConstraint>
+  <SelectSimilar_cursor_nowSelecting>Arraste para selecionar apenas: {0}</SelectSimilar_cursor_nowSelecting>
+  <SelectSimilar_cursor_limit>Limite de seleção atingido</SelectSimilar_cursor_limit>
+  <SelectSimilar_numMoreTypes>({0} a mais)</SelectSimilar_numMoreTypes>
+  <Haul_urgently_success>{0} itens serão transportados com urgência.</Haul_urgently_success>
+  <Haul_urgently_failure>Nenhum item que precise de transporte foi encontrado.</Haul_urgently_failure>
+  <Harvest_fully_grown_success>{0} plantas totalmente crescidas marcadas para colheita.</Harvest_fully_grown_success>
+  <Harvest_fully_grown_failure>Nenhuma planta ou árvore totalmente crescida nova encontrada.</Harvest_fully_grown_failure>
+  <StripMine_win_horizontalSpacing>Espaçamento horizontal</StripMine_win_horizontalSpacing>
+  <StripMine_win_verticalSpacing>Espaçamento vertical</StripMine_win_verticalSpacing>
+  <StripMine_win_showWindow>Mostrar esta janela</StripMine_win_showWindow>
+  <StripMine_win_showWindow_tip>Desative para usar automaticamente estas configurações na próxima vez.\nSegure Shift para mostrar esta janela novamente.</StripMine_win_showWindow_tip>
+  <StripMine_win_variableOffset>Deslocamento variável da grade</StripMine_win_variableOffset>
+  <StripMine_win_variableOffset_tip>Quando ativo, a grade se estende do ponto inicial da seleção. Caso contrário, as linhas da grade passam sempre pelos mesmos quadrados, independente de onde a seleção começou.</StripMine_win_variableOffset_tip>
+  <StripMine_cursor_autoApply>Aplicar imediatamente</StripMine_cursor_autoApply>
+  <Alert_noStorage_label>Sem espaço de armazenamento</Alert_noStorage_label>
+  <Alert_noStorage_desc>Itens marcados para transporte urgente não têm lugar para serem armazenados:\n{0}\n\nCancele a designação ou libere espaço de armazenamento.\nPode ser desativado em Opções &gt; Configurações de mods.</Alert_noStorage_desc>
+  <Finish_off_skillRequired>Requer um colono com habilidade de combate corpo a corpo de {0} ou mais para usar.</Finish_off_skillRequired>
+  <Finish_off_pawnSkillRequired>habilidade de corpo a corpo {0} exigida</Finish_off_pawnSkillRequired>
+  <Finish_off_success>{0} alvos foram marcados.</Finish_off_success>
+  <Finish_off_failure>Nenhuma criatura caída válida encontrada.</Finish_off_failure>
+  <Finish_off_floatMenu>Rematar {0}</Finish_off_floatMenu>
+  <Finish_off_floatMenu_reason_friendly>aliado, segure Shift</Finish_off_floatMenu_reason_friendly>
+  <Designator_context_similar>Selecionar coisas semelhantes no mapa</Designator_context_similar>
+  <Designator_context_similar_succ>Selecionadas {0} coisas semelhantes no mapa.</Designator_context_similar_succ>
+  <Designator_context_similar_part>Selecionadas {0} coisas semelhantes mais próximas de {1} no mapa.</Designator_context_similar_part>
+  <Designator_context_similar_fail>Algo precisa estar selecionado para selecionar coisas semelhantes.</Designator_context_similar_fail>
+  <Designator_context_similar_visible>Selecionar coisas semelhantes na área visível</Designator_context_similar_visible>
+  <Designator_context_similar_visible_succ>Selecionadas {0} coisas semelhantes visíveis.</Designator_context_similar_visible_succ>
+  <Designator_context_similar_visible_part>Selecionadas {0} coisas semelhantes visíveis mais próximas de {1}.</Designator_context_similar_visible_part>
+  <Designator_context_similar_home>Selecionar coisas semelhantes na área da casa</Designator_context_similar_home>
+  <Designator_context_similar_home_succ>Selecionadas {0} coisas semelhantes na área doméstica.</Designator_context_similar_home_succ>
+  <Designator_context_similar_home_part>Selecionadas {0} coisas semelhantes mais próximas de {1} na área doméstica.</Designator_context_similar_home_part>
+  <Designator_context_urgent>Transportar todos os itens com urgência</Designator_context_urgent>
+  <Designator_context_urgent_visible>Transportar itens visíveis com urgência</Designator_context_urgent_visible>
+  <Designator_context_urgent_all>Transportar todos os itens do mapa com urgência</Designator_context_urgent_all>
+  <Designator_context_urgent_succ>{0} itens marcados para transporte urgente.</Designator_context_urgent_succ>
+  <Designator_context_urgent_visible_succ>{0} itens visíveis marcados para transporte urgente.</Designator_context_urgent_visible_succ>
+  <Designator_context_urgent_fail>Nenhum item novo para transportar foi encontrado.</Designator_context_urgent_fail>
+  <Designator_context_strip>Despojar todos os inimigos</Designator_context_strip>
+  <Designator_context_strip_succ>{0} corpos designados para despojamento.</Designator_context_strip_succ>
+  <Designator_context_strip_fail>Nenhum corpo para despojar foi encontrado.</Designator_context_strip_fail>
+  <Designator_context_harvest>Colher todas as plantas</Designator_context_harvest>
+  <Designator_context_harvest_home>Colher plantas da área doméstica</Designator_context_harvest_home>
+  <Designator_context_harvest_succ>{0} plantas designadas para colheita.</Designator_context_harvest_succ>
+  <Designator_context_harvest_fail>Nenhuma planta nova para colher foi encontrada.</Designator_context_harvest_fail>
+  <Designator_context_haul>Transportar tudo</Designator_context_haul>
+  <Designator_context_haul_succ>Designadas {0} coisas novas para transporte.</Designator_context_haul_succ>
+  <Designator_context_haul_fail>Nenhuma coisa nova para transportar foi encontrada.</Designator_context_haul_fail>
+  <Designator_context_chop>Cortar toda a madeira</Designator_context_chop>
+  <Designator_context_chop_home>Cortar toda a madeira da área doméstica</Designator_context_chop_home>
+  <Designator_context_chop_succ>Designadas {0} novas árvores para corte.</Designator_context_chop_succ>
+  <Designator_context_chop_fail>Nenhuma árvore colhível nova na área.</Designator_context_chop_fail>
+  <Designator_context_hunt>Caçar todos os animais</Designator_context_hunt>
+  <Designator_context_hunt_succ>Designados {0} novos animais para caça.</Designator_context_hunt_succ>
+  <Designator_context_hunt_fail>Nenhum animal caçável novo na área agora.</Designator_context_hunt_fail>
+  <Designator_context_mine>Minerar minérios conectados</Designator_context_mine>
+  <Designator_context_mine_succ>Designados {0} blocos de minério adicionais para mineração.</Designator_context_mine_succ>
+  <Designator_context_mine_fail>Designie um ou mais blocos de minério para mineração para usar este comando.</Designator_context_mine_fail>
+  <Designator_context_mine_selectStripMine>Selecione a ferramenta "Mineração em faixa"</Designator_context_mine_selectStripMine>
+  <Designator_context_cancel_build>Cancelar todas as plantas de construção</Designator_context_cancel_build>
+  <Designator_context_cancel_build_succ>{0} plantas de construção foram removidas.</Designator_context_cancel_build_succ>
+  <Designator_context_cancel_build_fail>Nenhuma planta para remover foi encontrada.</Designator_context_cancel_build_fail>
+  <Designator_context_cancel_desig>Cancelar todas as ordens no mapa</Designator_context_cancel_desig>
+  <Designator_context_cancel_desig_msg>Limpezas {0} ordens de coisas e {1} do terreno.</Designator_context_cancel_desig_msg>
+  <Designator_context_cancel_selected>Cancelar todas deste tipo</Designator_context_cancel_selected>
+  <Designator_context_cancel_selected_succ>Canceladas {0} ordens em {1} itens.</Designator_context_cancel_selected_succ>
+  <Designator_context_cancel_selected_fail>Selecione algo com uma ordem para cancelar todas as ordens daquele tipo.</Designator_context_cancel_selected_fail>
+  <Designator_context_finish>Rematar todas as criaturas caídas</Designator_context_finish>
+  <Designator_context_finish_succ>{0} criaturas serão rematadas.</Designator_context_finish_succ>
+  <Designator_context_finish_allies>{0} criaturas serão rematadas, incluindo aliadas.</Designator_context_finish_allies>
+  <Designator_context_finish_fail>Nenhum alvo caído válido foi encontrado.</Designator_context_finish_fail>
+  <Designator_context_cut>Cortar todas as plantas infestadas</Designator_context_cut>
+  <Designator_context_cut_succ>Designadas {0} plantas infestadas para corte.</Designator_context_cut_succ>
+  <Designator_context_cut_fail>Nenhuma planta infestada nova para cortar foi encontrada.</Designator_context_cut_fail>
+  <Designator_context_harvest_fullgrown>Colher plantas totalmente crescidas do mapa</Designator_context_harvest_fullgrown>
+  <Designator_context_harvest_home_fullgrown>Colher plantas totalmente crescidas da área doméstica</Designator_context_harvest_home_fullgrown>
+  <Designator_context_harvest_fullgrown_succ>{0} plantas totalmente crescidas designadas para colheita.</Designator_context_harvest_fullgrown_succ>
+  <Designator_context_harvest_fullgrown_fail>Nenhuma planta totalmente crescida nova para colher foi encontrada.</Designator_context_harvest_fullgrown_fail>
+  <Designator_context_allow_visible>Permitir todas as coisas visíveis</Designator_context_allow_visible>
+  <Designator_context_allow_visible_succ>Permitidas {0} coisas visíveis.</Designator_context_allow_visible_succ>
+  <Designator_context_allow_visible_fail>Nenhuma coisa proibida visível para permitir foi encontrada.</Designator_context_allow_visible_fail>
+  <Designator_context_forbid_visible>Proibir todas as coisas visíveis</Designator_context_forbid_visible>
+  <Designator_context_forbid_visible_succ>{0} coisas visíveis foram proibidas.</Designator_context_forbid_visible_succ>
+  <Designator_context_forbid_visible_fail>Nenhuma coisa permitida visível para proibir foi encontrada.</Designator_context_forbid_visible_fail>
+  <PartyHuntToggle_label>Caçar recrutado</PartyHuntToggle_label>
+  <PartyHuntToggle_desc>Quando ativo, colonos recrutados atirarão automaticamente em animais selvagens passivos. Clique com o botão direito para mudar as configurações.\nAdicionado pelo mod Allow Tool.</PartyHuntToggle_desc>
+</LanguageData>

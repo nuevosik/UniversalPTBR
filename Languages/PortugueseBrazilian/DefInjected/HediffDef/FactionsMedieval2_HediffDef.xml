@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM2_MeadAlcoholHigh.stages.0.label>warm</VFEM2_MeadAlcoholHigh.stages.0.label>
+  <VFEM2_MeadAlcoholHigh.stages.1.label>tipsy</VFEM2_MeadAlcoholHigh.stages.1.label>
+  <VFEM2_MeadAlcoholHigh.stages.2.label>drunk</VFEM2_MeadAlcoholHigh.stages.2.label>
+  <VFEM2_MeadAlcoholHigh.stages.3.label>hammered</VFEM2_MeadAlcoholHigh.stages.3.label>
+  <VFEM2_MeadAlcoholHigh.stages.4.label>blackout</VFEM2_MeadAlcoholHigh.stages.4.label>
+  <VFEM2_WineAlcoholHigh.stages.0.label>warm</VFEM2_WineAlcoholHigh.stages.0.label>
+  <VFEM2_WineAlcoholHigh.stages.1.label>tipsy</VFEM2_WineAlcoholHigh.stages.1.label>
+  <VFEM2_WineAlcoholHigh.stages.2.label>drunk</VFEM2_WineAlcoholHigh.stages.2.label>
+  <VFEM2_WineAlcoholHigh.stages.3.label>hammered</VFEM2_WineAlcoholHigh.stages.3.label>
+  <VFEM2_WineAlcoholHigh.stages.4.label>blackout</VFEM2_WineAlcoholHigh.stages.4.label>
+  <VFEM2_ImmunizationDraught.stages.0.label>fading</VFEM2_ImmunizationDraught.stages.0.label>
+  <VFEM2_ImmunizationDraught.stages.1.label>potent</VFEM2_ImmunizationDraught.stages.1.label>
+  <VFEM2_HealingDraught.stages.0.label>fading</VFEM2_HealingDraught.stages.0.label>
+  <VFEM2_HealingDraught.stages.1.label>potent</VFEM2_HealingDraught.stages.1.label>
+  <VFEM2_StrengthDraught.stages.0.label>fading</VFEM2_StrengthDraught.stages.0.label>
+  <VFEM2_StrengthDraught.stages.1.label>potent</VFEM2_StrengthDraught.stages.1.label>
+  <VFEM2_EfficiencyDraught.stages.0.label>fading</VFEM2_EfficiencyDraught.stages.0.label>
+  <VFEM2_EfficiencyDraught.stages.1.label>potent</VFEM2_EfficiencyDraught.stages.1.label>
+  <VFEM2_PainkillerDraught.stages.0.label>fading</VFEM2_PainkillerDraught.stages.0.label>
+  <VFEM2_PainkillerDraught.stages.1.label>potent</VFEM2_PainkillerDraught.stages.1.label>
+  <VFEM2_TorturerDraught.stages.0.label>fading</VFEM2_TorturerDraught.stages.0.label>
+  <VFEM2_TorturerDraught.stages.1.label>potent</VFEM2_TorturerDraught.stages.1.label>
+  <VFEM2_FocusDraught.stages.0.label>fading</VFEM2_FocusDraught.stages.0.label>
+  <VFEM2_FocusDraught.stages.1.label>potent</VFEM2_FocusDraught.stages.1.label>
+  <VFEM2_FertilityDraught.stages.0.label>fading</VFEM2_FertilityDraught.stages.0.label>
+  <VFEM2_FertilityDraught.stages.1.label>potent</VFEM2_FertilityDraught.stages.1.label>
+  <VFEM2_InspirationDraught.stages.0.label>fading</VFEM2_InspirationDraught.stages.0.label>
+  <VFEM2_InspirationDraught.stages.1.label>potent</VFEM2_InspirationDraught.stages.1.label>
+  <VFEM2_StoneskinDraught.stages.0.label>fading</VFEM2_StoneskinDraught.stages.0.label>
+  <VFEM2_StoneskinDraught.stages.1.label>potent</VFEM2_StoneskinDraught.stages.1.label>
+  <VFEM2_AmnesiaDraught.stages.0.label>fading</VFEM2_AmnesiaDraught.stages.0.label>
+  <VFEM2_AmnesiaDraught.stages.1.label>potent</VFEM2_AmnesiaDraught.stages.1.label>
+  <VFEM2_ComaDraught.stages.0.label>fading</VFEM2_ComaDraught.stages.0.label>
+  <VFEM2_ComaDraught.stages.1.label>potent</VFEM2_ComaDraught.stages.1.label>
+  <VFEM2_PoisonDraught.stages.0.label>potent</VFEM2_PoisonDraught.stages.0.label>
+  <VFEM2_PoisonDraught.stages.1.label>final</VFEM2_PoisonDraught.stages.1.label>
+  <VFEM2_AntitoxDraught.stages.0.label>fading</VFEM2_AntitoxDraught.stages.0.label>
+  <VFEM2_AntitoxDraught.stages.1.label>potent</VFEM2_AntitoxDraught.stages.1.label>
+  <VFEM2_HemogenDraught.stages.0.label>fading</VFEM2_HemogenDraught.stages.0.label>
+  <VFEM2_HemogenDraught.stages.1.label>potent</VFEM2_HemogenDraught.stages.1.label>
+  <VFEM2_ClarityDraught.stages.0.label>fading</VFEM2_ClarityDraught.stages.0.label>
+  <VFEM2_ClarityDraught.stages.1.label>potent</VFEM2_ClarityDraught.stages.1.label>
+  <VFEM2_RoyalJellyDraught.label>royal jelly draught</VFEM2_RoyalJellyDraught.label>
+  <VFEM2_RoyalJellyDraught.description>A draught is greatly improving the immunity gain speed of the user while also boosting their consciousness and movement speed.</VFEM2_RoyalJellyDraught.description>
+  <VFEM2_RoyalJellyDraught.stages.0.label>fading</VFEM2_RoyalJellyDraught.stages.0.label>
+  <VFEM2_RoyalJellyDraught.stages.1.label>potent</VFEM2_RoyalJellyDraught.stages.1.label>
+</LanguageData>

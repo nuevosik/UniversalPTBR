@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SAR_Settings_Section_CoordinationCost>Detalhe de coordenação</SAR_Settings_Section_CoordinationCost>
+  <SAR_Settings_FastRescue>Alocação de resgate rápido (experimental)</SAR_Settings_FastRescue>
+  <SAR_Settings_FastRescue_Desc>Prioriza pacientes urgentes e compara primeiro alguns trabalhadores próximos. Amplia a busca quando ninguém puder ajudar. As atribuições de trabalhadores e a ordem de tratamento podem mudar. Menos comparações não garantem melhor desempenho geral. Desativado por padrão.</SAR_Settings_FastRescue_Desc>
+  <SAR_Settings_SimpleLogistics>Simplificar transporte e suprimentos (experimental)</SAR_Settings_SimpleLogistics>
+  <SAR_Settings_SimpleLogistics_Desc>Atribui transporte, revezamentos e entregas de suprimentos por urgência do paciente usando menos comparações de trabalhadores. Distâncias a pé e tempos de espera podem aumentar. Combinar simplificações também pode reduzir o desempenho geral. As verificações de posse de recursos continuam ativas. Desativado por padrão.</SAR_Settings_SimpleLogistics_Desc>
+  <SAR_Settings_SimpleMedicine>Comparar menos fontes de remédio</SAR_Settings_SimpleMedicine>
+  <SAR_Settings_SimpleMedicine_Desc>Limita a busca comum de remédio a quatro fontes utilizáveis, verificando primeiro o remédio carregado e próximo. Suprimentos entregues, procedimentos de emergência especiais e restrições de cuidados médicos continuam ativos. Smart Medicine e Choose Your Medicine mantêm a seleção deles. Qualidade e consumo podem mudar. Desativado por padrão.</SAR_Settings_SimpleMedicine_Desc>
+  <SAR_Settings_MissionKits>Coletar remédio para vários pacientes</SAR_Settings_MissionKits>
+  <SAR_Settings_MissionKits_Desc>Leva remédio extra do ponto de coleta escolhido para pacientes próximos. Desativar pode causar mais viagens de suprimento; o benefício direto de desempenho costuma ser pequeno. Ativado por padrão.</SAR_Settings_MissionKits_Desc>
+  <SAR_ResumeTransfusion>Retomar transfusão</SAR_ResumeTransfusion>
+  <SAR_ResumeTransfusionDesc>Remove o marcador de recuperação de extração e permite novamente transfusões de sangue e soro fisiológico do SAR.</SAR_ResumeTransfusionDesc>
+  <SAR_Compatibility_GrimWorks>Lê as prioridades individuais de trabalho, incluindo subtarefas médicas desativadas. Ative Resgate de Campo e GrimWorks Rescue para evacuação; Transporte é opcional nessa configuração. Os cuidados exigem o trabalho médico apropriado, e a Enfermeira fornece funções de enfermagem.</SAR_Compatibility_GrimWorks>
+  <SAR_Compatibility_HaulersDream>Protege temporariamente os suprimentos médicos atribuídos ao SAR do descarregamento de excedente. O descarregamento normal retoma quando o SAR libera os suprimentos; o Hauler's Dream mantém seu próprio inventário e regras de transporte.</SAR_Compatibility_HaulersDream>
+  <SAR_Settings_ApproximateMatching>Correspondência aproximada rápida (experimental)</SAR_Settings_ApproximateMatching>
+  <SAR_Settings_ApproximateMatching_Desc>Reduz o tempo de correspondência com um algoritmo aproximado. As pontuações totais e o número de pacientes atribuídos podem ser menores. Vale para grafos completos de candidatos; a alocação de resgate rápido e a logística simplificada usam seus próprios métodos de atribuição. Desativado por padrão.</SAR_Settings_ApproximateMatching_Desc>
+  <ModName>Search and Rescue</ModName>
+  <ModDescription>Ordens em lote de tratamento, resgate e captura de campo. Marque vários colonos ou animais não hostis e deixe os respondentes executarem as etapas pedidas em uma ordem segura e previsível.</ModDescription>
+  <SAR_Command_Label>Busca e resgate</SAR_Command_Label>
+  <SAR_Command_Desc>Por padrão, marca todas as etapas aplicáveis na ordem segura: captura, tratamento de campo e depois resgate. Clique com o botão direito para escolher uma etapa única ou configurar o ponto de resgate.</SAR_Command_Desc>
+  <SAR_Command_All>Tudo: captura + tratamento + resgate</SAR_Command_All>
+  <SAR_ClearAllOrders>Limpar todas as ordens de Busca e Resgate ({0})</SAR_ClearAllOrders>
+  <SAR_Treat_Label>Tratamento de campo</SAR_Treat_Label>
+  <SAR_Treat_Desc>Monitora colonos e animais não hostis para os cuidados de campo. Ferimentos com risco de vida são estabilizados primeiro; os demais usam uma faixa inferior dentro do Resgate de Campo. A aba Trabalho controla a ordem entre Resgate de Campo e Médico; o Resgate de Campo vence quando as prioridades configuradas coincidem. Combinado com o resgate, o monitoramento continua até a entrega segura e pode interromper o transporte se a vítima piorar. Mecanoides da colônia reparáveis recebem reparos nativos de mecanitores com Resgate de Campo e Metalurgia ativos, seguindo o controle de reparo automático.</SAR_Treat_Desc>
+  <SAR_Rescue_Label>Resgate de campo</SAR_Rescue_Label>
+  <SAR_Rescue_Desc>Marca colonos caídos e animais não hostis para evacuação depois que as etapas marcadas anteriores terminarem. Usa uma cama adequada, incluindo camas de animais, ou o ponto de resgate definido no menu de clique direito desta ferramenta. Mecanoides da colônia caídos são entregues ao ponto de resgate.</SAR_Rescue_Desc>
+  <SAR_Capture_Label>Capturar aqui</SAR_Capture_Label>
+  <SAR_Capture_Desc>Marca colonos hostis caídos para captura no lugar, antes do tratamento ou da evacuação.</SAR_Capture_Desc>
+  <SAR_SetRescuePoint>Definir ponto de resgate</SAR_SetRescuePoint>
+  <SAR_ClearRescuePoint>Limpar ponto de resgate</SAR_ClearRescuePoint>
+  <SAR_RescuePoint_Label>Ponto de resgate</SAR_RescuePoint_Label>
+  <SAR_RescuePoint_Desc>Escolha um quadrado seguro de reserva. Resgatantes carregam os marcados para cá apenas quando nenhuma cama adequada estiver disponível.</SAR_RescuePoint_Desc>
+  <SAR_OnlyHumanlike>Apenas colonos de carne humanoides vivos e surgidos podem ser marcados.</SAR_OnlyHumanlike>
+  <SAR_OnlyHumanlikeOrAnimal>Selecione um humanoide vivo, animal não hostil ou mecanoide reparável da colônia neste mapa.</SAR_OnlyHumanlikeOrAnimal>
+  <SAR_HostileAnimalUnsupported>Selecione um colono ou um animal não hostil para o tratamento e o resgate de campo.</SAR_HostileAnimalUnsupported>
+  <SAR_NoTreatmentNeeded>Este colono não tem ferimento que precise de tratamento agora.</SAR_NoTreatmentNeeded>
+  <SAR_TreatmentRequiresCapture>Colonos hostis devem ser marcados para captura antes de poderem ser marcados para tratamento de campo.</SAR_TreatmentRequiresCapture>
+  <SAR_MustBeDowned>Este colono deve estar caído.</SAR_MustBeDowned>
+  <SAR_RescueRequiresCapture>Colonos hostis devem ser marcados para captura antes de poderem ser marcados para resgate.</SAR_RescueRequiresCapture>
+  <SAR_AlreadyInSafeBed>Este colono já está acomodado em uma cama adequada.</SAR_AlreadyInSafeBed>
+  <SAR_CaptureRequiresHostile>Apenas colonos hostis caídos que ainda não sejam prisioneiros podem ser capturados aqui.</SAR_CaptureRequiresHostile>
+  <SAR_InvalidRescuePoint>O ponto de resgate deve ser um quadrado apoiável e sem névoa.</SAR_InvalidRescuePoint>
+  <SAR_CE_NoMedicine>Tratamento de campo ignorado para {0}: a estabilização do Combat Extended exige remédio.</SAR_CE_NoMedicine>
+  <SAR_Settings_Category>Search and Rescue</SAR_Settings_Category>
+  <SAR_Settings_RescueWorkMode>Força de trabalho de resgate</SAR_Settings_RescueWorkMode>
+  <SAR_Settings_RescueWorkMode_Desc>Transporte usa o trabalho de Transporte. Enfermagem preferencial prioriza trabalhadores do Cargo de Enfermeira, com transportadores completando. Apenas enfermagem usa somente o trabalho de Enfermagem. Ative o tipo de trabalho exigido pelo modo escolhido para cada respondente.</SAR_Settings_RescueWorkMode_Desc>
+  <SAR_Settings_RescueWorkMode_Hauling>Transporte</SAR_Settings_RescueWorkMode_Hauling>
+  <SAR_Settings_RescueWorkMode_NursingPreferred>Enfermagem preferencial, transporte como reserva</SAR_Settings_RescueWorkMode_NursingPreferred>
+  <SAR_Settings_RescueWorkMode_NursingOnly>Apenas enfermagem</SAR_Settings_RescueWorkMode_NursingOnly>
+  <SAR_Settings_MedicalCoordinationMode>Escopo de coordenação médica</SAR_Settings_MedicalCoordinationMode>
+  <SAR_Settings_MedicalCoordinationMode_Desc>Apenas marcados agenda pacientes com designações do jogador. Emergências automáticas também coordena estabilização, transfusões, cuidados com infecção e primeiros socorros para membros da colônia. Todos os cuidados estende a coordenação a toda condição que esteja precisando de cuidados agora.</SAR_Settings_MedicalCoordinationMode_Desc>
+  <SAR_Settings_MedicalCoordinationMode_MarkedOnly>Apenas pacientes marcados</SAR_Settings_MedicalCoordinationMode_MarkedOnly>
+  <SAR_Settings_MedicalCoordinationMode_EmergencyAuto>Coordenar emergências automaticamente</SAR_Settings_MedicalCoordinationMode_EmergencyAuto>
+  <SAR_Settings_MedicalCoordinationMode_AllTending>Coordenar todos os cuidados comuns</SAR_Settings_MedicalCoordinationMode_AllTending>
+  <SAR_Settings_NurseDetected>Nurse Job detectado. Os modos de resgate por enfermagem estão disponíveis.</SAR_Settings_NurseDetected>
+  <SAR_Settings_NurseNotDetected>Ative o Nurse Job para usar os modos de resgate por enfermagem. O transporte está disponível com a configuração atual de mods.</SAR_Settings_NurseNotDetected>
+  <SAR_Settings_Tab_General>Geral</SAR_Settings_Tab_General>
+  <SAR_Settings_Tab_Advanced>Triagem e logística</SAR_Settings_Tab_Advanced>
+  <SAR_Settings_Tab_Compatibility>Compatibilidade</SAR_Settings_Tab_Compatibility>
+  <SAR_Settings_Section_Scope>Coordenação</SAR_Settings_Section_Scope>
+  <SAR_Settings_FieldRescueWorkType_Desc>Ative o Resgate de Campo na aba Trabalho e defina sua prioridade geral de resgate. Ative também os trabalhos de Médico, Guardião, Transporte ou Enfermagem para que os respondentes executem as tarefas correspondentes.</SAR_Settings_FieldRescueWorkType_Desc>
+  <SAR_Settings_Section_Continuity>Continuidade</SAR_Settings_Section_Continuity>
+  <SAR_Settings_Section_Triage>Pesos de triagem</SAR_Settings_Section_Triage>
+  <SAR_Settings_Section_Logistics>Logística médica</SAR_Settings_Section_Logistics>
+  <SAR_Settings_PreemptRoutine>Interromper limpeza e alimentação de pacientes para emergências</SAR_Settings_PreemptRoutine>
+  <SAR_Settings_PreemptRoutine_Desc>Permite que captura e tratamento de emergência assumam de tarefas automáticas de limpeza ou de alimentação de pacientes. Tarefas ordenadas pelo jogador mantêm prioridade.</SAR_Settings_PreemptRoutine_Desc>
+  <SAR_Settings_EnableStandby>Deixar resgatantes se aproximarem de pacientes em tratamento</SAR_Settings_EnableStandby>
+  <SAR_Settings_EnableStandby_Desc>Quando um médico realmente está a caminho ou tratando, um resgatante pode viajar até o paciente para a evacuação começar logo.</SAR_Settings_EnableStandby_Desc>
+  <SAR_Settings_StandbyLead>Antecedência de chegada do resgatante</SAR_Settings_StandbyLead>
+  <SAR_Settings_StandbyLead_Desc>Quanto antes um resgatante pode chegar em relação ao fim estimado do tratamento. Em zero, os resgatantes partem quando o tempo esperado de viagem for igual ou maior que o tempo restante de tratamento.</SAR_Settings_StandbyLead_Desc>
+  <SAR_Settings_MarkerMemory>Memória de marcações recentes</SAR_Settings_MarkerMemory>
+  <SAR_Settings_MarkerMemory_Desc>Depois que uma ordem é concluída automaticamente, lembra dela por este número de horas de jogo. Se o colono se recuperar e for caído de novo nesse período, as marcações aplicáveis retornam. Zero desativa esse comportamento.</SAR_Settings_MarkerMemory_Desc>
+  <SAR_Settings_BleedingSensitivity>Sensibilidade a emergências de sangramento</SAR_Settings_BleedingSensitivity>
+  <SAR_Settings_BleedingSensitivity_Desc>Ajusta como a triagem responde a sangramentos. Valores maiores trazem sangramentos menores não tratados para os cuidados de emergência e mantêm a estabilização por mais tempo.</SAR_Settings_BleedingSensitivity_Desc>
+  <SAR_Settings_BloodLossWarning>Horizonte de previsão de perda de sangue</SAR_Settings_BloodLossWarning>
+  <SAR_Settings_BloodLossWarning_Desc>Um paciente com previsão de morte por perda de sangue dentro deste número de horas de jogo entra na estabilização de emergência.</SAR_Settings_BloodLossWarning_Desc>
+  <SAR_Settings_SurgeryPriority>Prioridade de evacuação para cirurgia urgente</SAR_Settings_SurgeryPriority>
+  <SAR_Settings_SurgeryPriority_Desc>Aumenta a prioridade de evacuação de pacientes com condições de risco de vida que exigem cirurgia, ajudando-os a chegar a uma cama para o tratamento. Defina como zero para desativar este bônus.</SAR_Settings_SurgeryPriority_Desc>
+  <SAR_Settings_TreatmentTransportPriority>Prioridade de tratamento antes do transporte</SAR_Settings_TreatmentTransportPriority>
+  <SAR_Settings_TreatmentTransportPriority_Desc>Prefere estabilizar pacientes antes da evacuação comum. A captura tem prioridade na sequência de etapas.</SAR_Settings_TreatmentTransportPriority_Desc>
+  <SAR_Settings_SwitchReluctance>Relutância do médico em trocar de alvo</SAR_Settings_SwitchReluctance>
+  <SAR_Settings_SwitchReluctance_Desc>Valores maiores exigem um benefício maior antes de o médico trocar de paciente em um limite seguro de tratamento, reduzindo caminhadas e oscilação de alvos.</SAR_Settings_SwitchReluctance_Desc>
+  <SAR_Settings_MedicineDetour>Tolerância de desvio para remédio</SAR_Settings_MedicineDetour>
+  <SAR_Settings_MedicineDetour_Desc>Valores maiores tornam médicos e fornecedores mais dispostos a desviar para remédio ou equipamento útil. Urgência, escassez e benefício de tratamento ainda se aplicam.</SAR_Settings_MedicineDetour_Desc>
+  <SAR_Settings_KitPatients>Pacientes cobertos por um kit de missão</SAR_Settings_KitPatients>
+  <SAR_Settings_KitPatients_Desc>Número máximo de vítimas atuais consideradas quando um médico planeja um kit de campo multi-paciente.</SAR_Settings_KitPatients_Desc>
+  <SAR_Settings_KitConsumables>Unidades consumíveis por kit de missão</SAR_Settings_KitConsumables>
+  <SAR_Settings_KitConsumables_Desc>Número máximo de unidades de cada consumível carregadas para uma missão. Cada dispositivo reutilizável é carregado como uma única unidade.</SAR_Settings_KitConsumables_Desc>
+  <SAR_Settings_FieldSupplyRadius>Raio de associação de suprimentos de campo</SAR_Settings_FieldSupplyRadius>
+  <SAR_Settings_FieldSupplyRadius_Desc>Suprimentos dentro deste número de quadrados do paciente podem satisfazer o orçamento dele e permanecem protegidos enquanto referenciados.</SAR_Settings_FieldSupplyRadius_Desc>
+  <SAR_Settings_Value_Percent>{0}%</SAR_Settings_Value_Percent>
+  <SAR_Settings_Value_Hours>{0} horas de jogo</SAR_Settings_Value_Hours>
+  <SAR_Settings_Value_Seconds>{0} segundos</SAR_Settings_Value_Seconds>
+  <SAR_Settings_Value_Cells>{0} quadrados</SAR_Settings_Value_Cells>
+  <SAR_Settings_ResetDefaults>Restaurar configurações padrão</SAR_Settings_ResetDefaults>
+  <SAR_Settings_Compatibility_Title>Compatibilidade com mods de terceiros</SAR_Settings_Compatibility_Title>
+  <SAR_Settings_Compatibility_Desc>Mods ativos aparecem primeiro. Passe o mouse em uma linha para ver os detalhes de suporte. Integração adiciona ações de resgate, respondentes ou fontes de suprimento. Compatível cobre configurações, reconhecimento de tarefas e comportamento coordenado. Não ativo indica um mod desligado ou aguardando instalação.</SAR_Settings_Compatibility_Desc>
+  <SAR_Settings_Compatibility_Mod>Mod de terceiros</SAR_Settings_Compatibility_Mod>
+  <SAR_Settings_Compatibility_Status>Status</SAR_Settings_Compatibility_Status>
+  <SAR_Settings_Compatibility_TooltipActive>{0}\n\n{1}</SAR_Settings_Compatibility_TooltipActive>
+  <SAR_Settings_Compatibility_TooltipDisabled>Não ativo. Suporte quando ativo: {0}.\n\n{1}</SAR_Settings_Compatibility_TooltipDisabled>
+  <SAR_Compatibility_Status_Integration>Integração</SAR_Compatibility_Status_Integration>
+  <SAR_Compatibility_Status_Compatible>Compatível</SAR_Compatibility_Status_Compatible>
+  <SAR_Compatibility_Status_Partial>Parcial</SAR_Compatibility_Status_Partial>
+  <SAR_Compatibility_Status_Incompatible>Incompatível</SAR_Compatibility_Status_Incompatible>
+  <SAR_Compatibility_Status_Disabled>Não ativo</SAR_Compatibility_Status_Disabled>
+  <SAR_Compatibility_CombatExtended>Usa estabilização do CE, reservas de remédio com controle de quantidade, acesso ao inventário carregado e limites de capacidade do CE.</SAR_Compatibility_CombatExtended>
+  <SAR_Compatibility_MoreInjuries>Coordena RCP, cuidado das vias aéreas, desfibrilação, hemostasia, torniquetes, soro e bolsas de sangue. Trauma só cirúrgico aumenta a prioridade de evacuação.</SAR_Compatibility_MoreInjuries>
+  <SAR_Compatibility_MSE2>Inclui condições perigosas na triagem e prioriza a evacuação de emergências à beira do leito. O MSE2 fornece seu cuidado cirúrgico especializado, subpartes protéticas e equipamentos por meio do sistema à beira do leito.</SAR_Compatibility_MSE2>
+  <SAR_Compatibility_EPOE>Funciona pelas interfaces padrão de saúde e cirurgia. Implantes, reposições, amputações e operações eletivas usam tarefas de cirurgia do EPOE e do jogo base.</SAR_Compatibility_EPOE>
+  <SAR_Compatibility_SmartMedicine>Suporta as continuações MemeGoddess e PES7. Ative apenas um mod central Smart Medicine por vez. Usa a seleção de remédio e os pontos de cuidado temporários dele, e protege os suprimentos de campo atribuídos. O reabastecimento e a entrega do SAR disponibilizam remédio carregado por outros colonos à estabilização do CE.</SAR_Compatibility_SmartMedicine>
+  <SAR_Compatibility_Pharmacist>Lê a recomendação de remédio por gravidade e categoria do colono, mantendo o teto de remédio do jogo base do colono como limite rígido.</SAR_Compatibility_Pharmacist>
+  <SAR_Compatibility_ChooseMedicine>Lê os grupos de remédio, a política por estágio do ferimento, a ordem e a cobertura por ferimento para orçamentos, kits, entregas e cuidados finais.</SAR_Compatibility_ChooseMedicine>
+  <SAR_Compatibility_MedicalTab>Lê as configurações individuais de cuidados médicos atuais em cada passagem de planejamento, aplicando as mudanças da mesa ao próximo conjunto de atribuições.</SAR_Compatibility_MedicalTab>
+  <SAR_Compatibility_Defaults>Os padrões da população usam, em última instância, as configurações padrão de cuidados médicos do colono, que o Search and Rescue lê diretamente.</SAR_Compatibility_Defaults>
+  <SAR_Compatibility_EmergencyTransfusions>Cria a tarefa nativa de transfusão de um pacote do mod e pode obter hemogênio do paciente, do respondente, do mapa ou dos portadores suportados.</SAR_Compatibility_EmergencyTransfusions>
+  <SAR_Compatibility_HemogenDirect>Fornece transfusão de emergência de hemogênio quando Transfusões de Emergência não está disponível, usando a tarefa nativa do mod.</SAR_Compatibility_HemogenDirect>
+  <SAR_Compatibility_DeathRattle>Prioriza a evacuação de estados nativos sem pulso, de privação de oxigênio, de falência de órgãos e de coma, sem criar tarefas de cuidado inúteis. A função restaurada limpa a prioridade extra. Cirurgia e suporte de vida permanecem com os próprios sistemas.</SAR_Compatibility_DeathRattle>
+  <SAR_Compatibility_RH2FirstAid>Usa a tarefa nativa de auxílio de campo do RH2 quando o Combat Extended não está ativo e a registra como posse externa de paciente.</SAR_Compatibility_RH2FirstAid>
+  <SAR_Compatibility_RH2Arrest>Usa a tarefa nativa de prisão no lugar do RH2 para a etapa de captura.</SAR_Compatibility_RH2Arrest>
+  <SAR_Compatibility_DubsRimkit>Usa automaticamente um kit médico vestido e carregado quando o controle nativo de cuidados automáticos está ativo. Respeita a política de remédio e reavalia após uma rodada nativa. A estabilização do CE mantém prioridade; tarefas manuais do Rimkit mantêm o comportamento original.</SAR_Compatibility_DubsRimkit>
+  <SAR_Compatibility_TraumaTeam>Reconhece a posse da equipe antes da primeira tarefa, as tarefas de tratamento/transporte dela e libera posse obsoleta quando nenhum respondente operacional restar.</SAR_Compatibility_TraumaTeam>
+  <SAR_Compatibility_MovePatient>Pede ao componente de transferência do paciente a cama médica preferida dele antes de recorrer à busca padrão de camas.</SAR_Compatibility_MovePatient>
+  <SAR_Compatibility_MedPod>Reconhece admissão e ocupação da cápsula. Marcações SAR não atribuídas permitem a admissão nativa; o cuidado SAR comprometido mantém a fase dele. A seleção e o tratamento da cápsula permanecem nativos.</SAR_Compatibility_MedPod>
+  <SAR_Compatibility_Casevac>Trabalhadores atribuídos a Resgate de Campo e CASEVAC iniciam evacuações sem supervisão primeiro, depois se juntam a equipes existentes ou aprimoram transportes SAR próximos. Comandos manuais mantêm o controle.</SAR_Compatibility_Casevac>
+  <SAR_Compatibility_SmarterCapture>O WORKGIVER automatizado de captura participa da porta comum de posse; a captura forçada pelo jogador permanece autoritativa.</SAR_Compatibility_SmarterCapture>
+  <SAR_Compatibility_PickUpAndHaul>Mantém os suprimentos atribuídos a pacientes e aos planos médicos atuais disponíveis para os cuidados de campo.</SAR_Compatibility_PickUpAndHaul>
+  <SAR_Compatibility_Hospitality>Coordena o resgate por camas padrão, status de hóspede e relações de facção. As configurações e os sistemas do Hospitality fornecem recepção, taxas e atividades de visitantes.</SAR_Compatibility_Hospitality>
+  <SAR_Compatibility_VehicleFramework>Veículos parados e acessíveis do jogador fornecem carga para kits médicos e entregas. Use as ações do veículo e dos mods relacionados para embarque do paciente e cuidado dentro do veículo.</SAR_Compatibility_VehicleFramework>
+  <SAR_Compatibility_NurseJob>Oferece modos de resgate por transporte, preferência por enfermeira e apenas enfermeira. Intervenções de suporte usam Enfermagem com médicos como reserva onde apropriado.</SAR_Compatibility_NurseJob>
+  <SAR_Compatibility_WorkTab>Lê as prioridades filhas do SAR. RCP, gestão das vias aéreas, desfibrilação e transfusões de médico do More Injuries também exigem o trabalho filho nativo correspondente. A enfermagem continua sendo uma autorização separada.</SAR_Compatibility_WorkTab>
+  <SAR_Compatibility_MechWorkTab>Lê as configurações detalhadas de trabalho de mecanoides da colônia ao decidir quais faixas de campo um mecanoide pode entrar.</SAR_Compatibility_MechWorkTab>
+  <SAR_Compatibility_WVCWorkModes>Respeita modos de trabalho adicionais de mecanoides e a autoridade de trabalho efetiva deles.</SAR_Compatibility_WVCWorkModes>
+  <SAR_Compatibility_SearchDestroy>Search and Destroy fornece o controle de combate em draft. Após desfazer o recrutamento, os colonos podem se juntar à Busca e Resgate conforme as configurações de trabalho deles.</SAR_Compatibility_SearchDestroy>
+  <SAR_Compatibility_CommonSense>Após os cuidados, a limpeza automática cede a mais trabalho de resgate. Filas ordenadas pelo jogador mantêm as ordens existentes.</SAR_Compatibility_CommonSense>
+  <SAR_Compatibility_PriorityTreatment>Reconhece tarefas de tratamento de campo, suprimento, CE, More Injuries e RH2 para que os respondentes continuem marcados como ocupados durante as tarefas deles.</SAR_Compatibility_PriorityTreatment>
+  <SAR_Compatibility_TreatDyingFirst>O cuidado comum usa a ordem de urgência dele. O SAR coordena pacientes admitidos por correspondência unificada. Tarefas ordenadas pelo jogador têm prioridade.</SAR_Compatibility_TreatDyingFirst>
+  <SAR_Compatibility_StabilizeBleeding>O controle de sangramento ordenado pelo jogador tem prioridade. Combiná-lo com marcações do SAR é parcialmente compatível, com o comportamento das tarefas aguardando validação em jogo.</SAR_Compatibility_StabilizeBleeding>
+  <SAR_Compatibility_AlliesHelpful>Aliados podem assumir quando o SAR não tem atribuição de cuidado executável. O cuidado comprometido e a captura de alvos marcados ainda hostis mantêm prioridade; ordens manuais permanecem protegidas.</SAR_Compatibility_AlliesHelpful>
+  <SAR_Compatibility_NoOneLeftBehind>A evacuação de inimigos permanece autoritativa quando um transportador hostil a inicia. Um inimigo marcado para captura pode, portanto, escapar antes que um respondente o reivindique.</SAR_Compatibility_NoOneLeftBehind>
+  <SAR_Compatibility_StayInBed>O tratamento de campo, os suprimentos e o transporte podem assumir da tarefa ociosa de repouso na cama dele.</SAR_Compatibility_StayInBed>
+  <SAR_Compatibility_GrievousWounds>Dano de transbordamento produz ferimentos comuns, incluídos automaticamente nas pontuações de sangramento, gravidade e tratamento.</SAR_Compatibility_GrievousWounds>
+  <SAR_Compatibility_VFEMedical>Camas médicas e remédios adicionados seguem as definições do jogo base e são descobertos automaticamente.</SAR_Compatibility_VFEMedical>
+  <SAR_Compatibility_SensibleBedOwnership>Verifica a adequação da cama médica e a posse atual da cama antes de cada transferência para escolher um destino apropriado.</SAR_Compatibility_SensibleBedOwnership>
+  <SAR_Compatibility_YokaiVillage>Animais de carne não hostis podem receber cuidados e resgate com remédio padrão e camas de animais. A captura se aplica a alvos humanoides.</SAR_Compatibility_YokaiVillage>
+  <SAR_Compatibility_Hardworking>Lê as configurações do Hardworking e respeita permissões de parada, acompanhamento, agenda e descanso. Use modos de trabalho determinísticos para o despacho automático do SAR; a execução de tarefas por espécie aguarda testes em jogo.</SAR_Compatibility_Hardworking>
+  <SAR_Compatibility_Paniel>O Paniel mantém a seleção e os cuidados de remédio nativos dele. Procedimentos de emergência biológicos ficam de fora. O reparo completo usa PN_Repair e o kit de reparo dele em uma cama; os cuidados nativos de ferimentos foram testados em jogo; o reparo completo à beira do leito aguarda testes focados.</SAR_Compatibility_Paniel>
+  <SAR_Compatibility_Androids>Droides mecânicos usam a seleção nativa de peças de reparo e TendPatient; o ChjAndroid mantém o remédio comum. Procedimentos de emergência biológicos ficam de fora. O reparo completo usa o fluxo de cirurgia nativo; os cuidados nativos de ferimentos foram testados em jogo; o reparo completo à beira do leito aguarda testes focados.</SAR_Compatibility_Androids>
+  <SAR_Compatibility_AndroidsExpanded>Usa as interfaces de colono e de reparo do Androids. O cuidado com peças de reparo do ChjSpacerDroid foi testado em jogo; outras raças e habilidades especiais aguardam testes focados.</SAR_Compatibility_AndroidsExpanded>
+  <SAR_Compatibility_DmsCore>Automatroides reparáveis do jogador usam reparo nativo e pontos de evacuação. Tarefas de reparo compartilham a posse do paciente; corpos desativados mantêm o controle nativo e os fluxos de ressurreição.</SAR_Compatibility_DmsCore>
+  <SAR_Compatibility_DmsSynthetic>Automatroides sintéticos usam reparo de mecanoides. Unidades controladas com trabalho de Médico ou Transporte podem se juntar pelo controle de resgate, sujeitas ao modo de trabalho e ao estado de energia delas.</SAR_Compatibility_DmsSynthetic>
+  <SAR_Compatibility_DmsMobileDragoon>Pilotos humanos usam tratamento e resgate normais. A manutenção do exotraje fica com o Exosuit Framework; combinações de equipamento aguardam testes focados.</SAR_Compatibility_DmsMobileDragoon>
+  <SAR_Compatibility_DmsAncientCorps>Unidades reparáveis do jogador usam as regras de pacientes mecanoides. Automatroides de combate grandes e combinações de equipamento aguardam testes focados.</SAR_Compatibility_DmsAncientCorps>
+  <SAR_Compatibility_DmsMotorized>Veículos estacionados do jogador expõem carga médica por meio do Vehicle Framework. Manutenção, embarque e tratamento a bordo do veículo usam os sistemas do veículo.</SAR_Compatibility_DmsMotorized>
+  <SAR_Compatibility_DmsJointOperations>Tarefas dedicadas de reparo de campo participam da posse de tratamento. O agendamento de trabalho nativo atribui reparos ao Tinker; o SAR atribui mecanitores a automatroides elegíveis de propriedade do jogador.</SAR_Compatibility_DmsJointOperations>
+</LanguageData>

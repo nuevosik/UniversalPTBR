@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VMF_DriverSeat.label>driver seat</VMF_DriverSeat.label>
+  <VMF_DriverSeat.description>Driver's seat of a vehicle. When this is installed, the vehicle can be controlled.</VMF_DriverSeat.description>
+  <VMF_GunnerSeat.label>gunner seat</VMF_GunnerSeat.label>
+  <VMF_GunnerSeat.description>Gunner's seat of a vehicle. When this is installed, the selected turret of the vehicle can be controlled.</VMF_GunnerSeat.description>
+  <VMF_PassengerSeat.label>passenger seat</VMF_PassengerSeat.label>
+  <VMF_PassengerSeat.description>Passenger's seat of a vehicle.</VMF_PassengerSeat.description>
+  <VMF_CargoContainer.label>cargo container</VMF_CargoContainer.label>
+  <VMF_CargoContainer.description>Storage for additional vehicle cargo capacity.\n\n&lt;color=#bb8f04&gt;Cargo capacity:&lt;/color&gt; +150 kg</VMF_CargoContainer.description>
+  <VMF_TurboCharger.label>turbo charger</VMF_TurboCharger.label>
+  <VMF_TurboCharger.description>Engine components to enhance the vehicle's maximum payload.\n\n&lt;color=#bb8f04&gt;Maximum payload:&lt;/color&gt; +500 kg\n&lt;color=#bb8f04&gt;Fuel Consumption:&lt;/color&gt; +8 /day</VMF_TurboCharger.description>
+  <VMF_LiftFan.label>lift fan</VMF_LiftFan.label>
+  <VMF_LiftFan.description>A Lift fan to enhance the hover vehicle's maximum payload. Can only be installed on hover type vehicles.\n\n&lt;color=#bb8f04&gt;Maximum Payload:&lt;/color&gt; +250 kg\n&lt;color=#bb8f04&gt;Fuel Consumption:&lt;/color&gt; +4 /day</VMF_LiftFan.description>
+  <VMF_FuelTank.label>fuel tank</VMF_FuelTank.label>
+  <VMF_FuelTank.description>Tank for increase fuel capacity of the vehicle.\n\n&lt;color=#bb8f04&gt;Fuel capacity:&lt;/color&gt; +300</VMF_FuelTank.description>
+  <VMF_Ladder.label>ladder</VMF_Ladder.label>
+  <VMF_Ladder.description>A ladder for humans to ascend and descend on a vehicle. Pawns get priority to ascend and descend from the location where this is placed.</VMF_Ladder.description>
+  <VMF_RampMedium.label>ramp (1x3)</VMF_RampMedium.label>
+  <VMF_RampMedium.description>A ramp for vehicles to ascend and descend to a vehicle map. Vehicles up to 3 squares wide can ascend and descend from here.</VMF_RampMedium.description>
+  <VMF_RampLarge.label>ramp (1x5)</VMF_RampLarge.label>
+  <VMF_RampLarge.description>A ramp for vehicles to ascend and descend to a vehicle map. Vehicles up to 5 squares wide can ascend and descend from here.</VMF_RampLarge.description>
+  <VMF_WirelessTransmitter.label>wireless power transmitter</VMF_WirelessTransmitter.label>
+  <VMF_WirelessTransmitter.description>A device for transmitting power between a normal map and a vehicle map.</VMF_WirelessTransmitter.description>
+  <VMF_WirelessReceiver.label>wireless power receiver</VMF_WirelessReceiver.label>
+  <VMF_WirelessReceiver.description>A device that receives power from a normal map. It can be placed on a vehicle map and receive power by aligning with a transmitter.</VMF_WirelessReceiver.description>
+  <VMF_Alternator.label>alternator</VMF_Alternator.label>
+  <VMF_Alternator.description>Component that uses vehicle fuel to generate electricity.</VMF_Alternator.description>
+  <VMF_PipeConnector.label>pipe connector</VMF_PipeConnector.label>
+  <VMF_PipeConnector.description>Connection to pipe between the normal map and the vehicle map.\nPlaced on the normal map and the vehicle map, they are connected by aligning their positions.</VMF_PipeConnector.description>
+  <VMF_Turret_ZiplineTurret.label>zipline turret</VMF_Turret_ZiplineTurret.label>
+  <VMF_Turret_ZiplineTurret.description>A turret that sets up a zipline at the location where it pierces. Used for direct access between vehicles.</VMF_Turret_ZiplineTurret.description>
+  <VMF_Gun_ZiplineTurret.label>zipline turret gun</VMF_Gun_ZiplineTurret.label>
+  <VMF_Gun_ZiplineTurret.description>A gun made to be mounted on a zipline turret.</VMF_Gun_ZiplineTurret.description>
+  <VMF_Bullet_ZiplineTurret.label>zipline turret bullet</VMF_Bullet_ZiplineTurret.label>
+  <VMF_Bullet_ZiplineTurretReturn.label>zipline turret bullet</VMF_Bullet_ZiplineTurretReturn.label>
+  <VMF_ZiplineEnd.label>zipline end</VMF_ZiplineEnd.label>
+  <VMF_VehicleStructureFilled.label>vehicle structure</VMF_VehicleStructureFilled.label>
+  <VMF_VehicleStructureFilled.description>Structure of a vehicle.</VMF_VehicleStructureFilled.description>
+  <VMF_MoteSink.label>Mote</VMF_MoteSink.label>
+  <VMF_GangplankAnchor.label>gangplank</VMF_GangplankAnchor.label>
+  <VMF_GangplankAnchor.description>A lumber for crossing directly from one vehicle map to another.</VMF_GangplankAnchor.description>
+  <VMF_GravshipWheelSmall.label>gravship wheel (1x2)</VMF_GravshipWheelSmall.label>
+  <VMF_GravshipWheelSmall.description>Equipment for the gravship to travel on the ground. It also serves as a thruster for movement in space, and the number of wheels affects the maximum payload and travel speed.\nOnly tires facing the same direction as the pilot console will be recognized.\n\n&lt;color=#bb8f04&gt;Maximum payload:&lt;/color&gt; +500 kg\n&lt;color=#bb8f04&gt;Move speed:&lt;/color&gt; +0.75</VMF_GravshipWheelSmall.description>
+  <VMF_GravshipWheelLarge.label>gravship wheel (2x4)</VMF_GravshipWheelLarge.label>
+  <VMF_GravshipWheelLarge.description>Equipment for the gravship to travel on the ground. It also serves as a thruster for movement in space, and the number of wheels affects the maximum payload and travel speed.\nOnly tires facing the same direction as the pilot console will be recognized.\n\n&lt;color=#bb8f04&gt;Maximum payload:&lt;/color&gt; +2000 kg\n&lt;color=#bb8f04&gt;Move speed:&lt;/color&gt; +1.5</VMF_GravshipWheelLarge.description>
+</LanguageData>

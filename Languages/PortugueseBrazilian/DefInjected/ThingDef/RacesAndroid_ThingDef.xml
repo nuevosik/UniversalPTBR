@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_NeuroPump.label>neurobomba</VREA_NeuroPump.label>
+  <VREA_NeuroPump.description>Uma neurobomba sintética de androde. Distribui neutroamina por todos os subsistemas do androde.</VREA_NeuroPump.description>
+  <VREA_AirFilter.label>filtro de ar</VREA_AirFilter.label>
+  <VREA_AirFilter.description>Um filtro de ar sintético de androde. Um par deles forma o sistema respiratório de um androde.</VREA_AirFilter.description>
+  <VREA_Neutrofilter.label>neutrofiltro</VREA_Neutrofilter.label>
+  <VREA_Neutrofilter.description>Um neutrofiltro sintético de androde. Limpa e recicla a neutroamina gasta.</VREA_Neutrofilter.description>
+  <VREA_MetabolismRegulator.label>regulador de metabolismo</VREA_MetabolismRegulator.label>
+  <VREA_MetabolismRegulator.description>Um regulador de metabolismo sintético de androde. Ajuda a manter a eficiência energética máxima.</VREA_MetabolismRegulator.description>
+  <VREA_Reactor.label>reator</VREA_Reactor.label>
+  <VREA_Reactor.description>Um reator sintético de androde. Quando o reator se esgota, precisa ser extraído e substituído.</VREA_Reactor.description>
+  <VREA_OpticalUnit.label>unidade óptica</VREA_OpticalUnit.label>
+  <VREA_OpticalUnit.description>Uma unidade óptica sintética de androde. Permite que o androde veja.</VREA_OpticalUnit.description>
+  <VREA_AudioProcessor.label>processador de áudio</VREA_AudioProcessor.label>
+  <VREA_AudioProcessor.description>Um processador de áudio sintético de androde. Permite que o androde ouça.</VREA_AudioProcessor.description>
+  <VREA_ArtificialNose.label>nariz artificial</VREA_ArtificialNose.label>
+  <VREA_ArtificialNose.description>Um nariz sintético de androde. Permite que o androde detecte cheiros.</VREA_ArtificialNose.description>
+  <VREA_ArtificialJaw.label>mandíbula artificial</VREA_ArtificialJaw.label>
+  <VREA_ArtificialJaw.description>Uma mandíbula sintética de androde.</VREA_ArtificialJaw.description>
+  <VREA_ArtificialRibcage.label>caixa torácica artificial</VREA_ArtificialRibcage.label>
+  <VREA_ArtificialRibcage.description>Uma caixa torácica sintética de androde.</VREA_ArtificialRibcage.description>
+  <VREA_ArtificialSpine.label>coluna artificial</VREA_ArtificialSpine.label>
+  <VREA_ArtificialSpine.description>Uma coluna vertebral sintética de androde.</VREA_ArtificialSpine.description>
+  <VREA_AndroidLeg.label>perna androide</VREA_AndroidLeg.label>
+  <VREA_AndroidLeg.description>Uma perna sintética de androde.</VREA_AndroidLeg.description>
+  <VREA_AndroidFoot.label>pé androide</VREA_AndroidFoot.label>
+  <VREA_AndroidFoot.description>Um pé sintético de androde.</VREA_AndroidFoot.description>
+  <VREA_AndroidArm.label>braço androide</VREA_AndroidArm.label>
+  <VREA_AndroidArm.description>Um braço sintético de androde.</VREA_AndroidArm.description>
+  <VREA_AndroidHand.label>mão androide</VREA_AndroidHand.label>
+  <VREA_AndroidHand.description>Uma mão sintética de androde.</VREA_AndroidHand.description>
+  <VREA_NeutroValve.label>válvula de neutroamina</VREA_NeutroValve.label>
+  <VREA_NeutroValve.description>Alterna o fluxo de neutroamina.</VREA_NeutroValve.description>
+</LanguageData>

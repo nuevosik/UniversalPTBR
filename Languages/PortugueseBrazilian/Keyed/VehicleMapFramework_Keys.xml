@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VMF_FocusVehicleMap>Focar mapa do veículo</VMF_FocusVehicleMap>
+  <VMF_UnfocusVehicleMap>Desfocar mapa do veículo</VMF_UnfocusVehicleMap>
+  <VMF_AllowsHaulIn>Permitir entrada de carga</VMF_AllowsHaulIn>
+  <VMF_AllowsHaulInDesc>Permite que colonos transportem carga para o armazenamento no mapa deste veículo.</VMF_AllowsHaulInDesc>
+  <VMF_AllowsHaulOut>Permitir saída de carga</VMF_AllowsHaulOut>
+  <VMF_AllowsHaulOutDesc>Permite que colonos transportem carga do armazenamento no mapa deste veículo.</VMF_AllowsHaulOutDesc>
+  <VMF_IncreasePriority>Aumentar prioridade</VMF_IncreasePriority>
+  <VMF_IncreasePriorityDesc>Aumenta todas as prioridades de armazenamento no mapa deste veículo</VMF_IncreasePriorityDesc>
+  <VMF_DecreasePriority>Diminuir prioridade</VMF_DecreasePriority>
+  <VMF_DecreasePriorityDesc>Diminui todas as prioridades de armazenamento no mapa deste veículo</VMF_DecreasePriorityDesc>
+  <VMF_AllowsGetOff>Permitir saída</VMF_AllowsGetOff>
+  <VMF_AllowsGetOffDesc>Permite que os colonos (IA) saiam do mapa do veículo.</VMF_AllowsGetOffDesc>
+  <VMF_AllowEnter>Permitir entrada</VMF_AllowEnter>
+  <VMF_AllowEnterDesc>Permite que os colonos (IA) entrem no mapa do veículo.</VMF_AllowEnterDesc>
+  <VMF_LowerPowerDesc>Diminui a quantidade-alvo de transmissão de energia.</VMF_LowerPowerDesc>
+  <VMF_ResetPower>Redefinir</VMF_ResetPower>
+  <VMF_ResetPowerDesc>Redefine a quantidade-alvo de transmissão de energia.</VMF_ResetPowerDesc>
+  <VMF_RaisePowerDesc>Aumenta a quantidade-alvo de transmissão de energia.</VMF_RaisePowerDesc>
+  <VMF_PowerPush>Impulsão</VMF_PowerPush>
+  <VMF_PowerDraw>Captação</VMF_PowerDraw>
+  <VMF_PowerTransmit>Transmissão</VMF_PowerTransmit>
+  <VMF_PowerPushDesc>Transmite energia ao transmissor vinculado. Faz par com o transmissor em modo de captação.</VMF_PowerPushDesc>
+  <VMF_PowerDrawDesc>Capta energia do transmissor vinculado. Faz par com o transmissor em modo de impulsão.</VMF_PowerDrawDesc>
+  <VMF_PowerTransmitDesc>Transmite e recebe energia com o transmissor vinculado.</VMF_PowerTransmitDesc>
+  <VMF_Reassign>Reatribuir</VMF_Reassign>
+  <VMF_ReassignDesc>Reatribui a torreta operada por este assento.</VMF_ReassignDesc>
+  <VMF_GatherFromBaseMap>Recolher do mapa base</VMF_GatherFromBaseMap>
+  <VMF_AssignPipeNet>Atribuir</VMF_AssignPipeNet>
+  <VMF_PumpUp>Bombeamento para cima</VMF_PumpUp>
+  <VMF_Drain>Bombeamento para baixo</VMF_Drain>
+  <VMF_Flip>Inverter</VMF_Flip>
+  <VMF_VehicleMode>Modo do veículo</VMF_VehicleMode>
+  <VMF_RemoveSegment>Remover segmento</VMF_RemoveSegment>
+  <VMF_RemoveSegmentDesc>Remove o segmento da estrutura estendida do veículo.</VMF_RemoveSegmentDesc>
+  <VMF_ChangeOpacity>Alterar opacidade</VMF_ChangeOpacity>
+  <VMF_ForceOnVehicle>Não pode ser posicionado fora de um mapa de veículo.</VMF_ForceOnVehicle>
+  <VMF_ForceOnHoverVehicle>Não pode ser posicionado fora de um mapa de veículo aeroelevado.</VMF_ForceOnHoverVehicle>
+  <VMF_ForbidOnVehicle>Não pode ser posicionado em um mapa de veículo.</VMF_ForbidOnVehicle>
+  <VMF_ForbidOnHumanPoweredVehicle>Não pode ser posicionado em um mapa de veículo de tração humana.</VMF_ForbidOnHumanPoweredVehicle>
+  <VMF_ForceOnVehicleMapEdge>Não pode ser posicionado fora da borda de um mapa de veículo.</VMF_ForceOnVehicleMapEdge>
+  <VMF_ForceOnRelatedVehicle>Este edifício não é relacionado a este veículo.</VMF_ForceOnRelatedVehicle>
+  <VMF_ForceOnRelatedBuilding>Só pode ser construído sobre edifícios relacionados.</VMF_ForceOnRelatedBuilding>
+  <VMF_UniqueVehicleExceedsLimit>O número de {0} excede o limite.</VMF_UniqueVehicleExceedsLimit>
+  <VMF_NoRoles>Nenhuma função para operar esta torreta em {0}.</VMF_NoRoles>
+  <VMF_FailedEnterMap>O veículo falhou ao entrar no mapa.</VMF_FailedEnterMap>
+  <VMF_CannotSpawn>{0} não pode surgir.</VMF_CannotSpawn>
+  <VMF_MustShotAtAnotherMap>A tirolesa deve ser disparada contra outro mapa.</VMF_MustShotAtAnotherMap>
+  <VMF_GrapplingHookAlreadyLaunched>O gancho de escala já foi lançado.</VMF_GrapplingHookAlreadyLaunched>
+  <VMF_ApplyingDynamicPatches>Aplicando patches dinâmicos</VMF_ApplyingDynamicPatches>
+  <VMF_UnpatchingDynamicPatches>Removendo patches dinâmicos</VMF_UnpatchingDynamicPatches>
+  <VMF_ContainsMapVehicle>Há veículos de mapa na estrutura da gravinave.</VMF_ContainsMapVehicle>
+  <VMF_ContainsForbidOnVehicle>{0} não pode ser posicionado no mapa do veículo.</VMF_ContainsForbidOnVehicle>
+  <VMF_RectContainsImpassable>O retângulo do veículo contém quadrados intransponíveis.</VMF_RectContainsImpassable>
+  <VMF_WheelsUnstable>O veículo ficaria instável. Número de rodas válidas: {0}</VMF_WheelsUnstable>
+  <VMF_CannotSetDownDiagonal>{0} não pode ser apoiado em ângulo.</VMF_CannotSetDownDiagonal>
+  <VMF_CannotLaunchNoPilot>sem piloto</VMF_CannotLaunchNoPilot>
+  <VMF_GravshipVehicleDestroyed>O veículo da gravinave foi destruído</VMF_GravshipVehicleDestroyed>
+  <VMF_AreaDeselect>Este mapa não tem a área {0}.</VMF_AreaDeselect>
+  <VMF_VehicleMap>'s mapa</VMF_VehicleMap>
+  <VMF_PowerTransferSetting>Configuração de transmissão de energia</VMF_PowerTransferSetting>
+  <VMF_StatsReport_MaximumPayload>Carga útil: {0}</VMF_StatsReport_MaximumPayload>
+  <VMF_StatsReport_HumanPowerAverage>Fator de força dos operadores: {0}</VMF_StatsReport_HumanPowerAverage>
+  <VMF_LandInSpecificMap>Aproxime o zoom de {0} e escolha um local de pouso em {1}</VMF_LandInSpecificMap>
+  <VMF_SelectPrefab>selecionar predefinição</VMF_SelectPrefab>
+  <VMF_VehicleFormation>Formar.</VMF_VehicleFormation>
+  <VMF_Settings.Tab.Main>Principal</VMF_Settings.Tab.Main>
+  <VMF_Settings.DrawPlanet>Desenhar o mapa-múndi durante a caravana.</VMF_Settings.DrawPlanet>
+  <VMF_Settings.ForceRotated>Forçar rotação do veículo na caravana.</VMF_Settings.ForceRotated>
+  <VMF_Settings.WeightFactor>Fator de peso dos itens no mapa do veículo.</VMF_Settings.WeightFactor>
+  <VMF_Settings.AutoGetOffPlayer>Colonos do jogador saem automaticamente do mapa do veículo.</VMF_Settings.AutoGetOffPlayer>
+  <VMF_Settings.AutoGetOffNonPlayer>Colonos de NPCs saem automaticamente do mapa do veículo.</VMF_Settings.AutoGetOffNonPlayer>
+  <VMF_Settings.CrossMapJobProtect>Proteção contra tarefas incompatíveis com travessia de mapa.</VMF_Settings.CrossMapJobProtect>
+  <VMF_Settings.CrossMapJobProtect.Tooltip>Workgivers que causam problemas de pilha de colonos por causa do erro "10 tarefas em um tick" são excluídos automaticamente do suporte a tarefas entre mapas.\nIsso melhora a estabilidade do jogo, mas dificulta descobrir tarefas sem suporte (tarefas sem suporte serão corrigidas se relatadas ao autor).</VMF_Settings.CrossMapJobProtect.Tooltip>
+  <VMF_Settings.TreatAsCaravanInventory>Tratar itens no mapa do veículo como parte do inventário da caravana.</VMF_Settings.TreatAsCaravanInventory>
+  <VMF_Settings.ThreadingPathCost>Multithreading para cálculos de custo de caminho em veículos grandes.</VMF_Settings.ThreadingPathCost>
+  <VMF_Settings.MinAreaForThreading>Área mínima de veículo calculada em multithreading.</VMF_Settings.MinAreaForThreading>
+  <VMF_Settings.AsyncClosestThing>Multithreading dos cálculos para achar a coisa alcançável mais próxima.</VMF_Settings.AsyncClosestThing>
+  <VMF_Settings.MinSearchSetCount>Número mínimo de conjuntos de busca calculados em multithreading.</VMF_Settings.MinSearchSetCount>
+  <VMF_Settings.ColonistBarMode>Mostrar ícones de veículos de mapa abaixo da barra de colonos.</VMF_Settings.ColonistBarMode>
+  <VMF_Settings.LegacyCanReach>Usar verificações de alcance legadas.</VMF_Settings.LegacyCanReach>
+  <VMF_ColonistBarMode.DontShow>Não mostrar</VMF_ColonistBarMode.DontShow>
+  <VMF_ColonistBarMode.MouseIsOver>Mouse sobre</VMF_ColonistBarMode.MouseIsOver>
+  <VMF_ColonistBarMode.Always>Sempre</VMF_ColonistBarMode.Always>
+  <VMF_Settings.Tab.PUAHPatch>Patch do PUAH</VMF_Settings.Tab.PUAHPatch>
+  <VMF_Settings.Tab.DynamicPatches>Patches dinâmicos</VMF_Settings.Tab.DynamicPatches>
+  <VMF_Settings.EnableDynamicPatches>Ativar patching dinâmico.</VMF_Settings.EnableDynamicPatches>
+  <VMF_Settings.EnableDynamicPatches.Tooltip>Aplica patches Harmony quando veículos com mapa estão presentes no mundo.</VMF_Settings.EnableDynamicPatches.Tooltip>
+  <VMF_Settings.EnableDynamicUnpatches>Ativar desmontagem dinâmica de patches.</VMF_Settings.EnableDynamicUnpatches>
+  <VMF_Settings.EnableDynamicUnpatches.Tooltip>Desaplica patches Harmony quando veículos com mapa não estão presentes no mundo.</VMF_Settings.EnableDynamicUnpatches.Tooltip>
+  <VMF_Settings.DynamicPatchLevel>Nível de patching dinâmico</VMF_Settings.DynamicPatchLevel>
+  <VMF_PatchLevel.Sensitive>Sensível</VMF_PatchLevel.Sensitive>
+  <VMF_PatchLevel.Cautious>Prudente</VMF_PatchLevel.Cautious>
+  <VMF_PatchLevel.Safe>Seguro</VMF_PatchLevel.Safe>
+  <VMF_PatchLevel.Sensitive.Tooltip>Ativa a aplicação de patches, incluindo Transpilers que executam operações relativamente complexas, como busca de índices IL, e são pesados em processamento.</VMF_PatchLevel.Sensitive.Tooltip>
+  <VMF_PatchLevel.Cautious.Tooltip>Ativa a aplicação de patches, incluindo Transpilers considerados relativamente seguros, como substituições simples de métodos.</VMF_PatchLevel.Cautious.Tooltip>
+  <VMF_PatchLevel.Safe.Tooltip>Ativa a aplicação de patches executáveis de forma segura e rápida, como Prefixos e Postfixos.</VMF_PatchLevel.Safe.Tooltip>
+  <VMF_Settings.RoofedPatch>Considerar telhado no mapa base também para telhado no mapa do veículo.\n(Impacto no desempenho)</VMF_Settings.RoofedPatch>
+</LanguageData>
