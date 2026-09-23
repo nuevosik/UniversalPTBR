@@ -4,34 +4,34 @@ Alvos: 139 | chaves: 26296
 
 | lote | folderId | packageId | mod | defs | keys | total | status |
 |---|---|---|---|---:|---:|---:|---|
-| B1 | 3680501610 | TSA.WorldDominationExperimental | World Domination 2.0 | 262 | 5146 | 5408 | pendente |
-| B2 | 2978572782 | HaiLuan.CustomQuestFramework | Custom Quest Framework | 203 | 2064 | 2267 | pendente |
-| B3 | 3121742525 | Aoba.DeadManSwitch.Core | The Dead Man's Switch | 2085 | 38 | 2123 | pendente |
-| B4 | 2636329500 | VanillaExpanded.VMemesE | Vanilla Ideology Expanded - Memes and Structures | 1535 | 86 | 1621 | pendente |
-| B5 | 1127530465 | Dubwise.Rimatomics | Dubs Rimatomics | 553 | 270 | 823 | pendente |
-| B6 | 1541721856 | sarg.alphaanimals | Alpha Animals | 693 | 0 | 693 | pendente |
-| B6 | 3498575851 | AOBA.Framework | Fortified Features Framework | 102 | 420 | 522 | pendente |
-| B7 | 3632363090 | vr.fantasy.biotech | Fantasy Biotech | 442 | 47 | 489 | pendente |
-| B7 | 1814383360 | VanillaExpanded.VWE | Vanilla Weapons Expanded | 463 | 3 | 466 | pendente |
-| B7 | 3472275628 | Van.Beasts | Dark Ages : Beasts and Monsters | 452 | 4 | 456 | pendente |
-| B8 | 2260097569 | ReGrowth.BOTR.Core | ReGrowth 2 | 302 | 135 | 437 | pendente |
-| B8 | 2562519366 | Mlie.RC2.Core | RimCuisine 2 Core (Continued) | 412 | 2 | 414 | pendente |
-| B8 | 2288125657 | vanillaexpanded.achievements | Vanilla Achievements Expanded | 365 | 29 | 394 | pendente |
-| B9 | 2842502659 | VanillaExpanded.VPsycastsE | Vanilla Psycasts Expanded | 390 | 0 | 390 | pendente |
-| B9 | 2911110083 | CETeam.CombatExtendedArmory | Combat Extended Armory | 363 | 0 | 363 | pendente |
-| B9 | 3025493377 | OskarPotocki.VFE.Deserters | Vanilla Factions Expanded - Deserters | 237 | 117 | 354 | pendente |
-| B9 | 2988801276 | Ancot.AncotLibrary | Ancot Library | 156 | 179 | 335 | pendente |
-| B10 | 2944488802 | co.uk.epicguru.meleeanimation | Melee Animation | 75 | 248 | 323 | pendente |
-| B10 | 2861806869 | VanillaExpanded.VanillaBackstoriesExpanded | Vanilla Backstories Expanded | 306 | 0 | 306 | pendente |
-| B10 | 3590863552 | ferny.ProgressionEducation | Progression: Education | 137 | 164 | 301 | pendente |
-| B10 | 2475965842 | Mlie.ShowMeYourHands | Show Me Your Hands | 189 | 75 | 264 | pendente |
-| B10 | 735106432 | EdB.PrepareCarefully | EdB Prepare Carefully | 0 | 249 | 249 | pendente |
-| B11 | 927155256 | PeteTimesSix.SimpleSidearms | Simple sidearms | 17 | 224 | 241 | pendente |
-| B11 | 2571676542 | Scherub.StonecuttingExtended | Stonecutting Extended | 224 | 7 | 231 | pendente |
-| B11 | 2723801948 | OskarPotocki.VFE.Pirates | Vanilla Factions Expanded - Pirates | 231 | 0 | 231 | pendente |
-| B11 | 2773943594 | m00nl1ght.GeologicalLandforms | Geological Landforms | 0 | 228 | 228 | pendente |
-| B11 | 2439736083 | VanillaExpanded.VanillaSocialInteractionsExpanded | Vanilla Social Interactions Expanded | 192 | 35 | 227 | pendente |
-| B11 | 3550585103 | Vortex.CustomizeWeapon | Customize Weapon | 147 | 75 | 222 | pendente |
+| B1 | 3680501610 | TSA.WorldDominationExperimental | World Domination 2.0 | 262 | 5146 | 5408 | feito |
+| B2 | 2978572782 | HaiLuan.CustomQuestFramework | Custom Quest Framework | 203 | 2064 | 2267 | feito |
+| B3 | 3121742525 | Aoba.DeadManSwitch.Core | The Dead Man's Switch | 2085 | 38 | 2123 | feito |
+| B4 | 2636329500 | VanillaExpanded.VMemesE | Vanilla Ideology Expanded - Memes and Structures | 1535 | 86 | 1621 | feito |
+| B5 | 1127530465 | Dubwise.Rimatomics | Dubs Rimatomics | 553 | 270 | 823 | feito |
+| B6 | 1541721856 | sarg.alphaanimals | Alpha Animals | 693 | 0 | 693 | feito |
+| B6 | 3498575851 | AOBA.Framework | Fortified Features Framework | 102 | 420 | 522 | feito |
+| B7 | 3632363090 | vr.fantasy.biotech | Fantasy Biotech | 442 | 47 | 489 | feito |
+| B7 | 1814383360 | VanillaExpanded.VWE | Vanilla Weapons Expanded | 463 | 3 | 466 | feito |
+| B7 | 3472275628 | Van.Beasts | Dark Ages : Beasts and Monsters | 452 | 4 | 456 | feito |
+| B8 | 2260097569 | ReGrowth.BOTR.Core | ReGrowth 2 | 302 | 135 | 437 | feito |
+| B8 | 2562519366 | Mlie.RC2.Core | RimCuisine 2 Core (Continued) | 412 | 2 | 414 | feito |
+| B8 | 2288125657 | vanillaexpanded.achievements | Vanilla Achievements Expanded | 365 | 29 | 394 | feito |
+| B9 | 2842502659 | VanillaExpanded.VPsycastsE | Vanilla Psycasts Expanded | 390 | 0 | 390 | feito |
+| B9 | 2911110083 | CETeam.CombatExtendedArmory | Combat Extended Armory | 363 | 0 | 363 | feito |
+| B9 | 3025493377 | OskarPotocki.VFE.Deserters | Vanilla Factions Expanded - Deserters | 237 | 117 | 354 | feito |
+| B9 | 2988801276 | Ancot.AncotLibrary | Ancot Library | 156 | 179 | 335 | feito |
+| B10 | 2944488802 | co.uk.epicguru.meleeanimation | Melee Animation | 75 | 248 | 323 | feito |
+| B10 | 2861806869 | VanillaExpanded.VanillaBackstoriesExpanded | Vanilla Backstories Expanded | 306 | 0 | 306 | feito |
+| B10 | 3590863552 | ferny.ProgressionEducation | Progression: Education | 137 | 164 | 301 | feito |
+| B10 | 2475965842 | Mlie.ShowMeYourHands | Show Me Your Hands | 189 | 75 | 264 | feito |
+| B10 | 735106432 | EdB.PrepareCarefully | EdB Prepare Carefully | 0 | 249 | 249 | feito |
+| B11 | 927155256 | PeteTimesSix.SimpleSidearms | Simple sidearms | 17 | 224 | 241 | feito |
+| B11 | 2571676542 | Scherub.StonecuttingExtended | Stonecutting Extended | 224 | 7 | 231 | feito |
+| B11 | 2723801948 | OskarPotocki.VFE.Pirates | Vanilla Factions Expanded - Pirates | 231 | 0 | 231 | feito |
+| B11 | 2773943594 | m00nl1ght.GeologicalLandforms | Geological Landforms | 0 | 228 | 228 | feito |
+| B11 | 2439736083 | VanillaExpanded.VanillaSocialInteractionsExpanded | Vanilla Social Interactions Expanded | 192 | 35 | 227 | feito |
+| B11 | 3550585103 | Vortex.CustomizeWeapon | Customize Weapon | 147 | 75 | 222 | feito |
 | B12 | 3426502333 | OELS.VehicleMapFramework | Vehicle Map Framework | 120 | 97 | 217 | pendente |
 | B12 | 3796056278 | CH4AcKO3.SearchAndRescue | Search and Rescue | 60 | 154 | 214 | pendente |
 | B12 | 2975771801 | vanillaracesexpanded.android | Vanilla Races Expanded - Android | 211 | 2 | 213 | pendente |
