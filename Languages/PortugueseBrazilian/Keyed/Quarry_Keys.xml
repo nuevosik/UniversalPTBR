@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QRY_Quarry>Pedreira</QRY_Quarry>
+  <QRY_SettingsDepletionPercent>Número de operações de mineração</QRY_SettingsDepletionPercent>
+  <QRY_SettingsJunkChance>Chance de refugo (inclui pedaços): &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsJunkChance>
+  <QRY_SettingsResourceModifier>Modificador de recurso: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsResourceModifier>
+  <QRY_SettingsChunkChance>Chance de pedaço: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsChunkChance>
+  <QRY_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; operações de mineração antes de a pedreira ficar inutilizável</QRY_DepletionLabel>
+  <QRY_DictionaryLabel>Itens mineráveis e chances</QRY_DictionaryLabel>
+  <QRY_TooltipLetter>Seleciona se a carta de recuperação de solo já foi enviada. Se falso, a carta é enviada na primeira vez que uma pedreira for desconstruída.</QRY_TooltipLetter>
+  <QRY_TooltipJunkChance>Chance de obter refugo. Se não houver refugo, um recurso aleatório é minerado.</QRY_TooltipJunkChance>
+  <QRY_TooltipResourceModifier>Modificador aplicado aos recursos minerados</QRY_TooltipResourceModifier>
+  <QRY_TooltipChunkChance>Chance de obter um pedaço. Se houver refugo, esta é a chance de obter pedaços em vez de entulho.\n\nMineração de blocos usa a chance de pedaço para determinar se pedra suficiente foi minerada para fazer blocos</QRY_TooltipChunkChance>
+  <QRY_TooltipStopAtPercent>Impede os colonos de trabalhar na pedreira quando passar da porcentagem definida.</QRY_TooltipStopAtPercent>
+  <QRY_SettingsStopAtPercent>Para quando em {0}% da capacidade</QRY_SettingsStopAtPercent>
+  <QRY_SettingsMineTimeBase>Ticks base de mineração</QRY_SettingsMineTimeBase>
+  <QRY_SettingsMineTimeVar>Ticks máximos de variação</QRY_SettingsMineTimeVar>
+  <QRY_ToolTipTicksAverage>Tempo-base (em ticks) por operação de mineração</QRY_ToolTipTicksAverage>
+  <QRY_ToolTipTicksVariance>quanto maior este número, mais efeito a habilidade de mineração do colono tem no tempo de mineração</QRY_ToolTipTicksVariance>
+  <QRY_LabelHaulMode>Modo de transporte</QRY_LabelHaulMode>
+  <QRY_Haul>Transporta itens minerados.</QRY_Haul>
+  <QRY_NotHaul>Ignora itens minerados.</QRY_NotHaul>
+  <QRY_RockTypesAvailable>Pedra explorável</QRY_RockTypesAvailable>
+  <QRY_LabelMineResources>Recursos da pedreira</QRY_LabelMineResources>
+  <QRY_DescriptionMineResources>Designa a pedreira para extrair recursos. Clique para alternar os modos.</QRY_DescriptionMineResources>
+  <QRY_LabelMineBlocks>Cinzelar blocos</QRY_LabelMineBlocks>
+  <QRY_DescriptionMineBlocks>Designa a pedreira para extrair blocos. Clique para alternar os modos.</QRY_DescriptionMineBlocks>
+  <QRY_LabelMineChunks>Corta pedaços</QRY_LabelMineChunks>
+  <QRY_DescriptionMineChunks>Designa a pedreira para extrair pedaços. Clique para alternar os modos.</QRY_DescriptionMineChunks>
+  <QRY_ReportNotEnoughStone>A pedreira precisa ser construída em uma área com mais pedra não explorada</QRY_ReportNotEnoughStone>
+  <QRY_InspectQuarryPercent>Porcentagem da pedreira</QRY_InspectQuarryPercent>
+  <QRY_CommandBedSetOwnerLabel>Define dono</QRY_CommandBedSetOwnerLabel>
+  <QRY_CommandSetOwnerDesc>Atribui esta pedreira para ser minerada apenas por certos colonos.</QRY_CommandSetOwnerDesc>
+  <QRY_ReportGizmoLackingResearch>Exige a pesquisa de corte de pedra.</QRY_ReportGizmoLackingResearch>
+  <QRY_TextMote_LargeVein>Veio grande!</QRY_TextMote_LargeVein>
+  <QRY_TextMote_MiningFailed>Falha...</QRY_TextMote_MiningFailed>
+  <QRY_LetterSentQuery>Carta de recuperação de solo enviada</QRY_LetterSentQuery>
+  <QRY_LetterLabel>Recupera solo</QRY_LetterLabel>
+  <QRY_LetterText>Quando a pedreira for desconstruída, é possível designar colonos para cobrir o chão antigo com solo e obter um terreno utilizável onde a pedreira estava. Use o comando Recupera Solo para designar uma área para recuperação.</QRY_LetterText>
+  <QRY_LabelReclaimSoil>Recupera Solo</QRY_LabelReclaimSoil>
+  <QRY_DescriptionReclaimSoil>Transforma o terreno de pedra solta de uma pedreira em terreno de solo utilizável.</QRY_DescriptionReclaimSoil>
+  <QRY_MessageMustDesignateQuarriedGround>Precisa designar chão explorado.</QRY_MessageMustDesignateQuarriedGround>
+  <QRY_AllowRottable>Permite perecíveis</QRY_AllowRottable>
+  <QRY_TooltipAllowRottable>Permite que itens perecíveis sejam adicionados à lista da pedreira</QRY_TooltipAllowRottable>
+  <QRY_SettingsReclaimedSoilFertility>Fertilidade do solo recuperado</QRY_SettingsReclaimedSoilFertility>
+  <QRY_TooltipReclaimedSoilFertility>Controla a fertilidade do solo recuperado.</QRY_TooltipReclaimedSoilFertility>
+  <QRY_PlaceAnywhere>Coloca em qualquer lugar</QRY_PlaceAnywhere>
+  <QRY_TooltipPlaceAnywhere>Permite que pedreiras sejam colocadas independente dos recursos exploráveis.</QRY_TooltipPlaceAnywhere>
+  <QRY_LabelAddThing>Adiciona à lista</QRY_LabelAddThing>
+  <QRY_LabelRemoveThing>Remove da lista</QRY_LabelRemoveThing>
+  <QRY_LabelResetList>Redefine lista</QRY_LabelResetList>
+  <QRY_RestrictedTo>Restrito a</QRY_RestrictedTo>
+  <QRY_MessageSinkhole>Rochas deslocadas na pedreira feriram {0}.</QRY_MessageSinkhole>
+</LanguageData>

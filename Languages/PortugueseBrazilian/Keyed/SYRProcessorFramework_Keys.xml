@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PF_SettingsCategory>Processor Framework</PF_SettingsCategory>
+  <PF_ShowProcessIcon>Mostra ícone de processo</PF_ShowProcessIcon>
+  <PF_ShowProcessIconTooltip>Se ativo, permite mostrar o ícone de processo em edifícios que o têm ativado; caso contrário, nunca mostra ícones nos edifícios (padrão: verdadeiro)</PF_ShowProcessIconTooltip>
+  <PF_ProcessIconSize>Tamanho do ícone de processo</PF_ProcessIconSize>
+  <PF_ProcessIconSizeTooltip>Define o tamanho do ícone de processo mostrado em alguns edifícios de processamento (padrão: 60%)</PF_ProcessIconSizeTooltip>
+  <PF_ShowCurrentQualityIcon>Mostra ícone de qualidade atual</PF_ShowCurrentQualityIcon>
+  <PF_ShowCurrentQualityIconTooltip>Mostra um ícone ao lado da barra de progresso que indica a qualidade atual do produto (padrão: verdadeiro)</PF_ShowCurrentQualityIconTooltip>
+  <PF_ShowTargetQualityIcon>Mostra ícone de qualidade-alvo</PF_ShowTargetQualityIcon>
+  <PF_ShowTargetQualityIconTooltip>Mostra um ícone ao lado do ícone de processo que indica a qualidade-alvo definida; só funciona se 'mostra ícone de processo' for verdadeiro (padrão: falso)</PF_ShowTargetQualityIconTooltip>
+  <PF_SingleItemIcon>Ícones de item único</PF_SingleItemIcon>
+  <PF_SingleItemIconTooltip>Se ativo, usa ícones que parecem um item único; caso contrário, usa ícones que parecem uma pilha cheia (padrão: verdadeiro)</PF_SingleItemIconTooltip>
+  <PF_ProductIcon>Mostra ícone de produto</PF_ProductIcon>
+  <PF_ProductIconTooltip>Exibe ícones ao lado dos produtos na aba inspetora de seleção de processo</PF_ProductIconTooltip>
+  <PF_IngredientIcon>Mostra ícone de ingrediente</PF_IngredientIcon>
+  <PF_IngredientIconTooltip>Exibe ícones ao lado dos ingredientes na aba inspetora de seleção de processo</PF_IngredientIconTooltip>
+  <PF_initialProcessState>Configuração padrão dos processos</PF_initialProcessState>
+  <PF_initialProcessStateTooltip>Esta configuração controla como os processadores recém-construídos têm seus processos alternados</PF_initialProcessStateTooltip>
+  <PF_firstOnly>Apenas o primeiro</PF_firstOnly>
+  <PF_firstOnlyTooltip>Apenas o primeiro processo nos processadores recém-construídos fica ativo</PF_firstOnlyTooltip>
+  <PF_allEnabled>Ativado</PF_allEnabled>
+  <PF_allEnabledTooltip>Todos os processos nos processadores recém-construídos ficam ativos</PF_allEnabledTooltip>
+  <PF_allDisabled>Desativado</PF_allDisabled>
+  <PF_allDisabledTooltip>Todos os processos nos processadores recém-construídos ficam desativados</PF_allDisabledTooltip>
+  <PF_defaultQuality>Qualidade-alvo padrão</PF_defaultQuality>
+  <PF_defaultQualityTooltip>Qual qualidade-alvo é definida por padrão para processos que usam qualidade</PF_defaultQualityTooltip>
+  <PF_replaceDestroyedProcessors>Substitui processadores destruídos</PF_replaceDestroyedProcessors>
+  <PF_replaceDestroyedProcessorsTooltip>Alguns processos destroem o processador; ativar esta opção coloca uma planta se isso acontecer</PF_replaceDestroyedProcessorsTooltip>
+  <PF_ReplaceVanillaBarrels>Substitui barris do jogo base</PF_ReplaceVanillaBarrels>
+  <PF_ReplaceVanillaBarrelsTooltip>Substitui todos os barris de fermentação do jogo base pelos do PF; serve para usar após adicionar o PF a um jogo existente, não é seguro em multijogador</PF_ReplaceVanillaBarrelsTooltip>
+  <PF_DefaultSettings>Redefine para o padrão</PF_DefaultSettings>
+  <PF_DefaultSettingsTooltip>Redefine as configurações para os valores padrão</PF_DefaultSettingsTooltip>
+  <PF_ShowProcessBar>Mostra barra de progresso</PF_ShowProcessBar>
+  <PF_ShowProcessBarTooltip>Exibe a barra de progresso do processo ativo</PF_ShowProcessBarTooltip>
+  <PF_emptyNow>Designa este processador para ser esvaziado</PF_emptyNow>
+  <PF_emptyNowDescription>Designa este processador para ser esvaziado por colonos, não importa qual qualidade tenha sido atingida</PF_emptyNowDescription>
+  <PF_dontEmpty>Cancela designação de esvaziar</PF_dontEmpty>
+  <PF_dontEmptyDescription>Cancela a designação para este processador ser esvaziado</PF_dontEmptyDescription>
+  <PF_ContainsIngredientsGeneric>Capacidade: {0} / {1}</PF_ContainsIngredientsGeneric>
+  <PF_ContainsIngredient>Capacidade: {0} / {1} {INGREDIENTS}</PF_ContainsIngredient>
+  <PF_ContainsProduct>Capacidade: {0} / {1} {PRODUCT_label} ({QUALITY})</PF_ContainsProduct>
+  <PF_NoIngredient>Sem ingredientes</PF_NoIngredient>
+  <PF_Progress>Progresso: {0} ({1})</PF_Progress>
+  <PF_NumProcessing>{0} {STACKS} em processamento</PF_NumProcessing>
+  <PF_RunningStacksNoun>pilha</PF_RunningStacksNoun>
+  <PF_RunningCountSlow>({0} lento)</PF_RunningCountSlow>
+  <PF_RunningCountFinished>({0} concluído)</PF_RunningCountFinished>
+  <PF_RunningCountRuined>({0} estragado)</PF_RunningCountRuined>
+  <PF_RunningInfo>Em execução ({0} completo)</PF_RunningInfo>
+  <PF_RunningSlow>Executando devagar: velocidade {SPEED} ({COMPLETE} completo)</PF_RunningSlow>
+  <PF_NonIdealInfluences>{0} não ideal</PF_NonIdealInfluences>
+  <PF_NonIdealSpeedFactor>Velocidade: {0}</PF_NonIdealSpeedFactor>
+  <PF_IdealSafeProductionTemperature>Temperatura de produção ideal (segura)</PF_IdealSafeProductionTemperature>
+  <PF_Finished>Concluído</PF_Finished>
+  <PF_Ideal>Ideal</PF_Ideal>
+  <PF_Safe>Seguro</PF_Safe>
+  <PF_Ruined>Estragado</PF_Ruined>
+  <PF_NA>-</PF_NA>
+  <PF_None>Nenhum</PF_None>
+  <PF_WeatherTemperature>temperatura</PF_WeatherTemperature>
+  <PF_WeatherSunshine>sol</PF_WeatherSunshine>
+  <PF_WeatherRain>chuva</PF_WeatherRain>
+  <PF_WeatherSnow>neve</PF_WeatherSnow>
+  <PF_WeatherWind>vento</PF_WeatherWind>
+  <PF_NextDesc>Produz {0} de {1}.</PF_NextDesc>
+  <PF_SetQualityDesc>Define a qualidade-alvo para o processo.</PF_SetQualityDesc>
+  <PF_OldBarrelInspectString>Barril antigo do jogo base; instale-o em qualquer lugar para trocá-lo por um fermentador universal</PF_OldBarrelInspectString>
+  <PF_ITab_ItemSelection>Processos</PF_ITab_ItemSelection>
+  <PF_ApplySettings>Aplica configurações</PF_ApplySettings>
+  <PF_DestroyChanceTooltip>Chance de o processador ser destruído quando este produto for retirado</PF_DestroyChanceTooltip>
+  <PF_EfficiencyTooltip>Quantidade de ingrediente necessária para um produto</PF_EfficiencyTooltip>
+  <PF_TabProductFilter>Produto</PF_TabProductFilter>
+  <PF_TabIngredientFilter>Filtro</PF_TabIngredientFilter>
+  <PF_TabContents>Conteúdo</PF_TabContents>
+  <PF_FermentingItems>Ingredientes</PF_FermentingItems>
+  <PF_Product>Produto</PF_Product>
+  <PF_TargetQuality>Alvo</PF_TargetQuality>
+  <PF_CreatingTooltip1>Criando {PRODUCT}{QUALITY} de {INGREDIENT}.\n</PF_CreatingTooltip1>
+  <PF_CreatingTooltip2_Quality>\nTempo de processamento até qualidade horrível: {TOAWFUL}.\n</PF_CreatingTooltip2_Quality>
+  <PF_CreatingTooltip2_NoQuality>\nTempo de processamento: {TIME}.\n</PF_CreatingTooltip2_NoQuality>
+  <PF_CreatingTooltip3>\nTemperatura ideal de operação: {MIN}~{MAX}.\n</PF_CreatingTooltip3>
+  <PF_CreatingTooltip4>Temperatura segura: {MIN}~{MAX}.\nTaxa de deterioração: {PERHOUR} / grau / h\n</PF_CreatingTooltip4>
+  <PF_CreatingTooltip5>\nO produto está {0} deteriorado.\n</PF_CreatingTooltip5>
+  <PF_CreatingTooltip6>Deteriorando agora! A temperatura é {0}!</PF_CreatingTooltip6>
+  <PF_SpeedTooltip1>{COMPLETEPERCENT} completo\nVelocidade: {SPEED}\n\n</PF_SpeedTooltip1>
+  <PF_SpeedTooltip2>Fatores de velocidade:\nTemperatura: {TEMPERATURE}\nVento: {WIND}\nSol: {SUN}\nChuva: {RAIN}\nNeve: {SNOW}\n\n</PF_SpeedTooltip2>
+  <PF_SpeedTooltip3>Conclusão estimada em: {ESTIMATED}</PF_SpeedTooltip3>
+  <PF_QualityTooltip1>Qualidade-alvo: {TARGET}\nQualidade atual: {CURRENT}\n\n</PF_QualityTooltip1>
+  <PF_QualityTooltip2>Tempo de processamento restante para\nHorrível: {AWFUL}\nPobre: {POOR}\nNormal: {NORMAL}\nBom: {GOOD}\nExcelente: {EXCELLENT}\nObra-prima: {MASTERWORK}\nLendário: {LEGENDARY}</PF_QualityTooltip2>
+  <PF_QualityTooltipNA>{PRODUCT_label} é sempre da mesma qualidade.</PF_QualityTooltipNA>
+</LanguageData>

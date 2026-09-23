@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fluffy.ResearchTree.ScrollSpeed>Velocidade de rolagem: {0}</Fluffy.ResearchTree.ScrollSpeed>
+  <Fluffy.ResearchTree.HoldForClassic>Segure SHIFT para abrir a janela de pesquisa do jogo base</Fluffy.ResearchTree.HoldForClassic>
+  <Fluffy.ResearchTree.HoldForNew>Segure SHIFT para abrir a nova janela de pesquisa</Fluffy.ResearchTree.HoldForNew>
+  <Fluffy.ResearchTree.ReverseShift>Usa SHIFT + clique esquerdo para substituir a fila</Fluffy.ResearchTree.ReverseShift>
+  <Fluffy.ResearchTree.ReverseShiftTT>Em vez de substituir a fila inteira ao clicar com o botão esquerdo em um projeto de pesquisa, é preciso usar SHIFT + clique esquerdo</Fluffy.ResearchTree.ReverseShiftTT>
+  <Fluffy.ResearchTree.AllowsBuildingX>Permite a construção {0}</Fluffy.ResearchTree.AllowsBuildingX>
+  <Fluffy.ResearchTree.AllowsCraftingX>Permite a receita {0}</Fluffy.ResearchTree.AllowsCraftingX>
+  <Fluffy.ResearchTree.AllowsSowingXinY>Permite plantar {0} em {1}</Fluffy.ResearchTree.AllowsSowingXinY>
+  <Fluffy.ResearchTree.AllowsPlantingX>Permite cultivar {0}</Fluffy.ResearchTree.AllowsPlantingX>
+  <Fluffy.ResearchTree.LClickReplaceQueue>Clique esquerdo para substituir a fila</Fluffy.ResearchTree.LClickReplaceQueue>
+  <Fluffy.ResearchTree.SLClickReplaceQueue>Shift + clique esquerdo para substituir a fila</Fluffy.ResearchTree.SLClickReplaceQueue>
+  <Fluffy.ResearchTree.LClickRemoveFromQueue>Shift + clique para remover da fila</Fluffy.ResearchTree.LClickRemoveFromQueue>
+  <Fluffy.ResearchTree.CLClickMoveToFrontOfQueue>Ctrl + clique esquerdo para mover para a frente da fila</Fluffy.ResearchTree.CLClickMoveToFrontOfQueue>
+  <Fluffy.ResearchTree.SLClickAddToQueue>Shift + clique esquerdo para adicionar à fila</Fluffy.ResearchTree.SLClickAddToQueue>
+  <Fluffy.ResearchTree.LClickAddToQueue>Clique esquerdo para adicionar à fila</Fluffy.ResearchTree.LClickAddToQueue>
+  <Fluffy.ResearchTree.CLClickAddToFrontOfQueue>Ctrl + clique esquerdo para adicionar à frente da fila</Fluffy.ResearchTree.CLClickAddToFrontOfQueue>
+  <Fluffy.ResearchTree.SRClickShowInfo>Clique direito para mostrar a janela de informações</Fluffy.ResearchTree.SRClickShowInfo>
+  <Fluffy.ResearchTree.CannotMoveMore>{0} não pode ser movido mais para a frente da fila do que já está</Fluffy.ResearchTree.CannotMoveMore>
+  <Fluffy.ResearchTree.RClickInstaFinish>(DEBUG) Clique direito para concluir na hora</Fluffy.ResearchTree.RClickInstaFinish>
+  <Fluffy.ResearchTree.RClickInstaFinishNew>(DEBUG) Shift + clique direito para concluir na hora</Fluffy.ResearchTree.RClickInstaFinishNew>
+  <Fluffy.ResearchTree.VerboseLogging>Registro detalhado</Fluffy.ResearchTree.VerboseLogging>
+  <Fluffy.ResearchTree.NoIdeologyPopup>Não mostra aviso de meme ausente</Fluffy.ResearchTree.NoIdeologyPopup>
+  <Fluffy.ResearchTree.NoIdeologyPopupTT>Ao selecionar uma pesquisa, o aviso de que ela desbloqueia itens que sua Ideologia atual não permite não é mostrado</Fluffy.ResearchTree.NoIdeologyPopupTT>
+  <Fluffy.ResearchTree.HideNodesBlockedByTechLevel>Esconde pesquisas bloqueadas por restrições de nível tecnológico</Fluffy.ResearchTree.HideNodesBlockedByTechLevel>
+  <Fluffy.ResearchTree.LinuxUseCompatibilityDrawing>Linux: usa desenho de compatibilidade</Fluffy.ResearchTree.LinuxUseCompatibilityDrawing>
+  <Fluffy.ResearchTree.LinuxUseCompatibilityDrawingTT>Somente Linux. Usa o desenho de GUI padrão em vez do caminho de desenho rápido interno. Pode reduzir travamentos em alguns sistemas.</Fluffy.ResearchTree.LinuxUseCompatibilityDrawingTT>
+  <Fluffy.ResearchTree.Requires>Exige</Fluffy.ResearchTree.Requires>
+  <Fluffy.ResearchTree.NotStarted>Não iniciada, custa {0}</Fluffy.ResearchTree.NotStarted>
+  <Fluffy.ResearchTree.InProgress>Em andamento, {0} de {1} feito</Fluffy.ResearchTree.InProgress>
+  <Fluffy.ResearchTree.LeadsTo>Leva a</Fluffy.ResearchTree.LeadsTo>
+  <Fluffy.ResearchTree.StorytellerDoesNotAllow>O narrador não permite esta tecnologia</Fluffy.ResearchTree.StorytellerDoesNotAllow>
+  <Fluffy.ResearchTree.RimedievalDoesNotAllow>As configurações do Rimedieval não permitem esta tecnologia</Fluffy.ResearchTree.RimedievalDoesNotAllow>
+  <Fluffy.ResearchTree.WorldTechLevelDoesNotAllow>As configurações de Nível Tecnológico Mundial não permitem esta tecnologia</Fluffy.ResearchTree.WorldTechLevelDoesNotAllow>
+  <Fluffy.ResearchTree.GrimworldDoesNotAllow>Requisito de estudo do Grimworld não cumprido; clique direito para mostrar informações detalhadas</Fluffy.ResearchTree.GrimworldDoesNotAllow>
+  <Fluffy.ResearchTree.SemiRandomResearchLoaded>A Pesquisa Semi Aleatória não permite escolher pesquisa livremente</Fluffy.ResearchTree.SemiRandomResearchLoaded>
+  <Fluffy.ResearchTree.Anomaly>Pesquisa de Anomalia</Fluffy.ResearchTree.Anomaly>
+  <Fluffy.ResearchTree.None>nenhum</Fluffy.ResearchTree.None>
+  <Fluffy.ResearchTree.Reset>Redefine</Fluffy.ResearchTree.Reset>
+  <Fluffy.ResearchTree.ResetLabel>Redefine todas as configurações</Fluffy.ResearchTree.ResetLabel>
+  <Fluffy.ResearchTree.BackgroundColor>Cor de fundo</Fluffy.ResearchTree.BackgroundColor>
+  <Fluffy.ResearchTree.ShowCompletion>Mostra mensagem de conclusão para pesquisa concluída</Fluffy.ResearchTree.ShowCompletion>
+  <Fluffy.ResearchTree.StillLoading>Árvore carregando pela primeira vez, pode demorar um pouco</Fluffy.ResearchTree.StillLoading>
+  <Fluffy.ResearchTree.LoadingWait>Árvore não terminou de gerar; clique para abrir a árvore do jogo base</Fluffy.ResearchTree.LoadingWait>
+  <Fluffy.ResearchTree.CurrentModVersion>Versão do mod instalada: {0}</Fluffy.ResearchTree.CurrentModVersion>
+  <Fluffy.ResearchTree.PauseOnOpen>Pausa o jogo ao abrir a árvore de pesquisa</Fluffy.ResearchTree.PauseOnOpen>
+  <Fluffy.ResearchTree.VanillaGraphics>Usa os métodos gráficos antigos (se piscar)</Fluffy.ResearchTree.VanillaGraphics>
+  <Fluffy.ResearchTree.LoadType>Quando a árvore de pesquisa deve ser gerada?</Fluffy.ResearchTree.LoadType>
+  <Fluffy.ResearchTree.LoadTypeOne>Durante o carregamento do jogo</Fluffy.ResearchTree.LoadTypeOne>
+  <Fluffy.ResearchTree.LoadTypeTwo>Após o carregamento do jogo, em segundo plano</Fluffy.ResearchTree.LoadTypeTwo>
+  <Fluffy.ResearchTree.LoadTypeThree>Na primeira vez que abrir a árvore de pesquisa</Fluffy.ResearchTree.LoadTypeThree>
+  <Fluffy.ResearchTree.LoadTypeFour>Não gera árvore de pesquisa, mas mantém a fila de pesquisa</Fluffy.ResearchTree.LoadTypeFour>
+  <Fluffy.ResearchTree.QueuedNode>Nó já na fila</Fluffy.ResearchTree.QueuedNode>
+  <Fluffy.ResearchTree.MissingFacilities>Faltando {0}</Fluffy.ResearchTree.MissingFacilities>
+  <Fluffy.ResearchTree.MissingTechprints>Projetos técnicos insuficientes {0}/{1}</Fluffy.ResearchTree.MissingTechprints>
+  <Fluffy.ResearchTree.MissingStudiedThings>Faltando estudos de item: {0}</Fluffy.ResearchTree.MissingStudiedThings>
+  <Fluffy.ResearchTree.MissingMechanitorRequirement>Faltando mecanitor</Fluffy.ResearchTree.MissingMechanitorRequirement>
+  <Fluffy.ResearchTree.NoResearchFound>nenhuma pesquisa encontrada</Fluffy.ResearchTree.NoResearchFound>
+  <Fluffy.ResearchTree.NothingQueued>nenhuma pesquisa na fila</Fluffy.ResearchTree.NothingQueued>
+  <Fluffy.ResearchTree.NextInQueue>Próxima na fila: {0}</Fluffy.ResearchTree.NextInQueue>
+  <Fluffy.ResearchTree.PreparingTree.Setup>Preparando nós de pesquisa</Fluffy.ResearchTree.PreparingTree.Setup>
+  <Fluffy.ResearchTree.PreparingTree.CrossingReduction>Reduzindo cruzamentos</Fluffy.ResearchTree.PreparingTree.CrossingReduction>
+  <Fluffy.ResearchTree.PreparingTree.Layout>Finalizando o layout</Fluffy.ResearchTree.PreparingTree.Layout>
+  <Fluffy.ResearchTree.PreparingTree.LayoutNew>Finalizando o layout da árvore de pesquisa</Fluffy.ResearchTree.PreparingTree.LayoutNew>
+  <Fluffy.ResearchTree.RestoreQueue>Restaurando fila</Fluffy.ResearchTree.RestoreQueue>
+  <ResearchPal.BuildingResearchTreeAsync>Construindo árvore de pesquisa</ResearchPal.BuildingResearchTreeAsync>
+  <Fluffy.ResearchTree.CtrlFunctionScroll>Usa Ctrl para rolar a árvore de pesquisa verticalmente, Shift na horizontal</Fluffy.ResearchTree.CtrlFunctionScroll>
+  <Fluffy.ResearchTree.CtrlFunctionZoom>Usa Ctrl para dar zoom na árvore de pesquisa</Fluffy.ResearchTree.CtrlFunctionZoom>
+  <Fluffy.ResearchTree.ResolutionChange>ResearchTree: mudança de gráficos detectada, a árvore de pesquisa será regenerada</Fluffy.ResearchTree.ResolutionChange>
+  <Fluffy.ResearchTree.BlockRegenerationOnResolutionChange>Evita a regeneração da árvore de pesquisa quando a resolução muda</Fluffy.ResearchTree.BlockRegenerationOnResolutionChange>
+  <Fluffy.ResearchTree.UIScaleWarning>Ao usar escala de UI maior que 1x, os rótulos de pesquisa podem ser cortados se usar a opção de carregamento em segundo plano.\nUse o carregamento na primeira abertura se isto ocorrer.</Fluffy.ResearchTree.UIScaleWarning>
+  <Fluffy.ResearchTree.OverrideResearch>Torna a árvore de pesquisa a aba de pesquisa padrão \n(segure shift para abrir a do jogo base)</Fluffy.ResearchTree.OverrideResearch>
+</LanguageData>

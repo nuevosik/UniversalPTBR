@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Outposts.Settings.ResearchRate>Taxa de pesquisa</Outposts.Settings.ResearchRate>
+  <Outposts.Settings.WorkToDrill>Tempo para perfurar (precisa ocorrer antes de a produção começar)</Outposts.Settings.WorkToDrill>
+  <Outposts.Settings.Cooldown>Recarga</Outposts.Settings.Cooldown>
+  <Outposts.Settings.Shooting>Importância de tiro</Outposts.Settings.Shooting>
+  <Outposts.Settings.Animals>Importância de animais</Outposts.Settings.Animals>
+  <Outposts.Settings.NeedPods>Precisa da tecnologia de cápsulas de transporte para enviar reforços?</Outposts.Settings.NeedPods>
+  <Outposts.Settings.Leather>Multiplicador de couro</Outposts.Settings.Leather>
+  <Outposts.Settings.Meat>Multiplicador de carne</Outposts.Settings.Meat>
+  <Outposts.Settings.DoIntercept>Intercepta incursões recebidas?</Outposts.Settings.DoIntercept>
+  <Outposts.Settings.InterceptDifficultyMultiplier>Multiplicador de dificuldade de interceptação</Outposts.Settings.InterceptDifficultyMultiplier>
+  <Outposts.Settings.InterceptDifficultyMultiplierTooltip>Soma-se ao seu modificador global de dificuldade, e a interceptação já é mais difícil que as incursões de defesa comuns. Ajuste para cima por sua conta e risco</Outposts.Settings.InterceptDifficultyMultiplierTooltip>
+  <Outposts.Settings.Chance>Multiplicador de chance de recrutamento</Outposts.Settings.Chance>
+  <Outposts.Settings.NeedFuel>Cápsulas de transporte exigem combustível</Outposts.Settings.NeedFuel>
+  <Outposts.Settings.NeedFuelAmount>Quantidade de combustível</Outposts.Settings.NeedFuelAmount>
+  <Outposts.Commands.Fire.Label>Ataque de artilharia</Outposts.Commands.Fire.Label>
+  <Outposts.Commands.Fire.Desc>Começa a mirar um mapa para um ataque de artilharia.</Outposts.Commands.Fire.Desc>
+  <Outposts.Commands.Disabled.Cooldown>Ainda em recarga.</Outposts.Commands.Disabled.Cooldown>
+  <Outposts.Cooldown>Em recarga: falta {0}</Outposts.Cooldown>
+  <Outposts.Letters.Intercept.Label>Incursão interceptada</Outposts.Letters.Intercept.Label>
+  <Outposts.Letters.Intercept.Text>Uma incursão com destino a {0} foi interceptada pelo posto avançado defensivo {1}. Tomara que sobrevivam a esta manobra corajosa.</Outposts.Letters.Intercept.Text>
+  <Outposts.Intercept.Title>Posto avançado intercepta incursão</Outposts.Intercept.Title>
+  <Outposts.Intercept.CanIntercept>Os defensores em {0} detectaram uma incursão de {1} indo em direção a {2}! \n\nEstão em posição de emboscar parte da força de incursão; se tiverem sucesso, o resto deve se dispersar e voltar. Eles estimam que a força que vão enfrentar é composta por: \n{3}</Outposts.Intercept.CanIntercept>
+  <Outposts.Intercept.InterceptRaid>Manobra e intercepta os invasores</Outposts.Intercept.InterceptRaid>
+  <Outposts.Intercept.DontIntercept>Recua e volta ao posto avançado</Outposts.Intercept.DontIntercept>
+  <Outposts.Commands.Deploy.Label>Envia reforços</Outposts.Commands.Deploy.Label>
+  <Outposts.Commands.Deploy.Desc>Envia a guarnição deste posto avançado em cápsulas de transporte para ajudar em um de seus combates.</Outposts.Commands.Deploy.Desc>
+  <Outposts.Commands.Deploy.Disabled>Não dá para enviar: cápsulas de transporte indisponíveis para você.</Outposts.Commands.Deploy.Disabled>
+  <Outposts.Commands.Deploy.Only1>Não dá para enviar o último colono.</Outposts.Commands.Deploy.Only1>
+  <Outposts.Commands.Deploy.NotEnoughFuel>Não dá para enviar, combustível armazenado insuficiente.</Outposts.Commands.Deploy.NotEnoughFuel>
+  <Outposts.Drilling>Perfurando poços. Feito {0}. Tempo estimado restante: {1}</Outposts.Drilling>
+  <Outposts.MustBeMade>Precisa ser feito em {0}</Outposts.MustBeMade>
+  <Outposts.MustBeMade.Hill>Precisa ser feito em montanhas ou colinas</Outposts.MustBeMade.Hill>
+  <Outposts.SkillTooLow>Habilidade total baixa demais, precisa de {0}</Outposts.SkillTooLow>
+  <Outposts.NearbySettlements>Povoados próximos insuficientes, precisa de {0} em até {1} blocos</Outposts.NearbySettlements>
+  <Outposts.Letters.Recruit.Label>Colonos recrutados: {0}</Outposts.Letters.Recruit.Label>
+  <Outposts.Letters.Recruit.Desc>Os seguintes colonos foram recém-recrutados na cidade de {0}:\n{1}</Outposts.Letters.Recruit.Desc>
+  <Outposts.Commands.Factory.Label>Muda fábrica</Outposts.Commands.Factory.Label>
+  <Outposts.Commands.Factory.Desc>Muda qual edifício de fábrica este posto avançado usa para produzir itens para você.</Outposts.Commands.Factory.Desc>
+  <Outposts.Commands.Comb.Label>Muda resultado</Outposts.Commands.Comb.Label>
+  <Outposts.Commands.Comb.Desc>Muda o que a fábrica produz.</Outposts.Commands.Comb.Desc>
+  <Outposts.MustBeOnCoastOrRiver>Precisa ser feito na costa ou em um rio</Outposts.MustBeOnCoastOrRiver>
+  <Outposts.MustBeArmed>Todos os ocupantes precisam estar armados e prontos para combate.</Outposts.MustBeArmed>
+  <Outposts.WillProduce.Pawns>Pode recrutar alguns colonos novos em {0}</Outposts.WillProduce.Pawns>
+  <Outposts.Defensive.Won.Label>Emboscada de incursão vencida</Outposts.Defensive.Won.Label>
+  <Outposts.Defensive.Won.Desc>Seus soldados derrotaram com sucesso a incursão recebida antes que ela chegasse ao seu povoado. {0}</Outposts.Defensive.Won.Desc>
+  <Outposts.Defensive.Lost.Label>Emboscada de incursão perdida</Outposts.Defensive.Lost.Label>
+  <Outposts.Defensive.Lost.Desc>Seus soldados foram derrotados ao emboscar uma incursão que mirava seu povoado. Por sorte, os invasores desanimaram com sua audácia e decidiram voltar para casa sem continuar até seu povoado. O sacrifício dos seus soldados não foi em vão.</Outposts.Defensive.Lost.Desc>
+</LanguageData>

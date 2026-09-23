@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <fulfill_outdoors_head>Necessidade de ar livre</fulfill_outdoors_head>
+  <fulfill_outdoors_label>Colonos são incentivados a satisfazer a necessidade de ar livre buscando recreação ao ar livre</fulfill_outdoors_label>
+  <fulfill_outdoors_note>NOTA: não coloque as mesmas fontes de diversão dentro e fora de casa, para evitar indecisão.</fulfill_outdoors_note>
+  <clean_head>Tarefas oportunistas</clean_head>
+  <clean_before_working_label>Colonos são incentivados a limpar o cômodo antes de operar uma estação nele</clean_before_working_label>
+  <clean_before_working_note>NOTA: não espere que colonos que não sabem limpar comecem a limpar de repente.</clean_before_working_note>
+  <bill_job_pathing_label>Calcula o caminho preciso até o edifício para tarefas de tarefas</bill_job_pathing_label>
+  <bill_job_pathing_note>Ajuda a evitar voltas sem sentido quando seus colonos precisam trazer recursos primeiro, mas pode pesar na CPU</bill_job_pathing_note>
+  <clean_after_tending_label>Colonos são incentivados a limpar o cômodo após cuidar de um paciente</clean_after_tending_label>
+  <clean_after_tending_note>NOTA: não espere que colonos que não sabem limpar comecem a limpar de repente.</clean_after_tending_note>
+  <meal_stacking_head>Empilhamento de refeições</meal_stacking_head>
+  <meal_stacking_label>Colonos evitam misturar pensamentos negativos ao empilhar refeições</meal_stacking_label>
+  <meal_stacking_note>Assim os colonos nunca misturam refeições nojentas com as normais</meal_stacking_note>
+  <dont_count_odd_label>Conta carne estranha (ex.: inseto) como normal, permitindo empilhá-la com as refeições normais</dont_count_odd_label>
+  <dont_count_odd_note>Carne de inseto não é tão ruim...</dont_count_odd_note>
+  <gen_ingredients_head>Geração de refeições</gen_ingredients_head>
+  <gen_ingredients_label>Adiciona ingredientes aleatórios a refeições geradas aleatoriamente</gen_ingredients_label>
+  <gen_ingredients_note>Ex.: presenteada pelo narrador, vendida por um comerciante, saqueada de um cadáver. Apenas componentes neutros de humor são usados. Com esta opção ligada, o jogo nunca mais é o mesmo</gen_ingredients_note>
+  <add_to_que_label>Adiciona a tarefa anterior à fila</add_to_que_label>
+  <add_to_que_note>Assim os colonos não mudam de ideia após executar uma tarefa oportunista, mas às vezes pode causar confusão se uma tarefa já foi tomada</add_to_que_note>
+  <hauling_over_bills_label>Colonos são incentivados a transportar ingredientes de uma tarefa para um estoque</hauling_over_bills_label>
+  <hauling_over_bills_note>Ao trabalhar em uma tarefa, os colonos preferem transportar ingredientes para um estoque, em vez de pegar uma fração pequena, exigida para uma receita</hauling_over_bills_note>
+  <fulfill_needs_head>Satisfação de necessidades</fulfill_needs_head>
+  <drugs_use_potential_mood_label>Colonos são incentivados a considerar o humor potencial nas políticas de drogas</drugs_use_potential_mood_label>
+  <drugs_use_potential_mood_note>Os colonos não usam drogas se o humor "potencial" estiver acima de um limite, evitando o uso excessivo de drogas para atingir um nível de humor definido.</drugs_use_potential_mood_note>
+  <miscellaneous_head>Diversos</miscellaneous_head>
+  <extended_recipe_label>Receitas exibem a lista completa de ingredientes</extended_recipe_label>
+  <extended_recipe_note>Em vez de apenas "ingredientes" vago</extended_recipe_note>
+  <advanced_head>Comportamentos avançados</advanced_head>
+  <advanced_inbetween_cleaning_label>Colonos limpam cômodos entre transportar ingredientes e fabricar</advanced_inbetween_cleaning_label>
+  <advanced_inbetween_cleaning_note>O comportamento básico os deixaria limpar apenas antes de transportar</advanced_inbetween_cleaning_note>
+  <advanced_haul_all_ings_label>Colonos são incentivados a pegar todos os ingredientes antes de transportá-los ao local de fabricação</advanced_haul_all_ings_label>
+  <advanced_haul_all_ings_note>Os colonos levam todos os ingredientes necessários ao inventário de transporte deles antes de entregá-los ao local de fabricação</advanced_haul_all_ings_note>
+  <prefer_spoiling_ingredients_label>Colonos são incentivados a usar ingredientes e materiais mais próximos de estragar.</prefer_spoiling_ingredients_label>
+  <prefer_spoiling_ingredients_note>AVISO: uma grande quantidade de itens para escolher pode causar travamento quando esta opção está ativa.</prefer_spoiling_ingredients_note>
+  <UnloadThing>Descarregar</UnloadThing>
+  <UnloadThingCancel>Cancela descarregamento</UnloadThingCancel>
+  <manual_unload_label>Ativa um botão no inventário do colono para marcar itens para transporte ao estoque</manual_unload_label>
+  <manual_unload_note>Se não houver estoques para transportar, o colono derruba o item perto dele</manual_unload_note>
+  <put_back_to_inv_label>Colonos devolvem itens ao inventário quando interrompidos</put_back_to_inv_label>
+  <put_back_to_inv_note>Quando os colonos estão segurando um item do inventário nas mãos, eles o devolvem se a ação for interrompida</put_back_to_inv_note>
+  <pick_proper_amount_label>Colonos param de pegar mais doces do que conseguem comer</pick_proper_amount_label>
+  <pick_proper_amount_note>Chega de chocolate espalhado por aí</pick_proper_amount_note>
+  <Category>Categoria</Category>
+  <fun_police_label>Colonos são incentivados a satisfazer necessidades secundárias durante a tarefa de diversão, ou se acordados cedo</fun_police_label>
+  <fun_police_note>Os colonos tentam completar a necessidade de diversão só depois que ela cai abaixo de 80%; preferem pegar uma refeição sobressalente para o inventário e satisfazer todas as necessidades de higiene (se o mod dubs estiver presente)</fun_police_note>
+  <numbers_head>Números ajustáveis (0 = Ilimitado)</numbers_head>
+  <op_clean_number_label>Limite de sujeira para limpeza pré-tarefa</op_clean_number_label>
+  <adv_clean_number_label>Limite de sujeira para limpeza pré-tarefa</adv_clean_number_label>
+  <doc_clean_number_label>Limite de sujeira para limpeza pós-cuidado</doc_clean_number_label>
+  <skip_snow_clean_label>Colonos são desincentivados a limpar neve de áreas quando está nevando ou chovendo</skip_snow_clean_label>
+  <skip_snow_clean_note>Quando estiver chovendo, só no caso de um clima complicado</skip_snow_clean_note>
+  <prefer_spoiling_meals_label>Colonos são incentivados a comer refeições mais próximas de estragar</prefer_spoiling_meals_label>
+  <prefer_spoiling_meals_note>AVISO: uma grande quantidade de itens para escolher pode causar travamento quando esta opção está ativa.</prefer_spoiling_meals_note>
+  <allow_feeding_with_plants_label>Permite e incentiva colonos a alimentar animais com feno.</allow_feeding_with_plants_label>
+  <allow_feeding_with_plants_note>Os animais também são incentivados a preferir comida não humana.</allow_feeding_with_plants_note>
+  <give_sick_joy_drugs_label>Colonos são incentivados a dar drogas sociais permitidas ou comida que dá diversão a colonos doentes</give_sick_joy_drugs_label>
+  <give_sick_joy_drugs_note>Por que conversar se é possível dar uma barra de chocolate?</give_sick_joy_drugs_note>
+  <social_relax_economy_label>Muda como os colonos usam drogas ao relaxar socialmente para evitar que "desperdicem diversão"</social_relax_economy_label>
+  <social_relax_economy_note>Normalmente os colonos sentam por uma hora ou duas antes de consumir a droga de fato, desperdiçando o efeito</social_relax_economy_note>
+  <advanced_cleaning_ingest_label>Colonos são incentivados a limpar antes de comer em uma mesa ou relaxar socialmente</advanced_cleaning_ingest_label>
+  <advanced_cleaning_ingest_note>Os colonos limpam ao redor da mesa onde planejam sentar</advanced_cleaning_ingest_note>
+  <mood_regen_label>O humor do colono se move devagar em direção a 50% enquanto ele dorme, se possível</mood_regen_label>
+  <mood_regen_note>Só deixe os colonos "dormirem com isso" e eles ficam bem</mood_regen_note>
+  <safe_wander_label>Colonos são incentivados a evitar mau tempo ao vagar sem rumo</safe_wander_label>
+  <safe_wander_note>Só parem de sair andando para a chuva tóxica, seus idiotas</safe_wander_note>
+  <pathing_head>Caminhamento</pathing_head>
+  <polite_wander_label>Quaisquer colonos amigáveis são incentivados a evitar vagar por quartos, celas de prisão e dormitórios de prisão</polite_wander_label>
+  <polite_wander_note>Isto é apenas indecente ou até perigoso, não é?</polite_wander_note>
+  <ingest_any_drugs_label>Permite tomar quaisquer drogas do inventário</ingest_any_drugs_label>
+  <ingest_any_drugs_note>Se é ingerível, deveria ser possível comer sem derrubar no chão</ingest_any_drugs_note>
+  <DoCleanCompToggleLabel>Limpa ao redor desta bancada</DoCleanCompToggleLabel>
+  <DoCleanCompToggleDescActive>Os colonos limpam ao redor desta bancada</DoCleanCompToggleDescActive>
+  <DoCleanCompToggleDescInactive>Os colonos NÃO limpam ao redor desta bancada</DoCleanCompToggleDescInactive>
+  <advanced_inbetween_cleaning_gizmo_label>Mostra um controle para alternar quais bancadas precisam de limpeza</advanced_inbetween_cleaning_gizmo_label>
+  <advanced_inbetween_cleaning_gizmo_note>É possível desativar a limpeza ao redor de algumas bancadas</advanced_inbetween_cleaning_gizmo_note>
+  <meditation_economy_label>Colonos meditam apenas o quanto precisam</meditation_economy_label>
+  <meditation_economy_note>A menos que sob tarefa de meditação, os colonos param de meditar se o psicofoco deles estiver cheio e eles não virem a meditação como uma boa fonte de diversão (cheia ou entediada dela)</meditation_economy_note>
+  <advanced_respect_capacity_label>-- os colonos não excedem a capacidade do inventário</advanced_respect_capacity_label>
+  <advanced_respect_capacity_note>Por motivos de imersão ou qualquer coisa</advanced_respect_capacity_note>
+  <optimal_patching_label>Patching ideal</optimal_patching_label>
+  <optimal_patching_note>Quando esta opção está desligada, todas as opções ativam imediatamente após alterná-las, ao custo de estarem sempre no código, possivelmente afetando o desempenho mesmo desligadas. Quando a opção está ligada, as opções exigem reiniciar o jogo ao serem mudadas, mas os patches necessários para estas opções não ocorrem, removendo o impacto extra de desempenho quando o jogo inicia com estas opções desligadas</optimal_patching_note>
+  <optimal_patching_attention_label>ATENÇÃO: o patching ideal não se aplica direito sem reiniciar o jogo!</optimal_patching_attention_label>
+</LanguageData>

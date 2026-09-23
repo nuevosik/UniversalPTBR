@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_VerbCooldownFactor.label>fator de recarga de arma de longo alcance</VEF_VerbCooldownFactor.label>
+  <VEF_VerbCooldownFactor.description>A recarga das armas é multiplicada por este valor.</VEF_VerbCooldownFactor.description>
+  <VEF_EnergyShieldEnergyMaxApparel.label>energia máx. do escudo</VEF_EnergyShieldEnergyMaxApparel.label>
+  <VEF_EnergyShieldEnergyMaxApparel.description>A energia máxima que um gerador de escudo pode ter de uma vez. Mais energia absorve mais dano.</VEF_EnergyShieldEnergyMaxApparel.description>
+  <VEF_EnergyShieldRechargeRateApparel.label>taxa de recarga do escudo</VEF_EnergyShieldRechargeRateApparel.label>
+  <VEF_EnergyShieldRechargeRateApparel.description>A taxa em que um escudo ganha energia enquanto não estiver quebrado.</VEF_EnergyShieldRechargeRateApparel.description>
+  <VEF_EnergyShieldEnergyMaxPawn.label>energia máx. do escudo</VEF_EnergyShieldEnergyMaxPawn.label>
+  <VEF_EnergyShieldEnergyMaxPawn.description>A energia máxima que um gerador de escudo pode ter de uma vez. Mais energia absorve mais dano.</VEF_EnergyShieldEnergyMaxPawn.description>
+  <VEF_EnergyShieldRechargeRatePawn.label>taxa de recarga do escudo</VEF_EnergyShieldRechargeRatePawn.label>
+  <VEF_EnergyShieldRechargeRatePawn.description>A taxa em que um escudo ganha energia enquanto não estiver quebrado.</VEF_EnergyShieldRechargeRatePawn.description>
+  <VEF_EnergyShieldRadiusPawn.label>raio do escudo</VEF_EnergyShieldRadiusPawn.label>
+  <VEF_EnergyShieldRadiusPawn.description>A área coberta quando o escudo de energia está ativo.</VEF_EnergyShieldRadiusPawn.description>
+  <VEF_MeleeAttackSpeedFactor.label>fator de velocidade de ataque corpo a corpo</VEF_MeleeAttackSpeedFactor.label>
+  <VEF_MeleeAttackSpeedFactor.description>Um multiplicador na velocidade de ataque corpo a corpo.</VEF_MeleeAttackSpeedFactor.description>
+  <VEF_RangeAttackSpeedFactor.label>fator de velocidade de ataque à distância</VEF_RangeAttackSpeedFactor.label>
+  <VEF_RangeAttackSpeedFactor.description>Um multiplicador na velocidade de ataque à distância.</VEF_RangeAttackSpeedFactor.description>
+  <VEF_AnimalProductYieldFactor.label>fator de rendimento de produto animal</VEF_AnimalProductYieldFactor.label>
+  <VEF_AnimalProductYieldFactor.description>Um multiplicador na quantidade de produtos animais especiais produzidos por este animal.</VEF_AnimalProductYieldFactor.description>
+  <VEF_AnimalProductIntervalFactor.label>fator de intervalo de produto animal</VEF_AnimalProductIntervalFactor.label>
+  <VEF_AnimalProductIntervalFactor.description>Um multiplicador no intervalo de tempo necessário para este animal produzir produtos animais especiais.</VEF_AnimalProductIntervalFactor.description>
+</LanguageData>

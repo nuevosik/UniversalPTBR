@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AU_NoLineOfSight>Sem linha de visão</AU_NoLineOfSight>
+  <AU_NoTargets>Nenhum alvo disponível</AU_NoTargets>
+  <AU_DISABLED>DESATIVADO</AU_DISABLED>
+  <AU_Type>Tipo:</AU_Type>
+  <AU_TargetAoE>Área de efeito</AU_TargetAoE>
+  <AU_TargetSelf>Alveja a si mesmo</AU_TargetSelf>
+  <AU_TargetThing>Alveja outro</AU_TargetThing>
+  <AU_TargetLocation>Alveja local</AU_TargetLocation>
+  <AU_Cooldown>Recarga:</AU_Cooldown>
+  <AU_Extra>Extra</AU_Extra>
+  <AU_MentalStateChance>Chance de estado mental</AU_MentalStateChance>
+  <AU_EffectChance>Chance de efeito</AU_EffectChance>
+  <AU_PawnAbilityRecharging>{0} precisa de tempo para recarregar</AU_PawnAbilityRecharging>
+  <AU_AoEProperties>Propriedades de área de efeito</AU_AoEProperties>
+  <AU_TargetClass>Alvos:</AU_TargetClass>
+  <AU_AoECharacters>Personagens</AU_AoECharacters>
+  <AU_AoEFriendlyFire>Fogo amigo:</AU_AoEFriendlyFire>
+  <AU_AoEMaxTargets>Alvos máx.:</AU_AoEMaxTargets>
+  <AU_AoEStartsFromCaster>Começa do lançador:</AU_AoEStartsFromCaster>
+  <DeactivatedWarning>AVISO: a arma atual de {0} está desativada!</DeactivatedWarning>
+  <NoDeflectorEquipped>Nenhum defletor equipado</NoDeflectorEquipped>
+  <DeflectChance>Chance de deflexão</DeflectChance>
+  <DeflectChanceEx>Determina com que frequência esta arma devolve projéteis ao atacante.</DeflectChanceEx>
+  <MaxDeflectChance>Chance máx. de deflexão</MaxDeflectChance>
+  <MaxDeflectChanceEx>Para cada ponto em {0}, o usuário ganha {1} de chance de defletir o projétil de volta ao alvo. {2} é a chance máxima possível de deflexão.</MaxDeflectChanceEx>
+  <DeflectChancePerLevel>Deflexão % por habilidade de {0}</DeflectChancePerLevel>
+  <DeflectChancePerLevelEx>Para cada nível em {0}, o usuário ganha esta % de chance de defletir um projétil.</DeflectChancePerLevelEx>
+  <StatsReport_DeflectionExplanation>Chance de deflexão = (Chance-base de deflexão + (Nível de habilidade * % por nível de habilidade)) * Manipulação</StatsReport_DeflectionExplanation>
+  <StatsReport_BaseDeflectChance>Chance-base de deflexão</StatsReport_BaseDeflectChance>
+  <StatsReport_DeflectPerSkillLevel>Deflexão % por nível de habilidade</StatsReport_DeflectPerSkillLevel>
+  <CompInstalledPart_Install>Instala em algo</CompInstalledPart_Install>
+  <CompInstalledPart_Uninstall>Desinstala {0}</CompInstalledPart_Uninstall>
+  <CompInstalledPart_Installed>{0} instalou {1} em {2}</CompInstalledPart_Installed>
+  <CompInstalledPart_Uninstalled>{0} desinstalou {1} de {2}</CompInstalledPart_Uninstalled>
+  <ShieldNotEquipped>nenhum escudo equipado</ShieldNotEquipped>
+  <ShieldBlockMeleeNever>o escudo nunca bloqueia ataques corpo a corpo</ShieldBlockMeleeNever>
+  <ShieldBlockRangedNever>o escudo nunca bloqueia ataques à distância</ShieldBlockRangedNever>
+  <ShieldAbsorbDamageNever>o escudo nunca absorve dano de um ataque bloqueado</ShieldAbsorbDamageNever>
+  <ShieldHitPointAutoDiscardThreshold>Limiar de descarte</ShieldHitPointAutoDiscardThreshold>
+  <ShieldHitPointAutoDiscardThresholdEx>O limiar de porcentagem de pontos de vida em que o escudo é descartado automaticamente pelo portador</ShieldHitPointAutoDiscardThresholdEx>
+  <ShieldHitPointAutoDiscardThresholdNever>o escudo nunca é descartado automaticamente pelo portador</ShieldHitPointAutoDiscardThresholdNever>
+  <ShieldDamageToFatigueFactor>Fator de dano para fadiga</ShieldDamageToFatigueFactor>
+  <ShieldDamageToFatigueFactorEx>Quantos por cento do dano é convertido em dano de fadiga em um ataque bloqueado.</ShieldDamageToFatigueFactorEx>
+  <ShieldDamageToFatigueFactorNever>o portador do escudo nunca fica fatigado de um ataque bloqueado</ShieldDamageToFatigueFactorNever>
+  <CompVehicle_CannotSplitWhileInVehicles>Não é possível dividir a caravana enquanto colonos estão em veículos.</CompVehicle_CannotSplitWhileInVehicles>
+  <CompVehicle_CannotMove>{0} está no momento incapaz de se mover.</CompVehicle_CannotMove>
+  <CompVehicle_LowFuel>Combustível baixo</CompVehicle_LowFuel>
+  <MessageCaravanRunOutOfFuel>{0} ficou sem combustível ({1}). {0} agora se move a um quarto da velocidade normal.</MessageCaravanRunOutOfFuel>
+  <MessagePawnLeftVehicle>{0} deixou o veículo ({1}) por causa de necessidades de {2}.</MessagePawnLeftVehicle>
+  <DaysWorthOfFuelInfo>Carregando combustível para {0} dias</DaysWorthOfFuelInfo>
+  <InfiniteDaysWorthOfFuelInfo>Nunca fica sem combustível</InfiniteDaysWorthOfFuelInfo>
+  <DaysWorthOfFuelTooltip>Um número aproximado de dias antes de a caravana ficar sem combustível.\n\nLeva em conta todos os veículos na caravana e mostra o pior cenário. Isso significa que após estes dias, pelo menos um veículo ficará sem combustível.</DaysWorthOfFuelTooltip>
+  <DaysWorthOfFuelWarningDialog_NoFuel>Sua caravana não está carregando combustível e não consegue viajar em velocidade máxima.\n\nTem certeza de que quer formar esta caravana?</DaysWorthOfFuelWarningDialog_NoFuel>
+  <DaysWorthOfFuelWarningDialog>Sua caravana está carregando combustível para apenas {0} dias e fica sem combustível muito rápido.\n\nTem certeza de que quer formar esta caravana?</DaysWorthOfFuelWarningDialog>
+  <CaravanOutOfFuel>Sem combustível</CaravanOutOfFuel>
+  <CaravanVehicleNoFuelWarningDialog>Os veículos na caravana precisam de combustível.</CaravanVehicleNoFuelWarningDialog>
+  <CompVehicle_VehicleSection>Veículos</CompVehicle_VehicleSection>
+  <CompVehicle_LoadUnload>Carregar/ejetar {0}</CompVehicle_LoadUnload>
+  <CompVehicle_Unload>Ejetar {0}</CompVehicle_Unload>
+  <CompVehicle_Load>Carregar {0}</CompVehicle_Load>
+  <CompVehicle_LoadUnloadDesc>Carrega ou ejeta um {0}.</CompVehicle_LoadUnloadDesc>
+  <CompVehicle_LoadDesc>Carrega um {0}</CompVehicle_LoadDesc>
+  <CompVehicle_UnloadDesc>Ejeta um {0}</CompVehicle_UnloadDesc>
+  <CompVehicle_DisabledDesc>O veículo está desativado, destruído ou simplesmente danificado demais e não pode ser carregado.</CompVehicle_DisabledDesc>
+  <JecsTools_WorldObjectConst_AbandonReason>porque nenhuma caravana está disponível neste local</JecsTools_WorldObjectConst_AbandonReason>
+  <JecsTools_WorldObjectConst_ResourcesNeeded>Recursos: {0}</JecsTools_WorldObjectConst_ResourcesNeeded>
+  <JecsTools_WorldObjectConst_NotEnoughThings>Faltam itens específicos. Precisa de {1}x {2}, tem só {0}</JecsTools_WorldObjectConst_NotEnoughThings>
+  <JecsTools_WorldObjectConst_NotEnoughStuff>Falta {2} material. Precisa de {1}x, tem só {0}</JecsTools_WorldObjectConst_NotEnoughStuff>
+  <JecsTools_WorldObjectConst_NotEnoughResources>Falha ao construir {0} por falta de recursos</JecsTools_WorldObjectConst_NotEnoughResources>
+  <JTGrapple_Success>Agarrão com sucesso</JTGrapple_Success>
+  <JTGrapple_Failed>Agarrão falhou</JTGrapple_Failed>
+  <JTGrapple_DownedGrapple>Ataque em caído: Agarrão com sucesso</JTGrapple_DownedGrapple>
+  <JTGrapple_SneakGrapple>Ataque furtivo: Agarrão com sucesso</JTGrapple_SneakGrapple>
+  <JTGrapple_PrisonerGrapple>Vítima contida: Agarrão com sucesso</JTGrapple_PrisonerGrapple>
+  <JTGrapple_SleepingGrapple>Vítima dormindo: Agarrão com sucesso</JTGrapple_SleepingGrapple>
+  <JT_PlaceWorker_UnderCeiling>Precisa ser colocado sob um teto.</JT_PlaceWorker_UnderCeiling>
+  <JT_PlaceWorker_OnTopOfWalls>Precisa ser colocado sobre uma parede.</JT_PlaceWorker_OnTopOfWalls>
+  <JT_DamageSoaked>{0} absorvido</JT_DamageSoaked>
+  <JT_HI_DamageSoaked>Quantidade absorvida: {0}</JT_HI_DamageSoaked>
+  <JT_HI_Knockback>Chance de empurrão: {0}</JT_HI_Knockback>
+  <JT_HI_ExtraDamages>Danos extras:</JT_HI_ExtraDamages>
+  <JT_HI_KnockbackExplosive>Explosivo</JT_HI_KnockbackExplosive>
+  <JTGrapple_PetGrapple>Vítima de estimação: Agarrão com sucesso</JTGrapple_PetGrapple>
+  <BaseDeflectChance>Chance-base de deflexão</BaseDeflectChance>
+  <StatsReport_DeflectChance>Chance de deflexão</StatsReport_DeflectChance>
+  <StatsReport_SkillLevel>Nível de habilidade</StatsReport_SkillLevel>
+  <StatsReport_ManipulationModifier>Modificador de manipulação</StatsReport_ManipulationModifier>
+</LanguageData>

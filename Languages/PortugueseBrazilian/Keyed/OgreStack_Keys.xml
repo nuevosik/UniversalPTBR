@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OgreStack.ModName>OgreStack</OgreStack.ModName>
+  <OgreStack.Settings.Mode.Scalar>Escalar</OgreStack.Settings.Mode.Scalar>
+  <OgreStack.Settings.Mode.Fixed>Fixo</OgreStack.Settings.Mode.Fixed>
+  <OgreStack.SectionHeader.Settings>Configurações de pilha</OgreStack.SectionHeader.Settings>
+  <OgreStack.SectionHeader.Presets>Predefinições</OgreStack.SectionHeader.Presets>
+  <OgreStack.Presets.Section.Ogre>Modos do Ogre</OgreStack.Presets.Section.Ogre>
+  <OgreStack.Presets.Section.Scalar>Escalar</OgreStack.Presets.Section.Scalar>
+  <OgreStack.Presets.OgreDefault>Ogre (Padrão)</OgreStack.Presets.OgreDefault>
+  <OgreStack.Presets.OgreMid>Ogre Médio</OgreStack.Presets.OgreMid>
+  <OgreStack.Presets.OgreLow>Ogre Baixo</OgreStack.Presets.OgreLow>
+  <OgreStack.Presets.Scalar.1x>Jogo base</OgreStack.Presets.Scalar.1x>
+  <OgreStack.Presets.Scalar.2x>Dobro</OgreStack.Presets.Scalar.2x>
+  <OgreStack.Presets.Scalar.3x>Triplo</OgreStack.Presets.Scalar.3x>
+  <OgreStack.Presets.Scalar.4x>4x</OgreStack.Presets.Scalar.4x>
+  <OgreStack.Presets.Scalar.5x>5x</OgreStack.Presets.Scalar.5x>
+  <OgreStack.Presets.Scalar.6x>6x</OgreStack.Presets.Scalar.6x>
+  <OgreStack.Presets.Scalar.7x>7x</OgreStack.Presets.Scalar.7x>
+  <OgreStack.Presets.Scalar.8x>8x</OgreStack.Presets.Scalar.8x>
+  <OgreStack.Presets.Scalar.9x>9x</OgreStack.Presets.Scalar.9x>
+  <OgreStack.Presets.Scalar.10x>10x</OgreStack.Presets.Scalar.10x>
+  <OgreStack.Settings.Category>Categoria</OgreStack.Settings.Category>
+  <OgreStack.Settings.Mode>Modo</OgreStack.Settings.Mode>
+  <OgreStack.Settings.Mode.Desc>Fixo: significa que cada item da categoria tem um tamanho de pilha especificado pelo valor.\n(Bom para itens semelhantes com tamanhos-base de pilha parecidos: como pano e couro).\n\nEscalar: significa que cada item da categoria tem o tamanho-base de pilha do jogo multiplicado pelo valor.\n(Bom para itens não semelhantes ou com tamanhos-base de pilha bem diferentes: como manufaturados).</OgreStack.Settings.Mode.Desc>
+  <OgreStack.Settings.Value>Valor</OgreStack.Settings.Value>
+  <OgreStack.Settings.SmallVolumeResource.Title>Recursos de pequeno volume</OgreStack.Settings.SmallVolumeResource.Title>
+  <OgreStack.Settings.SmallVolumeResource.Desc>Ouro, urânio...</OgreStack.Settings.SmallVolumeResource.Desc>
+  <OgreStack.Settings.Resource.Title>Recursos</OgreStack.Settings.Resource.Title>
+  <OgreStack.Settings.Resource.Desc>Aço, plasteel, madeira, jade...</OgreStack.Settings.Resource.Desc>
+  <OgreStack.Settings.RawFoodMeat.Title>Carne crua</OgreStack.Settings.RawFoodMeat.Title>
+  <OgreStack.Settings.RawFoodMeat.Desc>Carne, leite, ovos...</OgreStack.Settings.RawFoodMeat.Desc>
+  <OgreStack.Settings.RawFoodPlant.Title>Vegetais crus</OgreStack.Settings.RawFoodPlant.Title>
+  <OgreStack.Settings.RawFoodPlant.Desc>Milho, frutas vermelhas, arroz...</OgreStack.Settings.RawFoodPlant.Desc>
+  <OgreStack.Settings.PlantMatter.Title>Plantas cruas</OgreStack.Settings.PlantMatter.Title>
+  <OgreStack.Settings.PlantMatter.Desc>Lúpulo, folhas de psicoide, folhas de fumaça...</OgreStack.Settings.PlantMatter.Desc>
+  <OgreStack.Settings.Meal.Title>Refeições</OgreStack.Settings.Meal.Title>
+  <OgreStack.Settings.Meal.Desc>Refeição requintada, refeição farta...</OgreStack.Settings.Meal.Desc>
+  <OgreStack.Settings.FoodForAnimal.Title>Comida para animal</OgreStack.Settings.FoodForAnimal.Title>
+  <OgreStack.Settings.FoodForAnimal.Desc>Feno, ração...</OgreStack.Settings.FoodForAnimal.Desc>
+  <OgreStack.Settings.Food.Title>Comidas</OgreStack.Settings.Food.Title>
+  <OgreStack.Settings.Food.Desc>Pemmican, chocolate...</OgreStack.Settings.Food.Desc>
+  <OgreStack.Settings.Item.Title>Itens</OgreStack.Settings.Item.Title>
+  <OgreStack.Settings.Item.Desc>Chifres, soros de mecanoides...</OgreStack.Settings.Item.Desc>
+  <OgreStack.Settings.BodyPartOrImplant.Title>Partes do corpo e implantes</OgreStack.Settings.BodyPartOrImplant.Title>
+  <OgreStack.Settings.BodyPartOrImplant.Desc>Órgãos, braços, biônicos, implantes...</OgreStack.Settings.BodyPartOrImplant.Desc>
+  <OgreStack.Settings.Leather.Title>Couros</OgreStack.Settings.Leather.Title>
+  <OgreStack.Settings.Leather.Desc>Couros...</OgreStack.Settings.Leather.Desc>
+  <OgreStack.Settings.Textile.Title>Têxteis</OgreStack.Settings.Textile.Title>
+  <OgreStack.Settings.Textile.Desc>Panos, lã...</OgreStack.Settings.Textile.Desc>
+  <OgreStack.Settings.StoneBlock.Title>Blocos de pedra</OgreStack.Settings.StoneBlock.Title>
+  <OgreStack.Settings.StoneBlock.Desc>Granito, mármore...</OgreStack.Settings.StoneBlock.Desc>
+  <OgreStack.Settings.Manufactured.Title>Manufaturados</OgreStack.Settings.Manufactured.Title>
+  <OgreStack.Settings.Manufactured.Desc>Mosto, componentes, neutroamina, quemicombustível...</OgreStack.Settings.Manufactured.Desc>
+  <OgreStack.Settings.Drug.Title>Drogas</OgreStack.Settings.Drug.Title>
+  <OgreStack.Settings.Drug.Desc>Cerveja, ambrósia, yayo...</OgreStack.Settings.Drug.Desc>
+  <OgreStack.Settings.Medicine.Title>Remédio</OgreStack.Settings.Medicine.Title>
+  <OgreStack.Settings.Medicine.Desc>Remédio, fitoterápico, ultratecnológico...</OgreStack.Settings.Medicine.Desc>
+  <OgreStack.Settings.MortarShell.Title>Projéteis de morteiro</OgreStack.Settings.MortarShell.Title>
+  <OgreStack.Settings.MortarShell.Desc>Alto explosivo, antigrão, PEM...</OgreStack.Settings.MortarShell.Desc>
+  <OgreStack.Settings.Artifact.Title>Artefatos</OgreStack.Settings.Artifact.Title>
+  <OgreStack.Settings.Artifact.Desc>Lança de insanidade psíquica, pulsador animal psíquico...</OgreStack.Settings.Artifact.Desc>
+  <OgreStack.Settings.Other.Title>Outros</OgreStack.Settings.Other.Title>
+  <OgreStack.Settings.Other.Desc>Qualquer outra coisa empilhável</OgreStack.Settings.Other.Desc>
+  <OgreStack.SectionHeader.SingleThingDefTargeting>&lt;color=#ffa500ff&gt;(Avançado)&lt;/color&gt; Direcionamento de item individual</OgreStack.SectionHeader.SingleThingDefTargeting>
+  <OgreStack.Settings.DefName>defName</OgreStack.Settings.DefName>
+  <OgreStack.Settings.StackLimit>stackLimit</OgreStack.Settings.StackLimit>
+  <OgreStack.Settings.SingleThingDefTargeting.Desc>Esta seção é só para quem se sente à vontade editando um arquivo XML fora do RimWorld e quer definir stackLimits de &lt;color=#ffa500ff&gt;ThingDef individuais&lt;/color&gt; que substituem os stackLimits gerais configurados acima. O arquivo Overrides.xml fica aqui: &lt;color=#ffa500ff&gt;&lt;size=13&gt;{0}&lt;/size&gt;&lt;/color&gt;</OgreStack.Settings.SingleThingDefTargeting.Desc>
+  <OgreStack.SectionHeader.Debug>Depuração</OgreStack.SectionHeader.Debug>
+  <OgreStack.Settings.CSV.Title>Grava CSV de DefsList processados</OgreStack.Settings.CSV.Title>
+  <OgreStack.Settings.CSV.Desc>Grava todos os ThingDefs empilháveis, seus valores de pilha originais, qual ModFile os modificou, os valores finais de pilha, ou seja, informações de depuração.\n\nNote que isto só ocorre quando as pilhas são modificadas. Não apenas marcando esta caixa.\n\nO arquivo de saída se chama OgreStack_DefsList.csv e fica no local de save do RimWorld na pasta OgreStack.\n\nLocal: {0}</OgreStack.Settings.CSV.Desc>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_AnimalProductYieldFactorDetails>A produção-base de produtos animais especiais deste animal é {0} {1}. Ajustada pelo fator de rendimento de produto animal, resulta em {2} {1}.</VEF_AnimalProductYieldFactorDetails>
+  <VEF_AnimalProductYieldFactorDetails_Random>A produção-base de produtos animais especiais deste animal é {0} de uma seleção de itens aleatórios ou dependentes do terreno. Ajustada pelo fator de rendimento de produto animal, resulta em {1} unidades.</VEF_AnimalProductYieldFactorDetails_Random>
+  <VEF_AnimalProductIntervalFactorDetails>O intervalo-base de produtos animais especiais deste animal é {0} dias. Ajustado pelo fator de intervalo de produtos animais, resulta em {1} dias. Este valor tem um mínimo de 1 dia.</VEF_AnimalProductIntervalFactorDetails>
+  <VRE_TabAnimalGenes>Genes</VRE_TabAnimalGenes>
+  <VRE_AnimalGenes>Genes animais</VRE_AnimalGenes>
+  <VRE_FamilyTag>Família de genes</VRE_FamilyTag>
+  <VRE_AnimalGenesFeratypeDesc>Os genes associados a este feratipo.</VRE_AnimalGenesFeratypeDesc>
+  <VRE_Feratype>Feratipo</VRE_Feratype>
+  <VRE_AnimalGenesDesc>Genes presentes neste animal</VRE_AnimalGenesDesc>
+  <VRE_StatsReport_Genes>Genes animais relevantes</VRE_StatsReport_Genes>
+  <VRE_MoreInfoInInfoScreen>Mais informações disponíveis na tela de informações deste feratipo.</VRE_MoreInfoInInfoScreen>
+  <VRE_AnimalIllness>MTB de doença animal</VRE_AnimalIllness>
+  <VRE_AnimalTantrum>MTB de ataque de fúria animal</VRE_AnimalTantrum>
+  <VRE_Trainability>Treinabilidade definida como</VRE_Trainability>
+  <VRE_Stability>Estabilidade</VRE_Stability>
+  <VRE_StabilityDesc>A estabilidade representa a complexidade do código genético de um animal e afeta a previsibilidade da herança genética.\n\nEstabilidade alta garante que os filhos herdem tipicamente a média dos genes dos pais, enquanto estabilidade baixa aumenta a chance de os filhos se desviarem dos traços parentais em direção à mediana natural.</VRE_StabilityDesc>
+  <VRE_Days>dias</VRE_Days>
+  <VRE_LifespanFactor>Expectativa de vida</VRE_LifespanFactor>
+  <VRE_LifespanFactorDesc>Fator de expectativa de vida deste animal conforme a estabilidade genética dele</VRE_LifespanFactorDesc>
+  <VRE_FeratypeFamily>família de feratipo</VRE_FeratypeFamily>
+  <VRE_FeratypeFamilyDesc>Este feratipo pertence à família de feratipo {0}:\n\n{1}</VRE_FeratypeFamilyDesc>
+  <VRE_AllowedPartners>Parceiros permitidos</VRE_AllowedPartners>
+  <VRE_AllowedPartnersDesc>Uma lista de todos os feratipos da família de feratipo {0} com os quais este animal pode ter filhos.</VRE_AllowedPartnersDesc>
+  <VRE_NotPregnant>Este animal não está prenhe</VRE_NotPregnant>
+  <VRE_StillbornLabel>Natimorto {0}</VRE_StillbornLabel>
+  <VRE_StillbornDesc>Seu {0}, {1} deu à luz um filhote natimorto.</VRE_StillbornDesc>
+  <VRE_SpecializedGene>Gene especializado</VRE_SpecializedGene>
+  <VRE_SpecializedGeneDesc>Este gene só é herdado por filhos cujo feratipo contenha um gene desta família.</VRE_SpecializedGeneDesc>
+  <VGE_StatsReport_InGreatPain>em dor intensa (&gt;20%)</VGE_StatsReport_InGreatPain>
+</LanguageData>

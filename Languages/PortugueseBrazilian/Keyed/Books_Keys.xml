@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE.Book>Livro</VBE.Book>
+  <VBE.ReadBook>Ler {0}</VBE.ReadBook>
+  <VBE.CantReadSkillBookTooSimple>Não dá para ler: este livro de habilidade não é suficiente.</VBE.CantReadSkillBookTooSimple>
+  <VBE.ReadNewsPaper>Ler jornal</VBE.ReadNewsPaper>
+  <VBE.NewspaperRelevantUntil>Relevante até:</VBE.NewspaperRelevantUntil>
+  <VBE.CantReadNewsPaperExpired>Não dá para ler: este jornal está desatualizado.</VBE.CantReadNewsPaperExpired>
+  <VBE.ReadBlueprint>Ler {0}</VBE.ReadBlueprint>
+  <VBE.CantReadBlueprintAlreadyResearched>Não dá para ler: esta tecnologia já é conhecida.</VBE.CantReadBlueprintAlreadyResearched>
+  <VBE.CantReadBlueprintTooAdvanced>Não dá para ler: esta tecnologia é avançada demais.</VBE.CantReadBlueprintTooAdvanced>
+  <VBE.CantReadBlueprintUsed>Não dá para ler: este anteprojeto já foi usado.</VBE.CantReadBlueprintUsed>
+  <VBE.ReadMap>Ler mapa</VBE.ReadMap>
+  <VBE.CantReadMapUsed>Não dá para ler: este mapa já foi usado</VBE.CantReadMapUsed>
+  <VBE.LocationsOpened>Novo local encontrado</VBE.LocationsOpened>
+  <VBE.LocationsOpenedDesc>Ler o mapa desbloqueou um novo local.</VBE.LocationsOpenedDesc>
+</LanguageData>

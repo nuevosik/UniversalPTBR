@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BPC.BetterPawnControl>Better Pawn Control</BPC.BetterPawnControl>
+  <BPC.Auto>Padrão</BPC.Auto>
+  <BPC.Rename>Renomeia</BPC.Rename>
+  <BPC.Settings>Configurações de políticas</BPC.Settings>
+  <BPC.NewAnimalPolicy>Nova política de animais</BPC.NewAnimalPolicy>
+  <BPC.AnimalPolicy>Política</BPC.AnimalPolicy>
+  <BPC.CurrentAnimalPolicy>Política de animais ativa</BPC.CurrentAnimalPolicy>
+  <BPC.NewAssignPolicy>Nova política de atribuição</BPC.NewAssignPolicy>
+  <BPC.AssignPolicy>Política</BPC.AssignPolicy>
+  <BPC.CurrentAssignPolicy>Política de atribuição ativa</BPC.CurrentAssignPolicy>
+  <BPC.NewRestrictPolicy>Nova política de agenda</BPC.NewRestrictPolicy>
+  <BPC.RestrictPolicy>Política</BPC.RestrictPolicy>
+  <BPC.CurrentRestrictPolicy>Política de agenda ativa</BPC.CurrentRestrictPolicy>
+  <BPC.NewWorkPolicy>Nova política de trabalho</BPC.NewWorkPolicy>
+  <BPC.WorkPolicy>Política</BPC.WorkPolicy>
+  <BPC.CurrentWorkPolicy>Política de trabalho ativa</BPC.CurrentWorkPolicy>
+  <BPC.NewMechPolicy>Nova política de mecanoide</BPC.NewMechPolicy>
+  <BPC.MechPolicy>Política</BPC.MechPolicy>
+  <BPC.CurrentMechPolicy>Política de mecanoide ativa</BPC.CurrentMechPolicy>
+  <BPC.NewWeaponsPolicy>Nova política de armas</BPC.NewWeaponsPolicy>
+  <BPC.WeaponsPolicy>Política</BPC.WeaponsPolicy>
+  <BPC.CurrentWeaponsPolicy>Política de armas ativa</BPC.CurrentWeaponsPolicy>
+  <BPC.NewRobotsPolicy>Nova política de robôs</BPC.NewRobotsPolicy>
+  <BPC.RobotsPolicy>Política</BPC.RobotsPolicy>
+  <BPC.CurrentRobotsPolicy>Política de robôs ativa</BPC.CurrentRobotsPolicy>
+  <BPC.WorkTab>Trabalho</BPC.WorkTab>
+  <BPC.RestrictTab>Agenda</BPC.RestrictTab>
+  <BPC.AssignTab>Atribui</BPC.AssignTab>
+  <BPC.AnimalTab>Animais</BPC.AnimalTab>
+  <BPC.MechTab>Mecanoides</BPC.MechTab>
+  <BPC.WeaponsTab>Armas</BPC.WeaponsTab>
+  <BPC.RobotsTab>Robôs</BPC.RobotsTab>
+  <BPC.PoliciesConfigText>Cria/exclui/renomeia predefinições de políticas. Não esqueça de configurá-las em cada aba depois</BPC.PoliciesConfigText>
+  <BPC.DefaultsConfigText>Configura quais políticas definir quando um novo colono se junta à colônia</BPC.DefaultsConfigText>
+  <BPC.SelectedDefaultOutfit>Roupa</BPC.SelectedDefaultOutfit>
+  <BPC.SelectedDefaultFood>Comida</BPC.SelectedDefaultFood>
+  <BPC.SelectedDefaultDrug>Droga</BPC.SelectedDefaultDrug>
+  <BPC.SelectedDefaultReading>Leitura</BPC.SelectedDefaultReading>
+  <BPC.SelectedDefaultMeds>Cuidado médico</BPC.SelectedDefaultMeds>
+  <BPC.SelectedDefaultWeapons>Armas</BPC.SelectedDefaultWeapons>
+  <BPC.SelectedPrisonerDefaultFood>Comida</BPC.SelectedPrisonerDefaultFood>
+  <BPC.SelectedPrisonerDefaultMeds>Cuidado médico</BPC.SelectedPrisonerDefaultMeds>
+  <BPC.SelectedSlaveDefaultOutfit>Roupa</BPC.SelectedSlaveDefaultOutfit>
+  <BPC.SelectedSlaveDefaultFood>Comida</BPC.SelectedSlaveDefaultFood>
+  <BPC.SelectedSlaveDefaultDrugs>Drogas</BPC.SelectedSlaveDefaultDrugs>
+  <BPC.SelectedSlaveDefaultReading>Leitura</BPC.SelectedSlaveDefaultReading>
+  <BPC.SelectedSlaveDefaultMeds>Cuidado médico</BPC.SelectedSlaveDefaultMeds>
+  <BPC.ColonistDefaultHeader>Padrões de colono</BPC.ColonistDefaultHeader>
+  <BPC.PrisonerDefaultHeader>Padrões de prisioneiro</BPC.PrisonerDefaultHeader>
+  <BPC.SlaveDefaultHeader>Padrões de escravo</BPC.SlaveDefaultHeader>
+  <BPC.Copy>Copia política</BPC.Copy>
+  <BPC.Paste>Cola política</BPC.Paste>
+  <BPC.CopySchedule>Copia agenda</BPC.CopySchedule>
+  <BPC.PasteSchedule>Cola agenda</BPC.PasteSchedule>
+  <BPC.ToggleEmergencyOn>Desliga a Emergência. As políticas voltam às configurações anteriores à emergência</BPC.ToggleEmergencyOn>
+  <BPC.ToggleEmergencyOff>Liga a Emergência. Configura quais políticas devem ativar para todas as abas na engrenagem de configuração do Better Pawn Control</BPC.ToggleEmergencyOff>
+  <BPC.AlertConfigText>Configura quais políticas ativar quando o Alerta está LIGADO. Usa o atalho de teclado para alternar o alerta LIGADO/DESLIGADO</BPC.AlertConfigText>
+  <BPC.EmergencyLocationTooltip>O botão de Emergência fica no lado inferior direito da janela do jogo, ao lado dos botões de alternar</BPC.EmergencyLocationTooltip>
+  <BPC.BetterPawnControlSettingsName>Better Pawn Control</BPC.BetterPawnControlSettingsName>
+  <BPC.AutomaticPawnsInterruptSetting>Interrompe automaticamente o que os colonos estiverem fazendo ao ligar a emergência?</BPC.AutomaticPawnsInterruptSetting>
+  <BPC.SaveInventoryStock>Salva a coluna Carregados nas políticas de Atribuir?</BPC.SaveInventoryStock>
+  <BPC.DisableBPCOnWorkTabSetting>Desativa por completo a integração do BPC com o mod WorkTab?</BPC.DisableBPCOnWorkTabSetting>
+  <BPC.DisableBPCOnWorkTabTooltip>Integração completa, incluindo as prioridades internas (ou estendidas) do mod WorkTab.</BPC.DisableBPCOnWorkTabTooltip>
+  <BPC.DisableBPCWorkTabInnerPrioritiesSetting>Desativa a integração do BPC com as prioridades internas (ou estendidas) do mod WorkTab e mantém as prioridades 'normais'?</BPC.DisableBPCWorkTabInnerPrioritiesSetting>
+  <BPC.DisableBPCWorkTabInnerPrioritiesTooltip>Isto permite continuar usando o BPC com o WorkTab, mas sem salvar as prioridades internas.</BPC.DisableBPCWorkTabInnerPrioritiesTooltip>
+</LanguageData>

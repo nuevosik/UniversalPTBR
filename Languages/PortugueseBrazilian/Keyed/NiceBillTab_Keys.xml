@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NiceBillTabEnabledMod>Mod ativo</NiceBillTabEnabledMod>
+  <FlatDamage>Dano</FlatDamage>
+  <FlatDamageTooltip>Dano de um tiro ou ataque</FlatDamageTooltip>
+  <DamageDPS>Dano (DPS)</DamageDPS>
+  <DamageDPSTooltip>Dano por segundo (DPS) é uma medida que representa a média de dano que uma arma causa por segundo de combate. Leva em conta o tempo de preparação do ataque, o dano causado e a velocidade de ataque/tiro.</DamageDPSTooltip>
+  <WeaponFireRate>Cadência de tiro</WeaponFireRate>
+  <WeaponFireRateTooltip>Cadência de tiro mostra o número de tiros por segundo. Inclui a recarga e os atrasos entre tiros na rajada.\n\n{0} / ({1} + {2}) = {3}</WeaponFireRateTooltip>
+  <WeaponTotalBurstTime>Tempo total de rajada</WeaponTotalBurstTime>
+  <ShotPerSecondShort>tiros/seg</ShotPerSecondShort>
+  <CooldownReload>Recarga</CooldownReload>
+  <SecondShort>seg</SecondShort>
+  <WeaponAttackSpeed>Velocidade de ataque</WeaponAttackSpeed>
+  <WeaponAttackSpeedTooltip>Velocidade de ataque é o tempo que leva para completar um ataque.</WeaponAttackSpeedTooltip>
+  <WeaponAccuracy>Precisão</WeaponAccuracy>
+  <WeaponAccuracyTouch>contato</WeaponAccuracyTouch>
+  <WeaponAccuracyShort>curto</WeaponAccuracyShort>
+  <WeaponAccuracyMedium>médio</WeaponAccuracyMedium>
+  <WeaponAccuracyLong>longo</WeaponAccuracyLong>
+  <NotCovers>Não cobre</NotCovers>
+  <PasteBillHere>Cola tarefa aqui</PasteBillHere>
+  <BillButton_Make>Fabricar</BillButton_Make>
+  <BillButton_Cook>Cozinhar</BillButton_Cook>
+  <BillButton_Gestate>Gestar</BillButton_Gestate>
+  <NoOneCanDoThisWork>Ninguém pode fazer este trabalho</NoOneCanDoThisWork>
+  <BillFilterTip>Filtra tarefas por nome. Também é possível filtrar por categoria. Para isso, digite {0} seguido do nome da categoria (ou de parte da palavra).</BillFilterTip>
+  <ApparelLayerFilterTip>Usa {0} para filtrar por camada de roupa.</ApparelLayerFilterTip>
+  <ModFilterTip>Usa {0} para filtrar por mod ou DLC.</ModFilterTip>
+  <BillAvailableCategories>Categorias disponíveis</BillAvailableCategories>
+  <DefaultRecipeList>Lista ampla de receitas</DefaultRecipeList>
+  <CompactRecipeList>Lista compacta de receitas</CompactRecipeList>
+  <CategorizedRecipeList>Lista categorizada de receitas</CategorizedRecipeList>
+  <PreviewRecipeIngredients>Pré-visualiza ingredientes da receita</PreviewRecipeIngredients>
+  <CompareBarsWithColors>Compara barras com cores</CompareBarsWithColors>
+  <CompareRecipesFail>Não dá para comparar receitas</CompareRecipesFail>
+  <SelectMaterial>Seleciona material</SelectMaterial>
+  <StatMaximize>Maximiza {0}</StatMaximize>
+  <MaximizeFromColonyMaterials>De materiais no povoado</MaximizeFromColonyMaterials>
+  <MaximizeFromAnyMaterial>De qualquer material</MaximizeFromAnyMaterial>
+  <CompareWhenSelectMaterial>Compara ao selecionar material</CompareWhenSelectMaterial>
+  <SearchBetterMaterialFail>Não acha material melhor</SearchBetterMaterialFail>
+  <GlowingYellowHintEnabled>Dica amarela brilhante ativa</GlowingYellowHintEnabled>
+  <UseSpecialSymbolToFilterByCategory>Usa o símbolo especial {0} para filtrar por categoria</UseSpecialSymbolToFilterByCategory>
+  <CEmmShort>mm</CEmmShort>
+  <OpenInfoDialog>Abre informações</OpenInfoDialog>
+  <FindOnMap>Acha no mapa</FindOnMap>
+  <CreateTaskOnAvailableWorkbench>Coloca tarefa em fila na bancada disponível</CreateTaskOnAvailableWorkbench>
+  <NoExistOnCurrentMap>O objeto pedido não existe no mapa</NoExistOnCurrentMap>
+  <SelectThisAmmo>Calcula com esta munição</SelectThisAmmo>
+  <UseNonLinearBars>Usa barras não lineares</UseNonLinearBars>
+  <ShowFlatDamageForRanged>Mostra dano de tiro único para armas de longo alcance</ShowFlatDamageForRanged>
+  <ShowFlatDamageForMelee>Mostra dano de golpe único para armas corpo a corpo</ShowFlatDamageForMelee>
+  <ArmorRatingSharpSimple>Armadura - Corte</ArmorRatingSharpSimple>
+  <ArmorRatingBluntSimple>Armadura - Impacto</ArmorRatingBluntSimple>
+  <BillTabHeight>Altura da aba ({0})</BillTabHeight>
+  <BillTabListingExtraWidth>Largura extra da lista da aba ({0})</BillTabListingExtraWidth>
+  <AddDetailsButtonToBillQueue>Adiciona botão 'Detalhes...' à fila de tarefas</AddDetailsButtonToBillQueue>
+  <StoppingPowerShort>Poder de parada</StoppingPowerShort>
+  <ShowStatInfoUniversal>Mostra '{0}'</ShowStatInfoUniversal>
+  <SettingsCommonTab>Comum</SettingsCommonTab>
+  <SettingsItemTab>Itens</SettingsItemTab>
+  <SettingsExperimentalTab>Experimental</SettingsExperimentalTab>
+  <EnableScrollUpWhenBillAdded>Ativa rolar para cima quando a tarefa é adicionada</EnableScrollUpWhenBillAdded>
+  <EnableClassicSuspendButton>Ativa botão clássico de suspender</EnableClassicSuspendButton>
+  <ShowBarTicks>Mostra marcas de barra</ShowBarTicks>
+  <ReplaceInfinityTextToSymbol>Substitui 'infinito' por símbolo</ReplaceInfinityTextToSymbol>
+  <EnableAutoBillNaming>Ativa nomeação automática de tarefa</EnableAutoBillNaming>
+  <EnableColorlessMode>Ativa modo sem cores</EnableColorlessMode>
+</LanguageData>
