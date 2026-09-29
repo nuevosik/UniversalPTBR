@@ -13,10 +13,10 @@
   <DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.label>Documentos processados</DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.label>
   <DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.text>Você processou com sucesso todos os documentos da frota.</DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.text>
   <DMS_PromotionCeremony.questNameRules.rulesStrings>
-    <li>questName-&gt;[pawn_definite]'s [newTitle] promotion</li>
+    <li>questName-&gt;promoção de [pawn_definite] a [newTitle]</li>
   </DMS_PromotionCeremony.questNameRules.rulesStrings>
   <DMS_PromotionCeremony.questDescriptionRules.rulesStrings>
-    <li>questDescription-&gt;[faction_name] is ready to grant [pawn_definite] the title of [newTitle] in a promotion ceremony.\n\nThe officiator of the ceremony will arrive by shuttle to perform the ceremony.\n\nThe officiator will only give a title if there exists a throneroom meeting the requirements of the position. There's a chance of gaining extra honor depending on how many viewers attend the ceremony. Additionally, every viewer gains a mood bonus.\n\nYou can betray the officiator but this will make [faction_name] your enemy.\n\nIf you miss or fail this ceremony, there will be another opportunity later. If the officiator or guards are harmed for any reason, there will be diplomatic consequences.</li>
+    <li>questDescription-&gt;[faction_name] está pronto para conceder [pawn_definite] o título de [newTitle] em uma cerimônia de promoção.\n\nO mestre de cerimônias chegará em um transporte para realizar a cerimônia.\n\nO mestre de cerimônias somente dará um título se existir uma sala do trono que atenda aos requisitos do cargo. Há uma chance de ganhar honra extra, dependendo de quantos espectadores comparecerem à cerimônia. Além disso, cada espectador ganha um bônus de humor.\n\nVocê pode trair o mestre de cerimônias, mas isso tornará [faction_name] seu inimigo.\n\nSe você perder ou falhar nesta cerimônia, haverá outra oportunidade mais tarde. Caso o mestre de cerimônias ou os guardas forem agredidos por qualquer razão, haverá consequências diplomáticas.</li>
   </DMS_PromotionCeremony.questDescriptionRules.rulesStrings>
   <DMS_Boss.questNameRules.rulesStrings>
     <li>questName-&gt;bossgroup</li>
@@ -25,17 +25,17 @@
     <li>questDescription-&gt;bossgroup</li>
   </DMS_Boss.questDescriptionRules.rulesStrings>
   <DMS_Boss.questContentRules.rulesStrings>
-    <li>bossDefeatedLetterLabel-&gt;[escortees0_label] defeated</li>
+    <li>bossDefeatedLetterLabel-&gt;[escortees0_label] derrotado</li>
     <li>bossDefeatedStudyChipLetterText-&gt;[defeated][study][manufacture]</li>
     <li>bossDefeatedLetterText-&gt;[defeated][manufacture]</li>
-    <li>defeated-&gt;The wandering [escortees0_label] has been defeated and has dropped a [reward_label]!</li>
-    <li>manufacture-&gt;\n\nIf it wasn't get destroyed during the neutralization process, you should be able to find that [reward_label] among the wreckage.</li>
-    <li>study-&gt;\n\nYou can unlock subsequent technologies by studying [reward_label].</li>
+    <li>defeated-&gt;O(a) [escortees0_label] errante foi derrotado(a) e deixou cair um [reward_label]!</li>
+    <li>manufacture-&gt;\n\nSe não tiver sido destruído durante o processo de neutralização, você deverá conseguir encontrar esse [reward_label] entre os destroços.</li>
+    <li>study-&gt;\n\nVocê pode desbloquear tecnologias subsequentes estudando [reward_label].</li>
   </DMS_Boss.questContentRules.rulesStrings>
   <DMS_ProcessDocumentQuest.questNameRules.rulesStrings>
-    <li>questName-&gt;Fleet Document Processing</li>
+    <li>questName-&gt;Processamento de documentos da Frota</li>
   </DMS_ProcessDocumentQuest.questNameRules.rulesStrings>
   <DMS_ProcessDocumentQuest.questDescriptionRules.rulesStrings>
-    <li>questDescription-&gt;The Colonial Fleet has contacted you and plans to drop off a batch of complex, backlogged documents. You must assign personnel with suitable research capabilities to process them.\n\nIf any document is destroyed, the quest will immediately fail. Keep them safe.</li>
+    <li>questDescription-&gt;A Frota Colonial entrou em contato com você e planeja deixar um lote de documentos complexos e acumulados. Você deve designar pessoal com capacidade de pesquisa adequada para processá-los.\n\nSe qualquer documento for destruído, a missão falhará imediatamente. Mantenha-os seguros.</li>
   </DMS_ProcessDocumentQuest.questDescriptionRules.rulesStrings>
 </LanguageData>

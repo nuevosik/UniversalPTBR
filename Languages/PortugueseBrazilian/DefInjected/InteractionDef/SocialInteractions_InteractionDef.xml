@@ -4,40 +4,40 @@
   <VSIE_Vent.label>desabafo</VSIE_Vent.label>
   <VSIE_Teaching.label>ensino</VSIE_Teaching.label>
   <VSIE_Discord.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)-&gt;[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
-    <li>r_logentry-&gt;[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
-    <li>r_logentry-&gt;[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>r_logentry(p=3)-&gt;[INITIATOR_nameDef] [insulted] [PersonalCharacteristic] de [target].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] comparou [target] a [insultcomparison].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] chamou [target] de [insultcomparison].</li>
     <li>target(p=4)-&gt;[RECIPIENT_nameDef]</li>
-    <li>target-&gt;[RECIPIENT_nameDef]'s [PersonFamily]</li>
-    <li>insulted(p=3)-&gt;insulted</li>
-    <li>insulted-&gt;openly insulted</li>
-    <li>insulted-&gt;loudly insulted</li>
-    <li>insulted-&gt;flagrantly insulted</li>
-    <li>insulted-&gt;directly insulted</li>
-    <li>insulted-&gt;viciously insulted</li>
-    <li>insulted-&gt;flagrantly disrespected</li>
-    <li>insulted-&gt;slandered</li>
-    <li>insulted-&gt;hurled invective about</li>
-    <li>insulted-&gt;derided</li>
+    <li>target-&gt;[PersonFamily] de [RECIPIENT_nameDef]</li>
+    <li>insulted(p=3)-&gt;insultou</li>
+    <li>insulted-&gt;insultou abertamente</li>
+    <li>insulted-&gt;insultou em voz alta</li>
+    <li>insulted-&gt;insultou descaradamente</li>
+    <li>insulted-&gt;insultou diretamente</li>
+    <li>insulted-&gt;insultou cruelmente</li>
+    <li>insulted-&gt;desrespeitou descaradamente</li>
+    <li>insulted-&gt;difamou</li>
+    <li>insulted-&gt;despejou invectivas sobre</li>
+    <li>insulted-&gt;ridicularizou</li>
     <li>insultcomparison(p=2)-&gt;[Animal]</li>
     <li>insultcomparison-&gt;[Enemy]</li>
   </VSIE_Discord.logRulesInitiator.rulesStrings>
   <VSIE_Vent.logRulesInitiator.rulesStrings>
-    <li>r_logentry-&gt;[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
-    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
-    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
-    <li>talkedabout(p=4)-&gt;chatted about</li>
-    <li>talkedabout-&gt;shared a word about</li>
-    <li>talkedabout-&gt;spoke about</li>
-    <li>talkedabout-&gt;gabbed about</li>
-    <li>talkedabout-&gt;talked about</li>
-    <li>talkedabout-&gt;joked about</li>
-    <li>talkedabout-&gt;quipped about</li>
-    <li>commentedabout-&gt;said something about</li>
-    <li>commentedabout-&gt;said a word about</li>
-    <li>commentedabout-&gt;made a comment about</li>
-    <li>commentedabout-&gt;commented about</li>
-    <li>commentedabout-&gt;told a joke about</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] com [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] para [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)-&gt;bateram papo sobre</li>
+    <li>talkedabout-&gt;trocaram palavras sobre</li>
+    <li>talkedabout-&gt;falaram sobre</li>
+    <li>talkedabout-&gt;tagarelaram sobre</li>
+    <li>talkedabout-&gt;conversaram sobre</li>
+    <li>talkedabout-&gt;fizeram piada sobre</li>
+    <li>talkedabout-&gt;brincaram sobre</li>
+    <li>commentedabout-&gt;disseram algo sobre</li>
+    <li>commentedabout-&gt;disseram uma palavra sobre</li>
+    <li>commentedabout-&gt;fizeram um comentário sobre</li>
+    <li>commentedabout-&gt;comentaram sobre</li>
+    <li>commentedabout-&gt;contaram uma piada sobre</li>
   </VSIE_Vent.logRulesInitiator.rulesStrings>
   <VSIE_Teaching.logRulesInitiator.rulesStrings>
     <li>r_logentry-&gt;</li>

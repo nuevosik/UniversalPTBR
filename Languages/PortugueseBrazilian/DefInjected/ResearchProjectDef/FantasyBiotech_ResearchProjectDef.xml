@@ -23,82 +23,82 @@
   <VR_MasterArchiteGenetics.label>Quimerimancia mestra</VR_MasterArchiteGenetics.label>
   <VR_MasterArchiteGenetics.description>Permite que uma forja de enxertos use uma quantidade ilimitada de cápsulas de arquita para criar genes aparentemente impossíveis. Genes de arquita e cápsulas de arquita podem ser obtidos com comerciantes.</VR_MasterArchiteGenetics.description>
   <VR_SteamPower.generalRules.rulesStrings>
-    <li>subject-&gt;steam power</li>
-    <li>subject_story-&gt;built a boiler deep beneath a mountain</li>
-    <li>subject_story-&gt;discovered forgotten steam diagrams in a buried vault</li>
-    <li>subject_story-&gt;traversed an active geyser field</li>
-    <li>subject_gerund-&gt;created pressurized containment vessels</li>
+    <li>subject-&gt;energia a vapor</li>
+    <li>subject_story-&gt;construiu uma caldeira nas profundezas de uma montanha</li>
+    <li>subject_story-&gt;descobriu diagramas a vapor esquecidos em um cofre soterrado</li>
+    <li>subject_story-&gt;atravessou um campo de gêiseres ativos</li>
+    <li>subject_gerund-&gt;criando vasos de contenção pressurizados</li>
   </VR_SteamPower.generalRules.rulesStrings>
   <VR_CommsConsole.generalRules.rulesStrings>
-    <li>subject-&gt;comms console</li>
-    <li>subject_story-&gt;learned to encode messages into rhythmic pressure pulses</li>
-    <li>subject_story-&gt;constructed resonant speaking chambers</li>
-    <li>subject_story-&gt;decoded distant messages carried by returning harmonic vibrations</li>
-    <li>subject_gerund-&gt;calibrated harmonics for clear transmission</li>
+    <li>subject-&gt;console de comunicação</li>
+    <li>subject_story-&gt;aprendeu a codificar mensagens em pulsos rítmicos de pressão</li>
+    <li>subject_story-&gt;construiu câmaras de fala ressonantes</li>
+    <li>subject_story-&gt;decodificou mensagens distantes carregadas por vibrações harmônicas de retorno</li>
+    <li>subject_gerund-&gt;calibrando harmônicos para uma transmissão clara</li>
   </VR_CommsConsole.generalRules.rulesStrings>
   <VR_TradeDisplacement.generalRules.rulesStrings>
-    <li>subject-&gt;trade displacement</li>
-    <li>subject_story-&gt;discovered that goods could be shifted through harmonic phase alignment</li>
-    <li>subject_story-&gt;learned to stabilize matter during displacement</li>
-    <li>subject_story-&gt;prevented catastrophic loss by binding mass to return frequencies</li>
-    <li>subject_gerund-&gt;aligned trade signals through harmonic anchors</li>
+    <li>subject-&gt;deslocamento comercial</li>
+    <li>subject_story-&gt;descobriu que mercadorias podiam ser deslocadas através do alinhamento de fases harmônicas</li>
+    <li>subject_story-&gt;aprendeu a estabilizar a matéria durante o deslocamento</li>
+    <li>subject_story-&gt;evitou perdas catastróficas vinculando a massa a frequências de retorno</li>
+    <li>subject_gerund-&gt;alinhando sinais comerciais através de âncoras harmônicas</li>
   </VR_TradeDisplacement.generalRules.rulesStrings>
   <VR_BasicConstructTech.generalRules.rulesStrings>
-    <li>subject-&gt;constructs</li>
-    <li>subject_story-&gt;authored a children's book covering the basic types of constructs</li>
-    <li>subject_story-&gt;was implanted with a prototype artificelink</li>
-    <li>subject_story-&gt;replicated basic tonal harmonic techniques independently</li>
-    <li>subject_gerund-&gt;creating basic constructs</li>
+    <li>subject-&gt;constructos</li>
+    <li>subject_story-&gt;escreveu um livro infantil abordando os tipos básicos de constructos</li>
+    <li>subject_story-&gt;recebeu o implante de uma conexão de artífice protótipo</li>
+    <li>subject_story-&gt;replicou técnicas harmônicas tonais básicas de forma independente</li>
+    <li>subject_gerund-&gt;criando constructos básicos</li>
   </VR_BasicConstructTech.generalRules.rulesStrings>
   <VR_StandardConstructTech.generalRules.rulesStrings>
-    <li>subject-&gt;constructs</li>
-    <li>subject_story-&gt;survived an automata foundry assault</li>
-    <li>subject_story-&gt;collated reports of construct attacks, looking for commonalities</li>
-    <li>subject_gerund-&gt;creating standard constructs</li>
+    <li>subject-&gt;constructos padrão</li>
+    <li>subject_story-&gt;sobreviveu a uma investida da fundição de autômatos</li>
+    <li>subject_story-&gt;compilou relatos de ataques de constructos em busca de pontos em comum</li>
+    <li>subject_gerund-&gt;criando constructos padrão</li>
   </VR_StandardConstructTech.generalRules.rulesStrings>
   <VR_HighConstructTech.generalRules.rulesStrings>
-    <li>subject-&gt;high tier constructs</li>
-    <li>subject_story-&gt;survived a Scarab Queen assault in a ancient cavern</li>
-    <li>subject_story-&gt;interrogated artificers captured in raids</li>
-    <li>subject_gerund-&gt;creating high-tier constructs</li>
+    <li>subject-&gt;constructos de alto nível</li>
+    <li>subject_story-&gt;sobreviveu a uma investida de uma rainha escaravelho em uma caverna ancestral</li>
+    <li>subject_story-&gt;interrogou artífices capturados em incursões</li>
+    <li>subject_gerund-&gt;criando constructos de alto nível</li>
   </VR_HighConstructTech.generalRules.rulesStrings>
   <VR_UltraConstructTech.generalRules.rulesStrings>
-    <li>subject-&gt;ultra-tier constructs</li>
-    <li>subject_story-&gt;found a powered-down apocriton in a dormant manufactoria</li>
-    <li>subject_story-&gt;observed an apocriton resurrecting automatons from a safe distance</li>
-    <li>subject_story-&gt;tapped into the deep psychic hatred that the apocritons feel towards humanity</li>
-    <li>subject_gerund-&gt;creating ultra-tier constructs</li>
+    <li>subject-&gt;constructos de nível ultra</li>
+    <li>subject_story-&gt;encontrou um supervisor desativado em uma manufatura dormente</li>
+    <li>subject_story-&gt;observou um supervisor ressuscitando autômatos de uma distância segura</li>
+    <li>subject_story-&gt;acessou o profundo ódio psíquico que os supervisores sentem pela humanidade</li>
+    <li>subject_gerund-&gt;criando constructos de nível ultra</li>
   </VR_UltraConstructTech.generalRules.rulesStrings>
   <VR_BasicGenetics.generalRules.rulesStrings>
-    <li>subject-&gt;chymerimancy</li>
-    <li>subject-&gt;genetic implantation</li>
-    <li>subject_story-&gt;was uplifted by a scientist that focused on the genetically disadvantaged</li>
-    <li>subject_story-&gt;had [ANYPAWN_possessive] flesh stolen by a rogue biologist</li>
-    <li>subject_story-&gt;ran a genetic transfer clinic for the nobility</li>
-    <li>subject_gerund-&gt;crafting xenogerms</li>
+    <li>subject-&gt;quimerimancia</li>
+    <li>subject-&gt;implantação genética</li>
+    <li>subject_story-&gt;foi elevado por um cientista que se dedicava aos geneticamente desfavorecidos</li>
+    <li>subject_story-&gt;teve a [ANYPAWN_possessive] carne roubada por um biólogo renegado</li>
+    <li>subject_story-&gt;administrou uma clínica de transferência genética para a nobreza</li>
+    <li>subject_gerund-&gt;criando xenogermes</li>
   </VR_BasicGenetics.generalRules.rulesStrings>
   <VR_AdvancedGenetics.generalRules.rulesStrings>
-    <li>subject-&gt;advanced chymerimancy</li>
-    <li>subject_story-&gt;extracted genes from a wandering rogue</li>
-    <li>subject_story-&gt;processed an entire village to create one set of higher genes</li>
-    <li>subject_story-&gt;began the slow process of uplift by implanting xenogerms into a primitive tribe</li>
-    <li>subject_gerund-&gt;constructing mutagenic furnaces</li>
-    <li>subject_gerund-&gt;processing genes</li>
+    <li>subject-&gt;quimerimancia avançada</li>
+    <li>subject_story-&gt;extraiu genes de um renegado errante</li>
+    <li>subject_story-&gt;processou uma vila inteira para criar um único conjunto de genes superiores</li>
+    <li>subject_story-&gt;iniciou o lento processo de elevação implantando xenogermes em uma tribo primitiva</li>
+    <li>subject_gerund-&gt;construindo fornalhas mutagênicas</li>
+    <li>subject_gerund-&gt;processando genes</li>
   </VR_AdvancedGenetics.generalRules.rulesStrings>
   <VR_ArchiteGenetics.generalRules.rulesStrings>
-    <li>subject-&gt;archite chymerimancy</li>
-    <li>subject_story-&gt;excavated archite genes from the ancient ruin</li>
-    <li>subject_story-&gt;made a good living as an archite gene trader</li>
-    <li>subject_story-&gt;led a research expedition to an ancient monolith and returned changed</li>
-    <li>subject_gerund-&gt;assembling archite genes</li>
-    <li>subject_gerund-&gt;creating seemingly impossible genes</li>
+    <li>subject-&gt;quimerimancia de arquita</li>
+    <li>subject_story-&gt;escavou genes de arquita da ruína ancestral</li>
+    <li>subject_story-&gt;ganhou bem a vida como comerciante de genes de arquita</li>
+    <li>subject_story-&gt;liderou uma expedição de pesquisa até um monolito ancestral e voltou transformado</li>
+    <li>subject_gerund-&gt;montando genes de arquita</li>
+    <li>subject_gerund-&gt;criando genes aparentemente impossíveis</li>
   </VR_ArchiteGenetics.generalRules.rulesStrings>
   <VR_MasterArchiteGenetics.generalRules.rulesStrings>
-    <li>subject-&gt;master chymerimancy</li>
-    <li>subject_story-&gt;excavated archite genes from the ancient ruin</li>
-    <li>subject_story-&gt;made a good living as an archite gene trader</li>
-    <li>subject_story-&gt;led a research expedition to an ancient monolith and returned changed</li>
-    <li>subject_gerund-&gt;assembling archite genes</li>
-    <li>subject_gerund-&gt;creating seemingly impossible genes</li>
+    <li>subject-&gt;quimerimancia mestra</li>
+    <li>subject_story-&gt;escavou genes de arquita da ruína ancestral</li>
+    <li>subject_story-&gt;ganhou bem a vida como comerciante de genes de arquita</li>
+    <li>subject_story-&gt;liderou uma expedição de pesquisa até um monolito ancestral e voltou transformado</li>
+    <li>subject_gerund-&gt;montando genes de arquita</li>
+    <li>subject_gerund-&gt;criando genes aparentemente impossíveis</li>
   </VR_MasterArchiteGenetics.generalRules.rulesStrings>
 </LanguageData>

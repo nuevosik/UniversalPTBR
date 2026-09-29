@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FFF_Info_AccessKeyActivatable.label>trava de chave de acesso</FFF_Info_AccessKeyActivatable.label>
+  <FFF_Info_AccessKeyActivatable.description>Fica selado até que um colono use a chave de acesso exigida nele. Ativá-lo pode destrancar as portas de segurança correspondentes ou liberar o conteúdo guardado dentro.</FFF_Info_AccessKeyActivatable.description>
+  <FFF_Info_AccessKeyDoor.label>porta de segurança</FFF_Info_AccessKeyDoor.label>
+  <FFF_Info_AccessKeyDoor.description>Esta porta permanece trancada enquanto estiver vinculada a uma trava de chave de acesso. Quando a trava é ativada, a porta se abre e passa a ser utilizável pelo colono que a destrancou e por sua facção.</FFF_Info_AccessKeyDoor.description>
+  <FFF_Info_ActiveProtectionSystem.label>proteção ativa</FFF_Info_ActiveProtectionSystem.label>
+  <FFF_Info_ActiveProtectionSystem.description>Implanta um campo de interceptação ao redor do usuário por tempo limitado. Projéteis que entram no campo têm chance de serem abatidos antes de pousar; só alguns podem ser interceptados por vez.</FFF_Info_ActiveProtectionSystem.description>
+  <FFF_Info_AirSupportSummoner.label>apoio aéreo</FFF_Info_AirSupportSummoner.label>
+  <FFF_Info_AirSupportSummoner.description>Solicita um ataque aéreo ou uma passagem de aeronave de uma base aliada. Escolha um alvo no mapa e o apoio chega após um breve atraso; o efeito exato depende do tipo de apoio ao qual este item está ajustado.</FFF_Info_AirSupportSummoner.description>
+  <FFF_Info_AlertEffector.label>resposta a alarme</FFF_Info_AlertEffector.label>
+  <FFF_Info_AlertEffector.description>Reage quando um alarme no mapa é disparado — inclusive liberando defensores, ativando dispositivos ou respondendo a intrusos de outras formas. Algumas respostas só disparam uma vez.</FFF_Info_AlertEffector.description>
+  <FFF_Info_AlertScanner.label>alarme de varredura</FFF_Info_AlertScanner.label>
+  <FFF_Info_AlertScanner.description>Dispara um alarme quando um alvo hostil entra em seu campo de visão, fazendo outros dispositivos que escutam esse sinal reagirem. Cada detecção eleva o nível de alerta de segurança do mapa; desative ou destrua o scanner para evitar dispará-lo.</FFF_Info_AlertScanner.description>
+  <FFF_Info_AmmoSwitch.label>troca de munição</FFF_Info_AmmoSwitch.label>
+  <FFF_Info_AmmoSwitch.description>Esta arma pode alternar entre várias predefinições de munição. Use o botão para agendar a troca; o portador se desloca para trocar a munição e um breve tempo de espera se aplica depois. Cada predefinição pode alterar o projétil, o alcance e a precisão.</FFF_Info_AmmoSwitch.description>
+  <FFF_Info_AntiBlasterSmoke.label>fumaça de ocultação</FFF_Info_AntiBlasterSmoke.label>
+  <FFF_Info_AntiBlasterSmoke.description>Preenche sua área com fumaça que tem chance de deter certos projéteis que a atravessam enquanto durar.</FFF_Info_AntiBlasterSmoke.description>
+  <FFF_Info_ArtificialOrganism.label>vida artificial</FFF_Info_ArtificialOrganism.label>
+  <FFF_Info_ArtificialOrganism.description>Um constructo vivo artificial criado por bioengenharia. Seus ferimentos se regeneram sozinhos com o tempo e, quando sua energia baixa, ele pode comer para recarregar em vez de precisar de um carregador.</FFF_Info_ArtificialOrganism.description>
+  <FFF_Info_AutoWorkTable.label>bancada automatizada</FFF_Info_AutoWorkTable.label>
+  <FFF_Info_AutoWorkTable.description>Uma máquina de produção que executa seu processo de trabalho de forma semiautomática. Um colono com as habilidades exigidas só precisa realizar uma ação em cada etapa; a bancada então segue o processo sem supervisão, consumindo energia. Algumas bancadas ejetam o produto pronto automaticamente; outras precisam que um colono o recolha.</FFF_Info_AutoWorkTable.description>
+  <FFF_Info_BiochemicalProtection.label>proteção bioquímica</FFF_Info_BiochemicalProtection.label>
+  <FFF_Info_BiochemicalProtection.description>Enquanto vestida, esta roupa impede que o usuário contraia doenças e infecções do ambiente ou de ferimentos.</FFF_Info_BiochemicalProtection.description>
+  <FFF_Info_BuildingMover.label>estrutura móvel</FFF_Info_BuildingMover.label>
+  <FFF_Info_BuildingMover.description>Esta estrutura pode se mover ao longo de seu eixo frontal, girar no lugar ou percorrer um trilho de um lado para o outro, acionada por comando, sinal ou proximidade. Dependendo de sua construção, pode esmagar obstáculos no caminho e minerar através do minério.</FFF_Info_BuildingMover.description>
+  <FFF_Info_BulletproofPlate.label>placas de armadura</FFF_Info_BulletproofPlate.label>
+  <FFF_Info_BulletproofPlate.description>Equipada com placas de armadura substituíveis que aumentam a proteção das partes do corpo que cobrem. As placas perdem durabilidade ao serem atingidas e deixam de proteger quando se desgastam; reponha-as com o material de placa correspondente. Roupas de qualidade superior aproveitam melhor suas placas.</FFF_Info_BulletproofPlate.description>
+  <FFF_Info_Camouflage.label>camuflagem</FFF_Info_Camouflage.label>
+  <FFF_Info_Camouflage.description>Pode alternar um modo de camuflagem que o torna invisível para inimigos. Inimigos que chegam perto o bastante, ou disparar enquanto camuflado, têm chance de revelá-lo; uma vez detectada, a camuflagem cai e precisa de tempo para rearmar antes de ser usada de novo.</FFF_Info_Camouflage.description>
+  <FFF_Info_CausePanic.label>presença intimidadora</FFF_Info_CausePanic.label>
+  <FFF_Info_CausePanic.description>Sua presença desassossega as pessoas próximas. De tempos em tempos, quem estiver ao alcance pode entrar em um estado mental — as menores e as que já estão perto de quebrar são as mais vulneráveis. O efeito cessa enquanto ele estiver atordoado.</FFF_Info_CausePanic.description>
+  <FFF_Info_ClusterBomb.label>munição de fragmentação</FFF_Info_ClusterBomb.label>
+  <FFF_Info_ClusterBomb.description>No meio do voo, este projétil se abre e libera uma dispersão de submunições que caem ao redor do ponto-alvo em vez de atingir uma única célula. Dependendo da munição, pode também detonar no momento em que se divide. Só se divide depois de estar a uma distância segura de quem disparou.</FFF_Info_ClusterBomb.description>
+  <FFF_Info_CommandRelay.label>relé de comando</FFF_Info_CommandRelay.label>
+  <FFF_Info_CommandRelay.description>Uma unidade de comando. Ignora totalmente o alcance de controle de seu mecanizador, e os mecanoides próximos a ela também são tratados como dentro do alcance. Em expedições longe do mecanizador, o raio do relé encolhe com a distância no mapa-múndi, até um mínimo quando muito longe. Enquanto convocado, mostra sua cobertura atual no mapa.</FFF_Info_CommandRelay.description>
+  <FFF_Info_ConeExplosive.label>explosão direcional</FFF_Info_ConeExplosive.label>
+  <FFF_Info_ConeExplosive.description>No impacto, este projétil explode em um cone apontado na direção do voo em vez de um círculo completo. Tudo no arco à frente do ponto de impacto é atingido; o que está atrás ou ao lado é poupado. Mire de modo que o cone varra a linha inimiga.</FFF_Info_ConeExplosive.description>
+  <FFF_Info_ContinuousDamager.label>cortador de termite de uso único</FFF_Info_ContinuousDamager.label>
+  <FFF_Info_ContinuousDamager.description>Uma vez ativado, este dispositivo causa dano térmico contínuo ao que estiver à sua frente por um tempo definido. Eficaz para cortar paredes e fortificações.</FFF_Info_ContinuousDamager.description>
+  <FFF_Info_DamageBlocker.label>proteção por limiar</FFF_Info_DamageBlocker.label>
+  <FFF_Info_DamageBlocker.description>Os ataques recebidos são comparados a um limiar de dano. Dependendo da configuração, ataques acima ou abaixo do limiar podem ser totalmente bloqueados, limitados ou deixados passar, e cada bloqueio pode consumir uma carga de proteção. As cargas podem ser repostas com materiais ou recarregar com o tempo. Veja a categoria "Proteção por limiar" para os números exatos.</FFF_Info_DamageBlocker.description>
+  <FFF_Info_DeactivatedMech.label>mecanoide desativado</FFF_Info_DeactivatedMech.label>
+  <FFF_Info_DeactivatedMech.description>Um mecanoide desativado em armazenamento. Um mecanizador com largura de banda livre suficiente pode assumir seu controle diretamente; unidades hostis ou sem dono podem ser hackeadas por um colono com trabalho de pesquisa habilitado. Um hackeamento fracassado desperta o mecha hostil. Ele também pode ser desmontado.</FFF_Info_DeactivatedMech.description>
+  <FFF_Info_DeadManSwitch.label>interruptor de homem morto</FFF_Info_DeadManSwitch.label>
+  <FFF_Info_DeadManSwitch.description>Este mecanoide carrega um dispositivo de segurança que o desliga caso seja cortado de seu supervisor. Unidades perdidas ou que se afastam ainda podem encontrar o caminho de volta — mas, ocasionalmente, o interruptor falha em rearmar.</FFF_Info_DeadManSwitch.description>
+  <FFF_Info_Deployable.label>implantável</FFF_Info_Deployable.label>
+  <FFF_Info_Deployable.description>Este item pode ser carregado por uma pessoa e implantado no campo como uma construção. Uma pessoa convocada que o carregue pode posicioná-lo diretamente em um local livre; a implantação leva tempo e a área precisa estar desobstruída.</FFF_Info_Deployable.description>
+  <FFF_Info_Drone.label>drone</FFF_Info_Drone.label>
+  <FFF_Info_Drone.description>Uma unidade operada remotamente e vinculada à sua plataforma de implantação. 
+
+O drone só pode ser controlado enquanto a plataforma estiver energizada e sob seu controle ou, no caso de uma plataforma vestível, enquanto o usuário estiver convocado no mesmo mapa. Ele funciona com uma bateria interna e retorna automaticamente à plataforma quando a carga baixa; use o comando de retorno para recolhê-lo antes e recuperar o material que custou. Drones implantados por você deixam cair o equipamento quando são destruídos.</FFF_Info_Drone.description>
+  <FFF_Info_DronePack.label>mochila de drones</FFF_Info_DronePack.label>
+  <FFF_Info_DronePack.description>Uma plataforma de drones vestível. O usuário pode liberar seus drones. No caso de usuários controlados por NPCs, eles a usarão por conta própria quando houver hostis no mapa.</FFF_Info_DronePack.description>
+  <FFF_Info_DronePlatform.label>plataforma de drones</FFF_Info_DronePlatform.label>
+  <FFF_Info_DronePlatform.description>Armazena material e o gasta para implantar drones.
+
+Recolher um drone o devolve à plataforma e reembolsa o material que custou. Drones implantados obedecem à área permitida definida na plataforma, e todo drone controlado pela plataforma é desligado se ela for destruída. Plataformas que suportam vários tipos de unidade permitem escolher qual implantar e podem ser configuradas para implantar e recolher automaticamente em um intervalo fixo.</FFF_Info_DronePlatform.description>
+  <FFF_Info_EnvironmentExemption.label>isenção ambiental</FFF_Info_EnvironmentExemption.label>
+  <FFF_Info_EnvironmentExemption.description>Quando vinculada a uma bancada, esta instalação dispensa ou flexibiliza os requisitos ambientais das receitas daquela bancada — limpeza, luz, temperatura, pressão ou gravidade. A folga de várias instalações vinculadas se soma.</FFF_Info_EnvironmentExemption.description>
+  <FFF_Info_EnvironmentalBill.label>requisito ambiental</FFF_Info_EnvironmentalBill.label>
+  <FFF_Info_EnvironmentalBill.description>Esta receita só pode ser trabalhada quando a sala da bancada atende a condições ambientais específicas, como limpeza, nível de luz, temperatura, pressão ou gravidade. As tarefas ficam suspensas enquanto as condições não são atendidas. Algumas instalações vinculadas podem dispensar esses requisitos.</FFF_Info_EnvironmentalBill.description>
+  <FFF_Info_ExplosiveOnMelee.label>detonação por contato</FFF_Info_ExplosiveOnMelee.label>
+  <FFF_Info_ExplosiveOnMelee.description>Quando esta unidade acerta um ataque corpo a corpo, detona todos os explosivos que carrega ou segura, destruindo-se no processo. Unidades hostis desse tipo podem surgir carregando explosivos.</FFF_Info_ExplosiveOnMelee.description>
+  <FFF_Info_Floating.label>flutuação</FFF_Info_Floating.label>
+  <FFF_Info_Floating.description>Esta unidade paira sobre o solo. Ignora terrenos que atrasariam quem anda e pode atravessar águas profundas.</FFF_Info_Floating.description>
+  <FFF_Info_FueledSpawner.label>produção a combustível</FFF_Info_FueledSpawner.label>
+  <FFF_Info_FueledSpawner.description>Consome combustível para produzir itens periodicamente. A produção para quando o combustível acaba ou quando há produtos demais acumulados por perto.</FFF_Info_FueledSpawner.description>
+  <FFF_Info_HeavyEquippable.label>equipamento pesado</FFF_Info_HeavyEquippable.label>
+  <FFF_Info_HeavyEquippable.description>Somente pessoas que atendam a um requisito de tamanho corporal, ou pertençam às raças listadas, vistam as roupas listadas ou carreguem os implantes ou genes listados podem equipar isto. As demais não conseguem pegá-lo como arma.</FFF_Info_HeavyEquippable.description>
+  <FFF_Info_HumanlikeMech.label>mecanoide humanóide</FFF_Info_HumanlikeMech.label>
+  <FFF_Info_HumanlikeMech.description>Um mecanoide construído sobre uma estrutura humanóide ergonômica. Pode vestir roupas e se beneficia de seus efeitos, ainda contando como mecanoide para controle, reparo e largura de banda.</FFF_Info_HumanlikeMech.description>
+  <FFF_Info_InternalBattery.label>bateria interna</FFF_Info_InternalBattery.label>
+  <FFF_Info_InternalBattery.description>Esta construção carrega sua própria bateria. Enquanto conectada a uma rede energizada, carrega a bateria; se a rede perde energia, ela continua funcionando com a bateria até esgotá-la. Desligar a construção a coloca em espera, quando para de funcionar mas carrega mais rápido.</FFF_Info_InternalBattery.description>
+  <FFF_Info_ListedContainer.label>contêiner abastecido</FFF_Info_ListedContainer.label>
+  <FFF_Info_ListedContainer.description>Um contêiner com suprimentos. Inspecione-o para ver o conteúdo e depois interaja com ele para descarregá-lo.</FFF_Info_ListedContainer.description>
+  <FFF_Info_LogisticTerminal.label>terminal logístico</FFF_Info_LogisticTerminal.label>
+  <FFF_Info_LogisticTerminal.description>Interaja com o terminal para solicitar uma entrega. Após um atraso, chega um carrinho de carga trazendo parte do estoque do terminal; o estoque é limitado e o terminal se desliga quando ele acaba.</FFF_Info_LogisticTerminal.description>
+  <FFF_Info_Lootbox.label>esconderijo selado</FFF_Info_Lootbox.label>
+  <FFF_Info_Lootbox.description>Um contêiner lacrado. Abri-lo rende uma seleção aleatória de bens — ou, ocasionalmente, nada.</FFF_Info_Lootbox.description>
+  <FFF_Info_MechApparel.label>suporte a roupas</FFF_Info_MechApparel.label>
+  <FFF_Info_MechApparel.description>Este mecanoide pode vestir roupas. Algumas camadas de roupa são bloqueadas por sua estrutura e não podem ser equipadas.</FFF_Info_MechApparel.description>
+  <FFF_Info_MechCapsule.label>mecanoide hibernável</FFF_Info_MechCapsule.label>
+  <FFF_Info_MechCapsule.description>Um mecanoide que pode se desligar temporariamente para armazenamento. Mechas em hibernação não usam largura de banda de controle e podem ser reiniciados por um mecanizador com largura de banda suficiente; se pertencer a outra pessoa, pode ser hackeado por um colono. Mechas encostados encontrados na natureza às vezes ainda seguram sua arma.</FFF_Info_MechCapsule.description>
+  <FFF_Info_MechHeal.label>autorreparo</FFF_Info_MechHeal.label>
+  <FFF_Info_MechHeal.description>Enquanto esta condição estiver presente, o mecanoide repara lentamente seus próprios danos com o tempo, sem mecanizador.</FFF_Info_MechHeal.description>
+  <FFF_Info_MechModification.label>modificação de mecha</FFF_Info_MechModification.label>
+  <FFF_Info_MechModification.description>Este item é um módulo de modificação para mecanoides. Abra a janela de modificação de um mecha, escolha um encaixe corporal e agende a instalação; um colono então a realiza. Cada encaixe comporta um módulo, e alguns módulos podem ser empilhados ou combinados até um limite. Os módulos podem ser removidos depois.</FFF_Info_MechModification.description>
+  <FFF_Info_MechMothball.label>hibernação</FFF_Info_MechMothball.label>
+  <FFF_Info_MechMothball.description>Este mecanoide pode ser colocado em hibernação. Ele se torna uma estrutura dormente que não usa mais largura de banda e pode ser reativada depois por qualquer mecanizador com largura de banda livre suficiente. Não pode hibernar enquanto estiver caído.</FFF_Info_MechMothball.description>
+  <FFF_Info_MechWeaponUsable.label>sistemas de armas</FFF_Info_MechWeaponUsable.label>
+  <FFF_Info_MechWeaponUsable.description>Este mecanoide pode pegar e usar armas. Quais armas ele aceita é limitado pelos filtros de seu modelo — tags de arma, nível tecnológico, classe de arma ou uma lista explícita — ou pelo próprio requisito de tamanho corporal da arma. A lista completa é mostrada na entrada de sistemas de armas do mecanoide.</FFF_Info_MechWeaponUsable.description>
+  <FFF_Info_MechanitorRange.label>atenuação de sinal</FFF_Info_MechanitorRange.label>
+  <FFF_Info_MechanitorRange.description>Enquanto convocado, o desempenho deste mecanoide depende de sua distância até o mecanizador. De perto, sofre pouco; quanto mais longe, mais pesada a penalidade, chegando ao pior quando o mecanizador está em outro mapa. A penalidade desaparece assim que o mecha é desconvocado.</FFF_Info_MechanitorRange.description>
+  <FFF_Info_MeleeSweep.label>golpe varredor</FFF_Info_MeleeSweep.label>
+  <FFF_Info_MeleeSweep.description>Ataques corpo a corpo atingem tudo em um cone à frente do atacante, em vez de um único alvo.</FFF_Info_MeleeSweep.description>
+  <FFF_Info_MultiTurret.label>torretas múltiplas</FFF_Info_MultiTurret.label>
+  <FFF_Info_MultiTurret.description>Esta unidade monta uma ou mais subtorretas que adquirem e atiram em alvos independentemente de sua arma principal. Cada torreta pode receber um alvo forçado, alternar entre tiro automático e manual e pode aceitar sua própria arma ou munição.</FFF_Info_MultiTurret.description>
+  <FFF_Info_OverseerBuilding.label>núcleo supervisor</FFF_Info_OverseerBuilding.label>
+  <FFF_Info_OverseerBuilding.description>Uma estrutura de comando estacionária com sua própria largura de banda e grupos de controle. Os mecanoides designados a ela a obedecem como obedeceriam a um mecanizador dentro de seu alcance de comando — alguns núcleos cobrem o mapa inteiro. Pode reiniciar mecanoídes encostados diretamente e reparar os mechas que supervisiona enquanto estiverem por perto. Instalações vinculadas ampliam suas capacidades.</FFF_Info_OverseerBuilding.description>
+  <FFF_Info_OverseerMech.label>unidade supervisora</FFF_Info_OverseerMech.label>
+  <FFF_Info_OverseerMech.description>Um mecanoide que comanda outros mecanoides por conta própria, com sua própria largura de banda e grupos de controle, sem precisar de mecanizador. Os mecanoides colocados sob seu controle a obedecem como obedeceriam a um mecanizador e a seguem em campo. Pode reiniciar mecanoídes encostados que encontrar e reparar os mechas que supervisiona enquanto estiverem por perto.</FFF_Info_OverseerMech.description>
+  <FFF_Info_Paintable.label>pintável</FFF_Info_Paintable.label>
+  <FFF_Info_Paintable.description>Pode ser repintado. Escolha uma cor ou padrão de camuflagem no comando de pintura; alguns modelos usam por padrão as cores de sua facção.</FFF_Info_Paintable.description>
+  <FFF_Info_PerimeterScanner.label>scanner perimetral</FFF_Info_PerimeterScanner.label>
+  <FFF_Info_PerimeterScanner.description>Vigia a área ao seu redor em busca de criaturas invisíveis ou camufladas e emite um aviso quando detecta uma.</FFF_Info_PerimeterScanner.description>
+  <FFF_Info_ProtectiveShield.label>blindagem cerâmica</FFF_Info_ProtectiveShield.label>
+  <FFF_Info_ProtectiveShield.description>Armadura descartável com seus próprios pontos de vida. O dano recebido é absorvido pelo revestimento até sua durabilidade se esgotar, quando ele quebra e precisa ser substituído. Mechas maiores podem carregar mais placas.</FFF_Info_ProtectiveShield.description>
+  <FFF_Info_QualityChance.label>otimização de qualidade</FFF_Info_QualityChance.label>
+  <FFF_Info_QualityChance.description>Bancadas automatizadas vinculadas a esta construção têm uma chance fixa de produzir produtos de qualidade superior, independentemente da habilidade do trabalhador.</FFF_Info_QualityChance.description>
+  <FFF_Info_Recycleable.label>reciclagem de campo</FFF_Info_Recycleable.label>
+  <FFF_Info_Recycleable.description>Quando esta unidade é derrubada ou destruída, ela pode ser desmontada onde está. Marque-a para reciclagem, ou ordene diretamente a um colono, e ele a desmontará no local, deixando cair o equipamento que carregava e parte dos materiais com que foi construída. Destroços rendem menos que unidades derrubadas.</FFF_Info_Recycleable.description>
+  <FFF_Info_SelfDestruct.label>sequência de autodestruição</FFF_Info_SelfDestruct.label>
+  <FFF_Info_SelfDestruct.description>Ao receber seu sinal de disparo, este objeto detona em uma grande explosão após um breve atraso. Mantenha distância quando a sequência começar.</FFF_Info_SelfDestruct.description>
+  <FFF_Info_ShieldingDevice.label>dispositivo de blindagem</FFF_Info_ShieldingDevice.label>
+  <FFF_Info_ShieldingDevice.description>Enquanto energizado, este dispositivo intercepta certos eventos — como incursões — antes que cheguem à colônia. Seu consumo de energia cresce com o número de colonos no mapa. Cada interceptação coloca o dispositivo em um longo tempo de recarga durante o qual não oferece proteção, embora ainda precise de energia para esfriar.</FFF_Info_ShieldingDevice.description>
+  <FFF_Info_SignalAreaTrigger.label>alarme de gatilho</FFF_Info_SignalAreaTrigger.label>
+  <FFF_Info_SignalAreaTrigger.description>Envia um sinal quando sua condição é atendida, fazendo outros dispositivos que escutam esse sinal reagirem. Cada detecção eleva o nível de alerta de segurança do mapa.</FFF_Info_SignalAreaTrigger.description>
+  <FFF_Info_SignalRemote.label>console remoto</FFF_Info_SignalRemote.label>
+  <FFF_Info_SignalRemote.description>Carrega um ou mais botões, cada um capaz de transmitir um sinal ao qual dispositivos vinculados respondem.</FFF_Info_SignalRemote.description>
+  <FFF_Info_SignalTower.label>transmissão de sinal</FFF_Info_SignalTower.label>
+  <FFF_Info_SignalTower.description>Enquanto energizado, este dispositivo pode chamar uma nave de comércio para visitar por meio de seu botão de comando. Ele precisa esfriar entre usos.</FFF_Info_SignalTower.description>
+  <FFF_Info_SubRelay.label>relé de controle</FFF_Info_SubRelay.label>
+  <FFF_Info_SubRelay.description>Amplia o alcance de controle de mecanoides ao seu redor — para todos os mecanizadores, não apenas um. Como construção, funciona enquanto energizado, em bom estado e sob posse de sua colônia; como roupa, funciona enquanto vestido por uma de suas pessoas. Alguns relés cobrem o mapa inteiro. O anel de cobertura é mostrado enquanto um mecha convocado está selecionado.</FFF_Info_SubRelay.description>
+  <FFF_Info_Substation.label>núcleo de energia</FFF_Info_Substation.label>
+  <FFF_Info_Substation.description>Fornece energia à rede local e pode ser desligado por hackeamento. Um núcleo sob posse de uma facção hostil se desconecta automaticamente quando as unidades deste mapa são derrotadas. Pessoas sem habilidade intelectual suficiente correm risco de choque elétrico ao operá-lo.</FFF_Info_Substation.description>
+  <FFF_Info_TrampleBuildings.label>esmagamento</FFF_Info_TrampleBuildings.label>
+  <FFF_Info_TrampleBuildings.description>Esta unidade é pesada o bastante para esmagar estruturas em seu caminho. Construções dentro de sua área de passagem que não pertençam à sua facção sofrem dano enquanto ela passa por elas.</FFF_Info_TrampleBuildings.description>
+  <FFF_Info_TurretCapacity.label>posição tripulada</FFF_Info_TurretCapacity.label>
+  <FFF_Info_TurretCapacity.description>Uma torreta fortificada na qual uma pessoa entra. O ocupante opera a arma de dentro e fica protegido pela estrutura; a torreta não faz nada sem tripulação.</FFF_Info_TurretCapacity.description>
+  <FFF_Info_TurretMannable.label>operação de torreta</FFF_Info_TurretMannable.label>
+  <FFF_Info_TurretMannable.description>Este mecanoide pode operar torretas e outras posições tripuladas como um colono; se uma posição pode ser operada é definido por seus sistemas de armas.</FFF_Info_TurretMannable.description>
+  <FFF_Info_WeaponImprint.label>impressão de arma</FFF_Info_WeaponImprint.label>
+  <FFF_Info_WeaponImprint.description>A primeira arma que este mecanoide equipa é impressa em seus sistemas adaptativos. Quanto mais tempo ele continuar usando esse tipo de arma, maior fica seu nível de impressão, concedendo bônus crescentes; trocar para um tipo de arma diferente descarta a impressão.</FFF_Info_WeaponImprint.description>
+  <FFF_Info_WeaponReloadable.label>arma recarregável</FFF_Info_WeaponReloadable.label>
+  <FFF_Info_WeaponReloadable.description>Esta arma carrega um número limitado de disparos e precisa ser recarregada com o item de munição correspondente quando eles acabam.</FFF_Info_WeaponReloadable.description>
+</LanguageData>

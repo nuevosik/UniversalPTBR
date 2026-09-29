@@ -1017,4 +1017,11 @@
   <TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>Só disparar antiaéreos N4 contra o jogador enquanto o fim de jogo está ativo</TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>
   <TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>Só disparar morteiros N4 contra o jogador enquanto o meio de jogo está ativo</TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>
   <TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>Só disparar antiaéreos N4 contra o jogador enquanto o meio de jogo está ativo</TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>
+  <TSA_WD_LateGame_EnableDaysThreshold>Permitir dificuldade do Final de Jogo baseada em tempo</TSA_WD_LateGame_EnableDaysThreshold>
+  <TSA_WD_LateGame_EnableDaysThresholdTooltip>Quando ativado, o Final de Jogo pode ser acionado pelos dias decorridos mesmo que a participação e a força ainda estejam abaixo de seus limiares do Final de Jogo. Quando desativado, apenas a participação e a força dos postos avançados podem acionar o Final de Jogo.</TSA_WD_LateGame_EnableDaysThresholdTooltip>
+  <TSA_WD_MidGame_EnableDaysThreshold>Permitir dificuldade do Meio de Jogo baseada em tempo</TSA_WD_MidGame_EnableDaysThreshold>
+  <TSA_WD_MidGame_EnableDaysThresholdTooltip>Quando ativado, o Meio de Jogo pode ser acionado pelos dias decorridos mesmo que a participação e a força ainda estejam abaixo de seus limiares do Meio de Jogo. Quando desativado, apenas a participação e a força dos postos avançados podem acionar o Meio de Jogo.</TSA_WD_MidGame_EnableDaysThresholdTooltip>
+  <TSA_WD_StorytellerBlockedRaid_Drop>Descartar incursões do narrador inválidas</TSA_WD_StorytellerBlockedRaid_Drop>
+  <TSA_WD_StorytellerBlockedRaid_Swap>Trocar incursões do narrador por uma facção válida</TSA_WD_StorytellerBlockedRaid_Swap>
+  <TSA_WD_StorytellerBlockedRaid_Tooltip>Quando o narrador escolhe uma facção com o narrador desativado nesta lista: descarte a incursão ou redirecione-a para outra facção listada que tenha o narrador ativado e possa originar uma incursão padrão. Facções ocultas não mostradas aqui (mecanoides, insetoides) mantêm o comportamento normal do narrador e nunca são usadas como alvo de troca. Se não existir nenhuma facção válida na lista, a incursão é descartada.</TSA_WD_StorytellerBlockedRaid_Tooltip>
 </LanguageData>
