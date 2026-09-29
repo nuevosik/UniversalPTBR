@@ -13,14 +13,41 @@ Complementos desta rodada (fora da whitelist original DefInjected+Keyed):
   o mesmo do pacote oficial PT-BR; 344 listas novas e 14 listas legadas realinhadas ao EN 1.6
   (regras ausentes, chaves de regra traduzidas por engano, condições de regra perdidas).
 - **Camada `Strings/`**: `Words/BookWords/*` e `Words/TeachingWords/*` (VBE/VSIE),
-  `Nickname/*` (VFE Settlers) — 32 arquivos, mesma contagem de linhas do EN.
+  `Nickname/*` (VFE Settlers) — 32 arquivos, mesma contagem de linhas do EN. Exceções
+  conscientes: `Nickname/WantedNoun` tem 1 entrada a menos que o EN (o artigo solto "The"
+  é desnecessário em PT, porque o artigo já vem embutido em "O Caçador", como a regra
+  `defaultWantedNick->[nNoun] [nAdj]` exige); `Words/Nouns/AnimalsNordic` funde
+  "Midgard"+"Serpent" em "Serpente de Midgard"; `PoliticalUnions_Medieval` acrescenta
+  3 termos (ducado, condado, principado) que o EN não lista.
 - **Limpeza**: 2 arquivos de regras de livro do Core 1.5 (estrutura `<li>` sem chave =
   900+ erros de injeção) movidos para `docs/legado/`; 181 entradas Keyed duplicadas removidas
   (RimWorld acusa "Duplicate keyed translation key"); valores com quebra de linha literal
   normalizados; placeholders `{...}` perdidos restaurados.
 
-| lote | folderId | packageId | mod | defs | keys | total | status |
-|---|---|---|---|---:|---:|---:|---|
+## Revisão de divergências
+
+Atualizações dos mods na Workshop reabriram pendências no `coverage.py`; rodada de correção:
+
+- **Cobertura zerada de novo** (169 + 7 + 2 chaves): Fortified Features Framework — novo
+  `DefInjected/Fortified.FFF_InfoDef/` (130 chaves de `Fortified.FFF_InfoDef`), 6 chaves em
+  `JobDef`/`StatCategoryDef`/`WorkGiverDef` e 33 `Keyed`; World Domination 2.0 (+7 `Keyed`);
+  Medieval Overhaul: Adaptive Storage (+2 `Keyed`).
+- **4 chaves órfãs removidas**: `FFF_DamageBlocker_{Hediff,Armor}Example.{label,description}` —
+  defs de exemplo que o FFF 1.6 removeu; a injeção não tinha mais alvo.
+- **RHS em inglês em listas `rulesStrings`** (384 regras): descrições de pesquisa
+  (`Weapons`, `FantasyBiotech`, `FurnitureSecurity`, `ReGrowth2`, `Apparel`, `FactionsDeserters`,
+  `DeadManSSwitch`), logs de interação (`VSIE_Vent`, `VSIE_Discord`, `VFEA_Intimidate`,
+  `VFEA_InterrogatePrisoner`), cartas e nomes de missão do DMS e o `r_name` viking. O
+  `validate_medieval.py` só confere a presença das regras do EN, não o RHS — daí o vazamento.
+- **Valores deixados em inglês**: ShowMeYourTools (8 ferramentas), Dubs Performance Analyzer (3),
+  Vehicle Framework (6 rótulos de aprimoramento), `VMF_Indoor`, `DebugSettlement`,
+  `VAEA_Apparel_Backpack`.
+- **`Strings/Nickname`**: `WantedNoun`/`WantedAdj` tinham o conteúdo invertido — a regra
+  `defaultWantedNick->[nNoun] [nAdj]` gerava "Vermelho O Caçador". Trocados: `WantedNoun` =
+  "O Caçador…", `WantedAdj` = "Vermelho…" → "O Caçador Vermelho".
+- **Docs**: header duplicado da tabela abaixo removido; fatos obsoletos do `AGENTS.md`
+  (contagens de XML/Patches/cSpell, `.gitignore`) corrigidos.
+
 | lote | folderId | packageId | mod | defs | keys | total | status |
 |---|---|---|---|---:|---:|---:|---|
 | B1 | 3680501610 | TSA.WorldDominationExperimental | World Domination 2.0 | 262 | 5146 | 5408 | feito |
