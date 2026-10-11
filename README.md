@@ -43,7 +43,7 @@ Qualquer feedback sobre a qualidade da tradução, termos que pareçam estranhos
 
 Para instalar manualmente a tradução:
 
-1.  Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/nuevosik/VanillaExpandedPTBR/releases/latest)
+1.  Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/nuevosik/UniversalPTBR/releases/latest)
 2.  Extraia o conteúdo.
 3.  Copie a pasta resultante **`Tradução Universal (PT-BR)`** para o diretório de *mods* do RimWorld:
 

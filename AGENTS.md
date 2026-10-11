@@ -1,4 +1,4 @@
-# AGENTS.md — Tradução Vanilla Expanded PT-BR
+# AGENTS.md — Tradução Universal PT-BR
 
 RimWorld translation mod. No build system, package manager, tests, or CI. 100% XML/text translation files.
 
