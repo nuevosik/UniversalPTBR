@@ -97,4 +97,7 @@
   <VMF_PatchLevel.Cautious.Tooltip>Ativa a aplicação de patches, incluindo Transpilers considerados relativamente seguros, como substituições simples de métodos.</VMF_PatchLevel.Cautious.Tooltip>
   <VMF_PatchLevel.Safe.Tooltip>Ativa a aplicação de patches executáveis de forma segura e rápida, como Prefixos e Postfixos.</VMF_PatchLevel.Safe.Tooltip>
   <VMF_Settings.RoofedPatch>Considerar telhado no mapa base também para telhado no mapa do veículo.\n(Impacto no desempenho)</VMF_Settings.RoofedPatch>
+  <VMF_BeginToSink>{0} está começando a afundar.</VMF_BeginToSink>
+  <VMF_ForceOnExpandableCell>Não pode ser colocado em um local que não seja uma célula expansível.</VMF_ForceOnExpandableCell>
+  <VMF_Settings.MapSizePerTile>Escala da renderização do mundo na visualização do mapa de veículos. (tamanho da célula do mapa / tamanho do bloco)</VMF_Settings.MapSizePerTile>
 </LanguageData>

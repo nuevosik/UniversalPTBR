@@ -60,10 +60,6 @@
   <DMS_Caterpillar.corePart.parts.left_track.parts.left_wheel.customLabel>roda esquerda</DMS_Caterpillar.corePart.parts.left_track.parts.left_wheel.customLabel>
   <DMS_Caterpillar.corePart.parts.right_track.customLabel>esteira direita</DMS_Caterpillar.corePart.parts.right_track.customLabel>
   <DMS_Caterpillar.corePart.parts.right_track.parts.right_wheel.customLabel>roda direita</DMS_Caterpillar.corePart.parts.right_track.parts.right_wheel.customLabel>
-  <DMS_Caterpillar.corePart.parts.left_leg.customLabel>esteira esquerda</DMS_Caterpillar.corePart.parts.left_leg.customLabel>
-  <DMS_Caterpillar.corePart.parts.left_leg.parts.left_wheel.customLabel>roda esquerda</DMS_Caterpillar.corePart.parts.left_leg.parts.left_wheel.customLabel>
-  <DMS_Caterpillar.corePart.parts.right_leg.customLabel>esteira direita</DMS_Caterpillar.corePart.parts.right_leg.customLabel>
-  <DMS_Caterpillar.corePart.parts.right_leg.parts.right_wheel.customLabel>roda direita</DMS_Caterpillar.corePart.parts.right_leg.parts.right_wheel.customLabel>
   <DMS_Chop.corePart.parts.hover_system-0.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-0.customLabel>
   <DMS_Chop.corePart.parts.hover_system-1.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-1.customLabel>
   <DMS_Chop.corePart.parts.hover_system-2.customLabel>sistema de flutuação</DMS_Chop.corePart.parts.hover_system-2.customLabel>
@@ -264,10 +260,6 @@
   <DMS_KillDozer.corePart.parts.right_track.parts.right_side_skirt_ERA.customLabel>placa ERA da saia lateral direita</DMS_KillDozer.corePart.parts.right_track.parts.right_side_skirt_ERA.customLabel>
   <DMS_KillDozer.corePart.parts.right_track.parts.right_wheel.customLabel>roda direita</DMS_KillDozer.corePart.parts.right_track.parts.right_wheel.customLabel>
   <DMS_KillDozer.corePart.parts.dozer_blade.customLabel>lâmina de terraplenagem</DMS_KillDozer.corePart.parts.dozer_blade.customLabel>
-  <DMS_KillDozer.corePart.parts.left_leg.customLabel>esteira esquerda</DMS_KillDozer.corePart.parts.left_leg.customLabel>
-  <DMS_KillDozer.corePart.parts.left_leg.parts.left_wheel.customLabel>roda esquerda</DMS_KillDozer.corePart.parts.left_leg.parts.left_wheel.customLabel>
-  <DMS_KillDozer.corePart.parts.right_leg.customLabel>esteira direita</DMS_KillDozer.corePart.parts.right_leg.customLabel>
-  <DMS_KillDozer.corePart.parts.right_leg.parts.right_wheel.customLabel>roda direita</DMS_KillDozer.corePart.parts.right_leg.parts.right_wheel.customLabel>
   <DMS_TrashBin.corePart.parts.main_battery.customLabel>bateria principal</DMS_TrashBin.corePart.parts.main_battery.customLabel>
   <DMS_TrashBin.corePart.parts.visual_sensor.customLabel>sensor visual</DMS_TrashBin.corePart.parts.visual_sensor.customLabel>
   <DMS_TrashBin.corePart.parts.infrared_sensor.customLabel>sensor infravermelho</DMS_TrashBin.corePart.parts.infrared_sensor.customLabel>
@@ -312,4 +304,81 @@
   <DMS_Synthroid.corePart.parts.right_leg.parts.right_femur.customLabel>fêmur direito</DMS_Synthroid.corePart.parts.right_leg.parts.right_femur.customLabel>
   <DMS_Synthroid.corePart.parts.right_leg.parts.right_tibia.customLabel>tíbia direita</DMS_Synthroid.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <DMS_Synthroid.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Synthroid.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_AMOBeast.label>Fera</DMS_AMOBeast.label>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.trigger_safety.customLabel>trava do gatilho</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.left_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.trigger_safety.customLabel>
+  <DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.weapon_safety.customLabel>trava da arma</DMS_Bipedal.corePart.parts.DMS_HeadRadar.parts.right_weapon_mount.parts.horizontal_rotor.parts.vertical_rotor.parts.weapon_safety.customLabel>
+  <DMS_Erima.corePart.parts.control_core.customLabel>núcleo de controle</DMS_Erima.corePart.parts.control_core.customLabel>
+  <DMS_Erima.corePart.parts.front_left_track.customLabel>esteira dianteira esquerda</DMS_Erima.corePart.parts.front_left_track.customLabel>
+  <DMS_Erima.corePart.parts.front_left_track.parts.front_left_drive_wheel.customLabel>roda motriz dianteira esquerda</DMS_Erima.corePart.parts.front_left_track.parts.front_left_drive_wheel.customLabel>
+  <DMS_Erima.corePart.parts.front_right_track.customLabel>esteira dianteira direita</DMS_Erima.corePart.parts.front_right_track.customLabel>
+  <DMS_Erima.corePart.parts.front_right_track.parts.front_right_drive_wheel.customLabel>roda motriz dianteira direita</DMS_Erima.corePart.parts.front_right_track.parts.front_right_drive_wheel.customLabel>
+  <DMS_Erima.corePart.parts.harvest_arm.customLabel>braço colheitador</DMS_Erima.corePart.parts.harvest_arm.customLabel>
+  <DMS_Erima.corePart.parts.hearing_sensor.customLabel>sensor auditivo</DMS_Erima.corePart.parts.hearing_sensor.customLabel>
+  <DMS_Erima.corePart.parts.main_battery.customLabel>bateria principal</DMS_Erima.corePart.parts.main_battery.customLabel>
+  <DMS_Erima.corePart.parts.multispectral_sensor.customLabel>sensor multiespectral</DMS_Erima.corePart.parts.multispectral_sensor.customLabel>
+  <DMS_Erima.corePart.parts.rear_left_track.customLabel>esteira traseira esquerda</DMS_Erima.corePart.parts.rear_left_track.customLabel>
+  <DMS_Erima.corePart.parts.rear_left_track.parts.rear_left_drive_wheel.customLabel>roda motriz traseira esquerda</DMS_Erima.corePart.parts.rear_left_track.parts.rear_left_drive_wheel.customLabel>
+  <DMS_Erima.corePart.parts.rear_right_track.customLabel>esteira traseira direita</DMS_Erima.corePart.parts.rear_right_track.customLabel>
+  <DMS_Erima.corePart.parts.rear_right_track.parts.rear_right_drive_wheel.customLabel>roda motriz traseira direita</DMS_Erima.corePart.parts.rear_right_track.parts.rear_right_drive_wheel.customLabel>
+  <DMS_Erima.corePart.parts.seeding_arm.customLabel>braço semeador</DMS_Erima.corePart.parts.seeding_arm.customLabel>
+  <DMS_Erima.corePart.parts.visual_sensor.customLabel>sensor visual</DMS_Erima.corePart.parts.visual_sensor.customLabel>
+  <DMS_Erima.label>veículo de quatro esteiras</DMS_Erima.label>
+  <DMS_Frogman.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</DMS_Frogman.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <DMS_Frogman.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</DMS_Frogman.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <DMS_Frogman.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</DMS_Frogman.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <DMS_Frogman.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</DMS_Frogman.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <DMS_Frogman.corePart.parts.left_kidney.customLabel>rim esquerdo</DMS_Frogman.corePart.parts.left_kidney.customLabel>
+  <DMS_Frogman.corePart.parts.left_leg.customLabel>perna esquerda</DMS_Frogman.corePart.parts.left_leg.customLabel>
+  <DMS_Frogman.corePart.parts.left_leg.parts.left_femur.customLabel>fêmur esquerdo</DMS_Frogman.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <DMS_Frogman.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</DMS_Frogman.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <DMS_Frogman.corePart.parts.left_leg.parts.left_tibia.customLabel>tíbia esquerda</DMS_Frogman.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <DMS_Frogman.corePart.parts.left_lung.customLabel>pulmão esquerdo</DMS_Frogman.corePart.parts.left_lung.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.customLabel>ombro esquerdo</DMS_Frogman.corePart.parts.left_shoulder.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>dedo mínimo esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>dedo anelar esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>úmero esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>rádio esquerdo</DMS_Frogman.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <DMS_Frogman.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>clavícula esquerda</DMS_Frogman.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <DMS_Frogman.corePart.parts.right_kidney.customLabel>rim direito</DMS_Frogman.corePart.parts.right_kidney.customLabel>
+  <DMS_Frogman.corePart.parts.right_leg.customLabel>perna direita</DMS_Frogman.corePart.parts.right_leg.customLabel>
+  <DMS_Frogman.corePart.parts.right_leg.parts.right_femur.customLabel>fêmur direito</DMS_Frogman.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <DMS_Frogman.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</DMS_Frogman.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <DMS_Frogman.corePart.parts.right_leg.parts.right_tibia.customLabel>tíbia direita</DMS_Frogman.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <DMS_Frogman.corePart.parts.right_lung.customLabel>pulmão direito</DMS_Frogman.corePart.parts.right_lung.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.customLabel>ombro direito</DMS_Frogman.corePart.parts.right_shoulder.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.customLabel>braço direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>dedo mínimo direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>dedo anelar direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>úmero direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>rádio direito</DMS_Frogman.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <DMS_Frogman.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>clavícula direita</DMS_Frogman.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <DMS_Frogman.label>biomatróide</DMS_Frogman.label>
+  <DMS_Uca.corePart.parts.control_core.customLabel>núcleo de controle</DMS_Uca.corePart.parts.control_core.customLabel>
+  <DMS_Uca.corePart.parts.hearing_sensor.customLabel>sensor auditivo</DMS_Uca.corePart.parts.hearing_sensor.customLabel>
+  <DMS_Uca.corePart.parts.infrared_sensor.customLabel>sensor infravermelho</DMS_Uca.corePart.parts.infrared_sensor.customLabel>
+  <DMS_Uca.corePart.parts.left_walker_track.customLabel>esteira esquerda</DMS_Uca.corePart.parts.left_walker_track.customLabel>
+  <DMS_Uca.corePart.parts.left_walker_track.parts.left_track_shoe.customLabel>sapatilha da esteira esquerda</DMS_Uca.corePart.parts.left_walker_track.parts.left_track_shoe.customLabel>
+  <DMS_Uca.corePart.parts.main_battery.customLabel>bateria principal</DMS_Uca.corePart.parts.main_battery.customLabel>
+  <DMS_Uca.corePart.parts.manipulator_arm.customLabel>braço manipulador</DMS_Uca.corePart.parts.manipulator_arm.customLabel>
+  <DMS_Uca.corePart.parts.right_walker_track.customLabel>esteira direita</DMS_Uca.corePart.parts.right_walker_track.customLabel>
+  <DMS_Uca.corePart.parts.right_walker_track.parts.right_track_shoe.customLabel>sapatilha da esteira direita</DMS_Uca.corePart.parts.right_walker_track.parts.right_track_shoe.customLabel>
+  <DMS_Uca.corePart.parts.visual_sensor.customLabel>sensor visual</DMS_Uca.corePart.parts.visual_sensor.customLabel>
+  <DMS_Uca.label>híbrido de esteira</DMS_Uca.label>
+  <DMS_Caterpillar.corePart.parts.left_leg.customLabel>esteira esquerda</DMS_Caterpillar.corePart.parts.left_leg.customLabel>
+  <DMS_Caterpillar.corePart.parts.left_leg.parts.left_wheel.customLabel>roda esquerda</DMS_Caterpillar.corePart.parts.left_leg.parts.left_wheel.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_leg.customLabel>esteira direita</DMS_Caterpillar.corePart.parts.right_leg.customLabel>
+  <DMS_Caterpillar.corePart.parts.right_leg.parts.right_wheel.customLabel>roda direita</DMS_Caterpillar.corePart.parts.right_leg.parts.right_wheel.customLabel>
+  <DMS_KillDozer.corePart.parts.left_leg.customLabel>esteira esquerda</DMS_KillDozer.corePart.parts.left_leg.customLabel>
+  <DMS_KillDozer.corePart.parts.left_leg.parts.left_wheel.customLabel>roda esquerda</DMS_KillDozer.corePart.parts.left_leg.parts.left_wheel.customLabel>
+  <DMS_KillDozer.corePart.parts.right_leg.customLabel>esteira direita</DMS_KillDozer.corePart.parts.right_leg.customLabel>
+  <DMS_KillDozer.corePart.parts.right_leg.parts.right_wheel.customLabel>roda direita</DMS_KillDozer.corePart.parts.right_leg.parts.right_wheel.customLabel>
 </LanguageData>

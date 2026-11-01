@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMST_BroomFlight.description>Sobrecarrega os sigilos de repulsão da vassoura e deixa-os carregar o portador pelo ar até um local distante.</DMST_BroomFlight.description>
+  <DMST_BroomFlight.label>voo de vassoura</DMST_BroomFlight.label>
+  <DMST_ConstructPawn.description>Uma pequena porção da entropia psíquica do psinjurador é cristalizada em matéria metafísica e moldada ao redor de um componente estampado para montar um constructo mecânico. O magier tem controle total sobre ele e pode fazê-lo carregar e disparar uma arma como fogo de apoio. Quando seu cristal central é destruído, a capacidade de entropia que ocupava é devolvida.</DMST_ConstructPawn.description>
+  <DMST_ConstructPawn.label>montar constructo gárgula</DMST_ConstructPawn.label>
+  <DMST_ConstructTurret.description>Uma pequena porção da entropia psíquica do psinjurador é cristalizada em matéria metafísica e moldada ao redor de um componente estampado para montar uma torreta automática temporária. A energia injetada a mantém adquirindo alvos e disparando, e ela detona quando destruída.</DMST_ConstructTurret.description>
+  <DMST_ConstructTurret.label>montar constructo torreta</DMST_ConstructTurret.label>
+  <DMST_Demolish.description>Ao entender como uma coisa é montada, um magier pode alcançá-la e mover suas peças diretamente, quebrando correntes moleculares emaranhadas em seus pontos mais fracos. Amplamente usado para desarmar explosivos e desativar equipamentos de precisão, e bem adequado para alvos estáticos como estruturas e torretas. Trabalhos mais resistentes ficam gravemente danificados ao invés de desmontados.</DMST_Demolish.description>
+  <DMST_Demolish.label>demolir</DMST_Demolish.label>
+  <DMST_EmpBurst.description>O poder psíquico torce o campo magnético ao redor em um grande pulso eletromagnético do nada, deixando tudo ao alcance atordoado pelo EMP e pela distorção do campo que se segue.</DMST_EmpBurst.description>
+  <DMST_EmpBurst.label>pulso EMP</DMST_EmpBurst.label>
+  <DMST_FieldAid.description>O tecido da pele ao redor de uma ferida é estimulado a crescer excessivamente e selar a abertura, usado para estancar sangramentos rapidamente em um companheiro gravemente ferido - ou no próprio psinjurador. Exige técnica real, e todo magier é treinado para isso até que se torne instintivo.</DMST_FieldAid.description>
+  <DMST_FieldAid.label>socorro de campo</DMST_FieldAid.label>
+  <DMST_FieldRepair.description>A contraparte do socorro de campo para máquinas. Ao entender como uma coisa é montada, um magier pode coaxar blindagem empenada e linhas rompidas de volta ao lugar - em uma torreta ou parede danificada, ou em um mecanoide, incluindo as máquinas de guerra da própria Frota. Ele restaura a função, não a perfeição.</DMST_FieldRepair.description>
+  <DMST_FieldRepair.label>reparo de campo</DMST_FieldRepair.label>
+  <DMST_Flash.description>O poder psíquico canalizado agita o ar em um surto direcional de luz e ruído, forte o suficiente para cegar olhos vivos e sensores de máquinas dentro do cone. Os magiers usam isso constantemente em combates próximos, seguindo o clarão com tiros enquanto o inimigo ainda está cego.</DMST_Flash.description>
+  <DMST_Flash.label>clarão de assalto</DMST_Flash.label>
+  <DMST_ForceWake.description>A interferência psíquica mantém o cérebro acordado e hipnotiza o subconsciente para o otimismo. Inestimável para magiers em vigílias longas e em alerta máximo, embora usá-lo com muita frequência acumule calor neural e se volte contra o psinjurador.</DMST_ForceWake.description>
+  <DMST_ForceWake.label>despertar forçado</DMST_ForceWake.label>
+  <DMST_Mark.description>O magier fixa um local no chão em sua mente e marca psiquicamente todo inimigo que estiver nele. Um alvo marcado não pode manter qualquer camuflagem, encoberto ou não, e recebe golpes mais fortes do esquadrão enquanto a marca durar.</DMST_Mark.description>
+  <DMST_Mark.label>marcar</DMST_Mark.label>
+  <DMST_QuickDraw.description>A estimulação elétrica direta impulsiona o corpo a mirar e disparar por puro reflexo. Essa técnica de tiro em curta distância - combate com armas, como os magiers a chamam - permite que um psinjurador responda a uma ameaça repentina quase instantaneamente, sendo frequentemente usada à queima-roupa. A velocidade tem o custo da precisão.</DMST_QuickDraw.description>
+  <DMST_QuickDraw.label>saque rápido</DMST_QuickDraw.label>
+  <DMST_Repel.description>Uma onda de choque de força psíquica pura se espalha a partir do psinjurador, derrubando e afastando todos ao redor. Não causa ferimentos, mas um magier imobilizado em combate corpo a corpo pode ganhar vários segundos de terreno aberto com isso.</DMST_Repel.description>
+  <DMST_Repel.label>repelir</DMST_Repel.label>
+  <DMST_Smoke.description>A umidade do ar é extraída para formar uma névoa espessa e cegante no ponto-alvo. Ela esconde aliados e inimigos igualmente; os magiers a usam para atravessar terreno aberto ou para romper o contato quando a luta vira contra eles.</DMST_Smoke.description>
+  <DMST_Smoke.label>véu de fumaça</DMST_Smoke.label>
+  <DMST_SteadyAim.description>A contraparte do saque rápido: o foco psíquico acalma a respiração e as mãos, retardando a mira, mas colocando cada projétil exatamente onde deve ir. Os magiers se acomodam nessa postura antes de um confronto à longa distância. Não pode ser mantida junto com o saque rápido - assumir uma postura derruba a outra.</DMST_SteadyAim.description>
+  <DMST_SteadyAim.label>mirar com firmeza</DMST_SteadyAim.label>
+  <DMST_Swap.description>O magier e um alvo escolhido trocam de lugar instantaneamente. Usado para puxar um companheiro ferido para fora da linha de fogo, ou para colocar as próprias armas do magier exatamente onde são necessárias.</DMST_Swap.description>
+  <DMST_Swap.label>transposição</DMST_Swap.label>
+  <DMST_Ward.description>Uma fina película psíquica é aplicada sobre um colega de esquadrão - ou sobre o próprio psinjurador - e se endurece contra os danos recebidos, absorvendo balas e lâminas até se esgotar. Não dura muito, e seu propósito é proteger quem está prestes a cair.</DMST_Ward.description>
+  <DMST_Ward.label>barreira</DMST_Ward.label>
+</LanguageData>

@@ -21,7 +21,7 @@
   <VQE_CompliantHusk10.title>casca complacente</VQE_CompliantHusk10.title>
   <VQE_CompliantHusk10.titleShort>casca</VQE_CompliantHusk10.titleShort>
   
-  <VQE_CorridorWatch25.description>[PAWN_nameDef] foi alocado em um corredor por onde ninguém passava, do lado de fora de uma porta que ninguém abria. Foi dito a [PAWN_objective] para ficar imóvel, nunca falar e nunca piscar por muito tempo. No sétimo ano, [PAWN_pronoun] começou a ouvir passos atrás da parede.</VQE_CorridorWatch25.description>
+  <VQE_CorridorWatch25.description>[PAWN_nameDef] foi designado para um corredor por onde ninguém passava, do lado de fora de uma porta que ninguém abria. [PAWN_pronoun] recebeu ordens para ficar imóvel, nunca falar e nunca piscar por muito tempo. No sétimo ano, [PAWN_pronoun] começou a ouvir passos atrás da parede.</VQE_CorridorWatch25.description>
   <VQE_CorridorWatch25.title>vigia de corredor</VQE_CorridorWatch25.title>
   <VQE_CorridorWatch25.titleShort>vigia</VQE_CorridorWatch25.titleShort>
   
@@ -49,7 +49,7 @@
   <VQE_DustDoctrineArchitect36.title>arquiteto da doutrina da poeira</VQE_DustDoctrineArchitect36.title>
   <VQE_DustDoctrineArchitect36.titleShort>arquiteto</VQE_DustDoctrineArchitect36.titleShort>
   
-  <VQE_DustLoader16.description>[PAWN_nameDef] era responsável pelo carregamento de poeira bruta mortal em tambores de contenção, trabalhando sob luzes de perigo piscantes e capuzes selados. O pó grudava nas luvas e na pele, não importava o quão grossa fosse a proteção. Disseram a [PAWN_objective] que não podia penetrar nos ossos, mas [PAWN_pronoun] já não tem tanta certeza.</VQE_DustLoader16.description>
+  <VQE_DustLoader16.description>[PAWN_nameDef] era responsável pelo carregamento de poeira mortífera bruta em tambores de contenção, trabalhando sob luzes de perigo piscantes e capuzes selados. O pó grudava nas luvas e na pele, não importava o quão grossa fosse a proteção. [PAWN_pronoun] foi avisado de que não poderia penetrar os ossos, mas [PAWN_pronoun] já não tem tanta certeza.</VQE_DustLoader16.description>
   <VQE_DustLoader16.title>carregador de poeira</VQE_DustLoader16.title>
   <VQE_DustLoader16.titleShort>carregador</VQE_DustLoader16.titleShort>
   
@@ -69,7 +69,7 @@
   <VQE_FilterMechanic20.title>mecânico de filtros</VQE_FilterMechanic20.title>
   <VQE_FilterMechanic20.titleShort>mecânico</VQE_FilterMechanic20.titleShort>
   
-  <VQE_FoglineObserver8.description>[PAWN_nameDef] foi destacado sozinho em zonas mortas quimicamente saturadas, com a tarefa de registrar as taxas de decomposição das tropas e os efeitos atmosféricos. [PAWN_pronoun] observou companheiros se dissolverem, regenerarem e marcharem novamente, anotando os resultados com precisão inabalável. [PAWN_pronoun] não falou por anos depois disso, e ninguém pediu para [PAWN_pronoun] falar.</VQE_FoglineObserver8.description>
+  <VQE_FoglineObserver8.description>[PAWN_nameDef] foi destacado sozinho em zonas mortas quimicamente saturadas, com a tarefa de registrar as taxas de decomposição das tropas e os efeitos atmosféricos. [PAWN_pronoun] observou companheiros se dissolverem, regenerarem e marcharem novamente, anotando os resultados com precisão inabalável. [PAWN_pronoun] não falou por anos depois disso, e ninguém pediu a [PAWN_objective] que o fizesse.</VQE_FoglineObserver8.description>
   <VQE_FoglineObserver8.title>observador da névoa</VQE_FoglineObserver8.title>
   <VQE_FoglineObserver8.titleShort>observador</VQE_FoglineObserver8.titleShort>
   
@@ -105,7 +105,7 @@
   <VQE_NullWitness44.title>testemunha nula</VQE_NullWitness44.title>
   <VQE_NullWitness44.titleShort>testemunha</VQE_NullWitness44.titleShort>
   
-  <VQE_NutritionSynthesist29.description>[PAWN_nameDef] formulava pastas de nutrientes para armazenamento de longo prazo em alas de dormência profunda. Foi dito a [PAWN_objective] para não questionar o cheiro, nem o porquê de alguns tanques esvaziarem sem registro. [PAWN_pronoun] apenas mexia, selava e rotulava cada lote: "Apenas para Uso de Contingência".</VQE_NutritionSynthesist29.description>
+  <VQE_NutritionSynthesist29.description>[PAWN_nameDef] formulava pastas de nutrientes para armazenamento de longo prazo em alas de dormência profunda. [PAWN_pronoun] recebeu ordens para não questionar o cheiro, nem o porquê de alguns tanques esvaziarem sem registro. [PAWN_pronoun] apenas mexia, selava e rotulava cada lote: "Apenas para Uso de Contingência".</VQE_NutritionSynthesist29.description>
   <VQE_NutritionSynthesist29.title>sintetizador de nutrição</VQE_NutritionSynthesist29.title>
   <VQE_NutritionSynthesist29.titleShort>sintetizador</VQE_NutritionSynthesist29.titleShort>
   
@@ -201,7 +201,7 @@
   <VQE_WhisperHost41.title>hospedeiro de sussurros</VQE_WhisperHost41.title>
   <VQE_WhisperHost41.titleShort>hospedeiro</VQE_WhisperHost41.titleShort>
 
-  <VQE_Childhood_OfficersShadow.description>[PAWN_nameDef] cresceu atrás de vidros reforçados, logo além da sala de guerra onde seu progenitor emitia comandos silenciosos para um mundo agonizante. Os corredores eram estéreis, os uniformes sempre cinzas, e [PAWN_pronoun] aprendeu rapidamente quais portas nunca se abriam e quais nunca se fechavam. Disseram a [PAWN_objective] que as silhuetas trêmulas além das telas de visualização eram simulações, até que uma delas olhou de volta. Ninguém mencionou isso depois, nem [PAWN_pronoun].</VQE_Childhood_OfficersShadow.description>
+  <VQE_Childhood_OfficersShadow.description>[PAWN_nameDef] cresceu atrás de vidros reforçados, logo além da sala de guerra onde [PAWN_possessive] progenitor emitia comandos silenciosos para um mundo agonizante. Os corredores eram estéreis, os uniformes sempre cinzas, e [PAWN_pronoun] aprendeu rapidamente quais portas nunca se abriam e quais nunca se fechavam. [PAWN_pronoun] foi informado de que as silhuetas trêmulas além das telas de visualização eram simulações, até que uma delas olhou de volta. Ninguém mencionou isso depois, nem [PAWN_pronoun].</VQE_Childhood_OfficersShadow.description>
   <VQE_Childhood_OfficersShadow.title>sombra do oficial</VQE_Childhood_OfficersShadow.title>
   <VQE_Childhood_OfficersShadow.titleShort>sombra</VQE_Childhood_OfficersShadow.titleShort>
   

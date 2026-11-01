@@ -154,4 +154,15 @@
   <SAR_Compatibility_DmsAncientCorps>Unidades reparáveis do jogador usam as regras de pacientes mecanoides. Automatroides de combate grandes e combinações de equipamento aguardam testes focados.</SAR_Compatibility_DmsAncientCorps>
   <SAR_Compatibility_DmsMotorized>Veículos estacionados do jogador expõem carga médica por meio do Vehicle Framework. Manutenção, embarque e tratamento a bordo do veículo usam os sistemas do veículo.</SAR_Compatibility_DmsMotorized>
   <SAR_Compatibility_DmsJointOperations>Tarefas dedicadas de reparo de campo participam da posse de tratamento. O agendamento de trabalho nativo atribui reparos ao Tinker; o SAR atribui mecanitores a automatroides elegíveis de propriedade do jogador.</SAR_Compatibility_DmsJointOperations>
+  <SAR_Compatibility_ComplexJobs>Lê a prioridade de trabalho de Enfermagem para os modos de resgate e cuidados de apoio. O tratamento comum usa Médico.</SAR_Compatibility_ComplexJobs>
+  <SAR_Compatibility_SleekWorkPriorities>Lê as configurações por trabalho habilitadas do Sleek para o SAR e tarefas médicas nativas. Resgate em Campo e o tipo de trabalho do provedor mantêm suas permissões; as prioridades estendidas participam da correspondência.</SAR_Compatibility_SleekWorkPriorities>
+  <SAR_Compatibility_YaOpt>Os lotes de seleção de trabalho que contêm tarefas do SAR são executados em série para preservar as atribuições de resgate e a propriedade dos recursos. Outros lotes de trabalho mantêm a verificação paralela.</SAR_Compatibility_YaOpt>
+  <SAR_MechResponder_Desc>Atribua este meca ao Busca e Resgate. Mecas médicos estabilizam e evacuam vítimas; mecanoides de transporte entregam suprimentos médicos e evacuam vítimas. Usa os tipos de trabalho nativos habilitados e segue os modos de trabalho, necessidades de energia, áreas permitidas e ordens do jogador.</SAR_MechResponder_Desc>
+  <SAR_MechResponder_Label>Juntar-se ao resgate em campo</SAR_MechResponder_Label>
+  <SAR_RescueAll_Desc>Clique com o botão esquerdo para marcar todos os colonos e aliados elegíveis no mapa atual. Clique com o botão direito para escolher inimigos caídos ou todas as facções (incluindo neutros). Aplica captura, tratamento e resgate conforme apropriado, usando as mesmas regras que Busca e Resgate. Ignora alvos na névoa e ordens existentes. Esta é uma ação única.</SAR_RescueAll_Desc>
+  <SAR_RescueAll_Everyone>Todas as facções, incluindo neutros ({0})</SAR_RescueAll_Everyone>
+  <SAR_RescueAll_Friendly>Todos os colonos aliados ({0})</SAR_RescueAll_Friendly>
+  <SAR_RescueAll_Hostile>Todos os inimigos caídos ({0})</SAR_RescueAll_Hostile>
+  <SAR_RescueAll_Label>Resgatar todos</SAR_RescueAll_Label>
+  <SAR_RescueAll_Result>Busca e Resgate: {0} colonos marcados.</SAR_RescueAll_Result>
 </LanguageData>

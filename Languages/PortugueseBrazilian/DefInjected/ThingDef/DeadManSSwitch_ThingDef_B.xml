@@ -20,7 +20,7 @@
   <DMS_LabFurnace.label>forno de laboratório</DMS_LabFurnace.label>
   <DMS_LabFurnace.description>Forno experimental não automático, projetado para atender às necessidades de equipamentos em fase de transição ou de certas bases compactas.</DMS_LabFurnace.description>
   <DMS_Turret_Sentry.label>torreta sentinela</DMS_Turret_Sentry.label>
-  <DMS_Turret_Sentry.description>Uma torreta descartável controlada remotamente e de posicionamento rápido que pode ser usada continuamente por cerca de 12 horas após ser posicionada. Ela se desliga automaticamente quando a energia acaba. Esse tipo de equipamento costuma ser posicionado em ambientes de combate urbano para emboscar inimigos.</DMS_Turret_Sentry.description>
+  <DMS_Turret_Sentry.description>Uma torreta automática leve com bateria interna, projetada para ser carregada e montada onde quer que a linha precise de fogo. Conectada à rede elétrica, ela carrega sua célula interna; quando desconectada da rede, utiliza essa reserva e continua atirando até que a célula se esgote. Ao ser desligada, entra em modo de espera: para de vigiar e direciona toda a energia economizada para carregar a célula, o que ocorre em dobro da velocidade.\n\nSeu tripé se dobra, permitindo que um operador recrutado a carregue, avance com ela e a posicione no local desejado. Uma célula carregada antes da partida manterá a torreta em guarda por vários dias.</DMS_Turret_Sentry.description>
   <DMS_Schematic.label>instrução técnica</DMS_Schematic.label>
   <DMS_Schematic.description>Um esquema de instrução técnica que descreve a tecnologia e os métodos para usá-la. Ler esquemas pode ajudar a desbloquear novas tecnologias.</DMS_Schematic.description>
   <DMS_Mech_Mammoth.label>mamute anão</DMS_Mech_Mammoth.label>
@@ -39,7 +39,6 @@
   <DMS_ElephantGun.tools.grip.label>cabo</DMS_ElephantGun.tools.grip.label>
   <DMS_ElephantGun.tools.barrel.label>cano</DMS_ElephantGun.tools.barrel.label>
   <DMS_ElephantGun.verbs.Verb_Shoot.label>fuzil de elefante</DMS_ElephantGun.verbs.Verb_Shoot.label>
-  <DMS_ElephantGun.tools.stock.label>coronha</DMS_ElephantGun.tools.stock.label>
   <DMS_ElephantGun.tools.barrel-1.label>cano</DMS_ElephantGun.tools.barrel-1.label>
   <DMS_KnuckledusterRevolver.tools.grip.label>cabo</DMS_KnuckledusterRevolver.tools.grip.label>
   <DMS_KnuckledusterRevolver.tools.blade.label>lâmina</DMS_KnuckledusterRevolver.tools.blade.label>
@@ -52,12 +51,10 @@
   <DMS_MiniMachineGun.verbs.Verb_Shoot.label>metralhadora leve antimotim</DMS_MiniMachineGun.verbs.Verb_Shoot.label>
   <DMS_Revolver.tools.grip.label>cabo</DMS_Revolver.tools.grip.label>
   <DMS_Revolver.tools.barrel.label>cano</DMS_Revolver.tools.barrel.label>
-  <DMS_Revolver.verbs.Verb_Shoot.label>revólver antimotim</DMS_Revolver.verbs.Verb_Shoot.label>
   <DMS_Revolver.tools.stock.label>coronha</DMS_Revolver.tools.stock.label>
   <DMS_Revolver.tools.barrel-1.label>cano</DMS_Revolver.tools.barrel-1.label>
   <DMS_RiotShotgun.tools.stock.label>coronha</DMS_RiotShotgun.tools.stock.label>
   <DMS_RiotShotgun.tools.barrel.label>cano</DMS_RiotShotgun.tools.barrel.label>
-  <DMS_RiotShotgun.verbs.Verb_Shoot.label>espingarda raiada de balote</DMS_RiotShotgun.verbs.Verb_Shoot.label>
   <DMS_RiotShotgun.tools.stock-1.label>coronha</DMS_RiotShotgun.tools.stock-1.label>
   <DMS_RiotShotgun.tools.barrel-1.label>cano</DMS_RiotShotgun.tools.barrel-1.label>
   <DMS_SurvivalRifle.tools.stock.label>coronha</DMS_SurvivalRifle.tools.stock.label>
@@ -124,12 +121,8 @@
   <DMS_MechConstructorForming.label>partícula</DMS_MechConstructorForming.label>
   <DMS_Gun_Dawnblade.verbs.Verb_Shoot.label>sistema de tiro rápido multiuso Tipo 85</DMS_Gun_Dawnblade.verbs.Verb_Shoot.label>
   <DMS_Gun_Dawnblade.verbs.Verb_ShootCE.label>sistema de tiro rápido multiuso Tipo 85</DMS_Gun_Dawnblade.verbs.Verb_ShootCE.label>
-  <DMS_Gun_GateKeeper.verbs.Verb_Shoot.label>Gatekeeper</DMS_Gun_GateKeeper.verbs.Verb_Shoot.label>
-  <DMS_Gun_GateKeeper.verbs.Verb_ShootCE.label>Gatekeeper</DMS_Gun_GateKeeper.verbs.Verb_ShootCE.label>
   <DMS_Gun_Kord.verbs.Verb_Shoot.label>Kord</DMS_Gun_Kord.verbs.Verb_Shoot.label>
   <DMS_Gun_Kord.verbs.Verb_ShootCE.label>Kord</DMS_Gun_Kord.verbs.Verb_ShootCE.label>
-  <DMS_Gun_Tunguska.verbs.Verb_Shoot.label>Tunguska</DMS_Gun_Tunguska.verbs.Verb_Shoot.label>
-  <DMS_Gun_Tunguska.verbs.Verb_ShootCE.label>Tunguska</DMS_Gun_Tunguska.verbs.Verb_ShootCE.label>
   <DMS_Gun_Vasilek.verbs.Verb_Shoot.label>2B9M Vasilek</DMS_Gun_Vasilek.verbs.Verb_Shoot.label>
   <DMS_Gun_Vasilek.verbs.Verb_ShootMortarCE.label>2B9M Vasilek</DMS_Gun_Vasilek.verbs.Verb_ShootMortarCE.label>
   <DMS_Turret_Dawnblade.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</DMS_Turret_Dawnblade.comps.CompRefuelable.fuelGizmoLabel>
@@ -141,9 +134,6 @@
   <DMS_Turret_Okhotnik.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</DMS_Turret_Okhotnik.comps.CompRefuelable.fuelGizmoLabel>
   <DMS_Turret_Okhotnik.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</DMS_Turret_Okhotnik.comps.CompRefuelable.fuelLabel>
   <DMS_Turret_Okhotnik.comps.CompRefuelable.outOfFuelMessage>Não pode atirar: precisa de um novo cano reforçado.</DMS_Turret_Okhotnik.comps.CompRefuelable.outOfFuelMessage>
-  <DMS_Turret_Tunguska.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</DMS_Turret_Tunguska.comps.CompRefuelable.fuelGizmoLabel>
-  <DMS_Turret_Tunguska.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</DMS_Turret_Tunguska.comps.CompRefuelable.fuelLabel>
-  <DMS_Turret_Tunguska.comps.CompRefuelable.outOfFuelMessage>Não pode atirar: precisa de um novo cano reforçado.</DMS_Turret_Tunguska.comps.CompRefuelable.outOfFuelMessage>
   <DMS_Turret_Vasilek.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</DMS_Turret_Vasilek.comps.CompRefuelable.fuelGizmoLabel>
   <DMS_Turret_Vasilek.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</DMS_Turret_Vasilek.comps.CompRefuelable.fuelLabel>
   <DMS_Turret_Vasilek.comps.CompRefuelable.outOfFuelMessage>Não pode disparar: precisa de um novo cano reforçado.</DMS_Turret_Vasilek.comps.CompRefuelable.outOfFuelMessage>
@@ -155,10 +145,8 @@
   <DMS_AssaultRifle.verbs.Verb_Shoot.label>fuzil de assalto de autômato</DMS_AssaultRifle.verbs.Verb_Shoot.label>
   <DMS_AssaultShotgun.tools.stock.label>coronha</DMS_AssaultShotgun.tools.stock.label>
   <DMS_AssaultShotgun.tools.barrel.label>cano</DMS_AssaultShotgun.tools.barrel.label>
-  <DMS_AssaultShotgun.verbs.Verb_Shoot.label>espingarda de assalto de autômato</DMS_AssaultShotgun.verbs.Verb_Shoot.label>
   <DMS_AutomaticGrenadeLauncher.tools.stock.label>coronha</DMS_AutomaticGrenadeLauncher.tools.stock.label>
   <DMS_AutomaticGrenadeLauncher.tools.barrel.label>cano</DMS_AutomaticGrenadeLauncher.tools.barrel.label>
-  <DMS_AutomaticGrenadeLauncher.verbs.Verb_Shoot.label>lança-granadas de autômato</DMS_AutomaticGrenadeLauncher.verbs.Verb_Shoot.label>
   <DMS_BattleRifle.tools.stock.label>coronha</DMS_BattleRifle.tools.stock.label>
   <DMS_BattleRifle.tools.barrel.label>cano</DMS_BattleRifle.tools.barrel.label>
   <DMS_BattleRifle.verbs.Verb_Shoot.label>fuzil de batalha de autômato</DMS_BattleRifle.verbs.Verb_Shoot.label>
@@ -195,11 +183,11 @@
   <DMS_M214Gatlinggun.verbs.Verb_Shoot.label>M214</DMS_M214Gatlinggun.verbs.Verb_Shoot.label>
   <DMS_Autocannon.tools.stock.label>coronha</DMS_Autocannon.tools.stock.label>
   <DMS_Autocannon.tools.barrel.label>cano</DMS_Autocannon.tools.barrel.label>
-  <DMS_Autocannon.verbs.Verb_Shoot.label>canhão automático de autômato</DMS_Autocannon.verbs.Verb_Shoot.label>
+  <DMS_Autocannon.verbs.Verb_Shoot.label>autocanhão de autômato</DMS_Autocannon.verbs.Verb_Shoot.label>
   <DMS_Autocannon.tools.muzzle-0.label>boca do cano</DMS_Autocannon.tools.muzzle-0.label>
   <DMS_Autocannon.tools.barrel-1.label>cano</DMS_Autocannon.tools.barrel-1.label>
   <DMS_Autocannon.tools.muzzle-1.label>boca do cano</DMS_Autocannon.tools.muzzle-1.label>
-  <DMS_Autocannon.verbs.Verb_ShootCE.label>canhão automático de autômato</DMS_Autocannon.verbs.Verb_ShootCE.label>
+  <DMS_Autocannon.verbs.Verb_ShootCE.label>autocanhão de autômato</DMS_Autocannon.verbs.Verb_ShootCE.label>
   <DMS_Gun_2A38M.tools.stock.label>coronha</DMS_Gun_2A38M.tools.stock.label>
   <DMS_Gun_2A38M.tools.barrel.label>cano</DMS_Gun_2A38M.tools.barrel.label>
   <DMS_Gun_2A38M.verbs.Verb_Shoot.label>2A38M</DMS_Gun_2A38M.verbs.Verb_Shoot.label>
@@ -290,31 +278,13 @@
   <DMS_Mech_ShaftWorker.tools.right_fist.label>punho direito</DMS_Mech_ShaftWorker.tools.right_fist.label>
   <DMS_Mech_Caretta.tools.head.label>cabeça</DMS_Mech_Caretta.tools.head.label>
   <DMS_Mech_Geochelone.tools.head.label>cabeça</DMS_Mech_Geochelone.tools.head.label>
-  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
-  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
-  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
-  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
-  <DMS_Mech_Geochelone_b.label>jabuti</DMS_Mech_Geochelone_b.label>
-  <DMS_Mech_Geochelone_b.description>Uma plataforma de apoio de escudo de pulso sobre esteiras, para todo tipo de terreno e não tripulada, com uma ampla variedade de modelos de produção e variantes.</DMS_Mech_Geochelone_b.description>
-  <DMS_Mech_Geochelone_b.tools.head.label>cabeça</DMS_Mech_Geochelone_b.tools.head.label>
   <DMS_Mech_Killdozer.tools.dozer_blade.label>lâmina de terraplenagem</DMS_Mech_Killdozer.tools.dozer_blade.label>
-  <DMS_Mech_Killdozer_b.label>killdozer</DMS_Mech_Killdozer_b.label>
-  <DMS_Mech_Killdozer_b.description>Um sapador de assalto não tripulado com lâmina de terraplenagem para romper fortificações na linha de frente; a blindagem de várias partes do corpo também foi reforçada.</DMS_Mech_Killdozer_b.description>
-  <DMS_Mech_Killdozer_b.tools.dozer_blade.label>lâmina de terraplenagem</DMS_Mech_Killdozer_b.tools.dozer_blade.label>
   <DMS_Mech_Gecko.tools.Mechanical_Head.label>cabeça mecânica</DMS_Mech_Gecko.tools.Mechanical_Head.label>
   <DMS_Mech_Gecko.tools.Left_Leg.label>perna esquerda</DMS_Mech_Gecko.tools.Left_Leg.label>
   <DMS_Mech_Gecko.tools.Right_Leg.label>perna direita</DMS_Mech_Gecko.tools.Right_Leg.label>
-  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
-  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
-  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
-  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
   <DMS_Mech_Iguana.tools.Mechanical_Head.label>cabeça mecânica</DMS_Mech_Iguana.tools.Mechanical_Head.label>
   <DMS_Mech_Iguana.tools.Left_Leg.label>perna esquerda</DMS_Mech_Iguana.tools.Left_Leg.label>
   <DMS_Mech_Iguana.tools.Right_Leg.label>perna direita</DMS_Mech_Iguana.tools.Right_Leg.label>
-  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
-  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
-  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
-  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
   <DMS_Mech_Ape.tools.head.label>cabeça</DMS_Mech_Ape.tools.head.label>
   <DMS_Mech_HermitCrab.tools.head.label>cabeça</DMS_Mech_HermitCrab.tools.head.label>
   <DMS_Mech_HermitCrab.tools.laser_cutter.label>cortador a laser</DMS_Mech_HermitCrab.tools.laser_cutter.label>
@@ -322,28 +292,8 @@
   <DMS_Mech_Tarbosaurus.tools.Mechanical_Head.label>cabeça mecânica</DMS_Mech_Tarbosaurus.tools.Mechanical_Head.label>
   <DMS_Mech_Tarbosaurus.tools.Left_Leg.label>perna esquerda</DMS_Mech_Tarbosaurus.tools.Left_Leg.label>
   <DMS_Mech_Tarbosaurus.tools.Right_Leg.label>perna direita</DMS_Mech_Tarbosaurus.tools.Right_Leg.label>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_Target>Mirar alvo</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_Target>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_ToggleFire>Atirar à vontade</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_ToggleFire>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_Target>
-  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_ToggleFire>
-  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
-  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
-  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
-  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
   <DMS_Mech_Falcon.tools.head.label>cabeça</DMS_Mech_Falcon.tools.head.label>
   <DMS_Mech_Noctula.tools.head.label>cabeça</DMS_Mech_Noctula.tools.head.label>
-  <DMS_Machine_Hound.tools.head.label>cabeça</DMS_Machine_Hound.tools.head.label>
-  <DMS_Machine_TrashBin.tools.head.label>cabeça</DMS_Machine_TrashBin.tools.head.label>
-  <DMS_Machine_VerlingBird.label>pássaro Verling</DMS_Machine_VerlingBird.label>
-  <DMS_Machine_VerlingBird.description>Um drone de quatro rotores construído para reconhecimento. É bastante frágil em combate, mas se move extremamente rápido. Pode ser equipado com uma arma de pequeno calibre ou granada para fornecer capacidades de combate.</DMS_Machine_VerlingBird.description>
-  <DMS_Machine_VerlingBird.tools.head.label>cabeça</DMS_Machine_VerlingBird.tools.head.label>
-  <DMS_Machine_VerlingBirdA.label>pássaro Verling</DMS_Machine_VerlingBirdA.label>
-  <DMS_Machine_VerlingBirdA.description>Um drone de quatro rotores construído para reconhecimento. É bastante frágil em combate, mas se move extremamente rápido. Pode ser equipado com uma arma de pequeno calibre ou granada para fornecer capacidades de combate.</DMS_Machine_VerlingBirdA.description>
-  <DMS_Machine_VerlingBirdA.tools.head.label>cabeça</DMS_Machine_VerlingBirdA.tools.head.label>
   <DMS_Mech_Arquebusier.tools.head.label>cabeça</DMS_Mech_Arquebusier.tools.head.label>
   <DMS_Mech_Arquebusier.tools.left_fist.label>punho esquerdo</DMS_Mech_Arquebusier.tools.left_fist.label>
   <DMS_Mech_Arquebusier.tools.right_fist.label>punho direito</DMS_Mech_Arquebusier.tools.right_fist.label>
@@ -390,8 +340,6 @@
   <DMS_Mech_Lady.tools.left_fist-1.label>punho esquerdo</DMS_Mech_Lady.tools.left_fist-1.label>
   <DMS_Mech_Lady.tools.right_fist-1.label>punho direito</DMS_Mech_Lady.tools.right_fist-1.label>
   <TaborFlyer.label>voador</TaborFlyer.label>
-  <DMS_AirRaidTest.label>óculos de incursão aérea</DMS_AirRaidTest.label>
-  <DMS_AirRaidTest.description>Um dispositivo de aprimoramento óptico que amplifica a luz existente em condições de pouca luz e a projeta através do visor nos olhos do usuário. Compatível com a maioria dos capacetes e pode ser usado sozinho.</DMS_AirRaidTest.description>
   <DMS_DoorBreaker.tools.head.label>cabeça</DMS_DoorBreaker.tools.head.label>
   <DMS_DoorBreaker.tools.barrel.label>cano</DMS_DoorBreaker.tools.barrel.label>
   <DMS_DoorBreaker.verbs.Verb_Shoot.label>arrebentador de portas</DMS_DoorBreaker.verbs.Verb_Shoot.label>
@@ -407,11 +355,9 @@
   <DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelGizmoLabel>
   <DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelLabel>
   <DMS_Turret_MK44_Navy.comps.CompRefuelable.outOfFuelMessage>Não pode atirar: precisa de um novo cano reforçado.</DMS_Turret_MK44_Navy.comps.CompRefuelable.outOfFuelMessage>
-  <DMS_Turret_Sentry.comps.CompMechPowerCell.labelOverride>energia da bateria</DMS_Turret_Sentry.comps.CompMechPowerCell.labelOverride>
-  <DMS_Turret_Sentry.comps.CompMechPowerCell.tooltipOverride>Esta torreta tem vida útil de bateria limitada. Quando ela acabar, a torreta parará de funcionar por completo.</DMS_Turret_Sentry.comps.CompMechPowerCell.tooltipOverride>
   <DMS_Gun_MK44_Autocannon.tools.stock.label>coronha</DMS_Gun_MK44_Autocannon.tools.stock.label>
   <DMS_Gun_MK44_Autocannon.tools.barrel.label>cano</DMS_Gun_MK44_Autocannon.tools.barrel.label>
-  <DMS_Gun_MK44_Autocannon.verbs.Verb_Shoot.label>canhão automático MK44 Bushmaster II</DMS_Gun_MK44_Autocannon.verbs.Verb_Shoot.label>
+  <DMS_Gun_MK44_Autocannon.verbs.Verb_Shoot.label>autocanhão MK44 Bushmaster II</DMS_Gun_MK44_Autocannon.verbs.Verb_Shoot.label>
   <DMS_Apparel_PackHound.comps.CompApparelReloadable.chargeNoun>drone</DMS_Apparel_PackHound.comps.CompApparelReloadable.chargeNoun>
   <DMS_Apparel_PackHound.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_PackHound.comps.CompApparelReloadable.cooldownGerund>
   <DMS_Apparel_PackHound.verbs.Verb_Deploy.label>mochila de drones sabujo</DMS_Apparel_PackHound.verbs.Verb_Deploy.label>

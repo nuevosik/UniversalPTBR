@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMST_BreakLink>Quebrar elo</DMST_BreakLink>
+  <DMST_BreakLinkDesc>Libera este constructo. {CASTER_labelShort} recupera a capacidade de calor neural que ele ocupa.</DMST_BreakLinkDesc>
+  <DMST_CamouflageHeatDesc>Outras roupas no tronco fazem com que a camuflagem gere {0} de calor neural por segundo. A camuflagem falha em {1} do limite.</DMST_CamouflageHeatDesc>
+  <DMST_CamouflageNeedsApparel>É necessário vestir {0}.</DMST_CamouflageNeedsApparel>
+  <DMST_CamouflageOverheated>O calor neural de {PAWN_labelShort} está muito alto para manter a camuflagem psíquica. Ela ficará desativada até que o calor fique abaixo de {1}.</DMST_CamouflageOverheated>
+  <DMST_CamouflageOverheatedDesc>Superaquecido: a camuflagem ficará desativada até que o calor neural fique abaixo de {0} do limite.</DMST_CamouflageOverheatedDesc>
+  <DMST_ConstructNeedsCost>É necessário ter como alvo {0} para montar um constructo.</DMST_ConstructNeedsCost>
+  <DMST_ConstructNoCapacity>Capacidade de calor neural insuficiente: este constructo ocupará {0}.</DMST_ConstructNoCapacity>
+  <DMST_MagierRevealedDesc>{PAWN_labelShort}, um magier inimigo camuflado, apareceu do nada!</DMST_MagierRevealedDesc>
+  <DMST_MagierRevealedLabel>Magier revelado</DMST_MagierRevealedLabel>
+  <DMST_MagierRevealedMessage>Um magier camuflado apareceu: {PAWN_labelShort}.</DMST_MagierRevealedMessage>
+  <DMST_ManualLearned>{PAWN_labelShort} aprendeu {SPELL} por meio de um manual de campo.</DMST_ManualLearned>
+  <DMST_ManualTeaches>Ensina {SPELL} (nível {LEVEL} de psylink necessário). Cerca de {HOURS} horas de leitura.</DMST_ManualTeaches>
+  <DMST_NothingToRepair>Não há nada para reparar.</DMST_NothingToRepair>
+  <DMST_PsychicLiftCannotEquip>Somente um psinjurador (com psylink e sensibilidade psíquica) pode empunhá-lo</DMST_PsychicLiftCannotEquip>
+  <DMST_PsychicLiftStat>Elevação psíquica</DMST_PsychicLiftStat>
+  <DMST_SigilCorpseRecalled>O sigilo do magier de {PAWN_labelShort} trouxe o corpo de volta à colônia.</DMST_SigilCorpseRecalled>
+  <DMST_SigilEscaped>{PAWN_labelShort} desapareceu: um sigilo do magier dobrou o espaço ao redor de {PAWN_objective}.</DMST_SigilEscaped>
+  <DMST_SigilRecalled>O sigilo do magier de {PAWN_labelShort} dobrou o espaço e trouxe {PAWN_objective} de volta à colônia.</DMST_SigilRecalled>
+  <DMST_SustainedConstructsStat>Constructos sustentados</DMST_SustainedConstructsStat>
+  <DMST_TargetPsychicallyDeaf>{PAWN_labelShort} não é sensível ao psiquismo.</DMST_TargetPsychicallyDeaf>
+</LanguageData>

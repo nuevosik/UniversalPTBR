@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VF_Assign>Atribuir</VF_Assign>
+  <VF_AutoTargeting>Miragem automática: {0}</VF_AutoTargeting>
+  <VF_CantMoveDocked>Não há colonos suficientes para zarpar.</VF_CantMoveDocked>
+  <VF_CargoCapacity>Capacidade de carga</VF_CargoCapacity>
+  <VF_CargoCapacityTooltip>TODO</VF_CargoCapacityTooltip>
+  <VF_CommandDockShip>Atracar</VF_CommandDockShip>
+  <VF_CommandDockShipDesc>Desembarque todos os passageiros e permita o comércio com o assentamento de {0}.</VF_CommandDockShipDesc>
+  <VF_CommandDockShipDisembark>Atracar e desembarcar</VF_CommandDockShipDisembark>
+  <VF_CommandDockShipObjectDesc>Atracar barcos e seguir a pé</VF_CommandDockShipObjectDesc>
+  <VF_CommandUndockShip>Buscar veículo.</VF_CommandUndockShip>
+  <VF_CommandUndockShipDesc>Carregue todos os colonos e itens no veículo.</VF_CommandUndockShipDesc>
+  <VF_DrawUpgradeInformationScreen>Exibir tela de informações do menu de melhorias</VF_DrawUpgradeInformationScreen>
+  <VF_DrawUpgradeInformationScreenTooltip>Exibe um menu adicional no menu de melhorias para mostrar os atributos da embarcação e seu ícone.</VF_DrawUpgradeInformationScreenTooltip>
+  <VF_Electric>Elétrico</VF_Electric>
+  <VF_EnterVehicle>Embarcar em {0} como {1} [{2}]</VF_EnterVehicle>
+  <VF_EverySettlementToCoast>Todos os assentamentos</VF_EverySettlementToCoast>
+  <VF_FishingDelay>Atraso da pesca</VF_FishingDelay>
+  <VF_FishingDelayTooltip>Quantidade base de ticks necessária para pescar em um barco de pesca.</VF_FishingDelayTooltip>
+  <VF_FishingPersists>Pesca persistente</VF_FishingPersists>
+  <VF_FishingPersistsTooltip>A seleção de pesca do barco de pesca não será reiniciada ao alistar.</VF_FishingPersistsTooltip>
+  <VF_ForceSettlementCoast>Mover assentamento para a costa</VF_ForceSettlementCoast>
+  <VF_ForceSettlementCoastTooltip>Move assentamentos de facções próximas para a costa se estiverem dentro do raio determinado</VF_ForceSettlementCoastTooltip>
+  <VF_HideDisabledVehicles>Ocultar veículos desativados</VF_HideDisabledVehicles>
+  <VF_HideDisabledVehiclesTooltip>Veículos desativados nas configurações do mod ficarão ocultos no menu Arquitetura.</VF_HideDisabledVehiclesTooltip>
+  <VF_MaxArmor>Armadura</VF_MaxArmor>
+  <VF_MaxArmorTooltip>TODO</VF_MaxArmorTooltip>
+  <VF_MaxSpeed>Velocidade</VF_MaxSpeed>
+  <VF_MaxSpeedTooltip>TODO</VF_MaxSpeedTooltip>
+  <VF_OpportunisticTicking>Ticking oportunista</VF_OpportunisticTicking>
+  <VF_OpportunisticTickingTooltip>Os componentes dos veículos só atualizam quando necessário, reduzindo o impacto no desempenho quando ociosos.</VF_OpportunisticTickingTooltip>
+  <VF_RefuelFromInventory>Reabastecer do inventário</VF_RefuelFromInventory>
+  <VF_VehicleDamageMultipliers>Dano de veículo</VF_VehicleDamageMultipliers>
+  <VF_VehicleFuelCapacity>Capacidade de combustível</VF_VehicleFuelCapacity>
+</LanguageData>

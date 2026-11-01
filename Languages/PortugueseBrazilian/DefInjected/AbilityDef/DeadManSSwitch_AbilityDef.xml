@@ -2,8 +2,6 @@
 <LanguageData>
   <DMS_Camouflage.label>camuflagem ativa</DMS_Camouflage.label>
   <DMS_Camouflage.description>Misture-se ao ambiente ativando camuflagem mórfica com revestimentos nanomecânicos.</DMS_Camouflage.description>
-  <DMS_PioneerSpotter.label>observador de artilharia</DMS_PioneerSpotter.label>
-  <DMS_PioneerSpotter.description>direcionando apoio de fogo de artilharia e morteiro sobre um alvo.</DMS_PioneerSpotter.description>
   <DMS_FlashShock.label>clarão de assalto</DMS_FlashShock.label>
   <DMS_FlashShock.description>Ative a Matriz de Clarão de Assalto, cegando temporariamente os inimigos que se aproximam. A bateria do dispositivo recarrega lentamente após o uso.</DMS_FlashShock.description>
   <DMS_Infrasound.label>barragem de infrassom</DMS_Infrasound.label>
@@ -25,9 +23,9 @@
   <DMS_LongJump.label>salto longo biônico</DMS_LongJump.label>
   <DMS_LongJump.description>Salte para um local distante usando músculos biônicos.</DMS_LongJump.description>
   <DMS_RepairMode.label>autorreparo</DMS_RepairMode.label>
-  <DMS_RepairMode.description>Inicialize o modo de autorreparo para reconstruir peças ausentes; todos os sensores serão temporariamente desativados para evitar danos elétricos.</DMS_RepairMode.description>
+  <DMS_RepairMode.description>Inicia um protocolo de autorreparo que utiliza liga de memória eletro-responsiva para reconstruir peças mecânicas danificadas. Todos os sensores são temporariamente desativados para evitar danos secundários durante o processo de reparo.\n\nNote que, em uma unidade gravemente danificada, iniciar este protocolo acarreta algum risco de desligamento.</DMS_RepairMode.description>
   <DMS_NuclearOverload.label>sobrecarga de fissão</DMS_NuclearOverload.label>
-  <DMS_NuclearOverload.description>Para evitar poluição ambiental catastrófica ou captura pelo inimigo, a bateria de fissão pode ser forçada manualmente a colapsar. \n\nO colapso fará com que todo o material nuclear não reagido se atomize instantaneamente, causando uma reação explosiva violenta.</DMS_NuclearOverload.description>
+  <DMS_NuclearOverload.description>Para evitar a contaminação ambiental causada por um vazamento da bateria nuclear após a unidade ficar gravemente danificada, a bateria de fissão pode ser sobrecarregada manualmente para fazer seu combustível nuclear reagir em um instante - o que, do lado de fora, parece exatamente uma detonação nuclear. A explosão é suficiente para varrer o material nuclear não reagido junto com tudo ao redor.</DMS_NuclearOverload.description>
   <DMS_Strafing.label>metralhamento</DMS_Strafing.label>
   <DMS_Strafing.description>Concentre o poder de fogo para realizar um ataque de metralhamento em uma direção específica.</DMS_Strafing.description>
   <DMS_RangeRepair.label>campo de reparo</DMS_RangeRepair.label>
@@ -41,4 +39,19 @@
   <DMS_NuclearOverload.verbProperties.label>sobrecarga de fissão</DMS_NuclearOverload.verbProperties.label>
   <DMS_RepairMode.verbProperties.label>inicializar modo de autorreparo</DMS_RepairMode.verbProperties.label>
   <DMS_TarbosaurusJump.verbProperties.label>saltar</DMS_TarbosaurusJump.verbProperties.label>
+  <DMS_BF_RecoillessShot.description>Dispara um dos foguetes de carga moldada de 65mm da plataforma. O jato perfura blindagem e fortificações que a própria arma da estrutura não consegue atingir, mas segue um canal estreito e causa pouco dano a alvos ao redor do ponto de impacto.\n\nOs tubos gastos são recarregados dos estoques da estrutura entre os combates.</DMS_BF_RecoillessShot.description>
+  <DMS_BF_RecoillessShot.label>Tiro de Rifle Sem Recuo</DMS_BF_RecoillessShot.label>
+  <DMS_BF_RecoillessShot.verbProperties.label>disparar rifle sem recuo</DMS_BF_RecoillessShot.verbProperties.label>
+  <DMS_FrogmanRationRecovery.description>Alimenta uma ração C carregada no biorreator interno do homem-sapo. O chassi queima todo o pacote de uma vez, recarregando suas células ao máximo e selando todos os ferimentos nas partes ainda intactas.\n\nPartes destruídas não podem ser regeneradas desta forma.</DMS_FrogmanRationRecovery.description>
+  <DMS_FrogmanRationRecovery.label>Impulso Metabólico</DMS_FrogmanRationRecovery.label>
+  <DMS_FrogmanRationRecovery.verbProperties.label>ativar impulso metabólico</DMS_FrogmanRationRecovery.verbProperties.label>
+  <DMS_GravekeeperStugna.description>Dispara um dos dois mísseis guiados antitanque Stugna acoplados ao lançador no ombro. A carga moldada perfura blindagem pesada, mas travar o alvo leva tempo e requer linha de visão desobstruída. Cada míssil é substituído um dia após ser disparado.</DMS_GravekeeperStugna.description>
+  <DMS_GravekeeperStugna.label>Míssil Stugna</DMS_GravekeeperStugna.label>
+  <DMS_Mothball.description>Desativa a atividade do sistema no local. A unidade torna-se uma estrutura de armazenamento dormente que não consome banda nem manutenção, podendo ser reativada posteriormente por um mecanizador.\n\nPrática padrão para unidades de guarnição entre missões.</DMS_Mothball.description>
+  <DMS_Mothball.label>embalar para armazenamento</DMS_Mothball.label>
+  <DMS_Mothball.verbProperties.label>dobrar no quadro de transporte</DMS_Mothball.verbProperties.label>
+  <DMS_SubsonicBurst.description>Libera uma rajada de infrassom sintonizado ao redor deste mecanoide. Criaturas vivas hostis ao alcance sofrem trauma infrassônico e podem entrar em pânico e fugir. Mecanoides e aliados não são afetados.</DMS_SubsonicBurst.description>
+  <DMS_SubsonicBurst.label>rajada infrassônica</DMS_SubsonicBurst.label>
+  <DMS_PioneerSpotter.description>Direciona apoio de fogo de artilharia e morteiro sobre um alvo.</DMS_PioneerSpotter.description>
+  <DMS_PioneerSpotter.label>Observador de artilharia</DMS_PioneerSpotter.label>
 </LanguageData>

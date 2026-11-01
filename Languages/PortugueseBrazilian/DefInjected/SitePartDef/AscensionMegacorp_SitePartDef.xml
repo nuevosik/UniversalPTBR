@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <USAC_Airbase.description>Este posto avançado vende serviços de ataque aéreo. Incursões contra seu assentamento agora podem comprar bombas inteligentes e bombardeios EMP.</USAC_Airbase.description>
+  <USAC_Airbase.label>Base aérea temporária da USAC</USAC_Airbase.label>
+  <USAC_ArtilleryPosition.description>Este posto avançado vende suporte de artilharia. A maioria das incursões contra seu assentamento agora virá acompanhada de vários disparos de bombardeio progressivo.</USAC_ArtilleryPosition.description>
+  <USAC_ArtilleryPosition.label>Posição de artilharia da USAC</USAC_ArtilleryPosition.label>
+  <USAC_CommercialOutpost.description>Este posto avançado vende inteligência e suprimentos a piratas locais, direcionando seus ataques para você até que sua dívida seja quitada.</USAC_CommercialOutpost.description>
+  <USAC_CommercialOutpost.label>Posto comercial da USAC</USAC_CommercialOutpost.label>
+  <USAC_NeutralOutpost.approachOrderString>Atacar {0}</USAC_NeutralOutpost.approachOrderString>
+  <USAC_NeutralOutpost.approachingReportString>Atacando {0}.</USAC_NeutralOutpost.approachingReportString>
+  <USAC_NeutralOutpost.arrivedLetter>Há um posto avançado inimigo nesta área.</USAC_NeutralOutpost.arrivedLetter>
+  <USAC_NeutralOutpost.description>um posto avançado</USAC_NeutralOutpost.description>
+  <USAC_NeutralOutpost.label>posto avançado</USAC_NeutralOutpost.label>
+</LanguageData>

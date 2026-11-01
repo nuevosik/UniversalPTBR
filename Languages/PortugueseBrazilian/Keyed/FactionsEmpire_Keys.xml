@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE.Parade.CalledOffIn>Cancelado em {0}</VFEE.Parade.CalledOffIn>
+  <VFEE.Parade.CalledOffOn>A menos que os nobres consigam pousar primeiro, o desfile será cancelado em {0}.</VFEE.Parade.CalledOffOn>
+  <VFEE.Parade.EndGame.Ending>O ônibus espacial imperial levou {STELLARCH_nameDef} e todos que ascenderam com {STELLARCH_objective} para fora deste mundo da borda. Doravante, {STELLARCH_pronoun} servirá ao lado do Imperador {EMPEROR_nameFull}.\n\nA colônia permanece e sua história continua.</VFEE.Parade.EndGame.Ending>
+  <VFEE.Parade.EndGame.Intro>{STELLARCH_nameDef} ascendeu!</VFEE.Parade.EndGame.Intro>
+  <VFEE.Parade.NoblesArriveIn>Nobres chegam em {0}</VFEE.Parade.NoblesArriveIn>
+  <VFEE.Parade.NoblesArriveInDesc>O ônibus espacial que transporta a nobreza para o desfile de ascensão pousa em {0}. Até lá, a colônia tem tempo para se preparar. Os nobres não pousarão enquanto o estelar estiver ausente ou a colônia estiver sob ameaça, e se isso durar um dia, o desfile será cancelado.</VFEE.Parade.NoblesArriveInDesc>
+  <VFEE.Parade.NoblesArriveOn>Os nobres desembarcam em {0}.</VFEE.Parade.NoblesArriveOn>
+  <VFEE.Parade.NoblesWaiting>Nobres do desfile aguardando</VFEE.Parade.NoblesWaiting>
+  <VFEE.Parade.NoblesWaitingAwayDesc>Os nobres para o desfile de ascensão não pousarão até que {STELLARCH_nameDef} esteja na colônia para recebê-los. Se {STELLARCH_pronoun} não retornar dentro de {TIME}, o desfile será cancelado.</VFEE.Parade.NoblesWaitingAwayDesc>
+  <VFEE.Parade.NoblesWaitingThreatDesc>Os nobres para o desfile de ascensão não pousarão enquanto a colônia estiver sob ameaça. Se o perigo não passar dentro de {TIME}, o desfile será cancelado.</VFEE.Parade.NoblesWaitingThreatDesc>
+</LanguageData>

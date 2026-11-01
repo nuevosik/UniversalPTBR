@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEFactory_DroneAutofactory.description>Uma linha de montagem totalmente automatizada, capaz de produzir em massa vários tipos de drones. Embora exija uma quantidade substancial de energia e resfriamento, ela opera muito mais rápido que a construção manual.\n\nAs fábricas precisam de funis de fábrica para entrada e saída. Elas geram calor significativo e consomem muita energia, mas podem ser aceleradas para maior eficiência, aumentando tanto a geração de calor quanto o consumo de energia. Precisa ser construída sobre piso de fábrica.</VFEFactory_DroneAutofactory.description>
+  <VFEFactory_DroneAutofactory.label>fábrica automatizada de drones</VFEFactory_DroneAutofactory.label>
+  <VQED_ConveyorBelt.description>Uma seção curta de um sistema de transporte mecânico, projetado para mover materiais e componentes pelo piso da fábrica sem obstruir o tráfego de pedestres.</VQED_ConveyorBelt.description>
+  <VQED_ConveyorBelt.label>esteira transportadora</VQED_ConveyorBelt.label>
+  <VQED_DefunctAerialDrone.description>Os restos gravemente danificados de um drone aéreo primitivo. Sua carcaça está marcada e suas pequenas hélices estão torcidas, sugerindo uma queda violenta. Esse modelo é anterior aos drones aéreos avançados da era espacial, utilizando componentes internos mais volumosos e primitivos. Pouco resta dos seus sistemas de carga, que estão inutilizáveis.</VQED_DefunctAerialDrone.description>
+  <VQED_DefunctAerialDrone.label>drone aéreo inoperante</VQED_DefunctAerialDrone.label>
+  <VQED_DestroyedColossusChassis.description>O chassi destruído do que já foi um drone colossal. Seu tamanho sugere um imenso poder, embora agora não seja mais que uma massa de sucata metálica. Todos os componentes internos e peças valiosas foram saqueados há muito tempo, restando apenas a carcaça blindada e despojada.</VQED_DestroyedColossusChassis.description>
+  <VQED_DestroyedColossusChassis.label>chassi de colosso destruído</VQED_DestroyedColossusChassis.label>
+  <VQED_DestroyedColossusDifferential.description>O enorme conjunto de engrenagens diferenciais arruinado de um drone colossal. A estrutura mecânica intrincada está torcida e enferrujada, restando apenas o metal pesado e não reciclável.</VQED_DestroyedColossusDifferential.description>
+  <VQED_DestroyedColossusDifferential.label>diferencial de colosso destruído</VQED_DestroyedColossusDifferential.label>
+  <VQED_DestroyedColossusLeg.description>Os restos destroçados de uma das enormes pernas de um drone colossal. Restou apenas o metal volumoso e não reciclável.</VQED_DestroyedColossusLeg.description>
+  <VQED_DestroyedColossusLeg.label>perna de colosso destruída</VQED_DestroyedColossusLeg.label>
+  <VQED_DisabledAerialDrone.description>Um drone aéreo industrial impecável, inerte e atracado em uma baia de carregamento. Embora não esteja danificado, está completamente sem função, pois componentes críticos estão faltando. Os sensores estão apagados e as pás de voo estão travadas. Ainda pode ser desmontado para obter os componentes restantes.</VQED_DisabledAerialDrone.description>
+  <VQED_DisabledAerialDrone.label>drone aéreo desativado</VQED_DisabledAerialDrone.label>
+  <VQED_DisabledAutotank.description>O casco de um tanque blindado autônomo de médio porte. Os painéis de serviço pesados foram removidos de forma grosseira, deixando grandes aberturas onde antes ficavam os complexos sistemas de mira e propulsão. Embora completamente esvaziado e desativado, seu volume blindado e perfil de combate ainda parecem ameaçadores.</VQED_DisabledAutotank.description>
+  <VQED_DisabledAutotank.label>autotanque desativado</VQED_DisabledAutotank.label>
+  <VQED_DisabledColossusDrone.description>A enorme estrutura de um drone industrial colossal, repousando inerte. Alguns painéis de acesso vitais estão abertos e vazios, com componentes-chave e sistemas de propulsão removidos habilmente. Ainda pode ser desmontado para obter os componentes restantes.</VQED_DisabledColossusDrone.description>
+  <VQED_DisabledColossusDrone.label>drone colosso desativado</VQED_DisabledColossusDrone.label>
+  <VQED_DormantBattleDrone.description>Um drone de combate automatizado. Ele patrulha continuamente uma área em busca de intrusos. Ao encontrar um intruso, atacará implacavelmente com uma pistola curta.\n\nEste drone parece estar em estado dormente.</VQED_DormantBattleDrone.description>
+  <VQED_DormantBattleDrone.label>drone de combate dormente</VQED_DormantBattleDrone.label>
+  <VQED_DormantBattleDrone_Active.description>Um drone de combate automatizado. Ele patrulha continuamente uma área em busca de intrusos. Ao encontrar um intruso, atacará implacavelmente com uma pistola curta.\n\nEste drone parece estar em estado dormente.</VQED_DormantBattleDrone_Active.description>
+  <VQED_DormantBattleDrone_Active.label>drone de combate dormente</VQED_DormantBattleDrone_Active.label>
+  <VQED_DormantHornetDrone.description>Um drone militar automatizado para defesa de curto alcance e apoio em combate. O drone é capaz de perfurar um inimigo repetidamente com seu ferrão longo e endurecido. Embora não carregue o paralisante dos drones-vespa, é capaz de perfurar armaduras pesadas e causar danos significativos, enquanto sua blindagem reforçada permite resistir a muito dano.\n\nEste drone parece estar em estado dormente.</VQED_DormantHornetDrone.description>
+  <VQED_DormantHornetDrone.label>drone vespa-dourada dormente</VQED_DormantHornetDrone.label>
+  <VQED_DormantHornetDrone_Active.description>Um drone militar automatizado para defesa de curto alcance e apoio em combate. O drone é capaz de perfurar um inimigo repetidamente com seu ferrão longo e endurecido. Embora não carregue o paralisante dos drones-vespa, é capaz de perfurar armaduras pesadas e causar danos significativos, enquanto sua blindagem reforçada permite resistir a muito dano.\n\nEste drone parece estar em estado dormente.</VQED_DormantHornetDrone_Active.description>
+  <VQED_DormantHornetDrone_Active.label>drone vespa-dourada dormente</VQED_DormantHornetDrone_Active.label>
+  <VQED_DormantRaiderDrone.description>Um drone automatizado projetado para assaltos de curta distância e supressão pesada. Equipado com uma metralhadora de tambor de alta capacidade, sua estrutura lenta e fortemente blindada permite que mantenha posição e sature uma área com fogo contínuo, suprimindo posições inimigas.\n\nEste drone parece estar em estado dormente.</VQED_DormantRaiderDrone.description>
+  <VQED_DormantRaiderDrone.label>drone invasor dormente</VQED_DormantRaiderDrone.label>
+  <VQED_DormantRaiderDrone_Active.description>Um drone automatizado projetado para assaltos de curta distância e supressão pesada. Equipado com uma metralhadora de tambor de alta capacidade, sua estrutura lenta e fortemente blindada permite que mantenha posição e sature uma área com fogo contínuo, suprimindo posições inimigas.\n\nEste drone parece estar em estado dormente.</VQED_DormantRaiderDrone_Active.description>
+  <VQED_DormantRaiderDrone_Active.label>drone invasor dormente</VQED_DormantRaiderDrone_Active.label>
+  <VQED_DroneChunk.description>Uma grande seção gravemente danificada da estrutura de um drone colossal. Parece ter sido arrancada violentamente da unidade principal, talvez por uma explosão poderosa ou por uma falha interna extrema. Embora a blindagem esteja deformada, ainda contém recursos úteis que podem ser obtidos ao desmontá-la.</VQED_DroneChunk.description>
+  <VQED_DroneChunk.label>pedaço de drone</VQED_DroneChunk.label>
+  <VQED_DroneResourcePallet.description>Recursos de construção de drones paletizados, incluindo placas de chassi de aço, chicotes elétricos, componentes eletrônicos e microatuadores, preparados para transporte. Pode ser desmontado para obter componentes valiosos.</VQED_DroneResourcePallet.description>
+  <VQED_DroneResourcePallet.label>palete de recursos para drones</VQED_DroneResourcePallet.label>
+  <VQED_DroneShell.description>Uma carcaça de um drone destruído. Ela vem se deteriorando há bastante tempo e os componentes úteis já se desintegraram.</VQED_DroneShell.description>
+  <VQED_DroneShell.label>carcaça de drone</VQED_DroneShell.label>
+  <VQED_FactoryMachinery.description>Um bloco denso e complexo de equipamentos industriais, provavelmente usado na produção em massa ou montagem de componentes de drones. Sua função original é incerta, mas emite um zumbido de energia mecânica.</VQED_FactoryMachinery.description>
+  <VQED_FactoryMachinery.label>maquinário fabril</VQED_FactoryMachinery.label>
+  <VQED_FactoryRoboarm.description>Um braço robótico industrial, usado para manipulação de alta precisão na esteira transportadora de uma fábrica de drones.</VQED_FactoryRoboarm.description>
+  <VQED_FactoryRoboarm.label>braço robótico fabril</VQED_FactoryRoboarm.label>
+  <VQED_JunkyardDigger.description>Uma enorme escavadeira enferrujada. Seu braço gigante e pá estão presos pela ferrugem, provavelmente por décadas de inatividade após todas as peças aproveitáveis terem sido removidas.</VQED_JunkyardDigger.description>
+  <VQED_JunkyardDigger.label>escavadeira de ferro-velho</VQED_JunkyardDigger.label>
+  <VQED_JunkyardSkidloader.description>Uma grande carregadeira compacta enferrujada. Quaisquer peças de valor já foram removidas há muito tempo.</VQED_JunkyardSkidloader.description>
+  <VQED_JunkyardSkidloader.label>carregadeira de ferro-velho</VQED_JunkyardSkidloader.label>
+  <VQED_LongConveyorBelt.description>Uma seção de um sistema de transporte mecânico, projetado para mover materiais e componentes pelo piso da fábrica sem obstruir o tráfego de pedestres.</VQED_LongConveyorBelt.description>
+  <VQED_LongConveyorBelt.label>esteira transportadora longa</VQED_LongConveyorBelt.label>
+  <VQED_UnfinishedDronePallet.description>Uma variedade de componentes de drones parcialmente construídos, empilhados ordenadamente em um palete de transporte. Esses módulos ainda não são drones completos, mas contêm matérias-primas valiosas que podem ser recuperadas.</VQED_UnfinishedDronePallet.description>
+  <VQED_UnfinishedDronePallet.label>palete de drones inacabados</VQED_UnfinishedDronePallet.label>
+  <VQE_AutobroadcasterDrone.description>Um drone utilitário automatizado projetado para apoiar a produtividade e o moral da colônia ao transmitir sinais de áudio específicos. Ele pode alternar entre diferentes modos para aumentar a velocidade de trabalho, melhorar o humor dos colonos ou até reduzir a resistência dos prisioneiros dentro de seu raio de ação.\n\nOs drones têm uma vida útil limitada e começarão a apresentar mau funcionamento à medida que se aproximam do fim de sua vida, mas podem usar o modo em espera para retardar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_AutobroadcasterDrone.description>
+  <VQE_AutobroadcasterDrone.label>drone auto-transmissor</VQE_AutobroadcasterDrone.label>
+  <VQE_AutobroadcasterDrone.tools.0.label>espinho de carcaça</VQE_AutobroadcasterDrone.tools.0.label>
+  <VQE_AutomatedDroneAssembler.description>Uma linha de produção maciça e fortemente blindada, dedicada à montagem automatizada e implacável de drones. Braços mecânicos complexos trabalham em ciclo contínuo, alimentando componentes, soldando juntas e realizando verificações diagnósticas. Continuará produzindo unidades hostis de drones até ser destruída.</VQE_AutomatedDroneAssembler.description>
+  <VQE_AutomatedDroneAssembler.label>montadora automatizada de drones</VQE_AutomatedDroneAssembler.label>
+  <VQE_BattleDrone.description>Um drone de combate automatizado. Patrulha continuamente uma área em busca de intrusos. Ao encontrar um intruso, atacará implacavelmente com uma pistola automática compacta.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_BattleDrone.description>
+  <VQE_BattleDrone.label>drone de combate</VQE_BattleDrone.label>
+  <VQE_BattleDrone.tools.0.label>espinho de carapaça</VQE_BattleDrone.tools.0.label>
+  <VQE_Bullet_DroneTurret.label>projétil de torreta de drone</VQE_Bullet_DroneTurret.label>
+  <VQE_Bullet_Lance.label>projétil de lança</VQE_Bullet_Lance.label>
+  <VQE_Bullet_Rattlegun.label>projétil de metralhadora</VQE_Bullet_Rattlegun.label>
+  <VQE_Bullet_StingrayCannon.label>projétil de canhão raia</VQE_Bullet_StingrayCannon.label>
+  <VQE_Bullet_Stubgun.label>projétil de pistola automática compacta</VQE_Bullet_Stubgun.label>
+  <VQE_CleanerDrone.description>Um drone utilitário automatizado. Patrulha continuamente uma área em busca de superfícies sujas. Ao encontrar sujeira, limpará implacavelmente a área com seu aparelho de limpeza interno.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_CleanerDrone.description>
+  <VQE_CleanerDrone.label>drone de limpeza</VQE_CleanerDrone.label>
+  <VQE_CleanerDrone.tools.0.label>espinho de carapaça</VQE_CleanerDrone.tools.0.label>
+  <VQE_CompactedDroneScrap.description>Um cubo denso de componentes de drones recuperados e sucata metálica fortemente prensados. O processo de compactação fundiu os materiais em um bloco difícil de desmontar, mas que ainda contém metal valioso.</VQE_CompactedDroneScrap.description>
+  <VQE_CompactedDroneScrap.label>sucata compactada de drones</VQE_CompactedDroneScrap.label>
+  <VQE_CraftingDrone.description>Um drone automatizado especializado em fabricação. Periodicamente realiza uma operação especial de indexação, após a qual produz um núcleo de drone que pode ser decodificado para desbloquear permanentemente novos projetos de drones.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Ao contrário dos outros drones, os drones de fabricação não precisam de conexão com transmissores de drones.</VQE_CraftingDrone.description>
+  <VQE_CraftingDrone.label>drone de fabricação</VQE_CraftingDrone.label>
+  <VQE_CraftingDrone.tools.0.label>espinho de carapaça</VQE_CraftingDrone.tools.0.label>
+  <VQE_CrawlerDrone.description>O chassi superior de um drone destruído, reduzido à sua estrutura com esteiras. Apesar de gravemente danificado e arrastando seus componentes principais, permanece agressivo e tenta atropelar alvos.</VQE_CrawlerDrone.description>
+  <VQE_CrawlerDrone.label>drone rastejante</VQE_CrawlerDrone.label>
+  <VQE_CrawlerDrone.tools.0.label>espinho de carapaça</VQE_CrawlerDrone.tools.0.label>
+  <VQE_DriverDrone.description>O chassi inferior de um drone destruído, reduzido à sua estrutura com esteiras. Apesar de gravemente danificado e arrastando seus componentes principais, permanece agressivo e tenta atropelar alvos.</VQE_DriverDrone.description>
+  <VQE_DriverDrone.label>drone motriz</VQE_DriverDrone.label>
+  <VQE_DriverDrone.tools.0.label>espinho de carapaça</VQE_DriverDrone.tools.0.label>
+  <VQE_DroneCore.description>Uma fusão densa e autossuficiente de computação e armazenamento de energia, projetada para servir como unidade central de processamento de um drone. Abriga a lógica central do drone, seus parâmetros operacionais e uma biblioteca oculta de projetos carregados de fábrica.\n\nDecifrar os registros de dados do núcleo em uma bancada de pesquisa pode desbloquear projetos para um novo tipo de drone, permitindo sua construção.</VQE_DroneCore.description>
+  <VQE_DroneCore.label>núcleo de drone</VQE_DroneCore.label>
+  <VQE_DroneStandby.label>drone (em espera)</VQE_DroneStandby.label>
+  <VQE_DroneStorageTerminal.description>Um terminal de computador para armazenamento de drones. Pode ser invadido para desativar permanentemente drones dormentes próximos.</VQE_DroneStorageTerminal.description>
+  <VQE_DroneStorageTerminal.label>terminal de armazenamento de drones</VQE_DroneStorageTerminal.label>
+  <VQE_DroneTinkeringBench.description>Uma bancada de trabalho equipada com maquinário avançado e ferramentas para construir diversos tipos de drones e equipamentos relacionados, além de desmontar carcaças de drones gastos para recuperar recursos primários.</VQE_DroneTinkeringBench.description>
+  <VQE_DroneTinkeringBench.label>bancada de adaptação de drones</VQE_DroneTinkeringBench.label>
+  <VQE_DroneTransmitter.description>Um pequeno mastro de antena que estabelece uma rede local de drones, permitindo que drones próximos operem dentro de seu raio de transmissão.</VQE_DroneTransmitter.description>
+  <VQE_DroneTransmitter.label>transmissor de drones</VQE_DroneTransmitter.label>
+  <VQE_FarmingDrone.description>Um drone utilitário automatizado projetado para a agricultura. Patrulha zonas de cultivo, sendo capaz tanto de colher culturas maduras quanto de semear novas, desde que as plantas não exijam uma habilidade específica de cultivo para serem plantadas.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_FarmingDrone.description>
+  <VQE_FarmingDrone.label>drone agrícola</VQE_FarmingDrone.label>
+  <VQE_FarmingDrone.tools.0.label>espinho de carapaça</VQE_FarmingDrone.tools.0.label>
+  <VQE_FirefighterDrone.description>Um drone utilitário automatizado equipado com sistemas de combate a incêndio. Patrulha continuamente a área, extinguindo automaticamente pequenos incêndios que encontra. Se um incêndio crescer além de sua capacidade, o drone inicia uma sequência de autodestruição, detonando em uma poderosa explosão de espuma de combate a incêndio.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_FirefighterDrone.description>
+  <VQE_FirefighterDrone.label>drone bombeiro</VQE_FirefighterDrone.label>
+  <VQE_FirefighterDrone.tools.0.label>espinho de carapaça</VQE_FirefighterDrone.tools.0.label>
+  <VQE_Gun_DroneTurret.description>Uma torreta aprimorada com estabilização militar, rotinas de mira e carcaça reforçada, projetada para ser montada em um drone de combate.</VQE_Gun_DroneTurret.description>
+  <VQE_Gun_DroneTurret.label>torreta de drone</VQE_Gun_DroneTurret.label>
+  <VQE_Gun_DroneTurret.tools.0.label>cano</VQE_Gun_DroneTurret.tools.0.label>
+  <VQE_Gun_Lance.description>Uma arma de precisão de tiro único baseada em um antigo rifle de precisão, com alcance e exatidão excepcionais, mas com desempenho ruim em curto alcance.</VQE_Gun_Lance.description>
+  <VQE_Gun_Lance.label>lança</VQE_Gun_Lance.label>
+  <VQE_Gun_Lance.tools.0.label>cano</VQE_Gun_Lance.tools.0.label>
+  <VQE_Gun_Rattlegun.description>Uma metralhadora leve montada em drone, projetada para supressão pesada, mas com baixa precisão.</VQE_Gun_Rattlegun.description>
+  <VQE_Gun_Rattlegun.label>metralhadora</VQE_Gun_Rattlegun.label>
+  <VQE_Gun_Rattlegun.tools.0.label>cano</VQE_Gun_Rattlegun.tools.0.label>
+  <VQE_Gun_StingrayCannon.description>Uma arma de precisão de tiro único baseada em um antigo rifle de precisão, com alcance e exatidão excepcionais, mas com desempenho ruim em curto alcance.</VQE_Gun_StingrayCannon.description>
+  <VQE_Gun_StingrayCannon.label>canhão raia</VQE_Gun_StingrayCannon.label>
+  <VQE_Gun_StingrayCannon.tools.0.label>cano</VQE_Gun_StingrayCannon.tools.0.label>
+  <VQE_Gun_Stubgun.description>Uma arma automática compacta de alcance médio, projetada para ser montada em um drone de combate.</VQE_Gun_Stubgun.description>
+  <VQE_Gun_Stubgun.label>pistola automática compacta</VQE_Gun_Stubgun.label>
+  <VQE_Gun_Stubgun.tools.0.label>cano</VQE_Gun_Stubgun.tools.0.label>
+  <VQE_HaulerDrone.description>Um drone utilitário automatizado. Patrulha continuamente uma área em busca de itens que precisam ser transportados para estoques. Ao encontrar um item, transportará diligentemente para o local de armazenamento designado.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_HaulerDrone.description>
+  <VQE_HaulerDrone.label>drone transportador</VQE_HaulerDrone.label>
+  <VQE_HaulerDrone.tools.0.label>espinho de carapaça</VQE_HaulerDrone.tools.0.label>
+  <VQE_HornetDrone.description>Um drone militar automatizado para defesa de curto alcance e apoio em combate. O drone é capaz de perfurar um inimigo repetidamente com seu ferrão longo e endurecido. Embora não carregue o mesmo veneno paralisante dos drones vespa, é capaz de perfurar armaduras pesadas e causar danos significativos, enquanto sua blindagem reforçada lhe permite resistir a muito dano.\n\nOs drones têm vida útil limitada e começarão a apresentar falhas conforme se aproximam do fim de sua vida, mas podem usar o modo de espera para desacelerar a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_HornetDrone.description>
+  <VQE_HornetDrone.label>drone vespa-gigante</VQE_HornetDrone.label>
+  <VQE_HornetDrone.tools.0.label>espinho de carapaça</VQE_HornetDrone.tools.0.label>
+  <VQE_ImmobilizedTurret.description>Uma torreta móvel quebrada. O antigo mecanismo de mira ainda funciona.</VQE_ImmobilizedTurret.description>
+  <VQE_ImmobilizedTurret.label>torreta imobilizada</VQE_ImmobilizedTurret.label>
+  <VQE_ImmobilizedTurret_Bullet.label>projétil de minitorreta</VQE_ImmobilizedTurret_Bullet.label>
+  <VQE_ImmobilizedTurret_Gun.description>Uma torreta móvel quebrada. O antigo mecanismo de mira ainda funciona.</VQE_ImmobilizedTurret_Gun.description>
+  <VQE_ImmobilizedTurret_Gun.label>torreta imobilizada</VQE_ImmobilizedTurret_Gun.label>
+  <VQE_LongRangeDroneTransmitter.description>Um conjunto de antenas volumoso e multibanda, projetado para transmitir o sinal de controle de drones a uma distância excepcional. A unidade está em operação no momento, fornecendo largura de banda operacional para todos os drones próximos. Pode ser invadida temporariamente para sobrecarregar seus sistemas de segurança, tornando-a inerte e permitindo o acesso ao seu núcleo valioso.</VQE_LongRangeDroneTransmitter.description>
+  <VQE_LongRangeDroneTransmitter.label>transmissor de drones de longo alcance</VQE_LongRangeDroneTransmitter.label>
+  <VQE_MachiningFluid.description>Uma camada de fluido de usinagem inflamável.</VQE_MachiningFluid.description>
+  <VQE_MachiningFluid.label>resíduo de fluido de usinagem</VQE_MachiningFluid.label>
+  <VQE_MinerDrone.description>Um drone utilitário automatizado. Ele patrulha continuamente uma área em busca de rochas designadas para mineração. Ao encontrar uma rocha, ele perfurará incessantemente com sua broca grande.\n\nOs drones têm uma vida útil limitada e começarão a apresentar falhas à medida que se aproximam do fim de sua vida útil, mas podem usar o modo de espera para reduzir a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_MinerDrone.description>
+  <VQE_MinerDrone.label>drone minerador</VQE_MinerDrone.label>
+  <VQE_MinerDrone.tools.0.label>espinho da carcaça</VQE_MinerDrone.tools.0.label>
+  <VQE_PackDrone.description>Um drone utilitário automatizado projetado principalmente para transporte pesado e apoio a caravanas. Sua estrutura grande e alta capacidade de carga permitem transportá-lo com recursos volumosos em uma caravana.\n\nOs drones têm uma vida útil limitada e começarão a apresentar falhas à medida que se aproximam do fim de sua vida útil, mas podem usar o modo de espera para reduzir a degradação dos componentes. Ao contrário dos outros drones, os drones de carga não precisam estar conectados a transmissores de drones.</VQE_PackDrone.description>
+  <VQE_PackDrone.label>drone de carga</VQE_PackDrone.label>
+  <VQE_PackDrone.tools.0.label>espinho da carcaça</VQE_PackDrone.tools.0.label>
+  <VQE_Protolancer.description>Um drone atirador automatizado desenvolvido especificamente para engajamentos de médio e longo alcance. Ele utiliza uma poderosa lança-sniper de um único tiro para eliminar inimigos à distância. Sua construção leve permite reposicionamentos rápidos, mas o torna extremamente vulnerável a ataques de curto alcance e combate corpo a corpo.\n\nOs drones têm uma vida útil limitada e começarão a apresentar falhas à medida que se aproximam do fim de sua vida útil, mas podem usar o modo de espera para reduzir a degradação dos componentes. Ao contrário dos outros drones, os protolancers não precisam estar conectados a transmissores de drones.</VQE_Protolancer.description>
+  <VQE_Protolancer.label>protolanceiro</VQE_Protolancer.label>
+  <VQE_Protolancer.tools.0.label>espinho da carcaça</VQE_Protolancer.tools.0.label>
+  <VQE_RaiderDrone.description>Um drone automatizado projetado para invasões em curta distância e supressão pesada. Equipado com uma metralhadora de tambor de alta capacidade, sua estrutura lenta e fortemente blindada permite que ele mantenha sua posição e saturar uma área com fogo contínuo, suprimindo posições inimigas.\n\nOs drones têm uma vida útil limitada e começarão a apresentar falhas à medida que se aproximam do fim de sua vida útil, mas podem usar o modo de espera para reduzir a degradação dos componentes. Ao contrário dos outros drones, os drones invasores não precisam estar conectados a transmissores de drones.</VQE_RaiderDrone.description>
+  <VQE_RaiderDrone.label>drone invasor</VQE_RaiderDrone.label>
+  <VQE_RaiderDrone.tools.0.label>espinho da carcaça</VQE_RaiderDrone.tools.0.label>
+  <VQE_SalvageableDroneWreck.description>Uma enorme seção danificada de um drone militar com danos extremos de combate. Embora a fiação exposta seja visível, o valioso núcleo do drone permanece lacrado em seu interior, provavelmente intacto e recuperável. Se você conseguir extrair o núcleo do drone, poderá decifrá-lo para desbloquear um novo esquema de drone. O estoque de munição incendiária do drone está intacto, mas instável, e provavelmente detonará após você causar algum dano.</VQE_SalvageableDroneWreck.description>
+  <VQE_SalvageableDroneWreck.label>destroços recuperáveis de drone</VQE_SalvageableDroneWreck.label>
+  <VQE_ShufflerDrone.description>Um drone sentinela quebrado e desativado. Seus sensores fritados e componentes defeituosos fazem com que ele se desloque sem rumo. Apesar de seu estado abandonado, ele atacará qualquer alvo que avistar. Ao sofrer danos graves, sua carcaça se divide em duas unidades menores de drones atacantes implacáveis.</VQE_ShufflerDrone.description>
+  <VQE_ShufflerDrone.label>drone cambaleante</VQE_ShufflerDrone.label>
+  <VQE_ShufflerDrone.tools.0.label>espinho da carcaça</VQE_ShufflerDrone.tools.0.label>
+  <VQE_StingrayDrone.description>Um drone de assalto pesado automatizado construído sobre uma plataforma aérea grande e blindada. Ele é equipado com um poderoso canhão incendiário de curto alcance que dispara um jato de gel superaquecido, causando dano de fogo em área.\n\nOs drones têm uma vida útil limitada e começarão a apresentar falhas à medida que se aproximam do fim de sua vida útil, mas podem usar o modo de espera para reduzir a degradação dos componentes. Ao contrário dos outros drones, os drones arraia não precisam estar conectados a transmissores de drones.</VQE_StingrayDrone.description>
+  <VQE_StingrayDrone.label>drone arraia</VQE_StingrayDrone.label>
+  <VQE_StingrayDrone.tools.0.label>espinho da carcaça</VQE_StingrayDrone.tools.0.label>
+  <VQE_TinkererHoldingPlatform.description>Uma plataforma de acoplamento e recarga especializada, usada para drones não combatentes de alto valor, como o Consertador. Sua construção durável foi projetada para prender e proteger o drone. A plataforma pode ser destruída para recuperar seus recursos, ou pode ser invadida para substituir seus protocolos de segurança e liberar o Consertador, que será reprogramado para se juntar imediatamente à sua colônia.</VQE_TinkererHoldingPlatform.description>
+  <VQE_TinkererHoldingPlatform.label>plataforma de contenção do consertador</VQE_TinkererHoldingPlatform.label>
+  <VQE_TurretDrone.description>Um drone militar automatizado projetado para defesa estática. Ele é equipado com uma torreta de dois canos montada em uma plataforma com esteiras fortemente blindada. Embora lento, pode se reposicionar quando necessário.\n\nOs drones têm uma vida útil limitada e começarão a apresentar falhas à medida que se aproximam do fim de sua vida útil, mas podem usar o modo de espera para reduzir a degradação dos componentes. Eles precisam estar conectados a um transmissor de drones energizado para funcionar.</VQE_TurretDrone.description>
+  <VQE_TurretDrone.label>drone-torreta</VQE_TurretDrone.label>
+  <VQE_TurretDrone.tools.0.label>espinho da carcaça</VQE_TurretDrone.tools.0.label>
+  <VQE_UnfinishedDrone.description>Um drone inacabado.</VQE_UnfinishedDrone.description>
+  <VQE_UnfinishedDrone.label>drone inacabado</VQE_UnfinishedDrone.label>
+  <VQE_UnfinishedDroneSpawner_AutobroadcasterDrone.label>drone radiodifusor</VQE_UnfinishedDroneSpawner_AutobroadcasterDrone.label>
+  <VQE_UnfinishedDroneSpawner_BattleDrone.label>drone de combate</VQE_UnfinishedDroneSpawner_BattleDrone.label>
+  <VQE_UnfinishedDroneSpawner_CleanerDrone.label>drone limpador</VQE_UnfinishedDroneSpawner_CleanerDrone.label>
+  <VQE_UnfinishedDroneSpawner_FarmingDrone.label>drone agrícola</VQE_UnfinishedDroneSpawner_FarmingDrone.label>
+  <VQE_UnfinishedDroneSpawner_FirefighterDrone.label>drone bombeiro</VQE_UnfinishedDroneSpawner_FirefighterDrone.label>
+  <VQE_UnfinishedDroneSpawner_HaulerDrone.label>drone transportador</VQE_UnfinishedDroneSpawner_HaulerDrone.label>
+  <VQE_UnfinishedDroneSpawner_HornetDrone.label>drone vespa</VQE_UnfinishedDroneSpawner_HornetDrone.label>
+  <VQE_UnfinishedDroneSpawner_MinerDrone.label>drone minerador</VQE_UnfinishedDroneSpawner_MinerDrone.label>
+  <VQE_UnfinishedDroneSpawner_PackDrone.label>drone de carga</VQE_UnfinishedDroneSpawner_PackDrone.label>
+  <VQE_UnfinishedDroneSpawner_Protolancer.label>protolanceiro</VQE_UnfinishedDroneSpawner_Protolancer.label>
+  <VQE_UnfinishedDroneSpawner_RaiderDrone.label>drone invasor</VQE_UnfinishedDroneSpawner_RaiderDrone.label>
+  <VQE_UnfinishedDroneSpawner_StingrayDrone.label>drone arraia</VQE_UnfinishedDroneSpawner_StingrayDrone.label>
+  <VQE_UnfinishedDroneSpawner_TurretDrone.label>drone-torreta</VQE_UnfinishedDroneSpawner_TurretDrone.label>
+</LanguageData>

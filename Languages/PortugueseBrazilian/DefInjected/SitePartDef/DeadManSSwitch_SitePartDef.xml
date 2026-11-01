@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_AirportSite.arrivedLetter>Você chegou ao campo de aviação remanescente. Uma guarnição de drones mantém a torre e os pátios sob controle.\n\nO rádio isca na torre está intacto. Limpe o campo e, em seguida, use-o para chamar o tecelão de enxames até aqui - longe da sua colônia.</DMS_AirportSite.arrivedLetter>
+  <DMS_AirportSite.description>Um campo de aviação remanescente do Legado, com drones. A torre de controle ainda opera um rádio isca de alta potência sintonizado na banda de comando do tecelão de enxames. Assim que a guarnição for eliminada, o transmissor poderá chamar a nave-mãe para este campo de aviação, em vez de para sua colônia.</DMS_AirportSite.description>
+  <DMS_AirportSite.label>campo de aviação remanescente</DMS_AirportSite.label>
+  <DMS_ArsenalSite.arrivedLetter>Você chegou ao antigo arsenal. Um cercado de postes de aço e arame farpado rodeia o complexo; no interior, torres de vigia cobrem as estradas entre os bunkers e os destroços de antigos prédios, e guarda-túmulos fazem suas rondas.\n\nOs selos dos bunkers respondem aos sinais vitais de um tarbossauro. O radar isca na plataforma central pode chamá-lo; os selos só serão abertos após sua destruição.</DMS_ArsenalSite.arrivedLetter>
+  <DMS_ArsenalSite.description>Um complexo de bunkers semi-subterrâneos que já foi operado pelos colonos da vanguarda estacionados nesta região. À medida que sua missão mudou, os bunkers foram esvaziados em várias realocações e, por fim, abandonados. O que restou são equipamentos muito grandes para serem movidos ou já fora de serviço, e alguns desses estoques ainda podem estar lá. No entanto, o sistema de segurança autônomo ainda está em funcionamento, portanto invadir o local traz riscos imprevisíveis.\n\nO complexo é patrulhado por um a cinco guarda-túmulos. Os selos dos bunkers estão vinculados aos sinais vitais de um antigo, mas ainda devastador, autômato bípedo ultrapesado: o tarbossauro. O radar isca na plataforma central pode chamá-lo, e para vasculhar os bunkers, ele precisará ser destruído primeiro.</DMS_ArsenalSite.description>
+  <DMS_ArsenalSite.label>antigo arsenal</DMS_ArsenalSite.label>
+  <DMS_DecoySite.approachOrderString>Atacar {0}</DMS_DecoySite.approachOrderString>
+  <DMS_DecoySite.approachingReportString>Atacando {0}.</DMS_DecoySite.approachingReportString>
+  <DMS_DecoySite.arrivedLetter>Você chegou à estação retransmissora remanescente. Autômatos hostis guarnecem o complexo.\n\nSua presença não passará despercebida por muito tempo - assim que o protocolo de monitoramento da estação identificá-lo, reforços inimigos começarão a chegar.</DMS_DecoySite.arrivedLetter>
+  <DMS_DecoySite.description>Uma estação retransmissora de sinais remanescente do Legado. Sua matriz transmissora pode ser reaproveitada para atrair unidades autômatas de alto valor - caso sua guarnição seja eliminada primeiro.</DMS_DecoySite.description>
+  <DMS_DecoySite.label>estação retransmissora remanescente</DMS_DecoySite.label>
+  <DMS_LaunchSiteSite.arrivedLetter>Você chegou ao local de lançamento abandonado. Uma patrulha remanescente vasculha os destroços.\n\nO complexo está totalmente aberto e repleto de cobertura. Elimine a patrulha e, em seguida, saqueie o que as equipes de lançamento deixaram para trás.</DMS_LaunchSiteSite.arrivedLetter>
+  <DMS_LaunchSiteSite.description>Um complexo de lançamento de mísseis arruinado do Legado. Os lançadores já se foram e o complexo está se deteriorando, mas uma patrulha remanescente ainda faz rondas no perímetro e os destroços nunca foram saqueados.</DMS_LaunchSiteSite.description>
+  <DMS_LaunchSiteSite.label>local de lançamento abandonado</DMS_LaunchSiteSite.label>
+  <DMS_OperationBaseSite.arrivedLetter>Você chegou à base avançada remanescente. Uma guarnição de infantaria de linha mantém o arame farpado.\n\nO depósito de suprimentos está a céu aberto. O elevador de carga na parte traseira está atrás de portas à prova de explosão que respondem a dois consoles de segurança; invada ambos e, em seguida, invada o elevador para descer.</DMS_OperationBaseSite.arrivedLetter>
+  <DMS_OperationBaseSite.description>Uma base avançada remanescente do Legado. Arame farpado, sacos de areia e um depósito de suprimentos na superfície; um elevador de carga leva a um depósito enterrado, protegido por dois conjuntos de portas à prova de explosão.</DMS_OperationBaseSite.description>
+  <DMS_OperationBaseSite.label>base avançada remanescente</DMS_OperationBaseSite.label>
+  <DMS_PirateAssemblySite.approachOrderString>Atacar {0}</DMS_PirateAssemblySite.approachOrderString>
+  <DMS_PirateAssemblySite.approachingReportString>Atacando {0}.</DMS_PirateAssemblySite.approachingReportString>
+  <DMS_PirateAssemblySite.arrivedLetter>Você chegou ao pátio de montagem pirata.\n\nAssim que a tripulação der o alarme, reforços inimigos começarão a chegar.</DMS_PirateAssemblySite.arrivedLetter>
+  <DMS_PirateAssemblySite.description>Um antigo pátio de montagem de autômatos, tomado por piratas e posto novamente em funcionamento. As máquinas que saem da linha de produção agora são deles.</DMS_PirateAssemblySite.description>
+  <DMS_PirateAssemblySite.label>pátio de montagem pirata</DMS_PirateAssemblySite.label>
+  <DMS_RepairStationSite.arrivedLetter>Você chegou ao depósito de reparos remanescente. Autômatos e seus drones de escolta mantêm o pátio.\n\nA baia de manutenção está selada. Invada o console de segurança do depósito para abrir a porta e alcançar as unidades presas em seus berços.</DMS_RepairStationSite.arrivedLetter>
+  <DMS_RepairStationSite.description>Um depósito de manutenção de campo remanescente do Legado. Unidades muito danificadas para andar foram colocadas aqui para reparo; duas delas ainda estão presas em seus berços, atrás de uma porta selada, aguardando uma tripulação que jamais voltou.</DMS_RepairStationSite.description>
+  <DMS_RepairStationSite.label>depósito de reparos remanescente</DMS_RepairStationSite.label>
+  <DMS_ResidentialSite.description>Um complexo residencial abandonado, ocupado por forças remanescentes. Sua antena isca pode atrair um jabuti.</DMS_ResidentialSite.description>
+  <DMS_ResidentialSite.label>distrito residencial abandonado</DMS_ResidentialSite.label>
+  <DMS_SageNodeSite.approachOrderString>Assaltar {0}</DMS_SageNodeSite.approachOrderString>
+  <DMS_SageNodeSite.approachingReportString>Assaltando {0}.</DMS_SageNodeSite.approachingReportString>
+  <DMS_SageNodeSite.arrivedLetter>Você chegou ao nó SAGE. Torres de vigia cobrem as aproximações e o nó está preparado para apoio de fogo.</DMS_SageNodeSite.arrivedLetter>
+  <DMS_SageNodeSite.description>Um servidor de comando estratégico na rede de rastreamento da frota colonial, guardado por máquinas remanescentes do Legado.</DMS_SageNodeSite.description>
+  <DMS_SageNodeSite.label>nó SAGE</DMS_SageNodeSite.label>
+  <DMS_SiteStationSite.arrivedLetter>Você chegou à estação abandonada. Um destacamento remanescente está entrincheirado entre as ruínas.\n\nA estação é grande e a guarnição está espalhada - espere que eles converjam assim que os tiros começarem.</DMS_SiteStationSite.arrivedLetter>
+  <DMS_SiteStationSite.description>Uma grande estação pré-guerra, metade dela desabada, onde um destacamento remanescente do Legado se entrincheirou. Caixas de suprimentos antigas e maquinário destruído estão espalhados pelas ruínas.</DMS_SiteStationSite.description>
+  <DMS_SiteStationSite.label>estação remanescente abandonada</DMS_SiteStationSite.label>
+  <DMS_SteleKey_ImpactSite.approachOrderString>Assaltar {0}</DMS_SteleKey_ImpactSite.approachOrderString>
+  <DMS_SteleKey_ImpactSite.approachingReportString>Assaltando {0}.</DMS_SteleKey_ImpactSite.approachingReportString>
+  <DMS_SteleKey_ImpactSite.description>Uma instalação pioneira destruída pela queda de uma cápsula glífica da frota. O glifo está selado em um servidor entre as ruínas, e remanescentes do Legado ainda o guardam.</DMS_SteleKey_ImpactSite.description>
+  <DMS_SteleKey_ImpactSite.label>local de impacto</DMS_SteleKey_ImpactSite.label>
+  <DMS_SteleVault.approachOrderString>Assaltar {0}</DMS_SteleVault.approachOrderString>
+  <DMS_SteleVault.approachingReportString>Assaltando {0}.</DMS_SteleVault.approachingReportString>
+  <DMS_SteleVault.description>Um cofre selado que guarda uma estela enterrada, protegido por remanescentes do Legado.</DMS_SteleVault.description>
+  <DMS_SteleVault.label>cofre da estela</DMS_SteleVault.label>
+  <DMS_VaultStationSite.arrivedLetter>Você chegou à estação de acesso ao cofre. Uma guarnição remanescente mantém o complexo.\n\nO elevador de carga está selado sob sua placa de cobertura. Passe um cartão-chave de acesso no console ao lado dele para erguer a placa.</DMS_VaultStationSite.arrivedLetter>
+  <DMS_VaultStationSite.description>Uma estação de superfície remanescente do Legado construída sobre um cofre militar enterrado. O elevador de carga está trancado sob uma placa de cobertura blindada que só pode ser erguida pelo console de acesso ao lado, e esse console responde a um cartão-chave.</DMS_VaultStationSite.description>
+  <DMS_VaultStationSite.label>estação de acesso ao cofre</DMS_VaultStationSite.label>
+</LanguageData>

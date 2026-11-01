@@ -20,13 +20,13 @@
   <VQED_FillPit>Enterrar o fosso da morte</VQED_FillPit>
   <VQED_FillPitDesc>Cubra o fosso da morte com escórias de metal retorcido para evitar que qualquer coisa rasteje para fora.</VQED_FillPitDesc>
   <VQED_GeneralAwakensLabel>{PAWN_nameFull} desperta</VQED_GeneralAwakensLabel>
-  <VQED_GeneralAwakensText>O sarcófago selado se abre com um sibilo, liberando uma nuvem de poeira mortal, e de dentro surge o(a) {PAWN_title} {PAWN_nameFull}.
+  <VQED_GeneralAwakensText>O sarcófago selado se abre com um sibilo, liberando uma nuvem de poeira mortal e, de dentro, surge {PAWN_title} {PAWN_nameFull}.
 
-Outrora o comandante da Operação: Mortal, {PAWN_nameFull} é agora um remanescente de uma guerra esquecida, preso ao estado de trôpego. Ao despertar, {PAWN_pronoun} começa a reativar os sistemas de defesa há muito adormecidos da base: aberturas de podridão, grades de torretas, canis de trôpegos e fossos de contenção cheios de mortos.
+Outrora comandante da Operação: Deadlife, {PAWN_nameFull} agora é um remanescente preso aos trôpegos, fruto de uma guerra esquecida. Ao despertar, {PAWN_pronoun} começa a reativar os sistemas de defesa há muito adormecidos da base: dutos de podridão, grades de torretas, canis de trôpegos e fossos de contenção cheios de mortos. {PAWN_pronoun} não pretende parar.
 
-Seu objetivo final é claro: iniciar a sequência de lançamento dos ICBMs Mortais: ogivas orbitais projetadas para cobrir o planeta com a morte. Se lançados, hordas de trôpegos surgirão por todo o mundo, destruindo assentamentos e emboscando caravanas.
+{PAWN_possessive} objetivo final é claro: iniciar a sequência de lançamento dos ICBMs Deadlife: ogivas orbitais projetadas para cobrir o planeta com a morte. Se lançados, hordas de trôpegos surgirão por todo o mundo, destruindo assentamentos e emboscando caravanas.
 
-Você deve chegar ao centro de comando e destruir o Terminal de Lançamento de ICBM antes que {PAWN_nameFull} complete sua tarefa sombria.</VQED_GeneralAwakensText>
+Você deve chegar ao centro de comando e destruir o terminal de lançamento dos ICBMs antes que {PAWN_nameFull} complete {PAWN_possessive} sombria tarefa.</VQED_GeneralAwakensText>
   <VQED_GeneralUnsealedDeathPit>Para proteger o local de lançamento, o General {0} abriu um dos fossos da morte.</VQED_GeneralUnsealedDeathPit>
   <VQED_GeneralOpenedChutes>Para proteger o local de lançamento, o General {0} abriu as calhas por todo o complexo.</VQED_GeneralOpenedChutes>
   <VQED_GeneralAwakenedOfficers>Para proteger o local de lançamento, o General {0} despertou vários oficiais de alta patente de seu sono.</VQED_GeneralAwakenedOfficers>

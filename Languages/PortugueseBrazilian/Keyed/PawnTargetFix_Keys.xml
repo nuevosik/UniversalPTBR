@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PTF_AccuracyWeight_label>Peso da precisão (pontuação = chanceDeAcerto × peso): {0}</PTF_AccuracyWeight_label>
+  <PTF_DownedPenalty_label>Penalidade para caídos (maior = ignora mais): {0}</PTF_DownedPenalty_label>
+  <PTF_Downed_header>Alvos caídos:</PTF_Downed_header>
+  <PTF_Downed_mode_Deprioritize>Rebaixar prioridade</PTF_Downed_mode_Deprioritize>
+  <PTF_Downed_mode_Ignore>Ignorar</PTF_Downed_mode_Ignore>
+  <PTF_Downed_mode_None>Nenhum</PTF_Downed_mode_None>
+  <PTF_Mode_button>Modo</PTF_Mode_button>
+  <PTF_NearRangeNudge_desc>Adiciona um pequeno viés extra para alvos dentro de ~20 quadrados, incentivando o foco em ameaças próximas.</PTF_NearRangeNudge_desc>
+  <PTF_NearRangeNudge_label>Manter viés para curto alcance</PTF_NearRangeNudge_label>
+  <PTF_PreferAccuracy_desc>Quando ativado, os colonos preferem alvos com maior chance estimada de acerto (cobertura, alcance, habilidade do atirador) ao invés de apenas proximidade.</PTF_PreferAccuracy_desc>
+  <PTF_PreferAccuracy_label>Preferir pontuação por precisão</PTF_PreferAccuracy_label>
+  <PTF_RecentTargetBonus_label>Bônus por alvo recente: {0}</PTF_RecentTargetBonus_label>
+  <PTF_RecentTargetWindow_label>Janela de alvos recentes (ticks): {0}</PTF_RecentTargetWindow_label>
+  <PTF_SettingsCategory>Correção de Alvo dos Colonos</PTF_SettingsCategory>
+  <PTF_StickinessPercent_label>Fidelidade ao alvo (manter alvo atual se estiver dentro de % do melhor): {0}%</PTF_StickinessPercent_label>
+</LanguageData>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MessageTargetMustBeMechanoid>O alvo deve ser um mecanoide.</MessageTargetMustBeMechanoid>
+  <MessageTargetMustBePlayerMech>O alvo deve ser um de seus próprios mecanoides.</MessageTargetMustBePlayerMech>
+  <TraderArrival>{0} ({1}) entrou no alcance das comunicações. {2}</TraderArrival>
+  <TraderArrivalFromFaction>Eles vêm da {FACTION}.</TraderArrivalFromFaction>
+  <TraderArrivalNoFaction>Eles não pertencem a nenhuma facção conhecida.</TraderArrivalNoFaction>
+  <USAC.Alert.DebtRepayment.Explanation.ContractEntry>▸ {0}\n Principal: ₿{1} Juros est.: ₿{2}\n Vencimento em: {3} dias Inadimplências: {4}\n\n</USAC.Alert.DebtRepayment.Explanation.ContractEntry>
+  <USAC.Alert.DebtRepayment.Explanation.ContractEntryWithGrowth>▸ {0}\n Principal: ₿{1} Juros est.: ₿{2}\n Crescimento est. do principal: +₿{5}\n Vencimento em: {3} dias Inadimplências: {4}\n\n</USAC.Alert.DebtRepayment.Explanation.ContractEntryWithGrowth>
+  <USAC.Alert.DebtRepayment.Explanation.Header>Pontuação de crédito: {0}\nTítulos no alcance do farol: {1}\n\n</USAC.Alert.DebtRepayment.Explanation.Header>
+  <USAC.Alert.DebtRepayment.Explanation.ImminentWarning>⚠ O contrato mais próximo vence em breve! Certifique-se de ter títulos da USAC suficientes à mão.</USAC.Alert.DebtRepayment.Explanation.ImminentWarning>
+  <USAC.Alert.DebtRepayment.Label>Quitação de dívida da USAC</USAC.Alert.DebtRepayment.Label>
+  <USAC.Alert.DebtRepayment.LabelWithTime>Quitação da USAC: {0} dias ({1} contratos)</USAC.Alert.DebtRepayment.LabelWithTime>
+  <USAC.Alert.SiegeCountdown.Explanation>Tempo até o início da operação de apreensão: {0}\n\nCredor atual: {1}\n\nQuando a contagem regressiva terminar, esta facção lançará uma apreensão forçada sem limite. Certifique-se de que suas defesas estão prontas.</USAC.Alert.SiegeCountdown.Explanation>
+  <USAC.Alert.SiegeCountdown.ExplanationActive>Tempo restante de defesa: {0}\n\nVocê está sob ataque sustentado de {1}. Resista até o tempo acabar e as perdas o forçarão a abandonar sua reivindicação.</USAC.Alert.SiegeCountdown.ExplanationActive>
+  <USAC.Alert.SiegeCountdown.Label>Contagem regressiva para apreensão de bens</USAC.Alert.SiegeCountdown.Label>
+  <USAC.Alert.SiegeCountdown.LabelActive>Defesa final em andamento</USAC.Alert.SiegeCountdown.LabelActive>
+  <USAC.Debt.Dialog.Repayment.Option.Pay>Quitar agora (usar títulos)</USAC.Debt.Dialog.Repayment.Option.Pay>
+  <USAC.Debt.Dialog.Repayment.Option.Refuse>Não é possível pagar / recusar</USAC.Debt.Dialog.Repayment.Option.Refuse>
+  <USAC.Debt.Dialog.Repayment.Text>[Nó financeiro da USAC] Auditoria de {0} concluída.\n\nJuros devidos neste ciclo: ₿{1} ({2} títulos necessários)\nPrincipal atual: ₿{3}\nPagamentos em atraso: {4}\n\nConfirme para quitar usando títulos de crédito da USAC dentro do alcance do farol comercial.\n</USAC.Debt.Dialog.Repayment.Text>
+  <USAC.Debt.Dialog.Repayment.Title>Quitação da USAC {0}</USAC.Debt.Dialog.Repayment.Title>
+  <USAC.Debt.Dialog.Repayment.Warning>⚠ Mais um pagamento em atraso acionará a cobrança forçada!</USAC.Debt.Dialog.Repayment.Warning>
+  <USAC.Debt.Error.NotEnoughBondsWithFee>{0} títulos necessários (incluindo {1} de sobretaxa)</USAC.Debt.Error.NotEnoughBondsWithFee>
+  <USAC.Debt.Error.PayInterestFirst>Pague os juros atuais primeiro</USAC.Debt.Error.PayInterestFirst>
+  <USAC.Debt.GrowthMode.PrincipalBase>Com base no principal atual</USAC.Debt.GrowthMode.PrincipalBase>
+  <USAC.Debt.GrowthMode.WealthBase>Com base na riqueza do mapa</USAC.Debt.GrowthMode.WealthBase>
+  <USAC.Debt.LeaseDrill>Taxa de locação da broca de assalto orbital da USAC</USAC.Debt.LeaseDrill>
+  <USAC.Debt.Log.LegacyMigrated>[USAC] Dados de dívida legados migrados para o novo sistema de contratos</USAC.Debt.Log.LegacyMigrated>
+  <USAC.Debt.Message.ContractSettled>[USAC] {0} quitado integralmente!</USAC.Debt.Message.ContractSettled>
+  <USAC.Debt.Message.CreditDanger>[USAC] Sua pontuação de crédito caiu para um nível perigoso. O canal comercial da USAC será fechado em breve.</USAC.Debt.Message.CreditDanger>
+  <USAC.Debt.Message.CreditPenalty>[USAC] Pagamento em atraso de empréstimo com garantia de crédito: pontuação de crédito -25 (agora {0})</USAC.Debt.Message.CreditPenalty>
+  <USAC.Debt.Message.CycleProcessed>[USAC] {0}: principal +₿{1}, juros do ciclo ₿{2}</USAC.Debt.Message.CycleProcessed>
+  <USAC.Debt.Message.ForceCollectPausedByShield>[USAC] A colônia-alvo está sob escudo orbital. A cobrança forçada foi adiada.</USAC.Debt.Message.ForceCollectPausedByShield>
+  <USAC.Debt.Message.GripperDestroyedPenalty>[USAC] Garra orbital destruída! Uma taxa de ₿{0} foi adicionada à sua conta.</USAC.Debt.Message.GripperDestroyedPenalty>
+  <USAC.Debt.Message.GripperTargetLost>[USAC] Falha na captura com garra orbital: alvo perdido.</USAC.Debt.Message.GripperTargetLost>
+  <USAC.Debt.Message.InterestPaid>[USAC] Juros de {0} pagos integralmente</USAC.Debt.Message.InterestPaid>
+  <USAC.Debt.Message.OrganHarvested>[USAC] Cobrança por hipoteca de órgãos executada: órgãos colhidos de {0}, valor ₿{1}</USAC.Debt.Message.OrganHarvested>
+  <USAC.Debt.Message.PawnDemolished>[USAC] Liquidação da dívida executada: {0} foi completamente desmontado(a).</USAC.Debt.Message.PawnDemolished>
+  <USAC.Debt.Renewal>Taxa de renovação do link de banda larga temporário para {0}</USAC.Debt.Renewal>
+  <USAC.Debt.ScenPart.DebtType>Tipo de dívida:</USAC.Debt.ScenPart.DebtType>
+  <USAC.Debt.ScenPart.DynamicLoanReserved>Crédito dinâmico (reservado)</USAC.Debt.ScenPart.DynamicLoanReserved>
+  <USAC.Debt.ScenPart.GrowthBase>Base de crescimento:</USAC.Debt.ScenPart.GrowthBase>
+  <USAC.Debt.ScenPart.GrowthRatePct>Taxa de crescimento por ciclo (%):</USAC.Debt.ScenPart.GrowthRatePct>
+  <USAC.Debt.ScenPart.InitialDebt>Principal da dívida inicial:</USAC.Debt.ScenPart.InitialDebt>
+  <USAC.Debt.ScenPart.InterestRatePct>Taxa de juros por ciclo (%):</USAC.Debt.ScenPart.InterestRatePct>
+  <USAC.Debt.ScenPart.Summary>USAC {0}: ₿{1}\nCrescimento por ciclo: {2}% ({3})\nJuros por ciclo: {4}%</USAC.Debt.ScenPart.Summary>
+  <USAC.Debt.Transaction.CycleInterest>Juros do ciclo de {0}</USAC.Debt.Transaction.CycleInterest>
+  <USAC.Debt.Transaction.ForceCollect>{0} cobrança forçada (pagamento em atraso nº {1})</USAC.Debt.Transaction.ForceCollect>
+  <USAC.Debt.Transaction.GripperDestroyed>Garra orbital destruída (compensação por danos)</USAC.Debt.Transaction.GripperDestroyed>
+  <USAC.Debt.Transaction.InterestPayment>Pagamento de juros de {0}</USAC.Debt.Transaction.InterestPayment>
+  <USAC.Debt.Transaction.MissedPayment>{0} pagamento em atraso nº {1}; juros incorporados ao principal</USAC.Debt.Transaction.MissedPayment>
+  <USAC.Debt.Transaction.PrincipalGrowth>Crescimento do principal de {0} ({1}%)</USAC.Debt.Transaction.PrincipalGrowth>
+  <USAC.Debt.Transaction.PrincipalRepay>Amortização do principal de {0}</USAC.Debt.Transaction.PrincipalRepay>
+  <USAC.Debt.Transaction.RepaySurcharge>Sobretaxa de amortização excedente de {0}</USAC.Debt.Transaction.RepaySurcharge>
+  <USAC.Debt.Transaction.ScenarioStart>Início do cenário {0}</USAC.Debt.Transaction.ScenarioStart>
+  <USAC.Debt.Transaction.SignContract>Contrato {0} assinado</USAC.Debt.Transaction.SignContract>
+  <USAC.Debt.Type.DynamicLoan>Crédito dinâmico</USAC.Debt.Type.DynamicLoan>
+  <USAC.Debt.Type.Unknown>Contrato desconhecido</USAC.Debt.Type.Unknown>
+  <USAC.Debt.Type.WholeMortgage>Hipoteca integral</USAC.Debt.Type.WholeMortgage>
+  <USAC.Ending.Liquidation.Body>O alarme estridente foi abruptamente cortado por um guincho vindo dos céus. Você ergueu os olhos e viu dezenas de enormes grampos de aço atravessarem as nuvens, deixando rastros alaranjados para trás. Com um estrondo violento de metal, o teto sob seus pés se despedaçou, e, entre a fumaça e a poeira, o zumbido pesado das garras hidráulicas se fechando foi a última coisa que você ouviu de sua casa. Você sentiu-se agarrado e arrastado para cima, com o rosto envolto por uma máscara de oxigênio gelada e por spray selante. Os propulsores acenderam novamente e a gravidade se inverteu por completo. Você viu as plantações que cuidara, os tijolos que assentara com suas próprias mãos e seus companheiros apavorados sumirem abaixo de você...\n\nOu melhor, foi você quem subia, cada vez mais rápido, em direção ao espaço...</USAC.Ending.Liquidation.Body>
+  <USAC.Ending.Liquidation.CapturedAssets>{0} foi entregue como garantia contra pagamentos em atraso.</USAC.Ending.Liquidation.CapturedAssets>
+  <USAC.Ending.Liquidation.Close>A poeira baixou. A terra silencia mais uma vez, aguardando a próxima alma infeliz.</USAC.Ending.Liquidation.Close>
+  <USAC.Ending.Liquidation.Ending>"A dívida foi dada como perdida."</USAC.Ending.Liquidation.Ending>
+  <USAC.Ending.Liquidation.FinancialReport>Resumo financeiro da liquidação de ativos:</USAC.Ending.Liquidation.FinancialReport>
+  <USAC.Ending.Liquidation.Intro>O processo começou. Os ativos-alvo foram localizados, e o Departamento de Gestão de Dívidas dará início à liquidação final. Tudo está sendo feito em conformidade com as regulamentações.</USAC.Ending.Liquidation.Intro>
+  <USAC.Ending.Liquidation.Loading>Gerando certificado de liquidação...</USAC.Ending.Liquidation.Loading>
+  <USAC.Ending.Liquidation.Title>LIQUIDAÇÃO_CONCLUÍDA//Confirmação de liquidação de ativos</USAC.Ending.Liquidation.Title>
+  <USAC.Ending.Liquidation.TotalDebtLiquidated>Valor total baixado</USAC.Ending.Liquidation.TotalDebtLiquidated>
+  <USAC.Ending.Settled.Close>Seu histórico de crédito foi arquivado, e o Departamento de Gestão de Dívidas encerrou o monitoramento de risco da sua conta. Confiamos que você manterá esse padrão excepcional de conformidade nos anos vindouros.</USAC.Ending.Settled.Close>
+  <USAC.Ending.Settled.CreditScore>Pontuação de crédito final: {0}</USAC.Ending.Settled.CreditScore>
+  <USAC.Ending.Settled.Ending>"O contrato se encerra. A prosperidade perdura."</USAC.Ending.Settled.Ending>
+  <USAC.Ending.Settled.Intro>Prezado cidadão interestelar,\n\nTemos o prazer de informar que todos os contratos garantidos por ativos registrados junto ao Departamento de Gestão de Dívidas foram formalmente baixados. Ao longo de um processo de quitação longo e árduo, você demonstrou um nível excepcional de comprometimento. Apesar dos riscos imprevisíveis deste mundo da borda, você provou que o crédito é a moeda mais universalmente aceita de todas.</USAC.Ending.Settled.Intro>
+  <USAC.Ending.Settled.Loading>Gerando relatório de quitação...</USAC.Ending.Settled.Loading>
+  <USAC.Ending.Settled.Title>DÍVIDA_QUITADA//Relatório de baixa da dívida</USAC.Ending.Settled.Title>
+  <USAC.Ending.Transfer.BuyoutFail>Pagamento falhou: a prata neste mapa ({0}) não é suficiente para quitar a dívida ({1}). Prepare-se para o ataque.</USAC.Ending.Transfer.BuyoutFail>
+  <USAC.Ending.Transfer.BuyoutSuccess>{0} recebeu a prata e todas as suas dívidas foram quitadas integralmente, conforme a lei interestelar.</USAC.Ending.Transfer.BuyoutSuccess>
+  <USAC.Ending.Transfer.CountdownLabel>Transferência de dívida em vigor</USAC.Ending.Transfer.CountdownLabel>
+  <USAC.Ending.Transfer.CountdownText>A USAC encerrou formalmente seu contrato de dívida. {0} agora detém o direito de dispor de todos os seus bens e emitiu um ultimato: uma operação completa de apreensão começará em {1} dias.</USAC.Ending.Transfer.CountdownText>
+  <USAC.Ending.Transfer.Credits.Body>Observação: o Departamento de Gestão de Dívidas sempre busca eficiência e equilíbrio. Quando o custo de cobrir um risco supera seu retorno, transferir o pacote de ativos para um terceiro local com capacidade para recebê-lo é um procedimento padrão.\n\nObrigado por ser nosso cliente de crédito. Desejamos sorte na reestruturação de seus ativos.</USAC.Ending.Transfer.Credits.Body>
+  <USAC.Ending.Transfer.Credits.Close>"O vínculo financeiro foi desconectado com segurança."</USAC.Ending.Transfer.Credits.Close>
+  <USAC.Ending.Transfer.Credits.Intro>{0} comprou sua dívida, avaliada em ₿{1}, do Departamento de Gestão de Dívidas no mercado secundário.</USAC.Ending.Transfer.Credits.Intro>
+  <USAC.Ending.Transfer.Credits.Title>ATRIBUIÇÃO_DA_DÍVIDA//Relatório de transferência de créditos</USAC.Ending.Transfer.Credits.Title>
+  <USAC.Ending.Transfer.NegotiationText>Dada a sua interferência não autorizada no processo de cobrança, o Departamento de Gestão de Dívidas julgou o custo para quitar esta dívida inadimplente como excessivo. Seu pacote de dívidas foi vendido a terceiros: {0}.\n\nDevido à mudança na natureza da dívida, as multas por atraso elevaram suas pendências para {2} de prata. O vínculo financeiro será encerrado formalmente em 24 horas. Após isso, seu histórico de crédito deixará de existir - restando apenas um novo credor, com uma reivindicação aberta sobre seus bens.</USAC.Ending.Transfer.NegotiationText>
+  <USAC.Ending.Transfer.NegotiationTitle>Aviso de venda de dívida</USAC.Ending.Transfer.NegotiationTitle>
+  <USAC.Ending.Transfer.Option.Pay>Pagar ao novo credor em prata ({0})</USAC.Ending.Transfer.Option.Pay>
+  <USAC.Ending.Transfer.Option.Refuse>Recusar. Preparar-se para a liquidação em {0} dias.</USAC.Ending.Transfer.Option.Refuse>
+  <USAC.Ending.Transfer.SiegeStartLabel>Apreensão de bens em andamento</USAC.Ending.Transfer.SiegeStartLabel>
+  <USAC.Ending.Transfer.SiegeStartText>A equipe armada de cobrança enviada por {0} chegou. Eles pretendem quebrar sua vontade com ataques implacáveis nos próximos {1} dias. Resista ou pague com sangue.</USAC.Ending.Transfer.SiegeStartText>
+  <USAC.Ending.Transfer.SilverBuyout.Body>{0} confirma o recebimento de {1} de prata na íntegra. O status da sua dívida foi atualizado para "quitada".\n\nPor um momento, os dados que circulavam pela rede orbital de liquidação da USAC travaram. O departamento de gestão de dívidas verificou a legalidade da transação várias vezes, mas ainda não conseguia entendê-la. Você tinha uma enorme reserva de prata e incontáveis formas de convertê-la em instrumentos reconhecidos pelo nosso sistema, e mesmo assim ficou parado em ciclo de liquidação após ciclo de liquidação, esperando a transferência da dívida para, só então, quitá-la integralmente à vista.\n\nA prata é praticamente inútil para a rede orbital de liquidação da USAC — nossos sistemas reconhecem apenas credenciais de pagamento específicas. Mas {0} claramente não se importa. Eles vão inserir essa prata na rede de comércio local e recuperar seus custos por meio de uma longa e ineficiente cadeia de revendas. Para uma facção que acabara de assumir um ativo não performático, esse ganho inesperado foi o suficiente para deixar seu diretor financeiro encarando a parede por três minutos inteiros.\n\nOperações como essa são extremamente raras em nossos registros. Normalmente, apenas dois tipos de pessoas tentam algo assim: talentos financeiros que encontram uma janela de arbitragem na área cinzenta da transferência de dívidas, ou apostadores que gostam de ser caçados por dinheiro, provando da maneira mais cara possível que as regras são meras sugestões quando se é rico o bastante.\n\nSeja qual for o seu caso, você provou uma coisa: neste mundo da orla, sempre haverá alguém que alcançará seu objetivo pelo caminho mais absurdo possível.</USAC.Ending.Transfer.SilverBuyout.Body>
+  <USAC.Ending.Transfer.SilverBuyout.Close>O Departamento de Gestão de Dívidas arquivou este caso como "comportamento atípico de quitação" e recomenda que futuros modelos de risco considerem "adiamento deliberado, mesmo com capacidade para pagar."\n\nA poeira baixou. Seu histórico de crédito foi removido do sistema, substituído por uma única e fria entrada: "Quitada (quitação em prata)."</USAC.Ending.Transfer.SilverBuyout.Close>
+  <USAC.Ending.Transfer.SilverBuyout.Ending>"Rico e obstinado."</USAC.Ending.Transfer.SilverBuyout.Ending>
+  <USAC.Ending.Transfer.SilverBuyout.Title>ACORDO_EM_PRATA//Relatório de quitação em prata</USAC.Ending.Transfer.SilverBuyout.Title>
+  <USAC.Ending.Transfer.Victory.Body>Você resolveu seus problemas financeiros da maneira mais antiga e completa que existe: matou os credores.\n\nApós dias de defesa sangrenta, eles finalmente entenderam que cobrar de um bando de colonos fanáticos e armados até os dentes era um negócio ruinoso. Quando o último esquadrão de comando recuou, as algemas da dívida se romperam para sempre. A liberdade sempre tem um preço, e você o pagou integralmente - com o sangue de seus credores.</USAC.Ending.Transfer.Victory.Body>
+  <USAC.Ending.Transfer.Victory.Close>"A dívida se foi."</USAC.Ending.Transfer.Victory.Close>
+  <USAC.Ending.Transfer.Victory.Title>GUERRA_DA_DÍVIDA//A guerra final da dívida</USAC.Ending.Transfer.Victory.Title>
+  <USAC.Ending.Transfer.VictoryLabel>Dívida cancelada</USAC.Ending.Transfer.VictoryLabel>
+  <USAC.Ending.Transfer.VictoryText>Após pagar um preço alto, {0} abandonou formalmente a cobrança desta dívida - as perdas foram simplesmente grandes demais. Sua dívida agora está marcada como "vencida e anulada", e nenhuma facção o incomodará por ela novamente.</USAC.Ending.Transfer.VictoryText>
+  <USAC.Message.AutoRenewFailed>[USAC] Renovação suspensa: a renovação automática para {0} foi desativada devido à insuficiência de reservas de títulos de crédito dentro do alcance do farol.</USAC.Message.AutoRenewFailed>
+  <USAC.Message.AutoRenewed>[USAC] Renovado automaticamente: o link para {0} foi estendido por 30 ciclos.</USAC.Message.AutoRenewed>
+  <USAC.Message.InsufficientBonds>[USAC] Pagamento falhou: reservas insuficientes de títulos de crédito dentro do alcance do farol comercial.</USAC.Message.InsufficientBonds>
+  <USAC.Message.InsufficientBondsForLease>[USAC] Locação suspensa: suas reservas de títulos de crédito não podem cobrir a duração inicial de locação selecionada.</USAC.Message.InsufficientBondsForLease>
+  <USAC.Message.LeaseAutoRenewFailed>[USAC] Renovação falhou: reservas insuficientes de títulos de crédito próximas ao farol orbital. A renovação automática foi desativada para esta plataforma, e a cobrança programada será realizada.</USAC.Message.LeaseAutoRenewFailed>
+  <USAC.Message.LeaseAutoRenewed>[USAC] Renovado automaticamente: a locação da plataforma de mineração foi estendida por 24 horas através da rede orbital de assentamentos.</USAC.Message.LeaseAutoRenewed>
+  <USAC.Message.Renewed>[USAC] Renovação concluída: um link de banda larga de 30 ciclos foi renovado para {0}.</USAC.Message.Renewed>
+  <USAC.Message.TraderArrived>[USAC] Nave de comércio em posição: a nave de comércio orbital da USAC está pronta para negociar.</USAC.Message.TraderArrived>
+  <USAC.Message.TraderCalled>[USAC] Solicitação aceita: uma nave de comércio orbital da USAC está a caminho e deve chegar em cerca de uma hora.</USAC.Message.TraderCalled>
+  <USAC.Settings.EnableUSACTerminal>Ativar terminal de comércio da USAC e janela de acordo</USAC.Settings.EnableUSACTerminal>
+  <USAC.Settings.EnableUSACTerminalDesc>Se ativado, o console de comunicações padrão será interceptado e o acordo da USAC aparecerá antes da primeira negociação. Se você recusar o acordo no jogo, esta opção será desmarcada automaticamente. Se desativado, o jogo reverterá permanentemente para a interface de negociação padrão ou de terceiros.</USAC.Settings.EnableUSACTerminalDesc>
+  <USAC.Terms.Accept>Aceitar acordo</USAC.Terms.Accept>
+  <USAC.Terms.Content>CONTRATO MESTRE DE USO E SERVIÇO DO TERMINAL DE COMÉRCIO DA USAC\n\nEste contrato é celebrado entre o usuário (doravante denominado "Usuário") e a United.Stellar.Armament.Company (doravante denominada "USAC" ou "Empresa"), sendo juridicamente vinculativo. Ao conectar-se voluntariamente ou utilizar os segmentos de comunicação, portas do sistema e cadeias de resposta logística da Empresa (em conjunto, o "Serviço"), considera-se que o Usuário leu, compreendeu e concordou incondicionalmente em se vincular a todos os termos deste contrato e a quaisquer alterações posteriores.\n\n1. Coleta de Dados e Aviso de Privacidade\n 1.1 Autorização para a coleta de dados. O Usuário concorda que, como condição necessária para que a USAC forneça e otimize o Serviço, a Empresa coletará continuamente dados operacionais por meio de sua rede de telemetria, incluindo, sem limitação, logs do sistema, registros de interação e amostragem aleatória em tempo real de sinais vitais à base de carbono, meios ambientais e fragmentos genéticos dentro da área defendida pelo Usuário (em conjunto, os "Dados de Telemetria Preliminares").\n 1.2 Titularidade dos dados e derivados. Todas as amostras físicas, modelos analíticos e a propriedade intelectual relacionada gerados a partir dos Dados de Telemetria Preliminares são adquiridos exclusivamente e pertencem integralmente à USAC. O Usuário, por meio deste instrumento, concede à USAC direitos completos, irrevogáveis, isentos de royalties e abrangentes, cobrindo todos os setores estelares envolvidos nos serviços da Empresa.\n\n2. Disponibilidade do Serviço e Força Maior\n 2.1 Limites de capacidade do serviço. A USAC envidará esforços comercialmente razoáveis para manter o funcionamento normal dos serviços de comunicação e logística. A Empresa não se responsabiliza por descumprimento, nem por falhas pré-contratuais, decorrentes de transmissão ou despacho degradados causados por fatores objetivos não atribuíveis diretamente à Empresa, incluindo constantes físicas anormais no espaço profundo, oclusão orbital ou sobrecarga de equipamentos.\n 2.2 Direitos de recuperação de ativos em circunstâncias extremas. Em caso de reestruturação financeira extrema ou retirada de sistemas estratégicos de defesa, a USAC reserva-se o direito, sem aviso prévio, de recuperar e realocar à força instalações armadas e recursos que tenham sido entregues, mas ainda não consumidos efetivamente, a fim de preservar a redundância básica e os interesses gerais da Empresa. O Usuário não poderá apresentar reclamações ou alegar descumprimento com base neste dispositivo.\n\n3. Termos de Envio e Entrega\n 3.1 Entrega de materiais rotineiros e pessoal. Para alocações de pessoal e materiais não destinados à construção, a USAC utilizará, conforme as condições operacionais, módulos de cápsula de lançamento orbital como veículo de entrega padrão. As coordenadas de pouso são determinadas automaticamente a partir dos dados de telemetria preliminares em nós de órbita alta, e a Empresa não garante desvios menores ou precisão absoluta no ponto final de pouso.\n 3.2 Implantação orbital de bens estruturais. Para todos os arranjos defensivos, unidades construtivas pré-fabricadas e instalações estruturais equivalentes cobertas por este contrato (em conjunto, os "Bens Estruturais"), independentemente de seu tamanho ou massa, a USAC exigirá, uniformemente, a entrega vertical por sobrevoo, com ou sem amortecimento, por meio de uma braçadeira de transporte orbital.\n 3.3 Impactos derivados da entrega e renúncia à responsabilidade. O Usuário compreende e reconhece que, devido às características técnicas objetivas dos métodos de entrega balística orbital e das tecnologias de ancoragem por braçadeira descritas acima, o processo de entrega inclui necessariamente as seguintes limitações físicas:\n a. Efeitos ambientais incidentais. Durante a execução logística, o pouso do objeto e o desprendimento do transportador, incluindo a liberação da braçadeira, é inevitável que ocorram certos níveis de acomodação da crosta, propagação de tensões estruturais, projeção de detritos e descarga térmica (em conjunto, os "Efeitos Ambientais Incidentais").\n b. Isenção de responsabilidade por danos físicos e perdas consequenciais. Na máxima extensão permitida pela lei aplicável, a USAC e seus transportadores não se responsabilizam pela reparação, restauração ou compensação financeira por consequências diretas ou indiretas decorrentes da execução logística, dos Efeitos Ambientais Incidentais ou da capacidade de suporte insuficiente no local de pouso, incluindo ferimentos acidentais ou morte de pessoal ou gado, destruição ou perda de estruturas existentes e esgotamento de recursos naturais, incluindo vegetação e depósitos minerais. Todos os riscos explícitos e implícitos decorrentes da entrega são assumidos exclusivamente pelo Usuário.\n c. Transferência de ativos identificados. Para todas as entidades entregues equipadas com protocolos autônomos de defesa ou lógica armada de identificação, incluindo veículos defensivos e funcionários bioquímicos, o risco operacional e a responsabilidade legal são transferidos à parte receptora no momento em que estas saem completamente do controle de órbita próxima da USAC ("transferência em solo"). Perdas dentro da base do Usuário ou incidentes de fogo amigo causados por erro de identificação ou ativação de resposta hostil serão considerados de responsabilidade da implantação no local e da gestão de manutenção da parte receptora, e a USAC não aceitará reclamações relacionadas.\n\n4. Regras de Liquidação e Tratamento de Inadimplência\n 4.1 Preços e pagamento. Todas as funções do serviço são regidas por regras de cobrança predefinidas, e o Usuário deve pagar o preço integral listado pelo sistema em tokens aprovados.\n 4.2 Liquidação em atraso e pagamento em bens. Caso o Usuário não efetue o pagamento integral dentro do período de carência, a USAC poderá iniciar procedimentos não judiciais de sub-rogação compulsória. Para recuperar o principal em atraso e os custos de cobrança, a USAC poderá, sem interferência de medidas cautelares locais, congelar e remover à força ativos físicos transferíveis dentro da jurisdição efetiva do Usuário, incluindo, sem limitação, reservas estratégicas de metais preciosos, mão de obra biológica qualificada e tecidos, conjuntos derivados de órgãos e unidades mecânicas recuperáveis sucateadas.\n\n5. Compromissos de Conformidade e Restrições de Uso\nDurante o período de validade da autorização do Serviço, é expressamente proibido ao Usuário realizar ou auxiliar terceiros a realizar as seguintes ações:\n 5.1 Atos proibidos.\n a. Disseminar ou introduzir protocolos de identidade falsos não verificáveis para evadir a autenticação e a avaliação de crédito.\n b. Fazer engenharia reversa ou desmontar componentes contratados para penetrar ou sabotar a camada central da rede.\n c. Obstruir, resistir ou responder com força cinética a inspetores da linha da Empresa, equipes de avaliação de danos ou esquadrões de cobrança armados, independentemente de esses agentes terem como alvo o Usuário diretamente.\n 5.2 Rescisão por descumprimento. Qualquer violação evidente dos requisitos de conformidade acima constitui uma violação material e irreparável deste contrato. A USAC poderá rescindir unilateral e imediatamente os privilégios de comunicação e serviço e, diretamente, iniciar procedimentos de preservação de ativos e ordens de liquidação armada nos termos da Seção 4.2.\n\n6. Limitação de Responsabilidade e Interpretação Final\n 6.1 Limite exclusivo de compensação. Salvo se as partes celebrarem separadamente um acordo suplementar de isenção de bens, a responsabilidade cumulativa máxima da USAC e de seus transportadores co-signatários por quaisquer danos físicos diretos ou indiretos, incidentes de fogo amigo ou colapso total de instalações decorrentes do uso ou da impossibilidade de uso do Serviço será limitada ao reembolso do valor exato efetivamente pago pelo Usuário pelo serviço em questão. A Empresa renuncia expressamente a qualquer compensação legal por perdas desconhecidas, danos consequenciais, perda de valor prospectivo, prejuízo à boa vontade ou outros danos indiretos.\n 6.2 Direito exclusivo de interpretação. A USAC reserva-se o direito final de interpretação em caso de ambiguidade textual ou disputa sobre a aplicação deste contrato a circunstâncias específicas, e tal interpretação será vinculativa para o Usuário.</USAC.Terms.Content>
+  <USAC.Terms.Decline>Recusar</USAC.Terms.Decline>
+  <USAC.Terms.DeclineMessage>[USAC] Você recusou o contrato de usuário e não pode usar o terminal de comércio da USAC.</USAC.Terms.DeclineMessage>
+  <USAC.Terms.Title>TERMOS_DE_SERVIÇO // Contrato de Serviço do Usuário</USAC.Terms.Title>
+  <USAC.Trade.CannotLandOnBuilding>Não é possível pousar em um edifício existente</USAC.Trade.CannotLandOnBuilding>
+  <USAC.Trade.CannotOverlapWithPending>Não é possível sobrepor a uma zona de queda planejada</USAC.Trade.CannotOverlapWithPending>
+  <USAC.Trade.CannotPlace>Não é possível colocar aqui</USAC.Trade.CannotPlace>
+  <USAC.Trade.CannotPlaceUnderThickRoof>Não é possível implantar sob um telhado grosso</USAC.Trade.CannotPlaceUnderThickRoof>
+  <USAC.Trade.Currency.Bond>Títulos de crédito</USAC.Trade.Currency.Bond>
+  <USAC.Trade.Currency.Combined>{0} x{1} + {2} x{3}</USAC.Trade.Currency.Combined>
+  <USAC.Trade.Currency.CorpseBag>Sacos para cadáveres</USAC.Trade.Currency.CorpseBag>
+  <USAC.Trade.Currency.Empty>A rede orbital não detectou bens válidos dentro do alcance do farol comercial desta área.</USAC.Trade.Currency.Empty>
+  <USAC.Trade.Currency.Single>{0} x{1}</USAC.Trade.Currency.Single>
+  <USAC.Trade.DeliveriesDispatched>Todos os edifícios foram entregues pela garra de transporte.</USAC.Trade.DeliveriesDispatched>
+  <USAC.Trade.Dialog.Available>Disponível: {0}</USAC.Trade.Dialog.Available>
+  <USAC.Trade.Dialog.Cancel>Cancelar</USAC.Trade.Dialog.Cancel>
+  <USAC.Trade.Dialog.Confirm>Confirmar</USAC.Trade.Dialog.Confirm>
+  <USAC.Trade.EnableBonds>Permitir pagamento com títulos</USAC.Trade.EnableBonds>
+  <USAC.Trade.Header.Held>Em posse</USAC.Trade.Header.Held>
+  <USAC.Trade.Header.Item>Item</USAC.Trade.Header.Item>
+  <USAC.Trade.Header.Price>Preço</USAC.Trade.Header.Price>
+  <USAC.Trade.Header.Stock>Estoque</USAC.Trade.Header.Stock>
+  <USAC.Trade.NoActiveTrades>Nenhuma transação ainda</USAC.Trade.NoActiveTrades>
+  <USAC.Trade.NotEnoughCurrency>Pagamento falhou: não há moeda suficiente (sacos para cadáveres ou títulos) dentro do alcance do farol comercial para quitar esta conta.</USAC.Trade.NotEnoughCurrency>
+  <USAC.Trade.PlaceDelivery>Selecione um local de implantação para {0}</USAC.Trade.PlaceDelivery>
+  <USAC.Trade.PlayerItems>Itens da colônia</USAC.Trade.PlayerItems>
+  <USAC.Trade.PriorityBonds>Priorizar pagamento com títulos</USAC.Trade.PriorityBonds>
+  <USAC.Trade.SearchPlaceholder>Pesquisar itens, categorias ou descrições...</USAC.Trade.SearchPlaceholder>
+  <USAC.Trade.SelectCount>Selecione quantos {0} deseja negociar.</USAC.Trade.SelectCount>
+  <USAC.Trade.SelectPlacement>Selecione um local de implantação para {0} (pressione Q/E para girar).</USAC.Trade.SelectPlacement>
+  <USAC.Trade.Summary>Resumo da transação</USAC.Trade.Summary>
+  <USAC.Trade.Summary.After>Após a transação</USAC.Trade.Summary.After>
+  <USAC.Trade.Summary.AfterRemain>Restante</USAC.Trade.Summary.AfterRemain>
+  <USAC.Trade.Summary.AfterTransaction>Após</USAC.Trade.Summary.AfterTransaction>
+  <USAC.Trade.Summary.Buy>Comprando</USAC.Trade.Summary.Buy>
+  <USAC.Trade.Summary.BuyingFrom>Comprando de: {0}</USAC.Trade.Summary.BuyingFrom>
+  <USAC.Trade.Summary.Current>Bens atuais</USAC.Trade.Summary.Current>
+  <USAC.Trade.Summary.CurrentAssets>Atuais</USAC.Trade.Summary.CurrentAssets>
+  <USAC.Trade.Summary.IncludeWastage>incl. ₿{0} perdido como troco</USAC.Trade.Summary.IncludeWastage>
+  <USAC.Trade.Summary.Net>Despesa líquida</USAC.Trade.Summary.Net>
+  <USAC.Trade.Summary.NoChange>Sem alteração nos bens</USAC.Trade.Summary.NoChange>
+  <USAC.Trade.Summary.Sell>Vendendo</USAC.Trade.Summary.Sell>
+  <USAC.Trade.Summary.SellingTo>Vendendo para: {0}</USAC.Trade.Summary.SellingTo>
+  <USAC.Trade.Summary.Settlement>Assentamento</USAC.Trade.Summary.Settlement>
+  <USAC.Trade.Summary.Tip_0>Clique no ícone de um item para ver seus detalhes.</USAC.Trade.Summary.Tip_0>
+  <USAC.Trade.Summary.Tip_1>Você disse que não queria estar aqui~ (Obras Selecionadas do Presidente da USAC, 3:43)</USAC.Trade.Summary.Tip_1>
+  <USAC.Trade.Summary.Tip_2>A USAC não divide moedas nem dá troco.</USAC.Trade.Summary.Tip_2>
+  <USAC.Trade.Summary.Tip_3>GuguGaga</USAC.Trade.Summary.Tip_3>
+  <USAC.Trade.Summary.Tip_4>Clique na caixa de entrada para digitar um número exato.</USAC.Trade.Summary.Tip_4>
+  <USAC.Trade.Summary.Wastage>Perdido como troco: ₿{0}</USAC.Trade.Summary.Wastage>
+  <USAC.Trade.Terminal>TERMINAL_COMERCIAL//Terminal de comércio orbital</USAC.Trade.Terminal>
+  <USAC.Trade.TraderItems>Itens do comerciante</USAC.Trade.TraderItems>
+  <USAC.UI.Assets.AccessDenied>ACESSO_NEGADO//ACESSO NEGADO.\n\n Permissão insuficiente para acessar...</USAC.UI.Assets.AccessDenied>
+  <USAC.UI.Assets.ActiveContracts>CONTRATOS_ATIVOS // Contratos ativos</USAC.UI.Assets.ActiveContracts>
+  <USAC.UI.Assets.Apply.Confirm>Assinar o contrato</USAC.UI.Assets.Apply.Confirm>
+  <USAC.UI.Assets.Apply.Title>APLICAÇÃO_DE_PRECIFICAÇÃO_DE_RISCO // Aplicação de precificação de risco</USAC.UI.Assets.Apply.Title>
+  <USAC.UI.Assets.Apply.Warning>Aviso: você está trocando juros mais altos e taxas de risco por uma linha de crédito maior. Uma vez assinado, o sistema orbital de cobrança da USAC aplica este contrato sem exceções. Qualquer atraso no pagamento aciona a apreensão de ativos.</USAC.UI.Assets.Apply.Warning>
+  <USAC.UI.Assets.Block.LowCredit>Pontuação de crédito muito baixa (30 necessária). O financiamento foi desativado.</USAC.UI.Assets.Block.LowCredit>
+  <USAC.UI.Assets.Block.LowWealth>A avaliação dos seus ativos está muito baixa para o limite solicitado. Aumente o plano de taxas para passar na avaliação.</USAC.UI.Assets.Block.LowWealth>
+  <USAC.UI.Assets.BondsNeeded>{0} títulos de crédito necessários</USAC.UI.Assets.BondsNeeded>
+  <USAC.UI.Assets.BondsOwned>Títulos de crédito em posse: {0}</USAC.UI.Assets.BondsOwned>
+  <USAC.UI.Assets.Contract.Details>ESPECIFICAÇÕES_DO_CONTRATO // Especificações do contrato</USAC.UI.Assets.Contract.Details>
+  <USAC.UI.Assets.Contract.ID>ID do contrato: {0}</USAC.UI.Assets.Contract.ID>
+  <USAC.UI.Assets.Contract.PaidQuarter>Pago neste trimestre: ₿{0}</USAC.UI.Assets.Contract.PaidQuarter>
+  <USAC.UI.Assets.Contract.Status>Status de execução: [ EM_VIGOR / Em andamento ]</USAC.UI.Assets.Contract.Status>
+  <USAC.UI.Assets.Contract.Type>Modo de garantia: {0}</USAC.UI.Assets.Contract.Type>
+  <USAC.UI.Assets.CreditLevel>Nível de crédito atual: [NÃO_REGISTRADO / NENHUM]</USAC.UI.Assets.CreditLevel>
+  <USAC.UI.Assets.CreditScore>Pontuação de crédito: {0}</USAC.UI.Assets.CreditScore>
+  <USAC.UI.Assets.CurrentWealth>Riqueza atual do mapa: ₿{0}</USAC.UI.Assets.CurrentWealth>
+  <USAC.UI.Assets.Cycle>Por ciclo</USAC.UI.Assets.Cycle>
+  <USAC.UI.Assets.CycleForecast>PREVISÃO_POR_CICLO // Previsão por ciclo</USAC.UI.Assets.CycleForecast>
+  <USAC.UI.Assets.GrowthForecast>PREVISÃO_DE_CRESCIMENTO // Previsão de crescimento do principal</USAC.UI.Assets.GrowthForecast>
+  <USAC.UI.Assets.GrowthMode.Principal>Aumento do principal = principal atual × {0}% por ciclo</USAC.UI.Assets.GrowthMode.Principal>
+  <USAC.UI.Assets.GrowthMode.PrincipalBased>Cresce com o principal atual (×{0}%/ciclo)</USAC.UI.Assets.GrowthMode.PrincipalBased>
+  <USAC.UI.Assets.GrowthMode.Wealth>Aumento do principal = riqueza do mapa × {0}% por ciclo</USAC.UI.Assets.GrowthMode.Wealth>
+  <USAC.UI.Assets.GrowthMode.WealthBased>Cresce com a riqueza do mapa (×{0}%/ciclo)</USAC.UI.Assets.GrowthMode.WealthBased>
+  <USAC.UI.Assets.GrowthNote>O crescimento do principal é adicionado diretamente ao principal a cada ciclo</USAC.UI.Assets.GrowthNote>
+  <USAC.UI.Assets.GrowthRate>Taxa de risco por ciclo</USAC.UI.Assets.GrowthRate>
+  <USAC.UI.Assets.Imminent>Liquidação iminente</USAC.UI.Assets.Imminent>
+  <USAC.UI.Assets.Interest>Juros atuais</USAC.UI.Assets.Interest>
+  <USAC.UI.Assets.InterestPaid>✓ Nenhum juro pendente neste período</USAC.UI.Assets.InterestPaid>
+  <USAC.UI.Assets.InterestPanel.Title>LIQUIDAÇÃO_DE_JUROS // Liquidação de juros</USAC.UI.Assets.InterestPanel.Title>
+  <USAC.UI.Assets.InterestRate>Taxa de juros do plano base</USAC.UI.Assets.InterestRate>
+  <USAC.UI.Assets.MaxAmount>Limite de crédito: ₿{0}</USAC.UI.Assets.MaxAmount>
+  <USAC.UI.Assets.MissedWarning>⚠ Pagamentos em atraso: {0}! Mais um aciona a cobrança forçada!</USAC.UI.Assets.MissedWarning>
+  <USAC.UI.Assets.Negotiation.Available>Nossos sistemas detectaram fluxo de caixa positivo em sua conta. O Departamento de Gestão de Dívidas autorizou uma janela de recuperação de ativos de "segunda chance". Podemos discutir como reconstruir nossa parceria.</USAC.UI.Assets.Negotiation.Available>
+  <USAC.UI.Assets.Negotiation.Btn>Enviar solicitação de restauração de ativos e quitação da inadimplência</USAC.UI.Assets.Negotiation.Btn>
+  <USAC.UI.Assets.Negotiation.Locked>Sob a Lei Patriótica de Segurança Financeira, sua conta está atualmente sob controle punitivo. Devemos observar pelo menos duas ações consecutivas de cumprimento proativo (progresso atual: {0}/2) antes que um oficial de conformidade intervenha para reavaliar seu risco. Por favor, continue demonstrando seu comprometimento.</USAC.UI.Assets.Negotiation.Locked>
+  <USAC.UI.Assets.Negotiation.Success>Parabéns. Sua renúncia à inadimplência foi aprovada. Reavaliamos seu modelo de risco e seu acesso financeiro foi restaurado ao nível padrão. Lembre-se: crédito vale mais que a vida.</USAC.UI.Assets.Negotiation.Success>
+  <USAC.UI.Assets.Negotiation.Title>ACORDO_QUASE_LEGAL//Proposta de quitação da inadimplência</USAC.UI.Assets.Negotiation.Title>
+  <USAC.UI.Assets.NextInterest>Juros do próximo ciclo</USAC.UI.Assets.NextInterest>
+  <USAC.UI.Assets.NextSettlement>Tempo até a liquidação</USAC.UI.Assets.NextSettlement>
+  <USAC.UI.Assets.NoAgreement>Aviso: não há acordo válido de garantia de ativos registrado.</USAC.UI.Assets.NoAgreement>
+  <USAC.UI.Assets.PayInterest>Pagar juros ({0} títulos de crédito)</USAC.UI.Assets.PayInterest>
+  <USAC.UI.Assets.Principal>Principal pendente</USAC.UI.Assets.Principal>
+  <USAC.UI.Assets.QuarterFree>Abatimento trimestral gratuito</USAC.UI.Assets.QuarterFree>
+  <USAC.UI.Assets.Repay>Amortizar principal ({0} títulos de crédito)</USAC.UI.Assets.Repay>
+  <USAC.UI.Assets.RepayPanel.Title>AMORTIZAÇÃO_DO_PRINCIPAL // Amortização do principal</USAC.UI.Assets.RepayPanel.Title>
+  <USAC.UI.Assets.RepaySurcharge>Amortizar principal ({0} títulos de crédito, incl. {1} de sobretaxa)</USAC.UI.Assets.RepaySurcharge>
+  <USAC.UI.Assets.Stat.ActualInterest>Taxa de juros efetiva</USAC.UI.Assets.Stat.ActualInterest>
+  <USAC.UI.Assets.Stat.CreditDiscount>Desconto de crédito</USAC.UI.Assets.Stat.CreditDiscount>
+  <USAC.UI.Assets.Stat.CreditScore>Pontuação de crédito</USAC.UI.Assets.Stat.CreditScore>
+  <USAC.UI.Assets.Stat.Growth>Previsão da dívida</USAC.UI.Assets.Stat.Growth>
+  <USAC.UI.Assets.Stat.GrowthMode>Método de crescimento do principal</USAC.UI.Assets.Stat.GrowthMode>
+  <USAC.UI.Assets.Stat.InterestRate>Taxa de juros</USAC.UI.Assets.Stat.InterestRate>
+  <USAC.UI.Assets.Stat.MaxAmount>Limite máximo avaliado</USAC.UI.Assets.Stat.MaxAmount>
+  <USAC.UI.Assets.Stat.Principal>Vinculação ao principal</USAC.UI.Assets.Stat.Principal>
+  <USAC.UI.Assets.Stat.Wealth>Riqueza total do mapa</USAC.UI.Assets.Stat.Wealth>
+  <USAC.UI.Assets.SurchargeHint>Isenção trimestral gratuita ₿{0} (₿{4} restantes) ▸ Sobretaxa ₿{2} → Custo total ₿{3}</USAC.UI.Assets.SurchargeHint>
+  <USAC.UI.Assets.SyncStatus>Sincronizando com a rede orbital de assentamentos...</USAC.UI.Assets.SyncStatus>
+  <USAC.UI.Assets.Title>TERMINAL_DE_ATIVOS // Terminal de ativos</USAC.UI.Assets.Title>
+  <USAC.UI.Assets.TotalDebt>Dívida total: ₿{0}</USAC.UI.Assets.TotalDebt>
+  <USAC.UI.Assets.TransferLocked.Desc>Aviso de serviço: conforme o acordo de gestão de riscos e após a classificação do seu modelo de crédito como um ativo não performático, o Departamento de Gestão de Dívidas concluiu a transferência offshore desta dívida inadimplente. A liquidação desses ativos é irreversível.\n\nA USAC encerrou formalmente seu acesso à interface e sua conta foi logicamente segregada. Todos os procedimentos subsequentes de avaliação e recuperação serão realizados de forma independente pela facção fiduciária. Desejamos boa sorte em seu novo ciclo.</USAC.UI.Assets.TransferLocked.Desc>
+  <USAC.UI.Assets.TransferLocked.Title>CONTA_ENCERRADA//Confirmação de transferência offshore do pacote de ativos</USAC.UI.Assets.TransferLocked.Title>
+  <USAC.UI.Assets.Used>Usado</USAC.UI.Assets.Used>
+  <USAC.UI.Assets.Warning.Caution>Pagamentos em atraso: {0}. Sua pontuação de crédito continua caindo. Quite em breve.</USAC.UI.Assets.Warning.Caution>
+  <USAC.UI.Assets.Warning.Critical>⚠ Pagamentos em atraso: {0}! Mais um aciona imediatamente a cobrança forçada!</USAC.UI.Assets.Warning.Critical>
+  <USAC.UI.Back>&lt; VOLTAR</USAC.UI.Back>
+  <USAC.UI.Credits>CRÉDITOS</USAC.UI.Credits>
+  <USAC.UI.Detail.Btn>Ver detalhes</USAC.UI.Detail.Btn>
+  <USAC.UI.Detail.Summary>RESUMO_EXECUTIVO // Resumo executivo</USAC.UI.Detail.Summary>
+  <USAC.UI.Detail.Title>ESPECIFICAÇÃO_DO_PRODUTO // Especificação do produto</USAC.UI.Detail.Title>
+  <USAC.UI.Drill.EmptyMinerals>Compartimento de minério vazio</USAC.UI.Drill.EmptyMinerals>
+  <USAC.UI.Drill.EmptyMinerals.Desc>Ejete manualmente os minerais coletados no compartimento selado. Se o compartimento não for esvaziado antes da extração, a plataforma orbital da USAC recuperará tudo a bordo.</USAC.UI.Drill.EmptyMinerals.Desc>
+  <USAC.UI.Error.404.Text>O recurso solicitado não está registrado na intranet da USAC ou seus privilégios de acesso foram revogados.</USAC.UI.Error.404.Text>
+  <USAC.UI.Error.404.Title>CONEXÃO_PERDIDA // Conexão perdida</USAC.UI.Error.404.Title>
+  <USAC.UI.Error.ProductNotFound>Erro: produto não encontrado</USAC.UI.Error.ProductNotFound>
+  <USAC.UI.Home.Banner>UNITED STELLAR ARMAMENT COMPANY\n[INTRANET CORPORATIVA V4.2]</USAC.UI.Home.Banner>
+  <USAC.UI.Home.Bento.Assets.Desc>Gestão de ativos creditícios e alavancagem de dívidas</USAC.UI.Home.Bento.Assets.Desc>
+  <USAC.UI.Home.Bento.Assets.Title>TERMINAL_FINANCEIRO</USAC.UI.Home.Bento.Assets.Title>
+  <USAC.UI.Home.Bento.Legal.Desc>Cláusulas legais e protocolos automatizados de cobrança</USAC.UI.Home.Bento.Legal.Desc>
+  <USAC.UI.Home.Bento.Legal.Title>CONFORMIDADE</USAC.UI.Home.Bento.Legal.Title>
+  <USAC.UI.Home.Bento.Products.Desc>Catálogo de armas autorizadas e sistemas mecanizados</USAC.UI.Home.Bento.Products.Desc>
+  <USAC.UI.Home.Bento.Products.Title>CATÁLOGO_DE_ARMAMENTOS</USAC.UI.Home.Bento.Products.Title>
+  <USAC.UI.Home.Bento.Services.Desc>Suporte corporativo sob medida e manutenção remota de ativos</USAC.UI.Home.Bento.Services.Desc>
+  <USAC.UI.Home.Bento.Services.Title>SERVIÇOS_CORPORATIVOS</USAC.UI.Home.Bento.Services.Title>
+  <USAC.UI.Home.Description>A USAC lidera o setor do monopólio interestelar de recursos e do comércio armado. Por meio de nossa rede orbital de assentamentos, garantimos liquidez absoluta dos ativos.</USAC.UI.Home.Description>
+  <USAC.UI.Home.Slogan>DEFININDO O FUTURO DA SEGURANÇA PLANETÁRIA</USAC.UI.Home.Slogan>
+  <USAC.UI.Home.Title>VISÃO ESTRATÉGICA // Visão estratégica</USAC.UI.Home.Title>
+  <USAC.UI.Legal.Clause01.Desc>Em caso de inadimplência, a USAC detém direitos absolutos e prioritários de cobrança sobre todos os ativos materiais locais.</USAC.UI.Legal.Clause01.Desc>
+  <USAC.UI.Legal.Clause01.Title>Cláusula 01: Prioridade de ativos</USAC.UI.Legal.Clause01.Title>
+  <USAC.UI.Legal.Clause02.Desc>A cobrança é realizada automaticamente pelas plataformas orbitais. Nenhuma defesa manual ou solicitação de prorrogação será aceita.</USAC.UI.Legal.Clause02.Desc>
+  <USAC.UI.Legal.Clause02.Title>Cláusula 02: Aplicação automatizada</USAC.UI.Legal.Clause02.Title>
+  <USAC.UI.Legal.Footer>Aviso: ao acessar este portal, você reconhece e assina todos os acordos listados acima. A Divisão de Cobrança de Ativos da USAC não se responsabiliza por baixas civis incidentais ou danos secundários durante as operações de cobrança.</USAC.UI.Legal.Footer>
+  <USAC.UI.Legal.Ordinance>ORDENANÇA_DE_COBRANÇA_V1.1 // Ordenança de cobrança</USAC.UI.Legal.Ordinance>
+  <USAC.UI.Legal.Title>CONFORMIDADE_LEGAL // Conformidade legal</USAC.UI.Legal.Title>
+  <USAC.UI.Nav.Assets>Terminal de ativos</USAC.UI.Nav.Assets>
+  <USAC.UI.Nav.Home>Visão estratégica</USAC.UI.Nav.Home>
+  <USAC.UI.Nav.Legal>Conformidade legal</USAC.UI.Nav.Legal>
+  <USAC.UI.Nav.Products>Catálogo autorizado</USAC.UI.Nav.Products>
+  <USAC.UI.Nav.Services>Serviços corporativos</USAC.UI.Nav.Services>
+  <USAC.UI.Products.Tab.Apparel>Equipamento tático</USAC.UI.Products.Tab.Apparel>
+  <USAC.UI.Products.Tab.Mech>Pedidos de mecanoides</USAC.UI.Products.Tab.Mech>
+  <USAC.UI.Products.Tab.Supply>Suprimentos logísticos</USAC.UI.Products.Tab.Supply>
+  <USAC.UI.Products.Tab.Weapon>Armas táticas</USAC.UI.Products.Tab.Weapon>
+  <USAC.UI.Products.Title>CATÁLOGO_DE_PRODUTOS_AUTORIZADOS // Catálogo autorizado</USAC.UI.Products.Title>
+  <USAC.UI.Services.Lease.Btn>Ativar programa de aluguel</USAC.UI.Services.Lease.Btn>
+  <USAC.UI.Services.Lease.Days>Duração inicial do aluguel: {0} dias</USAC.UI.Services.Lease.Days>
+  <USAC.UI.Services.Lease.Desc>Programa de aluguel de ativos da USAC. Plataformas orbitais lançam grandes plataformas de mineração de assalto em uma zona de sua escolha, por 1.000 créditos por ciclo operacional de 24 horas. A duração do ciclo é configurável e a renovação automática é suportada.</USAC.UI.Services.Lease.Desc>
+  <USAC.UI.Services.Lease.Title>SERVIÇOS_DE_ALUGUEL // Serviços de aluguel</USAC.UI.Services.Lease.Title>
+  <USAC.UI.Services.Renewal.Btn>Renovar canal de largura de banda</USAC.UI.Services.Renewal.Btn>
+  <USAC.UI.Services.Renewal.Desc>Renova os links criptografados de largura de banda por trás de canais temporários de mecanizador. Estender a autorização de retransmissão de dados local mantém os hubs de controle de mecanoides não permanentes em funcionamento por mais tempo.</USAC.UI.Services.Renewal.Desc>
+  <USAC.UI.Services.Renewal.Header>Links temporários de largura de banda registrados</USAC.UI.Services.Renewal.Header>
+  <USAC.UI.Services.Renewal.NoMechnitor>Nenhum link temporário de largura de banda de mecanizador detectado dentro do alcance controlado.</USAC.UI.Services.Renewal.NoMechnitor>
+  <USAC.UI.Services.Renewal.Remaining>Tempo restante do link: {0}</USAC.UI.Services.Renewal.Remaining>
+  <USAC.UI.Services.Renewal.Title>RENOVAÇÃO_REMOTA // Renovação remota</USAC.UI.Services.Renewal.Title>
+  <USAC.UI.Services.Title>SERVIÇOS_CORPORATIVOS // Serviços corporativos</USAC.UI.Services.Title>
+  <USAC.UI.Services.Trader.Btn>Enviar solicitação</USAC.UI.Services.Trader.Btn>
+  <USAC.UI.Services.Trader.Desc>Envie uma solicitação prioritária de comércio pela rede orbital de assentamentos. Uma nave de comércio orbital da USAC chegará a esta área em aproximadamente uma hora.</USAC.UI.Services.Trader.Desc>
+  <USAC.UI.Services.Trader.Pending>Nave de comércio a caminho</USAC.UI.Services.Trader.Pending>
+  <USAC.UI.Services.Trader.Status.Desc>Uma nave de comércio orbital da USAC está a caminho</USAC.UI.Services.Trader.Status.Desc>
+  <USAC.UI.Services.Trader.Status.ETA>Chegada prevista: {0}</USAC.UI.Services.Trader.Status.ETA>
+  <USAC.UI.Services.Trader.Status.Title>ÓRBITA_EM_TRÂNSITO // Status de chegada da nave de comércio</USAC.UI.Services.Trader.Status.Title>
+  <USAC.UI.Services.Trader.Title>SOLICITAÇÃO_DE_TROCA_ORBITAL // Solicitação de troca orbital</USAC.UI.Services.Trader.Title>
+  <USAC.UI.Stat.ArmorBlunt>ARMADURA_CONTUNDENTE</USAC.UI.Stat.ArmorBlunt>
+  <USAC.UI.Stat.ArmorPen>PENETRAÇÃO_DE_ARMADURA</USAC.UI.Stat.ArmorPen>
+  <USAC.UI.Stat.ArmorSharp>ARMADURA_CORTANTE</USAC.UI.Stat.ArmorSharp>
+  <USAC.UI.Stat.Category>CATEGORIA</USAC.UI.Stat.Category>
+  <USAC.UI.Stat.Cooldown>TEMPO_DE_RECARGA</USAC.UI.Stat.Cooldown>
+  <USAC.UI.Stat.Damage>DANO</USAC.UI.Stat.Damage>
+  <USAC.UI.Stat.HealthFact>FATOR_DE_SAÚDE</USAC.UI.Stat.HealthFact>
+  <USAC.UI.Stat.Identifier>IDENTIFICADOR</USAC.UI.Stat.Identifier>
+  <USAC.UI.Stat.InsulCold>ISOLAMENTO_FRIO</USAC.UI.Stat.InsulCold>
+  <USAC.UI.Stat.InsulHeat>ISOLAMENTO_CALOR</USAC.UI.Stat.InsulHeat>
+  <USAC.UI.Stat.Mass>MASSA_LOGÍSTICA</USAC.UI.Stat.Mass>
+  <USAC.UI.Stat.MedPotency>POTÊNCIA_MEDICINAL</USAC.UI.Stat.MedPotency>
+  <USAC.UI.Stat.MoveSpeed>VELOCIDADE_DE_MOVIMENTO</USAC.UI.Stat.MoveSpeed>
+  <USAC.UI.Stat.Nutrition>NUTRIÇÃO</USAC.UI.Stat.Nutrition>
+  <USAC.UI.Stat.Range>ALCANCE</USAC.UI.Stat.Range>
+  <USAC.UI.Stat.SubType>SUBTIPO</USAC.UI.Stat.SubType>
+  <USAC.UI.Stat.WeightClass>CLASSE_DE_PESO</USAC.UI.Stat.WeightClass>
+  <USAC.UI.StatusBar>● TÚNEL_ATIVO // CRIPTOGRAFIA: SEGURA</USAC.UI.StatusBar>
+  <USAC.UI.Storage.Capacity>Capacidade: {0}/{1}</USAC.UI.Storage.Capacity>
+  <USAC.UI.Storage.Contents>Bens armazenados: {0}/{1}</USAC.UI.Storage.Contents>
+  <USAC.UI.Storage.NoPower>Sem energia</USAC.UI.Storage.NoPower>
+  <USAC.UI.Storage.RefrigerationActive>Refrigeração ativa</USAC.UI.Storage.RefrigerationActive>
+  <USAC_ActiveRigs>MONITOR_DE_IMPLANTAÇÃO_DE_ATIVOS // Plataformas implantadas</USAC_ActiveRigs>
+  <USAC_AirbaseSupport_LetterLabel>Ataque aéreo chegando</USAC_AirbaseSupport_LetterLabel>
+  <USAC_AirbaseSupport_LetterText>Um aeródromo temporário da USAC próximo enviou uma ala de bombardeiros táticos para suas coordenadas em apoio à ofensiva terrestre. O ataque está a segundos da área-alvo!</USAC_AirbaseSupport_LetterText>
+  <USAC_ArtillerySupport_LetterLabel>Artilharia chegando</USAC_ArtillerySupport_LetterLabel>
+  <USAC_ArtillerySupport_LetterText>Uma posição de artilharia da USAC próxima respondeu ao ataque contra sua colônia. Seus observadores marcaram seu assentamento e o bombardeio está a caminho. Proteja-se!</USAC_ArtillerySupport_LetterText>
+  <USAC_Bond_Desc>Um certificado de valor registrado, impresso em papel-fibra de alta resistência e emitido pelos comerciantes corporativos da USAC para aqueles que negociam com suas forças terrestres. Tintas especiais conferem um intrincado padrão antifalsificação, além dos dados do titular registrado.\n\nUma vez que mercadorias são compradas e equipamentos vendidos, qualquer valor residual pode ser convertido nestes certificados, garantindo poder de compra fixo para a próxima negociação. Como cada título é registrado, apenas seu titular pode gastá-lo - tornando este pedaço de papel durável praticamente inútil para qualquer outro nos confins.</USAC_Bond_Desc>
+  <USAC_Bond_Label>Títulos de crédito da USAC</USAC_Bond_Label>
+  <USAC_ControlMech>Assumir controle de {0}</USAC_ControlMech>
+  <USAC_ControlMech_NeedBandwidth>Requer {0} de largura de banda.</USAC_ControlMech_NeedBandwidth>
+  <USAC_ControlMech_NoPath>Não é possível alcançar o mecanoide.</USAC_ControlMech_NoPath>
+  <USAC_ControlMech_NotMechanitor>Não é um mecanizador.</USAC_ControlMech_NotMechanitor>
+  <USAC_CorpseBag_Contains>Contém: {0}</USAC_CorpseBag_Contains>
+  <USAC_CorpseBag_Currency>Valor do saco para cadáveres</USAC_CorpseBag_Currency>
+  <USAC_CorpseBag_CurrencyDesc>O valor total de mercado dos seus sacos para cadáveres. Os comerciantes da USAC aceitam sacos para cadáveres como moeda.</USAC_CorpseBag_CurrencyDesc>
+  <USAC_CorpseBag_Eject>Ejetar corpo</USAC_CorpseBag_Eject>
+  <USAC_CorpseBag_EjectDesc>Ejetar o corpo deste saco.</USAC_CorpseBag_EjectDesc>
+  <USAC_CorpseBag_Empty>Vazio</USAC_CorpseBag_Empty>
+  <USAC_CorpseBag_PackCorpse>Colocar {0} no saco para cadáveres</USAC_CorpseBag_PackCorpse>
+  <USAC_CorpseBag_Value>Valor: {0}</USAC_CorpseBag_Value>
+  <USAC_Coverup>Encobrimento bem-sucedido</USAC_Coverup>
+  <USAC_CrateOpened>Caixa de suprimentos aberta</USAC_CrateOpened>
+  <USAC_Currency_BondValue>Títulos de crédito: {0} (no valor de {1})</USAC_Currency_BondValue>
+  <USAC_Currency_Breakdown>--- Detalhes do valor ---</USAC_Currency_Breakdown>
+  <USAC_Currency_CorpseBagValue>Valor total dos sacos de cadáveres: {0}</USAC_Currency_CorpseBagValue>
+  <USAC_Currency_Desc>O valor total que você pode gastar com comerciantes da USAC, contando tanto sacos de cadáveres quanto títulos de crédito. Comerciantes da USAC não aceitam outra forma de pagamento. Os títulos são gastos primeiro; os sacos de cadáveres só são usados quando os títulos acabarem, começando pelo saco menos valioso.</USAC_Currency_Desc>
+  <USAC_Currency_Label>Moeda da USAC</USAC_Currency_Label>
+  <USAC_Currency_LabelBondOnly>Títulos x{0}</USAC_Currency_LabelBondOnly>
+  <USAC_Currency_LabelCorpseBagOnly>Valor do saco de cadáveres: {0}</USAC_Currency_LabelCorpseBagOnly>
+  <USAC_Currency_LabelEmpty>Moeda USAC</USAC_Currency_LabelEmpty>
+  <USAC_Currency_LabelFull>Valor dos sacos para cadáveres: {0} (incluindo {1} títulos)</USAC_Currency_LabelFull>
+  <USAC_Currency_SmallestBag>Saco de cadáveres menos valioso: {0}</USAC_Currency_SmallestBag>
+  <USAC_Currency_TotalValue>Moeda total: {0}</USAC_Currency_TotalValue>
+  <USAC_Currency_UntilNextBag>Gasto disponível antes do próximo saco ser usado: {0}</USAC_Currency_UntilNextBag>
+  <USAC_DeactivateMech>Hibernar</USAC_DeactivateMech>
+  <USAC_DeactivateMechDesc>Colocar este mecanoide em hibernação. Ele ainda pode ser movido e reativado posteriormente.</USAC_DeactivateMechDesc>
+  <USAC_DeactivatedMech_Destroy>Destruir mecanoide</USAC_DeactivatedMech_Destroy>
+  <USAC_DebtSite_AirStrike>Observadores aéreos detectados em um aeródromo da USAC...</USAC_DebtSite_AirStrike>
+  <USAC_DebtSite_ArtilleryStrike>Observadores de artilharia detectados em um local da USAC...</USAC_DebtSite_ArtilleryStrike>
+  <USAC_DebtSite_CommercialRaid>Operação de proteção de ativos da USAC</USAC_DebtSite_CommercialRaid>
+  <USAC_DebtSite_CommercialRaid_Desc>As informações coletadas em um local comercial da USAC mostram que ele vendeu detalhes dos pontos fracos de suas defesas, atraindo um ataque pirata contra sua colônia.</USAC_DebtSite_CommercialRaid_Desc>
+  <USAC_DebtSite_EscalationLetterLabel>Mudança na estratégia compulsória de cobrança</USAC_DebtSite_EscalationLetterLabel>
+  <USAC_DebtSite_EscalationLetterText>Como os esforços para preservar os bens contra {0} continuam encontrando obstrução, o Departamento de Gestão de Dívidas concluiu que a recuperação convencional é ineficaz. Portanto, não tentaremos mais qualquer comunicação direta de quitação com você. Sistemas de avaliação automatizados assumirão a partir daqui. Com base no retorno de segurança, esses sistemas estabelecerão as instalações de preservação no local de longo prazo que julgarem necessárias perto de sua localização, e sua conduta dependerá inteiramente de quão complacente a situação permanecer. Saiba que todos os danos secundários decorrentes disso serão arcados pela parte inadimplente.</USAC_DebtSite_EscalationLetterText>
+  <USAC_DebtSite_LoanLockedWarning>Acesso financeiro foi bloqueado.</USAC_DebtSite_LoanLockedWarning>
+  <USAC_DebtSite_WarningLetterLabel>Nível de segurança dos bens elevado</USAC_DebtSite_WarningLetterLabel>
+  <USAC_DebtSite_WarningLetterText>Devido à sua inadimplência durante o processo de quitação de {0}, o Departamento de Gestão de Dívidas classificou sua avaliação de crédito como "inadimplência de alto risco". Todo acesso a crédito externo foi bloqueado simultaneamente. Recomendamos que retome o cumprimento das obrigações imediatamente, antes que o procedimento de segurança escalone ainda mais.</USAC_DebtSite_WarningLetterText>
+  <USAC_ExtractionCountdown>Contagem regressiva para evacuação: {0}</USAC_ExtractionCountdown>
+  <USAC_FactionDesc>Uma vasta corporação nascida da iluminação deste mundo. Após a partida da frota colonial, ela usou seu controle sobre informações e tecnologia para monopolizar a indústria local de energia, expandindo-se pelos confins com base em seu domínio cultural.</USAC_FactionDesc>
+  <USAC_FactionName>Um Gigante em Ascensão</USAC_FactionName>
+  <USAC_FourPersonStart_GameStartDialog>A sirene de emergência corta o rugido da reentrada. A USAC já deu essa perda como um risco aceitável.\n\nVocês são quatro sobreviventes, cada um vindo de uma cadeia contratual diferente: dívida herdada, demissões por automação, trabalho penal de segurança e trabalho perigoso na fronteira. Os suprimentos são escassos, o apoio acabou e todas as promessas feitas a você agora dependem do que você pode construir e defender neste mundo da borda.</USAC_FourPersonStart_GameStartDialog>
+  <USAC_FunctionInProgress>[USAC] Acesso restrito: este módulo está sendo atualizado ou seu nível de crédito não o desbloqueia.</USAC_FunctionInProgress>
+  <USAC_HostilityReset>Hostilidade da USAC neutralizada</USAC_HostilityReset>
+  <USAC_HostilityResetDesc>A USAC encerrou suas hostilidades. Eles estão neutros em relação a você novamente.</USAC_HostilityResetDesc>
+  <USAC_InsufficientBonds>[USAC] Pagamento falhou: os satélites orbitais detectaram títulos de crédito insuficientes dentro do alcance do farol desta área.</USAC_InsufficientBonds>
+  <USAC_LeaseActive>Operação de mineração em andamento</USAC_LeaseActive>
+  <USAC_LeaseDurationLeft>Tempo de locação restante: {0}</USAC_LeaseDurationLeft>
+  <USAC_LetterLabelCoverup>Encobrimento bem-sucedido</USAC_LetterLabelCoverup>
+  <USAC_LetterTextCoverup>{0} encobriu sua operação. Vários postos avançados foram atacados e destruídos por {1}, e nada apontou de volta para você. A eliminação foi um sucesso completo.</USAC_LetterTextCoverup>
+  <USAC_LoanApproved>[USAC] Contrato assinado: {0} em ativos foram entregues próximo ao farol comercial.</USAC_LoanApproved>
+  <USAC_MechControlled>{0} agora está sob controle de {1}.</USAC_MechControlled>
+  <USAC_MechDeactivated>{0} entrou em hibernação.</USAC_MechDeactivated>
+  <USAC_MechDelivered>{0} entregue por cápsula de lançamento.</USAC_MechDelivered>
+  <USAC_MechOrder_NoFunds>Títulos insuficientes: {0}/{1}</USAC_MechOrder_NoFunds>
+  <USAC_MechOrder_Register>Pagar taxa de registro da USAC para {0} ({1} títulos)</USAC_MechOrder_Register>
+  <USAC_MechOrder_Registered>{0} registrado na USAC. Cápsula de transporte a caminho ({1} títulos gastos).</USAC_MechOrder_Registered>
+  <USAC_MessageMechCharged>{0} foi totalmente carregado.</USAC_MessageMechCharged>
+  <USAC_MessageMechRepaired>Todos os danos em {0} foram reparados.</USAC_MessageMechRepaired>
+  <USAC_MiningPortionProgress>Progresso da mineração: {0}</USAC_MiningPortionProgress>
+  <USAC_MiningRaidFailed>A incursão de mineração da USAC falhou. Nenhum recurso profundo utilizável foi encontrado.</USAC_MiningRaidFailed>
+  <USAC_MiningRigExtracting>A plataforma de mineração da USAC está se preparando para evacuar.</USAC_MiningRigExtracting>
+  <USAC_MiningTarget>Alvo de mineração: {0}</USAC_MiningTarget>
+  <USAC_NoResourcesInRange>Nenhum recurso profundo ao alcance</USAC_NoResourcesInRange>
+  <USAC_OpenCrate>Abrir caixa de suprimentos</USAC_OpenCrate>
+  <USAC_PaymentSuccess>[USAC] {0} quitado. Sua pontuação de crédito aumentou.</USAC_PaymentSuccess>
+  <USAC_Readiness>Manutenção</USAC_Readiness>
+  <USAC_ReadinessConsumption>Consumo diário: {0}%</USAC_ReadinessConsumption>
+  <USAC_RequiresBiotech>Requer a DLC Biotech.</USAC_RequiresBiotech>
+  <USAC_ResourcesInRange>Recursos profundos ao alcance:</USAC_ResourcesInRange>
+  <USAC_SiteLabel_EnemyCamp>acampamento inimigo</USAC_SiteLabel_EnemyCamp>
+  <USAC_SiteLabel_ForwardPost>posto avançado</USAC_SiteLabel_ForwardPost>
+  <USAC_SiteLabel_HostileBase>base hostil</USAC_SiteLabel_HostileBase>
+  <USAC_SiteLabel_HostileCamp>acampamento hostil</USAC_SiteLabel_HostileCamp>
+  <USAC_SiteLabel_HostileOutpost>posto avançado hostil</USAC_SiteLabel_HostileOutpost>
+  <USAC_SiteLabel_Lodge>chalé remoto</USAC_SiteLabel_Lodge>
+  <USAC_SiteLabel_Outpost>posto avançado na fronteira</USAC_SiteLabel_Outpost>
+  <USAC_SiteLabel_Resort>acampamento de resort</USAC_SiteLabel_Resort>
+  <USAC_SiteLabel_Retreat>local de retiro</USAC_SiteLabel_Retreat>
+  <USAC_SiteLabel_RogueBase>base renegada</USAC_SiteLabel_RogueBase>
+  <USAC_StoredMineralsHeader>Minerais armazenados:</USAC_StoredMineralsHeader>
+  <USAC_UseMechOrder>Solicitar lançamento de mecanoide</USAC_UseMechOrder>
+</LanguageData>

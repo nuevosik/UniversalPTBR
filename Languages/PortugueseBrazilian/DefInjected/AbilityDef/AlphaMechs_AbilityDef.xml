@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AM_Detonate.description>Detona o mecanoide, destruindo-o instantaneamente e causando dano a todos ao redor, amigos ou inimigos.</AM_Detonate.description>
+  <AM_Detonate.label>detonar</AM_Detonate.label>
+  <AM_ExtractHemogen.description>Extrai hemogênio diretamente do sangue de uma pessoa caída. O alvo perderá sangue e ficará derrubado. Um coagulante de ação rápida selará o ferimento para evitar sangramento.</AM_ExtractHemogen.description>
+  <AM_ExtractHemogen.label>extrair hemogênio</AM_ExtractHemogen.label>
+  <AM_LongjumpMech.description>Salta para um local distante usando músculos mecanoides ultrarrápidos especiais.</AM_LongjumpMech.description>
+  <AM_LongjumpMech.label>salto aprimorado do mecanoide</AM_LongjumpMech.label>
+  <AM_MechConversion.description>Hackeia remotamente os sensores IFF de um mecanoide para trocar temporariamente sua lealdade. Isso durará um dia, após o qual o mecanoide voltará à sua lealdade original e atacará indiscriminadamente.</AM_MechConversion.description>
+  <AM_MechConversion.label>embaralhador IFF de mecanoide</AM_MechConversion.label>
+  <AM_ResurrectionMechSlow.description>Ressuscita um mecanoide morto recentemente, sobrecarregando externamente seus processos de autorreparo. O mecanoide voltará com parte, mas não todos, de seus ferimentos curados. Essa habilidade é mais lenta que a usada pelo Apocriton, mas não possui cargas.</AM_ResurrectionMechSlow.description>
+  <AM_ResurrectionMechSlow.label>ressuscitar mecanoide, menor</AM_ResurrectionMechSlow.label>
+  <AM_SwapWeapon.description>Alterna entre um blaster de carga e uma pistola de agulhas.</AM_SwapWeapon.description>
+  <AM_SwapWeapon.label>alternar arma</AM_SwapWeapon.label>
+  <AM_SwapWeapon_Mortar.description>Alterna entre uma minipistola de agulhas e um morteiro.</AM_SwapWeapon_Mortar.description>
+  <AM_SwapWeapon_Mortar.label>alternar arma</AM_SwapWeapon_Mortar.label>
+</LanguageData>

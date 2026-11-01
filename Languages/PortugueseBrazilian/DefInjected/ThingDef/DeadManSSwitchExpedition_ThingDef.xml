@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ammo_5x50mmCaseless_AP.label>5x50mm Sem Estojo (AP)</Ammo_5x50mmCaseless_AP.label>
+  <Ammo_5x50mmCaseless_Erosion.label>5x50mm Sem Estojo (Erosivo)</Ammo_5x50mmCaseless_Erosion.label>
+  <Ammo_5x50mmCaseless_FMJ.label>5x50mm Sem Estojo (FMJ)</Ammo_5x50mmCaseless_FMJ.label>
+  <Ammo_5x50mmCaseless_HE.label>5x50mm Sem Estojo (AP-HE)</Ammo_5x50mmCaseless_HE.label>
+  <Ammo_5x50mmCaseless_HP.label>5x50mm Sem Estojo (HP)</Ammo_5x50mmCaseless_HP.label>
+  <Ammo_5x50mmCaseless_Incendiary.label>5x50mm Sem Estojo (AP-I)</Ammo_5x50mmCaseless_Incendiary.label>
+  <Bullet_5x50mmCaseless_AP.label>Projétil 5x50mm Sem Estojo (AP)</Bullet_5x50mmCaseless_AP.label>
+  <Bullet_5x50mmCaseless_AP_HV.label>Projétil 5x50mm Sem Estojo (AP)</Bullet_5x50mmCaseless_AP_HV.label>
+  <Bullet_5x50mmCaseless_AP_LV.label>Projétil 5x50mm Sem Estojo (AP)</Bullet_5x50mmCaseless_AP_LV.label>
+  <Bullet_5x50mmCaseless_Erosion.label>Projétil 5x50mm Sem Estojo (Erosivo)</Bullet_5x50mmCaseless_Erosion.label>
+  <Bullet_5x50mmCaseless_Erosion_HV.label>Projétil 5x50mm Sem Estojo (Erosivo)</Bullet_5x50mmCaseless_Erosion_HV.label>
+  <Bullet_5x50mmCaseless_Erosion_LV.label>Projétil 5x50mm Sem Estojo (Erosivo)</Bullet_5x50mmCaseless_Erosion_LV.label>
+  <Bullet_5x50mmCaseless_FMJ.label>Projétil 5x50mm Sem Estojo (FMJ)</Bullet_5x50mmCaseless_FMJ.label>
+  <Bullet_5x50mmCaseless_FMJ_HV.label>Projétil 5x50mm Sem Estojo (FMJ)</Bullet_5x50mmCaseless_FMJ_HV.label>
+  <Bullet_5x50mmCaseless_FMJ_LV.label>Projétil 5x50mm Sem Estojo (FMJ)</Bullet_5x50mmCaseless_FMJ_LV.label>
+  <Bullet_5x50mmCaseless_HE.label>Projétil 5x50mm Sem Estojo (AP-HE)</Bullet_5x50mmCaseless_HE.label>
+  <Bullet_5x50mmCaseless_HE_HV.label>Projétil 5x50mm Sem Estojo (AP-HE)</Bullet_5x50mmCaseless_HE_HV.label>
+  <Bullet_5x50mmCaseless_HE_LV.label>Projétil 5x50mm Sem Estojo (AP-HE)</Bullet_5x50mmCaseless_HE_LV.label>
+  <Bullet_5x50mmCaseless_HP.label>Projétil 5x50mm Sem Estojo (HP)</Bullet_5x50mmCaseless_HP.label>
+  <Bullet_5x50mmCaseless_HP_HV.label>Projétil 5x50mm Sem Estojo (HP)</Bullet_5x50mmCaseless_HP_HV.label>
+  <Bullet_5x50mmCaseless_HP_LV.label>Projétil 5x50mm Sem Estojo (HP)</Bullet_5x50mmCaseless_HP_LV.label>
+  <Bullet_5x50mmCaseless_Incendiary.label>Projétil 5x50mm Sem Estojo (AP-I)</Bullet_5x50mmCaseless_Incendiary.label>
+  <Bullet_5x50mmCaseless_Incendiary_HV.label>Projétil 5x50mm Sem Estojo (AP-I)</Bullet_5x50mmCaseless_Incendiary_HV.label>
+  <Bullet_5x50mmCaseless_Incendiary_LV.label>Projétil 5x50mm Sem Estojo (AP-I)</Bullet_5x50mmCaseless_Incendiary_LV.label>
+  <DMSE_AcousticEarlyWarningRadar.description>Um espelho acústico de concreto que escuta o ruído de motores distantes. Não precisa de energia e não emite nada, portanto mísseis antirradiação não conseguem localizá-lo. Seus alertas chegam cedo, mas são vagos, e tem dificuldade em detectar alvos rápidos ou furtivos.\n\nDetecta apenas ameaças que se aproximam e não pode guiar interceptadores.</DMSE_AcousticEarlyWarningRadar.description>
+  <DMSE_AcousticEarlyWarningRadar.label>radar acústico passivo</DMSE_AcousticEarlyWarningRadar.label>
+  <DMSE_Ammo_37x250mmFlak_AP.label>Cartucho Flak 37x250mmR (AP)</DMSE_Ammo_37x250mmFlak_AP.label>
+  <DMSE_Ammo_37x250mmFlak_HE.label>Cartucho Flak 37x250mmR (AP-HE)</DMSE_Ammo_37x250mmFlak_HE.label>
+  <DMSE_Ammo_37x250mmFlak_Incendiary.label>Cartucho Flak 37x250mmR (AP-I)</DMSE_Ammo_37x250mmFlak_Incendiary.label>
+  <DMSE_Ammo_762x385mmRCannonShell_PELE.description>O objetivo deste projétil é experimentar o aço-tungstênio como um novo material para projéteis, ao mesmo tempo em que testa extensivamente o projeto de munição PELE (Penetração com Efeitos Laterais Aprimorados) para coletar feedback abrangente e melhorar seu desempenho.</DMSE_Ammo_762x385mmRCannonShell_PELE.description>
+  <DMSE_Ammo_762x385mmRCannonShell_PELE.label>Projétil de canhão 76,2x385mmR (PELE-aço-tungstênio)</DMSE_Ammo_762x385mmRCannonShell_PELE.label>
+  <DMSE_Apparel_HeavyPowerSkeleton.description>Um traje exoesquelético motorizado pesado que imita a forma humana e pode ser usado por um operador não treinado. Aumenta significativamente a força do usuário. \n\nEm comparação ao exoesqueleto da BigSister, este modelo removeu o sistema de salto e o sistema de escudo para reduzir custos. Ao utilizá-lo, não presuma que obteve o nível de proteção de unidades mecânicas pesadas.</DMSE_Apparel_HeavyPowerSkeleton.description>
+  <DMSE_Apparel_HeavyPowerSkeleton.label>unidade exoesquelética pesada</DMSE_Apparel_HeavyPowerSkeleton.label>
+  <DMSE_Apparel_IVASuit.description>Um traje semipressurizado para trabalhar dentro de uma nave espacial pressurizada. Geralmente usado como roupa de trabalho para operadores de veículos espaciais.\n\nNão possui resistência a vácuo suficiente para ser usado diretamente em atividades extraveiculares, mas é o suficiente para ganhar mais tempo em ambientes expostos.</DMSE_Apparel_IVASuit.description>
+  <DMSE_Apparel_IVASuit.label>traje IVA</DMSE_Apparel_IVASuit.label>
+  <DMSE_Apparel_RangerHelmet.description>Um capacete hermético de cobertura total usado pelos Rangers Orbitais. Com proteção completa e sistema eletrônico integrado de assistência, é o equipamento padrão para fuzileiros da Frota Colonial e Dragões Orbitais operando em ambientes de microgravidade.</DMSE_Apparel_RangerHelmet.description>
+  <DMSE_Apparel_RangerHelmet.label>capacete de ranger orbital</DMSE_Apparel_RangerHelmet.label>
+  <DMSE_Apparel_SamLauncher.description>Um lançador antiaéreo portátil de ombro com uma antena simples de amigo-ou-inimigo e uma mira acoplada ao capacete. É carregado nas costas, deixando as mãos livres para uma arma principal. O usuário deve ficar parado para travar o alvo.\n\nCarregue com mísseis terra-ar leves. Dispara contra ameaças que já estejam rastreadas pela sua rede de radares neste mapa e não precisa de canal de controle de tiro.\n\nTambém pode ser carregado manualmente com munições de perseguição Sabre, que são disparadas apenas contra alvos terrestres, com alcance muito maior.</DMSE_Apparel_SamLauncher.description>
+  <DMSE_Apparel_SamLauncher.label>lançador SAM portátil</DMSE_Apparel_SamLauncher.label>
+  <DMSE_ArtilleryDeparture_Empero.label>projétil de longo alcance em partida</DMSE_ArtilleryDeparture_Empero.label>
+  <DMSE_Battery.description>Uma bateria que utiliza materiais de grafeno para armazenar eletricidade para uso posterior. Em comparação com baterias comuns, possui maior capacidade e eficiência de carregamento; no entanto, seu alto nível de energia vem ao custo de uma taxa de autodescarga maior que as baterias tradicionais. Não explode quando exposta à chuva ou ao fogo.</DMSE_Battery.description>
+  <DMSE_Battery.label>bateria de grafeno</DMSE_Battery.label>
+  <DMSE_Building_BallisticRack.description>Uma antiga torre treliçada aberta que mantém um míssil balístico na vertical. É barata, mas não possui vala de chama: no lançamento, a explosão incendeia a grama próxima e fere quem estiver muito perto.\n\nOs mísseis são montados na torre a partir de matérias-primas e nunca existem como itens. Altere as estruturas de foguete na aba de montagem; estruturas mais novas exigem pesquisa.\n\nNão pode ser construída em uma gravinave.</DMSE_Building_BallisticRack.description>
+  <DMSE_Building_BallisticRack.label>torre de lançamento balístico</DMSE_Building_BallisticRack.label>
+  <DMSE_Building_BallisticSilo.description>Um silo de míssil estratégico semienterrado com escotilhas pesadas de concreto e supressão de explosão, para que o lançamento não danifique o entorno. É muito caro e muito resistente, e comporta um único míssil.\n\nOs mísseis são montados no silo a partir de matérias-primas e, em seguida, lançados contra um alvo no mapa-múndi.\n\nNão pode ser construído em uma gravinave.</DMSE_Building_BallisticSilo.description>
+  <DMSE_Building_BallisticSilo.label>silo de míssil estratégico</DMSE_Building_BallisticSilo.label>
+  <DMSE_Building_FieldAirDefense.description>Uma torreta de defesa aérea autocontida com autocanhões duplos, quatro mísseis de curto alcance e seu próprio radar de busca e rastreamento. Engaja alvos com mísseis primeiro e depois finaliza com seus canhões.\n\nTotalmente automática. Os canhões também disparam contra inimigos terrestres e usam aço como munição. O radar consome muita energia e suas emissões podem ser rastreadas por mísseis antirradiação.</DMSE_Building_FieldAirDefense.description>
+  <DMSE_Building_FieldAirDefense.label>sistema de defesa aérea de campo</DMSE_Building_FieldAirDefense.label>
+  <DMSE_Building_LightMissileLauncher.description>Uma caixa de lançamento inclinada que comporta quatro mísseis leves. Carrega e dispara sozinha, oferecendo uma salva sólida em um espaço reduzido.\n\nRequer energia. Mísseis de ataque são lançados contra alvos além do mapa. Mísseis terra-ar e de duplo propósito também são disparados pela rede de controle de tiro como interceptadores.</DMSE_Building_LightMissileLauncher.description>
+  <DMSE_Building_LightMissileLauncher.label>contêiner de lançamento inclinado</DMSE_Building_LightMissileLauncher.label>
+  <DMSE_Building_LightMissileVLS.description>Um lançador vertical ao nível do solo com quatro células para mísseis leves. Cabe em um único bloco, facilitando sua colocação ao longo de um perímetro, mas cada célula deve ser carregada separadamente.\n\nNão pode ser construído em uma gravinave.</DMSE_Building_LightMissileVLS.description>
+  <DMSE_Building_LightMissileVLS.label>célula de lançamento vertical leve</DMSE_Building_LightMissileVLS.label>
+  <DMSE_Building_LoiteringLauncher.description>Um trilho inclinado simples que comporta uma munição de perseguição. Não precisa de energia e é barato o suficiente para alinhar ao longo de um perímetro, mas um único acerto pode destruí-lo.\n\nMunições de ataque são lançadas contra alvos além do mapa. Munições interceptadoras são disparadas automaticamente pela rede de controle de tiro.</DMSE_Building_LoiteringLauncher.description>
+  <DMSE_Building_LoiteringLauncher.label>trilho de lançamento</DMSE_Building_LoiteringLauncher.label>
+  <DMSE_Building_MediumVLS.description>Um lançador vertical com quatro células para mísseis médios. Cada míssil é empurrado para fora de seu tubo antes da ignição, e uma vala de chama embutida permite lançamentos repetidos. É dispendioso para construir.\n\nNão pode ser construído em uma gravinave.</DMSE_Building_MediumVLS.description>
+  <DMSE_Building_MediumVLS.label>silo de lançamento vertical</DMSE_Building_MediumVLS.label>
+  <DMSE_Building_RotaryLauncher.description>Um antigo trilho de lançamento que gira 360 graus por manivela. Dispara munições de perseguição iniciais e mísseis leves, e recarrega um projétil por vez.\n\nNão precisa de energia, mas requer um operador o tempo todo.</DMSE_Building_RotaryLauncher.description>
+  <DMSE_Building_RotaryLauncher.label>trilho de lançamento rotativo</DMSE_Building_RotaryLauncher.label>
+  <DMSE_Building_RotaryMissileLauncher.description>Um lançador terra-ar de quatro projéteis em uma base giratória. Não possui radar próprio e dispara apenas contra alvos repassados por um radar de controle de tiro.\n\nRequer um operador.</DMSE_Building_RotaryMissileLauncher.description>
+  <DMSE_Building_RotaryMissileLauncher.label>lançador SAM</DMSE_Building_RotaryMissileLauncher.label>
+  <DMSE_Building_Scorer.description>Um sistema de lançamento de mísseis de cruzeiro utilizado nos cruzadores e navios de desembarque armados da Frota Colonial. É um lançador versátil, mais frequentemente usado contra navios.</DMSE_Building_Scorer.description>
+  <DMSE_Building_Scorer.label>Lançador MLS Scorer</DMSE_Building_Scorer.label>
+  <DMSE_Bullet_20x102mmNATO_AP_HV.label>Projétil 20x102mm OTAN (AP)</DMSE_Bullet_20x102mmNATO_AP_HV.label>
+  <DMSE_Bullet_20x102mmNATO_HE_HV.label>Projétil 20x102mm OTAN (AP-HE)</DMSE_Bullet_20x102mmNATO_HE_HV.label>
+  <DMSE_Bullet_20x102mmNATO_Incendiary_HV.label>Projétil 20x102mm OTAN (AP-I)</DMSE_Bullet_20x102mmNATO_Incendiary_HV.label>
+  <DMSE_Bullet_20x102mmNATO_Sabot_HV.label>Projétil 20x102mm OTAN (Sabot)</DMSE_Bullet_20x102mmNATO_Sabot_HV.label>
+  <DMSE_Bullet_37x250mmFlak_AP.label>Projétil antiaéreo 37x250mmR (AP)</DMSE_Bullet_37x250mmFlak_AP.label>
+  <DMSE_Bullet_37x250mmFlak_HE.label>Projétil antiaéreo 37x250mmR (AP-HE)</DMSE_Bullet_37x250mmFlak_HE.label>
+  <DMSE_Bullet_37x250mmFlak_Incendiary.label>Projétil antiaéreo 37x250mmR (AP-I)</DMSE_Bullet_37x250mmFlak_Incendiary.label>
+  <DMSE_Bullet_5x50mmCaseless_Safe.label>Projétil sem estojo 5x50mm (autocombustão)</DMSE_Bullet_5x50mmCaseless_Safe.label>
+  <DMSE_Bullet_762x385mmRCannonShell_APCR_HV.label>Projétil de canhão 76,2x385mmR (APCR)</DMSE_Bullet_762x385mmRCannonShell_APCR_HV.label>
+  <DMSE_Bullet_762x385mmRCannonShell_AP_HV.label>Projétil de canhão 76,2x385mmR (AP)</DMSE_Bullet_762x385mmRCannonShell_AP_HV.label>
+  <DMSE_Bullet_762x385mmRCannonShell_EMP_HV.label>Projétil de canhão 76,2x385mmR (PEM)</DMSE_Bullet_762x385mmRCannonShell_EMP_HV.label>
+  <DMSE_Bullet_762x385mmRCannonShell_HEAT_HV.label>Projétil de canhão 76,2x385mmR (HEAT)</DMSE_Bullet_762x385mmRCannonShell_HEAT_HV.label>
+  <DMSE_Bullet_762x385mmRCannonShell_HE_HV.label>Projétil de canhão 76,2x385mmR (HE)</DMSE_Bullet_762x385mmRCannonShell_HE_HV.label>
+  <DMSE_Bullet_762x385mmRCannonShell_PELE_HV.label>Projétil de canhão 76,2x385mmR (PELE-Tungstênio)</DMSE_Bullet_762x385mmRCannonShell_PELE_HV.label>
+  <DMSE_Bullet_AirburstFrag.label>submunição de fragmentação com detonação aérea</DMSE_Bullet_AirburstFrag.label>
+  <DMSE_Bullet_Dawnblade_Striker.label>projétil perfurante</DMSE_Bullet_Dawnblade_Striker.label>
+  <DMSE_Bullet_FieldAirDefense.label>munição de 30 mm</DMSE_Bullet_FieldAirDefense.label>
+  <DMSE_Bullet_LaserDesignator.label>feixe de designação</DMSE_Bullet_LaserDesignator.label>
+  <DMSE_Bullet_LegacyFlak.label>projétil HE de 37 mm</DMSE_Bullet_LegacyFlak.label>
+  <DMSE_Bullet_LegacyFlak_CIWS.label>projétil traçante de 37 mm</DMSE_Bullet_LegacyFlak_CIWS.label>
+  <DMSE_Bullet_Millennium.label>munição de detonação aérea de 35 mm</DMSE_Bullet_Millennium.label>
+  <DMSE_Bullet_MillenniumAirburst.label>projétil de fragmentação com detonação aérea de 35 mm</DMSE_Bullet_MillenniumAirburst.label>
+  <DMSE_Bullet_Shell_Empero.label>projétil de longo alcance</DMSE_Bullet_Shell_Empero.label>
+  <DMSE_Bullet_Shell_EmperoReduced.label>projétil de carga reduzida</DMSE_Bullet_Shell_EmperoReduced.label>
+  <DMSE_Bullet_Vulcan_WingBack.label>projétil APT</DMSE_Bullet_Vulcan_WingBack.label>
+  <DMSE_Bullet_Vulcan_WingBack_CIWS.label>projétil APT</DMSE_Bullet_Vulcan_WingBack_CIWS.label>
+  <DMSE_Carbohydrate.description>Um pó branco e sólido que permanece altamente estável à temperatura ambiente. Esta substância é sintetizada artificialmente a partir de amido, lactose e outros compostos em equipamentos industriais. Composta por elementos básicos como carbono, hidrogênio e oxigênio, não deteriora mesmo quando armazenada em ambiente seco e à temperatura ambiente, tornando-se uma fonte nutricional extremamente eficiente em espaço para viagens interestelares. No entanto, consumi-la sem tratamento pode causar sintomas a curto prazo, como dor abdominal. \n\nDevido à sua natureza química altamente inflamável e à rápida decomposição quando exposta ao ar livre, é normalmente comprimida em blocos densos e selada a vácuo imediatamente após a síntese, para armazenamento e distribuição a longo prazo.</DMSE_Carbohydrate.description>
+  <DMSE_Carbohydrate.label>Carboidrato</DMSE_Carbohydrate.label>
+  <DMSE_Cargo.description>Comumente conhecidos como "contêineres de transporte padrão", são caixas de carga interestelares utilizadas para transportar equipamentos e recursos entre naves-mãe da frota colonial e diversas bases orbitais. Podem acomodar, de forma flexível, equipamentos e recursos de diversos tamanhos padrão.\n\nEsses grandes contêineres exigem equipamentos de carga especializados e maquinário pesado para o transporte, sendo, portanto, utilizados principalmente como plataformas de transbordo e em grandes bases equipadas com sistemas sofisticados de carga e descarga. Devido às suas especificações práticas de transporte, as pessoas dos Mundos da Fronteira também costumam convertê-los em plataformas e moradias temporárias para diversos fins.</DMSE_Cargo.description>
+  <DMSE_Cargo.label>contêiner de carga</DMSE_Cargo.label>
+  <DMSE_ChemicalTransferEngine.description>Um motor-foguete a combustível químico para voos de transferência. Só entra em funcionamento na decolagem e na chegada. Mantenha a área atrás do bocal livre.</DMSE_ChemicalTransferEngine.description>
+  <DMSE_ChemicalTransferEngine.label>motor aerospike</DMSE_ChemicalTransferEngine.label>
+  <DMSE_Crate.description>Apelidados de "Coelho", esses contêineres de transporte padrão de um oitavo são amplamente utilizados na construção e no reabastecimento de pequenos postos avançados. Cabem perfeitamente nos compartimentos de carga de ônibus espaciais de pequeno e médio porte e caminhões leves, sendo carregados e descarregados diretamente no local por humanos com unidades motorizadas.\n\nAs naves de carga das frotas coloniais normalmente transportam dezenas de milhares de contêineres de transporte padrão, que são distribuídos para instalações terrestres e fábricas por meio de plataformas de transferência em órbita espacial.</DMSE_Crate.description>
+  <DMSE_Crate.label>caixa Coelho</DMSE_Crate.label>
+  <DMSE_CruiseMissile.description>Um míssil de cruzeiro tático aguardando carregamento.</DMSE_CruiseMissile.description>
+  <DMSE_CruiseMissile.label>míssil de cruzeiro</DMSE_CruiseMissile.label>
+  <DMSE_CruiseMissileRack.description>Um suporte blindado que comporta até dois mísseis de cruzeiro. Os mísseis armazenados ficam protegidos das intempéries e não se deterioram.</DMSE_CruiseMissileRack.description>
+  <DMSE_CruiseMissileRack.label>suporte para mísseis de cruzeiro</DMSE_CruiseMissileRack.label>
+  <DMSE_DecoyRadio.description>Um rádio de alta potência, utilizado para emitir sinais falsos e atrair os sistemas de defesa automatizados que ainda existem no planeta. Ao ser ativado, emite um poderoso sinal de radiação que atrairá um autômato ultrapesado para atacar junto com seus escoltas. Se conseguir derrotá-lo, poderá coletar tecnologia avançada de seu cadáver. O pulso do sinal queima o transmissor, portanto, esta construção só pode ser usada uma vez.</DMSE_DecoyRadio.description>
+  <DMSE_DecoyRadio.label>Rádio isca</DMSE_DecoyRadio.label>
+  <DMSE_Drone_Wildfowl.description>O UAS 1/B "Hunter Bee", apelidado de "Wildfowl", é um drone dobrável e compacto com rotor coaxial, equipado com uma carga explosiva plástica equivalente a uma granada M67, representando uma ameaça significativa ao se aproximar de um alvo em enxames.</DMSE_Drone_Wildfowl.description>
+  <DMSE_Drone_Wildfowl.label>wildfowl</DMSE_Drone_Wildfowl.label>
+  <DMSE_Drone_Wildfowl.tools.0.label>flabelo</DMSE_Drone_Wildfowl.tools.0.label>
+  <DMSE_EarlyFireControlRadar.description>Um radar de controle de tiro primitivo, direcionado manualmente com volantes e mira óptica. Pode guiar apenas um interceptador por vez, trava o alvo lentamente e não é muito preciso.\n\nRequer um operador.</DMSE_EarlyFireControlRadar.description>
+  <DMSE_EarlyFireControlRadar.label>radar de controle de tiro primitivo</DMSE_EarlyFireControlRadar.label>
+  <DMSE_FieldStructure_AmmoStorage.description>Um compartimento selado para munição de estruturas de campo. Comporta até oito mísseis.</DMSE_FieldStructure_AmmoStorage.description>
+  <DMSE_FieldStructure_AmmoStorage.label>depósito de munição de campo</DMSE_FieldStructure_AmmoStorage.label>
+  <DMSE_FieldStructure_ExtinguisherUnit.description>Uma unidade de supressão de incêndio para estruturas de campo. Pode ser acionada por um colono para pulverizar espuma extintora em um raio de 4,9 células.</DMSE_FieldStructure_ExtinguisherUnit.description>
+  <DMSE_FieldStructure_ExtinguisherUnit.label>unidade extintora de campo</DMSE_FieldStructure_ExtinguisherUnit.label>
+  <DMSE_FieldStructure_Frame.description>Uma estrutura padrão para montar construções de campo.</DMSE_FieldStructure_Frame.description>
+  <DMSE_FieldStructure_Frame.label>estrutura de campo</DMSE_FieldStructure_Frame.label>
+  <DMSE_FieldStructure_Hull.description>Uma seção blindada da carcaça para estruturas de campo.</DMSE_FieldStructure_Hull.description>
+  <DMSE_FieldStructure_Hull.label>seção blindada de campo</DMSE_FieldStructure_Hull.label>
+  <DMSE_FieldStructure_MediumFrame.description>Uma estrutura decorativa para construções de campo.</DMSE_FieldStructure_MediumFrame.description>
+  <DMSE_FieldStructure_MediumFrame.label>estrutura média de campo</DMSE_FieldStructure_MediumFrame.label>
+  <DMSE_FieldStructure_MediumSection.description>Uma seção decorativa para estruturas de campo.</DMSE_FieldStructure_MediumSection.description>
+  <DMSE_FieldStructure_MediumSection.label>seção média de campo</DMSE_FieldStructure_MediumSection.label>
+  <DMSE_FieldStructure_PowerUnit.description>Uma unidade de energia compacta para estruturas de campo. Fornece 1500 W quando ligada.</DMSE_FieldStructure_PowerUnit.description>
+  <DMSE_FieldStructure_PowerUnit.label>unidade de energia de campo</DMSE_FieldStructure_PowerUnit.label>
+  <DMSE_FieldStructure_SmallFrame.description>Uma estrutura decorativa para construções de campo.</DMSE_FieldStructure_SmallFrame.description>
+  <DMSE_FieldStructure_SmallFrame.label>estrutura pequena de campo</DMSE_FieldStructure_SmallFrame.label>
+  <DMSE_FieldStructure_Support.description>Um suporte estrutural para estruturas de campo.</DMSE_FieldStructure_Support.description>
+  <DMSE_FieldStructure_Support.label>suporte de campo</DMSE_FieldStructure_Support.label>
+  <DMSE_Filth_MetalScrap.label>sucata metálica espalhada</DMSE_Filth_MetalScrap.label>
+  <DMSE_FireControlRadar.description>Um radar de controle de tiro dedicado. Transforma os rastreamentos do radar de busca em soluções de tiro e guia vários interceptadores ao mesmo tempo, muito mais rápido e com maior precisão que os conjuntos primitivos.\n\nNecessita de um fornecimento estável de energia. Suas emissões podem ser rastreadas por mísseis antirradiação.</DMSE_FireControlRadar.description>
+  <DMSE_FireControlRadar.label>radar de controle de tiro</DMSE_FireControlRadar.label>
+  <DMSE_Fragment_Large.label>fragmentos grandes</DMSE_Fragment_Large.label>
+  <DMSE_Fragment_Medium.label>fragmentos médios</DMSE_Fragment_Medium.label>
+  <DMSE_Fragment_Small.label>fragmentos pequenos</DMSE_Fragment_Small.label>
+  <DMSE_FuelSilo.description>Um grande tanque de armazenamento para combustíveis líquidos. Utiliza múltiplas camadas de placas metálicas e ligas especiais para armazenar com segurança diversos combustíveis em seu corpo maciço. É comumente encontrado em plataformas orbitais e em grandes navios-tanque.\n\nEste tanque está bem preservado e ainda pode conter uma pequena quantidade de combustível residual, mas extraí-lo sem equipamento de bombeamento levaria um tempo considerável.</DMSE_FuelSilo.description>
+  <DMSE_FuelSilo.label>silo de combustível</DMSE_FuelSilo.label>
+  <DMSE_FuelSiloTank.description>Um grande tanque de armazenamento para combustíveis líquidos. Utiliza múltiplas camadas de placas metálicas e ligas especiais para armazenar combustível liquefeito pressurizado em seu interior. Oferece proteção robusta e grande capacidade de armazenamento, fornecendo combustível aos propulsores de uma gravinave ou aos motores de transferência de uma nave construída a partir de pilhas estruturais.</DMSE_FuelSiloTank.description>
+  <DMSE_FuelSiloTank.label>silo de combustível químico</DMSE_FuelSiloTank.label>
+  <DMSE_FuelTankSmall.description>Um tanque compacto para armazenamento de combustíveis líquidos. Construído com as mesmas placas de metal em camadas e ligas especiais do silo maior, armazena combustível liquefeito pressurizado em um espaço reduzido e o fornece aos propulsores de uma gravinave ou aos motores de transferência de uma nave construída a partir de pilhas estruturais.</DMSE_FuelTankSmall.description>
+  <DMSE_FuelTankSmall.label>pequeno silo de combustível químico</DMSE_FuelTankSmall.label>
+  <DMSE_FusionCore.description>Um reator de fusão tokamak compacto e bastante avançado, comumente encontrado em frotas coloniais e naves utilizadas no Mundo Iluminado. Possui uma turbina embutida de dióxido de carbono supercrítico para fornecer energia ao próprio ciclo e aos equipamentos da nave. No entanto, sua função mais crucial é pré-aquecer o sistema de propulsão nuclear térmica da nave para que ele possa atingir sua potência máxima projetada e mover corpos celestes de pequena massa.\n\nEm uma nave construída a partir de pilhas estruturais, cada reator de fusão em funcionamento suporta até dois propulsores nucleares térmicos.</DMSE_FusionCore.description>
+  <DMSE_FusionCore.label>Reator de fusão</DMSE_FusionCore.label>
+  <DMSE_Graphene.description>Um material de carbono em camada única produzido pela esfoliação do grafite, sendo o material não metálico mais amplamente utilizado no Mundo Intermediário. Graças à sua excelente condutividade térmica e propriedades elétricas, é comumente empregado em componentes eletrônicos, emissores de feixe e supercapacitores. \n\nA produção do grafeno em si exige condições extremamente rigorosas e, frequentemente, é processado ainda mais em materiais como nanotubos de carbono ou fulerenos. Como resultado, mundos capazes de produzi-lo e aplicá-lo em larga escala geralmente possuem grandes plataformas industriais em órbita terrestre voltadas à fabricação e ao processamento desses materiais.</DMSE_Graphene.description>
+  <DMSE_Graphene.label>Grafeno</DMSE_Graphene.label>
+  <DMSE_GrapheneBioreactor.description>Um biorreator carbono-elétrico estacionário. Utiliza dióxido de carbono para sintetizar diversos carboidratos, uma fonte de nutrientes biológicos. Requer grafeno como portador catalítico durante a reação, operando em ambiente com temperatura e eletricidade constantes para melhorar a eficiência da reação.</DMSE_GrapheneBioreactor.description>
+  <DMSE_GrapheneBioreactor.label>Biorreator de grafeno</DMSE_GrapheneBioreactor.label>
+  <DMSE_Gun_Dawnblade_Striker.description>Um sistema de artilharia automatizado amplamente utilizado em fragatas e corvetas de pequeno e médio porte em frotas coloniais.</DMSE_Gun_Dawnblade_Striker.description>
+  <DMSE_Gun_Dawnblade_Striker.label>Sistema Multiuso de Disparo Rápido Tipo 85</DMSE_Gun_Dawnblade_Striker.label>
+  <DMSE_Gun_Empero.description>O canhão principal do NK-30 Empero, dispara cargas reduzidas em baixa velocidade de saída para fogo em arco sobre alvos próximos.</DMSE_Gun_Empero.description>
+  <DMSE_Gun_Empero.label>Canhão NK-30 (carga reduzida)</DMSE_Gun_Empero.label>
+  <DMSE_Gun_FieldAirDefense.description>Um par de autocanhões de 30 mm montados ao lado dos tubos de mísseis de um sistema de defesa aérea de campo.</DMSE_Gun_FieldAirDefense.description>
+  <DMSE_Gun_FieldAirDefense.label>autocanhão duplo de 30 mm</DMSE_Gun_FieldAirDefense.label>
+  <DMSE_Gun_LaserDesignator.description>Um designador laser portátil. Ao apontar para um local no chão ou para um alvo, deixa uma marcação laser ali por algumas horas; mísseis guiados a laser disparados pela sua colônia travam no alvo designado mais recente no mapa. Não causa dano.</DMSE_Gun_LaserDesignator.description>
+  <DMSE_Gun_LaserDesignator.label>designador laser</DMSE_Gun_LaserDesignator.label>
+  <DMSE_Gun_LaserDesignator.tools.0.label>empunhadura</DMSE_Gun_LaserDesignator.tools.0.label>
+  <DMSE_Gun_LegacyFlak.description>Um canhão antiaéreo automático de 37 mm operado por tripulação, a gás, baseado no 3.7 cm Flak 43, alimentado por carregadores de oito munições.</DMSE_Gun_LegacyFlak.description>
+  <DMSE_Gun_LegacyFlak.label>Canhão antiaéreo automático de 37 mm</DMSE_Gun_LegacyFlak.label>
+  <DMSE_Gun_Millennium.description>Um canhão revólver de 35 mm que dispara projéteis programáveis com detonação em rajada aérea.</DMSE_Gun_Millennium.description>
+  <DMSE_Gun_Millennium.label>Canhão revólver de 35 mm</DMSE_Gun_Millennium.label>
+  <DMSE_Gun_Squall.description>Torreta sem cartucho</DMSE_Gun_Squall.description>
+  <DMSE_Gun_Squall.label>Squall</DMSE_Gun_Squall.label>
+  <DMSE_Gun_Vulcan_WingBack.description>Esta é uma variante para gravinave do canhão rotativo GAU-4, que também utiliza munição 20x102mm NATO. A torre montada na nave possui um cano mais longo para aumentar o alcance efetivo, mas isso também cria um ponto cego maior em combates de curto alcance.</DMSE_Gun_Vulcan_WingBack.description>
+  <DMSE_Gun_Vulcan_WingBack.label>GAU-4 “Wing-Back”</DMSE_Gun_Vulcan_WingBack.label>
+  <DMSE_Incoming_AdvancedBallisticMissile.label>míssil balístico avançado (chegando)</DMSE_Incoming_AdvancedBallisticMissile.label>
+  <DMSE_Incoming_AdvancedCruiseMissile.label>míssil de cruzeiro avançado (chegando)</DMSE_Incoming_AdvancedCruiseMissile.label>
+  <DMSE_Incoming_AdvancedLightMissile.label>míssil leve avançado (chegando)</DMSE_Incoming_AdvancedLightMissile.label>
+  <DMSE_Incoming_CruiseMissile.label>míssil de cruzeiro (chegando)</DMSE_Incoming_CruiseMissile.label>
+  <DMSE_Incoming_LegacyBallisticMissile.label>míssil balístico legado (chegando)</DMSE_Incoming_LegacyBallisticMissile.label>
+  <DMSE_Incoming_LegacyInterceptor.label>interceptador legado (chegando)</DMSE_Incoming_LegacyInterceptor.label>
+  <DMSE_Incoming_LegacyLoiter.label>munição vagante legada (chegando)</DMSE_Incoming_LegacyLoiter.label>
+  <DMSE_Incoming_LightMissile.label>míssil leve (chegando)</DMSE_Incoming_LightMissile.label>
+  <DMSE_Incoming_Loiter.label>munição vagante (chegando)</DMSE_Incoming_Loiter.label>
+  <DMSE_Incoming_Maverick.label>míssil de ataque terrestre (chegando)</DMSE_Incoming_Maverick.label>
+  <DMSE_Incoming_Moskit.label>míssil antinavio supersônico (chegando)</DMSE_Incoming_Moskit.label>
+  <DMSE_Incoming_Sabre.label>munição vagante leve (chegando)</DMSE_Incoming_Sabre.label>
+  <DMSE_Incoming_Shahed.label>munição vagante de longo alcance (chegando)</DMSE_Incoming_Shahed.label>
+  <DMSE_Incoming_Sparrow.label>míssil terra-ar avançado (chegando)</DMSE_Incoming_Sparrow.label>
+  <DMSE_Incoming_Stinger.label>míssil terra-ar leve (chegando)</DMSE_Incoming_Stinger.label>
+  <DMSE_Incoming_Tochka.label>míssil balístico tático (chegando)</DMSE_Incoming_Tochka.label>
+  <DMSE_Incoming_Yj.label>míssil antinavio hipersônico (chegando)</DMSE_Incoming_Yj.label>
+  <DMSE_InterceptDebrisChunk.label>destroços interceptados</DMSE_InterceptDebrisChunk.label>
+  <DMSE_InterceptProjectile.label>projétil interceptador</DMSE_InterceptProjectile.label>
+  <DMSE_InterceptorMissile.description>Um projétil interceptador terra-ar pronto para o disparo. Carregado no contêiner interno de um lançador SAM, é utilizado um por engajamento para destruir ameaças vindas em direção à nave durante a fase intermediária de combate além do alcance visual.</DMSE_InterceptorMissile.description>
+  <DMSE_InterceptorMissile.label>míssil interceptador</DMSE_InterceptorMissile.label>
+  <DMSE_LaserDesignatorMark.description>Um ponto-alvo marcado por um designador laser. Mísseis guiados a laser disparados pela mesma facção seguem a marcação mais recente no mapa-alvo. Não pode ser danificado e desaparece sozinho após algum tempo.</DMSE_LaserDesignatorMark.description>
+  <DMSE_LaserDesignatorMark.label>marcação a laser</DMSE_LaserDesignatorMark.label>
+  <DMSE_Launch_AdvancedBallistic.label>míssil balístico avançado (lançando)</DMSE_Launch_AdvancedBallistic.label>
+  <DMSE_Launch_AdvancedCruise.label>míssil de cruzeiro avançado (lançando)</DMSE_Launch_AdvancedCruise.label>
+  <DMSE_Launch_AdvancedLight.label>míssil leve avançado (lançando)</DMSE_Launch_AdvancedLight.label>
+  <DMSE_Launch_LegacyBallistic.label>míssil balístico legado (lançando)</DMSE_Launch_LegacyBallistic.label>
+  <DMSE_Launch_LegacyInterceptor.label>interceptador legado (lançando)</DMSE_Launch_LegacyInterceptor.label>
+  <DMSE_Launch_LegacyLoiter.label>munição vagante legada (lançando)</DMSE_Launch_LegacyLoiter.label>
+  <DMSE_Launch_Light.label>míssil leve (lançando)</DMSE_Launch_Light.label>
+  <DMSE_Launch_Loiter.label>munição vagante (lançando)</DMSE_Launch_Loiter.label>
+  <DMSE_Launch_Maverick.label>míssil de ataque terrestre (lançando)</DMSE_Launch_Maverick.label>
+  <DMSE_Launch_Moskit.label>míssil antinavio supersônico (lançando)</DMSE_Launch_Moskit.label>
+  <DMSE_Launch_Sabre.label>munição vagante leve (lançando)</DMSE_Launch_Sabre.label>
+  <DMSE_Launch_Shahed.label>munição vagante de longo alcance (lançando)</DMSE_Launch_Shahed.label>
+  <DMSE_Launch_Sparrow.label>míssil terra-ar avançado (lançando)</DMSE_Launch_Sparrow.label>
+  <DMSE_Launch_Stinger.label>míssil terra-ar leve (lançando)</DMSE_Launch_Stinger.label>
+  <DMSE_Launch_Tochka.label>míssil balístico tático (lançando)</DMSE_Launch_Tochka.label>
+  <DMSE_Launch_Yj.label>míssil antinavio hipersônico (lançando)</DMSE_Launch_Yj.label>
+  <DMSE_LoiteringRack.description>Um suporte para armazenamento de munições vagantes. As munições armazenadas não se deterioram.</DMSE_LoiteringRack.description>
+  <DMSE_LoiteringRack.label>suporte para munições vagantes</DMSE_LoiteringRack.label>
+  <DMSE_Mech_ClusterWeaver.description>Conhecido como "Tecelão de Fragmentos", o "Sakalava" da United Army Systems é um transportador de UAVs superpesado impulsionado por múltiplas hélices rotativas. Com sua estrutura de 5 metros de envergadura, carrega um compartimento de drones que pode transportar até 30 drones suicidas e guiá-los com precisão a quilômetros de distância. Embora ainda não seja um fator decisivo em guerras totais, continua sendo uma das ameaças mais temidas entre grupos armados locais africanos após a Terceira Guerra Mundial, superado apenas pelos enxames de Wyvern.\n\nO Tecelão de Fragmentos utiliza uma estrutura de fibra de carbono reforçada com metal como material principal e praticamente não possui blindagem adicional. Mesmo assim, seu radar de alta precisão e três torretas de precisão podem aniquilar inimigos antes que consigam se aproximar o suficiente para emboscá-lo.</DMSE_Mech_ClusterWeaver.description>
+  <DMSE_Mech_ClusterWeaver.label>tecelão de fragmentos</DMSE_Mech_ClusterWeaver.label>
+  <DMSE_MicrogravityFacility.description>Uma máquina de fabricação aditiva extremamente sofisticada, projetada para processamento em nanoescala e capaz de atender às demandas de ambientes de produção extremos e exigentes. Pode produzir com excepcional precisão mesmo em condições como microgravidade, vácuo, ultra-alta pressão e temperaturas extremas.</DMSE_MicrogravityFacility.description>
+  <DMSE_MicrogravityFacility.label>Centro de fabricação de precisão</DMSE_MicrogravityFacility.label>
+  <DMSE_MissileAssemblyBench.description>Um pórtico de dois por quatro onde mísseis são montados a partir de uma fuselagem vazia e das peças escolhidas. Os mísseis concluídos podem aguardar na bancada para serem carregados em um lançador ou enviados para o armazenamento.\n\nArmários de ferramentas e armários de máquinas próximos aceleram o trabalho. Trabalhar ao ar livre ou em temperaturas desconfortáveis o torna mais lento.</DMSE_MissileAssemblyBench.description>
+  <DMSE_MissileAssemblyBench.label>bancada de montagem de mísseis</DMSE_MissileAssemblyBench.label>
+  <DMSE_MissileRack.description>Um suporte metálico que comporta até quatro mísseis leves. Os mísseis armazenados são protegidos das intempéries e não se deterioram.</DMSE_MissileRack.description>
+  <DMSE_MissileRack.label>suporte de mísseis</DMSE_MissileRack.label>
+  <DMSE_Missile_AdvancedCruise.description>Um míssil de cruzeiro furtivo que segue o relevo durante a aproximação. É muito mais preciso que o antigo míssil Scorer.\n\nEquipa uma ogiva perfurante, sistema de guiagem por acompanhamento de terreno e um motor turbofan. As peças podem ser alteradas na aba de montagem.</DMSE_Missile_AdvancedCruise.description>
+  <DMSE_Missile_AdvancedCruise.label>míssil de cruzeiro avançado</DMSE_Missile_AdvancedCruise.label>
+  <DMSE_Missile_AdvancedLight.description>Um míssil compacto multiuso, preciso e capaz de carregar mais que os antigos mísseis leves.\n\nEquipa uma ogiva de carga moldada em tandem e um buscador de imagem automático. As peças podem ser alteradas na aba de montagem.</DMSE_Missile_AdvancedLight.description>
+  <DMSE_Missile_AdvancedLight.label>míssil de uso geral avançado</DMSE_Missile_AdvancedLight.label>
+  <DMSE_Missile_Grison.description>Um míssil antiaéreo de curto alcance para torretas de defesa aérea de campo, guiado por comando via rádio.</DMSE_Missile_Grison.description>
+  <DMSE_Missile_Grison.label>míssil antiaéreo de campo</DMSE_Missile_Grison.label>
+  <DMSE_Missile_LegacyLoiter.description>Uma munição vagante primitiva movida a pulsorreator, voando em rumo pré-definido por um piloto automático mecânico. É lenta, barulhenta e imprecisa, mas simples o suficiente para ser construída com pouco mais que aço e combustível.\n\nDisparada por um trilho de lançamento. Vem em configuração fixa.</DMSE_Missile_LegacyLoiter.description>
+  <DMSE_Missile_LegacyLoiter.label>munição vagante legada</DMSE_Missile_LegacyLoiter.label>
+  <DMSE_Missile_Maverick.description>Um míssil leve de ataque ao solo com buscador de TV e infravermelho. É ideal para destruir um alvo específico, não para nivelar uma base inteira.</DMSE_Missile_Maverick.description>
+  <DMSE_Missile_Maverick.label>míssil de ataque ao solo</DMSE_Missile_Maverick.label>
+  <DMSE_Missile_Moskit.description>Um grande míssil antinavio supersônico movido a estatorreator. Ele desliza rente à água na aproximação final, deixando às defesas de curto alcance apenas segundos para reagir. É caro, mas um único acerto pode retirar um navio de guerra do combate.</DMSE_Missile_Moskit.description>
+  <DMSE_Missile_Moskit.label>míssil antinavio supersônico</DMSE_Missile_Moskit.label>
+  <DMSE_Missile_Rheintochter.description>Um interceptador guiado primitivo com quatro aletas grandes e um enlace de comando via rádio. Após o lançamento, ele circula sobre a área-alvo até que um operador o direcione a uma ameaça em aproximação. É lento e raramente acerta, mas é um verdadeiro interceptador guiado.\n\nDisparado pela rede de controle de fogo. Vem em configuração fixa.</DMSE_Missile_Rheintochter.description>
+  <DMSE_Missile_Rheintochter.label>munição vagante interceptora legada</DMSE_Missile_Rheintochter.label>
+  <DMSE_Missile_Sabre.description>Uma munição vagante lançada por tubo, com asas dobráveis e buscador por reconhecimento de imagem. Ela se encaixa em um lançador portátil terra-ar, que a dispara contra alvos terrestres muito além do alcance de um míssil terra-ar convencional. Também pode ser disparada por um trilho de lançamento para um ataque de curto alcance: seu buscador persegue a criatura inimiga mais perigosa a céu aberto, e seu sistema de voo vagante o mantém circulando até que uma apareça.\n\nNão pode interceptar ameaças em aproximação. Vem em configuração fixa e não pode ser modificada.</DMSE_Missile_Sabre.description>
+  <DMSE_Missile_Sabre.label>munição vagante leve Sabre</DMSE_Missile_Sabre.label>
+  <DMSE_Missile_Shahed.description>Um drone de ataque barato em configuração delta com hélice impulsora, lançado por trilho. Voa por grande distância com uma pequena ogiva, mas é lento e fácil de abater.\n\nEquipa guiagem inercial, que dispersa os impactos ao redor do centro do mapa-alvo. Um módulo opcional de guiagem por TV permite escolher o ponto de impacto, mas consome um canal extra da rede de controle de fogo.</DMSE_Missile_Shahed.description>
+  <DMSE_Missile_Shahed.label>munição vagante de longo alcance</DMSE_Missile_Shahed.label>
+  <DMSE_Missile_Sparrow.description>Um míssil terra-ar de alcance médio com guiagem semiautônoma por radar. É mais rápido, tem maior alcance e é mais preciso que mísseis terra-ar leves, mas um radar de controle de fogo deve manter o alvo iluminado até o impacto.</DMSE_Missile_Sparrow.description>
+  <DMSE_Missile_Sparrow.label>míssil terra-ar avançado</DMSE_Missile_Sparrow.label>
+  <DMSE_Missile_Stinger.description>Um míssil terra-ar portátil e esguio com buscador passivo por calor. Tem curto alcance e ogiva pequena, e tem dificuldade contra alvos rápidos ou ágeis, mas se encaixa em praticamente qualquer lançador.</DMSE_Missile_Stinger.description>
+  <DMSE_Missile_Stinger.label>míssil terra-ar leve</DMSE_Missile_Stinger.label>
+  <DMSE_Missile_Termite.description>Uma munição vagante antinavio com asas dobráveis, movida por um pequeno turbojato. É lenta e levemente armada, mas barata, é disparada por um trilho terrestre e persegue navios em movimento com seu próprio buscador.</DMSE_Missile_Termite.description>
+  <DMSE_Missile_Termite.label>munição vagante antinavio</DMSE_Missile_Termite.label>
+  <DMSE_Missile_Tochka.description>Um míssil balístico tático de combustível sólido, disparado por um lançador inclinado ou por uma célula de lançamento vertical. Sobe a grande altitude e depois mergulha íngreme em alvos distantes, com precisão suficiente para atingir um depósito ou posto de comando.</DMSE_Missile_Tochka.description>
+  <DMSE_Missile_Tochka.label>míssil balístico tático</DMSE_Missile_Tochka.label>
+  <DMSE_Missile_Yj.description>Um míssil antinavio hipersônico com propulsor de foguete e estágio de cruzeiro por estatorreator. Sua aproximação final muito baixa e muito rápida dá pouco tempo para que os defensores reajam. É extremamente caro.</DMSE_Missile_Yj.description>
+  <DMSE_Missile_Yj.label>míssil antinavio hipersônico</DMSE_Missile_Yj.label>
+  <DMSE_Modular_AR.description>Um fuzil de assalto que utiliza munição sem estojo e um receptor composto, oferecendo taxa de disparo em rajada equilibrada e capacidade de carregador com opções de acessórios específicas para cada missão.\n\nSua linhagem remonta à era da Guerra Fria na Terra, quando o Escritório Mecânico de Berlim precisava de uma plataforma de armas altamente padronizada para equipar grandes formações mecanizadas. Isso resultou na família MCR, liderada pelo G93MCR e sua munição sem estojo universal 5x50 correspondente. Esse tipo de munição possui desempenho balístico estável e é compatível com todas as armas da série MCR.</DMSE_Modular_AR.description>
+  <DMSE_Modular_AR.label>fuzil de assalto sem estojo</DMSE_Modular_AR.label>
+  <DMSE_Modular_AR.tools.0.label>coronha</DMSE_Modular_AR.tools.0.label>
+  <DMSE_Modular_AR.tools.1.label>cano</DMSE_Modular_AR.tools.1.label>
+  <DMSE_Modular_C95BP_Pistol.description>Uma pistola automática que utiliza munição sem estojo, tipicamente empregada para defesa pessoal.</DMSE_Modular_C95BP_Pistol.description>
+  <DMSE_Modular_C95BP_Pistol.label>pistola automática sem estojo</DMSE_Modular_C95BP_Pistol.label>
+  <DMSE_Modular_C95BP_Pistol.tools.0.label>empunhadura</DMSE_Modular_C95BP_Pistol.tools.0.label>
+  <DMSE_Modular_C95_Pistol.description>Uma pistola semiautomática que utiliza munição sem estojo, comumente empregada para defesa pessoal.</DMSE_Modular_C95_Pistol.description>
+  <DMSE_Modular_C95_Pistol.label>pistola sem estojo</DMSE_Modular_C95_Pistol.label>
+  <DMSE_Modular_C95_Pistol.tools.0.label>empunhadura</DMSE_Modular_C95_Pistol.tools.0.label>
+  <DMSE_Modular_LMG.description>Uma metralhadora leve que utiliza materiais compostos para reduzir o peso e emprega munição sem estojo. Sua alta capacidade de munição, aliada a um peso bem controlado e dimensões compactas, garante excepcional desempenho em combate sustentado.</DMSE_Modular_LMG.description>
+  <DMSE_Modular_LMG.label>metralhadora leve sem estojo</DMSE_Modular_LMG.label>
+  <DMSE_Modular_PDW.description>Uma arma de defesa pessoal compacta e leve, projetada para fornecer poder de fogo suficiente para tripulações de veículos se protegerem. Possui um sistema de troca rápida de carregador e pode receber acessórios conforme as necessidades do usuário.</DMSE_Modular_PDW.description>
+  <DMSE_Modular_PDW.label>arma de defesa pessoal sem estojo</DMSE_Modular_PDW.label>
+  <DMSE_Modular_PDW.tools.0.label>empunhadura</DMSE_Modular_PDW.tools.0.label>
+  <DMSE_Modular_PDW.tools.1.label>cano</DMSE_Modular_PDW.tools.1.label>
+  <DMSE_Nitrogallium.description>Um material semicondutor com excelente condutividade térmica. Esse composto monocristalino vítreo tem sido amplamente utilizado na maioria dos mundos coloniais para substituir materiais semicondutores à base de silício em diversas aplicações eletrônicas, e também pode prevenir a rejeição de tecidos biológicos por próteses biônicas. O processo de produção do nitrogálio requer um ambiente a vácuo para evitar contaminação química do ar. Ele "cultiva" a estrutura cristalina sobre um substrato por deposição em vapor. Portanto, mundos que utilizam esse material em larga escala geralmente possuem instalações de produção a vácuo especializadas para fabricá-lo e processá-lo em ambiente selado.</DMSE_Nitrogallium.description>
+  <DMSE_Nitrogallium.label>nitrogálio</DMSE_Nitrogallium.label>
+  <DMSE_NuclearThruster.description>Um propulsor nuclear-térmico pesado que gera empuxo ao aquecer hidrogênio líquido por meio de fusão nuclear. Seu impulso específico é mais que o dobro dos foguetes químicos convencionais. Esses motores de alto empuxo são comumente usados em rebocadores interestelares para realizar transferências orbitais importantes de grandes plataformas. Como a operação de lançamento produz contaminação radioativa substancial, este motor foi projetado exclusivamente para uso não atmosférico.\n\nAntes da introdução do propulsor Tanaka-Johnson, a humanidade utilizava essa classe de propulsor para acelerar a primeira nave subluz ao sistema de Alpha Centauri a 20% da velocidade da luz, recebendo a primeira selfie fora do Sistema Solar dez anos depois.\n\nMotor de transferência: empuxo muito alto, impulso específico excepcional. Altamente radioativo. Uso exclusivamente fora da atmosfera.</DMSE_NuclearThruster.description>
+  <DMSE_NuclearThruster.label>propulsor nuclear-térmico</DMSE_NuclearThruster.label>
+  <DMSE_OxygenCandle.description>Um dispositivo descartável de suprimento de oxigênio que gera oxigênio respirável ao queimar clorato de sódio, mantendo um suprimento de oxigênio por 24 horas em uma cabine selada antes de se esgotar.\n\nFoi amplamente utilizado para uso emergencial em ambientes fechados, como aeronaves, submarinos e espaçonaves tripuladas. Durante a era da colonização espacial, também se tornou um recurso padrão em abrigos de descompressão.</DMSE_OxygenCandle.description>
+  <DMSE_OxygenCandle.label>vela de oxigênio</DMSE_OxygenCandle.label>
+  <DMSE_PackCrate.description>Um pacote padrão contendo suprimentos para logística militar. Esses pacotes parecem ter sido produzidos recentemente e enviados para vários locais.</DMSE_PackCrate.description>
+  <DMSE_PackCrate.label>pacote militar</DMSE_PackCrate.label>
+  <DMSE_PhaseArrayRadar.description>Um radar de matriz em fase fixo que combina busca e controle de fogo. Pode rastrear e guiar mais de vinte mísseis ao mesmo tempo, em ataque ou defesa, e serve como núcleo de uma rede de defesa aérea.\n\nMuito caro e consome uma grande parte da energia da colônia.</DMSE_PhaseArrayRadar.description>
+  <DMSE_PhaseArrayRadar.label>radar de matriz em fase</DMSE_PhaseArrayRadar.label>
+  <DMSE_PhotovoltaicPanel.description>Um painel solar que gera energia pelo princípio fotovoltaico. Ele filtra a luz através de um revestimento de grafeno e utiliza a faixa da luz verde para convertê-la em eletricidade estável e utilizável. No entanto, como a luz verde é facilmente dispersa na atmosfera, esse tipo de painel solar só pode ser usado no vácuo. Mesmo assim, devido à refração atmosférica, pode gerar eletricidade com potência reduzida até durante a noite.</DMSE_PhotovoltaicPanel.description>
+  <DMSE_PhotovoltaicPanel.label>painel fotovoltaico</DMSE_PhotovoltaicPanel.label>
+  <DMSE_PlatformHull.description>Uma parede hermética resistente que impede vazamentos de oxigênio no vácuo do espaço. Uma variante do casco de gravinave que se ancora ao convés de plataformas orbitais ao invés da subestrutura, podendo ser construída apenas em plataformas. Seções do casco que se tocam apenas nos cantos são unidas em uma parede diagonal lisa.</DMSE_PlatformHull.description>
+  <DMSE_PlatformHull.label>casco de plataforma</DMSE_PlatformHull.label>
+  <DMSE_Projectile_Sabre.label>munição vagante leve</DMSE_Projectile_Sabre.label>
+  <DMSE_Projectile_Stinger.label>míssil terra-ar leve</DMSE_Projectile_Stinger.label>
+  <DMSE_Sealed_Wall.description>Uma estrutura com camadas de vedação a vácuo feitas de fibra plástica. Permite que instalações equipadas com bombas de vácuo mantenham efetivamente um ambiente de vácuo suficientemente grande à pressão atmosférica. Ideal para armazenar produtos extremamente inflamáveis ou simplesmente para contenção de entidades.</DMSE_Sealed_Wall.description>
+  <DMSE_Sealed_Wall.label>parede de vedação a vácuo</DMSE_Sealed_Wall.label>
+  <DMSE_SearchRadar.description>Um radar de busca ativo com antena rotativa. Encontra e rastreia ameaças vindouras para toda a rede de defesa aérea, mas não pode guiar interceptadores por conta própria.\n\nConsome muita energia. Suas emissões podem ser rastreadas por mísseis antirradiação.</DMSE_SearchRadar.description>
+  <DMSE_SearchRadar.label>radar de busca</DMSE_SearchRadar.label>
+  <DMSE_SkyFaller_CruiseMissile.label>míssil de cruzeiro (em voo)</DMSE_SkyFaller_CruiseMissile.label>
+  <DMSE_SkyFaller_Interceptor.label>míssil interceptador</DMSE_SkyFaller_Interceptor.label>
+  <DMSE_SkyFaller_LightMissile.label>míssil leve (em voo)</DMSE_SkyFaller_LightMissile.label>
+  <DMSE_SkyFaller_Loiter.label>munição vagante (em voo)</DMSE_SkyFaller_Loiter.label>
+  <DMSE_SolarShield.description>Um gerador massivo de campo magnético, amplamente utilizado pela frota colonial em instalações orbitais automatizadas, que efetivamente protege contra radiação solar incidente, protegendo a área contra erupções solares.</DMSE_SolarShield.description>
+  <DMSE_SolarShield.label>dispositivo de blindagem solar</DMSE_SolarShield.label>
+  <DMSE_SolidRocketThruster.description>Um propulsor descartável simples e confiável. Fornece empuxo ao pré-misturar combustível e oxidante em um grão de propelente sólido, que queima ao ser acionado gerando gás em alta temperatura. Possui capacidade de partida rápida. É comumente usado como reforço de foguete ou propulsão inicial para mísseis estratégicos em muitos planetas pré-espaciais, e também frequentemente usado como extensão temporária de alcance para naves pequenas e médias durante voos suborbitais.\n\nEm uma nave construída a partir de estacas estruturais, adiciona empuxo à queima de partida de um voo de transferência, aumentando a relação empuxo-peso da decolagem sem usar combustível da nave, e se esgota ao final da queima de partida. Pode ser construído em plataformas.</DMSE_SolidRocketThruster.description>
+  <DMSE_SolidRocketThruster.label>reforço de foguete</DMSE_SolidRocketThruster.label>
+  <DMSE_StaircaseEntrance.description>A entrada para uma instalação subterrânea abandonada há muito tempo. Hackeie-a para abrir a escotilha.</DMSE_StaircaseEntrance.description>
+  <DMSE_StaircaseEntrance.label>entrada de depósito antigo</DMSE_StaircaseEntrance.label>
+  <DMSE_StaircaseEntrance_Ancient.description>A entrada para uma instalação subterrânea abandonada há muito tempo. Hackeie-a para abrir a escotilha.</DMSE_StaircaseEntrance_Ancient.description>
+  <DMSE_StaircaseEntrance_Ancient.label>entrada de depósito antigo</DMSE_StaircaseEntrance_Ancient.label>
+  <DMSE_StaircaseEntrance_White.description>A entrada para uma instalação subterrânea abandonada há muito tempo. Hackeie-a para abrir a escotilha.</DMSE_StaircaseEntrance_White.description>
+  <DMSE_StaircaseEntrance_White.label>entrada de depósito antigo</DMSE_StaircaseEntrance_White.label>
+  <DMSE_StaircaseExit.description>Uma escada que leva à superfície acima.</DMSE_StaircaseExit.description>
+  <DMSE_StaircaseExit.label>saída da escada</DMSE_StaircaseExit.label>
+  <DMSE_StaircaseExit_Ancient.description>Uma escada que leva à superfície acima.</DMSE_StaircaseExit_Ancient.description>
+  <DMSE_StaircaseExit_Ancient.label>saída de escada antiga</DMSE_StaircaseExit_Ancient.label>
+  <DMSE_StaircaseExit_White.description>Uma escada que leva à superfície acima.</DMSE_StaircaseExit_White.description>
+  <DMSE_StaircaseExit_White.label>saída da escada</DMSE_StaircaseExit_White.label>
+  <DMSE_StealthDevice.description>Um gerador massivo de campo de plasma, amplamente utilizado pela frota colonial em instalações orbitais automatizadas, que efetivamente bloqueia sinais vitais internos, camuflando o dispositivo no espaço e tornando-o invisível a radares ativos.\n\nOs sinais vitais internos aumentam o consumo de energia do dispositivo, exigindo um dia para resfriar e recarregar após uma camuflagem bem-sucedida.</DMSE_StealthDevice.description>
+  <DMSE_StealthDevice.label>dispositivo de furtividade de sinal</DMSE_StealthDevice.label>
+  <DMSE_StrikeCommandCenter.description>Um centro de direção de fogo automatizado para ataques coordenados com mísseis. Escolha um alvo no mundo, atribua os mísseis de ataque carregados nos lançadores deste mapa a ondas e dispare-os onda por onda para que mísseis baratos atraiam os interceptores inimigos para longe dos mais valiosos. Cada onda é limitada pelos canais de orientação livres dos radares de controle de fogo deste mapa; cada míssil lançado ocupa um canal por um curto período de orientação. Confirmar um plano reserva seus mísseis e inicia um curto cálculo automático da solução de tiro.</DMSE_StrikeCommandCenter.description>
+  <DMSE_StrikeCommandCenter.label>centro de comando de ataque</DMSE_StrikeCommandCenter.label>
+  <DMSE_StrikePlanningTable.description>Uma mesa de plotagem com tabelas balísticas e réguas de cálculo para planejar ataques coordenados com mísseis manualmente. Planeja ondas como o centro de comando de ataque, mas, uma vez confirmado o plano, um colono deve calcular as soluções de tiro aqui como trabalho de pesquisa. As soluções são calculadas míssil por míssil na ordem das ondas, para que a primeira onda possa ser disparada enquanto as ondas posteriores ainda estão sendo calculadas. Não precisa de energia, mas cada onda ainda é limitada pelos canais de orientação livres dos radares de controle de fogo deste mapa.</DMSE_StrikePlanningTable.description>
+  <DMSE_StrikePlanningTable.label>mesa de planejamento de ataque</DMSE_StrikePlanningTable.label>
+  <DMSE_StructuralPile.description>Uma estaca estrutural pesada que demarca uma seção de terreno. Estacas unidas por vigas de aço podem ser destacadas e movidas juntas como uma única nave. Pequenas estacas estruturais podem ser construídas dentro do seu alcance de ligação. Não pode ser construída em plataformas orbitais pré-construídas e seu casco nunca a inclui; use uma estaca de ancoragem estrutural para isso.</DMSE_StructuralPile.description>
+  <DMSE_StructuralPile.label>estaca estrutural grande</DMSE_StructuralPile.label>
+  <DMSE_StructuralPileSmall.description>Uma estaca estrutural que demarca uma seção menor de terreno. Não possui alcance de ligação próprio: deve ser construída dentro do alcance de ligação de uma estaca estrutural grande ou de uma estaca de ancoragem estrutural e não pode ser unida a outras estacas estruturais pequenas. Não pode ser construída em plataformas orbitais pré-construídas e seu casco nunca a inclui.</DMSE_StructuralPileSmall.description>
+  <DMSE_StructuralPileSmall.label>estaca estrutural pequena</DMSE_StructuralPileSmall.label>
+  <DMSE_StructuralPileVacuum.description>Uma grande estrutura metálica reforçada que impede que estruturas celestes, como asteroides e plataformas orbitais, desabem em grande escala sob cargas variáveis durante sua movimentação. Cada estaca de ancoragem fixa a estrutura do piso dentro do seu raio, e pode ser unida a estacas de ancoragem em alcances vizinhos por estruturas de aço para formar uma rede estrutural que grandes propulsores podem mover. Isso permite que asteroides e plataformas orbitais sejam realocados para novas posições de forma eficaz e segura, ou até mesmo usados como base móvel em órbita.\n\nSó pode ser construída no espaço. Fixa todo o solo sólido ali, como vacrocha de asteroide, solo terraformado e plataformas orbitais pré-construídas, mas não plataformas orbitais construídas ou plataformas leves; as seções do casco que tocam apenas nos cantos são unidas em uma parede diagonal lisa.</DMSE_StructuralPileVacuum.description>
+  <DMSE_StructuralPileVacuum.label>estaca de ancoragem estrutural</DMSE_StructuralPileVacuum.label>
+  <DMSE_TableArtifuscle.description>Uma peça massiva de equipamento industrial usada para montar artifúsculo e neutroamina.</DMSE_TableArtifuscle.description>
+  <DMSE_TableArtifuscle.label>montador orgânico</DMSE_TableArtifuscle.label>
+  <DMSE_TableLathe.description>Uma máquina que combina os processos de forja e torno, girando a peça de trabalho em torno de um eixo de rotação para realizar diversas operações.</DMSE_TableLathe.description>
+  <DMSE_TableLathe.label>forjador rotativo</DMSE_TableLathe.label>
+  <DMSE_TantastenAlloy.description>Uma liga especial composta por tântalo e tungstênio. É dura, resistente ao desgaste, à corrosão e possui um ponto de fusão extremamente alto, chegando a 3080 °C, tornando-a amplamente utilizada em bicos De Laval de motores de foguete e em propulsores de pulso de mecanoides militares de alto desempenho. \n\nO tântalo é encontrado em quantidades vestigiais em asteróides e pode ser extraído por meio da mineração de vacuólito. Seu processamento e produção devem ser realizados em ambiente a vácuo para evitar a contaminação por gases como nitrogênio e oxigênio. Portanto, mundos capazes de produzir e aplicar essa liga em larga escala costumam contar com grandes plataformas industriais em órbita dedicadas à sua fabricação e ao seu processamento.</DMSE_TantastenAlloy.description>
+  <DMSE_TantastenAlloy.label>Tantastênio</DMSE_TantastenAlloy.label>
+  <DMSE_TransferConsole.description>Controla voos de transferência da nave em que está instalada. Planeje um destino, verifique o combustível e a prontidão e inicie o lançamento.</DMSE_TransferConsole.description>
+  <DMSE_TransferConsole.label>console de voo de transferência</DMSE_TransferConsole.label>
+  <DMSE_Turret_Dawnblade_Striker.description>O MPQFS-85 "Dawnblade" é um sistema de canhão multifuncional de tiro rápido embarcado. Utiliza carregadores tipo tambor e um carregador revolver automático para permitir uma alta taxa de fogo sustentado.</DMSE_Turret_Dawnblade_Striker.description>
+  <DMSE_Turret_Dawnblade_Striker.label>Dawnblade "Striker"</DMSE_Turret_Dawnblade_Striker.label>
+  <DMSE_Turret_Empero.description>O NK-30 "Empero" é um canhão pesado de longo alcance com velocidade de saída extremamente alta. Ele dispara projéteis precisos contra alvos distantes, suprimindo o fogo inimigo e destruindo instalações. Em curto alcance, dispara cargas reduzidas em baixa velocidade para um tiro em mergulho, ainda com altíssima precisão. Ao bombardear um alvo no mapa-múndi, continua disparando até ser interrompido, ficar sem energia ou sem projéteis. Cada disparo consome um projétil de morteiro altamente explosivo.\n\nProjéteis não guiados se espalham amplamente em longos alcances e só atingem perto do centro da área-alvo. Se um radar de controle de fogo compatível com orientação de artilharia tiver um canal livre no momento do disparo, o projétil será guiado por radar contra torretas inimigas, construções energizadas ou pessoas na área, reduzindo drasticamente sua dispersão.\n\nEssa torre utiliza canos superdimensionados e foi projetada para um único propósito: destruir alvos distantes com um poder de fogo brutal. Seu enorme recuo e peso exigem um chassi reforçado e uma fonte de energia considerável para operar.</DMSE_Turret_Empero.description>
+  <DMSE_Turret_Empero.label>canhão de longo alcance</DMSE_Turret_Empero.label>
+  <DMSE_Turret_LegacyFlak.description>Um canhão antiaéreo automático de 37 mm operado por tripulação, baseado no 3.7 cm Flak 43. Seu mecanismo a gás é alimentado por clipes de oito projéteis; o artilheiro gira os volantes e mira através de uma mira óptica. Projéteis de alto explosivo de pequeno calibre e rajadas rápidas o tornam útil contra alvos lentos e em voo baixo, mas não possui radar, acionamento elétrico ou controle de fogo automático.\n\nRequer um artilheiro. Dispara munição de 37 mm fornecida por aço contra alvos terrestres e contra mísseis que vêm em sua aproximação final. Requer pesquisa de radar e operação a gás.</DMSE_Turret_LegacyFlak.description>
+  <DMSE_Turret_LegacyFlak.label>canhão antiaéreo legado</DMSE_Turret_LegacyFlak.label>
+  <DMSE_Turret_Millennium.description>Um canhão antiaéreo moderno de 35 mm com munição de detonação aérea programável, rastreamento radar e eletro-óptico e um sistema de controle de fogo capaz de engajar vários alvos ao mesmo tempo. Sua taxa de interceptação é impressionante, assim como seu consumo de energia e munição — a cada engajamento, despeja uma caixa de prata nos céus.\n\nDispara projéteis de detonação aérea feitos de aço; cada rajada terminal queima dezenas deles.</DMSE_Turret_Millennium.description>
+  <DMSE_Turret_Millennium.label>canhão antiaéreo avançado</DMSE_Turret_Millennium.label>
+  <DMSE_Turret_Squall.description>Uma torreta sem estojo baseada em gravinave.</DMSE_Turret_Squall.description>
+  <DMSE_Turret_Squall.label>Squall</DMSE_Turret_Squall.label>
+  <DMSE_Turret_Vulcan_WingBack.description>Esta é uma variante embarcada em gravinave do canhão rotativo GAU-4, que também utiliza munição 20x102mm NATO. A torreta montada na nave possui um cano mais longo para aumentar o alcance efetivo, mas isso também introduz um ponto cego maior em engajamentos de curta distância.</DMSE_Turret_Vulcan_WingBack.description>
+  <DMSE_Turret_Vulcan_WingBack.label>GAU-4 "Wing-Back"</DMSE_Turret_Vulcan_WingBack.label>
+  <DMSE_VacuumPump.description>Uma bomba de gás que pode evacuar lentamente o ar de uma câmara selada para criar artificialmente uma zona a vácuo. É amplamente utilizada para atender aos requisitos ambientais de processos de produção especializados.\n\nNo entanto, deve-se notar que, ao ser usada em ambiente atmosférico, é necessária uma câmara de vácuo especializada para criar efetivamente uma zona a vácuo.</DMSE_VacuumPump.description>
+  <DMSE_VacuumPump.label>Bomba de vácuo</DMSE_VacuumPump.label>
+  <DMSE_VacuumRoom_Entrance.description>Entrada que leva a uma sala subterrânea selada. Por meio de múltiplas camadas de membrana de fibra plástica e escotilhas pressurizadas, essa sala pode manter o vácuo mesmo em condições atmosféricas planetárias. A pressão de gás no interior da instalação é completamente independente do ambiente externo.\n\nPortanto, antes de entrar, certifique-se de usar um traje pressurizado completo ou pressurizar todo o espaço para evitar queimaduras acidentais por vácuo.</DMSE_VacuumRoom_Entrance.description>
+  <DMSE_VacuumRoom_Entrance.label>sala selada a vácuo</DMSE_VacuumRoom_Entrance.label>
+  <DMSE_VacuumRoom_Exit.description>Uma saída selada a vácuo mantém a pressão da sala ao entrar ou sair.</DMSE_VacuumRoom_Exit.description>
+  <DMSE_VacuumRoom_Exit.label>saída da sala</DMSE_VacuumRoom_Exit.label>
+  <DMSE_VacuumRoom_Filled.description>Uma entrada preenchida, pronta para ser desmontada e ter seus recursos reciclados.</DMSE_VacuumRoom_Filled.description>
+  <DMSE_VacuumRoom_Filled.label>entrada preenchida</DMSE_VacuumRoom_Filled.label>
+  <DMSE_lathedeco.description>Sem descrição... ainda.</DMSE_lathedeco.description>
+  <DMSE_lathedeco.label>peça rotativa</DMSE_lathedeco.label>
+  <DMS_Apparel_Uniform.description>Um casaco típico para soldados rasos, projetado para manter o calor em clima frio.</DMS_Apparel_Uniform.description>
+  <DMS_Apparel_Uniform.label>Uniforme</DMS_Apparel_Uniform.label>
+  <DMS_Apparel_UniformCap.description>Um boné macio para militares, para ocasiões em que um capacete não é necessário ou não está disponível.</DMS_Apparel_UniformCap.description>
+  <DMS_Apparel_UniformCap.label>Boné de uniforme</DMS_Apparel_UniformCap.label>
+</LanguageData>

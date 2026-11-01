@@ -60,7 +60,7 @@
 
   <VF_BoardVehicle>Embarcar como {0}  [{1}]</VF_BoardVehicle>
   <VF_BoardVehicleGroup>Embarcar em {0}</VF_BoardVehicleGroup>
-  <VF_BoardVehicleGroupFail>Não é possível embarcar em {0}. {1}</VF_BoardVehicleGroupFail>
+  <VF_BoardVehicleGroupFail>Embarcar em {0} (Muitos selecionados)</VF_BoardVehicleGroupFail>
   <VF_BoardFailureTooMany>Muitos selecionados</VF_BoardFailureTooMany>
   <VF_BoardFailureNonCombatant>{0} é incapaz de violência</VF_BoardFailureNonCombatant>
 
@@ -170,8 +170,8 @@
 
   <VF_Electricity>Eletricidade</VF_Electricity>
   <VF_ElectricFlick>Ativar/desativar conexão com a rede elétrica.</VF_ElectricFlick>
-  <VF_ElectricFlickDesc>Quando sobre um condutor de energia, conecta-se à rede elétrica e transfere energia para recarregar sua bateria.\n\nConectado atualmente: {0}</VF_ElectricFlickDesc>
-  <VF_OutOfFuel>Impossível mover. {0_labelShort} precisa de mais combustível.</VF_OutOfFuel>
+  <VF_ElectricFlickDesc>Conecta à rede elétrica abaixo do veículo.</VF_ElectricFlickDesc>
+  <VF_OutOfFuel>Impossível mover. Sem combustível.</VF_OutOfFuel>
 
   <VF_AutoAssign>Auto-atribuir</VF_AutoAssign>
   <VF_Assigned>Atribuído</VF_Assigned>
@@ -245,7 +245,7 @@
   <VF_HandlerNotEnoughRoom>Falha ao adicionar {0} em {1}. Não há mais espaço disponível.</VF_HandlerNotEnoughRoom>
 
   <VF_NotEnoughToOperate>Não é possível mover. Precisa de mais tripulação para operar.</VF_NotEnoughToOperate>
-  <VF_UpgradeInProgress>Não é possível ligar a ignição enquanto {0_labelShort} está sendo aprimorado.</VF_UpgradeInProgress>
+  <VF_UpgradeInProgress>Não é possível mobilizar enquanto o veículo está sendo aprimorado.</VF_UpgradeInProgress>
   <VF_NotEnoughCrew>Não há colonos suficientes em {0} para operar {1}.</VF_NotEnoughCrew>
 
   <VF_CannotFit>Espaço insuficiente.</VF_CannotFit>
@@ -454,7 +454,7 @@
   <VF_RateOfFireValue>{0} tiros / minuto</VF_RateOfFireValue>
   <VF_ShotsPerBurst>Tiros por rajada</VF_ShotsPerBurst>
   <VF_ShotGroup>Grupo de Tiro</VF_ShotGroup>
-  <VF_ShotGroupValue>{0} célula{0_multiple ? s : }</VF_ShotGroupValue>
+  <VF_ShotGroupValue>{0} células</VF_ShotGroupValue>
 
   <VF_MainSettings>Principal</VF_MainSettings>
   <VF_ListSearchText>Buscar...</VF_ListSearchText>

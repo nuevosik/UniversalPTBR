@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ASF_AutomaticallyOpenContentsTab>Abrir aba de conteúdos automaticamente</ASF_AutomaticallyOpenContentsTab>
+  <ASF_AutomaticallyOpenContentsTabDescription>Selecionar uma construção de armazenamento abre automaticamente sua aba de Conteúdos com esta opção ativada, ou as configurações de armazenamento quando estiver vazia.</ASF_AutomaticallyOpenContentsTabDescription>
+  <ASF_DefaultLabelStyleDescription>O que exibir nos rótulos de armazenamento no mapa. Construções individuais podem substituir isso em suas configurações.</ASF_DefaultLabelStyleDescription>
+  <ASF_DefaultLabelStyleSetting>Estilo de rótulo padrão</ASF_DefaultLabelStyleSetting>
+  <ASF_DropSpecificCount>Soltar quantidade específica</ASF_DropSpecificCount>
+  <ASF_Empty>vazio</ASF_Empty>
+  <ASF_HideLabelsMouseOverDescription>Afeta os rótulos exibidos no mapa, como [ quantidade ] ou Item xY. Quando ativado, só os exibe quando o mouse estiver sobre eles. Substituído pelo mod Toggleable Overlays quando ativado.</ASF_HideLabelsMouseOverDescription>
+  <ASF_HideLabelsMouseOverSetting>Ocultar rótulos até passar o mouse</ASF_HideLabelsMouseOverSetting>
+  <ASF_HideLabelsZoomDescription>Afeta os rótulos exibidos no mapa, como [ quantidade ] ou Item xY. Quando ativado, só os exibe em um nível de zoom próximo.</ASF_HideLabelsZoomDescription>
+  <ASF_HideLabelsZoomSetting>Ocultar rótulos ao dar zoom para longe</ASF_HideLabelsZoomSetting>
+  <ASF_MapFilled>Você preencheu o mapa.</ASF_MapFilled>
+  <ASF_MaxNumStacks>número máximo de pilhas por célula</ASF_MaxNumStacks>
+  <ASF_MaxNumStacksDesc>O número máximo de pilhas que podem caber em um único espaço. Construções com duas células terão o dobro de capacidade de armazenamento.\n\nObserve que outros fatores podem reduzir a capacidade de armazenamento.</ASF_MaxNumStacksDesc>
+  <ASF_MaxZoomLevelDescription>O nível máximo de zoom para exibir os rótulos. Eles ficam ocultos além desse ponto.</ASF_MaxZoomLevelDescription>
+  <ASF_MaxZoomLevelSetting>Nível máximo de zoom</ASF_MaxZoomLevelSetting>
+  <ASF_OtherItems>Outros itens</ASF_OtherItems>
+  <ASF_SettingContentsTabDescription>Essa é a aba "Conteúdo" no painel inferior esquerdo quando uma construção é selecionada. "Nenhum" exibe os conteúdos da maneira padrão através dos botões "Selecionar x" na barra à direita, ao invés da aba.</ASF_SettingContentsTabDescription>
+  <ASF_SettingContentsTabSelection>Aba de conteúdos a ser exibida em construções de armazenamento adaptativo:</ASF_SettingContentsTabSelection>
+  <ASF_StorageCapacityDescriptionCustomized>O número máximo de pilhas que cabem nesta construção de armazenamento para todas as células combinadas.\n\n{sizeX} * {sizeZ} células com capacidades definidas individualmente.</ASF_StorageCapacityDescriptionCustomized>
+  <ASF_StorageCapacityDescriptionStacksPerCell>O número máximo de pilhas que cabem nesta construção de armazenamento para todas as células combinadas.\n\n{sizeX} * {sizeZ} células com capacidade máxima de {maxItemsInCell} pilhas por célula.</ASF_StorageCapacityDescriptionStacksPerCell>
+  <ASF_TotalStorageCapacity>capacidade total de armazenamento</ASF_TotalStorageCapacity>
+  <ASF_XStacks>{0} pilhas</ASF_XStacks>
+</LanguageData>

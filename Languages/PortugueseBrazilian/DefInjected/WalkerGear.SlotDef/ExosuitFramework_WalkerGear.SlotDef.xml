@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArmLeft.description>O espaço utilitário. Possui um suporte que pode acoplar ferramentas ou equipamentos.</ArmLeft.description>
+  <ArmLeft.label>Braço Esquerdo</ArmLeft.label>
+  <ArmRight.description>O espaço de equipamento. O exotraje possui um braço robótico para segurar equipamentos e capaz de realizar algumas tarefas complexas.</ArmRight.description>
+  <ArmRight.label>Braço Direito</ArmRight.label>
+  <Attachment.description>O espaço de acessório, também chamado de espaço de mochila, está localizado na parte traseira do exotraje e possui diversos módulos úteis, desde uma fonte de energia adicional até um lançador de cápsula de escape.</Attachment.description>
+  <Attachment.label>Acessório</Attachment.label>
+  <Core.description>A estrutura central de um exotraje, que é a parte mais importante para torná-lo operacional.</Core.description>
+  <Core.label>Núcleo</Core.label>
+  <Head.description>O espaço para módulo de sensores. Nem sempre é um capacete, mas está localizado no topo do exotraje.</Head.description>
+  <Head.label>Cabeça</Head.label>
+  <MountLeft.description>O espaço para equipamento de habilidade, que pode conter lançadores ou módulos de dispositivos especiais capazes de desempenhar um papel além do esperado na situação certa.</MountLeft.description>
+  <MountLeft.label>Suporte Esquerdo</MountLeft.label>
+  <MountRight.description>O espaço de suporte no ombro direito, geralmente capaz de conter uma torreta automática ou suportar uma grande mochila com módulo de mochila.</MountRight.description>
+  <MountRight.label>Suporte Direito</MountRight.label>
+</LanguageData>

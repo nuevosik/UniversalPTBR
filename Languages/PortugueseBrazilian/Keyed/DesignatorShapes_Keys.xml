@@ -36,4 +36,32 @@
   <Merthsoft_DesignatorShapes_BoundingBoxBasedOnShapeMode_Vanilla>Entrada do mouse (comportamento do jogo base).</Merthsoft_DesignatorShapes_BoundingBoxBasedOnShapeMode_Vanilla>
   <Merthsoft_DesignatorShapes_BoundingBoxBasedOnShapeMode_Shape>Funda a caixa delimitadora na forma em vez da entrada do mouse.</Merthsoft_DesignatorShapes_BoundingBoxBasedOnShapeMode_Shape>
   <Merthsoft_DesignatorShapes_BoundingBoxBasedOnShapeMode_Toggle>Adiciona alternador às configurações de jogo.</Merthsoft_DesignatorShapes_BoundingBoxBasedOnShapeMode_Toggle>
+  <Merthsoft_DesignatorShapes_ConfirmApply>Aplicar preenchimento por inundação</Merthsoft_DesignatorShapes_ConfirmApply>
+  <Merthsoft_DesignatorShapes_ConfirmDestructiveText>Aplicar {0} a {1} células? Cancelar mantém a ferramenta selecionada e não faz alterações.</Merthsoft_DesignatorShapes_ConfirmDestructiveText>
+  <Merthsoft_DesignatorShapes_ConfirmKeep>Manter mapa inalterado</Merthsoft_DesignatorShapes_ConfirmKeep>
+  <Merthsoft_DesignatorShapes_CornerRadius>Raio</Merthsoft_DesignatorShapes_CornerRadius>
+  <Merthsoft_DesignatorShapes_IncludeVanillaPalette>Incluir na paleta vanilla</Merthsoft_DesignatorShapes_IncludeVanillaPalette>
+  <Merthsoft_DesignatorShapes_IncludeVanillaPaletteTooltip>Adiciona esta versão do mod da forma às paletas de desenho vanilla compatíveis. Recolha o painel de Formas para usar a paleta vanilla. As alterações têm efeito imediato. Formas nativas e entradas de mods independentes são independentes entre si.</Merthsoft_DesignatorShapes_IncludeVanillaPaletteTooltip>
+  <Merthsoft_DesignatorShapes_KeyLabel_PreviousShape>Forma anterior</Merthsoft_DesignatorShapes_KeyLabel_PreviousShape>
+  <Merthsoft_DesignatorShapes_ParallelSkip>Espaço</Merthsoft_DesignatorShapes_ParallelSkip>
+  <Merthsoft_DesignatorShapes_ParallelThickness>Espessura</Merthsoft_DesignatorShapes_ParallelThickness>
+  <Merthsoft_DesignatorShapes_PolygonControls>{0} cantos. Clique para adicionar; Enter ou primeiro canto para finalizar.\nBackspace: remover canto. Escape/clique direito: cancelar.</Merthsoft_DesignatorShapes_PolygonControls>
+  <Merthsoft_DesignatorShapes_PolygonLimit>Polígonos suportam até 128 cantos e 512 células por eixo.</Merthsoft_DesignatorShapes_PolygonLimit>
+  <Merthsoft_DesignatorShapes_PolygonNeedCorners>Adicione pelo menos três cantos não colineares antes de finalizar.</Merthsoft_DesignatorShapes_PolygonNeedCorners>
+  <Merthsoft_DesignatorShapes_Settings_AdditionalBarriers>Ativar barreiras adicionais para preenchimento por inundação</Merthsoft_DesignatorShapes_Settings_AdditionalBarriers>
+  <Merthsoft_DesignatorShapes_Settings_AdditionalBarriersTooltip>Edifícios selecionados, seus projetos e estruturas também interrompem o preenchimento normal por região. Barreiras existentes permanecem. Iniciar em paredes correspondentes ou minério ainda preenche esse mesmo tipo. Desativado por padrão.</Merthsoft_DesignatorShapes_Settings_AdditionalBarriersTooltip>
+  <Merthsoft_DesignatorShapes_Settings_CancelStroke>Escape ou clique direito cancela o traçado atual mantendo a ferramenta</Merthsoft_DesignatorShapes_Settings_CancelStroke>
+  <Merthsoft_DesignatorShapes_Settings_ConfirmDestructive>Confirmar ações destrutivas de preenchimento por inundação</Merthsoft_DesignatorShapes_Settings_ConfirmDestructive>
+  <Merthsoft_DesignatorShapes_Settings_ConfirmDestructiveTooltip>Perguntar uma vez antes de mineração por inundação, desconstrução, corte de plantas, remoção de pisos, cancelamento de designações ou exclusão de planos. A visualização não altera nada. Desativado por padrão.</Merthsoft_DesignatorShapes_Settings_ConfirmDestructiveTooltip>
+  <Merthsoft_DesignatorShapes_Settings_RememberPerDesignator>Lembrar forma para cada designador</Merthsoft_DesignatorShapes_Settings_RememberPerDesignator>
+  <Merthsoft_DesignatorShapes_Settings_RememberPerDesignatorTooltip>Lembra escolhas explícitas de forma por tipo de designador e por definição de edifício ou piso neste save (até 512 entradas). Uma escolha lembrada tem prioridade sobre a seleção automática; ferramentas não vistas usam a seleção automática/fallback global existente. Redefinir forma ao retomar também limpa esta memória.</Merthsoft_DesignatorShapes_Settings_RememberPerDesignatorTooltip>
+  <Merthsoft_DesignatorShapes_Settings_RestrictFloodFillToRevealedCells>Restringir preenchimento por inundação a células reveladas</Merthsoft_DesignatorShapes_Settings_RestrictFloodFillToRevealedCells>
+  <Merthsoft_DesignatorShapes_Settings_RestrictFloodFillToRevealedCellsTooltip>Quando ativado, o preenchimento por inundação não pode iniciar ou passar por células enevoadas ou rocha natural oculta. A rocha natural e o minério devem ter uma face exposta a uma célula não enevoada que não esteja ligada como rocha nem totalmente bloqueada por uma edificação; o interior oculto dos veios de minério é excluído até ser exposto pela mineração. Desativado por padrão para preservar o comportamento existente de prospecção de minério.</Merthsoft_DesignatorShapes_Settings_RestrictFloodFillToRevealedCellsTooltip>
+  <Merthsoft_DesignatorShapes_Settings_SearchBuildings>Pesquisar rótulos de edifícios para escolher barreiras adicionais:</Merthsoft_DesignatorShapes_Settings_SearchBuildings>
+  <Merthsoft_DesignatorShapes_Settings_ShapeShortcuts>Atalhos de forma (Ctrl+Alt + tecla). Pesquisar pelo nome da forma:</Merthsoft_DesignatorShapes_Settings_ShapeShortcuts>
+  <Merthsoft_DesignatorShapes_Settings_ShortcutCapture>Pressione Ctrl+Alt + uma tecla para este atalho de forma. Escape cancela; Backspace limpa.</Merthsoft_DesignatorShapes_Settings_ShortcutCapture>
+  <Merthsoft_DesignatorShapes_Settings_ShortcutConflict>Essa combinação já está vinculada a outro comando. Escolha outra combinação.</Merthsoft_DesignatorShapes_Settings_ShortcutConflict>
+  <Merthsoft_DesignatorShapes_Settings_ToggleBinding>Vínculo para alternar interface</Merthsoft_DesignatorShapes_Settings_ToggleBinding>
+  <Merthsoft_DesignatorShapes_Settings_ToggleShortcut>Ativar atalho para alternar interface</Merthsoft_DesignatorShapes_Settings_ToggleShortcut>
+  <Merthsoft_DesignatorShapes_Settings_ToggleShortcutCapture>Pressione uma tecla ou combinação para alternar a interface. Para vincular Alt, Ctrl ou Shift sozinhos, pressione e solte. Escape cancela; Backspace limpa.</Merthsoft_DesignatorShapes_Settings_ToggleShortcutCapture>
 </LanguageData>

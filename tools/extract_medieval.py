@@ -13,9 +13,24 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 
-WORKSHOP = pathlib.Path.home()/'.local/share/Steam/steamapps/workshop/content/294100'
+def _first_dir(candidates):
+    for c in candidates:
+        if c.is_dir():
+            return c
+    return candidates[0]
+
+
+WORKSHOP = _first_dir([
+    pathlib.Path.home()/'.local/share/Steam/steamapps/workshop/content/294100',
+    pathlib.Path('C:/Program Files (x86)/Steam/steamapps/workshop/content/294100'),
+    pathlib.Path('D:/Steam/steamapps/workshop/content/294100'),
+    pathlib.Path('E:/Steam/steamapps/workshop/content/294100'),
+])
 REPO_LANG = pathlib.Path('Languages/PortugueseBrazilian')
-MODSCONFIG = pathlib.Path.home()/'.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config/ModsConfig.xml'
+MODSCONFIG = _first_dir([
+    pathlib.Path.home()/'.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config',
+    pathlib.Path.home()/'AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/Config',
+])/'ModsConfig.xml'
 
 FIELDS = {'label','description','labelFemale','labelPlural','labelNoun','jobString',
           'verb','gerund','letterText','reportString','text','title','summary','tip',
@@ -205,7 +220,7 @@ def scan_keyed(mod):
             continue
         for el in root:
             if el.tag != 'LanguageData':
-                entries.setdefault(el.tag, '')
+                entries.setdefault(el.tag, text_of(el))
     return entries
 
 

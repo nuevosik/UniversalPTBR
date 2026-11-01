@@ -45,14 +45,14 @@
   <top.tps.tip>Mostra seus ticks por segundo; ticks são a métrica que o jogo usa para quantificar o tempo passando. Vários ticks podem ocorrer por segundo; o jogo mira em 60 tps em 1x</top.tps.tip>
   <logs.max>Máx.</logs.max>
   <logs.av>Média</logs.av>
-  <logs.avpu>Média por {0}</logs.avpu>
+  <logs.avpu>Média</logs.avpu>
   <logs.percent>Porcentagem</logs.percent>
   <logs.avpc>Média por chamada</logs.avpc>
   <logs.calls>Chamadas</logs.calls>
   <logs.name>Nome</logs.name>
   <logs.total>Total</logs.total>
-  <logs.callspu>Chamadas médias por {0}</logs.callspu>
-  <logs.maxpu>Máx. em {0}</logs.maxpu>
+  <logs.callspu>Chamadas</logs.callspu>
+  <logs.maxpu>Máx.</logs.maxpu>
   <dpa.frame>Quadro</dpa.frame>
   <logs.max.desc>Ordena as linhas pelo pico máximo (MS) que o método alcançou</logs.max.desc>
   <logs.av.desc>Ordena as linhas pela média (MS) que o método está alcançando</logs.av.desc>
@@ -187,4 +187,94 @@
   <fix.fixmodremoval.tooltip>Corrige o gerenciador de áreas tentando iterar por classes de área nulas vindas de mods ausentes</fix.fixmodremoval.tooltip>
   <fix.faction>Corrigir facções de mods ausentes</fix.faction>
   <fix.faction.tooltip>Remove todas as referências a facções deletadas nos objetos de mundo. Isso resolve problemas ao remover facções no meio de um save</fix.faction.tooltip>
+  <frame.heading>Mapa de quadros: onde o trabalho nesta aba ocorre dentro de um quadro médio de {0} ms ({1} fps, últimos {2} quadros)</frame.heading>
+  <frame.heading.tip>Um gráfico em chama de um quadro médio, tudo na mesma escala. A barra superior é a divisão própria do motor: PollEvents, GameUpdate, CaptureFrame, outros trabalhos do motor e espera pelo próximo quadro. Sob a parte onde a raiz desta aba roda, fica a própria raiz e, sob ela, as linhas desta lista, cada uma pelo seu tempo próprio. Assim, as larguras mostram o quanto do quadro inteiro o que você está olhando realmente custa.</frame.heading.tip>
+  <frame.label.tab>Esta aba</frame.label.tab>
+  <frame.label.ticks>Ticks do jogo</frame.label.ticks>
+  <frame.label.update>Atualização de quadro</frame.label.update>
+  <frame.label.whole>Quadro inteiro</frame.label.whole>
+  <frame.root.tip>{0}: {1} ms por {2}{3} = {4} ms por quadro, {5} do quadro. Roda dentro de GameUpdate.</frame.root.tip>
+  <frame.row.tip>{0}\n{1} ms por {2} do seu tempo próprio{3} = {4} ms por quadro.\n{5} de {6}, {7} do quadro inteiro.</frame.row.tip>
+  <frame.segment.tip>{0}\n{1} ms por quadro, {2} do quadro</frame.segment.tip>
+  <frame.tab.heading>Esta aba: {0}, {1} ms por {2}, média dos últimos {3} {4}. Linhas: {5} ms ({6})</frame.tab.heading>
+  <frame.tab.heading.tip>Todos os números nesta aba são médias dos últimos {0} {1} (até 2.000), medidos apenas dentro de {2}. Chamadas feitas fora dele não são contabilizadas aqui.\n\nAs linhas abaixo usam {3} ms dele, contando o tempo próprio de cada linha apenas uma vez. A barra sob cada linha usa a mesma cor que sua parte no gráfico em chama acima.</frame.tab.heading.tip>
+  <frame.ticksperframe>x {0} ticks por quadro</frame.ticksperframe>
+  <frame.tip.capture>CaptureFrame: construção do quadro a ser renderizado, incluindo o mapa, o mundo e a interface (OnGUI).</frame.tip.capture>
+  <frame.tip.other>Outros trabalhos do motor: tudo o mais que o motor faz a cada quadro, como trabalho com memória da GPU e fila de renderização.</frame.tip.other>
+  <frame.tip.poll>PollEvents: o motor lendo eventos de janela, mouse e teclado.</frame.tip.poll>
+  <frame.tip.update>GameUpdate: atualização do jogo. Root_Play.Update e todos os ticks do jogo rodam aqui.</frame.tip.update>
+  <frame.tip.waiting>Aguardando o próximo quadro: o thread principal está ocioso, limitado por vsync ou pelo limite de taxa de quadros. Isso não é um custo; é a margem restante antes que o jogo caísse abaixo dessa taxa.</frame.tip.waiting>
+  <frame.waiting>aguardando o próximo quadro</frame.waiting>
+  <frameprofiler.button>Perfilador de Quadros</frameprofiler.button>
+  <frameprofiler.button.tip>Abre o Perfilador de Quadros nativo do jogo. Ative "Espelhar tempos para o Perfilador de Quadros vanilla" nas Configurações para ver os tempos do Analyzer também nele.</frameprofiler.button.tip>
+  <frameprofiler.open>Abrir o Perfilador de Quadros</frameprofiler.open>
+  <group.heading>{0} ({1})</group.heading>
+  <group.tip>Todas as linhas deste mod. Os valores são os totais de suas linhas e os grupos seguem a coluna pela qual você ordenou. Clique para recolher ou expandir.</group.tip>
+  <group.unknown>Mod desconhecido</group.unknown>
+  <logs.header.clicktosort>Clique para ordenar por esta coluna.</logs.header.clicktosort>
+  <logs.header.maxtotal>As linhas exibidas somam {0} ms em seu valor máximo.</logs.header.maxtotal>
+  <logs.header.mstotal>As linhas exibidas somam {0} ms.</logs.header.mstotal>
+  <logs.header.percenttotal>As linhas exibidas usam {0} da raiz, contando o tempo próprio de cada linha apenas uma vez.</logs.header.percenttotal>
+  <logs.header.sorted>Ordenado por esta coluna. Clique novamente para voltar à ordem padrão.</logs.header.sorted>
+  <logs.rowbar.tip>Sólido: {0} ms do tempo próprio ({1} da raiz). Desbotado: {2} ms incluindo os métodos perfilados que ele chama ({3}). Média de {4} amostras, na mesma escala da barra no topo.</logs.rowbar.tip>
+  <logs.spikes>Picos</logs.spikes>
+  <logs.spikes.desc>Quantas execuções das amostras exibidas no topo foram picos: acima de 1 ms e acima de 5 vezes o tempo usual de execução do método. Passe o mouse sobre a contagem de uma linha para ver os detalhes, incluindo métodos que rodam em intervalos regulares.</logs.spikes.desc>
+  <phase.interface>interface</phase.interface>
+  <phase.none>fora do ciclo do jogo</phase.none>
+  <phase.threads>outras threads</phase.threads>
+  <phase.tick>tick</phase.tick>
+  <phase.update>atualização</phase.update>
+  <root.frame.noun>quadro</root.frame.noun>
+  <root.frame.title>Quadro inteiro</root.frame.title>
+  <root.heading>{0}: {1} ms por {2}, média dos últimos {3} {4}. Linhas: {5} ms ({6})</root.heading>
+  <root.heading.tip>Todos os números nesta aba são médias dos últimos {0} {1} (até 2.000), medidos apenas dentro de {2}. Chamadas feitas fora dele não são contabilizadas aqui.\n\nAs linhas abaixo usam {3} ms dele, contando o tempo próprio de cada linha apenas uma vez.</root.heading.tip>
+  <root.otherrows>{0} outras linhas</root.otherrows>
+  <root.rest.tip>Toda a barra é {0}. Cada parte colorida é o tempo próprio de uma linha, sem contar outras linhas dentro dela, portanto linhas aninhadas são contabilizadas apenas uma vez. A barra sob cada linha usa a mesma cor e escala. Esta parte escura é o tempo não coberto por esta lista.</root.rest.tip>
+  <root.segment.tip>{0}\n{1} ms por {2} do seu tempo próprio, {3} de {4}</root.segment.tip>
+  <root.tick.noun>tick do jogo</root.tick.noun>
+  <root.tick.title>Tick do jogo (TickManager.DoSingleTick)</root.tick.title>
+  <root.update.noun>atualização de quadro</root.update.noun>
+  <root.update.title>Atualização de quadro (Root_Play.Update)</root.update.title>
+  <spike.every>Roda a cada {0} {1}.</spike.every>
+  <spike.heavy>Cada execução leva cerca de {0} ms. Isso é normal para este método, mas causa um engasgo regular.</spike.heavy>
+  <spike.light>Cada execução leva cerca de {0} ms, então seu tempo ocorre em rajadas. Isso é esperado.</spike.light>
+  <spike.many>{0} picos nos últimos {1} {2}: pior {3} ms, execução usual {4} ms.</spike.many>
+  <spike.notinterval>Estes valores estão bem acima do tempo usual, então o intervalo não explica os picos.</spike.notinterval>
+  <spike.one>1 pico nos últimos {0} {1}: pior {2} ms, execução usual {3} ms.</spike.one>
+  <stack.col.calledfrom>Chamado de</stack.col.calledfrom>
+  <stack.col.calls>Chamadas</stack.col.calls>
+  <stack.col.method>Método</stack.col.method>
+  <stack.col.mod>Mod</stack.col.mod>
+  <stack.col.patches>Patches</stack.col.patches>
+  <stack.full>Pilha de chamadas completa, chamador mais próximo primeiro. Clique em um método para perfilá-lo</stack.full>
+  <stack.menu.copy>Copiar</stack.menu.copy>
+  <stack.menu.dnspy>Abrir no dnSpy</stack.menu.dnspy>
+  <stack.menu.internal>Perfilizar os métodos que {0} chama (Personalizado {1})</stack.menu.internal>
+  <stack.menu.patches>Perfilizar os patches Harmony em {0} (Personalizado {1})</stack.menu.patches>
+  <stack.menu.profile>Perfilizar {0} (Personalizado {1})</stack.menu.profile>
+  <stack.sample.click>Clique para ver quem fez estas chamadas.</stack.sample.click>
+  <stack.sample.none>Nenhuma pilha registrada para esta amostra.</stack.sample.none>
+  <stack.sample.tip>{0} {1} atrás: {2} ms, {3} chamadas</stack.sample.tip>
+  <stack.samples.hint>Clique em uma amostra para ver suas pilhas, role para ampliar no mouse ou arraste para mover</stack.samples.hint>
+  <stack.samples.selected>Selecionado: {0} atrás (clique novamente para mostrar tudo)</stack.samples.selected>
+  <stack.select>Selecione uma linha para ver sua pilha de chamadas completa</stack.select>
+  <stack.splitter.tip>Arraste para redimensionar as amostras e as pilhas abaixo delas.</stack.splitter.tip>
+  <stack.status.idle>Marque 'Rastrear chamadores' para iniciar a gravação.</stack.status.idle>
+  <stack.status.stopped>Parado: {0} pilhas capturadas, {1} caminhos diferentes.</stack.status.stopped>
+  <stack.status.tracing>Rastreando {0}: {1} pilhas capturadas, {2} caminhos diferentes. Pause o analisador para congelar as amostras.</stack.status.tracing>
+  <stack.table.tip>Cada linha é um caminho de chamada distinto para este método. Todas as chamadas são contabilizadas. Quando uma amostra tem muitas chamadas, as pilhas são capturadas para as primeiras 128 e, em seguida, para a cada 2ª, 4ª, 8ª... chamada, e cada pilha capturada conta pelas chamadas que representa, portanto a divisão entre chamadores é uma estimativa que soma ao total real. Quando a linha selecionada é um tipo de um método compartilhado (como Pawn em Tick Things), apenas as chamadas nesse tipo são registradas. 'Chamado de' é o método que fez a chamada. 'Patches' conta os patches Harmony em todos os métodos ao longo do caminho. Clique em uma linha para ver sua pilha de chamadas completa.</stack.table.tip>
+  <stack.title.all>Todas as amostras gravadas</stack.title.all>
+  <stack.title.alltype>Todas as amostras gravadas, chamadas em {0}</stack.title.alltype>
+  <stack.title.none>Nenhuma pilha foi registrada para a amostra selecionada</stack.title.none>
+  <stack.title.ontype>em {0}</stack.title.ontype>
+  <stack.title.sample>Amostra {0} {1} atrás: {2} chamadas</stack.title.sample>
+  <stack.title.sampled>dividido por chamador a partir de pilhas amostradas</stack.title.sampled>
+  <stack.trace>Rastrear chamadores</stack.trace>
+  <stack.trace.tip>Registra quais caminhos de código chamam este método, amostra por amostra, para que você possa clicar em um ponto abaixo e ver quem fez as chamadas nele. Marcar novamente inicia uma nova gravação.</stack.trace.tip>
+  <tab.patches>Patches</tab.patches>
+  <tab.patches.desc>Patches Harmony de todos os mods. Eles podem rodar em qualquer lugar, então cada linha indica se foram executados em ticks, atualizações de quadro ou na interface, e as porcentagens são em relação ao quadro inteiro</tab.patches.desc>
+  <unit.frame>quadro</unit.frame>
+  <unit.frames>quadros</unit.frames>
+  <unit.tick>tick</unit.tick>
+  <unit.ticks>ticks</unit.ticks>
 </LanguageData>

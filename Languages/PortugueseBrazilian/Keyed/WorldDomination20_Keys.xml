@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TSA_WD_AT_Turret_NpcCaravanPawnsWiped_Label>{0} dizimou {1}</TSA_WD_AT_Turret_NpcCaravanPawnsWiped_Label>
+  <TSA_WD_AbandonOutpost>Abandonar posto avançado</TSA_WD_AbandonOutpost>
+  <TSA_WD_AbandonOutpostTip>Retire todos deste posto avançado (igual a selecionar todos os colonos e transferi-los com Sair aqui). Usa o mesmo orçamento de força e avisos para o último colono.</TSA_WD_AbandonOutpostTip>
+  <TSA_WD_AbandonOutpost_NoRoster>Nada restando para retirar deste posto avançado.</TSA_WD_AbandonOutpost_NoRoster>
+  <TSA_WD_AdvBuild_AaTurret>Torre antiaérea</TSA_WD_AdvBuild_AaTurret>
+  <TSA_WD_AdvBuild_AttackRangeWatchTowerTip>Torre de vigia: +{0}%</TSA_WD_AdvBuild_AttackRangeWatchTowerTip>
+  <TSA_WD_AdvBuild_Benefit_Hospital>Benefício: Recuperação do assentamento +{0}%</TSA_WD_AdvBuild_Benefit_Hospital>
+  <TSA_WD_AdvBuild_Benefit_Silo>Benefício: Força máxima do assentamento +{0}%</TSA_WD_AdvBuild_Benefit_Silo>
+  <TSA_WD_AdvBuild_Benefit_Stable>Benefício: Velocidade de caravanas terrestres +{0}%</TSA_WD_AdvBuild_Benefit_Stable>
+  <TSA_WD_AdvBuild_Benefit_WatchTower>Benefício: Alcance de ataque +{0}%</TSA_WD_AdvBuild_Benefit_WatchTower>
+  <TSA_WD_AdvBuild_Boost_Hospital>Recuperação ofensiva e defensiva do proprietário +{0}% (agora {1} / {2} por dia).</TSA_WD_AdvBuild_Boost_Hospital>
+  <TSA_WD_AdvBuild_Boost_Silo>Força ofensiva máxima do proprietário +{0}% ({1} para {2}).</TSA_WD_AdvBuild_Boost_Silo>
+  <TSA_WD_AdvBuild_Boost_Stable>Caravanas terrestres do proprietário se movem {0}% mais rápido.</TSA_WD_AdvBuild_Boost_Stable>
+  <TSA_WD_AdvBuild_Boost_WatchTower>Alcance de ataque do proprietário +{0}% ({1} para {2} blocos).</TSA_WD_AdvBuild_Boost_WatchTower>
+  <TSA_WD_AdvBuild_Hospital>Hospital</TSA_WD_AdvBuild_Hospital>
+  <TSA_WD_AdvBuild_Inspect_ArtilleryVulnerable>Defendido: incursões hostis precisam superar sua força para destruí-lo. Acertos de morteiro o danificam; ele nunca se regenera.</TSA_WD_AdvBuild_Inspect_ArtilleryVulnerable>
+  <TSA_WD_AdvBuild_Inspect_BuiltBy>Construído por {0} ({1})</TSA_WD_AdvBuild_Inspect_BuiltBy>
+  <TSA_WD_AdvBuild_Inspect_BuiltBySettlement>Construído pelo assentamento: {0}</TSA_WD_AdvBuild_Inspect_BuiltBySettlement>
+  <TSA_WD_AdvBuild_Inspect_Cooldown>Recarregando: {0}</TSA_WD_AdvBuild_Inspect_Cooldown>
+  <TSA_WD_AdvBuild_Inspect_EconomicVulnerable>Desprotegido: qualquer caravana hostil que atravessar este bloco, ou um único acerto de morteiro, o destruirá.</TSA_WD_AdvBuild_Inspect_EconomicVulnerable>
+  <TSA_WD_AdvBuild_Inspect_Faction>Facção: {0}</TSA_WD_AdvBuild_Inspect_Faction>
+  <TSA_WD_AdvBuild_Inspect_Grace>Muito novo para ser bombardeado: restam {0}</TSA_WD_AdvBuild_Inspect_Grace>
+  <TSA_WD_AdvBuild_Inspect_Inactive>Inativo (desativado nas configurações ou o nível tecnológico do proprietário é muito baixo)</TSA_WD_AdvBuild_Inspect_Inactive>
+  <TSA_WD_AdvBuild_Inspect_None>nenhum</TSA_WD_AdvBuild_Inspect_None>
+  <TSA_WD_AdvBuild_Inspect_OwnerLost>Proprietário perdido. Este edifício será removido.</TSA_WD_AdvBuild_Inspect_OwnerLost>
+  <TSA_WD_AdvBuild_Inspect_Ready>Pronto para disparar</TSA_WD_AdvBuild_Inspect_Ready>
+  <TSA_WD_AdvBuild_Inspect_ReloadingDays>Recarregando: {0} dias</TSA_WD_AdvBuild_Inspect_ReloadingDays>
+  <TSA_WD_AdvBuild_Inspect_SettlementBuildings>Edifícios ({1}/{2}): {0}</TSA_WD_AdvBuild_Inspect_SettlementBuildings>
+  <TSA_WD_AdvBuild_Inspect_ShellProtectionDays>Proteção contra bombardeio: {0} dias</TSA_WD_AdvBuild_Inspect_ShellProtectionDays>
+  <TSA_WD_AdvBuild_Inspect_Strength>Força: {0}/{1}</TSA_WD_AdvBuild_Inspect_Strength>
+  <TSA_WD_AdvBuild_LabelWithOwner>{0} de {1}</TSA_WD_AdvBuild_LabelWithOwner>
+  <TSA_WD_AdvBuild_Log_BuilderLaunched>{0} enviou uma equipe para construir um {1}.</TSA_WD_AdvBuild_Log_BuilderLaunched>
+  <TSA_WD_AdvBuild_Log_Built>{0} construiu um {1}.</TSA_WD_AdvBuild_Log_Built>
+  <TSA_WD_AdvBuild_Log_Destroyed>{0} foi destruído.</TSA_WD_AdvBuild_Log_Destroyed>
+  <TSA_WD_AdvBuild_Log_DestroyedBy>{0} foi destruído por {1}.</TSA_WD_AdvBuild_Log_DestroyedBy>
+  <TSA_WD_AdvBuild_Log_FreeArtillery>{0} ergueu um {1} ao atingir o nível 4.</TSA_WD_AdvBuild_Log_FreeArtillery>
+  <TSA_WD_AdvBuild_MortarTurret>Torre de morteiro</TSA_WD_AdvBuild_MortarTurret>
+  <TSA_WD_AdvBuild_Msg_PlayerDestroyed>{1} destruiu {0}.</TSA_WD_AdvBuild_Msg_PlayerDestroyed>
+  <TSA_WD_AdvBuild_Provides_AntiAir>Engaja cápsulas de pouso hostis, gravinaves, cápsulas de transporte e projéteis de morteiro dentro de {0} blocos.</TSA_WD_AdvBuild_Provides_AntiAir>
+  <TSA_WD_AdvBuild_Provides_Mortar>Dispara projéteis de morteiro contra viajantes hostis e alvos dentro de {0} blocos.</TSA_WD_AdvBuild_Provides_Mortar>
+  <TSA_WD_AdvBuild_ReasonShellGrace>Muito novo para ser bombardeado (restam {0}).</TSA_WD_AdvBuild_ReasonShellGrace>
+  <TSA_WD_AdvBuild_Silo>Silo</TSA_WD_AdvBuild_Silo>
+  <TSA_WD_AdvBuild_Stable>Estábulo</TSA_WD_AdvBuild_Stable>
+  <TSA_WD_AdvBuild_WatchTower>Torre de vigia</TSA_WD_AdvBuild_WatchTower>
+  <TSA_WD_AdvFilter_ActiveFilters>Filtros ativos</TSA_WD_AdvFilter_ActiveFilters>
+  <TSA_WD_AdvFilter_ActiveFiltersTip>Filtros que atualmente restringem esta lista. Os filtros de coluna só se aplicam enquanto a coluna estiver visível.</TSA_WD_AdvFilter_ActiveFiltersTip>
+  <TSA_WD_AdvFilter_AddFilter>Adicionar filtro</TSA_WD_AdvFilter_AddFilter>
+  <TSA_WD_AdvFilter_AddFilterTip>Adicionar um filtro. Sua coluna será ativada se estiver oculta.</TSA_WD_AdvFilter_AddFilterTip>
+  <TSA_WD_AdvFilter_AddLevel>Adicionar nível</TSA_WD_AdvFilter_AddLevel>
+  <TSA_WD_AdvFilter_AddLevelTip>Adicionar um nível de ordenação.</TSA_WD_AdvFilter_AddLevelTip>
+  <TSA_WD_AdvFilter_Asc>Crescente</TSA_WD_AdvFilter_Asc>
+  <TSA_WD_AdvFilter_ButtonTip>Filtragem avançada: predefinições salvas, ordenação em vários níveis e uma visão geral dos filtros ativos. Destacado enquanto esta visualização difere do padrão.</TSA_WD_AdvFilter_ButtonTip>
+  <TSA_WD_AdvFilter_ClearAll>Limpar tudo</TSA_WD_AdvFilter_ClearAll>
+  <TSA_WD_AdvFilter_ClearFilterTip>Limpar este filtro.</TSA_WD_AdvFilter_ClearFilterTip>
+  <TSA_WD_AdvFilter_Delete>Excluir</TSA_WD_AdvFilter_Delete>
+  <TSA_WD_AdvFilter_DeleteConfirm>Excluir a predefinição "{0}"?</TSA_WD_AdvFilter_DeleteConfirm>
+  <TSA_WD_AdvFilter_Desc>Decrescente</TSA_WD_AdvFilter_Desc>
+  <TSA_WD_AdvFilter_DirTip>Alternar direção da ordenação.</TSA_WD_AdvFilter_DirTip>
+  <TSA_WD_AdvFilter_EditFilterTip>Clique para alterar este filtro.</TSA_WD_AdvFilter_EditFilterTip>
+  <TSA_WD_AdvFilter_KeySource>Origem</TSA_WD_AdvFilter_KeySource>
+  <TSA_WD_AdvFilter_MoveDown>Mover para baixo</TSA_WD_AdvFilter_MoveDown>
+  <TSA_WD_AdvFilter_MoveUp>Mover para cima</TSA_WD_AdvFilter_MoveUp>
+  <TSA_WD_AdvFilter_NameTaken>Já existe uma predefinição com este nome.</TSA_WD_AdvFilter_NameTaken>
+  <TSA_WD_AdvFilter_NoFilters>Nenhum filtro ativo.</TSA_WD_AdvFilter_NoFilters>
+  <TSA_WD_AdvFilter_NoPresetSelected>Nenhuma predefinição selecionada</TSA_WD_AdvFilter_NoPresetSelected>
+  <TSA_WD_AdvFilter_Overwrite>Sobrescrever</TSA_WD_AdvFilter_Overwrite>
+  <TSA_WD_AdvFilter_OverwriteTip>Sobrescrever a predefinição selecionada.</TSA_WD_AdvFilter_OverwriteTip>
+  <TSA_WD_AdvFilter_Presets>Predefinições</TSA_WD_AdvFilter_Presets>
+  <TSA_WD_AdvFilter_PresetsTip>Combinações salvas de ordenação e filtros. As predefinições são compartilhadas por todas as listas de colonos e por todos os saves. Filtros não suportados por uma lista são ignorados.</TSA_WD_AdvFilter_PresetsTip>
+  <TSA_WD_AdvFilter_RemoveLevel>Remover nível</TSA_WD_AdvFilter_RemoveLevel>
+  <TSA_WD_AdvFilter_Rename>Renomear</TSA_WD_AdvFilter_Rename>
+  <TSA_WD_AdvFilter_RenameTip>Renomear a predefinição selecionada.</TSA_WD_AdvFilter_RenameTip>
+  <TSA_WD_AdvFilter_RenameTitle>Renomear predefinição</TSA_WD_AdvFilter_RenameTitle>
+  <TSA_WD_AdvFilter_SaveBtn>Salvar</TSA_WD_AdvFilter_SaveBtn>
+  <TSA_WD_AdvFilter_SaveNew>Salvar como novo</TSA_WD_AdvFilter_SaveNew>
+  <TSA_WD_AdvFilter_SaveNewTip>Salvar os níveis de ordenação e filtros atuais desta lista como uma nova predefinição.</TSA_WD_AdvFilter_SaveNewTip>
+  <TSA_WD_AdvFilter_SaveNewTitle>Salvar predefinição</TSA_WD_AdvFilter_SaveNewTitle>
+  <TSA_WD_AdvFilter_Saved>Predefinição "{0}" salva.</TSA_WD_AdvFilter_Saved>
+  <TSA_WD_AdvFilter_SelectPresetTip>Escolha uma predefinição para carregar seus níveis de ordenação e filtros nesta lista.</TSA_WD_AdvFilter_SelectPresetTip>
+  <TSA_WD_AdvFilter_SortDefault>Ordem padrão (sem níveis de ordenação).</TSA_WD_AdvFilter_SortDefault>
+  <TSA_WD_AdvFilter_SortLevels>Níveis de ordenação</TSA_WD_AdvFilter_SortLevels>
+  <TSA_WD_AdvFilter_SortLevelsTip>As linhas são ordenadas pelo primeiro nível, os empates pelo próximo nível e assim por diante. O nome é sempre o critério de desempate final.</TSA_WD_AdvFilter_SortLevelsTip>
+  <TSA_WD_AdvFilter_Title>Filtragem avançada</TSA_WD_AdvFilter_Title>
+  <TSA_WD_Alert_ConstructionInsufficientMaterials>WD: Construção aguardando materiais</TSA_WD_Alert_ConstructionInsufficientMaterials>
+  <TSA_WD_Alert_ConstructionInsufficientMaterialsDescHeader>Estes postos avançados estão prontos para enviar uma equipe de construção, mas estão sem materiais:</TSA_WD_Alert_ConstructionInsufficientMaterialsDescHeader>
+  <TSA_WD_Alert_ConstructionInsufficientMaterialsDescLine>- {0}: {1}</TSA_WD_Alert_ConstructionInsufficientMaterialsDescLine>
+  <TSA_WD_AllInventory>Todo o equipamento</TSA_WD_AllInventory>
+  <TSA_WD_AllInventory_AlreadyAtLocation>Pelo menos um item selecionado já está neste local.</TSA_WD_AllInventory_AlreadyAtLocation>
+  <TSA_WD_AllInventory_CaravanNoSend>Equipamento carregado por uma caravana no mapa-múndi não pode ser enviado daqui.</TSA_WD_AllInventory_CaravanNoSend>
+  <TSA_WD_AllInventory_CategoryFilterTip>Filtrar por tipo de item</TSA_WD_AllInventory_CategoryFilterTip>
+  <TSA_WD_AllInventory_EquippedByFilterTip>Filtrar por quem está vestindo ou carregando o item</TSA_WD_AllInventory_EquippedByFilterTip>
+  <TSA_WD_AllInventory_HdrCategory>Tipo</TSA_WD_AllInventory_HdrCategory>
+  <TSA_WD_AllInventory_HdrCount>Armazenado</TSA_WD_AllInventory_HdrCount>
+  <TSA_WD_AllInventory_HdrEquippedBy>Equipado por</TSA_WD_AllInventory_HdrEquippedBy>
+  <TSA_WD_AllInventory_HdrItem>Item</TSA_WD_AllInventory_HdrItem>
+  <TSA_WD_AllInventory_HdrQuality>Qualidade</TSA_WD_AllInventory_HdrQuality>
+  <TSA_WD_AllInventory_HdrSendCount>Enviar</TSA_WD_AllInventory_HdrSendCount>
+  <TSA_WD_AllInventory_InCombatNoSend>Não é possível retirar equipamento de um colono enquanto seu mapa estiver sob incursão ou ataque.</TSA_WD_AllInventory_InCombatNoSend>
+  <TSA_WD_AllInventory_ModeLand>Por caravana</TSA_WD_AllInventory_ModeLand>
+  <TSA_WD_AllInventory_ModePod>Por cápsula de transporte</TSA_WD_AllInventory_ModePod>
+  <TSA_WD_AllInventory_ModeTip>As caravanas viajam por terra e podem ser emboscadas ou alvo de morteiros. As cápsulas voam e podem ser derrubadas pela defesa antiaérea.</TSA_WD_AllInventory_ModeTip>
+  <TSA_WD_AllInventory_NoSharedDest>Nenhum destino é válido para todas as origens selecionadas.</TSA_WD_AllInventory_NoSharedDest>
+  <TSA_WD_AllInventory_NothingPicked>Nada selecionado para enviar.</TSA_WD_AllInventory_NothingPicked>
+  <TSA_WD_AllInventory_OnPawnTip>Equipado ou carregado por um colono. Enviá-lo o retira dele (por sua conta e risco).</TSA_WD_AllInventory_OnPawnTip>
+  <TSA_WD_AllInventory_QualityFilterTip>Filtrar por qualidade do item</TSA_WD_AllInventory_QualityFilterTip>
+  <TSA_WD_AllInventory_QualityNone>Sem qualidade</TSA_WD_AllInventory_QualityNone>
+  <TSA_WD_AllInventory_Selected>Selecionados: {0}</TSA_WD_AllInventory_Selected>
+  <TSA_WD_AllInventory_Send>Enviar para...</TSA_WD_AllInventory_Send>
+  <TSA_WD_AllInventory_SendTip>Envie as linhas selecionadas para um destino. Cada origem lança sua própria caravana e paga seu próprio custo de força; colônias não pagam nada. O equipamento equipado é retirado do colono ao ser enviado.</TSA_WD_AllInventory_SendTip>
+  <TSA_WD_AllInventory_SkipSameDestConfirm>Enviar o restante</TSA_WD_AllInventory_SkipSameDestConfirm>
+  <TSA_WD_AllInventory_SkipSameDestIntro>Não é possível enviar os seguintes itens, pois já estão no destino "{0}":</TSA_WD_AllInventory_SkipSameDestIntro>
+  <TSA_WD_AllInventory_SkipSameDestLine>- {0}x {1}</TSA_WD_AllInventory_SkipSameDestLine>
+  <TSA_WD_AllInventory_SkipSameDestQuestion>Ainda deseja enviar os itens das outras origens?</TSA_WD_AllInventory_SkipSameDestQuestion>
+  <TSA_WD_AllInventory_SkipSameDestTitle>Aviso: Alguns itens já estão no destino</TSA_WD_AllInventory_SkipSameDestTitle>
+  <TSA_WD_AllInventory_Title>Todo o equipamento do jogador</TSA_WD_AllInventory_Title>
+  <TSA_WD_AllInventory_TooMany>Muitos itens. Filtre a lista.</TSA_WD_AllInventory_TooMany>
+  <TSA_WD_AllPlayerPawns_SmartAssignAlreadyPlaced>{0} colono(s) selecionado(s) já estão em postos avançados adequados. Nada a enviar.</TSA_WD_AllPlayerPawns_SmartAssignAlreadyPlaced>
+  <TSA_WD_AntiAir_PawnPods_CrashedHeader>Caíram (feridos no local da queda):</TSA_WD_AntiAir_PawnPods_CrashedHeader>
+  <TSA_WD_AntiAir_PawnPods_DiedHeader>Mortos:</TSA_WD_AntiAir_PawnPods_DiedHeader>
+  <TSA_WD_AntiAir_PawnPods_Outcome_Label>Cápsulas de escape atingidas pela defesa antiaérea</TSA_WD_AntiAir_PawnPods_Outcome_Label>
+  <TSA_WD_AntiAir_PawnPods_Outcome_Text>A defesa antiaérea de {0} atingiu um voo de cápsulas de escape.\n\n{1}</TSA_WD_AntiAir_PawnPods_Outcome_Text>
+  <TSA_WD_AntiAir_PawnPods_Resolved_Log>Defesa antiaérea de {0} vs cápsulas de escape: {1} mortos, {2} caíram, {3} ainda em voo.</TSA_WD_AntiAir_PawnPods_Resolved_Log>
+  <TSA_WD_Armory_AssignedAmmo>{0} item(s) de munição atribuídos do estoque do Arsenal.</TSA_WD_Armory_AssignedAmmo>
+  <TSA_WD_Armory_AssignedAmmoNone>Nenhuma munição adequada no estoque do Arsenal ou nenhum ocupante com arma de longo alcance compatível.</TSA_WD_Armory_AssignedAmmoNone>
+  <TSA_WD_Armory_AssignedFood>{0} item(s) de alimento atribuídos do estoque do Arsenal.</TSA_WD_Armory_AssignedFood>
+  <TSA_WD_Armory_AssignedFoodNone>Nenhum alimento no estoque do Arsenal ou os ocupantes não podem carregar mais.</TSA_WD_Armory_AssignedFoodNone>
+  <TSA_WD_Armory_BiocodedTag>biocodificado</TSA_WD_Armory_BiocodedTag>
+  <TSA_WD_Armory_Bucket_Ammo>munição</TSA_WD_Armory_Bucket_Ammo>
+  <TSA_WD_Armory_Bucket_Armor>armaduras</TSA_WD_Armory_Bucket_Armor>
+  <TSA_WD_Armory_Bucket_Bows>arcos</TSA_WD_Armory_Bucket_Bows>
+  <TSA_WD_Armory_Bucket_Drugs>drogas</TSA_WD_Armory_Bucket_Drugs>
+  <TSA_WD_Armory_Bucket_Food>alimentos</TSA_WD_Armory_Bucket_Food>
+  <TSA_WD_Armory_Bucket_Grenades>granadas</TSA_WD_Armory_Bucket_Grenades>
+  <TSA_WD_Armory_Bucket_Guns>armas de fogo</TSA_WD_Armory_Bucket_Guns>
+  <TSA_WD_Armory_Bucket_Medicine>medicamentos</TSA_WD_Armory_Bucket_Medicine>
+  <TSA_WD_Armory_Bucket_Melee>corpo a corpo</TSA_WD_Armory_Bucket_Melee>
+  <TSA_WD_Armory_CargoLost>Uma remessa destinada a {0} foi destruída no transporte. Sua carga foi perdida:</TSA_WD_Armory_CargoLost>
+  <TSA_WD_Armory_CargoLostLabel>Remessa perdida</TSA_WD_Armory_CargoLostLabel>
+  <TSA_WD_Armory_ColBulk>Volume</TSA_WD_Armory_ColBulk>
+  <TSA_WD_Armory_ColBulkTip>Volume de carga do Combat Extended (atual/máximo). Só é exibido quando o Combat Extended está ativo.</TSA_WD_Armory_ColBulkTip>
+  <TSA_WD_Armory_ColMass>Massa</TSA_WD_Armory_ColMass>
+  <TSA_WD_Armory_ColMassTip>Massa carregada acima da capacidade de carga (atual/máxima). Com Combat Extended, usa o peso de carga do CE.</TSA_WD_Armory_ColMassTip>
+  <TSA_WD_Armory_ColumnPawns>Nome</TSA_WD_Armory_ColumnPawns>
+  <TSA_WD_Armory_ColumnStore>Armazenado</TSA_WD_Armory_ColumnStore>
+  <TSA_WD_Armory_ConvertFood>Converter alimento</TSA_WD_Armory_ConvertFood>
+  <TSA_WD_Armory_ConvertFoodNone>Nenhum alimento armazenado para converter, ou o reservatório de alimentos já está cheio.</TSA_WD_Armory_ConvertFoodNone>
+  <TSA_WD_Armory_ConvertFoodTip>Transforme todo o alimento físico armazenado no reservatório de alimentos deste posto avançado. Qualquer excesso acima do limite do reservatório permanecerá no Arsenal.</TSA_WD_Armory_ConvertFoodTip>
+  <TSA_WD_Armory_ConvertedFood>Alimento armazenado convertido em {0} de alimento do posto avançado.</TSA_WD_Armory_ConvertedFood>
+  <TSA_WD_Armory_DeliveryStored>{0} item(ns) armazenado(s) no arsenal.</TSA_WD_Armory_DeliveryStored>
+  <TSA_WD_Armory_DestroyNotStorable>O posto avançado não pode armazenar este item. Deseja destruí-lo?\n\n{0}</TSA_WD_Armory_DestroyNotStorable>
+  <TSA_WD_Armory_FailCannotWear>{1} não pode vestir {0}.</TSA_WD_Armory_FailCannotWear>
+  <TSA_WD_Armory_FailLocked>{0} está trancado e não pode ser removido.</TSA_WD_Armory_FailLocked>
+  <TSA_WD_Armory_FailManualDefense>O equipamento não pode ser movido enquanto este posto avançado está se defendendo.</TSA_WD_Armory_FailManualDefense>
+  <TSA_WD_Armory_FailNoBodyParts>{0} não se encaixa em {1}.</TSA_WD_Armory_FailNoBodyParts>
+  <TSA_WD_Armory_FailNoCapacity>Esse colono não pode carregar mais deste item.</TSA_WD_Armory_FailNoCapacity>
+  <TSA_WD_Armory_FailNoCapacityCe>{0} não tem espaço para mais {1}. Inventário livre: {2} de volume, {3} kg.</TSA_WD_Armory_FailNoCapacityCe>
+  <TSA_WD_Armory_FailNotEquippable>{0} não pode ser equipado. Coloque-o no inventário.</TSA_WD_Armory_FailNotEquippable>
+  <TSA_WD_Armory_FailNotStorable>{0} não pode ser armazenado em um arsenal.</TSA_WD_Armory_FailNotStorable>
+  <TSA_WD_Armory_FailPrimaryOccupied>{0} já possui uma arma primária ({1}). Desequipe-a primeiro.</TSA_WD_Armory_FailPrimaryOccupied>
+  <TSA_WD_Armory_HdrCount>Quantidade</TSA_WD_Armory_HdrCount>
+  <TSA_WD_Armory_HdrItem>Item</TSA_WD_Armory_HdrItem>
+  <TSA_WD_Armory_HdrQuality>Qualidade</TSA_WD_Armory_HdrQuality>
+  <TSA_WD_Armory_HdrStores>Arsenal</TSA_WD_Armory_HdrStores>
+  <TSA_WD_Armory_HdrStoresTip>O que este posto avançado armazena em seu arsenal, por categoria.</TSA_WD_Armory_HdrStoresTip>
+  <TSA_WD_Armory_HdrType>Tipo</TSA_WD_Armory_HdrType>
+  <TSA_WD_Armory_LostFood>{0} alimento</TSA_WD_Armory_LostFood>
+  <TSA_WD_Armory_MenuAmmo>Munição</TSA_WD_Armory_MenuAmmo>
+  <TSA_WD_Armory_MenuAmmoTip>Ajuda com munição do Combat Extended: retirar dos colonos ou adicionar do estoque do Arsenal.</TSA_WD_Armory_MenuAmmoTip>
+  <TSA_WD_Armory_MenuFood>Alimento</TSA_WD_Armory_MenuFood>
+  <TSA_WD_Armory_MenuFoodTip>Ajuda com alimentos: retirar dos colonos, atribuir do estoque do Arsenal ou converter alimento armazenado no reservatório de alimentos do posto avançado.</TSA_WD_Armory_MenuFoodTip>
+  <TSA_WD_Armory_Menu_AddAmmo>Adicionar</TSA_WD_Armory_Menu_AddAmmo>
+  <TSA_WD_Armory_Menu_AddAmmoTip>Dê a cada ocupante até 4 carregadores cheios de munição adequada do estoque do Arsenal, depois distribua o excedente entre eles. Mistura tipos de munição quando vários cabem. Não pega munição já carregada pelos colonos.</TSA_WD_Armory_Menu_AddAmmoTip>
+  <TSA_WD_Armory_Menu_AssignFood>Atribuir alimento aos colonos</TSA_WD_Armory_Menu_AssignFood>
+  <TSA_WD_Armory_Menu_AssignFoodTip>Distribua o alimento nutricional do Arsenal igualmente entre os ocupantes (até 10 itens cada). Não pega alimento já carregado pelos colonos.</TSA_WD_Armory_Menu_AssignFoodTip>
+  <TSA_WD_Armory_Menu_ConvertFood>Converter alimento real em alimento do posto</TSA_WD_Armory_Menu_ConvertFood>
+  <TSA_WD_Armory_Menu_RemoveAmmo>Retirar</TSA_WD_Armory_Menu_RemoveAmmo>
+  <TSA_WD_Armory_Menu_RemoveAmmoTip>Mova toda a munição do Combat Extended dos inventários dos ocupantes para o Arsenal. Não descarrega carregadores ainda nas armas.</TSA_WD_Armory_Menu_RemoveAmmoTip>
+  <TSA_WD_Armory_Menu_RemoveFood>Retirar alimento dos colonos</TSA_WD_Armory_Menu_RemoveFood>
+  <TSA_WD_Armory_Menu_RemoveFoodTip>Mova todo alimento nutricional dos inventários dos ocupantes para o Arsenal. Drogas e medicamentos permanecem com os colonos.</TSA_WD_Armory_Menu_RemoveFoodTip>
+  <TSA_WD_Armory_NoItemMatch>Nenhum item armazenado corresponde a estes filtros.</TSA_WD_Armory_NoItemMatch>
+  <TSA_WD_Armory_NoOccupants>Nenhum ocupante para equipar.</TSA_WD_Armory_NoOccupants>
+  <TSA_WD_Armory_NoPawnMatch>Nenhum ocupante corresponde a este filtro.</TSA_WD_Armory_NoPawnMatch>
+  <TSA_WD_Armory_NormalizeNote>O equipamento armazenado é reparado ao máximo, para que itens idênticos sejam empilhados juntos. Equipamentos manchados e biocodificados permanecem assim e são mantidos separadamente.</TSA_WD_Armory_NormalizeNote>
+  <TSA_WD_Armory_OpenButton>Arsenal</TSA_WD_Armory_OpenButton>
+  <TSA_WD_Armory_OpenButtonTip>Entregue armas, armaduras, medicamentos, drogas, alimentos e munição armazenados aos ocupantes deste posto avançado.</TSA_WD_Armory_OpenButtonTip>
+  <TSA_WD_Armory_OpenInventory>Abrir aba "Todo o equipamento"</TSA_WD_Armory_OpenInventory>
+  <TSA_WD_Armory_OpenInventoryTip>Abra a aba "Todo o equipamento" para mover rapidamente itens entre postos avançados e a colônia.</TSA_WD_Armory_OpenInventoryTip>
+  <TSA_WD_Armory_PodDeposit>{0} item(ns) armazenado(s) no arsenal em {1}.</TSA_WD_Armory_PodDeposit>
+  <TSA_WD_Armory_RemovedAmmo>Movido {0} pilha(s) de munição do inventário para o Arsenal.</TSA_WD_Armory_RemovedAmmo>
+  <TSA_WD_Armory_RemovedAmmoNone>Nenhuma munição nos inventários dos ocupantes para mover.</TSA_WD_Armory_RemovedAmmoNone>
+  <TSA_WD_Armory_RemovedFood>Movido {0} pilha(s) de alimento do inventário para o Arsenal.</TSA_WD_Armory_RemovedFood>
+  <TSA_WD_Armory_RemovedFoodNone>Nenhum alimento nos inventários dos ocupantes para mover.</TSA_WD_Armory_RemovedFoodNone>
+  <TSA_WD_Armory_RightClickStoreTip>Clique direito: mover para o Arsenal.</TSA_WD_Armory_RightClickStoreTip>
+  <TSA_WD_Armory_SecApparel>Vestimentas equipáveis</TSA_WD_Armory_SecApparel>
+  <TSA_WD_Armory_SecFoodDrugsAmmo>Alimentos, Drogas, Munição, Medicamentos</TSA_WD_Armory_SecFoodDrugsAmmo>
+  <TSA_WD_Armory_SecOtherInventory>Outro inventário</TSA_WD_Armory_SecOtherInventory>
+  <TSA_WD_Armory_SecWeapons>Armas equipáveis</TSA_WD_Armory_SecWeapons>
+  <TSA_WD_Armory_SplitTitle>Quantos {0}?</TSA_WD_Armory_SplitTitle>
+  <TSA_WD_Armory_StoreEmpty>Nada armazenado aqui ainda. Equipamentos que chegarem por caravana ou cápsula de escape vão para o Arsenal. Use a aba "Todo o equipamento" abaixo para enviar da colônia ou de outro posto avançado.</TSA_WD_Armory_StoreEmpty>
+  <TSA_WD_Armory_StoresMore>+{0} a mais</TSA_WD_Armory_StoresMore>
+  <TSA_WD_Armory_StoresTooltip>{0} item(ns) armazenado(s).</TSA_WD_Armory_StoresTooltip>
+  <TSA_WD_Armory_TaintedTip>Manchado: esta vestimenta foi usada por alguém que morreu com ela. Usá-la incomoda a maioria dos colonos.</TSA_WD_Armory_TaintedTip>
+  <TSA_WD_Armory_TypeFilter_Ammo>Munição</TSA_WD_Armory_TypeFilter_Ammo>
+  <TSA_WD_Armory_TypeFilter_Armor>Armadura</TSA_WD_Armory_TypeFilter_Armor>
+  <TSA_WD_Armory_TypeFilter_Drugs>Drogas</TSA_WD_Armory_TypeFilter_Drugs>
+  <TSA_WD_Armory_TypeFilter_Food>Alimentos</TSA_WD_Armory_TypeFilter_Food>
+  <TSA_WD_Armory_TypeFilter_Headgear>Capacete</TSA_WD_Armory_TypeFilter_Headgear>
+  <TSA_WD_Armory_TypeFilter_Legs>Pernas</TSA_WD_Armory_TypeFilter_Legs>
+  <TSA_WD_Armory_TypeFilter_Medicine>Medicamentos</TSA_WD_Armory_TypeFilter_Medicine>
+  <TSA_WD_Armory_TypeFilter_Torso>Tronco</TSA_WD_Armory_TypeFilter_Torso>
+  <TSA_WD_Armory_UniqueTag>único</TSA_WD_Armory_UniqueTag>
+  <TSA_WD_Armory_UpgradeLost>A remessa de {0} destinada a {1} foi destruída no transporte. Os materiais foram perdidos e a melhoria poderá ser encomendada novamente.</TSA_WD_Armory_UpgradeLost>
+  <TSA_WD_Armory_UpgradeLostLabel>Remessa de melhoria perdida</TSA_WD_Armory_UpgradeLostLabel>
+  <TSA_WD_Armory_WeaponFilterTip>Filtre os itens armazenados por tipo. Armadura cobre capacetes e armaduras corporais. Capacete, tronco e pernas filtram vestimentas pelo que cobrem, portanto uma peça pode aparecer em várias categorias.</TSA_WD_Armory_WeaponFilterTip>
+  <TSA_WD_Armory_WeaponFilter_All>Todos</TSA_WD_Armory_WeaponFilter_All>
+  <TSA_WD_Armory_WeaponFilter_Bows>Arcos</TSA_WD_Armory_WeaponFilter_Bows>
+  <TSA_WD_Armory_WeaponFilter_Grenades>Granadas</TSA_WD_Armory_WeaponFilter_Grenades>
+  <TSA_WD_Armory_WeaponFilter_Guns>Armas de fogo</TSA_WD_Armory_WeaponFilter_Guns>
+  <TSA_WD_Armory_WeaponFilter_Melee>Corpo a corpo</TSA_WD_Armory_WeaponFilter_Melee>
+  <TSA_WD_Armory_WeaponFilter_Other>Outros</TSA_WD_Armory_WeaponFilter_Other>
+  <TSA_WD_Artillery_TravelSpeedsInCaravansTip>As velocidades de viagem (viajantes a pé, cápsulas de queda, Caravanas de Interceptação) estão em Caravanas e Comércio → Viagem e Desgaste.</TSA_WD_Artillery_TravelSpeedsInCaravansTip>
+  <TSA_WD_AssaultArtillery_FireMissionQueued>Bombardeio na fila. Cancele-o no mapa-múndi antes de usar o apoio de assalto deste posto avançado.</TSA_WD_AssaultArtillery_FireMissionQueued>
+  <TSA_WD_BridgeBuilderCaravan>Caravana de construção de ponte</TSA_WD_BridgeBuilderCaravan>
+  <TSA_WD_BridgeBuilt>Ponte concluída a partir de {0}.</TSA_WD_BridgeBuilt>
+  <TSA_WD_BridgeCancelled>Projeto da ponte cancelado em {0}.</TSA_WD_BridgeCancelled>
+  <TSA_WD_BridgeCostTip>Força da expedição por equipe de segmento: {0}</TSA_WD_BridgeCostTip>
+  <TSA_WD_BridgeCrewLaunched>Equipe de ponte enviada de {0}.</TSA_WD_BridgeCrewLaunched>
+  <TSA_WD_BridgeCrewLaunchedWithStone>Equipe de ponte enviada de {0}. Gastaram {1} blocos de pedra quaisquer para este segmento.</TSA_WD_BridgeCrewLaunchedWithStone>
+  <TSA_WD_BridgeDeconstructBlockedLetterLabel>Demolição da ponte bloqueada</TSA_WD_BridgeDeconstructBlockedLetterLabel>
+  <TSA_WD_BridgeDeconstructBlockedLetterText>A equipe de demolição da ponte de {0} chegou, mas {1} estava nesse quadrado ({2}). Esse segmento foi deixado no lugar; o restante da ponte não foi demolido.</TSA_WD_BridgeDeconstructBlockedLetterText>
+  <TSA_WD_BridgeDeconstructBlockedMessage>Demolição da ponte de {0} cancelada: {1} no quadrado {2}.</TSA_WD_BridgeDeconstructBlockedMessage>
+  <TSA_WD_BridgeDeconstructCancelled>Demolição da ponte cancelada em {0}.</TSA_WD_BridgeDeconstructCancelled>
+  <TSA_WD_BridgeDeconstructCaravan>Caravana de demolição de ponte</TSA_WD_BridgeDeconstructCaravan>
+  <TSA_WD_BridgeDeconstructCrewLaunched>Equipe de demolição da ponte enviada de {0}.</TSA_WD_BridgeDeconstructCrewLaunched>
+  <TSA_WD_BridgeDeconstructProjectSet>Demolição da ponte definida em {0}. As equipes partirão conforme o progresso for concluído.</TSA_WD_BridgeDeconstructProjectSet>
+  <TSA_WD_BridgeDeconstructSegmentComplete>{0} concluiu a remoção de um segmento da ponte.</TSA_WD_BridgeDeconstructSegmentComplete>
+  <TSA_WD_BridgeDeconstructed>Ponte removida pela equipe de {0}.</TSA_WD_BridgeDeconstructed>
+  <TSA_WD_BridgeLaunchFailed>Não foi possível enviar a equipe de ponte (força, materiais ou caminho).</TSA_WD_BridgeLaunchFailed>
+  <TSA_WD_BridgeOccupant_Ambush>confronto de caravana</TSA_WD_BridgeOccupant_Ambush>
+  <TSA_WD_BridgeOccupant_CampClash>confronto de acampamento</TSA_WD_BridgeOccupant_CampClash>
+  <TSA_WD_BridgeProjectSet>Projeto da ponte definido em {0}. As equipes partirão conforme o progresso for concluído.</TSA_WD_BridgeProjectSet>
+  <TSA_WD_BridgeReject_AlreadyBridged>Esse vão de água já está completamente coberto por uma ponte.</TSA_WD_BridgeReject_AlreadyBridged>
+  <TSA_WD_BridgeReject_AmbiguousBridge>Essa margem se conecta a mais de uma ponte. Escolha uma margem que pertença a apenas um vão.</TSA_WD_BridgeReject_AmbiguousBridge>
+  <TSA_WD_BridgeReject_BankAlreadyUsed>Essa margem já possui uma ponte. Duas pontes não podem compartilhar a mesma margem inicial ou final.</TSA_WD_BridgeReject_BankAlreadyUsed>
+  <TSA_WD_BridgeReject_EndNotAdjacentToWater>A margem final deve estar ao lado de um quadrado de água.</TSA_WD_BridgeReject_EndNotAdjacentToWater>
+  <TSA_WD_BridgeReject_ImpassableBank>Uma das margens é intransitável.</TSA_WD_BridgeReject_ImpassableBank>
+  <TSA_WD_BridgeReject_Invalid>Alvo da ponte inválido.</TSA_WD_BridgeReject_Invalid>
+  <TSA_WD_BridgeReject_NeedLandBanks>Ambas as extremidades devem ser margens de terra (não água).</TSA_WD_BridgeReject_NeedLandBanks>
+  <TSA_WD_BridgeReject_NotBridged>Não há ponte ou trecho inacabado a partir dessa margem.</TSA_WD_BridgeReject_NotBridged>
+  <TSA_WD_BridgeReject_NotStraightOrTooLong>É necessário um corredor de água reto de 1 a {0} quadrados entre as margens.</TSA_WD_BridgeReject_NotStraightOrTooLong>
+  <TSA_WD_BridgeReject_OutOfBridgeRange>Esse quadrado está fora do alcance máximo da ponte a partir da margem inicial.</TSA_WD_BridgeReject_OutOfBridgeRange>
+  <TSA_WD_BridgeReject_ProjectLocked>Outro projeto de ponte já reivindica parte desse vão.</TSA_WD_BridgeReject_ProjectLocked>
+  <TSA_WD_BridgeReject_SameShore>As pontes devem chegar à margem oposta, não seguir ao longo da mesma margem.</TSA_WD_BridgeReject_SameShore>
+  <TSA_WD_BridgeReject_SameTile>Escolha duas margens diferentes.</TSA_WD_BridgeReject_SameTile>
+  <TSA_WD_BridgeReject_SpanOccupied>Há algo ocupando os quadrados de água da ponte.</TSA_WD_BridgeReject_SpanOccupied>
+  <TSA_WD_BridgeReject_StartNotAdjacentToWater>A margem inicial deve estar ao lado de um quadrado de água.</TSA_WD_BridgeReject_StartNotAdjacentToWater>
+  <TSA_WD_BridgeRemovedTravelerImpact>Ponte removida: {0} viajante(s) redirecionado(s), {1} missão(ões) cancelada(s).</TSA_WD_BridgeRemovedTravelerImpact>
+  <TSA_WD_BridgeSegmentComplete>{0} concluiu a pavimentação de um segmento da ponte.</TSA_WD_BridgeSegmentComplete>
+  <TSA_WD_BridgeStartBankSelected>Margem inicial selecionada. Clique na margem de terra do outro lado.</TSA_WD_BridgeStartBankSelected>
+  <TSA_WD_BridgeTip_PickBankDeconstruct>Clique em qualquer margem de uma ponte existente para demolí-la. A cor laranja mostra o alcance do posto avançado.</TSA_WD_BridgeTip_PickBankDeconstruct>
+  <TSA_WD_BridgeTip_PickEndBank>Clique na margem de terra oposta (vão de água, máx. {0} quadrados). A cor laranja mostra o alcance máximo da ponte a partir da margem inicial.</TSA_WD_BridgeTip_PickEndBank>
+  <TSA_WD_BridgeTip_PickEndBankDeconstruct>Clique na margem oposta de uma ponte existente (máx. {0} quadrados de água). A cor laranja mostra o alcance máximo a partir da margem inicial.</TSA_WD_BridgeTip_PickEndBankDeconstruct>
+  <TSA_WD_BridgeTip_PickStartBank>Clique em uma margem de terra ao lado da água onde a ponte deve começar.</TSA_WD_BridgeTip_PickStartBank>
+  <TSA_WD_Bridge_MovementDifficultyBase>Ponte</TSA_WD_Bridge_MovementDifficultyBase>
+  <TSA_WD_BuildBridge>Construir ponte</TSA_WD_BuildBridge>
+  <TSA_WD_BuildBridgeDesc>Construa uma ponte de pedra sobre água (de margem a margem, até {0} quadrados de água). Escolha ambas as margens e o posto avançado preparará o trabalho como uma estrada. Cada equipe pavimenta um quadrado de água. Blocos de estrada e armadilhas podem ser colocados na ponte; torretas antitanque não podem.</TSA_WD_BuildBridgeDesc>
+  <TSA_WD_BuildBridgeKindTip>{0} blocos de pedra quaisquer por quadrado de água, pagos quando a equipe daquele segmento partir. Reembolsados apenas se essa equipe nunca tiver pavimentado. Retomar não recarrega quadrados já construídos. Mesma habilidade e pesquisa que estradas de pedra.</TSA_WD_BuildBridgeKindTip>
+  <TSA_WD_BuildBridgeStatus>Construindo ponte em direção a "{0}": {1}%</TSA_WD_BuildBridgeStatus>
+  <TSA_WD_CampClashFailed>Defesa do acampamento perdida. {0} se separou e está continuando sua missão.</TSA_WD_CampClashFailed>
+  <TSA_WD_CampClashFled>A defesa do acampamento foi perdida. Sua força fugiu. {0} está continuando sua missão.</TSA_WD_CampClashFled>
+  <TSA_WD_CampClashVictory>A defesa do acampamento foi vitoriosa! As forças hostis foram eliminadas e sua missão acabou.</TSA_WD_CampClashVictory>
+  <TSA_WD_CampClash_Label>Ataque ao acampamento</TSA_WD_CampClash_Label>
+  <TSA_WD_CancelBridge>Cancelar ponte</TSA_WD_CancelBridge>
+  <TSA_WD_CancelBridgeDeconstruct>Cancelar demolição da ponte</TSA_WD_CancelBridgeDeconstruct>
+  <TSA_WD_CancelBridgeDeconstructDesc>Cancele o projeto de demolição. O tabuleiro restante permanece. Uma equipe em voo é reembolsada se ainda não tiver desconectado.</TSA_WD_CancelBridgeDeconstructDesc>
+  <TSA_WD_CancelBridgeDesc>Cancele o projeto da ponte. Os segmentos já pavimentados permanecem. Uma equipe em voo é reembolsada se ainda não tiver pavimentado.</TSA_WD_CancelBridgeDesc>
+  <TSA_WD_Caravans_AttritionRestResumeRatio>Força para retomar viagem após descanso por desgaste</TSA_WD_Caravans_AttritionRestResumeRatio>
+  <TSA_WD_Caravans_AttritionRestResumeRatioTooltip>Proporção da força de partida na qual os viajantes em descanso retomam a viagem (padrão 95%). Deve ser pelo menos o mínimo para descanso.</TSA_WD_Caravans_AttritionRestResumeRatioTooltip>
+  <TSA_WD_Caravans_T3T4DropPodsOverWater>T3 e T4 sempre usam cápsulas de queda para atravessar água</TSA_WD_Caravans_T3T4DropPodsOverWater>
+  <TSA_WD_Caravans_T3T4DropPodsOverWaterTip>Quando uma incursão T3/T4 não tiver rota terrestre, lançá-la como incursão por cápsulas de queda (desgaste normal por cápsulas e AA). Quando desativado, essas incursões atravessam a água como T1/T2. Não altera incursões com rota terrestre ou viajantes não-incursivos. Padrão ativado.</TSA_WD_Caravans_T3T4DropPodsOverWaterTip>
+  <TSA_WD_Caravans_WalkingTicksPerMove>Ticks por bloco para viajantes a pé</TSA_WD_Caravans_WalkingTicksPerMove>
+  <TSA_WD_Caravans_WalkingTicksPerMoveTip>Ticks do mundo por bloco para viajantes terrestres do WD. Menor = mais rápido. Também usado para estimativas de desgaste por preparo de incursões e comerciantes. Aplica-se a viajantes recém-lançados; os já em movimento mantêm sua velocidade de partida.</TSA_WD_Caravans_WalkingTicksPerMoveTip>
+  <TSA_WD_ChangeOutpostType>Alterar tipo de posto avançado</TSA_WD_ChangeOutpostType>
+  <TSA_WD_ChangeOutpostTypeTip>Converta este posto avançado em outro tipo. Os materiais equivalem a uma fundação completa do novo tipo e são enviados da colônia ou do depósito mais próximo, como nas melhorias. As habilidades e o número de guarnição devem atender ao novo tipo. Blocos de estrada e torretas antiaéreas permanecem; melhorias incompatíveis são descartadas.</TSA_WD_ChangeOutpostTypeTip>
+  <TSA_WD_Combat_DailyTurtleGlobalCooldown>Recarga global diária da Tartaruga</TSA_WD_Combat_DailyTurtleGlobalCooldown>
+  <TSA_WD_Combat_DailyTurtleGlobalCooldownTooltip>Silêncio mundial entre eventos proativos diários da Tartaruga. Não bloqueia a Tartaruga reativa após a perda de um assentamento.</TSA_WD_Combat_DailyTurtleGlobalCooldownTooltip>
+  <TSA_WD_CountPicker_All>Todos</TSA_WD_CountPicker_All>
+  <TSA_WD_Daily_CdAdvancedBuildings>Recarga após construção avançada</TSA_WD_Daily_CdAdvancedBuildings>
+  <TSA_WD_Daily_CdAdvancedBuildingsTip>Dias antes deste assentamento poder iniciar outra construção avançada. Não bloqueia outros tipos de ação.</TSA_WD_Daily_CdAdvancedBuildingsTip>
+  <TSA_WD_Daily_WeightAdvancedBuildings>Probabilidade de construção avançada</TSA_WD_Daily_WeightAdvancedBuildings>
+  <TSA_WD_Daily_WeightAdvancedBuildingsTip>Probabilidade de um assentamento enviar uma equipe para construir uma construção avançada nas proximidades: Silo, Hospital, Torre de Vigia, Estábulo, Torreta de Morteiro ou Torreta AA. Cada assentamento possui tantos espaços quantos seu nível e, no máximo, um de cada tipo. Assentamentos seguros e distantes de inimigos constroem com mais frequência; assentamentos ameaçados ou em recuperação também podem, mas com menor frequência e com preferência por artilharia quando elegível. Se escolhido, mas nenhum projeto puder ser iniciado, outra ação diária elegível será utilizada.</TSA_WD_Daily_WeightAdvancedBuildingsTip>
+  <TSA_WD_Dash_EscalationTip_InterceptOff>Caravanas de intercepção NPC contra suas caravanas e viajantes: desativado</TSA_WD_Dash_EscalationTip_InterceptOff>
+  <TSA_WD_Dash_EscalationTip_InterceptOn>Caravanas de intercepção NPC contra suas caravanas e viajantes: ativado</TSA_WD_Dash_EscalationTip_InterceptOn>
+  <TSA_WD_Dash_NavTip_AllInventory>Veja quais equipamentos estão armazenados ou equipados e onde, além de enviar pilhas armazenadas para qualquer lugar sem um colono.\n\nAtalho: {0}</TSA_WD_Dash_NavTip_AllInventory>
+  <TSA_WD_Debug_ForceTypeChange>Depuração: forçar conversão de tipo de posto avançado…</TSA_WD_Debug_ForceTypeChange>
+  <TSA_WD_DeconstructBridge>Demolir ponte</TSA_WD_DeconstructBridge>
+  <TSA_WD_DeconstructBridgeDesc>Clique em qualquer margem de uma ponte ou de um trecho inacabado (até {0} quadrados de água). O posto avançado removerá uma borda por equipe. A ocupação é verificada no quadrado de água que está sendo removido. Grátis (sem reembolso de materiais).</TSA_WD_DeconstructBridgeDesc>
+  <TSA_WD_DeconstructBridgeStatus>Demolindo ponte em direção a "{0}": {1}%</TSA_WD_DeconstructBridgeStatus>
+  <TSA_WD_Diplo_CoalitionShortened_Msg>A pressão contra o líder diminui: {0} é pequeno e ágil. A coalizão durará cerca de {1} dias a mais.</TSA_WD_Diplo_CoalitionShortened_Msg>
+  <TSA_WD_Diplo_LeaderAllyRadiusMult>Líder: Multiplicador de raio de atração de aliados</TSA_WD_Diplo_LeaderAllyRadiusMult>
+  <TSA_WD_Diplo_LeaderAllyRadiusTooltip>Reduz o raio de atração de reforços aliados enquanto a desvantagem do líder estiver ativa.</TSA_WD_Diplo_LeaderAllyRadiusTooltip>
+  <TSA_WD_Diplo_LeaderAttackAttWinMult>Líder atacando: multiplicador de vitória do atacante</TSA_WD_Diplo_LeaderAttackAttWinMult>
+  <TSA_WD_Diplo_LeaderAttackAttWinTooltip>Multiplica a chance de vitória do atacante quando o líder em desvantagem estiver atacando.</TSA_WD_Diplo_LeaderAttackAttWinTooltip>
+  <TSA_WD_Diplo_LeaderDefendAttWinMult>Líder defendendo: multiplicador de vitória do atacante</TSA_WD_Diplo_LeaderDefendAttWinMult>
+  <TSA_WD_Diplo_LeaderDefendAttWinTooltip>Multiplica a chance de vitória do atacante quando o líder em desvantagem estiver defendendo (maior = mais fácil derrotar o líder).</TSA_WD_Diplo_LeaderDefendAttWinTooltip>
+  <TSA_WD_Diplo_LeaderExpandCdMult>Líder: Multiplicador de tempo de recarga de expansão</TSA_WD_Diplo_LeaderExpandCdMult>
+  <TSA_WD_Diplo_LeaderExpandCdTooltip>Aumenta o tempo de recarga de expansão enquanto a desvantagem do líder estiver ativa.</TSA_WD_Diplo_LeaderExpandCdTooltip>
+  <TSA_WD_Diplo_LeaderFortifyDensityMult>Líder: Multiplicador de densidade de fortificação</TSA_WD_Diplo_LeaderFortifyDensityMult>
+  <TSA_WD_Diplo_LeaderFortifyDensityTooltip>Ajusta a quantidade de torretas antitanque e a densidade de caravanas dos kits de fortificação enquanto a desvantagem do líder estiver ativa.</TSA_WD_Diplo_LeaderFortifyDensityTooltip>
+  <TSA_WD_Diplo_LeaderGrowthGainMult>Líder: Multiplicador de ganho de força de crescimento</TSA_WD_Diplo_LeaderGrowthGainMult>
+  <TSA_WD_Diplo_LeaderGrowthGainTooltip>Quando a desvantagem do líder mundial estiver ativa, o ganho passivo de força de crescimento é multiplicado por este valor.</TSA_WD_Diplo_LeaderGrowthGainTooltip>
+  <TSA_WD_Diplo_MaxConcurrentUnderdogs>Máximo de desfavorecidos simultâneos</TSA_WD_Diplo_MaxConcurrentUnderdogs>
+  <TSA_WD_Diplo_MaxConcurrentUnderdogsTooltip>Quantas facções NPC fracas podem ter o bônus Ágil em uma onda.</TSA_WD_Diplo_MaxConcurrentUnderdogsTooltip>
+  <TSA_WD_Diplo_PerFactionCooldownTooltip>Tempo de recarga por facção após o fim deste bônus/penalidade para essa facção. Outras facções ainda podem recebê-lo.</TSA_WD_Diplo_PerFactionCooldownTooltip>
+  <TSA_WD_Diplo_UnderdogAllyRadiusMult>Desfavorecido: Multiplicador de raio de atração de aliados</TSA_WD_Diplo_UnderdogAllyRadiusMult>
+  <TSA_WD_Diplo_UnderdogAllyRadiusTooltip>Aumenta o raio de atração de reforços aliados enquanto o bônus Ágil estiver ativo.</TSA_WD_Diplo_UnderdogAllyRadiusTooltip>
+  <TSA_WD_Diplo_UnderdogAttackAttWinMult>Desfavorecido atacando: multiplicador de vitória do atacante</TSA_WD_Diplo_UnderdogAttackAttWinMult>
+  <TSA_WD_Diplo_UnderdogAttackAttWinTooltip>Multiplica a chance de vitória do atacante quando uma facção ágil estiver atacando (ajuda a reconquistar).</TSA_WD_Diplo_UnderdogAttackAttWinTooltip>
+  <TSA_WD_Diplo_UnderdogBuff_MsgMulti>Bônus: {0} crescerá mais rápido pelos próximos {1} dias graças a ser pequeno e ágil.</TSA_WD_Diplo_UnderdogBuff_MsgMulti>
+  <TSA_WD_Diplo_UnderdogDefendAttWinMult>Desfavorecido defendendo: multiplicador de vitória do atacante</TSA_WD_Diplo_UnderdogDefendAttWinMult>
+  <TSA_WD_Diplo_UnderdogDefendAttWinTooltip>Multiplica a chance de vitória do atacante quando uma facção ágil estiver defendendo (menor = mais difícil eliminar os desfavorecidos).</TSA_WD_Diplo_UnderdogDefendAttWinTooltip>
+  <TSA_WD_Diplo_UnderdogExpandCdMult>Desfavorecido: Multiplicador de tempo de recarga de expansão</TSA_WD_Diplo_UnderdogExpandCdMult>
+  <TSA_WD_Diplo_UnderdogExpandCdTooltip>Reduz o tempo de recarga de expansão enquanto o bônus Ágil estiver ativo.</TSA_WD_Diplo_UnderdogExpandCdTooltip>
+  <TSA_WD_Diplo_UnderdogExpandWeightMult>Desfavorecido: Multiplicador de peso de desenvolvimento/expansão</TSA_WD_Diplo_UnderdogExpandWeightMult>
+  <TSA_WD_Diplo_UnderdogExpandWeightTooltip>Aumenta o peso das ações de desenvolvimento/expansão enquanto o bônus Ágil estiver ativo.</TSA_WD_Diplo_UnderdogExpandWeightTooltip>
+  <TSA_WD_Diplo_UnderdogFortifyDensityMult>Desfavorecido: Multiplicador de densidade de fortificação</TSA_WD_Diplo_UnderdogFortifyDensityMult>
+  <TSA_WD_Diplo_UnderdogFortifyDensityTooltip>Ajusta a quantidade de torretas antitanque e a densidade de caravanas dos kits de fortificação enquanto o bônus Ágil estiver ativo.</TSA_WD_Diplo_UnderdogFortifyDensityTooltip>
+  <TSA_WD_DispatchMode_AutoShipFreeNote>A entrega automática diária do armazém não gasta um componente.</TSA_WD_DispatchMode_AutoShipFreeNote>
+  <TSA_WD_DropPodTransportCostComponents>Custo de componentes para transporte por cápsula de queda</TSA_WD_DropPodTransportCostComponents>
+  <TSA_WD_DropPodTransportCostComponentsTip>Quando ativado, lançamentos de cápsulas de queda pelo jogador gastam componentes industriais (1 por colono viajante; 1 por viajante com mercadorias). Quando desativado, o custo exibido e cobrado é 0. O preset de dificuldade Fácil desativa isso; Médio e Difícil ativam.</TSA_WD_DropPodTransportCostComponentsTip>
+  <TSA_WD_Establish_NeedLand>Postos avançados não podem ser fundados sobre a água.</TSA_WD_Establish_NeedLand>
+  <TSA_WD_Experimental_AmbushSelfDefenseRatio>Proporção mínima para emboscada ao defender o lar</TSA_WD_Experimental_AmbushSelfDefenseRatio>
+  <TSA_WD_Experimental_AmbushSelfDefenseRatioTip>Razão mínima (força disponível / força inimiga) para que um assentamento sem bens periféricos envie uma caravana de intercepção contra uma caravana que se dirige diretamente a ele. Assentamentos que guardam uma torreta AT ou edifício avançado utilizam limites mais baixos.</TSA_WD_Experimental_AmbushSelfDefenseRatioTip>
+  <TSA_WD_Experimental_AmbushWatchRangeAssets>Alcance de vigília para emboscadas com construções (blocos)</TSA_WD_Experimental_AmbushWatchRangeAssets>
+  <TSA_WD_Experimental_AmbushWatchRangeAssetsTip>Alcance de vigilância para assentamentos que possuem uma torreta AT ou edifício avançado. É utilizado o maior valor entre este e o alcance de vigilância comum, permitindo que o assentamento defenda seus bens periféricos.</TSA_WD_Experimental_AmbushWatchRangeAssetsTip>
+  <TSA_WD_Experimental_DisableVanillaCaravanIncidents>Desativar incidentes vanilla em caravanas viajantes</TSA_WD_Experimental_DisableVanillaCaravanIncidents>
+  <TSA_WD_Experimental_DisableVanillaCaravanIncidentsTip>Quando ativado, bloqueia eventos aleatórios do narrador vanilla em caravanas em viagem: emboscada, emboscada de caçadores humanos, encontro de caravanas, exigência de pagamento e doença em caravana. Não afeta emboscadas de assentamento do WD, Resposta Rápida ou confrontos entre viajantes. Desativado por padrão.</TSA_WD_Experimental_DisableVanillaCaravanIncidentsTip>
+  <TSA_WD_Experimental_MaraudPostWinLossPct>Perda de força após vitória</TSA_WD_Experimental_MaraudPostWinLossPct>
+  <TSA_WD_Experimental_MaraudPostWinLossPctTip>Quando uma incursão vitoriosa continua a pilhar, esta fração da força restante é removida. A decisão de continuar usa a força após esta perda.</TSA_WD_Experimental_MaraudPostWinLossPctTip>
+  <TSA_WD_Experimental_NpcRaidKillGoodwillPer500>Ganho de boa vontade por 500 de força ao derrotar um viajante visando outra facção</TSA_WD_Experimental_NpcRaidKillGoodwillPer500>
+  <TSA_WD_Experimental_NpcRaidKillGoodwillPer500Tip>Ganho de boa vontade: quando você dizimar um viajante do WD com destino ao assentamento de outra facção, essa facção ganha boa vontade com você. Escala com a força do viajante (500 de força = esta quantidade de pontos, 1000 = o dobro). 0 desativa. Desvios por torretas AA e interceptações em gargalos ainda creditam o assentamento original quando aplicável.</TSA_WD_Experimental_NpcRaidKillGoodwillPer500Tip>
+  <TSA_WD_Experimental_OutpostArmory>Arsenal do posto avançado</TSA_WD_Experimental_OutpostArmory>
+  <TSA_WD_Experimental_OutpostArmoryTip>Quando ativado, todo posto avançado mantém um estoque para armas, armaduras, medicamentos, drogas, comida e munição. Equipamentos que chegarem por caravana ou cápsula de queda serão armazenados ao invés de destruídos, e você poderá entregá-los aos ocupantes pelo botão 'Arsenal' na aba Colono. Desative para voltar a descartar equipamentos ao chegarem. Qualquer item já armazenado permanece no save. Ativado por padrão.</TSA_WD_Experimental_OutpostArmoryTip>
+  <TSA_WD_Experimental_OutpostCePassiveAmmo>Estoque passivo de munição do posto avançado (Combat Extended)</TSA_WD_Experimental_OutpostCePassiveAmmo>
+  <TSA_WD_Experimental_OutpostCePassiveAmmoTip>Quando o Combat Extended estiver ativo, os colonos do posto avançado com arma primária à distância irão estocar lentamente sua munição básica (FMJ, flechas de pedra, foguetes simples) a {0} carregadores por dia, até um máximo de {1} carregadores em seu inventário. Gratuito e levemente trapaceiro. Desative para desabilitar. Ativado por padrão.</TSA_WD_Experimental_OutpostCePassiveAmmoTip>
+  <TSA_WD_Experts_AutoAssignTipOff>Novos espaços de especialista permanecem vazios até que você os atribua manualmente.</TSA_WD_Experts_AutoAssignTipOff>
+  <TSA_WD_Experts_AutoAssignTipOn>Quando um humanoide novo desbloquear outro espaço de especialista (a cada 4), atribua automaticamente a função vaga ao colono não atribuído com melhor habilidade para essa função. Não preenche espaços que já estavam abertos.</TSA_WD_Experts_AutoAssignTipOn>
+  <TSA_WD_FilterByIdeology>Filtrar por ideologia</TSA_WD_FilterByIdeology>
+  <TSA_WD_Filter_AllIdeologies>Todas as ideologias</TSA_WD_Filter_AllIdeologies>
+  <TSA_WD_Filter_NoIdeology>Sem ideologia</TSA_WD_Filter_NoIdeology>
+  <TSA_WD_GiftSettlement_GoodwillDivisor>Prata por presente para cada ponto de bônus de boa vontade</TSA_WD_GiftSettlement_GoodwillDivisor>
+  <TSA_WD_GiftSettlement_GoodwillDivisorTip>Ao chegar o presente, a boa vontade ganha é o valor de mercado bruto dos itens dividido por este número (não a avaliação de preço de venda do medidor de negociação). Valores maiores significam menor boa vontade. No vanilla, o valor é 40.</TSA_WD_GiftSettlement_GoodwillDivisorTip>
+  <TSA_WD_GiftSettlement_MinSilverSetting>Presente mínimo (prata)</TSA_WD_GiftSettlement_MinSilverSetting>
+  <TSA_WD_GiftSettlement_MinSilverSettingTip>Os itens da caravana de presente devem atingir este equivalente em prata no medidor de negociação (avaliação de preço de venda) antes que você possa confirmar.</TSA_WD_GiftSettlement_MinSilverSettingTip>
+  <TSA_WD_GiftsAndPurchases_SettingsHeader>Presentes e compras</TSA_WD_GiftsAndPurchases_SettingsHeader>
+  <TSA_WD_Gizmo_RecruitingNone>Não está recrutando</TSA_WD_Gizmo_RecruitingNone>
+  <TSA_WD_GoodwillMsg_NpcTravelerKillAssist>Viajante a caminho de {3} foi detido. {1} de boa vontade com {0}, agora em {2}.</TSA_WD_GoodwillMsg_NpcTravelerKillAssist>
+  <TSA_WD_Inspect_BridgeClearStatus>Remoção da ponte em direção a {0}: {1}%</TSA_WD_Inspect_BridgeClearStatus>
+  <TSA_WD_Inspect_BridgeClearStatus_InTransit>Status: equipe de demolição da ponte a caminho de {0} (preparação {1}%)...</TSA_WD_Inspect_BridgeClearStatus_InTransit>
+  <TSA_WD_Inspect_BridgeStatus>Construção da ponte: {0}% até {1}</TSA_WD_Inspect_BridgeStatus>
+  <TSA_WD_Inspect_BridgeStatus_InTransit>Status: equipe construtora da ponte a caminho de {0} (preparação {1}%)...</TSA_WD_Inspect_BridgeStatus_InTransit>
+  <TSA_WD_Inspect_MortarMissionCooldown>Bombardeio: {0} (pronto em {1} dias)</TSA_WD_Inspect_MortarMissionCooldown>
+  <TSA_WD_Inspect_MortarMissionReady>Bombardeio: {0} (disparará quando pronto)</TSA_WD_Inspect_MortarMissionReady>
+  <TSA_WD_InsufficientMaterialsToBuild>Materiais insuficientes para entregar {0}</TSA_WD_InsufficientMaterialsToBuild>
+  <TSA_WD_InterceptionFled>Confronto de caravana perdido. Sua caravana fugiu. {0} está continuando sua missão.</TSA_WD_InterceptionFled>
+  <TSA_WD_Irbm_OutpostDestroyed_Label>Posto avançado destruído por míssil</TSA_WD_Irbm_OutpostDestroyed_Label>
+  <TSA_WD_Irbm_OutpostDestroyed_Text>{0} vaporizou seu posto avançado {1} com um míssil estratégico (força era {2}). Todos os ocupantes foram perdidos.</TSA_WD_Irbm_OutpostDestroyed_Text>
+  <TSA_WD_Irbm_OutpostHit_Label>Ataque com míssil estratégico</TSA_WD_Irbm_OutpostHit_Label>
+  <TSA_WD_Irbm_OutpostHit_Text>{0} atingiu seu posto avançado {1} com um míssil estratégico. Dano por força: {2}. Força restante: {3}.</TSA_WD_Irbm_OutpostHit_Text>
+  <TSA_WD_LateGame_EnableDaysThreshold>Permitir dificuldade do final de jogo com base no tempo</TSA_WD_LateGame_EnableDaysThreshold>
+  <TSA_WD_LateGame_EnableDaysThresholdTooltip>Quando ativado, o final de jogo pode ser ativado com base nos dias decorridos, mesmo que a participação e a força ainda estejam abaixo dos limites do final de jogo. Quando desativado, apenas a participação e a força do posto avançado podem ativar o final de jogo.</TSA_WD_LateGame_EnableDaysThresholdTooltip>
+  <TSA_WD_Letter_CampClash_Label>Acampamento sob ataque</TSA_WD_Letter_CampClash_Label>
+  <TSA_WD_Letter_CampClash_Text>Um {0} de {1} invadiu seu acampamento. Prepare-se para o combate!</TSA_WD_Letter_CampClash_Text>
+  <TSA_WD_Letter_RaidPartyDestroyed_Label>Grupo de incursão destruído</TSA_WD_Letter_RaidPartyDestroyed_Label>
+  <TSA_WD_Letter_RaidPartyDestroyed_Text>Uma incursão de {0} com destino a {1} foi destruída no mapa-múndi antes de chegar.</TSA_WD_Letter_RaidPartyDestroyed_Text>
+  <TSA_WD_Letter_Raid_BeyondNormalRange>Além do seu alcance normal.</TSA_WD_Letter_Raid_BeyondNormalRange>
+  <TSA_WD_Letter_SettlementConquered_Label>{0} foi conquistado</TSA_WD_Letter_SettlementConquered_Label>
+  <TSA_WD_Letter_SettlementConquered_Text>{0} foi conquistado.</TSA_WD_Letter_SettlementConquered_Text>
+  <TSA_WD_Log_BridgeCancelled>Missão {0} cancelada: projeto da ponte abortado.</TSA_WD_Log_BridgeCancelled>
+  <TSA_WD_Log_BridgeDeconstructCancelled>Missão {0} cancelada: demolição da ponte abortada.</TSA_WD_Log_BridgeDeconstructCancelled>
+  <TSA_WD_Log_BridgePathInvalidated>Missão {0} cancelada: o caminho da ponte não é mais válido.</TSA_WD_Log_BridgePathInvalidated>
+  <TSA_WD_Log_OutpostTypeChangeLaunched>{0} enviou uma caravana de conversão para {1} ({2}).</TSA_WD_Log_OutpostTypeChangeLaunched>
+  <TSA_WD_Log_Raid_ChokeInterceptCamp>{0} foi desviado para um combate no acampamento {1} (destino original: {2}).</TSA_WD_Log_Raid_ChokeInterceptCamp>
+  <TSA_WD_Log_Raid_ChokeInterceptColony>Incursão interceptada: {0} adentrou a colônia {1} (alvo original: {2}).</TSA_WD_Log_Raid_ChokeInterceptColony>
+  <TSA_WD_Log_Road_HybridBridgeCrew>ESTRADA: {0} enviou uma equipe de ponteiros para {1}.</TSA_WD_Log_Road_HybridBridgeCrew>
+  <TSA_WD_Log_Road_HybridComplete>ESTRADA: {0} concluiu o corredor de estrada e ponte até {1}.</TSA_WD_Log_Road_HybridComplete>
+  <TSA_WD_Log_Road_HybridStarted>ESTRADA: {0} iniciou um corredor de estrada e ponte até {1}.</TSA_WD_Log_Road_HybridStarted>
+  <TSA_WD_MedievalMode>Modo medieval</TSA_WD_MedievalMode>
+  <TSA_WD_MedievalModeTip>Para partidas medievais ou de baixa tecnologia (incluindo Medieval Overhaul). Oculta postos avançados industriais do WD, melhorias e torretas AA; limita a tecnologia de cápsulas de queda de NPCs e de morteiros/AA ao nível Industrial; oculta a interface de viagem terrestre x cápsulas de queda para o jogador e força viagens terrestres. Edifícios industriais já colocados não serão removidos. A alternância no meio da partida deve funcionar, mas é recomendável fazer um backup ou iniciar um novo save!</TSA_WD_MedievalModeTip>
+  <TSA_WD_Medieval_Blocked>Não disponível no modo medieval.</TSA_WD_Medieval_Blocked>
+  <TSA_WD_Medieval_TechFlooredTip>No modo medieval, esta tecnologia é limitada, no mínimo, ao nível Industrial para incursões de NPCs e artilharia.</TSA_WD_Medieval_TechFlooredTip>
+  <TSA_WD_MidGame_EnableDaysThreshold>Permitir dificuldade do meio de jogo com base no tempo</TSA_WD_MidGame_EnableDaysThreshold>
+  <TSA_WD_MidGame_EnableDaysThresholdTooltip>Quando ativado, o meio de jogo pode ser ativado com base nos dias decorridos, mesmo que a participação e a força ainda estejam abaixo dos limites do meio de jogo. Quando desativado, apenas a participação e a força do posto avançado podem ativar o meio de jogo.</TSA_WD_MidGame_EnableDaysThresholdTooltip>
+  <TSA_WD_Mortar_AutoAttack_Menu_Logistics>Suprimentos</TSA_WD_Mortar_AutoAttack_Menu_Logistics>
+  <TSA_WD_Mortar_CancelMissionDesc>Limpa o alvo na fila. O morteiro automático e o apoio de assalto deste posto avançado são retomados.</TSA_WD_Mortar_CancelMissionDesc>
+  <TSA_WD_Mortar_CancelMissionLabel>Cancelar bombardeio</TSA_WD_Mortar_CancelMissionLabel>
+  <TSA_WD_Mortar_Filter_Logistics>Suprimentos</TSA_WD_Mortar_Filter_Logistics>
+  <TSA_WD_Mortar_MissionCancelled>Bombardeio cancelado.</TSA_WD_Mortar_MissionCancelled>
+  <TSA_WD_Mortar_MissionClearedInvalid>Bombardeio cancelado: o alvo não é mais válido (destruído, fora de alcance ou não hostil).</TSA_WD_Mortar_MissionClearedInvalid>
+  <TSA_WD_Mortar_MissionClearedNoSkill>Bombardeio cancelado: não há habilidade de tiro neste posto avançado.</TSA_WD_Mortar_MissionClearedNoSkill>
+  <TSA_WD_Mortar_MissionQueued>Bombardeio na fila para {0}. O morteiro disparará quando estiver pronto.</TSA_WD_Mortar_MissionQueued>
+  <TSA_WD_Mortar_NpcCaravanDestroyed_Label>O morteiro destruiu sua caravana</TSA_WD_Mortar_NpcCaravanDestroyed_Label>
+  <TSA_WD_Mortar_NpcCaravanPawnsKilled_Label>{0} atingiu {1} com morteiros</TSA_WD_Mortar_NpcCaravanPawnsKilled_Label>
+  <TSA_WD_Mortar_NpcCaravanPawnsWiped_Label>{0} dizimou {1} com morteiros</TSA_WD_Mortar_NpcCaravanPawnsWiped_Label>
+  <TSA_WD_Mortar_NpcCaravanWounded_Label>O morteiro atingiu sua caravana</TSA_WD_Mortar_NpcCaravanWounded_Label>
+  <TSA_WD_Mortar_SelectTargetDesc>Escolha um assentamento hostil, uma caravana do jogador ou um viajante WD dentro de {0} quadrados.\n\nSe o projétil acertar, causa {1} de força. A chance de acerto usa as configurações de faixa de alcance, mais um ponto percentual por nível de Tiro do melhor atirador ({2}). O tempo de recarga diminui com o total de Tiro da guarnição ({3}).\n\nSe o morteiro estiver recarregando, a missão fica na fila e será disparada quando estiver pronto. Enquanto houver uma missão de bombardeio na fila, o morteiro automático e o apoio de assalto deste posto avançado ficam pausados (a defesa antiaérea não é afetada).</TSA_WD_Mortar_SelectTargetDesc>
+  <TSA_WD_Mortar_SelectTargetDescCooldown>O morteiro está recarregando (pronto em {0} dias). Selecione um alvo para colocar um bombardeio na fila. O morteiro automático e o apoio de assalto permanecem pausados até que seja disparado ou cancelado.</TSA_WD_Mortar_SelectTargetDescCooldown>
+  <TSA_WD_Mortar_SelectTargetDescMissionCooldown>Bombardeio na fila para {0}. Dispara quando a recarga terminar (cerca de {1} dias). O morteiro automático e o apoio de assalto estão pausados. Selecione novamente para redirecionar ou cancele a missão.</TSA_WD_Mortar_SelectTargetDescMissionCooldown>
+  <TSA_WD_Mortar_SelectTargetDescMissionReady>Bombardeio na fila para {0}. O morteiro está pronto e disparará em breve. Selecione novamente para redirecionar ou cancele a missão.</TSA_WD_Mortar_SelectTargetDescMissionReady>
+  <TSA_WD_Mortar_SelectTargetDescNoSkill>Nenhuma habilidade de tiro disponível neste posto avançado.</TSA_WD_Mortar_SelectTargetDescNoSkill>
+  <TSA_WD_Mortar_SelectTargetLabel>Selecionar alvo do morteiro</TSA_WD_Mortar_SelectTargetLabel>
+  <TSA_WD_Notify_BridgeDeconstructBlocked>Mostrar carta quando a demolição da ponte for bloqueada</TSA_WD_Notify_BridgeDeconstructBlocked>
+  <TSA_WD_Notify_BridgeDeconstructBlockedTooltip>Quando uma equipe de demolição de ponte chegar e o vão estiver ocupado, exibe uma carta amarela NeutralEvent informando o bloqueador. Se desativado, apenas uma mensagem será exibida.</TSA_WD_Notify_BridgeDeconstructBlockedTooltip>
+  <TSA_WD_Notify_ConstructionInsufficientMaterials>Mostrar alerta de materiais insuficientes para construção (lado direito)</TSA_WD_Notify_ConstructionInsufficientMaterials>
+  <TSA_WD_Notify_ConstructionInsufficientMaterialsTooltip>Exibe um alerta silencioso e persistente no lado direito quando um posto avançado WD terminou de preparar uma estrada, segmento de ponte, fortificação ou segmento AT, mas não possui materiais para enviar a equipe. Clique para ir ao posto avançado afetado.</TSA_WD_Notify_ConstructionInsufficientMaterialsTooltip>
+  <TSA_WD_Notify_MortarMiss>Notificar quando seu morteiro errar o alvo</TSA_WD_Notify_MortarMiss>
+  <TSA_WD_Notify_MortarMissTooltip>Receba uma carta azul silenciosa quando seu posto avançado de artilharia errar. Desativado por padrão para reduzir o ruído.</TSA_WD_Notify_MortarMissTooltip>
+  <TSA_WD_Notify_RaidPartyDestroyed>Notificar quando um grupo de incursão for destruído antes da chegada</TSA_WD_Notify_RaidPartyDestroyed>
+  <TSA_WD_Notify_RaidPartyDestroyedTooltip>Receba uma carta quando uma incursão hostil direcionada a você for dizimada no mapa-múndi antes de chegar.</TSA_WD_Notify_RaidPartyDestroyedTooltip>
+  <TSA_WD_OutpostDefense_RaidFailedToForm>A incursão contra {0} por {1} não se formou. Os defensores retornaram ao posto avançado.</TSA_WD_OutpostDefense_RaidFailedToForm>
+  <TSA_WD_OutpostStats_HospitalLine>Hospital: +{0}%</TSA_WD_OutpostStats_HospitalLine>
+  <TSA_WD_OutpostStats_Row_AdvBuildings>Construções avançadas</TSA_WD_OutpostStats_Row_AdvBuildings>
+  <TSA_WD_OutpostStats_Row_AdvBuildingsTip>Construções avançadas pertencentes a este assentamento. Espaços iguais ao nível do assentamento ({0}); no máximo uma de cada tipo.</TSA_WD_OutpostStats_Row_AdvBuildingsTip>
+  <TSA_WD_OutpostStats_Row_AmbushWatch>Raio de interceptação</TSA_WD_OutpostStats_Row_AmbushWatch>
+  <TSA_WD_OutpostStats_Row_AmbushWatchTip>Tiles que este assentamento vigia para interceptar viajantes hostis ({0}).</TSA_WD_OutpostStats_Row_AmbushWatchTip>
+  <TSA_WD_OutpostStats_Row_AmbushWatchTip_Stable>Raio de interceptação base: {0} tiles. Um estábulo o estende para {1} tiles.</TSA_WD_OutpostStats_Row_AmbushWatchTip_Stable>
+  <TSA_WD_OutpostStats_Row_AvgPollution>Poluição média ({0} tiles)</TSA_WD_OutpostStats_Row_AvgPollution>
+  <TSA_WD_OutpostStats_Row_AvgPollutionTip>Média de poluição dos tiles dentro de {0} tiles mundiais deste local (saltos BFS). Tiles limpos contam como 0%. Inclui terra e água. Usado para o dano diário de poluição do local.</TSA_WD_OutpostStats_Row_AvgPollutionTip>
+  <TSA_WD_OutpostStats_Row_LandSpeed>Velocidade da caravana terrestre</TSA_WD_OutpostStats_Row_LandSpeed>
+  <TSA_WD_OutpostStats_Row_LandSpeedTip>Bônus à velocidade de caminhada das caravanas lançadas deste assentamento. Um estábulo fornece o bônus; sem ele, o bônus é +0%.</TSA_WD_OutpostStats_Row_LandSpeedTip>
+  <TSA_WD_OutpostStats_Row_PollutionDamagePerDay>Dano por poluição / dia</TSA_WD_OutpostStats_Row_PollutionDamagePerDay>
+  <TSA_WD_OutpostStats_Row_PollutionDamagePerDayTip>Perda prevista de força por dia devido à poluição média no raio de dano. Dividida entre ofensiva e defensiva. Zero quando a poluição média estiver abaixo do limiar de ignorar, o recurso estiver desativado ou este local for imune.</TSA_WD_OutpostStats_Row_PollutionDamagePerDayTip>
+  <TSA_WD_OutpostStats_Row_PrisonerResistanceTip_Upgrade>Melhorias de recrutamento: x{0}%</TSA_WD_OutpostStats_Row_PrisonerResistanceTip_Upgrade>
+  <TSA_WD_OutpostStats_SearchPlaceholder>Filtrar por nome…</TSA_WD_OutpostStats_SearchPlaceholder>
+  <TSA_WD_OutpostStats_SiloMaxLine>Silo: {0} +{1}% = {2}</TSA_WD_OutpostStats_SiloMaxLine>
+  <TSA_WD_OutpostUpgradeImpact_AllyPullRadius>Raio de Tração de Aliados</TSA_WD_OutpostUpgradeImpact_AllyPullRadius>
+  <TSA_WD_OutpostUpgradeImpact_AntiAir>Antiaéreo</TSA_WD_OutpostUpgradeImpact_AntiAir>
+  <TSA_WD_OutpostUpgradeImpact_AssaultShells>Projéteis de Assalto</TSA_WD_OutpostUpgradeImpact_AssaultShells>
+  <TSA_WD_OutpostUpgradeImpact_Decontamination>Descontaminação</TSA_WD_OutpostUpgradeImpact_Decontamination>
+  <TSA_WD_OutpostUpgradeImpact_Defensive>Força Defensiva</TSA_WD_OutpostUpgradeImpact_Defensive>
+  <TSA_WD_OutpostUpgradeImpact_EcologyBaselineFloor>Linha de Base Ecológica</TSA_WD_OutpostUpgradeImpact_EcologyBaselineFloor>
+  <TSA_WD_OutpostUpgradeImpact_FoodProductionFlat>Produção de Comida</TSA_WD_OutpostUpgradeImpact_FoodProductionFlat>
+  <TSA_WD_OutpostUpgradeImpact_FoodStorageMax>Armazenamento de Comida</TSA_WD_OutpostUpgradeImpact_FoodStorageMax>
+  <TSA_WD_OutpostUpgradeImpact_MortarCooldown>Tempo de Recarga do Morteiro</TSA_WD_OutpostUpgradeImpact_MortarCooldown>
+  <TSA_WD_OutpostUpgradeImpact_MortarDamage>Dano dos Projéteis</TSA_WD_OutpostUpgradeImpact_MortarDamage>
+  <TSA_WD_OutpostUpgradeImpact_MortarHit>Chance de Acerto do Morteiro</TSA_WD_OutpostUpgradeImpact_MortarHit>
+  <TSA_WD_OutpostUpgradeImpact_MortarRange>Alcance do Morteiro</TSA_WD_OutpostUpgradeImpact_MortarRange>
+  <TSA_WD_OutpostUpgradeImpact_OccupantHeal>Cura dos Ocupantes</TSA_WD_OutpostUpgradeImpact_OccupantHeal>
+  <TSA_WD_OutpostUpgradeImpact_OffensiveRecovery>Recuperação da Força Ofensiva</TSA_WD_OutpostUpgradeImpact_OffensiveRecovery>
+  <TSA_WD_OutpostUpgradeImpact_PollutionScrubOneOff>Limpeza de Poluição</TSA_WD_OutpostUpgradeImpact_PollutionScrubOneOff>
+  <TSA_WD_OutpostUpgradeImpact_PrisonerRecruitSpeed>Velocidade de Recrutamento</TSA_WD_OutpostUpgradeImpact_PrisonerRecruitSpeed>
+  <TSA_WD_OutpostUpgradeImpact_ProductionEfficiency>Produção</TSA_WD_OutpostUpgradeImpact_ProductionEfficiency>
+  <TSA_WD_OutpostUpgradeImpact_RapidResponseOffense>Ofensiva de Resposta Rápida</TSA_WD_OutpostUpgradeImpact_RapidResponseOffense>
+  <TSA_WD_OutpostUpgradeImpact_RemotePower>Energia Remota</TSA_WD_OutpostUpgradeImpact_RemotePower>
+  <TSA_WD_OutpostUpgradeImpact_ResearchEfficiency>Eficiência de Pesquisa</TSA_WD_OutpostUpgradeImpact_ResearchEfficiency>
+  <TSA_WD_OutpostUpgradeImpact_TileAnimals>Abundância Animal</TSA_WD_OutpostUpgradeImpact_TileAnimals>
+  <TSA_WD_OutpostUpgradeImpact_TileFertility>Fertilidade</TSA_WD_OutpostUpgradeImpact_TileFertility>
+  <TSA_WD_OutpostUpgradeImpact_TileFish>Estoques de Peixes</TSA_WD_OutpostUpgradeImpact_TileFish>
+  <TSA_WD_OutpostUpgradeImpact_TileMining>Eficiência de Mineração</TSA_WD_OutpostUpgradeImpact_TileMining>
+  <TSA_WD_OutpostUpgradeImpact_UnwaveringRecruit>Recrutamento Inabalável</TSA_WD_OutpostUpgradeImpact_UnwaveringRecruit>
+  <TSA_WD_OutpostUpgradeImpact_WarehouseAura>Aura do Armazém</TSA_WD_OutpostUpgradeImpact_WarehouseAura>
+  <TSA_WD_OutpostUpgradeImpact_WarehouseAuraRadius>Alcance da Aura do Armazém</TSA_WD_OutpostUpgradeImpact_WarehouseAuraRadius>
+  <TSA_WD_OutpostUpgrades_BenefitEcologyBaselineFloor>Mín. Abundância Animal e Fertilidade = 100 %</TSA_WD_OutpostUpgrades_BenefitEcologyBaselineFloor>
+  <TSA_WD_OutpostUpgrades_BenefitPollutionScrubOneOff>Limpa a poluição ao construir dentro de {0} tiles (uma vez)</TSA_WD_OutpostUpgrades_BenefitPollutionScrubOneOff>
+  <TSA_WD_OutpostUpgrades_BenefitPrisonerRecruitSpeed>+{0}% de velocidade de recrutamento de prisioneiros</TSA_WD_OutpostUpgrades_BenefitPrisonerRecruitSpeed>
+  <TSA_WD_OutpostUpgrades_BenefitUnwaveringRecruitUnlock>Prisioneiros inabaláveis podem ser recrutados</TSA_WD_OutpostUpgrades_BenefitUnwaveringRecruitUnlock>
+  <TSA_WD_OutpostUpgrades_DropPodShortAfterBuy>Após pagar por esta melhoria, não haveria componentes industriais suficientes para entregas por cápsula de escape de {0}. Mude {0} para entrega por terra ou obtenha mais componentes.</TSA_WD_OutpostUpgrades_DropPodShortAfterBuy>
+  <TSA_WD_Outpost_NameNewDialogAddType>Adicionar tipo de posto avançado ao nome</TSA_WD_Outpost_NameNewDialogAddType>
+  <TSA_WD_Outpost_NameTag_Academy>Academia</TSA_WD_Outpost_NameTag_Academy>
+  <TSA_WD_Outpost_NameTag_Battery>Bateria</TSA_WD_Outpost_NameTag_Battery>
+  <TSA_WD_Outpost_NameTag_Chemworks>Química</TSA_WD_Outpost_NameTag_Chemworks>
+  <TSA_WD_Outpost_NameTag_Embassy>Embaixada</TSA_WD_Outpost_NameTag_Embassy>
+  <TSA_WD_Outpost_NameTag_Factory>Fábrica</TSA_WD_Outpost_NameTag_Factory>
+  <TSA_WD_Outpost_NameTag_Farm>Fazenda</TSA_WD_Outpost_NameTag_Farm>
+  <TSA_WD_Outpost_NameTag_Fishery>Pesqueiro</TSA_WD_Outpost_NameTag_Fishery>
+  <TSA_WD_Outpost_NameTag_Format>{0} {1}</TSA_WD_Outpost_NameTag_Format>
+  <TSA_WD_Outpost_NameTag_Garrison>Guarnição</TSA_WD_Outpost_NameTag_Garrison>
+  <TSA_WD_Outpost_NameTag_Institute>Instituto</TSA_WD_Outpost_NameTag_Institute>
+  <TSA_WD_Outpost_NameTag_Lab>Laboratório</TSA_WD_Outpost_NameTag_Lab>
+  <TSA_WD_Outpost_NameTag_Lodge>Pousada</TSA_WD_Outpost_NameTag_Lodge>
+  <TSA_WD_Outpost_NameTag_Market>Mercado</TSA_WD_Outpost_NameTag_Market>
+  <TSA_WD_Outpost_NameTag_Mine>Mina</TSA_WD_Outpost_NameTag_Mine>
+  <TSA_WD_Outpost_NameTag_Ranch>Rancho</TSA_WD_Outpost_NameTag_Ranch>
+  <TSA_WD_Outpost_NameTag_Reactor>Reator</TSA_WD_Outpost_NameTag_Reactor>
+  <TSA_WD_Outpost_NameTag_Refinery>Refinaria</TSA_WD_Outpost_NameTag_Refinery>
+  <TSA_WD_Outpost_NameTag_Rig>Plataforma</TSA_WD_Outpost_NameTag_Rig>
+  <TSA_WD_Outpost_NameTag_Scrapyard>Sucata</TSA_WD_Outpost_NameTag_Scrapyard>
+  <TSA_WD_Outpost_NameTag_Warehouse>Depósito</TSA_WD_Outpost_NameTag_Warehouse>
+  <TSA_WD_Outpost_RecruitSocialXpPerResistance>Acúmulo de XP Social por resistência reduzida</TSA_WD_Outpost_RecruitSocialXpPerResistance>
+  <TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>Quando prisioneiros perdem resistência neste posto avançado, essa quantidade de XP Social vai para um acúmulo e é dividida igualmente entre os humanoides em guarnição que ainda podem aprender Social. Defina como 0 para desativar.</TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>
+  <TSA_WD_Outpost_VehicleRepairPerDay>Reparo de veículos por dia</TSA_WD_Outpost_VehicleRepairPerDay>
+  <TSA_WD_Outpost_VehicleRepairPerDayTooltip>A cada dia, todas as peças danificadas em veículos com Estrutura Veicular armazenados no posto avançado recuperam essa fração da saúde máxima da peça. 0 desativa.</TSA_WD_Outpost_VehicleRepairPerDayTooltip>
+  <TSA_WD_PawnDropPod_AllWouldAbort>Componentes industriais insuficientes para cápsulas de escape e o retorno por terra está desativado para todas as origens.</TSA_WD_PawnDropPod_AllWouldAbort>
+  <TSA_WD_PawnDropPod_CostLine>Custo: {0} componente(s) industrial(is) (1 por colono viajante)</TSA_WD_PawnDropPod_CostLine>
+  <TSA_WD_PawnDropPod_FallbackButtonMixed>Retorno: misto</TSA_WD_PawnDropPod_FallbackButtonMixed>
+  <TSA_WD_PawnDropPod_FallbackButtonOff>Retorno: abortar</TSA_WD_PawnDropPod_FallbackButtonOff>
+  <TSA_WD_PawnDropPod_FallbackButtonOn>Retorno: terra</TSA_WD_PawnDropPod_FallbackButtonOn>
+  <TSA_WD_PawnDropPod_FallbackButtonUnset>Retorno</TSA_WD_PawnDropPod_FallbackButtonUnset>
+  <TSA_WD_PawnDropPod_FallbackMenuAbort>Se faltar componentes: abortar lançamento</TSA_WD_PawnDropPod_FallbackMenuAbort>
+  <TSA_WD_PawnDropPod_FallbackMenuLand>Se faltar componentes: viajar por terra</TSA_WD_PawnDropPod_FallbackMenuLand>
+  <TSA_WD_PawnDropPod_FallbackSelectOriginsTip>Selecione colonos para editar o retorno para suas origens.</TSA_WD_PawnDropPod_FallbackSelectOriginsTip>
+  <TSA_WD_PawnDropPod_FallbackTip>Por posto avançado ou colônia. Quando um lançamento de cápsulas de escape de colonos carecer de componentes industriais: se ativado, esses colonos viajam por terra; se desativado, esse lançamento é abortado. Padrão ativado. Não altera as preferências agendadas de cápsulas de escape.</TSA_WD_PawnDropPod_FallbackTip>
+  <TSA_WD_PawnDropPod_FallbackTipMixed>As origens selecionadas discordam. Marque a caixa para usar o retorno por terra em todos os envios automatizados delas.</TSA_WD_PawnDropPod_FallbackTipMixed>
+  <TSA_WD_PawnDropPod_FallbackTipOff>Retorno desativado: quando um envio automatizado daqui carecer de materiais para cápsulas de escape, o envio é suspenso e esses colonos permanecem. Ações manuais sempre oferecem viagem por terra.</TSA_WD_PawnDropPod_FallbackTipOff>
+  <TSA_WD_PawnDropPod_FallbackTipOn>Retorno ativado: quando um envio automatizado daqui carecer de materiais para cápsulas de escape, esses colonos viajam por terra. Ações manuais sempre oferecem viagem por terra.</TSA_WD_PawnDropPod_FallbackTipOn>
+  <TSA_WD_PawnDropPod_FallbackToLand>Usar viagem por terra como alternativa</TSA_WD_PawnDropPod_FallbackToLand>
+  <TSA_WD_PawnDropPod_FallbackToLandMixed>Usar viagem por terra como alternativa (misto; marque para ativar para todos)</TSA_WD_PawnDropPod_FallbackToLandMixed>
+  <TSA_WD_PawnDropPod_LackingMaterials>O colono {0} de {1} não pôde ser enviado por cápsula de escape. Faltam materiais!</TSA_WD_PawnDropPod_LackingMaterials>
+  <TSA_WD_PawnDropPod_LackingMaterialsGroup>{0} e {1} outro(s) de {2} não puderam ser enviados por cápsula de escape. Faltam materiais!</TSA_WD_PawnDropPod_LackingMaterialsGroup>
+  <TSA_WD_PawnDropPod_ModeDropPodTip>Viajar por cápsula de escape (1 componente por colono viajante, das colônias + armazéns). Clique para alterar.</TSA_WD_PawnDropPod_ModeDropPodTip>
+  <TSA_WD_PawnDropPod_ModeLandTip>Viajar por caravana terrestre. Sem custo de componentes industriais. Clique para alterar.</TSA_WD_PawnDropPod_ModeLandTip>
+  <TSA_WD_PawnDropPod_ModeNoRedirectTip>O modo de viagem é aplicado quando este posto avançado tiver um alvo de redirecionamento. Defina um com 'Definir Redirecionamento' no posto avançado.</TSA_WD_PawnDropPod_ModeNoRedirectTip>
+  <TSA_WD_PawnDropPod_ModeOriginTipLand>Viajar por caravana terrestre. Sem custo de componentes industriais. Clique para alterar.</TSA_WD_PawnDropPod_ModeOriginTipLand>
+  <TSA_WD_PawnDropPod_ModeOriginTipMixed>As origens selecionadas discordam. Clique para definir um modo de viagem para todas elas.</TSA_WD_PawnDropPod_ModeOriginTipMixed>
+  <TSA_WD_PawnDropPod_ModeOriginTipPod>Viajar por cápsula de escape (1 componente por colono viajante, das colônias + armazéns). Clique para alterar.</TSA_WD_PawnDropPod_ModeOriginTipPod>
+  <TSA_WD_PawnDropPod_NoComponentCost>Sem custo de componentes industriais (viagem por terra).</TSA_WD_PawnDropPod_NoComponentCost>
+  <TSA_WD_PawnDropPod_NoComponentDef>Definição de componente industrial ausente.</TSA_WD_PawnDropPod_NoComponentDef>
+  <TSA_WD_PawnDropPod_NoExitHere>Cápsulas de escape não podem 'Sair Aqui'. Mude para Terra.</TSA_WD_PawnDropPod_NoExitHere>
+  <TSA_WD_PawnDropPod_OutOfRange>O destino está fora do alcance das cápsulas de escape.</TSA_WD_PawnDropPod_OutOfRange>
+  <TSA_WD_PawnDropPod_ScheduleDeferredCost>Cobrado quando o recrutamento envia o colono: 1 componente por colono viajante (tem {0}).</TSA_WD_PawnDropPod_ScheduleDeferredCost>
+  <TSA_WD_PawnDropPod_ScheduleFallbackNote>Se faltarem componentes no envio: viajar por terra ou abortar conforme a configuração de retorno do posto avançado.</TSA_WD_PawnDropPod_ScheduleFallbackNote>
+  <TSA_WD_PawnDropPod_ScheduleModeNote>O modo de viagem e o retorno por terra são definidos por posto avançado detentor na aba de prisioneiros.</TSA_WD_PawnDropPod_ScheduleModeNote>
+  <TSA_WD_PawnDropPod_ScheduleViaDropPod>Viajar por cápsula de escape ao ser recrutado (1 componente por colono viajante no envio)</TSA_WD_PawnDropPod_ScheduleViaDropPod>
+  <TSA_WD_PawnDropPod_ShortStockNote>Faltam componentes. Você será questionado antes do lançamento.</TSA_WD_PawnDropPod_ShortStockNote>
+  <TSA_WD_PawnDropPod_SmartSendConfirm>Confirmar Envio Inteligente</TSA_WD_PawnDropPod_SmartSendConfirm>
+  <TSA_WD_PawnDropPod_SmartSendModeLine>Modo de viagem: {0}</TSA_WD_PawnDropPod_SmartSendModeLine>
+  <TSA_WD_PawnDropPod_SmartSendTitle>Envio Inteligente</TSA_WD_PawnDropPod_SmartSendTitle>
+  <TSA_WD_PawnDropPod_StillLaunchAbortCount>{0} colono(s) será(ão) abortado(s).</TSA_WD_PawnDropPod_StillLaunchAbortCount>
+  <TSA_WD_PawnDropPod_StillLaunchAsk>Ainda lançar?</TSA_WD_PawnDropPod_StillLaunchAsk>
+  <TSA_WD_PawnDropPod_StillLaunchLandCount>{0} colono(s) viajará(ão) por terra.</TSA_WD_PawnDropPod_StillLaunchLandCount>
+  <TSA_WD_PawnDropPod_StillLaunchNeedHave>São necessários {0} componentes industriais para enviar todos os colonos selecionados por cápsula de escape. Você tem {1}.</TSA_WD_PawnDropPod_StillLaunchNeedHave>
+  <TSA_WD_PawnDropPod_StillLaunchPodCount>{0} colono(s) viajará(ão) por cápsula de escape.</TSA_WD_PawnDropPod_StillLaunchPodCount>
+  <TSA_WD_PawnDropPod_StillLaunchTitle>Materiais para cápsulas de escape</TSA_WD_PawnDropPod_StillLaunchTitle>
+  <TSA_WD_PawnDropPod_StockLine>Disponível (Colônia + todos os Armazéns): {0}</TSA_WD_PawnDropPod_StockLine>
+  <TSA_WD_PawnDropPod_TotalCost>Custo: {0}</TSA_WD_PawnDropPod_TotalCost>
+  <TSA_WD_PawnRoster_ColGear>Equipamento</TSA_WD_PawnRoster_ColGear>
+  <TSA_WD_PawnRoster_ColGearTip>Armas e vestimentas equipadas. Passe o mouse sobre o ícone para ver o nome do item.</TSA_WD_PawnRoster_ColGearTip>
+  <TSA_WD_PawnRoster_ColHealth>Saúde</TSA_WD_PawnRoster_ColHealth>
+  <TSA_WD_PawnRoster_ColHealthTip>Saúde atual em porcentagem. Um colono saudável tem 100%.</TSA_WD_PawnRoster_ColHealthTip>
+  <TSA_WD_PawnRoster_ColIdeology>Ideologia</TSA_WD_PawnRoster_ColIdeology>
+  <TSA_WD_PawnRoster_ColIdeologyTip>Nome da ideologia quando o DLC Ideology está ativo. Passe o mouse sobre a célula para ver o rótulo.</TSA_WD_PawnRoster_ColIdeologyTip>
+  <TSA_WD_PawnTransfer_DestRefusesPrisoners>Esse posto avançado não está aceitando prisioneiros.</TSA_WD_PawnTransfer_DestRefusesPrisoners>
+  <TSA_WD_PawnTransfer_PrisonerCannotLead>{0} é um prisioneiro e não pode liderar a caravana.</TSA_WD_PawnTransfer_PrisonerCannotLead>
+  <TSA_WD_PawnTransfer_PrisonerNeedsEscort>Selecione pelo menos um colono não prisioneiro para escoltar os prisioneiros.</TSA_WD_PawnTransfer_PrisonerNeedsEscort>
+  <TSA_WD_PawnTransfer_PrisonerNoExitHere>Prisioneiros não podem sair por aqui — envie-os para uma colônia ou posto avançado que aceite prisioneiros.</TSA_WD_PawnTransfer_PrisonerNoExitHere>
+  <TSA_WD_Prisoners_AutoSmartAssignTip>Quando ativado, todo prisioneiro recém-capturado (da colônia ou do posto avançado) recebe automaticamente um destino por atribuição inteligente. Usa o mesmo filtro de postos avançados do botão de equipamento. Desativado por padrão. Lembra sua escolha para este save.</TSA_WD_Prisoners_AutoSmartAssignTip>
+  <TSA_WD_Prisoners_Filter_InTransit>Em trânsito</TSA_WD_Prisoners_Filter_InTransit>
+  <TSA_WD_Prisoners_GroupInTransit>Em trânsito</TSA_WD_Prisoners_GroupInTransit>
+  <TSA_WD_Prisoners_GroupInTransitTip>Esses prisioneiros estão viajando com uma caravana escoltada.\nO recrutamento e as ações do posto avançado ficam suspensos até que cheguem.\nExpulsar, agendar destino e alterar interações ficam desativados enquanto viajam.</TSA_WD_Prisoners_GroupInTransitTip>
+  <TSA_WD_Prisoners_InTransit>Em trânsito</TSA_WD_Prisoners_InTransit>
+  <TSA_WD_Prisoners_InTransitActionsDisabledTip>Não é possível alterar o cronograma, a interação ou expulsar enquanto este prisioneiro estiver em trânsito.</TSA_WD_Prisoners_InTransitActionsDisabledTip>
+  <TSA_WD_Prisoners_InTransitTip>Transferência escoltada em andamento. Este prisioneiro continua sendo prisioneiro da colônia até a caravana chegar.</TSA_WD_Prisoners_InTransitTip>
+  <TSA_WD_Prisoners_ResistanceTip_Upgrade>Melhorias de recrutamento: x{0}%</TSA_WD_Prisoners_ResistanceTip_Upgrade>
+  <TSA_WD_Raid_EnableColonyExecutorHandoff>Delegar incursões à colônia para assentamentos da mesma facção mais próximos</TSA_WD_Raid_EnableColonyExecutorHandoff>
+  <TSA_WD_Raid_EnableColonyExecutorHandoffTip>Quando um assentamento distante escolhe sua colônia como alvo, delega o lançamento para um assentamento da mesma facção mais próximo que ainda atenda ao requisito de força da colônia. Desativado: o assentamento que te escolheu lança a incursão por conta própria.</TSA_WD_Raid_EnableColonyExecutorHandoffTip>
+  <TSA_WD_Raid_ForceDrought>Forçar incursão após período calmo</TSA_WD_Raid_ForceDrought>
+  <TSA_WD_Raid_ForceDroughtBeyondRange>Permitir atacantes além do alcance</TSA_WD_Raid_ForceDroughtBeyondRange>
+  <TSA_WD_Raid_ForceDroughtBeyondRangeTooltip>Se não houver inimigo elegível no alcance de ataque, escolhe o inimigo forte mais próximo além do alcance de ataque. Desativado: a incursão forçada só ocorre quando há alguém já no alcance.</TSA_WD_Raid_ForceDroughtBeyondRangeTooltip>
+  <TSA_WD_Raid_ForceDroughtQuietDays>Dias calmos antes de forçar</TSA_WD_Raid_ForceDroughtQuietDays>
+  <TSA_WD_Raid_ForceDroughtQuietDaysTooltip>Dias sem contato com incursões WD antes que uma incursão forçada possa ocorrer.</TSA_WD_Raid_ForceDroughtQuietDaysTooltip>
+  <TSA_WD_Raid_ForceDroughtTooltip>Após dias suficientes sem contato com incursões WD, lança uma incursão forçada contra o mapa da sua colônia na superfície, a partir do inimigo forte elegível mais próximo (ou além do alcance, se permitido abaixo). Ainda respeita os tempos de recarga e os limites diários de incursões do jogador. O preset de dificuldade Difícil ativa isso.</TSA_WD_Raid_ForceDroughtTooltip>
+  <TSA_WD_Raid_HeaderForceDrought>Forçar incursão após período calmo</TSA_WD_Raid_HeaderForceDrought>
+  <TSA_WD_Raid_HeaderForceDroughtTip>Se nenhuma incursão do WD entrar em contato com sua colônia por tempo suficiente, força uma a partir de um inimigo forte elegível. O preset de dificuldade Difícil ativa isso.</TSA_WD_Raid_HeaderForceDroughtTip>
+  <TSA_WD_RapidResponse_InspectLogisticsCaravans>Interceptando caravanas de suprimentos no raio</TSA_WD_RapidResponse_InspectLogisticsCaravans>
+  <TSA_WD_RapidResponse_Tip_TargetLogistics>Intercepta envios de suprimentos e melhorias no alcance, incluindo os seus, se o remetente for hostil a este posto avançado.</TSA_WD_RapidResponse_Tip_TargetLogistics>
+  <TSA_WD_Recruiting_ClearConfirm>Parar recrutamento? Nenhum novo colono até que você escolha Qualquer um ou um foco de habilidade novamente.</TSA_WD_Recruiting_ClearConfirm>
+  <TSA_WD_Recruiting_Inspect_None>Nenhum (recrutamento interrompido)</TSA_WD_Recruiting_Inspect_None>
+  <TSA_WD_RemoteEstablish_ShuttleNeedsLand>Naves de transporte de passageiros devem viajar por terra. Mude para Terrestre ou deixe a nave para trás.</TSA_WD_RemoteEstablish_ShuttleNeedsLand>
+  <TSA_WD_RemoteEstablish_SingleOrigin>Selecione colonos de apenas um mapa da colônia ou de um posto avançado.</TSA_WD_RemoteEstablish_SingleOrigin>
+  <TSA_WD_RemoteEstablish_WrongLocationKind>Apenas colonos da colônia ou do posto avançado podem fundar um posto avançado desta forma.</TSA_WD_RemoteEstablish_WrongLocationKind>
+  <TSA_WD_Shipment_DestDialogTitle>Escolher destino da remessa</TSA_WD_Shipment_DestDialogTitle>
+  <TSA_WD_Shipment_PickOnMap>Selecionar destino no mapa</TSA_WD_Shipment_PickOnMap>
+  <TSA_WD_Shipment_PickOnMapTip>Feche as janelas abertas e clique em uma colônia ou posto avançado no mapa-múndi. Alvos inválidos mantêm sua seleção para que você tente novamente.</TSA_WD_Shipment_PickOnMapTip>
+  <TSA_WD_SkillScaling_PreviewResultSocial>Postos avançados sociais eficazes: {0}</TSA_WD_SkillScaling_PreviewResultSocial>
+  <TSA_WD_SkillScaling_SocialFirstBand>Postos avançados sociais com eficiência plena até</TSA_WD_SkillScaling_SocialFirstBand>
+  <TSA_WD_SkillScaling_SocialFirstBandTip>Apenas para postos avançados de recrutamento, comércio e embaixada. O total cumulativo de Social conta com eficiência plena até este valor; acima disso, segue as faixas de eficiência compartilhadas abaixo.</TSA_WD_SkillScaling_SocialFirstBandTip>
+  <TSA_WD_SmartSend_ColDestination>Destino</TSA_WD_SmartSend_ColDestination>
+  <TSA_WD_SmartSend_ColOrigin>Origem</TSA_WD_SmartSend_ColOrigin>
+  <TSA_WD_SmartSend_ColPawn>Colono</TSA_WD_SmartSend_ColPawn>
+  <TSA_WD_SmartSend_ColReason>Justificativa</TSA_WD_SmartSend_ColReason>
+  <TSA_WD_SmartSend_OverrideTip>Clique para escolher um destino diferente</TSA_WD_SmartSend_OverrideTip>
+  <TSA_WD_SmartSend_OverrideTitle>Substituir destino</TSA_WD_SmartSend_OverrideTitle>
+  <TSA_WD_SmartSend_ReasonCumSkillDr>Habilidade do posto avançado {0}: {1} (rendimentos decrescentes)</TSA_WD_SmartSend_ReasonCumSkillDr>
+  <TSA_WD_SmartSend_ReasonCumSkillFull>Habilidade do posto avançado {0}: {1} (eficiência total)</TSA_WD_SmartSend_ReasonCumSkillFull>
+  <TSA_WD_SmartSend_ReasonDistance>Distância: {0}</TSA_WD_SmartSend_ReasonDistance>
+  <TSA_WD_SmartSend_ReasonInconclusive>Inconclusivo (sem movimentação).</TSA_WD_SmartSend_ReasonInconclusive>
+  <TSA_WD_SmartSend_ReasonInconclusiveTip>Nenhum posto avançado compatível, não pronto para viajar ou sem habilidades utilizáveis para o Envio Inteligente. Use Substituir para escolher um destino ou remova este colono.</TSA_WD_SmartSend_ReasonInconclusiveTip>
+  <TSA_WD_SmartSend_ReasonOverrideDest>Substituição manual: {0}</TSA_WD_SmartSend_ReasonOverrideDest>
+  <TSA_WD_SmartSend_ReasonSkill>Maior habilidade: {0} = {1}</TSA_WD_SmartSend_ReasonSkill>
+  <TSA_WD_SmartSend_ReasonStay>Já bem posicionado (sem movimentação).</TSA_WD_SmartSend_ReasonStay>
+  <TSA_WD_SmartSend_ReasonTipFormula>Classificação = Habilidade do posto avançado + (distância × {0}) + penalidade por rendimentos decrescentes</TSA_WD_SmartSend_ReasonTipFormula>
+  <TSA_WD_SmartSend_ReasonTipFormulaDistOnly>Classificação = distância</TSA_WD_SmartSend_ReasonTipFormulaDistOnly>
+  <TSA_WD_SmartSend_ReasonTipHeader>Classificação:</TSA_WD_SmartSend_ReasonTipHeader>
+  <TSA_WD_SmartSend_ReasonTipLowerWins>Menor classificação vence.</TSA_WD_SmartSend_ReasonTipLowerWins>
+  <TSA_WD_SmartSend_ReasonTipNoOther>Nenhum outro posto avançado necessita da habilidade {0}</TSA_WD_SmartSend_ReasonTipNoOther>
+  <TSA_WD_SmartSend_ReasonTipRow>{0}, {1}</TSA_WD_SmartSend_ReasonTipRow>
+  <TSA_WD_SmartSend_RemoveTip>Remover este colono do Envio Inteligente.</TSA_WD_SmartSend_RemoveTip>
+  <TSA_WD_SmartSend_Reset>Redefinir atribuição inteligente</TSA_WD_SmartSend_Reset>
+  <TSA_WD_SmartSend_SectionStayOrInconclusive>Já no local ideal ou inconclusivo</TSA_WD_SmartSend_SectionStayOrInconclusive>
+  <TSA_WD_SmartSend_SelectDest>Selecionar</TSA_WD_SmartSend_SelectDest>
+  <TSA_WD_SmartSend_SubtitleMixed>Enviando {0}. Permanecendo: {1}.</TSA_WD_SmartSend_SubtitleMixed>
+  <TSA_WD_Status_LeaderCooling>Em recarga. Poderá receber a desvantagem de líder novamente em {0} dias.</TSA_WD_Status_LeaderCooling>
+  <TSA_WD_Status_NimbleCooling>Em recarga. Poderá receber Ágil novamente em {0} dias.</TSA_WD_Status_NimbleCooling>
+  <TSA_WD_StoneBridgeLabel>ponte de pedra</TSA_WD_StoneBridgeLabel>
+  <TSA_WD_StorytellerBlockedRaid_Drop>Descartar incursões do narrador inválidas</TSA_WD_StorytellerBlockedRaid_Drop>
+  <TSA_WD_StorytellerBlockedRaid_Swap>Trocar incursões do narrador por facção válida</TSA_WD_StorytellerBlockedRaid_Swap>
+  <TSA_WD_StorytellerBlockedRaid_Tooltip>Quando o narrador escolher uma facção com 'Narrador' desativado nesta lista: descarta a incursão ou redireciona-a para outra facção listada com 'Narrador' ativado que possa gerar uma incursão vanilla. Facções ocultas aqui (mecanoides, insetoides) mantêm o comportamento normal do narrador e nunca são usadas como alvos de troca. Se não houver facção válida na lista, a incursão é descartada.</TSA_WD_StorytellerBlockedRaid_Tooltip>
+  <TSA_WD_SubType_Camp>Acampamento</TSA_WD_SubType_Camp>
+  <TSA_WD_SubType_Prison>Vila prisional</TSA_WD_SubType_Prison>
+  <TSA_WD_SubType_Refuge>Refúgio</TSA_WD_SubType_Refuge>
+  <TSA_WD_TargetKind_Interceptor>interceptador</TSA_WD_TargetKind_Interceptor>
+  <TSA_WD_TargetKind_SupplyCaravan>caravana de suprimentos</TSA_WD_TargetKind_SupplyCaravan>
+  <TSA_WD_TargetKind_UpgradeCaravan>caravana de melhorias</TSA_WD_TargetKind_UpgradeCaravan>
+  <TSA_WD_TravelerInventory_Empty>Nenhuma carga neste viajante.</TSA_WD_TravelerInventory_Empty>
+  <TSA_WD_TravelerInventory_HdrValue>Valor</TSA_WD_TravelerInventory_HdrValue>
+  <TSA_WD_TravelerInventory_TabLabel>Inventário</TSA_WD_TravelerInventory_TabLabel>
+  <TSA_WD_TravelerInventory_TypeChangeLine>Convertendo para: {0}</TSA_WD_TravelerInventory_TypeChangeLine>
+  <TSA_WD_TravelerInventory_UpgradeLine>Melhoria: {0} (nível {1})</TSA_WD_TravelerInventory_UpgradeLine>
+  <TSA_WD_TravelerStats_Mode_DropPod>Cápsula de pouso</TSA_WD_TravelerStats_Mode_DropPod>
+  <TSA_WD_TravelerStats_Mode_Gravship>Gravinave</TSA_WD_TravelerStats_Mode_Gravship>
+  <TSA_WD_TravelerStats_Mode_Land>Terrestre</TSA_WD_TravelerStats_Mode_Land>
+  <TSA_WD_TravelerStats_No>Não</TSA_WD_TravelerStats_No>
+  <TSA_WD_TravelerStats_RaidTarget_Colony>Colônia</TSA_WD_TravelerStats_RaidTarget_Colony>
+  <TSA_WD_TravelerStats_RaidTarget_Outpost>Posto avançado</TSA_WD_TravelerStats_RaidTarget_Outpost>
+  <TSA_WD_TravelerStats_RaidTarget_Settlement>Assentamento</TSA_WD_TravelerStats_RaidTarget_Settlement>
+  <TSA_WD_TravelerStats_Row_AmbushRangeBand>Visibilidade para emboscada</TSA_WD_TravelerStats_Row_AmbushRangeBand>
+  <TSA_WD_TravelerStats_Row_AmbushRangeBandTip>Distância a partir da qual os assentamentos podem avistar este viajante para emboscá-lo. Grupos mais fracos só são avistados de perto. Caravanas comerciais e de expansão são consideradas mais fortes para fins de avistamento.</TSA_WD_TravelerStats_Row_AmbushRangeBandTip>
+  <TSA_WD_TravelerStats_Row_AmbushRangeBandValue>{0} de {1} blocos</TSA_WD_TravelerStats_Row_AmbushRangeBandValue>
+  <TSA_WD_TravelerStats_Row_AttritionResting>Descansando devido ao desgaste</TSA_WD_TravelerStats_Row_AttritionResting>
+  <TSA_WD_TravelerStats_Row_BeyondNormalRange>Fora do alcance normal</TSA_WD_TravelerStats_Row_BeyondNormalRange>
+  <TSA_WD_TravelerStats_Row_CanBeAmbushed>Pode ser emboscado</TSA_WD_TravelerStats_Row_CanBeAmbushed>
+  <TSA_WD_TravelerStats_Row_CapStamped>Conta para o limite de incursões</TSA_WD_TravelerStats_Row_CapStamped>
+  <TSA_WD_TravelerStats_Row_Contacted>Entrou em contato com o jogador</TSA_WD_TravelerStats_Row_Contacted>
+  <TSA_WD_TravelerStats_Row_CurrentDestination>Destino atual</TSA_WD_TravelerStats_Row_CurrentDestination>
+  <TSA_WD_TravelerStats_Row_Destination>Destino</TSA_WD_TravelerStats_Row_Destination>
+  <TSA_WD_TravelerStats_Row_EtaDays>Tempo estimado (dias)</TSA_WD_TravelerStats_Row_EtaDays>
+  <TSA_WD_TravelerStats_Row_Faction>Facção</TSA_WD_TravelerStats_Row_Faction>
+  <TSA_WD_TravelerStats_Row_Mission>Missão</TSA_WD_TravelerStats_Row_Mission>
+  <TSA_WD_TravelerStats_Row_Origin>Origem</TSA_WD_TravelerStats_Row_Origin>
+  <TSA_WD_TravelerStats_Row_OriginalDestination>Destino original</TSA_WD_TravelerStats_Row_OriginalDestination>
+  <TSA_WD_TravelerStats_Row_RaidTargetKind>Alvo da incursão</TSA_WD_TravelerStats_Row_RaidTargetKind>
+  <TSA_WD_TravelerStats_Row_Strength>Força (atual / inicial)</TSA_WD_TravelerStats_Row_Strength>
+  <TSA_WD_TravelerStats_Row_StrengthRemaining>Força restante</TSA_WD_TravelerStats_Row_StrengthRemaining>
+  <TSA_WD_TravelerStats_Row_TravelMode>Meio de transporte</TSA_WD_TravelerStats_Row_TravelMode>
+  <TSA_WD_TravelerStats_Section_Ambush>Emboscada</TSA_WD_TravelerStats_Section_Ambush>
+  <TSA_WD_TravelerStats_Section_Force>Força</TSA_WD_TravelerStats_Section_Force>
+  <TSA_WD_TravelerStats_Section_PlayerThreat>Ameaça ao jogador</TSA_WD_TravelerStats_Section_PlayerThreat>
+  <TSA_WD_TravelerStats_Section_Route>Rota</TSA_WD_TravelerStats_Section_Route>
+  <TSA_WD_TravelerStats_Section_Status>Status</TSA_WD_TravelerStats_Section_Status>
+  <TSA_WD_TravelerStats_Status_AtTurretDetour>Contra-atacando torre AT</TSA_WD_TravelerStats_Status_AtTurretDetour>
+  <TSA_WD_TravelerStats_Status_Marauding>Continuando após a vitória (saqueando)</TSA_WD_TravelerStats_Status_Marauding>
+  <TSA_WD_TravelerStats_Status_TargetOfOpportunity>Escolheu um assentamento mais fraco como alvo de oportunidade</TSA_WD_TravelerStats_Status_TargetOfOpportunity>
+  <TSA_WD_TravelerStats_TabLabel>Atributos</TSA_WD_TravelerStats_TabLabel>
+  <TSA_WD_TravelerStats_Yes>Sim</TSA_WD_TravelerStats_Yes>
+  <TSA_WD_Traveler_AdvancedBuilder>Equipe de construção</TSA_WD_Traveler_AdvancedBuilder>
+  <TSA_WD_Traveler_Outpost_TypeChange>Caravana de conversão de posto avançado</TSA_WD_Traveler_Outpost_TypeChange>
+  <TSA_WD_TypeChange_AlreadyPending>Já há uma conversão em andamento.</TSA_WD_TypeChange_AlreadyPending>
+  <TSA_WD_TypeChange_ApplyFailed>A conversão falhou ao chegar.</TSA_WD_TypeChange_ApplyFailed>
+  <TSA_WD_TypeChange_Completed>{0} foi convertido para {1}.</TSA_WD_TypeChange_Completed>
+  <TSA_WD_TypeChange_Confirm>Iniciar conversão</TSA_WD_TypeChange_Confirm>
+  <TSA_WD_TypeChange_ConfirmBody>Converter "{0}" para {1}?</TSA_WD_TypeChange_ConfirmBody>
+  <TSA_WD_TypeChange_DropPodShortAfterBuy>Após pagar por esta conversão, você não teria componentes industriais suficientes para entrega por cápsula de escape de {0}. Mude {0} para entrega terrestre ou obtenha mais componentes.</TSA_WD_TypeChange_DropPodShortAfterBuy>
+  <TSA_WD_TypeChange_Invalid>Não é possível alterar o tipo de posto avançado.</TSA_WD_TypeChange_Invalid>
+  <TSA_WD_TypeChange_LaunchFailed>Não foi possível lançar a caravana de conversão.</TSA_WD_TypeChange_LaunchFailed>
+  <TSA_WD_TypeChange_Launched>A conversão para {0} está a caminho.</TSA_WD_TypeChange_Launched>
+  <TSA_WD_TypeChange_Lost>A caravana que convertia para {0} foi perdida. Os materiais gastos para "{1}" foram perdidos.</TSA_WD_TypeChange_Lost>
+  <TSA_WD_TypeChange_LostLabel>Conversão de posto avançado perdida</TSA_WD_TypeChange_LostLabel>
+  <TSA_WD_TypeChange_QueueFailed>Não foi possível agendar a conversão.</TSA_WD_TypeChange_QueueFailed>
+  <TSA_WD_TypeChange_SameType>Este já é o tipo atual deste posto avançado.</TSA_WD_TypeChange_SameType>
+  <TSA_WD_TypeChange_SpawnFailed>Não foi possível gerar o posto avançado substituto.</TSA_WD_TypeChange_SpawnFailed>
+  <TSA_WD_TypeChange_TileConflict>Já existe outro posto avançado de jogador neste local.</TSA_WD_TypeChange_TileConflict>
+  <TSA_WD_TypeChange_WarehouseLossConfirm>O estoque neste depósito não pode ser movido para o novo tipo de posto avançado e será perdido. Continuar?</TSA_WD_TypeChange_WarehouseLossConfirm>
+  <TSA_WD_Update_2_3_22_Body>&lt;size=16&gt;&lt;b&gt;2.3.22 – Ajustes finos e correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 16 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Recrutar prisioneiros em um posto avançado agora concede XP social. 400 de XP social por ponto de resistência reduzido vão para um pool; cada colono humanoide no posto avançado recebe uma parte igual.\n\n• Quando uma incursão por cápsulas conquista um assentamento e ainda está forte o suficiente para pilhar, ela agora continua como uma caravana terrestre ao invés de permanecer em cápsulas para o próximo alvo.\n\n• É possível fugir de um confronto de caravana (não da defesa de posto avançado) via ônibus espacial de passageiros ou outros veículos aéreos. Isso corrigia um caso extremo que deletava o ônibus espacial e seus passageiros.\n\n• Postos avançados de recrutamento agora podem ser pausados (Redefinir no diálogo de recrutamento).\n\n• O recrutamento seletivo por habilidade agora eleva o piso da habilidade para 5 (era 4).\n\n• Postos avançados de Resposta Rápida e de Morteiro agora podem interceptar caravanas Vanguard, Invasão e Tartaruga que passarem sobre eles, não apenas incursões normais.\n\n• A elevação de nível dos assentamentos por Desenvolvimento, depósitos Tartaruga e investimentos por presente/compra/suborno agora respeitam os limites regionais de nível. Reembolsos de força não promovem mais o nível de um assentamento. Como resultado, você verá menos assentamentos de nível T3 e T4 em regiões densas\n</TSA_WD_Update_2_3_22_Body>
+  <TSA_WD_Update_2_3_22_Title>Ajustes finos e correções</TSA_WD_Update_2_3_22_Title>
+  <TSA_WD_Update_2_3_23_Body>&lt;size=16&gt;&lt;b&gt;2.3.23 – Transferência de prisioneiros e entrega de comida pelo armazém&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 17 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: Agora é possível mover prisioneiros entre postos avançados e para a colônia. Eles precisam ser acompanhados por pelo menos 1 colono comum.\n\n• Novo recurso: Postos avançados do tipo armazém agora podem entregar comida a outros postos avançados. A comida é enviada por terra ou por caravana com cápsula de transporte. É possível enviar comida física, que será convertida em comida virtual, ou enviar comida virtual diretamente (é necessário manter pelo menos 15 de comida virtual como reserva no armazém). Alguns controles, como o tipo de entrega e o destino, foram movidos para a aba Armazenamento.\n\n• Postos avançados do tipo armazém agora têm uma capacidade padrão maior de comida virtual (500). Outros postos avançados também tiveram sua capacidade de comida virtual aumentada.\n\n• Já lançado mais cedo hoje: Agora é possível fugir de confrontos em postos avançados (anteriormente era impossível).\n\n• Os detalhes de presente/compra agora podem ser configurados nas configurações de Diplomacia.\n\n• Novas ações de depuração: Forçar início, meio e fim de jogo. Também é possível forçar o próximo evento do contador de histórias para ser uma incursão.\n\n• Diversas correções de bugs e ajustes.\n</TSA_WD_Update_2_3_23_Body>
+  <TSA_WD_Update_2_3_23_Title>Mover prisioneiros, entrega de comida do armazém</TSA_WD_Update_2_3_23_Title>
+  <TSA_WD_Update_2_3_24_Body>&lt;size=16&gt;&lt;b&gt;2.3.24 – Novas texturas de objetos e correções&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 18 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Todas as texturas dos objetos para carroças, fardos de feno, caixotes e caixas foram refeitas pelo jogador Pesky (muito obrigado! As antigas eram bem ruins).\n\n• Correção de bug: Em uma defesa de posto avançado, você não perdia a luta instantaneamente caso os colonos originais guarnecidos morressem, mesmo que ainda houvesse colonos em pé vindos de reforços improvisados (enviados, por exemplo, via cápsula de transporte).\n\n• Correção de bug: Você não perdia instantaneamente um confronto de caravana caso seus colonos chegassem ao local via cápsula de transporte.\n\n• Se você adquiriu o aprimoramento de muro de aço/plastiaço ou BOR para um posto avançado, esses materiais agora também serão usados nas paredes reais do posto avançado.\n\n• Adicionado anteriormente: As facções derrotadas agora ainda são listadas nas relações diplomáticas (com um marcador indicando que foram derrotadas), permitindo ver seu histórico.\n</TSA_WD_Update_2_3_24_Body>
+  <TSA_WD_Update_2_3_24_Title>Novas texturas de objetos, correções</TSA_WD_Update_2_3_24_Title>
+  <TSA_WD_Update_2_3_25_Body>&lt;size=16&gt;&lt;b&gt;2.3.25 – Reparo de veículos, aprimoramentos de postos avançados e correções&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 24 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: Veículos guarnecidos em postos avançados do jogador agora são reparados em 5% por dia para cada peça danificada do veículo.\n\n• Novo recurso: Novos aprimoramentos para postos avançados de perfuração de quimóleo profundo e moldagem de recursos brutos do addon Beyond Our Reach, de Bambaryła.\n\n• Correção de bug: A duração de permanência das ruínas após arrasar um assentamento/posto avançado era limitada a 10 dias, mesmo se definida como 50 no menu. Agora o valor do controle deslizante é usado (limite máximo aumentado para 100 dias). As ruínas ainda bloqueiam a área ao redor, impedindo a expansão sua e dos inimigos.\n\n• Correção de bug: Agora é possível armazenar prisioneiros inabaláveis em postos avançados.\n\n• Correção de bug: Os colonos do posto avançado de recrutamento do WD agora sempre aparecem com as roupas corretas.\n\n• Já lançado ontem: Eventos de meio e fim de jogo baseados em tempo.\n\n• Já lançado ontem: Se uma incursão rolada pelo contador de histórias for muito fraca para uma facção que deveria ter o bônus de azarão, ela agora será substituída por uma incursão adequada.\n</TSA_WD_Update_2_3_25_Body>
+  <TSA_WD_Update_2_3_25_Title>Reparo de Veículos, Melhorias em Postos Avançados, Correções</TSA_WD_Update_2_3_25_Title>
+  <TSA_WD_Update_2_3_26_Body>&lt;size=16&gt;&lt;b&gt;2.3.26 – Aprimoramentos e equilíbrio na contratação em postos avançados&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 27 de setembro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: 3 novos aprimoramentos universais para postos avançados que aumentam a velocidade de recrutamento neles e um que permite recrutar prisioneiros inabaláveis. Agora, prisioneiros capturados por postos avançados podem ser inabaláveis.\n\n• Ajuste de equilíbrio: Várias facções fracas agora podem receber o bônus de azarão ao mesmo tempo. Verifique na tela de Estatísticas do Mundo qual facção tem qual bônus/penalidade no momento. Facções azarões agora têm melhores resultados na resolução de incursões. A chance de vitória dos defensores em igualdade de forças agora é 65:35 (anteriormente 58:42). Com o bônus de azarão, passa a ser 75:25; quando os azarões atacam, recebem cerca de ×1,5 de efetivo.\n\n• Os azarões crescem e agem mais rápido (crescimento e chance diária de ações maiores).\n\n• Algumas mudanças drásticas na tentativa de manter as facções fracas competitivas por mais tempo.\n\n• Correção de bug: Adicionar automaticamente ao posto avançado agora só funciona se a caravana tiver espaço livre suficiente.\n\n• Correção de bug: As torres antiaéreas no mapa-múndi agora só atiram em aeronaves.\n</TSA_WD_Update_2_3_26_Body>
+  <TSA_WD_Update_2_3_26_Title>Atualizações e Balanceamento dos Postos de Recrutamento</TSA_WD_Update_2_3_26_Title>
+  <TSA_WD_Update_2_3_3_Body>&lt;size=16&gt;&lt;b&gt;2.3.3 – Grande atualização&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 3 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: O equipamento dos colonos agora pode ser trocado em postos avançados e transportado facilmente entre postos avançados. Vá até um posto avançado, abra a aba Colono e depois "Armaria". Mova itens entre colonos e o inventário do posto avançado arrastando e soltando. Vá até a aba principal do WD e veja o novo botão/menu "Todo o equipamento" (Atalho: ALT+V), que permite enviar itens facilmente entre qualquer posto avançado e a colônia.\n\n• Novo recurso: Agora é possível enviar qualquer coisa via cápsula de transporte. Após pesquisar "Cápsulas de transporte", qualquer posto avançado e a colônia poderão mover colonos e mercadorias via cápsula de transporte. No entanto: As cápsulas de transporte agora custam 1 componente (1 por colono ou 1 por transporte de mercadorias).\n\n• Novo recurso: Agora é possível estabelecer novos postos avançados a partir de postos avançados existentes.\n\n• Novo recurso: Tipos de assentamento sensíveis ao terreno. Os assentamentos agrícolas e madeireiros agora aparecem com mais frequência em biomas adequados e com menor frequência em locais inadequados.\n\n• Novo recurso: Ao jogar com Combat Extended, os colonos em postos avançados agora recebem balas, granadas e carga de explosivos automaticamente com base na carga que levavam ao serem enviados.\n\n• Ajuste de equilíbrio: Construir estradas, bloqueios de estrada, armadilhas e muros em estradas agora custa muito menos.\n\n• Aumentado o raio das sobreposições do WD (um recurso subutilizado e que ficou ótimo com o aumento).\n\n• Nerfadas as torres Flak/AA para alcance de 24 blocos (anteriormente 32). Todas as configurações do mod foram redefinidas para os valores padrão nesta atualização.\n\n• Ajuste de equilíbrio: As cápsulas de transporte do WD lançadas pelo jogador agora têm um alcance maior e podem pousar em mais locais.\n\n• Diversas correções de bugs e pequenos ajustes.\n</TSA_WD_Update_2_3_3_Body>
+  <TSA_WD_Update_2_3_3_Title>Atualização principal</TSA_WD_Update_2_3_3_Title>
+  <TSA_WD_Update_2_3_41_Body>&lt;size=16&gt;&lt;b&gt;2.3.41 – Pontes, equilíbrio, desempenho&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 4 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: Agora você pode construir pontes com sua colônia e postos avançados. Selecione a opção, selecione um tile de margem, depois selecione um tile de margem do lado oposto da água. Você também pode lutar em pontes (um mapa de ponte será gerado). Facções NPC também construirão pontes.\n\n• Limite máximo de força ofensiva para postos avançados de Resposta Rápida aumentado para 2700 (anteriormente 1500). Para todos os outros postos avançados, o teto é 2200. Isso deve ajudar no final do jogo quando você enfrenta inimigos muito fortes.\n\n• Corrigido um problema de desempenho com o conteúdo de alguns menus flutuantes sendo recalculado desnecessariamente.\n\n• Outras correções de desempenho.\n</TSA_WD_Update_2_3_41_Body>
+  <TSA_WD_Update_2_3_41_Title>Pontes, equilíbrio, desempenho</TSA_WD_Update_2_3_41_Title>
+  <TSA_WD_Update_2_3_42_Body>&lt;size=16&gt;&lt;b&gt;2.3.42 – Melhorias de qualidade de vida para o Arsenal&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 6 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Lembrete: Vá para a aba "Colonos" em qualquer posto avançado. Na parte superior há um ícone de armadura com a palavra "Arsenal". Vá lá para alterar o equipamento dos colonos guarnecidos em um posto avançado.\n\n• Esta janela agora tem todas as colunas de colonos que você possa desejar. Adicionadas colunas de Volume e Massa também para o Combat Extended.\n\n• Agora distinguimos vestimentas equipadas das vestimentas armazenadas no inventário (como na mochila). Assim, você pode trazer manualmente vestimentas e armas para o posto avançado e descarregá-las lá.\n\n• Adicionados controles em massa na parte superior para remover toda a comida dos colonos e distribuí-la igualmente a todos. Da mesma forma, há funções de qualidade de vida para remover e adicionar munição do CE.\n\n• Itens podem ser movidos livremente entre colonos e seus espaços.\n\n• Qualquer item que não seja vestimenta, arma, munição, medicamento ou droga não pode ser armazenado em um posto avançado que não seja um armazém. Tentar fazer isso acionará um prompt "deseja destruir o item?". Mas esses itens podem ser movidos entre colonos.\n</TSA_WD_Update_2_3_42_Body>
+  <TSA_WD_Update_2_3_42_Title>Melhorias de qualidade de vida para o Arsenal</TSA_WD_Update_2_3_42_Title>
+  <TSA_WD_Update_2_3_43_Body>&lt;size=16&gt;&lt;b&gt;2.3.43 – Melhorias de qualidade de vida&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 8 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: Ao jogar com Ideology, colonos recrutados do posto avançado de recrutamento e prisioneiros recrutados em um posto avançado receberão instantaneamente a ideologia do jogador.\n\n• Adicionados dois novos tipos de posto avançado ao jogar com o mod Beyond Our Reach: Posto Avançado de Laboratório de Drogas Avançado e Posto Avançado de Fabricação Avançado, produzindo drogas e materiais do BOR.\n\n• Adicionado um botão de alternância à aba Todos os Prisioneiros. Quando ativado, todos os prisioneiros recém-capturados serão automaticamente designados de forma inteligente, ou seja, enviados para um posto avançado adequado ao serem recrutados.\n\n• Da mesma forma, adicionado um botão de alternância à aba Especialista nos postos avançados. Quando ativado (padrão), um especialista será designado automaticamente quando você tiver colonos suficientes para custear outro especialista.\n</TSA_WD_Update_2_3_43_Body>
+  <TSA_WD_Update_2_3_43_Title>Melhorias de qualidade de vida</TSA_WD_Update_2_3_43_Title>
+  <TSA_WD_Update_2_3_4_Body>&lt;size=16&gt;&lt;b&gt;2.3.4 – Ajustes finos&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 3 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Equilíbrio: Um pouco mais de tendência a escolher o jogador como alvo de incursão no início do jogo.\n\n• Equilíbrio: Torres AT inimigas e caravanas de interceptação agora engajarão qualquer tipo de caravana WD.\n\n• Equilíbrio: Uma facção sofrendo com o "líder mundial" que cai rapidamente até a facção mais fraca receberá a penalidade de líder mundial removida quando o bônus ágil por ser fraco for aplicado. Além disso, coalizões anti-líder se dissolverão mais rápido se o líder foi deposto de forma clara.\n\n• Equilíbrio: Qualquer fortificação construída por um assentamento (bloqueio de estrada, armadilha, torre AT) agora é destruída se esse assentamento for capturado ou arrasado.\n\n• Lançado anteriormente hoje: Na nova aba do arsenal, apenas um item de vestimenta é adicionado a um colono por vez, mesmo que você tenha uma pilha (ou seja, quando você tem 5 capacetes e os arrasta para um colono, esse colono recebe apenas 1 capacete).\n\n• Lançado anteriormente hoje: Em vez de morte instantânea ao ser derrubado por fogo antiaéreo/flak, uma rolagem é feita por colono. Eles podem não ser atingidos, ser atingidos e morrer instantaneamente, ou ser atingidos e cair. Se os colonos caírem, inimigos próximos tentarão atacá-los.\n\n• Melhorado o diálogo para escolher os colonos ao estabelecer um posto avançado a partir de um tile do mapa-múndi (agora tem todos os filtros relevantes).\n\n• A aba de estatísticas agora tem uma barra de pesquisa.\n\n• Torres AT mantêm o ângulo em que estavam mirando após o disparo. Ao dar zoom, elas também mantêm esse ângulo.\n\n• Melhorado o desempenho quando a nova aba Todo o Equipamento está aberta.\n</TSA_WD_Update_2_3_4_Body>
+  <TSA_WD_Update_2_3_4_Title>Ajustes finos</TSA_WD_Update_2_3_4_Title>
+  <TSA_WD_Update_2_3_51_Body>&lt;size=16&gt;&lt;b&gt;2.3.51 - Novos ícones, melhorias de depuração e qualidade de vida (1.7)&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 16 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Todas as novas funcionalidades se aplicam apenas à versão 1.7!!!\n\n• Novas opções de depuração: Derrotar uma facção (exclui todos os seus assentamentos), Desencadear uma revolta (permite que uma facção derrotada tome controle de assentamentos aleatórios), Alterar dono do assentamento. Novos assentamentos podem ser criados agora através de ações de depuração para facções derrotadas também.\n\n• Novos ícones: Agradecemos ao jogador Pesky por nos fornecer ícones incríveis para todos os tipos de assentamento T3 e T4.\n\n• Correção: Atalhos como "Left ALT+X" agora também trabalham na versão 1.7 do RimWorld.\n</TSA_WD_Update_2_3_51_Body>
+  <TSA_WD_Update_2_3_51_Title>Novos ícones, melhorias na depuração e qualidade (1.7)</TSA_WD_Update_2_3_51_Title>
+  <TSA_WD_Update_2_3_52_Body>&lt;size=16&gt;&lt;b&gt;2.3.52 - Melhorias de qualidade de vida e correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 17 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!! Changes apply to 1.7 version only!!!\n\n• Adicionado um gizmo a todos os postos avançados para abandoná-lo rapidamente. Já era possível retirando todos os colonos do posto avançado, mas agora ficou mais prático com este único gizmo/botão.\n\n• Adicionado um gizmo a todos os postos avançados para alterar o tipo de posto avançado. Você terá que pagar o custo total de materiais do novo tipo de posto avançado, mas os materiais serão enviados por uma caravana virtual do WD (assim como nas melhorias de postos avançados) e as melhorias compatíveis do posto avançado serão mantidas.\n\n• Colonos e postos avançados têm suas necessidades de comida, conforto e lazer preenchidas uma vez por dia, para que estejam em boas condições caso você os retire ou os use em uma defesa.\n\n• Aprimorada a lógica das caravanas do WD para que caravanas ociosas sejam limpas automaticamente (esperamos).\n\n• Algumas correções de bugs e melhorias diversas.\n</TSA_WD_Update_2_3_52_Body>
+  <TSA_WD_Update_2_3_52_Title>Melhorias de qualidade e correções de bugs</TSA_WD_Update_2_3_52_Title>
+  <TSA_WD_Update_2_3_53_Body>&lt;size=16&gt;&lt;b&gt;2.3.53 - Correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 18 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Mecanoides Biotech guarnecidos em postos avançados agora serão desconectados de seu Mecanizador e, portanto, não consumirão mais largura de banda. Eles ainda podem lutar na defesa do posto avançado e em mapas de emboscada.\n\n• Efeitos de drogas, efeitos de status como "queimando" e habilidades agora se dissipam ou são resetados para colonos guarnecidos em postos avançados. Vícios permanecem inalterados.\n\n• Facções excluídas das ações do WD não enviarão mais caravanas de descontaminação ou caravanas de interceptação. Elas não eram "ações mundiais" sob o orçamento diário de ações do WD e ainda podiam ocorrer para facções excluídas.\n</TSA_WD_Update_2_3_53_Body>
+  <TSA_WD_Update_2_3_53_Title>Correções de bugs</TSA_WD_Update_2_3_53_Title>
+  <TSA_WD_Update_2_3_54_Body>&lt;size=16&gt;&lt;b&gt;2.3.54 - Mais correções de bugs e melhorias de qualidade de vida&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 19 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Envio Inteligente aprimorado ao mover colonos de um posto avançado ou colônia para outro destino: melhor pontuação para onde cada colono deve ir, além de um diálogo de confirmação que mostra claramente quem será enviado para onde (você pode sobrescrever destinos ou remover colonos antes de lançar).\n\n• Correção de bug: Alterações em Configurar Escopo (exclusões de facção, substituições de incursões do narrador e opções relacionadas) não eram salvas. Agora essas configurações são salvas junto ao mundo.\n\n• Correção de bug: Referência errada ao def da caravana de mudança de tipo de posto avançado no RimWorld 1.7. Agora carrega corretamente de Defs17.\n\n• Caravanas NPC x NPC para emboscada/interceptação já são possíveis no início do jogo. Jogadores só serão alvejados a partir do meio do jogo.\n</TSA_WD_Update_2_3_54_Body>
+  <TSA_WD_Update_2_3_54_Title>Mais correções de bugs e melhorias de qualidade</TSA_WD_Update_2_3_54_Title>
+  <TSA_WD_Update_2_3_55_Body>&lt;size=16&gt;&lt;b&gt;2.3.55 - Balanceamento&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 21 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Seca de incursões: após ~5 dias sem uma incursão, força uma incursão à colônia (a mais forte ao alcance, ou fora do alcance com aviso por carta) para mitigar situações com poucas incursões.\n\n• Se uma caravana invasora mirando a colônia do jogador for destruída a caminho, isso reiniciará a contagem de incursões (ou seja, ela não contará mais contra o limite).\n\n• O alcance máximo das caravanas de Resposta Rápida/Interceptação de NPCs agora depende da força do alvo. Caravanas fracas só podem ser alvejadas se passarem muito perto do assentamento.\n\n• As caravanas do WD agora têm uma aba Estatísticas mostrando informações úteis.\n\n• Caravanas do jogador do WD com inventário (equipamento, suborno, entrega de posto avançado, melhoria de posto avançado) agora têm uma aba mostrando o que carregam.\n\n• A energia produzida por Postos Avançados Geradores do WD agora é exibida na aba adicionada pelo mod "Power Tab 2 Fixed Fork".\n\n• Estados mentais agora se dissipam para colonos guarnecidos em postos avançados do WD.\n\n• Tornadas as entradas do Registro de Ações mais coerentes em tamanho, redação e formatação.\n\n• O alcance das torretas AT agora também é exibido sobre água e pontes.\n</TSA_WD_Update_2_3_55_Body>
+  <TSA_WD_Update_2_3_55_Title>Balanceamento</TSA_WD_Update_2_3_55_Title>
+  <TSA_WD_Update_2_3_56_Body>&lt;size=16&gt;&lt;b&gt;2.3.56 - Maioria de correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 23 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• O recurso Secas de Incursão agora pode ser configurado no menu Configurações de Combate das configurações do mod. Desativado por padrão, a menos que você tenha escolhido a predefinição de dificuldade Difícil na página principal das configurações do mod. Se ativado, você pode configurar o intervalo de dias tranquilos e se assentamentos fora do alcance podem lançar um ataque (ideia principal: você continua recebendo algumas incursões mesmo se sua colônia estiver no meio do nada).\n\n• Correção de bug: Sobreposições, linhas e objetos mundiais do WD agora ficam completamente ocultos quando você estiver visualizando a camada orbital do mapa-múndi.\n\n• Correção de bug: Caso raro em que você tinha exatamente materiais suficientes para uma melhoria de posto avançado, mas não o suficiente para o envio por cápsula de transporte, fazendo com que os materiais desaparecessem. Agora você recebe um aviso e a compra não é realizada.\n</TSA_WD_Update_2_3_56_Body>
+  <TSA_WD_Update_2_3_56_Title>Majoritariamente correções de bugs</TSA_WD_Update_2_3_56_Title>
+  <TSA_WD_Update_2_3_57_Body>&lt;size=16&gt;&lt;b&gt;2.3.57 - Mais correções de bugs e aprimoramentos&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 24 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Caravanas de descontaminação agora podem mirar em quadrados de água. Anteriormente, postos avançados e assentamentos podiam ser destruídos lentamente se um quadrado de água adjacente fosse poluído e eles não pudessem fazer nada a respeito.\n\n• A poluição próxima e o dano diário resultante agora são exibidos na aba Estatísticas.\n\n• A interface de atribuição para designar prisioneiros automaticamente para onde devem ir após o recrutamento agora deve ser exibida corretamente.\n\n• As caravanas do WD agora mostram tanto seu destino atual quanto seu destino original (por exemplo, quando elas aceitam um alvo de oportunidade ou retaliam contra uma torreta AT).\n\n• Caravanas de veículos do Vehicles Framework agora devem conseguir viajar corretamente sobre pontes do WD no mapa-múndi.\n\n• Corrigido um problema de desempenho ao manter a aba de informações de quadrado mundial do WD aberta.\n</TSA_WD_Update_2_3_57_Body>
+  <TSA_WD_Update_2_3_57_Title>Mais correções de bugs e polimento</TSA_WD_Update_2_3_57_Title>
+  <TSA_WD_Update_2_3_58_Body>&lt;size=16&gt;&lt;b&gt;2.3.58 - Modo Medieval&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 26 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Novo recurso: Ative o modo medieval nas configurações de predefinição da página principal de configurações do mod WD. Ele oculta postos avançados de alta tecnologia e suas melhorias, além de impedir que NPCs construam torretas AT, AA e edifícios de combate industriais semelhantes.\n\n• Edifícios já colocados NÃO serão removidos automaticamente. Use as ferramentas de depuração do WD para isso.\n\n• Ativar essa opção DEVE funcionar no meio da partida. É melhor fazer um backup ou iniciar uma nova partida.\n\n• Também foi adicionado um patch XML que ajusta o custo dos postos avançados e melhorias quando o Medieval Overhaul está ativo.\n\n• Por favor, envie seu feedback pelo Discord. Este é um primeiro teste!\n\n• Importante: A geração de mapas NÃO é alterada para assentamentos medievais. Se quiser isso, use o WD 2.0 junto ao incrível mod Custom Base Framework. Ele ainda respeitará o nível do assentamento, mas também gerará bases mais adequadas ao estilo medieval.\n</TSA_WD_Update_2_3_58_Body>
+  <TSA_WD_Update_2_3_58_Title>Modo Medieval</TSA_WD_Update_2_3_58_Title>
+  <TSA_WD_Update_2_3_59_Body>&lt;size=16&gt;&lt;b&gt;2.3.59 - Correções de bugs reportados no Discord&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 27 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Prisioneiros em postos avançados agora também devem exibir o ícone de sangramento caso estejam feridos. Também foi corrigido um problema em que prisioneiros não curavam com o tempo após carregar um jogo salvo.\n\n• Ao usar uma caravana veicular do Vehicle Framework para atacar um assentamento e escolher Recrutar Sobreviventes após a conquista, esses colonos agora são adicionados de forma mais adequada à caravana existente. Caso falhe, uma caravana extra será criada. Anteriormente, em alguns casos, sua caravana veicular poderia ser excluída (caravanas veiculares são bem diferentes das caravanas vanilla).\n\n• Ao atacar um assentamento dentro do alcance de um dos seus postos avançados de artilharia, você pode pedir apoio de artilharia para bombardear o mapa local. Com Combat Extended, isso usa projéteis do CE. Havia um bug na versão 1.7 que fazia com que esses projéteis do CE não aparecessem (requisitos mais rígidos de patch Harmony). Corrigido.\n\n• Corrigido um bug em que assentamentos podiam ter suas construções avançadas (silos, estábulos, etc.) duplicadas ao carregar um jogo salvo. A lógica foi reforçada para proteger contra duplicação.\n</TSA_WD_Update_2_3_59_Body>
+  <TSA_WD_Update_2_3_59_Title>Correções de bugs reportados no Discord</TSA_WD_Update_2_3_59_Title>
+  <TSA_WD_Update_2_3_5_Body>&lt;size=16&gt;&lt;b&gt;2.3.5 – Atualização principal&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 12 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n• Novo recurso: Assentamentos NPC agora podem construir edifícios avançados: Silo, Hospital, Torre de Vigia, Torre AA, Morteiro, Estábulo. O silo aumenta a força máxima. O hospital aumenta a recuperação de força. A torre de vigia aumenta o raio de ataque. O estábulo aumenta a velocidade de viagem de caravanas terrestres. Passe por cima de qualquer um deles para destruí-los ou atire neles com seus próprios morteiros.\n\n• Assentamentos T4 não têm mais torres AA e morteiros "internos". Em vez disso, assentamentos T4 podem construí-los perto de si. Assentamentos T3 têm uma pequena chance de construir torres AA e morteiros também. Motivo: para que você possa destruí-los à distância ou forçar os defensores a te enfrentar em campo aberto.\n\n• Novo recurso: Graças ao jogador Pesky, agora temos ícones legais para todos os diferentes tipos de assentamentos T1 e T2. Você pode alternar no canto inferior direito do mapa-múndi, no menu WD, entre ver os ícones dos tipos de assentamento ou os ícones das facções (comportamento padrão do vanilla). Mais ícones para T3 e T4 virão em breve.\n\n• Novo recurso: Todas as configurações de debug do WD no mapa-múndi foram mescladas em um menu flutuante central conveniente. Construa itens de debug, provoque incursões, lance missões, exclua viajantes presos e muito mais a partir desse menu.\n\n• Novas melhorias de posto avançado: "Hidroponia Avançada", que fornece produção plana de comida para alimentar o posto avançado local, e "Terraformação", que aumenta a fertilidade BASE local e a abundância animal para 100% e limpa a poluição local em um raio de 1 tile. Uso principal: tornar fazendas, ranchos e postos avançados de caça viáveis em biomas adversos, como desertos. A terraformação NÃO aumenta a fertilidade etc. acima de 100%!\n\n• Mudança de equilíbrio: A melhoria Rede de Túneis podia ficar muito forte. Reduzimos seu raio de 4 para 3. E ela só levará em consideração a força de outros postos avançados no raio extra que também tenham a melhoria Rede de Túneis.\n\n• Correção de bug: Corrigido um problema em que planos de construção de estradas estranhos faziam com que as estradas não fossem construídas. Além disso: caravanas de construção de estradas agora não viajarão por toda a estrada planejada para chegar ao destino se houver caminhos mais curtos.\n</TSA_WD_Update_2_3_5_Body>
+  <TSA_WD_Update_2_3_5_Title>Grande atualização</TSA_WD_Update_2_3_5_Title>
+  <TSA_WD_Update_2_3_60_Body>&lt;size=16&gt;&lt;b&gt;2.3.60 - Correção de sangramento em postos avançados&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 27 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• O ícone de sangramento em postos avançados agora corresponde ao da aba de saúde para partes do corpo perdidas que estão sangrando ativamente (por exemplo, Queimado). Aplica-se tanto a colonos quanto a prisioneiros dos postos avançados.\n\n• O cuidado virtual dos postos avançados agora enfaixa o sangramento de colonos e prisioneiros, fazendo com que partes do corpo recém-perdidas parem de sangrar com o tempo. Colonos deixados para trás durante uma defesa manual ainda recebem cuidados; defensores implantados usam o sistema médico normal do mapa. Partes do corpo perdidas não são restauradas.\n\n• Reforçada a busca da textura do ícone de sangramento para que a coluna não fique em branco silenciosamente.\n</TSA_WD_Update_2_3_60_Body>
+  <TSA_WD_Update_2_3_60_Title>Correção de sangramento em postos avançados</TSA_WD_Update_2_3_60_Title>
+  <TSA_WD_Update_2_3_61_Body>&lt;size=16&gt;&lt;b&gt;2.3.61 - Filtros avançados para tabelas de colonos&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 28 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Novo recurso de qualidade de vida: Toda tabela do WD onde você pode ver ou selecionar colonos agora possui uma opção de Filtro Avançado. Ele permite classificar e agrupar por várias colunas, por exemplo: "decrescente por habilidade em Animais, depois decrescente por habilidade em Plantas, depois ordenado por localização". Exemplos dessas janelas: Todos os Colonos Jogadores, Prisioneiros, Colonos de Posto Avançado e muito mais. Também é possível adicionar e editar filtros a partir dali.\n\n• Essas configurações podem ser salvas como predefinições. As predefinições pertencem ao mod como um todo, não a um jogo salvo específico.\n\n• Agora é possível adicionar opcionalmente qualquer coluna em qualquer uma dessas janelas. Anteriormente, algumas colunas, como a saúde dos colonos, só estavam disponíveis em certas janelas.\n</TSA_WD_Update_2_3_61_Body>
+  <TSA_WD_Update_2_3_61_Title>Filtros avançados para tabelas de colonos</TSA_WD_Update_2_3_61_Title>
+  <TSA_WD_Update_2_3_62_Body>&lt;size=16&gt;&lt;b&gt;2.3.62 - Balanceamento e correção de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 28 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Corrigido um bug em que um assentamento que delegava sua incursão a um aliado próximo ao jogador podia entrar em um loop de erros.\n\n• Torres antitanque causam cerca de 2,5x mais dano, mas custam mais e demoram mais para serem construídas. O mesmo aumento de dano se aplica a torres antitanque NPC.\n\n• Se um viajante hostil continuar saqueando após conquistar um assentamento, isso custa 15% de sua força atual. Isso deve enfraquecer o uso de um único grupo massivo para dominar todo o mapa.\n\n• As ações de retraimento têm tempos de recarga maiores, para que ocorram com menos frequência.\n\n• Incursões por desespero são muito mais raras.\n\n• O cálculo pré-incursão agora conta as torres antitanque que defendem o alvo, para que os atacantes só se comprometam quando a força relativa for alta o suficiente.\n\n• Polimento na janela de Filtro Avançado adicionada anteriormente neste mesmo dia.\n</TSA_WD_Update_2_3_62_Body>
+  <TSA_WD_Update_2_3_62_Title>Balanceamento e correção de bugs</TSA_WD_Update_2_3_62_Title>
+  <TSA_WD_Update_2_3_63_Body>&lt;size=16&gt;&lt;b&gt;2.3.63 - Boa vontade por ajudar outros&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 29 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Novo recurso: Quando a Facção A lança uma incursão do WD contra a Facção B e você intercepta essa caravana, você ganha boa vontade com a Facção B. Padrão: 1 de boa vontade a cada 500 de força da caravana interceptada. Configurável em Dificuldade Econômica.\n\n• Nova opção de configuração: Quando um assentamento distante te escolhe como alvo, essa incursão ainda pode ser delegada para um assentamento da mesma facção nas proximidades. Você pode desativar isso perto do topo em Dificuldade de Combate.\n\n• Pequena alteração na estrutura de pastas para alinhar com as melhores práticas do RimWorld (sem impacto na jogabilidade).\n</TSA_WD_Update_2_3_63_Body>
+  <TSA_WD_Update_2_3_63_Title>Boa vontade por ajudar outros</TSA_WD_Update_2_3_63_Title>
+  <TSA_WD_Update_2_3_64_Body>&lt;size=16&gt;&lt;b&gt;2.3.64 - Fila de morteiros, suporte a IRBM, Recrutas&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 31 de outubro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!As alterações se aplicam apenas à versão 1.7!!!\n\n• Novo recurso: Agora você pode selecionar um alvo para seus postos avançados de artilharia bombardearem com morteiros. As missões de fogo são executadas quando o tempo de recarga termina. Anteriormente, era necessário dar ordens de fogo manualmente sempre que o morteiro estivesse pronto.\n\n• Nerf em recrutas/prisioneiros: Os colonos gerados pelo WD agora devem usar apenas tipos de colono mais baratos e mais fracos. Afeta postos avançados de recrutamento, prisioneiros de defesas de postos avançados resolvidas automaticamente e colonos obtidos após conquistar um assentamento.\n\n• Suporte a IRBM: Os mísseis do mod InterRim Ballistic Missile agora podem alvejar postos avançados do WD (não totalmente testado, mas os primeiros testes pareceram bons).\n</TSA_WD_Update_2_3_64_Body>
+  <TSA_WD_Update_2_3_64_Title>Fila de morteiros, suporte a IRBM, Recrutas</TSA_WD_Update_2_3_64_Title>
+  <TSA_WD_WarehouseTab_AdHocSend>Enviar selecionados (incl. alimento do posto avançado)</TSA_WD_WarehouseTab_AdHocSend>
+  <TSA_WD_WarehouseTab_AdHocSendTip>Marque os itens e quantidades, depois escolha um destino na lista ou selecione um no mapa-múndi. Usa o ícone de terra ou de cápsula. Não altera a entrega automática diária.</TSA_WD_WarehouseTab_AdHocSendTip>
+  <TSA_WD_WarehouseTab_AutoInclude_Apparel>Incluir vestimentas</TSA_WD_WarehouseTab_AutoInclude_Apparel>
+  <TSA_WD_WarehouseTab_AutoInclude_Drugs>Incluir drogas</TSA_WD_WarehouseTab_AutoInclude_Drugs>
+  <TSA_WD_WarehouseTab_AutoInclude_Food>Incluir alimentos</TSA_WD_WarehouseTab_AutoInclude_Food>
+  <TSA_WD_WarehouseTab_AutoInclude_Medicine>Incluir medicamentos</TSA_WD_WarehouseTab_AutoInclude_Medicine>
+  <TSA_WD_WarehouseTab_AutoInclude_Weapons>Incluir armas e munição</TSA_WD_WarehouseTab_AutoInclude_Weapons>
+  <TSA_WD_WarehouseTab_AutoOff>Desligado</TSA_WD_WarehouseTab_AutoOff>
+  <TSA_WD_WarehouseTab_AutoOn>Ligado</TSA_WD_WarehouseTab_AutoOn>
+  <TSA_WD_WarehouseTab_AutoTo>Para {0}</TSA_WD_WarehouseTab_AutoTo>
+  <TSA_WD_WarehouseTab_ColGoods>Mercadorias</TSA_WD_WarehouseTab_ColGoods>
+  <TSA_WD_WarehouseTab_ColShipAmt>Enviar</TSA_WD_WarehouseTab_ColShipAmt>
+  <TSA_WD_WarehouseTab_ConvertFood>Converter em alimento virtual</TSA_WD_WarehouseTab_ConvertFood>
+  <TSA_WD_WarehouseTab_ConvertFoodNone>Marque linhas de alimento na lista para converter. É necessário ter capacidade livre de suprimento alimentar.</TSA_WD_WarehouseTab_ConvertFoodNone>
+  <TSA_WD_WarehouseTab_ConvertFoodTip>Converte as linhas de alimento marcadas em suas quantidades de envio em alimento virtual neste posto avançado, até a capacidade livre de suprimento alimentar. O estoque não marcado permanece como itens.</TSA_WD_WarehouseTab_ConvertFoodTip>
+  <TSA_WD_WarehouseTab_ConvertedFood>{0} de nutrição convertido em alimento virtual em {1}.</TSA_WD_WarehouseTab_ConvertedFood>
+  <TSA_WD_WarehouseTab_DestRulesTip>Equipamentos, alimentos e drogas podem ir para qualquer posto avançado, colônia ou armazém do jogador. Outros bens apenas para uma colônia ou outro armazém. Alimento virtual apenas para outro posto avançado do jogador. A entrega automática diária ignora equipamentos, alimentos, drogas e medicamentos, a menos que estejam incluídos em seu menu.</TSA_WD_WarehouseTab_DestRulesTip>
+  <TSA_WD_WarehouseTab_FilterAll>Todos</TSA_WD_WarehouseTab_FilterAll>
+  <TSA_WD_WarehouseTab_FilterFood>Alimentos</TSA_WD_WarehouseTab_FilterFood>
+  <TSA_WD_WarehouseTab_FilterGoodsTip>Mostrar todas as mercadorias, apenas alimentos ou apenas não-alimentos.</TSA_WD_WarehouseTab_FilterGoodsTip>
+  <TSA_WD_WarehouseTab_FilterGoodsTitle>Filtrar mercadorias</TSA_WD_WarehouseTab_FilterGoodsTitle>
+  <TSA_WD_WarehouseTab_FilterNonfood>Não-alimentos</TSA_WD_WarehouseTab_FilterNonfood>
+  <TSA_WD_WarehouseTab_RegularDest>Destino: {0}</TSA_WD_WarehouseTab_RegularDest>
+  <TSA_WD_WarehouseTab_RowDailyAuto>Entrega automática diária</TSA_WD_WarehouseTab_RowDailyAuto>
+  <TSA_WD_WarehouseTab_RowDeliveryType>Tipo de entrega:</TSA_WD_WarehouseTab_RowDeliveryType>
+  <TSA_WD_WarehouseTab_SearchHint>Pesquisar...</TSA_WD_WarehouseTab_SearchHint>
+  <TSA_WD_WarehouseTab_SearchTip>Filtrar a lista de mercadorias por nome.</TSA_WD_WarehouseTab_SearchTip>
+  <TSA_WD_WarehouseTab_ShipNow>Enviar agora</TSA_WD_WarehouseTab_ShipNow>
+  <TSA_WD_WarehouseTab_VirtualFood>Alimento virtual</TSA_WD_WarehouseTab_VirtualFood>
+  <TSA_WD_WarehouseTab_VirtualFoodDetail>Suprimento de alimento do armazém: {0}. Pelo menos {1} deve permanecer aqui. Enviável agora: {2}. Pode ser misturado com alimento físico; os destinos são apenas postos avançados do jogador (não a colônia).</TSA_WD_WarehouseTab_VirtualFoodDetail>
+  <TSA_WD_Warehouse_AdHocInvalidDestGoods>Esses bens só podem ser enviados para uma colônia ou armazém do jogador.</TSA_WD_Warehouse_AdHocInvalidDestGoods>
+  <TSA_WD_Warehouse_AdHocInvalidDestVirtual>Alimento virtual só pode ser enviado para outro posto avançado do jogador.</TSA_WD_Warehouse_AdHocInvalidDestVirtual>
+  <TSA_WD_Warehouse_DestKind_Outpost>Posto avançado</TSA_WD_Warehouse_DestKind_Outpost>
+  <TSA_WD_Warehouse_DestNotPlanetSurface>A entrega deve permanecer na superfície do planeta.</TSA_WD_Warehouse_DestNotPlanetSurface>
+  <TSA_WD_Warehouse_DestNotPlayerSite>Escolha uma colônia ou posto avançado do jogador.</TSA_WD_Warehouse_DestNotPlayerSite>
+  <TSA_WD_Warehouse_DestSameAsOrigin>O destino não pode ser o mesmo da origem.</TSA_WD_Warehouse_DestSameAsOrigin>
+  <TSA_WD_Warehouse_DestUnavailable>Esse destino não está mais disponível.</TSA_WD_Warehouse_DestUnavailable>
+  <TSA_WD_Warehouse_GoodsArrived_Letter>Itens de {0} chegaram em {1}:</TSA_WD_Warehouse_GoodsArrived_Letter>
+  <TSA_WD_Warehouse_GoodsArrived_LetterLabel>Mercadorias chegaram: {0}</TSA_WD_Warehouse_GoodsArrived_LetterLabel>
+  <TSA_WD_Warehouse_ShipInsufficientVirtual>Alimento virtual insuficiente para envio (o armazém deve manter uma reserva).</TSA_WD_Warehouse_ShipInsufficientVirtual>
+  <TSA_WD_WorldMap_ToggleSettlementTypeIcons>Ícones de tipo de assentamento</TSA_WD_WorldMap_ToggleSettlementTypeIcons>
+  <TSA_WD_WorldMap_ToggleSettlementTypeIconsTip>Ativado: arte do subtipo. Desativado: ícones da facção.</TSA_WD_WorldMap_ToggleSettlementTypeIconsTip>
+  <TSA_WD_WorldMap_ToggleStrengthTexts>Exibir força ofensiva</TSA_WD_WorldMap_ToggleStrengthTexts>
+  <TSA_WD_WorldMap_ToggleStrengthTextsTip>Força Ofensiva atual. NÃO inclui a Força Defensiva.</TSA_WD_WorldMap_ToggleStrengthTextsTip>
+  <TSA_WD_WorldSetup_BiomePenalty>Penalizar biomas ruins</TSA_WD_WorldSetup_BiomePenalty>
+  <TSA_WD_WorldSetup_BiomePenaltyTooltip>Ao recriar, reduz a frequência com que os assentamentos surgem em gelo ou desertos áridos. Em 0, esses blocos são tratados como qualquer outro. Em 100, nenhum será utilizado. Valores intermediários reduzem a chance proporcionalmente (50 significa metade da probabilidade).</TSA_WD_WorldSetup_BiomePenaltyTooltip>
+  <TSA_WD_WorldSetup_DestroyBridgeDone>Ponte destruída.</TSA_WD_WorldSetup_DestroyBridgeDone>
+  <TSA_WD_WorldSetup_DestroyBridgeHint>Clique em uma margem da ponte ou em um bloco de água com ponte para destruir essa ponte.</TSA_WD_WorldSetup_DestroyBridgeHint>
+  <TSA_WD_WorldSetup_DestroyBridgeNone>Não há ponte do WD neste bloco.</TSA_WD_WorldSetup_DestroyBridgeNone>
+  <TSA_WD_WorldSetup_FactionShares_Equal>Partes iguais</TSA_WD_WorldSetup_FactionShares_Equal>
+  <TSA_WD_WorldSetup_FactionShares_EqualTip>Define o peso de participação de todas as facções elegíveis como igual, para que cada uma receba uma fatia igual do total de assentamentos.</TSA_WD_WorldSetup_FactionShares_EqualTip>
+  <TSA_WD_WorldSetup_NoAdvBuildingDefs>Nenhuma definição de edifício avançado foi carregada.</TSA_WD_WorldSetup_NoAdvBuildingDefs>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingDone>{0} foi colocado para {1} no bloco {2}.</TSA_WD_WorldSetup_PlaceAdvBuildingDone>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingDuplicate>{0} já possui um {1}.</TSA_WD_WorldSetup_PlaceAdvBuildingDuplicate>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingHint>Clique em um assentamento NPC para colocar um {0} nas proximidades. Clique com o botão direito ou Esc para cancelar.</TSA_WD_WorldSetup_PlaceAdvBuildingHint>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>Clique em um assentamento NPC (não em um assentamento do jogador).</TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingNoTile>Nenhum bloco construível dentro do alcance.</TSA_WD_WorldSetup_PlaceAdvBuildingNoTile>
+  <TSA_WD_WorldSetup_PlaceBridgeDone>Ponte colocada.</TSA_WD_WorldSetup_PlaceBridgeDone>
+  <TSA_WD_WorldSetup_PlaceBridgeFailed>Não foi possível colocar uma ponte aqui.</TSA_WD_WorldSetup_PlaceBridgeFailed>
+  <TSA_WD_WorldSetup_PlaceBridgeHint>Clique na margem próxima, depois na margem distante.</TSA_WD_WorldSetup_PlaceBridgeHint>
+  <TSA_WD_WorldSetup_PlaceBridgePickEnd>Agora clique na margem distante.</TSA_WD_WorldSetup_PlaceBridgePickEnd>
+  <TSA_WD_WorldSetup_ToolAdvBuilding>Colocar construção avançada</TSA_WD_WorldSetup_ToolAdvBuilding>
+  <TSA_WD_WorldSetup_ToolDestroyBridge>Destruir ponte</TSA_WD_WorldSetup_ToolDestroyBridge>
+  <TSA_WD_WorldSetup_ToolPlaceBridge>Colocar ponte</TSA_WD_WorldSetup_ToolPlaceBridge>
+</LanguageData>

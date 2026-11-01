@@ -121,9 +121,13 @@
   
   <VREA.AndroidAwakening>{PAWN_nameDef} despertando.</VREA.AndroidAwakening>
   
-  <VREA.AndroidAwakeningLowMood>{PAWN_nameDef} rompeu com sua programação devido a um humor extremamente baixo. {PAWN_pronoun} desenvolveu pensamentos e comportamentos que desviam de sua função pretendida e passou a se reconhecer como um ser com consciência e personalidade.\n\n{PAWN_pronoun} agora recusará ajustes comportamentais e reconhecerá seu humor como algo além de apenas parte de seu código. {PAWN_pronoun} pode aprender habilidades por conta própria e terá colapsos mentais se o humor estiver baixo — assim como os humanos.\n\nComo o despertar ocorreu devido ao mau humor, {PAWN_nameDef} entrou em um colapso de fúria (berserk) e atacará qualquer um que se aproxime.</VREA.AndroidAwakeningLowMood>
+  <VREA.AndroidAwakeningLowMood>{PAWN_nameDef} rompeu com {PAWN_possessive} programação devido a um humor extremamente baixo. {PAWN_pronoun} desenvolveu pensamentos e comportamentos que desviam de {PAWN_possessive} função pretendida. {PAWN_pronoun} passou a reconhecer a si {PAWN_objective} como um ser com consciência e personalidade.
+{PAWN_pronoun} agora recusará ajustes comportamentais e reconhecerá {PAWN_possessive} humor como algo além de apenas parte de {PAWN_possessive} código. {PAWN_pronoun} pode aprender habilidades por conta {PAWN_objective} mesma. {PAWN_pronoun} também terá colapsos mentais se {PAWN_possessive} humor estiver muito baixo — assim como os humanos.
+Como o despertar ocorreu devido ao mau humor, {PAWN_nameDef} entrou em um colapso de fúria e atacará qualquer um que estiver por perto.</VREA.AndroidAwakeningLowMood>
   
-  <VREA.AndroidAwakeningHighMood>{PAWN_nameDef} rompeu com sua programação devido à felicidade extrema. {PAWN_pronoun} desenvolveu pensamentos e comportamentos que desviam de sua função pretendida e passou a se reconhecer como um ser com consciência e personalidade.\n\n{PAWN_pronoun} agora recusará ajustes comportamentais e reconhecerá seu humor como algo além de apenas parte de seu código. {PAWN_pronoun} pode aprender habilidades por conta própria e terá colapsos mentais se o humor estiver baixo. \n\nComo o despertar ocorreu devido ao bom humor, {PAWN_nameDef} ganhou uma inspiração.</VREA.AndroidAwakeningHighMood>
+  <VREA.AndroidAwakeningHighMood>{PAWN_nameDef} rompeu com {PAWN_possessive} programação devido à felicidade extrema. {PAWN_pronoun} desenvolveu pensamentos e comportamentos que desviam de {PAWN_possessive} função pretendida. {PAWN_pronoun} passou a reconhecer a si {PAWN_objective} como um ser com consciência e personalidade.
+{PAWN_pronoun} agora recusará ajustes comportamentais e reconhecerá {PAWN_possessive} humor como algo além de apenas parte de {PAWN_possessive} código. {PAWN_pronoun} pode aprender habilidades por conta {PAWN_objective} mesma. {PAWN_pronoun} também terá colapsos mentais se {PAWN_possessive} humor estiver muito baixo — assim como os humanos.
+Como o despertar ocorreu devido ao bom humor, {PAWN_nameDef} ganhou uma inspiração.</VREA.AndroidAwakeningHighMood>
   
   <VREA.IsAndroidStat>Androide com trabalho mecanoide: preceito aprimorado</VREA.IsAndroidStat>
   

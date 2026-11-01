@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <DMS_Army.label>Forças de Colonização</DMS_Army.label>
-  <DMS_Army.description>Uma organização colonial militarizada liderada por um Suserano de IA que otimiza a guerra com eficiência brutal. São um povo guerreiro que opera como uma meritocracia militar. Espera-se que cada indivíduo assuma a responsabilidade por suas ações e por seu espaço de batalha, e qualquer um disposto a lutar pode encontrar seu lugar entre suas fileiras.</DMS_Army.description>
+  <DMS_Army.description>Uma organização colonial militarizada liderada por uma inteligência artificial. Sua cultura é fortemente baseada em hierarquia militar, e qualquer um que prove sua capacidade pode encontrar seu lugar nela por meio de um rígido sistema de responsabilização.
+
+O que é certo é que, por trás dessa força colonial, existe uma vasta organização capaz de coordenar operações entre sistemas estelares, mesmo quando as viagens interestelares levam décadas, com grandes contingentes de tropas mecanizadas e armas pesadas para garantir o desenvolvimento pacífico deste planeta e a assistência à sua infraestrutura.</DMS_Army.description>
   <DMS_Legacy.label>Legados da Colonização</DMS_Legacy.label>
   <DMS_Legacy.description>Autômatos remanescentes dos pioneiros da colonização, guardiões criados para proteger as torres de luz deste planeta.\n\nNo entanto, após décadas de espera, a maioria dos pioneiros não viveu para ver a frota chegar, e suas criações ainda vagavam por sua terra natal há muito desaparecida, seguindo seus procedimentos pré-programados.</DMS_Legacy.description>
   <DMS_Army.leaderTitle>comandante de setor</DMS_Army.leaderTitle>
@@ -9,4 +11,11 @@
   <DMS_Army.pawnsPlural>militares</DMS_Army.pawnsPlural>
   <DMS_Army.royalFavorLabel>honra</DMS_Army.royalFavorLabel>
   <DMS_Army.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</DMS_Army.messageDefendersAttacking>
+  <DMS_Colony.description>Uma colônia de recém-chegados de outro mundo. Parece que eles têm conexão com a Frota Colonial.</DMS_Colony.description>
+  <DMS_Colony.label>colônia da frota</DMS_Colony.label>
+  <DMS_Deviants.description>Um grupo de desertores que romperam com a Frota Colonial e agora são procurados.</DMS_Deviants.description>
+  <DMS_Deviants.label>desertores</DMS_Deviants.label>
+  <DMS_Legacy.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</DMS_Legacy.messageDefendersAttacking>
+  <DMS_Legacy.pawnSingular>remanescente</DMS_Legacy.pawnSingular>
+  <DMS_Legacy.pawnsPlural>remanescentes</DMS_Legacy.pawnsPlural>
 </LanguageData>

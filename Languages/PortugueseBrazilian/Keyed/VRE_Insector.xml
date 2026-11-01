@@ -19,7 +19,7 @@
   <VRE_ChangingGenelineExplanation>Alterar os genes de uma linhagem genética fará com que todos os insectores que fazem parte dessa linhagem entrem no estágio de metápode. O estágio de metápode durará 24 horas, durante as quais os insectores estarão indisponíveis.</VRE_ChangingGenelineExplanation>
   <VRE_CannotSave>Não é possível salvar: {0}</VRE_CannotSave>
   <VRE_ChangeTo>Mudar para: {0}</VRE_ChangeTo>
-  <VRE_DeleteGenelineConfirmation>Você está prestes a remover uma linhagem genética que está sendo usada por alguns de seus colonos. Removê-la resultará nesses insectores entrando imediatamente no estágio de metápode e tornando-se insectores básicos.\n\nColonos insectores que serão afetados:\n\n{0}</VRE_DeleteGenelineConfirmation>
+  <VRE_DeleteGenelineConfirmation>Você está prestes a remover uma linhagem genética que está sendo usada por alguns de seus colonos. Removê-la resultará nesses insectores entrando imediatamente no estágio de metápode e tornando-se insectores básicos.\nColonos insectores que serão afetados:\n\n{0}</VRE_DeleteGenelineConfirmation>
   <VRE_Genelines>Linhagens Genéticas</VRE_Genelines>
   <VRE_GenelinesDesc>Gerencie as linhagens e especializações genéticas da colmeia.</VRE_GenelinesDesc>
   <VRE_MetapodTimer>Tempo até {PAWN_nameDef} emergir: {1}\nInsira geleia de inseto no metápode para acelerar o processo significativamente.</VRE_MetapodTimer>

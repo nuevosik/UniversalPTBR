@@ -89,7 +89,7 @@ aos subagentes. Regras:
 
 | EN | PT-BR | Obs |
 |---|---|---|
-| mech / mechanoid | mecanoide | oficial — `Core/DefInjected/ThingDef/Races_Mechanoid.xml` `Mech_Lancer.description`; repo "mecanoide" (117). |
+| mech / mechanoid | mecanoide | oficial — `Core/DefInjected/ThingDef/Races_Mechanoid.xml` `Mech_Lancer.description`; repo "mecanoide" (117). Gate (2026-11-01): "mecha"/"meca" avulsos → `mecanoide` (decisão do usuário; aplicado em DMS, Alpha Mechs, Ascension Megacorp e Cinders). Exceção: "meca-conexão" (mechlink). |
 | mechanitor | mecanizador | oficial — `Biotech/Keyed/MainTabs.xml` `MissingRequiredMechanitor` ("colono mecanizador"). |
 | mechlink | meca-conexão | oficial — `Biotech/DefInjected/ConceptDef/Tutor.xml` `Mechanitors.helpText`. |
 | mech gestator | gestador mecanoide | oficial — `Biotech/DefInjected/WorkGiverDef/WorkGivers.xml` `DoBillsMechGestator.label`. |

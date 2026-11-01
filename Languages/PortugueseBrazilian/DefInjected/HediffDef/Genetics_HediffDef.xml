@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_AdrenalineBurst.description>A onda de adrenalina aumenta muito a velocidade do híbrido por um tempo e, depois, precisa ser recarregada para ser usada novamente.</GR_AdrenalineBurst.description>
+  <GR_AdrenalineBurst.label>onda de adrenalina</GR_AdrenalineBurst.label>
+  <GR_AdrenalineBurst.stages.1.label>exaurido</GR_AdrenalineBurst.stages.1.label>
+  <GR_AnimalAbasia.description>Uma condição que torna um animal incapaz de andar ao interferir no córtex motor. Se não for tratada a tempo, a abasia interfere inevitavelmente no funcionamento dos órgãos — por exemplo, parando as funções cardíacas. Uma criatura com abasia animal pode ser tratada, o que desacelera a doença, mas não a cura.\n\nQualquer animal híbrido ou parangão desenvolverá essa doença 3 anos após ser chocado ou nascer naturalmente, embora isso seja afetado pela qualidade do híbrido.</GR_AnimalAbasia.description>
+  <GR_AnimalAbasia.label>abasia animal</GR_AnimalAbasia.label>
+  <GR_AnimalAbasia.stages.0.label>paralisado</GR_AnimalAbasia.stages.0.label>
+  <GR_AnimalControlHediff.description>Esta criatura foi geneticamente modificada com um impulsionador de controle.</GR_AnimalControlHediff.description>
+  <GR_AnimalControlHediff.label>controlador animal</GR_AnimalControlHediff.label>
+  <GR_AnimalTuberculosis.description>Uma doença originada por uma infecção bacteriana que ataca os pulmões. Animais com tuberculose cuspirão sangue constantemente até que a perda de sangue cause sua morte. A cada ataque de tosse, os pulmões desse animal ficam cada vez mais danificados. Uma criatura com tuberculose animal pode ser tratada, o que desacelera a doença, mas não a cura.\n\nQualquer animal híbrido ou parangão desenvolverá essa doença 3 anos após ser chocado ou nascer naturalmente, embora isso seja afetado pela qualidade do híbrido.</GR_AnimalTuberculosis.description>
+  <GR_AnimalTuberculosis.label>tuberculose animal</GR_AnimalTuberculosis.label>
+  <GR_AnimalTuberculosis.stages.0.label>inicial</GR_AnimalTuberculosis.stages.0.label>
+  <GR_AnimalTuberculosis.stages.1.label>pulmões danificados</GR_AnimalTuberculosis.stages.1.label>
+  <GR_AnimalTuberculosis.stages.2.label>pulmões muito danificados</GR_AnimalTuberculosis.stages.2.label>
+  <GR_BearClaws.comps.0.tools.0.label>garras de urso</GR_BearClaws.comps.0.tools.0.label>
+  <GR_BearClaws.description>Uma melhoria em relação à garra de poder biônica, estas garras foram cultivadas em tanque com uma mistura de DNA humano e de urso e substituem a mão do sujeito por garras versáteis e não retráteis.</GR_BearClaws.description>
+  <GR_BearClaws.label>implante humanoide: garras de urso</GR_BearClaws.label>
+  <GR_BearLeg.comps.0.tools.0.label>implante animal: perna de urso</GR_BearLeg.comps.0.tools.0.label>
+  <GR_BearLeg.description>Uma perna protética animal reforçada com músculos de urso, terminando em uma poderosa garra de urso que adiciona um forte ataque corpo a corpo.</GR_BearLeg.description>
+  <GR_BearLeg.label>implante animal: perna de urso</GR_BearLeg.label>
+  <GR_BearLiver.description>Um implante que usa genes de urso para melhorar a função do fígado. Especialmente útil para galinhas alcoólatras.</GR_BearLiver.description>
+  <GR_BearLiver.label>implante animal: fígado de urso</GR_BearLiver.label>
+  <GR_BearMuscleTissue.description>Enxertos de tecido muscular de urso no tronco do sujeito aumentam sua força e resistência gerais. Esses enxertos, no entanto, tendem a estimular a produção de uma grande quantidade de pelos corporais.</GR_BearMuscleTissue.description>
+  <GR_BearMuscleTissue.label>implante humanoide: tecido muscular de urso</GR_BearMuscleTissue.label>
+  <GR_BloodFrenzy.description>Esta criatura foi vítima de um ataque frenético.</GR_BloodFrenzy.description>
+  <GR_BloodFrenzy.label>vítima de frenesi sanguinário</GR_BloodFrenzy.label>
+  <GR_BoomalopeHeart.description>Um implante que usa combustível químico para bombear sangue pelo corpo do animal. Este implante é destinado a criaturas cujo coração está falhando catastroficamente, pois é menos eficiente que um coração natural.</GR_BoomalopeHeart.description>
+  <GR_BoomalopeHeart.label>implante animal: coração de bumalope</GR_BoomalopeHeart.label>
+  <GR_BoomalopeNodules.description>Esses nódulos cutâneos podem ser integrados ao tronco de um humano, causando uma enorme explosão se o sujeito morrer violentamente.</GR_BoomalopeNodules.description>
+  <GR_BoomalopeNodules.label>implante humanoide: nódulos de bumalope</GR_BoomalopeNodules.label>
+  <GR_BoomalopeStomach.description>Um implante que usa genes de bumalope para melhorar a função do estômago.</GR_BoomalopeStomach.description>
+  <GR_BoomalopeStomach.label>implante animal: estômago de bumalope</GR_BoomalopeStomach.label>
+  <GR_BunnyEars.description>Esta enorme orelha leporina proporciona uma audição extremamente aprimorada. Além disso, é super fofa!</GR_BunnyEars.description>
+  <GR_BunnyEars.label>implante humanoide: orelha de coelho</GR_BunnyEars.label>
+  <GR_Burrowing.description>Enterra-se no solo para se mover, ficando quase invulnerável a ataques. Essa habilidade precisa ser recarregada para ser usada novamente.</GR_Burrowing.description>
+  <GR_Burrowing.label>escavando subterraneamente</GR_Burrowing.label>
+  <GR_Burrowing.stages.1.label>recuperando</GR_Burrowing.stages.1.label>
+  <GR_CanidEye.description>Um implante ocular que utiliza fusão genética com genes caninos para dar a um olho velho (ou danificado) uma visão decente. Este implante não foi feito para substituir olhos saudáveis.</GR_CanidEye.description>
+  <GR_CanidEye.label>implante animal: olho canino</GR_CanidEye.label>
+  <GR_CatEye.description>Este olho híbrido humanoide/felino proporciona visão noturna aprimorada, às custas de certa miopia fora e durante o dia. Ideal para colonos nictofílicos.</GR_CatEye.description>
+  <GR_CatEye.label>implante humanoide: olho felino</GR_CatEye.label>
+  <GR_CatReflexes.description>Os reflexos felinos aumentam bastante a velocidade e a chance de esquiva corpo a corpo do híbrido por um tempo, depois precisando ser recarregados para serem usados novamente.</GR_CatReflexes.description>
+  <GR_CatReflexes.label>reflexos felinos</GR_CatReflexes.label>
+  <GR_CatReflexes.stages.1.label>exausto</GR_CatReflexes.stages.1.label>
+  <GR_CatTail.description>Um implante de cauda que usa fusão genética com genes felinos para substituir uma cauda quebrada ou ausente. Este implante não foi feito para substituir uma cauda saudável.</GR_CatTail.description>
+  <GR_CatTail.label>implante animal: cauda felina</GR_CatTail.label>
+  <GR_CausedHorror.description>Libera uma nuvem de insanidade que reduz a sanidade de qualquer um que passar por ela, e depois precisa ser recarregada para ser usada novamente.</GR_CausedHorror.description>
+  <GR_CausedHorror.label>invocou recentemente a insanidade Daquilo Que O Homem Não Deve Conhecer</GR_CausedHorror.label>
+  <GR_CausedHorror.stages.0.label>recuperando</GR_CausedHorror.stages.0.label>
+  <GR_CausedPoisonCloud.description>Libera uma nuvem venenosa que causa dano a qualquer um que passar por ela, exceto répteis, e depois precisa ser recarregada para ser usada novamente.</GR_CausedPoisonCloud.description>
+  <GR_CausedPoisonCloud.label>liberou recentemente uma nuvem venenosa</GR_CausedPoisonCloud.label>
+  <GR_CausedPoisonCloud.stages.0.label>recuperando</GR_CausedPoisonCloud.stages.0.label>
+  <GR_ChemfuelHeart.description>Um coração biônico reforçado que funciona como um motor de combustão interna de 4 tempos em miniatura movido a combustível químico para bombear sangue pelo corpo.</GR_ChemfuelHeart.description>
+  <GR_ChemfuelHeart.label>implante humanoide: coração a combustível químico</GR_ChemfuelHeart.label>
+  <GR_ChemfuelStomach.description>Um estômago biônico reforçado que usa uma combinação de ácido gástrico e combustível químico para digerir alimentos com eficiência.</GR_ChemfuelStomach.description>
+  <GR_ChemfuelStomach.label>implante humanoide: estômago a combustível químico</GR_ChemfuelStomach.label>
+  <GR_ChickenBrains.description>Um implante que usa tecido cerebral de galinha para reparar vias neurológicas danificadas. Este implante é destinado a criaturas com morte cerebral.</GR_ChickenBrains.description>
+  <GR_ChickenBrains.label>implante animal: cérebros de galinha</GR_ChickenBrains.label>
+  <GR_ChickenKidney.description>Um implante que usa genes de galinha para melhorar a função renal. Aves têm rins grandes. Pois é, você aprendeu isso hoje.</GR_ChickenKidney.description>
+  <GR_ChickenKidney.label>implante animal: rim de galinha</GR_ChickenKidney.label>
+  <GR_ChitinousHeart.description>Um implante de coração biônico usando uma carapaça reforçada de quitina insetoide para proteção. É um coração feito para aguentar pancadas. Piada intencional, mas é a última, prometo.</GR_ChitinousHeart.description>
+  <GR_ChitinousHeart.label>implante animal: coração quitinoso</GR_ChitinousHeart.label>
+  <GR_CompoundEye.description>Este olho híbrido humanoide/insetoide proporciona visão aprimorada em uma ampla gama de comprimentos de onda diferentes, incluindo aqueles geralmente fora do alcance humano, modificando completamente a maneira como o sujeito percebe seu entorno.</GR_CompoundEye.description>
+  <GR_CompoundEye.label>implante humanoide: olho composto insetoide</GR_CompoundEye.label>
+  <GR_CrocodileSpine.description>Um implante biônico que adiciona uma coluna vertebral robusta de crocodilo ao sistema esquelético da criatura.</GR_CrocodileSpine.description>
+  <GR_CrocodileSpine.label>implante animal: coluna vertebral de crocodilo</GR_CrocodileSpine.label>
+  <GR_DevouringJaws.description>Um conjunto de dentes aprimorados projetados para mastigar e ingerir rapidamente qualquer tipo de alimento. Deixa um pouco de bagunça, porém...</GR_DevouringJaws.description>
+  <GR_DevouringJaws.label>implante humanoide: mandíbulas devoradoras</GR_DevouringJaws.label>
+  <GR_DiggingBearClaws.comps.0.tools.0.label>garras-toupeira</GR_DiggingBearClaws.comps.0.tools.0.label>
+  <GR_DiggingBearClaws.description>Lâminas manuais grotescas, mas poderosas, modificadas para uso em operações de mineração, aumentando a velocidade e o rendimento.</GR_DiggingBearClaws.description>
+  <GR_DiggingBearClaws.label>implante humanoide: garras-toupeira escavadoras</GR_DiggingBearClaws.label>
+  <GR_DistortionHediff.description>Esta parte do corpo foi terrivelmente distorcida por exposição a uma distorção espacial perigosa. A distorção é muito dolorosa e partes do corpo deformadas frequentemente se perdem.</GR_DistortionHediff.description>
+  <GR_DistortionHediff.label>distorção</GR_DistortionHediff.label>
+  <GR_ElectroEggAddiction.description>Vício químico em mecanitos ativos. A presença prolongada de mecanitos ativos causou adaptações neurológicas em nível celular, de modo que o cérebro não consegue mais funcionar corretamente sem eles.\n\nSem doses regulares de mecanitos ativos, os sintomas de abstinência começarão. No entanto, a abstinência prolongada fará com que o cérebro se adapte novamente ao seu estado normal, resolvendo o vício.</GR_ElectroEggAddiction.description>
+  <GR_ElectroEggAddiction.label>vício em mecanitos ativos</GR_ElectroEggAddiction.label>
+  <GR_ElectroEggAddiction.stages.1.label>abstinência</GR_ElectroEggAddiction.stages.1.label>
+  <GR_ElectroEggHigh.description>Mecanitos ativos na corrente sanguínea. Elevam o humor e aumentam a atenção.</GR_ElectroEggHigh.description>
+  <GR_ElectroEggHigh.label>sob efeito de mecanitos ativos</GR_ElectroEggHigh.label>
+  <GR_ElectroEggHigh.labelNoun>um efeito de mecanitos ativos</GR_ElectroEggHigh.labelNoun>
+  <GR_ElectroEggTolerance.description>Tolerância acumulada a mecanitos ativos. Quanto maior essa tolerância, mais mecanitos ativos são necessários para obter o mesmo efeito.</GR_ElectroEggTolerance.description>
+  <GR_ElectroEggTolerance.label>tolerância a mecanitos ativos</GR_ElectroEggTolerance.label>
+  <GR_ExtractedBrain.description>O cérebro ou centro neural desta criatura foi extraído e refinado em material genético.</GR_ExtractedBrain.description>
+  <GR_ExtractedBrain.label>cérebro extraído</GR_ExtractedBrain.label>
+  <GR_FeatherdustAddiction.description>Vício químico em poeira de penas. O uso prolongado de poeira de penas causou adaptações neurológicas em nível celular, de modo que o cérebro não consegue mais funcionar corretamente sem a droga.\n\nSem doses regulares de poeira de penas, os sintomas de abstinência começarão. No entanto, a abstinência prolongada fará com que o cérebro se adapte novamente ao seu estado normal, resolvendo o vício.</GR_FeatherdustAddiction.description>
+  <GR_FeatherdustAddiction.label>dependência de poeira de penas</GR_FeatherdustAddiction.label>
+  <GR_FeatherdustAddiction.stages.1.label>abstinência</GR_FeatherdustAddiction.stages.1.label>
+  <GR_FeatherdustHigh.description>Composto ativo da poeira de penas na corrente sanguínea. Gera uma sensação suave de bem-estar difuso.</GR_FeatherdustHigh.description>
+  <GR_FeatherdustHigh.label>pedrado por poeira de penas</GR_FeatherdustHigh.label>
+  <GR_FeatherdustTolerance.description>Tolerância acumulada à poeira de penas. Quanto maior essa tolerância, mais poeira de penas é necessário para obter o mesmo efeito.</GR_FeatherdustTolerance.description>
+  <GR_FeatherdustTolerance.label>tolerância à poeira de penas</GR_FeatherdustTolerance.label>
+  <GR_Frenzied.description>O cheiro do sangue de seus inimigos encheu este híbrido de frenesi.</GR_Frenzied.description>
+  <GR_Frenzied.label>frenético</GR_Frenzied.label>
+  <GR_GreaterScaria.description>Uma doença que faz com que criaturas afetadas entrem em fúrias berserk. Uma criatura com escária maior não pode ser curada e mata seu hospedeiro cerca de cinco dias após a infecção. Sua fúria ardente permitirá que sobrevivam sem comer ou descansar até sua morte inevitável.</GR_GreaterScaria.description>
+  <GR_GreaterScaria.label>escária maior</GR_GreaterScaria.label>
+  <GR_HairballDamage.description>Bolas de pelo geneticamente alteradas estão sufocando esta criatura. Isso afeta negativamente a respiração e pode até causar inconsciência.</GR_HairballDamage.description>
+  <GR_HairballDamage.label>dano por asfixia</GR_HairballDamage.label>
+  <GR_HairballDamage.stages.0.label>inicial-oculto</GR_HairballDamage.stages.0.label>
+  <GR_HairballDamage.stages.1.label>inicial</GR_HairballDamage.stages.1.label>
+  <GR_HairballDamage.stages.2.label>leve</GR_HairballDamage.stages.2.label>
+  <GR_HairballDamage.stages.3.label>moderado</GR_HairballDamage.stages.3.label>
+  <GR_HairballDamage.stages.4.label>grave</GR_HairballDamage.stages.4.label>
+  <GR_HairballDamage.stages.5.label>extremo</GR_HairballDamage.stages.5.label>
+  <GR_HairballDamage.stages.6.label>nauseante</GR_HairballDamage.stages.6.label>
+  <GR_HibernationModule.description>Um biochip que modifica o cérebro para reduzir a necessidade de sono.</GR_HibernationModule.description>
+  <GR_HibernationModule.label>implante humanoide: módulo de hibernação</GR_HibernationModule.label>
+  <GR_HighlyFlammable.description>Esta criatura morrerá rapidamente se for incendiada.</GR_HighlyFlammable.description>
+  <GR_HighlyFlammable.label>altamente inflamável</GR_HighlyFlammable.label>
+  <GR_HumanThrumboHorn.comps.0.tools.0.label>chifre de thrumbo</GR_HumanThrumboHorn.comps.0.tools.0.label>
+  <GR_HumanThrumboHorn.description>Um chifre de thrumbo geneticamente modificado que pode ser implantado na testa do sujeito. Horrível.</GR_HumanThrumboHorn.description>
+  <GR_HumanThrumboHorn.label>implante humanoide: chifre de thrumbo</GR_HumanThrumboHorn.label>
+  <GR_HungerByQuality.description>Este é um hediff oculto que modifica a fome do híbrido dependendo da qualidade.</GR_HungerByQuality.description>
+  <GR_HungerByQuality.label>qualidade</GR_HungerByQuality.label>
+  <GR_IguanaScales.description>Um substituto sintético de pele muito mais grosso e um isolante muito melhor que a pele humana. Isso oferece certa defesa, mas, mais importante, torna o sujeito mais resistente a altas temperaturas.</GR_IguanaScales.description>
+  <GR_IguanaScales.label>implante humanoide: escamas de iguana</GR_IguanaScales.label>
+  <GR_InsectClouds.description>Libera nuvens de insetos que causam dano a qualquer um que passar por elas, exceto insetoides, e depois precisa ser recarregada para ser usada novamente.</GR_InsectClouds.description>
+  <GR_InsectClouds.label>liberando nuvens de insetos</GR_InsectClouds.label>
+  <GR_InsectClouds.stages.1.label>recuperando</GR_InsectClouds.stages.1.label>
+  <GR_InsectMandibles.comps.0.tools.0.label>mandíbulas insetoides</GR_InsectMandibles.comps.0.tools.0.label>
+  <GR_InsectMandibles.description>Um implante biônico que adiciona mandíbulas insetoides à face da criatura. As mandíbulas insetoides melhoram a manipulação e a alimentação, além de funcionarem como arma ofensiva.</GR_InsectMandibles.description>
+  <GR_InsectMandibles.label>implante animal: mandíbulas insetoides</GR_InsectMandibles.label>
+  <GR_InsectileEye.description>Um implante biônico que dá à criatura olhos compostos insetoides. Comparados aos olhos simples, os olhos compostos possuem um ângulo de visão muito maior e podem detectar movimentos rápidos.</GR_InsectileEye.description>
+  <GR_InsectileEye.label>implante animal: olho insetóide</GR_InsectileEye.label>
+  <GR_InsectoidAntennae.description>Esses apêndices híbridos humanoides/insetóides podem ser implantados na cabeça de um sujeito, modificando completamente a forma como o sujeito "vê" e sente o mundo ao seu redor. A experiência pode ser um pouco avassaladora devido à sobrecarga sensorial.</GR_InsectoidAntennae.description>
+  <GR_InsectoidAntennae.label>implante humanoide: antenas insetóides</GR_InsectoidAntennae.label>
+  <GR_InsectoidPheromones.description>Um implante que usa fusão genética com genes insetóides para dar a capacidade de detectar feromônios, melhorando assim o sistema olfativo. Não pode ser instalado em aves e (ironicamente) em insetos.</GR_InsectoidPheromones.description>
+  <GR_InsectoidPheromones.label>implante animal: feromônios insetóides</GR_InsectoidPheromones.label>
+  <GR_Kamikaze.description>Explosão.</GR_Kamikaze.description>
+  <GR_Kamikaze.label>detonação repentina</GR_Kamikaze.label>
+  <GR_Kamikaze.stages.0.label>inicial-oculto</GR_Kamikaze.stages.0.label>
+  <GR_Kamikaze.stages.1.label>crítico</GR_Kamikaze.stages.1.label>
+  <GR_KeenSenses.description>Os sentidos aguçados aumentam bastante a visão e a consciência do híbrido por um tempo, e depois precisam ser recarregados para serem usados novamente.</GR_KeenSenses.description>
+  <GR_KeenSenses.label>sentidos aguçados</GR_KeenSenses.label>
+  <GR_KeenSenses.stages.1.label>exausto</GR_KeenSenses.stages.1.label>
+  <GR_KidneyToxicFilters.description>Esta é uma prótese bioeletrônica renal que melhora muito a eficiência dos rins do sujeito usando tecido insetóide, fornecendo resistência a substâncias tóxicas.</GR_KidneyToxicFilters.description>
+  <GR_KidneyToxicFilters.label>implante humanoide: filtros renais tóxicos</GR_KidneyToxicFilters.label>
+  <GR_LizardLeg.comps.0.tools.0.label>implante animal: perna de lagarto</GR_LizardLeg.comps.0.tools.0.label>
+  <GR_LizardLeg.description>Uma perna animal biônica reforçada com pele de lagarto resistente.</GR_LizardLeg.description>
+  <GR_LizardLeg.label>implante animal: perna de lagarto</GR_LizardLeg.label>
+  <GR_LowRest.description>Esta criatura precisa de muito pouco sono e pode ficar acordada por um longo tempo.</GR_LowRest.description>
+  <GR_LowRest.label>precisa de muito pouco sono</GR_LowRest.label>
+  <GR_MechaHeart.description>Um coração biônico fortalecido pela ação de mecanitos ativos.</GR_MechaHeart.description>
+  <GR_MechaHeart.label>implante animal: coração biônico reforçado</GR_MechaHeart.label>
+  <GR_MechaReceptors.description>Este receptor auditivo de elefante pode varrer uma faixa muito ampla de frequências.</GR_MechaReceptors.description>
+  <GR_MechaReceptors.label>implante animal: receptor auditivo de elefante</GR_MechaReceptors.label>
+  <GR_MechaSpine.description>Um implante biônico que adiciona uma estrutura de plastiaço com mecanitos ativos ao sistema esquelético da criatura.</GR_MechaSpine.description>
+  <GR_MechaSpine.label>implante animal: coluna biônica reforçada</GR_MechaSpine.label>
+  <GR_MechaTail.comps.0.tools.0.label>implante animal: cauda reforçada</GR_MechaTail.comps.0.tools.0.label>
+  <GR_MechaTail.description>Uma cauda animal avançada, ainda mais poderosa que uma natural.</GR_MechaTail.description>
+  <GR_MechaTail.label>implante animal: cauda reforçada</GR_MechaTail.label>
+  <GR_MeleeDodge.description>Este híbrido é muito ágil e recebe um bônus considerável à esquiva em corpo a corpo.</GR_MeleeDodge.description>
+  <GR_MeleeDodge.label>esquiva em corpo a corpo</GR_MeleeDodge.label>
+  <GR_MiniatureThrumboHorn.comps.0.tools.0.label>implante animal: chifre miniatura de thrumbo</GR_MiniatureThrumboHorn.comps.0.tools.0.label>
+  <GR_MiniatureThrumboHorn.description>Um implante biônico que adiciona um pequeno chifre de thrumbo onde costumava estar o nariz da criatura. Este implante funciona como nariz, permitindo que a criatura respire e fareje, e pode ser usado em combate corpo a corpo. Aves, insetos e criaturas que já possuem um chifre de thrumbo não têm espaço suficiente no crânio para instalar este implante.</GR_MiniatureThrumboHorn.description>
+  <GR_MiniatureThrumboHorn.label>implante animal: chifre miniatura de thrumbo</GR_MiniatureThrumboHorn.label>
+  <GR_MoleratNerveDampener.description>Um biochip que reduz a sensibilidade à dor, permitindo que o sujeito sobreviva a um choque de dor.</GR_MoleratNerveDampener.description>
+  <GR_MoleratNerveDampener.label>implante humanoide: amortecedor nervoso de rata-toupeira</GR_MoleratNerveDampener.label>
+  <GR_MonitorLizardBrain.description>Um implante biônico usando tecido cerebral de lagarto-monitor. Este réptil altamente inteligente tem reflexos muito rápidos.</GR_MonitorLizardBrain.description>
+  <GR_MonitorLizardBrain.label>implante animal: cérebro de lagarto-monitor</GR_MonitorLizardBrain.label>
+  <GR_MothTympanalOrgan.description>Um implante biônico que adiciona um órgão timpânico de mariposa à orelha da criatura. As mariposas podem ouvir sons em uma frequência mais alta do que qualquer morcego consegue produzir.</GR_MothTympanalOrgan.description>
+  <GR_MothTympanalOrgan.label>implante animal: órgão timpânico de mariposa</GR_MothTympanalOrgan.label>
+  <GR_MousePheromones.description>Um órgão vomeronasal biônico que permite ao sujeito se comunicar por feromônios com outros animais, aumentando as chances de domá-los e treiná-los com sucesso.</GR_MousePheromones.description>
+  <GR_MousePheromones.label>implante humanoide: feromônios de rato</GR_MousePheromones.label>
+  <GR_MuffaloLung.description>Um implante que usa genes de múfalo para aumentar a capacidade respiratória.</GR_MuffaloLung.description>
+  <GR_MuffaloLung.label>implante animal: pulmão de múfalo</GR_MuffaloLung.label>
+  <GR_MuffaloMammaries.description>Ao implantar mamas de múfalo em um colono... Espera, o quê??? Quem teve essa ideia????? De qualquer forma... este implante permite ordenhar o colono... Que...</GR_MuffaloMammaries.description>
+  <GR_MuffaloMammaries.label>implante humanoide: mamas de múfalo</GR_MuffaloMammaries.label>
+  <GR_MuffaloMuscles.description>Ao entrelaçar fibras musculares de múfalo com o sistema muscular do sujeito, a força, resistência e capacidade de carga aumentam consideravelmente.</GR_MuffaloMuscles.description>
+  <GR_MuffaloMuscles.label>implante humanoide: músculos fortalecidos de múfalo</GR_MuffaloMuscles.label>
+  <GR_MuffaloSkin.description>Um substituto sintético de pele muito mais grosso e muito melhor isolante que a pele humana. Isso fornece uma medida de defesa, mas, mais importante, torna o sujeito mais resistente a baixas temperaturas.</GR_MuffaloSkin.description>
+  <GR_MuffaloSkin.label>implante humanoide: pele de múfalo</GR_MuffaloSkin.label>
+  <GR_MuffaloSpine.description>Um implante de coluna que usa fusão genética com genes de múfalo para dar a uma coluna velha (ou danificada) um funcionamento decente. Este implante não foi feito para substituir colunas saudáveis.</GR_MuffaloSpine.description>
+  <GR_MuffaloSpine.label>implante animal: coluna de múfalo</GR_MuffaloSpine.label>
+  <GR_MuscleNecrosis.description>Uma infecção viral que faz com que o organismo animal ataque a si mesmo e rejeite tecido com funcionamento normal, causando necrose generalizada em todo o corpo animal. Uma criatura com necrose muscular pode ser tratada para retardar a doença, mas não pode ser curada.\n\nQualquer animal híbrido ou exemplar puro desenvolverá essa doença 3 anos após eclodir ou nascer naturalmente, embora isso seja afetado pela qualidade do híbrido.</GR_MuscleNecrosis.description>
+  <GR_MuscleNecrosis.label>necrose muscular</GR_MuscleNecrosis.label>
+  <GR_MuscleNecrosis.stages.0.label>inicial</GR_MuscleNecrosis.stages.0.label>
+  <GR_MuscleNecrosis.stages.1.label>necrótica</GR_MuscleNecrosis.stages.1.label>
+  <GR_MuscleNecrosis.stages.2.label>horrivelmente necrótica</GR_MuscleNecrosis.stages.2.label>
+  <GR_NeuronReinforcement.description>Um biochip que usa células-tronco animais para reforçar as habilidades naturais dos neurônios humanos, aumentando a velocidade de aprendizado e de pesquisa.</GR_NeuronReinforcement.description>
+  <GR_NeuronReinforcement.label>implante humanoide: reforço neuronal</GR_NeuronReinforcement.label>
+  <GR_NoPain.description>Este híbrido tem sensibilidade reduzida à dor e demora mais para cair devido à dor.</GR_NoPain.description>
+  <GR_NoPain.label>sem sensibilidade à dor</GR_NoPain.label>
+  <GR_Ovipositor.description>Você sabe que foi longe demais em seus experimentos científicos quando está implantando um ser humano com um ovipositor. Isso permitirá que o colono ponha ovos de galinha duas vezes por dia. Dói pra caramba, aliás. Eca.</GR_Ovipositor.description>
+  <GR_Ovipositor.label>implante humanoide: ovipositor</GR_Ovipositor.label>
+  <GR_PackTactics.description>Este híbrido está colaborando com outros múfalo-lobos próximos para derrubar presas.</GR_PackTactics.description>
+  <GR_PackTactics.label>táticas de matilha</GR_PackTactics.label>
+  <GR_PackTacticsBuff.description>Este híbrido está colaborando com outros múfalo-lobos próximos para derrubar presas.</GR_PackTacticsBuff.description>
+  <GR_PackTacticsBuff.label>táticas de matilha</GR_PackTacticsBuff.label>
+  <GR_PermanentBurn.description>Uma cicatriz permanente de queimadura que não pode ser tratada.</GR_PermanentBurn.description>
+  <GR_PermanentBurn.label>queimadura permanente</GR_PermanentBurn.label>
+  <GR_PermanentBurn.labelNoun>uma queimadura permanente</GR_PermanentBurn.labelNoun>
+  <GR_PoisonAmpouleDrank.description>Veneno na corrente sanguínea. Causa paralisia, reduz a taxa de sangramento e desaparece após 6 horas.</GR_PoisonAmpouleDrank.description>
+  <GR_PoisonAmpouleDrank.label>ampola de veneno</GR_PoisonAmpouleDrank.label>
+  <GR_Psionic.description>psiónico</GR_Psionic.description>
+  <GR_Psionic.label>psiónico</GR_Psionic.label>
+  <GR_PsychicDampeners.description>Aparelhos auditivos artificiais que bloqueiam emanações psíquicas, fornecendo considerável resistência aos ataques psíquicos dos mecanoides.</GR_PsychicDampeners.description>
+  <GR_PsychicDampeners.label>implante humanoide: amortecedores psíquicos</GR_PsychicDampeners.label>
+  <GR_RabidSlash.description>Esta criatura foi vítima de um corte raivoso.</GR_RabidSlash.description>
+  <GR_RabidSlash.label>vítima de corte raivoso</GR_RabidSlash.label>
+  <GR_RecentlyHatched.description>Esta criatura eclodiu recentemente de uma incubadora.</GR_RecentlyHatched.description>
+  <GR_RecentlyHatched.label>recém-eclodida</GR_RecentlyHatched.label>
+  <GR_ResearchDrive.description>Oferece insights investigativos aos pesquisadores próximos, permitindo que alcancem avanços com mais facilidade.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; "Meu colega cientista, já considerou rejeitar a humanidade e retornar aos macacos? É algo para se pensar".</GR_ResearchDrive.description>
+  <GR_ResearchDrive.label>impulso à pesquisa</GR_ResearchDrive.label>
+  <GR_ResearchDriveBuff.description>Recebendo insights investigativos.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; "Meu colega cientista, já considerou rejeitar a humanidade e retornar aos macacos? É algo para se pensar".</GR_ResearchDriveBuff.description>
+  <GR_ResearchDriveBuff.label>impulso à pesquisa</GR_ResearchDriveBuff.label>
+  <GR_RodentEar.description>Um implante auricular que usa fusão genética com genes de roedores para dar a uma orelha velha (ou danificada) uma audição decente. Este implante não foi feito para substituir orelhas saudáveis.</GR_RodentEar.description>
+  <GR_RodentEar.label>implante animal: orelha de roedor</GR_RodentEar.label>
+  <GR_RodentNose.description>Um implante que usa splicing genético com genes de roedores para dar a um nariz velho (ou danificado) um olfato decente. Este implante não foi feito para substituir narizes saudáveis. Não pode ser instalado em aves e insetos.</GR_RodentNose.description>
+  <GR_RodentNose.label>implante animal: nariz de roedor</GR_RodentNose.label>
+  <GR_SadisticAdrenaline.description>O homem-lagarto massacrou um prisioneiro da colônia a sangue-frio, desencadeando a liberação de um complexo hormonal potente que o torna mais rápido e mais forte. Isso durará algumas horas.</GR_SadisticAdrenaline.description>
+  <GR_SadisticAdrenaline.label>adrenalina sádica</GR_SadisticAdrenaline.label>
+  <GR_SargSyndrome.description>Uma infecção bacteriana rara no cérebro do animal, que faz com que ele só consiga consumir carne humana. Consumir qualquer outra coisa não satisfará sua fome e o fará vomitar constantemente. Isso é uma sentença de morte para herbívoros e uma morte lenta para carnívoros. Uma criatura com Síndrome de Sarg não pode ser tratada ou curada.\n\nQualquer animal híbrido ou exemplar puro desenvolverá essa doença 3 anos após eclodir ou nascer naturalmente, embora isso seja afetado pela qualidade do híbrido.</GR_SargSyndrome.description>
+  <GR_SargSyndrome.label>síndrome de Sarg</GR_SargSyndrome.label>
+  <GR_ScytherTail.comps.0.tools.0.label>implante animal: cauda de ceifador</GR_ScytherTail.comps.0.tools.0.label>
+  <GR_ScytherTail.description>Uma cauda de ceifador criada ao fixar uma lâmina de ceifador na cauda de um animal.</GR_ScytherTail.description>
+  <GR_ScytherTail.label>implante animal: cauda de ceifador</GR_ScytherTail.label>
+  <GR_Stamina.description>O aumento de vigor aumenta consideravelmente a armadura e a resistência à dor do híbrido por um tempo. Depois, precisa ser recarregado para ser usado novamente.</GR_Stamina.description>
+  <GR_Stamina.label>vigor aumentado</GR_Stamina.label>
+  <GR_Stamina.stages.1.label>exausto</GR_Stamina.stages.1.label>
+  <GR_Stampeding.description>A habilidade de estampida aumenta a velocidade do híbrido e solta nuvens de poeira que bloqueiam a visão à distância. Após o uso, essa habilidade precisa ser recarregada para ser usada novamente.</GR_Stampeding.description>
+  <GR_Stampeding.label>estampida</GR_Stampeding.label>
+  <GR_Stampeding.stages.1.label>em recuperação</GR_Stampeding.stages.1.label>
+  <GR_ThrumboBrain.description>Um implante cerebral biônico feito com tecido neural de thrumbo. Proporciona inteligência e reflexos excepcionais.</GR_ThrumboBrain.description>
+  <GR_ThrumboBrain.label>implante animal: cérebro biônico de thrumbo</GR_ThrumboBrain.label>
+  <GR_ThrumboEye.description>Um olho biônico reforçado com fotorreceptores especializados de um thrumbo poderoso.</GR_ThrumboEye.description>
+  <GR_ThrumboEye.label>implante animal: olho biônico de thrumbo</GR_ThrumboEye.label>
+  <GR_ThrumboJaws.comps.0.tools.0.label>implante animal: mandíbulas biônicas de thrumbo</GR_ThrumboJaws.comps.0.tools.0.label>
+  <GR_ThrumboJaws.description>Um implante biônico que adiciona mandíbulas de thrumbo à boca da criatura. Essas criaturas devoram árvores, então é fácil imaginar que suas mandíbulas dão conta do recado.</GR_ThrumboJaws.description>
+  <GR_ThrumboJaws.label>implante animal: mandíbulas biônicas de thrumbo</GR_ThrumboJaws.label>
+  <GR_ThrumboLeg.comps.0.tools.0.label>implante animal: perna de elefante</GR_ThrumboLeg.comps.0.tools.0.label>
+  <GR_ThrumboLeg.description>Uma perna animal biônica reforçada com tecido muscular de um elefante poderoso.</GR_ThrumboLeg.description>
+  <GR_ThrumboLeg.label>implante animal: perna de elefante</GR_ThrumboLeg.label>
+  <GR_ThrumboSkin.description>Um substituto sintético para a pele, muito mais grosso e com muito melhor isolamento térmico que a pele humana. Proporciona bastante defesa e torna o indivíduo mais resistente a temperaturas extremas.</GR_ThrumboSkin.description>
+  <GR_ThrumboSkin.label>implante humanoide: pele de thrumbo</GR_ThrumboSkin.label>
+  <GR_ToxicDamage.description>Toxinas na corrente sanguínea. Podem vir de diversas fontes, como toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com dano tóxico podem ser consumidas.</GR_ToxicDamage.description>
+  <GR_ToxicDamage.label>dano tóxico</GR_ToxicDamage.label>
+  <GR_ToxicDamage.stages.0.label>inicial-oculto</GR_ToxicDamage.stages.0.label>
+  <GR_ToxicDamage.stages.1.label>inicial</GR_ToxicDamage.stages.1.label>
+  <GR_ToxicDamage.stages.2.label>leve</GR_ToxicDamage.stages.2.label>
+  <GR_ToxicDamage.stages.3.label>moderado</GR_ToxicDamage.stages.3.label>
+  <GR_ToxicDamage.stages.4.label>grave</GR_ToxicDamage.stages.4.label>
+  <GR_ToxicDamage.stages.5.label>extremo</GR_ToxicDamage.stages.5.label>
+  <GR_VenomousFangs.comps.0.tools.0.label>presas venenosas</GR_VenomousFangs.comps.0.tools.0.label>
+  <GR_VenomousFangs.description>Este implante híbrido substitui a mandíbula do indivíduo por um par de presas venenosas. Útil em combate, mas não muito confortável.</GR_VenomousFangs.description>
+  <GR_VenomousFangs.label>implante humanoide: presas venenosas</GR_VenomousFangs.label>
+  <GR_VentedExhaust.description>Libera gases de exaustão nos 8 quadrados adjacentes, queimando quem estiver em combate corpo a corpo. Após o uso, precisa ser recarregado para ser usado novamente.</GR_VentedExhaust.description>
+  <GR_VentedExhaust.label>gases de exaustão recentes</GR_VentedExhaust.label>
+  <GR_VentedExhaust.stages.0.label>em recuperação</GR_VentedExhaust.stages.0.label>
+  <GR_VeryLowRest.description>Esta criatura precisa dormir muito pouco e pode ficar acordada por longos períodos.</GR_VeryLowRest.description>
+  <GR_VeryLowRest.label>precisa de muito pouco sono</GR_VeryLowRest.label>
+  <GR_WolfJaws.description>Um implante que usa splicing genético com genes de lobo para devolver um funcionamento decente a uma mandíbula velha (ou danificada). Este implante não foi feito para substituir mandíbulas saudáveis.</GR_WolfJaws.description>
+  <GR_WolfJaws.label>implante animal: presas de lobo</GR_WolfJaws.label>
+  <GR_WolfMuscularFibers.description>As pernas do indivíduo podem ser modificadas com fibras musculares híbridas humano/lobo entrelaçadas ao tecido base, conferindo um aumento significativo de força e velocidade.</GR_WolfMuscularFibers.description>
+  <GR_WolfMuscularFibers.label>implante humanoide: fibras musculares lupinas</GR_WolfMuscularFibers.label>
+  <RB_BlindingBuildup.description>Veneno cegante na corrente sanguínea. Este veneno não é letal, mas durará algum tempo antes de deixar de afetar a visão.</RB_BlindingBuildup.description>
+  <RB_BlindingBuildup.label>veneno cegante</RB_BlindingBuildup.label>
+  <RB_BlindingBuildup.stages.0.label>inicial-oculto</RB_BlindingBuildup.stages.0.label>
+  <RB_BlindingBuildup.stages.1.label>inicial</RB_BlindingBuildup.stages.1.label>
+  <RB_BlindingBuildup.stages.2.label>leve</RB_BlindingBuildup.stages.2.label>
+  <RB_BlindingBuildup.stages.3.label>moderado</RB_BlindingBuildup.stages.3.label>
+  <RB_BlindingBuildup.stages.4.label>grave</RB_BlindingBuildup.stages.4.label>
+  <RB_BlindingBuildup.stages.5.label>extremo</RB_BlindingBuildup.stages.5.label>
+  <RB_BlindingBuildup.stages.6.label>nauseante</RB_BlindingBuildup.stages.6.label>
+  <RB_ChemfuelBuildup.description>Combustível químico na corrente sanguínea.\n\nEm altas doses, é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com combustível químico injetado podem ser consumidas.</RB_ChemfuelBuildup.description>
+  <RB_ChemfuelBuildup.label>combustível químico injetado</RB_ChemfuelBuildup.label>
+  <RB_ChemfuelBuildup.stages.0.label>inicial</RB_ChemfuelBuildup.stages.0.label>
+  <RB_ChemfuelBuildup.stages.1.label>inicial</RB_ChemfuelBuildup.stages.1.label>
+  <RB_ChemfuelBuildup.stages.2.label>leve</RB_ChemfuelBuildup.stages.2.label>
+  <RB_ChemfuelBuildup.stages.3.label>moderado</RB_ChemfuelBuildup.stages.3.label>
+  <RB_ChemfuelBuildup.stages.4.label>grave</RB_ChemfuelBuildup.stages.4.label>
+  <RB_ChemfuelBuildup.stages.5.label>extremo</RB_ChemfuelBuildup.stages.5.label>
+  <RB_ParalysisBuildup.description>Uma toxina de ação rápida corre pelas veias desta criatura, paralisando seus músculos. Os efeitos passarão com o tempo.</RB_ParalysisBuildup.description>
+  <RB_ParalysisBuildup.label>paralisia</RB_ParalysisBuildup.label>
+  <RB_ParalysisBuildup.stages.0.label>inicial</RB_ParalysisBuildup.stages.0.label>
+  <RB_ParalysisBuildup.stages.1.label>atordoado</RB_ParalysisBuildup.stages.1.label>
+  <RB_ParalysisBuildup.stages.2.label>muito atordoado</RB_ParalysisBuildup.stages.2.label>
+  <RB_ParalysisBuildup.stages.3.label>paralisado</RB_ParalysisBuildup.stages.3.label>
+  <RB_Stamina.description>O mel genético está fortalecendo o vigor desta criatura.</RB_Stamina.description>
+  <RB_Stamina.label>vigor aumentado (pelo mel)</RB_Stamina.label>
+  <RB_ToxicBuildup.description>Toxinas na corrente sanguínea. Podem vir de diversas fontes, como toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com esse dano tóxico podem ser consumidas.</RB_ToxicBuildup.description>
+  <RB_ToxicBuildup.label>sangue envenenado</RB_ToxicBuildup.label>
+  <RB_ToxicBuildup.stages.0.label>inicial</RB_ToxicBuildup.stages.0.label>
+  <RB_ToxicBuildup.stages.1.label>inicial</RB_ToxicBuildup.stages.1.label>
+  <RB_ToxicBuildup.stages.2.label>leve</RB_ToxicBuildup.stages.2.label>
+  <RB_ToxicBuildup.stages.3.label>moderado</RB_ToxicBuildup.stages.3.label>
+  <RB_ToxicBuildup.stages.4.label>grave</RB_ToxicBuildup.stages.4.label>
+  <RB_ToxicBuildup.stages.5.label>extremo</RB_ToxicBuildup.stages.5.label>
+</LanguageData>

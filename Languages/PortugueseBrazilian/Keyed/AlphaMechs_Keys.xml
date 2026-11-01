@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AM_CantUseOnBossMechs>Mecanoides "Chefes" possuem um sistema IFF reforçado que não pode ser invadido</AM_CantUseOnBossMechs>
+  <AM_CantUseOnNonDowned>Não é possível usar em pessoas não incapacitadas</AM_CantUseOnNonDowned>
+  <AM_CantUseOnNonMechs>Esta habilidade só funciona em mecanoides</AM_CantUseOnNonMechs>
+  <AM_CantUseVEMechs>Este mecanoide está sendo controlado remotamente por um piloto humano e não pode ser invadido</AM_CantUseVEMechs>
+  <AM_EjectHemogen>Ejetar pacotes de hemogênio</AM_EjectHemogen>
+  <AM_EjectHemogenDesc>Ejeta todos os pacotes de hemogênio armazenados nos tanques de armazenamento do mecanoide</AM_EjectHemogenDesc>
+  <AM_HemogenStored>Pacotes de hemogênio armazenados: {0}</AM_HemogenStored>
+  <AM_MealNutrientPaste>Produção de pasta nutritiva</AM_MealNutrientPaste>
+  <AM_MustNotBePlacedCloseToAnother>Nós de banda, nós de banda do Transmissor e nós de banda de Elo Vazio não devem ser colocados próximos uns aos outros</AM_MustNotBePlacedCloseToAnother>
+  <AM_NotEnoughBandwidth>O mecanizador não tem banda suficiente para usar esta habilidade em {0}</AM_NotEnoughBandwidth>
+  <AM_OnlyMechanitorCanUse>Apenas um mecanizador pode usar esta habilidade</AM_OnlyMechanitorCanUse>
+  <AM_RandomItems>Montagem de recursos em</AM_RandomItems>
+  <AM_Reset>Redefinir</AM_Reset>
+  <AM_Tier2BandAmount>Quantidade de banda para nós de banda do Transmissor</AM_Tier2BandAmount>
+  <AM_Tier2BandAmountDesc>Cada nó de banda do Transmissor aumentará a banda do colono nesta quantidade. Só se aplica se o DLC Biotech estiver ativo. A energia elétrica dos nós precisará ser ligada para que as alterações entrem em vigor.</AM_Tier2BandAmountDesc>
+  <AM_Tier3BandAmount>Quantidade de banda para nós de banda de Elo Vazio</AM_Tier3BandAmount>
+  <AM_Tier3BandAmountDesc>Cada nó de banda de Elo Vazio aumentará a banda do colono nesta quantidade. Só se aplica se o DLC Biotech estiver ativo. A energia elétrica dos nós precisará ser ligada para que as alterações entrem em vigor.</AM_Tier3BandAmountDesc>
+  <AM_allowAura>Permitir Aura</AM_allowAura>
+  <AM_allowDaggersnout>Permitir Focinho-de-Adaga</AM_allowDaggersnout>
+  <AM_allowDemolisher>Permitir Demolidor</AM_allowDemolisher>
+  <AM_allowFireworm>Permitir Verme-de-Fogo</AM_allowFireworm>
+  <AM_allowGoliath>Permitir Golias</AM_allowGoliath>
+  <AM_allowPhalanx>Permitir Falange</AM_allowPhalanx>
+  <AM_allowSiegebreaker>Permitir Quebra-Cercos</AM_allowSiegebreaker>
+</LanguageData>

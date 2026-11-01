@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <IP_InsertFirstIngredient.label>trazendo ingrediente</IP_InsertFirstIngredient.label>
   <IP_InsertFirstIngredient.verb>traz ingrediente para</IP_InsertFirstIngredient.verb>
@@ -12,4 +12,7 @@
   <IP_RemoveProduct.label>removendo produto pronto</IP_RemoveProduct.label>
   <IP_RemoveProduct.verb>remove produto pronto de</IP_RemoveProduct.verb>
   <IP_RemoveProduct.gerund>removendo produto pronto de</IP_RemoveProduct.gerund>
+  <VEF_FightCustomFire.gerund>extinguindo</VEF_FightCustomFire.gerund>
+  <VEF_FightCustomFire.label>combater incêndios</VEF_FightCustomFire.label>
+  <VEF_FightCustomFire.verb>extinguir</VEF_FightCustomFire.verb>
 </LanguageData>

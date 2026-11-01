@@ -88,4 +88,14 @@
   <WVC_WM_ShutdownGroup>desligar</WVC_WM_ShutdownGroup>
   <WVC_Label_enable_GoToShutdownRoomJob>Ativar cômodos de hangar de mecanoides (Beta)</WVC_Label_enable_GoToShutdownRoomJob>
   <WVC_ToolTip_enable_GoToShutdownRoomJob>Se ativo, todos os carregadores de mecanoides criam um novo tipo de cômodo "Hangar de mecanoides". Os mecanoides dormem lá se não houver alternativas na forma de zonas.\n\nRecomendado ao jogar com gravinaves (DLC Odyssey), já que as zonas são redefinidas quando a nave voa.\n\n(Beta) Um farol especial está planejado para permitir ajuste fino semelhante ao das zonas.\n\nÉ preciso reiniciar!</WVC_ToolTip_enable_GoToShutdownRoomJob>
+  <WVC_Label_enableMechsWorkTab>Ativar aba de trabalho dos mechas</WVC_Label_enableMechsWorkTab>
+  <WVC_Label_enableOpportunisticChargers>Carregadores oportunistas</WVC_Label_enableOpportunisticChargers>
+  <WVC_Label_hideMechsWorkTab>Ocultar aba de trabalho dos mechas</WVC_Label_hideMechsWorkTab>
+  <WVC_ToolTip_enableMechsWorkTab>Se ativado, adiciona uma aba extra que permite alterar a prioridade de trabalho dos mecanoides.\n\nReinicialização necessária!</WVC_ToolTip_enableMechsWorkTab>
+  <WVC_ToolTip_enableOpportunisticChargers>Se ativado, mechas a caminho do carregamento inteligente rastrearão outros mechas cuja energia estiver abaixo do limite do grupo e, caso haja algum, interromperão o carregamento inteligente, indo imediatamente para o local de desligamento e cedendo o carregador.</WVC_ToolTip_enableOpportunisticChargers>
+  <WVC_ToolTip_hideMechsWorkTab>Se ativado, a aba de prioridades será movida para os gizmos dos mecanoides.</WVC_ToolTip_hideMechsWorkTab>
+  <WVC_WorkModes_AllowShutdownDesc>Permite desativar ou ativar o desligamento para um mecha específico.</WVC_WorkModes_AllowShutdownDesc>
+  <WVC_WorkModes_AllowShutdownLabel>Permitir desligamento</WVC_WorkModes_AllowShutdownLabel>
+  <WVC_WorkModes_EnemyCheckDelay>Atraso na verificação de inimigos {0} ticks</WVC_WorkModes_EnemyCheckDelay>
+  <WVC_WorkModes_EnemyCheckDelayDesc>Permite definir o intervalo entre verificações da presença de inimigos no mapa. Usado em modos seguros. 60 ticks = 1 segundo.\n\nValores maiores melhoram o desempenho, mas prejudicam a agilidade dos mecanoides.</WVC_WorkModes_EnemyCheckDelayDesc>
 </LanguageData>

@@ -38,4 +38,314 @@
   <DMS_Req_WeaponFilter>Limitado às armas listadas abaixo</DMS_Req_WeaponFilter>
   <DMS_Req_NoWeaponFilter>Sem outras restrições de armas</DMS_Req_NoWeaponFilter>
   <DMS_AirSupportFromClosestBase>{1} de {0} está a caminho.</DMS_AirSupportFromClosestBase>
+  <DMS.LoadRationDesc>Ordene este mecanoide a buscar um {RATION} e carregá-lo em seu biorreator. Capacidade: {MAX}.</DMS.LoadRationDesc>
+  <DMS.LoadRationFull>O biorreator está cheio.</DMS.LoadRationFull>
+  <DMS.LoadRationLabel>Carregar {0}</DMS.LoadRationLabel>
+  <DMS.LoadRationNoneAvailable>Nenhum {0} acessível.</DMS.LoadRationNoneAvailable>
+  <DMS.RationMagazineContents>{RATION}: {COUNT} / {MAX}</DMS.RationMagazineContents>
+  <DMS.RationRecoveryDone>{PAWN} consumiu uma ração. Células recarregadas, {COUNT} ferimentos selados.</DMS.RationRecoveryDone>
+  <DMS.RationRecoveryNoMagazine>Este mecanoide não possui biorreator.</DMS.RationRecoveryNoMagazine>
+  <DMS.RationRecoveryNoRations>Nenhum {0} carregado.</DMS.RationRecoveryNoRations>
+  <DMS.SecondaryGestationProgress>Desenvolvimento: {0}</DMS.SecondaryGestationProgress>
+  <DMS.SecondaryGestationRemaining>Tempo até a conclusão: {0}</DMS.SecondaryGestationRemaining>
+  <DMS_AccessKeyTransform_Locked>Trancado: {0} leituras de cartão-acesso restantes</DMS_AccessKeyTransform_Locked>
+  <DMS_AccessKeyTransform_NoConsole>Trancado: nenhum console de acesso vinculado</DMS_AccessKeyTransform_NoConsole>
+  <DMS_AccessKeyTransform_Unlocked>{THING_labelShort} foi desbloqueado(a).</DMS_AccessKeyTransform_Unlocked>
+  <DMS_Airport_ClearedLabel>Campo de aviação seguro</DMS_Airport_ClearedLabel>
+  <DMS_Airport_ClearedText>Todos os hostis no aeródromo remanescente foram neutralizados.\n\nO rádio isca na torre está intacto. Use-o para chamar o tecelão de enxames até o aeródromo, mas traga tudo o que tiver e espere que os remanescentes continuem enviando reforços enquanto você aguarda.</DMS_Airport_ClearedText>
+  <DMS_Airport_EntryCountdownLabel>Aeródromo hostil: reforços a caminho</DMS_Airport_EntryCountdownLabel>
+  <DMS_Airport_EntryCountdownText>Você adentrou um aeródromo remanescente hostil. O protocolo de monitoramento da torre sinalizou sua presença.\n\nReforços inimigos chegarão em {0}. Limpe o campo antes disso se pretende chamar o tecelão aqui.</DMS_Airport_EntryCountdownText>
+  <DMS_Airport_ExpiredLabel>Campo de aviação ficou às escuras</DMS_Airport_ExpiredLabel>
+  <DMS_Airport_ExpiredText>A telemetria do campo de aviação remanescente foi cortada. O campo ficou às escuras e sua posição foi perdida.</DMS_Airport_ExpiredText>
+  <DMS_ArchiveCasket_AlreadyOpenText>{CASKET} foi aberto há muito tempo. {PAWN} ainda consegue extrair um pouco da codificação residual.</DMS_ArchiveCasket_AlreadyOpenText>
+  <DMS_ArchiveCasket_Contents>Contém: {0} ({1} arquivo)</DMS_ArchiveCasket_Contents>
+  <DMS_ArchiveCasket_DecodedLabel>Arquivo decodificado: {0}</DMS_ArchiveCasket_DecodedLabel>
+  <DMS_ArchiveCasket_DecodedText>A base está pronta: {PROJECT} é nosso.</DMS_ArchiveCasket_DecodedText>
+  <DMS_ArchiveCasket_EmptyText>{CASKET} não contém nada. {PAWN} ainda consegue extrair um pouco da codificação residual.</DMS_ArchiveCasket_EmptyText>
+  <DMS_ArchiveCasket_LabelFormat>{0} ({1})</DMS_ArchiveCasket_LabelFormat>
+  <DMS_ArchiveCasket_PendingLabel>Arquivo retido: {0}</DMS_ArchiveCasket_PendingLabel>
+  <DMS_ArchiveCasket_PendingText>{PAWN} abre {CASKET}: o arquivo dentro é {PROJECT}, e é necessário {PREREQS} primeiro. Os pesquisadores o arquivam até lá.</DMS_ArchiveCasket_PendingText>
+  <DMS_ArchiveCasket_UnsealedLabel>Caixão aberto: {0}</DMS_ArchiveCasket_UnsealedLabel>
+  <DMS_ArchiveCasket_UnsealedText>{PAWN} abre {CASKET}. Dentro há um arquivo inteiro, {PROJECT}, sem nada mais a decodificar. A tecnologia é nossa.</DMS_ArchiveCasket_UnsealedText>
+  <DMS_ArsenalPatrol_Challenge>Um sepulcrário parou para desafiar {0}. Os sepulcrários só atiram se forem atacados, se um intruso entrar em um bunker, se um selo de bunker for quebrado ou se o alerta da instalação estiver elevado.</DMS_ArsenalPatrol_Challenge>
+  <DMS_ArsenalPatrol_Search>Um selo de bunker foi quebrado. Os sepulcrários estão vasculhando o complexo.</DMS_ArsenalPatrol_Search>
+  <DMS_Arsenal_ClearedLabel>Arsenal assegurado</DMS_Arsenal_ClearedLabel>
+  <DMS_Arsenal_ClearedText>Os sepulcrários que patrulhavam o antigo arsenal foram derrotados e as defesas do local silenciaram.\n\nOs selos do bunker ainda resistem. Use o radar isca na plataforma central para atrair um tarbossauro até aqui e destruí-lo, depois hackeie o console de segurança de cada bunker para abrir sua porta blindada e ver o que restou.</DMS_Arsenal_ClearedText>
+  <DMS_Arsenal_EntryCountdownLabel>Antigo arsenal: reforços a caminho</DMS_Arsenal_EntryCountdownLabel>
+  <DMS_Arsenal_EntryCountdownText>Você adentrou o antigo arsenal. Sua rede de segurança autônoma detectou sua presença.\n\nReforços inimigos chegarão em {0}. Lide com os sepulcrários, atraia e destrua o tarbossauro e entre nos bunkers antes disso.</DMS_Arsenal_EntryCountdownText>
+  <DMS_Arsenal_ExpiredLabel>Trilha do arsenal esfriou</DMS_Arsenal_ExpiredLabel>
+  <DMS_Arsenal_ExpiredText>Os registros de reconhecimento do antigo arsenal tornaram-se obsoletos. A localização do local foi perdida.</DMS_Arsenal_ExpiredText>
+  <DMS_BattleGroupCall_Triggered>{0} está solicitando reforços. Uma força de resposta rápida está a caminho.</DMS_BattleGroupCall_Triggered>
+  <DMS_BionicShock_Cured>O(a) {0} de {PAWN_labelShort} foi curado(a).</DMS_BionicShock_Cured>
+  <DMS_BionicShock_LevelDown>A condição de {PAWN_labelShort} melhorou: {0}.</DMS_BionicShock_LevelDown>
+  <DMS_BionicShock_LevelUp>A condição de {PAWN_labelShort} piorou: {0}.</DMS_BionicShock_LevelUp>
+  <DMS_BionicShock_StatDesc>Cada dose altera o nível de {0} em {1}. No nível 0, a condição é removida.</DMS_BionicShock_StatDesc>
+  <DMS_BionicShock_StatLabel>Nível de {0}</DMS_BionicShock_StatLabel>
+  <DMS_BlastScanner_Cooldown>Recalibrando: {0}</DMS_BlastScanner_Cooldown>
+  <DMS_BlastScanner_FoundLabel>Depósitos profundos mapeados</DMS_BlastScanner_FoundLabel>
+  <DMS_BlastScanner_FoundText>A onda de choque de {0} mapeou novos depósitos profundos:\n\n{1}\n\nUma broca profunda pode extraí-los.</DMS_BlastScanner_FoundText>
+  <DMS_BlastScanner_FuseBurning>Pavio queimando: {0}</DMS_BlastScanner_FuseBurning>
+  <DMS_BlastScanner_FuseLit>O pavio já está aceso.</DMS_BlastScanner_FuseLit>
+  <DMS_BlastScanner_Ignite>Acender pavio</DMS_BlastScanner_Ignite>
+  <DMS_BlastScanner_IgniteDesc>Acenda o pavio. A explosão mapeia vários depósitos profundos, mas é muito provável que acorde insetos subterrâneos.</DMS_BlastScanner_IgniteDesc>
+  <DMS_BlastScanner_InsectsLabel>Insetos despertados</DMS_BlastScanner_InsectsLabel>
+  <DMS_BlastScanner_InsectsText>A onda de choque de {0} despertou uma colônia de insetos adormecida no subsolo. Eles estão cavando em direção à superfície.</DMS_BlastScanner_InsectsText>
+  <DMS_BlastScanner_NoCharge>Carregue primeiro um projétil de alto explosivo.</DMS_BlastScanner_NoCharge>
+  <DMS_BlastScanner_NothingFound>{0} detonou, mas os ecos não revelaram nada novo.</DMS_BlastScanner_NothingFound>
+  <DMS_BossKillRelay_InspectBossKinds>Guardião: {0}</DMS_BossKillRelay_InspectBossKinds>
+  <DMS_BossKillRelay_InspectLocked>Selado: {0} travas vinculadas abrem quando a unidade guardiã morrer</DMS_BossKillRelay_InspectLocked>
+  <DMS_BossKillRelay_InspectNoLink>Sem travas vinculadas</DMS_BossKillRelay_InspectNoLink>
+  <DMS_BossKillRelay_InspectReleased>Liberado</DMS_BossKillRelay_InspectReleased>
+  <DMS_BossKillRelay_Released>{RELAY_labelShort} liberou suas travas.</DMS_BossKillRelay_Released>
+  <DMS_BossKillRelay_ReleasedBy>Os sinais vitais de {BOSS_labelShort} cessaram. {RELAY_labelShort} liberou suas travas.</DMS_BossKillRelay_ReleasedBy>
+  <DMS_CombatRegen_PartRegrown>{0} de {PAWN_labelShort} voltou a crescer.</DMS_CombatRegen_PartRegrown>
+  <DMS_CombatRegen_Rejection>{PAWN_labelShort} está rejeitando o soro regenerativo: {0}.</DMS_CombatRegen_Rejection>
+  <DMS_Course_CQB>curso de combate em espaços confinados</DMS_Course_CQB>
+  <DMS_Course_Command>curso de comando e liderança</DMS_Course_Command>
+  <DMS_Course_Infantry>curso de táticas de infantaria</DMS_Course_Infantry>
+  <DMS_Course_Staff>curso de funções administrativas</DMS_Course_Staff>
+  <DMS_CourtMartial_BoardDeadline>Prazo para embarque: {0}</DMS_CourtMartial_BoardDeadline>
+  <DMS_CourtMartial_BoardDeadlineTip>O réu deve embarcar na nave orbital até {0}. Se partir vazia, o acordo do tribunal entra em colapso e as hostilidades serão retomadas.</DMS_CourtMartial_BoardDeadlineTip>
+  <DMS_CourtMartial_DetentionInfo>Sentença termina em: {0}</DMS_CourtMartial_DetentionInfo>
+  <DMS_CourtMartial_HuntdownEnded>{DEFENDANT_nameDef} respondeu ao tribunal. A frota cancelou sua caçada a {DEFENDANT_objective}.</DMS_CourtMartial_HuntdownEnded>
+  <DMS_CourtMartial_TrialInfo>Julgamento termina em: {0}</DMS_CourtMartial_TrialInfo>
+  <DMS_CrewLifter_CannotLandHere>O elevador não pode pousar aqui.</DMS_CrewLifter_CannotLandHere>
+  <DMS_CrewLifter_ChooseLanding>Escolha um local de pouso para o elevador.</DMS_CrewLifter_ChooseLanding>
+  <DMS_CrewLifter_LandHere>Pousar aqui</DMS_CrewLifter_LandHere>
+  <DMS_CrewLifter_NoReturnFuel>combustível insuficiente para retornar</DMS_CrewLifter_NoReturnFuel>
+  <DMS_CrewLifter_ResidualFuel>Combustível remanescente: {0} {1} (recuperado ao desconstruir)</DMS_CrewLifter_ResidualFuel>
+  <DMS_CrewLifter_RoundTripCost>Ida e volta: {0}</DMS_CrewLifter_RoundTripCost>
+  <DMS_CrewLifter_StageFull>Plataforma acoplada: próximo lançamento decolará com todo o elevador.</DMS_CrewLifter_StageFull>
+  <DMS_CrewLifter_StagePodOnly>Pousado: próximo lançamento enviará apenas a cápsula da tripulação e deixará a plataforma para trás.</DMS_CrewLifter_StagePodOnly>
+  <DMS_DecoySite_AlreadyActive>já há uma operação de estação-relé em andamento</DMS_DecoySite_AlreadyActive>
+  <DMS_DecoySite_CannotFindSite>Não foi possível localizar uma estação-relé: nenhum local válido foi encontrado no mapa-múndi.</DMS_DecoySite_CannotFindSite>
+  <DMS_DecoySite_ClearedLabel>Estação-relé assegurada</DMS_DecoySite_ClearedLabel>
+  <DMS_DecoySite_ClearedText>Todos os hostis na estação-relé remanescente foram neutralizados. O equipamento do local, incluindo a antena isca, é seu, mas espere que os remanescentes continuem sondando a área.</DMS_DecoySite_ClearedText>
+  <DMS_DecoySite_EntryCountdownLabel>Local hostil: reforços a caminho</DMS_DecoySite_EntryCountdownLabel>
+  <DMS_DecoySite_EntryCountdownText>Você adentrou uma instalação remanescente hostil. Seu protocolo de monitoramento detectou sua presença.\n\nReforços inimigos chegarão em {0}. Termine o que veio fazer e saia, ou entrincheire-se.</DMS_DecoySite_EntryCountdownText>
+  <DMS_DecoySite_ExpiredLabel>Estação-relé perdida</DMS_DecoySite_ExpiredLabel>
+  <DMS_DecoySite_ExpiredText>A janela de transmissão da estação-relé remanescente se fechou. A estação mudou de posição e sua localização foi perdida.</DMS_DecoySite_ExpiredText>
+  <DMS_DeviantExtradition_DeadlineInfo>Resposta à extradição até: {0}</DMS_DeviantExtradition_DeadlineInfo>
+  <DMS_DeviantExtradition_DeadlineInfoTip>Se não dermos resposta a tempo, a frota considerará nossa recusa.</DMS_DeviantExtradition_DeadlineInfoTip>
+  <DMS_DeviantExtradition_DoneLabel>Extraditado(a): {DEVIANT_nameDef}</DMS_DeviantExtradition_DoneLabel>
+  <DMS_DeviantExtradition_DoneText>Um transporte orbital da frota levou {DEVIANT_nameFull} embora, junto com o arquivo criptografado. {FLEET} reconheceu nossa cooperação.\n\nNinguém sabe o que aguarda {DEVIANT_objective} agora.</DMS_DeviantExtradition_DoneText>
+  <DMS_DeviantExtradition_Extradite>Entregar {DEVIANT_nameDef}</DMS_DeviantExtradition_Extradite>
+  <DMS_DeviantExtradition_HonorLabel>Quem receberá {HONOR}?</DMS_DeviantExtradition_HonorLabel>
+  <DMS_DeviantExtradition_HonorText>{FLEET} nos credita pela extradição e oferece {AMOUNT} {HONOR}. Quem deve recebê-lo?</DMS_DeviantExtradition_HonorText>
+  <DMS_DeviantExtradition_LetterLabel>Exigência de extradição: {DEVIANT_nameDef}</DMS_DeviantExtradition_LetterLabel>
+  <DMS_DeviantExtradition_LetterText>{DEVIANT_nameFull} terminou de restaurar o arquivo, mas, no mesmo instante, {FLEET} soube que estamos abrigando {DEVIANT_nameDef}. O comando da polícia militar nos enviou uma exigência formal de extradição.\n\nEntregue {DEVIANT_objective}:\n{REWARDS}\nA frota confiscará o arquivo criptografado.\n\nRecusar: {DEVIANT_nameDef} nos entregará os arquivos restaurados e {FLEET} se tornará hostil, enviando caçadores atrás de {DEVIANT_objective} até que {DEVIANT_pronoun} morra ou seja banido(a) da colônia.\n\nSe não dermos resposta em {DAYS}, a frota considerará nossa recusa.</DMS_DeviantExtradition_LetterText>
+  <DMS_DeviantExtradition_Refuse>Recusar extradição</DMS_DeviantExtradition_Refuse>
+  <DMS_DeviantExtradition_RewardGoodwill>- +{AMOUNT} de boa vontade com {FLEET}</DMS_DeviantExtradition_RewardGoodwill>
+  <DMS_DeviantExtradition_RewardHonor>- {AMOUNT} {HONOR} para um colono à nossa escolha, em direção a uma patente da frota</DMS_DeviantExtradition_RewardHonor>
+  <DMS_DeviantExtradition_RewardMood>- Nossos colonos ficarão chateados por entregarem um dos seus</DMS_DeviantExtradition_RewardMood>
+  <DMS_DeviantExtradition_SilenceMessage>Nunca respondemos à exigência de extradição de {FLEET}. A frota considerou nossa recusa.</DMS_DeviantExtradition_SilenceMessage>
+  <DMS_DeviantHunt_EndedDiedLabel>Caçada encerrada</DMS_DeviantHunt_EndedDiedLabel>
+  <DMS_DeviantHunt_EndedDiedText>{DEVIANT_nameFull} está morto. {FLEET} o removeu de sua lista e não enviará mais caçadores.\n\nA hostilidade com a frota não termina com isso.</DMS_DeviantHunt_EndedDiedText>
+  <DMS_DeviantHunt_EndedLeftLabel>Caçada encerrada</DMS_DeviantHunt_EndedLeftLabel>
+  <DMS_DeviantHunt_EndedLeftText>{DEVIANT_nameFull} não está mais na colônia. {FLEET} transferiu sua caçada para outro local e parará de enviar caçadores contra nós.\n\nA hostilidade com a frota não termina com isso.</DMS_DeviantHunt_EndedLeftText>
+  <DMS_DeviantHunt_GoodwillBlocked>A colônia ainda abriga um desertor caçado por {FLEET}. As relações com a frota não podem melhorar.</DMS_DeviantHunt_GoodwillBlocked>
+  <DMS_DeviantRefuge_AlreadyHeldLine>- {PROJECT} (já conhecido pela colônia)</DMS_DeviantRefuge_AlreadyHeldLine>
+  <DMS_DeviantRefuge_ArrivedLabel>Desviante chegou</DMS_DeviantRefuge_ArrivedLabel>
+  <DMS_DeviantRefuge_ArrivedText>{DEVIANT_nameFull} chegou e se juntou à colônia.\n\n{DEVIANT_pronoun} começou a restaurar o arquivo criptografado, o que deve levar {DAYS} dias. Até lá, {FLEET} não sabe que {DEVIANT_nameDef} está aqui.</DMS_DeviantRefuge_ArrivedText>
+  <DMS_DeviantRefuge_DeferredInfo>Hostilidade entra em vigor assim que o tribunal militar terminar</DMS_DeviantRefuge_DeferredInfo>
+  <DMS_DeviantRefuge_FailedDiedLabel>Desertor morreu</DMS_DeviantRefuge_FailedDiedLabel>
+  <DMS_DeviantRefuge_FailedDiedText>{DEVIANT_nameFull} morreu antes da restauração ser concluída, e o arquivo criptografado perdeu a única chave que poderia lê-lo.\n\nA frota nunca soube que {DEVIANT_pronoun} esteve aqui.</DMS_DeviantRefuge_FailedDiedText>
+  <DMS_DeviantRefuge_FailedKidnappedLabel>Desertor foi sequestrado</DMS_DeviantRefuge_FailedKidnappedLabel>
+  <DMS_DeviantRefuge_FailedKidnappedText>{DEVIANT_nameFull} foi levado antes da restauração ser concluída, e o arquivo criptografado sumiu junto com {DEVIANT_objective}.</DMS_DeviantRefuge_FailedKidnappedText>
+  <DMS_DeviantRefuge_FailedLeftLabel>Desertor foi embora</DMS_DeviantRefuge_FailedLeftLabel>
+  <DMS_DeviantRefuge_FailedLeftText>{DEVIANT_nameFull} deixou a colônia antes da restauração ser concluída, levando o arquivo criptografado consigo.</DMS_DeviantRefuge_FailedLeftText>
+  <DMS_DeviantRefuge_FailedNoArrivalLabel>Desertor nunca chegou</DMS_DeviantRefuge_FailedNoArrivalLabel>
+  <DMS_DeviantRefuge_FailedNoArrivalText>{DEVIANT_nameFull} nunca chegou à colônia, e não tivemos mais notícias de {DEVIANT_objective} desde então.</DMS_DeviantRefuge_FailedNoArrivalText>
+  <DMS_DeviantRefuge_GrantedLine>- {PROJECT}</DMS_DeviantRefuge_GrantedLine>
+  <DMS_DeviantRefuge_HandoverInfo>Restauração do arquivo: {0}</DMS_DeviantRefuge_HandoverInfo>
+  <DMS_DeviantRefuge_HandoverInfoTip>O arquivo criptografado será restaurado em {0}, e a frota colonial exigirá então a extradição do desviante.</DMS_DeviantRefuge_HandoverInfoTip>
+  <DMS_DeviantRefuge_HandoverLabel>Arquivos lacrados restaurados</DMS_DeviantRefuge_HandoverLabel>
+  <DMS_DeviantRefuge_HandoverText>{DEVIANT_nameFull} manteve a palavra e entregou os arquivos criptografados restaurados:\n\n{GRANTED}\n\nNo mesmo instante, {FLEET} passou a nos considerar abrigo de um desertor e tornou-se hostil.\n\nA frota não vai deixar isso passar. Enquanto {DEVIANT_nameDef} ficar na colônia, grupos de caça continuarão vindo.</DMS_DeviantRefuge_HandoverText>
+  <DMS_DeviantRefuge_HandoverTextDeferred>{DEVIANT_nameFull} manteve a palavra e entregou os arquivos criptografados restaurados:\n\n{GRANTED}\n\n{FLEET} descobriu que estamos abrigando {DEVIANT_nameDef}, mas um conselho de guerra ainda está em sessão e a frota mantém suas armas durante a trégua. No momento em que o julgamento terminar, as relações ficarão hostis e os grupos de caça virão.</DMS_DeviantRefuge_HandoverTextDeferred>
+  <DMS_DeviantRefuge_HostilityLabel>Frota se torna hostil</DMS_DeviantRefuge_HostilityLabel>
+  <DMS_DeviantRefuge_HostilityText>O tribunal militar acabou e a trégua também. {FLEET} se tornou hostil, alegando que estamos abrigando um desertor.\n\nA frota não vai deixar isso passar. Enquanto {DEVIANT_nameDef} permanecer na colônia, grupos de caça continuarão vindo.</DMS_DeviantRefuge_HostilityText>
+  <DMS_DeviantRefuge_NothingGranted>(nada nos arquivos era novo para a colônia)</DMS_DeviantRefuge_NothingGranted>
+  <DMS_DeviantRefuge_PendingDecodedLabel>Arquivo decodificado: {PROJECT}</DMS_DeviantRefuge_PendingDecodedLabel>
+  <DMS_DeviantRefuge_PendingDecodedText>Com a pesquisa pré-requisita concluída, nossos pesquisadores finalmente podem ler o arquivo {PROJECT} que o desertor deixou para trás.</DMS_DeviantRefuge_PendingDecodedText>
+  <DMS_DeviantRefuge_PendingLine>- {PROJECT} (dados recebidos; decodificado automaticamente assim que {PREREQS} for pesquisado)</DMS_DeviantRefuge_PendingLine>
+  <DMS_DocQuest_ArrivedLabel>Documentos chegaram</DMS_DocQuest_ArrivedLabel>
+  <DMS_DocQuest_ArrivedText1>Os documentos de {0} chegaram em cápsulas de lançamento perto dos seus faróis comerciais ou do centro da colônia. A frota espera que todos eles sejam devolvidos intactos.</DMS_DocQuest_ArrivedText1>
+  <DMS_DocQuest_ArrivedText2>Caixas lacradas com documentos pousaram perto dos seus faróis comerciais. O manifesto anexado está assinado por {0}: 'Processados, carimbados e devolvidos na íntegra.'</DMS_DocQuest_ArrivedText2>
+  <DMS_DocQuest_ArrivedText3>A papelada atrasada da frota chegou. {0} solicita que o processamento comece o mais breve possível: a divisão burocrática já está atrás do cronograma.</DMS_DocQuest_ArrivedText3>
+  <DMS_DocQuest_CompleteLabel>Documentos processados</DMS_DocQuest_CompleteLabel>
+  <DMS_DocQuest_CompleteText1>Todos os documentos foram processados e contabilizados. Conforme prometido, o pagamento foi enviado.</DMS_DocQuest_CompleteText1>
+  <DMS_DocQuest_CompleteText2>O último arquivo foi verificado e embalado para devolução. {0} confirma que o contrato foi cumprido; o pagamento está a caminho.</DMS_DocQuest_CompleteText2>
+  <DMS_DocQuest_CompleteText3>Toda a papelada da frota foi processada dentro do prazo. {0} observa que contratos futuros poderão nos ser oferecidos em primeira mão.</DMS_DocQuest_CompleteText3>
+  <DMS_DocQuest_DestroyedLabel>Documentos destruídos</DMS_DocQuest_DestroyedLabel>
+  <DMS_DocQuest_DestroyedText1>Os documentos sob contrato com a frota foram destruídos. Conforme estipulado, o contrato foi encerrado. A missão falhou.</DMS_DocQuest_DestroyedText1>
+  <DMS_DocQuest_DestroyedText2>Parte da papelada da frota está irrecuperável. Não há mais como devolvê-la na íntegra e o contrato foi encerrado. A missão falhou.</DMS_DocQuest_DestroyedText2>
+  <DMS_DocQuest_DestroyedText3>Os documentos da frota foram destruídos sob nossos cuidados. {0} foi notificado. A missão falhou.</DMS_DocQuest_DestroyedText3>
+  <DMS_DormantTurretWokenUp>{WAKER_labelShort} despertou uma torreta dormente.</DMS_DormantTurretWokenUp>
+  <DMS_DormantTurretWokenUpPlural>{WAKER_labelShort} despertou as torretas dormentes.</DMS_DormantTurretWokenUpPlural>
+  <DMS_ElevatorUnlocked>Desbloqueado.</DMS_ElevatorUnlocked>
+  <DMS_GasVent_Arming>Pressurizando</DMS_GasVent_Arming>
+  <DMS_GasVent_Charges>Cargas de gás: {0} / {1}</DMS_GasVent_Charges>
+  <DMS_GasVent_Releasing>Liberando gás</DMS_GasVent_Releasing>
+  <DMS_GasVent_Warning>{VENT_definite} está chiando: gás tóxico a caminho!</DMS_GasVent_Warning>
+  <DMS_Gravekeeper_Challenge>Um guarda-túmulos parou para desafiar {0}. Os guarda-túmulos só atiram se forem atacados, se um intruso entrar no tesouro ou na sala de comando, se o tesouro for aberto ou se o alerta das instalações estiver em nível alto.</DMS_Gravekeeper_Challenge>
+  <DMS_Gravekeeper_Engage>Os guarda-túmulos abriram fogo.</DMS_Gravekeeper_Engage>
+  <DMS_Gravekeeper_TombOpened>O selo do tesouro foi quebrado. Passos pesados estão varrendo os corredores.</DMS_Gravekeeper_TombOpened>
+  <DMS_Hegemony_AidNoGarrison>{0} não possui guarnição ao alcance. Apenas uma força reduzida pode ser enviada: {1}.</DMS_Hegemony_AidNoGarrison>
+  <DMS_Hegemony_AidStrength>Ajuda enviada de {0}, a {1} quadrados de distância. Força enviada: {2}.</DMS_Hegemony_AidStrength>
+  <DMS_Hegemony_HostilityLocked>{0} e {1} estão ligados por uma guerra ou traição da Hegemonia. Uma trégua de corte marcial não pode ser mantida até que isso termine.</DMS_Hegemony_HostilityLocked>
+  <DMS_Hegemony_SupplyIssued>A carga chegou a {0} e foi entregue diretamente à sua guarnição.</DMS_Hegemony_SupplyIssued>
+  <DMS_Hegemony_SupplyStored>A carga chegou a {0}. Suprimentos no valor de {1} foram adicionados aos seus estoques.</DMS_Hegemony_SupplyStored>
+  <DMS_HoleEmerge_Triggered>Um esquadrão de força {0} está saindo de {1}!</DMS_HoleEmerge_Triggered>
+  <DMS_HuntBreaker_Extended>{NODE_definite} foi destruído, adiando ainda mais a recuperação da rede de rastreamento: a caçada deverá retomar em cerca de {DURATION}.</DMS_HuntBreaker_Extended>
+  <DMS_HuntBreaker_InspectActive>Destruir este nó suspenderá a caçada da frota da colônia por um tempo</DMS_HuntBreaker_InspectActive>
+  <DMS_HuntBreaker_InspectSuspended>Caçada suspensa; deve retomar em {0}</DMS_HuntBreaker_InspectSuspended>
+  <DMS_HuntBreaker_NoHunt>{NODE_definite} foi destruído. A rede de rastreamento que ele alimentava ficou silenciosa, mas a frota da colônia não nos está caçando no momento.</DMS_HuntBreaker_NoHunt>
+  <DMS_HuntBreaker_ResumedLabel>Rede de rastreamento restaurada</DMS_HuntBreaker_ResumedLabel>
+  <DMS_HuntBreaker_ResumedText>Outro computador na rede SAGE foi promovido para assumir o controle e a rede de rastreamento de {FLEET} voltou a ficar online.\n\nEles sabem onde estamos novamente. A caçada está prestes a retomar.</DMS_HuntBreaker_ResumedText>
+  <DMS_HuntBreaker_SuspendedDeviantLine>A caçada que provocamos ao abrigar o desertor também foi suspensa e será retomada ao mesmo tempo.</DMS_HuntBreaker_SuspendedDeviantLine>
+  <DMS_HuntBreaker_SuspendedLabel>Caçada suspensa</DMS_HuntBreaker_SuspendedLabel>
+  <DMS_HuntBreaker_SuspendedText>{NODE_definite} foi destruído.\n\nSem ele, a rede de rastreamento por radar e navegação de {FLEET} neste planeta ficou com uma enorme brecha. Eles perderam nosso rastro e a caçada foi suspensa.\n\nIsso não durará. Outro computador na rede SAGE assumirá o trabalho deste nó mais cedo ou mais tarde; a caçada deverá recomeçar em cerca de {DURATION}.\n\nObservação: nossa hostilidade permanente com a frota não foi removida.</DMS_HuntBreaker_SuspendedText>
+  <DMS_HuntBreaker_SuspendedTextDeviant>{NODE_definite} foi destruído.\n\nSem ele, a rede de rastreamento por radar e navegação de {FLEET} neste planeta ficou com uma enorme brecha. Eles perderam o rastro do desertor e a caçada foi suspensa.\n\nIsso não durará. Outro computador na rede SAGE assumirá o trabalho deste nó mais cedo ou mais tarde; a caçada deverá recomeçar em cerca de {DURATION}.\n\nObservação: enquanto abrirmos abrigo ao desertor, nossa hostilidade com a frota não será removida.</DMS_HuntBreaker_SuspendedTextDeviant>
+  <DMS_HydraulicFracturing_Bedrock>Fraturando leito rochoso</DMS_HydraulicFracturing_Bedrock>
+  <DMS_HydraulicFracturing_Exhausted>{RIG_definite} esgotou seus depósitos profundos e agora está fraturando o leito rochoso.</DMS_HydraulicFracturing_Exhausted>
+  <DMS_HydraulicFracturing_ExhaustedNoFallback>{RIG_definite} esgotou seus depósitos profundos e parou: não há leito rochoso aqui.</DMS_HydraulicFracturing_ExhaustedNoFallback>
+  <DMS_HydraulicFracturing_NoRoom>Sem espaço para saída.</DMS_HydraulicFracturing_NoRoom>
+  <DMS_LaunchSite_ClearedLabel>Base de lançamento limpa</DMS_LaunchSite_ClearedLabel>
+  <DMS_LaunchSite_ClearedText>A patrulha remanescente no local de lançamento abandonado foi neutralizada.\n\nOs destroços são seus para recuperar. Espere que os remanescentes enviem outra patrulha eventualmente.</DMS_LaunchSite_ClearedText>
+  <DMS_LaunchSite_EntryCountdownLabel>Local hostil: reforços a caminho</DMS_LaunchSite_EntryCountdownLabel>
+  <DMS_LaunchSite_EntryCountdownText>Você adentrou uma zona de patrulha remanescente. O protocolo de monitoramento da patrulha sinalizou sua presença.\n\nReforços inimigos chegarão em {0}. Salve o que puder e saia, ou prepare-se para resistir.</DMS_LaunchSite_EntryCountdownText>
+  <DMS_LaunchSite_ExpiredLabel>Base de lançamento perdida</DMS_LaunchSite_ExpiredLabel>
+  <DMS_LaunchSite_ExpiredText>A patrulha remanescente seguiu em frente do local de lançamento abandonado e a fixação do scanner foi perdida junto a ela.</DMS_LaunchSite_ExpiredText>
+  <DMS_LauncherCase_Empty>Vazio</DMS_LauncherCase_Empty>
+  <DMS_LauncherCase_TakeWeapon>Pegar e equipar {0}</DMS_LauncherCase_TakeWeapon>
+  <DMS_MortarStrike_Triggered>{0} está solicitando um ataque de artilharia. Morteiros chegando!</DMS_MortarStrike_Triggered>
+  <DMS_Occultech_AllyBlockedMessage>{0} não fará aliança conosco enquanto mantivermos tecnologia lacrada.</DMS_Occultech_AllyBlockedMessage>
+  <DMS_Occultech_ExemptLabel>Ordem de liberação temporária: {0}</DMS_Occultech_ExemptLabel>
+  <DMS_Occultech_ExemptText>Nossos pesquisadores decodificaram {0}.\n\n{1} possui o posto de {2} na lista de serviço de {3} e apresentou uma ordem de liberação temporária contra a classificação, com base na necessidade emergencial. O arquivo foi registrado como uma exceção autorizada em tempo de guerra, e não como uma decodificação não autorizada.\n\nNenhuma sanção será aplicada. A ordem só permanece válida enquanto um oficial desse posto permanecer conosco.</DMS_Occultech_ExemptText>
+  <DMS_Occultech_OccultedLabel>Arquivo oculto aberto: {0}</DMS_Occultech_OccultedLabel>
+  <DMS_Occultech_OccultedNoAllies>Nenhuma outra facção</DMS_Occultech_OccultedNoAllies>
+  <DMS_Occultech_OccultedText>Abrimos {0}, um arquivo de classificação oculta. Saber que uma tecnologia desta classe existe já é o próprio perigo: cada selo rompido é mais uma chance de centenas de milhões de pessoas serem sacrificadas em nome da ambição privada de alguém.\n\n{1} declarou uma ordem de extermínio permanente contra esta colônia. Não há ordem de liberação, posto ou argumento que a suspenda. Seus elementos de caça continuarão vindo.\n\nA notícia se espalhou por suas linhas. {2} também romperam laços conosco; esses laços, ao menos, podem ser consertados com o tempo.\n\nResta apenas um caminho. Submeta nosso oficial de mais alta patente a um tribunal militar da frota e permita que cumpra uma pena completa de um ano, e a ordem de extermínio será encerrada. Em condição neutra, nunca melhor.</DMS_Occultech_OccultedText>
+  <DMS_Occultech_PardonLabel>Ordem de extermínio revogada</DMS_Occultech_PardonLabel>
+  <DMS_Occultech_PardonText>A sentença foi cumprida integralmente. {0} revogou sua ordem de extermínio permanente contra esta colônia e nos restaurou à condição neutra.\n\nO arquivo que abrimos ainda está aberto. Eles simplesmente pararam de enviar pessoas para fechá-lo.</DMS_Occultech_PardonText>
+  <DMS_Occultech_RenounceAccept>Entregar os arquivos.</DMS_Occultech_RenounceAccept>
+  <DMS_Occultech_RenounceBlockedDeviant>Ainda estamos abrindo nossos portões para um desertor caçado pela frota. Eles não aceitarão nenhuma declaração nossa.</DMS_Occultech_RenounceBlockedDeviant>
+  <DMS_Occultech_RenounceBlockedPermanent>Eles não estão atendendo nossas chamadas sobre isso. Apenas um tribunal militar encerra uma ordem de extermínio.</DMS_Occultech_RenounceBlockedPermanent>
+  <DMS_Occultech_RenounceConfirm>Você abre um canal para o escritório de registros de {0} e se oferece para entregar tudo o que mantemos sob sigilo.\n\nA seguinte pesquisa será zerada e tudo o que ela desbloqueia será bloqueado novamente:\n\n{1}\n\nIsso não pode ser desfeito: o trabalho teria que ser refeito do zero. Em troca, {0} considerará uma aliança conosco novamente.</DMS_Occultech_RenounceConfirm>
+  <DMS_Occultech_RenounceOption>Renunciar à tecnologia lacrada</DMS_Occultech_RenounceOption>
+  <DMS_Occultech_RenouncedLabel>Tecnologias lacradas entregues</DMS_Occultech_RenouncedLabel>
+  <DMS_Occultech_RenouncedMessage>{0} projeto(s) de pesquisa lacrado(s) renunciado(s).</DMS_Occultech_RenouncedMessage>
+  <DMS_Occultech_RenouncedText>Transmitimos uma renúncia formal a {0} e purgamos nossas cópias dos seguintes arquivos:\n\n{1}\n\nTudo o que foi desbloqueado foi bloqueado novamente, e a pesquisa terá que recomeçar do zero caso mudemos de ideia. Com os arquivos removidos, {0} está disposto a considerar uma aliança novamente.</DMS_Occultech_RenouncedText>
+  <DMS_Occultech_RestrictedLabel>Arquivo restrito aberto: {0}</DMS_Occultech_RestrictedLabel>
+  <DMS_Occultech_RestrictedText>Decodificamos {0}, um arquivo de classificação restrita. A tecnologia desta classificação é retida por razões ambientais e éticas, ou devido às mudanças permanentes que causa nas pessoas que a utilizam, e não por ser perigosa a terceiros.\n\n{1} registrou a decodificação em nosso nome. Boa vontade {3} → {4} ({2}).\n\nCaso tivéssemos um colono com posto {5} ou superior conosco, ele poderia assinar uma ordem de liberação temporária e o caso terminaria ali.</DMS_Occultech_RestrictedText>
+  <DMS_Occultech_SealedLabel>Selo rompido: {0}</DMS_Occultech_SealedLabel>
+  <DMS_Occultech_SealedRaidLine>{0} elementos de resposta já estão a caminho.</DMS_Occultech_SealedRaidLine>
+  <DMS_Occultech_SealedText>Abrimos {0}, um arquivo de classificação lacrada. A tecnologia desta classificação é retida porque sua disseminação desencadeia corridas armamentistas em sistemas estelares inteiros. Nas frotas, seu conteúdo é conhecimento comum: os soldados são treinados para reconhecer sua assinatura e denunciá-la. Fora delas, possuí-lo já é motivo suficiente.\n\n{1} reconheceu a assinatura e nos declarou hostis.\n\nEnquanto mantivermos qualquer tecnologia lacrada, eles não irão além de uma trégua: nossa relação não poderá voltar a uma aliança até que renunciemos formalmente ao arquivo pelo console de comunicações. Um colono com posto {2} ou superior poderia carregá-lo sem que nada disso ocorresse.</DMS_Occultech_SealedText>
+  <DMS_OfficerTraining_BoardDeadline>Prazo para embarque: {0}</DMS_OfficerTraining_BoardDeadline>
+  <DMS_OfficerTraining_BoardDeadlineTip>O aluno deve embarcar na nave orbital até {0}. Se partir vazia, a alocação do curso será cancelada.</DMS_OfficerTraining_BoardDeadlineTip>
+  <DMS_OfficerTraining_CourseInfo>Curso termina em: {0}</DMS_OfficerTraining_CourseInfo>
+  <DMS_OfficerTraining_NoTitle>sem patente</DMS_OfficerTraining_NoTitle>
+  <DMS_OperationBase_ClearedLabel>Base avançada segura</DMS_OperationBase_ClearedLabel>
+  <DMS_OperationBase_ClearedText>Todos os hostis na base avançada remanescente foram neutralizados.\n\nO depósito de suprimentos é seu. Hackeie ambos os consoles de segurança para abrir as portas blindadas, depois hackeie o próprio elevador de carga para chegar ao depósito abaixo, mas os remanescentes continuarão sondando o perímetro.</DMS_OperationBase_ClearedText>
+  <DMS_OperationBase_EntryCountdownLabel>Base hostil: reforços a caminho</DMS_OperationBase_EntryCountdownLabel>
+  <DMS_OperationBase_EntryCountdownText>Você adentrou uma instalação remanescente hostil. Seu protocolo de monitoramento sinalizou sua presença.\n\nReforços inimigos chegarão em {0}. Termine o que precisa e saia, ou prepare-se para resistir.</DMS_OperationBase_EntryCountdownText>
+  <DMS_OperationBase_ExpiredLabel>Base avançada atacada</DMS_OperationBase_ExpiredLabel>
+  <DMS_OperationBase_ExpiredText>A base avançada remanescente levantou acampamento e seguiu em frente. Sua posição foi perdida.</DMS_OperationBase_ExpiredText>
+  <DMS_PirateAssembly_EntryCountdownLabel>Reforços a caminho</DMS_PirateAssembly_EntryCountdownLabel>
+  <DMS_PirateAssembly_EntryCountdownText>A tripulação acionou o alarme. Reforços inimigos chegarão em {0}.</DMS_PirateAssembly_EntryCountdownText>
+  <DMS_ProcessedDocInBeacon>Documento da frota processado</DMS_ProcessedDocInBeacon>
+  <DMS_RaidGroup_Confirm>Convocar {0}?\n\n{1}\n\nIsso também revelará a instalação associada e consumirá o farol.</DMS_RaidGroup_Confirm>
+  <DMS_RaidGroup_CounterTerrorism>Contra-terrorismo</DMS_RaidGroup_CounterTerrorism>
+  <DMS_RaidGroup_Infantry>Esquadrão de infantaria</DMS_RaidGroup_Infantry>
+  <DMS_RaidGroup_Peacekeeping>Policiamento</DMS_RaidGroup_Peacekeeping>
+  <DMS_RaidGroup_ResearchRequired>Requer: {0}</DMS_RaidGroup_ResearchRequired>
+  <DMS_RaidGroup_Select>Grupo: {0}</DMS_RaidGroup_Select>
+  <DMS_RaidGroup_SelectDesc>Escolha o destacamento a ser convocado e sua instalação-chefe associada.</DMS_RaidGroup_SelectDesc>
+  <DMS_RealityAnchor_Field>Em campo: {0} (suprimido: {1})</DMS_RealityAnchor_Field>
+  <DMS_RealityAnchor_PsycastBlocked>Bloqueado pelo campo de uma âncora da realidade.</DMS_RealityAnchor_PsycastBlocked>
+  <DMS_RepairStation_ClearedLabel>Depósito de reparos seguro</DMS_RepairStation_ClearedLabel>
+  <DMS_RepairStation_ClearedText>Todos os hostis no depósito de reparos remanescente foram neutralizados.\n\nHackeie o console de segurança do depósito para liberar a baia de manutenção. As unidades nos berços nunca foram reautenticadas: um mecanizador pode hackear uma e tomá-la para si. O guindaste na plataforma e os suprimentos também são seus.</DMS_RepairStation_ClearedText>
+  <DMS_RepairStation_EntryCountdownLabel>Depósito hostil: reforços a caminho</DMS_RepairStation_EntryCountdownLabel>
+  <DMS_RepairStation_EntryCountdownText>Você adentrou uma instalação remanescente hostil. Seu protocolo de monitoramento sinalizou sua presença.\n\nReforços inimigos chegarão em {0}. Termine o que precisa e saia, ou prepare-se para resistir.</DMS_RepairStation_EntryCountdownText>
+  <DMS_RepairStation_ExpiredLabel>Depósito de reparos perdido</DMS_RepairStation_ExpiredLabel>
+  <DMS_RepairStation_ExpiredText>A solicitação de manutenção foi encerrada. O depósito de reparos remanescente foi realocado e sua posição foi perdida.</DMS_RepairStation_ExpiredText>
+  <DMS_SageNode_ClearedLabel>Nó SAGE limpo</DMS_SageNode_ClearedLabel>
+  <DMS_SageNode_ClearedText>As máquinas que guardavam o nó SAGE foram eliminadas. O núcleo SAGE ainda está em funcionamento: invada-o para extrair o que puder de seu banco de dados estratégico, e depois destrua-o para sempre.</DMS_SageNode_ClearedText>
+  <DMS_SageNode_EntryCountdownLabel>Nó SAGE: reforços a caminho</DMS_SageNode_EntryCountdownLabel>
+  <DMS_SageNode_EntryCountdownText>A grade de defesa aérea estratégica do nó SAGE travou em nossa posição. Em {0}, a força de resposta rápida da frota chegará.</DMS_SageNode_EntryCountdownText>
+  <DMS_SageNode_ExpiredLabel>Nó SAGE perdido</DMS_SageNode_ExpiredLabel>
+  <DMS_SageNode_ExpiredText>A rede SAGE concluiu uma rotação rotineira de nós. As coordenadas que tínhamos já não são mais válidas.</DMS_SageNode_ExpiredText>
+  <DMS_ServerHack_AlarmTripped>{HACKER_nameDef} começou a invadir {SERVER_definite}. O alarme das instalações foi acionado!</DMS_ServerHack_AlarmTripped>
+  <DMS_ServerHack_AlarmTrippedNoHacker>Alguém está invadindo {SERVER_definite}. O alarme das instalações foi acionado!</DMS_ServerHack_AlarmTrippedNoHacker>
+  <DMS_ServerHack_AlarmWarning>Toda tentativa de invasão aciona o alarme das instalações</DMS_ServerHack_AlarmWarning>
+  <DMS_ServerHack_Depleted>Todos os dados extraídos</DMS_ServerHack_Depleted>
+  <DMS_ServerHack_Stage>Estágio de invasão: {0} / {1}</DMS_ServerHack_Stage>
+  <DMS_ServerHack_StageLetterLabel>Dados extraídos: {SERVER_label}</DMS_ServerHack_StageLetterLabel>
+  <DMS_ServerHack_StageLetterText>Extraímos {REWARD_labelShort} do armazenamento inferior de {SERVER_definite}.\n\nProgresso da invasão: {DONE} / {TOTAL}. Extrair mais dados significa recomeçar a invasão, o que acionará o alarme das instalações novamente.</DMS_ServerHack_StageLetterText>
+  <DMS_SetHediffLevel_StatDesc>Cada dose tem {2} de chance de elevar {0} ao nível {1}. Um nível mais alto permanece inalterado.</DMS_SetHediffLevel_StatDesc>
+  <DMS_SetHediffLevel_StatLabel>Chance de {0}</DMS_SetHediffLevel_StatLabel>
+  <DMS_SetHediffLevel_StatValue>{1} (nível {0})</DMS_SetHediffLevel_StatValue>
+  <DMS_Settings_ArtifuscleRots>Artifúsculo apodrece</DMS_Settings_ArtifuscleRots>
+  <DMS_Settings_ArtifuscleRotsDesc>Quando desativado, o Artifúsculo não apodrece mais e não precisa ser refrigerado. Entra em vigor imediatamente. O Artifúsculo já apodrecido permanecerá apodrecido.</DMS_Settings_ArtifuscleRotsDesc>
+  <DMS_Settings_SituationalMusic>Música situacional</DMS_Settings_SituationalMusic>
+  <DMS_Settings_SituationalMusicDesc>Toca música do DMS em locais e instalações subterrâneas do DMS, durante encontros com chefes do DMS e incursões de perseguição: exploração, alertas, combate, lutas contra chefes, bloqueios e consequências. Quando desativado, a música fica a cargo do jogo base e de outros mods. Entra em vigor imediatamente.</DMS_Settings_SituationalMusicDesc>
+  <DMS_ShuttleLaunchOutOfBounds>Não é possível lançar: o ônibus espacial em partida ultrapassaria a borda do mapa. Mova-o mais para dentro do mapa.</DMS_ShuttleLaunchOutOfBounds>
+  <DMS_SiteStation_ClearedLabel>Estação limpa</DMS_SiteStation_ClearedLabel>
+  <DMS_SiteStation_ClearedText>Todos os hostis na estação abandonada foram neutralizados.\n\nAs caixas antigas, as prateleiras e os destroços são seus para saquear, e os lançadores de cápsulas ainda funcionam. Espere que os remanescentes continuem sondando as ruínas.</DMS_SiteStation_ClearedText>
+  <DMS_SiteStation_EntryCountdownLabel>Estação hostil: reforços a caminho</DMS_SiteStation_EntryCountdownLabel>
+  <DMS_SiteStation_EntryCountdownText>Você adentrou uma instalação remanescente hostil. Seu protocolo de monitoramento sinalizou sua presença.\n\nReforços inimigos chegarão em {0}. A estação é grande; não se espalhe demais quando eles chegarem.</DMS_SiteStation_EntryCountdownText>
+  <DMS_SiteStation_ExpiredLabel>Estação vasculhada</DMS_SiteStation_ExpiredLabel>
+  <DMS_SiteStation_ExpiredText>O destacamento remanescente seguiu em frente e saqueou a estação abandonada em seu caminho. Não vale mais a pena visitá-la.</DMS_SiteStation_ExpiredText>
+  <DMS_StatRule_Max>{0}: limitado a {1}</DMS_StatRule_Max>
+  <DMS_Stele_GlyphDestroyedText>O servidor de glifos no local do impacto foi destruído, e o glifo selado dentro dele se perdeu junto.\n\nOutro sinal de glifo surgirá com o tempo.</DMS_Stele_GlyphDestroyedText>
+  <DMS_Stele_GlyphLostLabel>Glifo perdido</DMS_Stele_GlyphLostLabel>
+  <DMS_Stele_GlyphLostText>Deixamos o local do impacto sem seu glifo, e ele foi perdido junto com o local.\n\nOutro sinal de glifo surgirá com o tempo.</DMS_Stele_GlyphLostText>
+  <DMS_Stele_GlyphProgress>Glifos recuperados: {0} / {1}</DMS_Stele_GlyphProgress>
+  <DMS_Stele_GlyphRecovered>Glifo Occultech recuperado ({0} / {1}).</DMS_Stele_GlyphRecovered>
+  <DMS_Stele_SteleLostLabel>Estela perdida</DMS_Stele_SteleLostLabel>
+  <DMS_Stele_SteleLostText>A estela não saiu da cripta conosco e foi perdida.\n\nA cifra de glifos resolvida ainda aponta para outros locais de sepultamento. Nossos pesquisadores descobrirão o próximo dentro de alguns dias.</DMS_Stele_SteleLostText>
+  <DMS_Stele_SteleSecuredLabel>Estela segura</DMS_Stele_SteleSecuredLabel>
+  <DMS_Stele_SteleSecuredText>A estela é nossa.\n\nInstale-a na colônia e construa um decodificador encostado em sua frente. Uma vez energizado, o decodificador extrairá o conhecimento da estela para a pesquisa Occultech por conta própria.\n\nCada estela lida dessa forma é perdida para as frotas para sempre.</DMS_Stele_SteleSecuredText>
+  <DMS_SubsonicEmitter_Charging>Próximo pulso em: {0}</DMS_SubsonicEmitter_Charging>
+  <DMS_SubsonicEmitter_Engaged>{EMITTER_definite} está ativando: infrassom a caminho!</DMS_SubsonicEmitter_Engaged>
+  <DMS_SubsonicEmitter_EngagedFor>Ativado: {0} restante(s)</DMS_SubsonicEmitter_EngagedFor>
+  <DMS_SubsonicEmitter_Ready>Pronto, aguardando hostis ao alcance</DMS_SubsonicEmitter_Ready>
+  <DMS_SubsonicEmitter_Standby>Em espera, aguardando alarme da instalação</DMS_SubsonicEmitter_Standby>
+  <DMS_SupplyChain_AlertExplanation>Carregue {0}x {1} na cápsula de suprimentos e confirme a entrega antes do prazo, ou o contrato será encerrado.</DMS_SupplyChain_AlertExplanation>
+  <DMS_SupplyChain_AlertLabel>Prazo de entrega de suprimentos</DMS_SupplyChain_AlertLabel>
+  <DMS_SupplyChain_BonusLetterLabel>Contrato de suprimentos concluído</DMS_SupplyChain_BonusLetterLabel>
+  <DMS_SupplyChain_BonusLetterText>Todos os envios do contrato de suprimentos foram entregues. Conforme prometido, a compensação pela diferença de preço dos produtos foi enviada a preço de mercado.</DMS_SupplyChain_BonusLetterText>
+  <DMS_SupplyChain_DeadlineTip>Tempo restante para carregar a carga solicitada na cápsula de suprimentos.</DMS_SupplyChain_DeadlineTip>
+  <DMS_SupplyChain_DeadlineTitle>Prazo de entrega</DMS_SupplyChain_DeadlineTitle>
+  <DMS_SupplyChain_FallbackIssuer>a Frota Colonial</DMS_SupplyChain_FallbackIssuer>
+  <DMS_SupplyChain_Progress>Entregas concluídas: {0} / {1}</DMS_SupplyChain_Progress>
+  <DMS_SupplyPod_AlreadyDesignated>Quantidade solicitada já carregada ou designada.</DMS_SupplyPod_AlreadyDesignated>
+  <DMS_SupplyPod_AutoDesignate>Designar carga automaticamente</DMS_SupplyPod_AutoDesignate>
+  <DMS_SupplyPod_AutoDesignateDesc>Designa automaticamente {0} neste mapa para ser transportado até a cápsula, até a quantidade solicitada.</DMS_SupplyPod_AutoDesignateDesc>
+  <DMS_SupplyPod_Deliver>Confirmar entrega</DMS_SupplyPod_Deliver>
+  <DMS_SupplyPod_DeliverDesc>Enviar {0}x {1} desta cápsula. Qualquer outra carga carregada será descarregada primeiro.</DMS_SupplyPod_DeliverDesc>
+  <DMS_SupplyPod_Designated>Carga designada para carregamento.</DMS_SupplyPod_Designated>
+  <DMS_SupplyPod_NoneFound>Nenhum(a) {0} transportável encontrado(a) no mapa.</DMS_SupplyPod_NoneFound>
+  <DMS_SupplyPod_NotEnough>Quantidade insuficiente carregada: {0} / {1}</DMS_SupplyPod_NotEnough>
+  <DMS_SupplyPod_Progress>Progresso da entrega: {0} / {1} ({2})</DMS_SupplyPod_Progress>
+  <DMS_SupplyPod_SelectLabel>cápsula de suprimentos</DMS_SupplyPod_SelectLabel>
+  <DMS_SurgicalApparel_Inspect>Não pode ser removida. Requer a operação "{0}".</DMS_SurgicalApparel_Inspect>
+  <DMS_SurgicalApparel_Removed>{0} foi extraído(a) de {1}.</DMS_SurgicalApparel_Removed>
+  <DMS_SurgicalApparel_WearConfirm>Uma vez vestida, {0} fecha e se ancora completamente ao redor de {1}. Não pode ser removida por meios normais e não pode ser despida enquanto {1} estiver vivo. Apenas a operação "{2}" poderá removê-la.\n\nProsseguir?</DMS_SurgicalApparel_WearConfirm>
+  <DMS_VaultStation_ClearedLabel>Posto do cofre seguro</DMS_VaultStation_ClearedLabel>
+  <DMS_VaultStation_ClearedText>Todos os hostis na estação de acesso ao cofre foram neutralizados.\n\nPasse um cartão-chave de acesso no console ao lado do elevador para levantar sua placa de cobertura; o elevador ainda tem energia. Tudo o que restou no cofre abaixo é seu para trazer à superfície, mas os remanescentes continuarão sondando a superfície.</DMS_VaultStation_ClearedText>
+  <DMS_VaultStation_EntryCountdownLabel>Estação hostil: reforços a caminho</DMS_VaultStation_EntryCountdownLabel>
+  <DMS_VaultStation_EntryCountdownText>Você adentrou uma instalação remanescente hostil. Seu protocolo de monitoramento sinalizou sua presença.\n\nReforços inimigos chegarão em {0}. Abra o poço, então decida se irá segurar a superfície ou descer.</DMS_VaultStation_EntryCountdownText>
+  <DMS_VaultStation_ExpiredLabel>Posto do cofre perdido</DMS_VaultStation_ExpiredLabel>
+  <DMS_VaultStation_ExpiredText>A localização do manifesto expirou. A estação de acesso ao cofre foi realocada e sua posição foi perdida.</DMS_VaultStation_ExpiredText>
+  <DMS_WorkableCompleted>processamento concluído</DMS_WorkableCompleted>
+  <DMS_WorkableProgress>progresso do processamento</DMS_WorkableProgress>
+  <DMS_ZeroPointGenerator_CatalystSpent>{GENERATOR_definite} ficou sem catalisador.</DMS_ZeroPointGenerator_CatalystSpent>
+  <DMS_ZeroPointGenerator_Charge>Catalisador: {0} / {1} ({2} total)</DMS_ZeroPointGenerator_Charge>
+  <DMS_ZeroPointGenerator_NoCatalyst>Sem catalisador. Carregue uma ogiva de antigrãos.</DMS_ZeroPointGenerator_NoCatalyst>
+  <DMS_ZeroPointGenerator_NoRoom>Sem espaço para saída.</DMS_ZeroPointGenerator_NoRoom>
+  <DMS_ZeroPointReactor_Core>Núcleo: {0} restante</DMS_ZeroPointReactor_Core>
+  <DMS_ZeroPointReactor_CoreEmpty>Núcleo: vazio</DMS_ZeroPointReactor_CoreEmpty>
+  <DMS_ZeroPointReactor_Total>Tempo total de operação: {0}</DMS_ZeroPointReactor_Total>
+  <LetterLabelDocsArrived>Documentos entregues</LetterLabelDocsArrived>
+  <LetterTextDocsArrived>Os documentos sigilosos de [asker_nameFull] chegaram. Eles foram deixados perto dos seus faróis comerciais ou do centro da colônia.</LetterTextDocsArrived>
 </LanguageData>

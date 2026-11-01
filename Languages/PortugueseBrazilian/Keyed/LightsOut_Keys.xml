@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LightsOut>LightsOut</LightsOut>
+  <LightsOut_Gizmos_KeepOnLabel>Manter acesa</LightsOut_Gizmos_KeepOnLabel>
+  <LightsOut_Gizmos_KeepOnTooltip>Impede que os colonos desliguem esta luz.</LightsOut_Gizmos_KeepOnTooltip>
+  <LightsOut_InitializingMod>Inicializando LightsOut</LightsOut_InitializingMod>
+  <LightsOut_OnStandby>Em espera</LightsOut_OnStandby>
+  <LightsOut_Settings_ActivePowerDrawRateLabel>Consumo de energia em uso (%)</LightsOut_Settings_ActivePowerDrawRateLabel>
+  <LightsOut_Settings_ActivePowerDrawRateTooltip>Porcentagem de energia normal (ou outro recurso) consumida em uso. 100% por padrão (100+%).</LightsOut_Settings_ActivePowerDrawRateTooltip>
+  <LightsOut_Settings_AnimalPartyLabel>Permitir que animais ativem luzes</LightsOut_Settings_AnimalPartyLabel>
+  <LightsOut_Settings_AnimalPartyTooltip>Permite que os animais ativem/desativem as luzes ao se movimentarem pelos cômodos.</LightsOut_Settings_AnimalPartyTooltip>
+  <LightsOut_Settings_DebugMessageFilterLabel>Chaves de mensagens de depuração</LightsOut_Settings_DebugMessageFilterLabel>
+  <LightsOut_Settings_DebugMessageFilterTooltip>Uma lista de chaves de mensagens de depuração separadas por espaços que devem ser registradas.</LightsOut_Settings_DebugMessageFilterTooltip>
+  <LightsOut_Settings_DebugMessagesLabel>Registrar informações extras de depuração</LightsOut_Settings_DebugMessagesLabel>
+  <LightsOut_Settings_DebugMessagesTooltip>Se ativado, mensagens extras de depuração serão registradas. Mantenha desativado a menos que esteja depurando este mod.</LightsOut_Settings_DebugMessagesTooltip>
+  <LightsOut_Settings_DelaySecondsLabel>Segundos de espera antes de desligar as luzes</LightsOut_Settings_DelaySecondsLabel>
+  <LightsOut_Settings_DelaySecondsTooltip>Número de segundos entre o momento em que um colono deseja desligar uma luz e o momento em que ela realmente se apaga. Útil para evitar que as luzes pisquem em áreas de grande movimento.</LightsOut_Settings_DelaySecondsTooltip>
+  <LightsOut_Settings_EverythingButLightsOutLabel>Desligar luzes em cômodos vazios</LightsOut_Settings_EverythingButLightsOutLabel>
+  <LightsOut_Settings_EverythingButLightsOutTooltip>Se você desativar isso, este mod se tornará "LightsOn". Ativado por padrão.</LightsOut_Settings_EverythingButLightsOutTooltip>
+  <LightsOut_Settings_LatentPowerDrawRateLabel>Consumo de energia em espera (%)</LightsOut_Settings_LatentPowerDrawRateLabel>
+  <LightsOut_Settings_LatentPowerDrawRateTooltip>Porcentagem de energia normal (ou outro recurso) consumida em modo de espera. 0% por padrão (0-100%).</LightsOut_Settings_LatentPowerDrawRateTooltip>
+  <LightsOut_Settings_NightLightsLabel>Manter as luzes acesas quando seus colonos forem dormir</LightsOut_Settings_NightLightsLabel>
+  <LightsOut_Settings_NightLightsTooltip>Ative isso se seus colonos tiverem medo do escuro. Desativado por padrão.</LightsOut_Settings_NightLightsTooltip>
+</LanguageData>

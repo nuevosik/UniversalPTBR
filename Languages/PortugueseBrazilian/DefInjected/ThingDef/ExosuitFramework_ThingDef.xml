@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_Dummy.description>nada aqui.</Apparel_Dummy.description>
+  <Apparel_Dummy.label>o que é isso</Apparel_Dummy.label>
+  <MF_Apparel_AmmoBackpack.description>Um módulo de mochila com carregador de munição acoplado a um exotraje.</MF_Apparel_AmmoBackpack.description>
+  <MF_Apparel_AmmoBackpack.label>mochila de munição</MF_Apparel_AmmoBackpack.label>
+  <MF_Apparel_AmmoBackpack_Heavy.description>Um grande módulo de mochila com carregador de munição e capacidade dobrada.</MF_Apparel_AmmoBackpack_Heavy.description>
+  <MF_Apparel_AmmoBackpack_Heavy.label>mochila de munição pesada</MF_Apparel_AmmoBackpack_Heavy.label>
+  <MF_Apparel_AmmoBackpack_Light.description>Uma caixa de munição leve montada no braço esquerdo.</MF_Apparel_AmmoBackpack_Light.description>
+  <MF_Apparel_AmmoBackpack_Light.label>caixa de munição compacta</MF_Apparel_AmmoBackpack_Light.label>
+  <MF_Apparel_FuelCell.description>Uma célula de combustível de alta capacidade que fornece energia adicional aos sistemas do exotraje.</MF_Apparel_FuelCell.description>
+  <MF_Apparel_FuelCell.label>módulo de célula de combustível</MF_Apparel_FuelCell.label>
+  <MF_Building_AutoRepairArm.description>Um dispositivo de reparo automatizado que pode consertar o exotraje na plataforma de manutenção alvo. Requer energia.</MF_Building_AutoRepairArm.description>
+  <MF_Building_AutoRepairArm.label>braço de reparo automático</MF_Building_AutoRepairArm.label>
+  <MF_Building_ComponentStorage.description>Uma prateleira de armazenamento de módulos. Os colonos podem reparar módulos danificados nela. A baia de manutenção só pode selecionar módulos armazenados em prateleiras de armazenamento conectadas.</MF_Building_ComponentStorage.description>
+  <MF_Building_ComponentStorage.label>prateleira de módulos</MF_Building_ComponentStorage.label>
+  <MF_Building_MaintenanceBay.description>Um local para armazenar e fazer manutenção de estruturas andadoras. Possui um guindaste que permite modificar a carga do mecha, mas requer pelo menos uma prateleira de armazenamento de módulos conectada.</MF_Building_MaintenanceBay.description>
+  <MF_Building_MaintenanceBay.label>guindaste de manutenção</MF_Building_MaintenanceBay.label>
+  <MF_Building_ParkingSpot.description>Um ponto designado para estacionar temporariamente a estrutura andadora. Caso a estrutura seja projetada para desembarcar temporariamente, o piloto pode deixar a estrutura aqui para descansar ou receber tratamento. No entanto, devido à falta de equipamentos adequados, não é possível descarregar módulos para manutenção ou reparo, e o tempo de embarque será maior.</MF_Building_ParkingSpot.description>
+  <MF_Building_ParkingSpot.label>ponto de atracagem</MF_Building_ParkingSpot.label>
+  <MF_Building_PayloadStorage.description>Uma prateleira de armazenamento para gerenciamento de inventário. Os colonos pegarão os itens automaticamente ao embarcar no exotraje. Ao atracar o exotraje, os itens aceitos nesta prateleira serão descarregados automaticamente.</MF_Building_PayloadStorage.description>
+  <MF_Building_PayloadStorage.label>prateleira de carga</MF_Building_PayloadStorage.label>
+  <MF_Building_Scaffold.description>Andaimes metálicos usados para facilitar a manutenção e desmontagem durante a manutenção de mechas, podendo reduzir significativamente o tempo de instalação e desmontagem. Cada suporte pode ser conectado a até 4 andaimes.</MF_Building_Scaffold.description>
+  <MF_Building_Scaffold.label>andaime</MF_Building_Scaffold.label>
+  <MF_Building_ScaffoldStair.description>Andaimes metálicos usados para facilitar a manutenção e desmontagem durante a manutenção de mechas, podendo reduzir significativamente o tempo de instalação e desmontagem. Cada suporte pode ser conectado a até 4 andaimes.</MF_Building_ScaffoldStair.description>
+  <MF_Building_ScaffoldStair.label>escada de andaime</MF_Building_ScaffoldStair.label>
+  <MF_Building_Wreckage.label>destroços</MF_Building_Wreckage.label>
+  <MF_Module_AmmoBackpack.description>Uma mochila com carregador de munição acoplada a armas compatíveis, fornecendo munição contínua sem recarregamento manual. Não compatível com foguetes, mísseis ou granadas.</MF_Module_AmmoBackpack.description>
+  <MF_Module_AmmoBackpack.label>módulo de mochila de munição</MF_Module_AmmoBackpack.label>
+  <MF_Module_AmmoBackpack_Heavy.description>Uma grande mochila com carregador de munição e capacidade dobrada. Ocupa tanto o espaço de acessório quanto o suporte do ombro direito. Não compatível com foguetes, mísseis ou granadas.</MF_Module_AmmoBackpack_Heavy.description>
+  <MF_Module_AmmoBackpack_Heavy.label>módulo de mochila de munição pesada</MF_Module_AmmoBackpack_Heavy.label>
+  <MF_Module_AmmoBackpack_Light.description>Uma caixa de munição leve montada no braço esquerdo. Possui menor capacidade, mas deixa o espaço da mochila livre. Não compatível com foguetes, mísseis ou granadas.</MF_Module_AmmoBackpack_Light.description>
+  <MF_Module_AmmoBackpack_Light.label>módulo de caixa de munição compacta</MF_Module_AmmoBackpack_Light.label>
+  <MF_Module_FuelCell.description>Uma célula de combustível de alta capacidade que fornece energia adicional aos sistemas do exotraje. Quando abastecida com combustível químico, aumenta a velocidade de movimento e a eficiência no trabalho do piloto. A célula de combustível é ativada automaticamente ao ser instalada e enquanto houver combustível.</MF_Module_FuelCell.description>
+  <MF_Module_FuelCell.label>módulo de célula de combustível</MF_Module_FuelCell.label>
+  <WG_PawnFlyer.label>voando</WG_PawnFlyer.label>
+</LanguageData>

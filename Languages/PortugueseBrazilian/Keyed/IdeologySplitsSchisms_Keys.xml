@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VIESAS.AmountOfMemesChangedDuringSchism>Quantidade de memes alterados durante o cisma:</VIESAS.AmountOfMemesChangedDuringSchism>
+  <VIESAS.IdeoSplit>Cisma ideológico: {0}</VIESAS.IdeoSplit>
+  <VIESAS.IdeoSplitDesc>Assim como em todas as grandes comunidades, certas tradições da sua colônia se desenvolveram de forma distinta. Algumas pessoas passaram a considerar os antigos costumes inválidos para os tempos atuais e decidiram que o futuro exige que sua ideologia se adapte. Dessa forma, {0} foi fundada.\n\n{1}\n\nOs seguintes colonos decidiram se juntar à nova ideologia:\n{2}</VIESAS.IdeoSplitDesc>
+  <VIESAS.IdeoSplitDescOptions>Com um cisma surgem novos desafios. Agora você terá que cuidar de duas ideologias únicas em sua colônia, até que uma delas domine a outra.\n\nSelecione uma opção abaixo para decidir o que fazer com a nova ideologia. Você pode configurá-la ou aceitá-la como está e fechar a janela.</VIESAS.IdeoSplitDescOptions>
+  <VIESAS.IdeologyConversionCheckDaysInterval>Intervalo em dias para verificação de conversão ideológica:</VIESAS.IdeologyConversionCheckDaysInterval>
+  <VIESAS.MemeChanged>Meme alterado</VIESAS.MemeChanged>
+  <VIESAS.MinimumColonistCountForSchismToOccur>Quantidade mínima de colonos em uma ideologia para que ocorra um cisma:</VIESAS.MinimumColonistCountForSchismToOccur>
+  <VIESAS.NewMeme>Novo meme</VIESAS.NewMeme>
+  <VIESAS.OddsOfSchismToOccur>Chance percentual de um cisma ocorrer:</VIESAS.OddsOfSchismToOccur>
+  <VIESAS.OldIdeoForgotten>{0} foi esquecida</VIESAS.OldIdeoForgotten>
+  <VIESAS.OldIdeoForgottenDesc>{0} foi esquecida. Ninguém neste planeta se lembra mais dos antigos costumes, e as tradições, cultura e crenças dessa ideologia foram perdidas com o progresso.\n\nA ideologia desapareceu por falta de seguidores.</VIESAS.OldIdeoForgottenDesc>
+  <VIESAS.PctOfColonistsToTurnToNewIdeology>Porcentagem máxima de colonos com baixa certeza para formar uma nova ideologia:</VIESAS.PctOfColonistsToTurnToNewIdeology>
+  <VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>Limite de certeza dos colonos para se juntar à nova ideologia:</VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>
+</LanguageData>

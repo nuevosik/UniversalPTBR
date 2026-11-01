@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DMS_GotoMaintenance.reportString>Fazendo manutenção...</DMS_GotoMaintenance.reportString>
-  <DMS_RepairSelf.reportString>reparando TargetA.</DMS_RepairSelf.reportString>
-  <DMS_MechLeave.reportString>partindo.</DMS_MechLeave.reportString>
-  <DMS_Modification.reportString>modificando TargetA.</DMS_Modification.reportString>
   <DMS_ProcessQuestWorkable.reportString>processando documento.</DMS_ProcessQuestWorkable.reportString>
+  <DMS_DeployDroneSwarm.reportString>liberando enxame de drones em TargetA.</DMS_DeployDroneSwarm.reportString>
+  <DMS_GravekeeperHold.reportString>montando guarda.</DMS_GravekeeperHold.reportString>
+  <DMS_LoadRation.reportString>carregando rações.</DMS_LoadRation.reportString>
+  <DMS_TakeWeaponFromCase.reportString>pegando uma arma de TargetA.</DMS_TakeWeaponFromCase.reportString>
+  <DMS_GotoMaintenance.reportString>Fazendo manutenção...</DMS_GotoMaintenance.reportString>
+  <DMS_MechLeave.reportString>Partindo.</DMS_MechLeave.reportString>
+  <DMS_Modification.reportString>Modificando TargetA.</DMS_Modification.reportString>
+  <DMS_RepairSelf.reportString>Reparando TargetA.</DMS_RepairSelf.reportString>
 </LanguageData>

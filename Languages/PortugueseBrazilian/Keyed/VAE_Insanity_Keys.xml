@@ -37,12 +37,16 @@
   <VAEI_VoidClosing>o Vazio se fechando</VAEI_VoidClosing>
   <VAEI_SanityLoss>Ocorreu devido à perda total de sanidade (0%).</VAEI_SanityLoss>
   <VAEI_Inhumanized>Desumanizado: {PAWN_nameDef}</VAEI_Inhumanized>
-  <VAEI_InhumanizedDesc>A conexão de {PAWN_nameDef} com a humanidade foi rompida. Sua transformação [PAWN_objective] deixou desapegado(a) das sensibilidades humanas, não sendo mais afetado(a) pela dor ou interações sociais, e tornando-se indiferente à estética da beleza ou ao ar livre. Sua mente, agora sintonizada com o vazio, ignora a maioria das emoções, encontrando consolo na meditação do vazio e em uma alegria misteriosa e inabalável que permeia sua existência.\n\n{PAWN_pronoun} ganhou o traço Desumanizado.\n\nEmbora drasticamente alterado(a), {PAWN_nameDef} ainda faz parte da sua facção, apenas desconectado(a) das experiências humanas típicas.</VAEI_InhumanizedDesc>
+  <VAEI_InhumanizedDesc>A conexão de {PAWN_nameDef} com a humanidade foi rompida. A transformação de {PAWN_possessive} deixou {PAWN_objective} desapegado(a) das sensibilidades humanas, não sendo mais afetado(a) pela dor ou por interações sociais, e tornando-se indiferente à estética da beleza e ao ar livre. A mente de {PAWN_possessive}, agora sintonizada com o vazio, ignora a maioria das emoções, encontrando consolo na meditação do vazio e em uma alegria misteriosa e inabalável que permeia a existência de {PAWN_possessive}.
+
+{PAWN_pronoun} ganhou o traço desumanizado.
+
+Embora drasticamente alterado(a), {PAWN_nameDef} ainda faz parte da sua facção, apenas desconectado(a) das experiências humanas típicas.</VAEI_InhumanizedDesc>
   <VAEI_Recovered>Recuperado: {PAWN_nameDef}</VAEI_Recovered>
-  <VAEI_RecoveredDesc>{PAWN_nameDef} emergiu das profundezas da loucura, passando por uma catarse que restaurou parte da sanidade em sua mente. O aperto sufocante do vazio que antes dominava seus pensamentos afrouxou, concedendo-lhe uma paz frágil. Embora a jornada de volta à sanidade plena seja longa, {PAWN_pronoun} recuperou aspectos cruciais de sua clareza mental.\n\n{PAWN_pronoun} começou o lento processo de recuperação e não se tornou desumanizado(a) desta vez.</VAEI_RecoveredDesc>
+  <VAEI_RecoveredDesc>{PAWN_nameDef} emergiu das profundezas da loucura, passando por uma catarse que restaurou parte da sanidade na mente de {PAWN_possessive}. O aperto sufocante do vazio que antes dominava os pensamentos de {PAWN_possessive} afrouxou, concedendo a {PAWN_possessive} uma paz frágil. Embora a jornada de volta à sanidade plena seja longa, {PAWN_pronoun} recuperou aspectos cruciais da clareza mental de {PAWN_possessive}.\n\n{PAWN_pronoun} começou o lento processo de recuperação e não se tornou desumanizado(a) desta vez.</VAEI_RecoveredDesc>
   <VEAI_RecoveringFromMadness>Recuperando-se da loucura</VEAI_RecoveringFromMadness>
   <VAEI_Sacrificial>Sacrificial: {PAWN_nameDef}</VAEI_Sacrificial>
-  <VAEI_SacrificialDesc>A conexão de {PAWN_nameDef} com a humanidade foi rompida. Sua transformação [PAWN_objective] deixou desapegado(a) das sensibilidades humanas, imune à dor ou interações sociais. Sua mente, sintonizada ao vazio, ignora emoções e busca consolo na meditação sombria. Compelido(a) pelo chamado das trevas, {PAWN_pronoun} agora busca encerrar sua própria existência em um ato final de sacrifício ao vazio.\n\n{PAWN_pronoun} ganhou o traço Desumanizado.\n\n{PAWN_nameDef} está em um caminho de autodestruição, mas ainda pode ser contido(a) se você prendê-l[PAWN_objective] a tempo.</VAEI_SacrificialDesc>
+  <VAEI_SacrificialDesc>A conexão de {PAWN_nameDef} com a humanidade foi rompida. A transformação de {PAWN_possessive} deixou {PAWN_objective} desapegado(a) das sensibilidades humanas, não sendo mais afetado(a) pela dor ou por interações sociais, e tornando-se indiferente à estética da beleza e ao ar livre. A mente de {PAWN_possessive}, agora sintonizada com o vazio, ignora a maioria das emoções, encontrando consolo na meditação do vazio e em uma alegria misteriosa e inabalável que permeia a existência de {PAWN_possessive}. Impelido(a) pelo chamado sombrio, {PAWN_possessive} agora está determinado(a) a pôr fim à {PAWN_possessive} própria existência em um ato final de sacrifício ao vazio.\n\n{PAWN_pronoun} ganhou o traço desumanizado.\n\n{PAWN_nameDef} trilha agora um caminho de autodestruição: {PAWN_pronoun} tentará pôr fim à {PAWN_possessive} própria existência.</VAEI_SacrificialDesc>
   <VAEI_EnableSelfHarmContent>Habilitar conteúdo de autoflagelação (estado mental sacrificial, interações de dano próprio)</VAEI_EnableSelfHarmContent>
   <VAEI_ModSettingsName>VAE - Insanity</VAEI_ModSettingsName>
   <VAEI_SanityFactorExplanation>Sanidade ({0}): {1}</VAEI_SanityFactorExplanation>
@@ -50,11 +54,7 @@
   <VAEI_ObservingVoidDrawings>Observando desenhos do vazio</VAEI_ObservingVoidDrawings>
   <VAEI_Wearing>Vestindo {0}</VAEI_Wearing>
   <VAEI_Rehumanized>Reumanizado: {PAWN_nameDef}</VAEI_Rehumanized>
-  <VAEI_RehumanizedDesc>Como {PAWN_nameDef} recuperou sua sanidade, {PAWN_pronoun} foi reumanizado(a). O traço Desumanizado foi substituído por: {0}.
-
-{1}
-
-Infelizmente, {PAWN_nameDef} permanecerá para sempre propenso(a) a perder o juízo novamente, ainda mais que os outros. Qualquer efeito negativo na sanidade será dobrado, o que pode fazer com que {PAWN_nameDef} se torne desumanizado(a) novamente.</VAEI_RehumanizedDesc>
+  <VAEI_RehumanizedDesc>Como {PAWN_nameDef} recuperou a sanidade de {PAWN_possessive}, {PAWN_pronoun} foi reumanizado(a). {PAWN_objective} traço desumanizado foi substituído por {0}.\n\n{1}\n\nInfelizmente, {PAWN_nameDef} permanecerá para sempre propenso(a) a perder a sanidade de {PAWN_possessive} novamente, ainda mais do que os outros. Qualquer efeito negativo na sanidade será dobrado, o que pode fazer com que {PAWN_nameDef} se torne desumanizado(a) novamente.</VAEI_RehumanizedDesc>
   <VAEI_SanityLossEffects>Efeitos de perda/ganho de sanidade:</VAEI_SanityLossEffects>
   <VAEI_SuppressingEntities>Suprimindo entidades (sanidade por dia):</VAEI_SuppressingEntities>
   <VAEI_StudyingEntities>Estudando entidades:</VAEI_StudyingEntities>

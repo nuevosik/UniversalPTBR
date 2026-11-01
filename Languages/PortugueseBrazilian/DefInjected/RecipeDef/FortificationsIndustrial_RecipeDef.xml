@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FT_Make_ComponentIndustrial.description>Fabrica um componente no torno, mais lento e mais caro que usar uma bancada de fabricação.</FT_Make_ComponentIndustrial.description>
+  <FT_Make_ComponentIndustrial.jobString>Fabricando um componente.</FT_Make_ComponentIndustrial.jobString>
+  <FT_Make_ComponentIndustrial.label>Fazer componente</FT_Make_ComponentIndustrial.label>
+  <FT_Make_ComponentIndustrial_Bulk.description>Fabrica quatro componentes em um torno. Requer mais tempo e recursos que a fabricação padrão.</FT_Make_ComponentIndustrial_Bulk.description>
+  <FT_Make_ComponentIndustrial_Bulk.jobString>Usinando componentes.</FT_Make_ComponentIndustrial_Bulk.jobString>
+  <FT_Make_ComponentIndustrial_Bulk.label>Fazer componente x4</FT_Make_ComponentIndustrial_Bulk.label>
+  <FT_Make_ConcreteByBlock.description>Esmaga blocos de pedra em concreto.</FT_Make_ConcreteByBlock.description>
+  <FT_Make_ConcreteByBlock.jobString>Esmagando blocos de pedra em concreto.</FT_Make_ConcreteByBlock.jobString>
+  <FT_Make_ConcreteByBlock.label>Fazer concreto a partir de blocos de pedra</FT_Make_ConcreteByBlock.label>
+  <FT_Make_ConcreteByChunk.description>Esmaga pedaços de pedra em concreto.</FT_Make_ConcreteByChunk.description>
+  <FT_Make_ConcreteByChunk.jobString>Esmagando pedaços de pedra em concreto.</FT_Make_ConcreteByChunk.jobString>
+  <FT_Make_ConcreteByChunk.label>Fazer concreto a partir de pedaços de pedra</FT_Make_ConcreteByChunk.label>
+  <FT_Make_ConcreteByStonyJunks.description>Esmaga sucata pétrea não queimável e não fundível em concreto.</FT_Make_ConcreteByStonyJunks.description>
+  <FT_Make_ConcreteByStonyJunks.jobString>Fazendo concreto a partir de sucata.</FT_Make_ConcreteByStonyJunks.jobString>
+  <FT_Make_ConcreteByStonyJunks.label>Fazer concreto a partir de sucata</FT_Make_ConcreteByStonyJunks.label>
+  <FT_Make_ConcreteCompressed.description>Embala o concreto em sacos para facilitar o armazenamento e o transporte.\n\nO Protocolo Comercial Galáctico Thebiano (a partir da 437ª edição) determina que o concreto deve ser embalado antes de qualquer transação comercial.</FT_Make_ConcreteCompressed.description>
+  <FT_Make_ConcreteCompressed.jobString>Embalando concreto.</FT_Make_ConcreteCompressed.jobString>
+  <FT_Make_ConcreteCompressed.label>Embalar concreto</FT_Make_ConcreteCompressed.label>
+  <FT_Make_ConcreteWood.description>Mistura tecido e concreto para obter tábuas de concreto leves, porém resistentes. À prova de fogo, mas menos duráveis que o concreto sólido.</FT_Make_ConcreteWood.description>
+  <FT_Make_ConcreteWood.jobString>Fazendo cimento de fibra.</FT_Make_ConcreteWood.jobString>
+  <FT_Make_ConcreteWood.label>Fazer cimento de fibra</FT_Make_ConcreteWood.label>
+  <FT_Make_Dye.description>Sintetiza corante natural a partir de combustível químico.</FT_Make_Dye.description>
+  <FT_Make_Dye.jobString>Sintetizando corante.</FT_Make_Dye.jobString>
+  <FT_Make_Dye.label>Sintetizar corante</FT_Make_Dye.label>
+  <FT_Make_Neutroamine.description>Sintetiza neutroamina a partir de carne.</FT_Make_Neutroamine.description>
+  <FT_Make_Neutroamine.jobString>Sintetizando neutroamina.</FT_Make_Neutroamine.jobString>
+  <FT_Make_Neutroamine.label>Sintetizar neutroamina</FT_Make_Neutroamine.label>
+  <FT_Make_ReinforcedBarrel.description>Fabrica um cano reforçado no torno.</FT_Make_ReinforcedBarrel.description>
+  <FT_Make_ReinforcedBarrel.jobString>Fabricando cano reforçado.</FT_Make_ReinforcedBarrel.jobString>
+  <FT_Make_ReinforcedBarrel.label>Fazer cano reforçado</FT_Make_ReinforcedBarrel.label>
+  <FT_Make_ReinforcedConcrete.description>Mistura vergalhões ao concreto bruto para obter concreto armado, uma alternativa aos materiais metálicos.</FT_Make_ReinforcedConcrete.description>
+  <FT_Make_ReinforcedConcrete.jobString>Fazendo concreto armado.</FT_Make_ReinforcedConcrete.jobString>
+  <FT_Make_ReinforcedConcrete.label>Fazer concreto armado</FT_Make_ReinforcedConcrete.label>
+  <FT_Unpack_ConcreteCompressed.description>Desembala sacos de concreto.</FT_Unpack_ConcreteCompressed.description>
+  <FT_Unpack_ConcreteCompressed.jobString>Desembalando concreto.</FT_Unpack_ConcreteCompressed.jobString>
+  <FT_Unpack_ConcreteCompressed.label>Desembalar concreto</FT_Unpack_ConcreteCompressed.label>
+  <MakeAmmo_128x958mmR_AP.description>Fabrica 2 projéteis de canhão 128x958mmR (AP).</MakeAmmo_128x958mmR_AP.description>
+  <MakeAmmo_128x958mmR_AP.jobString>Fabricando projéteis de canhão 128mm (AP).</MakeAmmo_128x958mmR_AP.jobString>
+  <MakeAmmo_128x958mmR_AP.label>Fazer projéteis de canhão 128x958mmR (AP) x2</MakeAmmo_128x958mmR_AP.label>
+  <MakeAmmo_128x958mmR_APHE.description>Fabrica 2 projéteis de canhão 128x958mmR (APHE).</MakeAmmo_128x958mmR_APHE.description>
+  <MakeAmmo_128x958mmR_APHE.jobString>Fabricando projéteis de canhão 128x958mmR (APHE).</MakeAmmo_128x958mmR_APHE.jobString>
+  <MakeAmmo_128x958mmR_APHE.label>Fazer projéteis de canhão 128x958mmR (APHE) x2</MakeAmmo_128x958mmR_APHE.label>
+  <MakeAmmo_128x958mmR_EMP.description>Fabrica 2 projéteis de canhão 128x958mmR (PEM).</MakeAmmo_128x958mmR_EMP.description>
+  <MakeAmmo_128x958mmR_EMP.jobString>Fabricando projéteis de canhão 128x958mmR (PEM).</MakeAmmo_128x958mmR_EMP.jobString>
+  <MakeAmmo_128x958mmR_EMP.label>Fazer projéteis de canhão 128x958mmR (PEM) x2</MakeAmmo_128x958mmR_EMP.label>
+  <MakeAmmo_128x958mmR_HE.description>Fabrica 2 projéteis de canhão 128x958mmR (HE).</MakeAmmo_128x958mmR_HE.description>
+  <MakeAmmo_128x958mmR_HE.jobString>Fabricando projéteis de canhão 128x958mmR (HE).</MakeAmmo_128x958mmR_HE.jobString>
+  <MakeAmmo_128x958mmR_HE.label>Fazer projéteis de canhão 128x958mmR (HE) x2</MakeAmmo_128x958mmR_HE.label>
+  <MakeAmmo_15cmNebelwerfer_EMP.description>Fabrica 1 foguete Nebelwerfer de 15cm (PEM).</MakeAmmo_15cmNebelwerfer_EMP.description>
+  <MakeAmmo_15cmNebelwerfer_EMP.jobString>Fabricando foguete Nebelwerfer de 15cm (PEM).</MakeAmmo_15cmNebelwerfer_EMP.jobString>
+  <MakeAmmo_15cmNebelwerfer_EMP.label>Fazer foguete Nebelwerfer de 15cm (PEM)</MakeAmmo_15cmNebelwerfer_EMP.label>
+  <MakeAmmo_15cmNebelwerfer_Smoke.description>Fabrica 1 foguete Nebelwerfer de 15cm (Fumaça).</MakeAmmo_15cmNebelwerfer_Smoke.description>
+  <MakeAmmo_15cmNebelwerfer_Smoke.jobString>Fabricando foguete Nebelwerfer de 15cm (Fumaça).</MakeAmmo_15cmNebelwerfer_Smoke.jobString>
+  <MakeAmmo_15cmNebelwerfer_Smoke.label>Fazer foguete Nebelwerfer de 15cm (Fumaça)</MakeAmmo_15cmNebelwerfer_Smoke.label>
+  <MakeAmmo_15cmNebelwerfer_Toxic.description>Fabrica foguetes tóxicos Nebelwerfer de 15cm.</MakeAmmo_15cmNebelwerfer_Toxic.description>
+  <MakeAmmo_15cmNebelwerfer_Toxic.jobString>Fabricando foguetes tóxicos Nebelwerfer de 15cm.</MakeAmmo_15cmNebelwerfer_Toxic.jobString>
+  <MakeAmmo_15cmNebelwerfer_Toxic.label>Fazer foguete tóxico Nebelwerfer de 15cm</MakeAmmo_15cmNebelwerfer_Toxic.label>
+  <MakeAmmo_37x223mmR_AP-HE.description>Fabrica 25 cartuchos 37x223mmR (AP-HE).</MakeAmmo_37x223mmR_AP-HE.description>
+  <MakeAmmo_37x223mmR_AP-HE.jobString>Fabricando cartuchos 37x223mmR (AP-HE).</MakeAmmo_37x223mmR_AP-HE.jobString>
+  <MakeAmmo_37x223mmR_AP-HE.label>Fabricar cartucho 37x223mmR (AP-HE) x25</MakeAmmo_37x223mmR_AP-HE.label>
+  <MakeAmmo_37x223mmR_APDS.description>Fabrica 25 cartuchos 37x223mmR (sabot).</MakeAmmo_37x223mmR_APDS.description>
+  <MakeAmmo_37x223mmR_APDS.jobString>Fabricando cartuchos 37x223mmR (sabot).</MakeAmmo_37x223mmR_APDS.jobString>
+  <MakeAmmo_37x223mmR_APDS.label>Fabricar cartucho 37x223mmR (sabot) x25</MakeAmmo_37x223mmR_APDS.label>
+  <MakeAmmo_37x223mmR_Canister.description>Fabrica 25 cartuchos 37x223mmR (metralha).</MakeAmmo_37x223mmR_Canister.description>
+  <MakeAmmo_37x223mmR_Canister.jobString>Fabricando cartuchos 37x223mmR (metralha).</MakeAmmo_37x223mmR_Canister.jobString>
+  <MakeAmmo_37x223mmR_Canister.label>Fabricar cartucho 37x223mmR (metralha) x25</MakeAmmo_37x223mmR_Canister.label>
+  <MakeAmmo_37x223mmR_EMP.description>Fabrica 25 cartuchos 37x223mmR (PEM).</MakeAmmo_37x223mmR_EMP.description>
+  <MakeAmmo_37x223mmR_EMP.jobString>Fabricando cartuchos 37x223mmR (PEM).</MakeAmmo_37x223mmR_EMP.jobString>
+  <MakeAmmo_37x223mmR_EMP.label>Fabricar cartucho 37x223mmR (PEM) x25</MakeAmmo_37x223mmR_EMP.label>
+  <MakeAmmo_37x223mmR_HESH.description>Fabrica 25 cartuchos 37x223mmR (HESH).</MakeAmmo_37x223mmR_HESH.description>
+  <MakeAmmo_37x223mmR_HESH.jobString>Fabricando cartuchos 37x223mmR (HESH).</MakeAmmo_37x223mmR_HESH.jobString>
+  <MakeAmmo_37x223mmR_HESH.label>Fabricar cartucho 37x223mmR (HESH) x25</MakeAmmo_37x223mmR_HESH.label>
+  <MakeAmmo_37x223mmR_Incendiary.description>Fabrica 25 cartuchos 37x223mmR (incendiário).</MakeAmmo_37x223mmR_Incendiary.description>
+  <MakeAmmo_37x223mmR_Incendiary.jobString>Fabricando cartuchos 37x223mmR (incendiário).</MakeAmmo_37x223mmR_Incendiary.jobString>
+  <MakeAmmo_37x223mmR_Incendiary.label>Fabricar cartucho 37x223mmR (incendiário) x25</MakeAmmo_37x223mmR_Incendiary.label>
+  <MakeAmmo_37x223mmR_Shrapnel.description>Fabrica 25 cartuchos 37x223mmR (estilhaços).</MakeAmmo_37x223mmR_Shrapnel.description>
+  <MakeAmmo_37x223mmR_Shrapnel.jobString>Fabricando cartuchos 37x223mmR (estilhaços).</MakeAmmo_37x223mmR_Shrapnel.jobString>
+  <MakeAmmo_37x223mmR_Shrapnel.label>Fabricar cartucho 37x223mmR (estilhaços) x25</MakeAmmo_37x223mmR_Shrapnel.label>
+</LanguageData>

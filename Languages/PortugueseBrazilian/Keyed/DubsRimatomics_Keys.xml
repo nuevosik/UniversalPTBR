@@ -13,8 +13,8 @@
   <AutothrotIDCount>Vários núcleos definidos como {0}; cada núcleo precisa de um ID único para a regulação automática ser ativada</AutothrotIDCount>
   <AutothrotOn>Regulação automática ativada para {0}</AutothrotOn>
   <AutothrotOff>Regulação automática desativada para {0}</AutothrotOff>
-  <AutothrotRange>O excesso da rede deve estar entre +/- 5000 W para ativar</AutothrotRange>
-  <AutothrotTip>Ativa a regulação automática\n\nControla o nível de fluxo para corresponder à carga da rede elétrica; o excesso da rede elétrica à qual este console está conectado deve estar entre +/- 5000 W para ativar</AutothrotTip>
+  <AutothrotRange>O excesso da rede elétrica deve estar dentro de 5000 W da faixa de aceleração automática ({0} a {1}) para ativar.</AutothrotRange>
+  <AutothrotTip>Ativar regulação automática.\n\nAjusta automaticamente o fluxo para manter o excesso entre {0} e {1} em toda rede elétrica que este reator alimenta através de seus transformadores.</AutothrotTip>
   <CoreIdMismatch>O ID do reator e do console não coincidem; cada núcleo exige seu próprio console com um ID único para a regulação automática</CoreIdMismatch>
   <FuelLifeRange>{0} de vida útil do combustível</FuelLifeRange>
   <PoolLoading>Carregando</PoolLoading>
@@ -270,4 +270,26 @@
   <ProjectTerminated>Projeto encerrado</ProjectTerminated>
   <NoBenchAvailable>Nenhuma bancada de pesquisa Rimatomics disponível</NoBenchAvailable>
   <ResearchPurchased>Pesquisa comprada!</ResearchPurchased>
+  <AutothrotBand>{0}-{1}k</AutothrotBand>
+  <AutothrotBandDefault>{0} (padrão)</AutothrotBandDefault>
+  <AutothrotBandOption>Manter {0} a {1} de excesso</AutothrotBandOption>
+  <AutothrotBandTip>Faixa do regulador automático: {0} a {1} de excesso.\n\nO regulador automático mantém o excesso da rede elétrica dentro desta faixa. Uma faixa maior deixa mais energia disponível para carregar as baterias. Clique para alterar.</AutothrotBandTip>
+  <AutothrotBatteries>Baterias {0} cheias.</AutothrotBatteries>
+  <AutothrotChargeOff>Parar de carregar baterias primeiro</AutothrotChargeOff>
+  <AutothrotChargeOn>Carregar baterias primeiro</AutothrotChargeOn>
+  <AutothrotCharging>Carregando baterias ({0} cheias), mantendo acima da faixa até que estejam cheias.</AutothrotCharging>
+  <AutothrotLost>Regulador automático desengatado para {0}: o console perdeu o reator ou o reator parou.</AutothrotLost>
+  <AutothrotState_Holding>mantendo</AutothrotState_Holding>
+  <AutothrotState_Lowering>reduzindo fluxo</AutothrotState_Lowering>
+  <AutothrotState_Off>desligado</AutothrotState_Off>
+  <AutothrotState_Overheating>núcleo superaquecendo, reduzindo fluxo</AutothrotState_Overheating>
+  <AutothrotState_Raising>aumentando fluxo</AutothrotState_Raising>
+  <AutothrotState_Settling>aguardando estabilização do reator</AutothrotState_Settling>
+  <AutothrotState_TransformerLimit>transformadores em capacidade máxima</AutothrotState_TransformerLimit>
+  <AutothrotState_TurbineLimit>turbinas em capacidade máxima</AutothrotState_TurbineLimit>
+  <AutothrotState_WarmingUp>aguardando aquecimento do núcleo</AutothrotState_WarmingUp>
+  <AutothrotStatus>Regulador automático: {0}.\nExcesso de {1} em {2} rede(s) elétrica(s), mantendo entre {3} e {4}.</AutothrotStatus>
+  <AutothrotStatusOff>Regulador automático desligado.</AutothrotStatusOff>
+  <ChooseWhereToStrike>Escolha onde atacar</ChooseWhereToStrike>
+  <TowerInVacuum>Inoperante: Vácuo</TowerInVacuum>
 </LanguageData>

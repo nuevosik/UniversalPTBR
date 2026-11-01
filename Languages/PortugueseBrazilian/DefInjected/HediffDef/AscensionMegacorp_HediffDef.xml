@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <USAC_LowReadiness.description>Este mecanoide está com poucos suprimentos operacionais, e sua eficácia em combate foi reduzida por isso.</USAC_LowReadiness.description>
+  <USAC_LowReadiness.label>baixa prontidão</USAC_LowReadiness.label>
+  <USAC_LowReadiness.stages.0.label>degradado</USAC_LowReadiness.stages.0.label>
+  <USAC_LowReadiness.stages.degraded.label>degradado</USAC_LowReadiness.stages.degraded.label>
+  <USAC_NeuroBoosterAddiction.description>As vias neurais foram alteradas permanentemente. A abstinência causa instabilidade severa e, eventualmente, colapso neural fatal.</USAC_NeuroBoosterAddiction.description>
+  <USAC_NeuroBoosterAddiction.label>dependência de neuro-potenciador</USAC_NeuroBoosterAddiction.label>
+  <USAC_NeuroBoosterAddiction.stages.1.label>não atendida</USAC_NeuroBoosterAddiction.stages.1.label>
+  <USAC_NeuroBoosterAddiction.stages.unmet.label>não atendida</USAC_NeuroBoosterAddiction.stages.unmet.label>
+  <USAC_NeuroBoosterHigh.description>Nanomáquinas estão aprimorando as vias neurais, aumentando a largura de banda e a percepção à custa de dor constante.</USAC_NeuroBoosterHigh.description>
+  <USAC_NeuroBoosterHigh.label>aprimoramento neural</USAC_NeuroBoosterHigh.label>
+  <USAC_NeuroBoosterHigh.stages.0.label>camada 1</USAC_NeuroBoosterHigh.stages.0.label>
+  <USAC_NeuroBoosterHigh.stages.1.label>camada 2</USAC_NeuroBoosterHigh.stages.1.label>
+  <USAC_NeuroBoosterHigh.stages.10.label>camada 11</USAC_NeuroBoosterHigh.stages.10.label>
+  <USAC_NeuroBoosterHigh.stages.11.label>camada 12</USAC_NeuroBoosterHigh.stages.11.label>
+  <USAC_NeuroBoosterHigh.stages.12.label>camada 13</USAC_NeuroBoosterHigh.stages.12.label>
+  <USAC_NeuroBoosterHigh.stages.13.label>camada 14</USAC_NeuroBoosterHigh.stages.13.label>
+  <USAC_NeuroBoosterHigh.stages.14.label>camada 15</USAC_NeuroBoosterHigh.stages.14.label>
+  <USAC_NeuroBoosterHigh.stages.15.label>camada 16</USAC_NeuroBoosterHigh.stages.15.label>
+  <USAC_NeuroBoosterHigh.stages.16.label>camada 17</USAC_NeuroBoosterHigh.stages.16.label>
+  <USAC_NeuroBoosterHigh.stages.17.label>camada 18</USAC_NeuroBoosterHigh.stages.17.label>
+  <USAC_NeuroBoosterHigh.stages.18.label>camada 19</USAC_NeuroBoosterHigh.stages.18.label>
+  <USAC_NeuroBoosterHigh.stages.19.label>camada 20</USAC_NeuroBoosterHigh.stages.19.label>
+  <USAC_NeuroBoosterHigh.stages.2.label>camada 3</USAC_NeuroBoosterHigh.stages.2.label>
+  <USAC_NeuroBoosterHigh.stages.3.label>camada 4</USAC_NeuroBoosterHigh.stages.3.label>
+  <USAC_NeuroBoosterHigh.stages.4.label>camada 5</USAC_NeuroBoosterHigh.stages.4.label>
+  <USAC_NeuroBoosterHigh.stages.5.label>camada 6</USAC_NeuroBoosterHigh.stages.5.label>
+  <USAC_NeuroBoosterHigh.stages.6.label>camada 7</USAC_NeuroBoosterHigh.stages.6.label>
+  <USAC_NeuroBoosterHigh.stages.7.label>camada 8</USAC_NeuroBoosterHigh.stages.7.label>
+  <USAC_NeuroBoosterHigh.stages.8.label>camada 9</USAC_NeuroBoosterHigh.stages.8.label>
+  <USAC_NeuroBoosterHigh.stages.9.label>camada 10</USAC_NeuroBoosterHigh.stages.9.label>
+  <USAC_NeuroBoosterHigh.stages.layer_1.label>camada 1</USAC_NeuroBoosterHigh.stages.layer_1.label>
+  <USAC_NeuroBoosterHigh.stages.layer_10.label>camada 10</USAC_NeuroBoosterHigh.stages.layer_10.label>
+  <USAC_NeuroBoosterHigh.stages.layer_11.label>camada 11</USAC_NeuroBoosterHigh.stages.layer_11.label>
+  <USAC_NeuroBoosterHigh.stages.layer_12.label>camada 12</USAC_NeuroBoosterHigh.stages.layer_12.label>
+  <USAC_NeuroBoosterHigh.stages.layer_13.label>camada 13</USAC_NeuroBoosterHigh.stages.layer_13.label>
+  <USAC_NeuroBoosterHigh.stages.layer_14.label>camada 14</USAC_NeuroBoosterHigh.stages.layer_14.label>
+  <USAC_NeuroBoosterHigh.stages.layer_15.label>camada 15</USAC_NeuroBoosterHigh.stages.layer_15.label>
+  <USAC_NeuroBoosterHigh.stages.layer_16.label>camada 16</USAC_NeuroBoosterHigh.stages.layer_16.label>
+  <USAC_NeuroBoosterHigh.stages.layer_17.label>camada 17</USAC_NeuroBoosterHigh.stages.layer_17.label>
+  <USAC_NeuroBoosterHigh.stages.layer_18.label>camada 18</USAC_NeuroBoosterHigh.stages.layer_18.label>
+  <USAC_NeuroBoosterHigh.stages.layer_19.label>camada 19</USAC_NeuroBoosterHigh.stages.layer_19.label>
+  <USAC_NeuroBoosterHigh.stages.layer_2.label>camada 2</USAC_NeuroBoosterHigh.stages.layer_2.label>
+  <USAC_NeuroBoosterHigh.stages.layer_20.label>camada 20</USAC_NeuroBoosterHigh.stages.layer_20.label>
+  <USAC_NeuroBoosterHigh.stages.layer_3.label>camada 3</USAC_NeuroBoosterHigh.stages.layer_3.label>
+  <USAC_NeuroBoosterHigh.stages.layer_4.label>camada 4</USAC_NeuroBoosterHigh.stages.layer_4.label>
+  <USAC_NeuroBoosterHigh.stages.layer_5.label>camada 5</USAC_NeuroBoosterHigh.stages.layer_5.label>
+  <USAC_NeuroBoosterHigh.stages.layer_6.label>camada 6</USAC_NeuroBoosterHigh.stages.layer_6.label>
+  <USAC_NeuroBoosterHigh.stages.layer_7.label>camada 7</USAC_NeuroBoosterHigh.stages.layer_7.label>
+  <USAC_NeuroBoosterHigh.stages.layer_8.label>camada 8</USAC_NeuroBoosterHigh.stages.layer_8.label>
+  <USAC_NeuroBoosterHigh.stages.layer_9.label>camada 9</USAC_NeuroBoosterHigh.stages.layer_9.label>
+  <USAC_PainReliefIngestion.description>Um analgésico de liberação lenta ingerido junto com uma ração tipo B.</USAC_PainReliefIngestion.description>
+  <USAC_PainReliefIngestion.label>efeito analgésico</USAC_PainReliefIngestion.label>
+  <USAC_PainReliefIngestion.labelNoun>efeito analgésico de uma ração</USAC_PainReliefIngestion.labelNoun>
+  <USAC_TempMechlinkKillSwitch.description>Sobrecarrega a interface na morte do usuário, destruindo a meca-conexão.</USAC_TempMechlinkKillSwitch.description>
+  <USAC_TempMechlinkKillSwitch.label>interruptor de destruição da meca-conexão</USAC_TempMechlinkKillSwitch.label>
+  <USAC_TempMechlinkTrigger.description>Um serviço de assinatura de largura de banda executado pela rede de satélites da USAC. Fornece 6 de largura de banda e é perdido com a morte cerebral ou quando a assinatura expira.</USAC_TempMechlinkTrigger.description>
+  <USAC_TempMechlinkTrigger.label>meca-conexão temporária</USAC_TempMechlinkTrigger.label>
+</LanguageData>

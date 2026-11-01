@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NBM_AllOff>Tudo desativado</NBM_AllOff>
+  <NBM_AllOn>Tudo ativado</NBM_AllOn>
+  <NBM_Base>inflamabilidade base</NBM_Base>
+  <NBM_CollapseAll>Recolher tudo</NBM_CollapseAll>
+  <NBM_DisableAll>Desativar tudo</NBM_DisableAll>
+  <NBM_EnableAll>Ativar tudo</NBM_EnableAll>
+  <NBM_ExpandAll>Expandir tudo</NBM_ExpandAll>
+  <NBM_Factor>fator de inflamabilidade</NBM_Factor>
+  <NBM_HideInactive>Ocultar mods inativos</NBM_HideInactive>
+  <NBM_HideInactiveTip>Mods compatíveis que não estão na sua lista de mods aparecem em cinza, a menos que esta opção esteja ativada.</NBM_HideInactiveTip>
+  <NBM_ItemTip>{0} (de {1})\n\nATIVADO: {2} é definido como 0, portanto não pega fogo.\nDESATIVADO: é usado o valor padrão da def ({3}).\n\nAs alterações são aplicadas imediatamente, sem necessidade de reiniciar.</NBM_ItemTip>
+  <NBM_ModName>No Burn Metal</NBM_ModName>
+  <NBM_NoResults>Nenhum resultado corresponde à sua pesquisa.</NBM_NoResults>
+  <NBM_NotActive>não ativo</NBM_NotActive>
+  <NBM_Search>Pesquisar itens ou mods...</NBM_Search>
+  <NBM_StateOff>Inflamabilidade padrão</NBM_StateOff>
+  <NBM_StateOn>À prova de fogo</NBM_StateOn>
+  <NBM_Summary>{0} de {1} itens são à prova de fogo</NBM_Summary>
+  <NBM_Unset>não definido</NBM_Unset>
+</LanguageData>

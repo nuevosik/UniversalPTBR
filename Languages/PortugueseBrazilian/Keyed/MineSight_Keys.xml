@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MineSight_EnableMarkerClickMineVein>Usar a tecla de mineração de veias + clique no rótulo da veia para designar / cancelar uma veia</MineSight_EnableMarkerClickMineVein>
+  <MineSight_FarThreshold>Limite intermediário / distante: {0} px por célula</MineSight_FarThreshold>
+  <MineSight_MergeNearbyVeins>Mesclar veias próximas do mesmo tipo</MineSight_MergeNearbyVeins>
+  <MineSight_NearThreshold>Limite próximo / intermediário: {0} px por célula</MineSight_NearThreshold>
+  <MineSight_OverlayMode>Sobreposição persistente de minério</MineSight_OverlayMode>
+  <MineSight_OverlayModeAll>Todas as veias</MineSight_OverlayModeAll>
+  <MineSight_OverlayModeContextual>Contextual</MineSight_OverlayModeContextual>
+  <MineSight_OverlayModeFarOnly>Apenas com zoom afastado</MineSight_OverlayModeFarOnly>
+  <MineSight_PressKey>Pressione uma tecla...</MineSight_PressKey>
+  <MineSight_QuickModeAll>Todas as veias</MineSight_QuickModeAll>
+  <MineSight_QuickModeContextual>Contextual</MineSight_QuickModeContextual>
+  <MineSight_QuickModeFarOnly>Apenas com zoom afastado</MineSight_QuickModeFarOnly>
+  <MineSight_ShowHoveredMarker>Mostrar um rótulo para a veia sob o cursor em zoom próximo e intermediário</MineSight_ShowHoveredMarker>
+  <MineSight_ShowLabels>Mostrar rótulos das veias com zoom afastado</MineSight_ShowLabels>
+  <MineSight_ShowOreOverlay>Alternar sobreposição de minério. Clique com o botão direito: modo.</MineSight_ShowOreOverlay>
+  <MineSight_VeinKey>Tecla de mineração de veias</MineSight_VeinKey>
+  <MineSight_VeinKeyResetHint>Clique na caixa, em seguida pressione uma tecla. Clique com o botão direito para redefinir.</MineSight_VeinKeyResetHint>
+</LanguageData>

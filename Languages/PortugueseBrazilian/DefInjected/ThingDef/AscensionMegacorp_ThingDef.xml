@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <USAC_AirFlyBy_Executioner.label>MQ-9 "Executioner"</USAC_AirFlyBy_Executioner.label>
+  <USAC_Ammo_20x102mmNATO_DU.label>20x102mm NATO (UE)</USAC_Ammo_20x102mmNATO_DU.label>
+  <USAC_Ammo_277Fury_DU.label>.277 Fury (UE)</USAC_Ammo_277Fury_DU.label>
+  <USAC_Ammo_338Lapua_DU.label>.338 Lapua Magnum (UE)</USAC_Ammo_338Lapua_DU.label>
+  <USAC_Ammo_35x228mmNATO_DU.label>35x228mm NATO (UE)</USAC_Ammo_35x228mmNATO_DU.label>
+  <USAC_Ammo_762x51mmNATO_DU.label>7.62x51mm NATO (UE)</USAC_Ammo_762x51mmNATO_DU.label>
+  <USAC_Apparel_AssaultHelmet.description>Um capacete tático leve construído em torno de um casco composto de plastiaço. Além da proteção auricular integrada, ele pode receber diversos acessórios opcionais.</USAC_Apparel_AssaultHelmet.description>
+  <USAC_Apparel_AssaultHelmet.label>capacete de assalto</USAC_Apparel_AssaultHelmet.label>
+  <USAC_Apparel_Backpack.description>Uma mochila de campanha grande, feita para longas marchas. Comporta bastante carga, mas não ajuda o usuário a carregar seu peso.</USAC_Apparel_Backpack.description>
+  <USAC_Apparel_Backpack.label>mochila de campo</USAC_Apparel_Backpack.label>
+  <USAC_Apparel_ExoSkeleton.apparel.renderNodeProperties.0.debugLabel>exotraje superior</USAC_Apparel_ExoSkeleton.apparel.renderNodeProperties.0.debugLabel>
+  <USAC_Apparel_ExoSkeleton.apparel.renderNodeProperties.1.debugLabel>exotraje inferior</USAC_Apparel_ExoSkeleton.apparel.renderNodeProperties.1.debugLabel>
+  <USAC_Apparel_ExoSkeleton.comps.CompBulletproofPlate.durabilityDescKey>adiciona {0} às partes do corpo cobertas. As placas perdem durabilidade conforme recebem dano.\n{1}</USAC_Apparel_ExoSkeleton.comps.CompBulletproofPlate.durabilityDescKey>
+  <USAC_Apparel_ExoSkeleton.comps.CompBulletproofPlate.refillDescKey>A durabilidade pode ser restaurada com {0}, recuperando {1} pontos por unidade.</USAC_Apparel_ExoSkeleton.comps.CompBulletproofPlate.refillDescKey>
+  <USAC_Apparel_ExoSkeleton.comps.CompBulletproofPlate.refillVerbKey>reabastecer placas {0} ({1}x {2})</USAC_Apparel_ExoSkeleton.comps.CompBulletproofPlate.refillVerbKey>
+  <USAC_Apparel_ExoSkeleton.description>Um exotraje motorizado acionado por um motor elétrico. Permite ao usuário levantar e operar armas e equipamentos pesados, além de possuir pontos de montagem para placas à prova de balas. Seu projeto remonta à Guerra Fria na Terra antiga e pode ser o mais antigo protótipo conhecido de um exoesqueleto motorizado.</USAC_Apparel_ExoSkeleton.description>
+  <USAC_Apparel_ExoSkeleton.label>unidade motorizada Hardiman</USAC_Apparel_ExoSkeleton.label>
+  <USAC_Apparel_HeavyHelmet.description>Um capacete composto de plastiaço de cobertura total, com proteção frontal reforçada contra estilhaços. Metralhadores e infantaria pesada o utilizam nos pontos mais intensos da linha de frente.</USAC_Apparel_HeavyHelmet.description>
+  <USAC_Apparel_HeavyHelmet.label>capacete pesado</USAC_Apparel_HeavyHelmet.label>
+  <USAC_Apparel_MeleeHelmet.description>Um capacete tático voltado para combates em ambientes fechados. Suas lentes balísticas protegem os olhos de estilhaços e queimaduras, embora em certos ângulos seus reflexos dificultem a mira.</USAC_Apparel_MeleeHelmet.description>
+  <USAC_Apparel_MeleeHelmet.label>capacete gladiador</USAC_Apparel_MeleeHelmet.label>
+  <USAC_Apparel_NightVisionHelmet.description>Um capacete tático leve equipado com óculos de visão noturna, que melhoram drasticamente a pontaria no escuro. Seu centro de gravidade avançado torna as reações do usuário mais lentas em combate corpo a corpo.</USAC_Apparel_NightVisionHelmet.description>
+  <USAC_Apparel_NightVisionHelmet.label>capacete com visão noturna</USAC_Apparel_NightVisionHelmet.label>
+  <USAC_Bond.description>Um certificado físico e registrado, emitido pelos revendedores da United Stellar Armament Company para facções locais durante transações. É feito de um papel especial de fibra de alta tenacidade, impresso com tintas especiais e com sofisticados elementos antifalsificação, além dos dados do proprietário registrado.\n\nO valor excedente de uma negociação com a United Stellar Armament Company pode ser convertido nesses certificados, garantindo poder de compra fixo pelos próximos um ano.\n\nComo cada certificado é registrado, apenas seu proprietário pode utilizá-lo - tornando essa peça de papel notavelmente durável, mas essencialmente inútil para qualquer outra facção nos confins.</USAC_Bond.description>
+  <USAC_Bond.label>título de crédito</USAC_Bond.label>
+  <USAC_Bullet_20x102mmNATO_DU.label>projétil 20x102mm NATO (UE)</USAC_Bullet_20x102mmNATO_DU.label>
+  <USAC_Bullet_277Fury_DU.label>projétil .277 Fury (UE)</USAC_Bullet_277Fury_DU.label>
+  <USAC_Bullet_338Lapua_DU.label>projétil .338 Lapua Magnum (UE)</USAC_Bullet_338Lapua_DU.label>
+  <USAC_Bullet_35mmAPDS.label>projétil 35mm APDS</USAC_Bullet_35mmAPDS.label>
+  <USAC_Bullet_35x228mmNATO_DU.label>projétil 35x228mm NATO (UE)</USAC_Bullet_35x228mmNATO_DU.label>
+  <USAC_Bullet_762x51mmNATO_DU.label>projétil 7.62x51mm NATO (UE)</USAC_Bullet_762x51mmNATO_DU.label>
+  <USAC_Bullet_BeamPluser.label>feixe pulsar</USAC_Bullet_BeamPluser.label>
+  <USAC_Bullet_BushmasterRound.label>projétil encadeado 35mm</USAC_Bullet_BushmasterRound.label>
+  <USAC_Bullet_CASAC.label>projétil de canhão rotativo</USAC_Bullet_CASAC.label>
+  <USAC_Bullet_CASAC_EMP.label>projétil PEM de canhão</USAC_Bullet_CASAC_EMP.label>
+  <USAC_Bullet_FullPowerRifle.label>projétil de rifle de alta potência</USAC_Bullet_FullPowerRifle.label>
+  <USAC_Bullet_GrenadeRound.label>carga moldada programável</USAC_Bullet_GrenadeRound.label>
+  <USAC_Bullet_HeavyAutoCannon.label>projétil de autocanhão pesado</USAC_Bullet_HeavyAutoCannon.label>
+  <USAC_Bullet_HeavyMachineGun.label>projétil de metralhadora pesada</USAC_Bullet_HeavyMachineGun.label>
+  <USAC_Bullet_TorchwoodRound.label>projétil sem recuo de 105mm</USAC_Bullet_TorchwoodRound.label>
+  <USAC_CorpseBag.description>Um saco de tecido para lacrar e transportar material orgânico. Mantém grandes quantidades de cadáveres armazenadas de forma higiênica e compacta durante o transporte refrigerado. Também serve como substituto da moeda ao negociar com empresas armadas envolvidas em desenvolvimento pacífico e pesquisa científica.</USAC_CorpseBag.description>
+  <USAC_CorpseBag.label>saco para cadáveres</USAC_CorpseBag.label>
+  <USAC_CorpseStorage.description>O único recipiente para armazenamento de cadáveres atualmente certificado como humano pela USAC. Comporta vários corpos em um espaço compacto. Só pode ser encomendado por meio de revendedores autorizados pela USAC. Um grande avanço em relação aos sacos para cadáveres: a refrigeração motorizada garante que os corpos armazenados não percam valor com o tempo, tornando-o a melhor opção para preservação a longo prazo.</USAC_CorpseStorage.description>
+  <USAC_CorpseStorage.label>solução padrão de armazenamento de cadáveres da USAC</USAC_CorpseStorage.label>
+  <USAC_CrateIncoming.label>caixa (a caminho)</USAC_CrateIncoming.label>
+  <USAC_Crate_Large.description>Uma caixa de suprimentos lacrada, usada pela USAC para lançar equipamentos e materiais do ar. Deixada para trás após operações de mineração. Pode ser aberta para reivindicar seu conteúdo.</USAC_Crate_Large.description>
+  <USAC_Crate_Large.label>caixa de suprimentos da USAC (G)</USAC_Crate_Large.label>
+  <USAC_Crate_Large_Empty.description>Uma caixa de suprimentos da USAC vazia. Fornece alguma cobertura.</USAC_Crate_Large_Empty.description>
+  <USAC_Crate_Large_Empty.label>caixa de suprimentos da USAC vazia (G)</USAC_Crate_Large_Empty.label>
+  <USAC_Crate_Medium.description>Uma caixa de suprimentos lacrada, usada pela USAC para lançar equipamentos e materiais do ar. Deixada para trás após operações de mineração. Pode ser aberta para reivindicar seu conteúdo.</USAC_Crate_Medium.description>
+  <USAC_Crate_Medium.label>caixa de suprimentos da USAC (M)</USAC_Crate_Medium.label>
+  <USAC_Crate_Medium_Empty.description>Uma caixa de suprimentos da USAC vazia. Fornece alguma cobertura.</USAC_Crate_Medium_Empty.description>
+  <USAC_Crate_Medium_Empty.label>caixa de suprimentos da USAC vazia (M)</USAC_Crate_Medium_Empty.label>
+  <USAC_Crate_Small.description>Uma caixa de suprimentos lacrada, usada pela USAC para lançar equipamentos e materiais do ar. Deixada para trás após operações de mineração. Pode ser aberta para reivindicar seu conteúdo.</USAC_Crate_Small.description>
+  <USAC_Crate_Small.label>caixa de suprimentos da USAC (P)</USAC_Crate_Small.label>
+  <USAC_Crate_Small_Empty.description>Uma caixa de suprimentos da USAC vazia. Fornece alguma cobertura.</USAC_Crate_Small_Empty.description>
+  <USAC_Crate_Small_Empty.label>caixa de suprimentos da USAC vazia (P)</USAC_Crate_Small_Empty.label>
+  <USAC_DisposableBattery.comps.CompUsable.useLabel>Usar bateria para carregar mecanoide</USAC_DisposableBattery.comps.CompUsable.useLabel>
+  <USAC_DisposableBattery.description>Uma bateria descartável projetada para carregar mecanoides rapidamente. Para evitar riscos de segurança por modificações não autorizadas, foi projetada para curto-circuitar e se autodestruir após um único uso.</USAC_DisposableBattery.description>
+  <USAC_DisposableBattery.label>bateria descartável</USAC_DisposableBattery.label>
+  <USAC_DisposableRepairTool.comps.CompUsable.useLabel>Usar kit para reparar mecanoide</USAC_DisposableRepairTool.comps.CompUsable.useLabel>
+  <USAC_DisposableRepairTool.description>Um recipiente quadrado de nanoarmazenamento que libera nanomáquinas para analisar e reparar estruturas danificadas. É de uso único, por questões de segurança e conformidade corporativa.</USAC_DisposableRepairTool.description>
+  <USAC_DisposableRepairTool.label>ferramenta de reparo descartável</USAC_DisposableRepairTool.label>
+  <USAC_DrillShellProjectile.label>projétil de perfuração orbital da USAC</USAC_DrillShellProjectile.label>
+  <USAC_GripperIncoming.label>garra orbital (a caminho)</USAC_GripperIncoming.label>
+  <USAC_Gun_ACSW.description>O Projeto ACSW M307 "Terminator", um lançador de granadas automático leve que espalha granadas de fragmentação pelas formações inimigas. É necessário um exotraje para carregar tanto a arma quanto sua munição.</USAC_Gun_ACSW.description>
+  <USAC_Gun_ACSW.label>arma de apoio avançada</USAC_Gun_ACSW.label>
+  <USAC_Gun_ACSW.tools.0.label>coronha</USAC_Gun_ACSW.tools.0.label>
+  <USAC_Gun_ACSW.tools.1.label>cano</USAC_Gun_ACSW.tools.1.label>
+  <USAC_Gun_ACSW.tools.barrel.label>cano</USAC_Gun_ACSW.tools.barrel.label>
+  <USAC_Gun_ACSW.tools.stock.label>coronha</USAC_Gun_ACSW.tools.stock.label>
+  <USAC_Gun_ACSW.verbs.Verb_ShootCE.label>arma de apoio avançada</USAC_Gun_ACSW.verbs.Verb_ShootCE.label>
+  <USAC_Gun_AssaultRifle.description>Um rifle de precisão avançado que equilibra com maestria precisão, potência e peso. Sua munição de alta potência perfura placas balísticas convencionais, embora dispare mais lentamente que um fuzil de assalto comum.</USAC_Gun_AssaultRifle.description>
+  <USAC_Gun_AssaultRifle.label>fuzil automático avançado</USAC_Gun_AssaultRifle.label>
+  <USAC_Gun_AssaultRifle.tools.0.label>coronha</USAC_Gun_AssaultRifle.tools.0.label>
+  <USAC_Gun_AssaultRifle.tools.1.label>cano</USAC_Gun_AssaultRifle.tools.1.label>
+  <USAC_Gun_AssaultRifle.tools.barrel.label>cano</USAC_Gun_AssaultRifle.tools.barrel.label>
+  <USAC_Gun_AssaultRifle.tools.stock.label>coronha</USAC_Gun_AssaultRifle.tools.stock.label>
+  <USAC_Gun_AssaultRifle.verbs.Verb_Shoot.label>fuzil automático avançado</USAC_Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  <USAC_Gun_AssaultRifle.verbs.Verb_ShootCE.label>fuzil automático avançado</USAC_Gun_AssaultRifle.verbs.Verb_ShootCE.label>
+  <USAC_Gun_BattleRifle.description>O M29 "SABR", uma plataforma de arma de infantaria que combina um rifle automático com um lançador de granadas, capaz tanto de supressão direta quanto de apoio indireto. É pesada, mas notavelmente precisa - uma arma ideal para o atirador designado de uma pequena unidade.</USAC_Gun_BattleRifle.description>
+  <USAC_Gun_BattleRifle.label>fuzil de batalha avançado</USAC_Gun_BattleRifle.label>
+  <USAC_Gun_BattleRifle.verbs.Verb_Shoot.label>fuzil de batalha avançado</USAC_Gun_BattleRifle.verbs.Verb_Shoot.label>
+  <USAC_Gun_BattleRifle.verbs.Verb_ShootCE.label>fuzil de batalha avançado</USAC_Gun_BattleRifle.verbs.Verb_ShootCE.label>
+  <USAC_Gun_BushmasterAC.description>Um canhão em cadeia de grande calibre M901 "Bushmaster III", projetado para ser montado em veículos blindados e aeronaves. Dispara munição perfurante de urânio empobrecido que atravessa infantaria e blindagem leve com facilidade.</USAC_Gun_BushmasterAC.description>
+  <USAC_Gun_BushmasterAC.label>Autocanhão Bushmaster</USAC_Gun_BushmasterAC.label>
+  <USAC_Gun_BushmasterAC.tools.0.label>coronha</USAC_Gun_BushmasterAC.tools.0.label>
+  <USAC_Gun_BushmasterAC.tools.1.label>cano</USAC_Gun_BushmasterAC.tools.1.label>
+  <USAC_Gun_BushmasterAC.tools.barrel.label>cano</USAC_Gun_BushmasterAC.tools.barrel.label>
+  <USAC_Gun_BushmasterAC.tools.muzzle.label>boca do cano</USAC_Gun_BushmasterAC.tools.muzzle.label>
+  <USAC_Gun_BushmasterAC.tools.stock.label>coronha</USAC_Gun_BushmasterAC.tools.stock.label>
+  <USAC_Gun_BushmasterAC.verbs.Verb_ShootCE.label>Autocanhão Bushmaster</USAC_Gun_BushmasterAC.verbs.Verb_ShootCE.label>
+  <USAC_Gun_CobraAC.description>Um rifle de assalto de grande porte projetado para fornecer fogo de supressão. Armamento padrão para autômatos médios, também pode ser empunhado por humanos aumentados de grande porte ou soldados equipados com exoesqueletos pesados. Sua alta cadência de tiro o torna eficaz para supressão prolongada contra alvos de infantaria.</USAC_Gun_CobraAC.description>
+  <USAC_Gun_CobraAC.label>Canhão de assalto Cobra</USAC_Gun_CobraAC.label>
+  <USAC_Gun_CobraAC.tools.0.label>coronha</USAC_Gun_CobraAC.tools.0.label>
+  <USAC_Gun_CobraAC.tools.1.label>cano</USAC_Gun_CobraAC.tools.1.label>
+  <USAC_Gun_CobraAC.tools.barrel.label>cano</USAC_Gun_CobraAC.tools.barrel.label>
+  <USAC_Gun_CobraAC.tools.muzzle.label>boca do cano</USAC_Gun_CobraAC.tools.muzzle.label>
+  <USAC_Gun_CobraAC.tools.stock.label>coronha</USAC_Gun_CobraAC.tools.stock.label>
+  <USAC_Gun_CobraAC.verbs.Verb_ShootCE.label>Canhão de assalto Cobra</USAC_Gun_CobraAC.verbs.Verb_ShootCE.label>
+  <USAC_Gun_LightMachinegun.description>Uma metralhadora leve reformada para fogo sustentado, com cano resfriado a ar e alimentação por cinta. Seus projéteis de potência total perfuram blindagem balística convencional, mas a arma é volumosa o suficiente para que seu usuário precise do restante do esquadrão para cobri-lo.</USAC_Gun_LightMachinegun.description>
+  <USAC_Gun_LightMachinegun.label>LMG avançada</USAC_Gun_LightMachinegun.label>
+  <USAC_Gun_LightMachinegun.tools.0.label>coronha</USAC_Gun_LightMachinegun.tools.0.label>
+  <USAC_Gun_LightMachinegun.tools.1.label>cano</USAC_Gun_LightMachinegun.tools.1.label>
+  <USAC_Gun_LightMachinegun.tools.barrel.label>cano</USAC_Gun_LightMachinegun.tools.barrel.label>
+  <USAC_Gun_LightMachinegun.tools.stock.label>coronha</USAC_Gun_LightMachinegun.tools.stock.label>
+  <USAC_Gun_LightMachinegun.verbs.Verb_Shoot.label>LMG avançada</USAC_Gun_LightMachinegun.verbs.Verb_Shoot.label>
+  <USAC_Gun_LightMachinegun.verbs.Verb_ShootCE.label>LMG avançada</USAC_Gun_LightMachinegun.verbs.Verb_ShootCE.label>
+  <USAC_Gun_MarksmanRifle.description>Um rifle de precisão modificado para disparos rápidos em sequência a longa distância. Sua munição de potência total ainda derrota blindagem balística convencional à distância, tornando-o uma arma ideal para atiradores de precisão.</USAC_Gun_MarksmanRifle.description>
+  <USAC_Gun_MarksmanRifle.label>Rifle de precisão avançado</USAC_Gun_MarksmanRifle.label>
+  <USAC_Gun_MarksmanRifle.tools.0.label>coronha</USAC_Gun_MarksmanRifle.tools.0.label>
+  <USAC_Gun_MarksmanRifle.tools.1.label>cano</USAC_Gun_MarksmanRifle.tools.1.label>
+  <USAC_Gun_MarksmanRifle.tools.barrel.label>cano</USAC_Gun_MarksmanRifle.tools.barrel.label>
+  <USAC_Gun_MarksmanRifle.tools.stock.label>coronha</USAC_Gun_MarksmanRifle.tools.stock.label>
+  <USAC_Gun_MarksmanRifle.verbs.Verb_Shoot.label>Rifle de precisão avançado</USAC_Gun_MarksmanRifle.verbs.Verb_Shoot.label>
+  <USAC_Gun_MarksmanRifle.verbs.Verb_ShootCE.label>Rifle de precisão avançado</USAC_Gun_MarksmanRifle.verbs.Verb_ShootCE.label>
+  <USAC_Gun_OSW.description>O Projeto OSW M109 "Payload", um lançador de granadas de precisão carregado por infantaria em exoesqueleto. Suas granadas de carga moldada são precisas o suficiente para remover a blindagem superficial e os sensores externos de um alvo.</USAC_Gun_OSW.description>
+  <USAC_Gun_OSW.label>Arma de precisão para objetivo</USAC_Gun_OSW.label>
+  <USAC_Gun_OSW.tools.0.label>coronha</USAC_Gun_OSW.tools.0.label>
+  <USAC_Gun_OSW.tools.1.label>cano</USAC_Gun_OSW.tools.1.label>
+  <USAC_Gun_OSW.tools.barrel.label>cano</USAC_Gun_OSW.tools.barrel.label>
+  <USAC_Gun_OSW.tools.stock.label>coronha</USAC_Gun_OSW.tools.stock.label>
+  <USAC_Gun_OSW.verbs.Verb_ShootCE.label>Arma de precisão para objetivo</USAC_Gun_OSW.verbs.Verb_ShootCE.label>
+  <USAC_Gun_OpticInterceptor.description>Um sistema de feixe de pulso de alta potência capaz de interceptar projéteis em baixa altitude, assim como de destruir infantaria e blindagem. Plataformas de armas projetadas para guerra urbana o utilizam amplamente como sistema antimíssil e antidrone.</USAC_Gun_OpticInterceptor.description>
+  <USAC_Gun_OpticInterceptor.label>XM931 Pulsar II</USAC_Gun_OpticInterceptor.label>
+  <USAC_Gun_OpticInterceptor.tools.0.label>cano</USAC_Gun_OpticInterceptor.tools.0.label>
+  <USAC_Gun_OpticInterceptor.tools.barrel.label>cano</USAC_Gun_OpticInterceptor.tools.barrel.label>
+  <USAC_Gun_OpticInterceptor.verbs.Verb_ShootBeam.label>XM931 Pulsar II</USAC_Gun_OpticInterceptor.verbs.Verb_ShootBeam.label>
+  <USAC_Gun_TorchwoodRR.description>O M40A3 "Torchwood", um rifle sem recuo pesado com sistema de carregamento automático. Seu funcionamento sem recuo o torna leve para seu calibre, e seu projétil explosivo fragmentado o torna uma excelente arma anti-fortificações — devastador contra infantaria em massa e estruturas.</USAC_Gun_TorchwoodRR.description>
+  <USAC_Gun_TorchwoodRR.label>Rifle sem recuo Torchwood</USAC_Gun_TorchwoodRR.label>
+  <USAC_Gun_TorchwoodRR.tools.0.label>coronha</USAC_Gun_TorchwoodRR.tools.0.label>
+  <USAC_Gun_TorchwoodRR.tools.1.label>cano</USAC_Gun_TorchwoodRR.tools.1.label>
+  <USAC_Gun_TorchwoodRR.tools.barrel.label>cano</USAC_Gun_TorchwoodRR.tools.barrel.label>
+  <USAC_Gun_TorchwoodRR.tools.muzzle.label>boca do cano</USAC_Gun_TorchwoodRR.tools.muzzle.label>
+  <USAC_Gun_TorchwoodRR.tools.stock.label>coronha</USAC_Gun_TorchwoodRR.tools.stock.label>
+  <USAC_Gun_TorchwoodRR.verbs.Verb_ShootCE.label>Rifle sem recuo Torchwood</USAC_Gun_TorchwoodRR.verbs.Verb_ShootCE.label>
+  <USAC_Gun_ViperDMR.description>Um sistema de arma antimaterial de grande calibre M905 "Viper" que utiliza munição de canhão automático. Projetado para ser montado em autômatos médios, também pode ser empunhado por humanos aumentados de grande porte ou soldados equipados com exoesqueletos pesados. Destaca-se em ataques de precisão a longa distância contra alvos blindados.</USAC_Gun_ViperDMR.description>
+  <USAC_Gun_ViperDMR.label>Viper DMR</USAC_Gun_ViperDMR.label>
+  <USAC_Gun_ViperDMR.tools.0.label>coronha</USAC_Gun_ViperDMR.tools.0.label>
+  <USAC_Gun_ViperDMR.tools.1.label>cano</USAC_Gun_ViperDMR.tools.1.label>
+  <USAC_Gun_ViperDMR.tools.barrel.label>cano</USAC_Gun_ViperDMR.tools.barrel.label>
+  <USAC_Gun_ViperDMR.tools.muzzle.label>boca do cano</USAC_Gun_ViperDMR.tools.muzzle.label>
+  <USAC_Gun_ViperDMR.tools.stock.label>coronha</USAC_Gun_ViperDMR.tools.stock.label>
+  <USAC_Gun_ViperDMR.verbs.Verb_ShootCE.label>Viper DMR</USAC_Gun_ViperDMR.verbs.Verb_ShootCE.label>
+  <USAC_HESCO.description>Uma barreira feita a partir de uma gaiola de malha de arame colapsável revestida com tecido resistente e preenchida com terra. Usada como dique temporário ou semipermanente ou como parede de proteção contra explosões.</USAC_HESCO.description>
+  <USAC_HESCO.label>Muro HESCO</USAC_HESCO.label>
+  <USAC_HeavyMachineGunMounted.description>Uma metralhadora pesada de uso geral construída em estrutura composta leve, presente em plataformas de armas e defesas fixas em todo lugar. Há muito tempo, antes da guerra interromper os materiais necessários, foi um substituto muito bem-sucedido da metralhadora pesada M2.</USAC_HeavyMachineGunMounted.description>
+  <USAC_HeavyMachineGunMounted.label>Foxhound GPMG</USAC_HeavyMachineGunMounted.label>
+  <USAC_HeavyMachineGunMounted.verbs.Verb_Shoot.label>Foxhound GPMG</USAC_HeavyMachineGunMounted.verbs.Verb_Shoot.label>
+  <USAC_HeavyMachineGunMounted.verbs.Verb_ShootCE.label>Foxhound GPMG</USAC_HeavyMachineGunMounted.verbs.Verb_ShootCE.label>
+  <USAC_HeavyMiningRig.description>Uma plataforma pesada de escavação vertical entregue por queda orbital. Uma bateria nuclear interna a alimenta, e sua capacidade de decolagem e pouso verticais permite reposicioná-la livremente ou retorná-la à órbita por conta própria.\n\nEla extrai minério bombeando água subterrânea pressurizada em veios profundos para fraturá-los, depois sugando a lama rica em minério — altamente automatizada e minuciosa o suficiente para que infestações nunca se estabeleçam. No entanto, a filtragem dessa lama descarrega enormes volumes de águas residuais carregadas com metais pesados e material radioativo, e a terra ao redor paga o preço por isso.</USAC_HeavyMiningRig.description>
+  <USAC_HeavyMiningRig.label>Plataforma de mineração de assalto</USAC_HeavyMiningRig.label>
+  <USAC_MICLIC_Segment.label>Segmento de linha de desminagem</USAC_MICLIC_Segment.label>
+  <USAC_MealSurvivalPack.description>Uma refeição militar: um pãozinho partido, um hambúrguer de proteína comprimido e um molho picante. Sua embalagem selada patenteada a mantém comestível por décadas e pode ser aquecida sem abrir. Além de seu valor calórico confiável, contém um analgésico de liberação lenta que alivia a dor por cerca de meio dia.</USAC_MealSurvivalPack.description>
+  <USAC_MealSurvivalPack.label>Ração B</USAC_MealSurvivalPack.label>
+  <USAC_MealSurvivalPackHeated.description>Uma ração B aquecida antes de servir. O pãozinho e o molho aquecidos a tornam menos desagradável, enquanto a fórmula analgésica de liberação prolongada ainda proporciona alívio temporário da dor. O departamento de seguros da USAC rejeita todas as reclamações por deterioração, decomposição ou intoxicação alimentar causadas por produtos aquecidos.</USAC_MealSurvivalPackHeated.description>
+  <USAC_MealSurvivalPackHeated.label>Ração B aquecida</USAC_MealSurvivalPackHeated.label>
+  <USAC_MechIncoming.label>mecanoide (chegando)</USAC_MechIncoming.label>
+  <USAC_MechOrder_Cobalt.description>Um contrato militar da USAC para um mecanoide de carga M7 "Cobalt". Após a compra, um mecanoide inativo será entregue por cápsula de queda.</USAC_MechOrder_Cobalt.description>
+  <USAC_MechOrder_Cobalt.label>Pedido do M7 "Cobalt"</USAC_MechOrder_Cobalt.label>
+  <USAC_MechOrder_Gonk.description>Um contrato militar da USAC para um mecanoide de artilharia pesada XM3 "Gonk". Após a compra, um mecanoide inativo será entregue por cápsula de queda.</USAC_MechOrder_Gonk.description>
+  <USAC_MechOrder_Gonk.label>Pedido do XM3 "Gonk"</USAC_MechOrder_Gonk.label>
+  <USAC_MechOrder_Omaha.description>Um contrato militar da USAC para um mecanoide de assalto anfíbio M110 "Omaha". Após a compra, um mecanoide inativo será entregue por cápsula de queda.</USAC_MechOrder_Omaha.description>
+  <USAC_MechOrder_Omaha.label>Pedido do M110 "Omaha"</USAC_MechOrder_Omaha.label>
+  <USAC_MechOrder_Paraman.description>Um contrato militar da USAC para uma unidade aerotransportada M939 "Paraman". Após a compra, um mecanoide inativo será entregue por cápsula de queda.</USAC_MechOrder_Paraman.description>
+  <USAC_MechOrder_Paraman.label>Pedido do M939 "Paraman"</USAC_MechOrder_Paraman.label>
+  <USAC_MechOrder_Rocky.description>Um contrato militar da USAC para uma unidade de infantaria sintética M88 "Rocky". Após a compra, um mecanoide inativo será entregue por cápsula de queda.</USAC_MechOrder_Rocky.description>
+  <USAC_MechOrder_Rocky.label>Pedido do M88 "Rocky"</USAC_MechOrder_Rocky.label>
+  <USAC_Mech_Cobalt.description>Um mecanoide quadrúpede médio de carga com metralhadora integrada. Sua blindagem resiste a tiros de escopeta, transporta carga e possui um dispensador de granadas de fumaça.</USAC_Mech_Cobalt.description>
+  <USAC_Mech_Cobalt.label>M7 "Cobalt"</USAC_Mech_Cobalt.label>
+  <USAC_Mech_Cobalt.tools.head.label>cabeça</USAC_Mech_Cobalt.tools.head.label>
+  <USAC_Mech_Gonk.description>Um mecanoide de artilharia pesada autopropulsado: blindagem de nível de tanque, poder de fogo extremo a longa distância e velocidade quase nula. Construído sobre o chassi Geochelone.</USAC_Mech_Gonk.description>
+  <USAC_Mech_Gonk.label>XM3 "Gonk"</USAC_Mech_Gonk.label>
+  <USAC_Mech_Gonk.tools.0.label>cabeça</USAC_Mech_Gonk.tools.0.label>
+  <USAC_Mech_Gonk.tools.head.label>cabeça</USAC_Mech_Gonk.tools.head.label>
+  <USAC_Mech_Omaha.description>Um mecanoide anfíbio de assalto, igualmente à vontade em terra e na água, fornecendo apoio de fogo de curto e médio alcance para operações da USAC. Construído sobre o chassi pesado de andador Krepost.</USAC_Mech_Omaha.description>
+  <USAC_Mech_Omaha.label>M110 "Omaha"</USAC_Mech_Omaha.label>
+  <USAC_Mech_Omaha.tools.0.label>cabeça mecânica</USAC_Mech_Omaha.tools.0.label>
+  <USAC_Mech_Omaha.tools.1.label>perna esquerda</USAC_Mech_Omaha.tools.1.label>
+  <USAC_Mech_Omaha.tools.2.label>perna direita</USAC_Mech_Omaha.tools.2.label>
+  <USAC_Mech_Omaha.tools.head.label>cabeça</USAC_Mech_Omaha.tools.head.label>
+  <USAC_Mech_Omaha.tools.left_leg.label>perna esquerda</USAC_Mech_Omaha.tools.left_leg.label>
+  <USAC_Mech_Omaha.tools.mechanical_head.label>cabeça mecânica</USAC_Mech_Omaha.tools.mechanical_head.label>
+  <USAC_Mech_Omaha.tools.right_leg.label>perna direita</USAC_Mech_Omaha.tools.right_leg.label>
+  <USAC_Mech_Paraman.description>Uma unidade aérea mecanizada média construída para implantação rápida, trocando poder de fogo por mobilidade. Construída sobre o chassi de quadro de batalha.</USAC_Mech_Paraman.description>
+  <USAC_Mech_Paraman.label>M939 "Paraman"</USAC_Mech_Paraman.label>
+  <USAC_Mech_Paraman.tools.head.label>cabeça</USAC_Mech_Paraman.tools.head.label>
+  <USAC_Mech_Paraman.tools.left_fist.label>punho esquerdo</USAC_Mech_Paraman.tools.left_fist.label>
+  <USAC_Mech_Paraman.tools.right_fist.label>punho direito</USAC_Mech_Paraman.tools.right_fist.label>
+  <USAC_Mech_Rocky.description>Uma unidade de infantaria sintética do Corpo de Fuzileiros Navais da USAC. Ela manuseia armas de infantaria padrão e usa armadura humana, fornecendo apoio confiável de infantaria com proteção moderada.</USAC_Mech_Rocky.description>
+  <USAC_Mech_Rocky.label>M88 "Rocky"</USAC_Mech_Rocky.label>
+  <USAC_Mech_Rocky.tools.head.label>cabeça</USAC_Mech_Rocky.tools.head.label>
+  <USAC_Mech_Rocky.tools.left_fist.label>punho esquerdo</USAC_Mech_Rocky.tools.left_fist.label>
+  <USAC_Mech_Rocky.tools.right_fist.label>punho direito</USAC_Mech_Rocky.tools.right_fist.label>
+  <USAC_MiningRigIncoming.label>plataforma de mineração (chegando)</USAC_MiningRigIncoming.label>
+  <USAC_MiningRigLeaving.label>plataforma de mineração (partindo)</USAC_MiningRigLeaving.label>
+  <USAC_Mote_PluserBeamLaser.label>Partícula</USAC_Mote_PluserBeamLaser.label>
+  <USAC_NeuroBooster.description>Um soro neuro-reativador potente que aprimora a atividade neural e o raciocínio lógico. Amplamente utilizado por trabalhadores técnicos e soldados da USAC. É altamente viciante e deve ser tomado regularmente para manter o usuário estável, mas proporciona um aumento substancial na largura de banda neural e na percepção.\n\nUm pequeno número de indivíduos suscetíveis morreu de choque anafilático inexplicável enquanto a atividade das nanomáquinas estava baixa. A USAC afirma possuir evidências substanciais de que o produto é inofensivo.</USAC_NeuroBooster.description>
+  <USAC_NeuroBooster.ingestible.ingestCommandString>Injetar {0}</USAC_NeuroBooster.ingestible.ingestCommandString>
+  <USAC_NeuroBooster.ingestible.ingestReportString>Injetando {0}.</USAC_NeuroBooster.ingestible.ingestReportString>
+  <USAC_NeuroBooster.label>neuro-potenciador</USAC_NeuroBooster.label>
+  <USAC_PawnFlyer_Shovel.label>voando</USAC_PawnFlyer_Shovel.label>
+  <USAC_Proj_BombCAS.label>bomba guiada</USAC_Proj_BombCAS.label>
+  <USAC_Proj_RocketCAS.label>foguete Hydra</USAC_Proj_RocketCAS.label>
+  <USAC_Projectile_MICLIC_Towed.label>foguete rebocado de desminagem</USAC_Projectile_MICLIC_Towed.label>
+  <USAC_TempMechlink.comps.CompUsableImplant.useLabel>Injetar {0_label} para se tornar um mecanizador</USAC_TempMechlink.comps.CompUsableImplant.useLabel>
+  <USAC_TempMechlink.description>Um soro neuro-reativador que forma uma interface neural temporária, ligando o usuário à rede de satélites da USAC para o controle de mecanoides mediante assinatura. Funciona apenas enquanto houver atividade cerebral.</USAC_TempMechlink.description>
+  <USAC_TempMechlink.label>soro de vínculo mecânico</USAC_TempMechlink.label>
+  <USAC_TransportIncoming.label>transporte orbital (chegando)</USAC_TransportIncoming.label>
+  <USAC_Turret_HMG.description>Uma metralhadora pesada de uso geral construída sobre uma estrutura leve composta, encontrada em plataformas de armas e defesas fixas em todo o mundo. Há muito tempo foi um substituto altamente bem-sucedido para a metralhadora pesada M2.</USAC_Turret_HMG.description>
+  <USAC_Turret_HMG.label>metralhadora sentinela pesada</USAC_Turret_HMG.label>
+  <USAC_Wreck_Cobalt.description>Os destroços de um mecanoide da USAC destruído. Podem ser reinstalados como decoração ou desmontados para obtenção de sucata básica.</USAC_Wreck_Cobalt.description>
+  <USAC_Wreck_Cobalt.label>destroços do M7 Cobalt</USAC_Wreck_Cobalt.label>
+  <USAC_Wreck_Gonk.description>Os destroços de um mecanoide da USAC destruído. Podem ser reinstalados como decoração ou desmontados para obtenção de sucata básica.</USAC_Wreck_Gonk.description>
+  <USAC_Wreck_Gonk.label>destroços do XM3 Gonk</USAC_Wreck_Gonk.label>
+  <USAC_Wreck_Omaha.description>Os destroços de um mecanoide da USAC destruído. Podem ser reinstalados como decoração ou desmontados para obtenção de sucata básica.</USAC_Wreck_Omaha.description>
+  <USAC_Wreck_Omaha.label>destroços do M110 Omaha</USAC_Wreck_Omaha.label>
+  <USAC_Wreck_Paraman.description>Os destroços de um mecanoide da USAC destruído. Podem ser reinstalados como decoração ou desmontados para obtenção de sucata básica.</USAC_Wreck_Paraman.description>
+  <USAC_Wreck_Paraman.label>destroços do M939 Paraman</USAC_Wreck_Paraman.label>
+  <USAC_Wreck_Rocky.description>Os destroços de um mecanoide da USAC destruído. Podem ser reinstalados como decoração ou desmontados para obtenção de sucata básica.</USAC_Wreck_Rocky.description>
+  <USAC_Wreck_Rocky.label>destroços do M88 Rocky</USAC_Wreck_Rocky.label>
+</LanguageData>

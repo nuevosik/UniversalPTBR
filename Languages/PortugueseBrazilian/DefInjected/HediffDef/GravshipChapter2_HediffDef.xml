@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI2_ExtremeRegeneration.description>Esta criatura é capaz de regenerar instantaneamente todos os ferimentos. A exposição ao fogo interromperá temporariamente sua capacidade de regeneração.</VFEI2_ExtremeRegeneration.description>
+  <VFEI2_ExtremeRegeneration.label>regeneração extrema</VFEI2_ExtremeRegeneration.label>
+  <VFEI2_ExtremeRegeneration_Inactive.description>Esta criatura é capaz de regenerar instantaneamente todos os ferimentos. A exposição ao fogo interromperá temporariamente sua capacidade de regeneração.</VFEI2_ExtremeRegeneration_Inactive.description>
+  <VFEI2_ExtremeRegeneration_Inactive.label>regeneração extrema (inativa)</VFEI2_ExtremeRegeneration_Inactive.label>
+  <VFEI2_NullipedeSpawn.description>Uma larva insetoide em gestação. Começando como um pequeno ovo, ela absorverá rapidamente nutrientes e crescerá, causando cada vez mais dor ao hospedeiro. Em pouco tempo, assumirá o controle do sistema nervoso, crescerá e se espalhará pelo corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando o hospedeiro no processo. Durante seu crescimento, a larva absorve as memórias do hospedeiro, o que tornará o insetoide amigável à sua colônia.</VFEI2_NullipedeSpawn.description>
+  <VFEI2_NullipedeSpawn.label>larva nullipede</VFEI2_NullipedeSpawn.label>
+  <VFEI2_NullipedeSpawn.stages.0.label>ovo</VFEI2_NullipedeSpawn.stages.0.label>
+  <VFEI2_NullipedeSpawn.stages.1.label>larva</VFEI2_NullipedeSpawn.stages.1.label>
+  <VFEI2_NullipedeSpawn.stages.2.label>pupa</VFEI2_NullipedeSpawn.stages.2.label>
+  <VFEI2_NullipedeSpawn.stages.3.label>juvenil</VFEI2_NullipedeSpawn.stages.3.label>
+  <VGE_AstrofuelProduction.description>Esta pessoa desenvolveu sacos voláteis de astrofuel semelhantes a uma cauda, aumentando drasticamente sua suscetibilidade a danos por fogo. Se envolta em chamas grandes o suficiente ou ao morrer, ela explode em uma devastadora explosão de astrofire. Além disso, esses sacos podem ser "ordenhados" periodicamente para produzir valioso astrofuel.</VGE_AstrofuelProduction.description>
+  <VGE_AstrofuelProduction.label>produção de astrofuel</VGE_AstrofuelProduction.label>
+  <VGE_ExowormInfestation.description>Larvas parasitas de exoverme escavando e crescendo dentro da carne. À medida que amadurecem, consumirão o tecido local e causarão dor extrema. Sem tratamento agressivo e uma resposta imunológica forte, o verme acabará irrompendo da parte do corpo.</VGE_ExowormInfestation.description>
+  <VGE_ExowormInfestation.label>infestação de exovermes</VGE_ExowormInfestation.label>
+  <VGE_ExowormInfestation.stages.0.label>leve</VGE_ExowormInfestation.stages.0.label>
+  <VGE_ExowormInfestation.stages.1.label>leve</VGE_ExowormInfestation.stages.1.label>
+  <VGE_ExowormInfestation.stages.2.label>se contorcendo</VGE_ExowormInfestation.stages.2.label>
+  <VGE_ExowormInfestation.stages.3.label>inchado</VGE_ExowormInfestation.stages.3.label>
+  <VGE_ExowormInfestation.stages.4.label>irrompendo</VGE_ExowormInfestation.stages.4.label>
+  <VGE_FloatingOrgans.description>Esta pessoa não possui os tecidos conjuntivos internos que normalmente mantêm os órgãos no lugar sob gravidade planetária. Ao ser submetida à gravidade padrão, seus órgãos internos se deslocam e se abaixam dolorosamente, resultando em náusea crônica e letargia persistente.</VGE_FloatingOrgans.description>
+  <VGE_FloatingOrgans.label>órgãos flutuantes</VGE_FloatingOrgans.label>
+  <VGE_Floating_Space.description>No espaço, esta pessoa se move com agilidade aprimorada, trabalha com maior eficiência e desliza sem esforço pelo vácuo espacial.</VGE_Floating_Space.description>
+  <VGE_Floating_Space.label>adaptado à microgravidade</VGE_Floating_Space.label>
+  <VGE_NoPain.description>Esta criatura tem sensibilidade à dor reduzida e demora mais para ser incapacitada pela dor.</VGE_NoPain.description>
+  <VGE_NoPain.label>insensibilidade à dor</VGE_NoPain.label>
+</LanguageData>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <VEF_VerbCooldownFactor.label>fator de recarga de arma de longo alcance</VEF_VerbCooldownFactor.label>
   <VEF_VerbCooldownFactor.description>A recarga das armas é multiplicada por este valor.</VEF_VerbCooldownFactor.description>
@@ -20,4 +20,6 @@
   <VEF_AnimalProductYieldFactor.description>Um multiplicador na quantidade de produtos animais especiais produzidos por este animal.</VEF_AnimalProductYieldFactor.description>
   <VEF_AnimalProductIntervalFactor.label>fator de intervalo de produto animal</VEF_AnimalProductIntervalFactor.label>
   <VEF_AnimalProductIntervalFactor.description>Um multiplicador no intervalo de tempo necessário para este animal produzir produtos animais especiais.</VEF_AnimalProductIntervalFactor.description>
+  <VRE_HealthFromGenesScale.description>Multiplicador base de saúde deste animal devido a seus genes.</VRE_HealthFromGenesScale.description>
+  <VRE_HealthFromGenesScale.label>multiplicador base de saúde</VRE_HealthFromGenesScale.label>
 </LanguageData>

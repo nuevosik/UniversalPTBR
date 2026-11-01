@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TD.CancelCopyStockUp>Cancelar Cópia de Configurações de {0}</TD.CancelCopyStockUp>
+  <TD.ClearStockUp>Limpar Todas as Configurações de Estocagem</TD.ClearStockUp>
+  <TD.CopyStockUpFrom>Copiar Configurações de Estocagem de {0}</TD.CopyStockUpFrom>
+  <TD.DefaultCare>Atendimento padrão</TD.DefaultCare>
+  <TD.DefaultSurgeryUnlimited>Cirurgia usa o melhor remédio disponível</TD.DefaultSurgeryUnlimited>
+  <TD.Encumbered>Sobrecarregado</TD.Encumbered>
+  <TD.NiceHealthTab.Optimize>Otimizações de baixo nível para a aba Saúde</TD.NiceHealthTab.Optimize>
+  <TD.NiceHealthTab.OptimizeDesc>Otimizações:\n- Armazenar em cache rótulos estáticos de condições de saúde ao invés de traduzi-los a cada frame</TD.NiceHealthTab.OptimizeDesc>
+  <TD.NotEnoughStockUp>Não há o suficiente disponível para estocar</TD.NotEnoughStockUp>
+  <TD.Paused>Pausado</TD.Paused>
+  <TD.PawnSettingSurgeryUnlimited>Cirurgia usa o melhor</TD.PawnSettingSurgeryUnlimited>
+  <TD.RemoveTempTendDesc>Remover isto (caso permaneça depois de não estar em uso)</TD.RemoveTempTendDesc>
+  <TD.SettingAnimalInv>Pegar remédios do inventário de um animal próximo</TD.SettingAnimalInv>
+  <TD.SettingDoctorInv>Usar remédios do inventário do médico</TD.SettingDoctorInv>
+  <TD.SettingFieldTendingAlways>Médicos sempre podem atender, com ou sem leito</TD.SettingFieldTendingAlways>
+  <TD.SettingFieldTendingAlwaysDesc>Os colonos darão prioridade a ir para um leito, mas você pode recrutar pacientes para mantê-los no lugar.</TD.SettingFieldTendingAlwaysDesc>
+  <TD.SettingFieldTendingIfDying>Médicos tratarão pacientes no local se eles não sobreviverem até o hospital</TD.SettingFieldTendingIfDying>
+  <TD.SettingFieldTendingNoBeds>Médicos tratarão pacientes se não houver leitos disponíveis</TD.SettingFieldTendingNoBeds>
+  <TD.SettingFieldTendingNoBedsDesc>O paciente precisa estar descansando, caído ou recrutado para ser alvo</TD.SettingFieldTendingNoBedsDesc>
+  <TD.SettingGlobalSurgeryUnlimited>As configurações médicas padrão para um novo jogo têm 'cirurgia usa melhor remédio' marcado</TD.SettingGlobalSurgeryUnlimited>
+  <TD.SettingGlobalSurgeryUnlimitedDesc>Durante o jogo, esta configuração não é usada - o padrão para novos colonos fica junto com os outros padrões médicos acessíveis na aba Saúde</TD.SettingGlobalSurgeryUnlimitedDesc>
+  <TD.SettingMedicineGoodEnough>... incluir remédios que sejam suficientemente bons:</TD.SettingMedicineGoodEnough>
+  <TD.SettingMinimal>Usar o mínimo de remédios em atendimentos não urgentes</TD.SettingMinimal>
+  <TD.SettingMinimalDesc>Atendimentos urgentes são doenças ou ferimentos com sangramento, chance de infecção ou efeitos permanentes - reserve remédios valiosos apenas para esses casos</TD.SettingMinimalDesc>
+  <TD.SettingNearby>... Mas usar remédios próximos (se de mesma qualidade)</TD.SettingNearby>
+  <TD.SettingNearbyDesc>Também verifica remédios no caminho até o paciente (baseado aproximadamente na distância, não no caminho real)</TD.SettingNearbyDesc>
+  <TD.SettingNearbyDist>Distância máxima para procurar remédios próximos</TD.SettingNearbyDist>
+  <TD.SettingNearbyDistDesc>Isso é apenas uma substituição para remédios no inventário - se não houver remédios no inventário, eles irão até os confins do mapa para pegar remédios</TD.SettingNearbyDistDesc>
+  <TD.SettingNoMed>Sem remédios em atendimentos não urgentes</TD.SettingNoMed>
+  <TD.SettingNoMedDesc>Igual ao acima, mas sem remédios, cada ferimento é tratado um por vez</TD.SettingNoMedDesc>
+  <TD.SettingOtherAnyDist>... Não importa a distância</TD.SettingOtherAnyDist>
+  <TD.SettingOtherAnyDistDesc>Verifica se há remédios melhores com outra pessoa distante, mas isso exige que o colono vá até lá</TD.SettingOtherAnyDistDesc>
+  <TD.SettingOtherDist>Distância máxima para buscá-lo</TD.SettingOtherDist>
+  <TD.SettingOtherInv>Pegar remédios do inventário de um colono próximo</TD.SettingOtherInv>
+  <TD.SettingPatientInv>Usar remédios do inventário do paciente</TD.SettingPatientInv>
+  <TD.SettingStockUp>Estocar remédios e drogas</TD.SettingStockUp>
+  <TD.SettingStockUpDesc>As configurações de estocagem estão na aba Equipamento do colono</TD.SettingStockUpDesc>
+  <TD.SettingStockUpEnough>Estocar apenas se houver o suficiente disponível:</TD.SettingStockUpEnough>
+  <TD.SettingStockUpEnoughDesc>Por exemplo, com 150%, os estoques precisam ter o suficiente para que todos estocarem até 100%, mais 50% extra</TD.SettingStockUpEnoughDesc>
+  <TD.SettingStockUpReturn>Devolver itens se não houver o suficiente disponível</TD.SettingStockUpReturn>
+  <TD.SettingsMedicineGoodEnoughDesc>Por exemplo, se a Medicina Herbal tiver 90% da eficácia da Medicina Industrial, use a herbal ao invés</TD.SettingsMedicineGoodEnoughDesc>
+  <TD.SmartMedicine>Medicina Inteligente</TD.SmartMedicine>
+  <TD.SpacesFormat>{0:0} espaços</TD.SpacesFormat>
+  <TD.StockAnythingWithoutDev>Botão 'Estocar QUALQUER COISA' sem Modo Desenvolvedor</TD.StockAnythingWithoutDev>
+  <TD.StockUpSettings>Configurações de Estocagem</TD.StockUpSettings>
+  <TD.StockUpSettingsForPawn>Configurações de Estocagem para {0}</TD.StockUpSettingsForPawn>
+</LanguageData>

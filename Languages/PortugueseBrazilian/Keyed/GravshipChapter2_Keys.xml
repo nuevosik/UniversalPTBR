@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_AncientSignalJammerBlockedGeneric>Não é possível decolar: Um jammer de sinal antigo está impedindo a decolagem. Encontre e destrua-o para decolar com o {0}.</VGE_AncientSignalJammerBlockedGeneric>
+  <VGE_AncientSignalJammerCommsBlocked>O bloqueador de sinal ativo impede a comunicação.</VGE_AncientSignalJammerCommsBlocked>
+  <VGE_AncientSignalJammerLaunchBlocked>Não é possível lançar: Um bloqueador de sinal antigo está impedindo o lançamento. Encontre e destrua-o para iniciar a sequência de lançamento.</VGE_AncientSignalJammerLaunchBlocked>
+  <VGE_AncientSignalJammerShuttleBlocked>Não é possível lançar: Um bloqueador de sinal antigo está impedindo o lançamento. Encontre e destrua-o para lançar o ônibus espacial.</VGE_AncientSignalJammerShuttleBlocked>
+  <VGE_AncientSignalJammerWarpodBlocked>Não é possível lançar: Um bloqueador de sinal antigo está impedindo o lançamento. Encontre e destrua-o para lançar a cápsula warp.</VGE_AncientSignalJammerWarpodBlocked>
+  <VGE_CallSalvagerStation>Chamar {0} (exigência de tributo)</VGE_CallSalvagerStation>
+  <VGE_CallSalvagerStationDialog>{0}, o capitão de {1} está pronto para receber seu tributo de {2} de prata. Eles prometem deixá-lo viver se pagar a taxa.</VGE_CallSalvagerStationDialog>
+  <VGE_CommandAutoRebuild_EscapePod>Se ativado, {BUILDING_definite} será automaticamente substituído após ser usado.</VGE_CommandAutoRebuild_EscapePod>
+  <VGE_DestabilizesIn>Desestabiliza em: {0}</VGE_DestabilizesIn>
+  <VGE_DestinationJammed>Não é possível pousar aqui: o destino está sendo bloqueado por um bloqueador de sinal inimigo.</VGE_DestinationJammed>
+  <VGE_DestinationJammedDropPod>Não é possível lançar cápsulas de lançamento pois o destino está protegido por um bloqueador de sinal.</VGE_DestinationJammedDropPod>
+  <VGE_DestinationJammedWarpod>Não é possível lançar cápsulas warp pois o destino está protegido por um bloqueador de sinal.</VGE_DestinationJammedWarpod>
+  <VGE_EmergencyGenerator_AnotherActive>outro gerador está ativo</VGE_EmergencyGenerator_AnotherActive>
+  <VGE_EmergencyGenerator_Inactive>inativo</VGE_EmergencyGenerator_Inactive>
+  <VGE_EmergencyGenerator_MustBeConnectedToGravEngine>deve estar conectado a um motor gravitacional</VGE_EmergencyGenerator_MustBeConnectedToGravEngine>
+  <VGE_EmergencyGenerator_MustBeFullyMaintained>deve estar totalmente mantido</VGE_EmergencyGenerator_MustBeFullyMaintained>
+  <VGE_EmergencyGenerator_RemainingPowerOutput>saída de energia restante: {0} Wd ({1})</VGE_EmergencyGenerator_RemainingPowerOutput>
+  <VGE_EngineLockedRemotely>Não é possível decolar: trancado remotamente por uma estação de salvadores.</VGE_EngineLockedRemotely>
+  <VGE_EngineLockedRemotelyInspect>Não funciona: trancado remotamente</VGE_EngineLockedRemotelyInspect>
+  <VGE_EscapePod_CancelEvacuation>Cancelar evacuação</VGE_EscapePod_CancelEvacuation>
+  <VGE_EscapePod_Enter>Entrar na cápsula de escape</VGE_EscapePod_Enter>
+  <VGE_EscapePod_Evacuation>Evacuar gravonave</VGE_EscapePod_Evacuation>
+  <VGE_EscapePod_EvacuationConfirmation>Tem certeza de que deseja emitir uma evacuação?\n\nTodo colono capaz fará isso imediatamente parará o que está fazendo e tentará encontrar uma cápsula de escape para usar. Se não conseguirem encontrar uma cápsula de escape imediatamente, continuarão tentando encontrá-la, a menos que sejam convocados ou a evacuação seja interrompida.\n\nSe decidir cancelar a evacuação, seus colonos tentarão retornar ao que estavam fazendo no momento (se possível).</VGE_EscapePod_EvacuationConfirmation>
+  <VGE_EscapePod_EvacuationDesc>Inicia um protocolo de evacuação em toda a gravonave. Todos os colonos imediatamente procurarão e embarcarão na cápsula de escape mais próxima disponível. O processo de evacuação toca uma sirene em toda a nave até que todas as cápsulas sejam lançadas. Se não houver cápsulas de escape suficientes, alguns colonos podem falhar em evacuar.</VGE_EscapePod_EvacuationDesc>
+  <VGE_EscapePod_InsertCarriedPawn>Colocar {PAWN} na cápsula de escape</VGE_EscapePod_InsertCarriedPawn>
+  <VGE_EscapePod_InsertPawn>Carregar para cápsula de escape</VGE_EscapePod_InsertPawn>
+  <VGE_EscapePod_Occupied>A cápsula de escape já está ocupada</VGE_EscapePod_Occupied>
+  <VGE_FireBombardmentTargeter>Disparar {0}</VGE_FireBombardmentTargeter>
+  <VGE_FireBombardmentTargeterDesc>Disparar {0} na localização alvo. O mira de bombardeio da gravonave entrará em um breve tempo de recarga antes que possa ser usado novamente.</VGE_FireBombardmentTargeterDesc>
+  <VGE_FuelTab_ChargedThrusters>propulsores carregados</VGE_FuelTab_ChargedThrusters>
+  <VGE_FuelTab_ElectricThrusters>propulsores elétricos</VGE_FuelTab_ElectricThrusters>
+  <VGE_GenerateEmptyOrbit>Gerar órbita vazia</VGE_GenerateEmptyOrbit>
+  <VGE_GenerateEmptyOrbitDesc>Abrir um mapa orbital vazio para construir pré-fabricados para exportação.</VGE_GenerateEmptyOrbitDesc>
+  <VGE_GravdataWillBeLostWarning>Os gravdados obtidos serão perdidos a menos que você selecione um projeto de pesquisa de gravtecnologia.</VGE_GravdataWillBeLostWarning>
+  <VGE_GravjumperAttacks>Ataque da gravsaltadora</VGE_GravjumperAttacks>
+  <VGE_GravjumperAttacksDesc>Apesar de suas tentativas de despistar a perseguição, a gravsaltadora inimiga {0} rastreou com sucesso suas novas coordenadas de pouso. Ela chegou em órbita e está atacando sua gravnave imediatamente. Prepare-se para o combate imediato.\n\nSua embarcação estará sob fogo contínuo das armas da gravsaltadora. Para sobreviver, você deve destruir o motor da gravsaltadora inimiga, além de eliminar todas as torres de artilharia da gravsaltadora.\n\nVocê pode revidar usando a artilharia, geradores de escudo e defesas pontuais de sua gravnave para resistir ao bombardeio. Alternativamente, envie um ônibus espacial ou cápsulas de escape para o local inimigo para abordar a gravsaltadora e destruí-la por dentro. Se não puder se defender, você deve tentar escapar de seu alcance imediatamente...</VGE_GravjumperAttacksDesc>
+  <VGE_GravjumperDefeated>Gravsaltadora derrotada</VGE_GravjumperDefeated>
+  <VGE_GravjumperDefeatedDesc>A ameaça da gravsaltadora inimiga foi derrotada, mas a área ainda oferece saque valioso. Você pode recuperar os destroços da gravsaltadora para obter recursos valiosos.</VGE_GravjumperDefeatedDesc>
+  <VGE_GravjumperLaunched>{0} foi lançada e pousará em sua área local em breve.</VGE_GravjumperLaunched>
+  <VGE_GravshipAttacks>Ataque da gravnave</VGE_GravshipAttacks>
+  <VGE_GravshipAttacksDesc>Apesar de suas tentativas de despistar a perseguição, a gravnave inimiga {0} rastreou com sucesso suas novas coordenadas de pouso. Ela chegou em órbita e está atacando sua gravnave imediatamente. Prepare-se para o combate imediato.\n\nSua embarcação estará sob fogo contínuo das armas da gravnave. Para sobreviver, você deve destruir o motor da gravnave inimiga, além de eliminar todas as torres de artilharia da gravnave.\n\nVocê pode revidar usando a artilharia, geradores de escudo e defesas pontuais de sua gravnave para resistir ao bombardeio. Alternativamente, envie um ônibus espacial ou cápsulas de escape para o local inimigo para abordar a gravsaltadora e destruí-la por dentro. Se não puder se defender, você deve tentar escapar de seu alcance imediatamente...</VGE_GravshipAttacksDesc>
+  <VGE_GravshipEngineReady>Motor da gravnave pronto!</VGE_GravshipEngineReady>
+  <VGE_GravshipEngineReadyDesc>O motor de sua gravnave terminou o tempo de recarga. Agora você pode realizar uma decolagem da gravnave.</VGE_GravshipEngineReadyDesc>
+  <VGE_GravshipGeneric>sua gravnave</VGE_GravshipGeneric>
+  <VGE_GravshipGraveyardLetterLabel>Gravnúcleo detectado: Cemitério de gravnaves</VGE_GravshipGraveyardLetterLabel>
+  <VGE_GravshipGraveyardLetterText>Você detectou a assinatura energética distinta de um gravnúcleo emanando de um enorme campo de destroços: um cemitério de gravnaves. Você sabe que, ao chegar, seus sistemas de navegação serão bloqueados. Um jammer de sinal antigo está ativo no campo de destroços, impedindo sua gravnave de iniciar a decolagem. Você deve navegar pelo campo de gravminas antigas instáveis, localizar a fonte da interferência e neutralizá-la para escapar.\n\nTenha cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com trajes espaciais. Planeje sua viagem de volta, pois viver em órbita por longos períodos é muito difícil.</VGE_GravshipGraveyardLetterText>
+  <VGE_HackWarcomputer>Hackear computador de guerra inimigo para recuperar gravdados</VGE_HackWarcomputer>
+  <VGE_IncomingEnemyGravship>Gravnave inimiga se aproximando</VGE_IncomingEnemyGravship>
+  <VGE_IncomingEnemyGravshipDesc>Uma gravnave inimiga está se aproximando rapidamente.\n\nTempo até a chegada: {0}\n\nVocê não poderá escapar antes que ela chegue. Prepare-se, pois eles dispararão uma salva contra você e fuja assim que puder.</VGE_IncomingEnemyGravshipDesc>
+  <VGE_InfestedInstallationLetterLabel>Gravnúcleo detectado: Instalação infestada</VGE_InfestedInstallationLetterLabel>
+  <VGE_InfestedInstallationLetterText>Você detectou a assinatura energética de um gravnúcleo. O sinal vem de uma estação orbital abandonada infestada com exoinsetoides. Os escâneres revelam numerosos ninhos a bordo. Você deve navegar pelas ruínas infestadas, derrotar os defensores exoinsetoides e destruir o grampo gravitacional infestado, que continuará gerando novos exoinsetoides por toda a plataforma. Uma vez destruído, você poderá obter o gravnúcleo.\n\nTenha cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com trajes espaciais. Planeje sua viagem de volta, pois viver em órbita por longos períodos é muito difícil.</VGE_InfestedInstallationLetterText>
+  <VGE_JammerScrambledCluster>Seu jammer de sinal embaralhou o travamento do sinal, dando-lhe {0} dias adicionais antes que a plataformade guerra o encontre.</VGE_JammerScrambledCluster>
+  <VGE_JammerScrambledGravjumper>Seu jammer de sinal embaralhou o processo de varredura deles, dando-lhe 24 horas adicionais antes que {0} ataque.</VGE_JammerScrambledGravjumper>
+  <VGE_JammerScrambledGravship>Seu jammer de sinal embaralhou o processo de varredura deles, dando-lhe 24 horas adicionais antes que {0} ataque.</VGE_JammerScrambledGravship>
+  <VGE_JammerScrambledSalvager>Seu jammer de sinal embaralhou os sistemas de mira da estação dos salvadores, dando-lhe 6 horas adicionais para decidir entre pagar o tributo ou lutar.</VGE_JammerScrambledSalvager>
+  <VGE_JammerScrambledSignal>Seu bloqueador de sinal embaralhou o travamento do sinal, dando a você mais {0} horas antes que a plataforma de guerra o encontre.</VGE_JammerScrambledSignal>
+  <VGE_LaunchWarpod>Lançar cápsula warp</VGE_LaunchWarpod>
+  <VGE_LaunchWarpodDesc>Lançar esta cápsula warp suborbital em direção a um destino alvo preciso.</VGE_LaunchWarpodDesc>
+  <VGE_LinkWithTurretConsoleDesc>Selecione uma torreta para conectar. Este console de mira será usado para operar essa torreta.</VGE_LinkWithTurretConsoleDesc>
+  <VGE_LinkWithTurretTargeterDesc>Selecione uma torreta para conectar. Este mira orbital será usado para operar essa torreta.</VGE_LinkWithTurretTargeterDesc>
+  <VGE_LocationDestabilizing>Localização se desestabilizando</VGE_LocationDestabilizing>
+  <VGE_LocationDestabilizingDesc>Uma localização orbital em que você está atualmente está se desestabilizando. Em breve ela entrará em colapso completo e tudo nela, incluindo seus colonos, desaparecerá.\n\nTempo restante: {0}\n\nCertifique-se de evacuar antes que a localização queime na atmosfera.</VGE_LocationDestabilizingDesc>
+  <VGE_MustBePlacedInSpace>Deve ser colocado no espaço.</VGE_MustBePlacedInSpace>
+  <VGE_NeedsHiveOrSubcreeper>Não é possível colocar sub-rastejante fora do raio de colmeias exo ou sub-rastejantes.</VGE_NeedsHiveOrSubcreeper>
+  <VGE_NoArmamentsPresent>Nenhum armamento da gravonave presente. Considere construir torretas de defesa pontual e geradores de escudo, além de artilharia da gravonave.</VGE_NoArmamentsPresent>
+  <VGE_NullipedeThumperNeedsSpace>O martelo de nullípede não pode ser ativado na superfície.</VGE_NullipedeThumperNeedsSpace>
+  <VGE_OrbitalClusterRelayed>O cluster orbital mecanoide retransmitiu suas coordenadas para outro cluster no raio. Ele está se aproximando para atacar.</VGE_OrbitalClusterRelayed>
+  <VGE_PaySilver>Pagar {0} de prata</VGE_PaySilver>
+  <VGE_PayTribute>Pagar tributo para {0}: {1} de prata</VGE_PayTribute>
+  <VGE_PostponeReply>{0} aceita seu pedido por mais tempo e entrará em contato novamente em {1} dias.</VGE_PostponeReply>
+  <VGE_PostponeTribute>Adiar pagamento por {0} dias</VGE_PostponeTribute>
+  <VGE_PostponedTributeDemandPopup>{0}, o capitão de {1} está novamente pronto para receber seu tributo de {2} de prata. Eles prometem deixá-lo viver se pagar a taxa.\n\nRecusar-se a pagar o tributo dará início ao ataque.</VGE_PostponedTributeDemandPopup>
+  <VGE_RaidEnemyGravship>Invasão: Gravnave inimiga</VGE_RaidEnemyGravship>
+  <VGE_RaidEnemyGravshipDesc>Uma gravnave inimiga chamada {0} finalmente o alcançou. Ela entrou em sua órbita local e iniciou uma sequência de abordagem. Você precisa destruir o motor da gravnave inimiga, além de toda a artilharia e tripulação da gravnave para derrotá-los.\n\nComo eles estão bem equipados e preparados, talvez seja melhor se defender até que o motor de sua gravnave esteja pronto para decolar novamente e escapar.\n\nSe conseguir derrotá-los, seus destroços oferecerão saque valioso, incluindo um gravnúcleo.</VGE_RaidEnemyGravshipDesc>
+  <VGE_RefuseReply>{0} está muito satisfeito com o atual estado das coisas. {1} trancou a mira em sua gravnave e iniciou o ataque.</VGE_RefuseReply>
+  <VGE_RefuseTribute>Recusar-se a pagar a taxa</VGE_RefuseTribute>
+  <VGE_SalvagerDropshipRaid>Nave de desembarque dos salvadores</VGE_SalvagerDropshipRaid>
+  <VGE_SalvagerDropshipRaidDesc>Uma nave de desembarque dos salvadores chegou! Os salvadores enviaram um grupo de abordo para recolher o tributo à força.</VGE_SalvagerDropshipRaidDesc>
+  <VGE_SalvagerStrongholdLetter>Gravnúcleo detectado: Fortaleza dos salvadores</VGE_SalvagerStrongholdLetter>
+  <VGE_SalvagerStrongholdLetterDesc>Você detectou a assinatura energética distinta de um gravnúcleo emanando de um grande asteroide. Os escâneres revelam que uma facção bem armada de salvadores reivindicou a rocha, construindo uma fortaleza fortemente defendida sobre ela. Um jammer de sinal inimigo ativo dentro da instalação impede sua gravnave de pousar nas proximidades, forçando-o a pousar nos perigosos arredores do asteroide.\n\nVocê deve atacar a base, navegar por suas defesas e destruir o grampo gravitacional localizado no centro do complexo para obter o gravnúcleo.\n\nTenha cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com trajes espaciais. Planeje sua viagem de volta, pois viver em órbita por longos períodos é muito difícil.</VGE_SalvagerStrongholdLetterDesc>
+  <VGE_SelectLinkedTurretConsoleDesc>Mostrar a torreta conectada.</VGE_SelectLinkedTurretConsoleDesc>
+  <VGE_SelectLinkedTurretTargeterDesc>Mostrar a torreta conectada.</VGE_SelectLinkedTurretTargeterDesc>
+  <VGE_ShieldInternalHeat>Unidades de calor armazenadas internamente: {0}/{1}</VGE_ShieldInternalHeat>
+  <VGE_ShieldOverheated>O gerador de escudo da gravonave superaqueceu devido à falta de dissipadores vazios. Considere construir mais dissipadores.</VGE_ShieldOverheated>
+  <VGE_ShieldOverheatedGizmo>Superaquecido</VGE_ShieldOverheatedGizmo>
+  <VGE_SignalJammerCooldown>Bloqueador de sinal em recarga por: {0}</VGE_SignalJammerCooldown>
+  <VGE_SignalJammerStunnedArtillery>Bloqueador de sinal ativado: Artilharia da gravonave inimiga atordoada por 12 horas.</VGE_SignalJammerStunnedArtillery>
+  <VGE_TargeterNoAmmo>Não é possível disparar: Sem munição.</VGE_TargeterNoAmmo>
+  <VGE_TargeterOnCooldown>Recarga: {0}</VGE_TargeterOnCooldown>
+  <VGE_TargeterOutOfRange>Não é possível disparar: Fora de alcance.</VGE_TargeterOutOfRange>
+  <VGE_TargetingConsoleOnlyGravshipArtillery>O console de mira só pode se conectar à artilharia da gravonave.</VGE_TargetingConsoleOnlyGravshipArtillery>
+  <VGE_ThreatDescription_Drones>controlado por drones de defesa automatizados e antigos, que ainda estão ativos e agressivos</VGE_ThreatDescription_Drones>
+  <VGE_ThreatDescription_Exoinsectoids>infestado por uma colônia perigosa de exoinsetoides</VGE_ThreatDescription_Exoinsectoids>
+  <VGE_ThreatDescription_Mechanoids>ocupado por vários mecanoides hostis</VGE_ThreatDescription_Mechanoids>
+  <VGE_ThreatDescription_Pirates>sendo saqueado por um grupo de piratas hostis</VGE_ThreatDescription_Pirates>
+  <VGE_TributeDemand>Exigência de tributo</VGE_TributeDemand>
+  <VGE_TributeDemandHover>Uma estação de salvadores está exigindo um tributo de {0} de prata ou abrirá fogo.\n\nTempo até o pagamento do tributo ser necessário: {1}\n\nVocê pode pedir para adiar o pagamento, mas o motor gravitacional será trancado remotamente até que o tributo seja pago ou a estação seja derrotada. Você também pode pagar a taxa imediatamente, se tiver os fundos. Fugir provavelmente fará com que os salvadores enviem um grupo de busca atrás de você.</VGE_TributeDemandHover>
+  <VGE_TributeDemandPopup>{0}, o capitão de {1} está pronto para receber seu tributo de {2} de prata. Eles prometem deixá-lo viver se pagar a taxa.\n\nEles também podem aceitar seu pedido para adiar o pagamento por {3} dias, mas trancarão seu motor gravitacional remotamente, tornando-o incapaz de decolar. Somente pagando o tributo ou derrotando a estação dos salvadores é possível desbloquear o motor gravitacional.</VGE_TributeDemandPopup>
+  <VGE_TributePaidReply>{0} agradece sua generosa contribuição à sua causa. Você não será atacado.</VGE_TributePaidReply>
+  <VGE_UnlinkWithTurretConsoleDesc>Quebre a conexão atual com uma torreta, permitindo conectar a uma torreta diferente.</VGE_UnlinkWithTurretConsoleDesc>
+  <VGE_UnlinkWithTurretTargeterDesc>Quebre a conexão atual com uma torreta, permitindo conectar a uma torreta diferente.</VGE_UnlinkWithTurretTargeterDesc>
+  <VGE_UsedCharge>carga</VGE_UsedCharge>
+  <VGE_VacuumEmergencyLight_EvacuatePawns>Evacuar área quando o nível de vácuo inseguro for atingido</VGE_VacuumEmergencyLight_EvacuatePawns>
+  <VGE_VacuumEmergencyLight_UnsafeVacuumLevel>Selecionar nível de vácuo perigoso</VGE_VacuumEmergencyLight_UnsafeVacuumLevel>
+  <VGE_VacuumEmergencyLight_UnsafeVacuumLevelDesc>Selecione um nível de vácuo que será considerado inseguro. Quando o vácuo atingir esse nível, a luz acenderá e qualquer colono não convocado (sem equipamento de proteção contra vácuo) tentará buscar segurança.</VGE_VacuumEmergencyLight_UnsafeVacuumLevelDesc>
+  <VGE_VacuumEmergencyLight_UnsafeVacuumSlider>Nível de vácuo inseguro: {0_percentage}</VGE_VacuumEmergencyLight_UnsafeVacuumSlider>
+  <VGE_Visibility400k>Outros estão tomando conhecimento da sua gravonave. Considere ficar em silêncio por um tempo ou construir um bloqueador de sinal.</VGE_Visibility400k>
+  <VGE_Visibility600k>Visibilidade da gravonave</VGE_Visibility600k>
+  <VGE_Visibility600kDesc>Sua gravonave, {0}, chamou a atenção de outros. Se continuar gerando visibilidade, você encontrará uma ameaça em nível de gravonave.\n\nA visibilidade é gerada conforme sua gravonave viaja, mas também ao usar armamentos da gravonave ou realizar varreduras orbitais a partir dela. Diminui passivamente com o tempo.\n\nAmeaças em nível de gravonave podem incluir plataformas de bombardeio orbital, instalações piratas ou até mesmo gravonaves inimigas. Elas entrarão em combate ativamente com artilharia poderosa a enormes distâncias. Se sua gravonave não estiver preparada, será obliterada.\n\nNeste momento, sua gravonave está armada com:\n\n{1}</VGE_Visibility600kDesc>
+  <VGE_WarcomputerHackedBlackBox>Computador de guerra hostil hackeado. {0} gravdados armazenados na caixa-preta da gravonave.</VGE_WarcomputerHackedBlackBox>
+  <VGE_WarcomputerHackedResearch>Computador de guerra hostil hackeado. {0} gravdados adicionados à pesquisa {1}.</VGE_WarcomputerHackedResearch>
+  <VGE_WarpodLocationNeedRevealed>Não é possível lançar cápsulas warp aqui: a localização precisa ser revelada.</VGE_WarpodLocationNeedRevealed>
+  <VGE_Warpods>cápsulas warp</VGE_Warpods>
+</LanguageData>

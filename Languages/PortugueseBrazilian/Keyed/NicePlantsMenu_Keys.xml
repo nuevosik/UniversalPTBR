@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NPM_AllColonyPets>Animais de estimação da colônia</NPM_AllColonyPets>
+  <NPM_Amount>Quantidade</NPM_Amount>
+  <NPM_Animal>animais</NPM_Animal>
+  <NPM_AnimalsInPen>Animais no cercado</NPM_AnimalsInPen>
+  <NPM_CalculatedForAnimals>Calculado para animais:</NPM_CalculatedForAnimals>
+  <NPM_CanGrowIn>Pode crescer</NPM_CanGrowIn>
+  <NPM_Caves>cavernas</NPM_Caves>
+  <NPM_Cells>{0} células</NPM_Cells>
+  <NPM_DateCalcTip>Faltam {0} dias para crescer\n\nSolo médio {1}\nLuz do dia {2}</NPM_DateCalcTip>
+  <NPM_DateCalcTipWarning>Tempo de crescimento calculado em temperatura ideal</NPM_DateCalcTipWarning>
+  <NPM_DateCalcTip_Darkness>escuridão</NPM_DateCalcTip_Darkness>
+  <NPM_DateCalcTip_Lamp>lâmpada</NPM_DateCalcTip_Lamp>
+  <NPM_DateCalcTip_Sun>sol</NPM_DateCalcTip_Sun>
+  <NPM_Description>Descrição</NPM_Description>
+  <NPM_DiesInLight>Morre à luz</NPM_DiesInLight>
+  <NPM_EnoughToFeed>Suficiente para alimentar</NPM_EnoughToFeed>
+  <NPM_ExpectedDateHarvest>Data prevista para a colheita</NPM_ExpectedDateHarvest>
+  <NPM_FeedHumanTip>Se toda a colheita for processada, este campo alimentará</NPM_FeedHumanTip>
+  <NPM_Filter_Category_Animals>Animais</NPM_Filter_Category_Animals>
+  <NPM_Filter_Category_Cave>Cavernas</NPM_Filter_Category_Cave>
+  <NPM_Filter_Category_Drug>Drogas</NPM_Filter_Category_Drug>
+  <NPM_Filter_Category_Food>Alimentos</NPM_Filter_Category_Food>
+  <NPM_Filter_Category_Houseplant>Ambiente fechado</NPM_Filter_Category_Houseplant>
+  <NPM_Filter_Category_Medicine>Medicamentos</NPM_Filter_Category_Medicine>
+  <NPM_Filter_Category_Misc>Outros</NPM_Filter_Category_Misc>
+  <NPM_Filter_Category_Pollution>Poluição</NPM_Filter_Category_Pollution>
+  <NPM_Filter_Category_Tree>Árvores</NPM_Filter_Category_Tree>
+  <NPM_Filter_Mod_Any>De mods</NPM_Filter_Mod_Any>
+  <NPM_FoodFor>Comida para</NPM_FoodFor>
+  <NPM_FormatDays>{0}\n{1} dias</NPM_FormatDays>
+  <NPM_GrowthTemperature>Temperatura de crescimento</NPM_GrowthTemperature>
+  <NPM_Human>humanos</NPM_Human>
+  <NPM_HumanCount>{0} colonos</NPM_HumanCount>
+  <NPM_Indoors>em ambiente fechado</NPM_Indoors>
+  <NPM_MarketValueShort>Valor de mercado</NPM_MarketValueShort>
+  <NPM_May>Pode crescer</NPM_May>
+  <NPM_MoreCells>São necessárias mais ({0}) células</NPM_MoreCells>
+  <NPM_NoCells>Não há células adequadas para esta planta</NPM_NoCells>
+  <NPM_None>Nenhum</NPM_None>
+  <NPM_OptimalTemperature>Ótimo</NPM_OptimalTemperature>
+  <NPM_PerYear>{0}/ano</NPM_PerYear>
+  <NPM_Plants>Plantas</NPM_Plants>
+  <NPM_PlantsNotMature>É provável que as plantas não amadureçam antes do fim das estações</NPM_PlantsNotMature>
+  <NPM_Pollution>Poluição</NPM_Pollution>
+  <NPM_Product>Produto</NPM_Product>
+  <NPM_RelatedRecipes>Receitas relacionadas</NPM_RelatedRecipes>
+  <NPM_Required>Necessário</NPM_Required>
+  <NPM_RequiresFertility>Fertilidade do solo insuficiente ({0})</NPM_RequiresFertility>
+  <NPM_Sensitivity>Sensibilidade ao solo</NPM_Sensitivity>
+  <NPM_Settings_AllowResizeWindow>Permitir redimensionar janela</NPM_Settings_AllowResizeWindow>
+  <NPM_Settings_AlwaysShowAllInfo>Sempre exibir todas as informações</NPM_Settings_AlwaysShowAllInfo>
+  <NPM_Settings_CountInRow>Contar plantas em linha</NPM_Settings_CountInRow>
+  <NPM_Settings_ReopenWindow>Reabrir janela ao alterar configurações</NPM_Settings_ReopenWindow>
+  <NPM_Settings_ShowCategoryIcons>Exibir ícones de categoria</NPM_Settings_ShowCategoryIcons>
+  <NPM_Settings_SplitByCategories>Separar plantas por categorias</NPM_Settings_SplitByCategories>
+  <NPM_ShouldBeRoofed>Nem todas as células estão protegidas da luz solar</NPM_ShouldBeRoofed>
+  <NPM_SkillNotSatisfied>Requer nível {0} em Agricultura para semear</NPM_SkillNotSatisfied>
+  <NPM_SkillRequirements>Requisitos de habilidade</NPM_SkillRequirements>
+  <NPM_TotalNutrition>Nutrição total</NPM_TotalNutrition>
+</LanguageData>

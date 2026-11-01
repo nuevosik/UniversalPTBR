@@ -73,4 +73,39 @@
   <GridSevenBySevenInverse.description>Designa em uma grade 7x7 inversa</GridSevenBySevenInverse.description>
   <GridSizeInputInverse.label>Grade inversa personalizada</GridSizeInputInverse.label>
   <GridSizeInputInverse.description>Designa em uma grade inversa de dimensão personalizada</GridSizeInputInverse.description>
+  <Checkerboard.description>Tiles alternados (células 1x1 por padrão), com as configurações L/A definindo as dimensões de cada tile, ancorados à primeira célula clicada. A espessura não altera a paridade. Arrastos são limitados a 512 células por eixo.</Checkerboard.description>
+  <Checkerboard.label>Tabuleiro de xadrez: célula inicial selecionada</Checkerboard.label>
+  <CheckerboardInverse.description>Fase oposta dos tiles em xadrez (células 1x1 por padrão). L/A definem as dimensões de cada tile, ancorados à primeira célula clicada. Arrastos são limitados a 512 células por eixo.</CheckerboardInverse.description>
+  <CheckerboardInverse.label>Tabuleiro de xadrez: célula inicial ignorada</CheckerboardInverse.label>
+  <CustomPolygon.description>Clique para adicionar cantos. Clique no primeiro canto novamente ou pressione Enter para finalizar. Backspace remove o último canto. Escape ou clique direito cancela enquanto mantém a ferramenta selecionada. Suporta polígonos côncavos; limitado a 128 cantos e 512 células por eixo.</CustomPolygon.description>
+  <CustomPolygon.label>polígono personalizado</CustomPolygon.label>
+  <CustomPolygonFilled.description>Clique para adicionar cantos. Clique no primeiro canto novamente ou pressione Enter para finalizar. Backspace remove o último canto. Escape ou clique direito cancela enquanto mantém a ferramenta selecionada. Suporta polígonos côncavos; limitado a 128 cantos e 512 células por eixo.</CustomPolygonFilled.description>
+  <CustomPolygonFilled.label>polígono personalizado preenchido</CustomPolygonFilled.label>
+  <L.description>Dois lados perpendiculares se encontram no canto inferior esquerdo. Gire para escolher outro canto. Arrastos são limitados a 512 células por eixo.</L.description>
+  <L.label>Canto em L</L.label>
+  <LInverse.description>Dois lados perpendiculares se encontram no canto superior direito. Gire para escolher outro canto. Arrastos são limitados a 512 células por eixo.</LInverse.description>
+  <LInverse.label>Canto em L oposto</LInverse.label>
+  <MidpointOctagon.description>Desenha um octógono do centro até uma borda. O maior deslocamento X/Z define o raio, correspondendo aos hexágonos de ponto médio. O raio é limitado a 255 células para manter um diâmetro ímpar simétrico.</MidpointOctagon.description>
+  <MidpointOctagon.label>Contorno de octógono de ponto médio</MidpointOctagon.label>
+  <MidpointOctagonFilled.description>Desenha um octógono do centro até uma borda. O maior deslocamento X/Z define o raio, correspondendo aos hexágonos de ponto médio. O raio é limitado a 255 células para manter um diâmetro ímpar simétrico.</MidpointOctagonFilled.description>
+  <MidpointOctagonFilled.label>Octógono de ponto médio preenchido</MidpointOctagonFilled.label>
+  <MidpointPentagon.description>Marca em forma de pentágono a partir do centro. Arraste para fora para definir seu raio; use a rotação para alterar sua orientação.</MidpointPentagon.description>
+  <MidpointPentagon.label>pentágono de ponto médio</MidpointPentagon.label>
+  <MidpointPentagonFilled.description>Marca em forma de pentágono preenchido a partir do centro. Arraste para fora para definir seu raio; use a rotação para alterar sua orientação.</MidpointPentagonFilled.description>
+  <MidpointPentagonFilled.label>pentágono de ponto médio preenchido</MidpointPentagonFilled.label>
+  <Octagon.description>Contorno octogonal ajustado ao retângulo de arrasto; a espessura segue a ferramenta de linha. Arrastos são limitados a 512 células por eixo.</Octagon.description>
+  <Octagon.label>Contorno octogonal</Octagon.label>
+  <OctagonFilled.description>Preenchimento octogonal ajustado ao retângulo de arrasto. Arrastos são limitados a 512 células por eixo.</OctagonFilled.description>
+  <OctagonFilled.label>Octógono preenchido</OctagonFilled.label>
+  <ParallelLines.description>Arraste uma área para desenhar listras paralelas. A espessura é o número de células selecionadas por listra; o Espaço é o número de células vazias entre listras. O eixo de arrasto mais longo define a direção. A rotação alterna entre horizontal e vertical.</ParallelLines.description>
+  <ParallelLines.label>linhas paralelas</ParallelLines.label>
+  <QuarterArc.description>Arco de quarto de elipse aberto ajustado à largura e altura totais do arrasto. O centro padrão é o canto inferior esquerdo; a rotação muda sua orientação. Arrastos são limitados a 512 células por eixo.</QuarterArc.description>
+  <QuarterArc.label>Arco de quarto de elipse</QuarterArc.label>
+  <RoundedRectangle.description>Arraste um retângulo arredondado. O raio define o raio dos cantos em células e é limitado para caber na área arrastada. Defina o raio como zero para cantos retos.</RoundedRectangle.description>
+  <RoundedRectangle.label>retângulo arredondado</RoundedRectangle.label>
+  <RoundedRectangleFilled.description>Arraste um retângulo arredondado preenchido. O raio define o raio dos cantos em células e é limitado para caber na área arrastada. Defina o raio como zero para cantos retos.</RoundedRectangleFilled.description>
+  <RoundedRectangleFilled.label>retângulo arredondado preenchido</RoundedRectangleFilled.label>
+  <SemicircleArc.description>Arco de meia elipse aberto ajustado ao retângulo de arrasto completo. O diâmetro padrão é a borda inferior. Uma largura igual ao dobro da altura menos um dá um arco semicircular. Gire para escolher sua orientação. Arrastos são limitados a 512 células por eixo.</SemicircleArc.description>
+  <SemicircleArc.label>Semicírculo / arco de meia elipse</SemicircleArc.label>
+  <TradeBeacon.label>baliza comercial</TradeBeacon.label>
 </LanguageData>

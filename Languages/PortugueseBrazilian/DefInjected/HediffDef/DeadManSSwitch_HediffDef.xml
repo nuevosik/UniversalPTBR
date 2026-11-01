@@ -41,7 +41,6 @@
   <DMS_BionicShock.stages.2.label>Nv.2 leve</DMS_BionicShock.stages.2.label>
   <DMS_BionicShock.stages.3.label>Nv.3 grave</DMS_BionicShock.stages.3.label>
   <DMS_BionicShock.stages.4.label>Nv.4 catatônico</DMS_BionicShock.stages.4.label>
-  <DMS_BionicShock.stages.5.label>Nv.5 incapacitado</DMS_BionicShock.stages.5.label>
   <DMS_FilterShock.label>desalinhamento emocional</DMS_FilterShock.label>
   <DMS_FilterShock.description>Uma síndrome causada por uma dissonância cognitiva criada pelo conflito entre a mente do usuário e os biônicos instalados. Este conflito interno causa trauma emocional enquanto o usuário luta para se ajustar à sua nova condição.</DMS_FilterShock.description>
   <DMS_FilterShock.stages.0.label>catatônico</DMS_FilterShock.stages.0.label>
@@ -56,7 +55,7 @@
   <DMS_ProstheticLeg.labelNoun>uma perna neuromecânica</DMS_ProstheticLeg.labelNoun>
   <DMS_ProstheticLeg.description>Uma perna neuromecânica instalada.</DMS_ProstheticLeg.description>
   <DMS_ProstheticSpine.label>neurocorda neuromecânica</DMS_ProstheticSpine.label>
-  <DMS_ProstheticSpine.labelNoun>Uma coluna vertebral neuromecânica avançada que funciona como um subcérebro. \n\n Ela assume os nervos reflexos do usuário e, assim, reduz a carga sobre o cérebro do operador ao custo de efeitos colaterais menores.</DMS_ProstheticSpine.labelNoun>
+  <DMS_ProstheticSpine.labelNoun>uma neurocorda neuromecânica</DMS_ProstheticSpine.labelNoun>
   <DMS_ProstheticSpine.description>Uma coluna vertebral biônica instalada.</DMS_ProstheticSpine.description>
   <DMS_SensoryFilter.label>neutralizador de emoções</DMS_SensoryFilter.label>
   <DMS_SensoryFilter.labelNoun>um neutralizador de emoções</DMS_SensoryFilter.labelNoun>
@@ -89,7 +88,7 @@
   <DMS_WeaponInprint.stages.5.label>maximizado</DMS_WeaponInprint.stages.5.label>
   <DMS_ProstheticLung.label>pulmão neuromecânico</DMS_ProstheticLung.label>
   <DMS_ProstheticLung.labelNoun>um pulmão neuromecânico</DMS_ProstheticLung.labelNoun>
-  <DMS_ProstheticLung.description>Um pulmão neuromecânico instalado.</DMS_ProstheticLung.description>
+  <DMS_ProstheticLung.description>Um pulmão neural-mecânico instalado.</DMS_ProstheticLung.description>
   <DMS_ProstheticKidney.label>rim neuromecânico</DMS_ProstheticKidney.label>
   <DMS_ProstheticKidney.labelNoun>um rim neuromecânico</DMS_ProstheticKidney.labelNoun>
   <DMS_ProstheticKidney.description>Um rim neuromecânico instalado.</DMS_ProstheticKidney.description>
@@ -122,19 +121,11 @@
   <DMS_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</DMS_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <DMS_SyntheticArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</DMS_SyntheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <DMS_TB_HeavyHydraulicFrame.renderNodeProperties.0.debugLabel>estrutura hidráulica</DMS_TB_HeavyHydraulicFrame.renderNodeProperties.0.debugLabel>
-  <DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>a síndrome biônica foi curada</DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>
-  <DMS_BionicShock.stages.Initial.label>inicial</DMS_BionicShock.stages.Initial.label>
   <DMS_BionicShock.stages.LV1_Initial.label>Nv.1 inicial</DMS_BionicShock.stages.LV1_Initial.label>
   <DMS_BionicShock.stages.LV2_Minor.label>Nv.2 leve</DMS_BionicShock.stages.LV2_Minor.label>
   <DMS_BionicShock.stages.LV3_Serious.label>Nv.3 grave</DMS_BionicShock.stages.LV3_Serious.label>
   <DMS_BionicShock.stages.LV4_Catatonic.label>Nv.4 catatônico</DMS_BionicShock.stages.LV4_Catatonic.label>
   <DMS_BionicShock.stages.LV5_Disabled.label>Nv.5 incapacitado</DMS_BionicShock.stages.LV5_Disabled.label>
-  <DMS_BionicShock.stages.initial.label>inicial</DMS_BionicShock.stages.initial.label>
-  <DMS_BionicShock.stages.LV1_initial.label>Nv.1 inicial</DMS_BionicShock.stages.LV1_initial.label>
-  <DMS_BionicShock.stages.LV2_minor.label>Nv.2 leve</DMS_BionicShock.stages.LV2_minor.label>
-  <DMS_BionicShock.stages.LV3_serious.label>Nv.3 grave</DMS_BionicShock.stages.LV3_serious.label>
-  <DMS_BionicShock.stages.LV4_catatonic.label>Nv.4 catatônico</DMS_BionicShock.stages.LV4_catatonic.label>
-  <DMS_BionicShock.stages.LV5_disabled.label>Nv.5 incapacitado</DMS_BionicShock.stages.LV5_disabled.label>
   <DMS_BionicShockRemove.comps.HediffComp_RemoveIfOtherHediff.message>A síndrome do membro fantasma foi curada.</DMS_BionicShockRemove.comps.HediffComp_RemoveIfOtherHediff.message>
   <DMS_BionicShockRemove.stages.initial.label>inicial</DMS_BionicShockRemove.stages.initial.label>
   <DMS_BionicShockRemove.stages.pain.label>dor</DMS_BionicShockRemove.stages.pain.label>
@@ -165,4 +156,57 @@
   <DMS_OrbitalService.stages.major.label>major</DMS_OrbitalService.stages.major.label>
   <DMS_OrbitalService.stages.colonel.label>coronel</DMS_OrbitalService.stages.colonel.label>
   <DMS_OrbitalService.stages.brigadier.label>brigadeiro</DMS_OrbitalService.stages.brigadier.label>
+  <DMS_BF_RecoillessRifle.description>Um par de tubos sem recuo de 65mm montados nos pilones laterais e ligados à cadeia de controle de fogo da estrutura, recarregados dos estoques transportados pela estrutura entre engajamentos.\n\nA ogiva de carga moldada perfura blindagem e fortificações que a própria arma da estrutura não consegue atingir, embora o jato siga por um único canal estreito e qualquer coisa ao lado do ponto de impacto saia ilesa. A massa pendurada nos pilones reduz a velocidade de marcha, a capacidade de esquiva e a carga útil da estrutura.</DMS_BF_RecoillessRifle.description>
+  <DMS_BF_RecoillessRifle.label>Suporte de canhão sem recuo</DMS_BF_RecoillessRifle.label>
+  <DMS_CombatRegenHigh.description>Células-tronco de um soro de regeneração de combate estão reconstruindo partes do corpo perdidas. O recrescimento consome enormes quantidades de energia e é doloroso.</DMS_CombatRegenHigh.description>
+  <DMS_CombatRegenHigh.label>regenerando</DMS_CombatRegenHigh.label>
+  <DMS_CommandCoprocessor.description>Uma placa de processamento auxiliar conectada ao processador principal. Ela alivia o multiplexamento de sinais e o controle de unidades do processador principal, aumentando a largura de banda de controle do autômato às custas de um consumo um pouco maior de energia.</DMS_CommandCoprocessor.description>
+  <DMS_CommandCoprocessor.label>Coprocessador de comando</DMS_CommandCoprocessor.label>
+  <DMS_Hediff_ERAPlating.description>Um conjunto adicional de blocos de blindagem reativa eletromagnética parafusados sobre o chassi. Quando um jato de carga moldada ou um impacto explosivo pesado atinge, o bloco acima dele detona para fora e derrota o penetrador por completo, ao custo de ser consumido e de chocar a estrutura abaixo.\n\nNão tem efeito contra armas leves ou corpo a corpo; isso é função da blindagem base. Blocos gastos devem ser repostos com aço.</DMS_Hediff_ERAPlating.description>
+  <DMS_Hediff_ERAPlating.label>blindagem reativa eletromagnética</DMS_Hediff_ERAPlating.label>
+  <DMS_InfrasoundRupture.comps.HediffComp_GetsPermanent.permanentLabel>cicatrizes infrassônicas</DMS_InfrasoundRupture.comps.HediffComp_GetsPermanent.permanentLabel>
+  <DMS_InfrasoundRupture.comps.HediffComp_TendDuration.labelSolidTendedWell>reparado</DMS_InfrasoundRupture.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <DMS_InfrasoundRupture.comps.HediffComp_TendDuration.labelTendedWell>tratado</DMS_InfrasoundRupture.comps.HediffComp_TendDuration.labelTendedWell>
+  <DMS_InfrasoundRupture.comps.HediffComp_TendDuration.labelTendedWellInner>tratado</DMS_InfrasoundRupture.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <DMS_InfrasoundRupture.description>Tecidos rasgados de dentro para fora por ressonância infrassônica. Se não tratado, pode deixar cicatrizes e causar perda permanente da audição.</DMS_InfrasoundRupture.description>
+  <DMS_InfrasoundRupture.injuryProps.destroyedLabel>Rupturado</DMS_InfrasoundRupture.injuryProps.destroyedLabel>
+  <DMS_InfrasoundRupture.label>ruptura infrassônica</DMS_InfrasoundRupture.label>
+  <DMS_InfrasoundRupture.labelNoun>uma ruptura infrassônica</DMS_InfrasoundRupture.labelNoun>
+  <DMS_RealityAnchored.description>Esta criatura está dentro do campo estabilizado de uma âncora da realidade. Nenhuma conexão além desta dimensão pode se formar aqui: suas capacidades e limites físicos não podem exceder 120% do normal, não pode lançar psicocastes e não pode permanecer invisível.\n\nO efeito se dissipa em instantes ao sair do campo.</DMS_RealityAnchored.description>
+  <DMS_RealityAnchored.label>ancorado à realidade</DMS_RealityAnchored.label>
+  <DMS_RealitySuppressed.description>O campo de uma âncora da realidade está prendendo esta criatura à física comum. As propriedades transcendentais que a sustentam estão sendo arrancadas: move-se e age lentamente, golpeia com metade de sua força e é muito mais fácil de conter.\n\nO efeito se dissipa em instantes ao sair do campo.</DMS_RealitySuppressed.description>
+  <DMS_RealitySuppressed.label>suprimido pela realidade</DMS_RealitySuppressed.label>
+  <DMS_SensibilityBlockerHigh.description>Um bloqueador de sensibilidade está suprimindo o pensamento afetivo. O sujeito não se importa mais com o que o cerca: necessidades secundárias são suspensas e pensamentos negativos relacionados ao ambiente não afetam o humor.</DMS_SensibilityBlockerHigh.description>
+  <DMS_SensibilityBlockerHigh.label>sensibilidade bloqueada</DMS_SensibilityBlockerHigh.label>
+  <DMS_SubsonicModule.description>Um conjunto sintonizado de emissores de infrassom montado no casco. Permite que o mecanoide libere uma rajada de infrassom que atormenta inimigos vivos próximos com dor e pânico.</DMS_SubsonicModule.description>
+  <DMS_SubsonicModule.label>módulo infrassônico</DMS_SubsonicModule.label>
+  <DMS_SubsonicTrauma.description>O infrassom sintonizado fez a orelha interna e as vísceras desta criatura entrarem em ressonância. Causa náuseas, desorientação e dor profunda e difusa, sem ferimento aparente. Quanto mais apurado o sentido da audição da criatura, mais forte o efeito; criaturas surdas não são afetadas. A exposição repetida se acumula rapidamente e, nos casos mais graves, a dor sozinha pode causar choque.\n\nO efeito desaparece por conta própria em algumas horas.</DMS_SubsonicTrauma.description>
+  <DMS_SubsonicTrauma.label>trauma infrassônico</DMS_SubsonicTrauma.label>
+  <DMS_SubsonicTrauma.stages.0.label>desconforto</DMS_SubsonicTrauma.stages.0.label>
+  <DMS_SubsonicTrauma.stages.1.label>desorientado</DMS_SubsonicTrauma.stages.1.label>
+  <DMS_SubsonicTrauma.stages.2.label>agonizante</DMS_SubsonicTrauma.stages.2.label>
+  <DMS_SyntheticEye.description>Um olho biossintético instalado.</DMS_SyntheticEye.description>
+  <DMS_SyntheticEye.label>Olho biossintético</DMS_SyntheticEye.label>
+  <DMS_SyntheticEye.labelNoun>um olho biossintético</DMS_SyntheticEye.labelNoun>
+  <DMS_SyntheticHeart.description>Um coração biossintético instalado.</DMS_SyntheticHeart.description>
+  <DMS_SyntheticHeart.label>Coração biossintético</DMS_SyntheticHeart.label>
+  <DMS_SyntheticHeart.labelNoun>um coração biossintético</DMS_SyntheticHeart.labelNoun>
+  <DMS_SyntheticKidney.description>Um rim biossintético instalado.</DMS_SyntheticKidney.description>
+  <DMS_SyntheticKidney.label>Rim biossintético</DMS_SyntheticKidney.label>
+  <DMS_SyntheticKidney.labelNoun>um rim biossintético</DMS_SyntheticKidney.labelNoun>
+  <DMS_SyntheticLiver.description>Um fígado biossintético instalado.</DMS_SyntheticLiver.description>
+  <DMS_SyntheticLiver.label>Fígado biossintético</DMS_SyntheticLiver.label>
+  <DMS_SyntheticLiver.labelNoun>um fígado biossintético</DMS_SyntheticLiver.labelNoun>
+  <DMS_SyntheticLung.description>Um pulmão biossintético instalado.</DMS_SyntheticLung.description>
+  <DMS_SyntheticLung.label>Pulmão biossintético</DMS_SyntheticLung.label>
+  <DMS_SyntheticLung.labelNoun>um pulmão biossintético</DMS_SyntheticLung.labelNoun>
+  <DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>A síndrome biônica foi curada</DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_BionicShock.stages.5.label>Nível 5: Incapacitado</DMS_BionicShock.stages.5.label>
+  <DMS_BionicShock.stages.Initial.label>Inicial</DMS_BionicShock.stages.Initial.label>
+  <DMS_BionicShock.stages.LV1_initial.label>Nível 1: Inicial</DMS_BionicShock.stages.LV1_initial.label>
+  <DMS_BionicShock.stages.LV2_minor.label>Nível 2: Leve</DMS_BionicShock.stages.LV2_minor.label>
+  <DMS_BionicShock.stages.LV3_serious.label>Nível 3: Grave</DMS_BionicShock.stages.LV3_serious.label>
+  <DMS_BionicShock.stages.LV4_catatonic.label>Nível 4: Catatônico</DMS_BionicShock.stages.LV4_catatonic.label>
+  <DMS_BionicShock.stages.LV5_disabled.label>Nível 5: Incapacitado</DMS_BionicShock.stages.LV5_disabled.label>
+  <DMS_BionicShock.stages.initial.label>inicial</DMS_BionicShock.stages.initial.label>
 </LanguageData>

@@ -115,7 +115,7 @@
   <TSA_WD_Log_Raid_Aborted_NoLongerHostile>INCURSÃO: abortada — {0} e {1} não estão mais em guerra. Força comprometida devolvida.</TSA_WD_Log_Raid_Aborted_NoLongerHostile>
   <TSA_WD_Log_Raid_DefBase>Guarnição em {0}: {1} de força.</TSA_WD_Log_Raid_DefBase>
   <TSA_WD_Log_Raid_DefContrib>{0} ({1}) forneceu +{2} de poder de defesa. (Bruto: {3}, Efic.: {4}% em {5} blocos).</TSA_WD_Log_Raid_DefContrib>
-  <TSA_WD_Log_Raid_ExpeditionLaunched>Incursão enviada: a caravana está a caminho.</TSA_WD_Log_Raid_ExpeditionLaunched>
+  <TSA_WD_Log_Raid_ExpeditionLaunched>INVASÃO: {0} enviou uma incursão contra {1}.</TSA_WD_Log_Raid_ExpeditionLaunched>
   <TSA_WD_RaidExpeditionLaunched>Expedição de incursão lançada contra {0}.</TSA_WD_RaidExpeditionLaunched>
   <TSA_WD_Log_Raid_FactionDispatch>{0} enviou uma incursão de {1} contra {2}.</TSA_WD_Log_Raid_FactionDispatch>
   <TSA_WD_Log_Raid_ColonyDelegated>Colônia escolhida como alvo e delegada a um aliado mais próximo</TSA_WD_Log_Raid_ColonyDelegated>

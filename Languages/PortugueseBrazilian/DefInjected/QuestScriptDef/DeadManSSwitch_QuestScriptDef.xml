@@ -3,13 +3,15 @@
   <DMS_Boss.root.AlertBossgroupIncoming>[escortees0_label] se aproximando.</DMS_Boss.root.AlertBossgroupIncoming>
   <DMS_Boss.root.AlertBossgroupIncomingDesc>Unidades autômatas estão seguindo os protocolos estabelecidos, atraídas pelo sinal que você enviou, e se aproximando.\n\nNa liderança está [escortees0_label]. Esses mecanoides são bem armados e de tamanho considerável, então a intensidade da batalha será extraordinária. \n\nDeve-se notar que eles ainda são aliados da Frota Colonial na cadeia de comando, então, em princípio, a Frota Colonial não fornecerá nenhuma assistência direta nesta batalha.</DMS_Boss.root.AlertBossgroupIncomingDesc>
   <DMS_Boss.root.LetterBossgroupArrived>[escortees0_label] chegou. Essas armas quebradas são [escortees0_faction_name], e sua missão agora deve chegar ao fim.\n\n {LEADERDESC}\n\nEsta unidade é composta pelos seguintes mecanoides\n{WAVEDESC}</DMS_Boss.root.LetterBossgroupArrived>
-  <DMS_Boss.root.LetterBossgroupSummoned>Seu sinal foi enviado. [escortees0_label] e os autômatos que o acompanham receberam o sinal de ameaça e podem chegar a qualquer momento.\n\nPrepare-se para o combate.</DMS_Boss.root.LetterBossgroupSummoned>
+  <DMS_Boss.root.LetterBossgroupSummoned>Seu sinal foi enviado. [escortees0_label] e os mecanoides remanescentes que o acompanham receberam o sinal de ameaça e podem chegar a qualquer momento. Prepare-se para o combate.</DMS_Boss.root.LetterBossgroupSummoned>
   <DMS_Boss.root.LetterLabelBossgroupArrived>[escortees0_label] se aproximando</DMS_Boss.root.LetterLabelBossgroupArrived>
-  <DMS_Boss.root.LetterLabelBossgroupSummoned>O [escortees0_label] errante foi atraído</DMS_Boss.root.LetterLabelBossgroupSummoned>
-  <DMS_ProcessDocumentQuest.root.nodes.6.label>Documentos chegaram</DMS_ProcessDocumentQuest.root.nodes.6.label>
-  <DMS_ProcessDocumentQuest.root.nodes.6.text>Documentos classificados de [asker_nameFull] chegaram. Eles foram deixados perto de seus sinalizadores de comércio ou do centro da colônia.</DMS_ProcessDocumentQuest.root.nodes.6.text>
-  <DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.label>Documentos destruídos</DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.label>
-  <DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.text>Como os documentos foram destruídos, a missão falhou.</DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.text>
-  <DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.label>Documentos processados</DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.label>
+  <DMS_Boss.root.LetterLabelBossgroupSummoned>Mecanoides remanescentes atraídos</DMS_Boss.root.LetterLabelBossgroupSummoned>
+  <DMS_SteleKey_ImpactSite.questAvailableLetterLabel>Glifo Occultech encontrado: Local de impacto</DMS_SteleKey_ImpactSite.questAvailableLetterLabel>
+  <DMS_SteleVault.questAvailableLetterLabel>Estela localizada: Cofre da estela</DMS_SteleVault.questAvailableLetterLabel>
+  <DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.label>Documentos Processados</DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.label>
   <DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.text>Você processou com sucesso todos os documentos da frota.</DMS_ProcessDocumentQuest.root.nodes.10.node.nodes.0.text>
+  <DMS_ProcessDocumentQuest.root.nodes.6.label>Documentos Chegaram</DMS_ProcessDocumentQuest.root.nodes.6.label>
+  <DMS_ProcessDocumentQuest.root.nodes.6.text>Documentos classificados de [asker_nameFull] chegaram. Eles foram deixados perto dos seus faróis comerciais ou do centro da colônia.</DMS_ProcessDocumentQuest.root.nodes.6.text>
+  <DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.label>Documentos Destruídos</DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.label>
+  <DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.text>Como os documentos foram destruídos, a missão falhou.</DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.text>
 </LanguageData>

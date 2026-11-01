@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmartDeconstruct>Desconstrução Inteligente</SmartDeconstruct>
+  <SmartDeconstruct.Animals.Label>Habilitar para animais?</SmartDeconstruct.Animals.Label>
+  <SmartDeconstruct.Animals.Tooltip>Permitir que os animais executem essas verificações? Se desativado, os animais farão os tetos desabarem sobre si mesmos, como no vanilla.</SmartDeconstruct.Animals.Tooltip>
+  <SmartDeconstruct.Buildings.Label>Verificar tetos ao desconstruir edificações?</SmartDeconstruct.Buildings.Label>
+  <SmartDeconstruct.Buildings.Tooltip>A funcionalidade base do mod. Desative esta opção e 'Verificar tetos ao minerar' para desativar o mod.</SmartDeconstruct.Buildings.Tooltip>
+  <SmartDeconstruct.CancelThick.Label>Cancelar ordens em tetos grossos?</SmartDeconstruct.CancelThick.Label>
+  <SmartDeconstruct.CancelThick.Tooltip>Se ativado, as ordens que causariam o desabamento de um teto de montanha grosso serão canceladas e uma mensagem de aviso será exibida. Não é recomendado desativar. Ignorado se 'Remover tetos grossos' estiver ativado.</SmartDeconstruct.CancelThick.Tooltip>
+  <SmartDeconstruct.CurrentModVersion.Label>Versão do mod instalada: {0}</SmartDeconstruct.CurrentModVersion.Label>
+  <SmartDeconstruct.Mining.Label>Verificar tetos ao minerar?</SmartDeconstruct.Mining.Label>
+  <SmartDeconstruct.Mining.Tooltip>Define se a funcionalidade será estendida à mineração.</SmartDeconstruct.Mining.Tooltip>
+  <SmartDeconstruct.NonColonists.Label>Habilitar para não-colonos?</SmartDeconstruct.NonColonists.Label>
+  <SmartDeconstruct.NonColonists.Tooltip>Permitir que peões que não sejam seus colonos ou animais executem essas verificações?</SmartDeconstruct.NonColonists.Tooltip>
+  <SmartDeconstruct.StoppedByThickRoof>{0} não pode {2} {1} por causa de um teto de montanha grosso que poderia desabar.</SmartDeconstruct.StoppedByThickRoof>
+  <SmartDeconstruct.Thick.Label>Remover tetos grossos?</SmartDeconstruct.Thick.Label>
+  <SmartDeconstruct.Thick.Tooltip>Os colonos podem remover tetos grossos? Observação: Esta opção será ativada automaticamente se um mod que permite isso estiver instalado, mas não é obrigatório que haja um.</SmartDeconstruct.Thick.Tooltip>
+  <SmartDeconstruct.ThickResearch.Label>Pesquisa para remover tetos grossos</SmartDeconstruct.ThickResearch.Label>
+  <SmartDeconstruct.ThickResearch.Tooltip>Projeto de pesquisa necessário para remover tetos grossos. Será definido automaticamente se 'Extended Roofing' ou 'Raise the Roof' estiverem instalados. Requer que 'Remover tetos grossos' esteja ativado.</SmartDeconstruct.ThickResearch.Tooltip>
+</LanguageData>

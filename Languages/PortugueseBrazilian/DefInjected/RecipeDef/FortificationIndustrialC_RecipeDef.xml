@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FTC_KitchenCookMealSimple.description>Cozinha 8 refeições simples a partir de um ingrediente.</FTC_KitchenCookMealSimple.description>
+  <FTC_KitchenCookMealSimple.jobString>cozinhando 8 ensopados simples</FTC_KitchenCookMealSimple.jobString>
+  <FTC_KitchenCookMealSimple.label>Cozinhar refeição simples x8</FTC_KitchenCookMealSimple.label>
+  <FT_ExtractChemFuelByCorpses.description>Pirólise de 360 kg de cadáveres (aproximadamente 6 humanos adultos) para obter combustível químico. Os cadáveres devem ser orgânicos.</FT_ExtractChemFuelByCorpses.description>
+  <FT_ExtractChemFuelByCorpses.jobString>pirolisando combustível químico a partir de matéria orgânica</FT_ExtractChemFuelByCorpses.jobString>
+  <FT_ExtractChemFuelByCorpses.label>Pirolisar cadáveres (360)</FT_ExtractChemFuelByCorpses.label>
+  <FT_ExtractChemFuelByJunks.description>Pirólise de 4 kg de materiais diversos para obter 7 de combustível químico. Os restos devem ser materiais não fundíveis e inflamáveis.</FT_ExtractChemFuelByJunks.description>
+  <FT_ExtractChemFuelByJunks.jobString>pirolisando combustível químico a partir de materiais diversos</FT_ExtractChemFuelByJunks.jobString>
+  <FT_ExtractChemFuelByJunks.label>Pirolisar sucata (4)</FT_ExtractChemFuelByJunks.label>
+  <FT_ExtractChemFuelByJunksPlus.description>Pirólise de 28 kg de materiais diversos para obter 35 de combustível químico. Os restos devem ser materiais não fundíveis e inflamáveis.</FT_ExtractChemFuelByJunksPlus.description>
+  <FT_ExtractChemFuelByJunksPlus.jobString>pirolisando combustível químico a partir de materiais diversos</FT_ExtractChemFuelByJunksPlus.jobString>
+  <FT_ExtractChemFuelByJunksPlus.label>Pirolisar sucata (28)</FT_ExtractChemFuelByJunksPlus.label>
+  <FT_ExtractSteelByJunks.description>Fundir 8 kg de sucata e extrair recursos. A sucata deve ser composta por materiais fundíveis.</FT_ExtractSteelByJunks.description>
+  <FT_ExtractSteelByJunks.jobString>reciclando aço a partir de materiais</FT_ExtractSteelByJunks.jobString>
+  <FT_ExtractSteelByJunks.label>Reciclar sucata (8)</FT_ExtractSteelByJunks.label>
+  <FT_ExtractSteelByJunksPlus.description>Reciclar 32 kg de sucata e extrair recursos. A sucata deve ser composta por materiais fundíveis.</FT_ExtractSteelByJunksPlus.description>
+  <FT_ExtractSteelByJunksPlus.jobString>reciclando aço a partir de materiais</FT_ExtractSteelByJunksPlus.jobString>
+  <FT_ExtractSteelByJunksPlus.label>Reciclar sucata (32)</FT_ExtractSteelByJunksPlus.label>
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DW_AsOffHand>como arma da mão secundária</DW_AsOffHand>
+  <DW_CannotBeOffHand>Não configurada como arma secundária nas opções do mod</DW_CannotBeOffHand>
+  <DW_Collapse>Recolher</DW_Collapse>
+  <DW_DropOffHand>Soltar {0} (mão secundária)</DW_DropOffHand>
+  <DW_EquipOffHand>Equipar {0} (mão secundária)</DW_EquipOffHand>
+  <DW_Expand>Expandir</DW_Expand>
+  <DW_HerHis_Female>sua</DW_HerHis_Female>
+  <DW_HerHis_Male>seu</DW_HerHis_Male>
+  <DW_Message_UnequippedOffHand>{0} soltou a arma da mão secundária ({1}) para abrir espaço para uma arma de duas mãos.</DW_Message_UnequippedOffHand>
+  <DW_MissArmOrHand>Falta braço ou mão</DW_MissArmOrHand>
+  <DW_NoTwoHandedInOffHand>Não é possível empunhar uma arma de duas mãos na mão secundária</DW_NoTwoHandedInOffHand>
+  <DW_Setting_CustomRotations_Header>Rotações personalizadas</DW_Setting_CustomRotations_Header>
+  <DW_Setting_CustomRotations_SetRotation>Rotação extra: {0} graus.</DW_Setting_CustomRotations_SetRotation>
+  <DW_Setting_CustomRotations_Title>Clique em uma arma para definir sua rotação personalizada.</DW_Setting_CustomRotations_Title>
+  <DW_Setting_DualWield_DisabledReason>Esta arma também está configurada como arma de duas mãos. Armas de duas mãos não podem ser empunhadas em dupla e, portanto, esta configuração não terá efeito.</DW_Setting_DualWield_DisabledReason>
+  <DW_Setting_DualWield_NOK>Não pode ser usada na mão secundária</DW_Setting_DualWield_NOK>
+  <DW_Setting_DualWield_OK>Pode ser usada na mão secundária</DW_Setting_DualWield_OK>
+  <DW_Setting_DynamicAccP_Description>Penalidade extra à precisão para cada nível que o colono estiver abaixo do nível máximo de tiro ou corpo a corpo ao empunhar duas armas. Esta penalidade se aplica a ambas as armas.</DW_Setting_DynamicAccP_Description>
+  <DW_Setting_DynamicAccP_Title>Penalidade extra de precisão por nível (%)</DW_Setting_DynamicAccP_Title>
+  <DW_Setting_DynamicCooldownP_Description>Penalidade extra ao tempo de recarga para cada nível que o colono estiver abaixo do nível máximo de tiro ou corpo a corpo ao empunhar duas armas. Esta penalidade se aplica a ambas as armas.</DW_Setting_DynamicCooldownP_Description>
+  <DW_Setting_DynamicCooldownP_Title>Penalidade extra de recarga por nível (%)</DW_Setting_DynamicCooldownP_Title>
+  <DW_Setting_MeleeAngle_Description>O ângulo relativo ao ângulo vanilla em que os colonos seguram sua arma corpo a corpo nas vistas norte/sul ao empunhar duas armas.</DW_Setting_MeleeAngle_Description>
+  <DW_Setting_MeleeAngle_Title>Ângulo extra da arma corpo a corpo</DW_Setting_MeleeAngle_Title>
+  <DW_Setting_MeleeMirrored_Description>Se marcada, as armas corpo a corpo empunhadas em dupla serão exibidas espelhadas uma em relação à outra.</DW_Setting_MeleeMirrored_Description>
+  <DW_Setting_MeleeMirrored_Title>Espelhar armas corpo a corpo</DW_Setting_MeleeMirrored_Title>
+  <DW_Setting_MeleeXOffset_Description>O deslocamento horizontal relativo ao centro do colono em que ele segura sua arma corpo a corpo ao empunhar duas armas.</DW_Setting_MeleeXOffset_Description>
+  <DW_Setting_MeleeXOffset_Title>Deslocamento horizontal da arma corpo a corpo</DW_Setting_MeleeXOffset_Title>
+  <DW_Setting_MeleeZOffset_Description>O deslocamento vertical relativo ao centro do colono em que ele segura sua arma corpo a corpo ao empunhar duas armas.</DW_Setting_MeleeZOffset_Description>
+  <DW_Setting_MeleeZOffset_Title>Deslocamento vertical da arma corpo a corpo</DW_Setting_MeleeZOffset_Title>
+  <DW_Setting_NPCDualWieldChance_Description>Chance de um PNJ (inimigo ou aliado) usar empunhadura dupla, desde que não tenha surgido com uma arma de duas mãos.</DW_Setting_NPCDualWieldChance_Description>
+  <DW_Setting_NPCDualWieldChance_Title>Chance de PNJ/inimigo empunhar em dupla (%)</DW_Setting_NPCDualWieldChance_Title>
+  <DW_Setting_Note_Drawing>Dica: Uma boa forma de ver o efeito dessas configurações é equipar um colono com uma arma afetada, manter a janela de configurações aberta, alterar a configuração e pressionar Enter. A mudança será visível imediatamente!</DW_Setting_Note_Drawing>
+  <DW_Setting_RangedAngle_Description>O ângulo relativo ao ângulo vanilla em que os colonos seguram sua arma de longo alcance nas vistas norte/sul ao empunhar duas armas.</DW_Setting_RangedAngle_Description>
+  <DW_Setting_RangedAngle_Title>Ângulo extra da arma de longo alcance</DW_Setting_RangedAngle_Title>
+  <DW_Setting_RangedMirrored_Description>Se marcada, as armas de longo alcance empunhadas em dupla serão exibidas espelhadas uma em relação à outra.</DW_Setting_RangedMirrored_Description>
+  <DW_Setting_RangedMirrored_Title>Espelhar armas de longo alcance</DW_Setting_RangedMirrored_Title>
+  <DW_Setting_RangedXOffset_Description>O deslocamento horizontal relativo ao centro do colono em que ele segura sua arma de longo alcance ao empunhar duas armas.</DW_Setting_RangedXOffset_Description>
+  <DW_Setting_RangedXOffset_Title>Deslocamento horizontal da arma de longo alcance</DW_Setting_RangedXOffset_Title>
+  <DW_Setting_RangedZOffset_Description>O deslocamento vertical relativo ao centro do colono em que ele segura sua arma de longo alcance ao empunhar duas armas.</DW_Setting_RangedZOffset_Description>
+  <DW_Setting_RangedZOffset_Title>Deslocamento vertical da arma de longo alcance</DW_Setting_RangedZOffset_Title>
+  <DW_Setting_StaticAccPMainHand_Description>Penalidade à precisão da arma na mão principal ao empunhar duas armas.</DW_Setting_StaticAccPMainHand_Description>
+  <DW_Setting_StaticAccPMainHand_Title>Penalidade de precisão da mão principal (%)</DW_Setting_StaticAccPMainHand_Title>
+  <DW_Setting_StaticAccPOffHand_Description>Penalidade à precisão da arma na mão secundária ao empunhar duas armas.</DW_Setting_StaticAccPOffHand_Description>
+  <DW_Setting_StaticAccPOffHand_Title>Penalidade de precisão da mão secundária (%)</DW_Setting_StaticAccPOffHand_Title>
+  <DW_Setting_StaticCooldownPMainHand_Description>Penalidade ao tempo de recarga da arma na mão principal ao empunhar duas armas.</DW_Setting_StaticCooldownPMainHand_Description>
+  <DW_Setting_StaticCooldownPMainHand_Title>Penalidade de recarga da mão principal (%)</DW_Setting_StaticCooldownPMainHand_Title>
+  <DW_Setting_StaticCooldownPenOffHand_Description>Penalidade ao tempo de recarga da arma na mão secundária ao empunhar duas armas.</DW_Setting_StaticCooldownPenOffHand_Description>
+  <DW_Setting_StaticCooldownPenOffHand_Title>Penalidade de recarga da mão secundária (%)</DW_Setting_StaticCooldownPenOffHand_Title>
+  <DW_Setting_TwoHand_DisabledReason>Esta arma também está configurada como arma para empunhadura dupla. Armas de duas mãos não podem ser empunhadas em dupla e, portanto, esta configuração substitui a configuração de empunhadura dupla.</DW_Setting_TwoHand_DisabledReason>
+  <DW_Setting_TwoHanded_NOK>Não é empunhada com duas mãos</DW_Setting_TwoHanded_NOK>
+  <DW_Setting_TwoHanded_OK>Empunhada com duas mãos</DW_Setting_TwoHanded_OK>
+  <DW_SettingsGroup_Drawing_Description>Altere como as armas empunhadas em dupla são exibidas nas vistas sul e norte para colonos não em mira. As vistas leste/oeste e em mira já devem estar corretas por padrão, portanto não há opções extras para elas. A unidade de medida dos ângulos é graus, e os ângulos são relativos aos ângulos padrão do jogo sem mods.</DW_SettingsGroup_Drawing_Description>
+  <DW_SettingsGroup_Drawing_Title>Deslocamentos e rotações ao desenhar</DW_SettingsGroup_Drawing_Title>
+  <DW_SettingsGroup_DualWieldSelection_Description>Configure quais armas podem ser usadas junto a outra arma não empunhada com duas mãos. Observe que também é possível usar armas secundárias junto a armas que não estão configuradas como secundárias, desde que não estejam configuradas como armas de duas mãos.</DW_SettingsGroup_DualWieldSelection_Description>
+  <DW_SettingsGroup_DualWieldSelection_Title>Configurar armas secundárias</DW_SettingsGroup_DualWieldSelection_Title>
+  <DW_SettingsGroup_Penalties_Description>Configure a gravidade das penalidades ao empunhar duas armas.</DW_SettingsGroup_Penalties_Description>
+  <DW_SettingsGroup_Penalties_Title>Penalidades por empunhadura dupla</DW_SettingsGroup_Penalties_Title>
+  <DW_SettingsGroup_TwoHandSelection_Description>Configure quais armas exigem ambas as mãos para serem usadas. Armas de duas mãos não podem ser usadas junto a outra arma.</DW_SettingsGroup_TwoHandSelection_Description>
+  <DW_SettingsGroup_TwoHandSelection_Title>Configurar armas de duas mãos</DW_SettingsGroup_TwoHandSelection_Title>
+  <DW_WieldingTwoHanded>Empunhando arma de duas mãos</DW_WieldingTwoHanded>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMSE_BlockadeInterceptor.description>Um interceptor terra-ar disparado contra uma aeronave que voa através de um espaço aéreo fechado.</DMSE_BlockadeInterceptor.description>
+  <DMSE_BlockadeInterceptor.label>interceptor de bloqueio</DMSE_BlockadeInterceptor.label>
+  <DMSE_DropPodTrack.description>Cápsulas de queda hostis rastreadas pelo radar mundial em seu trajeto de entrada.</DMSE_DropPodTrack.description>
+  <DMSE_DropPodTrack.label>cápsulas de queda iminentes</DMSE_DropPodTrack.label>
+  <DMSE_FieldLaunchSite.description>Uma posição de mísseis de campo rapidamente implantada por uma facção da era industrial: um radar de busca, posições de lançamento dispersas, transportadores de munição e abrigos para a tripulação. Cápsulas de suprimentos mantêm a guarnição abastecida enquanto seus radares permanecerem operacionais.</DMSE_FieldLaunchSite.description>
+  <DMSE_FieldLaunchSite.label>posição de lançamento de campo</DMSE_FieldLaunchSite.label>
+  <DMSE_ImpactGravship.description>Uma gravinave em trajetória de colisão.</DMSE_ImpactGravship.description>
+  <DMSE_ImpactGravship.label>gravinave em colisão</DMSE_ImpactGravship.label>
+  <DMSE_Interceptor.description>Um interceptor terra-ar seguindo em direção a um ponto de encontro previsto.</DMSE_Interceptor.description>
+  <DMSE_Interceptor.label>míssil interceptor</DMSE_Interceptor.label>
+  <DMSE_MissileBase.description>Uma posição móvel de lançamento de mísseis balísticos táticos. A tripulação inimiga dispara mísseis continuamente contra sua colônia e repõe seus estoques por meio de quedas de suprimentos. A posição será realocada após algum tempo.</DMSE_MissileBase.description>
+  <DMSE_MissileBase.label>posição de lançamento de mísseis</DMSE_MissileBase.label>
+  <DMSE_TransferGravShip.description>Uma gravinave em voo.</DMSE_TransferGravShip.description>
+  <DMSE_TransferGravShip.label>gravinave em transferência</DMSE_TransferGravShip.label>
+  <DMSE_TransferShip.description>Uma seção de terreno arrastada por uma rede estrutural, agora uma nave por si só.</DMSE_TransferShip.description>
+  <DMSE_TransferShip.label>nave em transferência</DMSE_TransferShip.label>
+  <DMSE_WorldObject_ArtilleryStrike.description>Um projétil de artilharia de longo alcance em voo.</DMSE_WorldObject_ArtilleryStrike.description>
+  <DMSE_WorldObject_ArtilleryStrike.label>projétil de artilharia</DMSE_WorldObject_ArtilleryStrike.label>
+  <DMSE_WorldObject_BallisticMissile.description>Um míssil balístico seguindo uma trajetória em arco.</DMSE_WorldObject_BallisticMissile.description>
+  <DMSE_WorldObject_BallisticMissile.label>míssil balístico</DMSE_WorldObject_BallisticMissile.label>
+  <DMSE_WorldObject_CruiseMissile.description>míssil de cruzeiro em voo.</DMSE_WorldObject_CruiseMissile.description>
+  <DMSE_WorldObject_CruiseMissile.label>míssil de cruzeiro</DMSE_WorldObject_CruiseMissile.label>
+  <DMSE_WorldObject_IncomingMissile.description>Um míssil se aproximando de um alvo.</DMSE_WorldObject_IncomingMissile.description>
+  <DMSE_WorldObject_IncomingMissile.label>míssil iminente</DMSE_WorldObject_IncomingMissile.label>
+  <DMSE_WorldObject_LightMissile.description>Um míssil leve em voo.</DMSE_WorldObject_LightMissile.description>
+  <DMSE_WorldObject_LightMissile.label>míssil leve</DMSE_WorldObject_LightMissile.label>
+  <DMSE_WorldObject_Loiter.description>Uma munição rondadora em voo.</DMSE_WorldObject_Loiter.description>
+  <DMSE_WorldObject_Loiter.label>munição rondadora</DMSE_WorldObject_Loiter.label>
+</LanguageData>

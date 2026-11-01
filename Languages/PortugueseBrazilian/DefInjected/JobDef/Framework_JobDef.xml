@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <IP_InsertFirstIngredient.reportString>inserindo ingrediente.</IP_InsertFirstIngredient.reportString>
   <IP_InsertSecondIngredient.reportString>inserindo ingrediente.</IP_InsertSecondIngredient.reportString>
@@ -7,4 +7,7 @@
   <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
   <VFE_Mechanoids_AttachTurret.reportString>anexando torreta.</VFE_Mechanoids_AttachTurret.reportString>
   <VFE_Mechanoids_Recharge.reportString>recarregando.</VFE_Mechanoids_Recharge.reportString>
+  <VEF_BeatCustomFire.reportString>apagando fogo.</VEF_BeatCustomFire.reportString>
+  <VEF_ExtinguishCustomFireSelf.reportString>extinguindo a si mesmo.</VEF_ExtinguishCustomFireSelf.reportString>
+  <VEF_ExtinguishCustomFiresNearby.reportString>extinguindo incêndios próximos.</VEF_ExtinguishCustomFiresNearby.reportString>
 </LanguageData>

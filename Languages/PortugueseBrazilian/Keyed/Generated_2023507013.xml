@@ -542,8 +542,8 @@ Se contratado {0} morrer em serviço, você incorrerá em um aumento adicional d
   <VanillaFactionsExpanded.FactionMessageSuccess>Adicionado {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
   <VanillaFactionsExpanded.FactionMessageSuccessFull>Adicionado {FactionName} com {Amount} assentamentos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
   <VanillaFactionsExpanded.FactionMinDistance>A distância mínima das bases dos jogadores (recomendadas são {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
-  <VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple? Recomenda-se ter pelo menos {REQUIRED} facções do tipo {FACTION}, mas atualmente há apenas {COUNT}.: Recomenda-se ativar {FACTION}.}</VanillaFactionsExpanded.FactionRecommended>
-  <VanillaFactionsExpanded.FactionRequired>{FACTION} não pode ser desativado{REQUIRED_multiple?, você precisa de pelo menos {REQUIRED} facções desse tipo.:.}</VanillaFactionsExpanded.FactionRequired>
+  <VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple ? It is recommended to have at least {REQUIRED} facções do tipo {FACTION}, but currently there's only {COUNT}. : It is recommended to enable {FACTION}.}</VanillaFactionsExpanded.FactionRecommended>
+  <VanillaFactionsExpanded.FactionRequired>{FACTION} cannot be disabled{REQUIRED_multiple ? , you need at least {REQUIRED} facções desse tipo. : .}</VanillaFactionsExpanded.FactionRequired>
   <VanillaFactionsExpanded.FactionSelectOption>Selecione como proceder:</VanillaFactionsExpanded.FactionSelectOption>
   <VanillaFactionsExpanded.FactionSettlementsToSpawn>Assentamentos para desovar (recomendados são {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
   <VanillaFactionsExpanded.FactionTitle>Nova facção: {FactionName}</VanillaFactionsExpanded.FactionTitle>

@@ -4,8 +4,6 @@
   <ALConfigCuriosityEatingTooltip>Na maioria impede que seus animais comam drogas sem nutrição e coisas fora das zonas permitidas deles. Eles ainda comem sua comida se ela estiver na zona permitida deles.</ALConfigCuriosityEatingTooltip>
   <ALConfigHostilePredatorsLabel>Predadores caçando seus colonos são considerados hostis por toda sua facção</ALConfigHostilePredatorsLabel>
   <ALConfigHostilePredatorsTooltip>Isto não muda a resposta de ameaça dos seus colonos, só os faz capazes de reconhecer uma ameaça.</ALConfigHostilePredatorsTooltip>
-  <ALConfigEggConversionLabel>Converte ovos estragados pela temperatura em ovos de galinha não fertilizados</ALConfigEggConversionLabel>
-  <ALConfigEggConversionTooltip>Isto não afeta ovos já estragados.</ALConfigEggConversionTooltip>
   <ALConfigMeatConversionLabel>Converte qualquer carne animal genérica em carne de galinha ao abater</ALConfigMeatConversionLabel>
   <ALConfigMeatConversionTooltip>Isto não afeta carne já abatida.</ALConfigMeatConversionTooltip>
   <ALConfigShearCorpsesLabel>Colhe lã ao abater</ALConfigShearCorpsesLabel>
@@ -30,36 +28,8 @@
   <ALConfigToxicBuildupRotTooltip>Por padrão, animais mortos com grande acúmulo tóxico têm chance de apodrecer na hora. A intenção é tornar a chuva tóxica mais difícil, mas tem o efeito colateral de cobras não conseguirem comer as presas, então elas tendem a matar todo animal pequeno no mapa e morrer de fome. Defina como 0% para remover a chance de apodrecimento por completo, defina como 100% para a fórmula do jogo base.</ALConfigToxicBuildupRotTooltip>
   <ALConfigTamingAgeFactorLabel>Animais jovens são mais fáceis de manejar</ALConfigTamingAgeFactorLabel>
   <ALConfigTamingAgeFactorTooltip>Torna animais não adultos mais fáceis de domesticar e treinar, reduzindo de fato a selvageria deles. Proporcional à idade relativa deles — recém-nascidos são bem mais fáceis, enquanto quase adultos mal são afetados.</ALConfigTamingAgeFactorTooltip>
-  <WoolType>Tipo de lã</WoolType>
-  <Stat_Race_WoolType_Desc>O tipo de lã que esta criatura produz ao ser tosquiada.</Stat_Race_WoolType_Desc>
-  <WoolAmount>Quantidade de lã</WoolAmount>
-  <Stat_Race_WoolAmount_Desc>A quantidade de lã produzida ao tosquiar esta criatura e o tempo que a lã leva para crescer.</Stat_Race_WoolAmount_Desc>
-  <MilkType>Tipo de leite</MilkType>
-  <Stat_Race_MilkType_Desc>O tipo de leite que esta criatura produz ao ser ordenhada.</Stat_Race_MilkType_Desc>
-  <MilkAmount>Quantidade de leite</MilkAmount>
-  <Stat_Race_MilkAmount_Desc>A quantidade de leite produzida ao ordenhar esta criatura e o tempo que o leite leva para produzir.</Stat_Race_MilkAmount_Desc>
-  <MilkFemale>Ordenha só fêmeas</MilkFemale>
-  <MilkFemaleExplanation>Algumas espécies podem produzir leite independente do sexo, mas para a maioria apenas as fêmeas podem ser ordenhadas.</MilkFemaleExplanation>
   <AL_ResourceType>Tipo de produto</AL_ResourceType>
-  <AL_ResourceType_Desc>Este animal pode produzir algum tipo de recurso que não é considerado leite ou lã. Note que este pode ser menos confiável, já que é usado para animais de mods com algum tipo de regra de produção personalizada.</AL_ResourceType_Desc>
-  <AL_ResourceAmount>Quantidade de produto</AL_ResourceAmount>
-  <AL_ResourceAmount_Desc>A quantidade de recurso colhida desta criatura e o tempo que leva para crescer.</AL_ResourceAmount_Desc>
-  <EggType>Tipo de ovos</EggType>
-  <Stat_Race_EggType_Desc>O tipo de ovos que esta criatura põe.</Stat_Race_EggType_Desc>
-  <EggAmount>Quantidade de ovos</EggAmount>
-  <Stat_Race_EggAmount_Desc>A quantidade de ovos em uma ninhada e quanto tempo leva para produzi-los.</Stat_Race_EggAmount_Desc>
-  <EggFemale>Ovos só de fêmeas</EggFemale>
-  <EggFemaleExplanation>Algumas espécies podem produzir ovos independente do sexo, mas para a maioria apenas as fêmeas conseguem.</EggFemaleExplanation>
-  <EggNeedFertilization>Ovos precisam de fertilização</EggNeedFertilization>
-  <EggNeedFertilizationExplanation>Algumas espécies podem produzir ovos não fertilizados, mas muitas outras não.</EggNeedFertilizationExplanation>
-  <EggIncubation>Incubação de ovos</EggIncubation>
-  <EggIncubationExplanation>Quanto tempo leva para um ovo eclodir.</EggIncubationExplanation>
-  <TimeToMature>Idade adulta</TimeToMature>
-  <TimeToMatureExplanation>Quanto tempo leva para atingir a idade reprodutiva, idade em que pode produzir leite/lã, ou último estágio de vida definido para espécies que não se reproduzem. É a mesma idade para a maioria das espécies.</TimeToMatureExplanation>
-  <GestationPeriod>Período de gestação</GestationPeriod>
-  <GestationPeriodExplanation>Quanto tempo leva para produzir um novo filhote.</GestationPeriodExplanation>
-  <LitterSize>Tamanho da ninhada</LitterSize>
-  <LitterSizeExplanation>Quantos filhotes podem ser produzidos de uma vez.</LitterSizeExplanation>
+  <AL_ResourceAmount>Quantidade de {0}</AL_ResourceAmount>
   <AnimalNeedsTreatment>Animal precisa de tratamento</AnimalNeedsTreatment>
   <AnimalsNeedTreatment>Animais precisam de tratamento</AnimalsNeedTreatment>
   <AnimalNeedsTreatmentDesc>Estes animais precisam de tratamento médico. Sem ele, podem morrer dos ferimentos, ou os ferimentos deles podem se tornar permanentes.\n\n{0}</AnimalNeedsTreatmentDesc>
@@ -69,4 +39,32 @@
   <AnimalsWithLifeThreateningDisease>Emergência médica (animais)</AnimalsWithLifeThreateningDisease>
   <AnimalsWithLifeThreateningDiseaseAmputationDesc>Animais correm risco de morte por causa de doença severa:\n\n{0}\nSe possível, considere amputar ou substituir membros infectados para manter os animais vivos.</AnimalsWithLifeThreateningDiseaseAmputationDesc>
   <AnimalsWithLifeThreateningDiseaseDesc>Animais correm risco de morte por causa de doença severa:\n\n{0}\nCertifique-se de que recebam o melhor cuidado médico possível.</AnimalsWithLifeThreateningDiseaseDesc>
+  <ALConfigComeWhenCalledLabel>Animais obedientes vêm quando chamados para treino ou brincadeira</ALConfigComeWhenCalledLabel>
+  <ALConfigComeWhenCalledTooltip>Animais com adestramento de obediência virão até o tratador ao invés de forçá-lo a persegui-los, abandonando o que estavam fazendo. Qualquer animal sendo tratado também fica parado enquanto o tratador conversa com ele, como o jogo já faz ao alimentá-lo. Animais não serão chamados nem mantidos quando estiverem lutando, fugindo, alistados ou indisponíveis para interação pelas regras do próprio jogo.</ALConfigComeWhenCalledTooltip>
+  <ALConfigHuntingSpreeFrequencyLabel>Frequência do frenesi de caça: {0}</ALConfigHuntingSpreeFrequencyLabel>
+  <ALConfigHuntingSpreeFrequencyTooltip>Quão provável é o frenesi de caça em comparação com os outros colapsos mentais graves do jogo. Em 100%, tem um pouco mais da metade do peso de um acesso de raiva. Diminua se estiver acontecendo com muita frequência, ou aumente para vê-lo com mais frequência.</ALConfigHuntingSpreeFrequencyTooltip>
+  <ALConfigHuntingSpreeLabel>Colapso: frenesi de caça</ALConfigHuntingSpreeLabel>
+  <ALConfigHuntingSpreeTooltip>Um colapso mental grave onde o colono sai para matar animais selvagens. Só é escolhido quando o colono pode lutar e há um animal selvagem no mapa que não seja muito perigoso para a arma atual do colono: um colono desarmado só persegue pequenas presas, uma arma corpo a corpo permite animais médios, uma arma à distância permite a maioria dos não predadores e pequenos predadores, e nada escolhe brigar com ursos, lobos, grandes felinos, thrumbos ou animais que explodem ao serem mortos em combate corpo a corpo. Desativar isso o remove do grupo de possíveis colapsos mentais.</ALConfigHuntingSpreeTooltip>
+  <ALConfigPlayWithAnimalsLabel>Permitir brincar com animais como recreação</ALConfigPlayWithAnimalsLabel>
+  <ALConfigPlayWithAnimalsTooltip>Colonos capazes de cuidar de animais podem brincar com os animais da colônia para se divertir. Animais vinculados e com alta afeição são preferidos. Tratadores com alta habilidade também podem interagir com animais selvagens para ter chance de domesticá-los.</ALConfigPlayWithAnimalsTooltip>
+  <AL_GenericProduct>Produto</AL_GenericProduct>
+  <AL_RandomProduct>Aleatório</AL_RandomProduct>
+  <AL_RandomProductDesc>Cada coleta rende um dos seguintes: {0}.\n\nO valor de mercado exibido é a média entre eles.</AL_RandomProductDesc>
+  <AL_RandomProductNamed>Aleatório ({0})</AL_RandomProductNamed>
+  <AL_ResourceAmountDesc>A quantidade deste recurso coletada da criatura a cada vez.</AL_ResourceAmountDesc>
+  <AL_ResourceExtra>Itens extras</AL_ResourceExtra>
+  <AL_ResourceExtraDesc>Cada coleta tem essa chance de render também o número dado de itens extras, de um tipo entre: {0}.</AL_ResourceExtraDesc>
+  <AL_ResourceExtraValue>{0}% de chance de {1}</AL_ResourceExtraValue>
+  <AL_ResourceInterval>Intervalo de coleta: {0}</AL_ResourceInterval>
+  <AL_ResourceIntervalDesc>O tempo que a criatura precisa entre coletas.</AL_ResourceIntervalDesc>
+  <AL_ResourcePerYear>{0} por ano</AL_ResourcePerYear>
+  <AL_ResourcePerYearDesc>A quantidade deste recurso coletada ao longo de um ano.\n\nIsso é calculado com base na quantidade e no intervalo de coleta.</AL_ResourcePerYearDesc>
+  <AL_ResourceTypeDesc>Esta criatura produz um recurso coletável que não é leite nem lã. Adicionado por outro mod, portanto os números seguem as regras desse mod.</AL_ResourceTypeDesc>
+  <AL_ResourceValue>Valor de mercado: {0}</AL_ResourceValue>
+  <AL_ResourceValueDesc>O valor de mercado de uma unidade deste recurso.</AL_ResourceValueDesc>
+  <AL_ResourceValuePerYear>Valor por ano: {0}</AL_ResourceValuePerYear>
+  <AL_ResourceValuePerYearDesc>O valor de mercado de um ano deste recurso desta criatura.\n\nIsso é calculado com base na quantidade por ano e no valor de mercado.</AL_ResourceValuePerYearDesc>
+  <AL_VariableProduct>Varia</AL_VariableProduct>
+  <AL_VariableProductCurrent>{0} (varia)</AL_VariableProductCurrent>
+  <AL_VariableProductDesc>O produto depende da condição ou do ambiente atual do animal. Produtos possíveis: {0}.</AL_VariableProductDesc>
 </LanguageData>

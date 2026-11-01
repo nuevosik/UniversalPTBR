@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AM_ApoptosisHateAura.description>Um ódio tão profundo, consigo senti-lo nos meus ossos. Vou ficar doente.</AM_ApoptosisHateAura.description>
+  <AM_ApoptosisHateAura.label>aura de ódio apoptótico</AM_ApoptosisHateAura.label>
+  <AM_ArmorMechBoost.description>A armadura deste mecanoide foi reforçada por uma estrutura próxima de reforço de armadura de mecanoides.</AM_ArmorMechBoost.description>
+  <AM_ArmorMechBoost.label>reforço de armadura</AM_ArmorMechBoost.label>
+  <AM_BeamncasterBandNode.description>A largura de banda deste mecanizador está sendo aumentada em 2 por nó graças à influência de uma estrutura de nó de banda do transmissor.</AM_BeamncasterBandNode.description>
+  <AM_BeamncasterBandNode.label>nó de banda transmissor (ajustado)</AM_BeamncasterBandNode.label>
+  <AM_EfficiencyMechBoost.description>A eficiência energética deste mecanoide foi aprimorada por uma estrutura próxima de eficiência de mecanoides.</AM_EfficiencyMechBoost.description>
+  <AM_EfficiencyMechBoost.label>reforço de eficiência</AM_EfficiencyMechBoost.label>
+  <AM_FreezingBurst.description>Esta pessoa foi afetada por uma explosão congelante, reduzindo sua velocidade de movimento. Os efeitos desaparecerão após 12 horas.</AM_FreezingBurst.description>
+  <AM_FreezingBurst.label>afetado por explosão congelante</AM_FreezingBurst.label>
+  <AM_GreaterMechBoost.description>As capacidades deste mecanoide foram reforçadas por uma estrutura próxima de reforço persistente de mecanoides. Esta condição permanecerá no mecanoide por duas horas após sair do alcance da estrutura de reforço, mas será substituída caso o mecanoide entre no alcance de um reforço padrão.</AM_GreaterMechBoost.description>
+  <AM_GreaterMechBoost.label>reforço aprimorado</AM_GreaterMechBoost.label>
+  <AM_MechDisruption.description>A mira, velocidade e agilidade deste mecanoide estão sendo interrompidas por uma estrutura próxima de interrupção de mecanoides.</AM_MechDisruption.description>
+  <AM_MechDisruption.label>interrupção de mecanoide</AM_MechDisruption.label>
+  <AM_ScrambledIFF.description>Os sensores IFF deste mecanoide foram embaralhados, impossibilitando-o de identificar corretamente seus inimigos. Ele lutará ao lado da colônia por um dia e, após isso, voltará à sua lealdade original.</AM_ScrambledIFF.description>
+  <AM_ScrambledIFF.label>IFF embaralhado</AM_ScrambledIFF.label>
+  <AM_SoulDrain.description>Causado pela torreta de apoptose, uma arma aterrorizante projetada para drenar as almas de seus alvos. Equipado com tecnologia de drenagem de alma, é capaz de sugar a força vital de seres orgânicos, deixando-os enfraquecidos e vulneráveis. Desaparecerá com o tempo.</AM_SoulDrain.description>
+  <AM_SoulDrain.label>drenagem de alma</AM_SoulDrain.label>
+  <AM_SoulDrain.stages.0.label>inicial</AM_SoulDrain.stages.0.label>
+  <AM_SoulDrain.stages.1.label>tontura</AM_SoulDrain.stages.1.label>
+  <AM_SoulDrain.stages.2.label>dor de cabeça latejante</AM_SoulDrain.stages.2.label>
+  <AM_SoulDrain.stages.3.label>desmaio</AM_SoulDrain.stages.3.label>
+  <AM_SoulDrain.stages.4.label>morte celular</AM_SoulDrain.stages.4.label>
+  <AM_TargettingMechBoost.description>A mira deste mecanoide foi aprimorada por uma estrutura próxima de reforço de mira de mecanoides.</AM_TargettingMechBoost.description>
+  <AM_TargettingMechBoost.label>reforço de mira</AM_TargettingMechBoost.label>
+  <AM_VoidlinkBandNode.description>A largura de banda deste mecanizador está sendo aumentada em 5 por nó graças à influência de uma estrutura de nó de banda de elo-vazio.</AM_VoidlinkBandNode.description>
+  <AM_VoidlinkBandNode.label>nó de banda elo-vazio (ajustado)</AM_VoidlinkBandNode.label>
+</LanguageData>

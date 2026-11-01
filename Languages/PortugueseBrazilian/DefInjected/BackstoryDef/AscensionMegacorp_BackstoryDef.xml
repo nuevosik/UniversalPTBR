@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <USAC_Civilian01.description>[PAWN_nameDef] passou anos extraindo recursos valiosos do solo hostil de um mundo da Fronteira. [PAWN_pronoun] desenvolveu um instinto aguçado para encontrar depósitos e uma mão firme em equipamentos pesados de escavação, estando acostumado(a) com trabalho árduo em condições que esmagariam um colono comum.</USAC_Civilian01.description>
+  <USAC_Civilian01.title>coletor de recursos</USAC_Civilian01.title>
+  <USAC_Civilian01.titleShort>coletor</USAC_Civilian01.titleShort>
+  <USAC_Civilian02.description>[PAWN_nameDef] integrou o grande esforço de colonização e acabou em um mundo da Fronteira. [PAWN_pronoun] está entre os colonos mais experientes da força de colonização, tendo vivido mais tentativas de assentamento - bem-sucedidas ou não - do que a maioria das pessoas jamais ouvirá falar.</USAC_Civilian02.description>
+  <USAC_Civilian02.title>especialista em sobrevivência</USAC_Civilian02.title>
+  <USAC_Civilian02.titleShort>sobrevivencialista</USAC_Civilian02.titleShort>
+  <USAC_CivilianChild01.description>[PAWN_nameDef] cresceu sem gravidade, então sua infância foi uma longa série de reabilitação e terapias de exposição à gravidade. Os tratamentos permitiram que [PAWN_objective] se movesse normalmente sob gravidade total, mas seu corpo ainda é muito mais fraco que o de outras crianças da mesma idade.</USAC_CivilianChild01.description>
+  <USAC_CivilianChild01.title>adaptado à baixa gravidade</USAC_CivilianChild01.title>
+  <USAC_CivilianChild01.titleShort>adaptado</USAC_CivilianChild01.titleShort>
+  <USAC_CivilianChild05.description>A família de [PAWN_nameDef] não conseguiu pagar suas dívidas e foi enviada ao mundo da Fronteira junto com os pais. O mundo da Fronteira os matou sem cerimônia e, de alguma forma, a dívida da família foi herdada junto com tudo o mais.</USAC_CivilianChild05.description>
+  <USAC_CivilianChild05.title>herdeiro de dívidas</USAC_CivilianChild05.title>
+  <USAC_CivilianChild05.titleShort>herdeiro</USAC_CivilianChild05.titleShort>
+  <USAC_CivilianChild06.description>[PAWN_nameDef] assinou um contrato de doação de órgãos ainda criança, prometendo órgãos saudáveis ao atingir a maioridade. Sendo esperto(a), [PAWN_pronoun] gastou o dinheiro do contrato para conseguir boas conexões, conseguiu um lugar em um projeto de fronteira e fugiu para o mundo da Fronteira antes que alguém viesse recolhê-los.</USAC_CivilianChild06.description>
+  <USAC_CivilianChild06.title>fujão de órgãos</USAC_CivilianChild06.title>
+  <USAC_CivilianChild06.titleShort>fujão</USAC_CivilianChild06.titleShort>
+  <USAC_CivilianChild07.description>[PAWN_nameDef] descende de uma frota colonial que se estabeleceu neste mundo da Fronteira. Após a frota seguir adiante, as megacorporações chegaram e o preço para simplesmente sobreviver subia a cada ano. [PAWN_pronoun] aprendeu a atirar antes de aprender quase qualquer outra coisa.</USAC_CivilianChild07.description>
+  <USAC_CivilianChild07.title>descendente de colonos</USAC_CivilianChild07.title>
+  <USAC_CivilianChild07.titleShort>filho de colonos</USAC_CivilianChild07.titleShort>
+  <USAC_CivilianChild08.description>[PAWN_nameDef] cresceu confortável e bem-educado(a). Mesmo assim, havia muito mais pessoas qualificadas do que vagas disponíveis, e todos os caminhos para subir na vida já estavam bloqueados - então [PAWN_pronoun] foi em busca de oportunidades na Fronteira.</USAC_CivilianChild08.description>
+  <USAC_CivilianChild08.title>filho da classe média</USAC_CivilianChild08.title>
+  <USAC_CivilianChild08.titleShort>privilegiado</USAC_CivilianChild08.titleShort>
+  <USAC_CivilianChild09.description>O jovem [PAWN_nameDef] sonhava em ser aventureiro(a) e se alistou em um projeto de fronteira com destino ao mundo da Fronteira sem contar a ninguém. Não demorou muito para aprender qual era o verdadeiro custo daquele sonho.</USAC_CivilianChild09.description>
+  <USAC_CivilianChild09.title>jovem aventureiro</USAC_CivilianChild09.title>
+  <USAC_CivilianChild09.titleShort>aventureiro</USAC_CivilianChild09.titleShort>
+  <USAC_Military01.description>[PAWN_nameDef] era um bandido ruim e acabou sendo capturado por uma companhia mercenária. Cumprindo uma pena de trabalho entre eles, [PAWN_pronoun] percebeu o quão melhor essas pessoas viviam em comparação com [PAWN_pronoun] mesmo(a) - e decidiu ficar após ser libertado(a).</USAC_Military01.description>
+  <USAC_Military01.title>bandido arrependido</USAC_Military01.title>
+  <USAC_Military01.titleShort>bandido</USAC_Military01.titleShort>
+  <USAC_Military02.description>[PAWN_nameDef] serviu como médico(a) nas forças armadas e foi dispensado(a) por invalidez após um ferimento grave.</USAC_Military02.description>
+  <USAC_Military02.title>médico reformado</USAC_Military02.title>
+  <USAC_Military02.titleShort>médico</USAC_Military02.titleShort>
+  <USAC_Military03.description>[PAWN_nameDef] guardava bandidos e invasores capturados, vigiando-os até que suas penas terminassem e fossem libertados.</USAC_Military03.description>
+  <USAC_Military03.title>agente penitenciário</USAC_Military03.title>
+  <USAC_Military03.titleShort>deputado</USAC_Military03.titleShort>
+  <USAC_Military04.description>[PAWN_nameDef] trabalhou como guarda-costas para contratantes militares até que os autômatos provaram que podiam fazer o trabalho melhor e foi demitido(a). No fim, [PAWN_pronoun] se alistou em um projeto de fronteira e veio ao mundo da Fronteira para ganhar a vida.</USAC_Military04.description>
+  <USAC_Military04.title>guarda-costas demitido</USAC_Military04.title>
+  <USAC_Military04.titleShort>guarda-costas</USAC_Military04.titleShort>
+  <USAC_Military05.description>[PAWN_nameDef] lutou como mercenário(a) por dinheiro, mas os autômatos expulsaram os mercenários do mercado - eram melhores em combate e mais baratos por hora. [PAWN_nameDef] provou que seu sangue e suor ainda podiam superar o lubrificante de um autômato.</USAC_Military05.description>
+  <USAC_Military05.title>mercenário em dificuldades</USAC_Military05.title>
+  <USAC_Military05.titleShort>mercenário</USAC_Military05.titleShort>
+  <USAC_Military06.description>O dinheiro e as oportunidades prometidos pelos projetos de fronteira atraíram multidões de trabalhadores desempregados como [PAWN_nameDef]. Como todos os outros, [PAWN_pronoun] assinou os termos de isenção de responsabilidade e foi enviado(a) ao mundo da Fronteira.</USAC_Military06.description>
+  <USAC_Military06.title>trabalhador da fronteira</USAC_Military06.title>
+  <USAC_Military06.titleShort>trabalhador</USAC_Military06.titleShort>
+  <USAC_Military07.description>[PAWN_nameDef] trabalhou para uma megacorporação como assistente forense, processando corpos usados como garantia de crédito. Sem conexões para se proteger, a carga diária de trabalho o(a) levou ao limite - mas também aprimorou suas habilidades médicas a um nível excepcional.</USAC_Military07.description>
+  <USAC_Military07.title>necropsista de megacorporação</USAC_Military07.title>
+  <USAC_Military07.titleShort>necropsista</USAC_Military07.titleShort>
+  <USAC_Military08.description>À medida que os projetos de autômatos evoluíam, [PAWN_nameDef] acabou sendo demitido(a) de sua função de manutenção. Em uma era tomada por autômatos, no entanto, um(a) técnico(a) que conhece seu funcionamento interno é exatamente o que mercenários, piratas e exércitos privados procuram.</USAC_Military08.description>
+  <USAC_Military08.title>técnico de autômatos</USAC_Military08.title>
+  <USAC_Military08.titleShort>técnico de mecanoides</USAC_Military08.titleShort>
+  <USAC_Military09.description>[PAWN_nameDef] chegou ao mundo da Fronteira com um projeto de fronteira e fez exatamente o que quis. Tendo ofendido muitas pessoas e quebrado a maior parte do contrato, [PAWN_pronoun] agora é caçado(a) - o que é exatamente a vida que [PAWN_pronoun] sempre quis.</USAC_Military09.description>
+  <USAC_Military09.title>marginal fora da lei</USAC_Military09.title>
+  <USAC_Military09.titleShort>marginal</USAC_Military09.titleShort>
+  <USAC_Military10.description>[PAWN_nameDef] já ocupou um cargo importante, até que uma briga entre o exército e a indústria bélica precisasse de um bode expiatório. Velhas conexões foram suficientes para mantê-lo(a) vivo(a), mas não para mantê-lo(a) em casa - [PAWN_pronoun] partiu em um projeto de fronteira com destino ao mundo da Fronteira.</USAC_Military10.description>
+  <USAC_Military10.title>general reformado</USAC_Military10.title>
+  <USAC_Military10.titleShort>general</USAC_Military10.titleShort>
+  <USAC_Military11.description>[PAWN_nameDef] dedicou sua juventude ao seu país, e o campo de batalha retribuiu com estresse pós-traumático. Nunca recebeu tratamento adequado após a guerra e, com o peso da vida comum, acabou seguindo para o mundo da Fronteira em busca de sustento.</USAC_Military11.description>
+  <USAC_Military11.title>veterano traumatizado</USAC_Military11.title>
+  <USAC_Military11.titleShort>veterano</USAC_Military11.titleShort>
+  <USAC_Military12.description>[PAWN_nameDef] contratou e abrigou técnicos para ensinar autômatos a se manterem sozinhos, além de passar muito tempo ensinando-lhes uma filosofia de vida. Muitas pessoas ressentem o grupo de autômatos que [PAWN_pronoun] construiu, mas ninguém conseguiu tirá-lo(a) de lá até agora.</USAC_Military12.description>
+  <USAC_Military12.title>padrinho dos autômatos</USAC_Military12.title>
+  <USAC_Military12.titleShort>padrinho</USAC_Military12.titleShort>
+  <USAC_MilitaryChild01.description>[PAWN_nameDef] nasceu fora do casamento em um acampamento da frota colonial na superfície do planeta, e seu pai biológico nunca foi identificado. Os soldados estacionados lá o(a) criaram como um dos seus, dando-lhe algo próximo a uma infância completa.</USAC_MilitaryChild01.description>
+  <USAC_MilitaryChild01.title>bastardo do acampamento</USAC_MilitaryChild01.title>
+  <USAC_MilitaryChild01.titleShort>bastardo</USAC_MilitaryChild01.titleShort>
+  <USAC_MilitaryChild04.description>[PAWN_nameDef] passava os dias catando qualquer coisa que valesse a pena e as noites abrigado(a) nos destroços de um dragão móvel em uma zona de guerra - até que seu corpo cresceu grande demais para caber lá dentro.</USAC_MilitaryChild04.description>
+  <USAC_MilitaryChild04.title>refugiado dos destroços</USAC_MilitaryChild04.title>
+  <USAC_MilitaryChild04.titleShort>refugiado dos destroços</USAC_MilitaryChild04.titleShort>
+  <USAC_MilitaryChild05.description>[PAWN_nameDef] nasceu em uma zona de conflito em meio a um surto nacionalista. O talento para o combate que demonstrou ali tornou seu destino óbvio: virou mercenário(a). Raramente pensa em outra coisa além da luta à sua frente.</USAC_MilitaryChild05.description>
+  <USAC_MilitaryChild05.title>filho da guerra</USAC_MilitaryChild05.title>
+  <USAC_MilitaryChild05.titleShort>filho da guerra</USAC_MilitaryChild05.titleShort>
+  <USAC_OfficerChild01.description>[PAWN_nameDef] se destacou o suficiente na academia militar colonial para ser treinado como cadete ainda criança e alcançou o posto de subtenente ao atingir a maioridade.</USAC_OfficerChild01.description>
+  <USAC_OfficerChild01.title>cadete</USAC_OfficerChild01.title>
+  <USAC_OfficerChild01.titleFemale>cadete</USAC_OfficerChild01.titleFemale>
+  <USAC_OfficerChild01.titleShort>cadete</USAC_OfficerChild01.titleShort>
+  <USAC_OfficerChild01.titleShortFemale>cadete</USAC_OfficerChild01.titleShortFemale>
+  <USAC_OfficerChild02.description>[PAWN_nameDef] cresceu em um planeta colonial em constante turbulência, levando mensagens entre linhas de frente repletas de interferência e fogo inimigo, pois nada mais conseguia passar. Quando a guerra acabou, finalmente pôde voltar à escola.</USAC_OfficerChild02.description>
+  <USAC_OfficerChild02.title>ordenança infantil</USAC_OfficerChild02.title>
+  <USAC_OfficerChild02.titleShort>ordenança</USAC_OfficerChild02.titleShort>
+  <USAC_OfficerChild03.description>Ambos os pais de [PAWN_nameDef] foram declarados desaparecidos em combate durante uma missão, enquanto [PAWN_pronoun] era ainda muito jovem. Sob a cláusula de martírio militar da frota colonial, [PAWN_pronoun] recebeu uma bolsa de estudos que lhe permitiu concluir o curso da academia de oficiais.</USAC_OfficerChild03.description>
+  <USAC_OfficerChild03.title>filho de mártires</USAC_OfficerChild03.title>
+  <USAC_OfficerChild03.titleFemale>filha de mártires</USAC_OfficerChild03.titleFemale>
+  <USAC_OfficerChild03.titleShort>filho(a) de mártires</USAC_OfficerChild03.titleShort>
+  <USAC_OfficerChild06.description>[PAWN_nameDef] achava os autômatos a coisa mais fascinante que existia e estudou tudo sobre eles que conseguiu reunir em meio às dificuldades. Esse trabalho acabou lhe rendendo um convite da facção acadêmica.</USAC_OfficerChild06.description>
+  <USAC_OfficerChild06.title>entusiasta de autômatos</USAC_OfficerChild06.title>
+  <USAC_OfficerChild06.titleShort>entusiasta de tecnologia</USAC_OfficerChild06.titleShort>
+</LanguageData>

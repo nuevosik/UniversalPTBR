@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_AcidBlood.description>Esta pessoa tem uma toxina altamente concentrada em seu sangue. Ao sangrar, emite grandes quantidades de gás tóxico e, ao morrer, seu equipamento será destruído pelo ácido.</VRE_AcidBlood.description>
+  <VRE_AcidBlood.label>sangue ácido</VRE_AcidBlood.label>
+  <VRE_AcidBurstSack.description>Ao sofrer grandes quantidades de dano em uma única instância, esta pessoa sofrerá uma explosão ácida, cobrindo tudo e todos em um raio de 4,9 células com ácido corrosivo, causando dano ao longo do tempo.</VRE_AcidBurstSack.description>
+  <VRE_AcidBurstSack.label>saco de explosão ácida</VRE_AcidBurstSack.label>
+  <VRE_ChemfuelSacks.description>Os sacos de combustível químico tornam esta pessoa muito volátil. Se estiver em chamas e o fogo tiver pelo menos 35 de intensidade, ela explodirá em uma explosão de fogo. Após a explosão de fogo, não explodirá novamente por 24 horas.\n\nProduzirá 30 de combustível químico a cada 10 dias.</VRE_ChemfuelSacks.description>
+  <VRE_ChemfuelSacks.label>sacos de combustível químico</VRE_ChemfuelSacks.label>
+  <VRE_ChestburstPregnancy_Victim.stages.0.label>ovo</VRE_ChestburstPregnancy_Victim.stages.0.label>
+  <VRE_ChestburstPregnancy_Victim.stages.1.label>larva</VRE_ChestburstPregnancy_Victim.stages.1.label>
+  <VRE_ChestburstPregnancy_Victim.stages.2.label>pupa</VRE_ChestburstPregnancy_Victim.stages.2.label>
+  <VRE_ChestburstPregnancy_Victim.stages.3.label>juvenil</VRE_ChestburstPregnancy_Victim.stages.3.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>ovo</VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>larva</VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>pupa</VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>juvenil</VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>
+  <VRE_Colossal.description>O tamanho genético maior causa um aumento na taxa de fome.</VRE_Colossal.description>
+  <VRE_Colossal.label>colossal</VRE_Colossal.label>
+  <VRE_Dormant.description>Esta pessoa tem atividade e agressividade reduzidas e passa a maior parte do tempo em estado dormente. O metabolismo de tal indivíduo também é reduzido, permitindo que consuma menos nutrição para se manter vivo.</VRE_Dormant.description>
+  <VRE_Dormant.label>dormente</VRE_Dormant.label>
+  <VRE_HeatshockHediff.stages.0.label>inicial</VRE_HeatshockHediff.stages.0.label>
+  <VRE_HeatshockHediff.stages.1.label>inicial</VRE_HeatshockHediff.stages.1.label>
+  <VRE_HeatshockHediff.stages.2.label>leve</VRE_HeatshockHediff.stages.2.label>
+  <VRE_HeatshockHediff.stages.3.label>grave</VRE_HeatshockHediff.stages.3.label>
+  <VRE_HeatshockHediff.stages.4.label>extremo</VRE_HeatshockHediff.stages.4.label>
+  <VRE_HeatstressHediff.stages.0.label>inicial</VRE_HeatstressHediff.stages.0.label>
+  <VRE_HeatstressHediff.stages.1.label>inicial</VRE_HeatstressHediff.stages.1.label>
+  <VRE_HeatstressHediff.stages.2.label>leve</VRE_HeatstressHediff.stages.2.label>
+  <VRE_HeatstressHediff.stages.3.label>grave</VRE_HeatstressHediff.stages.3.label>
+  <VRE_HeatstressHediff.stages.4.label>extremo</VRE_HeatstressHediff.stages.4.label>
+  <VRE_HornAttack.comps.0.tools.0.label>chifres de meg-aranha</VRE_HornAttack.comps.0.tools.0.label>
+  <VRE_HypothermicHibernationHediff.stages.0.label>tremendo</VRE_HypothermicHibernationHediff.stages.0.label>
+  <VRE_HypothermicHibernationHediff.stages.1.label>inicial</VRE_HypothermicHibernationHediff.stages.1.label>
+  <VRE_HypothermicHibernationHediff.stages.2.label>sonolento</VRE_HypothermicHibernationHediff.stages.2.label>
+  <VRE_HypothermicHibernationHediff.stages.3.label>dormindo</VRE_HypothermicHibernationHediff.stages.3.label>
+  <VRE_HypothermicHibernationHediff.stages.4.label>sono profundo</VRE_HypothermicHibernationHediff.stages.4.label>
+  <VRE_InefficientMidgut.description>Esta pessoa tem um ácido muito ineficiente em seu intestino médio, dificultando a absorção de nutrientes. Ela ficará com fome significativamente mais rápido, mas poderá consumir mais.</VRE_InefficientMidgut.description>
+  <VRE_InefficientMidgut.label>intestino médio ineficiente</VRE_InefficientMidgut.label>
+  <VRE_InsectJellyDependencyHediff.stages.2.label>deficiência</VRE_InsectJellyDependencyHediff.stages.2.label>
+  <VRE_InsectMandibles.comps.0.tools.0.label>mandíbulas de inseto</VRE_InsectMandibles.comps.0.tools.0.label>
+  <VRE_InsectMandibles.description>Mandíbulas muito fortes, semelhantes às de insetos, permitindo que esta pessoa consuma comida significativamente mais rápido. Também poderão usar essas mandíbulas em combate se estiverem desarmados.</VRE_InsectMandibles.description>
+  <VRE_InsectMandibles.label>mandíbulas de inseto</VRE_InsectMandibles.label>
+  <VRE_InsectRostrum.comps.0.tools.0.label>rostro de inseto</VRE_InsectRostrum.comps.0.tools.0.label>
+  <VRE_InsectRostrum.description>Uma estrutura grande e afiada semelhante a um bico, parecida com a das abelhas, que concede um poderoso ataque mordida corpo a corpo, causando dano perfurante significativo com um tempo de recarga rápido.</VRE_InsectRostrum.description>
+  <VRE_InsectRostrum.label>rostro de inseto</VRE_InsectRostrum.label>
+  <VRE_LowOctopamine.description>Baixas quantidades de octopamina causam diminuição dos níveis de excitação e atividade, além de depressão.</VRE_LowOctopamine.description>
+  <VRE_LowOctopamine.label>baixo nível de octopamine</VRE_LowOctopamine.label>
+  <VRE_Microsized.description>O tamanho genético menor causa uma diminuição na taxa de fome.</VRE_Microsized.description>
+  <VRE_Microsized.label>microscópico</VRE_Microsized.label>
+  <VRE_MineralRichInsectskin.description>A pele insetoide rica em minerais forma uma blindagem grossa e protetora. Essa armadura natural oferece proteção significativa até que dano suficiente seja causado para quebrá-la.</VRE_MineralRichInsectskin.description>
+  <VRE_MineralRichInsectskin.label>pele insetoide rica em minerais</VRE_MineralRichInsectskin.label>
+  <VRE_Parthenogenesis.description>Esta pessoa pode se autofertilizar, criando descendentes sem um segundo pai. Órgãos reprodutivos especializados geram um feto internamente, que é armazenado em uma estrutura semelhante a um ovipositor até estar pronto para nascer. Isso permite que os portadores propaguem sua espécie rapidamente de forma autônoma.</VRE_Parthenogenesis.description>
+  <VRE_Parthenogenesis.label>partenogênese</VRE_Parthenogenesis.label>
+  <VRE_PollutionDependencyHediff.stages.2.label>deficiência</VRE_PollutionDependencyHediff.stages.2.label>
+  <VRE_RipperBlades.comps.0.tools.0.label>lâminas dilaceradoras</VRE_RipperBlades.comps.0.tools.0.label>
+  <VRE_RipperBlades.description>Uma lâmina dilaceradora longa e mortal que reduz bastante a velocidade de trabalho, além de poder ser usada em combate corpo a corpo para dilacerar até inimigos blindados ao meio.</VRE_RipperBlades.description>
+  <VRE_RipperBlades.label>lâmina dilaceradora</VRE_RipperBlades.label>
+  <VRE_Serotonin.description>Grandes quantidades de serotonina causam grande felicidade à custa da redução da consciência.</VRE_Serotonin.description>
+  <VRE_Serotonin.label>euforia por serotonina</VRE_Serotonin.label>
+</LanguageData>

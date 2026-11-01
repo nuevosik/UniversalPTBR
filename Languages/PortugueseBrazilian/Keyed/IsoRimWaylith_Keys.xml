@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <R3D_AlienTune_Copied>Copiado.</R3D_AlienTune_Copied>
+  <R3D_AlienTune_Copy>Copiar XML</R3D_AlienTune_Copy>
+  <R3D_AlienTune_Pick>Escolher um alienígena</R3D_AlienTune_Pick>
+  <R3D_AlienTune_Reset>Redefinir</R3D_AlienTune_Reset>
+  <R3D_AlienTune_Title>Ajuste de alienígenas</R3D_AlienTune_Title>
+  <R3D_Binder_BadFile>Não é possível ler este arquivo</R3D_Binder_BadFile>
+  <R3D_Binder_BadPack>Dê um nome ao pacote (letras, números).</R3D_Binder_BadPack>
+  <R3D_Binder_Bedding>Topo da cama</R3D_Binder_Bedding>
+  <R3D_Binder_BelowGround>Atravessa o solo</R3D_Binder_BelowGround>
+  <R3D_Binder_BuiltFor>Construído para</R3D_Binder_BuiltFor>
+  <R3D_Binder_Copy>Copiar do existente</R3D_Binder_Copy>
+  <R3D_Binder_Cutaway>Corte transversal</R3D_Binder_Cutaway>
+  <R3D_Binder_Export>Exportar</R3D_Binder_Export>
+  <R3D_Binder_ExportFailed>Falha na exportação: {0}</R3D_Binder_ExportFailed>
+  <R3D_Binder_Exported>Salvo em {0}</R3D_Binder_Exported>
+  <R3D_Binder_File>Arquivo</R3D_Binder_File>
+  <R3D_Binder_Gizmo>DEV: Vinculador de modelos</R3D_Binder_Gizmo>
+  <R3D_Binder_GroundShadow>Sombra no chão</R3D_Binder_GroundShadow>
+  <R3D_Binder_HasModel>Modelo de {0}</R3D_Binder_HasModel>
+  <R3D_Binder_LayFlat>Deitar</R3D_Binder_LayFlat>
+  <R3D_Binder_Linked>Vinculado</R3D_Binder_Linked>
+  <R3D_Binder_Live>Alterado ao vivo (Reverter para desfazer)</R3D_Binder_Live>
+  <R3D_Binder_MountHeight>Altura de fixação</R3D_Binder_MountHeight>
+  <R3D_Binder_NeedView>Ative a visão 3D primeiro.</R3D_Binder_NeedView>
+  <R3D_Binder_NoDoors>Portas não são suportadas.</R3D_Binder_NoDoors>
+  <R3D_Binder_NoFile>Selecione um arquivo .obj</R3D_Binder_NoFile>
+  <R3D_Binder_NoModel>Nenhum modelo ainda</R3D_Binder_NoModel>
+  <R3D_Binder_NoRoom>Sem espaço para girar.</R3D_Binder_NoRoom>
+  <R3D_Binder_NoStyles>Itens com estilo não são suportados.</R3D_Binder_NoStyles>
+  <R3D_Binder_NoTurrets>Torres não são suportadas.</R3D_Binder_NoTurrets>
+  <R3D_Binder_NotDrawn>Não exibido como modelo com as configurações atuais</R3D_Binder_NotDrawn>
+  <R3D_Binder_Offset>Deslocamento</R3D_Binder_Offset>
+  <R3D_Binder_OnlyThings>Apenas construções e itens.</R3D_Binder_OnlyThings>
+  <R3D_Binder_Outline>Contorno</R3D_Binder_Outline>
+  <R3D_Binder_OverArt>Sobre a arte do jogo</R3D_Binder_OverArt>
+  <R3D_Binder_Overhang>Maior que sua área ocupada</R3D_Binder_Overhang>
+  <R3D_Binder_Pack>Empacotar</R3D_Binder_Pack>
+  <R3D_Binder_PerFacing>Por direção</R3D_Binder_PerFacing>
+  <R3D_Binder_Pick>Selecionar</R3D_Binder_Pick>
+  <R3D_Binder_PickThing>Clique em uma construção ou item</R3D_Binder_PickThing>
+  <R3D_Binder_Readout>{0} triângulos, {1} x {2} x {3}</R3D_Binder_Readout>
+  <R3D_Binder_Reload>Recarregar</R3D_Binder_Reload>
+  <R3D_Binder_Revert>Reverter</R3D_Binder_Revert>
+  <R3D_Binder_Rotation>Rotação</R3D_Binder_Rotation>
+  <R3D_Binder_Scale>Escala</R3D_Binder_Scale>
+  <R3D_Binder_Search>Pesquisar</R3D_Binder_Search>
+  <R3D_Binder_Seat>Altura do assento</R3D_Binder_Seat>
+  <R3D_Binder_Shared>Seu modelo é compartilhado ({0}).</R3D_Binder_Shared>
+  <R3D_Binder_StuffOnStuffless>Textura de material em objeto sem material</R3D_Binder_StuffOnStuffless>
+  <R3D_Binder_Surface>Altura da superfície</R3D_Binder_Surface>
+  <R3D_Binder_ThisThing>Este objeto</R3D_Binder_ThisThing>
+  <R3D_Binder_Title>Vinculador de modelos</R3D_Binder_Title>
+  <R3D_Binder_Turn>Girar</R3D_Binder_Turn>
+  <R3D_Binder_WallFit>Ajuste à parede</R3D_Binder_WallFit>
+  <R3D_Binder_WallMounted>Na parede</R3D_Binder_WallMounted>
+  <R3D_Binder_Workspace>Área de trabalho</R3D_Binder_Workspace>
+  <R3D_Binder_Yaw>Girar: {0}</R3D_Binder_Yaw>
+  <R3D_Coverage_Apparel>Vestuário</R3D_Coverage_Apparel>
+  <R3D_Coverage_Building>Construção</R3D_Coverage_Building>
+  <R3D_Coverage_Item>Item</R3D_Coverage_Item>
+  <R3D_Coverage_Mod>{0}: construções {1} de {2}, itens {3} de {4} sem modelo</R3D_Coverage_Mod>
+  <R3D_Coverage_Title>Cobertura de modelos</R3D_Coverage_Title>
+  <R3D_Coverage_Weapon>Arma</R3D_Coverage_Weapon>
+  <R3D_Coverage_block>bloco</R3D_Coverage_block>
+  <R3D_Coverage_door>porta 3D</R3D_Coverage_door>
+  <R3D_Coverage_extruded>sprite em relevo</R3D_Coverage_extruded>
+  <R3D_Coverage_ground>forma no chão</R3D_Coverage_ground>
+  <R3D_Coverage_model>modelo</R3D_Coverage_model>
+  <R3D_Coverage_sprite>sprite</R3D_Coverage_sprite>
+  <R3D_Coverage_worn>aparência vestida</R3D_Coverage_worn>
+  <R3D_Msg_AlwaysOnWith>IsoRim: visão 3D sempre ativada com {0}</R3D_Msg_AlwaysOnWith>
+  <R3D_Msg_CameraReset>IsoRim: câmera redefinida</R3D_Msg_CameraReset>
+  <R3D_Msg_FirstPersonOff>IsoRim: modo em primeira pessoa desativado</R3D_Msg_FirstPersonOff>
+  <R3D_Msg_FirstPersonWith>IsoRim: modo em primeira pessoa com {0}</R3D_Msg_FirstPersonWith>
+  <R3D_Msg_Isometric>IsoRim: visão isométrica</R3D_Msg_Isometric>
+  <R3D_Msg_NoKeySet>nenhuma tecla definida</R3D_Msg_NoKeySet>
+  <R3D_Msg_RoofsButton>IsoRim: mostrar telhados ({0})</R3D_Msg_RoofsButton>
+  <R3D_Msg_SelectOnePerson>IsoRim: selecione uma pessoa para o modo em primeira pessoa</R3D_Msg_SelectOnePerson>
+  <R3D_Msg_StraightOn>IsoRim: visão frontal</R3D_Msg_StraightOn>
+  <R3D_Msg_ViewButton>IsoRim: visão 3D ({0})</R3D_Msg_ViewButton>
+  <R3D_Msg_ViewButtonLocked>IsoRim: visão 3D (sempre ativada com {0})</R3D_Msg_ViewButtonLocked>
+  <R3D_Msg_ViewOff>IsoRim: visão 3D desativada</R3D_Msg_ViewOff>
+  <R3D_Msg_ViewOn>IsoRim: visão 3D ativada</R3D_Msg_ViewOn>
+  <R3D_Preparing3D>Preparando 3D…</R3D_Preparing3D>
+  <R3D_Settings_Advanced>Avançado</R3D_Settings_Advanced>
+  <R3D_Settings_AimHeight>Mirar: altura do ombro</R3D_Settings_AimHeight>
+  <R3D_Settings_AimReach>Mirar: alcance à frente</R3D_Settings_AimReach>
+  <R3D_Settings_AimSide>Mirar: lado do ombro</R3D_Settings_AimSide>
+  <R3D_Settings_AimTip>Onde o cabo de uma arma de longo alcance fica apoiado ao mirar.</R3D_Settings_AimTip>
+  <R3D_Settings_AlwaysOnWith>Sempre ativado com {0}</R3D_Settings_AlwaysOnWith>
+  <R3D_Settings_Animals3D>Animais</R3D_Settings_Animals3D>
+  <R3D_Settings_Aniso>Filtragem anisotrópica</R3D_Settings_Aniso>
+  <R3D_Settings_AnisoTip>Solo mais nítido em ângulos rasos.</R3D_Settings_AnisoTip>
+  <R3D_Settings_AntiAlias>Suavização de serrilhado (FXAA)</R3D_Settings_AntiAlias>
+  <R3D_Settings_AntiAliasStrength>Suavização de bordas</R3D_Settings_AntiAliasStrength>
+  <R3D_Settings_AntiAliasTip>Suaviza as bordas irregulares de paredes e modelos.</R3D_Settings_AntiAliasTip>
+  <R3D_Settings_ApparelModels3D>Vestuário como modelos 3D</R3D_Settings_ApparelModels3D>
+  <R3D_Settings_ApparelModels3DTip>Roupas no chão, em prateleiras e em cintos ficam como os modelos 3D usados pelos colonos. Desativado: modelados a partir do sprite do jogo.</R3D_Settings_ApparelModels3DTip>
+  <R3D_Settings_AutoExtrude>Todo o resto, a partir do seu sprite</R3D_Settings_AutoExtrude>
+  <R3D_Settings_Brightness>Brilho</R3D_Settings_Brightness>
+  <R3D_Settings_BuildSee>Ver através ao construir</R3D_Settings_BuildSee>
+  <R3D_Settings_BuildSeeTip>Com uma ferramenta de construção ou ordem em mãos, o que estiver perto do ponteiro fica translúcido.</R3D_Settings_BuildSeeTip>
+  <R3D_Settings_BuildingsNature>Construções e natureza</R3D_Settings_BuildingsNature>
+  <R3D_Settings_BuildingsNatureNote>Desative um deles se causar problemas.</R3D_Settings_BuildingsNatureNote>
+  <R3D_Settings_Camera>Câmera</R3D_Settings_Camera>
+  <R3D_Settings_CameraNote>Como o mapa é visualizado com a visão 3D ativada.</R3D_Settings_CameraNote>
+  <R3D_Settings_Cells>{0} células</R3D_Settings_Cells>
+  <R3D_Settings_CollapseDebris>Destroços de desabamento</R3D_Settings_CollapseDebris>
+  <R3D_Settings_CollapseDebrisTip>Tetos e pisos que desabam se quebram em pedaços que caem.</R3D_Settings_CollapseDebrisTip>
+  <R3D_Settings_ColonistRadius>Alcance ao redor de cada colono</R3D_Settings_ColonistRadius>
+  <R3D_Settings_ColourKept>Cor preservada</R3D_Settings_ColourKept>
+  <R3D_Settings_ColourLook>Visual em cores</R3D_Settings_ColourLook>
+  <R3D_Settings_ColourLookNote>Um filtro de cores aplicado à visão 3D. A interface não é afetada.</R3D_Settings_ColourLookNote>
+  <R3D_Settings_CornerButtonsNote>A visão 3D e os telhados também têm botões no canto inferior direito da tela, ao lado dos do jogo.</R3D_Settings_CornerButtonsNote>
+  <R3D_Settings_CreaturesEffects>Criaturas e efeitos</R3D_Settings_CreaturesEffects>
+  <R3D_Settings_CutFrontOnly>Apenas paredes à frente do ponteiro</R3D_Settings_CutFrontOnly>
+  <R3D_Settings_CutFrontOnlyTip>Apenas as paredes entre a câmera e o ponteiro são rebaixadas; as que estão atrás permanecem erguidas.</R3D_Settings_CutFrontOnlyTip>
+  <R3D_Settings_CutHeight>Altura restante de uma parede rebaixada</R3D_Settings_CutHeight>
+  <R3D_Settings_CutHover>Rebaixar paredes perto do ponteiro</R3D_Settings_CutHover>
+  <R3D_Settings_CutNearColonists>Rebaixar paredes perto dos colonos</R3D_Settings_CutNearColonists>
+  <R3D_Settings_CutNearColonistsTip>As paredes entre a câmera e cada colono são rebaixadas onde quer que eles vão. Custa um pouco mais conforme se movem.</R3D_Settings_CutNearColonistsTip>
+  <R3D_Settings_CutRock>...e rocha à frente de cômodos escavados em montanhas</R3D_Settings_CutRock>
+  <R3D_Settings_CutRockTip>Até três células de rocha entre a câmera e um cômodo são rebaixadas; o resto da montanha permanece intacto.</R3D_Settings_CutRockTip>
+  <R3D_Settings_CutRooms>Rebaixar paredes à frente de todos os cômodos</R3D_Settings_CutRooms>
+  <R3D_Settings_CutRoomsTip>As paredes entre a câmera e um cômodo coberto por telhado são sempre rebaixadas.</R3D_Settings_CutRoomsTip>
+  <R3D_Settings_CutWholeWall>Rebaixar paredes em todos os andares</R3D_Settings_CutWholeWall>
+  <R3D_Settings_CutWholeWallTip>Em andares empilhados, uma parede rebaixada é rebaixada em todos os andares visíveis.</R3D_Settings_CutWholeWallTip>
+  <R3D_Settings_Damage3D>Marcas de dano em construções</R3D_Settings_Damage3D>
+  <R3D_Settings_DegPerPixel>{0}°/px</R3D_Settings_DegPerPixel>
+  <R3D_Settings_DissolveRadius>Alcance ao redor do ponteiro</R3D_Settings_DissolveRadius>
+  <R3D_Settings_DistanceFog>Névoa à distância</R3D_Settings_DistanceFog>
+  <R3D_Settings_DistanceFogTip>O mapa distante se funde com o horizonte, ocultando a borda renderizada.</R3D_Settings_DistanceFogTip>
+  <R3D_Settings_Doors3D>Portas</R3D_Settings_Doors3D>
+  <R3D_Settings_Effects3D>Chamas, fumaça, vapor e faíscas</R3D_Settings_Effects3D>
+  <R3D_Settings_FaceDecal>Rosto da Animação Facial em cabeças 3D</R3D_Settings_FaceDecal>
+  <R3D_Settings_FaceDecalAddApparel>Posicionamento próprio para vestuário...</R3D_Settings_FaceDecalAddApparel>
+  <R3D_Settings_FaceDecalHeight>Altura do rosto (células)</R3D_Settings_FaceDecalHeight>
+  <R3D_Settings_FaceDecalMouth>Tamanho da boca</R3D_Settings_FaceDecalMouth>
+  <R3D_Settings_FaceDecalMouthHeight>Altura da boca (células)</R3D_Settings_FaceDecalMouthHeight>
+  <R3D_Settings_FaceDecalRemove>Remover</R3D_Settings_FaceDecalRemove>
+  <R3D_Settings_FaceDecalSize>Tamanho do rosto</R3D_Settings_FaceDecalSize>
+  <R3D_Settings_FaceDecalTip>Olhos, sobrancelhas e boca animados da Animação Facial aparecem na frente da cabeça 3D, ao invés dos olhos do IsoRim.</R3D_Settings_FaceDecalTip>
+  <R3D_Settings_FeetOffset>Onde os sprites em pé se apoiam</R3D_Settings_FeetOffset>
+  <R3D_Settings_FeetOffsetTip>Apenas para pessoas e animais ainda desenhados como sprites planos.</R3D_Settings_FeetOffsetTip>
+  <R3D_Settings_FixedBy>Fixado por {0}.</R3D_Settings_FixedBy>
+  <R3D_Settings_Flat>plano</R3D_Settings_Flat>
+  <R3D_Settings_FloorStyle>Pisos construídos no estilo do mod</R3D_Settings_FloorStyle>
+  <R3D_Settings_FogLid>Áreas não exploradas são um véu sólido</R3D_Settings_FogLid>
+  <R3D_Settings_FogStart>Início da névoa</R3D_Settings_FogStart>
+  <R3D_Settings_FogStartTip>Ponto entre o centro da tela e a distância de visão onde a névoa começa.</R3D_Settings_FogStartTip>
+  <R3D_Settings_FogStrength>Intensidade da névoa</R3D_Settings_FogStrength>
+  <R3D_Settings_FogStrengthTip>100% fica sólido na distância de visão e oculta a borda.</R3D_Settings_FogStrengthTip>
+  <R3D_Settings_Fov>Campo de visão</R3D_Settings_Fov>
+  <R3D_Settings_FovTip>Maior campo de visão mostra mais ao redor e intensifica a profundidade.</R3D_Settings_FovTip>
+  <R3D_Settings_FpEyeHeight>Altura dos olhos em primeira pessoa</R3D_Settings_FpEyeHeight>
+  <R3D_Settings_FpFov>Campo de visão em primeira pessoa</R3D_Settings_FpFov>
+  <R3D_Settings_FpFovTip>{0} com uma pessoa selecionada: câmera na cabeça dela. Arraste com {1} para olhar ao redor.</R3D_Settings_FpFovTip>
+  <R3D_Settings_FreeLook>Olhar livre</R3D_Settings_FreeLook>
+  <R3D_Settings_FreeLookKeys>Olhar livre: {0}.</R3D_Settings_FreeLookKeys>
+  <R3D_Settings_FreeLookTip>Arraste com o mouse para girar a câmera completamente e incliná-la (5° a 89°). Q e E se ajustam ao próximo passo. A tecla de redefinição (não atribuída inicialmente) está nas opções de teclado do jogo.</R3D_Settings_FreeLookTip>
+  <R3D_Settings_FullPawnDraw>Sempre desenhar sprites por completo</R3D_Settings_FullPawnDraw>
+  <R3D_Settings_FullPawnDrawTip>Quando afastado, o jogo desenha pessoas a partir de uma imagem em cache, o que mantém os rostos da Animação Facial estáticos. Consome um pouco de desempenho com muitas pessoas.</R3D_Settings_FullPawnDrawTip>
+  <R3D_Settings_GasGiant>Gigante gasoso com anéis (ficção científica)</R3D_Settings_GasGiant>
+  <R3D_Settings_GasGiantSize>Tamanho do gigante gasoso</R3D_Settings_GasGiantSize>
+  <R3D_Settings_GasGiantTip>Um grande planeta com anéis no alto do céu, iluminado pelo sol e exibindo fases. Fraco durante o dia.</R3D_Settings_GasGiantTip>
+  <R3D_Settings_GeneParts3D>Partes genéticas em 3D</R3D_Settings_GeneParts3D>
+  <R3D_Settings_GeneParts3DTip>Orelhas, chifres, rabos e pelagem de genes.</R3D_Settings_GeneParts3DTip>
+  <R3D_Settings_Ghosts3D>Projetos mostram a construção final</R3D_Settings_Ghosts3D>
+  <R3D_Settings_Ghosts3DTip>Projetos, estruturas e a pré-visualização de posicionamento como modelos 3D semitransparentes.</R3D_Settings_Ghosts3DTip>
+  <R3D_Settings_Grade>Filtro de cores ativado</R3D_Settings_Grade>
+  <R3D_Settings_GrassSoil>Solo desenhado como grama macia</R3D_Settings_GrassSoil>
+  <R3D_Settings_GrassSoilTip>Solo fértil recebe grama mais escura e viçosa para que as plantações se destaquem ainda mais.</R3D_Settings_GrassSoilTip>
+  <R3D_Settings_Ground>Solo</R3D_Settings_Ground>
+  <R3D_Settings_GroundNote>Apenas a aparência muda, e somente enquanto a visão 3D está ativada.</R3D_Settings_GroundNote>
+  <R3D_Settings_GroundShadows>Sombras suaves sob tudo</R3D_Settings_GroundShadows>
+  <R3D_Settings_GroundStyle>Solo natural no estilo do mod</R3D_Settings_GroundStyle>
+  <R3D_Settings_HairUnderHats>Mostrar cabelo sob chapéus</R3D_Settings_HairUnderHats>
+  <R3D_Settings_HairUnderHatsTip>O cabelo aparece abaixo de chapéus de aba e bonés, por dentro.</R3D_Settings_HairUnderHatsTip>
+  <R3D_Settings_HeldWeapons3D>Armas na mão</R3D_Settings_HeldWeapons3D>
+  <R3D_Settings_Image>Imagem</R3D_Settings_Image>
+  <R3D_Settings_InstantTurn>Giro instantâneo da câmera</R3D_Settings_InstantTurn>
+  <R3D_Settings_InstantTurnTip>Q e E pulam diretamente para o novo ângulo, sem transição. Útil se girar a câmera causa tontura.</R3D_Settings_InstantTurnTip>
+  <R3D_Settings_InvertY>Inverter vertical</R3D_Settings_InvertY>
+  <R3D_Settings_InvertYTip>Arrastar para cima inclina a câmera para visão superior.</R3D_Settings_InvertYTip>
+  <R3D_Settings_IsoPitch>Ângulo da câmera isométrica</R3D_Settings_IsoPitch>
+  <R3D_Settings_IsoPitchTip>35° é o ângulo isométrico verdadeiro.</R3D_Settings_IsoPitchTip>
+  <R3D_Settings_Isometric>Visão isométrica</R3D_Settings_Isometric>
+  <R3D_Settings_IsometricTip>Câmera girada em 45 graus e inclinada para baixo, como em jogos isométricos. Desativado: norte para cima.</R3D_Settings_IsometricTip>
+  <R3D_Settings_ItemThickness>Espessura dos itens</R3D_Settings_ItemThickness>
+  <R3D_Settings_ItemThicknessTip>Afile os itens, armas e roupas no chão. Até o máximo, eles ficam totalmente achatados.</R3D_Settings_ItemThicknessTip>
+  <R3D_Settings_ItemsFromArt>Itens usam a arte do jogo</R3D_Settings_ItemsFromArt>
+  <R3D_Settings_ItemsFromArtTip>Os itens são modelados em 3D a partir dos seus próprios sprites do jogo, para ficarem iguais ao RimWorld. Desativado: modelos manuais do mod. Armas e roupas têm configurações próprias.</R3D_Settings_ItemsFromArtTip>
+  <R3D_Settings_KeepAsPaper>Manter plano</R3D_Settings_KeepAsPaper>
+  <R3D_Settings_KeepAsPaperTip>Alienígenas que permanecem achatados.</R3D_Settings_KeepAsPaperTip>
+  <R3D_Settings_KeyIsometric>isométrica ou frontal</R3D_Settings_KeyIsometric>
+  <R3D_Settings_KeyTiltDown>inclinar câmera para baixo</R3D_Settings_KeyTiltDown>
+  <R3D_Settings_KeyTiltUp>inclinar câmera para cima</R3D_Settings_KeyTiltUp>
+  <R3D_Settings_KeyToggleRoofs>mostrar/ocultar telhados</R3D_Settings_KeyToggleRoofs>
+  <R3D_Settings_KeyToggleView>Ativar/desativar visão 3D</R3D_Settings_KeyToggleView>
+  <R3D_Settings_KeyTurnLeft>girar câmera para esquerda</R3D_Settings_KeyTurnLeft>
+  <R3D_Settings_KeyTurnRight>girar câmera para direita</R3D_Settings_KeyTurnRight>
+  <R3D_Settings_Keys>Teclas</R3D_Settings_Keys>
+  <R3D_Settings_KeysNote>Altere em Opções &gt; Configuração de teclado &gt; IsoRim.</R3D_Settings_KeysNote>
+  <R3D_Settings_LabelFade>Desvanecimento de rótulos a partir de</R3D_Settings_LabelFade>
+  <R3D_Settings_LabelFadeTip>Rótulos (quantidade, qualidade, nomes) desaparecem além deste múltiplo da distância ao centro da tela. Os nomes dos colonos permanecem.</R3D_Settings_LabelFadeTip>
+  <R3D_Settings_Light>Iluminação</R3D_Settings_Light>
+  <R3D_Settings_LightingFix>Escuridão noturna e interna em objetos elevados</R3D_Settings_LightingFix>
+  <R3D_Settings_LookButton>Visual: {0}</R3D_Settings_LookButton>
+  <R3D_Settings_LookKeysDrag>arraste com {0}</R3D_Settings_LookKeysDrag>
+  <R3D_Settings_LookKeysHoldDrag>segure {0} e arraste com {1}</R3D_Settings_LookKeysHoldDrag>
+  <R3D_Settings_LookKeysRight>arraste com o botão direito enquanto nada estiver selecionado</R3D_Settings_LookKeysRight>
+  <R3D_Settings_LookMiddle>Olhar livre: botão do meio</R3D_Settings_LookMiddle>
+  <R3D_Settings_LookMiddleTip>Segure {0} e arraste. A tecla de segurar está nas opções de teclado do jogo.</R3D_Settings_LookMiddleTip>
+  <R3D_Settings_LookMiddleTipNoKey>A tecla de segurar está nas opções de teclado do jogo.</R3D_Settings_LookMiddleTipNoKey>
+  <R3D_Settings_LookRight>Olhar livre: botão direito</R3D_Settings_LookRight>
+  <R3D_Settings_LookRightTip>Arraste enquanto nada estiver selecionado.</R3D_Settings_LookRightTip>
+  <R3D_Settings_LookSpeed>Velocidade do olhar livre</R3D_Settings_LookSpeed>
+  <R3D_Settings_Look_Autumn>Outono</R3D_Settings_Look_Autumn>
+  <R3D_Settings_Look_Autumn_Desc>Luz âmbar e tons terrosos ricos.</R3D_Settings_Look_Autumn_Desc>
+  <R3D_Settings_Look_Bleak>Árido</R3D_Settings_Look_Bleak>
+  <R3D_Settings_Look_Bleak_Desc>Desbotado, frio e duro: a vida nos confins.</R3D_Settings_Look_Bleak_Desc>
+  <R3D_Settings_Look_CoolMorning>Manhã fria</R3D_Settings_Look_CoolMorning>
+  <R3D_Settings_Look_CoolMorning_Desc>Luz fresca azul-esverdeada, levemente desbotada.</R3D_Settings_Look_CoolMorning_Desc>
+  <R3D_Settings_Look_Custom>Personalizado</R3D_Settings_Look_Custom>
+  <R3D_Settings_Look_Custom_Desc>Defina cores e brilho manualmente com os dois controles abaixo.</R3D_Settings_Look_Custom_Desc>
+  <R3D_Settings_Look_Filmic>Cinematográfico</R3D_Settings_Look_Filmic>
+  <R3D_Settings_Look_Filmic_Desc>Sombras mais profundas, cores mais suaves e um leve tom quente, como filme fotográfico.</R3D_Settings_Look_Filmic_Desc>
+  <R3D_Settings_Look_Gentle>Suave</R3D_Settings_Look_Gentle>
+  <R3D_Settings_Look_Gentle_Desc>Um pouco menos de cor e brilho. O visual padrão do mod.</R3D_Settings_Look_Gentle_Desc>
+  <R3D_Settings_Look_Moonlight>Luar</R3D_Settings_Look_Moonlight>
+  <R3D_Settings_Look_Moonlight_Desc>Luz noturna azul-fria sobre tudo.</R3D_Settings_Look_Moonlight_Desc>
+  <R3D_Settings_Look_Noir>Noir</R3D_Settings_Look_Noir>
+  <R3D_Settings_Look_Noir_Desc>Preto e branco com alto contraste.</R3D_Settings_Look_Noir_Desc>
+  <R3D_Settings_Look_Sepia>Sépia</R3D_Settings_Look_Sepia>
+  <R3D_Settings_Look_Sepia_Desc>Tons marrons de foto antiga.</R3D_Settings_Look_Sepia_Desc>
+  <R3D_Settings_Look_Toxic>Tóxico</R3D_Settings_Look_Toxic>
+  <R3D_Settings_Look_Toxic_Desc>Uma névoa verde doentia.</R3D_Settings_Look_Toxic_Desc>
+  <R3D_Settings_Look_Vivid>Vívido</R3D_Settings_Look_Vivid>
+  <R3D_Settings_Look_Vivid_Desc>Contraste mais acentuado e um pouco mais brilhante.</R3D_Settings_Look_Vivid_Desc>
+  <R3D_Settings_Look_WarmAfternoon>Tarde quente</R3D_Settings_Look_WarmAfternoon>
+  <R3D_Settings_Look_WarmAfternoon_Desc>Destaques dourados e sombras quentes.</R3D_Settings_Look_WarmAfternoon_Desc>
+  <R3D_Settings_LowSky>Sol, lua e gigante gasoso baixos no céu</R3D_Settings_LowSky>
+  <R3D_Settings_LowSkyTip>Desenhados cerca de um terço mais baixos, para que a câmera do mapa (que não pode olhar para cima) os veja. A luz e as sombras não mudam. Desativado: em suas posições reais, vistos em primeira pessoa.</R3D_Settings_LowSkyTip>
+  <R3D_Settings_LutNote>Uma tabela de consulta da pasta LUTs do mod. Suas próprias tiras de 1024 x 32 também podem ser colocadas lá.</R3D_Settings_LutNote>
+  <R3D_Settings_MapEdge3D>Borda do mapa cortada na terra</R3D_Settings_MapEdge3D>
+  <R3D_Settings_MapEdge3DTip>A borda do mapa mostra camadas de solo e rocha, como um diorama.</R3D_Settings_MapEdge3DTip>
+  <R3D_Settings_Mechs3D>Mecanoides</R3D_Settings_Mechs3D>
+  <R3D_Settings_MiddleButton>botão do meio</R3D_Settings_MiddleButton>
+  <R3D_Settings_MilkyWay>Via Láctea</R3D_Settings_MilkyWay>
+  <R3D_Settings_MilkyWayTip>Uma faixa da galáxia atravessando o céu, com faixas escuras de poeira e um núcleo brilhante.</R3D_Settings_MilkyWayTip>
+  <R3D_Settings_MinZoom>Zoom mais próximo</R3D_Settings_MinZoom>
+  <R3D_Settings_MinZoomTip>Distância mínima da roda do mouse. O limite do próprio jogo é 11.</R3D_Settings_MinZoomTip>
+  <R3D_Settings_MineCrosshair>Mira de mineração</R3D_Settings_MineCrosshair>
+  <R3D_Settings_MineCrosshairTip>Com a ferramenta Minerar em um mapa com andares, marca a linha e a coluna do ponteiro.</R3D_Settings_MineCrosshairTip>
+  <R3D_Settings_MineXray>Andares acima e abaixo ao minerar</R3D_Settings_MineXray>
+  <R3D_Settings_MineXrayTip>Com a ferramenta Minerar, contorna o solo aberto e as pessoas nos andares abaixo e acima. Com escadas, o andar acima.</R3D_Settings_MineXrayTip>
+  <R3D_Settings_ModelStyle>Estilo dos modelos</R3D_Settings_ModelStyle>
+  <R3D_Settings_Models3D>Modelos artesanais</R3D_Settings_Models3D>
+  <R3D_Settings_Models3DTip>Móveis, máquinas, destroços, pessoas, animais e armaduras.</R3D_Settings_Models3DTip>
+  <R3D_Settings_MoonPhases>Fases da lua</R3D_Settings_MoonPhases>
+  <R3D_Settings_MoonPhasesTip>A lua passa da lua nova à cheia e vice-versa ao longo de um quadrum (15 dias). Desativado: sempre cheia.</R3D_Settings_MoonPhasesTip>
+  <R3D_Settings_Never>nunca</R3D_Settings_Never>
+  <R3D_Settings_NightSky>Céu noturno</R3D_Settings_NightSky>
+  <R3D_Settings_NightSkyNote>O céu gira conforme a hora ao redor de um polo definido pela latitude do mapa.</R3D_Settings_NightSkyNote>
+  <R3D_Settings_Off>desativado</R3D_Settings_Off>
+  <R3D_Settings_Outlines>Contornos escuros nos modelos</R3D_Settings_Outlines>
+  <R3D_Settings_Pawns3D>Colonos e outras pessoas</R3D_Settings_Pawns3D>
+  <R3D_Settings_Perspective>Perspectiva</R3D_Settings_Perspective>
+  <R3D_Settings_PerspectiveTip>Câmera com perspectiva real: objetos distantes ficam menores, como no Rim3D. Desativado: visão ortográfica plana.</R3D_Settings_PerspectiveTip>
+  <R3D_Settings_Pitch>Ângulo da câmera</R3D_Settings_Pitch>
+  <R3D_Settings_PitchTip>90° é visão totalmente vertical.</R3D_Settings_PitchTip>
+  <R3D_Settings_Planets>Planetas (realistas)</R3D_Settings_Planets>
+  <R3D_Settings_PlanetsTip>Três pontos de luz estáveis que se deslocam pelo céu de dia para dia.</R3D_Settings_PlanetsTip>
+  <R3D_Settings_PlantCardSize>Tamanho das plantas desenhadas a partir do sprite</R3D_Settings_PlantCardSize>
+  <R3D_Settings_PlantCardSizeTip>Arbustos, sarças, grama e flores sem modelo 3D (árvores mantêm seu tamanho). O sprite do jogo cobre a célula vista de cima, então ao ficarem em pé podem parecer grandes demais.</R3D_Settings_PlantCardSizeTip>
+  <R3D_Settings_PreviewTip>Superior: cores originais. Inferior: com este visual.</R3D_Settings_PreviewTip>
+  <R3D_Settings_RawModels>Matérias-primas em 3D</R3D_Settings_RawModels>
+  <R3D_Settings_RawModelsTip>Aço, madeira, blocos, tecido, couro e outros recursos em modelos 3D, conforme a quantidade da pilha.</R3D_Settings_RawModelsTip>
+  <R3D_Settings_ResetAll>Redefinir tudo</R3D_Settings_ResetAll>
+  <R3D_Settings_ResetAllConfirm>Restaurar todas as opções do IsoRim para o padrão?</R3D_Settings_ResetAllConfirm>
+  <R3D_Settings_RightButton>botão direito</R3D_Settings_RightButton>
+  <R3D_Settings_RoofColour>Estilo do telhado: {0}</R3D_Settings_RoofColour>
+  <R3D_Settings_RoofHover>Elevar o telhado do cômodo sob o ponteiro</R3D_Settings_RoofHover>
+  <R3D_Settings_RoofOverColonists>Elevar os telhados dos cômodos com colonos</R3D_Settings_RoofOverColonists>
+  <R3D_Settings_RoofShapeNote>Telhados construídos sobem de todas as bordas até uma cumeeira, como telhados de quatro águas. Há um botão para isso no canto inferior direito da tela, e uma tecla configurável.</R3D_Settings_RoofShapeNote>
+  <R3D_Settings_Roof_FlatGranite>Telhado plano (granito)</R3D_Settings_Roof_FlatGranite>
+  <R3D_Settings_Roof_FlatMarble>Telhado plano (mármore)</R3D_Settings_Roof_FlatMarble>
+  <R3D_Settings_Roof_FlatSteel>Telhado plano (aço)</R3D_Settings_Roof_FlatSteel>
+  <R3D_Settings_Roof_Slate>Ardósia</R3D_Settings_Roof_Slate>
+  <R3D_Settings_Roof_Terracotta>Terracota</R3D_Settings_Roof_Terracotta>
+  <R3D_Settings_Roof_Thatch>Palha</R3D_Settings_Roof_Thatch>
+  <R3D_Settings_Roof_Tin>Estanho</R3D_Settings_Roof_Tin>
+  <R3D_Settings_Roofs>Telhados</R3D_Settings_Roofs>
+  <R3D_Settings_RoofsNote>Telhados construídos como lajes de ardósia sobre seus cômodos, e telhados rochosos sobre cavernas.</R3D_Settings_RoofsNote>
+  <R3D_Settings_RuggedRock>Rocha com bordas irregulares e inclinadas</R3D_Settings_RuggedRock>
+  <R3D_Settings_SeeRadius>Alcance da transparência</R3D_Settings_SeeRadius>
+  <R3D_Settings_SeeStrength>Intensidade da transparência</R3D_Settings_SeeStrength>
+  <R3D_Settings_SeeStrengthTip>Quanto é ocultado no ponteiro. 100% oculta completamente.</R3D_Settings_SeeStrengthTip>
+  <R3D_Settings_SeeThroughRoofsNote>Apenas enquanto os telhados são exibidos.</R3D_Settings_SeeThroughRoofsNote>
+  <R3D_Settings_Shadows>Sombras</R3D_Settings_Shadows>
+  <R3D_Settings_Sharpen>Nitidez</R3D_Settings_Sharpen>
+  <R3D_Settings_SharpenStrength>Nitidez</R3D_Settings_SharpenStrength>
+  <R3D_Settings_SharpenTip>Imagem mais nítida, principalmente quando afastado.</R3D_Settings_SharpenTip>
+  <R3D_Settings_ShowRoofs>Mostrar telhados</R3D_Settings_ShowRoofs>
+  <R3D_Settings_ShowRoofsTip>Todos os telhados ou nenhum: desative-os novamente para ver o interior.</R3D_Settings_ShowRoofsTip>
+  <R3D_Settings_Sky>Céu</R3D_Settings_Sky>
+  <R3D_Settings_SkyStyle>Estilo do céu: {0}</R3D_Settings_SkyStyle>
+  <R3D_Settings_SkyTip>Céu com sol e lua atrás do mapa, seguindo a hora do dia e o clima.</R3D_Settings_SkyTip>
+  <R3D_Settings_Sky_Classic>Clássico</R3D_Settings_Sky_Classic>
+  <R3D_Settings_Sky_Painted>Pintado</R3D_Settings_Sky_Painted>
+  <R3D_Settings_SmallPlants3D>Grama, flores e plantações</R3D_Settings_SmallPlants3D>
+  <R3D_Settings_SmallPlants3DTip>Milhares delas em um mapa grande consomem memória; desative se estiver lento.</R3D_Settings_SmallPlants3DTip>
+  <R3D_Settings_SmoothAnimals>Sombreamento suave em animais</R3D_Settings_SmoothAnimals>
+  <R3D_Settings_SmoothAnimalsTip>Iluminação mais arredondada em animais 3D.</R3D_Settings_SmoothAnimalsTip>
+  <R3D_Settings_SmoothCrease>Ângulo de aresta rígida</R3D_Settings_SmoothCrease>
+  <R3D_Settings_SmoothCreaseTip>Faces que se encontram em ângulo maior que este mantêm uma aresta afiada.</R3D_Settings_SmoothCreaseTip>
+  <R3D_Settings_SmoothPeople>Sombreamento suave em pessoas</R3D_Settings_SmoothPeople>
+  <R3D_Settings_SmoothPeopleTip>Iluminação mais arredondada em pessoas 3D e suportes de vestuário.</R3D_Settings_SmoothPeopleTip>
+  <R3D_Settings_Snap45>Girar em etapas de 45°</R3D_Settings_Snap45>
+  <R3D_Settings_Snap45Tip>Q e E giram a câmera em 1/8 de volta por vez. Desativado: 1/4 de volta.</R3D_Settings_Snap45Tip>
+  <R3D_Settings_Squash>Nivelamento de camadas</R3D_Settings_Squash>
+  <R3D_Settings_SquashTip>O quão apertadas as camadas de desenho plano do jogo são pressionadas entre si. Deixe como está, a menos que haja pisca-pisca.</R3D_Settings_SquashTip>
+  <R3D_Settings_StarBrightness>Brilho do céu noturno</R3D_Settings_StarBrightness>
+  <R3D_Settings_StarBrightnessTip>Estrelas, Via Láctea e planetas.</R3D_Settings_StarBrightnessTip>
+  <R3D_Settings_Stars>Estrelas</R3D_Settings_Stars>
+  <R3D_Settings_StarsTip>Milhares de estrelas cintilantes, mais densas perto do horizonte enevoado. Ocultas por chuva, neve e neblina.</R3D_Settings_StarsTip>
+  <R3D_Settings_Strength>Intensidade</R3D_Settings_Strength>
+  <R3D_Settings_SunMoves>Sol se move ao longo do dia</R3D_Settings_SunMoves>
+  <R3D_Settings_SunMovesTip>O sol nasce no leste, fica no sul ao meio-dia e se põe no oeste, e sua luz sobre paredes, telhados e móveis se move algumas vezes ao dia. Desativado: permanece na posição do meio da manhã. Girar a câmera nunca altera a iluminação.</R3D_Settings_SunMovesTip>
+  <R3D_Settings_TabColour>Cor e iluminação</R3D_Settings_TabColour>
+  <R3D_Settings_TabGraphics>Gráficos</R3D_Settings_TabGraphics>
+  <R3D_Settings_TabObjects>O que é 3D</R3D_Settings_TabObjects>
+  <R3D_Settings_TabSeeThrough>Transparência</R3D_Settings_TabSeeThrough>
+  <R3D_Settings_TabView>Visão e câmera</R3D_Settings_TabView>
+  <R3D_Settings_TabWorld>Chão, água, telhados</R3D_Settings_TabWorld>
+  <R3D_Settings_TexturedModels>Texturas nos modelos</R3D_Settings_TexturedModels>
+  <R3D_Settings_TexturedWalls>Paredes usam texturas do mod</R3D_Settings_TexturedWalls>
+  <R3D_Settings_Textures>Texturas</R3D_Settings_Textures>
+  <R3D_Settings_ThickItems>Itens ganham um pouco de espessura</R3D_Settings_ThickItems>
+  <R3D_Settings_ThingLabels>Rótulos de itens</R3D_Settings_ThingLabels>
+  <R3D_Settings_ThingLabelsTip>Rótulos em itens no chão (quantidade, qualidade). Nomes sobre pessoas não são afetados.</R3D_Settings_ThingLabelsTip>
+  <R3D_Settings_TiltCentre>Posição do foco</R3D_Settings_TiltCentre>
+  <R3D_Settings_TiltPop>Cores mais vibrantes</R3D_Settings_TiltPop>
+  <R3D_Settings_TiltPopTip>Cores levemente mais ricas com o efeito tilt-shift.</R3D_Settings_TiltPopTip>
+  <R3D_Settings_TiltShift>Efeito tilt-shift</R3D_Settings_TiltShift>
+  <R3D_Settings_TiltShiftTip>Desfoque a parte superior e inferior da visão para dar um aspecto de miniatura.</R3D_Settings_TiltShiftTip>
+  <R3D_Settings_TiltStrength>Intensidade</R3D_Settings_TiltStrength>
+  <R3D_Settings_TiltWidth>Largura do foco</R3D_Settings_TiltWidth>
+  <R3D_Settings_TreeRadius>Alcance</R3D_Settings_TreeRadius>
+  <R3D_Settings_TreeShadowLength>Comprimento da sombra das árvores</R3D_Settings_TreeShadowLength>
+  <R3D_Settings_TreeShadows>Árvores projetam sombras solares</R3D_Settings_TreeShadows>
+  <R3D_Settings_Trees>Árvores</R3D_Settings_Trees>
+  <R3D_Settings_Trees3D>Árvores</R3D_Settings_Trees3D>
+  <R3D_Settings_TreesNearColonists>Afinar árvores perto dos colonos</R3D_Settings_TreesNearColonists>
+  <R3D_Settings_TreesNearPointer>Afinar árvores perto do ponteiro</R3D_Settings_TreesNearPointer>
+  <R3D_Settings_TreesNote>As árvores perdem suas folhas enquanto algo que você deseja ver estiver sob elas.</R3D_Settings_TreesNote>
+  <R3D_Settings_TurnStep>Câmera gira {0} por etapa</R3D_Settings_TurnStep>
+  <R3D_Settings_TurnViewOff>Desativar visão 3D</R3D_Settings_TurnViewOff>
+  <R3D_Settings_TurnViewOn>Ativar visão 3D</R3D_Settings_TurnViewOn>
+  <R3D_Settings_UprightPawns>Sprites ficam em pé</R3D_Settings_UprightPawns>
+  <R3D_Settings_UprightPawnsTip>Para pessoas e animais sem modelo 3D.</R3D_Settings_UprightPawnsTip>
+  <R3D_Settings_UprightPlants>Outras plantas ficam em pé</R3D_Settings_UprightPlants>
+  <R3D_Settings_ViewDistance>Distância de visão</R3D_Settings_ViewDistance>
+  <R3D_Settings_ViewDistanceTip>Até onde o mapa é renderizado quando a câmera está baixa. Maior distância afeta o desempenho.</R3D_Settings_ViewDistanceTip>
+  <R3D_Settings_ViewIsOff>Visão 3D desativada</R3D_Settings_ViewIsOff>
+  <R3D_Settings_ViewIsOn>Visão 3D ativada</R3D_Settings_ViewIsOn>
+  <R3D_Settings_WallHeight>Altura das paredes</R3D_Settings_WallHeight>
+  <R3D_Settings_Walls>Paredes</R3D_Settings_Walls>
+  <R3D_Settings_Walls3D>Paredes e rochas como blocos sólidos</R3D_Settings_Walls3D>
+  <R3D_Settings_WallsNote>As paredes são rebaixadas para que você possa ver e clicar no que está atrás delas. Rocha natural nunca é rebaixada.</R3D_Settings_WallsNote>
+  <R3D_Settings_Water>Água</R3D_Settings_Water>
+  <R3D_Settings_WaterStyle>Água estilizada</R3D_Settings_WaterStyle>
+  <R3D_Settings_WaterStyleTip>Faixas facetadas de cor da margem ao fundo, espuma nas margens, ondulações em rios e brilhos.</R3D_Settings_WaterStyleTip>
+  <R3D_Settings_WeaponModels3D>Armas como modelos 3D</R3D_Settings_WeaponModels3D>
+  <R3D_Settings_WeaponModels3DTip>Armas com modelo 3D aparecem no chão, em prateleiras e suportes, e nas mãos.</R3D_Settings_WeaponModels3DTip>
+  <R3D_Settings_Weather3D>Chuva e neve 3D</R3D_Settings_Weather3D>
+  <R3D_Settings_Weather3DTip>Chuva e neve caem como gotas e flocos ao redor da câmera, névoa e neblina ficam à sua frente.</R3D_Settings_Weather3DTip>
+  <R3D_Settings_WeatherSize>Tamanho da chuva e neve</R3D_Settings_WeatherSize>
+  <R3D_Settings_WeatherSizeTip>Tamanho dos flocos e gotas na tela. Eles não aumentam mais ao aproximar a câmera.</R3D_Settings_WeatherSizeTip>
+  <R3D_Settings_WorkAnimations>Animações de trabalho com ferramentas</R3D_Settings_WorkAnimations>
+  <R3D_Settings_WorkAnimationsTip>Machados, picaretas, martelos, foices, enxadas e vassouras enquanto os colonos trabalham.</R3D_Settings_WorkAnimationsTip>
+</LanguageData>

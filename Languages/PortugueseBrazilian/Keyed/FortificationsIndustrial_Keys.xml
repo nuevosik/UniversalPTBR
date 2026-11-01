@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FTF_CurrentOperator>Operador:</FTF_CurrentOperator>
+  <FTF_RequireOperator>Requer um operador</FTF_RequireOperator>
+  <FT_BillRequires_MarketValue>Requer valor total de mercado superior a {0}</FT_BillRequires_MarketValue>
+  <FT_BillRequires_Mass>Requer massa total superior a {0}</FT_BillRequires_Mass>
+  <FT_BunkerFacility_EnterText>Entrar na fortificação</FT_BunkerFacility_EnterText>
+  <FT_BunkerFacility_ExitText>Sair da fortificação</FT_BunkerFacility_ExitText>
+  <FT_CannotPlaceWithoutWall>Precisa ser colocado em uma parede ou porta</FT_CannotPlaceWithoutWall>
+  <FT_DisabledUndrafted>Não mobilizado</FT_DisabledUndrafted>
+  <FT_MinifiedDeployable_Selected_area_blocked>Posição bloqueada</FT_MinifiedDeployable_Selected_area_blocked>
+  <FT_MustOnACoverBuilding>Precisa ser colocado em uma cobertura</FT_MustOnACoverBuilding>
+  <FT_NoEnoughFuel>Combustível insuficiente</FT_NoEnoughFuel>
+  <FT_NotCooldown>Não é possível iniciar: ainda em resfriamento</FT_NotCooldown>
+  <FT_NotFueled>Sem combustível</FT_NotFueled>
+  <FT_StartWarmup>Iniciar transmissão</FT_StartWarmup>
+  <FT_StopWarmup>Parar transmissão</FT_StopWarmup>
+  <FT_WillCooldownAt>O resfriamento será concluído em:</FT_WillCooldownAt>
+  <FT_WillReadyAt>A transmissão será concluída em:</FT_WillReadyAt>
+</LanguageData>

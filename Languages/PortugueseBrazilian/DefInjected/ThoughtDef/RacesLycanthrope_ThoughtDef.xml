@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KilledPackMember.stages.0.label>membro da alcateia morto</KilledPackMember.stages.0.label>
+  <LostPackMember.stages.0.description>Perdemos um membro valioso da alcateia. Eles conseguirão sobreviver sem sua alcateia?</LostPackMember.stages.0.description>
+  <LostPackMember.stages.0.label>membro da alcateia {0} perdido</LostPackMember.stages.0.label>
+  <PackMemberDied.stages.0.description>Meu membro da alcateia morreu. A alcateia está mais fraca.</PackMemberDied.stages.0.description>
+  <PackMemberDied.stages.0.label>membro da alcateia {0} morreu</PackMemberDied.stages.0.label>
+  <SoldPackMember.stages.0.description>Acabamos de vender um membro da alcateia. Podemos realmente nos chamar de uma alcateia?</SoldPackMember.stages.0.description>
+  <SoldPackMember.stages.0.label>membro da alcateia {0} vendido</SoldPackMember.stages.0.label>
+  <VRE_IntenseLightSensitivity.stages.0.description>Há luz demais aqui, isso dói!</VRE_IntenseLightSensitivity.stages.0.description>
+  <VRE_IntenseLightSensitivity.stages.0.label>sensibilidade à luz</VRE_IntenseLightSensitivity.stages.0.label>
+  <VRE_LightSensitivity.stages.0.description>A luz é desagradável e machuca meus olhos.</VRE_LightSensitivity.stages.0.description>
+  <VRE_LightSensitivity.stages.0.label>sensibilidade à luz</VRE_LightSensitivity.stages.0.label>
+  <VRE_PackMentality.stages.0.description>Nossa alcateia fica mais forte. Quanto maior a alcateia, mais confortáveis nos sentiremos.</VRE_PackMentality.stages.0.description>
+  <VRE_PackMentality.stages.0.label>mentalidade de alcateia</VRE_PackMentality.stages.0.label>
+  <VRE_Photophobia.stages.0.description>A luz me deixa tão nervoso. É como se queimasse com sua intensidade!</VRE_Photophobia.stages.0.description>
+  <VRE_Photophobia.stages.0.label>medo da luz</VRE_Photophobia.stages.0.label>
+</LanguageData>

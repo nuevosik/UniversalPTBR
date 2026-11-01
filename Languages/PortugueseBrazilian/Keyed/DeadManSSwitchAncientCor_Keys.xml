@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientCorps.DeactivatedMech_CannotHack>Não é possível invadir</AncientCorps.DeactivatedMech_CannotHack>
+  <AncientCorps.DeactivatedMech_Disable>desativar mecanoide</AncientCorps.DeactivatedMech_Disable>
+  <AncientCorps.DeactivatedMech_TryHack>Tentar invadir {0}</AncientCorps.DeactivatedMech_TryHack>
+  <AncientCorps.Reason_NoEnoughBandwidth>banda necessária: {0}</AncientCorps.Reason_NoEnoughBandwidth>
+  <AncientCorps.Reason_NotMechanitor>não é um mecanizador</AncientCorps.Reason_NotMechanitor>
+  <AncientCorps.Reason_WorkTypeDisabled>tipo de trabalho desativado</AncientCorps.Reason_WorkTypeDisabled>
+  <DMSAC_Company.Desc>Esta é uma {1} afiliada a {0},</DMSAC_Company.Desc>
+  <DMSAC_Company.Label>{1}</DMSAC_Company.Label>
+  <DMSAC_Company.NoTarget>seus alvos são desconhecidos</DMSAC_Company.NoTarget>
+  <DMSAC_Company.Target>seus alvos provavelmente são {0} dentro do seu raio de combate</DMSAC_Company.Target>
+  <DMSAC_CompanyRaid>Ataque: {0}</DMSAC_CompanyRaid>
+  <DMSAC_CompanyRaid_Desc>Uma companhia de autômatos pertencente a {0} cercou sua colônia. Eles são {1}. Esses autômatos comandados por comandantes-relé lançarão ataques a colônias e desarmarão propositalmente forças ilegais para desencorajar ataques às suas instalações militares.</DMSAC_CompanyRaid_Desc>
+  <DMSAC_CorpAlly>Comunicação</DMSAC_CorpAlly>
+  <DMSAC_CorpAllyDesc>"Código 5, pessoal registrado identificado."\n"Este é {0}, caso precise de recursos, envie formalmente um formulário de requisição de excedentes militares ao escritório de logística de {0}."\n\nPor confiança em {1}, o antigo sistema de comando de autômatos fez vista grossa às ações dos colonos, mas emitiu um aviso conforme o protocolo.</DMSAC_CorpAllyDesc>
+  <DMSAC_CorpAllyDown>Comunicação</DMSAC_CorpAllyDown>
+  <DMSAC_CorpAllyDownDesc>"Código 5, pessoal registrado identificado."\n"Este é {0}, prestando homenagem ao Destruidor de Zartha e agradecendo por suas contribuições ao projeto de colonização."\n\nEste antigo sistema de comando de autômatos reconheceu a identidade de {1}. Por respeito a {1}, autorizou os colonos a operar livremente nesta área.</DMSAC_CorpAllyDownDesc>
+  <DMSAC_CorpHostile>Reforço</DMSAC_CorpHostile>
+  <DMSAC_CorpHostileDesc>Uma patrulha de autômatos descobriu colonos invadindo uma instalação militar. Após um breve período de preparação, eles tentarão expulsar seus colonos.\n\nCom base nas flutuações interceptadas na frequência de comunicação, patrulhas de autômatos próximas nesta área podem estar a caminho para reforço.</DMSAC_CorpHostileDesc>
+  <DMSAC_CorpNeutral>Comunicação</DMSAC_CorpNeutral>
+  <DMSAC_CorpNeutralDesc>"Código 5, pessoal registrado identificado."\n"Este é {0}, códigos IFF sincronizados, cessar-fogo."\n\nEste antigo sistema de comando de autômatos reconheceu a identidade de {1}. Por respeito a {1}, ele suspendeu temporariamente as hostilidades contra seus colonos.</DMSAC_CorpNeutralDesc>
+  <DMSAC_HackFailed>Invasão falhou</DMSAC_HackFailed>
+  <DMSAC_HackFailedDesc>Devido aos erros de {0}, o mecanoide não foi controlado conforme o esperado.</DMSAC_HackFailedDesc>
+  <DMSAC_Huntdown_AlertCritical>Caçada: tropas na linha de ataque</DMSAC_Huntdown_AlertCritical>
+  <DMSAC_Huntdown_AlertCriticalDesc>A onda de caçada está na linha de ataque e pode aparecer na borda do mapa a qualquer momento.</DMSAC_Huntdown_AlertCriticalDesc>
+  <DMSAC_Huntdown_AlertDesc>Em DEFCON 5, a divisão fixou sua atenção nesta colônia. Sua primeira onda está sendo montada e chegará quando a contagem regressiva terminar.</DMSAC_Huntdown_AlertDesc>
+  <DMSAC_Huntdown_AlertLabel>Caçada: a primeira onda está chegando</DMSAC_Huntdown_AlertLabel>
+  <DMSAC_Huntdown_LetterLabel>O corpo está caçando você</DMSAC_Huntdown_LetterLabel>
+  <DMSAC_Huntdown_LetterText>A divisão de autômatos registrou sua colônia como alvo de liquidação. O Comando listou todas as incursões em suas instalações na transmissão e anunciou que suas unidades deixaram o turno de patrulha.\n\nPrimeiro vem o aviso. Depois vem o corpo.</DMSAC_Huntdown_LetterText>
+  <DMSAC_Level.0>Nível 0 {0} manteve um número mínimo de patrulhas das instalações e recolheu os autômatos de porte médio da unidade, devolvendo-os às suas bases para manutenção.</DMSAC_Level.0>
+  <DMSAC_Level.1>Nível I {0} implantou patrulhas para todos os climas entre suas instalações terrestres para encurtar os intervalos de reforço para instalações atacadas e implantou autômatos de porte médio nas equipes de patrulha.</DMSAC_Level.1>
+  <DMSAC_Level.2>Nível II Com base na situação atual, {0} reiniciará alguns de seus grandes autômatos e os mobilizará a qualquer momento, além de organizar um pequeno número de pelotões blindados como força-tarefa para reforçar as instalações terrestres.</DMSAC_Level.2>
+  <DMSAC_Level.3>Nível III Devido à situação tensa recente, autômatos ultrapesados foram colocados em prontidão para combate e implantados em várias áreas para fornecer reforço a qualquer momento. {0} realizará a expulsão armada de sítios militares ilegais vizinhos, de acordo com os regulamentos de alerta da Convenção da Frota Colonial.</DMSAC_Level.3>
+  <DMSAC_Level.4>Nível IV {0} confirmou que a Primeira Convenção de Haia já não se aplica à situação atual e emitiu uma declaração formal de guerra de acordo com a Terceira Convenção de Haia.\n\nAlém disso, de acordo com o Artigo 2 da Segunda Convenção de Haia, civis em áreas não ocupadas que pegarem em armas contra as forças de {0} serão considerados combatentes, conforme definido pelas leis da guerra.</DMSAC_Level.4>
+  <DMSAC_Level.5>Nível V De acordo com os regulamentos de alerta da Convenção da Frota Colonial, {0} determinou que as condições foram atendidas para justificar uma ofensiva e a mobilização de uma brigada blindada pesada para conduzir a operação.\n\n{0} ocupará e tomará as áreas identificadas como controladas por inimigos, em conformidade com o direito internacional humanitário e o Estatuto de Roma, e revidará os ataques às instalações por forças hostis de maneira proporcional.</DMSAC_Level.5>
+  <DMSAC_Level_Down>DEFCON rebaixado</DMSAC_Level_Down>
+  <DMSAC_Level_Down_Desc>Com base em mudanças recentes na atividade observada, o Comando de {0} rebaixou seu nível de alerta interno. Seu nível de DEFCON agora é</DMSAC_Level_Down_Desc>
+  <DMSAC_Level_Label.0>DEFCON 0</DMSAC_Level_Label.0>
+  <DMSAC_Level_Label.1>DEFCON I</DMSAC_Level_Label.1>
+  <DMSAC_Level_Label.2>DEFCON II</DMSAC_Level_Label.2>
+  <DMSAC_Level_Label.3>DEFCON III</DMSAC_Level_Label.3>
+  <DMSAC_Level_Label.4>DEFCON IV</DMSAC_Level_Label.4>
+  <DMSAC_Level_Label.5>DEFCON V</DMSAC_Level_Label.5>
+  <DMSAC_Level_Rise>DEFCON elevado</DMSAC_Level_Rise>
+  <DMSAC_Level_Rise_Desc>Devido a eventos recentes, o comando de {0} elevou o nível de alerta de suas unidades. Seu nível de DEFCON agora é</DMSAC_Level_Rise_Desc>
+  <DMSAC_PatrolSquad>Reforços</DMSAC_PatrolSquad>
+  <DMSAC_PatrolSquadDesc>Um esquadrão de patrulha chegou às instalações. As unidades de reforço chegarão em intervalos mais curtos agora.</DMSAC_PatrolSquadDesc>
+  <DMSAC_PermanentHostility>Inimigo permanente</DMSAC_PermanentHostility>
+  <DMSAC_PermanentHostility_Desc>O comando de {0} classificou sua colônia como uma potência militar hostil sob a Convenção da Frota Colonial, uma decisão final que não permite cessar-fogo, negociação ou revisão.\n\nApenas alguém que o comando ainda reconheça poderá fazê-lo mudar de ideia.</DMSAC_PermanentHostility_Desc>
+  <DMSAC_Site_ClearedLabel>Local do Corpo limpo</DMSAC_Site_ClearedLabel>
+  <DMSAC_Site_ClearedText>A guarnição do corpo no local foi destruída. Tudo o que estava guardando é seu, até que a próxima patrulha passe por aqui.</DMSAC_Site_ClearedText>
+  <DMSAC_Site_EntryCountdownLabel>Monitoramento do Corpo alertado</DMSAC_Site_EntryCountdownLabel>
+  <DMSAC_Site_EntryCountdownText>A rede de monitoramento do local registrou sua chegada e a reportou ao corpo. Os reforços chegarão em {0}.\n\nTermine o que veio fazer e saia antes deles, ou prepare-se para resistir.</DMSAC_Site_EntryCountdownText>
+  <DMSAC_Site_ExpiredLabel>Local do Corpo perdido</DMSAC_Site_ExpiredLabel>
+  <DMSAC_Site_ExpiredText>Comunicações interceptadas indicam que o local foi movido ou tomado por outros. Sua posição foi perdida.</DMSAC_Site_ExpiredText>
+  <DMSAC_World_Declaration>Guerra declarada</DMSAC_World_Declaration>
+  <DMSAC_World_Declaration_Desc>De acordo com as últimas notícias, {0} transmitiu uma declaração de guerra contra a facção local {1} e mencionou que todas as operações militares em áreas controladas por {1} serão realizadas em conformidade com as leis da guerra.\n\nAinda não sabemos qual impacto isso terá.</DMSAC_World_Declaration_Desc>
+  <DMSAC_World_Takeover>tomada</DMSAC_World_Takeover>
+  <DMSAC_World_Takeover_Desc>De acordo com as últimas notícias, uma força pertencente a {0} tomou {2}, que originalmente pertencia a {1}, e agora a base foi renomeada para {3}</DMSAC_World_Takeover_Desc>
+  <DMSAC_World_WarOver>Guerra encerrada</DMSAC_World_WarOver>
+  <DMSAC_World_WarOver_Desc>Após tomar a última base, {0} anunciou que a operação militar contra {1} foi concluída com sucesso. Como resultado da operação, a influência de {1} no planeta foi completamente erradicada.\n\nDe acordo com a inteligência, este exército retornou ao seu modo original de patrulha após concluir sua missão.\nA guerra acabou...\n\nPor enquanto.</DMSAC_World_WarOver_Desc>
+</LanguageData>

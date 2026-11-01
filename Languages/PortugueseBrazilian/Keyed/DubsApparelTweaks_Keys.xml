@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_equip_speed>Velocidade de equipar vestuário</Apparel_equip_speed>
+  <Apparel_visibility>Visibilidade do vestuário</Apparel_visibility>
+  <Change_equip_speeds>Alterar velocidades de equipar</Change_equip_speeds>
+  <DraftedHidingMode>Mostrar vestuário apenas quando alistado</DraftedHidingMode>
+  <Equip_duration>Duração de equipar (%)</Equip_duration>
+  <Equip_speed_Ticks>Velocidade de equipar (ticks)</Equip_speed_Ticks>
+  <Equipment_only_while_drafted>Camadas de cintos apenas quando alistado</Equipment_only_while_drafted>
+  <HairFiltersTip>Ctrl+H em um colono selecionado alternará a visibilidade desse tipo de cabelo sob chapéus</HairFiltersTip>
+  <HairHat_Filter_Add>{0} sempre oculto sob {1}</HairHat_Filter_Add>
+  <HairHat_Filter_Remove>{0} agora visível sob {1}</HairHat_Filter_Remove>
+  <HairScaleReset>Redefinir</HairScaleReset>
+  <Hair_Filter_Add>Adicionado {0} ao filtro de cabelos</Hair_Filter_Add>
+  <Hair_Filter_Remove>Removido {0} do filtro de cabelos</Hair_Filter_Remove>
+  <Hair_visibility>Visibilidade do cabelo</Hair_visibility>
+  <HatFiltersTip>Ctrl+J em um colono selecionado alternará a visibilidade desse tipo de chapéu</HatFiltersTip>
+  <HatHairFiltersTip>Ctrl+K em um colono selecionado alternará a visibilidade dessa combinação de cabelo e chapéu</HatHairFiltersTip>
+  <HatScaling>Escala dos chapéus</HatScaling>
+  <Hat_Filter_Add>Adicionado {0} ao filtro de chapéus</Hat_Filter_Add>
+  <Hat_Filter_Remove>Removido {0} do filtro de chapéus</Hat_Filter_Remove>
+  <Hats_only_while_drafted>Chapéus apenas quando alistado</Hats_only_while_drafted>
+  <Hide_equipment_when_indoors>Ocultar camadas de cintos</Hide_equipment_when_indoors>
+  <Hide_hats_when_indoors>Ocultar chapéus</Hide_hats_when_indoors>
+  <Hide_hats_when_sleeping>Ocultar chapéus ao dormir</Hide_hats_when_sleeping>
+  <Hide_jackets_when_indoors>Ocultar camadas externas</Hide_jackets_when_indoors>
+  <IndoorHidingMode>Ocultar vestuário em ambientes fechados</IndoorHidingMode>
+  <Jackets_only_while_drafted>Camadas externas apenas quando alistado</Jackets_only_while_drafted>
+  <Narrow_Width>Largura estreita</Narrow_Width>
+  <Normal__Narrow_Height>Altura normal + estreita</Normal__Narrow_Height>
+  <Same_speed_for_all_apparel>Mesma velocidade para todo o vestuário</Same_speed_for_all_apparel>
+  <Show_hair_under_hats>Mostrar cabelo sob chapéus</Show_hair_under_hats>
+  <VisibilityTogglesDesc>Selecione as camadas a serem ocultadas</VisibilityTogglesDesc>
+  <hatFilterTip>Enquanto os colonos estiverem selecionados, você pode filtrar chapéus e cabelos com estas combinações de teclas\nCtrl + H para mostrar ou ocultar esse penteado sob chapéus\nCtrl + J para filtrar esse estilo de chapéu para que não seja ocultado</hatFilterTip>
+</LanguageData>

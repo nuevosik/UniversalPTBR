@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdvancedSettings>Configurações avançadas</AdvancedSettings>
+  <BasicSettings>Configurações básicas</BasicSettings>
+  <DebugLog>Registrar mensagens de depuração</DebugLog>
+  <DebugLogTooltips>Ativa o log de depuração. Não use isso em jogo normal, pois gera muitos registros.</DebugLogTooltips>
+  <MaxDistanceToHaul>Distância máxima para transporte</MaxDistanceToHaul>
+  <MaxDistanceToHaulTooltips>Só transporta para o armazenamento se a distância até ele não for maior que este valor.\n\nDefina um valor suficientemente alto (como 999) para permitir o transporte a qualquer distância prática.\n\nDefina como 0 se quiser desativar o transporte completamente.</MaxDistanceToHaulTooltips>
+</LanguageData>

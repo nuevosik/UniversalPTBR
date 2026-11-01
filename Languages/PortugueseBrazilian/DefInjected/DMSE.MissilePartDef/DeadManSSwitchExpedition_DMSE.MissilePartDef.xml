@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMSE_AdvBallistic_Guidance_Stellar.description>Guiagem inercial corrigida por observações estelares durante o voo, reduzindo a dispersão a quase zero. Não possui buscador terminal, portanto um alvo em movimento ainda pode ser perdido. Os impactos se dispersam ao redor do centro do mapa-alvo. Não trava em construções ou criaturas.</DMSE_AdvBallistic_Guidance_Stellar.description>
+  <DMSE_AdvBallistic_Guidance_Stellar.label>guiagem estelar-inercial</DMSE_AdvBallistic_Guidance_Stellar.label>
+  <DMSE_AdvBallistic_Payload_MIRV.description>Várias ogivas separadas são liberadas antes da queda final. Elas se espalham e atingem ao redor de um único ponto de impacto.</DMSE_AdvBallistic_Payload_MIRV.description>
+  <DMSE_AdvBallistic_Payload_MIRV.label>veículos de reentrada múltiplos</DMSE_AdvBallistic_Payload_MIRV.label>
+  <DMSE_AdvBallistic_Payload_Penaids.description>Pedaços de isca, iscas de radar e um manto furtivo são liberados junto com a ogiva. O míssil parece muito menor durante a aproximação, fazendo com que os radares inimigos o detectem mais tarde e tenham menos tempo para reagir.</DMSE_AdvBallistic_Payload_Penaids.description>
+  <DMSE_AdvBallistic_Payload_Penaids.label>meios de penetração</DMSE_AdvBallistic_Payload_Penaids.label>
+  <DMSE_AdvBallistic_Warhead_LowYield.description>Uma ogiva estratégica menor, reduzida para uso tático. Causa menos dano que uma ogiva termonuclear completa, mas é muito mais barata.</DMSE_AdvBallistic_Warhead_LowYield.description>
+  <DMSE_AdvBallistic_Warhead_LowYield.label>ogiva de baixo rendimento</DMSE_AdvBallistic_Warhead_LowYield.label>
+  <DMSE_AdvCruise_Guidance_AntiShip.description>Um buscador de radar ativo projetado para alvos móveis, como navios e outras bases móveis no mapa-múndi. Atualiza sua mira com mais frequência que um buscador comum, mas o míssil ainda erra se o alvo sair do alcance restante.</DMSE_AdvCruise_Guidance_AntiShip.description>
+  <DMSE_AdvCruise_Guidance_AntiShip.label>buscador de radar antinavio</DMSE_AdvCruise_Guidance_AntiShip.label>
+  <DMSE_AdvCruise_Guidance_Datalink.description>Um enlace de dados bidirecional via satélite. O míssil pode ser redirecionado em voo e, ao chegar no mapa-alvo, o jogo pausa para que você escolha o ponto de impacto. É a opção mais precisa e a única capaz de perseguir um alvo móvel em pleno voo.</DMSE_AdvCruise_Guidance_Datalink.description>
+  <DMSE_AdvCruise_Guidance_Datalink.label>enlace de dados bidirecional</DMSE_AdvCruise_Guidance_Datalink.label>
+  <DMSE_AdvCruise_Guidance_TerrainMatch.description>Sistema de guiagem que compara o terreno abaixo com um mapa armazenado, garantindo dispersão muito reduzida. Não pode ser redirecionado em voo e não possui guiagem terminal, portanto alvos móveis simplesmente são errados. Os impactos se espalham ao redor do centro do mapa-alvo. Não mira em construções ou criaturas.</DMSE_AdvCruise_Guidance_TerrainMatch.description>
+  <DMSE_AdvCruise_Guidance_TerrainMatch.label>guiagem por correspondência de terreno</DMSE_AdvCruise_Guidance_TerrainMatch.label>
+  <DMSE_AdvCruise_Payload_BunkerBuster.description>Uma carga penetrante reforçada com espoleta retardada. Perfura tetos rochosos grossos e detona no interior, destruindo estruturas próximas.\n\nSem esta carga ou uma ogiva perfurante, um míssil que atingir uma montanha detona na superfície rochosa e seu buscador ignora alvos sob tetos grossos.</DMSE_AdvCruise_Payload_BunkerBuster.description>
+  <DMSE_AdvCruise_Payload_BunkerBuster.label>carga perfurante de bunkers</DMSE_AdvCruise_Payload_BunkerBuster.label>
+  <DMSE_AdvCruise_Payload_Chaff.description>Um dispensador maior de chaff e fitas absorvedoras de radar. Cada pacote pode quebrar um bloqueio de controle de tiro inimigo. Possui mais pacotes que a versão leve, mas não podem ser recarregados em voo.</DMSE_AdvCruise_Payload_Chaff.description>
+  <DMSE_AdvCruise_Payload_Chaff.label>dispensador de chaff</DMSE_AdvCruise_Payload_Chaff.label>
+  <DMSE_AdvCruise_Payload_Decoy.description>Refletores de radar e um amplificador de sinal no lugar de uma carga secundária. O míssil aparece duas vezes maior no radar inimigo, sendo detectado mais cedo e atraindo o fogo das defesas aéreas que classificam ameaças pelo tamanho. Não adiciona dano.</DMSE_AdvCruise_Payload_Decoy.description>
+  <DMSE_AdvCruise_Payload_Decoy.label>carga de isca</DMSE_AdvCruise_Payload_Decoy.label>
+  <DMSE_AdvCruise_Payload_Graphite.description>Uma carga de fibras de carbono que causa um curto-circuito na rede elétrica ao redor do impacto, ao invés de explodir. Desativa construções energizadas e atordoa mecanoides em uma grande área.</DMSE_AdvCruise_Payload_Graphite.description>
+  <DMSE_AdvCruise_Payload_Graphite.label>carga de filamentos de grafite</DMSE_AdvCruise_Payload_Graphite.label>
+  <DMSE_AdvCruise_Payload_None.description>Sem carga secundária. A ogiva e o tanque de combustível ocupam todo o espaço.</DMSE_AdvCruise_Payload_None.description>
+  <DMSE_AdvCruise_Payload_None.label>sem carga</DMSE_AdvCruise_Payload_None.label>
+  <DMSE_AdvCruise_Payload_Submunition.description>Um dispensador que se abre sobre o alvo e espalha pequenas bombas pela área, ao invés de uma única explosão concentrada.</DMSE_AdvCruise_Payload_Submunition.description>
+  <DMSE_AdvCruise_Payload_Submunition.label>dispensador de submunições</DMSE_AdvCruise_Payload_Submunition.label>
+  <DMSE_AdvCruise_Propulsion_Booster.description>Um foguete impulsor sólido que acelera o míssil a alta velocidade antes de se esgotar. É muito rápido e muito visível, e seu peso reduz o alcance do míssil.</DMSE_AdvCruise_Propulsion_Booster.description>
+  <DMSE_AdvCruise_Propulsion_Booster.label>impulsor foguete sólido</DMSE_AdvCruise_Propulsion_Booster.label>
+  <DMSE_AdvCruise_Propulsion_Turbofan.description>Um pequeno motor turbofan eficiente em combustível. Voa muito mais longe que um motor-foguete e é mais difícil de detectar no radar, mas é lento.</DMSE_AdvCruise_Propulsion_Turbofan.description>
+  <DMSE_AdvCruise_Propulsion_Turbofan.label>propulsor turbofan</DMSE_AdvCruise_Propulsion_Turbofan.label>
+  <DMSE_AdvCruise_Propulsion_TurbofanER.description>Um turbofan econômico com tanque maior. Tem o maior alcance entre todas as configurações de cruzeiro, mas chega mais lentamente e é o mais caro de construir.</DMSE_AdvCruise_Propulsion_TurbofanER.description>
+  <DMSE_AdvCruise_Propulsion_TurbofanER.label>turbofan de longo alcance</DMSE_AdvCruise_Propulsion_TurbofanER.label>
+  <DMSE_AdvCruise_Warhead_Penetrator.description>Um penetrador denso de tungstênio que atravessa tetos grossos e montanhas antes de detonar no interior. Abrigos subterrâneos não oferecem proteção contra ele.</DMSE_AdvCruise_Warhead_Penetrator.description>
+  <DMSE_AdvCruise_Warhead_Penetrator.label>ogiva perfurante para alvos fortificados</DMSE_AdvCruise_Warhead_Penetrator.label>
+  <DMSE_AdvCruise_Warhead_Unitary.description>Uma única carga grande em um invólucro leve e resistente. Acerta com mais força que a antiga ogiva Scorer e consegue perfurar um teto antes de detonar.</DMSE_AdvCruise_Warhead_Unitary.description>
+  <DMSE_AdvCruise_Warhead_Unitary.label>ogiva penetrante unitária</DMSE_AdvCruise_Warhead_Unitary.label>
+  <DMSE_AdvLight_Guidance_IIR.description>Um buscador infravermelho por imagem. Mira na sala fechada mais quente se estiver pelo menos 15 °C acima da temperatura externa, caso contrário mira na maior criatura no mapa-alvo. Dispara e esquece: não precisa de operador, linha de visão ou designador a laser.</DMSE_AdvLight_Guidance_IIR.description>
+  <DMSE_AdvLight_Guidance_IIR.label>buscador infravermelho por imagem</DMSE_AdvLight_Guidance_IIR.label>
+  <DMSE_AdvLight_Guidance_Imaging.description>Um buscador por imagem automático que mira em criaturas inimigas a céu aberto, escolhendo primeiro as mais perigosas e depois as maiores. Ignora quem estiver sob um teto e recorre à guiagem inercial se não encontrar alvos.</DMSE_AdvLight_Guidance_Imaging.description>
+  <DMSE_AdvLight_Guidance_Imaging.label>buscador por imagem automático</DMSE_AdvLight_Guidance_Imaging.label>
+  <DMSE_AdvLight_Guidance_Inertial.description>Guiagem inercial barata, sem buscador e sem guiagem terminal. Não pode atingir outras camadas do mapa. Os impactos se espalham ao redor do centro do mapa-alvo. Não mira em construções ou criaturas.</DMSE_AdvLight_Guidance_Inertial.description>
+  <DMSE_AdvLight_Guidance_Inertial.label>guiagem inercial</DMSE_AdvLight_Guidance_Inertial.label>
+  <DMSE_AdvLight_Guidance_Laser.description>Um buscador laser semi-ativo que segue o ponto mais recente marcado no mapa-alvo pela sua colônia com um designador laser. É o buscador mais preciso para este míssil, mas alguém precisa marcar o alvo.</DMSE_AdvLight_Guidance_Laser.description>
+  <DMSE_AdvLight_Guidance_Laser.label>buscador laser semi-ativo</DMSE_AdvLight_Guidance_Laser.label>
+  <DMSE_AdvLight_Guidance_MMW.description>Um buscador de radar de ondas milimétricas, dispara e esquece. Mira na maior construção inimiga ou, caso não haja construções, na maior criatura inimiga. Não precisa de designador, operador ou céu limpo.</DMSE_AdvLight_Guidance_MMW.description>
+  <DMSE_AdvLight_Guidance_MMW.label>buscador de radar de ondas milimétricas</DMSE_AdvLight_Guidance_MMW.label>
+  <DMSE_AdvLight_Payload_Chaff.description>Um dispensador de chaff e fitas absorvedoras de radar. Cada pacote pode quebrar um bloqueio de controle de tiro inimigo, mas os pacotes se esgotam e não escondem o míssil antes de ser travado.</DMSE_AdvLight_Payload_Chaff.description>
+  <DMSE_AdvLight_Payload_Chaff.label>dispensador de chaff</DMSE_AdvLight_Payload_Chaff.label>
+  <DMSE_AdvLight_Payload_FragSleeve.description>Um invólucro pré-fragmentado ao redor da ogiva. Espalha estilhaços densos pela área de impacto, ferindo gravemente infantaria exposta, mas seu peso reduz o alcance do míssil em um quarto.</DMSE_AdvLight_Payload_FragSleeve.description>
+  <DMSE_AdvLight_Payload_FragSleeve.label>manga de fragmentação</DMSE_AdvLight_Payload_FragSleeve.label>
+  <DMSE_AdvLight_Payload_HE.description>Uma pequena carga secundária que detona após a ogiva, aumentando um pouco o raio de dano.</DMSE_AdvLight_Payload_HE.description>
+  <DMSE_AdvLight_Payload_HE.label>carga secundária de alto explosivo</DMSE_AdvLight_Payload_HE.label>
+  <DMSE_AdvLight_Payload_None.description>Sem carga secundária. A ogiva faz todo o trabalho, mantendo o míssil leve e com maior alcance.</DMSE_AdvLight_Payload_None.description>
+  <DMSE_AdvLight_Payload_None.label>sem carga</DMSE_AdvLight_Payload_None.label>
+  <DMSE_AdvLight_Warhead_BlastFrag.description>Uma ogiva de fragmentação explosiva com invólucro pré-fragmentado pesado. Sacrifica penetração por um raio letal maior contra infantaria e estruturas leves.</DMSE_AdvLight_Warhead_BlastFrag.description>
+  <DMSE_AdvLight_Warhead_BlastFrag.label>ogiva de fragmentação explosiva</DMSE_AdvLight_Warhead_BlastFrag.label>
+  <DMSE_AdvLight_Warhead_HEAT.description>Uma ogiva de carga moldada em tandem. Uma pequena carga inicial derrota a blindagem reativa para que a carga principal cause dano no interior do alvo. Explosão pequena, dano concentrado.</DMSE_AdvLight_Warhead_HEAT.description>
+  <DMSE_AdvLight_Warhead_HEAT.label>ogiva de carga moldada em tandem</DMSE_AdvLight_Warhead_HEAT.label>
+  <DMSE_AdvLight_Warhead_Kinetic.description>Uma ogiva inerte com lâminas retráteis e praticamente sem explosivo. Mata a criatura atingida e deixa o ambiente quase intacto.</DMSE_AdvLight_Warhead_Kinetic.description>
+  <DMSE_AdvLight_Warhead_Kinetic.label>ogiva cinética com lâminas</DMSE_AdvLight_Warhead_Kinetic.label>
+  <DMSE_AdvLight_Warhead_Thermobaric.description>Uma ogiva termobárica que queima ao invés de fragmentar. A explosão é pequena, mas suas chamas e queimaduras são muito piores no interior de uma sala ou bunker do que ao ar livre.</DMSE_AdvLight_Warhead_Thermobaric.description>
+  <DMSE_AdvLight_Warhead_Thermobaric.label>ogiva termobárica</DMSE_AdvLight_Warhead_Thermobaric.label>
+  <DMSE_Ballistic_Guidance_FireControl.description>Guiagem terminal assistida pela rede de radar de controle de tiro da colônia. Reduz muito a dispersão dos impactos.</DMSE_Ballistic_Guidance_FireControl.description>
+  <DMSE_Ballistic_Guidance_FireControl.label>guiagem por controle de tiro</DMSE_Ballistic_Guidance_FireControl.label>
+  <DMSE_Ballistic_Guidance_Inertial.description>Guiagem inercial básica. Com uma ogiva grande o suficiente, a precisão pouco importa. Os impactos se espalham ao redor do centro do mapa-alvo. Não mira em construções ou criaturas.</DMSE_Ballistic_Guidance_Inertial.description>
+  <DMSE_Ballistic_Guidance_Inertial.label>guiagem inercial</DMSE_Ballistic_Guidance_Inertial.label>
+  <DMSE_Ballistic_Guidance_Laser.description>Um buscador laser semi-ativo. Segue o ponto mais recente marcado no mapa-alvo pela sua colônia com um designador laser e recorre à guiagem inercial caso não haja marcação.</DMSE_Ballistic_Guidance_Laser.description>
+  <DMSE_Ballistic_Guidance_Laser.label>buscador terminal laser</DMSE_Ballistic_Guidance_Laser.label>
+  <DMSE_Ballistic_Payload_Antiparticle.description>Uma explosão secundária de antipartículas que destrói quase tudo ao alcance. A carga mais destrutiva disponível.</DMSE_Ballistic_Payload_Antiparticle.description>
+  <DMSE_Ballistic_Payload_Antiparticle.label>carga de antipartículas</DMSE_Ballistic_Payload_Antiparticle.label>
+  <DMSE_Ballistic_Payload_BunkerBuster.description>Uma carga penetrante reforçada com espoleta retardada. Perfura tetos grossos de rocha e detona no interior, destruindo estruturas próximas.\n\nSem esta carga ou uma ogiva penetrante, um míssil que atinge uma montanha detona na superfície rochosa, e seu buscador ignora alvos sob tetos grossos.</DMSE_Ballistic_Payload_BunkerBuster.description>
+  <DMSE_Ballistic_Payload_BunkerBuster.label>carga anti-bunker</DMSE_Ballistic_Payload_BunkerBuster.label>
+  <DMSE_Ballistic_Payload_Cluster.description>Espalha submunições por uma ampla área, trocando concentração explosiva por maior cobertura.</DMSE_Ballistic_Payload_Cluster.description>
+  <DMSE_Ballistic_Payload_Cluster.label>carga de fragmentação em dispersão</DMSE_Ballistic_Payload_Cluster.label>
+  <DMSE_Ballistic_Payload_None.description>Sem carga secundária. A ogiva faz todo o trabalho.</DMSE_Ballistic_Payload_None.description>
+  <DMSE_Ballistic_Payload_None.label>sem carga</DMSE_Ballistic_Payload_None.label>
+  <DMSE_Ballistic_Warhead_Airburst.description>Uma ogiva que detona acima do alvo, espalhando fragmentos por uma ampla área. Quando usada em um interceptador, ela ganha chances extras de acerto em cada engajamento.</DMSE_Ballistic_Warhead_Airburst.description>
+  <DMSE_Ballistic_Warhead_Airburst.label>ogiva de detonação aérea</DMSE_Ballistic_Warhead_Airburst.label>
+  <DMSE_Ballistic_Warhead_ClusterBomblet.description>Uma ogiva que se abre sobre o alvo e espalha diversas pequenas bombas de fragmentação. Cada bomba cai por conta própria, espalhando o dano por todo o complexo ao invés de um único ponto.</DMSE_Ballistic_Warhead_ClusterBomblet.description>
+  <DMSE_Ballistic_Warhead_ClusterBomblet.label>ogiva de bombas cluster</DMSE_Ballistic_Warhead_ClusterBomblet.label>
+  <DMSE_Ballistic_Warhead_Thermonuclear.description>Uma ogiva termonuclear. Não possui efeitos especiais. Não precisa deles.</DMSE_Ballistic_Warhead_Thermonuclear.description>
+  <DMSE_Ballistic_Warhead_Thermonuclear.label>ogiva termonuclear</DMSE_Ballistic_Warhead_Thermonuclear.label>
+  <DMSE_Ballistic_Warhead_TungstenPenetrator.description>Uma haste densa de tungstênio que perfura tetos grossos antes de detonar no interior. Abrigos subterrâneos não oferecem proteção contra ela.</DMSE_Ballistic_Warhead_TungstenPenetrator.description>
+  <DMSE_Ballistic_Warhead_TungstenPenetrator.label>penetrador de tungstênio</DMSE_Ballistic_Warhead_TungstenPenetrator.label>
+  <DMSE_Guidance_ActiveRadar.description>Um buscador de radar ativo e disparo-e-esqueça. Mira na maior construção inimiga, ou na maior criatura inimiga caso não haja construções, e recorre à orientação inercial se não encontrar nada. Fornece orientação terminal.</DMSE_Guidance_ActiveRadar.description>
+  <DMSE_Guidance_ActiveRadar.label>buscador de radar ativo</DMSE_Guidance_ActiveRadar.label>
+  <DMSE_Guidance_AntiShip.description>Um buscador de radar ativo desenvolvido para alvos móveis, como navios e outras bases móveis no mapa-múndi. Atualiza sua mira com mais frequência que um buscador comum, mas o míssil ainda erra se o alvo sair de seu alcance restante.</DMSE_Guidance_AntiShip.description>
+  <DMSE_Guidance_AntiShip.label>buscador de radar antinavio</DMSE_Guidance_AntiShip.label>
+  <DMSE_Guidance_EMSignal.description>Um buscador passivo que se dirige à atividade elétrica. Mira na construção inimiga energizada que consome mais eletricidade e recorre à orientação inercial se nada estiver energizado.</DMSE_Guidance_EMSignal.description>
+  <DMSE_Guidance_EMSignal.label>buscador de sinal eletromagnético</DMSE_Guidance_EMSignal.label>
+  <DMSE_Guidance_Inertial.description>Orientação inercial sem reconhecimento de alvo e sem orientação terminal. Os impactos se dispersam ao redor do centro do mapa-alvo. Não trava em construções ou criaturas.</DMSE_Guidance_Inertial.description>
+  <DMSE_Guidance_Inertial.label>orientação inercial</DMSE_Guidance_Inertial.label>
+  <DMSE_Guidance_Laser.description>Um buscador laser semi-ativo. Se dirige ao ponto mais recente marcado pela sua colônia no mapa-alvo com um designador a laser e recorre à orientação inercial se não houver nenhum.</DMSE_Guidance_Laser.description>
+  <DMSE_Guidance_Laser.label>buscador a laser</DMSE_Guidance_Laser.label>
+  <DMSE_Guidance_Precision.description>Um buscador de TV guiado por operador com enlace de dados para o local de lançamento. Quando o míssil chega ao mapa-alvo, o jogo pausa e você escolhe o ponto de impacto. Reduz muito a dispersão. Mísseis de TV inimigos não têm operador e usam orientação inercial.</DMSE_Guidance_Precision.description>
+  <DMSE_Guidance_Precision.label>orientação por TV</DMSE_Guidance_Precision.label>
+  <DMSE_LegacyBallistic_Warhead_Amatol.description>Uma grande ogiva simples de explosivo amatol, estável e barata o suficiente para ser feita com materiais industriais. Deixa um grande buraco e nada mais.</DMSE_LegacyBallistic_Warhead_Amatol.description>
+  <DMSE_LegacyBallistic_Warhead_Amatol.label>ogiva de amatol</DMSE_LegacyBallistic_Warhead_Amatol.label>
+  <DMSE_LegacyBallistic_Warhead_Trialen.description>Uma ogiva de explosivo trialeno com componente incendiário, fazendo com que o impacto inicie incêndios ao redor da cratera. Um pouco mais cara que o amatol.</DMSE_LegacyBallistic_Warhead_Trialen.description>
+  <DMSE_LegacyBallistic_Warhead_Trialen.label>ogiva de trialeno</DMSE_LegacyBallistic_Warhead_Trialen.label>
+  <DMSE_Light_Guidance_AntiRadiation.description>Um buscador que se dirige às emissões de radar. Mira no radar inimigo mais potente ligado, depois na construção que consome mais energia, e recorre à orientação inercial caso contrário. Espelhos acústicos passivos são invisíveis a ele.</DMSE_Light_Guidance_AntiRadiation.description>
+  <DMSE_Light_Guidance_AntiRadiation.label>buscador antirradiação</DMSE_Light_Guidance_AntiRadiation.label>
+  <DMSE_Light_Guidance_IR.description>Um buscador infravermelho passivo que se dirige ao calor. Mira na sala fechada mais quente se estiver pelo menos 15 °C mais quente que o exterior, caso contrário mira na maior criatura do mapa, e recorre à orientação inercial se não encontrar nenhuma.</DMSE_Light_Guidance_IR.description>
+  <DMSE_Light_Guidance_IR.label>buscador de assinatura térmica</DMSE_Light_Guidance_IR.label>
+  <DMSE_Light_Guidance_Inertial.description>Orientação inercial básica sem buscador. O míssil segue um trajeto predefinido. Os impactos se dispersam ao redor do centro do mapa-alvo. Não trava em construções ou criaturas.</DMSE_Light_Guidance_Inertial.description>
+  <DMSE_Light_Guidance_Inertial.label>orientação inercial</DMSE_Light_Guidance_Inertial.label>
+  <DMSE_Light_Guidance_Laser.description>Um buscador laser semi-ativo. Se dirige ao ponto mais recente marcado pela sua colônia no mapa-alvo com um designador a laser e recorre à orientação inercial se não houver nenhum.</DMSE_Light_Guidance_Laser.description>
+  <DMSE_Light_Guidance_Laser.label>buscador a laser</DMSE_Light_Guidance_Laser.label>
+  <DMSE_Light_Guidance_SemiActive.description>Um buscador de radar semi-ativo que se dirige ao reflexo de um radar de controle de tiro iluminando o alvo. Desenvolvido para interceptação; contra alvos terrestres, usa orientação inercial com dispersão reduzida.</DMSE_Light_Guidance_SemiActive.description>
+  <DMSE_Light_Guidance_SemiActive.label>buscador de radar semi-ativo</DMSE_Light_Guidance_SemiActive.label>
+  <DMSE_Light_Payload_Chaff.description>Um único pacote de chaff e fitas absorvedoras de radar. Pode quebrar um travamento de radar inimigo, sendo consumido após isso.</DMSE_Light_Payload_Chaff.description>
+  <DMSE_Light_Payload_Chaff.label>lançador de chaff</DMSE_Light_Payload_Chaff.label>
+  <DMSE_Light_Payload_Decoy.description>Refletores de radar e um amplificador de sinal no lugar de uma carga secundária. O míssil aparenta ter o dobro do tamanho no radar inimigo, sendo detectado mais cedo e atraindo o fogo das defesas aéreas que classificam ameaças pelo tamanho. Não causa dano.</DMSE_Light_Payload_Decoy.description>
+  <DMSE_Light_Payload_Decoy.label>carga de isca</DMSE_Light_Payload_Decoy.label>
+  <DMSE_Light_Payload_HighExplosive.description>Uma carga secundária de alto explosivo que detona após a ogiva, ampliando o raio de dano.</DMSE_Light_Payload_HighExplosive.description>
+  <DMSE_Light_Payload_HighExplosive.label>carga de alto explosivo</DMSE_Light_Payload_HighExplosive.label>
+  <DMSE_Light_Payload_None.description>Sem carga secundária. A ogiva faz todo o trabalho.</DMSE_Light_Payload_None.description>
+  <DMSE_Light_Payload_None.label>sem carga</DMSE_Light_Payload_None.label>
+  <DMSE_Light_Payload_ToxicGas.description>Libera uma nuvem de gás tóxico que persiste por muito tempo após a explosão, tornando a área inacessível para quem não tiver proteção.</DMSE_Light_Payload_ToxicGas.description>
+  <DMSE_Light_Payload_ToxicGas.label>carga de gás tóxico</DMSE_Light_Payload_ToxicGas.label>
+  <DMSE_Light_Warhead_ContinuousRod.description>Um anel de hastes de aço que se expande ao detonar, dilacerando aeronaves. Melhora a chance de acerto dos interceptadores.</DMSE_Light_Warhead_ContinuousRod.description>
+  <DMSE_Light_Warhead_ContinuousRod.label>ogiva de hastes contínuas</DMSE_Light_Warhead_ContinuousRod.label>
+  <DMSE_Light_Warhead_HE.description>Uma ogiva compacta de alto explosivo, dimensionada para mísseis leves.</DMSE_Light_Warhead_HE.description>
+  <DMSE_Light_Warhead_HE.label>ogiva leve de alto explosivo</DMSE_Light_Warhead_HE.label>
+  <DMSE_Light_Warhead_Incendiary.description>Espalha termita incandescente no impacto, incendiando tudo em seu raio, até mesmo atrás de paredes.</DMSE_Light_Warhead_Incendiary.description>
+  <DMSE_Light_Warhead_Incendiary.label>ogiva incendiária</DMSE_Light_Warhead_Incendiary.label>
+  <DMSE_Payload_BunkerBuster.description>Uma carga penetrante reforçada com espoleta retardada. Perfura tetos grossos de rocha e detona no interior, destruindo estruturas próximas.\n\nSem esta carga ou uma ogiva penetrante, um míssil que atinge uma montanha detona na superfície rochosa, e seu buscador ignora alvos sob tetos grossos.</DMSE_Payload_BunkerBuster.description>
+  <DMSE_Payload_BunkerBuster.label>carga anti-bunker</DMSE_Payload_BunkerBuster.label>
+  <DMSE_Payload_Cluster.description>Libera submunições que causam uma segunda explosão na área de impacto.</DMSE_Payload_Cluster.description>
+  <DMSE_Payload_Cluster.label>submunições cluster</DMSE_Payload_Cluster.label>
+  <DMSE_Payload_EMP.description>Uma explosão secundária de PEM que atordoa e desativa dispositivos eletrônicos ao redor do impacto.</DMSE_Payload_EMP.description>
+  <DMSE_Payload_EMP.label>submunições PEM</DMSE_Payload_EMP.label>
+  <DMSE_Payload_Loiter.description>Software de controle de voo e reserva extra de combustível para munições de patrulha. Quando o buscador não encontra nada na chegada, o drone não recorre à orientação inercial: permanece sobre a área-alvo por cerca de uma hora de jogo, reativando seu buscador a cada poucos segundos e só mergulhando em um ponto de impacto inercial quando esse tempo acabar.\n\nUm drone de patrulha ainda faz parte da onda de interceptação: as defesas terminais podem abatê-lo durante todo o tempo em que aguarda. Requer uma estrutura aérea para munição de patrulha.</DMSE_Payload_Loiter.description>
+  <DMSE_Payload_Loiter.label>controle de voo para patrulha</DMSE_Payload_Loiter.label>
+  <DMSE_Payload_None.description>Sem carga secundária. A ogiva faz todo o trabalho, mantendo o míssil leve e seu alcance longo.</DMSE_Payload_None.description>
+  <DMSE_Payload_None.label>sem carga</DMSE_Payload_None.label>
+  <DMSE_Propulsion_Booster.description>Um motor mais potente que alcança o alvo mais rápido e voa mais longe.</DMSE_Propulsion_Booster.description>
+  <DMSE_Propulsion_Booster.label>motor reforçado</DMSE_Propulsion_Booster.label>
+  <DMSE_Propulsion_Standard.description>Um motor de foguete a combustível sólido padrão.</DMSE_Propulsion_Standard.description>
+  <DMSE_Propulsion_Standard.label>motor padrão</DMSE_Propulsion_Standard.label>
+  <DMSE_Sabre_Guidance_Imaging.description>Um buscador compacto com câmera e reconhecimento de alvos embarcado. Ele escolhe a criatura inimiga mais perigosa a céu aberto, depois a maior, e ignora quem estiver sob telhado. Se não encontrar alvo, não reporta nenhum, deixando o controle de voo em modo de espera para manter a busca.</DMSE_Sabre_Guidance_Imaging.description>
+  <DMSE_Sabre_Guidance_Imaging.label>buscador por reconhecimento de imagem</DMSE_Sabre_Guidance_Imaging.label>
+  <DMSE_Shahed_Guidance_Inertial.description>Orientação inercial padrão, sem reconhecimento de alvo ou orientação terminal. Usa um canal de controle de tiro. Os impactos se dispersam ao redor do centro do mapa-alvo. Não trava em construções ou criaturas.</DMSE_Shahed_Guidance_Inertial.description>
+  <DMSE_Shahed_Guidance_Inertial.label>orientação inercial</DMSE_Shahed_Guidance_Inertial.label>
+  <DMSE_Shahed_Guidance_RadarHoming.description>Um buscador passivo que segue apenas emissões de radar. Ele trava no radar inimigo mais potente que estiver ligado; se não houver radar para travar, não reporta alvo ao invés de recorrer à rede elétrica. Combine com controle de voo em modo de espera para manter o drone esperando até que um radar seja ligado. Espelhos acústicos passivos são invisíveis para ele.</DMSE_Shahed_Guidance_RadarHoming.description>
+  <DMSE_Shahed_Guidance_RadarHoming.label>buscador por radar</DMSE_Shahed_Guidance_RadarHoming.label>
+  <DMSE_Shahed_Guidance_TV.description>Um módulo opcional de orientação por TV. Quando o drone alcançar o mapa-alvo, você escolhe o ponto de impacto. Usa dois canais de controle de tiro ao invés de um. Drones inimigos com este módulo usam orientação inercial ao invés disso.</DMSE_Shahed_Guidance_TV.description>
+  <DMSE_Shahed_Guidance_TV.label>orientação por TV</DMSE_Shahed_Guidance_TV.label>
+  <DMSE_Warhead_AP.description>Uma ogiva perfurante focada. Seu raio de explosão é menor, mas causa muito mais dano.</DMSE_Warhead_AP.description>
+  <DMSE_Warhead_AP.label>ogiva perfurante</DMSE_Warhead_AP.label>
+  <DMSE_Warhead_EMP.description>Uma ogiva PEM que desativa mecanoides e eletrônicos em uma ampla área, sem explosão letal.</DMSE_Warhead_EMP.description>
+  <DMSE_Warhead_EMP.label>ogiva PEM</DMSE_Warhead_EMP.label>
+  <DMSE_Warhead_HE.description>Uma grande ogiva de alto explosivo com amplo raio de explosão.</DMSE_Warhead_HE.description>
+  <DMSE_Warhead_HE.label>ogiva de alto explosivo</DMSE_Warhead_HE.label>
+</LanguageData>

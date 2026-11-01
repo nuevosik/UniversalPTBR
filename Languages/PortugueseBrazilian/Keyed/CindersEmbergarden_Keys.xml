@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cinder_AllAbilityGained>Já adquiriu todas as habilidades</Cinder_AllAbilityGained>
+  <Cinder_BattleFallback>Este é um texto padrão de substituição. Se você vir isso, por favor, relate o problema.</Cinder_BattleFallback>
+  <Cinder_CalmFallback>Este é um texto padrão de substituição. Se você vir isso, por favor, relate o problema.</Cinder_CalmFallback>
+  <Cinder_CalmMaxDays>Trégua máxima: {0} dias</Cinder_CalmMaxDays>
+  <Cinder_CalmMinDays>Trégua mínima: {0} dias</Cinder_CalmMinDays>
+  <Cinder_CalmVeryShortPrompt>Quanto tempo de trégua você está disposto a lhe dar?</Cinder_CalmVeryShortPrompt>
+  <Cinder_CommaEyesDesc>Substitui o rosto e o corpo pelo rosto vírgula e corpo no estilo original (É necessário reiniciar o jogo. Só funciona com HARace. Inválido em ambiente com animação facial)</Cinder_CommaEyesDesc>
+  <Cinder_CommaEyesLabel>Rosto no estilo original</Cinder_CommaEyesLabel>
+  <Cinder_DefaultReply>...</Cinder_DefaultReply>
+  <Cinder_EmberWarden_BattleDescription>Uma garota de cinzas que empunha sua lâmina para proteger a colônia. A guerra e o desastre chegaram; misericórdia e ternura não são armas contra o inimigo.\n\nEventos extremos e batalhas implacáveis continuarão surgindo ao longo da batalha. Esteja preparado.</Cinder_EmberWarden_BattleDescription>
+  <Cinder_EmberWarden_BattleName>Luto de Fumée</Cinder_EmberWarden_BattleName>
+  <Cinder_EmberWarden_CalmDescription>Uma garota amnésica de uma clínica no porão das ruínas. Ela guarda as histórias da colônia com ternura, mas o desastre e a tragédia não cedem à vontade de ninguém. Fumée conta sua história alternando longos períodos de trégua com momentos de combate extremo e incessante.\n\nEventos extremos e batalhas implacáveis continuarão surgindo ao longo da batalha. Esteja preparado.</Cinder_EmberWarden_CalmDescription>
+  <Cinder_EmberWarden_CalmName>Fumée Misericordiosa</Cinder_EmberWarden_CalmName>
+  <Cinder_NeedResurrectOrRegen>É necessário ter pessoas com habilidade de regeneração amorfa para utilizá-lo</Cinder_NeedResurrectOrRegen>
+  <Cinder_NerfDesc>Equilibra completamente todos os valores e mecanismos, permitindo uma experiência competitiva similar ao ambiente original (sem dificuldade e recompensa excessivas)</Cinder_NerfDesc>
+  <Cinder_NerfLabel>Reequilíbrio no estilo original</Cinder_NerfLabel>
+  <Cinder_ResetStorySettings>Restaurar duração padrão</Cinder_ResetStorySettings>
+  <Cinder_Setting>brasa amorfa</Cinder_Setting>
+  <Cinder_StorySettingsCategory>Cinzas: Narrador</Cinder_StorySettingsCategory>
+  <Cinder_StorySettingsIntro>Fumée alterna longos períodos de trégua com períodos extremos e contínuos de combate.</Cinder_StorySettingsIntro>
+  <Embergarden_PlatingTooltip>Armadura restante</Embergarden_PlatingTooltip>
+</LanguageData>

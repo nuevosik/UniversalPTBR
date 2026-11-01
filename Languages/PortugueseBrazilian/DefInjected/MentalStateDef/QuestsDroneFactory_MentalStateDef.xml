@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VQE_ConnectionTimedOut.label>conexão expirou</VQE_ConnectionTimedOut.label>
+  <VQE_Desync.label>dessincronização</VQE_Desync.label>
+  <VQE_DiagnosticLoop.label>ciclo de diagnóstico</VQE_DiagnosticLoop.label>
+  <VQE_FluidLeak.label>vazamento de fluido</VQE_FluidLeak.label>
+  <VQE_Hardcrash.label>falha catastrófica</VQE_Hardcrash.label>
+  <VQE_HardwareFailure.label>falha de hardware</VQE_HardwareFailure.label>
+  <VQE_HoardingLoop.label>ciclo de acumulação</VQE_HoardingLoop.label>
+  <VQE_Indexing.label>indexando</VQE_Indexing.label>
+  <VQE_Killswitch.label>interruptor de emergência</VQE_Killswitch.label>
+  <VQE_Overclock.label>overclock</VQE_Overclock.label>
+  <VQE_Reboot.label>reiniciando</VQE_Reboot.label>
+  <VQE_SelfDecommission.label>autodescomissionamento</VQE_SelfDecommission.label>
+  <VQE_SensorLag.label>atraso nos sensores</VQE_SensorLag.label>
+</LanguageData>

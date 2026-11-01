@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMS_ArmySteed_UpgradeTree.nodes.0.description>O "Okhotnik" é um sistema de metralhadora pesada controlado remotamente e montado em veículo que dispara munição de grande calibre. Possui maior potência, precisão e alcance que metralhadoras antiaéreas comparáveis, mas consome munição mais cara.</DMS_ArmySteed_UpgradeTree.nodes.0.description>
+  <DMS_ArmySteed_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>Torre principal</DMS_ArmySteed_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_ArmySteed_UpgradeTree.nodes.1.description>O GAU-4/M61 "Vulcan" é um formidável sistema de armamento Gatling controlado remotamente e montado em veículo, utilizado pelo exército. Demonstra excepcional eficácia em combate, destacando-se na defesa aérea, supressão terrestre e interceptação de aeronaves de baixa velocidade e voo rasante. Apesar de utilizar munição com núcleo de aço de fácil obtenção, esgota rapidamente seu carregamento interno ao disparar.</DMS_ArmySteed_UpgradeTree.nodes.1.description>
+  <DMS_ArmySteed_UpgradeTree.nodes.1.label>GAU-4/M61 "Vulcan"</DMS_ArmySteed_UpgradeTree.nodes.1.label>
+  <DMS_ArmySteed_UpgradeTree.nodes.1.upgrades.0.turrets.0.gizmoLabel>Torre principal</DMS_ArmySteed_UpgradeTree.nodes.1.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_Chameleon_UpgradeTree.nodes.0.description>Canhão eletromagnético revólver automático (A.R.E.S.) - Um canhão antitanque revólver leve de 76 mm com sistema de controle de tiro independente. O uso de aceleração eletromagnética torna o projétil capaz de penetrar qualquer veículo blindado pesado. \n\n Curiosamente, esta arma também é um dos poucos sistemas de armas não à pólvora conhecidos por ter entrado em produção em massa e sido colocado em uso pela Frota Colonial.</DMS_Chameleon_UpgradeTree.nodes.0.description>
+  <DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>Torre principal</DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.1.gizmoLabel>Metralhadora coaxial</DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.1.gizmoLabel>
+  <DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.2.gizmoLabel>Lançador de granadas esquerdo</DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.2.gizmoLabel>
+  <DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.3.gizmoLabel>Lançador de granadas direito</DMS_Chameleon_UpgradeTree.nodes.0.upgrades.0.turrets.3.gizmoLabel>
+  <DMS_Chameleon_UpgradeTree.nodes.1.description>Substitui a metralhadora leve padrão por uma metralhadora pesada Kord</DMS_Chameleon_UpgradeTree.nodes.1.description>
+  <DMS_Chameleon_UpgradeTree.nodes.1.label>Metralhadora pesada Kord</DMS_Chameleon_UpgradeTree.nodes.1.label>
+  <DMS_Chameleon_UpgradeTree.nodes.1.upgrades.0.turrets.0.gizmoLabel>Metralhadora coaxial</DMS_Chameleon_UpgradeTree.nodes.1.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_Chameleon_UpgradeTree.nodes.2.description>Substitui a metralhadora leve padrão pela metralhadora pesada multi-cano GAU-19/A</DMS_Chameleon_UpgradeTree.nodes.2.description>
+  <DMS_Chameleon_UpgradeTree.nodes.2.upgrades.0.turrets.0.gizmoLabel>Metralhadora coaxial</DMS_Chameleon_UpgradeTree.nodes.2.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_Chelydridae_UpgradeTree.nodes.0.description>Substitui a estação de armas da torre por um M61. O GAU-4/M61 "Vulcan" é um formidável sistema de armamento Gatling controlado remotamente e montado em veículo, utilizado pelo exército. Demonstra excepcional eficácia em combate, destacando-se na defesa aérea, supressão terrestre e interceptação de aeronaves de baixa velocidade e voo rasante. Apesar de utilizar munição com núcleo de aço de fácil obtenção, esgota rapidamente seu carregamento interno ao disparar.</DMS_Chelydridae_UpgradeTree.nodes.0.description>
+  <DMS_Chelydridae_UpgradeTree.nodes.0.label>GAU-4/M61 "Vulcan"</DMS_Chelydridae_UpgradeTree.nodes.0.label>
+  <DMS_Chelydridae_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>M61 "Vulcan"</DMS_Chelydridae_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_Mule_UpgradeTree.nodes.0.description>O Mustang é uma plataforma de combate autônoma leve usada para coordenar ataques da infantaria por meio de sistemas C2IS (sistemas de comando e controle de informações). Este sistema de controle de tiro utiliza modificações existentes na plataforma e é controlado por algoritmos pré-definidos, uma configuração comum da primeira geração de autômatos.</DMS_Mule_UpgradeTree.nodes.0.description>
+  <DMS_Mule_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>Torre principal</DMS_Mule_UpgradeTree.nodes.0.upgrades.0.turrets.0.gizmoLabel>
+  <DMS_Mule_UpgradeTree.nodes.0.upgrades.1.roles.2.label>Passageiro traseiro</DMS_Mule_UpgradeTree.nodes.0.upgrades.1.roles.2.label>
+</LanguageData>

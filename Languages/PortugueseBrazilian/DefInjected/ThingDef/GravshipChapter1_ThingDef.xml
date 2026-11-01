@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_Astronaut.label>astronauta</VGE_Astronaut.label>
+  <VGE_Astronaut.tools.0.label>tronco</VGE_Astronaut.tools.0.label>
+  <VGE_Astropede.label>astropede</VGE_Astropede.label>
+  <VGE_CompactBiosculpterPod.description>Uma versão miniaturizada da cápsula bioesculpidora, projetada para caber nos espaços confinados de uma gravnave. Ela realiza diversas alterações biológicas, incluindo reversão da idade e indução de prazer. A cápsula se adapta biologicamente ao usuário ao final de um ciclo. Enquanto adaptada, não pode ser usada por outra pessoa, mas os ciclos serão concluídos 25% mais rapidamente. A adaptação biológica é resetada se a cápsula ficar sem uso por 80 dias. Ela consome energia diretamente do motor gravitacional.</VGE_CompactBiosculpterPod.description>
+  <VGE_CompactBiosculpterPod.label>cápsula bioesculpidora compacta</VGE_CompactBiosculpterPod.label>
+  <VGE_CompactGeneBank.description>Uma versão miniaturizada do banco genético, projetada para caber nos espaços confinados de uma gravnave. Armazena pacotes genéticos e os torna utilizáveis para criar novos xenogermes quando colocada perto de um montador genético. Consome energia diretamente do motor gravitacional e impede a deterioração dos pacotes genéticos, reparando-a lentamente com o tempo.</VGE_CompactGeneBank.description>
+  <VGE_CompactGeneBank.label>banco genético compacto</VGE_CompactGeneBank.label>
+  <VGE_CompactMultiAnalyzer.description>Uma versão miniaturizada do multi-analisador, projetada para operar a bordo de uma gravnave. Embora ocupe menos espaço, desempenha a mesma função essencial: aumentar a velocidade de pesquisa quando colocada perto de uma bancada de pesquisa de alta tecnologia e desbloquear projetos avançados. Cada bancada só pode se beneficiar de um multi-analisador. Ela consome energia diretamente do motor gravitacional.</VGE_CompactMultiAnalyzer.description>
+  <VGE_CompactMultiAnalyzer.label>multi-analisador compacto</VGE_CompactMultiAnalyzer.label>
+  <VGE_CompactResearchBench.description>Uma versão miniaturizada da bancada de pesquisa de alta tecnologia, projetada para caber nos espaços confinados de uma gravnave. Apesar de seu tamanho compacto, possui os mesmos computadores e equipamentos eletrônicos, oferecendo as mesmas capacidades de pesquisa e desbloqueando projetos avançados que sua contraparte maior. Ela consome energia diretamente do motor gravitacional.</VGE_CompactResearchBench.description>
+  <VGE_CompactResearchBench.label>bancada de pesquisa compacta</VGE_CompactResearchBench.label>
+  <VGE_GravshipBasicRecharger.description>Uma versão miniaturizada do recarregador de mecanoides, projetada para caber nos espaços confinados de uma gravnave. Mecanoides leves podem recarregar aqui. Durante o recarregamento, este recarregador produz pacotes de resíduos tóxicos e os armazena internamente. Transportadores devem remover os pacotes de resíduos periodicamente. Ele consome a maior parte da energia diretamente do motor gravitacional.</VGE_GravshipBasicRecharger.description>
+  <VGE_GravshipBasicRecharger.label>recarregador de mecanoides compacto</VGE_GravshipBasicRecharger.label>
+  <VGE_GravshipScannerCluster.description>Um avançado cluster de sensores multifrequenciais usado por pesquisadores para detectar recursos subterrâneos, em todo o planeta ou em órbita. O scanner pode ser sintonizado para buscar minerais específicos no subsolo, em longo alcance ou para escanear objetos orbitais. As taxas de detecção dependem da habilidade de pesquisa do operador. Recursos enterrados exigirão brocas profundas para serem extraídos, enquanto depósitos minerais distantes e objetos orbitais devem ser visitados para serem coletados. Construir várias unidades não aumenta a frequência de detecções orbitais. Ele consome energia diretamente do motor gravitacional.</VGE_GravshipScannerCluster.description>
+  <VGE_GravshipScannerCluster.label>cluster de sensores da gravnave</VGE_GravshipScannerCluster.label>
+  <VGE_GravshipStandardRecharger.description>Uma versão miniaturizada do grande recarregador de mecanoides, projetada para caber nos espaços confinados de uma gravnave. Mecanoides médios, pesados e ultra-pesados podem recarregar aqui. Durante o recarregamento, este recarregador produz pacotes de resíduos tóxicos e os armazena internamente. Transportadores devem remover os pacotes de resíduos periodicamente. Ele consome a maior parte da energia diretamente do motor gravitacional.</VGE_GravshipStandardRecharger.description>
+  <VGE_GravshipStandardRecharger.label>grande recarregador de mecanoides compacto</VGE_GravshipStandardRecharger.label>
+  <VGE_GravshipStructuralBeam.description>Uma viga estrutural ao redor da qual uma gravnave pode ser construída. Estende a área na qual a subestrutura pode ser construída em um quadrado de 5x5. Se destruída, faz com que vigas adjacentes desabem.</VGE_GravshipStructuralBeam.description>
+  <VGE_GravshipStructuralBeam.label>viga estrutural da gravnave</VGE_GravshipStructuralBeam.label>
+  <VGE_Hunter.label>caçador</VGE_Hunter.label>
+  <VGE_Hunter.tools.0.label>cabeça</VGE_Hunter.tools.0.label>
+  <VGE_MassLance.tools.0.label>cano</VGE_MassLance.tools.0.label>
+  <VGE_RocketswarmPod.tools.0.label>cano</VGE_RocketswarmPod.tools.0.label>
+  <VGE_SealantPopper.label>lançador de selante</VGE_SealantPopper.label>
+  <VGE_WallToolCabinet.description>Uma versão de parede do armário de ferramentas. Aumenta a velocidade de trabalho quando colocada perto de uma bancada de trabalho. Cada bancada pode usar até dois armários de ferramentas.</VGE_WallToolCabinet.description>
+  <VGE_WallToolCabinet.label>armário de ferramentas de parede</VGE_WallToolCabinet.label>
+</LanguageData>

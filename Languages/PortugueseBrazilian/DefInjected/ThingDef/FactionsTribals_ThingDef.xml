@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_AnimalTrap.description>Um grande espinho afiado sob tensão, conectado a um gatilho ativado por toque. Se um animal tocar no gatilho, o espinho dispara para frente e o atinge. Por estar escondida no terreno ao redor, não pode ser colocada adjacente a outras armadilhas. Animais não a percebem quando calmos, mas ela é bastante óbvia para humanos e será evitada por eles.</VFET_AnimalTrap.description>
+  <VFET_AnimalTrap.label>armadilha para animais</VFET_AnimalTrap.label>
+  <VFET_Apparel_TribalHeavy.description>Uma roupa de corpo inteiro fabricada com ferramentas neolíticas. Embora pareça primitiva, é muito eficaz no isolamento contra temperaturas frias. Oferece proteção um pouco maior que os trajes tribais padrão.</VFET_Apparel_TribalHeavy.description>
+  <VFET_Apparel_TribalHeavy.label>trajes tribais pesados</VFET_Apparel_TribalHeavy.label>
+  <VFET_Apparel_TribalLight.description>Uma roupa que cobre apenas o tronco, fabricada com ferramentas neolíticas. Embora pareça primitiva, é muito eficaz no isolamento contra temperaturas quentes.</VFET_Apparel_TribalLight.description>
+  <VFET_Apparel_TribalLight.label>trajes tribais leves</VFET_Apparel_TribalLight.label>
+  <VFET_Apparel_TribalWar.description>Uma roupa que cobre o tronco superior, fabricada com ferramentas neolíticas. Embora pareça primitiva, é muito eficaz na proteção contra danos cortantes e contundentes. Oferece pouco isolamento.</VFET_Apparel_TribalWar.description>
+  <VFET_Apparel_TribalWar.label>trajes tribais de guerra</VFET_Apparel_TribalWar.label>
+  <VFET_Chunk.description>Um pedaço de rocha, cuidadosamente selecionado por ter o maior potencial para esmagar.</VFET_Chunk.description>
+  <VFET_Chunk.label>pedaço</VFET_Chunk.label>
+  <VFET_Chunk.tools.0.label>pedra</VFET_Chunk.tools.0.label>
+  <VFET_FloorPainting.description>Uma pintura de piso no estilo neolítico que representa uma forma artística. Aumenta em beleza conforme o nível tecnológico da colônia muda.</VFET_FloorPainting.description>
+  <VFET_FloorPainting.label>pintura no chão</VFET_FloorPainting.label>
+  <VFET_LargeFire.description>Produz grandes quantidades de calor e fumaça, e se apaga após um quadrum. A luz de uma fogueira grande é visível de longe. Enquanto estiver queimando ao ar livre, há uma maior chance de homens selvagens vagarem até a colônia, bem como incursões. Assim como todas as fontes de calor, deve ser colocada em ambientes fechados para aquecer o espaço. Pode ser reabastecida. Devido ao seu tamanho e instabilidade, pode soltar faíscas ao redor, que podem iniciar um incêndio.</VFET_LargeFire.description>
+  <VFET_LargeFire.label>fogueira grande</VFET_LargeFire.label>
+  <VFET_LargeFireSpark.label>faísca</VFET_LargeFireSpark.label>
+  <VFET_ResearchSpot.description>Um local para pensar, antes que uma mesa de pesquisa simples possa ser construída. Os pesquisadores trabalham aqui para descobrir novas coisas.</VFET_ResearchSpot.description>
+  <VFET_ResearchSpot.label>local de pesquisa</VFET_ResearchSpot.label>
+  <VFET_SittingSpot.description>Um local para sentar. Não é muito confortável e só marginalmente melhor que nada. Pode ser usado em mesas, estações de trabalho e outros locais.</VFET_SittingSpot.description>
+  <VFET_SittingSpot.label>local para sentar</VFET_SittingSpot.label>
+  <VFET_Stake.description>Um tronco de madeira afiado. Pode causar danos substanciais, mas é propenso a quebrar e se deteriora rapidamente. Eficaz contra sanguófagos.</VFET_Stake.description>
+  <VFET_Stake.label>estaca</VFET_Stake.label>
+  <VFET_Stake.tools.0.label>cabo</VFET_Stake.tools.0.label>
+  <VFET_Stake.tools.1.label>ponta</VFET_Stake.tools.1.label>
+  <VFET_Throwspikes.description>Espinhos arremessáveis são gravetos curtos afiados em ambos os lados. Demoram um pouco para serem arremessados, mas podem causar danos razoáveis quando atingem. Esta arma representa um feixe de espinhos arremessáveis e pode ser arremessada repetidamente.</VFET_Throwspikes.description>
+  <VFET_Throwspikes.label>espinhos arremessáveis</VFET_Throwspikes.label>
+  <VFET_Throwspikes.tools.0.label>galho</VFET_Throwspikes.tools.0.label>
+  <VFET_ThrowspikesThrown.label>espinhos arremessáveis</VFET_ThrowspikesThrown.label>
+</LanguageData>

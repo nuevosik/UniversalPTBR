@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IW.AutoOpenBillTabDesc>Quando uma bancada (ou estoque) for selecionada, sua aba de tarefas (ou armazenamento) será aberta imediatamente</IW.AutoOpenBillTabDesc>
+  <IW.AutoOpenBillTabLabel>Abrir abas de tarefas e armazenamento automaticamente</IW.AutoOpenBillTabLabel>
+  <IW.BestLabel>Melhor</IW.BestLabel>
+  <IW.BillsLabel>Tarefas</IW.BillsLabel>
+  <IW.BreakLinkToOtherBillsTip>Quebrar vínculo com outras tarefas</IW.BreakLinkToOtherBillsTip>
+  <IW.ChangeLinkedBillModeText>Use Detalhes para alterar o modo da tarefa vinculada</IW.ChangeLinkedBillModeText>
+  <IW.ClickToDropTip>Atualmente enviando a produção para o estoque. Clique para soltar no chão.</IW.ClickToDropTip>
+  <IW.ClickToTakeToStockpileTip>Atualmente soltando a produção no chão. Clique para enviar ao estoque.</IW.ClickToTakeToStockpileTip>
+  <IW.CopyAllLabel>Copiar Tudo</IW.CopyAllLabel>
+  <IW.CopyAllTip>Copiar todas as tarefas nesta bancada</IW.CopyAllTip>
+  <IW.CopyFilterButton>Copiar Filtro</IW.CopyFilterButton>
+  <IW.CopyFilterTip>Copiar configurações do filtro de ingredientes, para colar em um filtro compatível</IW.CopyFilterTip>
+  <IW.CopyJustBillsTip>Copiar apenas esta tarefa</IW.CopyJustBillsTip>
+  <IW.CountAwayDesc>Também contar itens em colonos ou animais enviados em caravana, em cápsulas de transporte, em câmaras de criptossono ou indisponíveis de outra forma</IW.CountAwayDesc>
+  <IW.CountAwayLabel>Contar quando ausente</IW.CountAwayLabel>
+  <IW.CountCarriedByNonHumans>Contar recursos carregados por não-humanos</IW.CountCarriedByNonHumans>
+  <IW.CountCarriedByNonHumansDesc>Um bug no jogo vanilla impede que 'itens de recurso' (como refeições e medicamentos) sejam contados se forem carregados por não-humanos, como animais de carga, mechas ou animais em caravana. Ative esta opção para corrigir.</IW.CountCarriedByNonHumansDesc>
+  <IW.CountCorpseClothesDesc>Incluir roupas vestidas por cadáveres na contagem de itens</IW.CountCorpseClothesDesc>
+  <IW.CountCorpseClothesLabel>Contar roupas de cadáver</IW.CountCorpseClothesLabel>
+  <IW.CountInText>Contar em</IW.CountInText>
+  <IW.CountInstalledDesc>Também contar itens que foram instalados como construção</IW.CountInstalledDesc>
+  <IW.CountInstalledLabel>Contar itens instalados</IW.CountInstalledLabel>
+  <IW.CountInventory>Contar inventário (compatibilidade com Pickup and Haul)</IW.CountInventory>
+  <IW.CountInventoryDesc>Contar itens que os colonos possuem em seu inventário ou carregam. Esta é uma opção de compatibilidade para Pickup and Haul.</IW.CountInventoryDesc>
+  <IW.CountOnStockpilesText>Contar em todos os estoques</IW.CountOnStockpilesText>
+  <IW.CountOutsideStockpiles>Contar recursos fora dos estoques</IW.CountOutsideStockpiles>
+  <IW.CountOutsideStockpilesDesc>Um bug no jogo vanilla impede que 'itens de recurso' (como refeições e medicamentos) sejam contados se não estiverem em estoques. Ative esta opção para corrigir, ou desative se estiver usando outro mod para isso.</IW.CountOutsideStockpilesDesc>
+  <IW.CountedItemsFilter>Filtro de itens contados:</IW.CountedItemsFilter>
+  <IW.CrafterWillToSpecificStockpileTip>O artesão enviará o produto final para o estoque especificado</IW.CrafterWillToSpecificStockpileTip>
+  <IW.DoUntilXText>Fazer até X</IW.DoUntilXText>
+  <IW.DropOnFloorByDefault>Soltar no chão por padrão</IW.DropOnFloorByDefault>
+  <IW.DropOnFloorByDefaultDesc>Novas tarefas terão como padrão 'Soltar no chão' ao invés de 'Enviar para o melhor estoque'.</IW.DropOnFloorByDefaultDesc>
+  <IW.EnableDragToReorder>Arrastar para reordenar tarefas</IW.EnableDragToReorder>
+  <IW.EnableDragToReorderDesc>Se estiver em conflito com outros mods, você pode desativar a funcionalidade 'arrastar para reordenar tarefas' na visão geral da bancada</IW.EnableDragToReorderDesc>
+  <IW.FoundOldBillText>Tarefa antiga encontrada</IW.FoundOldBillText>
+  <IW.HitPointsTip>Apenas itens com a faixa de pontos de vida especificada contarão para a meta</IW.HitPointsTip>
+  <IW.IngredientsTip>Apenas itens feitos com ingredientes do filtro de ingredientes de entrada (na coluna mais à direita) contarão para a meta</IW.IngredientsTip>
+  <IW.MatchInputIngredientsText>Corresponder a ingredientes de entrada</IW.MatchInputIngredientsText>
+  <IW.MigratingToNewFormat>migrando para novo formato</IW.MigratingToNewFormat>
+  <IW.MirrorSuspendedStatus>Espelhar status suspenso</IW.MirrorSuspendedStatus>
+  <IW.MirrorSuspendedStatusDesc>Se ativado, quando uma tarefa vinculada for suspensa ou reativada, todas as tarefas vinculadas terão o mesmo status. (Obs.: Ativar esta configuração irá sincronizar todas as tarefas vinculadas)</IW.MirrorSuspendedStatusDesc>
+  <IW.NoColRestrictionLabel>Sem restrição de colono</IW.NoColRestrictionLabel>
+  <IW.NullLabel>nulo</IW.NullLabel>
+  <IW.OpenNextBillTip>Abrir próxima tarefa na bancada</IW.OpenNextBillTip>
+  <IW.OpenPreviousBillTip>Abrir tarefa anterior na bancada</IW.OpenPreviousBillTip>
+  <IW.OutputFilterLabel>Contar itens adicionais</IW.OutputFilterLabel>
+  <IW.OutputFilterTitle>Também contar estes produtos:</IW.OutputFilterTitle>
+  <IW.Paste>Colar</IW.Paste>
+  <IW.PasteAllLabel>Colar Tudo</IW.PasteAllLabel>
+  <IW.PasteAllTip>Colar tarefa(s) copiada(s) como nova(s) tarefa(s) aqui.</IW.PasteAllTip>
+  <IW.PasteBillSettings>Colar todas as configurações (exceto produto) da tarefa copiada nesta</IW.PasteBillSettings>
+  <IW.PasteFilterButton>Colar Filtro</IW.PasteFilterButton>
+  <IW.PasteLinkLabel>Colar Vinculado</IW.PasteLinkLabel>
+  <IW.PasteLinkTip>Colar tarefa(s) copiada(s) e vinculá-las à(s) original(is). As alterações serão espelhadas para todas as tarefas conectadas.</IW.PasteLinkTip>
+  <IW.QualityTip>Apenas itens com a faixa de qualidade especificada contarão para a meta</IW.QualityTip>
+  <IW.RenameBillTip>Renomear tarefa (deixe vazio para redefinir)</IW.RenameBillTip>
+  <IW.RenameTip>Clique para inserir um valor usando o teclado</IW.RenameTip>
+  <IW.RestrictJobToSpecificColonistTip>Restringir trabalho a um colono específico</IW.RestrictJobToSpecificColonistTip>
+  <IW.RestrictToLabel>Restringir a</IW.RestrictToLabel>
+  <IW.ShowExtraUIButtons>Mostrar botões extras da interface</IW.ShowExtraUIButtons>
+  <IW.ShowExtraUIButtonsDesc>Mostra botões que permitem definir os valores de 'quantidade-alvo' e 'nível de retomada' nos detalhes da tarefa pelo teclado. Desative se tiver um mod ou idioma que cause o deslocamento desses botões.</IW.ShowExtraUIButtonsDesc>
+  <IW.ShowItemCountInFilterDesc>Mostra a contagem de itens na aba de ingredientes nos detalhes da tarefa</IW.ShowItemCountInFilterDesc>
+  <IW.ShowItemCountInFilterLabel>Mostrar contagem de itens no filtro</IW.ShowItemCountInFilterLabel>
+  <IW.TakeToLabel>Enviar para</IW.TakeToLabel>
+  <IW.WillCountTowardsTargetTip>Apenas itens no estoque especificado contarão para a meta.</IW.WillCountTowardsTargetTip>
+  <IW.WorkbenchRestrictionDesc>Aplicar a restrição desta tarefa a todas as tarefas da bancada</IW.WorkbenchRestrictionDesc>
+  <IW.WorkbenchRestrictionLabel>Restringir bancada</IW.WorkbenchRestrictionLabel>
+</LanguageData>

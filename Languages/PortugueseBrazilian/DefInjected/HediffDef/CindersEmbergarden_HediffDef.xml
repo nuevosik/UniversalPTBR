@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cinder_ActivateTentaclesDuration.description>Tempo restante para ativação dos polímeros amorfos.</Cinder_ActivateTentaclesDuration.description>
+  <Cinder_ActivateTentaclesDuration.label>Ativação de tentáculos</Cinder_ActivateTentaclesDuration.label>
+  <Cinder_ArtificiaLife.description>Incapaz de conceber.</Cinder_ArtificiaLife.description>
+  <Cinder_ArtificiaLife.label>vida artificial</Cinder_ArtificiaLife.label>
+  <Cinder_Blindness.description>Enredado por tentáculos no chão, afetando a visão e a mobilidade.</Cinder_Blindness.description>
+  <Cinder_Blindness.label>emaranhamento por tentáculos</Cinder_Blindness.label>
+  <Cinder_BlindnessLow.description>Enredado por tentáculos no chão, afetando a visão e a mobilidade.</Cinder_BlindnessLow.description>
+  <Cinder_BlindnessLow.label>emaranhamento por tentáculos</Cinder_BlindnessLow.label>
+  <Cinder_Crush.description>Esmagamento e emaranhamento por tentáculos instáveis.</Cinder_Crush.description>
+  <Cinder_Crush.label>emaranhamento polimérico</Cinder_Crush.label>
+  <Cinder_DeepSleep.description>Sob o domínio de outra consciência, ainda dormindo profundamente.</Cinder_DeepSleep.description>
+  <Cinder_DeepSleep.label>sono profundo</Cinder_DeepSleep.label>
+  <Cinder_DeepSleep.labelNoun>sono profundo</Cinder_DeepSleep.labelNoun>
+  <Cinder_DeepSleep.stages.0.label>sono profundo</Cinder_DeepSleep.stages.0.label>
+  <Cinder_ERA.description>Blindagem reativa pesada, capaz de resistir efetivamente a danos explosivos.</Cinder_ERA.description>
+  <Cinder_ERA.label>ERA</Cinder_ERA.label>
+  <Cinder_Erosion.description>O corpo desta pessoa foi erodido.</Cinder_Erosion.description>
+  <Cinder_Erosion.label>erosão</Cinder_Erosion.label>
+  <Cinder_ErosionDisability.description>Incapacitado devido à erosão por substâncias estranhas.</Cinder_ErosionDisability.description>
+  <Cinder_ErosionDisability.label>Incapacidade por erosão</Cinder_ErosionDisability.label>
+  <Cinder_Erosion_Bullet.description>O corpo desta pessoa foi erodido.</Cinder_Erosion_Bullet.description>
+  <Cinder_Erosion_Bullet.label>erosão</Cinder_Erosion_Bullet.label>
+  <Cinder_ExtraArmourPlate.description>Foram instaladas placas adicionais de polímero amorfo para proteger o usuário de ferimentos.\n\nEmbora seja uma blindagem excelente, deve ser completamente substituída quando danificada.</Cinder_ExtraArmourPlate.description>
+  <Cinder_ExtraArmourPlate.label>placas blindadas</Cinder_ExtraArmourPlate.label>
+  <Cinder_ExtraArmourPlateII.description>Foram instaladas placas adicionais de polímero amorfo para proteger o usuário de ferimentos.\n\nEmbora seja uma blindagem excelente, deve ser completamente substituída quando danificada.</Cinder_ExtraArmourPlateII.description>
+  <Cinder_ExtraArmourPlateII.label>placas blindadas pesadas</Cinder_ExtraArmourPlateII.label>
+  <Cinder_EyeHediff.description>Olhos abençoados por algo desconhecido.</Cinder_EyeHediff.description>
+  <Cinder_EyeHediff.label>olhos erodidos</Cinder_EyeHediff.label>
+  <Cinder_EyeRegenInhibited.description>O Ritual Cego tirou os olhos desta pessoa. A tentativa de ressonância com o elo psíquico bloqueou a regeneração ocular.</Cinder_EyeRegenInhibited.description>
+  <Cinder_EyeRegenInhibited.label>regeneração ocular inibida</Cinder_EyeRegenInhibited.label>
+  <Cinder_EyeRegenInhibited.labelNoun>regeneração ocular inibida</Cinder_EyeRegenInhibited.labelNoun>
+  <Cinder_GraduallyAwakening.description>A cena do sonho já quase não é mais visível; aos poucos, desperta para enfrentar a realidade.</Cinder_GraduallyAwakening.description>
+  <Cinder_GraduallyAwakening.label>despertar gradual</Cinder_GraduallyAwakening.label>
+  <Cinder_GraduallyAwakening.labelNoun>despertar gradual</Cinder_GraduallyAwakening.labelNoun>
+  <Cinder_GraduallyAwakening.stages.0.label>despertar gradual</Cinder_GraduallyAwakening.stages.0.label>
+  <Cinder_IntrinsicPropertiesOfPolymers.description>As propriedades inerentes dos polímeros amorfos são que não podem ser cortados diretamente de forma alguma, e podem ser processados por projéteis ou movimentos lentos com energia cinética acima de um certo limiar.</Cinder_IntrinsicPropertiesOfPolymers.description>
+  <Cinder_IntrinsicPropertiesOfPolymers.label>Propriedades intrínsecas dos polímeros</Cinder_IntrinsicPropertiesOfPolymers.label>
+  <Cinder_IntrinsicPropertiesOfPolymers.labelNoun>Propriedades intrínsecas dos polímeros</Cinder_IntrinsicPropertiesOfPolymers.labelNoun>
+  <Cinder_LightSleep.description>A consciência se recupera gradualmente, borrando a fronteira entre realidade e sonho.</Cinder_LightSleep.description>
+  <Cinder_LightSleep.label>sono leve</Cinder_LightSleep.label>
+  <Cinder_LightSleep.labelNoun>sono leve</Cinder_LightSleep.labelNoun>
+  <Cinder_LightSleep.stages.0.label>sono leve</Cinder_LightSleep.stages.0.label>
+  <Cinder_LongDream.description>Um longo e suave sonho. A consciência desta unidade foi tomada e não haverá dor nem tristeza.</Cinder_LongDream.description>
+  <Cinder_LongDream.label>sonho longo</Cinder_LongDream.label>
+  <Cinder_LongDream.labelNoun>sonho longo</Cinder_LongDream.labelNoun>
+  <Cinder_LongDream.stages.0.label>sonho longo</Cinder_LongDream.stages.0.label>
+  <Cinder_MusicStopper.description>Condição oculta que interrompe a música atual do chefe ao ser derrubado ou morto. Deve ficar invisível e ser removido na ativação.</Cinder_MusicStopper.description>
+  <Cinder_MusicStopper.label>interromper música ao ser derrubado</Cinder_MusicStopper.label>
+  <Cinder_NeuralCrystallizationDissociation.description>O polímero cristalino que remodela o corpo gradualmente começa a sofrer transição de fase, mas ainda há cristais remanescentes por todo o corpo. Os nervos remodelados por polímeros amorfos ainda não estão totalmente eficazes, portanto esta pessoa não consegue controlar seu corpo e emoções no momento.</Cinder_NeuralCrystallizationDissociation.description>
+  <Cinder_NeuralCrystallizationDissociation.label>dissociação por cristalização neural</Cinder_NeuralCrystallizationDissociation.label>
+  <Cinder_PolymerActivation.description>O polímero amorfo dentro desta unidade foi ativado, resultando em um aumento significativo na resistência da armadura.</Cinder_PolymerActivation.description>
+  <Cinder_PolymerActivation.label>ativação polimérica</Cinder_PolymerActivation.label>
+  <Cinder_PolymerActivation.labelNoun>ativação polimérica</Cinder_PolymerActivation.labelNoun>
+  <Cinder_Regen.description>Polímero amorfo é usado para reparar o corpo desta pessoa.</Cinder_Regen.description>
+  <Cinder_Regen.label>regeneração</Cinder_Regen.label>
+  <Cinder_Resurrect.description>Ao sofrer ferimentos fatais, o polímero amorfo do corpo gera rapidamente órgãos ausentes, revivendo o portador.</Cinder_Resurrect.description>
+  <Cinder_Resurrect.label>ressurreição</Cinder_Resurrect.label>
+  <Cinder_ResurrectComa.description>O polímero amorfo cristalizou completamente o corpo desta pessoa. Agora ela é quase idêntica a um aglomerado de polímero de alta dureza, ao invés de uma entidade biológica, tornando-a indestrutível.</Cinder_ResurrectComa.description>
+  <Cinder_ResurrectComa.label>coma por cristalização</Cinder_ResurrectComa.label>
+  <Cinder_SrangeSolution.description>Um medicamento inofensivo que frequentemente distrai as pessoas e as faz sentir libido incontrolável.</Cinder_SrangeSolution.description>
+  <Cinder_SrangeSolution.label>solução estranha</Cinder_SrangeSolution.label>
+  <Cinder_Suffocation.description>Coma causado por sufocamento.</Cinder_Suffocation.description>
+  <Cinder_Suffocation.label>coma por sufocamento</Cinder_Suffocation.label>
+  <Cinder_UncontrollableTentacles.description>Estes tentáculos atrapalharão ou ajudarão aleatoriamente na manipulação.</Cinder_UncontrollableTentacles.description>
+  <Cinder_UncontrollableTentacles.label>Tentáculos incontroláveis</Cinder_UncontrollableTentacles.label>
+  <Cinder_UncontrollableTentacles.stages.0.label>ativos</Cinder_UncontrollableTentacles.stages.0.label>
+</LanguageData>

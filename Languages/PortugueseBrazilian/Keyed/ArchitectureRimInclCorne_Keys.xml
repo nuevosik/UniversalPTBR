@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EEG_Eaves_Note>A configuração entra em vigor imediatamente, não é necessário reiniciar. Nada é movido ou reconstruído, apenas a forma como os beirais são desenhados muda. As peças de canto não são afetadas, pois já ficavam sobre o bloco da parede.</EEG_Eaves_Note>
+  <EEG_Eaves_Notice>Architecture of the Rim foi atualizado e a posição dos beirais mudou. Agora eles podem ser colocados diretamente sobre uma parede, para que você possa construir campos, estruturas e estoques "embaixo" deles.\n\nSe não quiser reconstruir tudo, você pode desfazer essa alteração nas configurações do mod: Opções &gt; Opções de mods &gt; Architecture of the Rim.</EEG_Eaves_Notice>
+  <EEG_Eaves_NoticeKeep>Parece bom</EEG_Eaves_NoticeKeep>
+  <EEG_Eaves_NoticeRestore>Desfazer agora</EEG_Eaves_NoticeRestore>
+  <EEG_Eaves_NoticeTitle>Architecture of the Rim</EEG_Eaves_NoticeTitle>
+  <EEG_Eaves_RestoreOld>Restaurar a posição antiga dos beirais</EEG_Eaves_RestoreOld>
+  <EEG_Eaves_RestoreOldTip>Os beirais agora são colocados diretamente sobre o bloco da parede. Em uma colônia construída antes desta atualização, os beirais ainda ficam à frente da parede, então parecerão deslocados em um bloco. Ative esta opção para desenhá-los da maneira antiga e continuar jogando sem reconstruir nada.</EEG_Eaves_RestoreOldTip>
+  <EEG_Eaves_Restored>Os beirais agora são desenhados da maneira antiga.</EEG_Eaves_Restored>
+  <EEG_Eaves_ShowNoticeAgain>Mostrar este aviso novamente</EEG_Eaves_ShowNoticeAgain>
+</LanguageData>

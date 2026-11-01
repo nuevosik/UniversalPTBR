@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_DMS_HeavyMachineGun.description>Um projétil padrão de cinturão encamisado de 12,7mm. Balanceado para fogo sustentado à distância contra infantaria e blindagem leve.</Bullet_DMS_HeavyMachineGun.description>
+  <DMSRC_LiftShaft_Large_Bottom.description>Um grande poço de elevador leva à área subterrânea, grande o suficiente para transportar veículos, mas aparentemente não há como ativá-lo.</DMSRC_LiftShaft_Large_Bottom.description>
+  <DMSRC_LiftShaft_Large_Bottom.label>poço de elevador</DMSRC_LiftShaft_Large_Bottom.label>
+  <DMS_AMO_Beast.description>TODO</DMS_AMO_Beast.description>
+  <DMS_AMO_Beast.label>fera</DMS_AMO_Beast.label>
+  <DMS_AMO_Beast.tools.0.label>tentáculo</DMS_AMO_Beast.tools.0.label>
+  <DMS_AMO_Beast.tools.1.label>tentáculo</DMS_AMO_Beast.tools.1.label>
+  <DMS_AMO_Beast.tools.2.label>tentáculo</DMS_AMO_Beast.tools.2.label>
+  <DMS_AMO_Beast.tools.3.label>tentáculo</DMS_AMO_Beast.tools.3.label>
+  <DMS_AMO_Beast.tools.4.label>dentes</DMS_AMO_Beast.tools.4.label>
+  <DMS_AMO_Beast.tools.5.label>cabeça</DMS_AMO_Beast.tools.5.label>
+  <DMS_AccessConsole_Destroyed.description>Uma interface de computador multiuso arruinada. Seus circuitos e monitores corroeram além do reparo.</DMS_AccessConsole_Destroyed.description>
+  <DMS_AccessConsole_Destroyed.label>console de acesso arruinado</DMS_AccessConsole_Destroyed.label>
+  <DMS_AccessConsole_Nara.description>Uma interface de computador multiuso. Seu leitor embutido aceita cartões-chave.</DMS_AccessConsole_Nara.description>
+  <DMS_AccessConsole_Nara.label>console de acesso</DMS_AccessConsole_Nara.label>
+  <DMS_AccessConsole_Neutral.description>Uma interface de computador multiuso. Seu leitor embutido aceita cartões-chave.</DMS_AccessConsole_Neutral.description>
+  <DMS_AccessConsole_Neutral.label>console de acesso</DMS_AccessConsole_Neutral.label>
+  <DMS_AccessKey_Nara.description>Uma chave de acesso unificada de uso único utilizada pela Nara Industries. Pode ser usada para ativar terminais, abrir caixas e portas.</DMS_AccessKey_Nara.description>
+  <DMS_AccessKey_Nara.label>chave de acesso Nara Ind.</DMS_AccessKey_Nara.label>
+  <DMS_AccessKey_Neutrals.description>Uma chave de acesso unificada de uso único utilizada pelas instalações de colonos pioneiros. Pode ser usada para ativar terminais, abrir caixas e portas.</DMS_AccessKey_Neutrals.description>
+  <DMS_AccessKey_Neutrals.label>chave de acesso do Farol Pioneiro</DMS_AccessKey_Neutrals.label>
+  <DMS_ActiveCrewLifter.label>elevador móvel de tripulação</DMS_ActiveCrewLifter.label>
+  <DMS_ActiveCrewPod.label>cápsula de tripulação</DMS_ActiveCrewPod.label>
+  <DMS_Airpurifier.description>Uma unidade autônoma de purificação de ar. Seus filtros removem poeira e contaminantes do ar, mantendo os cômodos da instalação limpos.</DMS_Airpurifier.description>
+  <DMS_Airpurifier.label>purificador de ar</DMS_Airpurifier.label>
+  <DMS_AirpurifierDestroyed.description>Os destroços de uma unidade de purificação de ar. Seus filtros estão completamente entupidos e a carcaça enferrujou. Ao desmontá-lo, é possível obter sucata metálica.</DMS_AirpurifierDestroyed.description>
+  <DMS_AirpurifierDestroyed.label>purificador de ar arruinado</DMS_AirpurifierDestroyed.label>
+  <DMS_Anchor.description>Um dispositivo de estabilização que usa contratecnologia para manter o espaço ao redor livre da influência de forças transcendentais. Para uma pessoa comum, não passa de uma decoração inofensiva, mas psinjuradores e artefatos transcendentes têm dificuldade em estabelecer conexões além desta dimensão na sua presença e não conseguem manifestar suas propriedades transcendentais.\n\nEnquanto energizado, mantém um campo estabilizado ao seu redor. Dentro dele, as capacidades ou limites físicos de nenhuma criatura podem exceder 120% do normal, psicocastes não podem ser conjurados e a invisibilidade falha. Entidades anômalas e mutantes são suprimidas: desaceleradas, enfraquecidas e muito mais fáceis de conter. O campo não faz distinção entre amigos e inimigos.</DMS_Anchor.description>
+  <DMS_Anchor.label>âncora da realidade</DMS_Anchor.label>
+  <DMS_AntiMaterialRifle.tools.muzzle.label>cano</DMS_AntiMaterialRifle.tools.muzzle.label>
+  <DMS_AntiMaterialRifle.verbs.Verb_ShootCE.label>Fuzil antimaterial mecanoide</DMS_AntiMaterialRifle.verbs.Verb_ShootCE.label>
+  <DMS_Apparel_BionicSuitHeavy.description>Um protótipo não refinado do traje biônico. Ao fixar sua estrutura diretamente ao esqueleto do piloto, ele permite empunhar e operar armas muito além da força de um soldado sem auxílio.\nCada feixe de músculos artificiais só funciona corretamente com o traje completamente fechado, portanto, uma vez vestido, só pode ser removido por cirurgia.\n\nAs frotas coloniais listam isso como tecnologia lacrada classe I. Empregá-lo sem alguém de posição para responder por isso azedará as relações com elas mais cedo ou mais tarde.</DMS_Apparel_BionicSuitHeavy.description>
+  <DMS_Apparel_BionicSuitHeavy.label>Traje biônico pesado</DMS_Apparel_BionicSuitHeavy.label>
+  <DMS_ArchiveCasket.description>Um bloco usinado de compósito, com uma única costura, lacrado sob um campo de confinamento. Em seu interior não há um fragmento, mas um arquivo inteiro: uma tecnologia lacrada completa, esperando para ser lida.\n\nAs frotas nunca fizeram estes. Apenas os deixaram para trás, em armazenamentos de servidores de instalações e no banco de dados estratégico sob um núcleo SAGE, ainda carimbados com o nome de um zelador que parou de vir.</DMS_ArchiveCasket.description>
+  <DMS_ArchiveCasket.label>arca de arquivo atestada</DMS_ArchiveCasket.label>
+  <DMS_ArchiveElevator.description>O elevador da superfície de um arquivo de dados de instalação soterrado. A frota colonial mantinha seus servidores de registros no subsolo, longe de variações de temperatura, tremores e interferências, deixando apenas este elevador na superfície. O carro ainda tem energia, mas seus controles estão travados. Hackeie-o para trazê-lo à superfície.</DMS_ArchiveElevator.description>
+  <DMS_ArchiveElevator.label>elevador de carga do arquivo</DMS_ArchiveElevator.label>
+  <DMS_Artiprotein.description>Um bloco denso de matéria rica em proteínas sintetizada por enzimas biológicas engenheiradas a partir de estoques nutritivos digeridos. Tem sabor semelhante ao peixe, fornece uma ingestão proteica completa e dura muito mais, com maior densidade nutricional, que qualquer carne obtida por abate. É item padrão para armazenamento de longo prazo e o insumo orgânico preferido ao cultivar tecido biológico.</DMS_Artiprotein.description>
+  <DMS_Artiprotein.label>artiproteína</DMS_Artiprotein.label>
+  <DMS_AssaultPiercer.tools.grip.label>empunhadura</DMS_AssaultPiercer.tools.grip.label>
+  <DMS_AssaultPiercer.tools.muzzle.label>cano</DMS_AssaultPiercer.tools.muzzle.label>
+  <DMS_AssaultPiercer.verbs.Verb_ShootCE.label>Perfurador de assalto</DMS_AssaultPiercer.verbs.Verb_ShootCE.label>
+  <DMS_AssaultRifle.tools.muzzle.label>cano</DMS_AssaultRifle.tools.muzzle.label>
+  <DMS_AssaultRifle.verbs.Verb_ShootCE.label>Fuzil de assalto mecanoide</DMS_AssaultRifle.verbs.Verb_ShootCE.label>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.0.description>O disparo padrão em rajada de três cartuchos de balotes. Nada sofisticado, e nada sem blindagem aprecia estar na frente dele.</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.0.label>balotes</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.1.description>Um único slug estriado no lugar da dispersão de balotes. Alcança muito mais longe e perfura blindagem leve, ao custo de um projétil por gatilho.</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.1.label>slug</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.2.description>Uma carga sabot de dardos com núcleo de tungstênio. Cada um tem massa quase nula, então dificilmente afeta carne, mas cinco deles por disparo encontrarão caminho através de blindagens que resistem aos balotes.</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.2.label>flechettes de tungstênio</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.3.description>Balotes de zircônio que incendeiam ao sair do cano. A nuvem ardente alcança apenas alguns metros e causa pouco dano por si só, mas quatro cartuchos dela atearão fogo a um corredor e impedirão que qualquer coisa passe por ele.</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.3.description>
+  <DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.3.label>bafo do dragão</DMS_AssaultShotgun.comps.CompAmmoSwitch.ammos.3.label>
+  <DMS_AssaultShotgun.tools.muzzle.label>cano</DMS_AssaultShotgun.tools.muzzle.label>
+  <DMS_AssaultShotgun.verbs.Verb_LaunchProjectile_AmmoSwitch.label>Espingarda de assalto mecanoide</DMS_AssaultShotgun.verbs.Verb_LaunchProjectile_AmmoSwitch.label>
+  <DMS_AssaultShotgun.verbs.Verb_ShootCE.label>Espingarda de assalto mecanoide</DMS_AssaultShotgun.verbs.Verb_ShootCE.label>
+  <DMS_AutoMill.description>Uma bancada de moagem automatizada alimentada por uma linha contínua. Uma vez carregada com pedaços brutos, mói e corta blocos de pedra sem supervisão, trocando precisão pela capacidade de funcionar sem operador.</DMS_AutoMill.description>
+  <DMS_AutoMill.label>Moinho automático</DMS_AutoMill.label>
+  <DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.description>Um projétil de fragmentação altamente explosivo para eliminar alvos agrupados. O cartucho padrão da cinta.</DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.label>Granada HE</DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.description>Um projétil capacitor que atordoa mecanoides e torretas em um pequeno raio ao invés de destruí-los. Inútil contra carne, e o conjunto de espoleta mais pesado reduz a cadência de rajada.</DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.label>Granada EMP</DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.description>Um projétil de cortina de fumaça que cria uma nuvem de fumaça no local onde cai. Mais leve que os projéteis explosivos, voa um pouco mais longe e chega ao alvo mais rápido.</DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.label>Granada de fumaça</DMS_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_AutomaticGrenadeLauncher.tools.0.label>coronha</DMS_AutomaticGrenadeLauncher.tools.0.label>
+  <DMS_AutomaticGrenadeLauncher.tools.1.label>cano</DMS_AutomaticGrenadeLauncher.tools.1.label>
+  <DMS_AutomaticGrenadeLauncher.tools.muzzle.label>cano</DMS_AutomaticGrenadeLauncher.tools.muzzle.label>
+  <DMS_AutomaticGrenadeLauncher.verbs.Verb_LaunchProjectile_AmmoSwitch.label>Lançador de granadas mecânico</DMS_AutomaticGrenadeLauncher.verbs.Verb_LaunchProjectile_AmmoSwitch.label>
+  <DMS_AutomaticGrenadeLauncher.verbs.Verb_ShootCE.label>Lançador de granadas mecânico</DMS_AutomaticGrenadeLauncher.verbs.Verb_ShootCE.label>
+  <DMS_BF_RecoillessRifle.comps.CompUsable.useLabel>Instalar {0_label}</DMS_BF_RecoillessRifle.comps.CompUsable.useLabel>
+  <DMS_BF_RecoillessRifle.description>Um par de tubos sem recuo de 65mm em um berço compartilhado, projetado para ser fixado aos pylons laterais de uma estrutura de combate. As unidades de linha o equipam por um único motivo: o armamento leve da própria estrutura não tem resposta contra blindagem ou posições de tiro fortificadas, e uma montaria ambulante pode levar o tubo a locais que uma equipe de dois homens jamais alcançaria.\n\nCarregado com foguetes de carga moldada, o suporte derrota blindagem e fortificações muito acima da classe de peso da estrutura, e sua unidade de controle de tiro recarrega um tubo gasto a partir dos estoques carregados entre os combates. A estrutura paga por isso com menor velocidade, menos capacidade de esquiva e menor carga útil, e todo disparo traseiro marca sua posição para todos os observadores no campo de batalha.</DMS_BF_RecoillessRifle.description>
+  <DMS_BF_RecoillessRifle.label>Suporte de rifle sem recuo</DMS_BF_RecoillessRifle.label>
+  <DMS_BattleRifle.tools.muzzle.label>cano</DMS_BattleRifle.tools.muzzle.label>
+  <DMS_BattleRifle.verbs.Verb_ShootCE.label>Rifle de batalha mecânico</DMS_BattleRifle.verbs.Verb_ShootCE.label>
+  <DMS_Benches.description>Uma fileira de três assentos almofadados em uma estrutura de aço, do tipo encontrado em corredores e áreas de espera de instalações. São um pouco confortáveis para sentar.</DMS_Benches.description>
+  <DMS_Benches.label>banco de espera</DMS_Benches.label>
+  <DMS_BenchesDestroyed.description>Uma fileira de assentos em uma estrutura de aço enferrujada. O estofamento apodreceu e a estrutura está empenada, então ninguém sentará aqui novamente. Ao desmontá-lo, obtém-se um pouco de sucata metálica.</DMS_BenchesDestroyed.description>
+  <DMS_BenchesDestroyed.label>banco de espera arruinado</DMS_BenchesDestroyed.label>
+  <DMS_BossKillRelay.description>Um relé de segurança vinculado aos sinais vitais da unidade guardiã da instalação. Todas as portas conectadas a ele permanecem trancadas até que esse sinal cesse.</DMS_BossKillRelay.description>
+  <DMS_BossKillRelay.label>relé de trava do guardião</DMS_BossKillRelay.label>
+  <DMS_Building_AlertCaller_BattleGroup.description>Um terminal blindado de enlace vinculado à rede de alerta da instalação. Quando os sensores são acionados, ele transmite a posição dos intrusos à força de reação rápida mais próxima, que chega por cápsulas de lançamento pouco depois para varrer a área. O transmissor queima após um único uso. Corte a energia ou acerte-o com um EMP para desativá-lo antes de desmontá-lo.</DMS_Building_AlertCaller_BattleGroup.description>
+  <DMS_Building_AlertCaller_BattleGroup.label>enlace de reforços</DMS_Building_AlertCaller_BattleGroup.label>
+  <DMS_Building_AlertCaller_Mortar.description>Uma cúpula de mira vinculada à rede de alerta da instalação. Quando os sensores são acionados, ela fixa a posição dos intrusos e transmite ordens de fogo a uma bateria de morteiros fora do mapa, que dispara projéteis altamente explosivos sobre qualquer alvo hostil nas proximidades. Não possui munição própria e continua chamando enquanto tiver energia e um alvo. Corte a energia ou acerte-o com um EMP para desativá-lo antes de desmontá-lo.</DMS_Building_AlertCaller_Mortar.description>
+  <DMS_Building_AlertCaller_Mortar.label>enlace de apoio de fogo</DMS_Building_AlertCaller_Mortar.label>
+  <DMS_Building_BarbedWire.description>Um emaranhado de arame farpado esticado entre estacas baixas. Ninguém consegue atravessá-lo a pé, mas não impede projéteis. Desmontá-lo demora um pouco e rende uma pequena quantidade de sucata metálica.</DMS_Building_BarbedWire.description>
+  <DMS_Building_BarbedWire.label>arame farpado</DMS_Building_BarbedWire.label>
+  <DMS_Building_BlastScanner.comps.CompRefuelable.fuelGizmoLabel>Carga</DMS_Building_BlastScanner.comps.CompRefuelable.fuelGizmoLabel>
+  <DMS_Building_BlastScanner.comps.CompRefuelable.fuelLabel>carga</DMS_Building_BlastScanner.comps.CompRefuelable.fuelLabel>
+  <DMS_Building_BlastScanner.comps.CompRefuelable.outOfFuelMessage>Sem carga</DMS_Building_BlastScanner.comps.CompRefuelable.outOfFuelMessage>
+  <DMS_Building_BlastScanner.description>Um dispositivo de prospecção geológica de precisão. Uma granada carregada em sua câmara de carga gera uma onda sísmica profunda no solo, e o dispositivo lê os ecos retornantes para mapear depósitos minerais muito abaixo da superfície. Uma única carga consegue mapear vários depósitos profundos ao mesmo tempo.\n\nEsse tipo de prospecção nunca é silencioso. A onda sísmica inevitavelmente acorda colônias de insetos dormentes no subsolo, e elas tendem a cavar seu caminho até a superfície próximo ao local perturbado.\n\nCarregue um projétil altamente explosivo e acenda o pavio. O dispositivo precisa de tempo para recalibrar entre cargas.</DMS_Building_BlastScanner.description>
+  <DMS_Building_BlastScanner.label>escâner sísmico</DMS_Building_BlastScanner.label>
+  <DMS_Building_Camera.description>Uma câmera de vigilância que monitora um corredor longo e estreito em busca de intrusos. Conectada ao contador de alerta local. Não consegue ver através de fumaça nem detectar intrusos camuflados. Corte a energia ou acerte-a com um EMP para desativá-la com segurança antes de desmontá-la.</DMS_Building_Camera.description>
+  <DMS_Building_Camera.label>câmera</DMS_Building_Camera.label>
+  <DMS_Building_DoorLarge.description>Uma porta pesada reforçada, construída para instalações militares. Desliza ao longo do trilho para permitir a passagem de pessoal autorizado e se fecha para bloquear intrusos não autorizados.</DMS_Building_DoorLarge.description>
+  <DMS_Building_DoorLarge.label>porta blindada pesada</DMS_Building_DoorLarge.label>
+  <DMS_Building_DoorLarge_Damaged.description>Os destroços de uma porta blindada militar pesada, emperrada e queimada. Não consegue mais abrir ou fechar; não passa de um vestígio estrutural nos escombros.</DMS_Building_DoorLarge_Damaged.description>
+  <DMS_Building_DoorLarge_Damaged.label>porta blindada arruinada</DMS_Building_DoorLarge_Damaged.label>
+  <DMS_Building_DoorLarge_Damaged_Mirrored.description>Os destroços de uma porta blindada militar pesada, emperrada e queimada. Não consegue mais abrir ou fechar; não passa de um vestígio estrutural nos escombros.</DMS_Building_DoorLarge_Damaged_Mirrored.description>
+  <DMS_Building_DoorLarge_Damaged_Mirrored.label>porta blindada danificada</DMS_Building_DoorLarge_Damaged_Mirrored.label>
+  <DMS_Building_DoorLarge_Mirrored.description>Uma porta pesada reforçada, construída para instalações militares. Desliza ao longo do trilho para permitir a passagem de pessoal autorizado e se fecha para bloquear intrusos não autorizados.</DMS_Building_DoorLarge_Mirrored.description>
+  <DMS_Building_DoorLarge_Mirrored.label>porta blindada pesada</DMS_Building_DoorLarge_Mirrored.label>
+  <DMS_Building_Eletric_Medium.description>Uma máquina de propósito desconhecido. Seus componentes internos estão intactos e ainda em funcionamento; ao desmontá-la, obtém-se alguns recursos.</DMS_Building_Eletric_Medium.description>
+  <DMS_Building_Eletric_Medium.label>máquina da instalação</DMS_Building_Eletric_Medium.label>
+  <DMS_Building_Eletric_MediumDestoryed.description>Uma máquina de propósito desconhecido. Seus componentes internos enferrujaram e falharam há muito tempo; ao desmontá-la, obtém-se um pouco de sucata metálica.</DMS_Building_Eletric_MediumDestoryed.description>
+  <DMS_Building_Eletric_MediumDestoryed.label>máquina da instalação</DMS_Building_Eletric_MediumDestoryed.label>
+  <DMS_Building_FPVHanger.description>Um hangar automatizado de drones usado na defesa da instalação. Quando alertado pelos outros sensores da instalação, ele lança drones FPV automaticamente para expulsar ou eliminar intrusos, e também os libera para revidar caso seja atacado. Está conectado ao sistema logístico subterrâneo da instalação, portanto seu estoque de drones gastos é reposto automaticamente com o tempo.</DMS_Building_FPVHanger.description>
+  <DMS_Building_FPVHanger.label>hangar de FPV</DMS_Building_FPVHanger.label>
+  <DMS_Building_FPVHangerDestoryed.description>Um hangar de lançamento de drones completamente destruído, que não pode mais lançar drones. Os destroços restantes servem como boa cobertura. Desmontá-lo por completo demora um pouco, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_FPVHangerDestoryed.description>
+  <DMS_Building_FPVHangerDestoryed.label>hangar de FPV destruído</DMS_Building_FPVHangerDestoryed.label>
+  <DMS_Building_FPVNest.description>Um ninho automatizado de drones usado na defesa da instalação. Quando alertado pelos outros sensores da instalação, ele lança drones FPV automaticamente para expulsar ou eliminar intrusos, e também os libera para revidar caso seja atacado. Está conectado ao sistema logístico subterrâneo da instalação, portanto seu estoque de drones gastos é reposto automaticamente com o tempo.</DMS_Building_FPVNest.description>
+  <DMS_Building_FPVNest.label>ninho de FPV</DMS_Building_FPVNest.label>
+  <DMS_Building_FPVNestDestoryed.description>Um ninho de lançamento de drones completamente destruído, que não pode mais lançar drones. Os destroços restantes servem como boa cobertura. Desmontá-lo por completo demora um pouco, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_FPVNestDestoryed.description>
+  <DMS_Building_FPVNestDestoryed.label>ninho de FPV destruído</DMS_Building_FPVNestDestoryed.label>
+  <DMS_Building_GasVent.description>Uma grelha no chão conectada à rede de alerta da instalação. Quando o alarme toca, ela sibila por um momento e, em seguida, inunda a área com gás tóxico. A guarnição mecânica da instalação não respira; qualquer outro precisará de uma máscara de gás. Ela possui gás suficiente para alguns usos e recarrega lentamente a partir de um tanque subterrâneo. Corte a energia ou acerte-a com um EMP para desligá-la, mesmo durante uma liberação.</DMS_Building_GasVent.description>
+  <DMS_Building_GasVent.label>ventilação de gás</DMS_Building_GasVent.label>
+  <DMS_Building_GatekeeperDestoryed.description>Os destroços queimados de uma torreta de defesa aproximada Gatekeeper. Seu canhão rotativo foi despedaçado e seus sistemas de controle de tiro foram devastados, restando apenas um casco que ainda serve como excelente cobertura. Desmontá-lo por completo demora um pouco, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_GatekeeperDestoryed.description>
+  <DMS_Building_GatekeeperDestoryed.label>Gatekeeper destruída</DMS_Building_GatekeeperDestoryed.label>
+  <DMS_Building_LauncherCase.description>Um estojo de emergência montado na parede com um rifle sem recuo leve, pronto para ser pego quando a instalação entrar em combate. Qualquer um pode retirar o rifle e usá-lo; o estojo fica vazio até que alguém carregue um novo nele.</DMS_Building_LauncherCase.description>
+  <DMS_Building_LauncherCase.label>estojo de lançador</DMS_Building_LauncherCase.label>
+  <DMS_Building_LockdownController.description>Uma unidade de controle de emergência que coordena as comportas à prova de explosão nas entradas de uma instalação subterrânea. Assim que conclui um bloqueio, os elevadores de entrada e saída param de funcionar. A unidade foi projetada para falhar com segurança: se for destruída, a instalação se selará completamente, e as portas só poderão ser abertas com ajuda externa.\n\nEla é ativada quando o nível de alerta da instalação atinge seu máximo e sela as saídas um minuto depois. Hackeá-la suspende o bloqueio e também pode ser feita antecipadamente. Funciona com as células radioisotópicas da instalação, portanto cortar a energia não surte efeito; um EMP apenas pausa a contagem regressiva.</DMS_Building_LockdownController.description>
+  <DMS_Building_LockdownController.label>controlador de bloqueio</DMS_Building_LockdownController.label>
+  <DMS_Building_MK44NavyDestoryed.description>Os restos queimados de um autocanhão MK44 BushMaster II. Seu cano e plataforma rotativa foram destruídos, restando apenas um casco que ainda oferece excelente cobertura. Desmontá-lo por completo leva algum tempo, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_MK44NavyDestoryed.description>
+  <DMS_Building_MK44NavyDestoryed.label>MK44 BushMaster-II destruído</DMS_Building_MK44NavyDestoryed.label>
+  <DMS_Building_Machine_Medium.description>Uma máquina de propósito desconhecido. Seus componentes internos estão intactos e ainda em funcionamento; desmontá-la rende alguns recursos.</DMS_Building_Machine_Medium.description>
+  <DMS_Building_Machine_Medium.label>máquina da instalação</DMS_Building_Machine_Medium.label>
+  <DMS_Building_Machine_MediumDestoryed.description>Uma máquina de propósito desconhecido. Seus componentes internos enferrujaram e falharam há muito tempo; desmontá-la rende uma pequena quantidade de sucata metálica.</DMS_Building_Machine_MediumDestoryed.description>
+  <DMS_Building_Machine_MediumDestoryed.label>máquina da instalação</DMS_Building_Machine_MediumDestoryed.label>
+  <DMS_Building_MissileLauncherDestoryed.description>Os destroços de uma plataforma de lançamento de mísseis. Suas células de lançamento estão carbonizadas e vazias, e qualquer munição restante foi removida ou destruída há muito tempo. A estrutura remanescente oferece cobertura razoável. Desmontá-la por completo leva algum tempo, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_MissileLauncherDestoryed.description>
+  <DMS_Building_MissileLauncherDestoryed.label>lançador destruído</DMS_Building_MissileLauncherDestoryed.label>
+  <DMS_Building_OkhotnikDestoryed.description>Os restos queimados de uma torreta Okhotnik. Seu cano e plataforma rotativa foram destruídos, restando um casco que ainda oferece excelente cobertura. Desmontá-la por completo leva algum tempo, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_OkhotnikDestoryed.description>
+  <DMS_Building_OkhotnikDestoryed.label>Okhotnik destruído</DMS_Building_OkhotnikDestoryed.label>
+  <DMS_Building_RadarDestoryed.description>Os destroços de uma estação de radar de defesa aérea. Sua matriz de antenas foi destruída e o emissor está inoperante há muito tempo, deixando o espaço aéreo ao redor sem vigilância. A base remanescente oferece cobertura razoável. Desmontá-la por completo leva algum tempo, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_RadarDestoryed.description>
+  <DMS_Building_RadarDestoryed.label>radar destruído</DMS_Building_RadarDestoryed.label>
+  <DMS_Building_Scanner_Large.description>Uma plataforma de sentinela autônoma de longa duração, equipada com diversos tipos de sensores para monitorar uma grande área em busca de atividades suspeitas. Ao ser alertada, transmite um sinal de alarme que ativa as defesas automatizadas ao redor para entrar em combate.</DMS_Building_Scanner_Large.description>
+  <DMS_Building_Scanner_Large.label>torre de sentinela grande</DMS_Building_Scanner_Large.label>
+  <DMS_Building_Scanner_LargeDestoryed.description>Uma grande plataforma de sentinela não tripulada que parou de funcionar há muito tempo. Sua matriz de sensores foi completamente destruída, não sendo mais capaz de detectar intrusos ou transmitir alertas. A estrutura remanescente da torre oferece cobertura razoável. Desmontá-la por completo leva algum tempo, mas rende uma pequena quantidade de sucata metálica.</DMS_Building_Scanner_LargeDestoryed.description>
+  <DMS_Building_Scanner_LargeDestoryed.label>torre de sentinela grande desativada</DMS_Building_Scanner_LargeDestoryed.label>
+  <DMS_Building_Scanner_Small.description>Uma plataforma de sentinela não tripulada, projetada para operar sem supervisão por longos períodos, equipada com diversos tipos de sensores para monitorar uma grande área em busca de atividades suspeitas. Ao detectar um intruso em seu alcance, transmite um alerta que ativa as defesas automatizadas para entrar em combate.</DMS_Building_Scanner_Small.description>
+  <DMS_Building_Scanner_Small.label>torre de sentinela pequena</DMS_Building_Scanner_Small.label>
+  <DMS_Building_Scanner_SmallDestoryed.description>Uma pequena plataforma de sentinela não tripulada que parou de funcionar há muito tempo. Seus sensores foram completamente destruídos, não sendo mais capaz de detectar intrusos ou transmitir alertas. Os destroços remanescentes oferecem cobertura razoável e uma pequena quantidade de sucata metálica pode ser recuperada.</DMS_Building_Scanner_SmallDestoryed.description>
+  <DMS_Building_Scanner_SmallDestoryed.label>torre de sentinela pequena desativada</DMS_Building_Scanner_SmallDestoryed.label>
+  <DMS_Building_Sensor.description>Um sensor passivo instalado ao longo de tubulações e passagens secundárias. Quanto maior o objeto que entra em seu alcance, maior a chance de acionar o alarme. Ele sente vibrações dos passos, não por visão, portanto fumaça e camuflagem não o enganam, mas qualquer coisa voando acima passa despercebida.</DMS_Building_Sensor.description>
+  <DMS_Building_Sensor.label>sensor sísmico</DMS_Building_Sensor.label>
+  <DMS_Building_SubsonicEmitter.description>Um conjunto de emissores de infrassom sintonizados montado em torre. Enquanto energizado, libera periodicamente rajadas de infrassom que atravessam paredes e alcançam todas as criaturas vivas hostis dentro do alcance, causando náusea, dor e levando muitas ao pânico. Só dispara quando há inimigos no alcance. Mecanoides não são afetados.</DMS_Building_SubsonicEmitter.description>
+  <DMS_Building_SubsonicEmitter.label>emissor infrassônico</DMS_Building_SubsonicEmitter.label>
+  <DMS_Building_SubsonicEmitter_Security.description>Um conjunto de infrassom montado em torre, conectado à rede de alerta da instalação. Fica silencioso até que o alarme soe, então, por cerca de uma hora, libera rajada após rajada de infrassom através das paredes contra todos os intrusos dentro do alcance, causando náusea, dor e levando muitos ao pânico. A guarnição mecânica da instalação não é afetada. Corte sua energia ou atinja-o com um EMP para silenciá-lo.</DMS_Building_SubsonicEmitter_Security.description>
+  <DMS_Building_SubsonicEmitter_Security.label>emissor infrassônico de segurança</DMS_Building_SubsonicEmitter_Security.label>
+  <DMS_Building_VentLarge.description>Uma ventilação ativa usada para ventilação da instalação e filtração de gases NBC. Mantendo a instalação sob pressão positiva, impede que gases nocivos se espalhem pelo sistema de circulação de ar.</DMS_Building_VentLarge.description>
+  <DMS_Building_VentLarge.label>ventilação ativa</DMS_Building_VentLarge.label>
+  <DMS_Building_VentMedium.description>Uma ventilação ativa usada para ventilação da instalação e filtração de gases NBC. Mantendo a instalação sob pressão positiva, impede que gases nocivos se espalhem pelo sistema de circulação de ar.</DMS_Building_VentMedium.description>
+  <DMS_Building_VentMedium.label>ventilação ativa</DMS_Building_VentMedium.label>
+  <DMS_Building_VentSmall.description>Uma ventilação ativa usada para ventilação da instalação e filtração de gases NBC. Mantendo a instalação sob pressão positiva, impede que gases nocivos se espalhem pelo sistema de circulação de ar.</DMS_Building_VentSmall.description>
+  <DMS_Building_VentSmall.label>ventilação ativa</DMS_Building_VentSmall.label>
+  <DMS_BullHound_ShotgunMounted.description>Uma espingarda automática de cano curto fixada na montagem traseira de um Bullhound, projetada para eliminar intrusos em corredores e portas.\n\nEsta arma foi projetada especificamente para uso montado, portanto apenas unidades específicas podem equipá-la.</DMS_BullHound_ShotgunMounted.description>
+  <DMS_BullHound_ShotgunMounted.label>espingarda automática do Bullhound</DMS_BullHound_ShotgunMounted.label>
+  <DMS_Bullet_338Magnum.description>Um cartucho de rifle .338 Magnum. Carrega muito mais energia a longa distância do que um cartucho de fuzil de batalha de potência total, mantendo-se leve o suficiente para ser disparado por uma ação semiautomática sem amortecedor de recuo de nível mecanoide.</DMS_Bullet_338Magnum.description>
+  <DMS_Bullet_338Magnum.label>projétil .338 Magnum</DMS_Bullet_338Magnum.label>
+  <DMS_Bullet_AGL_EMP.description>Um cartucho de granada com um capacitor de descarga no lugar de carga explosiva. Ao impactar, descarrega sua carga em tudo ao redor, paralisando sistemas de mecanoides e torretas sem deixar marcas na carne.</DMS_Bullet_AGL_EMP.description>
+  <DMS_Bullet_AGL_EMP.label>cartucho de granada EMP</DMS_Bullet_AGL_EMP.label>
+  <DMS_Bullet_AGL_Smoke.description>Um cartucho de cortina de fumaça que explode em uma nuvem de obscurante no local de impacto. Não causa dano algum; alguns disparos em rápida sucessão cegam uma linha de fogo por tempo suficiente para um assalto ou uma retirada.</DMS_Bullet_AGL_Smoke.description>
+  <DMS_Bullet_AGL_Smoke.label>cartucho de granada de fumaça</DMS_Bullet_AGL_Smoke.label>
+  <DMS_Bullet_AssaultShotgun_Dragon.description>Um cartucho repleto de grânulos de zircônio que se incendeiam assim que saem do cano. A nuvem incendiária se dissipa em poucos passos, exatamente a distância que importa.</DMS_Bullet_AssaultShotgun_Dragon.description>
+  <DMS_Bullet_AssaultShotgun_Dragon.label>cartucho de bafo de dragão calibre 12</DMS_Bullet_AssaultShotgun_Dragon.label>
+  <DMS_Bullet_AssaultShotgun_Flechette.description>Um cartucho sabot contendo um feixe de dardos com núcleo de tungstênio. Cada dardo tem massa quase nula e pouco efeito em tecidos moles, mas seus núcleos resistem a blindagens que deteriam um projétil de chumbo comum.</DMS_Bullet_AssaultShotgun_Flechette.description>
+  <DMS_Bullet_AssaultShotgun_Flechette.label>flechettes de tungstênio calibre 12</DMS_Bullet_AssaultShotgun_Flechette.label>
+  <DMS_Bullet_AssaultShotgun_Slug.description>Um único projétil estriado de chumbo, ao invés de uma nuvem de pelotas. Alcança muito mais longe e perfura blindagens leves, mas apenas um projétil sai do cano por disparo.</DMS_Bullet_AssaultShotgun_Slug.description>
+  <DMS_Bullet_AssaultShotgun_Slug.label>bala única calibre 12</DMS_Bullet_AssaultShotgun_Slug.label>
+  <DMS_Bullet_Autocannon_TungstenCore.description>Um projétil sabot subcalibre com penetrador de tungstênio. O núcleo denso derrota blindagens que projéteis explosivos comuns mal arranham, mas a maior carga propulsora reduz a cadência de tiro e o projétil mais rápido e achatado tem alcance efetivo menor.</DMS_Bullet_Autocannon_TungstenCore.description>
+  <DMS_Bullet_Autocannon_TungstenCore.label>projétil de núcleo de tungstênio 20mm</DMS_Bullet_Autocannon_TungstenCore.label>
+  <DMS_Bullet_GravekeeperStugna.label>míssil Stugna</DMS_Bullet_GravekeeperStugna.label>
+  <DMS_Bullet_GravekeeperStugna_CE.label>Míssil Stugna</DMS_Bullet_GravekeeperStugna_CE.label>
+  <DMS_Bullet_HMG_HollowPoint.description>Um projétil expansivo de 12,7mm carregado com uma carga mais leve. A ponta macia dissipa sua energia nos tecidos moles ao invés de atravessá-los, e a pressão reduzida permite que a ação do arma ciclie muito mais rápido, em troca de alcance e penetração. Quase inútil contra blindagens.</DMS_Bullet_HMG_HollowPoint.description>
+  <DMS_Bullet_HMG_HollowPoint.label>12,7mm de ponta oca</DMS_Bullet_HMG_HollowPoint.label>
+  <DMS_Bullet_LRR_Demolition.description>Uma ogiva de ponta romba repleta de um explosivo de queima lenta e potente. Foi projetada para destruir paredes, portas e estruturas de suporte ao invés de causar baixas, e causa muito mais danos a construções do que uma carga equivalente disparada como projétil de fragmentação.</DMS_Bullet_LRR_Demolition.description>
+  <DMS_Bullet_LRR_Demolition.label>Ogiva demolidora de 65mm</DMS_Bullet_LRR_Demolition.label>
+  <DMS_Bullet_LRR_Firefoam.description>Um projétil de combate a incêndios carregando uma carga pressurizada de espuma retardante de chamas. Ao impactar, estoura e espalha espuma pela área ao redor, abafando as chamas e deixando uma camada que impede que voltem a se acender. Não causa danos; foi feito para apagar incêndios em construções pelo lado de fora, sem enviar ninguém para dentro delas.</DMS_Bullet_LRR_Firefoam.description>
+  <DMS_Bullet_LRR_Firefoam.label>Projétil de espuma contra incêndio de 65mm</DMS_Bullet_LRR_Firefoam.label>
+  <DMS_Bullet_LRR_HE.description>Uma ogiva de fragmentação com casca fina, carregada com uma carga explosiva leve. Seu amplo padrão de fragmentos elimina infantaria a céu aberto e limpa trincheiras, mas a casca macia se achata contra blindagens ao invés de atravessá-las.</DMS_Bullet_LRR_HE.description>
+  <DMS_Bullet_LRR_HE.label>Foguete de alto explosivo e fragmentação de 65mm</DMS_Bullet_LRR_HE.label>
+  <DMS_Bullet_LRR_HEAT.description>Uma carga moldada revestida de cobre que colapsa em um jato hiperveloz ao impactar. Esse jato derrota blindagens que nenhuma outra ogiva deste porte consegue penetrar, mas toda sua energia é concentrada em um único canal estreito, então qualquer um ao lado do ponto de impacto sairá ileso.</DMS_Bullet_LRR_HEAT.description>
+  <DMS_Bullet_LRR_HEAT.label>Foguete de carga moldada de 65mm</DMS_Bullet_LRR_HEAT.label>
+  <DMS_Bullet_LRR_Smoke.description>Um projétil de cortina de fumaça com espoleta de proximidade que detona antes de atingir o solo, espalhando o obscurante por uma área maior do que um projétil de impacto. Não causa danos; sua função é romper a linha de visão para que um esquadrão possa atravessar terreno aberto ou retirar seus feridos.</DMS_Bullet_LRR_Smoke.description>
+  <DMS_Bullet_LRR_Smoke.label>Projétil fumígeno de arrebentamento aéreo de 65mm</DMS_Bullet_LRR_Smoke.label>
+  <DMS_Bullet_RR.description>Um recipiente de carga moldada que se rompe no ar, lançando estilhaços metálicos afiados. Dispara um cone frontal de estilhaços ao longo da linha de tiro, atingindo também alvos atrás de cobertura.</DMS_Bullet_RR.description>
+  <DMS_Bullet_RR_Demolition.description>Um projétil demolidor pesado com carga de queima lenta e espoleta retardada, permitindo que se fixe ao alvo antes de explodir. Destinado a paredes, bunkers e estruturas de suporte; contra pessoal é apenas razoável, e seu peso reduz o alcance.</DMS_Bullet_RR_Demolition.description>
+  <DMS_Bullet_RR_Demolition.label>Projétil demolidor de 73mm</DMS_Bullet_RR_Demolition.label>
+  <DMS_Bullet_RR_HE.description>Um projétil de alto explosivo com casca fina, ajustado para efeito de área ao invés de penetração. Limpa grandes círculos de infantaria e posições de tiro leves, mas a onda de choque se dissipa contra alvos devidamente blindados.</DMS_Bullet_RR_HE.description>
+  <DMS_Bullet_RR_HE.label>Projétil de alto explosivo e fragmentação de 73mm</DMS_Bullet_RR_HE.label>
+  <DMS_Bullet_RR_Smoke.description>Um grande projétil de cortina de fumaça com espoleta de proximidade que se abre acima da altura da cabeça, criando uma cortina de fumaça muito mais ampla que qualquer granada de mão. Não causa danos; serve para cegar a linha de tiro por tempo suficiente para um assalto ou uma retirada.</DMS_Bullet_RR_Smoke.description>
+  <DMS_Bullet_RR_Smoke.label>Projétil fumígeno de arrebentamento aéreo de 73mm</DMS_Bullet_RR_Smoke.label>
+  <DMS_Bullet_RiotRevolver.description>Uma bala de borracha calibre 20. Ao invés de se espalhar, chega como um único impacto pesado, derrubando o alvo e raramente causando ferimentos graves. Blindagens a repelem completamente.</DMS_Bullet_RiotRevolver.description>
+  <DMS_Bullet_RiotRevolver_Buck.description>Uma carga letal de chumbinho calibre 20. O revólver nunca foi feito para ser uma arma de combate, mas o tambor não recebeu esse aviso.</DMS_Bullet_RiotRevolver_Buck.description>
+  <DMS_Bullet_RiotRevolver_Buck.label>Chumbo grosso calibre 20</DMS_Bullet_RiotRevolver_Buck.label>
+  <DMS_Bullet_RiotRevolver_Slug.description>Uma única bala de chumbo carregada com uma carga mais pesada do que o tambor foi projetado para suportar. Tem alcance muito maior que o chumbinho e pode rachar carcaças leves de mecanoide, ao custo de um punho que lamentará cada disparo.</DMS_Bullet_RiotRevolver_Slug.description>
+  <DMS_Bullet_RiotRevolver_Slug.label>Bala única calibre 20</DMS_Bullet_RiotRevolver_Slug.label>
+  <DMS_Bullet_RiotShotgun.description>Uma bala de borracha calibre 4. Causa um impacto esmagador e não penetrante, destinado a derrubar o alvo sem matá-lo. Ineficaz contra blindagens.</DMS_Bullet_RiotShotgun.description>
+  <DMS_Bullet_RiotShotgun_Breach.description>Uma bala maciça de aço para arrombamento, carregada pesadamente e feita para ser disparada em dobradiças ou fechaduras à queima-roupa. Transmite toda sua energia à estrutura atingida, concentrando-a em um único ponto.</DMS_Bullet_RiotShotgun_Breach.description>
+  <DMS_Bullet_RiotShotgun_Breach.label>Projétil de arrombamento calibre 4</DMS_Bullet_RiotShotgun_Breach.label>
+  <DMS_Bullet_RiotShotgun_Buck.description>Uma carga letal de chumbinho calibre 4. Quando o controle de multidões deixa de ser o objetivo, esse mesmo lançador dilacerará carne ao invés de apenas machucar.</DMS_Bullet_RiotShotgun_Buck.description>
+  <DMS_Bullet_RiotShotgun_Buck.label>Chumbo grosso calibre 4</DMS_Bullet_RiotShotgun_Buck.label>
+  <DMS_Bullet_RiotShotgun_EMP.description>Um cartucho calibre 4 contendo um capacitor de descarga no lugar de chumbinho. Descarrega sua carga no alvo, travando sistemas de mecanoides sem deixar marcas na carne.</DMS_Bullet_RiotShotgun_EMP.description>
+  <DMS_Bullet_RiotShotgun_EMP.label>Projétil PEM calibre 4</DMS_Bullet_RiotShotgun_EMP.label>
+  <DMS_Bullet_SniperCannon.description>Um projétil completo de autocanhão disparado por um cano raiado a uma velocidade muito superior à que qualquer montagem de torreta consegue alcançar. Seu penetrador denso carrega energia suficiente para atravessar a blindagem de um exoestrider a longas distâncias e acertar o que estiver atrás dele.</DMS_Bullet_SniperCannon.description>
+  <DMS_Bullet_SniperCannon.label>Projétil de canhão-perfurante</DMS_Bullet_SniperCannon.label>
+  <DMS_CombatRegenSerum.description>Um agente neurodirecionado altamente concentrado, carregado com células-tronco. Permite que o corpo regenere partes perdidas ao seu estado original em dois a três dias, mas o processo consome enormes quantidades de energia, exigindo que o paciente coma muito mais do que o normal. A dor da regeneração e o risco de rejeição são pesados para a saúde mental do sujeito, razão pela qual agentes deste tipo raramente são vistos na Fronteira.\n\nNão viciante. Cada dose tem chance de desencadear síndrome xenolimbárica nível 3.</DMS_CombatRegenSerum.description>
+  <DMS_CombatRegenSerum.ingestible.ingestCommandString>Injetar {0}</DMS_CombatRegenSerum.ingestible.ingestCommandString>
+  <DMS_CombatRegenSerum.ingestible.ingestReportString>Injetando {0}.</DMS_CombatRegenSerum.ingestible.ingestReportString>
+  <DMS_CombatRegenSerum.label>Soro de regeneração de combate</DMS_CombatRegenSerum.label>
+  <DMS_CommandComplexElevator.description>O elevador de superfície de um complexo de comando subterrâneo. A frota da colônia operava suas ações regionais a partir daqui: todo um distrito de quartéis, arsenais, arquivos e salas de comando selado sob a rocha, com apenas este elevador na superfície. O elevador ainda tem energia, mas seus controles estão trancados pela criptografia mais forte da frota. Hackeie-o para trazê-lo à superfície.</DMS_CommandComplexElevator.description>
+  <DMS_CommandComplexElevator.label>Elevador de carga do complexo de comando</DMS_CommandComplexElevator.label>
+  <DMS_CommandCoprocessor.comps.CompUsable.useLabel>Instalar {0_label}</DMS_CommandCoprocessor.comps.CompUsable.useLabel>
+  <DMS_CommandCoprocessor.description>Uma placa de processamento auxiliar instalada ao lado do processador principal de um autômato de comando. Assume o multiplexamento de sinais e o controle de unidades que, de outra forma, ocupariam o processador principal, permitindo que o autômato mantenha mais unidades em sua cadeia de comando simultaneamente.\n\nO silício extra consome energia continuamente, aumentando levemente o consumo energético do autômato.\n\nApenas autômatos do tipo comando possuem um barramento de processador capaz de aceitá-lo.</DMS_CommandCoprocessor.description>
+  <DMS_CommandCoprocessor.label>Coprocessador de Comando</DMS_CommandCoprocessor.label>
+  <DMS_ConsoleDouble_Destroyed.description>Uma interface de computador multiuso arruinada. Seus circuitos e displays estão corroídos irremediavelmente.</DMS_ConsoleDouble_Destroyed.description>
+  <DMS_ConsoleDouble_Destroyed.label>Console arruinado</DMS_ConsoleDouble_Destroyed.label>
+  <DMS_ConsoleDouble_Nara.description>Uma interface de computador multiuso.</DMS_ConsoleDouble_Nara.description>
+  <DMS_ConsoleDouble_Nara.label>Console</DMS_ConsoleDouble_Nara.label>
+  <DMS_ConsoleDouble_Neutral.description>Uma interface de computador multiuso.</DMS_ConsoleDouble_Neutral.description>
+  <DMS_ConsoleDouble_Neutral.label>Console</DMS_ConsoleDouble_Neutral.label>
+  <DMS_ConsoleSingle_Destroyed.description>Uma interface de computador multiuso arruinada. Seus circuitos e displays estão corroídos irremediavelmente.</DMS_ConsoleSingle_Destroyed.description>
+  <DMS_ConsoleSingle_Destroyed.label>Console arruinado</DMS_ConsoleSingle_Destroyed.label>
+  <DMS_ConsoleSingle_Nara.description>Uma interface de computador multiuso.</DMS_ConsoleSingle_Nara.description>
+  <DMS_ConsoleSingle_Nara.label>Console</DMS_ConsoleSingle_Nara.label>
+  <DMS_ConsoleSingle_Neutral.description>Uma interface de computador multiuso.</DMS_ConsoleSingle_Neutral.description>
+  <DMS_ConsoleSingle_Neutral.label>Console</DMS_ConsoleSingle_Neutral.label>
+  <DMS_ContainerNaraDestroyed.description>Um recipiente de carga blindado violado. Quaisquer suprimentos que um dia continha foram saqueados ou destruídos há muito tempo, restando apenas sua carcaça rasgada. Ao desmontá-lo, obtém-se sucata metálica.</DMS_ContainerNaraDestroyed.description>
+  <DMS_ContainerNaraDestroyed.label>Recipiente de segurança arruinado</DMS_ContainerNaraDestroyed.label>
+  <DMS_CrateSmall_Material.description>Um pequeno caixote de suprimentos padrão. A tampa não possui faixa colorida, portanto não é possível saber o que há dentro até abri-lo.</DMS_CrateSmall_Material.description>
+  <DMS_CrateSmall_Material.label>Caixote pequeno de materiais</DMS_CrateSmall_Material.label>
+  <DMS_CrateSmall_Parts.description>Uma pequena caixa de suprimentos padrão. A faixa azul indica que contém peças de máquinas. A maioria contém componentes comuns, embora peças avançadas apareçam de vez em quando.</DMS_CrateSmall_Parts.description>
+  <DMS_CrateSmall_Parts.label>pequena caixa de componentes</DMS_CrateSmall_Parts.label>
+  <DMS_CrateSmall_Prosthetic.description>Uma pequena caixa de suprimentos padrão. A faixa verde indica que contém suprimentos médicos. A maioria contém próteses, embora uma parte biônica apareça de vez em quando.</DMS_CrateSmall_Prosthetic.description>
+  <DMS_CrateSmall_Prosthetic.label>pequena caixa de próteses</DMS_CrateSmall_Prosthetic.label>
+  <DMS_CrateSmall_Ration.description>Uma pequena caixa de suprimentos padrão. A faixa amarela indica que contém alimentos. Dentro há refeições de sobrevivência ou rações de combate.</DMS_CrateSmall_Ration.description>
+  <DMS_CrateSmall_Ration.label>pequena caixa de rações</DMS_CrateSmall_Ration.label>
+  <DMS_CrateSmall_SmallArms.description>Uma pequena caixa de suprimentos padrão. A faixa vermelha indica que contém armas. Dentro há uma arma leve, ainda embalada com graxa de fábrica.</DMS_CrateSmall_SmallArms.description>
+  <DMS_CrateSmall_SmallArms.label>caixa pequena de armas leves</DMS_CrateSmall_SmallArms.label>
+  <DMS_CrewLifterIncoming.label>elevador móvel de tripulação (chegando)</DMS_CrewLifterIncoming.label>
+  <DMS_CrewLifterLeaving.label>elevador móvel de tripulação (partindo)</DMS_CrewLifterLeaving.label>
+  <DMS_CrewPodIncoming.label>cápsula de tripulação (chegando)</DMS_CrewPodIncoming.label>
+  <DMS_CrewPodLeaving.label>cápsula de tripulação (partindo)</DMS_CrewPodLeaving.label>
+  <DMS_DataCache_Occulted.comps.CompUsable.useLabel>Descriptografar {0_label}</DMS_DataCache_Occulted.comps.CompUsable.useLabel>
+  <DMS_DataCache_Occulted.description>Um módulo de registros composto não marcado, sem portas e sem emendas. Um colono pode descriptografá-lo para revelar um projeto de pesquisa ocultécnica de classe oculta e progredir nele.</DMS_DataCache_Occulted.description>
+  <DMS_DataCache_Occulted.label>cache de dados ocultos</DMS_DataCache_Occulted.label>
+  <DMS_DataCache_Restricted.comps.CompUsable.useLabel>Descriptografar {0_label}</DMS_DataCache_Restricted.comps.CompUsable.useLabel>
+  <DMS_DataCache_Restricted.description>Um módulo de registros criptografado contendo um arquivo técnico que nunca foi liberado para circulação local, mantido por unidades do exército colonial como referência para assinaturas técnicas. Um colono pode gastar algumas horas descriptografando-o para revelar um projeto de pesquisa ocultécnica de classe restrita e progredir um pouco nele.</DMS_DataCache_Restricted.description>
+  <DMS_DataCache_Restricted.label>cache de dados técnicos restritos</DMS_DataCache_Restricted.label>
+  <DMS_DataCache_Sealed.comps.CompUsable.useLabel>Descriptografar {0_label}</DMS_DataCache_Sealed.comps.CompUsable.useLabel>
+  <DMS_DataCache_Sealed.description>Um módulo de registros com seu lacre intacto. Arquivos desta classificação raramente saem dos arquivos que as frotas vigiam. Um colono pode descriptografá-lo para revelar um projeto de pesquisa ocultécnica de classe lacrada e progredir nele.</DMS_DataCache_Sealed.description>
+  <DMS_DataCache_Sealed.label>cache de dados lacrado</DMS_DataCache_Sealed.label>
+  <DMS_DecoyTransmitter.comps.CompUsable.useLabel>Atrair ameaça tecelão de enxames</DMS_DecoyTransmitter.comps.CompUsable.useLabel>
+  <DMS_DecoyTransmitter.description>Um rádio de alta potência que usa sinais falsos para atrair os sistemas de defesa automatizados ainda ativos no planeta. Uma vez ativado, emite um poderoso pulso de radiação que atrairá um autômato ultrapesado para atacar junto com seus escoltas. Se você conseguir derrotá-lo, poderá coletar tecnologia avançada dos destroços. O pulso queima o transmissor, então esta construção só pode ser usada uma vez.</DMS_DecoyTransmitter.description>
+  <DMS_DecoyTransmitter.label>Rádio isca</DMS_DecoyTransmitter.label>
+  <DMS_DeposableRocketLauncher.verbs.Verb_LaunchProjectile.label>Lançador descartável</DMS_DeposableRocketLauncher.verbs.Verb_LaunchProjectile.label>
+  <DMS_DoorBreaker.verbs.Verb_ShootCE.label>Quebra-portas</DMS_DoorBreaker.verbs.Verb_ShootCE.label>
+  <DMS_Drone_Erima.description>Um drone de trabalho controlado e implantado a partir de uma estação base. Quatro esteiras longas e estreitas permitem que ele suba em troncos para podar galhos e se mova pelos campos sem esmagar as plantações, enquanto dois delicados braços manipuladores cuidam da colheita e do plantio. Comumente visto em instalações agrícolas não tripuladas e parques urbanos cuidando da vegetação.</DMS_Drone_Erima.description>
+  <DMS_Drone_Erima.label>erima</DMS_Drone_Erima.label>
+  <DMS_Drone_Erima.tools.0.label>braço podador</DMS_Drone_Erima.tools.0.label>
+  <DMS_Drone_Erima.tools.pruning_arm.label>braço podador</DMS_Drone_Erima.tools.pruning_arm.label>
+  <DMS_Drone_Uca.description>Um drone de trabalho controlado e implantado a partir de uma estação base. Possui chassi híbrido leve de esteira-robô e um único braço manipulador ágil para tarefas complexas. Comumente visto na manutenção de equipamentos em instalações não tripuladas e na operação de maquinário automatizado em fábricas totalmente automatizadas.</DMS_Drone_Uca.description>
+  <DMS_Drone_Uca.label>uca</DMS_Drone_Uca.label>
+  <DMS_Drone_Uca.tools.0.label>garra manipuladora</DMS_Drone_Uca.tools.0.label>
+  <DMS_Drone_Uca.tools.manipulator_claw.label>garra manipuladora</DMS_Drone_Uca.tools.manipulator_claw.label>
+  <DMS_Drone_Wildfowl.comps.CompMechPowerCell.labelOverride>Energia da bateria</DMS_Drone_Wildfowl.comps.CompMechPowerCell.labelOverride>
+  <DMS_Drone_Wildfowl.comps.CompMechPowerCell.tooltipOverride>Os drones têm vida útil limitada da bateria. Quando a bateria acabar, o drone será destruído.</DMS_Drone_Wildfowl.comps.CompMechPowerCell.tooltipOverride>
+  <DMS_Drone_Wildfowl.description>O UAS 1/B "Hunter Bee", apelidado de "wildfowl", é um drone dobrável de pequeno porte com rotores coaxiais, equipado com uma carga explosiva plástica equivalente a uma granada de mão M67, representando uma ameaça significativa quando se aproxima do alvo em enxames.</DMS_Drone_Wildfowl.description>
+  <DMS_Drone_Wildfowl.label>wildfowl</DMS_Drone_Wildfowl.label>
+  <DMS_Drone_Wildfowl.tools.0.label>flabelo</DMS_Drone_Wildfowl.tools.0.label>
+  <DMS_Drone_Wildfowl.tools.flabellum.label>flabelo</DMS_Drone_Wildfowl.tools.flabellum.label>
+  <DMS_ElephantGun.tools.muzzle-0.label>boca do cano</DMS_ElephantGun.tools.muzzle-0.label>
+  <DMS_ElephantGun.tools.muzzle-1.label>boca do cano</DMS_ElephantGun.tools.muzzle-1.label>
+  <DMS_ElephantGun.tools.stock-0.label>coronha</DMS_ElephantGun.tools.stock-0.label>
+  <DMS_ElephantGun.tools.stock-1.label>coronha</DMS_ElephantGun.tools.stock-1.label>
+  <DMS_ElephantGun.verbs.Verb_ShootCE.label>Rifle Elefante</DMS_ElephantGun.verbs.Verb_ShootCE.label>
+  <DMS_EmergencyLamp.description>Um sistema de iluminação de emergência que comuta automaticamente para sua bateria interna quando a rede elétrica falha, emitindo luz vermelha por longos períodos para manter um nível mínimo de iluminação mesmo durante um apagão.</DMS_EmergencyLamp.description>
+  <DMS_EmergencyLamp.label>iluminação de emergência</DMS_EmergencyLamp.label>
+  <DMS_EngineeringBay.description>Uma estação base de drones para manutenção de instalações e trabalho de produção básico. O poder computacional fornecido pelo chipset de controle de cluster instalado permite que drones simples realizem tarefas complexas. Comumente encontrado em instalações não tripuladas e fábricas totalmente automatizadas.\n\nPode implantar drones uca (manutenção e operação de maquinário) ou erima (agricultura e cuidado com plantas).</DMS_EngineeringBay.description>
+  <DMS_EngineeringBay.label>base de drones de engenharia</DMS_EngineeringBay.label>
+  <DMS_FPVNest.description>Um ninho de drones de guarnição construído a partir de padrões pioneiros lacrados. Carregue-o com aço e ele montará drones suicidas wildfowl com rotores coaxiais que caçam hostis e detonam contra eles, lançando-os em salvas de até quatro.\n\nAo contrário dos ninhos de instalação ainda guardando as instalações deste mundo, ele não possui uma linha logística subterrânea para reabastecimento, então deve ser alimentado manualmente. Drones recuperados devolvem seu aço; drones que esgotarem suas baterias são perdidos.</DMS_FPVNest.description>
+  <DMS_FPVNest.label>colmeia de drones FPV</DMS_FPVNest.label>
+  <DMS_FacilityDataRack.description>Um gabinete de drives de fita e memória principal conectado em paralelo com o núcleo de servidor da instalação, contendo os arquivos que raramente são acessados. Não possui interface de processamento ou acesso própria; tudo nele deve ser lido através do servidor hospedeiro.</DMS_FacilityDataRack.description>
+  <DMS_FacilityDataRack.label>rack de dados da instalação</DMS_FacilityDataRack.label>
+  <DMS_FacilityServerCore.description>Um computador transistorizado de grande porte. Antigo, mas extremamente confiável, máquinas como esta servem como escritórios sem papel e servidores de registros em todas as instalações da frota colonial. Uma célula radioisotópica especial em seu interior o mantém funcionando por anos sem manutenção.\n\nAs camadas inferiores de dados destes núcleos de servidor geralmente contêm backups de projetos técnicos importantes e registros de chaves de acesso. Invadir o sistema inevitavelmente acionará o alarme de toda a instalação, portanto é melhor preparar suas defesas antes de hackeá-lo.</DMS_FacilityServerCore.description>
+  <DMS_FacilityServerCore.label>núcleo de servidor da instalação</DMS_FacilityServerCore.label>
+  <DMS_Flameblaster.tools.grip.label>empunhadura</DMS_Flameblaster.tools.grip.label>
+  <DMS_Flameblaster.tools.muzzle.label>boca do cano</DMS_Flameblaster.tools.muzzle.label>
+  <DMS_Flameblaster.verbs.Verb_ShootCE.label>Lança-chamas</DMS_Flameblaster.verbs.Verb_ShootCE.label>
+  <DMS_FrogmanEmbryo.description>Um embrião direcionado contendo a sequência de desenvolvimento XM132. É inerte por si só. Trazido a termo por uma substituta humana ou cultivado em um tanque de crescimento, produz uma larva biomatróide ao invés de uma criança.\n\nA sequência substitui o desenvolvimento completamente, então a substituta não transmite nenhum de seus próprios genes. O substrato mesonuclear precisa do hospedeiro apenas para calor e suprimento sanguíneo, e a doutrina da frota colonial utilizava tanques de crescimento sempre que disponíveis. A posse de um único embrião já é suficiente para justificar uma interdição.</DMS_FrogmanEmbryo.description>
+  <DMS_FrogmanEmbryo.label>embrião de homem-rã</DMS_FrogmanEmbryo.label>
+  <DMS_GAU19Gatlinggun.tools.barrel-1.label>cano</DMS_GAU19Gatlinggun.tools.barrel-1.label>
+  <DMS_GAU19Gatlinggun.tools.muzzle-0.label>boca do cano</DMS_GAU19Gatlinggun.tools.muzzle-0.label>
+  <DMS_GAU19Gatlinggun.tools.muzzle-1.label>boca do cano</DMS_GAU19Gatlinggun.tools.muzzle-1.label>
+  <DMS_GAU19Gatlinggun.verbs.Verb_ShootCE.label>GAU-19/A "Attacker"</DMS_GAU19Gatlinggun.verbs.Verb_ShootCE.label>
+  <DMS_GAU4Gatlinggun.tools.muzzle.label>boca do cano</DMS_GAU4Gatlinggun.tools.muzzle.label>
+  <DMS_GAU4Gatlinggun.verbs.Verb_ShootCE.label>GAU-4 "Vulcan"</DMS_GAU4Gatlinggun.verbs.Verb_ShootCE.label>
+  <DMS_GAU4Gatlinggun_Hold.tools.barrel-1.label>cano</DMS_GAU4Gatlinggun_Hold.tools.barrel-1.label>
+  <DMS_GAU4Gatlinggun_Hold.tools.muzzle-0.label>boca do cano</DMS_GAU4Gatlinggun_Hold.tools.muzzle-0.label>
+  <DMS_GAU4Gatlinggun_Hold.tools.muzzle-1.label>boca do cano</DMS_GAU4Gatlinggun_Hold.tools.muzzle-1.label>
+  <DMS_GAU4Gatlinggun_Hold.verbs.Verb_ShootCE.label>GAU-4 "Vulcan"</DMS_GAU4Gatlinggun_Hold.verbs.Verb_ShootCE.label>
+  <DMS_GAU8Gatlinggun.tools.barrel-1.label>cano</DMS_GAU8Gatlinggun.tools.barrel-1.label>
+  <DMS_GAU8Gatlinggun.tools.muzzle-0.label>boca do cano</DMS_GAU8Gatlinggun.tools.muzzle-0.label>
+  <DMS_GAU8Gatlinggun.tools.muzzle-1.label>boca do cano</DMS_GAU8Gatlinggun.tools.muzzle-1.label>
+  <DMS_GAU8Gatlinggun.verbs.Verb_ShootCE.label>GAU-8 "Avenger"</DMS_GAU8Gatlinggun.verbs.Verb_ShootCE.label>
+  <DMS_Gecko_FlameTurret.verbs.Verb_ShootCE.label>Lança-chamas</DMS_Gecko_FlameTurret.verbs.Verb_ShootCE.label>
+  <DMS_Gestalt_CommandArray.description>Aumenta a largura de banda quando colocado próximo ao núcleo de comando central. Cada núcleo de comando central só pode usar oito matrizes de comando.</DMS_Gestalt_CommandArray.description>
+  <DMS_Gestalt_CommandArray.label>matriz de comando</DMS_Gestalt_CommandArray.label>
+  <DMS_Gestalt_Transmitter.description>Aumenta o alcance de comando e fornece um grupo de controle adicional quando colocado próximo ao núcleo de comando central. Cada núcleo de comando central só pode usar quatro transmissores de comando.</DMS_Gestalt_Transmitter.description>
+  <DMS_Gestalt_Transmitter.label>transmissor de comando</DMS_Gestalt_Transmitter.label>
+  <DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.description>Um projétil de fragmentação de alto explosivo para eliminar alvos agrupados. O carregador padrão.</DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.label>granada de alto explosivo</DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.description>Um projétil capacitivo que atordoa mecanoides e torretas em um pequeno raio ao invés de destruí-los. Inútil contra carne, e o conjunto de espoleta mais pesado reduz a cadência de rajada.</DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.label>granada EMP</DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.description>Um projétil de cortina de fumaça que cria uma nuvem de fumaça no local onde cai. Mais leve que os projéteis explosivos, por isso voa um pouco mais longe e chega mais rápido ao alvo.</DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.label>granada de fumaça</DMS_Gun_AutomaticGrenadeLauncher.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_Gun_AutomaticGrenadeLauncher.description>Um lançador automático de granadas montado em um tripé baixo.</DMS_Gun_AutomaticGrenadeLauncher.description>
+  <DMS_Gun_AutomaticGrenadeLauncher.label>lançador de granadas de mecanoide</DMS_Gun_AutomaticGrenadeLauncher.label>
+  <DMS_Gun_AutomaticGrenadeLauncher.verbs.Verb_LaunchProjectile_AmmoSwitch.label>lançador de granadas de mecanoide</DMS_Gun_AutomaticGrenadeLauncher.verbs.Verb_LaunchProjectile_AmmoSwitch.label>
+  <DMS_Gun_AutomaticGrenadeLauncher.verbs.Verb_ShootCE.label>lançador de granadas de mecanoide</DMS_Gun_AutomaticGrenadeLauncher.verbs.Verb_ShootCE.label>
+  <DMS_Gun_GateKeeper.verbs.Verb_ArcSprayProjectile.label>Gatekeeper</DMS_Gun_GateKeeper.verbs.Verb_ArcSprayProjectile.label>
+  <DMS_Gun_GateKeeper.verbs.Verb_ArcSprayProjectileCE.label>Gatekeeper</DMS_Gun_GateKeeper.verbs.Verb_ArcSprayProjectileCE.label>
+  <DMS_Gun_HeavyMachineGun.description>Uma metralhadora pesada montada em um tripé.</DMS_Gun_HeavyMachineGun.description>
+  <DMS_Gun_HeavyMachineGun.label>metralhadora pesada de mecanoide</DMS_Gun_HeavyMachineGun.label>
+  <DMS_Gun_HeavyMachineGun.verbs.Verb_LaunchProjectile_AmmoSwitch.label>metralhadora pesada de mecanoide</DMS_Gun_HeavyMachineGun.verbs.Verb_LaunchProjectile_AmmoSwitch.label>
+  <DMS_Gun_HeavyMachineGun.verbs.Verb_ShootCE.label>metralhadora pesada de mecanoide</DMS_Gun_HeavyMachineGun.verbs.Verb_ShootCE.label>
+  <DMS_Gun_Kord_Vehicle.tools.muzzle.label>boca do cano</DMS_Gun_Kord_Vehicle.tools.muzzle.label>
+  <DMS_Gun_Kord_Vehicle.verbs.Verb_ShootCE.label>Kord</DMS_Gun_Kord_Vehicle.verbs.Verb_ShootCE.label>
+  <DMS_Gun_LightMachineGun.description>Uma metralhadora leve montada em um bipé dobrável.</DMS_Gun_LightMachineGun.description>
+  <DMS_Gun_LightMachineGun.label>metralhadora leve de mecanoide</DMS_Gun_LightMachineGun.label>
+  <DMS_Gun_LightMachineGun.verbs.Verb_Shoot.label>metralhadora leve de mecanoide</DMS_Gun_LightMachineGun.verbs.Verb_Shoot.label>
+  <DMS_Gun_LightMachineGun.verbs.Verb_ShootCE.label>metralhadora leve de mecanoide</DMS_Gun_LightMachineGun.verbs.Verb_ShootCE.label>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.0.description>Um recipiente explosivo com um grande raio de dardos pontiagudos, mas penetração comum. Melhor usado contra grupos de alvos não blindados.</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.0.label>recipiente de dardos com detonação aérea</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.1.description>Um penetrador de energia química com altíssima penetração de blindagem, acompanhado por uma manga fragmentadora que lança um cone frontal de estilhaços. Melhor usado contra alvos fortemente blindados.</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.1.label>projétil de carga moldada</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.2.description>Um projétil de alto explosivo especializado contra estruturas, capaz de destruir torretas, paredes e outros alvos de alta durabilidade.</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.2.label>projétil demolidor</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.3.description>Uma ogiva de apoio que se dispersa em uma cortina de fumaça no ponto de impacto.</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.3.description>
+  <DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.3.label>projétil de fumaça com detonação aérea</DMS_Gun_Recoilless.comps.CompAmmoSwitch.ammos.3.label>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.0.description>Um projétil de alto explosivo com grande raio explosivo, mas penetração comum. Melhor usado contra grupos de alvos não blindados.</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.0.label>projétil HE-fragmentação</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.1.description>Um penetrador de energia química com pequeno raio explosivo, mas altíssima penetração de blindagem. Melhor usado contra alvos fortemente blindados.</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.1.label>projétil de carga moldada</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.2.description>Um projétil de alto explosivo especializado contra estruturas, capaz de destruir torretas, paredes e outros alvos de alta durabilidade.</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.2.label>projétil demolidor</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.3.description>Uma ogiva de apoio que se dispersa em uma cortina de fumaça no ponto de impacto.</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.3.description>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.3.label>projétil de fumaça com detonação aérea</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.3.label>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.4.description>Um projétil de combate a incêndio que se dispersa em uma névoa de espuma retardante de chamas, sufocando o fogo em uma ampla área e deixando uma camada de espuma que impede que ele volte a se acender. Não causa dano.</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.4.description>
+  <DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.4.label>espuma anti-incêndio</DMS_Gun_RecoillessLight.comps.CompAmmoSwitch.ammos.4.label>
+  <DMS_Gun_RecoillessLight.comps.CompApparelReloadable.chargeNoun>carga</DMS_Gun_RecoillessLight.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Gun_RecoillessLight.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Gun_RecoillessLight.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Gun_RecoillessLight.description>Um lançador sem recuo descartável de quatro quilos, fornecido até mesmo a nível de esquadrão como uma solução imediata contra blindagem, bunkers e portas. O tubo de fibra enrolada é descartado após o disparo, e seu sistema de mira aceita quatro ogivas intercambiáveis, permitindo que o operador escolha o efeito antes mesmo de colocar o tubo no ombro.\n\nÉ leve o suficiente para ser carregado por um drone batedor, e sua ogiva de carga moldada vence blindagens muito acima de sua própria classe de peso, enquanto os projéteis demolidores e de cortina permitem que um único soldado abra uma parede ou cubra uma retirada. O custo é que tudo é gasto em um único disparo: não há recarga, alcance efetivo curto e a onda de disparo denuncia a posição do operador a todas as armas no campo.</DMS_Gun_RecoillessLight.description>
+  <DMS_Gun_RecoillessLight.label>rifle sem recuo leve</DMS_Gun_RecoillessLight.label>
+  <DMS_Gun_RecoillessLight.tools.0.label>tubo</DMS_Gun_RecoillessLight.tools.0.label>
+  <DMS_Gun_RecoillessLight.tools.tube.label>tubo</DMS_Gun_RecoillessLight.tools.tube.label>
+  <DMS_Gun_Vasilek_B.tools.barrel.label>cano</DMS_Gun_Vasilek_B.tools.barrel.label>
+  <DMS_Gun_Vasilek_B.tools.muzzle.label>boca do cano</DMS_Gun_Vasilek_B.tools.muzzle.label>
+  <DMS_Gun_Vasilek_B.verbs.Verb_ShootMortarCE.label>2B9A Vasilek</DMS_Gun_Vasilek_B.verbs.Verb_ShootMortarCE.label>
+  <DMS_HeavyMachineGun.tools.0.label>coronha</DMS_HeavyMachineGun.tools.0.label>
+  <DMS_HeavyMachineGun.tools.1.label>cano</DMS_HeavyMachineGun.tools.1.label>
+  <DMS_HeavyMachineGunMounted.tools.muzzle.label>boca do cano</DMS_HeavyMachineGunMounted.tools.muzzle.label>
+  <DMS_HeavyMachineGunMounted.verbs.Verb_ShootCE.label>metralhadora pesada montada</DMS_HeavyMachineGunMounted.verbs.Verb_ShootCE.label>
+  <DMS_Hole_3x3Empty.description>Uma seção de piso estrutural com um buraco aberto, comumente encontrada em instalações subterrâneas.</DMS_Hole_3x3Empty.description>
+  <DMS_Hole_3x3Empty.label>abertura da instalação</DMS_Hole_3x3Empty.label>
+  <DMS_Hole_3x5Empty.description>Uma seção de piso estrutural com um buraco aberto, comumente encontrada em instalações subterrâneas.</DMS_Hole_3x5Empty.description>
+  <DMS_Hole_3x5Empty.label>abertura da instalação</DMS_Hole_3x5Empty.label>
+  <DMS_Hole_3x7Empty.description>Uma seção de piso estrutural com um buraco aberto, comumente encontrada em instalações subterrâneas.</DMS_Hole_3x7Empty.description>
+  <DMS_Hole_3x7Empty.label>abertura da instalação</DMS_Hole_3x7Empty.label>
+  <DMS_Hole_5x5Empty.description>Uma seção de piso estrutural com um buraco aberto, comumente encontrada em instalações subterrâneas.</DMS_Hole_5x5Empty.description>
+  <DMS_Hole_5x5Empty.label>abertura da instalação</DMS_Hole_5x5Empty.label>
+  <DMS_Hole_7x7Empty.description>Uma seção de piso estrutural com um buraco aberto, comumente encontrada em instalações subterrâneas.</DMS_Hole_7x7Empty.description>
+  <DMS_Hole_7x7Empty.label>abertura da instalação</DMS_Hole_7x7Empty.label>
+  <DMS_Hopper.description>Um funil gravitacional a granel com uma rosca transportadora motorizada em sua base para mover materiais grossos que uma linha de transporte comum não consegue manusear, como blocos de pedra, escória e destroços de mecanoides.\n\nEdifícios de produção autônomos ligados a este funil retiram o material diretamente dele, dispensando o transporte manual. Cortar a energia interrompe o abastecimento.</DMS_Hopper.description>
+  <DMS_Hopper.label>funil alimentador</DMS_Hopper.label>
+  <DMS_HoundBaseDestroyed.description>Os destroços de uma estação de carregamento do sabujo. Seu berço de ancoragem está vazio e os contatos de carregamento estão corroídos além do reparo. Ao desmontá-lo, é possível obter sucata metálica.</DMS_HoundBaseDestroyed.description>
+  <DMS_HoundBaseDestroyed.label>estação de sabujo arruinada</DMS_HoundBaseDestroyed.label>
+  <DMS_HydraulicFracturingRig.description>Uma broca profunda automática que fratura o leito rochoso com fluido de altíssima pressão, não necessitando de operador. Enquanto energizada, produz uma porção a cada 6 horas: primeiro os depósitos profundos dentro do alcance, e, após seu esgotamento, extrai combustível químico ou aço diretamente do leito rochoso.\n\nCada porção polui o solo ao redor. Pode ser desmontada e realocada.</DMS_HydraulicFracturingRig.description>
+  <DMS_HydraulicFracturingRig.label>plataforma de fraturamento hidráulico</DMS_HydraulicFracturingRig.label>
+  <DMS_Hydroponics_Flowerpot.description>Um plantador hidropônico autônomo com seu próprio reservatório de nutrientes. Cultive flores decorativas aqui para melhorar o humor das pessoas ao redor.</DMS_Hydroponics_Flowerpot.description>
+  <DMS_Hydroponics_Flowerpot.label>plantador hidropônico</DMS_Hydroponics_Flowerpot.label>
+  <DMS_Hydroponics_FlowerpotDestroyed.description>Um plantador hidropônico inutilizado. O reservatório de nutrientes secou há muito tempo, restando apenas uma crosta de raízes murchas. Ao desmontá-lo, é possível obter sucata metálica.</DMS_Hydroponics_FlowerpotDestroyed.description>
+  <DMS_Hydroponics_FlowerpotDestroyed.label>hidroponia arruinada</DMS_Hydroponics_FlowerpotDestroyed.label>
+  <DMS_Iguana_SubMachineGun.verbs.Verb_ShootCE.label>metralhadora leve montada</DMS_Iguana_SubMachineGun.verbs.Verb_ShootCE.label>
+  <DMS_KnuckledusterRevolver.tools.muzzle.label>cano</DMS_KnuckledusterRevolver.tools.muzzle.label>
+  <DMS_KnuckledusterRevolver.verbs.Verb_ShootCE.label>Revólver soqueira</DMS_KnuckledusterRevolver.verbs.Verb_ShootCE.label>
+  <DMS_LabFurnaceDestroyed.description>Os destroços de um forno de sinterização experimental, queimado por dentro. Seus elementos de aquecimento estão vitrificados e o revestimento da câmara desabou. Ao desmontá-lo, é possível obter sucata metálica.</DMS_LabFurnaceDestroyed.description>
+  <DMS_LabFurnaceDestroyed.label>forno de laboratório arruinado</DMS_LabFurnaceDestroyed.label>
+  <DMS_LabReactorDestroyed.description>Os destroços de uma câmara de reação experimental. Seu vaso se rompeu e tudo o que já foi processado ali se incrustou nos encanamentos estourados. Ao desmontá-lo, é possível obter sucata metálica.</DMS_LabReactorDestroyed.description>
+  <DMS_LabReactorDestroyed.label>reator de laboratório arruinado</DMS_LabReactorDestroyed.label>
+  <DMS_LargeShieldGeneratorDestroyed.description>Um gerador de escudo energético ultraclasse arruinado. Suas bobinas energéticas e circuitos de projeção estão corroídos além do reparo. Ao desmontá-lo, é possível obter sucata metálica.</DMS_LargeShieldGeneratorDestroyed.description>
+  <DMS_LargeShieldGeneratorDestroyed.label>gerador de escudo pesado arruinado</DMS_LargeShieldGeneratorDestroyed.label>
+  <DMS_LiftShaft_Bottom.description>Um grande poço de elevador leva à área subterrânea, grande o suficiente para transportar veículos, mas aparentemente não há como ativá-lo.</DMS_LiftShaft_Bottom.description>
+  <DMS_LiftShaft_Bottom.label>poço de elevador</DMS_LiftShaft_Bottom.label>
+  <DMS_LifterCrewPod.description>A cápsula da tripulação de um elevador móvel, gasta após seu voo de retorno. Sem sua plataforma, não pode decolar novamente, mas pode ser desmontada para obter materiais. Qualquer combustível químico restante em seu tanque também será recuperado.</DMS_LifterCrewPod.description>
+  <DMS_LifterCrewPod.label>cápsula da tripulação gasta</DMS_LifterCrewPod.label>
+  <DMS_LifterPlatform.description>A plataforma de pouso de um elevador móvel, deixada para trás após a cápsula decolar. Não tem mais utilidade para seus donos e pode ser desmontada para obter materiais.</DMS_LifterPlatform.description>
+  <DMS_LifterPlatform.label>plataforma do elevador</DMS_LifterPlatform.label>
+  <DMS_LightMachineGun.tools.0.label>coronha</DMS_LightMachineGun.tools.0.label>
+  <DMS_LightMachineGun.tools.1.label>cano</DMS_LightMachineGun.tools.1.label>
+  <DMS_LightMachineGun.tools.muzzle.label>cano</DMS_LightMachineGun.tools.muzzle.label>
+  <DMS_LightMachineGun.verbs.Verb_ShootCE.label>LMG mecanoide</DMS_LightMachineGun.verbs.Verb_ShootCE.label>
+  <DMS_LightMachineGunMounted.tools.muzzle.label>cano</DMS_LightMachineGunMounted.tools.muzzle.label>
+  <DMS_LightMachineGunMounted.verbs.Verb_ShootCE.label>LMG montada</DMS_LightMachineGunMounted.verbs.Verb_ShootCE.label>
+  <DMS_LogisticContainerDestroyed.description>Um contêiner de carga militar arrombado. Quaisquer suprimentos que ele já continha foram saqueados ou destruídos há muito tempo, restando apenas sua carcaça rasgada. Ao desmontá-lo, é possível obter sucata metálica.</DMS_LogisticContainerDestroyed.description>
+  <DMS_LogisticContainerDestroyed.label>contêiner logístico arruinado</DMS_LogisticContainerDestroyed.label>
+  <DMS_M214Gatlinggun.tools.muzzle.label>cano</DMS_M214Gatlinggun.tools.muzzle.label>
+  <DMS_M214Gatlinggun.verbs.Verb_ShootCE.label>M214 "Microgun"</DMS_M214Gatlinggun.verbs.Verb_ShootCE.label>
+  <DMS_MachineCabinetDestroyed.description>Os destroços de um gabinete de calibração. Seus instrumentos de precisão foram destruídos ou retirados, restando apenas uma carcaça vazia. Ao desmontá-lo, é possível obter sucata metálica.</DMS_MachineCabinetDestroyed.description>
+  <DMS_MachineCabinetDestroyed.label>gabinete de máquinas arruinado</DMS_MachineCabinetDestroyed.label>
+  <DMS_MarksmanRifle.tools.muzzle.label>cano</DMS_MarksmanRifle.tools.muzzle.label>
+  <DMS_MarksmanRifle.verbs.Verb_ShootCE.label>Rifle de precisão mecanoide</DMS_MarksmanRifle.verbs.Verb_ShootCE.label>
+  <DMS_MechCapsule_Frogman.description>Um XM132 Frogman recém-maduro, ainda dobrado dentro da cápsula em que se desenvolveu. O organismo está completo e selado, mas nunca recebeu um sinal de controle. Um mecanizador pode assumir o controle dele. Qualquer outro pode apenas quebrar a cápsula e sucatear seu conteúdo.</DMS_MechCapsule_Frogman.description>
+  <DMS_MechCapsule_Frogman.label>Frogman dormente</DMS_MechCapsule_Frogman.label>
+  <DMS_MechCapsule_PirateRaider.description>Um autômato invasor padrão em modo de hibernação, ainda preso ao berço de montagem onde foi construído. A linha que o produziu não chegou a travar sua autenticação de comando. Um mecanizador pode tentar invadi-lo e assumir o controle.</DMS_MechCapsule_PirateRaider.description>
+  <DMS_MechCapsule_PirateRaider.label>mecanoide desativado</DMS_MechCapsule_PirateRaider.label>
+  <DMS_MechCapsule_PirateTachanka.description>Um quadro de batalha padrão tachanka em modo de hibernação, preso em uma ponte de montagem com seu equipamento incompleto. Sua autenticação de comando ainda não foi travada. Um mecanizador pode tentar invadi-lo e assumir o controle.</DMS_MechCapsule_PirateTachanka.description>
+  <DMS_MechCapsule_PirateTachanka.label>mecanoide desativado</DMS_MechCapsule_PirateTachanka.label>
+  <DMS_MechCapsule_VaultAssault.description>Um autômato de assalto em modo de hibernação, preso em um berço de manutenção com seus compartimentos de atuadores ainda abertos. O cofre foi lacrado antes que a manutenção fosse concluída. Um mecanizador pode tentar invadi-lo e assumir o controle.</DMS_MechCapsule_VaultAssault.description>
+  <DMS_MechCapsule_VaultAssault.label>mecanoide em armazenamento</DMS_MechCapsule_VaultAssault.label>
+  <DMS_MechCapsule_VaultFrame.description>Um quadro de batalha em modo de hibernação, preso em uma ponte de serviço para armazenamento de longo prazo. Sua autenticação de comando expirou junto com a unidade que o possuía. Um mecanizador pode tentar invadi-lo e assumir o controle.</DMS_MechCapsule_VaultFrame.description>
+  <DMS_MechCapsule_VaultFrame.label>quadro de batalha em armazenamento</DMS_MechCapsule_VaultFrame.label>
+  <DMS_MechCapsule_VaultInfantry.description>Um autômato de infantaria em modo de hibernação, selado em um berço de armazenamento. O cofre perdeu energia antes que alguém viesse recolhê-lo. Um mecanizador pode tentar invadi-lo e assumir o controle.</DMS_MechCapsule_VaultInfantry.description>
+  <DMS_MechCapsule_VaultInfantry.label>mecanoide em armazenamento</DMS_MechCapsule_VaultInfantry.label>
+  <DMS_MechCapsule_VaultKennel.description>Um autômato de guarnição Bullhound em modo de hibernação, preso em seu canil de recarga. Foi deixado de vigia quando a instalação foi lacrada, e seu circuito de alarme ainda está ativo. Um mecanizador pode tentar invadi-lo e assumir o controle.</DMS_MechCapsule_VaultKennel.description>
+  <DMS_MechCapsule_VaultKennel.label>Bullhound em armazenamento</DMS_MechCapsule_VaultKennel.label>
+  <DMS_MechGestatorLarge.description>Um enorme equipamento industrial usado para montar autômatos de grande porte.</DMS_MechGestatorLarge.description>
+  <DMS_MechGestatorLarge.label>Construtor de autômatos grandes</DMS_MechGestatorLarge.label>
+  <DMS_Mech_BullHound.description>Um autômato quadrúpede pesado projetado para serviço de guarnição. Derivado ampliado do Dogge, ele abre mão da agilidade muscular artificial de seu primo menor em troca de blindagem espessa e um suporte fixo nas costas, sendo posicionado em portões e cruzamentos de corredores de instalações remanescentes para deter intrusos em combate próximo.\n\nEste modelo monta uma espingarda automática. O suporte é fixo e não pode ser trocado.</DMS_Mech_BullHound.description>
+  <DMS_Mech_BullHound.label>Bullhound</DMS_Mech_BullHound.label>
+  <DMS_Mech_BullHound.tools.jaws.label>mandíbulas</DMS_Mech_BullHound.tools.jaws.label>
+  <DMS_Mech_BullHound.tools.ram.label>aríete</DMS_Mech_BullHound.tools.ram.label>
+  <DMS_Mech_BullHound_Flamer.description>Um autômato quadrúpede pesado projetado para serviço de guarnição. Derivado ampliado do Dogge, ele abre mão da agilidade muscular artificial de seu primo menor em troca de blindagem espessa e um suporte fixo nas costas, sendo posicionado em portões e cruzamentos de corredores de instalações remanescentes para deter intrusos em combate próximo.\n\nEste modelo monta um lança-chamas para limpar corredores, com sua blindagem tratada contra seu próprio fogo. O suporte é fixo e não pode ser trocado.</DMS_Mech_BullHound_Flamer.description>
+  <DMS_Mech_BullHound_Flamer.label>Hellhound</DMS_Mech_BullHound_Flamer.label>
+  <DMS_Mech_BullHound_Flamer.tools.jaws.label>mandíbulas</DMS_Mech_BullHound_Flamer.tools.jaws.label>
+  <DMS_Mech_BullHound_Flamer.tools.ram.label>aríete</DMS_Mech_BullHound_Flamer.tools.ram.label>
+  <DMS_Mech_ClusterWeaver.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>torreta esquerda</DMS_Mech_ClusterWeaver.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>
+  <DMS_Mech_ClusterWeaver.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>torreta direita</DMS_Mech_ClusterWeaver.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>
+  <DMS_Mech_ClusterWeaver.description>United Army Systems "Sakalava", apelidado de "Tecelão de Enxames", é uma porta-mãe FPV superpesada impulsionada por múltiplos conjuntos de rotores. O compartimento de drones pendurado sob sua estrutura de 5 metros de envergadura carrega até 30 drones suicidas e pode guiá-los com precisão a quilômetros de distância. Nunca foi uma arma decisiva em guerras totais, mas nos conflitos armados regionais após a Terceira Guerra Mundial permaneceu uma ameaça aterrorizante, secundária apenas aos bandos de "Wyvern".\n\nO Tecelão de Enxames usa fibra de carbono reforçada com metal como estrutura principal e quase não carrega blindagem adicional. Mesmo assim, seu radar de alta precisão e três torretas de precisão podem aniquilar alvos antes que o inimigo chegue perto o suficiente para emboscá-lo, deixando milícias locais indefesas.</DMS_Mech_ClusterWeaver.description>
+  <DMS_Mech_ClusterWeaver.label>tecelão de enxames</DMS_Mech_ClusterWeaver.label>
+  <DMS_Mech_ClusterWeaver.tools.head.label>cabeça</DMS_Mech_ClusterWeaver.tools.head.label>
+  <DMS_Mech_Frogman.description>O XM132 Frogman é o primeiro organismo militar artificial registrado na história humana...</DMS_Mech_Frogman.description>
+  <DMS_Mech_Frogman.label>Frogman</DMS_Mech_Frogman.label>
+  <DMS_Mech_Frogman.tools.0.label>punho esquerdo</DMS_Mech_Frogman.tools.0.label>
+  <DMS_Mech_Frogman.tools.1.label>punho direito</DMS_Mech_Frogman.tools.1.label>
+  <DMS_Mech_Frogman.tools.head.label>cabeça</DMS_Mech_Frogman.tools.head.label>
+  <DMS_Mech_Frogman.tools.left_fist-0.label>punho esquerdo</DMS_Mech_Frogman.tools.left_fist-0.label>
+  <DMS_Mech_Frogman.tools.left_fist-1.label>punho esquerdo</DMS_Mech_Frogman.tools.left_fist-1.label>
+  <DMS_Mech_Frogman.tools.right_fist-0.label>punho direito</DMS_Mech_Frogman.tools.right_fist-0.label>
+  <DMS_Mech_Frogman.tools.right_fist-1.label>punho direito</DMS_Mech_Frogman.tools.right_fist-1.label>
+  <DMS_Mech_Gecko.tools.head.label>cabeça</DMS_Mech_Gecko.tools.head.label>
+  <DMS_Mech_Gecko.tools.left_leg.label>perna esquerda</DMS_Mech_Gecko.tools.left_leg.label>
+  <DMS_Mech_Gecko.tools.right_leg.label>perna direita</DMS_Mech_Gecko.tools.right_leg.label>
+  <DMS_Mech_Gravekeeper.description>Um grande autômato altamente inteligente, implantado pelas frotas coloniais especificamente para patrulhar e guardar instalações não tripuladas importantes. Suas peças são amplamente intercambiáveis com as do dragão móvel e ele combina uma excelente capacidade de combate em curta distância com um formidável sistema de armas. O projeto do guarda-túmulos remonta à guerra lunar pela independência após o Século Universal, quando a maior parte dos combates ocorria nos túneis estreitos e fechados das cidades subterrâneas. Mecanoides fortemente blindados, como o guarda-túmulos e o quebra-cerco, carregando armas pesadas e capazes de suprimir à curta distância, tornaram-se a vanguarda de ambos os lados na luta pelo controle desses túneis.\nDevido a esse projeto especializado, os guarda-túmulos geralmente mantêm a defesa em grupos de cinco. Como devem patrulhar instalações abandonadas por séculos, suas regras de engajamento são mais conservadoras do que as de um mecanoide comum, para que mecanismos com falhas não sejam acionados por engano no meio da missão. Como resultado, eles não sairão de sua instalação para enfrentar um inimigo por conta própria.\n\nEsse padrão não possui suporte para armas nos ombros.</DMS_Mech_Gravekeeper.description>
+  <DMS_Mech_Gravekeeper.label>guarda-túmulos</DMS_Mech_Gravekeeper.label>
+  <DMS_Mech_Gravekeeper.tools.head.label>cabeça</DMS_Mech_Gravekeeper.tools.head.label>
+  <DMS_Mech_Gravekeeper.tools.left_fist.label>punho esquerdo</DMS_Mech_Gravekeeper.tools.left_fist.label>
+  <DMS_Mech_Gravekeeper.tools.right_fist.label>punho direito</DMS_Mech_Gravekeeper.tools.right_fist.label>
+  <DMS_Mech_Gravekeeper_Sepulturero.description>Um grande autômato altamente inteligente, implantado pelas frotas coloniais especificamente para patrulhar e guardar instalações não tripuladas importantes. Suas peças são amplamente intercambiáveis com as do dragão móvel e ele combina uma excelente capacidade de combate em curta distância com um formidável sistema de armas. O projeto do guarda-túmulos remonta à guerra lunar pela independência após o Século Universal, quando a maior parte dos combates ocorria nos túneis estreitos e fechados das cidades subterrâneas. Mecanoides fortemente blindados, como o guarda-túmulos e o quebra-cerco, carregando armas pesadas e capazes de suprimir à curta distância, tornaram-se a vanguarda de ambos os lados na luta pelo controle desses túneis.\nDevido a esse projeto especializado, os guarda-túmulos geralmente mantêm a defesa em grupos de cinco. Como devem patrulhar instalações abandonadas por séculos, suas regras de engajamento são mais conservadoras do que as de um mecanoide comum, para que mecanismos com falhas não sejam acionados por engano no meio da missão. Como resultado, eles não sairão de sua instalação para enfrentar um inimigo por conta própria.\n\nEssa configuração monta o lança-chamas Gecko no ombro para limpar corredores.</DMS_Mech_Gravekeeper_Sepulturero.description>
+  <DMS_Mech_Gravekeeper_Sepulturero.label>Sepulturero</DMS_Mech_Gravekeeper_Sepulturero.label>
+  <DMS_Mech_Gravekeeper_Sepulturero.tools.head.label>cabeça</DMS_Mech_Gravekeeper_Sepulturero.tools.head.label>
+  <DMS_Mech_Gravekeeper_Sepulturero.tools.left_fist.label>punho esquerdo</DMS_Mech_Gravekeeper_Sepulturero.tools.left_fist.label>
+  <DMS_Mech_Gravekeeper_Sepulturero.tools.right_fist.label>punho direito</DMS_Mech_Gravekeeper_Sepulturero.tools.right_fist.label>
+  <DMS_Mech_Gravekeeper_Stugna.description>Um grande autômato altamente inteligente, implantado pelas frotas coloniais especificamente para patrulhar e guardar instalações não tripuladas importantes. Suas peças são amplamente intercambiáveis com as do dragão móvel e ele combina uma excelente capacidade de combate em curta distância com um formidável sistema de armas. O projeto do guarda-túmulos remonta à guerra lunar pela independência após o Século Universal, quando a maior parte dos combates ocorria nos túneis estreitos e fechados das cidades subterrâneas. Mecanoides fortemente blindados, como o guarda-túmulos e o quebra-cerco, carregando armas pesadas e capazes de suprimir à curta distância, tornaram-se a vanguarda de ambos os lados na luta pelo controle desses túneis.\nDevido a esse projeto especializado, os guarda-túmulos geralmente mantêm a defesa em grupos de cinco. Como devem patrulhar instalações abandonadas por séculos, suas regras de engajamento são mais conservadoras do que as de um mecanoide comum, para que mecanismos com falhas não sejam acionados por engano no meio da missão. Como resultado, eles não sairão de sua instalação para enfrentar um inimigo por conta própria.\n\nEsse padrão carrega o lançador Stugna do dragão móvel no ombro direito, equipado com dois mísseis guiados antitanque.</DMS_Mech_Gravekeeper_Stugna.description>
+  <DMS_Mech_Gravekeeper_Stugna.label>Enterrador</DMS_Mech_Gravekeeper_Stugna.label>
+  <DMS_Mech_Gravekeeper_Stugna.tools.head.label>cabeça</DMS_Mech_Gravekeeper_Stugna.tools.head.label>
+  <DMS_Mech_Gravekeeper_Stugna.tools.left_fist.label>punho esquerdo</DMS_Mech_Gravekeeper_Stugna.tools.left_fist.label>
+  <DMS_Mech_Gravekeeper_Stugna.tools.right_fist.label>punho direito</DMS_Mech_Gravekeeper_Stugna.tools.right_fist.label>
+  <DMS_Mech_Gravekeeper_Velador.description>Um grande autômato altamente inteligente, implantado pelas frotas coloniais especificamente para patrulhar e guardar instalações não tripuladas importantes. Suas peças são amplamente intercambiáveis com as do dragão móvel e ele combina uma excelente capacidade de combate em curta distância com um formidável sistema de armas. O projeto do guarda-túmulos remonta à guerra lunar pela independência após o Século Universal, quando a maior parte dos combates ocorria nos túneis estreitos e fechados das cidades subterrâneas. Mecanoides fortemente blindados, como o guarda-túmulos e o quebra-cerco, carregando armas pesadas e capazes de suprimir à curta distância, tornaram-se a vanguarda de ambos os lados na luta pelo controle desses túneis.\nDevido a esse projeto especializado, os guarda-túmulos geralmente mantêm a defesa em grupos de cinco. Como devem patrulhar instalações abandonadas por séculos, suas regras de engajamento são mais conservadoras do que as de um mecanoide comum, para que mecanismos com falhas não sejam acionados por engano no meio da missão. Como resultado, eles não sairão de sua instalação para enfrentar um inimigo por conta própria.\n\nEssa configuração monta a metralhadora da Iguana no ombro.</DMS_Mech_Gravekeeper_Velador.description>
+  <DMS_Mech_Gravekeeper_Velador.label>Velador</DMS_Mech_Gravekeeper_Velador.label>
+  <DMS_Mech_Gravekeeper_Velador.tools.head.label>cabeça</DMS_Mech_Gravekeeper_Velador.tools.head.label>
+  <DMS_Mech_Gravekeeper_Velador.tools.left_fist.label>punho esquerdo</DMS_Mech_Gravekeeper_Velador.tools.left_fist.label>
+  <DMS_Mech_Gravekeeper_Velador.tools.right_fist.label>punho direito</DMS_Mech_Gravekeeper_Velador.tools.right_fist.label>
+  <DMS_Mech_Iguana.tools.head.label>cabeça</DMS_Mech_Iguana.tools.head.label>
+  <DMS_Mech_Iguana.tools.left_leg.label>perna esquerda</DMS_Mech_Iguana.tools.left_leg.label>
+  <DMS_Mech_Iguana.tools.right_leg.label>perna direita</DMS_Mech_Iguana.tools.right_leg.label>
+  <DMS_Mech_Lanius.description>Uma plataforma drone grande capaz de transportar armas de infantaria, construída para dar cobertura de fogo a drones-mãe ultrapesados em batalhas terrestres onde a superioridade aérea já foi conquistada. Sua estrutura de sustentação é frágil, portanto carrega dois lançadores de granadas de fumaça para se proteger do fogo inimigo.\n\nEla voa sobre terrenos que nenhuma unidade terrestre consegue atravessar e pode montar uma gama maior de armas que o Falcão, mas seu armamento é limitado a armas que um soldado de infantaria poderia carregar. Os lançadores possuem quatro cargas de fumaça no total.</DMS_Mech_Lanius.description>
+  <DMS_Mech_Lanius.label>Lanius</DMS_Mech_Lanius.label>
+  <DMS_Mech_Lanius.tools.ram.label>aríete</DMS_Mech_Lanius.tools.ram.label>
+  <DMS_Mech_Mammoth.tools.head.label>cabeça</DMS_Mech_Mammoth.tools.head.label>
+  <DMS_Mech_Protector.tools.head.label>cabeça</DMS_Mech_Protector.tools.head.label>
+  <DMS_Mech_Protector.tools.left_fist.label>punho esquerdo</DMS_Mech_Protector.tools.left_fist.label>
+  <DMS_Mech_Protector.tools.right_fist-1.label>punho direito</DMS_Mech_Protector.tools.right_fist-1.label>
+  <DMS_Mech_Tarbosaurus.tools.head.label>cabeça</DMS_Mech_Tarbosaurus.tools.head.label>
+  <DMS_Mech_Tarbosaurus.tools.left_leg.label>perna esquerda</DMS_Mech_Tarbosaurus.tools.left_leg.label>
+  <DMS_Mech_Tarbosaurus.tools.right_leg.label>perna direita</DMS_Mech_Tarbosaurus.tools.right_leg.label>
+  <DMS_MiniMachineGun.tools.muzzle.label>cano</DMS_MiniMachineGun.tools.muzzle.label>
+  <DMS_MiniMachineGun.verbs.Verb_ShootCE.label>LMG de Distúrbios</DMS_MiniMachineGun.verbs.Verb_ShootCE.label>
+  <DMS_MobileCrewLifter.description>Um elevador de tripulação autossuficiente construído sobre uma plataforma de pouso destacável. Não precisa de plataforma de lançamento e seu tanque é preenchido com o combustível químico usado na construção: carregue-o e lance-o em qualquer lugar dentro do alcance. Após o pouso, a cápsula pode decolar novamente para o voo de retorno, deixando a plataforma para trás. Leve combustível químico reserva caso o destino não tenha como reabastecê-lo.</DMS_MobileCrewLifter.description>
+  <DMS_MobileCrewLifter.label>elevador móvel de tripulação</DMS_MobileCrewLifter.label>
+  <DMS_OccultTechFont.description>Um banco de dados contendo dados técnicos e backups dos registros coloniais, juntamente com análises de casos e revisões pós-incidente de todos os acidentes ocorridos em todos os programas de colonização até o momento. Uma estela serve tanto como meio pelo qual as frotas coloniais compartilham experiência e conhecimento com seus parentes em outros sistemas estelares, quanto como banco de dados de backup enterrado nas profundezas de cada mundo colonizado. Algoritmos complexos de criptografia e verificação mantêm seus registros a salvo de perdas em longas viagens pelo espaço ou em eras seladas no subsolo, ao mesmo tempo em que impedem que qualquer um fora das frotas coloniais obtenha a tecnologia perigosa contida nela.\n\nRumores dizem que técnicas de decodificação vazadas por dissidentes das frotas podem realizar uma decodificação forçada da estela, extraindo seu conhecimento a um custo terrível.</DMS_OccultTechFont.description>
+  <DMS_OccultTechFont.label>Estela</DMS_OccultTechFont.label>
+  <DMS_OccultechExtractor.description>Um equipamento de decodificação destrutivo. Ele dispara um laser de alta energia através das placas de armazenamento holográficas dentro de uma estela e analisa o espectro disperso para ler os dados contidos nela: a única maneira para facções fora das frotas coloniais acessarem o conteúdo de uma estela. Coloque-o firmemente contra uma estela e forneça energia, e ele extrairá continuamente o conhecimento, arquivando-o em sua pesquisa expedicionária, sem necessidade de um pesquisador. A extração para quando a estela se esgotar, a energia for perdida ou não houver nenhuma estela à sua frente. Ele pode ser desmontado e reinstalado em outro local.</DMS_OccultechExtractor.description>
+  <DMS_OccultechExtractor.label>Decodificador</DMS_OccultechExtractor.label>
+  <DMS_OccultechKey.description>Uma placa de cifra do tamanho da palma da mão, em uma carcaça lacrada. Cada glifo carrega um fragmento da chave de autenticação para uma estela enterrada sob este mundo. As frotas coloniais dividiram a chave de cada estela entre vários glifos e os espalharam, para que nenhum único achado pudesse abrir uma.\n\nLidos como um conjunto completo com descriptografia quântica, os glifos revelam onde sua estela se encontra e como romper seu selo. A leitura colapsa seus estados quânticos, e os glifos são gastos.</DMS_OccultechKey.description>
+  <DMS_OccultechKey.label>glifo ocultecnológico</DMS_OccultechKey.label>
+  <DMS_OccultechPedestal.description>Um computador transistorizado pesado, construído pelos pioneiros para armazenar um glifo ocultecnológico. O glifo fica lacrado em seu slot de leitura, e a máquina ainda executa seu ciclo de autenticação: esse é o pulso que nossos receptores captam. Uma célula radioisotópica em seu interior a mantém funcionando por anos, com energia sobrando para as defesas ao redor.\n\nO glifo só sai depois que o bloqueio do servidor é quebrado. Hackeá-lo acionará o alarme de todo o local, então prepare suas defesas antes de começar. Se o servidor for destruído primeiro, o glifo em seu interior irá junto.</DMS_OccultechPedestal.description>
+  <DMS_OccultechPedestal.label>servidor de glifos</DMS_OccultechPedestal.label>
+  <DMS_PDW.tools.grip.label>empunhadura</DMS_PDW.tools.grip.label>
+  <DMS_PDW.tools.muzzle.label>cano</DMS_PDW.tools.muzzle.label>
+  <DMS_PDW.verbs.Verb_ShootCE.label>PDW</DMS_PDW.verbs.Verb_ShootCE.label>
+  <DMS_PerimeterScannerDestroyed.description>Os destroços de um scanner de perímetro. Seu sensor está quebrado e sua plataforma está corroída além do reparo.</DMS_PerimeterScannerDestroyed.description>
+  <DMS_PerimeterScannerDestroyed.label>scanner de perímetro arruinado</DMS_PerimeterScannerDestroyed.label>
+  <DMS_Personallocker.description>Um armário de aço alto para guardar pertences pessoais. Item padrão em vestiários e dormitórios de instalações.</DMS_Personallocker.description>
+  <DMS_Personallocker.label>armário pessoal</DMS_Personallocker.label>
+  <DMS_PersonallockerDestroyed.description>Um armário de aço enferrujado. Sua porta foi forçada e o que quer que estivesse dentro há muito se foi. Ao desmontá-lo, é possível obter sucata de metal.</DMS_PersonallockerDestroyed.description>
+  <DMS_PersonallockerDestroyed.label>armário pessoal arruinado</DMS_PersonallockerDestroyed.label>
+  <DMS_Personallocker_Large.description>Um conjunto de três armários de aço parafusados juntos. Item padrão em vestiários e dormitórios de instalações.</DMS_Personallocker_Large.description>
+  <DMS_Personallocker_Large.label>conjunto de armários</DMS_Personallocker_Large.label>
+  <DMS_Personallocker_LargeDestroyed.description>Um conjunto de três armários de aço enferrujados. As portas estão abertas ou completamente faltando, e o que quer que estivesse dentro há muito se foi. Ao desmontá-lo, é possível obter sucata de metal.</DMS_Personallocker_LargeDestroyed.description>
+  <DMS_Personallocker_LargeDestroyed.label>conjunto de armários arruinado</DMS_Personallocker_LargeDestroyed.label>
+  <DMS_Proj_GrenadeSubsonic.label>granada infrassônica</DMS_Proj_GrenadeSubsonic.label>
+  <DMS_RaidWaveBeacon_PeacekeepingOperators.description>Selecione um grupo de incursão antes de usar. Chama seu destacamento e revela a instalação-chefe associada: manutenção da paz/aeroporto, contraterrorismo/distrito residencial, infantaria/arsenal. Uso único.</DMS_RaidWaveBeacon_PeacekeepingOperators.description>
+  <DMS_RaidWaveBeacon_PeacekeepingOperators.label>farol de socorro dos remanescentes</DMS_RaidWaveBeacon_PeacekeepingOperators.label>
+  <DMS_Revolver.comps.CompAmmoSwitch.ammos.0.description>Uma bala não letal que contunde e derruba ao invés de matar. É o que vinha com o revólver e o que a maioria dos donos nunca se preocupa em trocar.</DMS_Revolver.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_Revolver.comps.CompAmmoSwitch.ammos.0.label>bala de borracha</DMS_Revolver.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_Revolver.comps.CompAmmoSwitch.ammos.1.description>Uma rajada letal de chumbinho para quando a situação deixa de ser um distúrbio e passa a ser uma luta. Um pouco mais difícil de acertar do que uma bala de borracha.</DMS_Revolver.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_Revolver.comps.CompAmmoSwitch.ammos.1.label>cartucho de chumbinho</DMS_Revolver.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_Revolver.comps.CompAmmoSwitch.ammos.2.description>Uma única bala de chumbo que alcança muito mais longe que chumbinho e perfura blindagens leves. A carga mais pesada torna o revólver mais lento para mirar.</DMS_Revolver.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_Revolver.comps.CompAmmoSwitch.ammos.2.label>bala</DMS_Revolver.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_Revolver.tools.muzzle-0.label>cano</DMS_Revolver.tools.muzzle-0.label>
+  <DMS_Revolver.tools.muzzle-1.label>cano</DMS_Revolver.tools.muzzle-1.label>
+  <DMS_Revolver.verbs.Verb_ShootCE.label>Revólver de Controle de Distúrbios</DMS_Revolver.verbs.Verb_ShootCE.label>
+  <DMS_Revolver.verbs.Verb_Shoot_AmmoSwitch.label>Revólver de Controle de Distúrbios</DMS_Revolver.verbs.Verb_Shoot_AmmoSwitch.label>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.0.description>Uma única bala de borracha que derruba o alvo ao invés de matá-lo. O cartucho padrão para controle de distúrbios e para capturar prisioneiros vivos.</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.0.description>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.0.label>bala de borracha</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.0.label>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.1.description>Uma rajada letal de chumbinho para combate de curta distância contra carne desprotegida. Ligeiramente mais difícil de acertar do que uma bala de borracha.</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.1.description>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.1.label>cartucho de chumbinho</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.1.label>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.2.description>Um projétil capacitado que descarrega ao impactar, causando curto-circuito em sistemas mecanoides ao invés de destruí-los. Não faz nada contra carne e sua carga pesada reduz bastante o alcance efetivo.</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.2.description>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.2.label>cartucho PEM</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.2.label>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.3.description>Um projétil sólido feito para ser disparado em uma porta ou parede fina à queima-roupa. Abrirá passagem onde nada mais consegue, mas é quase inútil a qualquer outra distância.</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.3.description>
+  <DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.3.label>cartucho de arrombamento</DMS_RiotShotgun.comps.CompAmmoSwitch.ammos.3.label>
+  <DMS_RiotShotgun.tools.muzzle-0.label>cano</DMS_RiotShotgun.tools.muzzle-0.label>
+  <DMS_RiotShotgun.tools.muzzle-1.label>cano</DMS_RiotShotgun.tools.muzzle-1.label>
+  <DMS_RiotShotgun.verbs.Verb_ShootCE.label>Espingarda de Controle de Distúrbios</DMS_RiotShotgun.verbs.Verb_ShootCE.label>
+  <DMS_RiotShotgun.verbs.Verb_Shoot_AmmoSwitch.label>Espingarda de Controle de Distúrbios</DMS_RiotShotgun.verbs.Verb_Shoot_AmmoSwitch.label>
+  <DMS_RollingDoor_Double.description>Uma porta de enrolar trancada.</DMS_RollingDoor_Double.description>
+  <DMS_RollingDoor_Double.label>porta de enrolar</DMS_RollingDoor_Double.label>
+  <DMS_RollingDoor_Quadruple.description>Uma porta de enrolar trancada.</DMS_RollingDoor_Quadruple.description>
+  <DMS_RollingDoor_Quadruple.label>porta de enrolar</DMS_RollingDoor_Quadruple.label>
+  <DMS_RollingDoor_Triple.description>Uma porta de enrolar trancada.</DMS_RollingDoor_Triple.description>
+  <DMS_RollingDoor_Triple.label>porta de enrolar</DMS_RollingDoor_Triple.label>
+  <DMS_SageCore.description>Um computador de comando estratégico distribuído que pode receber racks auxiliares sem limite, aumentando seu poder computacional conforme a demanda cresce. A frota colonial o utiliza para defesa aérea estratégica planetária e para interligar as incontáveis redes de rastreamento por radar e navegação espalhadas por diversos continentes. Destruí-lo certamente irá paralisar as operações de caça da frota no planeta, embora dentro de um ou dois anos outro computador da rede SAGE seja promovido para hospedá-lo e assumir essa tarefa.\n\nSeu armazenamento inferior ainda guarda cópias de partes do banco de dados estratégico. Hackeá-lo acionará todo o sistema de alarme da instalação contra você.</DMS_SageCore.description>
+  <DMS_SageCore.label>SAGE</DMS_SageCore.label>
+  <DMS_SealedRollingDoor_Single.description>Uma porta blindada lacrada.</DMS_SealedRollingDoor_Single.description>
+  <DMS_SealedRollingDoor_Single.label>porta lacrada</DMS_SealedRollingDoor_Single.label>
+  <DMS_SemiAutoRifle.tools.muzzle.label>cano</DMS_SemiAutoRifle.tools.muzzle.label>
+  <DMS_SemiAutoRifle.verbs.Verb_ShootCE.label>Rifle Semiautomático Mecanoide</DMS_SemiAutoRifle.verbs.Verb_ShootCE.label>
+  <DMS_SensibilityBlocker.description>Um agente neurodirecionado altamente concentrado que suprime os receptores por trás do pensamento afetivo. Externamente, a aversão do sujeito ao seu entorno praticamente desaparece enquanto durar o efeito, o que já o tornou um medicamento de combate padrão para pilotos de exotrajes em missões longas. Os sujeitos mantêm memória completa da experiência após o efeito passar, porém, assim que foi descoberto que poderia causar perda sensorial, seu uso foi gradualmente banido.\n\nSuspende temporariamente necessidades secundárias como beleza, conforto, ar livre, ambiente interno e espaço, e anula as penalidades de humor de pensamentos relacionados ao ambiente.</DMS_SensibilityBlocker.description>
+  <DMS_SensibilityBlocker.ingestible.ingestCommandString>Injetar {0}</DMS_SensibilityBlocker.ingestible.ingestCommandString>
+  <DMS_SensibilityBlocker.ingestible.ingestReportString>Injetando {0}.</DMS_SensibilityBlocker.ingestible.ingestReportString>
+  <DMS_SensibilityBlocker.label>bloqueador de sensibilidade</DMS_SensibilityBlocker.label>
+  <DMS_ShipDoorDestroyed.description>Uma porta arruinada e fortemente reforçada retirada de uma grande nave espacial.</DMS_ShipDoorDestroyed.description>
+  <DMS_ShipDoorDestroyed.label>porta de nave arruinada</DMS_ShipDoorDestroyed.label>
+  <DMS_ShipWallDestroyed.description>Uma seção arruinada e fortemente reforçada do casco retirada de uma grande nave espacial.</DMS_ShipWallDestroyed.description>
+  <DMS_ShipWallDestroyed.label>casco de nave arruinado</DMS_ShipWallDestroyed.label>
+  <DMS_ShotgunGunMounted.tools.barrel.label>cano</DMS_ShotgunGunMounted.tools.barrel.label>
+  <DMS_ShotgunGunMounted.tools.muzzle.label>cano</DMS_ShotgunGunMounted.tools.muzzle.label>
+  <DMS_ShotgunGunMounted.verbs.Verb_ShootCE.label>Sistema de Defesa de Aproximação</DMS_ShotgunGunMounted.verbs.Verb_ShootCE.label>
+  <DMS_SiteServerCore.description>Um computador transistorizado compacto. Velho, mas extremamente confiável, máquinas como essa servem como servidores de escritórios sem papel e registros em todas as instalações da frota colonial. Uma célula radioisotópica especial em seu interior a mantém funcionando por anos sem necessidade de manutenção.\n\nOs servidores usados em locais pequenos como este raramente guardam algo verdadeiramente classificado, mas ainda é possível extrair informações valiosas deles. Hackeá-lo acionará a resposta de segurança do servidor, então é melhor preparar suas defesas antes de começar.</DMS_SiteServerCore.description>
+  <DMS_SiteServerCore.label>servidor local</DMS_SiteServerCore.label>
+  <DMS_SniperGrenadeLauncher.tools.muzzle.label>cano</DMS_SniperGrenadeLauncher.tools.muzzle.label>
+  <DMS_SniperGrenadeLauncher.verbs.Verb_ShootCE.label>Lançador de Granadas de Precisão</DMS_SniperGrenadeLauncher.verbs.Verb_ShootCE.label>
+  <DMS_SolitaryZPM.description>Energia física solidificada em um estado material estável por um campo de contenção - uma das tecnologias transcendentais cujos princípios de funcionamento a humanidade conseguiu decifrar, e a fonte de energia da maioria dos artefatos transcendentais. No entanto, a maior parte da tecnologia humana atual não consegue fazer uso direto da energia em seu interior.</DMS_SolitaryZPM.description>
+  <DMS_SolitaryZPM.label>energia de ponto zero solidificada</DMS_SolitaryZPM.label>
+  <DMS_SubMachineGunMounted.tools.muzzle.label>cano</DMS_SubMachineGunMounted.tools.muzzle.label>
+  <DMS_SubMachineGunMounted.verbs.Verb_ShootCE.label>SMG montada</DMS_SubMachineGunMounted.verbs.Verb_ShootCE.label>
+  <DMS_SubsonicModule.description>Um conjunto sintonizado de emissores de infrassom acondicionado para ser parafusado ao casco de um mecanoide e consumir energia de sua célula de energia. Sob comando, libera um único pulso de infrassom ao redor do mecanoide. Inimigos vivos pegos por ele sofrem com náuseas e dor, e muitos quebram e fogem imediatamente. Mecanoides não são afetados.\n\nO emissor consome energia continuamente, aumentando levemente o consumo de energia do mecanoide.</DMS_SubsonicModule.description>
+  <DMS_SubsonicModule.label>módulo infrassônico</DMS_SubsonicModule.label>
+  <DMS_SubstationCabinet.description>Um gabinete metálico robusto que se conecta a um duto de energia subterrâneo e distribui eletricidade para equipamentos superficiais. Os componentes de alta tensão tornam o desligamento perigoso - apenas um operador com sólido conhecimento técnico (Intelectual 8+) pode cortar a energia com segurança; qualquer um com menos experiência corre o risco de sofrer uma queimadura elétrica grave. Um pulso EMP desativará o gabinete temporariamente, sem perigo contínuo. Uma vez desligado, não pode ser religado, e o dispositivo de segurança mais próximo da instalação também perde energia junto com ele.</DMS_SubstationCabinet.description>
+  <DMS_SubstationCabinet.label>gabinete de subestação</DMS_SubstationCabinet.label>
+  <DMS_SubstationCabinet_Wall.description>Um painel compacto de subestação embutido na parede, que direciona a energia de um duto subterrâneo para equipamentos na superfície. Assim como seu equivalente em gabinete, desligá-lo com segurança exige habilidade técnica real - qualquer um com menos experiência corre o risco de sofrer uma queimadura elétrica grave devido aos contatos expostos de alta tensão. Vulnerável a EMP. Uma vez desligado, não pode ser religado, e o dispositivo de segurança mais próximo da instalação perde energia junto com ele.</DMS_SubstationCabinet_Wall.description>
+  <DMS_SubstationCabinet_Wall.label>painel de subestação de parede</DMS_SubstationCabinet_Wall.label>
+  <DMS_SuperWall.description>Uma parede blindada e fortemente reforçada.</DMS_SuperWall.description>
+  <DMS_SuperWall.label>parede reforçada</DMS_SuperWall.label>
+  <DMS_SupplyDropPod.description>Uma cápsula de carga lançada por um contratante logístico. Carregue os suprimentos solicitados nela e confirme a entrega antes do prazo.</DMS_SupplyDropPod.description>
+  <DMS_SupplyDropPod.label>cápsula de suprimentos</DMS_SupplyDropPod.label>
+  <DMS_SupplyPodIncoming.label>cápsula de suprimentos (chegando)</DMS_SupplyPodIncoming.label>
+  <DMS_SupplyPodLeaving.label>cápsula de suprimentos (partindo)</DMS_SupplyPodLeaving.label>
+  <DMS_SurvivalRifle.tools.muzzle-0.label>cano</DMS_SurvivalRifle.tools.muzzle-0.label>
+  <DMS_SurvivalRifle.tools.muzzle-1.label>cano</DMS_SurvivalRifle.tools.muzzle-1.label>
+  <DMS_SurvivalRifle.verbs.Verb_ShootCE.label>Rifle de sobrevivência</DMS_SurvivalRifle.verbs.Verb_ShootCE.label>
+  <DMS_SynthFormingPod.description>Uma larva biomatróide selada dentro da cápsula mineral que formou ao redor de si após o nascimento. O desenvolvimento continua no interior: feixes musculares se sobrepõem à estrutura, a vedação externa cura e a malha de controle se organiza. O substrato mesonuclear conduz todo o processo por conta própria, não necessitando de energia, matéria-prima ou supervisão.\n\nA cápsula incha à medida que a larva amadurece e se flexiona ao vento. Não pode se defender e quebrá-la destrói o biomatróide dentro. É leve o suficiente para ser desmontada e carregada para outro local.</DMS_SynthFormingPod.description>
+  <DMS_SynthFormingPod.label>cápsula de gestação</DMS_SynthFormingPod.label>
+  <DMS_SyntheticEye.description>Um olho composto compacto cultivado em uma estrutura de artifibra. Suas três lentes primárias possuem receptores para diferentes faixas do espectro, e um microprocessador combina suas entradas em sinais visuais que o cérebro pode compreender, conferindo muito maior capacidade visual que um olho natural.</DMS_SyntheticEye.description>
+  <DMS_SyntheticEye.label>Olho biossintético</DMS_SyntheticEye.label>
+  <DMS_SyntheticHeart.description>Um coração cultivado a partir de músculo cardíaco de sauropsídeo geneticamente modificado ao redor de uma malha de válvulas de plasfibra, projetado para soldados aumentados cuja demanda por oxigênio superava há muito o que um coração natural poderia fornecer. Seu ritmo incansável tem o custo de rejeição imunológica ocasional.</DMS_SyntheticHeart.description>
+  <DMS_SyntheticHeart.label>Coração biossintético</DMS_SyntheticHeart.label>
+  <DMS_SyntheticKidney.description>Um rim cultivado cujos néfrons são reforçados com fibras filtrantes sintéticas. Ele limpa o sangue mais rápido que o tecido natural e acelera visivelmente a resposta imunológica do corpo a infecções.</DMS_SyntheticKidney.description>
+  <DMS_SyntheticKidney.label>Rim biossintético</DMS_SyntheticKidney.label>
+  <DMS_SyntheticLiver.description>Um fígado cultivado em uma estrutura porosa de artifibra e semeado com culturas enzimáticas geneticamente modificadas. Ele decompõe toxinas e alimentos estragados muito mais eficientemente que um fígado natural.</DMS_SyntheticLiver.description>
+  <DMS_SyntheticLiver.label>Fígado biossintético</DMS_SyntheticLiver.label>
+  <DMS_SyntheticLung.description>Um pulmão cultivado cujos alvéolos são revestidos com uma membrana filtrante artificial. Diferente do pulmão de membrana mecânica, ele respira exatamente como tecido vivo e filtra parte das toxinas aéreas antes que cheguem à corrente sanguínea.</DMS_SyntheticLung.description>
+  <DMS_SyntheticLung.label>Pulmão biossintético</DMS_SyntheticLung.label>
+  <DMS_TableArtifuscleDestroyed.description>Os destroços de uma câmara de cultivo de artifibra de alta qualidade. Seus tanques de crescimento estão quebrados e seu conteúdo apodreceu há muito tempo. Ao desmontá-lo, é possível obter sucata metálica.</DMS_TableArtifuscleDestroyed.description>
+  <DMS_TableArtifuscleDestroyed.label>câmara de artifibra arruinada</DMS_TableArtifuscleDestroyed.label>
+  <DMS_TableMachinePrinterDestroyed.description>Os destroços de uma impressora metálica composta. Seus êmbolos de forjamento estão presos e a mesa de impressão está coberta por ferramental colapsado. Ao desmontá-lo, é possível obter sucata metálica.</DMS_TableMachinePrinterDestroyed.description>
+  <DMS_TableMachinePrinterDestroyed.label>impressora de maquinário arruinada</DMS_TableMachinePrinterDestroyed.label>
+  <DMS_TableStampManual.description>Uma prensa de estampagem simplificada, com a linha de alimentação e o painel de controle removidos. Cada golpe precisa ser preparado e alimentado manualmente, mas ocupa muito menos espaço e consome uma fração da energia de uma impressora de maquinário completa.</DMS_TableStampManual.description>
+  <DMS_TableStampManual.label>Prensa de estampagem manual</DMS_TableStampManual.label>
+  <DMS_TacticalPistol.tools.muzzle.label>cano</DMS_TacticalPistol.tools.muzzle.label>
+  <DMS_TacticalPistol.verbs.Verb_ShootCE.label>Pistola de mecanoide</DMS_TacticalPistol.verbs.Verb_ShootCE.label>
+  <DMS_Tarbosaurus_ShotgunGun.verbs.Verb_ShootCE.label>sistema de defesa de curto alcance</DMS_Tarbosaurus_ShotgunGun.verbs.Verb_ShootCE.label>
+  <DMS_Tarbosaurus_SubMachineGun.verbs.Verb_ShootCE.label>metralhadora pesada montada</DMS_Tarbosaurus_SubMachineGun.verbs.Verb_ShootCE.label>
+  <DMS_ThermalBreacher.description>Uma carga térmica direcional de uso único, projetada para romper portas de segurança pesadas e para uso antimaterial. Quando ativada, produz um jato violento de metal superaquecido, focado no ponto de contato por meio de um bocal moldado. Em segundos, queima um canal através da superfície da maioria das ligas de grau industrial.\n\nComo a reação é extremamente instável, o dispositivo só pode ser usado uma vez. O operador deve se afastar para uma distância segura imediatamente após sua ativação para evitar ferimentos causados por respingos superaquecidos e metal vaporizado.</DMS_ThermalBreacher.description>
+  <DMS_ThermalBreacher.label>carga térmica de ruptura</DMS_ThermalBreacher.label>
+  <DMS_TrashBinBaseDestroyed.description>Os destroços de uma estação de carregamento de lixeiras. Seu berço de encaixe está vazio e os contatos de carregamento estão corroídos além do reparo. Ao desmontá-lo, é possível obter sucata metálica.</DMS_TrashBinBaseDestroyed.description>
+  <DMS_TrashBinBaseDestroyed.label>estação de lixeiras arruinada</DMS_TrashBinBaseDestroyed.label>
+  <DMS_Turret_AutomaticGrenadeLauncher.description>Um lançador automático de granadas portátil para limpar alvos agrupados.\n\nEsta arma foi projetada especificamente para uso por autômatos; sem equipamento externo ou força aumentada, um humano comum terá dificuldade em utilizá-la corretamente.\n\nAo ser montada em seu tripé, ganha alcance e um arco de fogo estável que jamais conseguiria manter ao ombro, e a tripulação pode desmontá-la em segundos.</DMS_Turret_AutomaticGrenadeLauncher.description>
+  <DMS_Turret_AutomaticGrenadeLauncher.label>Lançador de granadas de mecanoide</DMS_Turret_AutomaticGrenadeLauncher.label>
+  <DMS_Turret_HeavyMachineGun.description>Uma metralhadora pesada que dispara cartuchos de grande calibre, amplamente utilizada em mecanoides pesados e plataformas de apoio à infantaria.\n\nEsta arma foi projetada especificamente para uso por autômatos; é tão pesada que apenas autômatos específicos podem operá-la.\n\nEm seu tripé, o receptor não luta contra o atirador: a zona efetiva se estreita, o cinto dura mais e a arma mantém a posição de forma muito mais estável do que seria possível ao ombro.</DMS_Turret_HeavyMachineGun.description>
+  <DMS_Turret_HeavyMachineGun.label>Metralhadora pesada de mecanoide</DMS_Turret_HeavyMachineGun.label>
+  <DMS_Turret_LightMachineGun.description>Uma arma voltada à supressão, que utiliza munição de fuzil de grande calibre.\n\nEsta arma foi projetada especificamente para uso por autômatos; sem equipamento externo ou força aumentada, um humano comum terá dificuldade em utilizá-la corretamente.\n\nSeu bipé dobrável permite que um operador mobilizado a coloque em posição de tiro instantaneamente e a recolha com a mesma rapidez.</DMS_Turret_LightMachineGun.description>
+  <DMS_Turret_LightMachineGun.label>Metralhadora leve de mecanoide</DMS_Turret_LightMachineGun.label>
+  <DMS_VaultConsole.comps.0.hackedInspectString>Portas do armazenamento liberadas.</DMS_VaultConsole.comps.0.hackedInspectString>
+  <DMS_VaultConsole.comps.0.hackedLetterLabel>Portas do armazenamento liberadas</DMS_VaultConsole.comps.0.hackedLetterLabel>
+  <DMS_VaultConsole.comps.0.hackedLetterText>Alguém invadiu o sistema de controle de acesso do cofre. As portas seladas do armazenamento estão abertas.</DMS_VaultConsole.comps.0.hackedLetterText>
+  <DMS_VaultConsole.comps.0.hackedMessage>{HACKER_labelShort} terminou de invadir {SUBJECT_labelNoParenthesisDef}.</DMS_VaultConsole.comps.0.hackedMessage>
+  <DMS_VaultConsole.comps.0.notHackedInspectString>Hackeie para liberar as portas seladas do armazenamento.</DMS_VaultConsole.comps.0.notHackedInspectString>
+  <DMS_VaultConsole.description>O terminal de controle de acesso do cofre. As portas seladas do armazenamento só respondem a este console, e suas credenciais expiraram junto com a unidade que ocupava este local. Hackeie-o para liberar as portas.</DMS_VaultConsole.description>
+  <DMS_VaultConsole.label>console de segurança</DMS_VaultConsole.label>
+  <DMS_VaultElevator.description>A entrada para um cofre militar enterrado. O elevador ainda tem energia, mas seus controles estão trancados. Hackeie-o para trazer o carro até a superfície.</DMS_VaultElevator.description>
+  <DMS_VaultElevator.label>elevador de carga</DMS_VaultElevator.label>
+  <DMS_VaultElevatorExit.description>Um carro de elevador que se conecta à plataforma da superfície.</DMS_VaultElevatorExit.description>
+  <DMS_VaultElevatorExit.label>carro do elevador de carga</DMS_VaultElevatorExit.label>
+  <DMS_VaultElevator_Sealed.description>A plataforma de superfície de um elevador de carga enterrado, trancada sob uma tampa blindada. Os controles do poço estão ligados a um console de acesso próximo; passe um cartão-chave por ele para retrair a tampa e trazer o carro até a superfície.</DMS_VaultElevator_Sealed.description>
+  <DMS_VaultElevator_Sealed.label>elevador de carga selado</DMS_VaultElevator_Sealed.label>
+  <DMS_VaultGateConsole.comps.0.hackedInspectString>Portão setorial aberto.</DMS_VaultGateConsole.comps.0.hackedInspectString>
+  <DMS_VaultGateConsole.comps.0.hackedMessage>{HACKER_labelShort} abriu o portão setorial.</DMS_VaultGateConsole.comps.0.hackedMessage>
+  <DMS_VaultGateConsole.comps.0.notHackedInspectString>Hackeie para abrir o portão setorial.</DMS_VaultGateConsole.comps.0.notHackedInspectString>
+  <DMS_VaultGateConsole.description>O terminal de controle de um portão setorial. As portas seladas do portão só respondem a este console, e suas credenciais expiraram junto com a unidade que ocupava este local. Hackeie-o para abrir o portão.</DMS_VaultGateConsole.description>
+  <DMS_VaultGateConsole.label>console do portão</DMS_VaultGateConsole.label>
+  <DMS_Waterdispenser.description>Um bebedouro com garrafa, com torneiras quente e fria. Um pequeno conforto em uma instalação estéril.</DMS_Waterdispenser.description>
+  <DMS_Waterdispenser.label>bebedouro</DMS_Waterdispenser.label>
+  <DMS_WaterdispenserDestroyed.description>Os destroços de um bebedouro. A garrafa está rachada e vazia, e as torneiras corroeram até ficarem sólidas. Desmontá-lo rende alguns pedaços de sucata metálica.</DMS_WaterdispenserDestroyed.description>
+  <DMS_WaterdispenserDestroyed.label>bebedouro arruinado</DMS_WaterdispenserDestroyed.label>
+  <DMS_Weapon_GrenadeSubsonic.description>Granadas que liberam um único pulso de infrassom sintonizado ao invés de estilhaços. O infrassom atravessa paredes e coberturas igualmente, então o pulso alcança todas as criaturas vivas em seu raio, amigas ou inimigas, causando náuseas, dor e pânico. Edifícios e mecanoides não são afetados.</DMS_Weapon_GrenadeSubsonic.description>
+  <DMS_Weapon_GrenadeSubsonic.label>granadas infrassônicas</DMS_Weapon_GrenadeSubsonic.label>
+  <DMS_Weapon_GrenadeSubsonic.verbs.0.label>arremessar granada infrassônica</DMS_Weapon_GrenadeSubsonic.verbs.0.label>
+  <DMS_Wreckage_Chunk.description>Um pedaço de destroços irreconhecível. Tecnicamente, serve como uma cobertura decente. Demora um pouco para desmontá-lo por completo, mas rende uma pequena quantidade de sucata metálica.</DMS_Wreckage_Chunk.description>
+  <DMS_Wreckage_Chunk.label>pedaço de destroços</DMS_Wreckage_Chunk.label>
+  <DMS_Wreckage_Ronin.description>Um autômato Ronin bastante danificado. Tecnicamente, serve como uma cobertura razoável, e uma pequena quantidade de sucata metálica pode ser recuperada dele.</DMS_Wreckage_Ronin.description>
+  <DMS_Wreckage_Ronin.label>ronin desativado</DMS_Wreckage_Ronin.label>
+  <DMS_Wreckage_SentryGun.description>Uma pequena torre sentinela bastante danificada. Tecnicamente, serve como uma cobertura razoável, e uma pequena quantidade de sucata metálica pode ser recuperada dela.</DMS_Wreckage_SentryGun.description>
+  <DMS_Wreckage_SentryGun.label>torre sentinela desativada</DMS_Wreckage_SentryGun.label>
+  <DMS_ZeroPointGenerator.comps.CompRefuelable.fuelGizmoLabel>Catalisador de antigrãos</DMS_ZeroPointGenerator.comps.CompRefuelable.fuelGizmoLabel>
+  <DMS_ZeroPointGenerator.comps.CompRefuelable.fuelLabel>Catalisador de antigrãos</DMS_ZeroPointGenerator.comps.CompRefuelable.fuelLabel>
+  <DMS_ZeroPointGenerator.description>Um dispositivo complexo que abre uma fenda no espaço real por meio da liberação controlada de energia de antigrãos, extraindo energia inesgotável das flutuações quânticas externas e condensando-a em blocos de energia sólida para armazenamento e processamento convenientes.\n\nComo as colônias geralmente carecem de tecnologia para produzir antigrãos, o dispositivo normalmente precisa de ogivas de antigrãos prontas como catalisador para iniciar seu funcionamento.\n\nEnquanto energizado, cada ogiva de antigrãos carregada como catalisador rende 25 unidades de energia de ponto zero solidificada, uma a cada 2,4 dias. Uma única ogiva mantém o núcleo em funcionamento por cerca de um ano.</DMS_ZeroPointGenerator.description>
+  <DMS_ZeroPointGenerator.label>núcleo do gerador de ponto zero</DMS_ZeroPointGenerator.label>
+  <DMS_ZeroPointReactor.comps.CompRefuelable.fuelGizmoLabel>Energia solidificada</DMS_ZeroPointReactor.comps.CompRefuelable.fuelGizmoLabel>
+  <DMS_ZeroPointReactor.comps.CompRefuelable.fuelLabel>Energia solidificada</DMS_ZeroPointReactor.comps.CompRefuelable.fuelLabel>
+  <DMS_ZeroPointReactor.description>Um gerador que desfaz o campo de confinamento da energia de ponto zero solidificada em uma cascata controlada e converte o que é liberado em eletricidade. A maioria das tecnologias humanas não consegue tocar a energia trancada dentro de um bloco; este reator é uma das poucas exceções.\n\nEle carrega um bloco por vez, e um único bloco o mantém em plena potência por um ano inteiro. O compartimento comporta cinco.</DMS_ZeroPointReactor.description>
+  <DMS_ZeroPointReactor.label>reator de ponto zero</DMS_ZeroPointReactor.label>
+  <PulsarEmitterUnit.description>Um componente de precisão usado para gerar campos de força pulsados e a base da maioria das tecnologias de escudo dos mundos médios. Uma única unidade emissora só consegue sustentar um campo de força de intensidade limitada, mas agrupar várias delas produz um escudo de energia forte o suficiente para desviar projéteis de artilharia.</PulsarEmitterUnit.description>
+  <PulsarEmitterUnit.label>Unidade Emissora de Pulsar</PulsarEmitterUnit.label>
+  <DMS_AirRaidTest.description>Um dispositivo de ampliação óptica que amplifica a luz existente em condições de pouca luz e a projeta através da tela para os olhos do usuário. Compatível com a maioria dos capacetes e pode ser usado sozinho.</DMS_AirRaidTest.description>
+  <DMS_AirRaidTest.label>Óculos de Ataque Aéreo</DMS_AirRaidTest.label>
+  <DMS_AssaultShotgun.verbs.Verb_Shoot.label>Espingarda de Assalto Mecanoide</DMS_AssaultShotgun.verbs.Verb_Shoot.label>
+  <DMS_AutomaticGrenadeLauncher.verbs.Verb_Shoot.label>Lançador de Granadas Mecanoide</DMS_AutomaticGrenadeLauncher.verbs.Verb_Shoot.label>
+  <DMS_Bullet_Shell_BlasterSmoke.label>projétil de tela de fumaça</DMS_Bullet_Shell_BlasterSmoke.label>
+  <DMS_ElephantGun.tools.stock.label>coronha</DMS_ElephantGun.tools.stock.label>
+  <DMS_Gun_GateKeeper.verbs.Verb_Shoot.label>Gatekeeper</DMS_Gun_GateKeeper.verbs.Verb_Shoot.label>
+  <DMS_Gun_GateKeeper.verbs.Verb_ShootCE.label>Gatekeeper</DMS_Gun_GateKeeper.verbs.Verb_ShootCE.label>
+  <DMS_Gun_MiniFlameblaster.description>Um lança-chamas pequeno e voltado a rajadas, usado por mecanoides.</DMS_Gun_MiniFlameblaster.description>
+  <DMS_Gun_MiniFlameblaster.label>mini-lança-chamas</DMS_Gun_MiniFlameblaster.label>
+  <DMS_Gun_Tunguska.description>Um sistema de armas que inclui dois canhões automáticos 2A38 e oito lançadores de mísseis.</DMS_Gun_Tunguska.description>
+  <DMS_Gun_Tunguska.label>Tunguska</DMS_Gun_Tunguska.label>
+  <DMS_Gun_Tunguska.verbs.Verb_Shoot.label>Tunguska</DMS_Gun_Tunguska.verbs.Verb_Shoot.label>
+  <DMS_Gun_Tunguska.verbs.Verb_ShootCE.label>Tunguska</DMS_Gun_Tunguska.verbs.Verb_ShootCE.label>
+  <DMS_Hound_FS_Base.description>Uma estação para montar e recarregar o Sabujo de Supressão de Incêndio.</DMS_Hound_FS_Base.description>
+  <DMS_Hound_FS_Base.label>Estação de recarga de Sabujo (Supressão de Incêndio)</DMS_Hound_FS_Base.label>
+  <DMS_Hound_RC_Base.description>Uma estação para montar e recarregar o Sabujo de Controle de Distúrbios.</DMS_Hound_RC_Base.description>
+  <DMS_Hound_RC_Base.label>Estação de recarga de Sabujo (Controle de Distúrbios)</DMS_Hound_RC_Base.label>
+  <DMS_Machine_Hound.description>Um robô canino quadrúpede capaz de realizar reconhecimento avançado e dar apoio em combate urbano. Pode ser equipado com armas de pequeno calibre ou lança-chamas para aumentar sua capacidade de combate.</DMS_Machine_Hound.description>
+  <DMS_Machine_Hound.label>Sabujo</DMS_Machine_Hound.label>
+  <DMS_Machine_Hound.tools.head.label>cabeça</DMS_Machine_Hound.tools.head.label>
+  <DMS_Machine_Hound_FS.description>Uma variante do Sabujo, projetada para apoio de fogo em combate urbano.</DMS_Machine_Hound_FS.description>
+  <DMS_Machine_Hound_FS.label>hetzen</DMS_Machine_Hound_FS.label>
+  <DMS_Machine_Hound_RC.description>Uma variante do Sabujo, projetada para controle de distúrbios e patrulha prisional.</DMS_Machine_Hound_RC.description>
+  <DMS_Machine_Hound_RC.label>cão de guarda</DMS_Machine_Hound_RC.label>
+  <DMS_Machine_TrashBin.description>Robôs de serviço cilíndricos usados em cidades de mundos médios para limpeza de ruas, entrega expressa de alimentos, além de serem os primeiros a auxiliar em evacuações e manter a ordem em caso de emergências.</DMS_Machine_TrashBin.description>
+  <DMS_Machine_TrashBin.label>Lixeira</DMS_Machine_TrashBin.label>
+  <DMS_Machine_TrashBin.tools.head.label>cabeça</DMS_Machine_TrashBin.tools.head.label>
+  <DMS_Machine_VerlingBird.description>Um quadricóptero projetado para reconhecimento. É bastante frágil em combate, mas se move extremamente rápido. Pode ser equipado com uma arma de pequeno calibre ou granada para aumentar sua capacidade de combate.</DMS_Machine_VerlingBird.description>
+  <DMS_Machine_VerlingBird.label>pássaro Verling</DMS_Machine_VerlingBird.label>
+  <DMS_Machine_VerlingBird.tools.head.label>cabeça</DMS_Machine_VerlingBird.tools.head.label>
+  <DMS_Machine_VerlingBirdA.description>Um quadricóptero projetado para reconhecimento. É bastante frágil em combate, mas se move extremamente rápido. Pode ser equipado com uma arma de pequeno calibre ou granada para aumentar sua capacidade de combate.</DMS_Machine_VerlingBirdA.description>
+  <DMS_Machine_VerlingBirdA.label>pássaro Verling</DMS_Machine_VerlingBirdA.label>
+  <DMS_Machine_VerlingBirdA.tools.head.label>cabeça</DMS_Machine_VerlingBirdA.tools.head.label>
+  <DMS_Mech_Caretta.tools.0.label>cabeça</DMS_Mech_Caretta.tools.0.label>
+  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
+  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
+  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
+  <DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Dogge.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
+  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
+  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
+  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
+  <DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Gecko.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
+  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
+  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
+  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
+  <DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Geochelone.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
+  <DMS_Mech_Geochelone.tools.0.label>cabeça</DMS_Mech_Geochelone.tools.0.label>
+  <DMS_Mech_Geochelone_b.description>Uma plataforma de apoio não tripulada, todo-terreno sobre esteiras, com escudo pulsante, com uma grande variedade de modelos e variantes de produção.</DMS_Mech_Geochelone_b.description>
+  <DMS_Mech_Geochelone_b.label>geochelone</DMS_Mech_Geochelone_b.label>
+  <DMS_Mech_Geochelone_b.tools.head.label>cabeça</DMS_Mech_Geochelone_b.tools.head.label>
+  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
+  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
+  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
+  <DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Iguana.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
+  <DMS_Mech_Killdozer.tools.0.label>lâmina de terraplenagem</DMS_Mech_Killdozer.tools.0.label>
+  <DMS_Mech_Killdozer_b.description>Um sapador de assalto não tripulado com lâmina de terraplenagem para romper fortificações na linha de frente. A blindagem em diversas partes do corpo também foi reforçada.</DMS_Mech_Killdozer_b.description>
+  <DMS_Mech_Killdozer_b.label>killdozer</DMS_Mech_Killdozer_b.label>
+  <DMS_Mech_Killdozer_b.tools.dozer_blade.label>lâmina de terraplenagem</DMS_Mech_Killdozer_b.tools.dozer_blade.label>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_Target>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.commandDesc_ToggleFire>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_Target>Mirar alvo</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_Target>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>Atirar à vontade</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.0.command_ToggleFire>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_Target>Mirar no alvo designado</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_Target>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_ToggleFire>Alternar a torreta para o modo de controle manual para evitar disparos desnecessários.</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.commandDesc_ToggleFire>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_Target>Mirar alvo</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_Target>
+  <DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_ToggleFire>Atirar à vontade</DMS_Mech_Tarbosaurus.comps.CompMultipleTurretGun.subTurrets.1.command_ToggleFire>
+  <DMS_Revolver.verbs.Verb_Shoot.label>Revólver de Distúrbios</DMS_Revolver.verbs.Verb_Shoot.label>
+  <DMS_RiotShotgun.verbs.Verb_Shoot.label>Espingarda de chumbos raiados</DMS_RiotShotgun.verbs.Verb_Shoot.label>
+  <DMS_Tarbosaurus_BossGun.description>Um autocanhão pesado de dois canos para supressão de infantaria e como plataforma antiaérea.\n\nEsta arma foi projetada especialmente para uso por autômatos e é muito pesada, sendo operável apenas por autômatos específicos.</DMS_Tarbosaurus_BossGun.description>
+  <DMS_Tarbosaurus_BossGun.label>2A38M</DMS_Tarbosaurus_BossGun.label>
+  <DMS_Turret_Sentry.comps.CompMechPowerCell.labelOverride>Energia da bateria</DMS_Turret_Sentry.comps.CompMechPowerCell.labelOverride>
+  <DMS_Turret_Sentry.comps.CompMechPowerCell.tooltipOverride>Esta torreta possui autonomia limitada por bateria. Quando a bateria acabar, ela deixará de funcionar completamente.</DMS_Turret_Sentry.comps.CompMechPowerCell.tooltipOverride>
+  <DMS_Turret_Tunguska.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</DMS_Turret_Tunguska.comps.CompRefuelable.fuelGizmoLabel>
+  <DMS_Turret_Tunguska.comps.CompRefuelable.fuelLabel>Tiros até a troca do cano</DMS_Turret_Tunguska.comps.CompRefuelable.fuelLabel>
+  <DMS_Turret_Tunguska.comps.CompRefuelable.outOfFuelMessage>Não é possível atirar: É necessário um novo cano reforçado.</DMS_Turret_Tunguska.comps.CompRefuelable.outOfFuelMessage>
+  <DMS_Turret_Tunguska.description>Uma torreta controlada remotamente composta por dois canhões automáticos 2A38 e oito lançadores de mísseis. Devido ao baixo custo de manutenção e modificação, é comumente vista em postos avançados da frota colonial em mundos da borda.</DMS_Turret_Tunguska.description>
+  <DMS_Turret_Tunguska.label>Tunguska</DMS_Turret_Tunguska.label>
+  <DMS_VerlingBird_Base.description>Uma estação para montar e recarregar pássaros Verling.</DMS_VerlingBird_Base.description>
+  <DMS_VerlingBird_Base.label>Estação de recarga de pássaro Verling</DMS_VerlingBird_Base.label>
+</LanguageData>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ModuleEjected>{0} foi esgotado e ejetado do exotraje de {1}.</MF_ModuleEjected>
+  <WG_AmmoBackpack_Activated>{0} ativado</WG_AmmoBackpack_Activated>
+  <WG_AmmoBackpack_AddMixAmmo>+ Adicionar Tipo de Munição</WG_AmmoBackpack_AddMixAmmo>
+  <WG_AmmoBackpack_AddSlot>+ Adicionar Espaço</WG_AmmoBackpack_AddSlot>
+  <WG_AmmoBackpack_AlreadyUsed>(em uso)</WG_AmmoBackpack_AlreadyUsed>
+  <WG_AmmoBackpack_AmmoStatus>{0}: {1} / {2}</WG_AmmoBackpack_AmmoStatus>
+  <WG_AmmoBackpack_AmmoTip>{0}\nMassa: {1} kg\nCapacidade Máxima: {2}</WG_AmmoBackpack_AmmoTip>
+  <WG_AmmoBackpack_AvailableAmmo>Munição Disponível</WG_AmmoBackpack_AvailableAmmo>
+  <WG_AmmoBackpack_Cancel>Cancelar</WG_AmmoBackpack_Cancel>
+  <WG_AmmoBackpack_ClearType>Limpar Tipo</WG_AmmoBackpack_ClearType>
+  <WG_AmmoBackpack_ColorBlue>Azul</WG_AmmoBackpack_ColorBlue>
+  <WG_AmmoBackpack_ColorGray>Cinza</WG_AmmoBackpack_ColorGray>
+  <WG_AmmoBackpack_ColorGreen>Verde</WG_AmmoBackpack_ColorGreen>
+  <WG_AmmoBackpack_ColorLegend>Legenda de Cores da Munição:</WG_AmmoBackpack_ColorLegend>
+  <WG_AmmoBackpack_ColorOrange>Laranja</WG_AmmoBackpack_ColorOrange>
+  <WG_AmmoBackpack_ColorRed>Vermelho</WG_AmmoBackpack_ColorRed>
+  <WG_AmmoBackpack_ColorYellow>Amarelo</WG_AmmoBackpack_ColorYellow>
+  <WG_AmmoBackpack_CurrentRatio>Proporção Atual: {0}</WG_AmmoBackpack_CurrentRatio>
+  <WG_AmmoBackpack_Delete>Excluir</WG_AmmoBackpack_Delete>
+  <WG_AmmoBackpack_DeletePresetConfirm>Excluir predefinição "{0}"?</WG_AmmoBackpack_DeletePresetConfirm>
+  <WG_AmmoBackpack_EditorTitle>Editor de Armazenamento de Munição</WG_AmmoBackpack_EditorTitle>
+  <WG_AmmoBackpack_Eject>Ejetar Munição</WG_AmmoBackpack_Eject>
+  <WG_AmmoBackpack_Global>Global</WG_AmmoBackpack_Global>
+  <WG_AmmoBackpack_HeavyPack>Mochila Pesada</WG_AmmoBackpack_HeavyPack>
+  <WG_AmmoBackpack_LightBox>Caixa de Munição</WG_AmmoBackpack_LightBox>
+  <WG_AmmoBackpack_Load>Carregar</WG_AmmoBackpack_Load>
+  <WG_AmmoBackpack_LoadPreset>Carregar</WG_AmmoBackpack_LoadPreset>
+  <WG_AmmoBackpack_MainPack>Mochila</WG_AmmoBackpack_MainPack>
+  <WG_AmmoBackpack_ManagePresets>Gerenciar Predefinições...</WG_AmmoBackpack_ManagePresets>
+  <WG_AmmoBackpack_ManagePresetsTitle>Gerenciar Predefinições Mistas</WG_AmmoBackpack_ManagePresetsTitle>
+  <WG_AmmoBackpack_MixMode>Cinto Misto</WG_AmmoBackpack_MixMode>
+  <WG_AmmoBackpack_MixModeBtn>Misto</WG_AmmoBackpack_MixModeBtn>
+  <WG_AmmoBackpack_MixRatio>Proporção: {0}</WG_AmmoBackpack_MixRatio>
+  <WG_AmmoBackpack_MixStatus>Misto: {0} / {1}</WG_AmmoBackpack_MixStatus>
+  <WG_AmmoBackpack_NoAmmoAvailable>Nenhuma munição disponível</WG_AmmoBackpack_NoAmmoAvailable>
+  <WG_AmmoBackpack_NoAmmoSelected>Nenhuma munição selecionada</WG_AmmoBackpack_NoAmmoSelected>
+  <WG_AmmoBackpack_NoCompatibleAmmoSet>Nenhum conjunto de munição compatível</WG_AmmoBackpack_NoCompatibleAmmoSet>
+  <WG_AmmoBackpack_NoMixConfig>Nenhuma mistura configurada</WG_AmmoBackpack_NoMixConfig>
+  <WG_AmmoBackpack_NoMoreAmmo>Não há mais munição disponível</WG_AmmoBackpack_NoMoreAmmo>
+  <WG_AmmoBackpack_NoPresetManager>Gerenciador de predefinições não disponível</WG_AmmoBackpack_NoPresetManager>
+  <WG_AmmoBackpack_NoPresets>Nenhuma predefinição salva</WG_AmmoBackpack_NoPresets>
+  <WG_AmmoBackpack_NoSearchResult>Nenhum resultado correspondente</WG_AmmoBackpack_NoSearchResult>
+  <WG_AmmoBackpack_NoWeapon>Nenhuma arma compatível</WG_AmmoBackpack_NoWeapon>
+  <WG_AmmoBackpack_NoWeaponModule>Sem módulo de arma</WG_AmmoBackpack_NoWeaponModule>
+  <WG_AmmoBackpack_NormalMode>Normal</WG_AmmoBackpack_NormalMode>
+  <WG_AmmoBackpack_OtherAmmo>Outras Munições</WG_AmmoBackpack_OtherAmmo>
+  <WG_AmmoBackpack_OtherAmmoSet>Outros Conjuntos de Munição</WG_AmmoBackpack_OtherAmmoSet>
+  <WG_AmmoBackpack_PendingSwitch>Pendente: {0} (descarregamento necessário)</WG_AmmoBackpack_PendingSwitch>
+  <WG_AmmoBackpack_PresetApplied>Predefinição "{0}" aplicada</WG_AmmoBackpack_PresetApplied>
+  <WG_AmmoBackpack_PresetApplyFailed>Falha ao aplicar predefinição</WG_AmmoBackpack_PresetApplyFailed>
+  <WG_AmmoBackpack_PresetDefault>Predefinição</WG_AmmoBackpack_PresetDefault>
+  <WG_AmmoBackpack_PresetEmpty>Predefinição vazia</WG_AmmoBackpack_PresetEmpty>
+  <WG_AmmoBackpack_PresetName>Nome:</WG_AmmoBackpack_PresetName>
+  <WG_AmmoBackpack_PresetNeedEmpty>(precisa estar vazio)</WG_AmmoBackpack_PresetNeedEmpty>
+  <WG_AmmoBackpack_PresetOverwrite>A predefinição "{0}" já existe. Sobrescrever?</WG_AmmoBackpack_PresetOverwrite>
+  <WG_AmmoBackpack_PresetSaveFailed>Falha ao salvar predefinição</WG_AmmoBackpack_PresetSaveFailed>
+  <WG_AmmoBackpack_PresetSaved>Predefinição "{0}" salva</WG_AmmoBackpack_PresetSaved>
+  <WG_AmmoBackpack_Rename>Renomear</WG_AmmoBackpack_Rename>
+  <WG_AmmoBackpack_RenameExists>O nome já existe</WG_AmmoBackpack_RenameExists>
+  <WG_AmmoBackpack_Save>Salvar</WG_AmmoBackpack_Save>
+  <WG_AmmoBackpack_SavePreset>Salvar</WG_AmmoBackpack_SavePreset>
+  <WG_AmmoBackpack_SavePresetTitle>Salvar Predefinição Mista</WG_AmmoBackpack_SavePresetTitle>
+  <WG_AmmoBackpack_SelectAmmo>Selecionar tipo de munição</WG_AmmoBackpack_SelectAmmo>
+  <WG_AmmoBackpack_SelectAmmoSet>Selecionar Conjunto de Munição</WG_AmmoBackpack_SelectAmmoSet>
+  <WG_AmmoBackpack_SelectAmmoSetFirst>Por favor, selecione um conjunto de munição primeiro</WG_AmmoBackpack_SelectAmmoSetFirst>
+  <WG_AmmoBackpack_SelectType>Selecionar...</WG_AmmoBackpack_SelectType>
+  <WG_AmmoBackpack_Title>Mochila de Munição</WG_AmmoBackpack_Title>
+  <WG_AmmoBackpack_WeaponAmmo>Munição da Arma</WG_AmmoBackpack_WeaponAmmo>
+  <WG_AmmoBackpack_WeaponAmmoSet>Conjuntos de Munição da Arma</WG_AmmoBackpack_WeaponAmmoSet>
+  <WG_AmmoBackpack_WeaponModule>Módulo de Arma: {0}</WG_AmmoBackpack_WeaponModule>
+  <WG_AmmoBackpack_WildcardEmpty>Curinga</WG_AmmoBackpack_WildcardEmpty>
+  <WG_AmmoBackpack_WildcardMode>Modo Curinga\nCarrega qualquer munição do conjunto aleatoriamente\nDispara munição aleatória dos tipos carregados</WG_AmmoBackpack_WildcardMode>
+  <WG_AmmoBackpack_WildcardTypes>{0} tipos</WG_AmmoBackpack_WildcardTypes>
+  <WG_ApparelLayerTaken>{0} se recusou a tirar o equipamento que não cabe neste exotraje</WG_ApparelLayerTaken>
+  <WG_ArmorCapacity>Capacidade de carga:</WG_ArmorCapacity>
+  <WG_ArmorDeadWeight>Peso morto:</WG_ArmorDeadWeight>
+  <WG_ArmorSpeed>Velocidade de movimento do exotraje:</WG_ArmorSpeed>
+  <WG_AssignPilot>designar piloto</WG_AssignPilot>
+  <WG_AutoRepair>Reparo automático</WG_AutoRepair>
+  <WG_AutoRepair_Desc>Alterna se os colonos devem reparar automaticamente os módulos danificados neste pórtico.</WG_AutoRepair_Desc>
+  <WG_AutoRepair_NoCore>O pórtico alvo não possui exotraje</WG_AutoRepair_NoCore>
+  <WG_AutoRepair_NoDamage>Exotraje totalmente reparado</WG_AutoRepair_NoDamage>
+  <WG_AutoRepair_NoTarget>Nenhum pórtico de manutenção detectado</WG_AutoRepair_NoTarget>
+  <WG_AutoRepair_SideOccupied>Este lado já possui um braço de reparo</WG_AutoRepair_SideOccupied>
+  <WG_AutoRepair_Working>Reparando...</WG_AutoRepair_Working>
+  <WG_AvailableModuleForThisSlot>Módulos disponíveis para este espaço</WG_AvailableModuleForThisSlot>
+  <WG_BareHands>nenhum</WG_BareHands>
+  <WG_BayHasNoCore>Sem estrutura central</WG_BayHasNoCore>
+  <WG_BayOccupied>Pórtico ocupado</WG_BayOccupied>
+  <WG_BayTip>Clique no slot central para acessar os módulos nas prateleiras vinculadas</WG_BayTip>
+  <WG_Blunt_CE>MPA</WG_Blunt_CE>
+  <WG_CancelCoreWork>Cancelar trabalho na estrutura central</WG_CancelCoreWork>
+  <WG_CancelInstall>Cancelar instalação: {0}</WG_CancelInstall>
+  <WG_CancelRemove>Cancelar remoção: {0}</WG_CancelRemove>
+  <WG_CancelReplace>Cancelar substituição: {0}</WG_CancelReplace>
+  <WG_ChangeModuleColor>Alterar cor do módulo</WG_ChangeModuleColor>
+  <WG_CommandManualAttack>Ataque manual ({0})</WG_CommandManualAttack>
+  <WG_CommandManualAttackDesc>Ordena que esta torreta ataque um alvo específico.</WG_CommandManualAttackDesc>
+  <WG_CommandStopAttack>Parar ataque</WG_CommandStopAttack>
+  <WG_CommandStopAttackDesc>Interrompe o ataque forçado atual e retorna ao modo de fogo automático.</WG_CommandStopAttackDesc>
+  <WG_CommandToggleTurret>alternar torreta</WG_CommandToggleTurret>
+  <WG_CommandToggleTurretDesc>Comandar alternância da torreta</WG_CommandToggleTurretDesc>
+  <WG_CoreWorkInProgress>Trabalho na estrutura central em andamento, não é possível operar</WG_CoreWorkInProgress>
+  <WG_Disabled_AlreadyHasCoreFrame>{0} já está pilotando</WG_Disabled_AlreadyHasCoreFrame>
+  <WG_Disabled_NeedControlledAndDrafted>Não é possível usar: Precisa estar mobilizado</WG_Disabled_NeedControlledAndDrafted>
+  <WG_Disabled_NoCoreFrame>Não há estrutura neste pórtico</WG_Disabled_NoCoreFrame>
+  <WG_Disabled_NoMaintenanceBay>Não é possível carregar: Nenhum pórtico disponível</WG_Disabled_NoMaintenanceBay>
+  <WG_Disabled_VictimInWalkerCore>Não é possível resgatar: ferido no exotraje.</WG_Disabled_VictimInWalkerCore>
+  <WG_EjectToTile>Lançamento aéreo de longo alcance</WG_EjectToTile>
+  <WG_EmergencyEject>Ejeção de emergência</WG_EmergencyEject>
+  <WG_EmergencyEject_Desc>Ao ativar o protocolo de fuga, foguetes de propelente sólido ejetarão o piloto para um local designado dentro do alcance e destruirão a estrutura.</WG_EmergencyEject_Desc>
+  <WG_Finalized>Finalizado</WG_Finalized>
+  <WG_FuelCell_Fuel>Combustível</WG_FuelCell_Fuel>
+  <WG_FuelCell_FuelCapacity>Capacidade de combustível</WG_FuelCell_FuelCapacity>
+  <WG_FuelCell_FuelCapacity_Desc>Capacidade máxima de combustível que pode ser armazenada no módulo.</WG_FuelCell_FuelCapacity_Desc>
+  <WG_FuelCell_FuelConsumptionPerDay>Consumo diário de combustível</WG_FuelCell_FuelConsumptionPerDay>
+  <WG_FuelCell_FuelConsumptionPerDay_Desc>Quantidade de combustível consumida por dia enquanto em operação.</WG_FuelCell_FuelConsumptionPerDay_Desc>
+  <WG_FuelCell_FuelPerUnit>Reabastecimento por unidade</WG_FuelCell_FuelPerUnit>
+  <WG_FuelCell_FuelPerUnit_Desc>Quantidade de combustível reabastecida por unidade de combustível.</WG_FuelCell_FuelPerUnit_Desc>
+  <WG_FuelCell_FuelPercent>Quantidade de combustível</WG_FuelCell_FuelPercent>
+  <WG_FuelCell_FuelPercent_Desc>Porcentagem de combustível restante no módulo.</WG_FuelCell_FuelPercent_Desc>
+  <WG_FuelCell_Hediff>Efeito de status</WG_FuelCell_Hediff>
+  <WG_FuelCell_Hediff_Desc>Condição de saúde aplicada quando este módulo está ativado.</WG_FuelCell_Hediff_Desc>
+  <WG_FuelCell_MoveSpeedOffset_Desc>Bônus de velocidade de movimento fornecido por este módulo do exotraje quando há combustível suficiente.</WG_FuelCell_MoveSpeedOffset_Desc>
+  <WG_FuelCell_Tip>A célula de combustível fornece energia extra para o exotraje, consumida enquanto este estiver em uso.\nOs colonos transportarão automaticamente combustível químico para reabastecê-la.</WG_FuelCell_Tip>
+  <WG_GetIn>Pilotar</WG_GetIn>
+  <WG_GetInAssigned>entrar no pórtico</WG_GetInAssigned>
+  <WG_GetInDesc>Ordena que este piloto designado caminhe até seu pórtico de manutenção e se equipe - o exotraje é vestido automaticamente ao chegar.</WG_GetInDesc>
+  <WG_GetOff>Retornar ao pórtico</WG_GetOff>
+  <WG_GetOffDesc>Ordena que este piloto retorne ao seu pórtico de manutenção designado - o exotraje é removido automaticamente ao chegar.</WG_GetOffDesc>
+  <WG_HasMechWeapon>Módulo armado</WG_HasMechWeapon>
+  <WG_Job_DisassembleFrame>Desmontar exotraje abatido</WG_Job_DisassembleFrame>
+  <WG_Job_TakeToMaintenanceBay>Transportar até o pórtico</WG_Job_TakeToMaintenanceBay>
+  <WG_MechSolution>Personalizar</WG_MechSolution>
+  <WG_ModuleInfo_Load>Carga: {0}</WG_ModuleInfo_Load>
+  <WG_ModuleInfo_LoadTip>Massa do módulo: {0} kg\nCarga após instalação: {1} / {2}</WG_ModuleInfo_LoadTip>
+  <WG_ModuleInfo_OverloadWarning>Aviso: Excederá a capacidade de carga!</WG_ModuleInfo_OverloadWarning>
+  <WG_ModuleInfo_Slots>Substituirá: {0}</WG_ModuleInfo_Slots>
+  <WG_NoAvailablePilot>Nenhum piloto disponível</WG_NoAvailablePilot>
+  <WG_NoModuleForSlot>Nenhum módulo disponível</WG_NoModuleForSlot>
+  <WG_Occupied>Ocupado</WG_Occupied>
+  <WG_OverallArmor>Ponto estrutural</WG_OverallArmor>
+  <WG_Overload>[Overloaded]</WG_Overload>
+  <WG_Pending>Pendente</WG_Pending>
+  <WG_PendingRemove>Removendo</WG_PendingRemove>
+  <WG_PendingReplace>Substituindo</WG_PendingReplace>
+  <WG_Performance>Capacidade de carga:</WG_Performance>
+  <WG_PilotExosuitMoveSpeed>Velocidade de movimento do piloto no exotraje:</WG_PilotExosuitMoveSpeed>
+  <WG_PilotInBuilding>Piloto:</WG_PilotInBuilding>
+  <WG_PilotingFrame>Pilotando exotraje</WG_PilotingFrame>
+  <WG_PreferMeleeModuleWeapon_Desc>Quando módulos corpo a corpo e à distância estiverem instalados, escolha qual equipar ao montar.</WG_PreferMeleeModuleWeapon_Desc>
+  <WG_PreferMeleeModuleWeapon_Hover_ToMelee>Alternar para módulo corpo a corpo</WG_PreferMeleeModuleWeapon_Hover_ToMelee>
+  <WG_PreferMeleeModuleWeapon_Hover_ToRanged>Alternar para módulo à distância</WG_PreferMeleeModuleWeapon_Hover_ToRanged>
+  <WG_PreferMeleeModuleWeapon_Idle_Melee>Padrão: módulo corpo a corpo</WG_PreferMeleeModuleWeapon_Idle_Melee>
+  <WG_PreferMeleeModuleWeapon_Idle_Ranged>Padrão: módulo à distância</WG_PreferMeleeModuleWeapon_Idle_Ranged>
+  <WG_PreferModuleWeapon_Desc>Quando o piloto montar o exotraje, escolha qual arma equipar por padrão.</WG_PreferModuleWeapon_Desc>
+  <WG_PreferModuleWeapon_Hover_ToModule>Alternar para arma do módulo</WG_PreferModuleWeapon_Hover_ToModule>
+  <WG_PreferModuleWeapon_Hover_ToPilot>Alternar para arma do piloto</WG_PreferModuleWeapon_Hover_ToPilot>
+  <WG_PreferModuleWeapon_Idle_Module>Padrão: arma do módulo</WG_PreferModuleWeapon_Idle_Module>
+  <WG_PreferModuleWeapon_Idle_Pilot>Padrão: arma do piloto</WG_PreferModuleWeapon_Idle_Pilot>
+  <WG_RequestInstall>Solicitar instalação: {0}</WG_RequestInstall>
+  <WG_RequestRemove>Solicitar remoção: {0}</WG_RequestRemove>
+  <WG_RequestReplace>Solicitar substituição: {0}</WG_RequestReplace>
+  <WG_RequestReplaceCoreKeepModules>Substituir estrutura central (manter módulos): {0}</WG_RequestReplaceCoreKeepModules>
+  <WG_RequestReplaceCoreRemoveAll>Substituir estrutura central (remover todos os módulos): {0}</WG_RequestReplaceCoreRemoveAll>
+  <WG_RequireBionic>{0} não possui o implante adequado para pilotar este exotraje</WG_RequireBionic>
+  <WG_RequireMechsuit>Requer exotraje</WG_RequireMechsuit>
+  <WG_RequirePilotSuit>{0} não está vestindo um traje de piloto adequado para este exotraje</WG_RequirePilotSuit>
+  <WG_SafetyLock>Trava de segurança</WG_SafetyLock>
+  <WG_SafetyLock_Desc>Dispositivo de segurança para evitar uso indevido</WG_SafetyLock_Desc>
+  <WG_Sharp_CE>mm RHA</WG_Sharp_CE>
+  <WG_Stats_DisableSlotsOf>Espaços de módulo desativados:</WG_Stats_DisableSlotsOf>
+  <WG_Stats_TakingSlotsOf>Espaços de módulo ocupados:</WG_Stats_TakingSlotsOf>
+  <WG_StructurePoint>Integridade estrutural</WG_StructurePoint>
+  <WG_StructurePoint.Tooltip>O ponto estrutural geral de um exotraje, que anula os efeitos de dano em acertos para proteger o piloto do exotraje. Mas, se estiver abaixo de 25%, há 25% de chance de a armadura externa ser perfurada e causar dano ao piloto. Quando o valor estrutural chegar a zero, o exotraje ficará completamente desativado e prenderá seu piloto nos destroços. \n\nPara restaurar os pontos estruturais, o exotraje precisa estar acoplado a um pórtico de manutenção. Colonos com habilidades de fabricação poderão reparar a estrutura principal danificada e os submódulos.</WG_StructurePoint.Tooltip>
+  <WG_SubTurret>Sub-torreta</WG_SubTurret>
+  <WG_SubTurretDesc>Uma sub-torreta acoplada a esta estrutura</WG_SubTurretDesc>
+  <WG_TabMechGear>Exotraje</WG_TabMechGear>
+  <WG_TakeOutModuleWeapon>{0}</WG_TakeOutModuleWeapon>
+  <WG_ToggleModuleWeapon>Alternar arma do módulo</WG_ToggleModuleWeapon>
+  <WG_TooBigForPilot>{0} é muito grande para pilotar este exotraje</WG_TooBigForPilot>
+  <WG_TooYoungToPilot>{0} é muito jovem para pilotar este exotraje</WG_TooYoungToPilot>
+  <WG_TurretAmmo_AllowBackpack>Permitir alimentação da mochila</WG_TurretAmmo_AllowBackpack>
+  <WG_TurretAmmo_BackpackEnabled>Alimentação da mochila: Ativada</WG_TurretAmmo_BackpackEnabled>
+  <WG_TurretAmmo_Label>Munição da Torreta</WG_TurretAmmo_Label>
+  <WG_TurretAmmo_NoAmmo>Nenhuma munição carregada</WG_TurretAmmo_NoAmmo>
+  <WG_TurretAmmo_NoAmmoSet>Nenhum conjunto de munição configurado</WG_TurretAmmo_NoAmmoSet>
+  <WG_TurretAmmo_NoCompatible>Nenhum tipo de munição compatível</WG_TurretAmmo_NoCompatible>
+  <WG_TurretAmmo_None>Nenhuma</WG_TurretAmmo_None>
+  <WG_TurretAmmo_Selected>Munição:</WG_TurretAmmo_Selected>
+  <WG_TurretAmmo_Status>{0}: {1}/{2}</WG_TurretAmmo_Status>
+  <WG_WeaponDropped>Após deixar a estrutura, {0} não consegue equipar e largou a arma.</WG_WeaponDropped>
+  <WG_WeaponModule>Arma</WG_WeaponModule>
+  <WG_WeaponModule_Desc>Arma fornecida por este módulo, que pode ser alternada quando o exotraje estiver ativo.</WG_WeaponModule_Desc>
+</LanguageData>

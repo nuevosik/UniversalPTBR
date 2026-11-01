@@ -31,7 +31,7 @@
   <DMS_Platoon_MT.label>convocar apoio de esquadrão</DMS_Platoon_MT.label>
   <DMS_Platoon_MT.description>Convoque um esquadrão de soldados para ajudá-lo na batalha.</DMS_Platoon_MT.description>
   <DMS_Platoon_AC.label>convocar apoio de unidade pesada</DMS_Platoon_AC.label>
-  <DMS_Platoon_AC.description>Solicite 4 Autômatos Pesados para ajudá-lo na batalha.</DMS_Platoon_AC.description>
+  <DMS_Platoon_AC.description>Solicite 4 autômatos pesados para ajudá-lo na batalha.</DMS_Platoon_AC.description>
   <DMS_CallOrbitalStrike.label>solicitar bombardeio por drone</DMS_CallOrbitalStrike.label>
   <DMS_CallOrbitalStrike.description>Solicite um ataque de drone de impacto único contra uma posição alvo.</DMS_CallOrbitalStrike.description>
   <DMS_CallOrbitalSalvo.label>solicitar rajada por drone</DMS_CallOrbitalSalvo.label>
@@ -52,4 +52,6 @@
   <DMS_Platoon_MD.description>Convoque um esquadrão de dragões móveis para ajudá-lo na batalha.</DMS_Platoon_MD.description>
   <DMS_Join_Shuttle.label>solicitar recompensa de transporte</DMS_Join_Shuttle.label>
   <DMS_Join_Shuttle.description>Solicite um transporte de tripulação que será propriedade direta da sua colônia.</DMS_Join_Shuttle.description>
+  <DMS_Call_MobileLifter.description>Solicite um guindaste móvel totalmente abastecido para ser lançado em um local escolhido e diretamente propriedade da sua colônia. Ele pode voar uma vez com sua plataforma e mais uma vez como cápsula de retorno.</DMS_Call_MobileLifter.description>
+  <DMS_Call_MobileLifter.label>Solicitar guindaste móvel de tripulação</DMS_Call_MobileLifter.label>
 </LanguageData>

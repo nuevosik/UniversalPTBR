@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <DMS_Make_Falcon.label>gestar falcão</DMS_Make_Falcon.label>
-  <DMS_Make_Falcon.description>Gestar um autômato falcão.</DMS_Make_Falcon.description>
+  <DMS_Make_Falcon.description>Gestar um autômato Falcão, uma aeronave tri-rotor leve projetada para reconhecimento aéreo armado e ataques antiblindagem. Seu baixo custo de produção e demanda modesta de banda larga tornam-no a opção de apoio aéreo de reconhecimento mais barata que um mecanizador pode empregar.\n\nEle voa sobre terrenos que nenhuma unidade terrestre consegue atravessar, move-se cerca de duas vezes mais rápido que um mecanoide terrestre e pode carregar um lançador antitanque descartável, permitindo destruir alvos muito acima de sua própria classe de peso. Possui quase nenhuma blindagem e muito pouca estrutura, e seu armamento limita-se a armas leves e projéteis arremessáveis.</DMS_Make_Falcon.description>
   <DMS_Make_Noctula.label>gestar nóctula</DMS_Make_Noctula.label>
-  <DMS_Make_Noctula.description>Gestar um autômato nóctula.</DMS_Make_Noctula.description>
+  <DMS_Make_Noctula.description>Gestar um autômato Nóctula, uma conversão do Falcão voltada ao retransmissor de comando. O peso economizado ao remover seus pontos de arma é utilizado em um módulo de camuflagem óptica e em uma antena-relé, permitindo que ele paire atrás da linha inimiga e mantenha a cadeia de comando aberta para caçadores e destacamentos avançados.\n\nEm repouso, é praticamente invisível à observação e estende o alcance de controle do mecanizador para além do mapa local. Em troca, exige maior demanda de banda larga e possui capacidade limitada para carregar armas.</DMS_Make_Noctula.description>
   <DMS_Make_Ape.label>gestar autômato macaco</DMS_Make_Ape.label>
   <DMS_Make_Ape.description>Gestar um autômato macaco.</DMS_Make_Ape.description>
   <DMS_Make_Soldat.label>gestar soldado</DMS_Make_Soldat.label>
-  <DMS_Make_Soldat.description>Gestar um autômato soldado.</DMS_Make_Soldat.description>
+  <DMS_Make_Soldat.description>Gestar um autômato Soldat, um humanoide bípedo produzido em massa para lutar ao lado de unidades blindadas na linha de frente. Seu valor não está no desempenho individual, mas na compatibilidade com o sistema de suprimentos já existente.\n\nOcupa apenas um ponto de banda larga, seu pacote de bateria externo mantém seu consumo de energia abaixo do de mecanoides comparáveis e pode assumir o controle de algumas posições fixas de metralhadora. O Soldat é mal protegido contra trauma contuso e se move lentamente, o que o torna extremamente vulnerável quando pego em campo aberto.</DMS_Make_Soldat.description>
   <DMS_Make_Grenadier.label>gestar granadeiro</DMS_Make_Grenadier.label>
-  <DMS_Make_Grenadier.description>Gestar um autômato granadeiro.</DMS_Make_Grenadier.description>
+  <DMS_Make_Grenadier.description>Gestar um autômato Granadeiro, variante de fogo indireto do Soldat. Sua unidade de controle de tiro foi recalibrada para calcular trajetórias balísticas, permitindo operar lançadores de granadas, projéteis arremessáveis e suportes de morteiro para atingir alvos atrás de coberturas que o fogo direto não alcança.\n\nÉ a plataforma produzida mais eficiente para limpar posições fortificadas e demolir estruturas, e possui um lançador de clarão embutido para supressão. Em troca, exige aço-tungstênio e tecido sintético para construir, custa dois pontos de banda larga e defende-se mal a curta distância; herda a blindagem fina e o pacote de bateria exposto do Soldat. O fogo indireto não distingue amigos de inimigos - posicione-o atrás de suas unidades.</DMS_Make_Grenadier.description>
   <DMS_Make_Sergeant.label>gestar sargento</DMS_Make_Sergeant.label>
-  <DMS_Make_Sergeant.description>Gestar um autômato sargento.</DMS_Make_Sergeant.description>
+  <DMS_Make_Sergeant.description>Gestar um autômato Sargento, a conversão do Soldat voltada ao comando por relé, facilmente reconhecível pelo radar omnidirecional em forma de prato e pelo mastro de transceptor em suas costas. Sua função é organizar unidades dispersas em um Grupo de Batalha Combinado de Autômatos (GBCA) e manter a cadeia de comando aberta em nome do mecanizador quando este não puder avançar pessoalmente.\n\nSeu raio de retransmissão supera em muito o do Nóctula e estende o controle para mapas vizinhos. O código de identificação de seu transceptor T/R pode ser usado para solicitar reforços de Soldats e Falcões em órbita síncrona. Em troca, o peso e a carga de processamento do conjunto de radar custam quatro vezes mais banda larga que o Soldat, tornando-o mais lento, mais fragilmente blindado e capaz de carregar apenas armas de porte.</DMS_Make_Sergeant.description>
   <DMS_Make_BattleFrame.label>gestar autômato camarada de batalha</DMS_Make_BattleFrame.label>
   <DMS_Make_BattleFrame.description>Gestar um autômato camarada de batalha.</DMS_Make_BattleFrame.description>
   <DMS_Make_FieldCommand.label>gestar autômato comando de campo</DMS_Make_FieldCommand.label>
@@ -126,12 +126,12 @@
   <DMS_Make_Gladiator.description>Gestar um autômato gladiador.</DMS_Make_Gladiator.description>
   <DMS_Make_Killdozer.label>gestar killdozer</DMS_Make_Killdozer.label>
   <DMS_Make_Killdozer.description>Gestar um autômato killdozer.</DMS_Make_Killdozer.description>
-  <DMS_Make_Caretta.label>gestar caretta</DMS_Make_Caretta.label>
-  <DMS_Make_Caretta.description>Gestar um mecanoide caretta.</DMS_Make_Caretta.description>
+  <DMS_Make_Caretta.label>gestar tartaruga-careta</DMS_Make_Caretta.label>
+  <DMS_Make_Caretta.description>Gestar um mecanoide tartaruga-careta.</DMS_Make_Caretta.description>
   <DMS_Make_HermitCrab.label>gestar caranguejo-ermitão</DMS_Make_HermitCrab.label>
   <DMS_Make_HermitCrab.description>Gestar um autômato caranguejo-ermitão.</DMS_Make_HermitCrab.description>
   <DMS_Make_Dogge.label>gestar dogue</DMS_Make_Dogge.label>
-  <DMS_Make_Dogge.description>Gestar um autômato dogue.</DMS_Make_Dogge.description>
+  <DMS_Make_Dogge.description>Gestar um autômato dogue, uma plataforma quadrúpede equipada com metralhadora. Os feixes musculares sintéticos em suas pernas conferem mobilidade excepcional em terrenos acidentados, e seu perfil baixo o torna ideal para fornecer fogo de acompanhamento em campo aberto - sendo comumente usado para eliminar inimigos em fuga e em operações de contra-guerrilha.\n\nEle possui tanto uma torre de metralhadora fixa com engajamento automático quanto um ponto de arma secundário compatível com lança-chamas para combate próximo, além de se mover rápido o suficiente para acompanhar qualquer avanço. Cultivar seus músculos sintéticos é caro, sua blindagem resiste apenas a estilhaços e calibres pequenos, e seu ponto de arma não aceita armas de cano longo. O dogue é excelente para perseguir guerrilheiros leves velozes e prisioneiros fugitivos, além de ser muito eficaz em desbaratar focos de resistência.</DMS_Make_Dogge.description>
   <DMS_ExtractMetalFromSlag.label>fundir metal de destroços de autômato</DMS_ExtractMetalFromSlag.label>
   <DMS_ExtractMetalFromSlag.description>Use calor e eletroímãs fortes para extrair metais úteis de destroços de autômatos.</DMS_ExtractMetalFromSlag.description>
   <DMS_ExtractMetalFromSlag.jobString>Fundindo metal de destroços de autômatos.</DMS_ExtractMetalFromSlag.jobString>
@@ -152,7 +152,7 @@
   <DMS_ResurrectLightMech.label>ressuscitar autômato leve</DMS_ResurrectLightMech.label>
   <DMS_ResurrectLightMech.description>Ressuscite um autômato amigável da classe de peso leve. Enquanto o corpo do autômato não for completamente destruído, ele pode ser ressuscitado.</DMS_ResurrectLightMech.description>
   <DMS_Make_Hyrax.label>gestar damão</DMS_Make_Hyrax.label>
-  <DMS_Make_Hyrax.description>Gestar um autômato damão.</DMS_Make_Hyrax.description>
+  <DMS_Make_Hyrax.description>Gestar um autômato damão, um veículo não tripulado equipado com uma estação de armas remota sobre um chassi leve sobre esteiras. Armas automáticas simples como esta costumam ser os primeiros sistemas de drone práticos lançados por qualquer fabricante de armamentos.\n\nSeu chassi sobre esteiras o impede de ser imobilizado em combate corpo a corpo, consome metade da energia de um mecanoide comparável e, em dias sem combates, pode ser utilizado como veículo de carga. Em troca, é estruturalmente frágil e lento em movimento. Utilize-o para reconhecimento por fogo em áreas urbanizadas ou como unidade de guarnição em uma base.</DMS_Make_Hyrax.description>
   <DMS_Make_Ape.jobString>Gestando mecanoide.</DMS_Make_Ape.jobString>
   <DMS_Make_Arquebusier.jobString>Gestando mecanoide.</DMS_Make_Arquebusier.jobString>
   <DMS_Make_BattleFrame.jobString>Gestando mecanoide.</DMS_Make_BattleFrame.jobString>
@@ -184,4 +184,93 @@
   <DMS_Make_Sergeant.jobString>Gestando mecanoide.</DMS_Make_Sergeant.jobString>
   <DMS_Make_Soldat.jobString>Gestando mecanoide.</DMS_Make_Soldat.jobString>
   <DMS_ResurrectLightMech.jobString>Ressuscitando mecanoide.</DMS_ResurrectLightMech.jobString>
+  <DMSAC_Make_Gorod.description>Gesta um BR-4 "Gorod", a infantaria mecânica fortemente blindada do antigo corpo. Seu padrão de produção foi elaborado com a mesma especificação de batalha principal que a do guarda-túmulos.</DMSAC_Make_Gorod.description>
+  <DMSAC_Make_Gorod.jobString>Gestando mecanoide.</DMSAC_Make_Gorod.jobString>
+  <DMSAC_Make_Gorod.label>Gestar BR-4 "Gorod"</DMSAC_Make_Gorod.label>
+  <DMSAC_Make_Krepost.description>Gesta um BR-6 "Krepost", o enorme andarilho que o antigo corpo utilizava como ponta de lança e bateria móvel. Seu padrão de produção foi elaborado com a mesma especificação de batalha principal que a do guarda-túmulos.</DMSAC_Make_Krepost.description>
+  <DMSAC_Make_Krepost.jobString>Gestando mecanoide.</DMSAC_Make_Krepost.jobString>
+  <DMSAC_Make_Krepost.label>Gestar BR-6 "Krepost"</DMSAC_Make_Krepost.label>
+  <DMSAC_Make_Molot.description>Gesta um BR-3 "Molot", a plataforma de combate de infantaria do antigo corpo. Seu padrão de produção sobrevive nos arquivos do arsenal da guarnição.</DMSAC_Make_Molot.description>
+  <DMSAC_Make_Molot.jobString>Gestando mecanoide.</DMSAC_Make_Molot.jobString>
+  <DMSAC_Make_Molot.label>Gestar BR-3 "Molot"</DMSAC_Make_Molot.label>
+  <DMSAC_Make_Pravda.description>Gesta um 2S95 "Pravda", o canhão de assalto todo-terreno que o antigo corpo construía para bombardear fortificações à longa distância. Seu padrão de produção foi elaborado com a mesma especificação de batalha principal que a do guarda-túmulos.</DMSAC_Make_Pravda.description>
+  <DMSAC_Make_Pravda.jobString>Gestando mecanoide.</DMSAC_Make_Pravda.jobString>
+  <DMSAC_Make_Pravda.label>Gestar 2S95 "Pravda"</DMSAC_Make_Pravda.label>
+  <DMSAC_Make_Tsvetnik.description>Gesta um SR-4/2B9 "Tsvetnik", o transportador de morteiro do antigo corpo. Seu padrão de produção foi elaborado com a mesma especificação de batalha principal que a do guarda-túmulos.</DMSAC_Make_Tsvetnik.description>
+  <DMSAC_Make_Tsvetnik.jobString>Gestando mecanoide.</DMSAC_Make_Tsvetnik.jobString>
+  <DMSAC_Make_Tsvetnik.label>Gestar SR-4/2B9 "Tsvetnik"</DMSAC_Make_Tsvetnik.label>
+  <DMSAC_Make_Zabor.description>Gesta um BR-4U "Zabor", a infantaria mecânica do antigo corpo com blindagem frontal extra. Seu padrão de produção foi elaborado com a mesma especificação de batalha principal que a do guarda-túmulos.</DMSAC_Make_Zabor.description>
+  <DMSAC_Make_Zabor.jobString>Gestando mecanoide.</DMSAC_Make_Zabor.jobString>
+  <DMSAC_Make_Zabor.label>Gestar BR-4U "Zabor"</DMSAC_Make_Zabor.label>
+  <DMS_AutoMill_CutBlocksAny_x4.description>Corta 4 pedaços de rocha em blocos de pedra utilizáveis.</DMS_AutoMill_CutBlocksAny_x4.description>
+  <DMS_AutoMill_CutBlocksAny_x4.jobString>Cortando blocos de pedra a partir de 4 pedaços de rocha.</DMS_AutoMill_CutBlocksAny_x4.jobString>
+  <DMS_AutoMill_CutBlocksAny_x4.label>fazer blocos de pedra quaisquer x4</DMS_AutoMill_CutBlocksAny_x4.label>
+  <DMS_AutoMill_CutBlocksGranite_x4.description>Corta 4 pedaços de granito em blocos utilizáveis.</DMS_AutoMill_CutBlocksGranite_x4.description>
+  <DMS_AutoMill_CutBlocksGranite_x4.jobString>Cortando blocos de pedra a partir de 4 pedaços de rocha.</DMS_AutoMill_CutBlocksGranite_x4.jobString>
+  <DMS_AutoMill_CutBlocksGranite_x4.label>fazer blocos de granito x4</DMS_AutoMill_CutBlocksGranite_x4.label>
+  <DMS_AutoMill_CutBlocksLimestone_x4.description>Corta 4 pedaços de calcário em blocos utilizáveis.</DMS_AutoMill_CutBlocksLimestone_x4.description>
+  <DMS_AutoMill_CutBlocksLimestone_x4.jobString>Cortando blocos de pedra a partir de 4 pedaços de rocha.</DMS_AutoMill_CutBlocksLimestone_x4.jobString>
+  <DMS_AutoMill_CutBlocksLimestone_x4.label>fazer blocos de calcário x4</DMS_AutoMill_CutBlocksLimestone_x4.label>
+  <DMS_AutoMill_CutBlocksMarble_x4.description>Corta 4 pedaços de mármore em blocos utilizáveis.</DMS_AutoMill_CutBlocksMarble_x4.description>
+  <DMS_AutoMill_CutBlocksMarble_x4.jobString>Cortando blocos de pedra a partir de 4 pedaços de rocha.</DMS_AutoMill_CutBlocksMarble_x4.jobString>
+  <DMS_AutoMill_CutBlocksMarble_x4.label>fazer blocos de mármore x4</DMS_AutoMill_CutBlocksMarble_x4.label>
+  <DMS_AutoMill_CutBlocksSandstone_x4.description>Corta 4 pedaços de arenito em blocos utilizáveis.</DMS_AutoMill_CutBlocksSandstone_x4.description>
+  <DMS_AutoMill_CutBlocksSandstone_x4.jobString>Cortando blocos de pedra a partir de 4 pedaços de rocha.</DMS_AutoMill_CutBlocksSandstone_x4.jobString>
+  <DMS_AutoMill_CutBlocksSandstone_x4.label>fazer blocos de arenito x4</DMS_AutoMill_CutBlocksSandstone_x4.label>
+  <DMS_AutoMill_CutBlocksSlate_x4.description>Corta 4 pedaços de ardósia em blocos utilizáveis.</DMS_AutoMill_CutBlocksSlate_x4.description>
+  <DMS_AutoMill_CutBlocksSlate_x4.jobString>Cortando blocos de pedra a partir de 4 pedaços de rocha.</DMS_AutoMill_CutBlocksSlate_x4.jobString>
+  <DMS_AutoMill_CutBlocksSlate_x4.label>fazer blocos de ardósia x4</DMS_AutoMill_CutBlocksSlate_x4.label>
+  <DMS_InstallSyntheticEye.description>Instalar um olho biossintético.</DMS_InstallSyntheticEye.description>
+  <DMS_InstallSyntheticEye.jobString>Instalando olho biossintético.</DMS_InstallSyntheticEye.jobString>
+  <DMS_InstallSyntheticEye.label>Instalar olho biossintético</DMS_InstallSyntheticEye.label>
+  <DMS_InstallSyntheticHeart.description>Instalar um coração biossintético.</DMS_InstallSyntheticHeart.description>
+  <DMS_InstallSyntheticHeart.jobString>Instalando coração biossintético.</DMS_InstallSyntheticHeart.jobString>
+  <DMS_InstallSyntheticHeart.label>Instalar coração biossintético</DMS_InstallSyntheticHeart.label>
+  <DMS_InstallSyntheticKidney.description>Instalar um rim biossintético.</DMS_InstallSyntheticKidney.description>
+  <DMS_InstallSyntheticKidney.jobString>Instalando rim biossintético.</DMS_InstallSyntheticKidney.jobString>
+  <DMS_InstallSyntheticKidney.label>Instalar rim biossintético</DMS_InstallSyntheticKidney.label>
+  <DMS_InstallSyntheticLiver.description>Instalar um fígado biossintético.</DMS_InstallSyntheticLiver.description>
+  <DMS_InstallSyntheticLiver.jobString>Instalando fígado biossintético.</DMS_InstallSyntheticLiver.jobString>
+  <DMS_InstallSyntheticLiver.label>Instalar fígado biossintético</DMS_InstallSyntheticLiver.label>
+  <DMS_InstallSyntheticLung.description>Instalar um pulmão biossintético.</DMS_InstallSyntheticLung.description>
+  <DMS_InstallSyntheticLung.jobString>Instalando pulmão biossintético.</DMS_InstallSyntheticLung.jobString>
+  <DMS_InstallSyntheticLung.label>Instalar pulmão biossintético</DMS_InstallSyntheticLung.label>
+  <DMS_Make_ArtifuscleFromProtein.description>Substitua a artiproteína pela neutroamina e pelo ouro exigidos pela matéria-prima convencional. Na prática, essa é a rota mais custo-efetiva para obter músculo artificial, ao custo de um ciclo de crescimento muito mais longo.</DMS_Make_ArtifuscleFromProtein.description>
+  <DMS_Make_ArtifuscleFromProtein.jobString>Cultivando artimúsculo.</DMS_Make_ArtifuscleFromProtein.jobString>
+  <DMS_Make_ArtifuscleFromProtein.label>Cultivar artimúsculo x5 (artiproteína)</DMS_Make_ArtifuscleFromProtein.label>
+  <DMS_Make_Artiprotein.description>Alimente açúcares e amidos a uma cultura enzimática controlada e deixe-a montar blocos proteicos. O processo é lento e consumidor de energia, mas em uma estação orbital sem espaço para campos ou gado, é a única fonte estável de nutrição proteica.</DMS_Make_Artiprotein.description>
+  <DMS_Make_Artiprotein.jobString>Refinando artiproteína.</DMS_Make_Artiprotein.jobString>
+  <DMS_Make_Artiprotein.label>Refinar artiproteína x25</DMS_Make_Artiprotein.label>
+  <DMS_Make_BullHound.description>Gesta um autômato cão de combate, um mecanoide quadrúpede pesado de guarnição. Um derivado ampliado do dogue, ele troca a agilidade proporcionada pelo músculo artificial de seu primo menor por uma blindagem espessa e uma montagem fixa traseira, sendo projetado para defender portões e junções de corredores contra intrusos em curto alcance.\n\nEste padrão monta uma espingarda automática. A montagem é fixa e não pode ser trocada, o cão de combate é lento em terreno aberto e exige três pontos de banda.</DMS_Make_BullHound.description>
+  <DMS_Make_BullHound.jobString>Gestando mecanoide.</DMS_Make_BullHound.jobString>
+  <DMS_Make_BullHound.label>Gestar cão de combate</DMS_Make_BullHound.label>
+  <DMS_Make_BullHound_Flamer.description>Gesta um autômato cão infernal, a variante lança-chamas do cão de combate: um mecanoide quadrúpede pesado de guarnição. Um derivado ampliado do dogue, ele troca a agilidade proporcionada pelo músculo artificial de seu primo menor por uma blindagem espessa e uma montagem fixa traseira, sendo projetado para defender portões e junções de corredores contra intrusos em curto alcance.\n\nEste padrão monta um lança-chamas para limpar corredores, com sua blindagem tratada para resistir às próprias chamas. A montagem é fixa e não pode ser trocada, o cão infernal é lento em terreno aberto e exige três pontos de banda.</DMS_Make_BullHound_Flamer.description>
+  <DMS_Make_BullHound_Flamer.jobString>Gestando mecanoide.</DMS_Make_BullHound_Flamer.jobString>
+  <DMS_Make_BullHound_Flamer.label>Gestar cão infernal</DMS_Make_BullHound_Flamer.label>
+  <DMS_Make_ClusterWeaver.description>Gesta um autômato tecelão de enxames.</DMS_Make_ClusterWeaver.description>
+  <DMS_Make_ClusterWeaver.jobString>Gestando mecanoide.</DMS_Make_ClusterWeaver.jobString>
+  <DMS_Make_ClusterWeaver.label>Gestar tecelão de enxames</DMS_Make_ClusterWeaver.label>
+  <DMS_Make_FrogmanEmbryo.description>Monta um embrião direcionado carregando a sequência de desenvolvimento XM132. O embrião deve ser levado a termo em uma cuba de crescimento ou implantado em uma substituta. Ele produz uma larva biomatroide, que precisa de vários dias a mais em uma cápsula de gestação antes de alcançar sua forma adulta.</DMS_Make_FrogmanEmbryo.description>
+  <DMS_Make_FrogmanEmbryo.jobString>Gestando embrião de homem-rã.</DMS_Make_FrogmanEmbryo.jobString>
+  <DMS_Make_FrogmanEmbryo.label>Gestar embrião de homem-rã</DMS_Make_FrogmanEmbryo.label>
+  <DMS_Make_Gravekeeper.description>Gesta um autômato guarda-túmulos, um ultrapesado de batalha projetado para patrulhar e guardar instalações não tripuladas. Suas peças são em grande parte compartilhadas com o dragão móvel, luta bem em curto alcance e pode empunhar as armas pesadas do dragão móvel.\n\nEste padrão não carrega um suporte de ombro. Exige cinco pontos de banda.</DMS_Make_Gravekeeper.description>
+  <DMS_Make_Gravekeeper.jobString>Gestando mecanoide.</DMS_Make_Gravekeeper.jobString>
+  <DMS_Make_Gravekeeper.label>Gestar Guarda-Túmulos</DMS_Make_Gravekeeper.label>
+  <DMS_Make_Gravekeeper_Stugna.description>Gesta um autômato Enterrador, um ultrapesado de batalha projetado para patrulhar e guardar instalações não tripuladas. Suas peças são em grande parte compartilhadas com o dragão móvel, luta bem em curto alcance e pode empunhar as armas pesadas do dragão móvel.\n\nEste padrão carrega o lançador Stugna do dragão móvel em seu ombro direito, com dois mísseis guiados antitanque, cada um substituído um dia após ser disparado. O suporte reduz um pouco sua velocidade e exige cinco pontos de banda.</DMS_Make_Gravekeeper_Stugna.description>
+  <DMS_Make_Gravekeeper_Stugna.jobString>Gestando mecanoide.</DMS_Make_Gravekeeper_Stugna.jobString>
+  <DMS_Make_Gravekeeper_Stugna.label>Gestar Enterrador</DMS_Make_Gravekeeper_Stugna.label>
+  <DMS_Make_Hyrax.jobString>Gestando mecanoide.</DMS_Make_Hyrax.jobString>
+  <DMS_Make_Lanius.description>Gesta um autômato pássaro açougueiro, uma grande plataforma drone capaz de carregar armas de calibre de infantaria. Construído para dar cobertura de fogo a drones-mãe ultrapesados, carrega dois lançadores de granadas de fumaça que protegem sua frágil estrutura de sustentação dos disparos inimigos.\n\nEle voa sobre terrenos intransponíveis para unidades terrestres e pode montar uma gama maior de armas que o Falcão, mas seu armamento é limitado a armas que um soldado de infantaria poderia carregar, e exige três pontos de banda.</DMS_Make_Lanius.description>
+  <DMS_Make_Lanius.jobString>Gestando mecanoide.</DMS_Make_Lanius.jobString>
+  <DMS_Make_Lanius.label>Gestar pássaro açougueiro</DMS_Make_Lanius.label>
+  <DMS_Make_Mammoth.jobString>Gestando mecanoide.</DMS_Make_Mammoth.jobString>
+  <DMS_Make_Neutroamine.description>Sintetiza neutroamina a partir dos lipídeos da carne e dos hidrocarbonetos do combustível químico. O composto é inestimável na medicina, e uma rota de síntese tão barata causaria não poucos problemas aos monopólios farmacêuticos de muitos mundos médios assim que se espalhasse.</DMS_Make_Neutroamine.description>
+  <DMS_Make_Neutroamine.jobString>Refinando neutroamina.</DMS_Make_Neutroamine.jobString>
+  <DMS_Make_Neutroamine.label>Refinar neutroamina x5</DMS_Make_Neutroamine.label>
+  <DMS_RemoveBionicSuitHeavy.description>Corta uma armadura biônica pesada para abrir e extrair o piloto. Trabalho lento, mas não oferece risco ao paciente nem à armadura.</DMS_RemoveBionicSuitHeavy.description>
+  <DMS_RemoveBionicSuitHeavy.jobString>Removendo armadura biônica pesada.</DMS_RemoveBionicSuitHeavy.jobString>
+  <DMS_RemoveBionicSuitHeavy.label>Remover Armadura Biônica Pesada</DMS_RemoveBionicSuitHeavy.label>
+  <DMS_ResurrectHeavyMechSmall.description>Revive um autômato aliado da classe pesada. Enquanto o corpo do autômato não estiver completamente destruído, ele pode ser revivido.</DMS_ResurrectHeavyMechSmall.description>
+  <DMS_ResurrectHeavyMechSmall.jobString>Revivendo mecanoide.</DMS_ResurrectHeavyMechSmall.jobString>
+  <DMS_ResurrectHeavyMechSmall.label>ressuscitar autômato pesado</DMS_ResurrectHeavyMechSmall.label>
 </LanguageData>

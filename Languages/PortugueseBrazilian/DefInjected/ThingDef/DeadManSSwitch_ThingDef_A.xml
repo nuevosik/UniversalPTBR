@@ -5,7 +5,7 @@
   <DMS_MechLink.label>transceptor de cluster</DMS_MechLink.label>
   <DMS_MechLink.description>Um implante biônico artificial que permite o controle direto de mecanoides. Ninguém sabe se esta é a forma primitiva da meca-conexão ou um produto de engenharia reversa de gerações posteriores. Funciona como uma meca-conexão comum quando instalado em um colono.\n\nDevido a problemas de precisão de processamento, esses dispositivos de imitação de meca-conexão dos mundos de borda costumam ter efeitos colaterais de instalação.</DMS_MechLink.description>
   <DMS_MechLink_Nerfed.label>Controlador de Boid</DMS_MechLink_Nerfed.label>
-  <DMS_MechLink_Nerfed.description>Um implante biônico artificial que permite o controle direto de mecanoides. Esta é uma versão simplificada, mais barata de fabricar e obtenível em um nível tecnológico inferior. Devido à qualidade de produção limitada, ele falhará e se desligará após um tempo.</DMS_MechLink_Nerfed.description>
+  <DMS_MechLink_Nerfed.description>Um implante mecânico improvisado e de baixa tecnologia, geralmente utilizado por soldados não conscritos e mecanizadores improvisados da linha de frente. Uma vez instalado, permite que o implantado sirva como mecanizador durante o protocolo de segurança.\n\nDevido à precisão de usinagem e às condições de instalação, instalar essas imitações geralmente acarreta efeitos colaterais.</DMS_MechLink_Nerfed.description>
   <DMS_MechGestatorSmall.label>Construtor de autômatos</DMS_MechGestatorSmall.label>
   <DMS_MechGestatorSmall.description>Um enorme equipamento industrial usado para montar autômatos.</DMS_MechGestatorSmall.description>
   <Ammo_9M311_SAM.label>Míssil 9M311 Treugol'nik (SAM)</Ammo_9M311_SAM.label>
@@ -68,7 +68,7 @@
   <DMS_ElephantGun.tools.1.label>cano</DMS_ElephantGun.tools.1.label>
   <Bullet_DMS_AMR.label>bala de fuzil pesada</Bullet_DMS_AMR.label>
   <DMS_SniperGrenadeLauncher.label>lança-granadas de precisão</DMS_SniperGrenadeLauncher.label>
-  <DMS_SniperGrenadeLauncher.description>Um lança-granadas de precisão projetado para servir como contrafranco.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_SniperGrenadeLauncher.description>
+  <DMS_SniperGrenadeLauncher.description>Um lança-granadas de precisão projetado para combater franco-atiradores.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_SniperGrenadeLauncher.description>
   <DMS_AssaultShotgun.label>espingarda de assalto de autômato</DMS_AssaultShotgun.label>
   <DMS_AssaultShotgun.description>Uma espingarda totalmente automática capaz de ser produzida em massa com componentes estampados.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_AssaultShotgun.description>
   <DMS_AssaultRifle.label>fuzil de assalto de autômato</DMS_AssaultRifle.label>
@@ -76,14 +76,14 @@
   <DMS_SemiAutoRifle.label>fuzil semiautomático de autômato</DMS_SemiAutoRifle.label>
   <DMS_SemiAutoRifle.description>Um fuzil semiautomático operado a gás usado por soldados autômatos. \n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_SemiAutoRifle.description>
   <DMS_MarksmanRifle.label>fuzil de precisão de autômato</DMS_MarksmanRifle.label>
-  <DMS_MarksmanRifle.description>Um fuzil automático com cano flutuante para melhorar a precisão à distância. Vem equipado de fábrica com uma opção de rajada de três tiros.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_MarksmanRifle.description>
+  <DMS_MarksmanRifle.description>Um rifle de precisão semiautomático com alta precisão e alta taxa de disparo. Sua excelente estabilidade e o freio de boca permitem que até um humano o manuseie.</DMS_MarksmanRifle.description>
   <DMS_AntiMaterialRifle.label>fuzil antimaterial de autômato</DMS_AntiMaterialRifle.label>
   <DMS_AntiMaterialRifle.description>Um fuzil de precisão de alto calibre feito para ser usado por autômatos caçadores MS-4E para destruir alvos blindados a longas distâncias.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_AntiMaterialRifle.description>
   <DMS_AutomaticGrenadeLauncher.label>lança-granadas de autômato</DMS_AutomaticGrenadeLauncher.label>
-  <DMS_AutomaticGrenadeLauncher.description>Um lança-granadas automático de mão para limpar alvos agrupados.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_AutomaticGrenadeLauncher.description>
+  <DMS_AutomaticGrenadeLauncher.description>Um lança-granadas automático portátil para eliminar alvos agrupados.\n\nEsta arma é projetada especificamente para uso por autômatos; sem equipamento externo ou força aumentada, um humano comum terá dificuldade em usá-la corretamente.\n\nSeu tripé se dobra sob o receptor, para que um operador alistado possa posicioná-lo para disparo no local e recolhê-lo rapidamente.</DMS_AutomaticGrenadeLauncher.description>
   <Bullet_DMS_GrenadeLauncher.label>granada</Bullet_DMS_GrenadeLauncher.label>
   <DMS_LightMachineGun.label>metralhadora leve de autômato</DMS_LightMachineGun.label>
-  <DMS_LightMachineGun.description>Uma arma especializada em supressão, com câmara para munição de fuzil de grande calibre.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_LightMachineGun.description>
+  <DMS_LightMachineGun.description>Uma arma especializada em supressão, com câmara em calibre de rifle grande.\n\nEsta arma é projetada especificamente para uso por autômatos; sem equipamento externo ou força aumentada, um humano comum terá dificuldade em usá-la corretamente.\n\nSeu bipé dobrável permite que um operador alistado o coloque em posição de disparo no local e o recolha rapidamente.</DMS_LightMachineGun.description>
   <Bullet_DMS_LightMachineGun.label>bala de fuzil de potência total</Bullet_DMS_LightMachineGun.label>
   <DMS_M214Gatlinggun.label>M214</DMS_M214Gatlinggun.label>
   <DMS_M214Gatlinggun.description>Uma arma de fogo de múltiplos canos com câmara para munição de fuzil, projetada para negação de área através de imensa saturação de fogo.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_M214Gatlinggun.description>
@@ -98,13 +98,11 @@
   <DMS_SniperCannon.label>canhão de ferrolho</DMS_SniperCannon.label>
   <DMS_SniperCannon.description>Um fuzil ultrapesado com câmara para munição de autocanhão. Este fuzil provou ser capaz de alcançar e tocar um exostrider a distâncias imensas. É projetado especificamente para operações antimecanoides de longo alcance.\n\nEsta arma é projetada especificamente para uso de autômatos; é tão pesada que apenas autômatos específicos conseguem operá-la.</DMS_SniperCannon.description>
   <DMS_HeavyMachineGun.label>metralhadora pesada de autômato</DMS_HeavyMachineGun.label>
-  <DMS_HeavyMachineGun.description>Uma metralhadora pesada para soldados autômatos ou plataformas de apoio de infantaria.\n\nEsta arma é projetada especificamente para uso de autômatos; é tão pesada que apenas autômatos específicos conseguem operá-la, a menos que esteja montada em uma plataforma de apoio.</DMS_HeavyMachineGun.description>
+  <DMS_HeavyMachineGun.description>Uma metralhadora pesada para soldados mecânicos ou plataformas de apoio à infantaria.\n\nEsta arma é projetada especificamente para uso por autômatos; é tão pesada que apenas autômatos específicos podem operá-la, a menos que esteja montada em uma plataforma de apoio.\n\nSeu tripé se dobra sob o receptor, para que um operador alistado possa posicioná-lo para disparo no local e recolhê-lo rapidamente.</DMS_HeavyMachineGun.description>
   <Bullet_DMS_HeavyMachineGun.label>bala de metralhadora pesada</Bullet_DMS_HeavyMachineGun.label>
   <DMS_Gun_Recoilless.label>fuzil sem recuo</DMS_Gun_Recoilless.label>
   <DMS_Gun_Recoilless.description>Um fuzil sem recuo projetado para enfrentar alvos fortemente blindados à distância.\n\nEsta arma é projetada especificamente para uso de autômatos; é tão pesada que apenas autômatos específicos conseguem operá-la.</DMS_Gun_Recoilless.description>
   <DMS_Bullet_RR.label>granada de carga moldada</DMS_Bullet_RR.label>
-  <DMS_Tarbosaurus_BossGun.label>2A38M</DMS_Tarbosaurus_BossGun.label>
-  <DMS_Tarbosaurus_BossGun.description>Um autocanhão pesado de cano duplo para supressão de infantaria / plataforma antiaérea.\n\nEsta arma é projetada especialmente para uso de autômatos, e é pesada demais, então somente autômatos específicos conseguem operá-la.</DMS_Tarbosaurus_BossGun.description>
   <DMS_TacticalPistol.label>pistola de autômato</DMS_TacticalPistol.label>
   <DMS_TacticalPistol.description>Uma arma secundária projetada para uso de autômatos ou exoesqueletos. \n\nEsta arma é projetada especialmente para uso de autômatos; um humano normal não conseguirá usá-la sem equipamentos externos ou aprimoramento.</DMS_TacticalPistol.description>
   <DMS_TacticalPistol.tools.0.label>cabo</DMS_TacticalPistol.tools.0.label>
@@ -129,7 +127,7 @@
   <DMS_StunBaton.tools.1.label>ponta</DMS_StunBaton.tools.1.label>
   <DMS_StunBaton.tools.2.label>lâmina</DMS_StunBaton.tools.2.label>
   <DMS_Machete.label>facão</DMS_Machete.label>
-  <DMS_Machete.description>Pode parecer um facão normal, mas esta arma foi construída especificamente para a capacidade de combate corpo a corpo dos autômatos.\n\nCom seu fio vibratório de alta frequência, pode cortar quase tudo com facilidade.</DMS_Machete.description>
+  <DMS_Machete.description>Um facão pesado feito sob medida para abrir caminho em combates na selva. Com sua lâmina e peso, corta a maioria das coisas com facilidade.</DMS_Machete.description>
   <DMS_Machete.tools.0.label>cabo</DMS_Machete.tools.0.label>
   <DMS_Machete.tools.1.label>ponta</DMS_Machete.tools.1.label>
   <DMS_Machete.tools.2.label>lâmina</DMS_Machete.tools.2.label>
@@ -143,14 +141,8 @@
   <DMS_DecoyRadar.description>Um radar de fase. Uma vez ativado, emite um poderoso sinal de radiação de onda que atrairá um autômato selvagem para atacar junto com suas escoltas. Se você conseguir derrotá-lo, poderá coletar a tecnologia avançada de seu cadáver. O pulso do sinal queima o transmissor, então esta construção só pode ser usada uma vez.</DMS_DecoyRadar.description>
   <DMS_TrashBin_Base.label>estação de lixo</DMS_TrashBin_Base.label>
   <DMS_TrashBin_Base.description>Uma estação para armazenar e recarregar lixeiras.</DMS_TrashBin_Base.description>
-  <DMS_VerlingBird_Base.label>estação de recarga de pássaros Verling</DMS_VerlingBird_Base.label>
-  <DMS_VerlingBird_Base.description>Uma estação para montar e recarregar pássaros Verling.</DMS_VerlingBird_Base.description>
   <DMS_Hound_Base.label>estação de sabujo</DMS_Hound_Base.label>
   <DMS_Hound_Base.description>Uma estação para armazenar e recarregar unidades sabujo.</DMS_Hound_Base.description>
-  <DMS_Hound_RC_Base.label>estação de recarga de sabujo (controle de motim)</DMS_Hound_RC_Base.label>
-  <DMS_Hound_RC_Base.description>Uma estação para montar e recarregar o Sabujo de Controle de Motim.</DMS_Hound_RC_Base.description>
-  <DMS_Hound_FS_Base.label>estação de recarga de sabujo (supressão de incêndio)</DMS_Hound_FS_Base.label>
-  <DMS_Hound_FS_Base.description>Uma estação para montar e recarregar o Sabujo de Combate a Incêndio.</DMS_Hound_FS_Base.description>
   <DMS_Recharger.label>recarregador de autômatos</DMS_Recharger.label>
   <DMS_Recharger.description>Autômatos podem recarregar aqui. Durante o ciclo de recarga, pacotes de resíduos tóxicos são produzidos e armazenados internamente. Os transportadores devem remover os pacotes de resíduos de tempos em tempos.</DMS_Recharger.description>
   <DMS_ReactionChamber.label>câmara de pressão</DMS_ReactionChamber.label>
@@ -161,10 +153,6 @@
   <DMS_TableArtifuscle.description>Equipamento de produção de alto nível para cultivar artimúsculo e biônicos.</DMS_TableArtifuscle.description>
   <DMS_TableMachinePrinter.label>impressora de maquinário</DMS_TableMachinePrinter.label>
   <DMS_TableMachinePrinter.description>Uma impressora de metal composto capaz de fabricar e montar produtos e armas de metal através de forja a frio, a fim de produzir maquinário em massa.</DMS_TableMachinePrinter.description>
-  <DMS_Turret_Tunguska.label>Tunguska</DMS_Turret_Tunguska.label>
-  <DMS_Turret_Tunguska.description>Uma torreta controlada remotamente composta por dois canos 2A38 e oito lançadores de mísseis. Devido aos seus baixos custos de manutenção e modificação, é comumente vista em postos avançados da frota colonial nos mundos de borda.</DMS_Turret_Tunguska.description>
-  <DMS_Gun_Tunguska.label>Tunguska</DMS_Gun_Tunguska.label>
-  <DMS_Gun_Tunguska.description>Um sistema de armas que inclui dois canos 2A38 e oito lançadores de mísseis.</DMS_Gun_Tunguska.description>
   <DMS_Turret_GateKeeper.label>Gatekeeper</DMS_Turret_GateKeeper.label>
   <DMS_Turret_GateKeeper.description>Uma torreta de metralhadora de múltiplos canos de grande calibre, normalmente usada em naves espaciais e navios marítimos. Tem uma taxa de disparo extremamente alta e capacidades de supressão devastadoras.</DMS_Turret_GateKeeper.description>
   <DMS_Gun_GateKeeper.label>Gatekeeper</DMS_Gun_GateKeeper.label>
@@ -217,20 +205,17 @@
   <DMS_EncryptedTransmitter.description>Um relé de comunicação de alta potência a ser usado na colônia para reforços de emergência. O código de identificação deste protocolo de resgate foi abandonado há muito tempo, então apenas aquelas unidades mecanizadas que são selvagens morderão a isca.</DMS_EncryptedTransmitter.description>
   <Shell_BlasterSmoke.label>projétil de tela antiblaster</Shell_BlasterSmoke.label>
   <Shell_BlasterSmoke.description>Um projétil de artilharia contendo reagentes que geram um campo de partículas ativas que detona munição carregada em pleno voo. Esses projéteis são uma contramedida preferida ao lutar contra legiões de autômatos e megacorporações de mundos médios. Não afeta outros projéteis.</Shell_BlasterSmoke.description>
-  <DMS_Bullet_Shell_BlasterSmoke.label>projétil de tela antiblaster</DMS_Bullet_Shell_BlasterSmoke.label>
-  <DMS_Gun_MiniFlameblaster.label>mini-lança-chamas</DMS_Gun_MiniFlameblaster.label>
-  <DMS_Gun_MiniFlameblaster.description>Um pequeno lança-chamas orientado a explosão usado por autômatos.</DMS_Gun_MiniFlameblaster.description>
   <DMS_Mech_Tarbosaurus.label>tarbossauro</DMS_Mech_Tarbosaurus.label>
   <DMS_Mech_Tarbosaurus.description>Um autômato bípede ultra pesado apelidado de "Rex Blindado", pois sua estrutura corporal distinta lembra vagamente um carnotauro. Antes visto como a próxima mudança de paradigma na guerra no crepúsculo das corridas armamentistas do início da era espacial, ele usa fibras musculares artificiais para mover suas pernas superdimensionadas.\n\nEmbora não tenha mudado o campo da guerra moderna como esperado, ainda há inúmeros fabricantes replicando-o e adicionando suas próprias melhorias ao projeto. Assim, vestígios da tecnologia adotada neste autômato podem ser vistos em um grande número de armamentos.</DMS_Mech_Tarbosaurus.description>
   <DMS_Mech_Tarbosaurus.tools.0.label>cabeça mecânica</DMS_Mech_Tarbosaurus.tools.0.label>
   <DMS_Mech_Tarbosaurus.tools.1.label>perna esquerda</DMS_Mech_Tarbosaurus.tools.1.label>
   <DMS_Mech_Tarbosaurus.tools.2.label>perna direita</DMS_Mech_Tarbosaurus.tools.2.label>
   <DMS_Mech_BattleFrame.label>camarada de batalha</DMS_Mech_BattleFrame.label>
-  <DMS_Mech_BattleFrame.description>Projetado como uma unidade de combate de infantaria leve, o camarada de batalha tem uma capacidade de carga considerável e habilidade para usar a maioria dos equipamentos humanos.</DMS_Mech_BattleFrame.description>
+  <DMS_Mech_BattleFrame.description>Um mecanoide de combate bípedo projetado como uma plataforma de apoio à infantaria leve, normalmente equipado com um sensor superior para observação panorâmica e um sensor frontal para mira de armas de fogo. Historicamente, foi produzido em massa para combate em terrenos montanhosos e acidentados. O quadro de batalha tem uma capacidade de carga considerável para transportar munição e armas, e pode operar a maioria das armas de fogo que os humanos usam.\nOs camaradas de batalha podem transportar grandes quantidades de munição e ser equipados com armas de apoio poderosas, portanto foram adotados pelos exércitos de muitas nações no passado, gerando muitos modelos derivados desenvolvidos para ambientes e funções locais.</DMS_Mech_BattleFrame.description>
   <DMS_Mech_FieldCommand.label>Comando de Campo</DMS_Mech_FieldCommand.label>
-  <DMS_Mech_FieldCommand.description>Uma subvariante do camarada de batalha. Funciona como um relé de comando de mecanizador; no entanto, devido ao peso do equipamento de relé, só pode usar uma arma leve.</DMS_Mech_FieldCommand.description>
+  <DMS_Mech_FieldCommand.description>Um derivado do quadro de batalha para comando e retransmissão na linha de frente. O radar de matriz faseada de três faces montado no topo do quadro fornece continuamente varredura precisa e clara de grande área do terreno e comunicação direcional em ondas curtas com unidades aliadas em linha de visão, permitindo que um comandante o use como retransmissor para emitir ordens precisas a outros mecanoides.\nComo grande parte de seu espaço e peso é destinada ao sistema de radar, seu sistema de armas limitado só pode carregar armas leves para autodefesa.</DMS_Mech_FieldCommand.description>
   <DMS_Mech_EscortLifter.label>transportador de escolta</DMS_Mech_EscortLifter.label>
-  <DMS_Mech_EscortLifter.description>Um autômato de produção em massa da fase inicial. Não está mais em serviço regular, mas ainda há muitos deles modificados para fins de transporte.</DMS_Mech_EscortLifter.description>
+  <DMS_Mech_EscortLifter.description>Um mecanoide de transporte da segunda linha para carregamento logístico e escolta armada, um dos derivados da série quadro de batalha. Caixas de carga extras e ferramentas de manuseio lhe dão a capacidade de carregar carga por conta própria, e possui a maior carga útil de toda a série quadro de batalha; no exército da frota colonial, muitos quadros de batalha dos primeiros lotes foram convertidos e receberam uma nova vida transportando caravanas entre colônias.\nCom o sensor superior e grande parte do hardware militar removidos, seu sistema operacional suporta poucas armas – apenas armas leves para autodefesa.</DMS_Mech_EscortLifter.description>
   <DMS_Mech_ShaftWorker.label>operário de poço</DMS_Mech_ShaftWorker.label>
   <DMS_Mech_ShaftWorker.description>Um autômato produzido em massa da fase inicial. Não está mais em serviço regular, mas ainda há muitos deles modificados para uso em mineração e construção.</DMS_Mech_ShaftWorker.description>
   <DMS_Mech_Iguana.label>Iguana</DMS_Mech_Iguana.label>
@@ -247,25 +232,14 @@
   <DMS_Mech_Ape.description>Um projeto protótipo que testou a viabilidade de um autômato humanoide grande capaz de equipar armas pesadas.</DMS_Mech_Ape.description>
   <DMS_Mech_Geochelone.label>jabuti</DMS_Mech_Geochelone.label>
   <DMS_Mech_Geochelone.description>uma plataforma de apoio de escudo de pulso sobre esteiras, não tripulada e para todo o terreno, apresentando uma gama diversificada de modelos de produção e variantes.</DMS_Mech_Geochelone.description>
-  <DMS_Mech_Geochelone.tools.0.label>cabeça</DMS_Mech_Geochelone.tools.0.label>
-  <DMS_Mech_Caretta.label>Caretta</DMS_Mech_Caretta.label>
+  <DMS_Mech_Caretta.label>Tartaruga-careta</DMS_Mech_Caretta.label>
   <DMS_Mech_Caretta.description>plataforma de artilharia móvel equipada com um lançador de morteiros de disparo rápido, projetada para bombardear bases e forças terrestres inimigas à distância.</DMS_Mech_Caretta.description>
-  <DMS_Mech_Caretta.tools.0.label>cabeça</DMS_Mech_Caretta.tools.0.label>
   <DMS_Mech_Killdozer.label>Killdozer</DMS_Mech_Killdozer.label>
   <DMS_Mech_Killdozer.description>Um sapador de assalto não tripulado com uma lâmina de bulldozer para romper fortificações na linha de frente, e a blindagem em várias partes do corpo também foi reforçada.</DMS_Mech_Killdozer.description>
-  <DMS_Mech_Killdozer.tools.0.label>lâmina de bulldozer</DMS_Mech_Killdozer.tools.0.label>
   <DMS_Mech_Falcon.label>Falcão</DMS_Mech_Falcon.label>
   <DMS_Mech_Falcon.description>Um drone pesado de três rotores construído para trabalhar em conjunto com unidades de reconhecimento e unidades antitanque.</DMS_Mech_Falcon.description>
   <DMS_Mech_Noctula.label>nóctula</DMS_Mech_Noctula.label>
   <DMS_Mech_Noctula.description>Um drone de relé de comando para operações furtivas, apelidado de "Morcego Noturno". O drone é uma variante de relé de comando do Falcão.</DMS_Mech_Noctula.description>
-  <DMS_Machine_TrashBin.label>lixeira</DMS_Machine_TrashBin.label>
-  <DMS_Machine_TrashBin.description>Robôs de serviço cilíndricos usados nas cidades dos mundos médios para fornecer serviços de limpeza de vias e entrega expressa de comida, e para ser o primeiro a ajudar na evacuação e manter a ordem quando ocorrem emergências.</DMS_Machine_TrashBin.description>
-  <DMS_Machine_Hound.label>sabujo</DMS_Machine_Hound.label>
-  <DMS_Machine_Hound.description>Um cão robô de quatro patas capaz de fornecer reconhecimento avançado e apoio de combate urbano durante operações. Pode ser equipado com armas de fogo de pequeno calibre ou lança-chamas para fornecer capacidades de combate.</DMS_Machine_Hound.description>
-  <DMS_Machine_Hound_RC.label>sabujo de controle de motim</DMS_Machine_Hound_RC.label>
-  <DMS_Machine_Hound_RC.description>uma subvariante do sabujo, projetada para controle de motim e patrulha de prisão.</DMS_Machine_Hound_RC.description>
-  <DMS_Machine_Hound_FS.label>perseguidor</DMS_Machine_Hound_FS.label>
-  <DMS_Machine_Hound_FS.description>uma subvariante do sabujo, projetada para apoio de fogo em combate urbano.</DMS_Machine_Hound_FS.description>
   <DMS_Mech_Arquebusier.label>Arcabuzeiro</DMS_Mech_Arquebusier.label>
   <DMS_Mech_Arquebusier.description>Modelo padrão de Arcabuzeiro, tem boa capacidade de tiro de precisão em todos os alcances, tornando-o a espinha dorsal de um exército de autômatos.</DMS_Mech_Arquebusier.description>
   <DMS_Mech_Jaeger.label>caçador</DMS_Mech_Jaeger.label>
@@ -287,7 +261,7 @@
   <DMS_Mech_Soldat.label>soldado</DMS_Mech_Soldat.label>
   <DMS_Mech_Soldat.description>Um robô humanoide bípede construído à imagem de outros mecanoides preexistentes. Soldados podem ser equipados com armas classificadas para uso humano.\n\nO soldado precisa carregar uma mochila de bateria, o que o impede de lutar como outros autômatos sem cobertura.</DMS_Mech_Soldat.description>
   <DMS_Mech_Grenadier.label>granadeiro</DMS_Mech_Grenadier.label>
-  <DMS_Mech_Grenadier.description>Um robô humanoide bípede construído à imagem de outros mecanoides preexistentes. Granadeiros são especializados no uso de armas leves e lança-granadas.\n\nO granadeiro precisa carregar uma mochila de bateria, o que o impede de lutar como outros autômatos sem cobertura.</DMS_Mech_Grenadier.description>
+  <DMS_Mech_Grenadier.description>Um derivado do Soldat para atacar e defender em trincheiras e redes de túneis subterrâneos, usando uma câmera composta e um sistema operacional especializado para aprimorar seus cálculos balísticos ao usar armas de fogo indiretas.\n\nÉ melhor equipado com explosivos, como granadas de mão ou lança-granadas, para limpar fortificações e posições.\n\nO pacote de baterias que carrega tem longa duração, mas também o impede de lutar sem cobertura.</DMS_Mech_Grenadier.description>
   <DMS_Mech_Kanonier.label>canhoneiro</DMS_Mech_Kanonier.label>
   <DMS_Mech_Kanonier.description>Um robô humanoide bípede construído à imagem de outros mecanoides preexistentes. Canhoneiros são especializados no uso de lança-foguetes ou fuzis sem recuo.\n\nO canhoneiro precisa carregar uma mochila de bateria, o que o impede de lutar como outros autômatos sem cobertura.</DMS_Mech_Kanonier.description>
   <DMS_Mech_Sergeant.label>Sargento</DMS_Mech_Sergeant.label>
@@ -329,9 +303,9 @@
   <DMS_ChunkSlag_Old.description>Os restos de um autômato destruído. Embora inútil na sua forma atual, pode ser fundido para recuperar recursos.</DMS_ChunkSlag_Old.description>
   <DMS_BattleRifle.label>fuzil de batalha de autômato</DMS_BattleRifle.label>
   <DMS_BattleRifle.description>Um fuzil de batalha construído para soldados autômatos, destinado ao combate entre autômatos.\n\nEsta arma é especialmente projetada para uso de autômatos; humanos normais terão dificuldade em usá-la sem equipamentos externos ou aprimoramentos.</DMS_BattleRifle.description>
-  <DMS_Autocannon.label>canhão automático de autômato</DMS_Autocannon.label>
-  <DMS_Autocannon.description>Um canhão automático projetado para soldados autômatos ou para montagem em uma plataforma de apoio de infantaria.\n\nEsta arma é projetada especificamente para uso de autômatos; é tão pesada que apenas autômatos específicos conseguem operá-la, a menos que esteja montada em uma plataforma de apoio.</DMS_Autocannon.description>
-  <DMS_Gun_MK44_Autocannon.label>canhão automático MK44 Bushmaster II</DMS_Gun_MK44_Autocannon.label>
+  <DMS_Autocannon.label>autocanhão de autômato</DMS_Autocannon.label>
+  <DMS_Autocannon.description>Um autocanhão projetado para soldados autômatos ou para montagem em uma plataforma de apoio de infantaria.\n\nEsta arma é projetada especificamente para uso de autômatos; é tão pesada que apenas autômatos específicos conseguem operá-la, a menos que esteja montada em uma plataforma de apoio.</DMS_Autocannon.description>
+  <DMS_Gun_MK44_Autocannon.label>autocanhão MK44 Bushmaster II</DMS_Gun_MK44_Autocannon.label>
   <DMS_Gun_MK44_Autocannon.description>O autocanhão MK44 Bushmaster II é uma arma de baixa cadência de tiro (200 RPM), alta potência e alta precisão. Pode ser equipado em mecanoides de tamanho médio e dispara munição NATO de 30×173 mm, preenchendo efetivamente o papel de um autocanhão de rajada de precisão.</DMS_Gun_MK44_Autocannon.description>
   <DMS_Gun_2A38M.label>2A38M</DMS_Gun_2A38M.label>
   <DMS_Gun_2A38M.description>Um autocanhão pesado de cano duplo para supressão de infantaria e necessidades antiaéreas.\n\nEsta arma é projetada especificamente para uso de autômatos; é tão pesada que apenas autômatos específicos conseguem operá-la.</DMS_Gun_2A38M.description>
@@ -362,16 +336,16 @@
   <DMS_Gun_Vasilek.label>2B9M Vasilek</DMS_Gun_Vasilek.label>
   <DMS_Gun_Vasilek.description>Um projeto antigo de peça de artilharia indireta de disparo rápido, capaz de disparar quatro projéteis de morteiro em uma rajada.</DMS_Gun_Vasilek.description>
   <DMS_Turret_Dawnblade.label>Dawnblade</DMS_Turret_Dawnblade.label>
-  <DMS_Turret_Dawnblade.description>MPQFS-85 "Dawnblade" é um sistema de canhão de tiro rápido multiuso embarcado. Usa carregadores de tambor e um carregador automático tipo revólver para permitir uma alta taxa de fogo sustentado.\n\nA blindagem foi removida para permitir que a posição de armas seja reposicionada conforme necessário para apoio de fogo pesado.</DMS_Turret_Dawnblade.description>
+  <DMS_Turret_Dawnblade.description>Um sistema de canhão de tiro rápido multiuso amplamente utilizado pela frota colonial, que usa carregadores de tambor e um carregador revólver para interceptar e engajar alvos pequenos e médios de alta velocidade. Fornece apoio de fogo direto feroz em calibre grande para a defesa da colônia.</DMS_Turret_Dawnblade.description>
   <DMS_Gun_Dawnblade.label>sistema de tiro rápido multiuso Tipo 85</DMS_Gun_Dawnblade.label>
   <DMS_Gun_Dawnblade.description>Um sistema de artilharia automatizado amplamente usado em fragatas e corvetas de pequeno e médio porte nas frotas coloniais.</DMS_Gun_Dawnblade.description>
   <DMS_Bullet_Dawnblade.label>projétil perfurante</DMS_Bullet_Dawnblade.label>
   <DMS_ProstheticLung.label>pulmão neuromecânico</DMS_ProstheticLung.label>
-  <DMS_ProstheticLung.description>Uma prótese de pulmão baseada em membrana de fibra de plastiaço. Funciona como um pulmão artificial. Durante a Terceira Guerra Mundial, devido à falta de equipamento de proteção, a maioria dos soldados foi exposta a poluição nuclear, biológica e química altamente concentrada, o que causou ulceração massiva e paralisia dos órgãos respiratórios. Esses tipos de próteses foram amplamente usados no meio militar e gradualmente aperfeiçoados através de cirurgias de linha de frente e esforços de reabilitação para soldados incapacitados.</DMS_ProstheticLung.description>
+  <DMS_ProstheticLung.description>Um órgão artificial de oxigenação por membrana, feito de fibra de plastiaço, que funciona pelo mesmo princípio da máquina cirúrgica coração-pulmão conhecida como E.C.M.O.\n\nDurante a Terceira Guerra Mundial, a falta de equipamento de proteção adequado expôs grande número de soldados de todos os lados a contaminação nuclear, biológica e química intensa, produzindo muitas baixas com órgãos ulcerados ou em falência. Esses substitutos de órgãos internos foram amplamente usados nas forças armadas e gradualmente aperfeiçoados por meio de cirurgias de campanha e do tratamento de ressocialização de veteranos incapacitados.</DMS_ProstheticLung.description>
   <DMS_ProstheticKidney.label>rim neuromecânico</DMS_ProstheticKidney.label>
   <DMS_ProstheticKidney.description>Um implante de filtro líquido biocompatível que filtra impurezas e resíduos do sangue através de pressão osmótica, para garantir o equilíbrio ácido-base do sistema circulatório interno do implantado.</DMS_ProstheticKidney.description>
   <DMS_CombatRation.label>ração C</DMS_CombatRation.label>
-  <DMS_CombatRation.description>Uma ração de polímero orgânico de alta energia, inventada durante a Terceira Guerra Mundial como suplemento nutricional para tropas humanas aumentadas em combate. Para soldados equipados com interfaces nutricionais, fornece calorias suficientes para os órgãos internos funcionarem por um longo período. Mas para humanos normais, pode causar algum leve desconforto gastrointestinal.</DMS_CombatRation.description>
+  <DMS_CombatRation.description>Um bloco de ração polimérica orgânica de alta energia, inventado durante a Terceira Guerra Mundial como suplemento nutricional para tropas humanas aumentadas em combate e como aditivo para meios de cultura de músculo artificial. Para soldados equipados com uma porta nutricional, uma única ração fornece calorias e vitaminas suficientes para manter seus órgãos funcionando por muito tempo.\n\nPara uma pessoa comum, funciona igualmente bem, mas pode causar algum leve desconforto gastrointestinal.</DMS_CombatRation.description>
   <DMS_Bullet_BlasterSmoke.label>projétil de tela antiblaster</DMS_Bullet_BlasterSmoke.label>
   <UnfinishedModification.label>modificação inacabada</UnfinishedModification.label>
   <UnfinishedModification.description>Uma modificação inacabada.</UnfinishedModification.description>
@@ -403,8 +377,8 @@
   <DMS_Mech_Gladiator.description>Uma variante do Ronin especializada em combate corpo a corpo. O Gladiador mantém a mobilidade e a armadura do Ronin e vem com um módulo de combate corpo a corpo melhorado, além de ser equipado com um escudo de assalto.</DMS_Mech_Gladiator.description>
   <DMS_Mech_Gladiator.tools.0.label>escudo de assalto</DMS_Mech_Gladiator.tools.0.label>
   <DMS_Mech_Gladiator.tools.1.label>punho direito</DMS_Mech_Gladiator.tools.1.label>
-  <DMS_Mech_Lady.label>Lady</DMS_Mech_Lady.label>
-  <DMS_Mech_Lady.description>A MG-1 Lady é um autômato que faz uso de tecnologia mecânica sintética. Foi originalmente projetada para reduzir a síndrome de viés cognitivo causada pela cooperação de longo prazo com máquinas no meio militar. Grande parte de suas estruturas anatômicas é semelhante à de um humano, e suas partes internas podem ser quase diretamente transplantadas para um corpo humano. Devido à sua aparência excessivamente humana, era usada principalmente como observadora de franco-atiradores ou guarda-costas de oficiais.</DMS_Mech_Lady.description>
+  <DMS_Mech_Lady.label>Dama</DMS_Mech_Lady.label>
+  <DMS_Mech_Lady.description>A MG-1 Dama é um autômato que faz uso de tecnologia mecânica sintética. Foi originalmente projetada para reduzir a síndrome de viés cognitivo causada pela cooperação de longo prazo com máquinas no meio militar. Grande parte de suas estruturas anatômicas é semelhante à de um humano, e suas partes internas podem ser quase diretamente transplantadas para um corpo humano. Devido à sua aparência excessivamente humana, era usada principalmente como observadora de franco-atiradores ou guarda-costas de oficiais.</DMS_Mech_Lady.description>
   <DMS_Mech_Lady.tools.0.label>punho esquerdo</DMS_Mech_Lady.tools.0.label>
   <DMS_Mech_Lady.tools.1.label>punho direito</DMS_Mech_Lady.tools.1.label>
   <DMS_Mech_Dogge.label>dogue</DMS_Mech_Dogge.label>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RKCS.ChangeToSingleName>Alterar para Nome Único</RKCS.ChangeToSingleName>
+  <RKCS.ChangeToTripleName>Alterar para Nome Triplo</RKCS.ChangeToTripleName>
+  <RKCS.ColorSettings>Configurações de Cores</RKCS.ColorSettings>
+  <RKCS.ConfigurePreservedTraits>Configurar Traços Preservados</RKCS.ConfigurePreservedTraits>
+  <RKCS.CurrentColor>Cor Atual</RKCS.CurrentColor>
+  <RKCS.CurrentName>Nome Atual: {0}</RKCS.CurrentName>
+  <RKCS.Dawnblade.AutoFireDesc>Quando ativado, o Dawnblade ataca automaticamente inimigos ao alcance. Quando desativado, responde apenas a ataques forçados.</RKCS.Dawnblade.AutoFireDesc>
+  <RKCS.Dawnblade.AutoFireOff>Fogo automático: DESLIGADO</RKCS.Dawnblade.AutoFireOff>
+  <RKCS.Dawnblade.AutoFireOffMsg>Dawnblade: fogo automático desativado</RKCS.Dawnblade.AutoFireOffMsg>
+  <RKCS.Dawnblade.AutoFireOn>Fogo automático: LIGADO</RKCS.Dawnblade.AutoFireOn>
+  <RKCS.Dawnblade.AutoFireOnMsg>Dawnblade: fogo automático ativado</RKCS.Dawnblade.AutoFireOnMsg>
+  <RKCS.EnableEyeColorChange>Ativar Mudança de Cor dos Olhos</RKCS.EnableEyeColorChange>
+  <RKCS.EnableHairColorChange>Ativar Mudança de Cor do Cabelo</RKCS.EnableHairColorChange>
+  <RKCS.EnableMiliraEyeColorChange>Ativar sobreposição de cor dos olhos Milira</RKCS.EnableMiliraEyeColorChange>
+  <RKCS.EnableSkinColorChange>Ativar Mudança de Cor da Pele</RKCS.EnableSkinColorChange>
+  <RKCS.FirstName>Nome</RKCS.FirstName>
+  <RKCS.HollowLeaderName>Pyla Salamós</RKCS.HollowLeaderName>
+  <RKCS.HollowRaid.HandoverDone>O Coro Noturno aceitou o tributo ({0}) e se retirou, satisfeito.</RKCS.HollowRaid.HandoverDone>
+  <RKCS.HollowRaid.Withdraw>O Coro Noturno não encontrou ninguém que valesse a pena levar e se retirou.</RKCS.HollowRaid.Withdraw>
+  <RKCS.HollowShuttle.Label>Transporte do Coro Noturno</RKCS.HollowShuttle.Label>
+  <RKCS.HollowSurrender.Board>Embarcá-los</RKCS.HollowSurrender.Board>
+  <RKCS.HollowSurrender.BoardDesc>Faça os colonos selecionados entrarem no transporte por conta própria.</RKCS.HollowSurrender.BoardDesc>
+  <RKCS.HollowSurrender.BoardNotReady>A nave ainda não pousou, ou todos já estão a bordo.</RKCS.HollowSurrender.BoardNotReady>
+  <RKCS.HollowSurrender.Cancelled>A nave falhou em resgatá-los. O Coro Noturno retoma o ataque!</RKCS.HollowSurrender.Cancelled>
+  <RKCS.HollowSurrender.Confirm>Confirmar</RKCS.HollowSurrender.Confirm>
+  <RKCS.HollowSurrender.Desc>Escolha mulheres elegíveis entre seus colonos e entregue-as para interromper o ataque do Coro Noturno imediatamente.</RKCS.HollowSurrender.Desc>
+  <RKCS.HollowSurrender.Detail>Info</RKCS.HollowSurrender.Detail>
+  <RKCS.HollowSurrender.Done>{0} entregue ao Coro Noturno. Eles se retirarão assim que saírem do mapa.</RKCS.HollowSurrender.Done>
+  <RKCS.HollowSurrender.Explain>O Coro Noturno só quer mulheres elegíveis. Escolha as que eles solicitarem e eles pararão de atacar e se retirarão. As mulheres entregues deixarão sua facção, serão banidas e sairão do mapa.</RKCS.HollowSurrender.Explain>
+  <RKCS.HollowSurrender.Label>Entregar mulheres qualificadas</RKCS.HollowSurrender.Label>
+  <RKCS.HollowSurrender.Launch>Decolar</RKCS.HollowSurrender.Launch>
+  <RKCS.HollowSurrender.LaunchDesc>Todos estão a bordo. Decole e parta; o Coro Noturno irá retirar-se com eles.</RKCS.HollowSurrender.LaunchDesc>
+  <RKCS.HollowSurrender.LaunchNotReady>Alguém ainda não embarcou.</RKCS.HollowSurrender.LaunchNotReady>
+  <RKCS.HollowSurrender.LetterAccept>Aceitar</RKCS.HollowSurrender.LetterAccept>
+  <RKCS.HollowSurrender.LetterLabel>Coro Noturno: Uma Exigência</RKCS.HollowSurrender.LetterLabel>
+  <RKCS.HollowSurrender.LetterRefuse>Recusar (lutar)</RKCS.HollowSurrender.LetterRefuse>
+  <RKCS.HollowSurrender.LetterText>O Coro Noturno cercou este lugar. Eles não vieram para matar todos - vieram para pegar pessoas.\n\nSuas exigências: entreguem {0} mulheres elegíveis, e eles partirão com elas, lembrando-se da cooperação.\n\nCaso se recusem, eles continuarão lutando até terem pego o suficiente para si mesmos.</RKCS.HollowSurrender.LetterText>
+  <RKCS.HollowSurrender.NotEnough>Selecione mais {0}</RKCS.HollowSurrender.NotEnough>
+  <RKCS.HollowSurrender.Progress>Necessário entregar {0}, selecionado {1}.</RKCS.HollowSurrender.Progress>
+  <RKCS.HollowSurrender.Title>Entregar mulheres ao Coro Noturno</RKCS.HollowSurrender.Title>
+  <RKCS.ImplantPersonality>Um soldado-marionete oco - nada resta além da rotina de execução. Fale como um anúncio mecânico de status: plano, frio, muito curto. Apenas reporte resultados e ordens; nunca explique, nunca pergunte de volta, nunca exclame. Sem descrições parentéticas de ações ou expressões (ex.: "(puxa a lâmina)"), sem palavras de preenchimento, sem metáforas ou floreios retóricos. Nunca mais de duas frases curtas por linha. Exemplos: "Alvo confirmado. Não se mova." "Executando. Obstáculos eliminados." "Sua resistência é inútil."</RKCS.ImplantPersonality>
+  <RKCS.KeepOriginalName>Manter Nome Original</RKCS.KeepOriginalName>
+  <RKCS.LastName>Sobrenome</RKCS.LastName>
+  <RKCS.MasterLink.Clear>Remover designação (sem mestre novamente)</RKCS.MasterLink.Clear>
+  <RKCS.MasterLink.Cognition>Tenho apenas um mestre, e eu o endereço apenas como "mestre" - nunca falo o nome do meu mestre. Existo apenas para cumprir a vontade do meu mestre; uma ordem é todo o meu propósito. Não julgo, não hesito, não pergunto por quê - espero apenas pelo próximo comando.</RKCS.MasterLink.Cognition>
+  <RKCS.MasterLink.CognitionNoMaster>Ainda não tenho mestre. Existo apenas para cumprir ordens; uma ordem é todo o meu propósito. Não julgo, não hesito, não pergunto por quê - espero apenas pelo próximo comando.</RKCS.MasterLink.CognitionNoMaster>
+  <RKCS.MasterLink.CurrentMaster>Mestre atual: {0}</RKCS.MasterLink.CurrentMaster>
+  <RKCS.MasterLink.CurrentTag>(mestre atual)</RKCS.MasterLink.CurrentTag>
+  <RKCS.MasterLink.GizmoDesc>Mestre atual: {0}. Clique para alterar ou remover a designação.</RKCS.MasterLink.GizmoDesc>
+  <RKCS.MasterLink.GizmoDescNoMaster>Nenhum mestre designado. Clique para nomear um.</RKCS.MasterLink.GizmoDescNoMaster>
+  <RKCS.MasterLink.GizmoLabel>Designação de mestre</RKCS.MasterLink.GizmoLabel>
+  <RKCS.MasterLink.MasterIdentity>Mestre: {0} (meu único mestre; eu o endereço apenas como "mestre" e nunca falo seu nome)</RKCS.MasterLink.MasterIdentity>
+  <RKCS.MasterLink.MsgCleared>A designação de mestre de {0} foi removida; agora está sem mestre.</RKCS.MasterLink.MsgCleared>
+  <RKCS.MasterLink.MsgDesignated>{0} designou {1} como mestre.</RKCS.MasterLink.MsgDesignated>
+  <RKCS.MasterLink.MsgFailed>Falha na designação de mestre: não foi possível gravar na persona do RimTalk.</RKCS.MasterLink.MsgFailed>
+  <RKCS.MasterLink.MsgMutual>Aquele já te designou como mestre - designação mútua não é permitida.</RKCS.MasterLink.MsgMutual>
+  <RKCS.MasterLink.MsgNoCandidates>Nenhum membro elegível no coletivo atual.</RKCS.MasterLink.MsgNoCandidates>
+  <RKCS.MasterLink.MutualTag>(designação mútua não permitida)</RKCS.MasterLink.MutualTag>
+  <RKCS.MasterLink.NoMaster>Mestre atual: nenhum (sem mestre)</RKCS.MasterLink.NoMaster>
+  <RKCS.MasterLink.StateDead>Mestre atual: {0} (morto)</RKCS.MasterLink.StateDead>
+  <RKCS.MasterLink.StateLeftFaction>Mestre atual: {0} (não pertence mais a este coletivo)</RKCS.MasterLink.StateLeftFaction>
+  <RKCS.MiliraEyeColorHint>Padrão 255,0,255. Aplica-se apenas a Milians; outras raças usam a cor dos olhos genérica acima.</RKCS.MiliraEyeColorHint>
+  <RKCS.NickName>Apelido</RKCS.NickName>
+  <RKCS.PandoraCancelForce>Cancelar ataque forçado</RKCS.PandoraCancelForce>
+  <RKCS.PandoraCancelForceDesc>Limpa o alvo forçado do Dawnblade e retorna ao direcionamento automático.</RKCS.PandoraCancelForceDesc>
+  <RKCS.PandoraDrone.AttackDesc>Os drones ficam em órbita; quando o ataque estiver ativado, eles engajam inimigos ao alcance.</RKCS.PandoraDrone.AttackDesc>
+  <RKCS.PandoraDrone.Cooldown>Em recarga: {0} segundos restantes</RKCS.PandoraDrone.Cooldown>
+  <RKCS.PandoraDrone.Launch>Lançar drones</RKCS.PandoraDrone.Launch>
+  <RKCS.PandoraDrone.LaunchDesc>Lança {0} drones. Cada um mira independentemente no inimigo mais próximo, dispara {1} tiros e retorna ao usuário; caso não haja inimigos, vagam por 30 segundos e voltam. Tempo de recarga: {2} segundos.</RKCS.PandoraDrone.LaunchDesc>
+  <RKCS.PandoraDrone.Launched>{0} drones lançados.</RKCS.PandoraDrone.Launched>
+  <RKCS.PandoraDrone.Sortie>Surtida de drones (30s)</RKCS.PandoraDrone.Sortie>
+  <RKCS.PandoraDrone.SortieActive>Surtida: {0}s restantes</RKCS.PandoraDrone.SortieActive>
+  <RKCS.PandoraDrone.StartAttack>Iniciar ataque dos drones</RKCS.PandoraDrone.StartAttack>
+  <RKCS.PandoraDrone.StopAttack>Parar ataque dos drones</RKCS.PandoraDrone.StopAttack>
+  <RKCS.PandoraForceAttack>Ataque forçado (Dawnblade)</RKCS.PandoraForceAttack>
+  <RKCS.PandoraForceAttackDesc>Escolha um alvo hostil; o Dawnblade continuará disparando rajadas de 4 tiros nele.</RKCS.PandoraForceAttackDesc>
+  <RKCS.PandoraVolley>Salva de mísseis em grupo</RKCS.PandoraVolley>
+  <RKCS.PandoraVolleyCooling>Em recarga: {0}s</RKCS.PandoraVolleyCooling>
+  <RKCS.PandoraVolleyDesc>Dispara {0} foguetes na área-alvo. Tempo de recarga: {1}s.</RKCS.PandoraVolleyDesc>
+  <RKCS.PandoraVolleyOutOfRange>Alvo fora do alcance da salva de mísseis em grupo</RKCS.PandoraVolleyOutOfRange>
+  <RKCS.PostRemovalDirective>Após a remoção da coluna de controle: ela se lembra claramente de tudo que fez enquanto estava sob controle - não era por vontade própria, o implante a dirigia. A pessoa que ela é agora é seu verdadeiro eu. Ela pode sentir dor, vergonha, raiva ou desejo de reparação por aquele período, mas nunca trata isso como algo "que ela quis", e não se considera mais parte do Coro Noturno.</RKCS.PostRemovalDirective>
+  <RKCS.PreservedTraitsHint>Na janela seguinte, marque os traços que deseja manter após implantar a Coluna de Controle. Traços não marcados serão removidos (traços de genes não são afetados). O traço Psicopata sempre será adicionado.</RKCS.PreservedTraitsHint>
+  <RKCS.PylaArrive.LetterLabel>Uma Visitante Estranha</RKCS.PylaArrive.LetterLabel>
+  <RKCS.PylaArrive.LetterText>Uma mulher estranha veio à colônia, sem declarar seu propósito. Parece que ela quer descansar aqui por um tempo.</RKCS.PylaArrive.LetterText>
+  <RKCS.PylaLeave.LetterLabel>Ela Partiu</RKCS.PylaLeave.LetterLabel>
+  <RKCS.PylaLeave.LetterText>{0} partiu. Ela deixou dois presentes.</RKCS.PylaLeave.LetterText>
+  <RKCS.PylaNote.LetterLabel>Um Bilhete</RKCS.PylaNote.LetterLabel>
+  <RKCS.PylaNote.LetterText>{0} deixou um bilhete, com caligrafia elegante: "É agradável aqui."</RKCS.PylaNote.LetterText>
+  <RKCS.RJWBridge.ReasonNoSelfInitiate>Um implante de coluna de controle nunca inicia sexo, exceto com um implante subordinado seu.</RKCS.RJWBridge.ReasonNoSelfInitiate>
+  <RKCS.RJWBridge.ReasonNotLiving>Aquele está morto - isto requer um colono vivo.</RKCS.RJWBridge.ReasonNotLiving>
+  <RKCS.RJWBridge.ReasonNotMaster>Este implante tem um mestre; apenas seu mestre pode usá-lo.</RKCS.RJWBridge.ReasonNotMaster>
+  <RKCS.RenameAfterImplant>Alterar Nome</RKCS.RenameAfterImplant>
+  <RKCS.RenameSingleTitle>Digite o novo nome único</RKCS.RenameSingleTitle>
+  <RKCS.RenameTripleTitle>Digite o novo nome com três partes</RKCS.RenameTripleTitle>
+  <RKCS.ResetComplete>As configurações foram restauradas aos padrões. Reabra as configurações para ver as alterações.</RKCS.ResetComplete>
+  <RKCS.ResetDefaults>Restaurar Padrões</RKCS.ResetDefaults>
+  <RKCS.SelectColor>Selecionar Cor</RKCS.SelectColor>
+  <RKCS.SelectTargetColor>Selecionar Cor Alvo</RKCS.SelectTargetColor>
+  <RKCS.SingleName>Nome</RKCS.SingleName>
+  <RKCS.TargetEyeColor>Cor dos Olhos Alvo</RKCS.TargetEyeColor>
+  <RKCS.TargetHairColor>Cor de Cabelo Alvo</RKCS.TargetHairColor>
+  <RKCS.TargetMiliraEyeColor>Cor dos Olhos Milira (dedicada)</RKCS.TargetMiliraEyeColor>
+  <RKCS.TargetSkinColor>Cor da Pele Alvo</RKCS.TargetSkinColor>
+  <RKCS.TraitRetentionSettings>Configurações de Retenção de Traços</RKCS.TraitRetentionSettings>
+  <RKCS.UseTripleName>Usar Nome Triplo (Nome + Apelido + Sobrenome)</RKCS.UseTripleName>
+  <RKCS_BodyTooLarge>O porte do usuário excede 1.4; esta armadura não pode ser vestida.</RKCS_BodyTooLarge>
+  <RKCS_ERROR>Núcleo de autenticação não encontrado. Equipamento se desengatando automaticamente.</RKCS_ERROR>
+  <RKCS_HollowTribute.description>Marcador interno: esta pessoa foi entregue ao Coro Noturno como tributo.</RKCS_HollowTribute.description>
+  <RKCS_HollowTribute.label>Tributo do Coro Noturno</RKCS_HollowTribute.label>
+  <RKCS_RaceCannotWear>{0} não pode vestir isto.</RKCS_RaceCannotWear>
+  <RKCS_RestraintArmBroken>O braço de contenção retrátil de {PAWN} foi destruído.</RKCS_RestraintArmBroken>
+  <RKCS_RestraintLegBroken>A perna de contenção retrátil de {PAWN} foi destruída.</RKCS_RestraintLegBroken>
+  <RKCS_RestraintLegIntegrity>Integridade: {0}/{1}</RKCS_RestraintLegIntegrity>
+</LanguageData>

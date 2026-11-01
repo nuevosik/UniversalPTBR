@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_Melee_Halberd.description>Uma arma de haste medieval com lâmina, adequada para cortar e estocar, com um gancho para prender armas inimigas.</CE_Melee_Halberd.description>
+  <CE_Melee_Halberd.label>alabarda</CE_Melee_Halberd.label>
+  <CE_Melee_Halberd.tools.0.label>cabo</CE_Melee_Halberd.tools.0.label>
+  <CE_Melee_Halberd.tools.1.label>gume</CE_Melee_Halberd.tools.1.label>
+  <CE_Melee_Halberd.tools.2.label>ponta</CE_Melee_Halberd.tools.2.label>
+  <CE_Melee_Maul.description>Um martelo pesado de duas mãos. Difícil de manejar, mas seu impacto poderoso permite ferir alvos mesmo por trás de armaduras.</CE_Melee_Maul.description>
+  <CE_Melee_Maul.label>malho</CE_Melee_Maul.label>
+  <CE_Melee_Maul.tools.0.label>cabo</CE_Melee_Maul.tools.0.label>
+  <CE_Melee_Maul.tools.1.label>cabeça</CE_Melee_Maul.tools.1.label>
+  <CE_Melee_PoweredMace.description>Arma de impacto avançada, tipicamente usada por tropas de assalto de Mundos-Brilhantes em combinação com um escudo. A cabeça é revestida com um campo de plasma ionizado, reduzindo a resistência ao impacto das armaduras inimigas.</CE_Melee_PoweredMace.description>
+  <CE_Melee_PoweredMace.label>maça energizada</CE_Melee_PoweredMace.label>
+  <CE_Melee_PoweredMace.tools.0.label>cabo</CE_Melee_PoweredMace.tools.0.label>
+  <CE_Melee_PoweredMace.tools.1.label>cabeça</CE_Melee_PoweredMace.tools.1.label>
+  <CE_Melee_PoweredMaul.description>Um martelo pesado de duas mãos, comumente usado por equipes de assalto de Mundos-Brilhantes em invasões urbanas. O golpe do martelo libera uma onda de plasma ionizado no alvo, devastando qualquer armadura em seu caminho.</CE_Melee_PoweredMaul.description>
+  <CE_Melee_PoweredMaul.label>malho energizado</CE_Melee_PoweredMaul.label>
+  <CE_Melee_PoweredMaul.tools.0.label>cabo</CE_Melee_PoweredMaul.tools.0.label>
+  <CE_Melee_PoweredMaul.tools.1.label>cabeça</CE_Melee_PoweredMaul.tools.1.label>
+  <CE_Melee_PoweredShortsword.description>Uma espada curta altamente avançada. Comumente usada por tropas de assalto de Mundos-Brilhantes, a lâmina é revestida com um campo de plasma ionizado, ajudando-a a cortar as armaduras inimigas.</CE_Melee_PoweredShortsword.description>
+  <CE_Melee_PoweredShortsword.label>espada curta energizada</CE_Melee_PoweredShortsword.label>
+  <CE_Melee_PoweredShortsword.tools.0.label>cabo</CE_Melee_PoweredShortsword.tools.0.label>
+  <CE_Melee_PoweredShortsword.tools.1.label>ponta</CE_Melee_PoweredShortsword.tools.1.label>
+  <CE_Melee_PoweredShortsword.tools.2.label>gume</CE_Melee_PoweredShortsword.tools.2.label>
+  <CE_Melee_WraithBlade.description>Arma branca altamente avançada. Quando ativa, emite um fluxo constante de plasma ionizado que pode cortar quase qualquer armadura. Sua aparência sobrenatural lhe rendeu o apelido e inspirou muitas lendas.</CE_Melee_WraithBlade.description>
+  <CE_Melee_WraithBlade.label>lâmina espectral</CE_Melee_WraithBlade.label>
+  <CE_Melee_WraithBlade.tools.0.label>cabo</CE_Melee_WraithBlade.tools.0.label>
+  <CE_Melee_WraithBlade.tools.1.label>ponta</CE_Melee_WraithBlade.tools.1.label>
+  <CE_Melee_WraithBlade.tools.2.label>gume</CE_Melee_WraithBlade.tools.2.label>
+  <CE_Melee_Zweihander.description>Uma espada grande projetada para uso com as duas mãos. Desajeitada para uma espada, mas um único golpe pode cortar um homem ao meio.</CE_Melee_Zweihander.description>
+  <CE_Melee_Zweihander.label>montante</CE_Melee_Zweihander.label>
+  <CE_Melee_Zweihander.tools.0.label>cabo</CE_Melee_Zweihander.tools.0.label>
+  <CE_Melee_Zweihander.tools.1.label>ponta</CE_Melee_Zweihander.tools.1.label>
+  <CE_Melee_Zweihander.tools.2.label>gume</CE_Melee_Zweihander.tools.2.label>
+  <UnfinishedPoweredMeleeWeapon.description>Uma arma branca energizada inacabada.</UnfinishedPoweredMeleeWeapon.description>
+  <UnfinishedPoweredMeleeWeapon.label>arma branca energizada inacabada</UnfinishedPoweredMeleeWeapon.label>
+</LanguageData>

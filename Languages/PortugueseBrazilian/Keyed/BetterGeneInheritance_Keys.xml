@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BGI_AllPawnsBinaryInheritance>Fazer TODOS os colonos usarem apenas lógica de herança binária.</BGI_AllPawnsBinaryInheritance>
+  <BGI_ConsiderOnlyXenoEndo>Buscar diretamente listas de genes Endo+Xeno (compatibilidade)</BGI_ConsiderOnlyXenoEndo>
+  <BGI_InheritArchite>Genes arquiotecnológicos são herdáveis.</BGI_InheritArchite>
+  <BGI_InheritSharedArchite>Genes arquiotecnológicos compartilhados por ambos os pais são sempre herdados.</BGI_InheritSharedArchite>
+  <BGI_InheritXeno>Xenogenes podem ser herdados junto com os endogenes.</BGI_InheritXeno>
+  <BGI_MetabolismLimit>Metabolismo mínimo permitido</BGI_MetabolismLimit>
+  <BGI_ParentBGeneInheritanceChanceMax>% máximo do segundo pai (aleatório)</BGI_ParentBGeneInheritanceChanceMax>
+  <BGI_ParentBGeneInheritanceChanceMin>% mínimo do segundo pai (aleatório)</BGI_ParentBGeneInheritanceChanceMin>
+  <BGI_RemoveOverridden>Remover genes sobrescritos</BGI_RemoveOverridden>
+  <BGI_ResetSettings>Restaurar padrão</BGI_ResetSettings>
+  <BGInheritance>Herança genética aprimorada</BGInheritance>
+</LanguageData>

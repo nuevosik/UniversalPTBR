@@ -22,7 +22,7 @@
   <VFEE_Destroyer.label>Destruidor de {FACTION_name}</VFEE_Destroyer.label>
   <VFEE_Destroyer.description>+10% de melhora no preço de negociação com inimigos de {FACTION_name}.</VFEE_Destroyer.description>
   
-  <VFEE_FirstOfName.label>Primeiro de Seu Nome</VFEE_FirstOfName.label>
+  <VFEE_FirstOfName.label>Primeiro do Nome {PAWN_possessive}</VFEE_FirstOfName.label>
   <VFEE_FirstOfName.description>Toda pessoa nobre tem +5 de opinião sobre este colono.</VFEE_FirstOfName.description>
   
   <VFEE_Gardener.label>O Jardineiro</VFEE_Gardener.label>

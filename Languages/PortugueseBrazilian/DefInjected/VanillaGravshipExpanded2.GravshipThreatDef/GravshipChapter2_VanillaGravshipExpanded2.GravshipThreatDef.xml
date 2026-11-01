@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_EnemyGravjumper.description>Um gravsaltador inimigo está se preparando e entrará em combate em breve.\n\nTempo até a chegada: {0}\n\nAfaste-se antes que ele chegue para evitá-lo, ou prepare-se para combatê-lo.</VGE_EnemyGravjumper.description>
+  <VGE_EnemyGravjumper.label>Gravsaltador inimigo</VGE_EnemyGravjumper.label>
+  <VGE_EnemyGravship.description>Uma gravnave inimiga está se preparando para bombardear e entrará em combate em breve.\n\nTempo até a chegada: {0}\n\nAfaste-se antes que ela chegue para evitá-la, ou prepare-se para combatê-la.</VGE_EnemyGravship.description>
+  <VGE_EnemyGravship.label>Gravnave inimiga</VGE_EnemyGravship.label>
+  <VGE_OrbitalCluster.description>Um aglomerado orbital mecanoide travou sua posição e atacará em breve.\n\nTempo até a chegada: {0}\n\nMudar de posição provavelmente atrasará o ataque, mas mais cedo ou mais tarde será necessário derrotar o aglomerado orbital para eliminar a ameaça.</VGE_OrbitalCluster.description>
+  <VGE_OrbitalCluster.label>Aglomerado orbital</VGE_OrbitalCluster.label>
+  <VGE_SalvagerStation.description>Uma estação orbital de salvadores está exigindo tributo de {0} prata ou abrirá fogo.\n\nTempo até o pagamento do tributo: {1}\n\nVocê pode pedir a eles para adiar o pagamento, mas o motor gravítico ficará travado remotamente até que o tributo seja pago ou a estação seja derrotada. Você também pode pagar a taxa imediatamente, se tiver os fundos. Fugir provavelmente fará com que os salvadores enviem um grupo de busca atrás de você.</VGE_SalvagerStation.description>
+  <VGE_SalvagerStation.label>Estação de salvadores</VGE_SalvagerStation.label>
+  <VGE_Warplatform.description>Uma plataforma orbital de bombardeio detectou a assinatura da sua gravnave e entrará em combate em breve.\n\nTempo até a chegada: {0}\n\nAfaste-se antes que ela trave o alvo para evitá-la, ou prepare-se para combatê-la.</VGE_Warplatform.description>
+  <VGE_Warplatform.label>Plataforma de guerra</VGE_Warplatform.label>
+</LanguageData>

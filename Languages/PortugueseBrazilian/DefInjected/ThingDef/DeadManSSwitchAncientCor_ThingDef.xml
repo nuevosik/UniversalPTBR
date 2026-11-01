@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ammo_125mmTC_HE.label>Projétil de canhão 125mm 3OF26 (HE)</Ammo_125mmTC_HE.label>
+  <Ammo_Ru125mmTCADV_Sabot.label>Projétil de canhão 125mm 3BM59 (APFSDS)</Ammo_Ru125mmTCADV_Sabot.label>
+  <Ammo_Ru125mmTC_HEAT.label>Projétil de canhão 125mm 3BK18M (HEAT)</Ammo_Ru125mmTC_HEAT.label>
+  <Ammo_Ru125mmTC_Sabot.label>Projétil de canhão 125mm 3BM60 (APFSDS)</Ammo_Ru125mmTC_Sabot.label>
+  <Bullet_125mmTC_HE.label>Projétil de canhão 125mm 3OF26 (HE)</Bullet_125mmTC_HE.label>
+  <Bullet_DMS_AtlantLauncher.label>Projétil de granada</Bullet_DMS_AtlantLauncher.label>
+  <Bullet_DMS_CombatShotgun.description>Um projétil sólido de aço temperado alojado em um cartucho de 23mm. Era a munição para a qual a arma foi projetada e atravessa blindagem que cargas de chumbinho apenas arranham.</Bullet_DMS_CombatShotgun.description>
+  <Bullet_DMS_CombatShotgun.label>Projétil sólido</Bullet_DMS_CombatShotgun.label>
+  <Bullet_DMS_Subsonic_Pistol.label>Projétil subsônico</Bullet_DMS_Subsonic_Pistol.label>
+  <Bullet_DMS_Subsonic_Rifle.label>Projétil subsônico</Bullet_DMS_Subsonic_Rifle.label>
+  <Bullet_DMS_Subsonic_Sniper.label>Projétil subsônico</Bullet_DMS_Subsonic_Sniper.label>
+  <Bullet_DMS_VladimirovMG.label>Projétil da metralhadora pesada Vladimirov</Bullet_DMS_VladimirovMG.label>
+  <Bullet_Ru125mmTCADV_Sabot.label>Projétil de canhão 125mm 3BM59 (APFSDS)</Bullet_Ru125mmTCADV_Sabot.label>
+  <Bullet_Ru125mmTC_HEAT.label>Projétil de canhão 125mm 3BK18M (HEAT)</Bullet_Ru125mmTC_HEAT.label>
+  <Bullet_Ru125mmTC_Sabot.label>Projétil de canhão 125mm 3BM60 (APFSDS)</Bullet_Ru125mmTC_Sabot.label>
+  <DMSAC_ArcFurnace.description>Uma máquina pesada que recicla diversos tipos de peças metálicas em aço, gerando muito calor.</DMSAC_ArcFurnace.description>
+  <DMSAC_ArcFurnace.label>Forno elétrico a arco</DMSAC_ArcFurnace.label>
+  <DMSAC_BandNode.description>Um conjunto de matrizes processa o sinal recebido e o direciona a um mecanizador específico. Isso adiciona 4 de largura de banda ao total desse mecanizador, permitindo que ele controle mais mecanoides.\n\nUma vez construído, um conjunto de processamento pode ser rapidamente sintonizado a um mecanizador. No entanto, realocá-lo para um mecanizador diferente leva significativamente mais tempo.\n\nEste dispositivo segue o protocolo N.A.C.S., portanto, apenas meca-conexões que seguem esse protocolo podem receber o serviço.</DMSAC_BandNode.description>
+  <DMSAC_BandNode.label>Conjunto de Processamento</DMSAC_BandNode.label>
+  <DMSAC_BossCaller.description>Um farol de missão de fogo reconstruído a partir de um farol de chamada capturado, projetado para transmitir um indicativo falso da Shkatulka. Ao utilizá-lo, um BR-4U/FG "Shkatulka" e seus escoltas Zabor serão enviados ao solo ao seu lado; o corpo nunca questiona quem fez a chamada.\n\nA Shkatulka carrega foguetes termobáricos. Não a utilize em ambientes fechados. Não a utilize próximo a um depósito de combustível químico. Caso decida usá-la, tenha uma rota de fuga.</DMSAC_BossCaller.description>
+  <DMSAC_BossCaller.label>Farol de missão de fogo</DMSAC_BossCaller.label>
+  <DMSAC_Building_AirFan.description>Um ventilador ativo, que parece ser usado para dissipar o calor de espaços subterrâneos.</DMSAC_Building_AirFan.description>
+  <DMSAC_Building_AirFan.label>Ventilador</DMSAC_Building_AirFan.label>
+  <DMSAC_Building_BarrierGate.description>Um portão de barreira.</DMSAC_Building_BarrierGate.description>
+  <DMSAC_Building_BarrierGate.label>Portão de barreira</DMSAC_Building_BarrierGate.label>
+  <DMSAC_Building_DeactivatedLargeMech.label>Autômato grande abandonado</DMSAC_Building_DeactivatedLargeMech.label>
+  <DMSAC_Building_DeactivatedMediumMech.label>Autômato médio abandonado</DMSAC_Building_DeactivatedMediumMech.label>
+  <DMSAC_Building_DeactivatedSmallMech.label>Autômato pequeno abandonado</DMSAC_Building_DeactivatedSmallMech.label>
+  <DMSAC_Building_DerelictMech_Alligator.label>Autômato grande abandonado</DMSAC_Building_DerelictMech_Alligator.label>
+  <DMSAC_Building_DerelictMech_Large.label>Autômato grande abandonado</DMSAC_Building_DerelictMech_Large.label>
+  <DMSAC_Building_DerelictMech_Medium.label>Autômato médio abandonado</DMSAC_Building_DerelictMech_Medium.label>
+  <DMSAC_Building_DerelictMech_Small.label>Autômato pequeno abandonado</DMSAC_Building_DerelictMech_Small.label>
+  <DMSAC_Building_FuelBarrel.description>Um barril cheio de combustível.</DMSAC_Building_FuelBarrel.description>
+  <DMSAC_Building_FuelBarrel.label>Barril de combustível</DMSAC_Building_FuelBarrel.label>
+  <DMSAC_Building_InactivatedLargeMech.label>Autômato grande inativado</DMSAC_Building_InactivatedLargeMech.label>
+  <DMSAC_Building_InactivatedMediumMech.label>Autômato médio inativado</DMSAC_Building_InactivatedMediumMech.label>
+  <DMSAC_Building_InactivatedSmallMech.label>Autômato pequeno inativado</DMSAC_Building_InactivatedSmallMech.label>
+  <DMSAC_Building_LiftShaft.description>Um grande poço de elevador leva à área subterrânea, grande o suficiente para transportar veículos, mas aparentemente não há como ativá-lo.</DMSAC_Building_LiftShaft.description>
+  <DMSAC_Building_LiftShaft.label>Poço de elevador</DMSAC_Building_LiftShaft.label>
+  <DMSAC_Building_LiftShaft_Bottom.description>Um grande poço de elevador leva à área subterrânea, grande o suficiente para transportar veículos, mas aparentemente não há como ativá-lo.</DMSAC_Building_LiftShaft_Bottom.description>
+  <DMSAC_Building_LiftShaft_Bottom.label>Poço de elevador</DMSAC_Building_LiftShaft_Bottom.label>
+  <DMSAC_Building_LiftShaft_Bottom_B.description>Um grande poço de elevador leva à área subterrânea, grande o suficiente para transportar veículos, mas obviamente requer uma senha para ser ativado.</DMSAC_Building_LiftShaft_Bottom_B.description>
+  <DMSAC_Building_LiftShaft_Bottom_B.label>Poço de elevador</DMSAC_Building_LiftShaft_Bottom_B.label>
+  <DMSAC_Building_RoadBlock.description>Uma barreira de estrada projetada para bloquear veículos, que também fornece cobertura em combates.</DMSAC_Building_RoadBlock.description>
+  <DMSAC_Building_RoadBlock.label>Barreira de estrada</DMSAC_Building_RoadBlock.label>
+  <DMSAC_Building_RollingDoor.description>Uma porta rolante trancada.</DMSAC_Building_RollingDoor.description>
+  <DMSAC_Building_RollingDoor.label>Porta rolante</DMSAC_Building_RollingDoor.label>
+  <DMSAC_Bullet_80mmS8DF_Thermobaric.label>Foguete 80mm S8DF (Termobárico)</DMSAC_Bullet_80mmS8DF_Thermobaric.label>
+  <DMSAC_Bullet_9M133Missile.label>Míssil antitanque</DMSAC_Bullet_9M133Missile.label>
+  <DMSAC_Bullet_S8Rocket.label>Foguete de enxame</DMSAC_Bullet_S8Rocket.label>
+  <DMSAC_Bullet_ShieldProjectorShell.label>Projetor de escudo descartável</DMSAC_Bullet_ShieldProjectorShell.label>
+  <DMSAC_Bullet_StugnaATGM.label>Míssil antitanque "Stugna"</DMSAC_Bullet_StugnaATGM.label>
+  <DMSAC_Cargo.description>Um contêiner padrão contendo suprimentos militares.</DMSAC_Cargo.description>
+  <DMSAC_Cargo.label>Contêiner de carga</DMSAC_Cargo.label>
+  <DMSAC_Crate.description>Uma caixa de equipamentos padrão contendo suprimentos militares. Esses equipamentos e caixas parecem ter sido produzidos recentemente e enviados para vários locais junto às missões.</DMSAC_Crate.description>
+  <DMSAC_Crate.label>Caixa militar</DMSAC_Crate.label>
+  <DMSAC_FacilityIntel.description>Uma caixa-preta de dados, projetada para armazenar o registro de operações de um autômato. Com ela, não é difícil encontrar informações sobre a localização da instalação militar de onde veio.</DMSAC_FacilityIntel.description>
+  <DMSAC_FacilityIntel.label>Informações da instalação</DMSAC_FacilityIntel.label>
+  <DMSAC_FloorLamp.description>Uma luminária de piso de emergência com fonte de energia integrada, capaz de iluminar uma pequena área.</DMSAC_FloorLamp.description>
+  <DMSAC_FloorLamp.label>Luminária de piso da instalação</DMSAC_FloorLamp.label>
+  <DMSAC_GestaltEngine.description>Um núcleo de comando usado para coordenar grandes esquadrões de autômatos. Possui a capacidade de comandar e apoiar independentemente uma brigada de combate completa, sem assistência adicional.</DMSAC_GestaltEngine.description>
+  <DMSAC_GestaltEngine.label>Núcleo de Comando Centralizado</DMSAC_GestaltEngine.label>
+  <DMSAC_Grenade_Stugna.label>Torreta Stugna</DMSAC_Grenade_Stugna.label>
+  <DMSAC_Gun_StugnaATGM.description>Um sistema de míssil antitanque Stugna montado em uma plataforma de mira remota.</DMSAC_Gun_StugnaATGM.description>
+  <DMSAC_Gun_StugnaATGM.label>ATGM Stugna</DMSAC_Gun_StugnaATGM.label>
+  <DMSAC_HeavyChem.description>Uma máquina pesada que recicla diversos tipos de materiais orgânicos em combustível químico, gerando muito calor.</DMSAC_HeavyChem.description>
+  <DMSAC_HeavyChem.label>Planta de pirólise</DMSAC_HeavyChem.label>
+  <DMSAC_Hole_Empty.description>Um piso estrutural com um buraco aberto, comumente encontrado em instalações subterrâneas.</DMSAC_Hole_Empty.description>
+  <DMSAC_Hole_Empty.label>Claraboia da instalação</DMSAC_Hole_Empty.label>
+  <DMSAC_Hole_PowerGen.description>Uma grande instalação de geração de energia parcialmente enterrada na estrutura, comumente encontrada em instalações subterrâneas.</DMSAC_Hole_PowerGen.description>
+  <DMSAC_Hole_PowerGen.label>Gerador de energia da instalação</DMSAC_Hole_PowerGen.label>
+  <DMSAC_Kit_Electronic.description>Um conjunto de consumíveis para reparar e reiniciar o sistema eletrônico de um autômato, incluindo uma microbateria de pulso para reiniciá-lo. Esse reinício forçado não restaura a estrutura danificada, e um forte surto elétrico pode causar danos estruturais adicionais. Esses perigos ocultos só podem ser reparados com uma remontagem completa na fábrica.</DMSAC_Kit_Electronic.description>
+  <DMSAC_Kit_Electronic.label>Kit de reparo eletrônico</DMSAC_Kit_Electronic.label>
+  <DMSAC_Kit_Mechanic.description>Um conjunto de ferramentas mecânicas usado para reparar temporariamente partes danificadas de mecanoides no campo de batalha. É simples de operar e pode ser reutilizado, permitindo que até mesmo pessoal não especializado faça reparos em autômatos. No entanto, há uma pequena chance de que esse reparo temporário deixe algumas partes com danos estruturais ocultos. Esses perigos só podem ser reparados com uma remontagem completa na fábrica.</DMSAC_Kit_Mechanic.description>
+  <DMSAC_Kit_Mechanic.label>Kit de reparo mecânico</DMSAC_Kit_Mechanic.label>
+  <DMSAC_Mod_ExtraMount.description>Um conjunto de suportes e barramento de energia para acoplar mais carga ao chassi: mais carga, outra arma, ou qualquer coisa que a oficina de campo possa soldar. Não carrega nada por si só.</DMSAC_Mod_ExtraMount.description>
+  <DMSAC_Mod_ExtraMount.label>Rack de suporte extra</DMSAC_Mod_ExtraMount.label>
+  <DMSAC_Mod_Flamer.description>Um tanque de pressão e um projetor retirados de um lança-chamas veicular, montados no rack de módulos. O combustível é carregado como uma carga incendiada por pólvora, então o projetor lança uma única língua longa de combustível em chamas, ao invés de um fluxo contínuo.</DMSAC_Mod_Flamer.description>
+  <DMSAC_Mod_Flamer.label>Módulo lança-chamas</DMSAC_Mod_Flamer.label>
+  <DMSAC_Mod_Kornet.description>Um único tubo 9M133 Kornet parafusado ao rack de módulos, conectado ao sistema de controle de fogo do chassi. Transporta dois mísseis antitanque guiados; uma vez esgotados, o suporte torna-se peso morto até a próxima revisão.\n\nO tubo é pesado e o coice traseiro é enorme, portanto o chassi paga por isso com menor velocidade e menos espaço de carga.</DMSAC_Mod_Kornet.description>
+  <DMSAC_Mod_Kornet.label>Suporte lança-mísseis Kornet</DMSAC_Mod_Kornet.label>
+  <DMSAC_Mod_MGPod.description>Uma metralhadora de 7.62mm em um pod fino no rack de módulos, alimentada por um carregador sem correia. Não é muito precisa, mas nada em seu campo de tiro vai querer ficar parado nele.</DMSAC_Mod_MGPod.description>
+  <DMSAC_Mod_MGPod.label>Pod de metralhadora</DMSAC_Mod_MGPod.label>
+  <DMSAC_Mod_RocketNest.description>O ninho de foguetes em salvas derivado de helicóptero, adaptado ao suporte modular de um andador. Nove tubos disparam em uma única sequência, cobrindo um amplo arco à frente da máquina.\n\nO ninho é a coisa mais pesada que você pode parafusar nesses chassis, e a máquina anda como se soubesse disso.</DMSAC_Mod_RocketNest.description>
+  <DMSAC_Mod_RocketNest.label>ninho de foguetes em salvas</DMSAC_Mod_RocketNest.label>
+  <DMSAC_Mod_SmokePod.description>Um pod leve com cinco tubos de foguetes de fumaça aerotransportados de 73mm, destinado a romper o contato ou cobrir um avanço. A fumaça é lançada na direção do disparo, não ao redor do chassi.</DMSAC_Mod_SmokePod.description>
+  <DMSAC_Mod_SmokePod.label>pod de foguetes de fumaça</DMSAC_Mod_SmokePod.label>
+  <DMSAC_PackCrate.description>Um pacote padrão contendo suprimentos para logística militar. Esses pacotes parecem ter sido produzidos recentemente e enviados para vários locais.</DMSAC_PackCrate.description>
+  <DMSAC_PackCrate.label>pacote militar</DMSAC_PackCrate.label>
+  <DMSAC_RCdoor.description>Uma porta que divide cômodos. As pessoas passam por ela sem diminuir o passo.</DMSAC_RCdoor.description>
+  <DMSAC_RCdoor.label>porta de instalação</DMSAC_RCdoor.label>
+  <DMSAC_RecoverTransmitter.description>Um simples grupo de antenas pode interceptar o sinal de retorno da estação de suprimentos após transmitir o sinal, mas tal transmissão sem solicitação de criptografia certamente atrairá a detecção de uma equipe de reconhecimento.</DMSAC_RecoverTransmitter.description>
+  <DMSAC_RecoverTransmitter.label>transmissor de recuperação</DMSAC_RecoverTransmitter.label>
+  <DMSAC_SiteIntel.description>Um mapa com informações sobre a localização de um pequeno local militar, uma das inúmeras peças de informação coletadas por invasores ou piratas na época em que lidavam com essas máquinas antigas que existiam neste planeta há centenas de anos.</DMSAC_SiteIntel.description>
+  <DMSAC_SiteIntel.label>informações do local</DMSAC_SiteIntel.label>
+  <DMSAC_StugnaATGM.description>Um míssil guiado antitanque de uso único, projetado para ser disparado e descartado. Eficaz contra mecanoides pesados e até tanques. No entanto, para travar o alvo, é necessário um longo tempo de mira e linha de visão clara.</DMSAC_StugnaATGM.description>
+  <DMSAC_StugnaATGM.label>lançador de mísseis Stugna</DMSAC_StugnaATGM.label>
+  <DMSAC_Turret_StugnaATGM.description>Uma plataforma lançadora de mísseis antitanque que pode ser implantada e operada remotamente. Parará de funcionar quando sua bateria acabar ou não houver munição disponível. Se danificada o suficiente, pode explodir.</DMSAC_Turret_StugnaATGM.description>
+  <DMSAC_Turret_StugnaATGM.label>plataforma remota Skif</DMSAC_Turret_StugnaATGM.label>
+  <DMSAC_WallLamp.description>Uma lâmpada de parede que ilumina uma área usando eletricidade. É menos potente que uma lâmpada de pé, mas pode ser montada nas paredes.</DMSAC_WallLamp.description>
+  <DMSAC_WallLamp.label>lâmpada de parede de instalação</DMSAC_WallLamp.label>
+  <DMSAC_Wall_A.description>Uma parede estrutural de concreto armado com revestimento composto, comumente encontrada em instalações subterrâneas. Foi construída para sustentar a estrutura ao redor e é efetivamente indestrutível.</DMSAC_Wall_A.description>
+  <DMSAC_Wall_A.label>parede interna de instalação</DMSAC_Wall_A.label>
+  <DMSAC_Wall_B.description>Uma parede estrutural de concreto armado com revestimento composto, comumente encontrada em instalações subterrâneas. Foi construída para sustentar a estrutura ao redor e é efetivamente indestrutível.</DMSAC_Wall_B.description>
+  <DMSAC_Wall_B.label>parede interna de instalação</DMSAC_Wall_B.label>
+  <DMSAC_Wall_C.description>Uma parede estrutural de concreto armado com revestimento composto, comumente encontrada em instalações subterrâneas. Foi construída para sustentar a estrutura ao redor e é efetivamente indestrutível.</DMSAC_Wall_C.description>
+  <DMSAC_Wall_C.label>parede interna de instalação</DMSAC_Wall_C.label>
+  <DMS_AerialAutocannon.description>Uma arma de autômato baseada em um canhão leve de aeronave, adaptada para disparar munição de canhão de 30mm. Embora seja versátil em várias plataformas, problemas de superaquecimento limitam seu uso terrestre a apenas rajadas.</DMS_AerialAutocannon.description>
+  <DMS_AerialAutocannon.label>autocanhão aéreo</DMS_AerialAutocannon.label>
+  <DMS_AncientDecoyRadio.description>Um transponder de sinal modificado, preparado para enviar uma transmissão de alta potência. Ao ser ativado, emite um poderoso sinal isca que atrairá um grupo selvagem de forças de autômatos para atacar sua colônia. Se você conseguir derrotá-los, poderá coletar tecnologia avançada de seus cadáveres. O pulso do sinal queima o transmissor, portanto, esta construção só pode ser usada uma vez.</DMS_AncientDecoyRadio.description>
+  <DMS_AncientDecoyRadio.label>antena isca antiga</DMS_AncientDecoyRadio.label>
+  <DMS_AtlantGrenadeLauncher.description>Um lançador de granadas totalmente automático projetado para uso manual, altamente letal contra alvos macios escondidos atrás de cobertura. No entanto, devido ao intenso recuo do disparo contínuo, normalmente não é usado no modo totalmente automático.</DMS_AtlantGrenadeLauncher.description>
+  <DMS_AtlantGrenadeLauncher.label>lançador de granadas Atlant</DMS_AtlantGrenadeLauncher.label>
+  <DMS_Bullet_Electronic.label>interferência eletrônica</DMS_Bullet_Electronic.label>
+  <DMS_Bullet_JusticeGavel.label>sabot perfurante</DMS_Bullet_JusticeGavel.label>
+  <DMS_Bullet_KS23K_Shrapnel.description>Um cartucho de 23mm repleto de pelotas endurecidas ao invés de um único projétil. Esvazia um carregador mais rápido que qualquer outra munição que a arma aceita e perde relevância após cerca de doze passos.</DMS_Bullet_KS23K_Shrapnel.description>
+  <DMS_Bullet_KS23K_Shrapnel.label>disparo de estilhaços de 23mm</DMS_Bullet_KS23K_Shrapnel.label>
+  <DMS_Bullet_KS23K_Volna.description>Um projétil de borracha de 23mm carregado com carga reduzida. Nesse calibre, uma munição menos letal ainda quebra costelas, o que os manuais descrevem como conformidade.</DMS_Bullet_KS23K_Volna.description>
+  <DMS_Bullet_KS23K_Volna.label>projétil de borracha de 23mm</DMS_Bullet_KS23K_Volna.label>
+  <DMS_Bullet_KS23K_Zvezda.description>Uma granada de atordoamento de 23mm com espoleta de impacto. Não causa ferimentos, mas paralisa tudo em um raio de poucos passos do ponto de impacto, amigos e inimigos, tempo suficiente para fechar a distância.</DMS_Bullet_KS23K_Zvezda.description>
+  <DMS_Bullet_KS23K_Zvezda.label>granada atordoante de 23mm</DMS_Bullet_KS23K_Zvezda.label>
+  <DMS_Gsh30Gatlinggun.description>Uma metralhadora rotativa multi-cano leve originalmente projetada para aeronaves, modificada para plataformas terrestres. Possui uma cadência de tiro extremamente alta para supressão rápida, mas a falta de um sistema de resfriamento eficaz impede o disparo sustentado por longos períodos.</DMS_Gsh30Gatlinggun.description>
+  <DMS_Gsh30Gatlinggun.label>Gsh30-6 "Flogger"</DMS_Gsh30Gatlinggun.label>
+  <DMS_GshG762Gatlinggun.description>Uma metralhadora rotativa de quatro canos movida a gás que libera um poder de fogo avassalador. A GShG usa gás de pólvora de alta pressão para girar os canos e carregar, alcançando uma cadência devastadora sem necessidade de energia externa. Isso é especialmente valorizado em plataformas sem suprimento extra de energia.</DMS_GshG762Gatlinggun.description>
+  <DMS_GshG762Gatlinggun.label>metralhadora rotativa GshG-7.62</DMS_GshG762Gatlinggun.label>
+  <DMS_GshG762Gatlinggun.tools.0.label>coronha</DMS_GshG762Gatlinggun.tools.0.label>
+  <DMS_GshG762Gatlinggun.tools.1.label>cano</DMS_GshG762Gatlinggun.tools.1.label>
+  <DMS_GshG762Gatlinggun.tools.2.label>boca</DMS_GshG762Gatlinggun.tools.2.label>
+  <DMS_Gun_ECMSystem.description>Uma arma de energia por pulso montada que desativa equipamentos eletrônicos na direção apontada por meio de interferência eletromagnética direcional. Quando em funcionamento, faz com que o alvo gere altas temperaturas, podendo também incendiar o inimigo.\n\nEste equipamento foi desenvolvido após o conflito na Europa em resposta aos "enxames Wyvern" da OTAN, esquadrões de helicópteros armados completamente não tripulados. O poder dessa força aérea foi tão proeminente durante a Terceira Guerra Mundial que não existem plataformas militares com altura superior a quatro metros, pois não teriam cobertura contra esses predadores.</DMS_Gun_ECMSystem.description>
+  <DMS_Gun_ECMSystem.label>sistema ECM</DMS_Gun_ECMSystem.label>
+  <DMS_Gun_Empero.description>Um canhão pesado de longo alcance com velocidade de boca muito alta que usa munição reduzida para garantir disparo indireto em curtas distâncias, ainda com alta precisão.</DMS_Gun_Empero.description>
+  <DMS_Gun_Empero.label>2S3M2 "Empero"</DMS_Gun_Empero.label>
+  <DMS_Gun_IzhmalRifle.description>Um rifle de assalto fabricado pela empresa de armas Izhmal, conhecido por suas exportações militares após a Terceira Guerra Mundial. Esta arma é carregada com munição de rifle de carregamento completo 7.62×54R. É um dos sistemas de armas individuais projetados pela Federação Russa para robôs humanoides militares e exoesqueletos táticos no projeto de soldado mecânico. O receptor pesado e a estrutura reforçada o tornam mais durável que rifles de assalto comuns. É pesado, mas compensa em precisão e penetração.</DMS_Gun_IzhmalRifle.description>
+  <DMS_Gun_IzhmalRifle.label>fuzil automático Izhmal</DMS_Gun_IzhmalRifle.label>
+  <DMS_Gun_IzhmalRifle.tools.0.label>coronha</DMS_Gun_IzhmalRifle.tools.0.label>
+  <DMS_Gun_IzhmalRifle.tools.1.label>cano</DMS_Gun_IzhmalRifle.tools.1.label>
+  <DMS_Gun_IzhmalRifle.tools.2.label>boca</DMS_Gun_IzhmalRifle.tools.2.label>
+  <DMS_Gun_JusticeGavel.description>Um canhão antitanque semiautomático carregado por autômatos ultrapesados, conhecido por sua estrutura simples e confiável. É amplamente usado em diversas plataformas blindadas para enfrentar alvos fortemente armados e blindados, como tanques e mecanoides pesados.</DMS_Gun_JusticeGavel.description>
+  <DMS_Gun_JusticeGavel.label>2A46M "Martelo da Justiça"</DMS_Gun_JusticeGavel.label>
+  <DMS_Gun_KordTurret.description>Uma metralhadora padrão confiável, capaz de penetrar efetivamente a blindagem da maioria dos alvos pequenos e médios e fornecer supressão em engajamentos de longo alcance.</DMS_Gun_KordTurret.description>
+  <DMS_Gun_KordTurret.label>metralhadora pesada Kord</DMS_Gun_KordTurret.label>
+  <DMS_Gun_MobileMortar.description>Um projeto antigo de peça de artilharia indireta de tiro rápido, capaz de disparar quatro morteiros em uma única rajada.</DMS_Gun_MobileMortar.description>
+  <DMS_Gun_MobileMortar.label>2B9MS Vasilek</DMS_Gun_MobileMortar.label>
+  <DMS_KS23K.description>Uma espingarda de grande calibre modernizada, alimentada por carregadores destacáveis para fornecer supressão sustentada. Os projéteis metálicos que utiliza são notavelmente eficazes mesmo contra alvos fortemente blindados.</DMS_KS23K.description>
+  <DMS_KS23K.label>espingarda de combate Tula</DMS_KS23K.label>
+  <DMS_KordMachineGun.description>Uma metralhadora padrão confiável, capaz de penetrar efetivamente a armadura da maioria dos alvos pequenos e médios e de causar supressão durante combates de longo alcance.</DMS_KordMachineGun.description>
+  <DMS_KordMachineGun.label>Metralhadora Kord</DMS_KordMachineGun.label>
+  <DMS_Krepost_ECMSystem.description>Uma arma de energia montada que desativa equipamentos eletrônicos por meio de interferência eletromagnética direcional. Quando em funcionamento, gera altas temperaturas no alvo, podendo também incinerar o inimigo.</DMS_Krepost_ECMSystem.description>
+  <DMS_Krepost_ECMSystem.label>Sistema ECM</DMS_Krepost_ECMSystem.label>
+  <DMS_Krepost_KordMG.description>Metralhadora pesada para soldados mecanoides ou plataformas de apoio à infantaria.\n\nEsta arma foi projetada especialmente para uso montado, portanto apenas unidades específicas podem equipá-la.</DMS_Krepost_KordMG.description>
+  <DMS_Krepost_KordMG.label>Torreta de metralhadora pesada Kord</DMS_Krepost_KordMG.label>
+  <DMS_Mech_Gorod.description>6M29 / BR4 "Gorod", apelidado pela OTAN de "ChunkSteel". É um autômato robusto e fortemente blindado, projetado como infantaria mecânica durável e econômica. Graças aos seus excelentes sistemas de engenharia, variantes modernizadas deste modelo continuam em serviço em diversas forças armadas de Mundos Médios até os dias atuais. Também tornou-se um modelo muito procurado para replicação e produção por senhores da guerra e piratas locais no mundo da borda.</DMS_Mech_Gorod.description>
+  <DMS_Mech_Gorod.label>gorod</DMS_Mech_Gorod.label>
+  <DMS_Mech_Krepost.description>6M41 / BR-6 "Krepost", apelidado pela OTAN de "TankHead". Um enorme andador blindado, utilizado como cabeça-de-ponte e bateria móvel para manter o poder de fogo na linha de frente. O Krepost é equipado com diversos sistemas de proteção ativa e blindagem reativa para resistir a projéteis. Mesmo que seus escudos se esgotem, seu tamanho imponente e seu arsenal são suficientes para segurar o avanço inimigo até a chegada de reforços.</DMS_Mech_Krepost.description>
+  <DMS_Mech_Krepost.label>Krepost</DMS_Mech_Krepost.label>
+  <DMS_Mech_Krepost.tools.0.label>Cabeça Mecânica</DMS_Mech_Krepost.tools.0.label>
+  <DMS_Mech_Krepost.tools.1.label>Perna Esquerda</DMS_Mech_Krepost.tools.1.label>
+  <DMS_Mech_Krepost.tools.2.label>Perna Direita</DMS_Mech_Krepost.tools.2.label>
+  <DMS_Mech_Molot.description>Um autômato de porte médio capaz de empunhar e utilizar armas de infantaria leves a médias. Projetado em uma era marcada pelo rápido aumento dos sistemas blindados não tripulados, foi concebido como uma plataforma de combate de infantaria para unidades blindadas. Possui excelentes capacidades de combate, estrutura simples e grande capacidade para armamento.</DMS_Mech_Molot.description>
+  <DMS_Mech_Molot.label>Molot</DMS_Mech_Molot.label>
+  <DMS_Mech_Pravda.description>Originalmente projetado para romper zonas fortificadas e vastos territórios sem cobertura, este canhão de assalto não tripulado todo-terreno é armado com um canhão de 155mm para atacar fortificações permanentes a longa distância. Utiliza cargas explosivas lançadas por foguete para abrir caminhos seguros através de campos minados.</DMS_Mech_Pravda.description>
+  <DMS_Mech_Pravda.label>Pravda</DMS_Mech_Pravda.label>
+  <DMS_Mech_Pravda.tools.0.label>Perna Esquerda</DMS_Mech_Pravda.tools.0.label>
+  <DMS_Mech_Pravda.tools.1.label>Perna Direita</DMS_Mech_Pravda.tools.1.label>
+  <DMS_Mech_Saray.description>RGM-4 "Saray" (OTAN: Abelha Operária) é a variante logística levemente armada da mesma família de plataformas sobre esteiras não tripuladas do RGM-3. Produzidos em enormes quantidades durante a guerra, a maioria foi convertida para funções secundárias e de manutenção em tempo de paz: patrulhando instalações não tripuladas, movimentando peças e mantendo o restante do corpo operacional.\n\nCom apenas uma estação de armas remota e blindagem leve, um Saray não é um combatente de linha. No entanto, é barato, paciente e ainda pode se defender quando algo adentra o depósito sob sua vigilância.</DMS_Mech_Saray.description>
+  <DMS_Mech_Saray.label>saray</DMS_Mech_Saray.label>
+  <DMS_Mech_Tsvetnik.description>Um autômato de porte médio capaz de empunhar e utilizar armas de infantaria leves a médias. Projetado em uma era marcada pelo rápido aumento dos sistemas blindados não tripulados, foi concebido como uma plataforma de combate de infantaria para unidades blindadas. Possui excelentes capacidades de combate, estrutura simples e grande capacidade para armamento.</DMS_Mech_Tsvetnik.description>
+  <DMS_Mech_Tsvetnik.label>Tsvetnik</DMS_Mech_Tsvetnik.label>
+  <DMS_Mech_Zabor.description>6M29U / BR4G "Zabor", apelidado pela OTAN de "Incisor". É um autômato blindado com blindagem frontal reforçada, projetado como infantaria mecânica durável e econômica. Graças aos seus excelentes sistemas de engenharia, variantes modernizadas deste modelo continuam em serviço em diversas forças armadas de Mundos Médios até os dias atuais. Também tornou-se um modelo muito procurado para replicação e produção por senhores da guerra e piratas locais no mundo da borda.</DMS_Mech_Zabor.description>
+  <DMS_Mech_Zabor.label>zabor</DMS_Mech_Zabor.label>
+  <DMS_Mech_Zabor_Pirate.description>6M29U / BR4G "Zabor", apelidado pela OTAN de "Incisor". É um autômato blindado com blindagem frontal reforçada, projetado como infantaria mecânica durável e econômica. Graças aos seus excelentes sistemas de engenharia, variantes modernizadas deste modelo continuam em serviço em diversas forças armadas de Mundos Médios até os dias atuais. Também tornou-se um modelo muito procurado para replicação e produção por senhores da guerra e piratas locais no mundo da borda.</DMS_Mech_Zabor_Pirate.description>
+  <DMS_Mech_Zabor_Pirate.label>zabor</DMS_Mech_Zabor_Pirate.label>
+  <DMS_PKM.description>Uma metralhadora leve com projeto bullpup, que pode ser facilmente operada até mesmo por humanos, fornecendo supressão prolongada e eficaz contra diversos alvos levemente blindados.</DMS_PKM.description>
+  <DMS_PKM.label>Metralhadora Mikhail</DMS_PKM.label>
+  <DMS_VladimirovMachineGun.description>Uma metralhadora pesada de grande calibre, batizada em homenagem ao seu projetista, utilizada como arma padrão pelas frotas coloniais em guerras em larga escala contra diversas ameaças interestelares. Garante que unidades autômatas possam causar danos letais imediatos e eficazes à maioria das formas de vida hostis e máquinas.</DMS_VladimirovMachineGun.description>
+  <DMS_VladimirovMachineGun.label>Metralhadora pesada Vladimirov</DMS_VladimirovMachineGun.label>
+  <DMS_VykhlopRifle.description>Um rifle leve e silenciado de grande calibre, capaz de penetrar alvos levemente blindados e com colete à longa distância. Seu silenciador especial, que ocupa todo o comprimento do cano, garante sua discrição.</DMS_VykhlopRifle.description>
+  <DMS_VykhlopRifle.label>Rifle Vykhlop</DMS_VykhlopRifle.label>
+  <DMS_YAKBGatlinggun.description>Uma metralhadora giratória soviética pesada e violenta de grande calibre, utilizada em grande número em veículos terrestres e aeronaves. A Yak-B opera em alta rotação por meio de um mecanismo a gás, não dependendo de fonte externa de energia, o que é especialmente valioso em plataformas que não a possuem.</DMS_YAKBGatlinggun.description>
+  <DMS_YAKBGatlinggun.label>Metralhadora gatling YAK-B</DMS_YAKBGatlinggun.label>
+  <DMS_YAKBGatlinggun.tools.0.label>coronha</DMS_YAKBGatlinggun.tools.0.label>
+  <DMS_YAKBGatlinggun.tools.1.label>cano</DMS_YAKBGatlinggun.tools.1.label>
+  <DMS_YAKBGatlinggun.tools.2.label>boca do cano</DMS_YAKBGatlinggun.tools.2.label>
+  <DMS_YekaterinRifle.description>Um rifle antimatéria bullpup, projetado para permitir que unidades policiais neutralizem autômatos pesados. Sua estrutura é extremamente simplificada para garantir que até mesmo humanos não aprimorados possam carregar e operar este rifle.</DMS_YekaterinRifle.description>
+  <DMS_YekaterinRifle.label>Rifle Yekaterin</DMS_YekaterinRifle.label>
+  <DMS_ZlobinRevolver.description>Um revólver de caça batizado em homenagem ao seu projetista. Utiliza munição subsônica de grande calibre, suficiente para derrubar grandes animais com um único disparo. Seu recuo mais estável em comparação a outras armas do mesmo calibre o torna muito popular entre exploradores e grupos piratas nas fronteiras do mundo.</DMS_ZlobinRevolver.description>
+  <DMS_ZlobinRevolver.label>Revólver Zlobin</DMS_ZlobinRevolver.label>
+  <DMS_ZlobinRifle.description>Um rifle de assalto especial batizado em homenagem ao seu projetista. Em combates urbanos, é capaz de penetrar efetivamente a armadura da maioria dos mecanoides pequenos e médios e causar danos. No entanto, sua precisão a longa distância é bastante limitada devido à sua munição subsônica especializada.\n\nTambém é equipado com um lançador acoplado sob o cano, capaz de disparar granadas de pequeno calibre.</DMS_ZlobinRifle.description>
+  <DMS_ZlobinRifle.label>Rifle Zlobin</DMS_ZlobinRifle.label>
+  <Fragment_APFSDS.label>Fragmentos</Fragment_APFSDS.label>
+</LanguageData>

@@ -43,62 +43,49 @@
   <VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>grud</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>
   <VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>viscoso</VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>
   <VRE_SanguineHair.label>Cabelo Sanguíneo</VRE_SanguineHair.label>
-  <VRE_SanguineHair.description>Os portadores deste gene apresentam o cabelo naturalmente estilizado
-    em padrões ancestrais dos Sanguófagos.</VRE_SanguineHair.description>
+  <VRE_SanguineHair.description>Os portadores deste gene têm o cabelo naturalmente estilizado em penteados sanguíneos ancestrais.</VRE_SanguineHair.description>
   <VRE_SanguineHair.labelShortAdj>sanguíneo</VRE_SanguineHair.labelShortAdj>
 
   <VRE_BatEars.label>Orelhas de Morcego</VRE_BatEars.label>
-  <VRE_BatEars.description>O portador deste gene manifesta orelhas que se assemelham às de um
-    morcego.</VRE_BatEars.description>
+  <VRE_BatEars.description>Os portadores deste gene têm orelhas semelhantes às de um morcego.</VRE_BatEars.description>
   <VRE_BatEars.labelShortAdj>de morcego</VRE_BatEars.labelShortAdj>
   <VRE_BatEars.symbolPack.prefixSymbols.0.symbol>morcego</VRE_BatEars.symbolPack.prefixSymbols.0.symbol>
 
   <VRE_UpperBatEars.label>Orelhas Pontudas</VRE_UpperBatEars.label>
-  <VRE_UpperBatEars.description>O portador deste gene manifesta orelhas pontudas que se assemelham
-    às de um morcego.</VRE_UpperBatEars.description>
+  <VRE_UpperBatEars.description>Os portadores deste gene têm orelhas pontudas semelhantes às de um morcego.</VRE_UpperBatEars.description>
   <VRE_UpperBatEars.labelShortAdj>pontudo</VRE_UpperBatEars.labelShortAdj>
   <VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>pontudo</VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>
 
   <VRE_Talons.label>Garras</VRE_Talons.label>
-  <VRE_Talons.description>O portador deste gene manifesta mãos parcialmente transformadas em garras.
-    Isso reduz sua capacidade de manipulação, mas permite realizar ataques especiais em combate
-    corpo a corpo.</VRE_Talons.description>
+  <VRE_Talons.description>Os portadores deste gene têm mãos parcialmente transformadas em garras. Isso reduz sua capacidade de manipular objetos, mas permite realizar ataques especiais em combate corpo a corpo.</VRE_Talons.description>
   <VRE_Talons.labelShortAdj>garra</VRE_Talons.labelShortAdj>
   <VRE_Talons.symbolPack.prefixSymbols.0.symbol>garra</VRE_Talons.symbolPack.prefixSymbols.0.symbol>
   <VRE_Talons.symbolPack.suffixSymbols.0.symbol>garras</VRE_Talons.symbolPack.suffixSymbols.0.symbol>
 
   <VRE_LowHemogenDrain.label>Drenagem Baixa de Hemogênio</VRE_LowHemogenDrain.label>
-  <VRE_LowHemogenDrain.description>O portador perde 4 unidades adicionais de hemogênio por dia
-    devido à entropia biológica.</VRE_LowHemogenDrain.description>
+  <VRE_LowHemogenDrain.description>Os portadores perdem 4 unidades adicionais de hemogênio por dia devido à entropia biológica.</VRE_LowHemogenDrain.description>
   <VRE_LowHemogenDrain.labelShortAdj>drenador</VRE_LowHemogenDrain.labelShortAdj>
   <VRE_LowHemogenDrain.resourceLabel>hemogênio</VRE_LowHemogenDrain.resourceLabel>
 
   <VRE_ExtremeHemogenDrain.label>Drenagem Extrema de Hemogênio</VRE_ExtremeHemogenDrain.label>
-  <VRE_ExtremeHemogenDrain.description>O portador perde 12 unidades adicionais de hemogênio por dia
-    devido à entropia biológica.</VRE_ExtremeHemogenDrain.description>
+  <VRE_ExtremeHemogenDrain.description>Os portadores perdem 12 unidades adicionais de hemogênio por dia devido à entropia biológica.</VRE_ExtremeHemogenDrain.description>
   <VRE_ExtremeHemogenDrain.labelShortAdj>extremamente drenador</VRE_ExtremeHemogenDrain.labelShortAdj>
   <VRE_ExtremeHemogenDrain.resourceLabel>hemogênio</VRE_ExtremeHemogenDrain.resourceLabel>
 
   <VRE_BatNose.label>Nariz de Morcego</VRE_BatNose.label>
-  <VRE_BatNose.description>O portador deste gene manifesta um nariz em forma de folha, semelhante ao
-    de um morcego.</VRE_BatNose.description>
+  <VRE_BatNose.description>Os portadores deste gene têm um nariz em forma de folha, semelhante ao de um morcego.</VRE_BatNose.description>
   <VRE_BatNose.labelShortAdj>nariz de morcego</VRE_BatNose.labelShortAdj>
   <VRE_BatNose.symbolPack.prefixSymbols.0.symbol>nariz</VRE_BatNose.symbolPack.prefixSymbols.0.symbol>
 
   <VRE_AnimalFeeder.label>Vampiro Animal</VRE_AnimalFeeder.label>
-  <VRE_AnimalFeeder.description>O portador deste gene manifesta pequenas presas retráteis e um órgão
-    no palato que é capaz de extrair hemogênio de sangue fresco e quente. Permite morder qualquer
-    animal, drenar seu sangue e obter hemogênio diretamente. Isso pode, por vezes, provocar um
-    ataque do animal contra o portador do gene.</VRE_AnimalFeeder.description>
+  <VRE_AnimalFeeder.description>Os portadores deste gene têm pequenas presas retráteis e um órgão no palato capaz de extrair hemogênio de sangue fresco e quente. Eles podem morder qualquer animal, drenar seu sangue e obter hemogênio diretamente. Isso pode, por vezes, provocar um ataque do animal contra o portador do gene.</VRE_AnimalFeeder.description>
   <VRE_AnimalFeeder.labelShortAdj>animal</VRE_AnimalFeeder.labelShortAdj>
   <VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>animal</VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>
   <VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>fera</VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>
   <VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>fera</VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>
 
   <VRE_CorpseFeeder.label>Vampiro em Cadáveres</VRE_CorpseFeeder.label>
-  <VRE_CorpseFeeder.description>O portador deste gene manifesta pequenas presas retráteis e um órgão
-    no palato que é capaz de extrair hemogênio diretamente de cadáveres de colonos. Isso só funciona
-    com sangue fresco. Se o cadáver estiver muito deteriorado, não haverá ganho de hemogênio.</VRE_CorpseFeeder.description>
+  <VRE_CorpseFeeder.description>Os portadores deste gene têm pequenas presas retráteis e um órgão no palato capaz de extrair hemogênio de sangue frio e putrefato de cadáveres humanos. Eles podem morder qualquer cadáver humano, drenar seu sangue e obter hemogênio diretamente.</VRE_CorpseFeeder.description>
   <VRE_CorpseFeeder.labelShortAdj>cadáver</VRE_CorpseFeeder.labelShortAdj>
   <VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>cadáver</VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>
   <VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>morte</VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>
@@ -106,18 +93,14 @@
   <VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>morto</VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>
 
   <VRE_SanguoFeeder.label>Vampiro Sanguófago</VRE_SanguoFeeder.label>
-  <VRE_SanguoFeeder.description>O portador deste gene manifesta pequenas presas retráteis e um órgão
-    no palato que é capaz de extrair hemogênio do sangue fresco e quente de outros sanguófagos.
-    Permite morder um sanguófago que não resista, drenar seu sangue e obter hemogênio diretamente.</VRE_SanguoFeeder.description>
+  <VRE_SanguoFeeder.description>Os portadores deste gene têm pequenas presas retráteis e um órgão no palato capaz de extrair hemogênio do sangue fresco e quente de outros sanguófagos. Eles podem morder um sanguófago que não resista, drenar seu sangue e obter hemogênio diretamente.</VRE_SanguoFeeder.description>
   <VRE_SanguoFeeder.labelShortAdj>sanguófago</VRE_SanguoFeeder.labelShortAdj>
   <VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>sanguófago</VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>
   <VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>sangu</VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>
   <VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>sanguófago</VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>
 
   <VRE_Sensitivity_Dangerous.label>Hipersensibilidade à UV</VRE_Sensitivity_Dangerous.label>
-  <VRE_Sensitivity_Dangerous.description>O portador é muito mais sensível à radiação UV do que a
-    média. Embora a luz solar ainda não o queime imediatamente, o debuff de exposição é muito mais
-    severo. Ficar na luz solar por muito tempo irá causar dor, vômitos e tonturas.</VRE_Sensitivity_Dangerous.description>
+  <VRE_Sensitivity_Dangerous.description>Os portadores deste gene têm compostos biológicos na pele que reagem perigosamente à radiação UV. Eles são extremamente sensíveis à luz solar.</VRE_Sensitivity_Dangerous.description>
   <VRE_Sensitivity_Dangerous.customEffectDescriptions.0>Capacidade de visão limitada a 50% durante
     as horas de luz solar</VRE_Sensitivity_Dangerous.customEffectDescriptions.0>
   <VRE_Sensitivity_Dangerous.labelShortAdj>Hipersensível à UV</VRE_Sensitivity_Dangerous.labelShortAdj>

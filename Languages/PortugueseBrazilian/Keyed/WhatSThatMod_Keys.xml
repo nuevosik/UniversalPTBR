@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTM_AddNew>Adicionar novo</WTM_AddNew>
+  <WTM_AdvancedSettings>configurações avançadas</WTM_AdvancedSettings>
+  <WTM_AmmoStats>Estatísticas de munição:</WTM_AmmoStats>
+  <WTM_BlankLines>Linhas em branco: {0}</WTM_BlankLines>
+  <WTM_BlankLines_Desc>O número de linhas em branco a serem inseridas antes do nome do mod. Isso pode facilitar a visualização de onde termina a descrição e onde começa o nome do mod.</WTM_BlankLines_Desc>
+  <WTM_Bold>Negrito:</WTM_Bold>
+  <WTM_Bold_Desc>Se verdadeiro, o nome do mod será exibido em negrito.</WTM_Bold_Desc>
+  <WTM_CECompat>Compatibilidade com Combat Extended</WTM_CECompat>
+  <WTM_CECompat_Desc>Quando ativado, as estatísticas de munição serão adicionadas à descrição de todas as munições do Combat Extended, facilitando a consulta das estatísticas de munição rapidamente.</WTM_CECompat_Desc>
+  <WTM_CustomSize>Tamanho de fonte personalizado: {0}</WTM_CustomSize>
+  <WTM_CustomSize_Desc>Tamanho de fonte personalizado opcional. O valor 0 significa que o tamanho de fonte padrão do Rimworld será usado.</WTM_CustomSize_Desc>
+  <WTM_DetectPatched>Detectar defs modificados por patches</WTM_DetectPatched>
+  <WTM_DetectPatched_Desc>Se ativado, todos os patches dos mods ativos serão verificados para detectar defs modificados. Isso pode pegar alguns erros onde itens modificados por patch não foram rotulados corretamente.\nNo entanto, verificar todos os patches pode ser bastante lento, especialmente com pacotes grandes de mods.\nVocê pode verificar o log de depuração para ver quanto tempo levou a verificação dos patches e, se preferir que o jogo carregue mais rápido ao invés de rotular todos os itens, desative esta opção.</WTM_DetectPatched_Desc>
+  <WTM_ExampleDescription>Esta é uma definição de exemplo para um item.\nEsta é uma nova linha da descrição, que pode te informar sobre o item. Bla bla bla!</WTM_ExampleDescription>
+  <WTM_ExcludedDefTypes>Mods excluídos</WTM_ExcludedDefTypes>
+  <WTM_ExcludedMods>Mods excluídos</WTM_ExcludedMods>
+  <WTM_ExcludedMods_Desc>Aqui você pode especificar mods que não serão rotulados. Você deve digitar o ID do mod, não o nome dele.</WTM_ExcludedMods_Desc>
+  <WTM_FlagVanilla>Marcar itens vanilla:</WTM_FlagVanilla>
+  <WTM_FlagVanilla_Desc>Se ativado, os objetos vanilla também serão rotulados usando o nome personalizado '{0}'.</WTM_FlagVanilla_Desc>
+  <WTM_Format>Formato do rótulo do mod:</WTM_Format>
+  <WTM_Format_Desc>Isso permite personalizar como o nome do mod será exibido. Neste rótulo, {0} será substituído pelo nome do mod.\nPor exemplo, digitar ({0}) fará com que os nomes dos mods sejam exibidos como: (NomeDoMod), e digitar xX{0}Xx resultará em: xXNomeDoModXx.</WTM_Format_Desc>
+  <WTM_Format_FormatError>Inválido! O formato da tag é inválido.</WTM_Format_FormatError>
+  <WTM_Format_MissingTag>Inválido! Você deve incluir "{0}" no formato.</WTM_Format_MissingTag>
+  <WTM_Hide>Ocultar</WTM_Hide>
+  <WTM_Italics>Itálico:</WTM_Italics>
+  <WTM_Italics_Desc>Se verdadeiro, o nome do mod será exibido em itálico.</WTM_Italics_Desc>
+  <WTM_LoadingMsg>(ノಠ益ಠ)ノ彡┻━┻ QUE MOD É ESSE?!?</WTM_LoadingMsg>
+  <WTM_LoadingMsgZoo>QUE ANIMAL É ESSE!? ლ(ಠ益ಠლ)</WTM_LoadingMsgZoo>
+  <WTM_ModFound>Mod: {0}</WTM_ModFound>
+  <WTM_ModNotFound>Mod instalado não encontrado. É necessário digitar o ID, não o nome!</WTM_ModNotFound>
+  <WTM_RemoveBlank>Remover entradas vazias</WTM_RemoveBlank>
+  <WTM_RequireRestart>Você deve reiniciar o jogo para que as alterações tenham efeito.</WTM_RequireRestart>
+  <WTM_SelectFontColor>Cor da fonte:</WTM_SelectFontColor>
+  <WTM_SelectFontColor_Desc>Altere a cor da fonte. Também é possível alterar a transparência da fonte.</WTM_SelectFontColor_Desc>
+  <WTM_Show>Exibir</WTM_Show>
+  <WTM_UltraDeepMode>Verificação profunda de patches</WTM_UltraDeepMode>
+  <WTM_UltraDeepMode_Desc>Por padrão, este mod verificará os patches em busca de itens adicionados, mas apenas o 'nível superior' dos patches para acelerar o carregamento.\nAtivar esta opção fará com que toda a estrutura dos patches seja verificada, o que pode ser muito mais lento, mas pode detectar alguns defs modificados por patch que, de outra forma, seriam perdidos.\nRecomenda-se deixar desativado, pois é improvável que tenha algum efeito, mas sempre diminuirá a velocidade de carregamento.</WTM_UltraDeepMode_Desc>
+  <WTM_VanillaName>Nome vanilla:</WTM_VanillaName>
+  <WTM_VisualOptions>Opções visuais</WTM_VisualOptions>
+  <WTM_ZooDesc>Criado para a série Jurassic Park e o desafio da comunidade do streamer Mr. Samuel.\nExibe uma 'pontuação zoológica' com base nos animais domesticados que sua colônia possui. Requer que o EdB Prepare Carefully esteja instalado.</WTM_ZooDesc>
+  <WTM_ZooLabel>Modo Zoológico</WTM_ZooLabel>
+  <WTM_ZooMultiDesc>Se ativado, o cálculo da pontuação zoológica será executado em um thread em segundo plano, reduzindo bastante os picos de lag na taxa de quadros. No entanto, pode causar erros.\nSe a pontuação não funcionar como esperado, avisos aparecerem no log de depuração ou a pontuação parar de atualizar, desative esta opção.</WTM_ZooMultiDesc>
+  <WTM_ZooMultiLabel>Contador zoológico multithread</WTM_ZooMultiLabel>
+</LanguageData>

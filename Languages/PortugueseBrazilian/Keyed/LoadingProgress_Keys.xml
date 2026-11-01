@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LoadingProgress.AutoSaveStartupImpactReport>- Salvar automaticamente o relatório de impacto na inicialização</LoadingProgress.AutoSaveStartupImpactReport>
+  <LoadingProgress.AutoSaveStartupImpactReport.Tip>Quando ativado, o relatório de impacto na inicialização é salvo automaticamente como StartupImpactData.xml na pasta de dados de saves do RimWorld após cada inicialização do jogo, sem precisar abrir a janela de impacto na inicialização e pressionar Salvar.\n\nIsso permite que ferramentas externas, como o gerenciador de mods RimSort, exibam o tempo de carregamento na inicialização de cada mod.</LoadingProgress.AutoSaveStartupImpactReport.Tip>
+  <LoadingProgress.Bottom>Inferior</LoadingProgress.Bottom>
+  <LoadingProgress.CachingTextures>Esta inicialização do jogo pode demorar mais, pois o jogo está armazenando em cache novas texturas. Inicializações subsequentes serão mais rápidas.</LoadingProgress.CachingTextures>
+  <LoadingProgress.CallAll>Progresso do carregamento: Chamando todos os construtores estáticos</LoadingProgress.CallAll>
+  <LoadingProgress.ClearEstimatesOnModListChange>Limpar estimativas ao alterar a lista de mods</LoadingProgress.ClearEstimatesOnModListChange>
+  <LoadingProgress.ClearEstimatesOnModListChange.Tip>Quando ativado, o histórico de tempos de carregamento armazenado é limpo sempre que a lista de mods for alterada. Isso garante que a estimativa reflita sempre sua configuração atual de mods.\n\nDesative esta opção se quiser que a estimativa persista entre alterações na lista de mods, por exemplo, se você adiciona ou remove mods com frequência e ainda deseja ter uma linha de base aproximada.</LoadingProgress.ClearEstimatesOnModListChange.Tip>
+  <LoadingProgress.Custom>Personalizado</LoadingProgress.Custom>
+  <LoadingProgress.CustomPlacementPreview.Tip>Arraste esta janela para onde deseja que a janela de carregamento apareça, então feche-a. Não é possível arrastá-la para fora da tela, e sua posição é mantida em relação ao tamanho da tela, para que permaneça no mesmo local relativo se você alterar a resolução.</LoadingProgress.CustomPlacementPreview.Tip>
+  <LoadingProgress.EditCustomPlacement>Definir posição personalizada...</LoadingProgress.EditCustomPlacement>
+  <LoadingProgress.EstimateBasedOn>estimativa com base em {0} inicializações anteriores do jogo</LoadingProgress.EstimateBasedOn>
+  <LoadingProgress.EstimateBasedOnSingle>estimativa com base na inicialização anterior do jogo</LoadingProgress.EstimateBasedOnSingle>
+  <LoadingProgress.ExecuteToExecuteWhenFinished>Progresso do carregamento: Executando tarefas de inicialização adiadas</LoadingProgress.ExecuteToExecuteWhenFinished>
+  <LoadingProgress.FasterGameLoadingEarlyModContentLoading>Progresso do carregamento — Carregamento antecipado de conteúdo de mods</LoadingProgress.FasterGameLoadingEarlyModContentLoading>
+  <LoadingProgress.FasterGameLoadingEarlyModContentLoading.ForMod>O carregamento rápido está carregando antecipadamente o conteúdo de &lt;i&gt;{0}&lt;/i&gt;...</LoadingProgress.FasterGameLoadingEarlyModContentLoading.ForMod>
+  <LoadingProgress.FinishingUp>Finalizando</LoadingProgress.FinishingUp>
+  <LoadingProgress.ForceImmediateRepaints>Redesenhar a janela de carregamento imediatamente ao mudar de etapa ou ao recarregar conteúdo</LoadingProgress.ForceImmediateRepaints>
+  <LoadingProgress.ForceImmediateRepaints.Tip>Quando ativado, a janela de carregamento é redesenhada assim que a etapa de carregamento muda e antes de cada passo ao recarregar o conteúdo de um mod, para que o rótulo exibido sempre corresponda à etapa realmente em execução, mesmo que essa etapa seja demorada.\n\nIsso pode retardar o carregamento, pois faz com que a tela seja redesenhada com muito mais frequência durante o carregamento dos assets.\n\nÉ necessário reiniciar para que essa configuração tenha efeito.</LoadingProgress.ForceImmediateRepaints.Tip>
+  <LoadingProgress.InGame.EncounterMapGeneration>Gerando mapa</LoadingProgress.InGame.EncounterMapGeneration>
+  <LoadingProgress.InGame.EncounterMapGenerationStatic>Gerando mapa</LoadingProgress.InGame.EncounterMapGenerationStatic>
+  <LoadingProgress.InGame.Label.ApplyingMapFeatures>Aplicando características especiais do mapa</LoadingProgress.InGame.Label.ApplyingMapFeatures>
+  <LoadingProgress.InGame.Label.ApplyingScenarioSettings>Aplicando configurações do cenário</LoadingProgress.InGame.Label.ApplyingScenarioSettings>
+  <LoadingProgress.InGame.Label.CalculatingWealth>Calculando riqueza da colônia</LoadingProgress.InGame.Label.CalculatingWealth>
+  <LoadingProgress.InGame.Label.CheckingHomeAreaMess>Verificando sujeira na área doméstica</LoadingProgress.InGame.Label.CheckingHomeAreaMess>
+  <LoadingProgress.InGame.Label.ChoosingStartingSpot>Escolhendo local inicial</LoadingProgress.InGame.Label.ChoosingStartingSpot>
+  <LoadingProgress.InGame.Label.CombiningItems>Combinando itens carregados</LoadingProgress.InGame.Label.CombiningItems>
+  <LoadingProgress.InGame.Label.CountingResources>Contando recursos</LoadingProgress.InGame.Label.CountingResources>
+  <LoadingProgress.InGame.Label.DrawingClouds>Desenhando nuvens</LoadingProgress.InGame.Label.DrawingClouds>
+  <LoadingProgress.InGame.Label.DrawingHills>Desenhando colinas</LoadingProgress.InGame.Label.DrawingHills>
+  <LoadingProgress.InGame.Label.DrawingLandmarks>Desenhando marcos</LoadingProgress.InGame.Label.DrawingLandmarks>
+  <LoadingProgress.InGame.Label.DrawingPlanetGlow>Desenhando brilho do planeta</LoadingProgress.InGame.Label.DrawingPlanetGlow>
+  <LoadingProgress.InGame.Label.DrawingPollution>Desenhando poluição</LoadingProgress.InGame.Label.DrawingPollution>
+  <LoadingProgress.InGame.Label.DrawingRivers>Desenhando rios</LoadingProgress.InGame.Label.DrawingRivers>
+  <LoadingProgress.InGame.Label.DrawingRoads>Desenhando estradas</LoadingProgress.InGame.Label.DrawingRoads>
+  <LoadingProgress.InGame.Label.DrawingStars>Desenhando estrelas</LoadingProgress.InGame.Label.DrawingStars>
+  <LoadingProgress.InGame.Label.DrawingSunlight>Desenhando luz solar</LoadingProgress.InGame.Label.DrawingSunlight>
+  <LoadingProgress.InGame.Label.DrawingTerrain>Desenhando terreno</LoadingProgress.InGame.Label.DrawingTerrain>
+  <LoadingProgress.InGame.Label.DrawingUnexploredAreas>Desenhando áreas inexploradas</LoadingProgress.InGame.Label.DrawingUnexploredAreas>
+  <LoadingProgress.InGame.Label.DrawingWorldObjects>Desenhando objetos do mundo</LoadingProgress.InGame.Label.DrawingWorldObjects>
+  <LoadingProgress.InGame.Label.FinalizingMapLayout>Finalizando layout do mapa</LoadingProgress.InGame.Label.FinalizingMapLayout>
+  <LoadingProgress.InGame.Label.FinalizingMaps>Finalizando mapas</LoadingProgress.InGame.Label.FinalizingMaps>
+  <LoadingProgress.InGame.Label.FinishingSaveData>Finalizando dados do save</LoadingProgress.InGame.Label.FinishingSaveData>
+  <LoadingProgress.InGame.Label.FinishingUp>Finalizando</LoadingProgress.InGame.Label.FinishingUp>
+  <LoadingProgress.InGame.Label.GeneratingWorld>Gerando mundo</LoadingProgress.InGame.Label.GeneratingWorld>
+  <LoadingProgress.InGame.Label.GrowingPoluxTrees>Cultivando árvores-polux</LoadingProgress.InGame.Label.GrowingPoluxTrees>
+  <LoadingProgress.InGame.Label.InitializingMapObjects>Inicializando objetos do mapa</LoadingProgress.InGame.Label.InitializingMapObjects>
+  <LoadingProgress.InGame.Label.InitializingObjects>Inicializando objetos carregados</LoadingProgress.InGame.Label.InitializingObjects>
+  <LoadingProgress.InGame.Label.LoadingItems>Carregando itens</LoadingProgress.InGame.Label.LoadingItems>
+  <LoadingProgress.InGame.Label.MappingOutRooms>Mapeando cômodos</LoadingProgress.InGame.Label.MappingOutRooms>
+  <LoadingProgress.InGame.Label.MarkingCurrentTile>Marcando seu bloco atual</LoadingProgress.InGame.Label.MarkingCurrentTile>
+  <LoadingProgress.InGame.Label.MarkingNearestTile>Marcando bloco mais próximo</LoadingProgress.InGame.Label.MarkingNearestTile>
+  <LoadingProgress.InGame.Label.MarkingSelectedTile>Marcando bloco selecionado</LoadingProgress.InGame.Label.MarkingSelectedTile>
+  <LoadingProgress.InGame.Label.MarkingSettlementTile>Marcando bloco do assentamento</LoadingProgress.InGame.Label.MarkingSettlementTile>
+  <LoadingProgress.InGame.Label.MarkingTileUnderCursor>Marcando bloco sob o cursor</LoadingProgress.InGame.Label.MarkingTileUnderCursor>
+  <LoadingProgress.InGame.Label.PlacingAncientBuildings>Colocando construções antigas</LoadingProgress.InGame.Label.PlacingAncientBuildings>
+  <LoadingProgress.InGame.Label.PlacingAncientFences>Colocando cercas antigas</LoadingProgress.InGame.Label.PlacingAncientFences>
+  <LoadingProgress.InGame.Label.PlacingAncientLandingPad>Colocando uma plataforma de pouso antiga</LoadingProgress.InGame.Label.PlacingAncientLandingPad>
+  <LoadingProgress.InGame.Label.PlacingAncientMechanoids>Colocando mecanoides antigos</LoadingProgress.InGame.Label.PlacingAncientMechanoids>
+  <LoadingProgress.InGame.Label.PlacingAncientPipelines>Colocando dutos antigos</LoadingProgress.InGame.Label.PlacingAncientPipelines>
+  <LoadingProgress.InGame.Label.PlacingAncientRoads>Colocando estradas antigas</LoadingProgress.InGame.Label.PlacingAncientRoads>
+  <LoadingProgress.InGame.Label.PlacingAncientSites>Colocando sítios antigos</LoadingProgress.InGame.Label.PlacingAncientSites>
+  <LoadingProgress.InGame.Label.PlacingAncientTurrets>Colocando torretas antigas</LoadingProgress.InGame.Label.PlacingAncientTurrets>
+  <LoadingProgress.InGame.Label.PlacingAnimaTrees>Colocando árvores-ânima</LoadingProgress.InGame.Label.PlacingAnimaTrees>
+  <LoadingProgress.InGame.Label.PlacingExostriderRemains>Colocando restos de exoestrider antigo</LoadingProgress.InGame.Label.PlacingExostriderRemains>
+  <LoadingProgress.InGame.Label.PlacingInsectHives>Colocando colmeias de insetos</LoadingProgress.InGame.Label.PlacingInsectHives>
+  <LoadingProgress.InGame.Label.PlacingMechanoidRemains>Colocando restos de mecanoides</LoadingProgress.InGame.Label.PlacingMechanoidRemains>
+  <LoadingProgress.InGame.Label.PlacingRockChunks>Colocando fragmentos de rocha</LoadingProgress.InGame.Label.PlacingRockChunks>
+  <LoadingProgress.InGame.Label.PlacingRockFormations>Colocando formações rochosas</LoadingProgress.InGame.Label.PlacingRockFormations>
+  <LoadingProgress.InGame.Label.PlacingRuins>Colocando ruínas</LoadingProgress.InGame.Label.PlacingRuins>
+  <LoadingProgress.InGame.Label.PlacingShrines>Colocando santuários</LoadingProgress.InGame.Label.PlacingShrines>
+  <LoadingProgress.InGame.Label.PlacingSteamGeysers>Colocando gêiseres de vapor</LoadingProgress.InGame.Label.PlacingSteamGeysers>
+  <LoadingProgress.InGame.Label.PlacingVoidMonolith>Colocando o monólito do vazio</LoadingProgress.InGame.Label.PlacingVoidMonolith>
+  <LoadingProgress.InGame.Label.ReadingSaveFile>Lendo arquivo de save</LoadingProgress.InGame.Label.ReadingSaveFile>
+  <LoadingProgress.InGame.Label.RedrawingMapChunk>Redesenhando mapa (trecho {0} de {1})</LoadingProgress.InGame.Label.RedrawingMapChunk>
+  <LoadingProgress.InGame.Label.ResolvingReferences>Resolvendo referências</LoadingProgress.InGame.Label.ResolvingReferences>
+  <LoadingProgress.InGame.Label.RunningMapComponents>Executando configuração final do mapa</LoadingProgress.InGame.Label.RunningMapComponents>
+  <LoadingProgress.InGame.Label.ScatteringAncientJunk>Espalhando sucata antiga</LoadingProgress.InGame.Label.ScatteringAncientJunk>
+  <LoadingProgress.InGame.Label.ScatteringCaveDebris>Espalhando destroços nas cavernas</LoadingProgress.InGame.Label.ScatteringCaveDebris>
+  <LoadingProgress.InGame.Label.ScatteringPollutedJunk>Espalhando sucata poluída</LoadingProgress.InGame.Label.ScatteringPollutedJunk>
+  <LoadingProgress.InGame.Label.ScatteringRoadDebris>Espalhando destroços na estrada</LoadingProgress.InGame.Label.ScatteringRoadDebris>
+  <LoadingProgress.InGame.Label.SettingUpFogOfWar>Configurando névoa de guerra</LoadingProgress.InGame.Label.SettingUpFogOfWar>
+  <LoadingProgress.InGame.Label.SettingUpMapGeneration>Configurando geração de mapa</LoadingProgress.InGame.Label.SettingUpMapGeneration>
+  <LoadingProgress.InGame.Label.SettingUpWorld>Configurando mundo</LoadingProgress.InGame.Label.SettingUpWorld>
+  <LoadingProgress.InGame.Label.ShapingTerrain>Modelando o terreno</LoadingProgress.InGame.Label.ShapingTerrain>
+  <LoadingProgress.InGame.NewGameMapGeneration>Gerando mapa</LoadingProgress.InGame.NewGameMapGeneration>
+  <LoadingProgress.InGame.Phase.EncounterMapGenerationStatic_Generating>Gerando mapa</LoadingProgress.InGame.Phase.EncounterMapGenerationStatic_Generating>
+  <LoadingProgress.InGame.Phase.EncounterMapGeneration_Deferred>Regenerando renderizador</LoadingProgress.InGame.Phase.EncounterMapGeneration_Deferred>
+  <LoadingProgress.InGame.Phase.EncounterMapGeneration_Finalize>Finalizando mapa</LoadingProgress.InGame.Phase.EncounterMapGeneration_Finalize>
+  <LoadingProgress.InGame.Phase.EncounterMapGeneration_GenSteps>Gerando mapa</LoadingProgress.InGame.Phase.EncounterMapGeneration_GenSteps>
+  <LoadingProgress.InGame.Phase.EncounterMapGeneration_PostInit>Finalizando</LoadingProgress.InGame.Phase.EncounterMapGeneration_PostInit>
+  <LoadingProgress.InGame.Phase.EncounterMapGeneration_SetUp>Configurando mapa</LoadingProgress.InGame.Phase.EncounterMapGeneration_SetUp>
+  <LoadingProgress.InGame.Phase.EncounterMapGeneration_SpawningColonists>Gerando colonos</LoadingProgress.InGame.Phase.EncounterMapGeneration_SpawningColonists>
+  <LoadingProgress.InGame.Phase.NewGameMapGeneration_Deferred>Regenerando renderizador</LoadingProgress.InGame.Phase.NewGameMapGeneration_Deferred>
+  <LoadingProgress.InGame.Phase.NewGameMapGeneration_Finalize>Finalizando mapa</LoadingProgress.InGame.Phase.NewGameMapGeneration_Finalize>
+  <LoadingProgress.InGame.Phase.NewGameMapGeneration_GenSteps>Gerando mapa</LoadingProgress.InGame.Phase.NewGameMapGeneration_GenSteps>
+  <LoadingProgress.InGame.Phase.NewGameMapGeneration_LoadingScene>Carregando recursos</LoadingProgress.InGame.Phase.NewGameMapGeneration_LoadingScene>
+  <LoadingProgress.InGame.Phase.NewGameMapGeneration_PostInit>Finalizando</LoadingProgress.InGame.Phase.NewGameMapGeneration_PostInit>
+  <LoadingProgress.InGame.Phase.NewGameMapGeneration_SetUp>Configurando mapa</LoadingProgress.InGame.Phase.NewGameMapGeneration_SetUp>
+  <LoadingProgress.InGame.Phase.PlanetRegeneration_RegeneratingLayers>Regenerando camadas</LoadingProgress.InGame.Phase.PlanetRegeneration_RegeneratingLayers>
+  <LoadingProgress.InGame.Phase.SaveLoading_Deferred>Regenerando renderizador</LoadingProgress.InGame.Phase.SaveLoading_Deferred>
+  <LoadingProgress.InGame.Phase.SaveLoading_Finishing>Finalizando</LoadingProgress.InGame.Phase.SaveLoading_Finishing>
+  <LoadingProgress.InGame.Phase.SaveLoading_LoadingScene>Carregando recursos</LoadingProgress.InGame.Phase.SaveLoading_LoadingScene>
+  <LoadingProgress.InGame.Phase.SaveLoading_Maps>Carregando mapas</LoadingProgress.InGame.Phase.SaveLoading_Maps>
+  <LoadingProgress.InGame.Phase.SaveLoading_PostLoadInits>Inicializando jogo</LoadingProgress.InGame.Phase.SaveLoading_PostLoadInits>
+  <LoadingProgress.InGame.Phase.SaveLoading_ReadingFile>Lendo arquivo</LoadingProgress.InGame.Phase.SaveLoading_ReadingFile>
+  <LoadingProgress.InGame.Phase.SaveLoading_ResolvingCrossReferences>Resolvendo referências</LoadingProgress.InGame.Phase.SaveLoading_ResolvingCrossReferences>
+  <LoadingProgress.InGame.Phase.SaveLoading_Spawning>Gerando entidades</LoadingProgress.InGame.Phase.SaveLoading_Spawning>
+  <LoadingProgress.InGame.Phase.SaveLoading_World>Carregando mundo</LoadingProgress.InGame.Phase.SaveLoading_World>
+  <LoadingProgress.InGame.Phase.WorldGeneration_Deferred>Regenerando renderizador</LoadingProgress.InGame.Phase.WorldGeneration_Deferred>
+  <LoadingProgress.InGame.Phase.WorldGeneration_LayerSteps>Gerando camadas</LoadingProgress.InGame.Phase.WorldGeneration_LayerSteps>
+  <LoadingProgress.InGame.Phase.WorldGeneration_SetupSteps>Configurando</LoadingProgress.InGame.Phase.WorldGeneration_SetupSteps>
+  <LoadingProgress.InGame.PlanetRegeneration>Regenerando planeta</LoadingProgress.InGame.PlanetRegeneration>
+  <LoadingProgress.InGame.SaveLoading>Carregando jogo</LoadingProgress.InGame.SaveLoading>
+  <LoadingProgress.InGame.WorldGeneration>Gerando mundo</LoadingProgress.InGame.WorldGeneration>
+  <LoadingProgress.InGameExecuteToExecuteWhenFinished>Progresso do carregamento: Regenerando renderizador</LoadingProgress.InGameExecuteToExecuteWhenFinished>
+  <LoadingProgress.KeepPinnedSessions>- Manter sessões fixadas além desse limite</LoadingProgress.KeepPinnedSessions>
+  <LoadingProgress.KeepPinnedSessions.Tip>Quando ativado, uma sessão fixada nunca é a primeira a ser removida quando o limite é atingido e não ocupa um dos espaços.\n\nDesative esta opção para que as sessões fixadas expirem como qualquer outra, com a fixação afetando apenas onde elas aparecem na lista.</LoadingProgress.KeepPinnedSessions.Tip>
+  <LoadingProgress.KeepUnfinishedBoots>- Manter sessões de inicializações não concluídas</LoadingProgress.KeepUnfinishedBoots>
+  <LoadingProgress.KeepUnfinishedBoots.Tip>Uma inicialização que trava ou trava parcialmente não gera um relatório hoje, o que perde as execuções com maior valor diagnóstico.\n\nQuando ativado, um pequeno marcador é mantido enquanto o jogo carrega e removido assim que termina. Um marcador ainda presente na próxima inicialização se torna uma entrada no histórico, registrando quando essa inicialização começou e em qual etapa de carregamento ela parou. Não há um detalhamento por mod para essa execução, pois o jogo parou antes que ele existisse.</LoadingProgress.KeepUnfinishedBoots.Tip>
+  <LoadingProgress.LastLoadingTime>Exibir tempo de carregamento</LoadingProgress.LastLoadingTime>
+  <LoadingProgress.LastLoadingTime.Tip>Quando ativado, o mod exibirá o tempo decorrido até o momento. Após o jogo ter sido carregado pelo menos uma vez, esse tempo será armazenado para a próxima vez e usado como estimativa de tempo de carregamento na próxima sessão.</LoadingProgress.LastLoadingTime.Tip>
+  <LoadingProgress.LastLoadingTimeInCorner>Exibir tempo de carregamento no canto inferior direito do menu principal</LoadingProgress.LastLoadingTimeInCorner>
+  <LoadingProgress.LastLoadingTimeInCorner.Tip>Quando ativado, o mod exibirá o tempo que levou para carregar o jogo no canto inferior direito do menu principal.</LoadingProgress.LastLoadingTimeInCorner.Tip>
+  <LoadingProgress.LastLoadingTimeProgressBar>- Exibir barra de progresso do tempo de carregamento</LoadingProgress.LastLoadingTimeProgressBar>
+  <LoadingProgress.LastLoadingTimeProgressBar.Tip>Quando ativado, o mod exibirá uma barra de progresso durante o carregamento que indica quanto tempo se passou desde o início do carregamento em comparação com o tempo esperado.</LoadingProgress.LastLoadingTimeProgressBar.Tip>
+  <LoadingProgress.LoadingTime>O jogo levou {0} para carregar</LoadingProgress.LoadingTime>
+  <LoadingProgress.LoadingTime.Tip>Clique para ver o tempo de carregamento detalhado por etapa.</LoadingProgress.LoadingTime.Tip>
+  <LoadingProgress.LoadingTimeAsCountDown>Exibir tempo de carregamento como contagem regressiva</LoadingProgress.LoadingTimeAsCountDown>
+  <LoadingProgress.LoadingTimeAsCountDown.Tip>Quando ativado, o mod exibirá o tempo de carregamento como uma contagem regressiva, começando a partir do tempo estimado de carregamento. Isso é útil para ver quanto tempo falta até que o jogo esteja completamente carregado.</LoadingProgress.LoadingTimeAsCountDown.Tip>
+  <LoadingProgress.LoadingTimeLabel>Tempo de carregamento</LoadingProgress.LoadingTimeLabel>
+  <LoadingProgress.LoadingTimeNotRecorded>Tempo de carregamento não registrado</LoadingProgress.LoadingTimeNotRecorded>
+  <LoadingProgress.LoadingTimesCapacity>Estimativas a armazenar: {0}</LoadingProgress.LoadingTimesCapacity>
+  <LoadingProgress.LoadingTimesCapacity.Tip>Quantos tempos de carregamento anteriores devem ser lembrados ao calcular o tempo estimado de carregamento.\n\nA estimativa é uma média ponderada que dá aos 10 lançamentos mais recentes uma influência progressivamente maior (de 1× para o 10º mais recente até 10× para o mais recente). Quaisquer lançamentos além desses 10 recebem peso igual (1×), portanto nunca são completamente ignorados, não importa quantos você armazene.\n\nUm valor mais alto produz uma estimativa mais estável, suavizando carregamentos excepcionalmente lentos ou rápidos.</LoadingProgress.LoadingTimesCapacity.Tip>
+  <LoadingProgress.LoadingWindowPlacement>Posição da janela de carregamento</LoadingProgress.LoadingWindowPlacement>
+  <LoadingProgress.ManageSessions>Gerenciar sessões salvas...</LoadingProgress.ManageSessions>
+  <LoadingProgress.MemoryUsage>Heap: {0} · Processo: {1}</LoadingProgress.MemoryUsage>
+  <LoadingProgress.Middle>Meio</LoadingProgress.Middle>
+  <LoadingProgress.MiddleInverted>Meio (invertido)</LoadingProgress.MiddleInverted>
+  <LoadingProgress.ModHashChanged>(A lista de mods mudou desde a última inicialização do jogo; a estimativa pode estar imprecisa.)</LoadingProgress.ModHashChanged>
+  <LoadingProgress.PatchInGameDeferredRepaint>Aplicar correção à regeneração do renderizador no jogo para manter a janela de carregamento responsiva</LoadingProgress.PatchInGameDeferredRepaint>
+  <LoadingProgress.PatchInGameDeferredRepaint.Tip>Quando ativado, o mod faz com que a regeneração do renderizador do mapa/mundo que ocorre após a geração ou carregamento ser concluído (parte do processo que, de outra forma, congelaria a janela de carregamento durante toda a sua duração) seja executada em pedaços menores, com redesenhos entre eles, para que a janela continue sendo atualizada ao invés de parecer travada. Isso se aplica a novos jogos, saves carregados, assentamento ou geração de mapas em jogo e geração de mundos.\n\nSe você tiver algum problema com o Loading Progress, tente desativar essa configuração para ver se o problema é resolvido.</LoadingProgress.PatchInGameDeferredRepaint.Tip>
+  <LoadingProgress.PatchInitialization>Aplicando patch ao código de inicialização tardia para exibir o progresso do carregamento</LoadingProgress.PatchInitialization>
+  <LoadingProgress.PatchInitialization.Tip>Quando ativado, o mod aplicará correções na parte do processo de inicialização do RimWorld em que o jogo normalmente trava, tornando-o mais responsivo. Isso permite que o mod rastreie e exiba o progresso de carregamento para cada construtor estático. Isso não deve causar problemas, a menos que você esteja executando mods que atinjam esse código de forma muito específica e sejam sensíveis ao tempo.\n\nSe você tiver algum problema com o Loading Progress, tente desativar essa configuração para ver se o problema é resolvido.</LoadingProgress.PatchInitialization.Tip>
+  <LoadingProgress.PatchReloadContent>Aplicar correção ao código de carregamento de conteúdo para exibir o progresso de carregamento</LoadingProgress.PatchReloadContent>
+  <LoadingProgress.PatchReloadContent.Tip>Quando ativado, o mod substituirá o método que carrega o conteúdo dos mods para rastrear e exibir o progresso de carregamento de cada pacote de conteúdo recarregado. Isso não deve causar problemas, a menos que você esteja executando mods que atinjam esse código de forma muito específica. O mod registrará um aviso caso detecte outros mods aplicando correções a esse código.\n\nSe você tiver algum problema com o Loading Progress, tente desativar essa configuração para ver se o problema é resolvido. Sinta-se à vontade para relatar quaisquer problemas encontrados com mods que tenham acionado a mensagem de aviso.</LoadingProgress.PatchReloadContent.Tip>
+  <LoadingProgress.ProgressBarColor>Cor da barra de progresso</LoadingProgress.ProgressBarColor>
+  <LoadingProgress.ProgressBarColor.Tip>A cor da barra de progresso principal na janela de progresso de carregamento.</LoadingProgress.ProgressBarColor.Tip>
+  <LoadingProgress.Reset>Redefinir</LoadingProgress.Reset>
+  <LoadingProgress.SessionsToKeep>- Sessões a manter: {0}</LoadingProgress.SessionsToKeep>
+  <LoadingProgress.SessionsToKeep.Tip>Quantas sessões de impacto de inicialização passadas manter no disco.\n\nUma sessão custa aproximadamente 950 bytes por mod, então em uma lista com 230 mods, cada uma tem cerca de 220 KB. A sessão mais antiga é removida quando o limite é atingido.\n\nIsso é separado de 'Estimativas a armazenar' acima, que conta as amostras de tempo de carregamento que alimentam a estimativa, ao invés das sessões no disco.</LoadingProgress.SessionsToKeep.Tip>
+  <LoadingProgress.ShowBaseGameOffThreadImpact>- Exibir impacto da inicialização em segundo plano do jogo base</LoadingProgress.ShowBaseGameOffThreadImpact>
+  <LoadingProgress.ShowBaseGameOffThreadImpact.Tip>Quando ativado, a janela de impacto na inicialização exibe uma segunda barra abaixo da barra de impacto do jogo base, detalhando o tempo que o jogo base gastou executando tarefas em threads em segundo plano durante a inicialização, separadamente do trabalho na thread principal.\n\nEsta opção fica desativada por padrão, pois a maioria das pessoas não considera essa informação muito útil, mas ela está disponível caso você queira mais detalhes.</LoadingProgress.ShowBaseGameOffThreadImpact.Tip>
+  <LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading>Exibir progresso de carregamento antecipado de conteúdo de mods do Faster Game Loading</LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading>
+  <LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading.Tip>Quando ativado e o Faster Game Loading estiver em uso, o mod exibirá um indicador adicional de carregamento para o conteúdo dos mods que é carregado antecipadamente durante o processo de inicialização do jogo.</LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading.Tip>
+  <LoadingProgress.ShowInGameLoadingProgress>Exibir progresso de carregamento durante geração/carregamento no jogo</LoadingProgress.ShowInGameLoadingProgress>
+  <LoadingProgress.ShowInGameLoadingProgress.Tip>Quando ativado, o mod exibe uma janela de carregamento também durante operações longas no jogo, como gerar um novo mundo, gerar o mapa para um novo jogo ou carregar um save.</LoadingProgress.ShowInGameLoadingProgress.Tip>
+  <LoadingProgress.ShowMemoryUsage>Exibir uso de memória</LoadingProgress.ShowMemoryUsage>
+  <LoadingProgress.ShowMemoryUsage.Tip>Quando ativado, a janela de carregamento exibe o tamanho atual do heap gerenciado (Mono) e o uso total de memória do processo do jogo (conjunto de trabalho).\n\nO valor do processo é o mais útil para avaliar a pressão geral da RAM; o valor do heap é uma medida mais restrita, apenas da porção gerenciada pelo .NET da memória.</LoadingProgress.ShowMemoryUsage.Tip>
+  <LoadingProgress.ShowStartupImpactTimesInSecondsOnly>- Exibir tempos de impacto na inicialização apenas em segundos e milissegundos</LoadingProgress.ShowStartupImpactTimesInSecondsOnly>
+  <LoadingProgress.ShowStartupImpactTimesInSecondsOnly.Tip>Quando ativado, a janela de impacto na inicialização e os relatórios exportados exibem todos os tempos apenas em segundos ou milissegundos, como 324.3 s.\n\nQuando desativado, tempos iguais ou superiores a um minuto também incluem minutos, e tempos iguais ou superiores a uma hora também incluem horas, como 5:24.3 ou 1:02:05.4.</LoadingProgress.ShowStartupImpactTimesInSecondsOnly.Tip>
+  <LoadingProgress.SmallBarColor>Cor da sub-etapa da barra de progresso</LoadingProgress.SmallBarColor>
+  <LoadingProgress.SmallBarColor.Tip>A cor do indicador de sub-etapa na barra de progresso principal da janela de progresso de carregamento.</LoadingProgress.SmallBarColor.Tip>
+  <LoadingProgress.Stage.ApplyPatches>Aplicando patches XML... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ApplyPatches>
+  <LoadingProgress.Stage.AtlasBaking>Processando atlas estáticos...</LoadingProgress.Stage.AtlasBaking>
+  <LoadingProgress.Stage.ClearCachedPatches>Limpando patches em cache...</LoadingProgress.Stage.ClearCachedPatches>
+  <LoadingProgress.Stage.CombineIntoUnifiedXml>Combinando XML...</LoadingProgress.Stage.CombineIntoUnifiedXml>
+  <LoadingProgress.Stage.CopyAllDefsToGlobalDatabases>Copiando todos os Defs dos mods para os bancos de dados globais...</LoadingProgress.Stage.CopyAllDefsToGlobalDatabases>
+  <LoadingProgress.Stage.ErrorCheckAllDefs>Verificando erros em todos os Defs...</LoadingProgress.Stage.ErrorCheckAllDefs>
+  <LoadingProgress.Stage.ErrorCheckPatches>Verificando erros em patches XML...</LoadingProgress.Stage.ErrorCheckPatches>
+  <LoadingProgress.Stage.ErrorCheckPatches.ForMod>Verificando erros em patches XML... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ErrorCheckPatches.ForMod>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished>Executando tarefas de inicialização atrasadas... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ExecuteToExecuteWhenFinished>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.asset_bundles>Carregando pacotes de recursos para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.asset_bundles>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.audio_clips>Carregando clipes de áudio para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.audio_clips>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.strings>Carregando strings para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.strings>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.textures>Carregando texturas para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.textures>
+  <LoadingProgress.Stage.Finished>Concluído!</LoadingProgress.Stage.Finished>
+  <LoadingProgress.Stage.GarbageCollection>Executando coleta de lixo...</LoadingProgress.Stage.GarbageCollection>
+  <LoadingProgress.Stage.GenerateImpliedDefs>Gerando Defs implícitos (pré-resolução)...</LoadingProgress.Stage.GenerateImpliedDefs>
+  <LoadingProgress.Stage.GlobalOperationsEarly>Executando operações globais (passagem antecipada)...</LoadingProgress.Stage.GlobalOperationsEarly>
+  <LoadingProgress.Stage.Initializing>Inicializando...</LoadingProgress.Stage.Initializing>
+  <LoadingProgress.Stage.InjectSelectedLanguageDataEarly>Injetando dados do idioma selecionado nos dados do jogo (passagem antecipada)...</LoadingProgress.Stage.InjectSelectedLanguageDataEarly>
+  <LoadingProgress.Stage.InjectSelectedLanguageDataIntoGameData>Injetando dados do idioma selecionado nos dados do jogo...</LoadingProgress.Stage.InjectSelectedLanguageDataIntoGameData>
+  <LoadingProgress.Stage.LegacyBackstoryTranslations>Carregando traduções legadas de histórico pessoal...</LoadingProgress.Stage.LegacyBackstoryTranslations>
+  <LoadingProgress.Stage.LoadLanguage>Carregando dados de idioma... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadLanguage>
+  <LoadingProgress.Stage.LoadLanguageMetadata>Carregando metadados do idioma...</LoadingProgress.Stage.LoadLanguageMetadata>
+  <LoadingProgress.Stage.LoadModXml>Carregando XML dos mods... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadModXml>
+  <LoadingProgress.Stage.LoadingAllBios>Carregando todas as biografias...</LoadingProgress.Stage.LoadingAllBios>
+  <LoadingProgress.Stage.LoadingDefs>Carregando defs... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadingDefs>
+  <LoadingProgress.Stage.LoadingDefs.WithDef>Carregando defs... (&lt;i&gt;{0} — {1} ({2})&lt;/i&gt;)</LoadingProgress.Stage.LoadingDefs.WithDef>
+  <LoadingProgress.Stage.LoadingModClasses>Carregando classes de mods... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadingModClasses>
+  <LoadingProgress.Stage.OtherOperationsPostResolve>Executando outras operações globais (pós-resolução)...</LoadingProgress.Stage.OtherOperationsPostResolve>
+  <LoadingProgress.Stage.OtherOperationsPreResolve>Executando outras operações globais (pré-resolução)...</LoadingProgress.Stage.OtherOperationsPreResolve>
+  <LoadingProgress.Stage.ParseAndProcessXml>Analisando e processando XML...</LoadingProgress.Stage.ParseAndProcessXml>
+  <LoadingProgress.Stage.ParseAndProcessXml.ForMod>Analisando e processando XML... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ParseAndProcessXml.ForMod>
+  <LoadingProgress.Stage.RebindDefOfsEarly>Reassociando DefOfs (antecipado)...</LoadingProgress.Stage.RebindDefOfsEarly>
+  <LoadingProgress.Stage.RebindDefOfsFinal>Reassociando DefOfs (final)...</LoadingProgress.Stage.RebindDefOfsFinal>
+  <LoadingProgress.Stage.ResolveCrossReferencesBetweenImpliedDefs>Resolvendo referências cruzadas entre Defs gerados por Defs implícitos...</LoadingProgress.Stage.ResolveCrossReferencesBetweenImpliedDefs>
+  <LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage1>Resolvendo referências cruzadas entre Defs não implícitos (etapa 1)...</LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage1>
+  <LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage2>Resolvendo referências cruzadas entre Defs não implícitos (etapa 2)...</LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage2>
+  <LoadingProgress.Stage.ResolveReferences>Resolvendo referências... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ResolveReferences>
+  <LoadingProgress.Stage.ShortHashGiving>Atribuindo hashes curtos aos Defs...</LoadingProgress.Stage.ShortHashGiving>
+  <LoadingProgress.Stage.StaticConstructorOnStartupCallAll>Chamando todos os construtores estáticos... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.StaticConstructorOnStartupCallAll>
+  <LoadingProgress.Stage.TKeySystemBuildMappings>Construindo mapeamentos do sistema de chaves de tradução...</LoadingProgress.Stage.TKeySystemBuildMappings>
+  <LoadingProgress.Stage.TKeySystemParse>Analisando o sistema de chaves de tradução...</LoadingProgress.Stage.TKeySystemParse>
+  <LoadingProgress.Stage.XmlInheritanceClear>Limpando herança XML...</LoadingProgress.Stage.XmlInheritanceClear>
+  <LoadingProgress.Stage.XmlInheritanceResolve>Resolvendo herança XML...</LoadingProgress.Stage.XmlInheritanceResolve>
+  <LoadingProgress.StartupImpact.AbstractFilesystemClearAllCache>Limpando cache do sistema de arquivos</LoadingProgress.StartupImpact.AbstractFilesystemClearAllCache>
+  <LoadingProgress.StartupImpact.ApplyPatches>Aplicando patches</LoadingProgress.StartupImpact.ApplyPatches>
+  <LoadingProgress.StartupImpact.BackStoryTranslationUtilityLoadAndInjectBackstoryData>Carregando e injetando traduções legadas de histórico pessoal</LoadingProgress.StartupImpact.BackStoryTranslationUtilityLoadAndInjectBackstoryData>
+  <LoadingProgress.StartupImpact.Breakdown.More>E mais {0}</LoadingProgress.StartupImpact.Breakdown.More>
+  <LoadingProgress.StartupImpact.ClearCachedPatches>Limpando patches em cache</LoadingProgress.StartupImpact.ClearCachedPatches>
+  <LoadingProgress.StartupImpact.ClearCachedXmlInheritance>Limpando herança XML em cache</LoadingProgress.StartupImpact.ClearCachedXmlInheritance>
+  <LoadingProgress.StartupImpact.ColoredTextResetStaticData>Executando operações globais (passagem antecipada)</LoadingProgress.StartupImpact.ColoredTextResetStaticData>
+  <LoadingProgress.StartupImpact.ColumnImpact>Impacto</LoadingProgress.StartupImpact.ColumnImpact>
+  <LoadingProgress.StartupImpact.ColumnName>Mod</LoadingProgress.StartupImpact.ColumnName>
+  <LoadingProgress.StartupImpact.ColumnPhase>Fase de carregamento</LoadingProgress.StartupImpact.ColumnPhase>
+  <LoadingProgress.StartupImpact.CombineXml>Combinando XML em um único documento XML</LoadingProgress.StartupImpact.CombineXml>
+  <LoadingProgress.StartupImpact.Compare.AddedMods>Mods apenas na sessão comparada</LoadingProgress.StartupImpact.Compare.AddedMods>
+  <LoadingProgress.StartupImpact.Compare.BaselineSession>{0} (linha de base)</LoadingProgress.StartupImpact.Compare.BaselineSession>
+  <LoadingProgress.StartupImpact.Compare.Button>Comparar</LoadingProgress.StartupImpact.Compare.Button>
+  <LoadingProgress.StartupImpact.Compare.Change>Alteração</LoadingProgress.StartupImpact.Compare.Change>
+  <LoadingProgress.StartupImpact.Compare.Changed>alterado</LoadingProgress.StartupImpact.Compare.Changed>
+  <LoadingProgress.StartupImpact.Compare.Compared>Comparado</LoadingProgress.StartupImpact.Compare.Compared>
+  <LoadingProgress.StartupImpact.Compare.DefsParsed>Defs analisados</LoadingProgress.StartupImpact.Compare.DefsParsed>
+  <LoadingProgress.StartupImpact.Compare.Different>diferente</LoadingProgress.StartupImpact.Compare.Different>
+  <LoadingProgress.StartupImpact.Compare.HarmonyHooks>Patches do Harmony cronometrados separadamente</LoadingProgress.StartupImpact.Compare.HarmonyHooks>
+  <LoadingProgress.StartupImpact.Compare.Headline>Tempo de carregamento: {0} → {1} ({2})</LoadingProgress.StartupImpact.Compare.Headline>
+  <LoadingProgress.StartupImpact.Compare.Issue.DifferentModList>Essas sessões foram executadas com listas de mods diferentes, portanto seus tempos não são diretamente comparáveis.</LoadingProgress.StartupImpact.Compare.Issue.DifferentModList>
+  <LoadingProgress.StartupImpact.Compare.Issue.HarmonyHookTimingDiffers>'Cronometrar patches do Harmony de outros mods separadamente' difere entre essas sessões. Isso move o tempo das etapas em que os patches foram executados para os mods aos quais pertencem, portanto alterações por mod e por passo podem ser movimentações, não custos adicionais.</LoadingProgress.StartupImpact.Compare.Issue.HarmonyHookTimingDiffers>
+  <LoadingProgress.StartupImpact.Compare.Issue.HarmonyHookTimingUnknown>Pelo menos uma dessas sessões foi salva antes do Loading Progress registrar se os patches do Harmony eram cronometrados separadamente.</LoadingProgress.StartupImpact.Compare.Issue.HarmonyHookTimingUnknown>
+  <LoadingProgress.StartupImpact.Compare.Issue.ModOrderChanged>Os mods foram carregados em ordem diferente.</LoadingProgress.StartupImpact.Compare.Issue.ModOrderChanged>
+  <LoadingProgress.StartupImpact.Compare.Issue.NotBothTimedToMenu>Apenas uma dessas sessões foi cronometrada até o menu principal, portanto seus tempos de inicialização abrangem intervalos diferentes. Compare os tempos de carregamento entre elas.</LoadingProgress.StartupImpact.Compare.Issue.NotBothTimedToMenu>
+  <LoadingProgress.StartupImpact.Compare.LoadingTime>Tempo de carregamento</LoadingProgress.StartupImpact.Compare.LoadingTime>
+  <LoadingProgress.StartupImpact.Compare.ModDetails>Maiores alterações:</LoadingProgress.StartupImpact.Compare.ModDetails>
+  <LoadingProgress.StartupImpact.Compare.ModList>Lista de mods</LoadingProgress.StartupImpact.Compare.ModList>
+  <LoadingProgress.StartupImpact.Compare.ModOrder>Ordem de carregamento de mods</LoadingProgress.StartupImpact.Compare.ModOrder>
+  <LoadingProgress.StartupImpact.Compare.ModsLoaded>Mods carregados</LoadingProgress.StartupImpact.Compare.ModsLoaded>
+  <LoadingProgress.StartupImpact.Compare.NoiseHint>Os tempos variam entre execuções, às vezes por segundos. Uma alteração só é provavelmente real quando aparece em todas as comparações entre execuções com e sem ela.</LoadingProgress.StartupImpact.Compare.NoiseHint>
+  <LoadingProgress.StartupImpact.Compare.Noisy>varia</LoadingProgress.StartupImpact.Compare.Noisy>
+  <LoadingProgress.StartupImpact.Compare.Noisy.ModTip>A maior parte da alteração deste mod está em etapas que variam bastante entre execuções, mesmo quando nada foi alterado, portanto pode ser um ruído.</LoadingProgress.StartupImpact.Compare.Noisy.ModTip>
+  <LoadingProgress.StartupImpact.Compare.Noisy.Tip>Sabe-se que isso varia bastante entre execuções, mesmo quando nada foi alterado, portanto uma alteração aqui pode ser um ruído.</LoadingProgress.StartupImpact.Compare.Noisy.Tip>
+  <LoadingProgress.StartupImpact.Compare.NotLoaded>não carregado</LoadingProgress.StartupImpact.Compare.NotLoaded>
+  <LoadingProgress.StartupImpact.Compare.NothingToCompare>Não há outra sessão salva com uma análise detalhada para comparar com esta.</LoadingProgress.StartupImpact.Compare.NothingToCompare>
+  <LoadingProgress.StartupImpact.Compare.Off>desligado</LoadingProgress.StartupImpact.Compare.Off>
+  <LoadingProgress.StartupImpact.Compare.On>ligado</LoadingProgress.StartupImpact.Compare.On>
+  <LoadingProgress.StartupImpact.Compare.PatchOperations>Operações de patch aplicadas</LoadingProgress.StartupImpact.Compare.PatchOperations>
+  <LoadingProgress.StartupImpact.Compare.Reference>Referência</LoadingProgress.StartupImpact.Compare.Reference>
+  <LoadingProgress.StartupImpact.Compare.RemovedMods>Mods apenas na sessão de referência</LoadingProgress.StartupImpact.Compare.RemovedMods>
+  <LoadingProgress.StartupImpact.Compare.Same>igual</LoadingProgress.StartupImpact.Compare.Same>
+  <LoadingProgress.StartupImpact.Compare.StartupTime>Tempo de inicialização</LoadingProgress.StartupImpact.Compare.StartupTime>
+  <LoadingProgress.StartupImpact.Compare.Summary.Mods>Tempo de cada mod. Uma configuração que altera a atribuição de tempo pode mover tempo de um mod para outro, portanto use estes valores para explicar a alteração de uma etapa, não como um resultado isolado.</LoadingProgress.StartupImpact.Compare.Summary.Mods>
+  <LoadingProgress.StartupImpact.Compare.Summary.Stages>As etapas compõem o tempo de carregamento e não são afetadas pela divisão do tempo entre mods. Suas alterações somam {0}.</LoadingProgress.StartupImpact.Compare.Summary.Stages>
+  <LoadingProgress.StartupImpact.Compare.Summary.Steps>Tempo por passo, somando o jogo base e todos os mods. Uma configuração que altera a atribuição de tempo pode mover tempo de um passo para outro, portanto use estes valores para explicar a alteração de uma etapa, não como um resultado isolado.</LoadingProgress.StartupImpact.Compare.Summary.Steps>
+  <LoadingProgress.StartupImpact.Compare.Swap>Trocar</LoadingProgress.StartupImpact.Compare.Swap>
+  <LoadingProgress.StartupImpact.Compare.Swap.Tip>Trocar a sessão de referência e a comparada.</LoadingProgress.StartupImpact.Compare.Swap.Tip>
+  <LoadingProgress.StartupImpact.Compare.Tab.Mods>Mods</LoadingProgress.StartupImpact.Compare.Tab.Mods>
+  <LoadingProgress.StartupImpact.Compare.Tab.Overview>Visão geral</LoadingProgress.StartupImpact.Compare.Tab.Overview>
+  <LoadingProgress.StartupImpact.Compare.Tab.Stages>Etapas</LoadingProgress.StartupImpact.Compare.Tab.Stages>
+  <LoadingProgress.StartupImpact.Compare.Tab.Steps>Passos</LoadingProgress.StartupImpact.Compare.Tab.Steps>
+  <LoadingProgress.StartupImpact.Compare.TimeToMenu>Tempo até o menu principal</LoadingProgress.StartupImpact.Compare.TimeToMenu>
+  <LoadingProgress.StartupImpact.Compare.Title>Comparar inicializações</LoadingProgress.StartupImpact.Compare.Title>
+  <LoadingProgress.StartupImpact.Compare.Unknown>desconhecido</LoadingProgress.StartupImpact.Compare.Unknown>
+  <LoadingProgress.StartupImpact.Compare.With>Comparar com...</LoadingProgress.StartupImpact.Compare.With>
+  <LoadingProgress.StartupImpact.DefDatabaseAddAllInMods>Copiando todos os Defs dos mods para os bancos de dados globais</LoadingProgress.StartupImpact.DefDatabaseAddAllInMods>
+  <LoadingProgress.StartupImpact.DefGeneratorGenerateImpliedDefsPostResolve>Gerando Defs implícitos (pós-resolução)</LoadingProgress.StartupImpact.DefGeneratorGenerateImpliedDefsPostResolve>
+  <LoadingProgress.StartupImpact.DefGeneratorGenerateImpliedDefsPreResolve>Gerando Defs implícitos (pré-resolução)</LoadingProgress.StartupImpact.DefGeneratorGenerateImpliedDefsPreResolve>
+  <LoadingProgress.StartupImpact.DefOfHelperRebindAllDefOfs.Early>Reassociando DefOfs (antecipado)</LoadingProgress.StartupImpact.DefOfHelperRebindAllDefOfs.Early>
+  <LoadingProgress.StartupImpact.DefOfHelperRebindAllDefOfs.Final>Reassociando DefOfs (final)</LoadingProgress.StartupImpact.DefOfHelperRebindAllDefOfs.Final>
+  <LoadingProgress.StartupImpact.DisabledAtStartup>O rastreamento de impacto na inicialização estava desativado quando o jogo foi iniciado, portanto não há dados para exibir nesta sessão.</LoadingProgress.StartupImpact.DisabledAtStartup>
+  <LoadingProgress.StartupImpact.EnableTracking>Ativar rastreamento de impacto na inicialização</LoadingProgress.StartupImpact.EnableTracking>
+  <LoadingProgress.StartupImpact.EnableTrackingHint>Ative-o abaixo para rastreá-lo na próxima inicialização do jogo.</LoadingProgress.StartupImpact.EnableTrackingHint>
+  <LoadingProgress.StartupImpact.ErrorCheckAllDefs>Verificando erros em todos os Defs</LoadingProgress.StartupImpact.ErrorCheckAllDefs>
+  <LoadingProgress.StartupImpact.ErrorCheckPatches>Verificação de erros em patches</LoadingProgress.StartupImpact.ErrorCheckPatches>
+  <LoadingProgress.StartupImpact.ExecuteToExecuteWhenFinished>Executando tarefa de inicialização adiada {0}</LoadingProgress.StartupImpact.ExecuteToExecuteWhenFinished>
+  <LoadingProgress.StartupImpact.ExecuteToExecuteWhenFinished.Grouped>Executando tarefas de inicialização adiadas</LoadingProgress.StartupImpact.ExecuteToExecuteWhenFinished.Grouped>
+  <LoadingProgress.StartupImpact.ExportFailed>Falha ao exportar: {0}</LoadingProgress.StartupImpact.ExportFailed>
+  <LoadingProgress.StartupImpact.ExportHtml>Exportar HTML</LoadingProgress.StartupImpact.ExportHtml>
+  <LoadingProgress.StartupImpact.ExportHtml.Tip>Exporte os dados de impacto na inicialização desta sessão como um relatório HTML autocontido, que pode ser aberto em um navegador ou compartilhado, sem necessidade do jogo em execução.</LoadingProgress.StartupImpact.ExportHtml.Tip>
+  <LoadingProgress.StartupImpact.Exported>Exportado com sucesso</LoadingProgress.StartupImpact.Exported>
+  <LoadingProgress.StartupImpact.Exported.Tip>Salvo em {0}</LoadingProgress.StartupImpact.Exported.Tip>
+  <LoadingProgress.StartupImpact.FilterMods>Filtrar:</LoadingProgress.StartupImpact.FilterMods>
+  <LoadingProgress.StartupImpact.FilterMods.Placeholder>Filtrar por nome do mod ou ID do pacote</LoadingProgress.StartupImpact.FilterMods.Placeholder>
+  <LoadingProgress.StartupImpact.FloatMenuMakerMapInit>Inicializando mapa de criação de menus flutuantes</LoadingProgress.StartupImpact.FloatMenuMakerMapInit>
+  <LoadingProgress.StartupImpact.GarbageCollection>Coleta de lixo e descarregamento de assets</LoadingProgress.StartupImpact.GarbageCollection>
+  <LoadingProgress.StartupImpact.GlobalTextureAtlasManagerBakeStaticAtlases>Cozimento de atlas de texturas</LoadingProgress.StartupImpact.GlobalTextureAtlasManagerBakeStaticAtlases>
+  <LoadingProgress.StartupImpact.GroupByMod>Agrupamento: por mod</LoadingProgress.StartupImpact.GroupByMod>
+  <LoadingProgress.StartupImpact.GroupByPhase>Agrupamento: por fase de carregamento</LoadingProgress.StartupImpact.GroupByPhase>
+  <LoadingProgress.StartupImpact.Grouping.Tip>Alterne entre exibir o impacto de cada mod ou o tempo total gasto por todos os mods em cada fase de carregamento.</LoadingProgress.StartupImpact.Grouping.Tip>
+  <LoadingProgress.StartupImpact.HarmonyHook>Hooks do Harmony em {0}</LoadingProgress.StartupImpact.HarmonyHook>
+  <LoadingProgress.StartupImpact.HarmonyHook.Grouped>Hooks do Harmony</LoadingProgress.StartupImpact.HarmonyHook.Grouped>
+  <LoadingProgress.StartupImpact.History>Histórico</LoadingProgress.StartupImpact.History>
+  <LoadingProgress.StartupImpact.History.ChooseBaseline>Escolher linha de base</LoadingProgress.StartupImpact.History.ChooseBaseline>
+  <LoadingProgress.StartupImpact.History.ClearBaseline>Limpar</LoadingProgress.StartupImpact.History.ClearBaseline>
+  <LoadingProgress.StartupImpact.History.Column.List>Lista</LoadingProgress.StartupImpact.History.Column.List>
+  <LoadingProgress.StartupImpact.History.Column.Load>Tempo</LoadingProgress.StartupImpact.History.Column.Load>
+  <LoadingProgress.StartupImpact.History.Column.Mods>Mods</LoadingProgress.StartupImpact.History.Column.Mods>
+  <LoadingProgress.StartupImpact.History.Column.Notes>Observações</LoadingProgress.StartupImpact.History.Column.Notes>
+  <LoadingProgress.StartupImpact.History.Column.When>Quando</LoadingProgress.StartupImpact.History.Column.When>
+  <LoadingProgress.StartupImpact.History.Confirm.Baseline>Esta é a linha de base. Excluí-la deixará sem linha de base até você escolher outra.</LoadingProgress.StartupImpact.History.Confirm.Baseline>
+  <LoadingProgress.StartupImpact.History.Confirm.Delete>Excluir a sessão salva de {0}?</LoadingProgress.StartupImpact.History.Confirm.Delete>
+  <LoadingProgress.StartupImpact.History.Delete>Excluir</LoadingProgress.StartupImpact.History.Delete>
+  <LoadingProgress.StartupImpact.History.Empty.Baseline>Nenhuma linha de base escolhida. Uma linha de base é mantida independentemente do limite.</LoadingProgress.StartupImpact.History.Empty.Baseline>
+  <LoadingProgress.StartupImpact.History.Empty.Pinned>Nada fixado. Uma sessão fixada é mantida mesmo que saia do limite.</LoadingProgress.StartupImpact.History.Empty.Pinned>
+  <LoadingProgress.StartupImpact.History.Empty.Recent>Nenhuma sessão salva ainda.</LoadingProgress.StartupImpact.History.Empty.Recent>
+  <LoadingProgress.StartupImpact.History.Group.Baseline>Linha de base</LoadingProgress.StartupImpact.History.Group.Baseline>
+  <LoadingProgress.StartupImpact.History.Group.Pinned>Fixados</LoadingProgress.StartupImpact.History.Group.Pinned>
+  <LoadingProgress.StartupImpact.History.Group.Recent>Recentes</LoadingProgress.StartupImpact.History.Group.Recent>
+  <LoadingProgress.StartupImpact.History.Load>Carregar</LoadingProgress.StartupImpact.History.Load>
+  <LoadingProgress.StartupImpact.History.NoBreakdown>Esta inicialização nunca foi concluída, portanto não há detalhamento por mod para exibir.</LoadingProgress.StartupImpact.History.NoBreakdown>
+  <LoadingProgress.StartupImpact.History.NoLoadTime>nenhum</LoadingProgress.StartupImpact.History.NoLoadTime>
+  <LoadingProgress.StartupImpact.History.Note.DifferentList>Lista de mods diferente, não comparável</LoadingProgress.StartupImpact.History.Note.DifferentList>
+  <LoadingProgress.StartupImpact.History.Note.ToEndOfLoading>Não cronometrado até o menu principal</LoadingProgress.StartupImpact.History.Note.ToEndOfLoading>
+  <LoadingProgress.StartupImpact.History.Note.Unfinished>Nunca concluída</LoadingProgress.StartupImpact.History.Note.Unfinished>
+  <LoadingProgress.StartupImpact.History.Note.UnfinishedAfterLoading>Interrompida após o carregamento, antes do menu principal estar utilizável</LoadingProgress.StartupImpact.History.Note.UnfinishedAfterLoading>
+  <LoadingProgress.StartupImpact.History.Note.UnfinishedAt>Interrompida em {0}</LoadingProgress.StartupImpact.History.Note.UnfinishedAt>
+  <LoadingProgress.StartupImpact.History.Pin>Fixar</LoadingProgress.StartupImpact.History.Pin>
+  <LoadingProgress.StartupImpact.History.SetBaseline>Definir como linha de base</LoadingProgress.StartupImpact.History.SetBaseline>
+  <LoadingProgress.StartupImpact.History.Status.BaselineCleared>Linha de base limpa. Nenhuma sessão assume essa função até você escolher outra.</LoadingProgress.StartupImpact.History.Status.BaselineCleared>
+  <LoadingProgress.StartupImpact.History.Status.BaselineSet>Linha de base definida.</LoadingProgress.StartupImpact.History.Status.BaselineSet>
+  <LoadingProgress.StartupImpact.History.Status.Deleted>Sessão excluída.</LoadingProgress.StartupImpact.History.Status.Deleted>
+  <LoadingProgress.StartupImpact.History.Status.LoadFailed>Os dados dessa sessão não puderam ser lidos.</LoadingProgress.StartupImpact.History.Status.LoadFailed>
+  <LoadingProgress.StartupImpact.History.Status.Loaded>Exibindo a execução de {0}.</LoadingProgress.StartupImpact.History.Status.Loaded>
+  <LoadingProgress.StartupImpact.History.Status.Pinned>Fixado.</LoadingProgress.StartupImpact.History.Status.Pinned>
+  <LoadingProgress.StartupImpact.History.Status.Unpinned>Desfixado.</LoadingProgress.StartupImpact.History.Status.Unpinned>
+  <LoadingProgress.StartupImpact.History.Summary>{0} salvos, mantendo até {1}</LoadingProgress.StartupImpact.History.Summary>
+  <LoadingProgress.StartupImpact.History.Title>Histórico de impacto na inicialização</LoadingProgress.StartupImpact.History.Title>
+  <LoadingProgress.StartupImpact.History.Unpin>Desfixar</LoadingProgress.StartupImpact.History.Unpin>
+  <LoadingProgress.StartupImpact.HtmlReport.Footer>Gerado pelo Loading Progress em {0}.</LoadingProgress.StartupImpact.HtmlReport.Footer>
+  <LoadingProgress.StartupImpact.HtmlReport.Title>Relatório de Impacto na Inicialização</LoadingProgress.StartupImpact.HtmlReport.Title>
+  <LoadingProgress.StartupImpact.KeyPrefsInit>Carregando preferências de teclado</LoadingProgress.StartupImpact.KeyPrefsInit>
+  <LoadingProgress.StartupImpact.LanguageDatabaseInitAllMetadata>Carregando metadados do idioma</LoadingProgress.StartupImpact.LanguageDatabaseInitAllMetadata>
+  <LoadingProgress.StartupImpact.LoadDefs>Carregando defs</LoadingProgress.StartupImpact.LoadDefs>
+  <LoadingProgress.StartupImpact.LoadPatches>Carregando patches</LoadingProgress.StartupImpact.LoadPatches>
+  <LoadingProgress.StartupImpact.LoadedLanguageInjectIntoDataAfterImpliedDefs>Injetando dados do idioma selecionado nos dados do jogo</LoadingProgress.StartupImpact.LoadedLanguageInjectIntoDataAfterImpliedDefs>
+  <LoadingProgress.StartupImpact.LoadedLanguageInjectIntoDataBeforeImpliedDefs>Injetando dados do idioma selecionado nos dados do jogo (passagem antecipada)</LoadingProgress.StartupImpact.LoadedLanguageInjectIntoDataBeforeImpliedDefs>
+  <LoadingProgress.StartupImpact.LoadedModManagerParseAndProcessXML>Analisando e processando XML</LoadingProgress.StartupImpact.LoadedModManagerParseAndProcessXML>
+  <LoadingProgress.StartupImpact.LogarithmicScale>Usar escala logarítmica</LoadingProgress.StartupImpact.LogarithmicScale>
+  <LoadingProgress.StartupImpact.LogarithmicScale.Tip>Quando ativado, os valores de impacto na inicialização serão exibidos em escala logarítmica, comprimindo grandes diferenças de impacto para facilitar a comparação. Use o controle Deslocamento que aparece ao lado desta opção para ajustar a força da compressão.</LoadingProgress.StartupImpact.LogarithmicScale.Tip>
+  <LoadingProgress.StartupImpact.Milliseconds>{0} ms</LoadingProgress.StartupImpact.Milliseconds>
+  <LoadingProgress.StartupImpact.ModConstructor>Executando construtor do mod</LoadingProgress.StartupImpact.ModConstructor>
+  <LoadingProgress.StartupImpact.ModContentPackReloadContentInt.AssetBundles>Carregando pacotes de recursos</LoadingProgress.StartupImpact.ModContentPackReloadContentInt.AssetBundles>
+  <LoadingProgress.StartupImpact.ModContentPackReloadContentInt.AudioClips>Carregando clipes de áudio</LoadingProgress.StartupImpact.ModContentPackReloadContentInt.AudioClips>
+  <LoadingProgress.StartupImpact.ModContentPackReloadContentInt.Strings>Carregando strings</LoadingProgress.StartupImpact.ModContentPackReloadContentInt.Strings>
+  <LoadingProgress.StartupImpact.ModContentPackReloadContentInt.Textures>Carregando texturas</LoadingProgress.StartupImpact.ModContentPackReloadContentInt.Textures>
+  <LoadingProgress.StartupImpact.Nonmods.BySteps>Não relacionado diretamente aos mods, maiores etapas primeiro:</LoadingProgress.StartupImpact.Nonmods.BySteps>
+  <LoadingProgress.StartupImpact.OnOtherThreads.Tip>Em outros threads, somado entre eles</LoadingProgress.StartupImpact.OnOtherThreads.Tip>
+  <LoadingProgress.StartupImpact.PlayDataLoaderResetStaticDataPost>Outras associações de Def, redefinições e operações globais (pós-resolução)</LoadingProgress.StartupImpact.PlayDataLoaderResetStaticDataPost>
+  <LoadingProgress.StartupImpact.PlayDataLoaderResetStaticDataPre>Outras associações de Def, redefinições e operações globais (pré-resolução)</LoadingProgress.StartupImpact.PlayDataLoaderResetStaticDataPre>
+  <LoadingProgress.StartupImpact.PostLoadLongEvent>Após o carregamento: {0}</LoadingProgress.StartupImpact.PostLoadLongEvent>
+  <LoadingProgress.StartupImpact.PostLoadLongEvent.Grouped>Após o carregamento</LoadingProgress.StartupImpact.PostLoadLongEvent.Grouped>
+  <LoadingProgress.StartupImpact.RegisterXmlInheritance>Registrando herança XML</LoadingProgress.StartupImpact.RegisterXmlInheritance>
+  <LoadingProgress.StartupImpact.Remaining.AfterLoading>Após o carregamento, até o menu principal estar utilizável</LoadingProgress.StartupImpact.Remaining.AfterLoading>
+  <LoadingProgress.StartupImpact.Remaining.ByStage>Tempo restante por etapa de carregamento, do maior para o menor:</LoadingProgress.StartupImpact.Remaining.ByStage>
+  <LoadingProgress.StartupImpact.Remaining.CallAllHookTiming>Configurando e removendo a cronometragem de hooks na passagem de construtores estáticos</LoadingProgress.StartupImpact.Remaining.CallAllHookTiming>
+  <LoadingProgress.StartupImpact.Remaining.SecondPass>{0} (segunda passagem)</LoadingProgress.StartupImpact.Remaining.SecondPass>
+  <LoadingProgress.StartupImpact.ReplacedBy>{0} (substituído por {1})</LoadingProgress.StartupImpact.ReplacedBy>
+  <LoadingProgress.StartupImpact.ReportProbablyMissingAttributes>Verificando atributos StaticConstructorOnStartup ausentes (modo de desenvolvimento)</LoadingProgress.StartupImpact.ReportProbablyMissingAttributes>
+  <LoadingProgress.StartupImpact.ResolveAllWantedCrossReferences.Implied>Resolvendo referências cruzadas entre Defs gerados por Defs implícitos</LoadingProgress.StartupImpact.ResolveAllWantedCrossReferences.Implied>
+  <LoadingProgress.StartupImpact.ResolveAllWantedCrossReferences.NonImplied>Resolvendo referências cruzadas entre Defs não implícitos</LoadingProgress.StartupImpact.ResolveAllWantedCrossReferences.NonImplied>
+  <LoadingProgress.StartupImpact.ResolveReferences>Resolvendo referências</LoadingProgress.StartupImpact.ResolveReferences>
+  <LoadingProgress.StartupImpact.ResolveXmlInheritance>Resolvendo herança XML</LoadingProgress.StartupImpact.ResolveXmlInheritance>
+  <LoadingProgress.StartupImpact.SaveFailed>Falha ao salvar: {0}</LoadingProgress.StartupImpact.SaveFailed>
+  <LoadingProgress.StartupImpact.Saved>Salvo com sucesso</LoadingProgress.StartupImpact.Saved>
+  <LoadingProgress.StartupImpact.ScaleDetail>Detalhe: {0}</LoadingProgress.StartupImpact.ScaleDetail>
+  <LoadingProgress.StartupImpact.ScaleDetail.Tip>Valores de impacto abaixo deste tempo são exibidos próximos às suas proporções reais; valores acima são comprimidos com mais intensidade para que um mod muito lento não domine o restante da barra. Diminua este valor para ver diferenças menores entre mods rápidos; aumente-o para manter impactos grandes proporcionalmente maiores.</LoadingProgress.StartupImpact.ScaleDetail.Tip>
+  <LoadingProgress.StartupImpact.Seconds>{0} s</LoadingProgress.StartupImpact.Seconds>
+  <LoadingProgress.StartupImpact.Section.OnOtherThreads>{0} em outros threads</LoadingProgress.StartupImpact.Section.OnOtherThreads>
+  <LoadingProgress.StartupImpact.Section.Tip>Clique para abrir ou fechar esta seção.</LoadingProgress.StartupImpact.Section.Tip>
+  <LoadingProgress.StartupImpact.SessionStats>{0} defs analisadas, {1} operações de patch aplicadas, {2} mods carregados</LoadingProgress.StartupImpact.SessionStats>
+  <LoadingProgress.StartupImpact.ShortHashGiverGiveAllShortHashes>Gerando hashes curtos</LoadingProgress.StartupImpact.ShortHashGiverGiveAllShortHashes>
+  <LoadingProgress.StartupImpact.ShowingSaved>Execução salva de {0}</LoadingProgress.StartupImpact.ShowingSaved>
+  <LoadingProgress.StartupImpact.SolidBioDatabaseLoadAllBios>Carregando todas as biografias</LoadingProgress.StartupImpact.SolidBioDatabaseLoadAllBios>
+  <LoadingProgress.StartupImpact.StartupMods>Impacto de inicialização dos mods: {0}</LoadingProgress.StartupImpact.StartupMods>
+  <LoadingProgress.StartupImpact.StartupNonmods>Não relacionado diretamente aos mods: {0}</LoadingProgress.StartupImpact.StartupNonmods>
+  <LoadingProgress.StartupImpact.StartupRemaining>Tempo restante: {0}</LoadingProgress.StartupImpact.StartupRemaining>
+  <LoadingProgress.StartupImpact.StartupTime>Tempo de inicialização: {0}</LoadingProgress.StartupImpact.StartupTime>
+  <LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAll>Executando construtores estáticos</LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAll>
+  <LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllHook>Hook na passagem de construtores estáticos: {0}</LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllHook>
+  <LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllHook.Grouped>Hooks na passagem de construtores estáticos</LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllHook.Grouped>
+  <LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllPass>Passagem de construtores estáticos para hooks de outros mods</LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllPass>
+  <LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllPassWithUntimedHooks>Passagem de construtores estáticos para hooks de outros mods, com hooks não cronometrados individualmente: {0}</LoadingProgress.StartupImpact.StaticConstructorOnStartupUtilityCallAllPassWithUntimedHooks>
+  <LoadingProgress.StartupImpact.TKeySystemBuildMappings>Mapeamento do sistema de chaves de tradução</LoadingProgress.StartupImpact.TKeySystemBuildMappings>
+  <LoadingProgress.StartupImpact.TKeySystemParse>Análise do sistema de chaves de tradução</LoadingProgress.StartupImpact.TKeySystemParse>
+  <LoadingProgress.StartupImpact.ToggleModVisibility.Tip>Alterne a visibilidade do impacto deste mod no desempenho de inicialização. Se este for o mod com maior impacto no momento, seu impacto deixará de ser usado como referência para os demais e o próximo mod com maior impacto será usado como referência.</LoadingProgress.StartupImpact.ToggleModVisibility.Tip>
+  <LoadingProgress.StartupImpact.Total.BaseGame>Não relacionado diretamente aos mods</LoadingProgress.StartupImpact.Total.BaseGame>
+  <LoadingProgress.StartupImpact.Total.EarlyLaunch>Lançamento inicial do jogo</LoadingProgress.StartupImpact.Total.EarlyLaunch>
+  <LoadingProgress.StartupImpact.Total.EarlyLaunch.Tip>Desde o momento em que o jogo foi iniciado até o início da cronometragem pelo Loading Progress: inicialização do motor, leitura da lista de mods, carregamento do código dos mods e execução dos construtores dos mods carregados antes do Loading Progress.</LoadingProgress.StartupImpact.Total.EarlyLaunch.Tip>
+  <LoadingProgress.StartupImpact.Total.Mods>Mods</LoadingProgress.StartupImpact.Total.Mods>
+  <LoadingProgress.StartupImpact.Total.ModsHidden>Mods ocultos</LoadingProgress.StartupImpact.Total.ModsHidden>
+  <LoadingProgress.StartupImpact.Total.Others>Restante</LoadingProgress.StartupImpact.Total.Others>
+  <LoadingProgress.StartupImpact.WillTrackNextStartup>Agora está ativado e será rastreado na próxima inicialização do jogo.</LoadingProgress.StartupImpact.WillTrackNextStartup>
+  <LoadingProgress.TimeHarmonyHooks>- Cronometrar correções Harmony de outros mods separadamente</LoadingProgress.TimeHarmonyHooks>
+  <LoadingProgress.TimeHarmonyHooks.Tip>Quando ativado, o tempo gasto por cada correção Harmony durante o carregamento do jogo é atribuído ao mod ao qual a correção pertence, sob 'Correções Harmony em' e no nome do método corrigido. Quando desativado, o tempo da correção vai para a etapa que estava em execução no momento em que foi aplicada.\n\nEm algumas configurações, ativar esta opção pode impedir o carregamento de saves salvos, por isso ela fica desativada por padrão. Se seus saves não carregarem com ela ativada, desative-a e deixe-a desativada. Ela entra em vigor na próxima inicialização.</LoadingProgress.TimeHarmonyHooks.Tip>
+  <LoadingProgress.TimeOverEstimate>{0} acima da estimativa de {1}</LoadingProgress.TimeOverEstimate>
+  <LoadingProgress.TimeRemaining>{0} restante de {1}</LoadingProgress.TimeRemaining>
+  <LoadingProgress.Title>Progresso do carregamento</LoadingProgress.Title>
+  <LoadingProgress.Top>Superior</LoadingProgress.Top>
+  <LoadingProgress.TrackStartupLoadingImpact>Rastrear impacto de carregamento na inicialização</LoadingProgress.TrackStartupLoadingImpact>
+  <LoadingProgress.TrackStartupLoadingImpact.Tip>Quando ativado, o mod rastreará o impacto do carregamento na inicialização causado por mods e pelo jogo base, permitindo que você veja uma análise detalhada do que está causando os maiores atrasos durante o processo de carregamento.</LoadingProgress.TrackStartupLoadingImpact.Tip>
+</LanguageData>

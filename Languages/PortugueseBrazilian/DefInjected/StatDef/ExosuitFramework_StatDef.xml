@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExosuitMoveSpeed.description>Velocidade de movimento fornecida por módulos do exotraje.</ExosuitMoveSpeed.description>
+  <ExosuitMoveSpeed.label>Velocidade de movimento do exotraje</ExosuitMoveSpeed.label>
+  <MF_FlightRange.description>A distância máxima de voo.</MF_FlightRange.description>
+  <MF_FlightRange.formatString>{0}</MF_FlightRange.formatString>
+  <MF_FlightRange.label>Alcance de voo</MF_FlightRange.label>
+  <MF_Stat_Module.description>O espaço ocupado por este módulo. Um módulo pode ocupar vários espaços.</MF_Stat_Module.description>
+  <MF_Stat_Module.label>Espaço do módulo</MF_Stat_Module.label>
+  <MF_Stat_Slot.description>Os módulos que usam este espaço, incluindo módulos que ocupam vários espaços.</MF_Stat_Slot.description>
+  <MF_Stat_Slot.label>Usuário do espaço</MF_Stat_Slot.label>
+</LanguageData>

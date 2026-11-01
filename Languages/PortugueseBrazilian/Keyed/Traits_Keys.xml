@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} dorme tão profundamente que não pode ser convocado.</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Colonos com ânimo viajante atravessam locais estrangeiros em velocidade aumentada</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} desistiu de {0} por enquanto por ser perfeccionista</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.GotBruise>{PAWN_nameDef} ficou com um hematoma por ser desajeitado</VTE.GotBruise>
+  <VTE.HasDestroyedItem>{PAWN_nameDef} destruiu o item {PAWN_pronon} que acabara de fabricar, pois ele não era de qualidade suficiente</VTE.HasDestroyedItem>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} foi pego tentando roubar pertences de outra facção. Isso pode prejudicar as relações entre as facções afiliadas</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} roubou um pertence que não pertencia à sua facção. Isso pode prejudicar as relações entre as facções afiliadas</VTE.KleptomaniacStealsItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} danificou {0} devido ao seu peso ou postura estranha</VTE.PawnBreaksChairs>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} foge do combate por ser covarde</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} foge do combate por ser covarde</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} foge do combate por ser covarde</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} foge do combate por ser covarde</VTE.PawnCowardlyFlees>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} falhou ao tentar roubar {0} de {VICTIM_nameDef}. Isso deixou a facção de {VICTIM_nameDef} irritada</VTE.PawnFailedToStealItem>
+  <VTE.PawnStoleItem>{PAWN_nameDef} roubou {0} de {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} desobedeceu ou esqueceu suas ordens e parou de trabalhar por enquanto</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} desarmou {VICTIM_nameDef} em combate corpo a corpo</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

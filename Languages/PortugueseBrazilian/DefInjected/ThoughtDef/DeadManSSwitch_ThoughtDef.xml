@@ -12,4 +12,84 @@
   <DMS_GainedTitle.stages.Received_title.description>Eu recebi o título de {TITLE}. Eu amo o reconhecimento!</DMS_GainedTitle.stages.Received_title.description>
   <DMS_LostTitle.stages.Lost_military_rank.label>Perdeu patente militar</DMS_LostTitle.stages.Lost_military_rank.label>
   <DMS_LostTitle.stages.Lost_military_rank.description>Perdi minha patente militar.</DMS_LostTitle.stages.Lost_military_rank.description>
+  <DMS_CombatRegenPain.stages.0.description>Algo está crescendo dentro de mim. Coça, dói e não parece meu.</DMS_CombatRegenPain.stages.0.description>
+  <DMS_CombatRegenPain.stages.0.label>carne em regeneração</DMS_CombatRegenPain.stages.0.label>
+  <DMS_CombatRegenPain.stages.regrowing_flesh.description>Algo está crescendo dentro de mim. Coça, dói e não parece meu.</DMS_CombatRegenPain.stages.regrowing_flesh.description>
+  <DMS_CombatRegenPain.stages.regrowing_flesh.label>carne em regeneração</DMS_CombatRegenPain.stages.regrowing_flesh.label>
+  <DMS_SensibilityBlockerAftermath.stages.0.description>Lembro-me de cada momento. Só não consigo me lembrar de sentir nada.</DMS_SensibilityBlockerAftermath.stages.0.description>
+  <DMS_SensibilityBlockerAftermath.stages.0.label>memórias vazias</DMS_SensibilityBlockerAftermath.stages.0.label>
+  <DMS_SensibilityBlockerAftermath.stages.hollow_memories.description>Lembro-me de cada momento. Só não consigo me lembrar de sentir nada.</DMS_SensibilityBlockerAftermath.stages.hollow_memories.description>
+  <DMS_SensibilityBlockerAftermath.stages.hollow_memories.label>memórias vazias</DMS_SensibilityBlockerAftermath.stages.hollow_memories.label>
+  <DMS_Thought_CeremonyFailed_Strict.stages.0.description>Nem sequer conseguimos concluir a cerimônia. Isso envergonha a todos nós.</DMS_Thought_CeremonyFailed_Strict.stages.0.description>
+  <DMS_Thought_CeremonyFailed_Strict.stages.0.label>cerimônia falhou</DMS_Thought_CeremonyFailed_Strict.stages.0.label>
+  <DMS_Thought_CeremonyFailed_Strict.stages.ceremony_failed.description>Nem sequer conseguimos concluir a cerimônia. Isso envergonha a todos nós.</DMS_Thought_CeremonyFailed_Strict.stages.ceremony_failed.description>
+  <DMS_Thought_CeremonyFailed_Strict.stages.ceremony_failed.label>cerimônia falhou</DMS_Thought_CeremonyFailed_Strict.stages.ceremony_failed.label>
+  <DMS_Thought_Ceremony_Contemptuous.stages.0.description>Alguém recebeu uma patente e permissão para dar ordens. Não passa de mais uma coleira.</DMS_Thought_Ceremony_Contemptuous.stages.0.description>
+  <DMS_Thought_Ceremony_Contemptuous.stages.0.label>cerimônia observada</DMS_Thought_Ceremony_Contemptuous.stages.0.label>
+  <DMS_Thought_Ceremony_Contemptuous.stages.ceremony_observed.description>Alguém recebeu uma patente e permissão para dar ordens. Não passa de mais uma coleira.</DMS_Thought_Ceremony_Contemptuous.stages.ceremony_observed.description>
+  <DMS_Thought_Ceremony_Contemptuous.stages.ceremony_observed.label>cerimônia observada</DMS_Thought_Ceremony_Contemptuous.stages.ceremony_observed.label>
+  <DMS_Thought_Ceremony_Strict.stages.0.description>Observamos as formalidades corretamente, diante de uma testemunha oficial. Isso ainda significa algo.</DMS_Thought_Ceremony_Strict.stages.0.description>
+  <DMS_Thought_Ceremony_Strict.stages.0.label>cerimônia observada</DMS_Thought_Ceremony_Strict.stages.0.label>
+  <DMS_Thought_Ceremony_Strict.stages.ceremony_observed.description>Observamos as formalidades corretamente, diante de uma testemunha oficial. Isso ainda significa algo.</DMS_Thought_Ceremony_Strict.stages.ceremony_observed.description>
+  <DMS_Thought_Ceremony_Strict.stages.ceremony_observed.label>cerimônia observada</DMS_Thought_Ceremony_Strict.stages.ceremony_observed.label>
+  <DMS_Thought_CourtMartialed_Contemptuous.stages.0.description>Um tribunal da frota acabou com um dos nossos. Mais cedo ou mais tarde, virá atrás do resto de nós.</DMS_Thought_CourtMartialed_Contemptuous.stages.0.description>
+  <DMS_Thought_CourtMartialed_Contemptuous.stages.0.label>membro foi julgado em corte marcial</DMS_Thought_CourtMartialed_Contemptuous.stages.0.label>
+  <DMS_Thought_CourtMartialed_Contemptuous.stages.member_courtmartialed.description>Um tribunal da frota acabou com um dos nossos. Mais cedo ou mais tarde, virá atrás do resto de nós.</DMS_Thought_CourtMartialed_Contemptuous.stages.member_courtmartialed.description>
+  <DMS_Thought_CourtMartialed_Contemptuous.stages.member_courtmartialed.label>membro foi julgado em corte marcial</DMS_Thought_CourtMartialed_Contemptuous.stages.member_courtmartialed.label>
+  <DMS_Thought_CourtMartialed_Strict.stages.0.description>Um dos nossos oficiais foi condenado e não pudemos fazer nada a respeito. Todos nós carregamos isso.</DMS_Thought_CourtMartialed_Strict.stages.0.description>
+  <DMS_Thought_CourtMartialed_Strict.stages.0.label>membro foi julgado em corte marcial</DMS_Thought_CourtMartialed_Strict.stages.0.label>
+  <DMS_Thought_CourtMartialed_Strict.stages.member_courtmartialed.description>Um dos nossos oficiais foi condenado e não pudemos fazer nada a respeito. Todos nós carregamos isso.</DMS_Thought_CourtMartialed_Strict.stages.member_courtmartialed.description>
+  <DMS_Thought_CourtMartialed_Strict.stages.member_courtmartialed.label>membro foi julgado em corte marcial</DMS_Thought_CourtMartialed_Strict.stages.member_courtmartialed.label>
+  <DMS_Thought_FireSupport_Abhorrent_Knows.stages.0.description>Um dos nossos pediu um bombardeio de saturação contra um alvo que ninguém conseguia ver. Isso nunca deveria ter sido feito.</DMS_Thought_FireSupport_Abhorrent_Knows.stages.0.description>
+  <DMS_Thought_FireSupport_Abhorrent_Knows.stages.0.label>alguém pediu isso</DMS_Thought_FireSupport_Abhorrent_Knows.stages.0.label>
+  <DMS_Thought_FireSupport_Abhorrent_Knows.stages.someone_called_it_in.description>Um de nós pediu um bombardeio de saturação contra um alvo que ninguém conseguia ver. Isso nunca deveria ter sido feito.</DMS_Thought_FireSupport_Abhorrent_Knows.stages.someone_called_it_in.description>
+  <DMS_Thought_FireSupport_Abhorrent_Knows.stages.someone_called_it_in.label>alguém pediu isso</DMS_Thought_FireSupport_Abhorrent_Knows.stages.someone_called_it_in.label>
+  <DMS_Thought_FireSupport_Abhorrent_Self.stages.0.description>Eu pedi um bombardeio de saturação contra um alvo. Cada projétil perdido que acertou é culpa minha.</DMS_Thought_FireSupport_Abhorrent_Self.stages.0.description>
+  <DMS_Thought_FireSupport_Abhorrent_Self.stages.0.label>eu pedi isso</DMS_Thought_FireSupport_Abhorrent_Self.stages.0.label>
+  <DMS_Thought_FireSupport_Abhorrent_Self.stages.I_called_it_in.description>Eu pedi um bombardeio de saturação contra um alvo. Cada projétil perdido que acertou é culpa minha.</DMS_Thought_FireSupport_Abhorrent_Self.stages.I_called_it_in.description>
+  <DMS_Thought_FireSupport_Abhorrent_Self.stages.I_called_it_in.label>eu pedi isso</DMS_Thought_FireSupport_Abhorrent_Self.stages.I_called_it_in.label>
+  <DMS_Thought_FireSupport_Venerated.stages.0.description>Alguém pediu isso e acertou onde deveria. Ótimo.</DMS_Thought_FireSupport_Venerated.stages.0.description>
+  <DMS_Thought_FireSupport_Venerated.stages.0.label>fogo no alvo</DMS_Thought_FireSupport_Venerated.stages.0.label>
+  <DMS_Thought_FireSupport_Venerated.stages.fire_on_target.description>Alguém pediu isso e acertou onde deveria. Ótimo.</DMS_Thought_FireSupport_Venerated.stages.fire_on_target.description>
+  <DMS_Thought_FireSupport_Venerated.stages.fire_on_target.label>fogo no alvo</DMS_Thought_FireSupport_Venerated.stages.fire_on_target.label>
+  <DMS_Thought_Gestation_Abhorrent_Knows.stages.0.description>Estamos usando corpos vivos como leito de cultivo. Isso é uma profanação.</DMS_Thought_Gestation_Abhorrent_Knows.stages.0.description>
+  <DMS_Thought_Gestation_Abhorrent_Knows.stages.0.label>cultivamos um desses</DMS_Thought_Gestation_Abhorrent_Knows.stages.0.label>
+  <DMS_Thought_Gestation_Abhorrent_Knows.stages.we_grew_one_of_those.description>Estamos usando corpos vivos como leito de cultivo. Isso é uma profanação.</DMS_Thought_Gestation_Abhorrent_Knows.stages.we_grew_one_of_those.description>
+  <DMS_Thought_Gestation_Abhorrent_Knows.stages.we_grew_one_of_those.label>cultivamos um desses</DMS_Thought_Gestation_Abhorrent_Knows.stages.we_grew_one_of_those.label>
+  <DMS_Thought_Gestation_Abhorrent_Self.stages.0.description>Meu corpo deu à luz algo que nem mesmo está vivo.</DMS_Thought_Gestation_Abhorrent_Self.stages.0.description>
+  <DMS_Thought_Gestation_Abhorrent_Self.stages.0.label>eu carreguei aquilo</DMS_Thought_Gestation_Abhorrent_Self.stages.0.label>
+  <DMS_Thought_Gestation_Abhorrent_Self.stages.I_carried_that_thing.description>Meu corpo deu à luz algo que nem mesmo está vivo.</DMS_Thought_Gestation_Abhorrent_Self.stages.I_carried_that_thing.description>
+  <DMS_Thought_Gestation_Abhorrent_Self.stages.I_carried_that_thing.label>eu carreguei aquilo</DMS_Thought_Gestation_Abhorrent_Self.stages.I_carried_that_thing.label>
+  <DMS_Thought_Gestation_Venerated.stages.0.description>Usamos nossos próprios corpos para gestar algo melhor que nós mesmos.</DMS_Thought_Gestation_Venerated.stages.0.description>
+  <DMS_Thought_Gestation_Venerated.stages.0.label>um casulo foi selado</DMS_Thought_Gestation_Venerated.stages.0.label>
+  <DMS_Thought_Gestation_Venerated.stages.a_pod_was_sealed.description>Usamos nossos próprios corpos para gestar algo melhor que nós mesmos.</DMS_Thought_Gestation_Venerated.stages.a_pod_was_sealed.description>
+  <DMS_Thought_Gestation_Venerated.stages.a_pod_was_sealed.label>um casulo foi selado</DMS_Thought_Gestation_Venerated.stages.a_pod_was_sealed.label>
+  <DMS_Thought_Occultech_Forbidden.stages.0.description>Desbloqueamos um pedaço de tecnologia lacrada que estava trancada. Espero que não tenhamos cometido um erro ainda pior.</DMS_Thought_Occultech_Forbidden.stages.0.description>
+  <DMS_Thought_Occultech_Forbidden.stages.0.label>tecnologia lacrada desbloqueada</DMS_Thought_Occultech_Forbidden.stages.0.label>
+  <DMS_Thought_Occultech_Forbidden.stages.sealed_technology_unlocked.description>Desbloqueamos um pedaço de tecnologia lacrada que estava trancada. Espero que não tenhamos cometido um erro ainda pior.</DMS_Thought_Occultech_Forbidden.stages.sealed_technology_unlocked.description>
+  <DMS_Thought_Occultech_Forbidden.stages.sealed_technology_unlocked.label>tecnologia lacrada desbloqueada</DMS_Thought_Occultech_Forbidden.stages.sealed_technology_unlocked.label>
+  <DMS_Thought_Occultech_Venerated.stages.0.description>Desbloqueamos um pedaço de tecnologia lacrada que estava esquecida nas prateleiras. Que venham explicar por que não deveríamos ter feito isso.</DMS_Thought_Occultech_Venerated.stages.0.description>
+  <DMS_Thought_Occultech_Venerated.stages.0.label>tecnologia lacrada desbloqueada</DMS_Thought_Occultech_Venerated.stages.0.label>
+  <DMS_Thought_Occultech_Venerated.stages.sealed_technology_unlocked.description>Desbloqueamos um pedaço de tecnologia lacrada que estava esquecida nas prateleiras. Que venham explicar por que não deveríamos ter feito isso.</DMS_Thought_Occultech_Venerated.stages.sealed_technology_unlocked.description>
+  <DMS_Thought_Occultech_Venerated.stages.sealed_technology_unlocked.label>tecnologia lacrada desbloqueada</DMS_Thought_Occultech_Venerated.stages.sealed_technology_unlocked.label>
+  <DMS_Thought_OperationFailed_Necessary.stages.0.description>Aceitamos o trabalho e não cumprimos. Alguém vai pagar por isso, e provavelmente não serão os que deram a ordem.</DMS_Thought_OperationFailed_Necessary.stages.0.description>
+  <DMS_Thought_OperationFailed_Necessary.stages.0.label>operação falhou</DMS_Thought_OperationFailed_Necessary.stages.0.label>
+  <DMS_Thought_OperationFailed_Necessary.stages.operation_failed.description>Aceitamos o trabalho e não cumprimos. Alguém vai pagar por isso, e provavelmente não serão os que deram a ordem.</DMS_Thought_OperationFailed_Necessary.stages.operation_failed.description>
+  <DMS_Thought_OperationFailed_Necessary.stages.operation_failed.label>operação falhou</DMS_Thought_OperationFailed_Necessary.stages.operation_failed.label>
+  <DMS_Thought_OperationFailed_Venerated.stages.0.description>Nos deram um trabalho e não o terminamos. Não tem como disfarçar isso.</DMS_Thought_OperationFailed_Venerated.stages.0.description>
+  <DMS_Thought_OperationFailed_Venerated.stages.0.label>operação falhou</DMS_Thought_OperationFailed_Venerated.stages.0.label>
+  <DMS_Thought_OperationFailed_Venerated.stages.operation_failed.description>Nos deram um trabalho e não o terminamos. Não tem como disfarçar isso.</DMS_Thought_OperationFailed_Venerated.stages.operation_failed.description>
+  <DMS_Thought_OperationFailed_Venerated.stages.operation_failed.label>operação falhou</DMS_Thought_OperationFailed_Venerated.stages.operation_failed.label>
+  <DMS_Thought_OperationSuccess_Venerated.stages.0.description>Nos deram um trabalho e o concluímos. É para isso que existimos.</DMS_Thought_OperationSuccess_Venerated.stages.0.description>
+  <DMS_Thought_OperationSuccess_Venerated.stages.0.label>operação concluída</DMS_Thought_OperationSuccess_Venerated.stages.0.label>
+  <DMS_Thought_OperationSuccess_Venerated.stages.operation_completed.description>Nos deram um trabalho e o concluímos. É para isso que existimos.</DMS_Thought_OperationSuccess_Venerated.stages.operation_completed.description>
+  <DMS_Thought_OperationSuccess_Venerated.stages.operation_completed.label>operação concluída</DMS_Thought_OperationSuccess_Venerated.stages.operation_completed.label>
+  <DMS_Thought_SyntheticFood_Abhorrent.stages.0.description>Algo sem um único ingrediente natural nunca deveria ser comido.</DMS_Thought_SyntheticFood_Abhorrent.stages.0.description>
+  <DMS_Thought_SyntheticFood_Abhorrent.stages.0.label>comeu comida sintética</DMS_Thought_SyntheticFood_Abhorrent.stages.0.label>
+  <DMS_Thought_SyntheticFood_Abhorrent.stages.ate_synthesized_food.description>Algo sem um único ingrediente natural nunca deveria ser comido.</DMS_Thought_SyntheticFood_Abhorrent.stages.ate_synthesized_food.description>
+  <DMS_Thought_SyntheticFood_Abhorrent.stages.ate_synthesized_food.label>comeu comida sintética</DMS_Thought_SyntheticFood_Abhorrent.stages.ate_synthesized_food.label>
+  <DMS_Thought_SyntheticFood_Venerated.stages.0.description>Comi comida sintética. Limpa e precisamente medida.</DMS_Thought_SyntheticFood_Venerated.stages.0.description>
+  <DMS_Thought_SyntheticFood_Venerated.stages.0.label>comeu comida sintética</DMS_Thought_SyntheticFood_Venerated.stages.0.label>
+  <DMS_Thought_SyntheticFood_Venerated.stages.ate_synthesized_food.description>Comi comida sintética. Limpa e precisamente medida.</DMS_Thought_SyntheticFood_Venerated.stages.ate_synthesized_food.description>
+  <DMS_Thought_SyntheticFood_Venerated.stages.ate_synthesized_food.label>comeu comida sintética</DMS_Thought_SyntheticFood_Venerated.stages.ate_synthesized_food.label>
 </LanguageData>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMSE_Make_CRationCarbon.description>Sintetiza ração C a partir de carboidratos.</DMSE_Make_CRationCarbon.description>
+  <DMSE_Make_CRationCarbon.jobString>Sintetizando.</DMSE_Make_CRationCarbon.jobString>
+  <DMSE_Make_CRationCarbon.label>Fazer ração C usando carboidratos</DMSE_Make_CRationCarbon.label>
+  <DMSE_Make_CRationCarbonBulk.description>Sintetiza ração C a partir de carboidratos.</DMSE_Make_CRationCarbonBulk.description>
+  <DMSE_Make_CRationCarbonBulk.jobString>Sintetizando.</DMSE_Make_CRationCarbonBulk.jobString>
+  <DMSE_Make_CRationCarbonBulk.label>Fazer ração C usando carboidratos x4</DMSE_Make_CRationCarbonBulk.label>
+  <DMSE_Make_Carbohydrate.description>Um processo que extrai carboidratos de alta pureza separando as partes ricas em amido das plantas sob alta pressão.\n\nTrata-se de um processo bem estabelecido em escala laboratorial para extração de amido, mas devido à sua baixa eficiência de produção e à necessidade de ambientes de produção limpos, geralmente é menos eficaz, a menos que você seja um aspirante a chef de gastronomia molecular.</DMSE_Make_Carbohydrate.description>
+  <DMSE_Make_Carbohydrate.jobString>Extraindo carboidratos.</DMSE_Make_Carbohydrate.jobString>
+  <DMSE_Make_Carbohydrate.label>extrair carboidratos</DMSE_Make_Carbohydrate.label>
+  <DMSE_Make_ClusterWeaver.description>Gesta um autômato Tece-Agregado.</DMSE_Make_ClusterWeaver.description>
+  <DMSE_Make_ClusterWeaver.label>Gestar Tece-Agregado</DMSE_Make_ClusterWeaver.label>
+  <DMSE_Make_ComponentControlChip.description>Produz chips de controle de aglomerado.</DMSE_Make_ComponentControlChip.description>
+  <DMSE_Make_ComponentControlChip.jobString>Produzindo.</DMSE_Make_ComponentControlChip.jobString>
+  <DMSE_Make_ComponentControlChip.label>Fazer chips de controle de aglomerado</DMSE_Make_ComponentControlChip.label>
+  <DMSE_Make_ComponentFireControl.description>Produz um sistema de controle de fogo.</DMSE_Make_ComponentFireControl.description>
+  <DMSE_Make_ComponentFireControl.jobString>Produzindo.</DMSE_Make_ComponentFireControl.jobString>
+  <DMSE_Make_ComponentFireControl.label>Fazer sistema de controle de fogo</DMSE_Make_ComponentFireControl.label>
+  <DMSE_Make_ComponentSpacer.description>Faz um componente avançado.</DMSE_Make_ComponentSpacer.description>
+  <DMSE_Make_ComponentSpacer.jobString>Fazendo componente avançado.</DMSE_Make_ComponentSpacer.jobString>
+  <DMSE_Make_ComponentSpacer.label>fazer componente avançado com grafeno</DMSE_Make_ComponentSpacer.label>
+  <DMSE_Make_ComponentSpacerBulk.description>Faz componentes avançados x4</DMSE_Make_ComponentSpacerBulk.description>
+  <DMSE_Make_ComponentSpacerBulk.jobString>Fazendo componentes avançados.</DMSE_Make_ComponentSpacerBulk.jobString>
+  <DMSE_Make_ComponentSpacerBulk.label>fazer componentes avançados com grafeno x4</DMSE_Make_ComponentSpacerBulk.label>
+  <DMSE_Make_ComponentTransmitter.description>Produz um componente T/R.</DMSE_Make_ComponentTransmitter.description>
+  <DMSE_Make_ComponentTransmitter.jobString>Produzindo.</DMSE_Make_ComponentTransmitter.jobString>
+  <DMSE_Make_ComponentTransmitter.label>Fazer componente T/R</DMSE_Make_ComponentTransmitter.label>
+  <DMSE_Make_GrapheneMass_Chemfuel.description>Produz uma grande quantidade de grafeno usando combustível químico e madeira.</DMSE_Make_GrapheneMass_Chemfuel.description>
+  <DMSE_Make_GrapheneMass_Chemfuel.jobString>Produzindo.</DMSE_Make_GrapheneMass_Chemfuel.jobString>
+  <DMSE_Make_GrapheneMass_Chemfuel.label>Fazer grafeno com combustível químico x4</DMSE_Make_GrapheneMass_Chemfuel.label>
+  <DMSE_Make_GrapheneMass_WoodLog.description>Produz uma grande quantidade de grafeno usando combustível químico e madeira.</DMSE_Make_GrapheneMass_WoodLog.description>
+  <DMSE_Make_GrapheneMass_WoodLog.jobString>Produzindo.</DMSE_Make_GrapheneMass_WoodLog.jobString>
+  <DMSE_Make_GrapheneMass_WoodLog.label>Fazer grafeno com madeira x4</DMSE_Make_GrapheneMass_WoodLog.label>
+  <DMSE_Make_Graphene_Chemfuel.description>Produz uma pequena quantidade de grafeno usando combustível químico e madeira.</DMSE_Make_Graphene_Chemfuel.description>
+  <DMSE_Make_Graphene_Chemfuel.jobString>Produzindo.</DMSE_Make_Graphene_Chemfuel.jobString>
+  <DMSE_Make_Graphene_Chemfuel.label>Fazer grafeno com combustível químico</DMSE_Make_Graphene_Chemfuel.label>
+  <DMSE_Make_Graphene_WoodLog.description>Produz uma pequena quantidade de grafeno usando combustível químico e madeira.</DMSE_Make_Graphene_WoodLog.description>
+  <DMSE_Make_Graphene_WoodLog.jobString>Produzindo.</DMSE_Make_Graphene_WoodLog.jobString>
+  <DMSE_Make_Graphene_WoodLog.label>Fazer grafeno com madeira</DMSE_Make_Graphene_WoodLog.label>
+  <DMSE_Make_MedicineUltratech.description>Produz remédio de mundo brilhante.</DMSE_Make_MedicineUltratech.description>
+  <DMSE_Make_MedicineUltratech.jobString>Produzindo.</DMSE_Make_MedicineUltratech.jobString>
+  <DMSE_Make_MedicineUltratech.label>Fazer remédio de mundo brilhante</DMSE_Make_MedicineUltratech.label>
+  <DMSE_Make_Neutroamine.description>Sintetiza neutroamina a partir de carne.</DMSE_Make_Neutroamine.description>
+  <DMSE_Make_Neutroamine.jobString>Sintetizando neutroamina.</DMSE_Make_Neutroamine.jobString>
+  <DMSE_Make_Neutroamine.label>sintetizar neutroamina</DMSE_Make_Neutroamine.label>
+  <DMSE_Make_Nitrogallium.description>Cultive um monocristal de nitrogálio</DMSE_Make_Nitrogallium.description>
+  <DMSE_Make_Nitrogallium.jobString>Produzindo.</DMSE_Make_Nitrogallium.jobString>
+  <DMSE_Make_Nitrogallium.label>Produzir nitrogálio</DMSE_Make_Nitrogallium.label>
+  <DMSE_Make_ReinforcedBarrel.description>Produza um cano reforçado a partir da forja rotativa.</DMSE_Make_ReinforcedBarrel.description>
+  <DMSE_Make_ReinforcedBarrel.jobString>Produzindo cano reforçado.</DMSE_Make_ReinforcedBarrel.jobString>
+  <DMSE_Make_ReinforcedBarrel.label>produzir cano reforçado</DMSE_Make_ReinforcedBarrel.label>
+  <DMSE_Make_ShuttleEngine.description>Produzindo um motor de vaivém.</DMSE_Make_ShuttleEngine.description>
+  <DMSE_Make_ShuttleEngine.jobString>Produzindo.</DMSE_Make_ShuttleEngine.jobString>
+  <DMSE_Make_ShuttleEngine.label>Produzir motor de vaivém</DMSE_Make_ShuttleEngine.label>
+  <DMSE_Make_TantastenAlloy.description>Sinterize uma pequena quantidade de tantasteno.</DMSE_Make_TantastenAlloy.description>
+  <DMSE_Make_TantastenAlloy.jobString>Sinterizando.</DMSE_Make_TantastenAlloy.jobString>
+  <DMSE_Make_TantastenAlloy.label>Produzir tantasteno x25</DMSE_Make_TantastenAlloy.label>
+  <DMSE_Make_TantastenAlloyMass.description>Sinterize uma grande quantidade de tantasteno.</DMSE_Make_TantastenAlloyMass.description>
+  <DMSE_Make_TantastenAlloyMass.jobString>Sinterizando.</DMSE_Make_TantastenAlloyMass.jobString>
+  <DMSE_Make_TantastenAlloyMass.label>Produzir tantasteno x100</DMSE_Make_TantastenAlloyMass.label>
+  <MakeAmmo_37x250mmFlak_AP.description>Fabrica 50 cartuchos antiaéreos 37x250mmR (AP).</MakeAmmo_37x250mmFlak_AP.description>
+  <MakeAmmo_37x250mmFlak_AP.jobString>Fabricando cartuchos antiaéreos 37x250mmR (AP).</MakeAmmo_37x250mmFlak_AP.jobString>
+  <MakeAmmo_37x250mmFlak_AP.label>fabricar cartucho antiaéreo 37x250mmR (AP) x50</MakeAmmo_37x250mmFlak_AP.label>
+  <MakeAmmo_37x250mmFlak_HE.description>Fabrica 50 cartuchos antiaéreos 37x250mmR (AP-HE).</MakeAmmo_37x250mmFlak_HE.description>
+  <MakeAmmo_37x250mmFlak_HE.jobString>Fabricando cartuchos antiaéreos 37x250mmR (AP-HE).</MakeAmmo_37x250mmFlak_HE.jobString>
+  <MakeAmmo_37x250mmFlak_HE.label>fabricar cartucho antiaéreo 37x250mmR (AP-HE) x50</MakeAmmo_37x250mmFlak_HE.label>
+  <MakeAmmo_37x250mmFlak_Incendiary.description>Fabrica 50 cartuchos antiaéreos 37x250mmR (AP-I).</MakeAmmo_37x250mmFlak_Incendiary.description>
+  <MakeAmmo_37x250mmFlak_Incendiary.jobString>Fabricando cartuchos antiaéreos 37x250mmR (AP-I).</MakeAmmo_37x250mmFlak_Incendiary.jobString>
+  <MakeAmmo_37x250mmFlak_Incendiary.label>fabricar cartucho antiaéreo 37x250mmR (AP-I) x50</MakeAmmo_37x250mmFlak_Incendiary.label>
+  <MakeAmmo_5x50mmCaseless_AP.description>Fabrica 500 cartuchos sem estojo 5x50mm (AP).</MakeAmmo_5x50mmCaseless_AP.description>
+  <MakeAmmo_5x50mmCaseless_AP.jobString>Fabricando cartuchos sem estojo 5x50mm (AP).</MakeAmmo_5x50mmCaseless_AP.jobString>
+  <MakeAmmo_5x50mmCaseless_AP.label>fabricar cartucho sem estojo 5x50mm (AP) x500</MakeAmmo_5x50mmCaseless_AP.label>
+  <MakeAmmo_5x50mmCaseless_Erosion.description>Fabrica 500 cartuchos sem estojo 5x50mm (Erosivo).</MakeAmmo_5x50mmCaseless_Erosion.description>
+  <MakeAmmo_5x50mmCaseless_Erosion.jobString>Fabricando cartuchos sem estojo 5x50mm (Erosivo).</MakeAmmo_5x50mmCaseless_Erosion.jobString>
+  <MakeAmmo_5x50mmCaseless_Erosion.label>fabricar cartucho sem estojo 5x50mm (Erosivo) x500</MakeAmmo_5x50mmCaseless_Erosion.label>
+  <MakeAmmo_5x50mmCaseless_FMJ.description>Fabrica 500 cartuchos sem estojo 5x50mm (FMJ).</MakeAmmo_5x50mmCaseless_FMJ.description>
+  <MakeAmmo_5x50mmCaseless_FMJ.jobString>Fabricando cartuchos sem estojo 5x50mm (FMJ).</MakeAmmo_5x50mmCaseless_FMJ.jobString>
+  <MakeAmmo_5x50mmCaseless_FMJ.label>fabricar cartucho sem estojo 5x50mm (FMJ) x500</MakeAmmo_5x50mmCaseless_FMJ.label>
+  <MakeAmmo_5x50mmCaseless_HE.description>Fabrica 500 cartuchos sem estojo 5x50mm (AP-HE).</MakeAmmo_5x50mmCaseless_HE.description>
+  <MakeAmmo_5x50mmCaseless_HE.jobString>Fabricando cartuchos sem estojo 5x50mm (AP-HE).</MakeAmmo_5x50mmCaseless_HE.jobString>
+  <MakeAmmo_5x50mmCaseless_HE.label>fabricar cartucho sem estojo 5x50mm (AP-HE) x500</MakeAmmo_5x50mmCaseless_HE.label>
+  <MakeAmmo_5x50mmCaseless_HP.description>Fabrica 500 cartuchos sem estojo 5x50mm (HP).</MakeAmmo_5x50mmCaseless_HP.description>
+  <MakeAmmo_5x50mmCaseless_HP.jobString>Fabricando cartuchos sem estojo 5x50mm (HP).</MakeAmmo_5x50mmCaseless_HP.jobString>
+  <MakeAmmo_5x50mmCaseless_HP.label>fabricar cartucho sem estojo 5x50mm (HP) x500</MakeAmmo_5x50mmCaseless_HP.label>
+  <MakeAmmo_5x50mmCaseless_Incendiary.description>Fabrica 500 cartuchos sem estojo 5x50mm (AP-I).</MakeAmmo_5x50mmCaseless_Incendiary.description>
+  <MakeAmmo_5x50mmCaseless_Incendiary.jobString>Fabricando cartuchos sem estojo 5x50mm (AP-I).</MakeAmmo_5x50mmCaseless_Incendiary.jobString>
+  <MakeAmmo_5x50mmCaseless_Incendiary.label>fabricar cartucho sem estojo 5x50mm (AP-I) x500</MakeAmmo_5x50mmCaseless_Incendiary.label>
+  <MakeDMSE_Ammo_762x385mmRCannonShell_PELE.description>Fabrica 5 projéteis de canhão 76,2x385mmR (PELE-aço-tungstênio).</MakeDMSE_Ammo_762x385mmRCannonShell_PELE.description>
+  <MakeDMSE_Ammo_762x385mmRCannonShell_PELE.jobString>Fabricando projéteis de canhão 76,2x385mmR (PELE-aço-tungstênio).</MakeDMSE_Ammo_762x385mmRCannonShell_PELE.jobString>
+  <MakeDMSE_Ammo_762x385mmRCannonShell_PELE.label>fabricar projéteis de canhão 76,2x385mmR (PELE-aço-tungstênio) x5</MakeDMSE_Ammo_762x385mmRCannonShell_PELE.label>
+</LanguageData>

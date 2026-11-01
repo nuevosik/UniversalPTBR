@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPEP_BrainLeech.description>Um parasita cerebral que suga a consciência da vítima e concede uma fração dessa consciência ao psinjurador que o lançou.</VPEP_BrainLeech.description>
+  <VPEP_BrainLeech.label>Suga-cérebro</VPEP_BrainLeech.label>
+  <VPEP_Leeching.description>Um impulso psíquico de consciência fornecido pelo suga-cérebro em outra pessoa.</VPEP_Leeching.description>
+  <VPEP_Leeching.label>Sugando</VPEP_Leeching.label>
+  <VPEP_Puppet.description>Este indivíduo é um fantoche. Ele herda suas histórias de fundo e traços de seu mestre de fantoches, mas não tem necessidades além de comida e descanso. Tem consciência reduzida e seu ganho de experiência é bastante diminuído. Ele entrará no mesmo estado mental que seu manipulador.</VPEP_Puppet.description>
+  <VPEP_Puppet.label>Fantoche</VPEP_Puppet.label>
+  <VPEP_Puppeteer.description>Este indivíduo é um mestre de fantoches e usa influência psíquica para controlar fantoches. Os fantoches compartilham seu ganho de experiência com o mestre de fantoches. Se o mestre de fantoches morrer, uma onda de choque psíquica derrubará todos os fantoches em abasia paralítica.</VPEP_Puppeteer.description>
+  <VPEP_Puppeteer.label>Mestre de fantoches</VPEP_Puppeteer.label>
+  <VPEP_Subjugation.description>Uma doutrinação psíquica que reduz a consciência, a manipulação e a respiração do sujeito até que ele chegue a um ponto de ruptura e se junte à sua colônia.</VPEP_Subjugation.description>
+  <VPEP_Subjugation.label>subjugação</VPEP_Subjugation.label>
+  <VPEP_Subjugation.stages.0.label>leve</VPEP_Subjugation.stages.0.label>
+  <VPEP_Subjugation.stages.1.label>grave</VPEP_Subjugation.stages.1.label>
+  <VPEP_Subjugation.stages.2.label>extremo</VPEP_Subjugation.stages.2.label>
+</LanguageData>

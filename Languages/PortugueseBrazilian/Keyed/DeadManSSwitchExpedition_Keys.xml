@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DMSE.AirAlert.BlockadeActiveLabel>Bloqueio em vigor</DMSE.AirAlert.BlockadeActiveLabel>
+  <DMSE.AirAlert.BlockadeActiveText>{0} fechou o espaço aéreo em um raio de {2} blocos ao redor de {1}. Aeronaves não aliadas que passarem por ali serão alvejadas.</DMSE.AirAlert.BlockadeActiveText>
+  <DMSE.AirAlert.BlockadeCancelled>{0} cancelou o bloqueio em {1}.</DMSE.AirAlert.BlockadeCancelled>
+  <DMSE.AirAlert.BlockadeLifted>{0} levantou o bloqueio em {1}.</DMSE.AirAlert.BlockadeLifted>
+  <DMSE.AirAlert.BlockadeNoticeLabel>Bloqueio anunciado</DMSE.AirAlert.BlockadeNoticeLabel>
+  <DMSE.AirAlert.BlockadeNoticeText>Em {3}, {0} fechará o espaço aéreo em um raio de {2} blocos ao redor de {1}. Sua defesa aérea abrirá fogo contra qualquer aeronave não aliada que passar por ali.</DMSE.AirAlert.BlockadeNoticeText>
+  <DMSE.AirAlert.EngagingPlayer>{1} está interceptando seu míssil.</DMSE.AirAlert.EngagingPlayer>
+  <DMSE.AirAlert.InspectBlockadeActive>Bloqueio: {0} blocos</DMSE.AirAlert.InspectBlockadeActive>
+  <DMSE.AirAlert.InspectBlockadePending>Bloqueio em {0}</DMSE.AirAlert.InspectBlockadePending>
+  <DMSE.AirAlert.InspectStage>Alerta aéreo: {0} ({1})</DMSE.AirAlert.InspectStage>
+  <DMSE.AirAlert.InspectUnavailable>Desativado: {0}</DMSE.AirAlert.InspectUnavailable>
+  <DMSE.AirAlert.InterceptorSafed>Interceptador desarmado: {0} é aliado.</DMSE.AirAlert.InterceptorSafed>
+  <DMSE.AirAlert.NeutralInterceptLabel>Defesa aérea neutra</DMSE.AirAlert.NeutralInterceptLabel>
+  <DMSE.AirAlert.NeutralInterceptText>{1} ({0}) irá interceptar mísseis não aliados em seu espaço aéreo, incluindo os seus.</DMSE.AirAlert.NeutralInterceptText>
+  <DMSE.AirAlert.Stage1>sem detecção</DMSE.AirAlert.Stage1>
+  <DMSE.AirAlert.Stage2>alerta antecipado</DMSE.AirAlert.Stage2>
+  <DMSE.AirAlert.Stage3>interceptação passiva</DMSE.AirAlert.Stage3>
+  <DMSE.AirAlert.Stage4>interceptação ativa</DMSE.AirAlert.Stage4>
+  <DMSE.AirAlert.Stage5>bloqueio</DMSE.AirAlert.Stage5>
+  <DMSE.AirAlert.Unavailable.NoAmmo>sem interceptadores</DMSE.AirAlert.Unavailable.NoAmmo>
+  <DMSE.AirAlert.Unavailable.NoEquipment>sem defesa aérea</DMSE.AirAlert.Unavailable.NoEquipment>
+  <DMSE.AirAlert.Unavailable.NoFireControl>sem controle de tiro</DMSE.AirAlert.Unavailable.NoFireControl>
+  <DMSE.AirAlert.Unavailable.NoNode>sem nó de defesa aérea</DMSE.AirAlert.Unavailable.NoNode>
+  <DMSE.AirAlert.Unavailable.NoTracking>sem cobertura de radar</DMSE.AirAlert.Unavailable.NoTracking>
+  <DMSE.AirAlert.Unavailable.RadarDown>radar suprimido</DMSE.AirAlert.Unavailable.RadarDown>
+  <DMSE.AirAlert.Unavailable.WarmingUp>radar inicializando</DMSE.AirAlert.Unavailable.WarmingUp>
+  <DMSE.Airspace.Blocked>A rota cruza o bloqueio de {0} ({1}, {2} blocos); sua defesa aérea abrirá fogo contra você.</DMSE.Airspace.Blocked>
+  <DMSE.Alert.BVRStatus.FireControl.Line>· {0} {1} canais, potência {2} [{3}]</DMSE.Alert.BVRStatus.FireControl.Line>
+  <DMSE.Alert.BVRStatus.FireControl.Occupied>Canais ocupados: {0} / {1}</DMSE.Alert.BVRStatus.FireControl.Occupied>
+  <DMSE.Alert.BVRStatus.FireControlRadars>Radares de controle de fogo:</DMSE.Alert.BVRStatus.FireControlRadars>
+  <DMSE.Alert.BVRStatus.Label>Sistema BVR</DMSE.Alert.BVRStatus.Label>
+  <DMSE.Alert.BVRStatus.None>(nenhum instalado)</DMSE.Alert.BVRStatus.None>
+  <DMSE.Alert.BVRStatus.SearchRadar.Line>· {0} alcance {1}, antifurtividade {2}, potência {3} [{4}]</DMSE.Alert.BVRStatus.SearchRadar.Line>
+  <DMSE.Alert.BVRStatus.SearchRadars>Radares de busca:</DMSE.Alert.BVRStatus.SearchRadars>
+  <DMSE.Alert.Exist.ClickHint>Clique para encerrar a observação antecipadamente.</DMSE.Alert.Exist.ClickHint>
+  <DMSE.Alert.Exist.EndEarly.Confirm>Encerrar a observação agora? O mapa não ficará mais aberto e poderá ser limpo pelo jogo.</DMSE.Alert.Exist.EndEarly.Confirm>
+  <DMSE.Alert.Exist.EndEarly.Confirm.MissileBase>Encerrar a observação antecipadamente?\n\nA tripulação inimiga terá a oportunidade de se reagrupar. As defesas e cronômetros da posição de lançamento serão redefinidos, como se a observação nunca tivesse ocorrido.\n\nIsso não pode ser desfeito.</DMSE.Alert.Exist.EndEarly.Confirm.MissileBase>
+  <DMSE.Alert.Exist.EnemiesAlive>Combatentes inimigos restantes: {0}</DMSE.Alert.Exist.EnemiesAlive>
+  <DMSE.Alert.Exist.IsMissileBase>Esta é uma posição ativa de lançamento de mísseis. Encerrar a observação antecipadamente permitirá que a tripulação se reagrupe e redefina suas defesas.</DMSE.Alert.Exist.IsMissileBase>
+  <DMSE.Alert.Exist.ObservationEnded>Observação encerrada antecipadamente. As forças inimigas podem se reagrupar.</DMSE.Alert.Exist.ObservationEnded>
+  <DMSE.Alert.Exist.Observing>Observando: {0}</DMSE.Alert.Exist.Observing>
+  <DMSE.Alert.Exist.TimeLeft>Observação termina em: {0}</DMSE.Alert.Exist.TimeLeft>
+  <DMSE.Alert.HuntdownThreat>Esquadrão de caça</DMSE.Alert.HuntdownThreat>
+  <DMSE.Alert.HuntdownThreat.Desc>A polícia militar da frota colonial está rastreando o sinal da Estela desaparecida; é apenas questão de tempo até encontrá-los e enviar um esquadrão de caça.</DMSE.Alert.HuntdownThreat.Desc>
+  <DMSE.Alert.HuntdownThreatCritical>Caçada se aproximando</DMSE.Alert.HuntdownThreatCritical>
+  <DMSE.Alert.HuntdownThreatCritical.Desc>A posição da Estela foi rastreada. Um esquadrão de caça e um possível ataque aéreo chegarão em breve. Transfira-se antes que seja tarde demais.</DMSE.Alert.HuntdownThreatCritical.Desc>
+  <DMSE.Alert.PlayerMissiles.ClickHint>Botão esquerdo para alternar para o próximo local de impacto. Botão direito para alternar de volta.</DMSE.Alert.PlayerMissiles.ClickHint>
+  <DMSE.Alert.PlayerMissiles.Label>{0} mísseis em rota: primeiro impacto em {1}</DMSE.Alert.PlayerMissiles.Label>
+  <DMSE.Alert.PlayerMissiles.MapHeader>Alvo: {0}</DMSE.Alert.PlayerMissiles.MapHeader>
+  <DMSE.Alert.PlayerMissiles.Target>· {0} ({1},{2}) [{3}]</DMSE.Alert.PlayerMissiles.Target>
+  <DMSE.Alert.PlayerMissiles.WaveImpact>Impacto em {0}:</DMSE.Alert.PlayerMissiles.WaveImpact>
+  <DMSE.Alert.Pods>{0} cápsulas de pouso irão impactar em {1}</DMSE.Alert.Pods>
+  <DMSE.Alert.Pods.Loitering>{0} mísseis em espera no ar, {1} antes de mergulharem</DMSE.Alert.Pods.Loitering>
+  <DMSE.Alert.Pods.Status.InFlight>interceptador em voo</DMSE.Alert.Pods.Status.InFlight>
+  <DMSE.Alert.Pods.Status.Locking>controle de fogo em aquisição</DMSE.Alert.Pods.Status.Locking>
+  <DMSE.Alert.Pods.Status.Loitering>em espera, aguardando alvo</DMSE.Alert.Pods.Status.Loitering>
+  <DMSE.Alert.Pods.Status.Unengaged>não engajado</DMSE.Alert.Pods.Status.Unengaged>
+  <DMSE.Alert.Pods.Target>· {0} [{1}]</DMSE.Alert.Pods.Target>
+  <DMSE.Alert.Pods.Window.Loitering>Tempo em espera restante: {0}</DMSE.Alert.Pods.Window.Loitering>
+  <DMSE.Alert.Pods.Window.Midcourse>Janela de interceptação no meio do curso: {0}</DMSE.Alert.Pods.Window.Midcourse>
+  <DMSE.Alert.Pods.Window.Terminal>Janela terminal (CIWS): {0}</DMSE.Alert.Pods.Window.Terminal>
+  <DMSE.Artillery.CrossLayer>Projéteis de artilharia não são guiados e não podem atingir alvos entre camadas orbitais.</DMSE.Artillery.CrossLayer>
+  <DMSE.Artillery.Fire>Disparar artilharia</DMSE.Artillery.Fire>
+  <DMSE.Artillery.FireDesc>Selecione um alvo no mapa-múndi. Continua disparando até ser interrompido.</DMSE.Artillery.FireDesc>
+  <DMSE.Artillery.GuidanceOffline>Guiagem por radar: sem canal livre de controle de tiro (não guiado, dispersão {0} células)</DMSE.Artillery.GuidanceOffline>
+  <DMSE.Artillery.GuidanceOnline>Guiagem por radar: disponível (dispersão {0} células)</DMSE.Artillery.GuidanceOnline>
+  <DMSE.Artillery.Missed>A salva de artilharia não encontrou alvo e foi desperdiçada.</DMSE.Artillery.Missed>
+  <DMSE.Artillery.NoAmmo>Nenhum projétil carregado: disparo contínuo interrompido.</DMSE.Artillery.NoAmmo>
+  <DMSE.Artillery.NoBarrel>Cano desgastado: disparo contínuo interrompido. Substitua o cano reforçado.</DMSE.Artillery.NoBarrel>
+  <DMSE.Artillery.NoFireControl>Nenhum radar de controle de tiro com canal de guiagem livre disponível.</DMSE.Artillery.NoFireControl>
+  <DMSE.Artillery.OutOfRange>O alvo está além do alcance do canhão ({0} quadrados).</DMSE.Artillery.OutOfRange>
+  <DMSE.Artillery.Ready>Artilharia: pronta para disparar</DMSE.Artillery.Ready>
+  <DMSE.Artillery.StateAiming>mirando ({0}%)</DMSE.Artillery.StateAiming>
+  <DMSE.Artillery.StateCooldown>recarregando, {0} restante(s)</DMSE.Artillery.StateCooldown>
+  <DMSE.Artillery.StateReady>pronto para disparar</DMSE.Artillery.StateReady>
+  <DMSE.Artillery.Stop>Parar disparos</DMSE.Artillery.Stop>
+  <DMSE.Artillery.StopDesc>Interrompe o disparo contínuo. Status atual: {0}</DMSE.Artillery.StopDesc>
+  <DMSE.Artillery.TargetIsHome>Não é possível bombardear seu próprio quadrado do mapa.</DMSE.Artillery.TargetIsHome>
+  <DMSE.Artillery.TooClose>Alvo muito próximo: alcance mínimo é {0} células.</DMSE.Artillery.TooClose>
+  <DMSE.BVR.ArtilleryChannels>Canais de guia de artilharia: {0} / {1} livres</DMSE.BVR.ArtilleryChannels>
+  <DMSE.BVR.DeviceInactive>Dispositivo inativo (sem energia, quebrado ou desligado).</DMSE.BVR.DeviceInactive>
+  <DMSE.BVR.FireControl>Controle de fogo: {0} canal(is) ({1})</DMSE.BVR.FireControl>
+  <DMSE.BVR.InterceptRiskDestination>{0} está coberto pelo radar de defesa aérea de {1}. Cápsulas de queda e ônibus espaciais que pousarem lá podem ser abatidos.</DMSE.BVR.InterceptRiskDestination>
+  <DMSE.BVR.InterceptRiskFooter>Qualquer pessoa a bordo de uma cápsula ou ônibus espacial abatido ficará desaparecida. Gravinaves e naves de transferência são danificadas ao invés de destruídas.\n\nLançar mesmo assim?</DMSE.BVR.InterceptRiskFooter>
+  <DMSE.BVR.InterceptRiskRoute>A rota atravessa o bloqueio de {0} ao redor de {1} ({2} blocos). Sua defesa aérea atira em qualquer coisa voando por lá.</DMSE.BVR.InterceptRiskRoute>
+  <DMSE.BVR.Offline>offline</DMSE.BVR.Offline>
+  <DMSE.BVR.Online>online</DMSE.BVR.Online>
+  <DMSE.BVR.PawnsMissingLabel>Cápsula abatida: colonos desaparecidos</DMSE.BVR.PawnsMissingLabel>
+  <DMSE.BVR.PawnsMissingText>Um transporte com seus colonos foi abatido pela defesa aérea. Nenhum corpo foi recuperado; os seguintes estão desaparecidos:\n\n{0}</DMSE.BVR.PawnsMissingText>
+  <DMSE.BVR.SearchRadar>Radar de busca: alcance {0}, antifurtividade {1} ({2})</DMSE.BVR.SearchRadar>
+  <DMSE.BVR.Settings.InterceptDebrisDamage>Destroços interceptados causam dano</DMSE.BVR.Settings.InterceptDebrisDamage>
+  <DMSE.BVR.Settings.InterceptDebrisDamageDesc>Grandes destroços de mísseis interceptados e cápsulas de queda causam dano contundente leve onde aterrissam. Telhados os detêm. Quando desativado, os destroços apenas deixam poeira, faíscas e entulho.</DMSE.BVR.Settings.InterceptDebrisDamageDesc>
+  <DMSE.BVR.Settings.InterceptFxDensity>Densidade de efeitos de interceptação</DMSE.BVR.Settings.InterceptFxDensity>
+  <DMSE.BVR.Settings.InterceptFxDensity0>Baixa</DMSE.BVR.Settings.InterceptFxDensity0>
+  <DMSE.BVR.Settings.InterceptFxDensity1>Média</DMSE.BVR.Settings.InterceptFxDensity1>
+  <DMSE.BVR.Settings.InterceptFxDensity2>Alta</DMSE.BVR.Settings.InterceptFxDensity2>
+  <DMSE.BVR.Settings.InterceptFxDensityDesc>Quantos fragmentos, nuvens de fumaça e rastros são gerados em uma interceptação. Diminua se grandes salvas diminuírem o desempenho. Grandes destroços ainda aterrissam em qualquer configuração.</DMSE.BVR.Settings.InterceptFxDensityDesc>
+  <DMSE.BVR.World.AbstractInspect>Defesa aérea: {0}/{1} interceptores\nRaio de busca: {2} blocos; canais de controle de tiro: {3}</DMSE.BVR.World.AbstractInspect>
+  <DMSE.BVR.World.AbstractStrike>{0} atingiu o nó de defesa aérea em {1}: estoques danificados, radar suprimido.</DMSE.BVR.World.AbstractStrike>
+  <DMSE.BVR.World.Chaff>{0} lançou chaff e rompeu o travamento do controle de tiro.</DMSE.BVR.World.Chaff>
+  <DMSE.BVR.World.ChannelBreakdown>Canais: artilharia {0}, local {1}, global {2}, ataque {3}; livres {4}</DMSE.BVR.World.ChannelBreakdown>
+  <DMSE.BVR.World.ClickHint>Clique esquerdo/direito para alternar entre rastros de mísseis no mapa-múndi.</DMSE.BVR.World.ClickHint>
+  <DMSE.BVR.World.Detected>Detectado</DMSE.BVR.World.Detected>
+  <DMSE.BVR.World.DetectedLetter>Míssil inimigo detectado</DMSE.BVR.World.DetectedLetter>
+  <DMSE.BVR.World.DetectedLetterText>O radar detectou {0} se aproximando de {1}.\n\nChegada estimada: {2}. A defesa aérea mundial está tentando interceptá-lo; qualquer míssil que sobreviver enfrentará defesas terminais locais.</DMSE.BVR.World.DetectedLetterText>
+  <DMSE.BVR.World.EffectiveRanges>Raio efetivo: patrulha {0}, leve {1}, cruzeiro {2}, balístico {3} blocos</DMSE.BVR.World.EffectiveRanges>
+  <DMSE.BVR.World.Evaded>{0} mudou de rumo e desviou do interceptador.</DMSE.BVR.World.Evaded>
+  <DMSE.BVR.World.InFlight>Interceptador a caminho</DMSE.BVR.World.InFlight>
+  <DMSE.BVR.World.IncomingAlert>Mísseis inimigos detectados</DMSE.BVR.World.IncomingAlert>
+  <DMSE.BVR.World.IncomingLabel>Mísseis inimigos: {0} ({1})</DMSE.BVR.World.IncomingLabel>
+  <DMSE.BVR.World.Intercepted>{0} foi interceptado por {1}.</DMSE.BVR.World.Intercepted>
+  <DMSE.BVR.World.InterceptorInspect>Alvo: {0}\nTempo para interceptação: {1}</DMSE.BVR.World.InterceptorInspect>
+  <DMSE.BVR.World.Locking>Travamento do sistema de controle de tiro</DMSE.BVR.World.Locking>
+  <DMSE.BVR.World.Missed>Um interceptador errou {0}.</DMSE.BVR.World.Missed>
+  <DMSE.BVR.World.MissileType>Tipo de míssil: {0}</DMSE.BVR.World.MissileType>
+  <DMSE.BVR.World.RadarRange>Raio de busca global: {0} blocos (antes dos modificadores de alvo)</DMSE.BVR.World.RadarRange>
+  <DMSE.BVR.World.ShowCoverage>Mostrar cobertura da defesa aérea</DMSE.BVR.World.ShowCoverage>
+  <DMSE.BVR.World.ShowCoverageDesc>Sempre exibe todos os círculos de cobertura do radar do jogador no mapa-múndi. Os locais selecionados sempre mostram sua própria cobertura. Os círculos consideram um alvo não furtivo de tamanho 1.</DMSE.BVR.World.ShowCoverageDesc>
+  <DMSE.BVR.World.TrackInspect>Destino: {0}\nETA: {1}\nStatus: {2}\nTentativas de interceptação: {3}</DMSE.BVR.World.TrackInspect>
+  <DMSE.BVR.World.Undetected>Não detectado</DMSE.BVR.World.Undetected>
+  <DMSE.Bench.Block.BadName>O nome do projeto contém caracteres não suportados.</DMSE.Bench.Block.BadName>
+  <DMSE.Bench.Block.NoBody>Escolha um corpo de míssil.</DMSE.Bench.Block.NoBody>
+  <DMSE.Bench.CancelOrder>Cancelar pedido</DMSE.Bench.CancelOrder>
+  <DMSE.Bench.CancelOrderConfirm>Cancelar este pedido? Os materiais já entregues serão devolvidos ao lado da bancada.</DMSE.Bench.CancelOrderConfirm>
+  <DMSE.Bench.CancelOrderDesc>Cancela o pedido atual. Os materiais já entregues serão devolvidos ao lado da bancada.</DMSE.Bench.CancelOrderDesc>
+  <DMSE.Bench.EmptyHint>Escolha um corpo de míssil à esquerda para iniciar um projeto.</DMSE.Bench.EmptyHint>
+  <DMSE.Bench.Group.Guidance>Guiagem</DMSE.Bench.Group.Guidance>
+  <DMSE.Bench.Group.Strike>Ataque</DMSE.Bench.Group.Strike>
+  <DMSE.Bench.Group.Survival>Sobrevivência</DMSE.Bench.Group.Survival>
+  <DMSE.Bench.IfEquipped>Se equipado:</DMSE.Bench.IfEquipped>
+  <DMSE.Bench.InspectOrder>Pedido: {0} ({1} restantes)</DMSE.Bench.InspectOrder>
+  <DMSE.Bench.InspectProgress>Progresso da montagem: {0}</DMSE.Bench.InspectProgress>
+  <DMSE.Bench.InstantComplete>Concluir agora</DMSE.Bench.InstantComplete>
+  <DMSE.Bench.LoadDesign>Carregar projeto</DMSE.Bench.LoadDesign>
+  <DMSE.Bench.LockNameButtonDesc>Trava ou destrava o nome do projeto. Quando travado, o nome não será regenerado ao alterar as peças.</DMSE.Bench.LockNameButtonDesc>
+  <DMSE.Bench.LockNameOff>O nome do projeto está destravado. O nome será regenerado ao alterar as peças.</DMSE.Bench.LockNameOff>
+  <DMSE.Bench.LockNameOn>O nome do projeto está travado. O nome não será regenerado ao alterar as peças.</DMSE.Bench.LockNameOn>
+  <DMSE.Bench.LockedWhileOrdered>Pedido em andamento. Cancele o pedido para alterar o projeto.</DMSE.Bench.LockedWhileOrdered>
+  <DMSE.Bench.MaterialTip>Por míssil: {0}\nEste pedido: {1}\nEm armazenamento: {2}</DMSE.Bench.MaterialTip>
+  <DMSE.Bench.NameCandidates>Sugestões de nome</DMSE.Bench.NameCandidates>
+  <DMSE.Bench.NeedsResearch>Requer pesquisa: {0}</DMSE.Bench.NeedsResearch>
+  <DMSE.Bench.NoMaterials>Nenhum material necessário</DMSE.Bench.NoMaterials>
+  <DMSE.Bench.NotProducible>Este corpo de míssil não pode ser construído em uma bancada de montagem.</DMSE.Bench.NotProducible>
+  <DMSE.Bench.Open>Configurar montagem</DMSE.Bench.Open>
+  <DMSE.Bench.OpenDesc>Escolha o corpo do míssil e suas peças, dê um nome ao projeto e faça um pedido. Os colonos trarão os materiais e montarão os mísseis aqui.</DMSE.Bench.OpenDesc>
+  <DMSE.Bench.OrderDone>Pedido de míssil concluído: {0}.</DMSE.Bench.OrderDone>
+  <DMSE.Bench.Output.KeepOnBench>Manter na bancada</DMSE.Bench.Output.KeepOnBench>
+  <DMSE.Bench.Output.KeepOnBenchDesc>Mísseis concluídos ficam na bancada. Lançadores compatíveis os carregam diretamente dela.</DMSE.Bench.Output.KeepOnBenchDesc>
+  <DMSE.Bench.Output.SendToStorageDesc>Mísseis concluídos são retirados da bancada e transportados para o melhor local de armazenamento.</DMSE.Bench.Output.SendToStorageDesc>
+  <DMSE.Bench.OutputFull>Rack de saída cheio: retire os mísseis concluídos da bancada.</DMSE.Bench.OutputFull>
+  <DMSE.Bench.PlaceOrder>Fazer pedido</DMSE.Bench.PlaceOrder>
+  <DMSE.Bench.Progress>Míssil {0} de {1} · {2}</DMSE.Bench.Progress>
+  <DMSE.Bench.SaveDesign>Salvar projeto</DMSE.Bench.SaveDesign>
+  <DMSE.Bench.Short>curto {0}</DMSE.Bench.Short>
+  <DMSE.Bench.Size.Ballistic>Mísseis balísticos</DMSE.Bench.Size.Ballistic>
+  <DMSE.Bench.Size.Light>Mísseis leves</DMSE.Bench.Size.Light>
+  <DMSE.Bench.Size.Loitering>Munição de patrulha</DMSE.Bench.Size.Loitering>
+  <DMSE.Bench.Size.Medium>Mísseis médios</DMSE.Bench.Size.Medium>
+  <DMSE.Bench.Stat.Chaff>Carga de chaff</DMSE.Bench.Stat.Chaff>
+  <DMSE.Bench.Stat.Channels>Canais de controle de tiro</DMSE.Bench.Stat.Channels>
+  <DMSE.Bench.Stat.DamageType>Tipo de dano</DMSE.Bench.Stat.DamageType>
+  <DMSE.Bench.Stat.Guidance>Alvejamento</DMSE.Bench.Stat.Guidance>
+  <DMSE.Bench.Stat.Jam>Força de interferência</DMSE.Bench.Stat.Jam>
+  <DMSE.Bench.Stat.Loiter>Tempo de espera</DMSE.Bench.Stat.Loiter>
+  <DMSE.Bench.Stat.Radius>Raio de explosão</DMSE.Bench.Stat.Radius>
+  <DMSE.Bench.Stat.Scatter>Dispersão</DMSE.Bench.Stat.Scatter>
+  <DMSE.Bench.Stat.Signature>Assinatura de radar</DMSE.Bench.Stat.Signature>
+  <DMSE.Bench.Stat.Speed>Velocidade no mundo</DMSE.Bench.Stat.Speed>
+  <DMSE.Bench.Stat.TerminalUpdates>Atualizações terminais</DMSE.Bench.Stat.TerminalUpdates>
+  <DMSE.Bench.Stat.ThickRoof>Penetra telhado grosso</DMSE.Bench.Stat.ThickRoof>
+  <DMSE.Bench.State.Collecting>coletando materiais</DMSE.Bench.State.Collecting>
+  <DMSE.Bench.State.OutputBlocked>aguardando espaço na bancada</DMSE.Bench.State.OutputBlocked>
+  <DMSE.Bench.State.Ready>pronto para montar</DMSE.Bench.State.Ready>
+  <DMSE.Bench.State.Working>montando</DMSE.Bench.State.Working>
+  <DMSE.Bench.Summary>{0} míssil(is), cerca de {1} h de trabalho</DMSE.Bench.Summary>
+  <DMSE.Bench.Warn.NoLauncher>Nenhum lançador neste mapa aceita este míssil ainda.</DMSE.Bench.Warn.NoLauncher>
+  <DMSE.Bench.Warn.Short>Ainda não há {0} suficiente (faltam {1}); os colonos aguardarão.</DMSE.Bench.Warn.Short>
+  <DMSE.Bench.WorkTimeTip>Cerca de {0} h com o artesão mais rápido disponível (velocidade de trabalho {1}).</DMSE.Bench.WorkTimeTip>
+  <DMSE.Blockade.Engaging>A defesa aérea de {0} em {1} abriu fogo contra {2}.</DMSE.Blockade.Engaging>
+  <DMSE.Blockade.GravshipHit>{0} foi atingida pela defesa aérea de {1}. {2} estruturas a bordo foram danificadas.</DMSE.Blockade.GravshipHit>
+  <DMSE.Blockade.PodDown>{0}: um transporte foi abatido por {1}. Restam {2}.</DMSE.Blockade.PodDown>
+  <DMSE.Blockade.TransferHitLabel>Nave de transferência atingida</DMSE.Blockade.TransferHitLabel>
+  <DMSE.Blockade.TransferHitText>{0} foi atingida pela defesa aérea de {1} ao atravessar seu bloqueio. Explosões danificaram {2} locais a bordo.</DMSE.Blockade.TransferHitText>
+  <DMSE.Blueprint.Empty>Nenhum projeto salvo ainda. Use "Salvar projeto" em uma bancada de montagem.</DMSE.Blueprint.Empty>
+  <DMSE.Blueprint.Incompatible>A peça não se encaixa neste corpo: {0}</DMSE.Blueprint.Incompatible>
+  <DMSE.Blueprint.MissingDef>Definição ausente: {0}</DMSE.Blueprint.MissingDef>
+  <DMSE.Blueprint.OpenFolder>Abrir pasta</DMSE.Blueprint.OpenFolder>
+  <DMSE.Blueprint.OverwriteConfirm>Já existe um projeto com o nome "{0}". Sobrescrevê-lo?</DMSE.Blueprint.OverwriteConfirm>
+  <DMSE.Blueprint.SaveFailed>Não foi possível salvar o projeto: {0}</DMSE.Blueprint.SaveFailed>
+  <DMSE.Blueprint.Saved>Projeto salvo: {0}</DMSE.Blueprint.Saved>
+  <DMSE.Blueprint.Title>Projetos de mísseis</DMSE.Blueprint.Title>
+  <DMSE.Cannot.Reason.NoFuel>Não é possível transferir: sem combustível.</DMSE.Cannot.Reason.NoFuel>
+  <DMSE.Cannot.Reason.NoFusionCore>Não é possível transferir: núcleo de fusão não conectado.</DMSE.Cannot.Reason.NoFusionCore>
+  <DMSE.Cannot.Reason.NotInSpace>Não é possível transferir: deve estar no espaço.</DMSE.Cannot.Reason.NotInSpace>
+  <DMSE.Cannot.Reason.Null>Não é possível transferir: estado da nave inválido.</DMSE.Cannot.Reason.Null>
+  <DMSE.Cannot.Reason.TransferThruster>Não é possível transferir: propulsores de transferência {0}/{1}.</DMSE.Cannot.Reason.TransferThruster>
+  <DMSE.Card.AssembleWork>Trabalho de reconfiguração</DMSE.Card.AssembleWork>
+  <DMSE.Card.AssembleWorkDesc>Trabalho necessário para aplicar uma alteração de configuração. Afetado pela velocidade de trabalho do colono que o executa.</DMSE.Card.AssembleWorkDesc>
+  <DMSE.Card.Body>Corpo do míssil</DMSE.Card.Body>
+  <DMSE.Card.BuiltInGuidance>Nenhuma peça de guiagem instalada: usa a mira embutida no corpo.</DMSE.Card.BuiltInGuidance>
+  <DMSE.Card.ChaffDesc>Cargas de chaff e potência de interferência. No mapa-múndi, uma carga é usada sempre que o controle de fogo inimigo travar o alvo, com {0} de chance de quebrar o travamento e atrasar o próximo. As cargas não são repostas em voo. Quando interceptado em um mapa, a chance de acerto inimiga é reduzida em {1}.</DMSE.Card.ChaffDesc>
+  <DMSE.Card.ChannelsDesc>Canais de controle de fogo ocupados pelo míssil durante todo o voo. Apenas a guiagem por comando por rádio e por radar de controle de fogo precisam de suporte contínuo no solo. Buscadores autônomos e guiagem predefinida não precisam. Mísseis balísticos usam 2 canais cada; os demais usam 1.</DMSE.Card.ChannelsDesc>
+  <DMSE.Card.ChannelsPerMissile>1 por míssil (2 para balísticos)</DMSE.Card.ChannelsPerMissile>
+  <DMSE.Card.CompatibleBodies>Corpos compatíveis</DMSE.Card.CompatibleBodies>
+  <DMSE.Card.CompatibleBodiesDesc>Corpos de míssil que podem receber esta peça (devem ter o compartimento correspondente). Clique nos links abaixo para visualizá-los.</DMSE.Card.CompatibleBodiesDesc>
+  <DMSE.Card.Cost>Materiais de montagem</DMSE.Card.Cost>
+  <DMSE.Card.CostDesc>Materiais que devem ser transportados e consumidos para instalar esta peça durante um reparo/reconfiguração. As peças padrão de um corpo já estão incluídas no custo de construção. Ao remover ou substituir a peça, parte dos materiais é reembolsada conforme a taxa de reembolso do corpo.</DMSE.Card.CostDesc>
+  <DMSE.Card.Customize>Configurado em</DMSE.Card.Customize>
+  <DMSE.Card.Customize.Item>Item do míssil</DMSE.Card.Customize.Item>
+  <DMSE.Card.Customize.Launcher>Plataforma de lançamento</DMSE.Card.Customize.Launcher>
+  <DMSE.Card.Customize.None>Não configurável</DMSE.Card.Customize.None>
+  <DMSE.Card.Customize.StorageBuilding>Edifício de armazenamento</DMSE.Card.Customize.StorageBuilding>
+  <DMSE.Card.CustomizeDesc.Item>Selecione o item do míssil e altere as peças em sua aba Montagem. Após confirmar, os colonos trarão os materiais e farão o trabalho. Também é possível encomendar sua construção sob medida em uma bancada de montagem de mísseis.</DMSE.Card.CustomizeDesc.Item>
+  <DMSE.Card.CustomizeDesc.Launcher>Sem forma de item: escolha o corpo e configure as peças diretamente na plataforma de lançamento.</DMSE.Card.CustomizeDesc.Launcher>
+  <DMSE.Card.CustomizeDesc.None>Configuração fixa. As peças não podem ser alteradas.</DMSE.Card.CustomizeDesc.None>
+  <DMSE.Card.CustomizeDesc.StorageBuilding>As peças são alteradas em um edifício de armazenamento dedicado, consumindo recursos.</DMSE.Card.CustomizeDesc.StorageBuilding>
+  <DMSE.Card.DamageDesc>Dano e tipo de dano da explosão principal no ponto de impacto. Peças de ogiva podem adicionar ou remover dano e alterar o tipo de dano.</DMSE.Card.DamageDesc>
+  <DMSE.Card.DamageTypeDesc>Substitui o tipo de dano da explosão principal.</DMSE.Card.DamageTypeDesc>
+  <DMSE.Card.EmptySlotDesc>Nenhuma peça instalada nesta ranhura.</DMSE.Card.EmptySlotDesc>
+  <DMSE.Card.Fuel>Combustível</DMSE.Card.Fuel>
+  <DMSE.Card.FuelImpulseDesc>O alcance é aproximadamente combustível × impulso específico × fator de conversão do corpo, portanto, ambos aumentam o alcance.</DMSE.Card.FuelImpulseDesc>
+  <DMSE.Card.Guidance.ActiveRadar>Dispara e esquece: focaliza primeiro a maior construção inimiga, depois a maior criatura inimiga. Se não houver nenhum, recorre ao sistema de orientação inercial.</DMSE.Card.Guidance.ActiveRadar>
+  <DMSE.Card.Guidance.AntiRadiation>Trava no radar inimigo ativo com maior nível de potência (em caso de empate, aquele que consome mais energia). Equipamentos puramente passivos de alerta são ignorados.</DMSE.Card.Guidance.AntiRadiation>
+  <DMSE.Card.Guidance.AntiRadiationFallback>Sem radar ativo, mira na construção inimiga energizada que consome mais eletricidade; caso contrário, recorre à guiagem inercial.</DMSE.Card.Guidance.AntiRadiationFallback>
+  <DMSE.Card.Guidance.AntiRadiationNoFallback>Sem radar ativo, não escolhe outro alvo. Com controle de voo em espera aérea, pode pairar até que um radar seja ligado.</DMSE.Card.Guidance.AntiRadiationNoFallback>
+  <DMSE.Card.Guidance.AntiShip>Projetado para alvos móveis no mapa-múndi (naves, bases móveis): a trajetória de voo corrige com mais frequência, com {0} atualizações terminais extras. Ao chegar, atinge primeiro a construção inimiga mais resistente e, depois, a maior criatura inimiga.</DMSE.Card.Guidance.AntiShip>
+  <DMSE.Card.Guidance.ElectromagneticSignal>Trava na construção inimiga energizada que consome mais eletricidade. Recorre à guiagem inercial se nada estiver energizado.</DMSE.Card.Guidance.ElectromagneticSignal>
+  <DMSE.Card.Guidance.FireControl>Principalmente para interceptação antiaérea, guiado pela iluminação do radar de controle de fogo. Contra alvos terrestres, mira inertialmente. Ocupa um canal de controle de fogo durante todo o voo.</DMSE.Card.Guidance.FireControl>
+  <DMSE.Card.Guidance.HeatSource>Trava na sala fechada mais quente, pelo menos {0} mais quente que o exterior. Caso contrário, mira na maior criatura (incluindo animais selvagens; o atacante e seus aliados são excluídos). Se não houver nenhum, recorre à guiagem inercial.</DMSE.Card.Guidance.HeatSource>
+  <DMSE.Card.Guidance.Imaging>Focaliza apenas em criaturas inimigas ao ar livre (não sob telhado), preferindo maior poder de combate e, depois, maior tamanho corporal. Se não houver alvos, recorre ao sistema de orientação inercial.</DMSE.Card.Guidance.Imaging>
+  <DMSE.Card.Guidance.Inertial>Não busca alvos: o impacto é disperso aleatoriamente ao redor do centro do mapa-alvo e nunca trava em construções ou criaturas.</DMSE.Card.Guidance.Inertial>
+  <DMSE.Card.Guidance.Laser>Trava na designação a laser mais recente feita pelo seu lado no mapa-alvo. Recorre à guiagem inercial se não houver nenhuma.</DMSE.Card.Guidance.Laser>
+  <DMSE.Card.Guidance.RadioCommand>A estação terrestre envia correções contínuas. Contra alvos terrestres, mira inertialmente. Ocupa um canal de controle de fogo durante todo o voo.</DMSE.Card.Guidance.RadioCommand>
+  <DMSE.Card.Guidance.TV>Ao lançá-lo, o jogo pausa na chegada e você escolhe livremente o ponto de impacto. Lançamentos inimigos não têm operador e usam guiagem inercial.</DMSE.Card.Guidance.TV>
+  <DMSE.Card.Impulse>Impulso específico</DMSE.Card.Impulse>
+  <DMSE.Card.Intercept>Fator de acerto na interceptação</DMSE.Card.Intercept>
+  <DMSE.Card.InterceptBonus>Bônus da ogiva: chance de acerto +{0}</DMSE.Card.InterceptBonus>
+  <DMSE.Card.InterceptDesc>Quando disparado como interceptador, multiplica a chance de acerto calculada pelo radar de controle de fogo (tanto no mapa local quanto no mapa-múndi).</DMSE.Card.InterceptDesc>
+  <DMSE.Card.InterceptRolls>Rolagens extras de interceptação: {0} (pode atingir outros alvos na mesma onda)</DMSE.Card.InterceptRolls>
+  <DMSE.Card.Item>Item do míssil</DMSE.Card.Item>
+  <DMSE.Card.LaunchMode>Modo de lançamento</DMSE.Card.LaunchMode>
+  <DMSE.Card.LaunchMode.Both>Inclinado ou vertical</DMSE.Card.LaunchMode.Both>
+  <DMSE.Card.LaunchMode.Tilt>Lançamento inclinado</DMSE.Card.LaunchMode.Tilt>
+  <DMSE.Card.LaunchMode.Vertical>Lançamento vertical</DMSE.Card.LaunchMode.Vertical>
+  <DMSE.Card.LaunchModeDesc>Determina quais plataformas de lançamento podem carregar este míssil. Lançadores inclinados podem girar e podem ser construídos em gravinaves. Lançadores verticais têm uma única direção e não podem ser construídos em gravinaves. O modo de lançamento não altera as estatísticas de voo.</DMSE.Card.LaunchModeDesc>
+  <DMSE.Card.LoiterOnlyLoitering>Apenas munições em espera aérea podem pairar. Corpos com essa peça, mas sem essa função, não o fazem.</DMSE.Card.LoiterOnlyLoitering>
+  <DMSE.Card.LoiterRetry>Durante a espera aérea, o buscador faz uma nova busca a cada {0}. Defesas terminais ainda podem engajá-lo nesse período.</DMSE.Card.LoiterRetry>
+  <DMSE.Card.ModifierDesc>Adicionado ao valor base do corpo.</DMSE.Card.ModifierDesc>
+  <DMSE.Card.NGroup>N = {0} ({1})</DMSE.Card.NGroup>
+  <DMSE.Card.NoGuidance>Sem guiagem</DMSE.Card.NoGuidance>
+  <DMSE.Card.PartSlot>Compartimento de peça</DMSE.Card.PartSlot>
+  <DMSE.Card.PartSlotDesc>O compartimento onde esta peça será instalada. Cada compartimento comporta uma peça; instalar esta substituirá a peça atual.</DMSE.Card.PartSlotDesc>
+  <DMSE.Card.Payload.AirburstTungsten>O alcance torna-se {0}. Toda criatura dentro do raio {1} recebe (tamanho corporal arredondado para cima + 1) acertos de {2} de dano perfurante ({3} de penetração de armadura).</DMSE.Card.Payload.AirburstTungsten>
+  <DMSE.Card.Payload.Antiparticle>Uma explosão vaporizante com raio {0} e {1} de dano no ponto de impacto.</DMSE.Card.Payload.Antiparticle>
+  <DMSE.Card.Payload.BunkerBuster>Penetra tetos grossos e trava alvos sob eles. Detona internamente com raio {0} e {1} de dano ({2} de penetração de armadura) e causa {4} de dano estrutural extra a construções dentro de {3} células do centro.</DMSE.Card.Payload.BunkerBuster>
+  <DMSE.Card.Payload.Cluster>Espalha {1} sub-explosões dentro de {0} células, cada uma com raio {2} e {3} de dano.</DMSE.Card.Payload.Cluster>
+  <DMSE.Card.Payload.Defoliant>Cada planta dentro de {0} células tem {1} de chance de morrer.</DMSE.Card.Payload.Defoliant>
+  <DMSE.Card.Payload.EMP>Uma explosão EMP com raio {0} e {1} de dano no ponto de impacto: desativa eletrônicos e atordoa mecanoides.</DMSE.Card.Payload.EMP>
+  <DMSE.Card.Payload.Extra>Uma explosão extra com raio {0} e {1} de dano ({2}).</DMSE.Card.Payload.Extra>
+  <DMSE.Card.Payload.FireFoam>Apaga incêndios dentro de {0} células e cobre a área com espuma antichamas.</DMSE.Card.Payload.FireFoam>
+  <DMSE.Card.Payload.HighExplosive>Uma explosão extra com raio {0} e {1} de dano no ponto de impacto.</DMSE.Card.Payload.HighExplosive>
+  <DMSE.Card.Payload.Spawn>Solta {0} × {1} ({2} de chance).</DMSE.Card.Payload.Spawn>
+  <DMSE.Card.Payload.ToxicGas>Inunda todas as células dentro de {0} células com gás tóxico.</DMSE.Card.Payload.ToxicGas>
+  <DMSE.Card.PayloadCapacity>Capacidade de carga útil N</DMSE.Card.PayloadCapacity>
+  <DMSE.Card.PayloadCapacityDesc>Definida pelo corpo. A área, a quantidade e a força de todas as ogivas e efeitos de carga útil escalam com N (por exemplo, uma ogiva incendiária incendeia tudo dentro de N células), tornando a mesma peça mais poderosa em corpos maiores.</DMSE.Card.PayloadCapacityDesc>
+  <DMSE.Card.PayloadEffect>Efeito da carga útil</DMSE.Card.PayloadEffect>
+  <DMSE.Card.Platforms>Plataformas de lançamento</DMSE.Card.Platforms>
+  <DMSE.Card.PlatformsDesc>Plataformas de lançamento que podem carregar este míssil, com base nas configurações fixas de armazenamento de cada plataforma. Clique nos links abaixo para visualizá-las.</DMSE.Card.PlatformsDesc>
+  <DMSE.Card.RadiusDesc>Raio da explosão principal, em células. Os efeitos da ogiva e da carga útil usam a capacidade de carga N para sua própria área e não são afetados por este valor.</DMSE.Card.RadiusDesc>
+  <DMSE.Card.RangeDesc>Distância máxima de ataque no mapa-múndi.\nAlcance = (combustível × impulso específico × fator de conversão + bônus fixo + alcance da ogiva) × fator de carga útil\n\nCombustível: {0}\nImpulso específico: {1}\nFator de conversão: {2}\nBônus fixo: {3}\nAlcance da ogiva: {4}\nFator de carga útil: {5}\n\nResultado: {6}</DMSE.Card.RangeDesc>
+  <DMSE.Card.RangeTiles>{0} blocos</DMSE.Card.RangeTiles>
+  <DMSE.Card.Refund>Reembolso por remoção</DMSE.Card.Refund>
+  <DMSE.Card.RefundDesc>Proporção dos materiais da peça devolvida ao removê-la ou substituí-la.</DMSE.Card.RefundDesc>
+  <DMSE.Card.RequiresLoitering>Apenas para munições de patrulha.</DMSE.Card.RequiresLoitering>
+  <DMSE.Card.Research>Pesquisa necessária</DMSE.Card.Research>
+  <DMSE.Card.ResearchDesc>Pode ser selecionado assim que estes projetos de pesquisa forem concluídos.</DMSE.Card.ResearchDesc>
+  <DMSE.Card.ScaledByN>Os valores acima são para capacidade de carga útil N = {0}.</DMSE.Card.ScaledByN>
+  <DMSE.Card.ScaledByNGroups>O efeito escala com a capacidade de carga útil N do corpo:</DMSE.Card.ScaledByNGroups>
+  <DMSE.Card.ScatterDesc>Raio de deslocamento aleatório do ponto de impacto em relação ao ponto de mira, em células. Peças de guiagem reduzem esse raio. A guia inercial apresenta o maior desvio.</DMSE.Card.ScatterDesc>
+  <DMSE.Card.SignatureDesc>Multiplica o nível de alcance de detecção do rastreamento no mapa-múndi. Acima de 1, o míssil é detectado mais cedo e atrai defesas antiaéreas que usam avaliação de ameaça (isca). Abaixo de 1, é detectado mais tarde (penetração).</DMSE.Card.SignatureDesc>
+  <DMSE.Card.SizeClass>Classe de tamanho</DMSE.Card.SizeClass>
+  <DMSE.Card.SizeClassDesc.Ballistic>Míssil balístico: ataque de longo alcance. Apenas lançamento vertical e não pode ser construído em uma gravinave. É construído e configurado diretamente no silo de lançamento.</DMSE.Card.SizeClassDesc.Ballistic>
+  <DMSE.Card.SizeClassDesc.Light>Míssil leve: defesa aérea ou ataque terrestre de curto a médio alcance, carregado em lançadores de múltiplos disparos.</DMSE.Card.SizeClassDesc.Light>
+  <DMSE.Card.SizeClassDesc.Loitering>Munição de patrulha: a primeira arma além do alcance visual. Lançamento inclinado e permitida em gravinaves. É lenta, mas sua pequena assinatura de radar a torna detectada mais tarde.</DMSE.Card.SizeClassDesc.Loitering>
+  <DMSE.Card.SizeClassDesc.Medium>Míssil médio: missões de cruzeiro ou antibalísticas. As peças podem ser personalizadas no item ou em um suporte de armazenamento.</DMSE.Card.SizeClassDesc.Medium>
+  <DMSE.Card.Slots>Ranhuras de peças</DMSE.Card.Slots>
+  <DMSE.Card.SlotsDesc>As ranhuras de peças que este corpo oferece. Cada ranhura comporta no máximo uma peça. Ranhuras que o corpo não possui não podem ser usadas.</DMSE.Card.SlotsDesc>
+  <DMSE.Card.SpeedDesc>Multiplicador de velocidade de voo no mapa-múndi. Mísseis mais rápidos dão menos tempo para as defesas antiaéreas inimigas atuarem.</DMSE.Card.SpeedDesc>
+  <DMSE.Card.SpreadNote>Uma salva de mísseis com o mesmo tipo de buscador distribui seus travamentos entre alvos diferentes, ao invés de todos atingirem o mesmo.</DMSE.Card.SpreadNote>
+  <DMSE.Card.TargetAuto>Travamento automático</DMSE.Card.TargetAuto>
+  <DMSE.Card.TargetManual>Escolhido pelo jogador</DMSE.Card.TargetManual>
+  <DMSE.Card.TargetSelection>Ponto de impacto</DMSE.Card.TargetSelection>
+  <DMSE.Card.TerminalGuidance>Guiagem terminal</DMSE.Card.TerminalGuidance>
+  <DMSE.Card.TerminalGuidanceNo>Sem guiagem terminal: não pode atacar entre camadas do mapa nem rastrear alvos móveis.</DMSE.Card.TerminalGuidanceNo>
+  <DMSE.Card.TerminalGuidanceYes>Fornece guiagem terminal: pode atacar entre camadas do mapa e rastrear alvos móveis usando as correções terminais do corpo.</DMSE.Card.TerminalGuidanceYes>
+  <DMSE.Card.TerminalUpdatesDesc>Com guiagem terminal, quantas vezes o míssil pode corrigir seu ponto de impacto para a nova posição do alvo em voo (contagem base do corpo mais bônus do buscador). Quando acabam, ele voa até a última posição conhecida e erra se o alvo já se moveu.</DMSE.Card.TerminalUpdatesDesc>
+  <DMSE.Card.ThickRoofDesc>Mísseis que penetram tetos grossos atravessam a rocha antes de detonar, e seus buscadores também travam alvos sob tetos grossos. Outros mísseis que atingem um teto grosso só explodem na superfície da rocha.</DMSE.Card.ThickRoofDesc>
+  <DMSE.Card.TracksMobile>Projetado para alvos móveis no mapa-múndi: a trajetória é reajustada com mais frequência.</DMSE.Card.TracksMobile>
+  <DMSE.Card.Unlimited>Ilimitado</DMSE.Card.Unlimited>
+  <DMSE.Card.Warhead.Airburst>Contra alvos terrestres: uma explosão extra com raio {0} e {1} de dano no ponto de impacto. Como interceptador: {2} rolagens extras independentes de interceptação (N ÷ 5, arredondado para baixo) que podem atingir outros alvos na mesma onda.</DMSE.Card.Warhead.Airburst>
+  <DMSE.Card.Warhead.AnimalBerserk>Todos os animais no mapa-alvo entram em frenesi imediatamente.</DMSE.Card.Warhead.AnimalBerserk>
+  <DMSE.Card.Warhead.ClusterBomblets>Libera {0} submunições físicas ({1}) que caem dentro de {2} células. As submunições voam e podem atingir qualquer um em seu caminho.</DMSE.Card.Warhead.ClusterBomblets>
+  <DMSE.Card.Warhead.ClusterGoodwill>Quando disparado pelo jogador, cada colono de uma facção não hostil na área de dispersão custa {0} de boa vontade com essa facção.</DMSE.Card.Warhead.ClusterGoodwill>
+  <DMSE.Card.Warhead.ContinuousRod>Quando usado como interceptador: chance de acerto +{0} (N × 5%). Sem efeito extra contra alvos terrestres.</DMSE.Card.Warhead.ContinuousRod>
+  <DMSE.Card.Warhead.EMP>Ignora linha de visão. Uma explosão EMP com raio {0} e {1} de dano desativa eletrônicos e mecanoides.</DMSE.Card.Warhead.EMP>
+  <DMSE.Card.Warhead.ExtendedFuel>Alcance +{0} blocos (N × 2). Sem efeito extra no ponto de impacto.</DMSE.Card.Warhead.ExtendedFuel>
+  <DMSE.Card.Warhead.Incendiary>Ignora linha de visão e incendeia tudo dentro de {0} células do ponto de impacto.</DMSE.Card.Warhead.Incendiary>
+  <DMSE.Card.Warhead.KineticBlades>Quase sem explosão: atinge a criatura mais próxima dentro de 3 células do ponto de impacto com {0} lâminas, cada uma causando {1} de dano cortante.</DMSE.Card.Warhead.KineticBlades>
+  <DMSE.Card.Warhead.Thermobaric>Toda criatura dentro do raio {0} recebe {1} de dano por queimadura, e cada célula tem {2} de chance de pegar fogo. Mais eficaz em ambientes fechados.</DMSE.Card.Warhead.Thermobaric>
+  <DMSE.Card.Warhead.TungstenPenetrator>Penetra tetos grossos e trava alvos sob eles. Após a explosão principal, uma explosão extra com raio 2 e {0} de dano atinge o ponto de impacto.</DMSE.Card.Warhead.TungstenPenetrator>
+  <DMSE.Card.WarheadEffect>Efeito da ogiva</DMSE.Card.WarheadEffect>
+  <DMSE.Disabled.DestinationOccupied>Não é possível transferir: destino ocupado.</DMSE.Disabled.DestinationOccupied>
+  <DMSE.Disabled.TargetedSurface>Não é possível transferir: o destino deve estar no espaço.</DMSE.Disabled.TargetedSurface>
+  <DMSE.FieldLaunchSite.ArrivedLetter>Seus colonos chegaram a uma posição de lançamento de campo inimiga. Um radar de busca está no centro, com posições de lançamento, transportadores de munição e abrigos da tripulação ao redor. Cápsulas de suprimentos mantêm a guarnição abastecida enquanto qualquer radar estiver operacional; destruir todos os lançadores neutraliza a posição.</DMSE.FieldLaunchSite.ArrivedLetter>
+  <DMSE.FieldLaunchSite.SpawnedLetter>{0} implantou uma posição de lançamento de mísseis de campo {3} blocos a {2} de {1}. Seus lançadores podem atacar sua colônia; cápsulas de suprimentos manterão sua guarnição abastecida enquanto seus radares estiverem em operação.\n\nDestrua todos os lançadores para neutralizá-la, ou derrube seus radares para cortar seus suprimentos.</DMSE.FieldLaunchSite.SpawnedLetter>
+  <DMSE.Flight.Impact>Voo de impacto</DMSE.Flight.Impact>
+  <DMSE.Flight.Impact.Confirm>Mesmo enquanto o console de navegação pisca avisos em vermelho, ele ainda mostra um perfil de aceleração viável.\n\nAo ativar o protocolo de impacto forçado, o núcleo de fusão produzirá potência máxima em condições de sobrecarga, permitindo que os motores térmico-nucleares acelerem esta nave em direção ao planeta com impulso máximo e colidam com a superfície.\n\nIsso transformará tanto a nave quanto seu momento em uma arma cinética eficaz de alto rendimento, causando danos irreversíveis ao planeta.\n\n\n\nTem certeza de que deseja prosseguir?</DMSE.Flight.Impact.Confirm>
+  <DMSE.Flight.Impact.Header>Seus colonos sabem que esta é uma opção real, mas não uma sábia.</DMSE.Flight.Impact.Header>
+  <DMSE.Flight.ImpactHard>Voo de impacto forçado</DMSE.Flight.ImpactHard>
+  <DMSE.Flight.Regular>Voo regular</DMSE.Flight.Regular>
+  <DMSE.Flight.Select>Selecionar modo de voo</DMSE.Flight.Select>
+  <DMSE.Flight.Select.Desc>Um módulo de voo válido está instalado nesta nave. Escolha um modo de voo:</DMSE.Flight.Select.Desc>
+  <DMSE.Flight.ShowAdvanced>Mostrar opções avançadas</DMSE.Flight.ShowAdvanced>
+  <DMSE.Flight.Transfer>Voo de transferência</DMSE.Flight.Transfer>
+  <DMSE.Guidance.AutoTarget>{0}: trava um alvo automaticamente na chegada</DMSE.Guidance.AutoTarget>
+  <DMSE.Guidance.Inertial>guiagem inercial</DMSE.Guidance.Inertial>
+  <DMSE.Guidance.ManualTarget>{0}: você escolhe o ponto de impacto na chegada</DMSE.Guidance.ManualTarget>
+  <DMSE.Guidance.RadioCommand>guiagem por comando de rádio</DMSE.Guidance.RadioCommand>
+  <DMSE.Impact.Ending.Aboard>Talvez nunca saibamos se a tripulação a bordo da gravinave escapou no último momento, ou se desapareceu completamente no impacto.</DMSE.Impact.Ending.Aboard>
+  <DMSE.Impact.Ending.FleetFailed.Intro>A gravinave cortou o céu deixando um rastro incandescente, carregando uma massa imensa em direção ao solo. O horizonte se transformou em luz e violentas ondas de choque se seguiram, tornando-se tempestades e terremotos que varreram a superfície do planeta. Em pouco tempo, inúmeras vidas e paisagens foram apagadas neste impacto apocalíptico.</DMSE.Impact.Ending.FleetFailed.Intro>
+  <DMSE.Impact.Ending.FleetFailed.Outro>Após avaliar os danos, o comando da frota colonial só pôde evacuar os sobreviventes da superfície. O custo projetado para a terraformação forçou a frota a abandonar o desenvolvimento deste planeta. Seja qual for o propósito por trás disso, tanto a frota quanto este mundo lembrarão deste impacto para sempre.</DMSE.Impact.Ending.FleetFailed.Outro>
+  <DMSE.Impact.Ending.Intro>A gravinave cortou o céu deixando um rastro incandescente, carregando uma massa imensa em direção ao solo. O horizonte se transformou em luz e violentas ondas de choque se seguiram, tornando-se tempestades e terremotos que varreram a superfície do planeta. Em pouco tempo, inúmeras vidas e paisagens foram apagadas neste impacto apocalíptico.</DMSE.Impact.Ending.Intro>
+  <DMSE.Impact.Ending.Outro>Felizmente, esta não foi a potência máxima que os motores térmico-nucleares poderiam produzir. Após o desastre, a maioria das pessoas na superfície sobreviveu. Seja qual for o propósito por trás disso, este impacto será lembrado para sempre na história deste mundo.</DMSE.Impact.Ending.Outro>
+  <DMSE.Impact.Planetkiller.Ending.Aboard>Ninguém poderia sobreviver a um cataclismo desta magnitude.</DMSE.Impact.Planetkiller.Ending.Aboard>
+  <DMSE.Impact.Planetkiller.Ending.Intro>A gravinave cortou o céu, com todos os motores termonucleares rugindo com uma força avassaladora, antes de cravar sua massa colossal no solo. Uma parede de crosta em elevação se ergueu no horizonte e a onda de choque superaquecida que se seguiu tornou-se um mar de fogo que varreu a superfície do planeta.</DMSE.Impact.Planetkiller.Ending.Intro>
+  <DMSE.Impact.Planetkiller.Ending.Outro>Este foi o fogo celestial, um julgamento supremo que, segundo os textos sagrados, pertence apenas aos deuses.\n\nSeja qual for o propósito por trás disso, este mundo talvez não recupere vida por cem anos.</DMSE.Impact.Planetkiller.Ending.Outro>
+  <DMSE.LaserMark.Inspect>Designado por: {0}\nExpira em: {1}</DMSE.LaserMark.Inspect>
+  <DMSE.LaserMark.InspectPermanent>Designado por: {0}</DMSE.LaserMark.InspectPermanent>
+  <DMSE.LaserMark.Placed>Designação a laser posicionada. Expira em {0}.</DMSE.LaserMark.Placed>
+  <DMSE.LaserMark.PlacedPermanent>Designação a laser posicionada.</DMSE.LaserMark.PlacedPermanent>
+  <DMSE.Letter.HuntdownThreat.Label>Caçada</DMSE.Letter.HuntdownThreat.Label>
+  <DMSE.Letter.HuntdownThreat.Text>{0} quer você morto.</DMSE.Letter.HuntdownThreat.Text>
+  <DMSE.ManPortableSAM.CannotIntercept>A próxima munição carregada é {0}, que não pode interceptar. Dispare-a contra um alvo terrestre primeiro.</DMSE.ManPortableSAM.CannotIntercept>
+  <DMSE.ManPortableSAM.Fire>disparar MANSAM</DMSE.ManPortableSAM.Fire>
+  <DMSE.ManPortableSAM.FireDesc>Trave um alvo inimigo em aproximação que sua rede de radar esteja rastreando neste mapa e dispare um míssil terra-ar leve contra ele. Quem empunha fica parado durante o travamento; nenhum canal de controle de tiro é usado.\n\nMísseis carregados: {0}</DMSE.ManPortableSAM.FireDesc>
+  <DMSE.ManPortableSAM.NoTargets>Nenhum alvo em aproximação rastreado pelo radar está ao alcance.</DMSE.ManPortableSAM.NoTargets>
+  <DMSE.ManPortableSAM.NotReady>Quem empunha não pode disparar no momento.</DMSE.ManPortableSAM.NotReady>
+  <DMSE.ManPortableSAM.TargetLost>O alvo sumiu ou já está sendo interceptado por outro interceptador.</DMSE.ManPortableSAM.TargetLost>
+  <DMSE.ManPortableSAM.TargetOption>{0} (chega em {1}, chance de acerto {2})</DMSE.ManPortableSAM.TargetOption>
+  <DMSE.Missile.AssemblyQueued>Montagem na fila: os colonos iniciarão em breve</DMSE.Missile.AssemblyQueued>
+  <DMSE.Missile.Body>Corpo do míssil</DMSE.Missile.Body>
+  <DMSE.Missile.BodyFixed>consertado pela plataforma de lançamento</DMSE.Missile.BodyFixed>
+  <DMSE.Missile.Cat.Guidance>Guiagem</DMSE.Missile.Cat.Guidance>
+  <DMSE.Missile.Cat.Payload>Carga útil</DMSE.Missile.Cat.Payload>
+  <DMSE.Missile.Cat.Propulsion>Propulsão</DMSE.Missile.Cat.Propulsion>
+  <DMSE.Missile.Cat.Warhead>Ogiva</DMSE.Missile.Cat.Warhead>
+  <DMSE.Missile.ConfirmAssembly>Colocar na fila de montagem</DMSE.Missile.ConfirmAssembly>
+  <DMSE.Missile.CrossLayerNeedsGuidance>Atacar alvos entre camadas orbitais requer um míssil guiado. Guiagem inercial e munições não guiadas não são capazes disso.</DMSE.Missile.CrossLayerNeedsGuidance>
+  <DMSE.Missile.DesignNameLabel>{0} "{1}"</DMSE.Missile.DesignNameLabel>
+  <DMSE.Missile.EditingSlot>Editando míssil 1 de {0} no compartimento</DMSE.Missile.EditingSlot>
+  <DMSE.Missile.GodModeInstant>Modo Deus: as alterações são montadas de uma vez, gratuitamente e sem pesquisa.</DMSE.Missile.GodModeInstant>
+  <DMSE.Missile.IncomingLetter>Míssil a caminho</DMSE.Missile.IncomingLetter>
+  <DMSE.Missile.IncomingLetterDesc>Um míssil lançado por {0} está vindo em direção à colônia e atingirá em breve.</DMSE.Missile.IncomingLetterDesc>
+  <DMSE.Missile.IncomingMissed>Um míssil lançado por {0} perdeu seu alvo e errou.</DMSE.Missile.IncomingMissed>
+  <DMSE.Missile.Inspect>Corpo: {0}\nOgiva: {1}\nExplosão: {2} / {3} de dano</DMSE.Missile.Inspect>
+  <DMSE.Missile.Locked>travado</DMSE.Missile.Locked>
+  <DMSE.Missile.Loitering>O buscador não encontrou alvo: o míssil está sobrevoando e aguardará {0} antes de voltar ao voo inercial.</DMSE.Missile.Loitering>
+  <DMSE.Missile.Missed>Nosso míssil não encontrou alvo e foi desperdiçado.</DMSE.Missile.Missed>
+  <DMSE.Missile.NeedResources>Necessário (para montagem): {0}</DMSE.Missile.NeedResources>
+  <DMSE.Missile.NoRackAvailable>Nenhum compartimento de mísseis com mísseis compatíveis encontrado</DMSE.Missile.NoRackAvailable>
+  <DMSE.Missile.NoResources>Sem recursos disponíveis para montar</DMSE.Missile.NoResources>
+  <DMSE.Missile.None>Nenhum</DMSE.Missile.None>
+  <DMSE.Missile.ReadyToAssemble>Recursos prontos: confirme para iniciar a montagem</DMSE.Missile.ReadyToAssemble>
+  <DMSE.Missile.ResetToCurrent>Restaurar para configuração montada</DMSE.Missile.ResetToCurrent>
+  <DMSE.Missile.SeekerLocked>{0} travou em um alvo. O míssil está descendo.</DMSE.Missile.SeekerLocked>
+  <DMSE.Missile.Settings.GodModeInstantAssembly>Modo Deus: montagem instantânea de mísseis</DMSE.Missile.Settings.GodModeInstantAssembly>
+  <DMSE.Missile.Settings.GodModeInstantAssemblyDesc>Com o modo Deus ativado, a reconfiguração de mísseis e silos balísticos termina imediatamente: sem confirmação, sem transporte ou trabalho de montagem e sem consumo de recursos. As peças estão disponíveis sem pesquisa. Peças removidas não são reembolsadas.</DMSE.Missile.Settings.GodModeInstantAssemblyDesc>
+  <DMSE.Missile.Stat.Chaff>Chaff: {0} cargas (força de interferência {1})</DMSE.Missile.Stat.Chaff>
+  <DMSE.Missile.Stat.Damage>Ogiva: {0} ({1})</DMSE.Missile.Stat.Damage>
+  <DMSE.Missile.Stat.Fuel>Combustível: {0}</DMSE.Missile.Stat.Fuel>
+  <DMSE.Missile.Stat.Impulse>Impulso específico: {0}</DMSE.Missile.Stat.Impulse>
+  <DMSE.Missile.Stat.Loiter>Controle em espera: aguarda até {0} antes de retornar ao voo inercial</DMSE.Missile.Stat.Loiter>
+  <DMSE.Missile.Stat.NoTerminalGuidance>Não guiado: não pode rastrear alvos em movimento nem atingir alvos entre camadas orbitais</DMSE.Missile.Stat.NoTerminalGuidance>
+  <DMSE.Missile.Stat.Radius>Raio de explosão: {0}</DMSE.Missile.Stat.Radius>
+  <DMSE.Missile.Stat.Range>Alcance: {0} quadrados</DMSE.Missile.Stat.Range>
+  <DMSE.Missile.Stat.Scatter>Dispersão de impacto: {0}</DMSE.Missile.Stat.Scatter>
+  <DMSE.Missile.Stat.Signature>Assinatura de radar: ×{0}</DMSE.Missile.Stat.Signature>
+  <DMSE.Missile.Stat.Speed>Velocidade de voo: x{0}</DMSE.Missile.Stat.Speed>
+  <DMSE.Missile.Stat.TerminalGuidance>Guiado: pode atualizar sua posição-alvo {0} vez(es) em voo e atingir alvos entre camadas orbitais</DMSE.Missile.Stat.TerminalGuidance>
+  <DMSE.Missile.Stats>Atributos pendentes (após montagem)</DMSE.Missile.Stats>
+  <DMSE.Missile.Tab>Montagem</DMSE.Missile.Tab>
+  <DMSE.Missile.TerminalUpdatesRemaining>Atualizações terminais restantes: {0} / {1}</DMSE.Missile.TerminalUpdatesRemaining>
+  <DMSE.MissileBase.ArrivedLetter>Seus colonos chegaram a uma posição de lançamento de mísseis. O inimigo implantou radares de controle de fogo e veículos lançadores aqui, atacando continuamente colônias próximas. Destruir todos os radares neutralizará sua capacidade de ataque.</DMSE.MissileBase.ArrivedLetter>
+  <DMSE.MissileBase.Destroyed>Posição de mísseis destruída</DMSE.MissileBase.Destroyed>
+  <DMSE.MissileBase.DestroyedDesc>Seus colonos destruíram todos os radares e instalações de lançamento nesta posição de mísseis inimiga. A ameaça de mísseis desta posição foi neutralizada.</DMSE.MissileBase.DestroyedDesc>
+  <DMSE.MissileBase.LocalMonitoring>Posição detectada (mapa local sob observação)</DMSE.MissileBase.LocalMonitoring>
+  <DMSE.MissileBase.NextFireIn>Próximo ataque de mísseis em: {0}</DMSE.MissileBase.NextFireIn>
+  <DMSE.MissileBase.RackResupply>Reabastecimento de mísseis inimigo: {1} mísseis entregues para {0} lançadores vazios. A tripulação irá carregá-los em breve.</DMSE.MissileBase.RackResupply>
+  <DMSE.MissileBase.ReentryBlocked>Acesso negado: inimigos reagrupando ({0})</DMSE.MissileBase.ReentryBlocked>
+  <DMSE.MissileBase.ReentryBlockedIn>Acesso ao solo negado: inimigos reagrupando ({0})</DMSE.MissileBase.ReentryBlockedIn>
+  <DMSE.MissileBase.Relocated>Posição de mísseis reposicionada</DMSE.MissileBase.Relocated>
+  <DMSE.MissileBase.RelocatedDesc>Uma posição de lançamento de mísseis inimiga concluiu sua missão de ataque e se reposicionou para evitar contra-ataques.</DMSE.MissileBase.RelocatedDesc>
+  <DMSE.MissileBase.RelocationIn>Reposicionamento da posição em: {0}</DMSE.MissileBase.RelocationIn>
+  <DMSE.MissileBase.SiteDesc>Uma posição móvel de lançamento de mísseis balísticos táticos equipada com radar de controle de fogo e lançadores de mísseis. A posição se reposicionará após concluir sua missão.</DMSE.MissileBase.SiteDesc>
+  <DMSE.MissileBase.SupplyDrop>Entrega de suprimentos inimiga: {0} ×{1}</DMSE.MissileBase.SupplyDrop>
+  <DMSE.MissileInventory.Count>Carregados: {0} / {1}</DMSE.MissileInventory.Count>
+  <DMSE.MissileInventory.Empty>Nenhum míssil carregado.</DMSE.MissileInventory.Empty>
+  <DMSE.MissileInventory.Feature.Chaff>Cargas de chaff / fitas: {0}.</DMSE.MissileInventory.Feature.Chaff>
+  <DMSE.MissileInventory.Feature.ExtraRolls>Rolagens adicionais de interceptação por engajamento: {0}</DMSE.MissileInventory.Feature.ExtraRolls>
+  <DMSE.MissileInventory.Feature.Guidance>Raio de dispersão: {0} quadrados; atualizações de posição terminal: {1}; {2}</DMSE.MissileInventory.Feature.Guidance>
+  <DMSE.MissileInventory.Feature.Guided>A guiagem terminal pode atualizar a posição-alvo em voo.</DMSE.MissileInventory.Feature.Guided>
+  <DMSE.MissileInventory.Feature.InterceptBonus>Bônus de chance de interceptação: {0}%</DMSE.MissileInventory.Feature.InterceptBonus>
+  <DMSE.MissileInventory.Feature.Jamming>Força de interferência: {0}%.</DMSE.MissileInventory.Feature.Jamming>
+  <DMSE.MissileInventory.Feature.Mechanics>Mecânicas ativas para este míssil</DMSE.MissileInventory.Feature.Mechanics>
+  <DMSE.MissileInventory.Feature.Payload>O efeito da carga útil escala com a capacidade do corpo N = {0}; alcance efetivo: {1} quadrados.</DMSE.MissileInventory.Feature.Payload>
+  <DMSE.MissileInventory.Feature.PenetratesRoof>Pode atravessar telhados de rocha espessa e atingir objetos abaixo deles.</DMSE.MissileInventory.Feature.PenetratesRoof>
+  <DMSE.MissileInventory.Feature.Propulsion>Alcance efetivo: {0} quadrados; fator de velocidade mundial: {1}; combustível: {2}; impulso específico: {3}.</DMSE.MissileInventory.Feature.Propulsion>
+  <DMSE.MissileInventory.Feature.RangeOffset>Ajuste de alcance da ogiva: {0} quadrados</DMSE.MissileInventory.Feature.RangeOffset>
+  <DMSE.MissileInventory.Feature.Signature>Fator de seção radar equivalente: {0}.</DMSE.MissileInventory.Feature.Signature>
+  <DMSE.MissileInventory.Feature.Unguided>Sem guiagem terminal; usa a dispersão padrão do ponto de impacto.</DMSE.MissileInventory.Feature.Unguided>
+  <DMSE.MissileInventory.Feature.Warhead>Tipo de dano principal da ogiva: {0}; dano: {1}; raio de explosão: {2} quadrados. Capacidade de carga útil N = {3}.</DMSE.MissileInventory.Feature.Warhead>
+  <DMSE.MissileInventory.Features>Características</DMSE.MissileInventory.Features>
+  <DMSE.MissileInventory.Pending>montagem pendente</DMSE.MissileInventory.Pending>
+  <DMSE.MissileInventory.Stat.BlastRadius>Explosão</DMSE.MissileInventory.Stat.BlastRadius>
+  <DMSE.MissileInventory.Stat.Damage>Dano</DMSE.MissileInventory.Stat.Damage>
+  <DMSE.MissileInventory.Stats>Explosão {0} · Dano {1}</DMSE.MissileInventory.Stats>
+  <DMSE.MissileInventory.Unit.Tiles>quadrados</DMSE.MissileInventory.Unit.Tiles>
+  <DMSE.MissileLauncher.Ballistic.AwaitingAssembly>Míssil balístico: aguardando montagem pelos colonos</DMSE.MissileLauncher.Ballistic.AwaitingAssembly>
+  <DMSE.MissileLauncher.Ballistic.Fire>Disparar míssil balístico</DMSE.MissileLauncher.Ballistic.Fire>
+  <DMSE.MissileLauncher.Ballistic.FireDesc>Lança o míssil balístico montado para um alvo no mapa-múndi. O míssil segue uma trajetória em arco e é quase impossível de interceptar após o lançamento.</DMSE.MissileLauncher.Ballistic.FireDesc>
+  <DMSE.MissileLauncher.Ballistic.Loaded>Míssil balístico: montado e pronto</DMSE.MissileLauncher.Ballistic.Loaded>
+  <DMSE.MissileLauncher.Ballistic.LoadedWith>Míssil balístico carregado: {0}</DMSE.MissileLauncher.Ballistic.LoadedWith>
+  <DMSE.MissileLauncher.Ballistic.NotLoaded>Míssil não montado. Configure-o na aba de Montagem; os colonos entregarão os materiais e o montarão.</DMSE.MissileLauncher.Ballistic.NotLoaded>
+  <DMSE.MissileLauncher.Ballistic.Unloaded>Silo de míssil balístico: vazio, configure na aba de Montagem</DMSE.MissileLauncher.Ballistic.Unloaded>
+  <DMSE.MissileLauncher.Interceptor.Ready>Pronto para disparar</DMSE.MissileLauncher.Interceptor.Ready>
+  <DMSE.MissileLauncher.Interceptor.Reloading>Recarregando: {0}</DMSE.MissileLauncher.Interceptor.Reloading>
+  <DMSE.MissileLauncher.LaunchCooldown>Recarregando trilho de lançamento: {0}</DMSE.MissileLauncher.LaunchCooldown>
+  <DMSE.MissileLauncher.NoTargetHere>Nenhum alvo neste local: o míssil será desperdiçado</DMSE.MissileLauncher.NoTargetHere>
+  <DMSE.MissileLauncher.OutOfRange>O alvo está além do alcance do míssil ({0} quadrados).</DMSE.MissileLauncher.OutOfRange>
+  <DMSE.MissileLauncher.Rail.NoMissileLoaded>Nenhum míssil carregado</DMSE.MissileLauncher.Rail.NoMissileLoaded>
+  <DMSE.MissileLauncher.RangeLabel>{0} / {1} quadrados</DMSE.MissileLauncher.RangeLabel>
+  <DMSE.Pile.BuildBeam>Construir viga</DMSE.Pile.BuildBeam>
+  <DMSE.Pile.BuildBeamDesc>Ordene uma viga de aço para outra pilha estrutural ao alcance. Apenas pilhas unidas por vigas concluídas se movem juntas como uma única nave.\n\nShift+clique para continuar construindo a partir da pilha-alvo.</DMSE.Pile.BuildBeamDesc>
+  <DMSE.Pile.CancelAll>Cancelar tudo</DMSE.Pile.CancelAll>
+  <DMSE.Pile.CancelBeam>Cancelar ordem de viga</DMSE.Pile.CancelBeam>
+  <DMSE.Pile.CancelBeamDesc>Cancele uma ordem de viga. Os materiais entregues cairão ao lado da pilha.</DMSE.Pile.CancelBeamDesc>
+  <DMSE.Pile.Disabled.AllDismantling>Todas as vigas já estão sendo desmanteladas.</DMSE.Pile.Disabled.AllDismantling>
+  <DMSE.Pile.Disabled.NoLinks>Esta pilha não possui vigas concluídas.</DMSE.Pile.Disabled.NoLinks>
+  <DMSE.Pile.Disabled.NoOrders>Esta pilha não possui ordens de vigas.</DMSE.Pile.Disabled.NoOrders>
+  <DMSE.Pile.DismantleAll>Desmantelar tudo</DMSE.Pile.DismantleAll>
+  <DMSE.Pile.DismantleBeam>Desmantelar viga</DMSE.Pile.DismantleBeam>
+  <DMSE.Pile.DismantleBeamDesc>Desmonte uma viga concluída. Parte dos materiais será devolvida.</DMSE.Pile.DismantleBeamDesc>
+  <DMSE.Pile.Inspect.Building>Construção de viga: → ({0}, {1}) {2} células | materiais {3} | progresso {4}</DMSE.Pile.Inspect.Building>
+  <DMSE.Pile.Inspect.Dismantling>Desmontagem de viga: → ({0}, {1}) {2} células | progresso {3}</DMSE.Pile.Inspect.Dismantling>
+  <DMSE.Pile.Inspect.Links>Vigas: {0} concluídas, {1} / {2} incluindo ordens</DMSE.Pile.Inspect.Links>
+  <DMSE.Pile.Inspect.LinksUnlimited>Vigas: {0} concluídas</DMSE.Pile.Inspect.LinksUnlimited>
+  <DMSE.Pile.Inspect.Network>Rede estrutural: {0} pilhas, {1} vigas, casco {2} células</DMSE.Pile.Inspect.Network>
+  <DMSE.Pile.Inspect.Queued>{0} ordens de viga adicionais na fila</DMSE.Pile.Inspect.Queued>
+  <DMSE.Pile.Link.AlreadyLinked>Já vinculado ou ordenado.</DMSE.Pile.Link.AlreadyLinked>
+  <DMSE.Pile.Link.CostLabel>Viga: {0} células · {1} · trabalho {2}</DMSE.Pile.Link.CostLabel>
+  <DMSE.Pile.Link.Locked>As vigas não podem ser alteradas durante a contagem regressiva.</DMSE.Pile.Link.Locked>
+  <DMSE.Pile.Link.MaxLinks>{0} atingiu seu limite de vigas ({1}, incluindo ordens).</DMSE.Pile.Link.MaxLinks>
+  <DMSE.Pile.Link.NoRange>Pequenas pilhas estruturais não podem ser vinculadas entre si.</DMSE.Pile.Link.NoRange>
+  <DMSE.Pile.Link.NotPile>Deve ter como alvo uma de suas pilhas estruturais.</DMSE.Pile.Link.NotPile>
+  <DMSE.Pile.Link.OutOfRange>Fora de alcance: {0} células (máx. {1}).</DMSE.Pile.Link.OutOfRange>
+  <DMSE.Pile.LinkOption>→ ({0}, {1}) · {2} células</DMSE.Pile.LinkOption>
+  <DMSE.Pile.LinkSelected>Vincular pilhas selecionadas</DMSE.Pile.LinkSelected>
+  <DMSE.Pile.LinkSelectedDesc>Ordene uma viga de aço entre as duas pilhas estruturais selecionadas.</DMSE.Pile.LinkSelectedDesc>
+  <DMSE.Pile.NetworkSplit>Uma rede estrutural se dividiu em naves separadas.</DMSE.Pile.NetworkSplit>
+  <DMSE.Pile.OrderKind.Build>Construir</DMSE.Pile.OrderKind.Build>
+  <DMSE.Pile.OrderKind.Dismantle>Desmantelar</DMSE.Pile.OrderKind.Dismantle>
+  <DMSE.Pile.Place.NeedProviderRange>Deve ser colocado dentro do alcance de vinculação de uma pilha estrutural grande ou de uma pilha estrutural âncora.</DMSE.Pile.Place.NeedProviderRange>
+  <DMSE.Pile.Place.OverVoid>Deve ser colocado sobre solo sólido.</DMSE.Pile.Place.OverVoid>
+  <DMSE.Pile.Place.SpaceOnly>Só pode ser construído no espaço.</DMSE.Pile.Place.SpaceOnly>
+  <DMSE.Pile.Place.WrongTerrain>Não pode ser colocado em {0}.</DMSE.Pile.Place.WrongTerrain>
+  <DMSE.Pile.Report.Dismantle>desmontando viga de aço em {0}.</DMSE.Pile.Report.Dismantle>
+  <DMSE.Pile.SelectNetwork>Selecionar rede</DMSE.Pile.SelectNetwork>
+  <DMSE.Pile.SelectNetworkDesc>Selecione todas as pilhas estruturais conectadas a esta por vigas concluídas.</DMSE.Pile.SelectNetworkDesc>
+  <DMSE.PlaceWorker.TooCloseSameLayer>Muito perto de {0} (mesma camada de posicionamento).</DMSE.PlaceWorker.TooCloseSameLayer>
+  <DMSE.Platform.Blocked>{0} está construído aqui.</DMSE.Platform.Blocked>
+  <DMSE.Platform.FloorOnTop>Remova o piso primeiro.</DMSE.Platform.FloorOnTop>
+  <DMSE.Platform.Remove>Remover plataforma</DMSE.Platform.Remove>
+  <DMSE.Platform.RemoveDesc>Remove plataformas espaciais ou solo de vacstone, deixando espaço aberto e recuperando alguns materiais.</DMSE.Platform.RemoveDesc>
+  <DMSE.Platform.Settings.SpaceTraversal>Permitir caminhar no espaço aberto (requer reinicialização)</DMSE.Platform.Settings.SpaceTraversal>
+  <DMSE.Platform.Settings.SpaceTraversalDesc>Ativa o patch que torna o espaço aberto original transitável. Desativado por padrão. As alterações entram em vigor após reiniciar o jogo. Outros mods também podem alterar a transitabilidade do espaço.</DMSE.Platform.Settings.SpaceTraversalDesc>
+  <DMSE.Strike.Adjust.Apply>Aplicar</DMSE.Strike.Adjust.Apply>
+  <DMSE.Strike.Adjust.Button>Ajustar ondas</DMSE.Strike.Adjust.Button>
+  <DMSE.Strike.Adjust.Cancel>Cancelar ajuste</DMSE.Strike.Adjust.Cancel>
+  <DMSE.Strike.Adjust.ClearPending>Limpar não lançados</DMSE.Strike.Adjust.ClearPending>
+  <DMSE.Strike.Adjust.FixedRemoved>Mísseis já lançados ou ignorados não podem ser removidos</DMSE.Strike.Adjust.FixedRemoved>
+  <DMSE.Strike.Adjust.Launching>Mísseis em lançamento; aguarde o término da onda</DMSE.Strike.Adjust.Launching>
+  <DMSE.Strike.Adjust.Title>Ajustar ondas: {0}</DMSE.Strike.Adjust.Title>
+  <DMSE.Strike.Alert.ComputationPending>Soluções de tiro aguardando</DMSE.Strike.Alert.ComputationPending>
+  <DMSE.Strike.Alert.ComputationPendingDesc>Uma missão de ataque aguarda que um pesquisador calcule suas soluções de disparo em uma mesa de planejamento de ataques, mas nenhum colono neste mapa pode realizar trabalho de pesquisa.\n\nHabilite o trabalho de pesquisa para um colono neste mapa.</DMSE.Strike.Alert.ComputationPendingDesc>
+  <DMSE.Strike.Alert.WaveLine>{0}, onda {1}: {2} em voo, chegando em {3}–{4}; detectados {5}, engajados {6}</DMSE.Strike.Alert.WaveLine>
+  <DMSE.Strike.Alert.WaveReady>Onda de ataque pronta</DMSE.Strike.Alert.WaveReady>
+  <DMSE.Strike.Alert.WaveReadyDesc>Essas missões de ataque podem disparar sua próxima onda agora. Este alerta pode ser desativado nas configurações do mod.</DMSE.Strike.Alert.WaveReadyDesc>
+  <DMSE.Strike.Alert.WaveReadyLine>{0}: onda {1} em {2}</DMSE.Strike.Alert.WaveReadyLine>
+  <DMSE.Strike.AllRoundsReserved>Todos os mísseis carregados estão reservados para uma missão de ataque</DMSE.Strike.AllRoundsReserved>
+  <DMSE.Strike.ChannelCost>Canais de guia por míssil: {0}</DMSE.Strike.ChannelCost>
+  <DMSE.Strike.Computing>Calculando soluções de tiro ({0} restantes)</DMSE.Strike.Computing>
+  <DMSE.Strike.ComputingManual>Soluções de tiro {0} calculadas; um pesquisador deve concluir esta onda na mesa de planejamento</DMSE.Strike.ComputingManual>
+  <DMSE.Strike.Console.Cancel>Cancelar missão de ataque</DMSE.Strike.Console.Cancel>
+  <DMSE.Strike.Console.CancelConfirm>Cancelar {0}? Os mísseis ainda não lançados serão liberados.</DMSE.Strike.Console.CancelConfirm>
+  <DMSE.Strike.Console.CancelDesc>Cancela a missão de ataque atual. Mísseis já lançados continuarão em voo; os restantes são liberados.</DMSE.Strike.Console.CancelDesc>
+  <DMSE.Strike.Console.FireWave>Disparar onda {0}</DMSE.Strike.Console.FireWave>
+  <DMSE.Strike.Console.FireWaveDesc>Lança a próxima onda agora. Shift+clique para lançar apenas o que os canais livres e os lançadores prontos permitirem; o restante permanece na onda.</DMSE.Strike.Console.FireWaveDesc>
+  <DMSE.Strike.Console.Open>Abrir plano de ataque</DMSE.Strike.Console.Open>
+  <DMSE.Strike.Console.OpenDesc>Exibe as ondas da missão de ataque atual e permite dispará-las.</DMSE.Strike.Console.OpenDesc>
+  <DMSE.Strike.Console.Plan>Planejar ataque em ondas</DMSE.Strike.Console.Plan>
+  <DMSE.Strike.Console.PlanDesc>Escolha um alvo no mapa-múndi e atribua os mísseis de ataque carregados nos lançadores deste mapa às ondas. Cada onda é limitada pelos canais de orientação livres dos radares de controle de tiro deste mapa.</DMSE.Strike.Console.PlanDesc>
+  <DMSE.Strike.Exec.CancelMission>Cancelar missão</DMSE.Strike.Exec.CancelMission>
+  <DMSE.Strike.Exec.Fire>Disparar</DMSE.Strike.Exec.Fire>
+  <DMSE.Strike.Exec.FireTip>Shift+clique para lançar apenas o que os canais livres e os lançadores prontos permitirem; o restante permanece na onda.</DMSE.Strike.Exec.FireTip>
+  <DMSE.Strike.Exec.NextRelease>(próximo canal liberado em {0})</DMSE.Strike.Exec.NextRelease>
+  <DMSE.Strike.Exec.State>Status: {0}</DMSE.Strike.Exec.State>
+  <DMSE.Strike.Exec.Title>Ataque em ondas: {0}</DMSE.Strike.Exec.Title>
+  <DMSE.Strike.Exec.Wave>Onda {0}: {1}</DMSE.Strike.Exec.Wave>
+  <DMSE.Strike.Exec.WaveLaunched>lançados {0}/{1}, {2} em voo</DMSE.Strike.Exec.WaveLaunched>
+  <DMSE.Strike.Exec.WavePending>aguardando {0}</DMSE.Strike.Exec.WavePending>
+  <DMSE.Strike.Exec.WaveQueued>lançando {0}</DMSE.Strike.Exec.WaveQueued>
+  <DMSE.Strike.Exec.WaveSkipped>ignorados {0}</DMSE.Strike.Exec.WaveSkipped>
+  <DMSE.Strike.Inspect.Channels>Canais de orientação de ataque: {0} livres de {1}</DMSE.Strike.Inspect.Channels>
+  <DMSE.Strike.Inspect.Mission>{0} em {1}: {2}, lançados {3}/{4}</DMSE.Strike.Inspect.Mission>
+  <DMSE.Strike.MissionDefault>Missão de ataque #{0}</DMSE.Strike.MissionDefault>
+  <DMSE.Strike.Msg.Adjusted>{0} ajustado: {1} mísseis em {2} ondas ({3} adicionados).</DMSE.Strike.Msg.Adjusted>
+  <DMSE.Strike.Msg.AutoFire>{0}: lançamento temporizado da onda {1}.</DMSE.Strike.Msg.AutoFire>
+  <DMSE.Strike.Msg.Cancelled>{0} cancelado; mísseis ainda não lançados foram liberados.</DMSE.Strike.Msg.Cancelled>
+  <DMSE.Strike.Msg.Completed>{0} concluído: {1} lançados, {2} ignorados.</DMSE.Strike.Msg.Completed>
+  <DMSE.Strike.Msg.Confirmed>{0}: {1} mísseis em {2} ondas reservados; calculando soluções de tiro.</DMSE.Strike.Msg.Confirmed>
+  <DMSE.Strike.Msg.ConfirmedManual>{0}: {1} mísseis em {2} ondas reservados; um pesquisador deve calcular as soluções de tiro na {3}.</DMSE.Strike.Msg.ConfirmedManual>
+  <DMSE.Strike.Msg.ConsoleLost>{0} cancelado: seu centro de comando de ataque foi removido.</DMSE.Strike.Msg.ConsoleLost>
+  <DMSE.Strike.Msg.Deferred>{0}: {1} não puderam ser lançados ainda e permanecem na onda {2}.</DMSE.Strike.Msg.Deferred>
+  <DMSE.Strike.Msg.Ready>{0}: soluções de tiro prontas.</DMSE.Strike.Msg.Ready>
+  <DMSE.Strike.Msg.Skipped>{0}: {1} ignorados ({2}).</DMSE.Strike.Msg.Skipped>
+  <DMSE.Strike.Msg.TargetLost>{0} cancelado: o alvo desapareceu.</DMSE.Strike.Msg.TargetLost>
+  <DMSE.Strike.Msg.TargetMoved>{0}: o alvo se moveu {1} blocos; {2} mísseis não lançados precisam de novas soluções de disparo.</DMSE.Strike.Msg.TargetMoved>
+  <DMSE.Strike.Msg.WaveFired>{0}, onda {1}: {2} lançando, {3} ignorados.</DMSE.Strike.Msg.WaveFired>
+  <DMSE.Strike.Msg.WaveSolved>{0}: as soluções de tiro para a onda {1} estão prontas.</DMSE.Strike.Msg.WaveSolved>
+  <DMSE.Strike.NoFireControl>Nenhum radar de controle de tiro funcional neste mapa pode guiar mísseis de ataque</DMSE.Strike.NoFireControl>
+  <DMSE.Strike.NoRoundReaches>Nenhum míssil de ataque carregado pode alcançar este alvo</DMSE.Strike.NoRoundReaches>
+  <DMSE.Strike.NoRoundsAssigned>Atribua pelo menos um míssil a uma onda</DMSE.Strike.NoRoundsAssigned>
+  <DMSE.Strike.NoStrikeRounds>Nenhum míssil de ataque está carregado neste mapa</DMSE.Strike.NoStrikeRounds>
+  <DMSE.Strike.NotEnoughChannels>Canais de orientação insuficientes: {0} livres, {1} necessários</DMSE.Strike.NotEnoughChannels>
+  <DMSE.Strike.NotEnoughChannelsRelease>Canais de orientação insuficientes: {0} livres, {1} necessários; o próximo será liberado em {2}</DMSE.Strike.NotEnoughChannelsRelease>
+  <DMSE.Strike.NotReady>Soluções de tiro não estão prontas</DMSE.Strike.NotReady>
+  <DMSE.Strike.Plan.AddHint>Clique em uma linha para adicionar um míssil à onda selecionada; Shift+clique para adicionar quantos couberem. Linhas em amarelo não estão prontas no momento e serão verificadas novamente no lançamento.</DMSE.Strike.Plan.AddHint>
+  <DMSE.Strike.Plan.AddWave>+ Adicionar onda</DMSE.Strike.Plan.AddWave>
+  <DMSE.Strike.Plan.Arrival>lançamento {0} · chegada {1}–{2}</DMSE.Strike.Plan.Arrival>
+  <DMSE.Strike.Plan.ArrivalFlying>em voo · chegada {0}–{1}</DMSE.Strike.Plan.ArrivalFlying>
+  <DMSE.Strike.Plan.AutoAssign>Atribuir automaticamente</DMSE.Strike.Plan.AutoAssign>
+  <DMSE.Strike.Plan.AutoAssignDesc>Preenche as ondas começando pelos mísseis mais baratos, para que os mais valiosos fiquem nas últimas ondas.</DMSE.Strike.Plan.AutoAssignDesc>
+  <DMSE.Strike.Plan.AutoFire>Temporizado</DMSE.Strike.Plan.AutoFire>
+  <DMSE.Strike.Plan.AutoFireTip>Lançamento temporizado: dispara esta onda automaticamente quando chegar sua vez, mas apenas quando chegar depois das ondas anteriores (com uma pequena margem).</DMSE.Strike.Plan.AutoFireTip>
+  <DMSE.Strike.Plan.Available>Mísseis disponíveis: {0}</DMSE.Strike.Plan.Available>
+  <DMSE.Strike.Plan.Channels>Canais de orientação: {0} (livres {1}) · período de orientação {2}</DMSE.Strike.Plan.Channels>
+  <DMSE.Strike.Plan.Clear>Limpar</DMSE.Strike.Plan.Clear>
+  <DMSE.Strike.Plan.ComputeWork>Trabalho de cálculo: {0} (cerca de {1} para o pesquisador mais rápido aqui)</DMSE.Strike.Plan.ComputeWork>
+  <DMSE.Strike.Plan.Confirm>Confirmar plano</DMSE.Strike.Plan.Confirm>
+  <DMSE.Strike.Plan.EarlyWarning>Chega antes da onda {0}; adie-a em cerca de {1}</DMSE.Strike.Plan.EarlyWarning>
+  <DMSE.Strike.Plan.Flight>voo {0}</DMSE.Strike.Plan.Flight>
+  <DMSE.Strike.Plan.Margin>alcance +{0}</DMSE.Strike.Plan.Margin>
+  <DMSE.Strike.Plan.NoResearcher>nenhum colono aqui pode fazer pesquisa</DMSE.Strike.Plan.NoResearcher>
+  <DMSE.Strike.Plan.NotReadyTag>Não prontos no momento:</DMSE.Strike.Plan.NotReadyTag>
+  <DMSE.Strike.Plan.Now>agora</DMSE.Strike.Plan.Now>
+  <DMSE.Strike.Plan.ReservedElsewhere>{0} a mais reservados por outras missões de ataque</DMSE.Strike.Plan.ReservedElsewhere>
+  <DMSE.Strike.Plan.SiteWarning>Este local ainda não possui um mapa. O primeiro míssil a chegar irá gerá-lo, e a defesa aérea do local, com mísseis terra-ar totalmente carregados, então engajará os mísseis ainda em voo.</DMSE.Strike.Plan.SiteWarning>
+  <DMSE.Strike.Plan.Target>Alvo: {0} ({1} quadrados)</DMSE.Strike.Plan.Target>
+  <DMSE.Strike.Plan.TimelineTip>Linha do tempo estimada caso cada onda seja disparada assim que os canais de guia e os lançadores permitirem. Os ticks marcam os lançamentos, as barras marcam as janelas de chegada. Uma barra amarela chega antes de uma onda anterior, portanto não seria coberta por iscas dessa onda.</DMSE.Strike.Plan.TimelineTip>
+  <DMSE.Strike.Plan.Title>Plano de ataque em ondas: {0}</DMSE.Strike.Plan.Title>
+  <DMSE.Strike.Plan.Unavailable>Indisponível {0}: {1}</DMSE.Strike.Plan.Unavailable>
+  <DMSE.Strike.Plan.WaveChannelsTip>Usa {0} de {1} canais de orientação de ataque. Mísseis comuns custam 1; mísseis balísticos custam 2; TV adiciona 1. Uma onda precisa de canais suficientes para todos os seus mísseis pendentes.</DMSE.Strike.Plan.WaveChannelsTip>
+  <DMSE.Strike.Plan.WaveRoundLimit>Limite por onda: {0} mísseis</DMSE.Strike.Plan.WaveRoundLimit>
+  <DMSE.Strike.Plan.WaveTitle>Onda {0}</DMSE.Strike.Plan.WaveTitle>
+  <DMSE.Strike.PlatformsNotReady>{0} lançador(es) não prontos (sem energia, desligado(s), sem tripulação ou recarregando)</DMSE.Strike.PlatformsNotReady>
+  <DMSE.Strike.RenameTip>Renomeie esta missão de ataque (você pode gerar um nome aleatório).</DMSE.Strike.RenameTip>
+  <DMSE.Strike.Report.Header>{0} em {1}, lançado de {2}:</DMSE.Strike.Report.Header>
+  <DMSE.Strike.Report.Label>Resultados de {0}</DMSE.Strike.Report.Label>
+  <DMSE.Strike.Report.Unknown>{0} chegaram, mas seu resultado é desconhecido.</DMSE.Strike.Report.Unknown>
+  <DMSE.Strike.Report.Wave>Onda {0}: {1} lançados: {2} interceptados em voo, {3} atingiram, {4} abatidos no alvo, {5} errados</DMSE.Strike.Report.Wave>
+  <DMSE.Strike.Report.WaveShieldBlocked>, {0} detidos por escudos</DMSE.Strike.Report.WaveShieldBlocked>
+  <DMSE.Strike.ReservedInspect>Reservado para missões de ataque: {0}</DMSE.Strike.ReservedInspect>
+  <DMSE.Strike.ReservedNoEdit>Reservado para uma missão de ataque: este míssil não pode ser reconfigurado até que a missão termine.</DMSE.Strike.ReservedNoEdit>
+  <DMSE.Strike.RoundTaken>Um míssil já está reservado por outra missão de ataque</DMSE.Strike.RoundTaken>
+  <DMSE.Strike.RoundUnavailable>O míssil não está mais carregado ou não pode mais alcançar o alvo</DMSE.Strike.RoundUnavailable>
+  <DMSE.Strike.Settings.WaveReadyAlert>Alerta de onda de ataque pronta</DMSE.Strike.Settings.WaveReadyAlert>
+  <DMSE.Strike.Settings.WaveReadyAlertDesc>Exibe um alerta quando uma missão de ataque pode disparar sua próxima onda.</DMSE.Strike.Settings.WaveReadyAlertDesc>
+  <DMSE.Strike.Skip.Refitted>o míssil foi reconfigurado</DMSE.Strike.Skip.Refitted>
+  <DMSE.Strike.Skip.RoundGone>o míssil não está mais no lançador</DMSE.Strike.Skip.RoundGone>
+  <DMSE.Strike.Slot.Launched>lançado</DMSE.Strike.Slot.Launched>
+  <DMSE.Strike.Slot.Queued>em lançamento</DMSE.Strike.Slot.Queued>
+  <DMSE.Strike.Slot.Skipped>ignorado</DMSE.Strike.Slot.Skipped>
+  <DMSE.Strike.State.Computing>calculando soluções de tiro ({0} restantes)</DMSE.Strike.State.Computing>
+  <DMSE.Strike.State.ComputingManual>aguardando cálculo das soluções de tiro ({0})</DMSE.Strike.State.ComputingManual>
+  <DMSE.Strike.State.Executing>em andamento</DMSE.Strike.State.Executing>
+  <DMSE.Strike.State.ExecutingComputing>em andamento; soluções de tiro {0}</DMSE.Strike.State.ExecutingComputing>
+  <DMSE.Strike.State.Ready>pronto para disparar</DMSE.Strike.State.Ready>
+  <DMSE.Strike.TargetLabel.Distance>Distância: {0} quadrados</DMSE.Strike.TargetLabel.Distance>
+  <DMSE.Strike.TargetLabel.Reach>Alcançável: {0} de {1} carregados</DMSE.Strike.TargetLabel.Reach>
+  <DMSE.Strike.TooManyRounds>No máximo {0} mísseis por missão</DMSE.Strike.TooManyRounds>
+  <DMSE.Strike.TooManyWaves>No máximo {0} ondas por missão</DMSE.Strike.TooManyWaves>
+  <DMSE.Strike.WaveDone>Esta onda não tem mais nada a lançar</DMSE.Strike.WaveDone>
+  <DMSE.Strike.WaveOverCap>A onda {0} requer {1} canais de orientação; capacidade disponível: {2}</DMSE.Strike.WaveOverCap>
+  <DMSE.Strike.WaveRoundLimit>No máximo {0} mísseis por onda</DMSE.Strike.WaveRoundLimit>
+  <DMSE.Tab.MissileInventory>Inventário</DMSE.Tab.MissileInventory>
+  <DMSE.Transfer.Abort.NetworkChanged>A estrutura da nave mudou durante a contagem regressiva.</DMSE.Transfer.Abort.NetworkChanged>
+  <DMSE.Transfer.Abort.NoFreeTile>Nenhum bloco livre para estacionar.</DMSE.Transfer.Abort.NoFreeTile>
+  <DMSE.Transfer.Abort.NoPlan>Não há plano de transferência.</DMSE.Transfer.Abort.NoPlan>
+  <DMSE.Transfer.Alert.CountdownDesc>Uma nave está contando regressivamente para o lançamento.</DMSE.Transfer.Alert.CountdownDesc>
+  <DMSE.Transfer.Alert.ExhaustDanger>Em zona de exaustão do motor</DMSE.Transfer.Alert.ExhaustDanger>
+  <DMSE.Transfer.Alert.ExhaustDangerDesc>Estas pessoas estão em uma zona de exaustão dos motores e serão queimadas quando eles forem acionados.</DMSE.Transfer.Alert.ExhaustDangerDesc>
+  <DMSE.Transfer.Alert.PawnsOutside>Pessoas fora da nave em partida</DMSE.Transfer.Alert.PawnsOutside>
+  <DMSE.Transfer.Alert.PawnsOutsideDesc>Estas pessoas estão fora da nave em partida e serão deixadas para trás.</DMSE.Transfer.Alert.PawnsOutsideDesc>
+  <DMSE.Transfer.Console.Abort>Abortar transferência</DMSE.Transfer.Console.Abort>
+  <DMSE.Transfer.Console.AbortDesc>Descartar o plano de transferência atual.</DMSE.Transfer.Console.AbortDesc>
+  <DMSE.Transfer.Console.AlreadyLaunching>Uma transferência já está em andamento.</DMSE.Transfer.Console.AlreadyLaunching>
+  <DMSE.Transfer.Console.AwaitingOperatorMsg>Sequência de lançamento iniciada. Aguardando um operador.</DMSE.Transfer.Console.AwaitingOperatorMsg>
+  <DMSE.Transfer.Console.Backup>Console reserva</DMSE.Transfer.Console.Backup>
+  <DMSE.Transfer.Console.Launch>Iniciar lançamento</DMSE.Transfer.Console.Launch>
+  <DMSE.Transfer.Console.LaunchDesc>Inicia a sequência de lançamento. Assim que um colono operar este console, a nave fará a contagem regressiva e partirá.</DMSE.Transfer.Console.LaunchDesc>
+  <DMSE.Transfer.Console.NotOnShip>Não está em uma nave.</DMSE.Transfer.Console.NotOnShip>
+  <DMSE.Transfer.Console.Plan>Planejar transferência</DMSE.Transfer.Console.Plan>
+  <DMSE.Transfer.Console.PlanDesc>Escolha um destino e revise combustível, tempo de viagem e prontidão.</DMSE.Transfer.Console.PlanDesc>
+  <DMSE.Transfer.Console.PlanImpact>Planejar voo de impacto</DMSE.Transfer.Console.PlanImpact>
+  <DMSE.Transfer.Console.PlanImpactDesc>Colide esta nave com a superfície do planeta. Todos a bordo serão perdidos e o jogo terminará.\n\nRequer {0} propulsores térmicos nucleares funcionando; {1} ou mais destruirão o planeta.</DMSE.Transfer.Console.PlanImpactDesc>
+  <DMSE.Transfer.Console.PlanSummary>Transferência planejada para o bloco {0} ({1} blocos)</DMSE.Transfer.Console.PlanSummary>
+  <DMSE.Transfer.Console.PlanSummaryImpact>Impacto planejado no bloco {0} ({1} blocos)</DMSE.Transfer.Console.PlanSummaryImpact>
+  <DMSE.Transfer.Console.Primary>Console de comando da nave</DMSE.Transfer.Console.Primary>
+  <DMSE.Transfer.Console.Rename>Nomear nave</DMSE.Transfer.Console.Rename>
+  <DMSE.Transfer.Console.RenameDesc>Dê um nome a esta nave. O nome é salvo em todos os consoles da nave e mantido em todos os voos de transferência.</DMSE.Transfer.Console.RenameDesc>
+  <DMSE.Transfer.Console.ShipName>Nome da nave: {0}</DMSE.Transfer.Console.ShipName>
+  <DMSE.Transfer.Console.ShipSummary>Nave: {0} pilhas, {1} motores funcionando, REMP {2}, combustível {3}</DMSE.Transfer.Console.ShipSummary>
+  <DMSE.Transfer.Console.ShowFootprint>Mostrar casco</DMSE.Transfer.Console.ShowFootprint>
+  <DMSE.Transfer.Console.ShowFootprintDesc>Sempre mostrar a área do casco desta nave e as zonas de exaustão dos motores.</DMSE.Transfer.Console.ShowFootprintDesc>
+  <DMSE.Transfer.Console.StateAwaitingOperator>Aguardando um operador.</DMSE.Transfer.Console.StateAwaitingOperator>
+  <DMSE.Transfer.Console.StateCountdown>Partida em {0}.</DMSE.Transfer.Console.StateCountdown>
+  <DMSE.Transfer.Console.Unnamed>Sem nome (nomeado automaticamente no lançamento)</DMSE.Transfer.Console.Unnamed>
+  <DMSE.Transfer.Dest.ImpactHasMap>Não é possível mirar em um local com mapa.</DMSE.Transfer.Dest.ImpactHasMap>
+  <DMSE.Transfer.Dest.Invalid>Escolha outro bloco.</DMSE.Transfer.Dest.Invalid>
+  <DMSE.Transfer.Dest.NotSurface>Deve estar na superfície do planeta.</DMSE.Transfer.Dest.NotSurface>
+  <DMSE.Transfer.Dest.Occupied>Ocupado, sem bloco livre nas proximidades.</DMSE.Transfer.Dest.Occupied>
+  <DMSE.Transfer.Dest.OtherLayer>Deve estar na mesma órbita.</DMSE.Transfer.Dest.OtherLayer>
+  <DMSE.Transfer.Dest.OutOfRange>Fora de alcance ({0} blocos).</DMSE.Transfer.Dest.OutOfRange>
+  <DMSE.Transfer.Dialog.Confirm>Confirmar plano</DMSE.Transfer.Dialog.Confirm>
+  <DMSE.Transfer.Dialog.ConfirmBlocked>Resolva os erros primeiro.</DMSE.Transfer.Dialog.ConfirmBlocked>
+  <DMSE.Transfer.Dialog.ConfirmImpact>Confirmar impacto</DMSE.Transfer.Dialog.ConfirmImpact>
+  <DMSE.Transfer.Dialog.ImpactPlanetkiller>{0} propulsores térmicos nucleares: o impacto destruirá o planeta.</DMSE.Transfer.Dialog.ImpactPlanetkiller>
+  <DMSE.Transfer.Dialog.ImpactRoute>Ponto de impacto: bloco {0}, {1} blocos de voo</DMSE.Transfer.Dialog.ImpactRoute>
+  <DMSE.Transfer.Dialog.ImpactTitle>Voo de impacto</DMSE.Transfer.Dialog.ImpactTitle>
+  <DMSE.Transfer.Dialog.ImpactWarning>A nave não irá frear. Todos a bordo serão perdidos e o jogo terminará.</DMSE.Transfer.Dialog.ImpactWarning>
+  <DMSE.Transfer.Dialog.PlanSet>Plano de transferência definido.</DMSE.Transfer.Dialog.PlanSet>
+  <DMSE.Transfer.Dialog.Reselect>Escolher novamente</DMSE.Transfer.Dialog.Reselect>
+  <DMSE.Transfer.Dialog.Route>Bloco {0} → bloco {1}, {2} blocos</DMSE.Transfer.Dialog.Route>
+  <DMSE.Transfer.Dialog.Title>Plano de transferência</DMSE.Transfer.Dialog.Title>
+  <DMSE.Transfer.Engine.BoosterStats>Empuxo de decolagem {0}: adiciona à relação empuxo-peso de lançamento, não usa combustível da nave e queima ao fim da queima de decolagem</DMSE.Transfer.Engine.BoosterStats>
+  <DMSE.Transfer.Engine.PlacedBlocked>{0}: a zona de exaustão está bloqueada por {1}.</DMSE.Transfer.Engine.PlacedBlocked>
+  <DMSE.Transfer.Engine.RequiresReactor>Requer suporte de reator de fusão.</DMSE.Transfer.Engine.RequiresReactor>
+  <DMSE.Transfer.Engine.Stats>Empuxo de transferência {0}, consumo de combustível {1}</DMSE.Transfer.Engine.Stats>
+  <DMSE.Transfer.Engine.Status.BrokenDown>Quebrado</DMSE.Transfer.Engine.Status.BrokenDown>
+  <DMSE.Transfer.Engine.Status.ExhaustBlocked>Exaustão bloqueada por {0}</DMSE.Transfer.Engine.Status.ExhaustBlocked>
+  <DMSE.Transfer.Engine.Status.NoPower>Sem energia</DMSE.Transfer.Engine.Status.NoPower>
+  <DMSE.Transfer.Engine.Status.NoReactorSupport>Sem suporte de reator de fusão</DMSE.Transfer.Engine.Status.NoReactorSupport>
+  <DMSE.Transfer.Engine.Status.NotOnShip>Não está em uma nave</DMSE.Transfer.Engine.Status.NotOnShip>
+  <DMSE.Transfer.Engine.Status.Operational>Pronto</DMSE.Transfer.Engine.Status.Operational>
+  <DMSE.Transfer.Engine.Status.SwitchedOff>Desligado</DMSE.Transfer.Engine.Status.SwitchedOff>
+  <DMSE.Transfer.Flight.ArrivalBurnBegin>{0} está acionando a queima de chegada.</DMSE.Transfer.Flight.ArrivalBurnBegin>
+  <DMSE.Transfer.Flight.ArrivedLabel>Transferência concluída</DMSE.Transfer.Flight.ArrivedLabel>
+  <DMSE.Transfer.Flight.ArrivedText>{0} chegou.</DMSE.Transfer.Flight.ArrivedText>
+  <DMSE.Transfer.Flight.BoostersBurnedOut>{0}: {1} propulsor(es) auxiliar(es) queimados.</DMSE.Transfer.Flight.BoostersBurnedOut>
+  <DMSE.Transfer.Flight.CoastBegin>{0} está em inércia.</DMSE.Transfer.Flight.CoastBegin>
+  <DMSE.Transfer.Flight.ImpactCourseBegin>{0} está em rota de impacto. Impacto em {1}.</DMSE.Transfer.Flight.ImpactCourseBegin>
+  <DMSE.Transfer.Flight.ImpactProgress>Progresso {0} em direção ao impacto no bloco {1}, impacto em {2}</DMSE.Transfer.Flight.ImpactProgress>
+  <DMSE.Transfer.Flight.NoThrustLabel>Sem empuxo para chegada</DMSE.Transfer.Flight.NoThrustLabel>
+  <DMSE.Transfer.Flight.NoThrustText>{0} não tem motores funcionando e irá frear com propulsores de atitude ({1}).</DMSE.Transfer.Flight.NoThrustText>
+  <DMSE.Transfer.Flight.Progress>Progresso {0} até o bloco {1}, chegada em {2}</DMSE.Transfer.Flight.Progress>
+  <DMSE.Transfer.Flight.Rerouted>O destino de {0} está ocupado. Ele irá estacionar nas proximidades.</DMSE.Transfer.Flight.Rerouted>
+  <DMSE.Transfer.Flight.Status>Voo de transferência: {0}, {1} restantes nesta fase</DMSE.Transfer.Flight.Status>
+  <DMSE.Transfer.Grace.Begin>{0} chegou despercebido: nenhum evento ocorrerá neste mapa por {1} (casco: {2} células).</DMSE.Transfer.Grace.Begin>
+  <DMSE.Transfer.Issue.ConsoleNotOnShip>O console não está em uma nave.</DMSE.Transfer.Issue.ConsoleNotOnShip>
+  <DMSE.Transfer.Issue.ConsoleUnavailable>O console está sem energia, desligado ou quebrado.</DMSE.Transfer.Issue.ConsoleUnavailable>
+  <DMSE.Transfer.Issue.Contested>Ocupa {0} células de outras naves ({1} construções, {2} pilhas).</DMSE.Transfer.Issue.Contested>
+  <DMSE.Transfer.Issue.ImpactEngines>Necessita de {1} propulsores térmicos nucleares funcionando ({0}).</DMSE.Transfer.Issue.ImpactEngines>
+  <DMSE.Transfer.Issue.InFlight>A nave está em voo.</DMSE.Transfer.Issue.InFlight>
+  <DMSE.Transfer.Issue.LowTWR>A relação empuxo-peso {0} está abaixo de {1}.</DMSE.Transfer.Issue.LowTWR>
+  <DMSE.Transfer.Issue.NearbyUnlinkedPiles>{0} pilhas próximas não estão vinculadas a esta nave.</DMSE.Transfer.Issue.NearbyUnlinkedPiles>
+  <DMSE.Transfer.Issue.NoEngines>Não há motores de transferência funcionando.</DMSE.Transfer.Issue.NoEngines>
+  <DMSE.Transfer.Issue.NotCarried>{0} itens não podem ser transportados e serão perdidos.</DMSE.Transfer.Issue.NotCarried>
+  <DMSE.Transfer.Issue.NotEnoughFuel>Combustível insuficiente ({0}/{1}).</DMSE.Transfer.Issue.NotEnoughFuel>
+  <DMSE.Transfer.Issue.NotInSpace>A nave deve estar em órbita.</DMSE.Transfer.Issue.NotInSpace>
+  <DMSE.Transfer.Issue.OtherShipDeparting>Outra nave neste local já está decolando.</DMSE.Transfer.Issue.OtherShipDeparting>
+  <DMSE.Transfer.Issue.PawnsInExhaust>{0} pessoas estão em uma zona de exaustão.</DMSE.Transfer.Issue.PawnsInExhaust>
+  <DMSE.Transfer.Issue.PawnsLeftBehind>{0} pessoas fora do casco ficarão para trás.</DMSE.Transfer.Issue.PawnsLeftBehind>
+  <DMSE.Transfer.Issue.PendingBeamOrders>{0} pilhas têm vigas não finalizadas.</DMSE.Transfer.Issue.PendingBeamOrders>
+  <DMSE.Transfer.Issue.TornApart>{0} construções cruzam a borda do casco e serão destruídas.</DMSE.Transfer.Issue.TornApart>
+  <DMSE.Transfer.Issue.TornApartWithPawns>{0} delas possuem pessoas dentro.</DMSE.Transfer.Issue.TornApartWithPawns>
+  <DMSE.Transfer.Land.ArrivedText>{0} está aguardando para pousar em {1}.</DMSE.Transfer.Land.ArrivedText>
+  <DMSE.Transfer.Land.Auto>Pousar automaticamente</DMSE.Transfer.Land.Auto>
+  <DMSE.Transfer.Land.AutoDesc>Pousar no local aberto mais próximo ao centro do mapa.</DMSE.Transfer.Land.AutoDesc>
+  <DMSE.Transfer.Land.Cancel>Cancelar pouso</DMSE.Transfer.Land.Cancel>
+  <DMSE.Transfer.Land.CancelDesc>Permanecer estacionado aqui.</DMSE.Transfer.Land.CancelDesc>
+  <DMSE.Transfer.Land.Designator>Escolher local de pouso</DMSE.Transfer.Land.Designator>
+  <DMSE.Transfer.Land.DesignatorDesc>Escolha onde a nave irá pousar neste mapa.</DMSE.Transfer.Land.DesignatorDesc>
+  <DMSE.Transfer.Land.Gizmo>Pousar em {0}</DMSE.Transfer.Land.Gizmo>
+  <DMSE.Transfer.Land.GizmoDesc>Escolha um local de pouso em {0}.</DMSE.Transfer.Land.GizmoDesc>
+  <DMSE.Transfer.Land.LandedLabel>Nave pousada</DMSE.Transfer.Land.LandedLabel>
+  <DMSE.Transfer.Land.LandedText>{0} pousou em {1}.</DMSE.Transfer.Land.LandedText>
+  <DMSE.Transfer.Land.Moved>O local escolhido estava bloqueado, então a nave pousou no local aberto mais próximo.</DMSE.Transfer.Land.Moved>
+  <DMSE.Transfer.Land.NoRoom>Não há espaço para pousar em {0}.</DMSE.Transfer.Land.NoRoom>
+  <DMSE.Transfer.Land.SiteGone>O local de pouso não existe mais.</DMSE.Transfer.Land.SiteGone>
+  <DMSE.Transfer.Land.WillMove>A nave pousará no local aberto mais próximo.</DMSE.Transfer.Land.WillMove>
+  <DMSE.Transfer.Landing>Pouso</DMSE.Transfer.Landing>
+  <DMSE.Transfer.Letter.AbortedLabel>Transferência abortada</DMSE.Transfer.Letter.AbortedLabel>
+  <DMSE.Transfer.Letter.AbortedText>O lançamento foi abortado: {0}\n\nO plano foi mantido.</DMSE.Transfer.Letter.AbortedText>
+  <DMSE.Transfer.Letter.BrokenLinks>Vigas quebradas: {0}. Ordens de viga canceladas: {1}.</DMSE.Transfer.Letter.BrokenLinks>
+  <DMSE.Transfer.Letter.Destroyed>Destruído na borda do casco:</DMSE.Transfer.Letter.Destroyed>
+  <DMSE.Transfer.Letter.LeftBehind>Deixado para trás:</DMSE.Transfer.Letter.LeftBehind>
+  <DMSE.Transfer.Letter.LostThings>Perdidos: {0} itens que não puderam ser transportados.</DMSE.Transfer.Letter.LostThings>
+  <DMSE.Transfer.Letter.OriginAbandoned>O antigo local foi abandonado.</DMSE.Transfer.Letter.OriginAbandoned>
+  <DMSE.Transfer.Letter.SeparatedLabel>Nave separada</DMSE.Transfer.Letter.SeparatedLabel>
+  <DMSE.Transfer.Letter.SeparatedText>{0} se separou e agora é uma nave independente.</DMSE.Transfer.Letter.SeparatedText>
+  <DMSE.Transfer.Phase.ArrivalBurn>Queima de chegada</DMSE.Transfer.Phase.ArrivalBurn>
+  <DMSE.Transfer.Phase.Arrived>Chegou</DMSE.Transfer.Phase.Arrived>
+  <DMSE.Transfer.Phase.Coast>Inércia</DMSE.Transfer.Phase.Coast>
+  <DMSE.Transfer.Phase.DepartureBurn>Queima de decolagem</DMSE.Transfer.Phase.DepartureBurn>
+  <DMSE.Transfer.Phase.ImpactCourse>Rota de impacto</DMSE.Transfer.Phase.ImpactCourse>
+  <DMSE.Transfer.Reactor.NotOnShip>Suporta {0} propulsores térmicos nucleares em uma nave.</DMSE.Transfer.Reactor.NotOnShip>
+  <DMSE.Transfer.Reactor.Support>Suporta {0} propulsores térmicos nucleares (nave: {1} necessários / {2} disponíveis).</DMSE.Transfer.Reactor.Support>
+  <DMSE.Transfer.Separating>Separando nave</DMSE.Transfer.Separating>
+  <DMSE.Transfer.Ship.Abandon>Abandonar nave</DMSE.Transfer.Ship.Abandon>
+  <DMSE.Transfer.Ship.AbandonConfirm>Abandonar {0}? Tudo a bordo será perdido.</DMSE.Transfer.Ship.AbandonConfirm>
+  <DMSE.Transfer.Ship.AbandonDesc>Abandone esta nave e tudo o que está nela.</DMSE.Transfer.Ship.AbandonDesc>
+  <DMSE.Transfer.Ship.AbandonHasColonists>Ainda há colonos a bordo.</DMSE.Transfer.Ship.AbandonHasColonists>
+  <DMSE.Transfer.Ship.DefaultName>Nave de transferência {0}</DMSE.Transfer.Ship.DefaultName>
+  <DMSE.Transfer.Ship.Inspect>Pilhas estruturais: {0}, redes: {1}</DMSE.Transfer.Ship.Inspect>
+  <DMSE.Transfer.ShuttleBlockedBurn>Não é possível lançar enquanto os motores da nave estão em funcionamento.</DMSE.Transfer.ShuttleBlockedBurn>
+  <DMSE.Transfer.Tab>Transferir</DMSE.Transfer.Tab>
+  <DMSE.Transfer.UI.ArrivalIn>Chegada em</DMSE.Transfer.UI.ArrivalIn>
+  <DMSE.Transfer.UI.Beams>Vigas</DMSE.Transfer.UI.Beams>
+  <DMSE.Transfer.UI.BurnTime>Cada queima</DMSE.Transfer.UI.BurnTime>
+  <DMSE.Transfer.UI.CannotDepart>Não pode partir</DMSE.Transfer.UI.CannotDepart>
+  <DMSE.Transfer.UI.CoastTime>Planagem</DMSE.Transfer.UI.CoastTime>
+  <DMSE.Transfer.UI.Contested>Células tomadas de outras redes</DMSE.Transfer.UI.Contested>
+  <DMSE.Transfer.UI.Destination>Bloco de destino</DMSE.Transfer.UI.Destination>
+  <DMSE.Transfer.UI.Distance>Distância (blocos)</DMSE.Transfer.UI.Distance>
+  <DMSE.Transfer.UI.ErrorPrefix>Erro</DMSE.Transfer.UI.ErrorPrefix>
+  <DMSE.Transfer.UI.EstimateHeader>Capacidade de transferência</DMSE.Transfer.UI.EstimateHeader>
+  <DMSE.Transfer.UI.Eta>Tempo estimado de chegada</DMSE.Transfer.UI.Eta>
+  <DMSE.Transfer.UI.FlightHeader>Em voo: {0}</DMSE.Transfer.UI.FlightHeader>
+  <DMSE.Transfer.UI.FlightProgress>Progresso</DMSE.Transfer.UI.FlightProgress>
+  <DMSE.Transfer.UI.Footprint>Células do casco</DMSE.Transfer.UI.Footprint>
+  <DMSE.Transfer.UI.FuelAvailable>Combustível a bordo</DMSE.Transfer.UI.FuelAvailable>
+  <DMSE.Transfer.UI.FuelHeader>Combustível</DMSE.Transfer.UI.FuelHeader>
+  <DMSE.Transfer.UI.FuelRequired>Combustível necessário</DMSE.Transfer.UI.FuelRequired>
+  <DMSE.Transfer.UI.GracePeriod>Período de segurança após a chegada</DMSE.Transfer.UI.GracePeriod>
+  <DMSE.Transfer.UI.ImpactIn>Impacto em</DMSE.Transfer.UI.ImpactIn>
+  <DMSE.Transfer.UI.ImpactPlanHeader>Plano: impacto no bloco {0}</DMSE.Transfer.UI.ImpactPlanHeader>
+  <DMSE.Transfer.UI.IssuesHeader>Prontidão</DMSE.Transfer.UI.IssuesHeader>
+  <DMSE.Transfer.UI.LandOnSite>Pousará em {0}.</DMSE.Transfer.UI.LandOnSite>
+  <DMSE.Transfer.UI.MassWeight>Massa</DMSE.Transfer.UI.MassWeight>
+  <DMSE.Transfer.UI.MassWeightValue>{0} ({1} pilhas)</DMSE.Transfer.UI.MassWeightValue>
+  <DMSE.Transfer.UI.MaxDistance>Alcance (blocos)</DMSE.Transfer.UI.MaxDistance>
+  <DMSE.Transfer.UI.NetworkHeader>Rede estrutural</DMSE.Transfer.UI.NetworkHeader>
+  <DMSE.Transfer.UI.NoEngines>Não há motores de transferência nesta nave.</DMSE.Transfer.UI.NoEngines>
+  <DMSE.Transfer.UI.NoFuelSources>Não há tanques de combustível nesta nave.</DMSE.Transfer.UI.NoFuelSources>
+  <DMSE.Transfer.UI.NoIssues>Pronto.</DMSE.Transfer.UI.NoIssues>
+  <DMSE.Transfer.UI.ParkedAtNeighbor>Bloco ocupado; a nave estacionará ao lado dele.</DMSE.Transfer.UI.ParkedAtNeighbor>
+  <DMSE.Transfer.UI.PendingOrders>Pilhas com ordens de viga</DMSE.Transfer.UI.PendingOrders>
+  <DMSE.Transfer.UI.Phase>Fase</DMSE.Transfer.UI.Phase>
+  <DMSE.Transfer.UI.PhaseLeft>Tempo restante na fase</DMSE.Transfer.UI.PhaseLeft>
+  <DMSE.Transfer.UI.Piles>Pilhas</DMSE.Transfer.UI.Piles>
+  <DMSE.Transfer.UI.PlanHeader>Plano: para o bloco {0}</DMSE.Transfer.UI.PlanHeader>
+  <DMSE.Transfer.UI.PropulsionHeader>Propulsão</DMSE.Transfer.UI.PropulsionHeader>
+  <DMSE.Transfer.UI.ReactorSupport>Suporte do reator de fusão (necessário / disponível)</DMSE.Transfer.UI.ReactorSupport>
+  <DMSE.Transfer.UI.TWR>Relação empuxo-peso (mín. {0})</DMSE.Transfer.UI.TWR>
+  <DMSE.Transfer.UI.Thrust>Empuxo</DMSE.Transfer.UI.Thrust>
+  <DMSE.Transfer.UI.ThrustWithBoosters>{0} (+{1} propulsores, apenas na partida)</DMSE.Transfer.UI.ThrustWithBoosters>
+  <DMSE.Transfer.UI.TornApart>Construções despedaçadas na partida</DMSE.Transfer.UI.TornApart>
+  <DMSE.Transfer.UI.TotalTime>Tempo total de viagem</DMSE.Transfer.UI.TotalTime>
+  <DMSE.Transfer.UI.UnlinkedPiles>Pilhas não vinculadas próximas</DMSE.Transfer.UI.UnlinkedPiles>
+  <DMSE.Transfer.UI.WarningPrefix>Aviso</DMSE.Transfer.UI.WarningPrefix>
+  <DMSE.TurretGun.BarrelBusy>A arma está ocupada bombardeando um alvo no mapa-múndi.</DMSE.TurretGun.BarrelBusy>
+  <DMSE.TurretGun.Engaging>Engajando: {0}</DMSE.TurretGun.Engaging>
+  <DMSE.TurretGun.OutOfRange>Alvo fora do alcance: alcance máximo é {0} células.</DMSE.TurretGun.OutOfRange>
+  <DMSE.TurretGun.RangeBand>Alcance: {0} a {1} células. Alvos dentro do alcance mínimo não podem ser engajados.</DMSE.TurretGun.RangeBand>
+  <DMSE.TurretGun.TooClose>Alvo muito próximo: alcance mínimo é {0} células.</DMSE.TurretGun.TooClose>
+  <DMSE.UI.ActiveConfig>Atualmente ativo</DMSE.UI.ActiveConfig>
+  <DMSE.UI.AddToWave>Adicionando à onda {0}</DMSE.UI.AddToWave>
+  <DMSE.UI.AllAssigned>Todos os mísseis disponíveis foram atribuídos. Selecione uma onda para revisar seu conteúdo ou remova mísseis para realocá-los.</DMSE.UI.AllAssigned>
+  <DMSE.UI.AllowPartialFire>Permitir lançamento parcial: dispara apenas os mísseis prontos (também Shift+Clique)</DMSE.UI.AllowPartialFire>
+  <DMSE.UI.Comparison>Atualmente ativo → após a montagem</DMSE.UI.Comparison>
+  <DMSE.UI.DamageChange>Dano</DMSE.UI.DamageChange>
+  <DMSE.UI.EngineeringDetails>Detalhes de engenharia</DMSE.UI.EngineeringDetails>
+  <DMSE.UI.FuelRequiredAvailable>Combustível: necessário / disponível</DMSE.UI.FuelRequiredAvailable>
+  <DMSE.UI.HideDetails>▾ Ocultar detalhes de engenharia e equipamento</DMSE.UI.HideDetails>
+  <DMSE.UI.HideStats>▾ Ocultar desempenho completo</DMSE.UI.HideStats>
+  <DMSE.UI.Locate>Localizar</DMSE.UI.Locate>
+  <DMSE.UI.NoAvailableMissiles>Nenhum míssil pode ser atribuído. Revise os mísseis indisponíveis abaixo; alguns podem estar reservados para outra missão.</DMSE.UI.NoAvailableMissiles>
+  <DMSE.UI.NoMissiles>Nenhum candidato a míssil. Carregue mísseis compatíveis nos lançadores para começar.</DMSE.UI.NoMissiles>
+  <DMSE.UI.PendingConfig>Montagem pendente: ainda não ativo</DMSE.UI.PendingConfig>
+  <DMSE.UI.RangeChange>Alcance</DMSE.UI.RangeChange>
+  <DMSE.UI.ShowDetails>▸ Detalhes de engenharia e equipamento</DMSE.UI.ShowDetails>
+  <DMSE.UI.ShowStats>▸ Desempenho completo após a montagem</DMSE.UI.ShowStats>
+  <DMSE.UI.TransferBlocked>Partida bloqueada: {0} erros, {1} avisos</DMSE.UI.TransferBlocked>
+  <DMSE.UI.TransferReady>Verificações de prontidão aprovadas · {1} avisos</DMSE.UI.TransferReady>
+  <DMSE_Crater>Cratera {0}</DMSE_Crater>
+  <DMSE_MissileDecaySheltered>Protegido: durabilidade estável</DMSE_MissileDecaySheltered>
+  <DMSE_MissileDecayUnsheltered>Desprotegido: perdendo {0} de durabilidade/dia</DMSE_MissileDecayUnsheltered>
+  <DMSE_MissileDecayedAway>{0} se degradou além do uso e se despedaçou.</DMSE_MissileDecayedAway>
+  <DMSE_MissileRackStored>Mísseis armazenados: {0} / {1}</DMSE_MissileRackStored>
+  <DMSE_ShipWarmUpBegin>Núcleo de fusão aquecendo. Procedimento de lançamento em 6...</DMSE_ShipWarmUpBegin>
+  <DMSE_ShipWarmUpCountdown>Procedimento de lançamento em {0}</DMSE_ShipWarmUpCountdown>
+  <DMS_Exist>Visibilidade do mapa: {0}</DMS_Exist>
+  <ScorerLaunch>Lançar míssil</ScorerLaunch>
+  <ScorerLaunchDesc>Lança o míssil tático carregado. O míssil poderá atingir alvos fora do mapa-múndi em longo alcance e manterá a visibilidade do mapa por 3 dias para avaliar a eficácia do ataque. Relançar reinicia esse tempo.</ScorerLaunchDesc>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPEP_Ascension.description>Mira em um fantoche controlado e faz com que ele cometa suicídio por sobrecarga psíquica, aniquilando a si mesmo e os 5 blocos ao redor. A soma das habilidades aprendidas do fantoche é convertida em energia psíquica para a detonação, com uma fração absorvida pelo conjurador como XP de psicocast.</VPEP_Ascension.description>
+  <VPEP_Ascension.label>ascensão</VPEP_Ascension.label>
+  <VPEP_BrainCut.description>Um uso intencionalmente indevido do psicocast de reprogramação que cria uma fenda permanente no cérebro do alvo. O dano escala com a sensibilidade psíquica do alvo e sempre o desorienta por 2 segundos.</VPEP_BrainCut.description>
+  <VPEP_BrainCut.label>corte cerebral</VPEP_BrainCut.label>
+  <VPEP_BrainLeech.description>Cria um elo psiônico em um colega ou prisioneiro que redireciona o poder de processamento cerebral para o sugador. O efeito é ineficiente e atinge seu máximo após 2 dias antes de desaparecer na obscuridade. Apenas um sugador cerebral pode ser mantido por vez.</VPEP_BrainLeech.description>
+  <VPEP_BrainLeech.label>suga-cérebro</VPEP_BrainLeech.label>
+  <VPEP_Degrade.description>Reverte os instintos comportamentais do alvo humanoide a um estado consideravelmente mais primitivo, forçando o colapso mental "tornar-se selvagem".</VPEP_Degrade.description>
+  <VPEP_Degrade.label>degradar</VPEP_Degrade.label>
+  <VPEP_MindJump.description>Troca permanentemente o corpo do conjurador e do fantoche alvo, com o fantoche tornando-se o mestre com todas as suas capacidades de psicocast. A súbita mudança de consciência e a adaptação a um novo vaso trancam o novo mestre em um coma psíquico escalonado de 48 horas.</VPEP_MindJump.description>
+  <VPEP_MindJump.label>salto mental</VPEP_MindJump.label>
+  <VPEP_MindSplit.description>Ao usar o equivalente psiônico de um martelo e um cinzel em sua própria consciência, o conjurador pode aumentar permanentemente seu limite de fantoches controláveis em um. Efetivamente indolor, pois ele perde a consciência por um curto período ao despedaçar seu senso de identidade.</VPEP_MindSplit.description>
+  <VPEP_MindSplit.label>divisão mental</VPEP_MindSplit.label>
+  <VPEP_Puppet.description>Ao mirar em um colono afetado por Suga-cérebro, este psicocast sobrescreve permanentemente sua personalidade com a do conjurador. Trava a porção de memória de curto prazo do cérebro para sincronizar com o conjurador, fazendo com que este entre em um breve coma. O número de fantoches é inicialmente limitado a um.</VPEP_Puppet.description>
+  <VPEP_Puppet.label>fantoche</VPEP_Puppet.label>
+  <VPEP_PuppetSwarm.description>Ao causar um efeito similar a um caso extremo de "saudosismo", o conjurador pode forçar todos os fantoches vinculados a se teleportarem até ele quase instantaneamente, independentemente da distância.</VPEP_PuppetSwarm.description>
+  <VPEP_PuppetSwarm.label>enxame de fantoches</VPEP_PuppetSwarm.label>
+  <VPEP_Subjugation.description>Induz uma forma de doutrinação em um prisioneiro alterando as vias neuronais para que pensamentos sobre a facção do alvo desencadeiem reações negativas. Os efeitos são bastante nauseantes e o "convencem" a mudar de lado após 7 dias.</VPEP_Subjugation.description>
+  <VPEP_Subjugation.label>subjugação</VPEP_Subjugation.label>
+  <VPEP_SummonPuppet.description>Ao causar um efeito similar a um caso extremo de "saudosismo", o conjurador pode forçar o fantoche a se teleportar até ele quase instantaneamente, independentemente da distância.</VPEP_SummonPuppet.description>
+  <VPEP_SummonPuppet.label>invocar fantoche</VPEP_SummonPuppet.label>
+</LanguageData>

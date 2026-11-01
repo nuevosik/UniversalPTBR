@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DM_MISS>Errou</DM_MISS>
+  <DisplayPawnsInstigatorOnly>Exibir indicadores de dano apenas quando causados por personagens</DisplayPawnsInstigatorOnly>
+  <DisplayPawnsInstigatorOnly_Desc>Os indicadores de dano não serão exibidos se o agressor não for um personagem. (Decaimento natural, fogo...)</DisplayPawnsInstigatorOnly_Desc>
+  <DisplayPawnsOnly>Exibir indicadores de dano apenas para personagens</DisplayPawnsOnly>
+  <DisplayPawnsOnly_Desc>Os indicadores de dano não serão exibidos se o alvo não for um personagem.</DisplayPawnsOnly_Desc>
+  <EnableIndicatorNeutralFactions>Ativar indicadores de dano para facções neutras</EnableIndicatorNeutralFactions>
+  <EnableIndicatorNeutralFactions_Desc>Os indicadores de dano não serão exibidos se o agressor ou o alvo não tiverem uma facção.</EnableIndicatorNeutralFactions_Desc>
+  <PERSONALSHIELD_BROKEN>QUEBRADO</PERSONALSHIELD_BROKEN>
+</LanguageData>

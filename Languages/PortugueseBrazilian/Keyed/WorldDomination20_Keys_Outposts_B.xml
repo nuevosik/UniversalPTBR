@@ -203,9 +203,7 @@
   <TSA_WD_RemoteEstablish_Headline>Fundar posto avançado no bloco selecionado</TSA_WD_RemoteEstablish_Headline>
   <TSA_WD_RemoteEstablish_Establish>Enviar e fundar</TSA_WD_RemoteEstablish_Establish>
   <TSA_WD_RemoteEstablish_ClickTileHint>Clique em um bloco do mundo para fundar um posto avançado. Clique com o botão direito para cancelar.</TSA_WD_RemoteEstablish_ClickTileHint>
-  <TSA_WD_RemoteEstablish_ColonyOnly>Apenas colonos da colônia podem ser enviados para fundar um posto avançado.</TSA_WD_RemoteEstablish_ColonyOnly>
   <TSA_WD_RemoteEstablish_ColonyMapNotLoaded>O mapa da colônia não está carregado.</TSA_WD_RemoteEstablish_ColonyMapNotLoaded>
-  <TSA_WD_RemoteEstablish_SingleColony>Selecione colonos de apenas um mapa de colônia.</TSA_WD_RemoteEstablish_SingleColony>
   <TSA_WD_RemoteEstablish_NeedHumanlike>Selecione pelo menos um colono humanoide.</TSA_WD_RemoteEstablish_NeedHumanlike>
   <TSA_WD_RemoteEstablish_CarryTooHeavy>Estes colonos não conseguem carregar os materiais de fundação.\n\nCarga: {0} kg\nCapacidade: {1} kg\nFaltam: {2} kg\n\nEnviá-los mesmo assim?</TSA_WD_RemoteEstablish_CarryTooHeavy>
   <TSA_WD_RemoteEstablish_InvalidSelection>Selecione colonos da colônia para fundar um posto avançado.</TSA_WD_RemoteEstablish_InvalidSelection>
@@ -344,8 +342,6 @@
   <TSA_WD_Warehouse_ShipNothingSelected>Selecione pelo menos uma pilha para enviar.</TSA_WD_Warehouse_ShipNothingSelected>
   <TSA_WD_Warehouse_ShipInsufficient>Estoque insuficiente para esse envio.</TSA_WD_Warehouse_ShipInsufficient>
   <TSA_WD_Warehouse_ShipLaunched>Envio lançado para {0}.</TSA_WD_Warehouse_ShipLaunched>
-  <TSA_WD_Warehouse_Deposit_LetterLabel>Entrega ao armazém: {0}</TSA_WD_Warehouse_Deposit_LetterLabel>
-  <TSA_WD_Warehouse_Deposit_Letter>Bens de {0} chegaram ao armazém {1}:</TSA_WD_Warehouse_Deposit_Letter>
   <TSA_WD_Warehouse_PodDeposit>Armazenadas {0} pilha(s) de itens em {1}.</TSA_WD_Warehouse_PodDeposit>
   <TSA_WD_Warehouse_CaravanDeposit>Armazenados {0} item(ns) de caravana em {1}.</TSA_WD_Warehouse_CaravanDeposit>
   <TSA_WD_SetRedirection>Definir alvo de redirecionamento</TSA_WD_SetRedirection>

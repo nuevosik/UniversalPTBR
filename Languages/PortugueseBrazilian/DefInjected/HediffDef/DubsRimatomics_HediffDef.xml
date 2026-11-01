@@ -41,4 +41,10 @@
   <RimatomicsRadiation.description>doença da radiação</RimatomicsRadiation.description>
   <RadiationIncurable.description>acúmulo de radiação</RadiationIncurable.description>
   <RadiationMechanoid.description>dano por radiação</RadiationMechanoid.description>
+  <ADSPain.description>Dor intensa e queimante na pele causada por um feixe ativo de sistema de negação. Não causa ferimento real e desaparece em poucas horas.</ADSPain.description>
+  <ADSPain.label>queimadura por negação ativa</ADSPain.label>
+  <ADSPain.stages.0.label>leve</ADSPain.stages.0.label>
+  <ADSPain.stages.1.label>moderada</ADSPain.stages.1.label>
+  <ADSPain.stages.2.label>grave</ADSPain.stages.2.label>
+  <ADSPain.stages.3.label>extrema</ADSPain.stages.3.label>
 </LanguageData>

@@ -139,4 +139,18 @@
   <PlanningExtended.PlanGrabbingPosition.TopRight>Direita superior</PlanningExtended.PlanGrabbingPosition.TopRight>
   <PlanningExtended.PlanGrabbingPosition.BottomLeft>Esquerda inferior</PlanningExtended.PlanGrabbingPosition.BottomLeft>
   <PlanningExtended.PlanGrabbingPosition.BottomRight>Direita inferior</PlanningExtended.PlanGrabbingPosition.BottomRight>
+  <PlanningExtended.GravshipLandingPlanMode.Clear>Limpar</PlanningExtended.GravshipLandingPlanMode.Clear>
+  <PlanningExtended.GravshipLandingPlanMode.Overwrite>Sobrescrever</PlanningExtended.GravshipLandingPlanMode.Overwrite>
+  <PlanningExtended.GravshipPlanTransferArea.GravshipRange>Alcance da gravinave</PlanningExtended.GravshipPlanTransferArea.GravshipRange>
+  <PlanningExtended.GravshipPlanTransferArea.Substructure>Subestrutura</PlanningExtended.GravshipPlanTransferArea.Substructure>
+  <PlanningExtended.GravshipPlansCopied>Todos os planos dentro do alcance da gravinave foram copiados para a prancheta de planejamento.</PlanningExtended.GravshipPlansCopied>
+  <PlanningExtended.Settings.DisplayVanillaPlanDesignators.Desc>Se habilitado, os botões de adicionar e remover planos do jogo base ficarão visíveis. Se desabilitado, eles não ficarão visíveis.</PlanningExtended.Settings.DisplayVanillaPlanDesignators.Desc>
+  <PlanningExtended.Settings.DisplayVanillaPlanDesignators.Label>Exibir designadores de plano padrão</PlanningExtended.Settings.DisplayVanillaPlanDesignators.Label>
+  <PlanningExtended.Settings.Gravship.Label>Gravinave</PlanningExtended.Settings.Gravship.Label>
+  <PlanningExtended.Settings.GravshipLandingPlanMode.Desc>Limpar: Os planos existentes na área de pouso são removidos antes dos planos da gravinave serem colocados.\nSobrescrever: Os planos existentes só são substituídos onde a gravinave traz um plano.</PlanningExtended.Settings.GravshipLandingPlanMode.Desc>
+  <PlanningExtended.Settings.GravshipLandingPlanMode.Label>Planos existentes no local de pouso</PlanningExtended.Settings.GravshipLandingPlanMode.Label>
+  <PlanningExtended.Settings.GravshipPlanTransferArea.Desc>Determina quais planos viajam com a gravinave.\n\nSubestrutura: Apenas planos na subestrutura.\nAlcance da gravinave: Todos os planos dentro do alcance do motor gravitacional e dos extensores de campo gravitacional.</PlanningExtended.Settings.GravshipPlanTransferArea.Desc>
+  <PlanningExtended.Settings.GravshipPlanTransferArea.Label>Planos a transferir</PlanningExtended.Settings.GravshipPlanTransferArea.Label>
+  <PlanningExtended.Settings.KeepGravshipRangePlansOnTakeoff.Desc>Aplica-se apenas ao Alcance da gravinave. Se habilitado, os planos dentro do alcance que não estão na subestrutura são copiados e também permanecem no local de decolagem. Caso contrário, eles são movidos.</PlanningExtended.Settings.KeepGravshipRangePlansOnTakeoff.Desc>
+  <PlanningExtended.Settings.KeepGravshipRangePlansOnTakeoff.Label>Manter planos fora da subestrutura na decolagem</PlanningExtended.Settings.KeepGravshipRangePlansOnTakeoff.Label>
 </LanguageData>

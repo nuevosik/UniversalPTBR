@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ammo_40x102mm_Beanbag.label>Projétil 40x102mm (Saco de feijão)</Ammo_40x102mm_Beanbag.label>
+  <Ammo_40x102mm_Buck.label>Projétil 40x102mm (Chumbo grosso)</Ammo_40x102mm_Buck.label>
+  <Ammo_40x102mm_ElectroSlug.label>Projétil 40x102mm (PEM)</Ammo_40x102mm_ElectroSlug.label>
+  <Ammo_40x102mm_Slug.label>Projétil 40x102mm (Bala única)</Ammo_40x102mm_Slug.label>
+  <Ammo_80mmRocket_HE.label>Foguete S8 de 80mm (Alto explosivo)</Ammo_80mmRocket_HE.label>
+  <Ammo_80mmRocket_HEAT.label>Foguete S8 de 80mm (Carga termobárica antitanque)</Ammo_80mmRocket_HEAT.label>
+  <Ammo_80mmRocket_Thermobaric.label>Foguete S8 de 80mm (Termobárico)</Ammo_80mmRocket_Thermobaric.label>
+  <Bullet_40x102mm_Beanbag.label>Saco de feijão</Bullet_40x102mm_Beanbag.label>
+  <Bullet_40x102mm_Buck.label>Grânulo de chumbo grosso</Bullet_40x102mm_Buck.label>
+  <Bullet_40x102mm_ElectroSlug.label>Bala PEM</Bullet_40x102mm_ElectroSlug.label>
+  <Bullet_40x102mm_Slug.label>Bala única</Bullet_40x102mm_Slug.label>
+  <Bullet_80mmRocket_HE.label>Foguete S8 de 80mm (Alto explosivo)</Bullet_80mmRocket_HE.label>
+  <Bullet_80mmRocket_HEAT.label>Foguete S8 de 80mm (Carga termobárica antitanque)</Bullet_80mmRocket_HEAT.label>
+  <Bullet_80mmRocket_Thermobaric.label>Foguete S8 de 80mm (Termobárico)</Bullet_80mmRocket_Thermobaric.label>
+  <DMS_Apparel_APS.description>Um sistema de defesa ativo instalado em grandes plataformas de combate que pode prevenir acertos diretos ao detonar prematuramente projéteis explosivos inimigos quando ativado. Devido ao seu consumo energético extremamente alto durante a operação, não pode funcionar por longos períodos e requer resfriamento.</DMS_Apparel_APS.description>
+  <DMS_Apparel_APS.label>Sistema de proteção ativo</DMS_Apparel_APS.label>
+  <DMS_Apparel_AT34_Core.description>Uma estrutura de armadura motorizada exportada para todo o mundo da borda com fins civis e de treinamento. No entanto, ao contrário de sua finalidade nominal, a Yetta tornou-se, em certa medida, o maior equipamento individual que pode ser utilizado pelas forças armadas locais no mundo da borda, exceto veículos blindados. Fornecer manutenção e peças adequadas para este equipamento sem industrialização adequada teria se tornado extremamente difícil sem o comércio com a frota colonial.</DMS_Apparel_AT34_Core.description>
+  <DMS_Apparel_AT34_Core.label>Estrutura AT-34 "Yetta"</DMS_Apparel_AT34_Core.label>
+  <DMS_Apparel_AT34_Core.tools.mechanical_fist.label>Punho mecânico</DMS_Apparel_AT34_Core.tools.mechanical_fist.label>
+  <DMS_Apparel_AT34_Core.tools.mechanical_leg.label>Perna mecânica</DMS_Apparel_AT34_Core.tools.mechanical_leg.label>
+  <DMS_Apparel_AT34_Helmet.description>Um sensor integrado compatível com o módulo de cabeça do Dragão, projetado para melhorar o desempenho operacional da estrutura por meio de um sistema de rastreamento radar pré-programado e HUD.</DMS_Apparel_AT34_Helmet.description>
+  <DMS_Apparel_AT34_Helmet.label>Capacete AT-34 "Yetta"</DMS_Apparel_AT34_Helmet.label>
+  <DMS_Apparel_ArmorPad.description>Uma pesada armadura de ombro montada em uma estrutura exoesquelética.</DMS_Apparel_ArmorPad.description>
+  <DMS_Apparel_ArmorPad.label>Ombreira blindada</DMS_Apparel_ArmorPad.label>
+  <DMS_Apparel_CargoBox.description>Uma grade de metal acoplada capaz de armazenar cargas em uma estrutura andante.</DMS_Apparel_CargoBox.description>
+  <DMS_Apparel_CargoBox.label>Compartimento de carga</DMS_Apparel_CargoBox.label>
+  <DMS_Apparel_CombatSword.description>Uma espada longa usada pelos dragões. É uma arma de combate pesada, especialmente projetada para lutar contra grandes criaturas e máquinas, possuindo as funções de facão e martelo perfurante de armaduras. Seu próprio peso a torna muito eficaz, mesmo quando usada para eliminar infantaria leve e fortificações.</DMS_Apparel_CombatSword.description>
+  <DMS_Apparel_CombatSword.label>Espada de combate</DMS_Apparel_CombatSword.label>
+  <DMS_Apparel_FA47_Core.description>Um Dragão com capacidades de combate no espaço exterior, utilizado pela Cavalaria Orbital da Frota Colonial. Sua carcaça totalmente fechada é feita de plastiaço e pode carregar um sistema de propulsão capaz de voos suborbitais de curta distância na superfície do planeta.</DMS_Apparel_FA47_Core.description>
+  <DMS_Apparel_FA47_Core.label>Estrutura F/A-47 "Arsenal Angel"</DMS_Apparel_FA47_Core.label>
+  <DMS_Apparel_FA47_Core.tools.mechanical_fist.label>Punho mecânico</DMS_Apparel_FA47_Core.tools.mechanical_fist.label>
+  <DMS_Apparel_FA47_Core.tools.mechanical_leg.label>Perna mecânica</DMS_Apparel_FA47_Core.tools.mechanical_leg.label>
+  <DMS_Apparel_FA47_Helmet.description>Um complexo módulo sensor de calibre sintético utilizado pelas frotas coloniais em dragões usados em operações espaciais. Pode rastrear efetivamente inimigos em alta velocidade e auxiliar o piloto na mira.</DMS_Apparel_FA47_Helmet.description>
+  <DMS_Apparel_FA47_Helmet.label>Capacete F/A-47 "Arsenal Angel"</DMS_Apparel_FA47_Helmet.label>
+  <DMS_Apparel_Groyne_Helmet.description>Uma cobertura blindada que oferece proteção ao motorista sem processos de fabricação óptica adequados. É volumoso, mas oferece alguma durabilidade.</DMS_Apparel_Groyne_Helmet.description>
+  <DMS_Apparel_Groyne_Helmet.label>Capacete "Groyne"</DMS_Apparel_Groyne_Helmet.label>
+  <DMS_Apparel_InfraredSensor.description>Um sensor óptico externo adicional que fornece capacidades operacionais noturnas sem modificar a estrutura em si, além de auxiliar na mira.</DMS_Apparel_InfraredSensor.description>
+  <DMS_Apparel_InfraredSensor.label>Sensor infravermelho</DMS_Apparel_InfraredSensor.label>
+  <DMS_Apparel_JumpThruster.comps.CompApparelReloadable.chargeNoun>salto</DMS_Apparel_JumpThruster.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Apparel_JumpThruster.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_JumpThruster.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Apparel_JumpThruster.description>Um propulsor pesado movido por 4 motores a jato. Permite que o Dragão voe curtas distâncias e também realize assaltos aéreos de maior alcance quando lançado por catapulta.</DMS_Apparel_JumpThruster.description>
+  <DMS_Apparel_JumpThruster.label>Propulsor de rajada</DMS_Apparel_JumpThruster.label>
+  <DMS_Apparel_JumpThruster.verbs.jump.label>saltar</DMS_Apparel_JumpThruster.verbs.jump.label>
+  <DMS_Apparel_MissilePod.comps.CompApparelReloadable.chargeNoun>míssil</DMS_Apparel_MissilePod.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Apparel_MissilePod.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_MissilePod.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Apparel_MissilePod.description>Um módulo de pod de mísseis acoplável a diversas plataformas de armas. Capaz de carregar e disparar quatro mísseis guiados por infravermelho para uso anti-fortificação.</DMS_Apparel_MissilePod.description>
+  <DMS_Apparel_MissilePod.label>Pod de mísseis demolidores</DMS_Apparel_MissilePod.label>
+  <DMS_Apparel_MissilePod.verbs.launch_missile.label>lançar míssil</DMS_Apparel_MissilePod.verbs.launch_missile.label>
+  <DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.chargeNoun>míssil</DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Apparel_MissilePodPlus.description>Um módulo de pod de mísseis acoplável a diversas plataformas de armas. Mais pesado, mas capaz de carregar o dobro de mísseis.</DMS_Apparel_MissilePodPlus.description>
+  <DMS_Apparel_MissilePodPlus.label>Pod de mísseis reforçado</DMS_Apparel_MissilePodPlus.label>
+  <DMS_Apparel_MissilePodPlus.verbs.launch_missile.label>lançar míssil</DMS_Apparel_MissilePodPlus.verbs.launch_missile.label>
+  <DMS_Apparel_PF3_Core.description>Uma estrutura exoesquelética com menos de 2 metros de altura, cuja tecnologia remonta ao final do século 22, quando estruturas exoesqueléticas de engenharia produzidas em massa foram utilizadas para construir um sistema de elevador espacial para o Projeto Skyway.\n\nApós o advento da era espacial, um grande número de estruturas de engenharia e equipamentos de produção fluiu para organizações civis e armadas.\n\nO Arbeiter possui um braço esquerdo que pode usar ferramentas humanas e um braço direito usado para instalar módulos de ferramentas e equilibrar o peso, permitindo a substituição de módulos para atender à maioria das missões de trabalho.</DMS_Apparel_PF3_Core.description>
+  <DMS_Apparel_PF3_Core.label>Estrutura motorizada PF-3 "Arbeiter"</DMS_Apparel_PF3_Core.label>
+  <DMS_Apparel_PF3_Core.tools.mechanical_fist.label>Punho mecânico</DMS_Apparel_PF3_Core.tools.mechanical_fist.label>
+  <DMS_Apparel_PF3_Core.tools.mechanical_leg.label>Perna mecânica</DMS_Apparel_PF3_Core.tools.mechanical_leg.label>
+  <DMS_Apparel_PV4_Core.description>Um antigo modelo de Dragão, notório pelo risco de despedaçar pilotos menos experientes ao pilotá-lo. Pode ser rastreado até a intervenção armada da frota colonial durante a crise de Zartha. \n\nSegundo a lenda, uma força-tarefa blindada equipada com este tipo de dragão aniquilou um exército várias vezes maior em apenas três dias. Desde que foi desativado e substituído por modelos mais seguros há quase cem anos, circula raramente no mundo da borda. Mas seu design extremamente compacto também lhe confere um desempenho que até mesmo os dragões modernos não conseguem igualar. \n\nPara manter a segurança do piloto, é necessário que ele use um uniforme de piloto especializado.</DMS_Apparel_PV4_Core.description>
+  <DMS_Apparel_PV4_Core.label>Módulo de estrutura PV-4 "Old Buddy"</DMS_Apparel_PV4_Core.label>
+  <DMS_Apparel_PV4_Core.tools.mechanical_fist.label>Punho mecânico</DMS_Apparel_PV4_Core.tools.mechanical_fist.label>
+  <DMS_Apparel_PV4_Core.tools.mechanical_leg.label>Perna mecânica</DMS_Apparel_PV4_Core.tools.mechanical_leg.label>
+  <DMS_Apparel_PV4_Helmet.description>Um capacete pesado antigo, mas muito eficaz, que utiliza um detector de abertura sintética, um tanto caro na época, e armadura plástica composta integrada. É hermético o suficiente para se mover livremente mesmo em campos de batalha com guerra nuclear, biológica e química.</DMS_Apparel_PV4_Helmet.description>
+  <DMS_Apparel_PV4_Helmet.label>Capacete PV-4 "Miboche"</DMS_Apparel_PV4_Helmet.label>
+  <DMS_Apparel_PV8_Core.description>Uma armadura motorizada fortemente armada ou, como é chamada, "Dragão", usada pela força-tarefa do Exército Colonial. Provavelmente é a maior peça de equipamento de infantaria implantada pela frota colonial na superfície deste planeta. A armadura extremamente espessa e o poderoso sistema de energia permitem à guarnição terrestre manter poder de fogo móvel suficiente para lidar com interferências no projeto de colonização.</DMS_Apparel_PV8_Core.description>
+  <DMS_Apparel_PV8_Core.label>Estrutura PV-8 "Zyklop"</DMS_Apparel_PV8_Core.label>
+  <DMS_Apparel_PV8_Core.tools.mechanical_fist.label>Punho mecânico</DMS_Apparel_PV8_Core.tools.mechanical_fist.label>
+  <DMS_Apparel_PV8_Core.tools.mechanical_leg.label>Perna mecânica</DMS_Apparel_PV8_Core.tools.mechanical_leg.label>
+  <DMS_Apparel_PV8_Helmet.description>Um capacete resistente que utiliza pequenas sondas ópticas distribuídas como sensores para evitar danos causados por impactos frontais de armas de grande calibre.</DMS_Apparel_PV8_Helmet.description>
+  <DMS_Apparel_PV8_Helmet.label>Capacete PV-8 "Zyklop"</DMS_Apparel_PV8_Helmet.label>
+  <DMS_Apparel_PackCargo.description>Um módulo de mochila com compartimentos de carga e uma unidade de propulsão adicional, permitindo que a estrutura carregue mais carga.</DMS_Apparel_PackCargo.description>
+  <DMS_Apparel_PackCargo.label>Mochila de carga</DMS_Apparel_PackCargo.label>
+  <DMS_Apparel_PackControlRelay.description>Uma mochila reforçada projetada para auxiliar o mecanizador no controle de mecanoides, aumentando a largura de banda do mecanizador por meio de uma coordenação eficaz.</DMS_Apparel_PackControlRelay.description>
+  <DMS_Apparel_PackControlRelay.label>Mochila de retransmissão</DMS_Apparel_PackControlRelay.label>
+  <DMS_Apparel_PackEngineering.description>Módulo acoplado às costas da estrutura. Possui um par de braços robóticos para realizar trabalhos logísticos, como construção, manutenção, transporte e processamento.</DMS_Apparel_PackEngineering.description>
+  <DMS_Apparel_PackEngineering.label>Mochila de engenharia</DMS_Apparel_PackEngineering.label>
+  <DMS_Apparel_PackFrame.description>Um sistema exoesquelético para a estrutura que permite o uso de equipamentos pesados sem alterar o próprio projeto.</DMS_Apparel_PackFrame.description>
+  <DMS_Apparel_PackFrame.label>Mochila com estrutura hidráulica</DMS_Apparel_PackFrame.label>
+  <DMS_Apparel_PileBunker.description>Um módulo de engenharia instalado na estrutura. Devido à sua altíssima eficiência, é frequentemente usado para demolir edifícios e realizar escavações. Também pode ser usado para outras tarefas em certa medida.</DMS_Apparel_PileBunker.description>
+  <DMS_Apparel_PileBunker.label>Perfurador de estacas</DMS_Apparel_PileBunker.label>
+  <DMS_Apparel_PileBunker.tools.0.label>estaca de tungstênio</DMS_Apparel_PileBunker.tools.0.label>
+  <DMS_Apparel_PileBunker.tools.1.label>ferramenta mecânica</DMS_Apparel_PileBunker.tools.1.label>
+  <DMS_Apparel_PileBunker.tools.mechanical_tool.label>ferramenta mecânica</DMS_Apparel_PileBunker.tools.mechanical_tool.label>
+  <DMS_Apparel_PileBunker.tools.tungsteel_pile.label>estaca de tungstênio</DMS_Apparel_PileBunker.tools.tungsteel_pile.label>
+  <DMS_Apparel_PilotSuit.description>O traje EFP significa "Exo-Frame Pilot jumpsuit" (Macacão do Piloto de Exoestrutura). Um traje blindado projetado para pilotos de exotrajes. Possui excelente proteção balística com acolchoamento adequado e placas compostas à prova de balas. Também oferece proteção ambiental contra armas nucleares ou biológicas. No entanto, a maioria dos pilotos prefere usar um colete à prova de balas ao invés deste traje ao pilotar um exoesqueleto, pois é inconveniente e muito abafado.</DMS_Apparel_PilotSuit.description>
+  <DMS_Apparel_PilotSuit.label>Traje EFP</DMS_Apparel_PilotSuit.label>
+  <DMS_Apparel_PulseShield.description>Um módulo de escudo miniaturizado usado em pequena escala pela frota colonial. Sua rápida recarga permite absorver completamente rajadas de projéteis de baixo calibre ou interceptar projéteis letais.</DMS_Apparel_PulseShield.description>
+  <DMS_Apparel_PulseShield.label>Escudo de pulso</DMS_Apparel_PulseShield.label>
+  <DMS_Apparel_RelayAntenna.description>Um módulo de antena que expande o alcance de controle para mecanizadores aliados. Embora o alcance seja relativamente limitado, é o suficiente para permitir que os mecanizadores coordenem a infantaria ao redor da estrutura.</DMS_Apparel_RelayAntenna.description>
+  <DMS_Apparel_RelayAntenna.label>Antena de retransmissão</DMS_Apparel_RelayAntenna.label>
+  <DMS_Apparel_Shield.description>Um escudo de blindagem composta montado na estrutura do dragão. Embora seja um pouco pesado, pode resistir efetivamente a danos causados por fragmentos de grande calibre e balas de rifle antimaterial.</DMS_Apparel_Shield.description>
+  <DMS_Apparel_Shield.label>Escudo sólido</DMS_Apparel_Shield.label>
+  <DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.chargeNoun>granada de fumaça</DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Apparel_SmokeLauncher.description>Um lançador simples controlado remotamente, capaz de carregar granadas de fumaça e fornecer cobertura precisa.</DMS_Apparel_SmokeLauncher.description>
+  <DMS_Apparel_SmokeLauncher.label>Lançador de fumaça</DMS_Apparel_SmokeLauncher.label>
+  <DMS_Apparel_SmokeLauncher.verbs.launch_smoke_shell.label>lançar granada de fumaça</DMS_Apparel_SmokeLauncher.verbs.launch_smoke_shell.label>
+  <DMS_Apparel_Stahlhelm_Helmet.description>Um módulo civil para estrutura usado para soldagem. Na verdade, grandes quantidades foram para o mercado de armas e sofreram certas modificações à prova de balas.</DMS_Apparel_Stahlhelm_Helmet.description>
+  <DMS_Apparel_Stahlhelm_Helmet.label>Capacete "Stahlhelm"</DMS_Apparel_Stahlhelm_Helmet.label>
+  <DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.chargeNoun>míssil Stugna</DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Apparel_StugnaLauncher.description>Um lançador de ombro para dragões que comporta dois mísseis Stugna. É eficaz contra mecanoides pesados e até tanques. No entanto, é necessário um longo tempo de mira e linha de visão limpa para travar o alvo.</DMS_Apparel_StugnaLauncher.description>
+  <DMS_Apparel_StugnaLauncher.label>Lançador Stugna</DMS_Apparel_StugnaLauncher.label>
+  <DMS_Apparel_StugnaLauncher.verbs.launch_stugna_missile.label>lançar míssil Stugna</DMS_Apparel_StugnaLauncher.verbs.launch_stugna_missile.label>
+  <DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.chargeNoun>foguete</DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.chargeNoun>
+  <DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.cooldownGerund>em recarga</DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.cooldownGerund>
+  <DMS_Apparel_SwarmMissilePod.description>Um módulo de pod de foguetes que contém múltiplos foguetes de alto explosivo. Pode usar sua alta cadência de tiro para cobrir uma grande área.</DMS_Apparel_SwarmMissilePod.description>
+  <DMS_Apparel_SwarmMissilePod.label>Pod de foguetes em enxame</DMS_Apparel_SwarmMissilePod.label>
+  <DMS_Apparel_SwarmMissilePod.verbs.launch_rocket.label>lançar foguete</DMS_Apparel_SwarmMissilePod.verbs.launch_rocket.label>
+  <DMS_Apparel_TurretPackGAU.comps.Comp_VerbGiver.verbProps.0.description>Uma metralhadora rotativa montada no ombro.</DMS_Apparel_TurretPackGAU.comps.Comp_VerbGiver.verbProps.0.description>
+  <DMS_Apparel_TurretPackGAU.comps.Comp_VerbGiver.verbProps.0.visualLabel>GAU-19/A montada</DMS_Apparel_TurretPackGAU.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <DMS_Apparel_TurretPackGAU.description>Uma metralhadora controlada remotamente montada no ombro.</DMS_Apparel_TurretPackGAU.description>
+  <DMS_Apparel_TurretPackGAU.label>Suporte de ombro GAU-19/A</DMS_Apparel_TurretPackGAU.label>
+  <DMS_Apparel_TurretPackGAU.verbs.Gun.label>Arma</DMS_Apparel_TurretPackGAU.verbs.Gun.label>
+  <DMS_Apparel_TurretPackHeavy.comps.Comp_VerbGiver.verbProps.0.description>Uma metralhadora pesada montada no ombro.</DMS_Apparel_TurretPackHeavy.comps.Comp_VerbGiver.verbProps.0.description>
+  <DMS_Apparel_TurretPackHeavy.comps.Comp_VerbGiver.verbProps.0.visualLabel>Kord montada</DMS_Apparel_TurretPackHeavy.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <DMS_Apparel_TurretPackHeavy.description>Uma metralhadora controlada remotamente montada no ombro.</DMS_Apparel_TurretPackHeavy.description>
+  <DMS_Apparel_TurretPackHeavy.label>Suporte de ombro Kord</DMS_Apparel_TurretPackHeavy.label>
+  <DMS_Apparel_TurretPackHeavy.verbs.Gun.label>Arma</DMS_Apparel_TurretPackHeavy.verbs.Gun.label>
+  <DMS_Apparel_TurretPackLight.comps.Comp_VerbGiver.verbProps.0.description>Uma metralhadora leve simples projetada para ser montada no ombro.</DMS_Apparel_TurretPackLight.comps.Comp_VerbGiver.verbProps.0.description>
+  <DMS_Apparel_TurretPackLight.comps.Comp_VerbGiver.verbProps.0.visualLabel>LMG montada</DMS_Apparel_TurretPackLight.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <DMS_Apparel_TurretPackLight.description>Uma metralhadora controlada remotamente montada no ombro.</DMS_Apparel_TurretPackLight.description>
+  <DMS_Apparel_TurretPackLight.label>Suporte de ombro LMG</DMS_Apparel_TurretPackLight.label>
+  <DMS_Apparel_TurretPackLight.verbs.Gun.label>Arma</DMS_Apparel_TurretPackLight.verbs.Gun.label>
+  <DMS_Apparel_WeaponDMR.description>Um rifle de precisão em relação ao tamanho de um dragão, mas para humanos é basicamente um autocanhão de grande calibre letal. Usa um telêmetro eletrônico com imagem sintética para mira de alta precisão, proporcionando considerável exatidão para uma arma tão grande.</DMS_Apparel_WeaponDMR.description>
+  <DMS_Apparel_WeaponDMR.label>Rifle de precisão para dragão</DMS_Apparel_WeaponDMR.label>
+  <DMS_Apparel_WeaponLmg.description>Uma metralhadora leve em relação ao tamanho de um dragão, mas para humanos é basicamente um autocanhão de grande calibre letal. Usa um tambor pesado para fornecer continuidade de fogo e capacidade de supressão adequadas.</DMS_Apparel_WeaponLmg.description>
+  <DMS_Apparel_WeaponLmg.label>Metralhadora leve para dragão</DMS_Apparel_WeaponLmg.label>
+  <DMS_Apparel_WorkArm.description>Um módulo acoplado ao braço esquerdo da estrutura, contendo uma garra motorizada elétrica e um dispositivo de posicionamento, capaz de alcançar, em certa medida, a mesma destreza que uma mão humana.</DMS_Apparel_WorkArm.description>
+  <DMS_Apparel_WorkArm.label>Braço de trabalho</DMS_Apparel_WorkArm.label>
+  <DMS_Bullet_DragoonRocket.label>foguete</DMS_Bullet_DragoonRocket.label>
+  <DMS_Bullet_DragoonShotgun.label>projéteis de chumbinho</DMS_Bullet_DragoonShotgun.label>
+  <DMS_Bullet_HellFire.label>míssil Hellfire</DMS_Bullet_HellFire.label>
+  <DMS_Dragoon_Axe.description>Um machado leve de uma mão usado por dragões, projetado para combate corpo a corpo contra outros exotrajes ou para abrir passagem em ambientes apertados. Diferente do Claymore, os dragões não precisam de módulos adicionais para empunhar um tomahawk, podendo carregá-lo como arma secundária.</DMS_Dragoon_Axe.description>
+  <DMS_Dragoon_Axe.label>Tomahawk de dragão</DMS_Dragoon_Axe.label>
+  <DMS_Dragoon_Axe.tools.0.label>empurrão</DMS_Dragoon_Axe.tools.0.label>
+  <DMS_Dragoon_Axe.tools.1.label>golpe em arco</DMS_Dragoon_Axe.tools.1.label>
+  <DMS_Dragoon_Axe.tools.2.label>coronha</DMS_Dragoon_Axe.tools.2.label>
+  <DMS_Dragoon_Axe.tools.poke.label>empurrão</DMS_Dragoon_Axe.tools.poke.label>
+  <DMS_Dragoon_Axe.tools.stock.label>coronha</DMS_Dragoon_Axe.tools.stock.label>
+  <DMS_Dragoon_Axe.tools.sweep.label>golpe em arco</DMS_Dragoon_Axe.tools.sweep.label>
+  <DMS_Dragoon_DMR.description>Um rifle de precisão em relação ao tamanho de um dragão, mas para humanos é basicamente um autocanhão de grande calibre letal. Usa um telêmetro eletrônico com imagem sintética para mira de alta precisão, proporcionando considerável exatidão para uma arma tão grande.</DMS_Dragoon_DMR.description>
+  <DMS_Dragoon_DMR.label>Rifle de precisão de dragão</DMS_Dragoon_DMR.label>
+  <DMS_Dragoon_DMR.tools.barrel.label>cano</DMS_Dragoon_DMR.tools.barrel.label>
+  <DMS_Dragoon_DMR.tools.stock.label>coronha</DMS_Dragoon_DMR.tools.stock.label>
+  <DMS_Dragoon_DMR.verbs.Verb_Shoot.label>Rifle de precisão de dragão</DMS_Dragoon_DMR.verbs.Verb_Shoot.label>
+  <DMS_Dragoon_LMG.description>Uma metralhadora leve em relação ao tamanho de um dragão, mas para humanos é basicamente um autocanhão de grande calibre letal. Usa um tambor pesado para fornecer continuidade de fogo e capacidade de supressão adequadas.</DMS_Dragoon_LMG.description>
+  <DMS_Dragoon_LMG.label>Metralhadora leve de dragão</DMS_Dragoon_LMG.label>
+  <DMS_Dragoon_LMG.tools.barrel.label>cano</DMS_Dragoon_LMG.tools.barrel.label>
+  <DMS_Dragoon_LMG.tools.stock.label>coronha</DMS_Dragoon_LMG.tools.stock.label>
+  <DMS_Dragoon_LMG.verbs.Verb_Shoot.label>Metralhadora leve de dragão</DMS_Dragoon_LMG.verbs.Verb_Shoot.label>
+  <DMS_Dragoon_Shotgun.description>Uma espingarda semiautomática pesada com o codinome "Dragão". Este equipamento foi projetado para fornecer aos dragões bom poder de fogo a curta distância sem ocupar muito peso. É capaz de disparar um cartucho de fósforo branco chamado "Sopro do Dragão" para incinerar o inimigo.</DMS_Dragoon_Shotgun.description>
+  <DMS_Dragoon_Shotgun.label>Espingarda de dragão</DMS_Dragoon_Shotgun.label>
+  <DMS_Dragoon_Shotgun.tools.barrel.label>cano</DMS_Dragoon_Shotgun.tools.barrel.label>
+  <DMS_Dragoon_Shotgun.tools.stock.label>coronha</DMS_Dragoon_Shotgun.tools.stock.label>
+  <DMS_Dragoon_Shotgun.verbs.Verb_Shoot.label>Espingarda de dragão</DMS_Dragoon_Shotgun.verbs.Verb_Shoot.label>
+  <DMS_Dragoon_Sword.description>Uma grande espada de duas mãos usada pelos Dragões. É especialmente projetada para lutar contra grandes criaturas e máquinas de guerra, possuindo as funções de facão e martelo perfurante. Seu próprio peso a torna muito eficaz mesmo ao limpar infantaria leve e fortificações.</DMS_Dragoon_Sword.description>
+  <DMS_Dragoon_Sword.label>Claymore de Dragão</DMS_Dragoon_Sword.label>
+  <DMS_Dragoon_Sword.tools.0.label>estocada</DMS_Dragoon_Sword.tools.0.label>
+  <DMS_Dragoon_Sword.tools.1.label>golpe amplo</DMS_Dragoon_Sword.tools.1.label>
+  <DMS_Dragoon_Sword.tools.2.label>coronha</DMS_Dragoon_Sword.tools.2.label>
+  <DMS_Dragoon_Sword.tools.poke.label>estocada</DMS_Dragoon_Sword.tools.poke.label>
+  <DMS_Dragoon_Sword.tools.stock.label>coronha</DMS_Dragoon_Sword.tools.stock.label>
+  <DMS_Dragoon_Sword.tools.sweep.label>golpe amplo</DMS_Dragoon_Sword.tools.sweep.label>
+  <DMS_Module_APS.description>Um sistema de defesa ativa instalado em grandes plataformas de combate, capaz de evitar impactos diretos ao detonar prematuramente projéteis explosivos ao ser ativado. Devido ao seu consumo de energia extremamente alto durante a operação, não pode funcionar por longos períodos e requer resfriamento.</DMS_Module_APS.description>
+  <DMS_Module_APS.label>Sistema de proteção ativa</DMS_Module_APS.label>
+  <DMS_Module_AT34_Core.description>Uma estrutura de armadura motorizada exportada para todo o mundo da borda para fins de treinamento e civis. No entanto, ao contrário de sua finalidade nominal, a Yetta tornou-se, até certo ponto, o maior equipamento individual utilizável pelas forças armadas locais no mundo da borda, exceto veículos blindados. Fornecer manutenção e peças adequadas para este equipamento sem industrialização própria seria extremamente difícil sem o comércio com a frota colonial.</DMS_Module_AT34_Core.description>
+  <DMS_Module_AT34_Core.label>Módulo central AT-34 "Yetta"</DMS_Module_AT34_Core.label>
+  <DMS_Module_AT34_Helmet.description>Um sensor integrado compatível com o módulo de cabeça do Dragão, projetado para melhorar o desempenho da estrutura por meio de um sistema de rastreamento por radar pré-programado e um HUD.</DMS_Module_AT34_Helmet.description>
+  <DMS_Module_AT34_Helmet.label>Capacete AT-34 "Yetta"</DMS_Module_AT34_Helmet.label>
+  <DMS_Module_ArmorPad.description>Uma pesada proteção de ombro montada na estrutura de um exotraje.</DMS_Module_ArmorPad.description>
+  <DMS_Module_ArmorPad.label>Protetor de ombro</DMS_Module_ArmorPad.label>
+  <DMS_Module_CargoBox.description>Um suporte metálico acoplado capaz de armazenar cargas na estrutura de um andador.</DMS_Module_CargoBox.description>
+  <DMS_Module_CargoBox.label>Compartimento de carga</DMS_Module_CargoBox.label>
+  <DMS_Module_CombatSword.description>Uma grande espada usada por dragões. É uma arma de combate pesada especialmente projetada para lutar contra grandes criaturas e máquinas, possuindo as funções de facão e martelo perfurante. Seu próprio peso a torna muito eficaz mesmo ao limpar infantaria leve e fortificações.</DMS_Module_CombatSword.description>
+  <DMS_Module_CombatSword.label>Espada de combate</DMS_Module_CombatSword.label>
+  <DMS_Module_FA47_Core.description>Um Dragão com capacidade de combate no espaço sideral, usado pela Cavalaria Orbital da Frota Colonial. Seu casco totalmente fechado é feito de plastiaço e pode carregar um sistema de propulsão capaz de voos suborbitais curtos na superfície do planeta.</DMS_Module_FA47_Core.description>
+  <DMS_Module_FA47_Core.label>Módulo central F/A-47 "Arsenal Angel"</DMS_Module_FA47_Core.label>
+  <DMS_Module_FA47_Helmet.description>Um complexo módulo sensor de calibre sintético usado pela frota colonial em Dragões destinados a operações espaciais. Pode rastrear efetivamente inimigos em alta velocidade e auxiliar o piloto na mira.</DMS_Module_FA47_Helmet.description>
+  <DMS_Module_FA47_Helmet.label>Capacete F/A-47 "Arsenal Angel"</DMS_Module_FA47_Helmet.label>
+  <DMS_Module_Groyne_Helmet.description>Uma cobertura blindada que fornece proteção ao condutor na ausência de processos adequados de fabricação óptica. É volumoso, mas oferece certa durabilidade.</DMS_Module_Groyne_Helmet.description>
+  <DMS_Module_Groyne_Helmet.label>Capacete "Groyne"</DMS_Module_Groyne_Helmet.label>
+  <DMS_Module_InfraredSensor.description>Um sensor óptico externo adicional que fornece capacidades operacionais noturnas sem modificar a estrutura em si, além de auxiliar na mira.</DMS_Module_InfraredSensor.description>
+  <DMS_Module_InfraredSensor.label>Sensor infravermelho</DMS_Module_InfraredSensor.label>
+  <DMS_Module_JumpThruster.description>Um propulsor pesado movido por 4 motores a jato. Permite que o Dragão voe por curtas distâncias e também realize assaltos aéreos de maior alcance quando lançado por catapulta.</DMS_Module_JumpThruster.description>
+  <DMS_Module_JumpThruster.label>Propulsor de rajada</DMS_Module_JumpThruster.label>
+  <DMS_Module_MissilePod.description>Um módulo de pod de mísseis acoplável a diversas plataformas de armas. Capaz de carregar e disparar quatro mísseis guiados por infravermelho para uso antifortificação.</DMS_Module_MissilePod.description>
+  <DMS_Module_MissilePod.label>Pod de mísseis</DMS_Module_MissilePod.label>
+  <DMS_Module_MissilePodPlus.description>Um módulo de pod de mísseis acoplável a diversas plataformas de armas. Mais pesado, mas capaz de carregar o dobro de mísseis.</DMS_Module_MissilePodPlus.description>
+  <DMS_Module_MissilePodPlus.label>Pod de mísseis reforçado</DMS_Module_MissilePodPlus.label>
+  <DMS_Module_PF3_Core.description>Uma estrutura exoesquelética com menos de 2 metros de altura, cuja tecnologia remonta ao final do século 22, quando estruturas exoesqueléticas de engenharia em produção em massa eram utilizadas na construção do sistema de elevador espacial do Projeto Skyway.\n\nApós o advento da era espacial, um grande número dessas estruturas de engenharia e equipamentos de produção fluiu para organizações civis e armadas.\n\nO Arbeiter possui um braço esquerdo capaz de utilizar ferramentas humanas e um braço direito usado para instalar módulos de ferramentas e equilibrar o peso, permitindo a substituição de módulos para atender à maioria das missões de trabalho.</DMS_Module_PF3_Core.description>
+  <DMS_Module_PF3_Core.label>Estrutura motorizada PF-3 "Arbeiter"</DMS_Module_PF3_Core.label>
+  <DMS_Module_PV4_Core.description>Um antigo modelo de Dragão, anteriormente conhecido como Destruidor de Zartha, cujo indicativo real foi esquecido. Notório pelo risco de dilacerar pilotos menos experientes durante sua pilotagem. Pode ser rastreado até a intervenção armada da frota colonial durante a crise de Zartha.\n\nSegundo a lenda, uma força-tarefa blindada equipada com este tipo de Dragão aniquilou um exército várias vezes maior em apenas três dias. Desde que foi aposentado e substituído por modelos mais seguros há quase cem anos, tornou-se raramente visto no mundo da borda. Mas seu design extremamente compacto confere-lhe um desempenho que nem mesmo os Dragões modernos conseguem igualar.\n\nPara garantir a segurança do piloto, é necessário que ele use um uniforme de piloto especializado.</DMS_Module_PV4_Core.description>
+  <DMS_Module_PV4_Core.label>Módulo de estrutura PV-4 "Old Buddy"</DMS_Module_PV4_Core.label>
+  <DMS_Module_PV4_Helmet.description>Um capacete pesado antigo, mas muito eficaz. Utiliza um detector de abertura sintética, considerado caro na época, e é integrado com armadura composta de plástico. É hermeticamente vedado o suficiente para permitir movimentos livres até mesmo em campos de batalha com guerra nuclear, biológica e química.</DMS_Module_PV4_Helmet.description>
+  <DMS_Module_PV4_Helmet.label>Capacete PV-4 "Miboche"</DMS_Module_PV4_Helmet.label>
+  <DMS_Module_PV8_Core.description>Estas pesadas armaduras motorizadas, também conhecidas como "Dragões", eram usadas pelas forças-tarefa do Exército Colonial. Provavelmente, são o maior equipamento de infantaria já implantado pela frota colonial na superfície deste planeta. Sua armadura extremamente espessa e sistema de energia potente permitem que a guarnição terrestre mantenha poder de fogo móvel suficiente para lidar com interferências na colonização.</DMS_Module_PV8_Core.description>
+  <DMS_Module_PV8_Core.label>Módulo de estrutura PV-8 "Zyklop"</DMS_Module_PV8_Core.label>
+  <DMS_Module_PV8_Helmet.description>Um capacete resistente projetado para usar pequenas sondas ópticas dispostas de forma distribuída como sensores, a fim de prevenir danos causados por impactos frontais de armas de grande calibre.</DMS_Module_PV8_Helmet.description>
+  <DMS_Module_PV8_Helmet.label>Capacete PV-8 "Zyklop"</DMS_Module_PV8_Helmet.label>
+  <DMS_Module_PackCargo.description>Um módulo de mochila com espaço para carga e unidade motriz adicional, permitindo que a estrutura carregue mais carga.</DMS_Module_PackCargo.description>
+  <DMS_Module_PackCargo.label>Mochila de carga</DMS_Module_PackCargo.label>
+  <DMS_Module_PackControlRelay.description>Uma mochila resistente projetada para auxiliar o piloto mecanizador no controle de mecanoides. Pode aumentar a largura de banda por meio de sua coordenação.</DMS_Module_PackControlRelay.description>
+  <DMS_Module_PackControlRelay.label>Mochila retransmissora</DMS_Module_PackControlRelay.label>
+  <DMS_Module_PackEngineering.description>O módulo montado nas costas da estrutura. Possui um par de braços robóticos para realizar trabalhos logísticos, como construção, manutenção, transporte e processamento.</DMS_Module_PackEngineering.description>
+  <DMS_Module_PackEngineering.label>Mochila de engenharia</DMS_Module_PackEngineering.label>
+  <DMS_Module_PackFrame.description>Um sistema exoesquelético para a estrutura que permite o uso de equipamentos pesados sem alterar o próprio design.</DMS_Module_PackFrame.description>
+  <DMS_Module_PackFrame.label>Mochila de estrutura hidráulica</DMS_Module_PackFrame.label>
+  <DMS_Module_PileBunker.description>Um módulo de engenharia instalado na estrutura. Devido à sua altíssima eficiência de trabalho, é frequentemente usado para demolir edifícios e minas. Também pode ser utilizado para outras tarefas em certa medida.</DMS_Module_PileBunker.description>
+  <DMS_Module_PileBunker.label>Perfurador de estacas</DMS_Module_PileBunker.label>
+  <DMS_Module_PulseShield.description>Um módulo de escudo de pulso miniaturizado usado pela frota colonial, empregado em escala relativamente pequena devido a considerações de custo. Sua alta velocidade de recarga permite absorver completamente rajadas de projéteis de pequeno calibre ou interceptar um projétil fatal.</DMS_Module_PulseShield.description>
+  <DMS_Module_PulseShield.label>Escudo de pulso</DMS_Module_PulseShield.label>
+  <DMS_Module_RelayAntenna.description>Um módulo de antena que expande o alcance de controle para mecânicos aliados. Embora o alcance seja relativamente limitado, é suficiente para permitir que os mecânicos coordenem a infantaria ao redor da estrutura.</DMS_Module_RelayAntenna.description>
+  <DMS_Module_RelayAntenna.label>Antena retransmissora</DMS_Module_RelayAntenna.label>
+  <DMS_Module_Shield.description>Um escudo de armadura composta montado na estrutura do Dragão. Embora seja um pouco pesado, pode resistir efetivamente a danos causados por estilhaços de grande calibre e balas antimatéria.</DMS_Module_Shield.description>
+  <DMS_Module_Shield.label>Escudo balístico</DMS_Module_Shield.label>
+  <DMS_Module_SmokeLauncher.description>Um lançador simples controlado remotamente, capaz de carregar granadas de fumaça e fornecer cobertura precisa.</DMS_Module_SmokeLauncher.description>
+  <DMS_Module_SmokeLauncher.label>Lançador de fumaça</DMS_Module_SmokeLauncher.label>
+  <DMS_Module_Stahlhelm_Helmet.description>Um módulo de estrutura civil usado para soldagem. Mas, na verdade, grandes quantidades dele foram para o mercado de armas e sofreram certas modificações à prova de balas.</DMS_Module_Stahlhelm_Helmet.description>
+  <DMS_Module_Stahlhelm_Helmet.label>Capacete "Stahlhelm"</DMS_Module_Stahlhelm_Helmet.label>
+  <DMS_Module_StugnaLauncher.description>Um lançador de ombro do tipo Dragão que comporta dois mísseis Stugna. É eficaz contra mecanoides pesados e até tanques. No entanto, é necessário um longo tempo de mira e linha de visão clara para travar o alvo.</DMS_Module_StugnaLauncher.description>
+  <DMS_Module_StugnaLauncher.label>Lançador Stugna</DMS_Module_StugnaLauncher.label>
+  <DMS_Module_SwarmMissilePod.description>Um pod de foguetes que contém vários foguetes de alto explosivo. Pode usar sua alta cadência de tiro para cobrir uma grande área.</DMS_Module_SwarmMissilePod.description>
+  <DMS_Module_SwarmMissilePod.label>Pod de foguetes em enxame</DMS_Module_SwarmMissilePod.label>
+  <DMS_Module_TurretPackGAU.description>Uma metralhadora controlada remotamente montada no ombro.</DMS_Module_TurretPackGAU.description>
+  <DMS_Module_TurretPackGAU.label>Suporte de ombro GAU-19/A</DMS_Module_TurretPackGAU.label>
+  <DMS_Module_TurretPackHeavy.description>Uma metralhadora controlada remotamente montada no ombro.</DMS_Module_TurretPackHeavy.description>
+  <DMS_Module_TurretPackHeavy.label>Suporte de ombro Kord</DMS_Module_TurretPackHeavy.label>
+  <DMS_Module_TurretPackLight.description>Uma metralhadora controlada remotamente montada no ombro.</DMS_Module_TurretPackLight.description>
+  <DMS_Module_TurretPackLight.label>Suporte de ombro LMG</DMS_Module_TurretPackLight.label>
+  <DMS_Module_WeaponDMR.description>Um rifle de precisão em relação ao tamanho de um Dragão, mas para humanos é basicamente um autocanhão de grande calibre letal. Usa um telêmetro eletrônico de imagem sintética para mira de alta precisão, conferindo considerável exatidão para uma arma tão grande.</DMS_Module_WeaponDMR.description>
+  <DMS_Module_WeaponDMR.label>DMR do Dragão</DMS_Module_WeaponDMR.label>
+  <DMS_Module_WeaponLmg.description>Uma metralhadora leve em relação ao tamanho de um Dragão, mas para humanos é basicamente um autocanhão de grande calibre letal. Usa um tambor pesado para fornecer continuidade de fogo suficiente e capacidade de supressão.</DMS_Module_WeaponLmg.description>
+  <DMS_Module_WeaponLmg.label>LMG do Dragão</DMS_Module_WeaponLmg.label>
+  <DMS_Module_WorkArm.description>Um módulo pendurado no braço esquerdo da estrutura, contém uma garra motorizada elétrica e um dispositivo de posicionamento, podendo alcançar, até certo ponto, a mesma destreza de uma mão humana.</DMS_Module_WorkArm.description>
+  <DMS_Module_WorkArm.label>Braço de trabalho</DMS_Module_WorkArm.label>
+  <MF_Building_EjectorBay.description>Um lançador especial para implantar um Dragão móvel instantaneamente, capaz de ejetar um exotraje a uma grande distância.</MF_Building_EjectorBay.description>
+  <MF_Building_EjectorBay.label>Catapulta</MF_Building_EjectorBay.label>
+  <Swarmmissile_EnableAmmo.description>Habilitar míssil em enxame</Swarmmissile_EnableAmmo.description>
+  <Swarmmissile_EnableAmmo.label>Míssil em enxame</Swarmmissile_EnableAmmo.label>
+</LanguageData>

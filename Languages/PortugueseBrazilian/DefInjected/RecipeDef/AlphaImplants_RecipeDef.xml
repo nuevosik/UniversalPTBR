@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AI_AdditionalBuoyancyVacuoles.description>Instalar vacúolos de flutuabilidade adicionais em um animal.</AI_AdditionalBuoyancyVacuoles.description>
+  <AI_AdditionalBuoyancyVacuoles.jobString>Instalando vacúolos de flutuabilidade adicionais em um animal.</AI_AdditionalBuoyancyVacuoles.jobString>
+  <AI_AdditionalBuoyancyVacuoles.label>instalar vacúolos de flutuabilidade adicionais em animal</AI_AdditionalBuoyancyVacuoles.label>
+  <AI_AnimalAcidSpray.description>Instalar jato ácido em um animal.</AI_AnimalAcidSpray.description>
+  <AI_AnimalAcidSpray.jobString>Instalando jato ácido em um animal.</AI_AnimalAcidSpray.jobString>
+  <AI_AnimalAcidSpray.label>instalar jato ácido em animal</AI_AnimalAcidSpray.label>
+  <AI_AnimalAcidicBreath.description>Instalar respiração ácida em um animal.</AI_AnimalAcidicBreath.description>
+  <AI_AnimalAcidicBreath.jobString>Instalando sopro ácido animal.</AI_AnimalAcidicBreath.jobString>
+  <AI_AnimalAcidicBreath.label>instalar sopro ácido animal</AI_AnimalAcidicBreath.label>
+  <AI_AnimalAcidicSpitter.description>Instalar um cuspidor ácido animal.</AI_AnimalAcidicSpitter.description>
+  <AI_AnimalAcidicSpitter.jobString>Instalando cuspidor ácido animal.</AI_AnimalAcidicSpitter.jobString>
+  <AI_AnimalAcidicSpitter.label>instalar cuspidor ácido animal</AI_AnimalAcidicSpitter.label>
+  <AI_AnimalArchotechArm.description>Instalar um braço arquiotecnológico animal.</AI_AnimalArchotechArm.description>
+  <AI_AnimalArchotechArm.jobString>Instalando braço arquiotecnológico animal.</AI_AnimalArchotechArm.jobString>
+  <AI_AnimalArchotechArm.label>instalar braço arquiotecnológico animal</AI_AnimalArchotechArm.label>
+  <AI_AnimalArchotechLeg.description>Instalar uma perna arquiotecnológica animal.</AI_AnimalArchotechLeg.description>
+  <AI_AnimalArchotechLeg.jobString>Instalando perna arquiotecnológica animal.</AI_AnimalArchotechLeg.jobString>
+  <AI_AnimalArchotechLeg.label>instalar perna arquiotecnológica animal</AI_AnimalArchotechLeg.label>
+  <AI_AnimalArchotechTail.description>Instalar uma cauda arquiotecnológica animal.</AI_AnimalArchotechTail.description>
+  <AI_AnimalArchotechTail.jobString>Instalando cauda arquiotecnológica animal.</AI_AnimalArchotechTail.jobString>
+  <AI_AnimalArchotechTail.label>instalar cauda arquiotecnológica animal</AI_AnimalArchotechTail.label>
+  <AI_AnimalBarbedQuillThrower.description>Instalar um lançador de espinhos farpados animal.</AI_AnimalBarbedQuillThrower.description>
+  <AI_AnimalBarbedQuillThrower.jobString>Instalando lançador de espinhos farpados animal.</AI_AnimalBarbedQuillThrower.jobString>
+  <AI_AnimalBarbedQuillThrower.label>instalar lançador de espinhos farpados animal</AI_AnimalBarbedQuillThrower.label>
+  <AI_AnimalBioelectricOrgan.description>Instalar um órgão bioelétrico animal.</AI_AnimalBioelectricOrgan.description>
+  <AI_AnimalBioelectricOrgan.jobString>Instalando órgão bioelétrico animal.</AI_AnimalBioelectricOrgan.jobString>
+  <AI_AnimalBioelectricOrgan.label>instalar órgão bioelétrico animal</AI_AnimalBioelectricOrgan.label>
+  <AI_AnimalBionicArm.description>Instalar um braço biônico animal.</AI_AnimalBionicArm.description>
+  <AI_AnimalBionicArm.jobString>Instalando braço biônico animal.</AI_AnimalBionicArm.jobString>
+  <AI_AnimalBionicArm.label>instalar braço biônico animal</AI_AnimalBionicArm.label>
+  <AI_AnimalBionicBeak.description>Instalar um bico biônico animal.</AI_AnimalBionicBeak.description>
+  <AI_AnimalBionicBeak.jobString>Instalando bico biônico animal.</AI_AnimalBionicBeak.jobString>
+  <AI_AnimalBionicBeak.label>instalar bico biônico animal</AI_AnimalBionicBeak.label>
+  <AI_AnimalBionicBlade.description>Instalar uma lâmina biônica animal.</AI_AnimalBionicBlade.description>
+  <AI_AnimalBionicBlade.jobString>Instalando lâmina biônica animal.</AI_AnimalBionicBlade.jobString>
+  <AI_AnimalBionicBlade.label>instalar lâmina biônica animal</AI_AnimalBionicBlade.label>
+  <AI_AnimalBionicBuoyancy.description>Instalar um mecanismo de flutuabilidade biônico animal.</AI_AnimalBionicBuoyancy.description>
+  <AI_AnimalBionicBuoyancy.jobString>Instalando mecanismo de flutuabilidade biônico animal.</AI_AnimalBionicBuoyancy.jobString>
+  <AI_AnimalBionicBuoyancy.label>instalar mecanismo de flutuabilidade biônico animal</AI_AnimalBionicBuoyancy.label>
+  <AI_AnimalBionicEar.description>Instalar uma orelha biônica animal.</AI_AnimalBionicEar.description>
+  <AI_AnimalBionicEar.jobString>Instalando orelha biônica animal.</AI_AnimalBionicEar.jobString>
+  <AI_AnimalBionicEar.label>instalar orelha biônica animal</AI_AnimalBionicEar.label>
+  <AI_AnimalBionicEye.description>Instalar um olho biônico animal.</AI_AnimalBionicEye.description>
+  <AI_AnimalBionicEye.jobString>Instalando olho biônico animal.</AI_AnimalBionicEye.jobString>
+  <AI_AnimalBionicEye.label>instalar olho biônico animal</AI_AnimalBionicEye.label>
+  <AI_AnimalBionicHeart.description>Instalar um coração biônico animal.</AI_AnimalBionicHeart.description>
+  <AI_AnimalBionicHeart.jobString>Instalando coração biônico animal.</AI_AnimalBionicHeart.jobString>
+  <AI_AnimalBionicHeart.label>instalar coração biônico animal</AI_AnimalBionicHeart.label>
+  <AI_AnimalBionicHorn.description>Instalar um chifre biônico animal.</AI_AnimalBionicHorn.description>
+  <AI_AnimalBionicHorn.jobString>Instalando chifre biônico animal.</AI_AnimalBionicHorn.jobString>
+  <AI_AnimalBionicHorn.label>instalar chifre biônico animal</AI_AnimalBionicHorn.label>
+  <AI_AnimalBionicJaw.description>Instalar uma mandíbula biônica animal.</AI_AnimalBionicJaw.description>
+  <AI_AnimalBionicJaw.jobString>Instalando mandíbula biônica animal.</AI_AnimalBionicJaw.jobString>
+  <AI_AnimalBionicJaw.label>instalar mandíbula biônica animal</AI_AnimalBionicJaw.label>
+  <AI_AnimalBionicKidney.description>Instalar um rim desintoxicador animal.</AI_AnimalBionicKidney.description>
+  <AI_AnimalBionicKidney.jobString>Instalando rim desintoxicador animal.</AI_AnimalBionicKidney.jobString>
+  <AI_AnimalBionicKidney.label>instalar rim desintoxicador animal</AI_AnimalBionicKidney.label>
+  <AI_AnimalBionicLeg.description>Instalar uma perna biônica animal.</AI_AnimalBionicLeg.description>
+  <AI_AnimalBionicLeg.jobString>Instalando perna biônica animal.</AI_AnimalBionicLeg.jobString>
+  <AI_AnimalBionicLeg.label>instalar perna biônica animal</AI_AnimalBionicLeg.label>
+  <AI_AnimalBionicLiver.description>Instalar um fígado desintoxicador animal.</AI_AnimalBionicLiver.description>
+  <AI_AnimalBionicLiver.jobString>Instalando fígado desintoxicador animal.</AI_AnimalBionicLiver.jobString>
+  <AI_AnimalBionicLiver.label>instalar fígado desintoxicador animal</AI_AnimalBionicLiver.label>
+  <AI_AnimalBionicLung.description>Instalar um pulmão desintoxicador animal.</AI_AnimalBionicLung.description>
+  <AI_AnimalBionicLung.jobString>Instalando pulmão desintoxicador animal.</AI_AnimalBionicLung.jobString>
+  <AI_AnimalBionicLung.label>instalar pulmão desintoxicador animal</AI_AnimalBionicLung.label>
+  <AI_AnimalBionicNose.description>Instalar um nariz biônico animal.</AI_AnimalBionicNose.description>
+  <AI_AnimalBionicNose.jobString>Instalando nariz biônico animal.</AI_AnimalBionicNose.jobString>
+  <AI_AnimalBionicNose.label>instalar nariz biônico animal</AI_AnimalBionicNose.label>
+  <AI_AnimalBionicShell.description>Instalar uma carapaça biônica animal.</AI_AnimalBionicShell.description>
+  <AI_AnimalBionicShell.jobString>Instalando carapaça biônica animal.</AI_AnimalBionicShell.jobString>
+  <AI_AnimalBionicShell.label>instalar carapaça biônica animal</AI_AnimalBionicShell.label>
+  <AI_AnimalBionicSpine.description>Instalar uma coluna biônica animal.</AI_AnimalBionicSpine.description>
+  <AI_AnimalBionicSpine.jobString>Instalando coluna biônica animal.</AI_AnimalBionicSpine.jobString>
+  <AI_AnimalBionicSpine.label>instalar coluna biônica animal</AI_AnimalBionicSpine.label>
+  <AI_AnimalBionicStinger.description>Instalar um ferrão biônico animal.</AI_AnimalBionicStinger.description>
+  <AI_AnimalBionicStinger.jobString>Instalando ferrão biônico animal.</AI_AnimalBionicStinger.jobString>
+  <AI_AnimalBionicStinger.label>instalar ferrão biônico animal</AI_AnimalBionicStinger.label>
+  <AI_AnimalBionicStomach.description>Instalar um estômago biônico animal.</AI_AnimalBionicStomach.description>
+  <AI_AnimalBionicStomach.jobString>Instalando estômago biônico animal.</AI_AnimalBionicStomach.jobString>
+  <AI_AnimalBionicStomach.label>instalar estômago biônico animal</AI_AnimalBionicStomach.label>
+  <AI_AnimalBionicTail.description>Instalar uma cauda biônica animal.</AI_AnimalBionicTail.description>
+  <AI_AnimalBionicTail.jobString>Instalando cauda biônica animal.</AI_AnimalBionicTail.jobString>
+  <AI_AnimalBionicTail.label>instalar cauda biônica animal</AI_AnimalBionicTail.label>
+  <AI_AnimalBionicTentacle.description>Instalar um tentáculo biônico animal.</AI_AnimalBionicTentacle.description>
+  <AI_AnimalBionicTentacle.jobString>Instalando tentáculo biônico animal.</AI_AnimalBionicTentacle.jobString>
+  <AI_AnimalBionicTentacle.label>instalar tentáculo biônico animal</AI_AnimalBionicTentacle.label>
+  <AI_AnimalBionicWing.description>Instalar uma asa biônica animal.</AI_AnimalBionicWing.description>
+  <AI_AnimalBionicWing.jobString>Instalando asa biônica animal.</AI_AnimalBionicWing.jobString>
+  <AI_AnimalBionicWing.label>instalar asa biônica animal</AI_AnimalBionicWing.label>
+  <AI_AnimalChemfuelNodules.description>Instalar nódulos de combustível químico em animal.</AI_AnimalChemfuelNodules.description>
+  <AI_AnimalChemfuelNodules.jobString>Instalando nódulos de combustível químico em animal.</AI_AnimalChemfuelNodules.jobString>
+  <AI_AnimalChemfuelNodules.label>instalar nódulos de combustível químico animal</AI_AnimalChemfuelNodules.label>
+  <AI_AnimalCircadianSupercharger.description>Instalar um sobrecarregador circadiano animal.</AI_AnimalCircadianSupercharger.description>
+  <AI_AnimalCircadianSupercharger.jobString>Instalando sobrecarregador circadiano animal.</AI_AnimalCircadianSupercharger.jobString>
+  <AI_AnimalCircadianSupercharger.label>instalar sobrecarregador circadiano animal</AI_AnimalCircadianSupercharger.label>
+  <AI_AnimalController.description>Instalar um controlador animal.</AI_AnimalController.description>
+  <AI_AnimalController.jobString>Instalando controlador animal.</AI_AnimalController.jobString>
+  <AI_AnimalController.label>instalar controlador animal</AI_AnimalController.label>
+  <AI_AnimalDermalArmorGland.description>Instalar uma glândula de armadura dérmica animal.</AI_AnimalDermalArmorGland.description>
+  <AI_AnimalDermalArmorGland.jobString>Instalando glândula de armadura dérmica animal.</AI_AnimalDermalArmorGland.jobString>
+  <AI_AnimalDermalArmorGland.label>instalar glândula de armadura dérmica animal</AI_AnimalDermalArmorGland.label>
+  <AI_AnimalEnlarger.description>Instalar um implante de aumento animal.</AI_AnimalEnlarger.description>
+  <AI_AnimalEnlarger.jobString>Instalando implante de aumento animal.</AI_AnimalEnlarger.jobString>
+  <AI_AnimalEnlarger.label>instalar implante de aumento animal</AI_AnimalEnlarger.label>
+  <AI_AnimalFireBreath.description>Instalar um sopro de fogo animal.</AI_AnimalFireBreath.description>
+  <AI_AnimalFireBreath.jobString>Instalando sopro de fogo animal.</AI_AnimalFireBreath.jobString>
+  <AI_AnimalFireBreath.label>instalar sopro de fogo animal</AI_AnimalFireBreath.label>
+  <AI_AnimalFireSpew.description>Instalar um jato de fogo animal.</AI_AnimalFireSpew.description>
+  <AI_AnimalFireSpew.jobString>Instalando jato de fogo animal.</AI_AnimalFireSpew.jobString>
+  <AI_AnimalFireSpew.label>instalar jato de fogo animal</AI_AnimalFireSpew.label>
+  <AI_AnimalFoamSpray.description>Instalar um jato de espuma animal.</AI_AnimalFoamSpray.description>
+  <AI_AnimalFoamSpray.jobString>Instalando jato de espuma animal.</AI_AnimalFoamSpray.jobString>
+  <AI_AnimalFoamSpray.label>instalar jato de espuma animal</AI_AnimalFoamSpray.label>
+  <AI_AnimalHealClotSynergizer.description>Instalar um sinergizador de coágulos cicatrizantes animal.</AI_AnimalHealClotSynergizer.description>
+  <AI_AnimalHealClotSynergizer.jobString>Instalando sinergizador de coágulos cicatrizantes animal.</AI_AnimalHealClotSynergizer.jobString>
+  <AI_AnimalHealClotSynergizer.label>instalar sinergizador de coágulos cicatrizantes animal</AI_AnimalHealClotSynergizer.label>
+  <AI_AnimalHyperAcidicStomach.description>Instalar um estômago hiperácido animal.</AI_AnimalHyperAcidicStomach.description>
+  <AI_AnimalHyperAcidicStomach.jobString>Instalando estômago hiperácido animal.</AI_AnimalHyperAcidicStomach.jobString>
+  <AI_AnimalHyperAcidicStomach.label>instalar estômago hiperácido animal</AI_AnimalHyperAcidicStomach.label>
+  <AI_AnimalImmunoenhancer.description>Instalar um imunopotenciador animal.</AI_AnimalImmunoenhancer.description>
+  <AI_AnimalImmunoenhancer.jobString>Instalando imunopotenciador animal.</AI_AnimalImmunoenhancer.jobString>
+  <AI_AnimalImmunoenhancer.label>instalar imunopotenciador animal</AI_AnimalImmunoenhancer.label>
+  <AI_AnimalJump.description>Instalar uma perna saltadora animal.</AI_AnimalJump.description>
+  <AI_AnimalJump.jobString>Instalando perna saltadora animal.</AI_AnimalJump.jobString>
+  <AI_AnimalJump.label>instalar perna saltadora animal</AI_AnimalJump.label>
+  <AI_AnimalLightFocusingLens.description>Instalar uma lente focalizadora de luz animal.</AI_AnimalLightFocusingLens.description>
+  <AI_AnimalLightFocusingLens.jobString>Instalando lente focalizadora de luz animal.</AI_AnimalLightFocusingLens.jobString>
+  <AI_AnimalLightFocusingLens.label>instalar lente focalizadora de luz animal</AI_AnimalLightFocusingLens.label>
+  <AI_AnimalNuclearStomach.description>Instalar um estômago nuclear animal.</AI_AnimalNuclearStomach.description>
+  <AI_AnimalNuclearStomach.jobString>Instalando estômago nuclear animal.</AI_AnimalNuclearStomach.jobString>
+  <AI_AnimalNuclearStomach.label>instalar estômago nuclear animal</AI_AnimalNuclearStomach.label>
+  <AI_AnimalPainstopper.description>Instalar um bloqueador de dor animal.</AI_AnimalPainstopper.description>
+  <AI_AnimalPainstopper.jobString>Instalando bloqueador de dor animal.</AI_AnimalPainstopper.jobString>
+  <AI_AnimalPainstopper.label>instalar bloqueador de dor animal</AI_AnimalPainstopper.label>
+  <AI_AnimalPetrifyingGaze.description>Instala um olhar petrificador animal.</AI_AnimalPetrifyingGaze.description>
+  <AI_AnimalPetrifyingGaze.jobString>Instalando olhar petrificador animal.</AI_AnimalPetrifyingGaze.jobString>
+  <AI_AnimalPetrifyingGaze.label>instalar olhar petrificador animal</AI_AnimalPetrifyingGaze.label>
+  <AI_AnimalPiercingSpine.description>Instala um espinho perfurante animal.</AI_AnimalPiercingSpine.description>
+  <AI_AnimalPiercingSpine.jobString>Instalando espinho perfurante animal.</AI_AnimalPiercingSpine.jobString>
+  <AI_AnimalPiercingSpine.label>instalar espinho perfurante animal</AI_AnimalPiercingSpine.label>
+  <AI_AnimalPowerClaw.description>Instala uma garra potente animal.</AI_AnimalPowerClaw.description>
+  <AI_AnimalPowerClaw.jobString>Instalando garra potente animal.</AI_AnimalPowerClaw.jobString>
+  <AI_AnimalPowerClaw.label>instalar garra potente animal</AI_AnimalPowerClaw.label>
+  <AI_AnimalProstheticArm.description>Instala um braço protético animal.</AI_AnimalProstheticArm.description>
+  <AI_AnimalProstheticArm.jobString>Instalando braço protético animal.</AI_AnimalProstheticArm.jobString>
+  <AI_AnimalProstheticArm.label>instalar braço protético animal</AI_AnimalProstheticArm.label>
+  <AI_AnimalProstheticBeak.description>Instala um bico protético animal.</AI_AnimalProstheticBeak.description>
+  <AI_AnimalProstheticBeak.jobString>Instalando bico protético animal.</AI_AnimalProstheticBeak.jobString>
+  <AI_AnimalProstheticBeak.label>instalar bico protético animal</AI_AnimalProstheticBeak.label>
+  <AI_AnimalProstheticBlade.description>Instala uma lâmina protética animal.</AI_AnimalProstheticBlade.description>
+  <AI_AnimalProstheticBlade.jobString>Instalando lâmina protética animal.</AI_AnimalProstheticBlade.jobString>
+  <AI_AnimalProstheticBlade.label>instalar lâmina protética animal</AI_AnimalProstheticBlade.label>
+  <AI_AnimalProstheticBuoyancy.description>Instala um mecanismo de flutuabilidade protético animal.</AI_AnimalProstheticBuoyancy.description>
+  <AI_AnimalProstheticBuoyancy.jobString>Instalando mecanismo de flutuabilidade protético animal.</AI_AnimalProstheticBuoyancy.jobString>
+  <AI_AnimalProstheticBuoyancy.label>instalar mecanismo de flutuabilidade protético animal</AI_AnimalProstheticBuoyancy.label>
+  <AI_AnimalProstheticHeart.description>Instala um coração protético animal.</AI_AnimalProstheticHeart.description>
+  <AI_AnimalProstheticHeart.jobString>Instalando coração protético animal.</AI_AnimalProstheticHeart.jobString>
+  <AI_AnimalProstheticHeart.label>instalar coração protético animal</AI_AnimalProstheticHeart.label>
+  <AI_AnimalProstheticHorn.description>Instala um chifre protético animal.</AI_AnimalProstheticHorn.description>
+  <AI_AnimalProstheticHorn.jobString>Instalando chifre protético animal.</AI_AnimalProstheticHorn.jobString>
+  <AI_AnimalProstheticHorn.label>instalar chifre protético animal</AI_AnimalProstheticHorn.label>
+  <AI_AnimalProstheticJaw.description>Instala uma mandíbula protética animal.</AI_AnimalProstheticJaw.description>
+  <AI_AnimalProstheticJaw.jobString>Instalando mandíbula protética animal.</AI_AnimalProstheticJaw.jobString>
+  <AI_AnimalProstheticJaw.label>instalar mandíbula protética animal</AI_AnimalProstheticJaw.label>
+  <AI_AnimalProstheticKidney.description>Instala um rim protético animal.</AI_AnimalProstheticKidney.description>
+  <AI_AnimalProstheticKidney.jobString>Instalando rim protético animal.</AI_AnimalProstheticKidney.jobString>
+  <AI_AnimalProstheticKidney.label>instalar rim protético animal</AI_AnimalProstheticKidney.label>
+  <AI_AnimalProstheticLeg.description>Instala uma perna protética animal.</AI_AnimalProstheticLeg.description>
+  <AI_AnimalProstheticLeg.jobString>Instalando perna protética animal.</AI_AnimalProstheticLeg.jobString>
+  <AI_AnimalProstheticLeg.label>instalar perna protética animal</AI_AnimalProstheticLeg.label>
+  <AI_AnimalProstheticLiver.description>Instala um fígado protético animal.</AI_AnimalProstheticLiver.description>
+  <AI_AnimalProstheticLiver.jobString>Instalando fígado protético animal.</AI_AnimalProstheticLiver.jobString>
+  <AI_AnimalProstheticLiver.label>instalar fígado protético animal</AI_AnimalProstheticLiver.label>
+  <AI_AnimalProstheticLung.description>Instala um pulmão protético animal.</AI_AnimalProstheticLung.description>
+  <AI_AnimalProstheticLung.jobString>Instalando pulmão protético animal.</AI_AnimalProstheticLung.jobString>
+  <AI_AnimalProstheticLung.label>instalar pulmão protético animal</AI_AnimalProstheticLung.label>
+  <AI_AnimalProstheticShell.description>Instala uma carapaça protética animal.</AI_AnimalProstheticShell.description>
+  <AI_AnimalProstheticShell.jobString>Instalando carapaça protética animal.</AI_AnimalProstheticShell.jobString>
+  <AI_AnimalProstheticShell.label>instalar carapaça protética animal</AI_AnimalProstheticShell.label>
+  <AI_AnimalProstheticSpine.description>Instala uma coluna protética animal.</AI_AnimalProstheticSpine.description>
+  <AI_AnimalProstheticSpine.jobString>Instalando coluna protética animal.</AI_AnimalProstheticSpine.jobString>
+  <AI_AnimalProstheticSpine.label>instalar coluna protética animal</AI_AnimalProstheticSpine.label>
+  <AI_AnimalProstheticStinger.description>Instala um ferrão protético animal.</AI_AnimalProstheticStinger.description>
+  <AI_AnimalProstheticStinger.jobString>Instalando ferrão protético animal.</AI_AnimalProstheticStinger.jobString>
+  <AI_AnimalProstheticStinger.label>instalar ferrão protético animal</AI_AnimalProstheticStinger.label>
+  <AI_AnimalProstheticStomach.description>Instala um estômago protético animal.</AI_AnimalProstheticStomach.description>
+  <AI_AnimalProstheticStomach.jobString>Instalando estômago protético animal.</AI_AnimalProstheticStomach.jobString>
+  <AI_AnimalProstheticStomach.label>instalar estômago protético animal</AI_AnimalProstheticStomach.label>
+  <AI_AnimalProstheticTail.description>Instala uma cauda protética animal.</AI_AnimalProstheticTail.description>
+  <AI_AnimalProstheticTail.jobString>Instalando cauda protética animal.</AI_AnimalProstheticTail.jobString>
+  <AI_AnimalProstheticTail.label>instalar cauda protética animal</AI_AnimalProstheticTail.label>
+  <AI_AnimalProstheticTentacle.description>Instala um tentáculo protético animal.</AI_AnimalProstheticTentacle.description>
+  <AI_AnimalProstheticTentacle.jobString>Instalando tentáculo protético animal.</AI_AnimalProstheticTentacle.jobString>
+  <AI_AnimalProstheticTentacle.label>instalar tentáculo protético animal</AI_AnimalProstheticTentacle.label>
+  <AI_AnimalProstheticWing.description>Instala uma asa protética animal.</AI_AnimalProstheticWing.description>
+  <AI_AnimalProstheticWing.jobString>Instalando asa protética animal.</AI_AnimalProstheticWing.jobString>
+  <AI_AnimalProstheticWing.label>instalar asa protética animal</AI_AnimalProstheticWing.label>
+  <AI_AnimalPseudoDeadlifeShaper.description>Instala um modelador pseudonecrótico animal.</AI_AnimalPseudoDeadlifeShaper.description>
+  <AI_AnimalPseudoDeadlifeShaper.jobString>Instalando modelador pseudonecrótico animal.</AI_AnimalPseudoDeadlifeShaper.jobString>
+  <AI_AnimalPseudoDeadlifeShaper.label>instalar modelador pseudonecrótico animal</AI_AnimalPseudoDeadlifeShaper.label>
+  <AI_AnimalQuadTeslaCannon.description>Instala um canhão quádruplo de Tesla animal.</AI_AnimalQuadTeslaCannon.description>
+  <AI_AnimalQuadTeslaCannon.jobString>Instalando canhão quádruplo de Tesla animal.</AI_AnimalQuadTeslaCannon.jobString>
+  <AI_AnimalQuadTeslaCannon.label>instalar canhão quádruplo de Tesla animal</AI_AnimalQuadTeslaCannon.label>
+  <AI_AnimalRangedSpinneret.description>Instala um fiandeiro de longo alcance animal.</AI_AnimalRangedSpinneret.description>
+  <AI_AnimalRangedSpinneret.jobString>Instalando fiandeiro de longo alcance animal.</AI_AnimalRangedSpinneret.jobString>
+  <AI_AnimalRangedSpinneret.label>instalar fiandeiro de longo alcance animal</AI_AnimalRangedSpinneret.label>
+  <AI_AnimalRangedTrispikes.description>Instala três espinhos de longo alcance animais.</AI_AnimalRangedTrispikes.description>
+  <AI_AnimalRangedTrispikes.jobString>Instalando três espinhos de longo alcance animais.</AI_AnimalRangedTrispikes.jobString>
+  <AI_AnimalRangedTrispikes.label>instalar três espinhos de longo alcance animais</AI_AnimalRangedTrispikes.label>
+  <AI_AnimalShrinker.description>Instala um implante encolhedor animal.</AI_AnimalShrinker.description>
+  <AI_AnimalShrinker.jobString>Instalando implante encolhedor animal.</AI_AnimalShrinker.jobString>
+  <AI_AnimalShrinker.label>instalar implante encolhedor animal</AI_AnimalShrinker.label>
+  <AI_AnimalSkinHardener.description>Instala um endurecedor de pele animal.</AI_AnimalSkinHardener.description>
+  <AI_AnimalSkinHardener.jobString>Instalando endurecedor de pele animal.</AI_AnimalSkinHardener.jobString>
+  <AI_AnimalSkinHardener.label>instalar endurecedor de pele animal</AI_AnimalSkinHardener.label>
+  <AI_AnimalStealthskinImplant.description>Instala um implante de pele furtiva animal.</AI_AnimalStealthskinImplant.description>
+  <AI_AnimalStealthskinImplant.jobString>Instalando implante de pele furtiva animal.</AI_AnimalStealthskinImplant.jobString>
+  <AI_AnimalStealthskinImplant.label>instalar implante de pele furtiva animal</AI_AnimalStealthskinImplant.label>
+  <AI_AnimalSynapticReinforcer.description>Instala um reforçador sináptico animal.</AI_AnimalSynapticReinforcer.description>
+  <AI_AnimalSynapticReinforcer.jobString>Instalando reforçador sináptico animal.</AI_AnimalSynapticReinforcer.jobString>
+  <AI_AnimalSynapticReinforcer.label>instalar reforçador sináptico animal</AI_AnimalSynapticReinforcer.label>
+  <AI_AnimalTentacle.description>Instala um tentáculo de carne sobrenatural animal.</AI_AnimalTentacle.description>
+  <AI_AnimalTentacle.jobString>Instalando tentáculo de carne sobrenatural animal.</AI_AnimalTentacle.jobString>
+  <AI_AnimalTentacle.label>instalar tentáculo de carne sobrenatural animal</AI_AnimalTentacle.label>
+  <AI_AnimalThermoregulator.description>Instala um termorregulador animal.</AI_AnimalThermoregulator.description>
+  <AI_AnimalThermoregulator.jobString>Instalando termorregulador animal.</AI_AnimalThermoregulator.jobString>
+  <AI_AnimalThermoregulator.label>instalar termorregulador animal</AI_AnimalThermoregulator.label>
+  <AI_AnimalToughspikes.description>Instala espinhos resistentes animais.</AI_AnimalToughspikes.description>
+  <AI_AnimalToughspikes.jobString>Instalando espinhos resistentes animais.</AI_AnimalToughspikes.jobString>
+  <AI_AnimalToughspikes.label>instalar espinhos resistentes animais</AI_AnimalToughspikes.label>
+  <AI_AnimalToxicBreath.description>Instala um pulmão de hálito tóxico animal.</AI_AnimalToxicBreath.description>
+  <AI_AnimalToxicBreath.jobString>Instalando pulmão de hálito tóxico animal.</AI_AnimalToxicBreath.jobString>
+  <AI_AnimalToxicBreath.label>instalar pulmão de hálito tóxico animal</AI_AnimalToxicBreath.label>
+  <AI_AnimalUnstableSkipSynapsis.description>Instala uma sinapse de salto instável animal.</AI_AnimalUnstableSkipSynapsis.description>
+  <AI_AnimalUnstableSkipSynapsis.jobString>Instalando sinapse de salto instável animal.</AI_AnimalUnstableSkipSynapsis.jobString>
+  <AI_AnimalUnstableSkipSynapsis.label>instalar sinapse de salto instável animal</AI_AnimalUnstableSkipSynapsis.label>
+  <AI_AnimalUpsyDaisyVampireyHealyPower.description>Instala um implante vampírico curativo animal Upsy Daisy.</AI_AnimalUpsyDaisyVampireyHealyPower.description>
+  <AI_AnimalUpsyDaisyVampireyHealyPower.jobString>Instalando implante vampírico curativo animal Upsy Daisy.</AI_AnimalUpsyDaisyVampireyHealyPower.jobString>
+  <AI_AnimalUpsyDaisyVampireyHealyPower.label>instalar implante vampírico curativo animal Upsy Daisy</AI_AnimalUpsyDaisyVampireyHealyPower.label>
+  <AI_AnimalVacSkinGland.description>Instala uma glândula de pele a vácuo animal.</AI_AnimalVacSkinGland.description>
+  <AI_AnimalVacSkinGland.jobString>Instalando glândula de pele a vácuo animal.</AI_AnimalVacSkinGland.jobString>
+  <AI_AnimalVacSkinGland.label>instalar glândula de pele a vácuo animal</AI_AnimalVacSkinGland.label>
+  <AI_AnimalVenomFangs.description>Instala presas venenosas animais.</AI_AnimalVenomFangs.description>
+  <AI_AnimalVenomFangs.jobString>Instalando presas venenosas animais.</AI_AnimalVenomFangs.jobString>
+  <AI_AnimalVenomFangs.label>instalar presas venenosas animais</AI_AnimalVenomFangs.label>
+  <AI_AnimalVenomousQuills.description>Instala penas venenosas animais.</AI_AnimalVenomousQuills.description>
+  <AI_AnimalVenomousQuills.jobString>Instalando penas venenosas animais.</AI_AnimalVenomousQuills.jobString>
+  <AI_AnimalVenomousQuills.label>instalar penas venenosas animais</AI_AnimalVenomousQuills.label>
+  <AI_AnimalVenomousSpitter.description>Instala um esguichador venenoso animal.</AI_AnimalVenomousSpitter.description>
+  <AI_AnimalVenomousSpitter.jobString>Instalando esguichador venenoso animal.</AI_AnimalVenomousSpitter.jobString>
+  <AI_AnimalVenomousSpitter.label>instalar esguichador venenoso animal</AI_AnimalVenomousSpitter.label>
+  <AI_AnimalWispFire.description>Instala um fogo-fátuo animal.</AI_AnimalWispFire.description>
+  <AI_AnimalWispFire.jobString>Instalando fogo-fátuo animal.</AI_AnimalWispFire.jobString>
+  <AI_AnimalWispFire.label>instalar fogo-fátuo animal</AI_AnimalWispFire.label>
+  <AI_AnimalWorkChipClean.description>Instalar um chip de trabalho animal: limpeza.</AI_AnimalWorkChipClean.description>
+  <AI_AnimalWorkChipClean.jobString>Instalando chip de trabalho animal: limpeza.</AI_AnimalWorkChipClean.jobString>
+  <AI_AnimalWorkChipClean.label>instalar chip de trabalho animal: limpeza</AI_AnimalWorkChipClean.label>
+  <AI_AnimalWorkChipFeedPatient.description>Instalar um chip de trabalho animal: alimentar paciente.</AI_AnimalWorkChipFeedPatient.description>
+  <AI_AnimalWorkChipFeedPatient.jobString>Instalando chip de trabalho animal: alimentar paciente.</AI_AnimalWorkChipFeedPatient.jobString>
+  <AI_AnimalWorkChipFeedPatient.label>instalar chip de trabalho animal: alimentar paciente</AI_AnimalWorkChipFeedPatient.label>
+  <AI_AnimalWorkChipFlick.description>Instalar um chip de trabalho animal: acionar.</AI_AnimalWorkChipFlick.description>
+  <AI_AnimalWorkChipFlick.jobString>Instalando chip de trabalho animal: acionar.</AI_AnimalWorkChipFlick.jobString>
+  <AI_AnimalWorkChipFlick.label>instalar chip de trabalho animal: acionar</AI_AnimalWorkChipFlick.label>
+  <AI_AnimalWorkChipHarvest.description>Instalar um chip de trabalho animal: colher.</AI_AnimalWorkChipHarvest.description>
+  <AI_AnimalWorkChipHarvest.jobString>Instalando chip de trabalho animal: colher.</AI_AnimalWorkChipHarvest.jobString>
+  <AI_AnimalWorkChipHarvest.label>instalar chip de trabalho animal: colher</AI_AnimalWorkChipHarvest.label>
+  <AI_AnimalWorkChipHunt.description>Instalar um chip de trabalho animal: caçar.</AI_AnimalWorkChipHunt.description>
+  <AI_AnimalWorkChipHunt.jobString>Instalando chip de trabalho animal: caçar.</AI_AnimalWorkChipHunt.jobString>
+  <AI_AnimalWorkChipHunt.label>instalar chip de trabalho animal: caçar</AI_AnimalWorkChipHunt.label>
+  <AI_AnimalWorkChipMine.description>Instalar um chip de trabalho animal: minerar.</AI_AnimalWorkChipMine.description>
+  <AI_AnimalWorkChipMine.jobString>Instalando chip de trabalho animal: minerar.</AI_AnimalWorkChipMine.jobString>
+  <AI_AnimalWorkChipMine.label>instalar chip de trabalho animal: minerar</AI_AnimalWorkChipMine.label>
+  <AI_AnimalWorkChipSlaughter.description>Instalar um chip de trabalho animal: abater.</AI_AnimalWorkChipSlaughter.description>
+  <AI_AnimalWorkChipSlaughter.jobString>Instalando chip de trabalho animal: abater.</AI_AnimalWorkChipSlaughter.jobString>
+  <AI_AnimalWorkChipSlaughter.label>instalar chip de trabalho animal: abater</AI_AnimalWorkChipSlaughter.label>
+  <AI_AnimalWorkChipSow.description>Instalar um chip de trabalho animal: semear.</AI_AnimalWorkChipSow.description>
+  <AI_AnimalWorkChipSow.jobString>Instalando chip de trabalho animal: semear.</AI_AnimalWorkChipSow.jobString>
+  <AI_AnimalWorkChipSow.label>instalar chip de trabalho animal: semear</AI_AnimalWorkChipSow.label>
+  <AI_Crude_InstallAnimalDenture.description>Instalar dentadura animal.</AI_Crude_InstallAnimalDenture.description>
+  <AI_Crude_InstallAnimalDenture.jobString>Instalando dentadura animal.</AI_Crude_InstallAnimalDenture.jobString>
+  <AI_Crude_InstallAnimalDenture.label>instalar dentadura animal</AI_Crude_InstallAnimalDenture.label>
+  <AI_Crude_InstallClothTail.description>Instalar cauda de tecido.</AI_Crude_InstallClothTail.description>
+  <AI_Crude_InstallClothTail.jobString>Instalando cauda de tecido.</AI_Crude_InstallClothTail.jobString>
+  <AI_Crude_InstallClothTail.label>instalar cauda de tecido</AI_Crude_InstallClothTail.label>
+  <AI_Crude_InstallWoodenLimb.description>Instalar membro de madeira.</AI_Crude_InstallWoodenLimb.description>
+  <AI_Crude_InstallWoodenLimb.jobString>Instalando membro de madeira.</AI_Crude_InstallWoodenLimb.jobString>
+  <AI_Crude_InstallWoodenLimb.label>instalar membro de madeira</AI_Crude_InstallWoodenLimb.label>
+  <AI_GooAcidifier.description>Instalar acidificador de gosma animal.</AI_GooAcidifier.description>
+  <AI_GooAcidifier.jobString>Instalando acidificador de gosma animal.</AI_GooAcidifier.jobString>
+  <AI_GooAcidifier.label>instalar acidificador de gosma animal</AI_GooAcidifier.label>
+  <AI_RemoveAdditionalBuoyancyVacuoles.description>Remover vacúolos adicionais de flutuabilidade do animal.</AI_RemoveAdditionalBuoyancyVacuoles.description>
+  <AI_RemoveAdditionalBuoyancyVacuoles.jobString>Removendo vacúolos adicionais de flutuabilidade do animal.</AI_RemoveAdditionalBuoyancyVacuoles.jobString>
+  <AI_RemoveAdditionalBuoyancyVacuoles.label>remover vacúolos adicionais de flutuabilidade do animal</AI_RemoveAdditionalBuoyancyVacuoles.label>
+  <AI_RemoveAnimalAcidicBreath.description>Remover o sopro ácido do animal.</AI_RemoveAnimalAcidicBreath.description>
+  <AI_RemoveAnimalAcidicBreath.jobString>Removendo o sopro ácido do animal.</AI_RemoveAnimalAcidicBreath.jobString>
+  <AI_RemoveAnimalAcidicBreath.label>remover sopro ácido do animal</AI_RemoveAnimalAcidicBreath.label>
+  <AI_RemoveAnimalAcidicSpitter.description>Remover o lançador ácido do animal.</AI_RemoveAnimalAcidicSpitter.description>
+  <AI_RemoveAnimalAcidicSpitter.jobString>Removendo o lançador ácido do animal.</AI_RemoveAnimalAcidicSpitter.jobString>
+  <AI_RemoveAnimalAcidicSpitter.label>remover lançador ácido do animal</AI_RemoveAnimalAcidicSpitter.label>
+  <AI_RemoveAnimalBarbedQuillThrower.description>Remover o lançador de espinhos farpados do animal.</AI_RemoveAnimalBarbedQuillThrower.description>
+  <AI_RemoveAnimalBarbedQuillThrower.jobString>Removendo o lançador de espinhos farpados do animal.</AI_RemoveAnimalBarbedQuillThrower.jobString>
+  <AI_RemoveAnimalBarbedQuillThrower.label>remover lançador de espinhos farpados do animal</AI_RemoveAnimalBarbedQuillThrower.label>
+  <AI_RemoveAnimalBioelectricOrgan.description>Remover o órgão bioelétrico do animal.</AI_RemoveAnimalBioelectricOrgan.description>
+  <AI_RemoveAnimalBioelectricOrgan.jobString>Removendo o órgão bioelétrico do animal.</AI_RemoveAnimalBioelectricOrgan.jobString>
+  <AI_RemoveAnimalBioelectricOrgan.label>remover órgão bioelétrico do animal</AI_RemoveAnimalBioelectricOrgan.label>
+  <AI_RemoveAnimalChemfuelNodules.description>Remover os nódulos de combustível químico do animal.</AI_RemoveAnimalChemfuelNodules.description>
+  <AI_RemoveAnimalChemfuelNodules.jobString>Removendo os nódulos de combustível químico do animal.</AI_RemoveAnimalChemfuelNodules.jobString>
+  <AI_RemoveAnimalChemfuelNodules.label>remover nódulos de combustível químico do animal</AI_RemoveAnimalChemfuelNodules.label>
+  <AI_RemoveAnimalCircadianSupercharger.description>Remover o supercarregador circadiano do animal.</AI_RemoveAnimalCircadianSupercharger.description>
+  <AI_RemoveAnimalCircadianSupercharger.jobString>Removendo o supercarregador circadiano do animal.</AI_RemoveAnimalCircadianSupercharger.jobString>
+  <AI_RemoveAnimalCircadianSupercharger.label>remover supercarregador circadiano do animal</AI_RemoveAnimalCircadianSupercharger.label>
+  <AI_RemoveAnimalController.description>Remover o controlador do animal.</AI_RemoveAnimalController.description>
+  <AI_RemoveAnimalController.jobString>Removendo o controlador do animal.</AI_RemoveAnimalController.jobString>
+  <AI_RemoveAnimalController.label>remover controlador do animal</AI_RemoveAnimalController.label>
+  <AI_RemoveAnimalDermalArmorGland.description>Remover a glândula de armadura dérmica do animal.</AI_RemoveAnimalDermalArmorGland.description>
+  <AI_RemoveAnimalDermalArmorGland.jobString>Removendo a glândula de armadura dérmica do animal.</AI_RemoveAnimalDermalArmorGland.jobString>
+  <AI_RemoveAnimalDermalArmorGland.label>remover glândula de armadura dérmica do animal</AI_RemoveAnimalDermalArmorGland.label>
+  <AI_RemoveAnimalEnlarger.description>Remover o implante de aumento do animal.</AI_RemoveAnimalEnlarger.description>
+  <AI_RemoveAnimalEnlarger.jobString>Removendo o implante de aumento do animal.</AI_RemoveAnimalEnlarger.jobString>
+  <AI_RemoveAnimalEnlarger.label>remover implante de aumento do animal</AI_RemoveAnimalEnlarger.label>
+  <AI_RemoveAnimalFireBreath.description>Remover o sopro de fogo do animal.</AI_RemoveAnimalFireBreath.description>
+  <AI_RemoveAnimalFireBreath.jobString>Removendo o sopro de fogo do animal.</AI_RemoveAnimalFireBreath.jobString>
+  <AI_RemoveAnimalFireBreath.label>remover sopro de fogo do animal</AI_RemoveAnimalFireBreath.label>
+  <AI_RemoveAnimalHealClotSynergizer.description>Remover o sinergizador de coágulos cicatrizantes do animal.</AI_RemoveAnimalHealClotSynergizer.description>
+  <AI_RemoveAnimalHealClotSynergizer.jobString>Removendo o sinergizador de coágulos cicatrizantes do animal.</AI_RemoveAnimalHealClotSynergizer.jobString>
+  <AI_RemoveAnimalHealClotSynergizer.label>remover sinergizador de coágulos cicatrizantes do animal</AI_RemoveAnimalHealClotSynergizer.label>
+  <AI_RemoveAnimalHyperAcidicStomach.description>Remover o estômago hiperácido do animal.</AI_RemoveAnimalHyperAcidicStomach.description>
+  <AI_RemoveAnimalHyperAcidicStomach.jobString>Removendo o estômago hiperácido do animal.</AI_RemoveAnimalHyperAcidicStomach.jobString>
+  <AI_RemoveAnimalHyperAcidicStomach.label>remover estômago hiperácido do animal</AI_RemoveAnimalHyperAcidicStomach.label>
+  <AI_RemoveAnimalImmunoenhancer.description>Remover o potenciador imunológico do animal.</AI_RemoveAnimalImmunoenhancer.description>
+  <AI_RemoveAnimalImmunoenhancer.jobString>Removendo o potenciador imunológico do animal.</AI_RemoveAnimalImmunoenhancer.jobString>
+  <AI_RemoveAnimalImmunoenhancer.label>remover potenciador imunológico do animal</AI_RemoveAnimalImmunoenhancer.label>
+  <AI_RemoveAnimalLightFocusingLens.description>Remover a lente focalizadora de luz do animal.</AI_RemoveAnimalLightFocusingLens.description>
+  <AI_RemoveAnimalLightFocusingLens.jobString>Removendo a lente focalizadora de luz do animal.</AI_RemoveAnimalLightFocusingLens.jobString>
+  <AI_RemoveAnimalLightFocusingLens.label>remover lente focalizadora de luz do animal</AI_RemoveAnimalLightFocusingLens.label>
+  <AI_RemoveAnimalPetrifyingGaze.description>Remover o olhar petrificante do animal.</AI_RemoveAnimalPetrifyingGaze.description>
+  <AI_RemoveAnimalPetrifyingGaze.jobString>Removendo o olhar petrificante do animal.</AI_RemoveAnimalPetrifyingGaze.jobString>
+  <AI_RemoveAnimalPetrifyingGaze.label>remover olhar petrificante do animal</AI_RemoveAnimalPetrifyingGaze.label>
+  <AI_RemoveAnimalPseudoDeadlifeShaper.description>Remover o moldador pseudo-necrótico do animal.</AI_RemoveAnimalPseudoDeadlifeShaper.description>
+  <AI_RemoveAnimalPseudoDeadlifeShaper.jobString>Removendo o moldador pseudo-necrótico do animal.</AI_RemoveAnimalPseudoDeadlifeShaper.jobString>
+  <AI_RemoveAnimalPseudoDeadlifeShaper.label>remover moldador pseudo-necrótico do animal</AI_RemoveAnimalPseudoDeadlifeShaper.label>
+  <AI_RemoveAnimalQuadTeslaCannon.description>Remover o canhão télsla quádruplo do animal.</AI_RemoveAnimalQuadTeslaCannon.description>
+  <AI_RemoveAnimalQuadTeslaCannon.jobString>Removendo o canhão télsla quádruplo do animal.</AI_RemoveAnimalQuadTeslaCannon.jobString>
+  <AI_RemoveAnimalQuadTeslaCannon.label>remover canhão télsla quádruplo do animal</AI_RemoveAnimalQuadTeslaCannon.label>
+  <AI_RemoveAnimalRangedSpinneret.description>Remover a fiandeira à distância do animal.</AI_RemoveAnimalRangedSpinneret.description>
+  <AI_RemoveAnimalRangedSpinneret.jobString>Removendo a fiandeira à distância do animal.</AI_RemoveAnimalRangedSpinneret.jobString>
+  <AI_RemoveAnimalRangedSpinneret.label>remover fiandeira à distância do animal</AI_RemoveAnimalRangedSpinneret.label>
+  <AI_RemoveAnimalRangedTrispikes.description>Remover os triespinho lançáveis do animal.</AI_RemoveAnimalRangedTrispikes.description>
+  <AI_RemoveAnimalRangedTrispikes.jobString>Removendo os triespinho lançáveis do animal.</AI_RemoveAnimalRangedTrispikes.jobString>
+  <AI_RemoveAnimalRangedTrispikes.label>remover triespinho lançáveis do animal</AI_RemoveAnimalRangedTrispikes.label>
+  <AI_RemoveAnimalShrinker.description>Remover o implante redutor do animal.</AI_RemoveAnimalShrinker.description>
+  <AI_RemoveAnimalShrinker.jobString>Removendo o implante redutor do animal.</AI_RemoveAnimalShrinker.jobString>
+  <AI_RemoveAnimalShrinker.label>remover implante redutor do animal</AI_RemoveAnimalShrinker.label>
+  <AI_RemoveAnimalSkinHardener.description>Remover o endurecedor de pele do animal.</AI_RemoveAnimalSkinHardener.description>
+  <AI_RemoveAnimalSkinHardener.jobString>Removendo o endurecedor de pele do animal.</AI_RemoveAnimalSkinHardener.jobString>
+  <AI_RemoveAnimalSkinHardener.label>remover endurecedor de pele do animal</AI_RemoveAnimalSkinHardener.label>
+  <AI_RemoveAnimalStealthskinImplant.description>Remover o implante de pele furtiva do animal.</AI_RemoveAnimalStealthskinImplant.description>
+  <AI_RemoveAnimalStealthskinImplant.jobString>Removendo o implante de pele furtiva do animal.</AI_RemoveAnimalStealthskinImplant.jobString>
+  <AI_RemoveAnimalStealthskinImplant.label>remover implante de pele furtiva do animal</AI_RemoveAnimalStealthskinImplant.label>
+  <AI_RemoveAnimalThermoregulator.description>Remover o termorregulador do animal.</AI_RemoveAnimalThermoregulator.description>
+  <AI_RemoveAnimalThermoregulator.jobString>Removendo o termorregulador do animal.</AI_RemoveAnimalThermoregulator.jobString>
+  <AI_RemoveAnimalThermoregulator.label>remover termorregulador do animal</AI_RemoveAnimalThermoregulator.label>
+  <AI_RemoveAnimalToughspikes.description>Remover os espinhos resistentes do animal.</AI_RemoveAnimalToughspikes.description>
+  <AI_RemoveAnimalToughspikes.jobString>Removendo os espinhos resistentes do animal.</AI_RemoveAnimalToughspikes.jobString>
+  <AI_RemoveAnimalToughspikes.label>remover espinhos resistentes do animal</AI_RemoveAnimalToughspikes.label>
+  <AI_RemoveAnimalToxicBreath.description>Remover o sopro tóxico do animal.</AI_RemoveAnimalToxicBreath.description>
+  <AI_RemoveAnimalToxicBreath.jobString>Removendo o sopro tóxico do animal.</AI_RemoveAnimalToxicBreath.jobString>
+  <AI_RemoveAnimalToxicBreath.label>remover sopro tóxico do animal</AI_RemoveAnimalToxicBreath.label>
+  <AI_RemoveAnimalUnstableSkipSynapsis.description>Remover a sinapse de salto instável do animal.</AI_RemoveAnimalUnstableSkipSynapsis.description>
+  <AI_RemoveAnimalUnstableSkipSynapsis.jobString>Removendo a sinapse de salto instável do animal.</AI_RemoveAnimalUnstableSkipSynapsis.jobString>
+  <AI_RemoveAnimalUnstableSkipSynapsis.label>remover sinapses instáveis do animal</AI_RemoveAnimalUnstableSkipSynapsis.label>
+  <AI_RemoveAnimalUpsyDaisyVampireyHealyPower.description>Remove o poder curativo vampírico de Upsy Daisy do animal.</AI_RemoveAnimalUpsyDaisyVampireyHealyPower.description>
+  <AI_RemoveAnimalUpsyDaisyVampireyHealyPower.jobString>Removendo o poder curativo vampírico de Upsy Daisy do animal.</AI_RemoveAnimalUpsyDaisyVampireyHealyPower.jobString>
+  <AI_RemoveAnimalUpsyDaisyVampireyHealyPower.label>remover o poder curativo vampírico de Upsy Daisy do animal</AI_RemoveAnimalUpsyDaisyVampireyHealyPower.label>
+  <AI_RemoveAnimalVacSkinGland.description>Remove a glândula de pele vacuolar do animal.</AI_RemoveAnimalVacSkinGland.description>
+  <AI_RemoveAnimalVacSkinGland.jobString>Removendo a glândula de pele vacuolar do animal.</AI_RemoveAnimalVacSkinGland.jobString>
+  <AI_RemoveAnimalVacSkinGland.label>remover glândula de pele vacuolar do animal</AI_RemoveAnimalVacSkinGland.label>
+  <AI_RemoveAnimalVenomousQuills.description>Remove os espinhos venenosos do animal.</AI_RemoveAnimalVenomousQuills.description>
+  <AI_RemoveAnimalVenomousQuills.jobString>Removendo os espinhos venenosos do animal.</AI_RemoveAnimalVenomousQuills.jobString>
+  <AI_RemoveAnimalVenomousQuills.label>remover espinhos venenosos do animal</AI_RemoveAnimalVenomousQuills.label>
+  <AI_RemoveAnimalVenomousSpitter.description>Remove o órgão cuspidor venenoso do animal.</AI_RemoveAnimalVenomousSpitter.description>
+  <AI_RemoveAnimalVenomousSpitter.jobString>Removendo o órgão cuspidor venenoso do animal.</AI_RemoveAnimalVenomousSpitter.jobString>
+  <AI_RemoveAnimalVenomousSpitter.label>remover órgão cuspidor venenoso do animal</AI_RemoveAnimalVenomousSpitter.label>
+  <AI_RemoveAnimalWispFire.description>Remove o fogo-fátuo do animal.</AI_RemoveAnimalWispFire.description>
+  <AI_RemoveAnimalWispFire.jobString>Removendo o fogo-fátuo do animal.</AI_RemoveAnimalWispFire.jobString>
+  <AI_RemoveAnimalWispFire.label>remover fogo-fátuo do animal</AI_RemoveAnimalWispFire.label>
+  <AI_RemoveAnimalWorkChipClean.description>Remove o chip de trabalho: limpeza do animal.</AI_RemoveAnimalWorkChipClean.description>
+  <AI_RemoveAnimalWorkChipClean.jobString>Removendo o chip de trabalho: limpeza do animal.</AI_RemoveAnimalWorkChipClean.jobString>
+  <AI_RemoveAnimalWorkChipClean.label>remover chip de trabalho: limpeza</AI_RemoveAnimalWorkChipClean.label>
+  <AI_RemoveAnimalWorkChipFeedPatient.description>Remove o chip de trabalho: alimentar paciente do animal.</AI_RemoveAnimalWorkChipFeedPatient.description>
+  <AI_RemoveAnimalWorkChipFeedPatient.jobString>Removendo o chip de trabalho: alimentar paciente do animal.</AI_RemoveAnimalWorkChipFeedPatient.jobString>
+  <AI_RemoveAnimalWorkChipFeedPatient.label>remover chip de trabalho: alimentar paciente</AI_RemoveAnimalWorkChipFeedPatient.label>
+  <AI_RemoveAnimalWorkChipFlick.description>Remove o chip de trabalho: acionar do animal.</AI_RemoveAnimalWorkChipFlick.description>
+  <AI_RemoveAnimalWorkChipFlick.jobString>Removendo o chip de trabalho: acionar do animal.</AI_RemoveAnimalWorkChipFlick.jobString>
+  <AI_RemoveAnimalWorkChipFlick.label>remover chip de trabalho: acionar</AI_RemoveAnimalWorkChipFlick.label>
+  <AI_RemoveAnimalWorkChipHarvest.description>Remove o chip de trabalho: colher do animal.</AI_RemoveAnimalWorkChipHarvest.description>
+  <AI_RemoveAnimalWorkChipHarvest.jobString>Removendo o chip de trabalho: colher do animal.</AI_RemoveAnimalWorkChipHarvest.jobString>
+  <AI_RemoveAnimalWorkChipHarvest.label>remover chip de trabalho: colher</AI_RemoveAnimalWorkChipHarvest.label>
+  <AI_RemoveAnimalWorkChipHunt.description>Remove o chip de trabalho: caçar do animal.</AI_RemoveAnimalWorkChipHunt.description>
+  <AI_RemoveAnimalWorkChipHunt.jobString>Removendo o chip de trabalho: caçar do animal.</AI_RemoveAnimalWorkChipHunt.jobString>
+  <AI_RemoveAnimalWorkChipHunt.label>remover chip de trabalho: caçar</AI_RemoveAnimalWorkChipHunt.label>
+  <AI_RemoveAnimalWorkChipMine.description>Remove o chip de trabalho: minerar do animal.</AI_RemoveAnimalWorkChipMine.description>
+  <AI_RemoveAnimalWorkChipMine.jobString>Removendo o chip de trabalho: minerar do animal.</AI_RemoveAnimalWorkChipMine.jobString>
+  <AI_RemoveAnimalWorkChipMine.label>remover chip de trabalho: minerar</AI_RemoveAnimalWorkChipMine.label>
+  <AI_RemoveAnimalWorkChipSlaughter.description>Remove o chip de trabalho: abater do animal.</AI_RemoveAnimalWorkChipSlaughter.description>
+  <AI_RemoveAnimalWorkChipSlaughter.jobString>Removendo o chip de trabalho: abater do animal.</AI_RemoveAnimalWorkChipSlaughter.jobString>
+  <AI_RemoveAnimalWorkChipSlaughter.label>remover chip de trabalho: abater</AI_RemoveAnimalWorkChipSlaughter.label>
+  <AI_RemoveAnimalWorkChipSow.description>Remove o chip de trabalho: semear do animal.</AI_RemoveAnimalWorkChipSow.description>
+  <AI_RemoveAnimalWorkChipSow.jobString>Removendo o chip de trabalho: semear do animal.</AI_RemoveAnimalWorkChipSow.jobString>
+  <AI_RemoveAnimalWorkChipSow.label>remover chip de trabalho: semear</AI_RemoveAnimalWorkChipSow.label>
+  <AI_RemovePainstopper.description>Remove o bloqueador de dor do animal.</AI_RemovePainstopper.description>
+  <AI_RemovePainstopper.jobString>Removendo o bloqueador de dor do animal.</AI_RemovePainstopper.jobString>
+  <AI_RemovePainstopper.label>remover bloqueador de dor</AI_RemovePainstopper.label>
+</LanguageData>

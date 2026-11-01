@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DesignatorShoo>Afugentar</DesignatorShoo>
+  <DesignatorShooDesc>Marca animais para serem afugentados pacificamente da colônia. Os animais passarão pelas portas enquanto fugirem.</DesignatorShooDesc>
+  <ManhuntOnFailedShoo>{0} está atacando após ter sido afugentado.</ManhuntOnFailedShoo>
+  <ManhuntOnFailedShooLabel>Vingança de {0}</ManhuntOnFailedShooLabel>
+  <MessageAnimalDangerousToShoo>Aviso: {0} pode atacar se for afugentado.</MessageAnimalDangerousToShoo>
+  <MessageMustDesignateShooable>É necessário designar animais.</MessageMustDesignateShooable>
+  <ShooFailure>falha ao afugentar ({0} de chance)</ShooFailure>
+  <ShooSuccess>fugindo</ShooSuccess>
+</LanguageData>

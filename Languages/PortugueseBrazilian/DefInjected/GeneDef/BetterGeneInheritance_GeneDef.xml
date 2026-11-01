@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BGI_BinaryInheritance.description>Se tanto o portador deste gene QUANTO seu parceiro tiverem este gene, um conjunto completo de genes será escolhido de um dos pais ou do outro.\n\nEste gene é comumente encontrado entre xenótipos com castas ou dimorfismo sexual extremo.\n\nPode ser combinado com genes dominantes/recessivos, que, se presentes, terão precedência sobre este gene.</BGI_BinaryInheritance.description>
+  <BGI_BinaryInheritance.label>Herança binária</BGI_BinaryInheritance.label>
+  <BGI_DominantGenes.description>Portadores deste gene terão todos os seus genes repassados para sua prole, ignorando quaisquer genes do parceiro, a menos que ele também possua este gene.</BGI_DominantGenes.description>
+  <BGI_DominantGenes.label>Genes dominantes</BGI_DominantGenes.label>
+  <BGI_PrimaryGenes.description>Portadores deste gene terão seus genes mais prevalentes na prole, especialmente quando misturados com um humano básico.\n\nIsso significa que geralmente repassarão todos os seus genes, a menos que haja sobreposição ou conflito com os genes do outro pai.</BGI_PrimaryGenes.description>
+  <BGI_PrimaryGenes.label>Genes primários</BGI_PrimaryGenes.label>
+  <BGI_RecessiveGenes.description>Portadores deste gene não repassarão nenhum dos seus genes para a prole, pegando apenas os genes do parceiro, a menos que também possuam este gene.</BGI_RecessiveGenes.description>
+  <BGI_RecessiveGenes.label>Genes recessivos</BGI_RecessiveGenes.label>
+  <BGI_SecondaryGenes.description>Portadores deste gene terão seus genes menos prevalentes na prole.\n\nIsso significa que o outro pai geralmente repassará todos os seus genes, a menos que haja sobreposição ou conflitos.</BGI_SecondaryGenes.description>
+  <BGI_SecondaryGenes.label>Genes secundários</BGI_SecondaryGenes.label>
+</LanguageData>

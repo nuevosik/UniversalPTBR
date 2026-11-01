@@ -9,9 +9,12 @@ import sys
 import tempfile
 import unicodedata
 
-from extract_medieval import WORKSHOP, parse_xml, repo_index, scan_defs, scan_keyed
+from extract_medieval import WORKSHOP, XML_NAME, parse_xml, repo_index, scan_defs, scan_keyed
 
-LOCAL = pathlib.Path.home()/'.local/share/Steam/steamapps/common/RimWorld/Mods'
+LOCAL = next((d for d in [
+    pathlib.Path.home()/'.local/share/Steam/steamapps/common/RimWorld/Mods',
+    pathlib.Path('C:/Program Files (x86)/Steam/steamapps/common/RimWorld/Mods'),
+] if d.is_dir()), pathlib.Path.home()/'.local/share/Steam/steamapps/common/RimWorld/Mods')
 REPO = pathlib.Path('Languages/PortugueseBrazilian')
 BATCH_CAP = 1500
 SKIP = {'1508850027': 'RimHUD coberto pelo pacote RimHUD PortugueseBrazilian'}
@@ -57,8 +60,10 @@ def scan():
             keyed = scan_keyed(mod)
             if not entries and not keyed:
                 continue
-            md = {k for k in entries if k not in repo_def and k[1] not in repo_keyed}
-            mk = {k for k in keyed if k not in repo_keyed}
+            md = {k for k in entries if k not in repo_def and k[1] not in repo_keyed
+                  and XML_NAME.fullmatch(k[1])}
+            mk = {k for k, v in keyed.items()
+                  if v.strip() and k not in repo_keyed and XML_NAME.fullmatch(k)}
             if not md and not mk:
                 continue
             rows.append(dict(folderId=(m if base == WORKSHOP else ''), local=(base == LOCAL),
@@ -91,9 +96,11 @@ def build(rows):
 
 def write_md(data, path):
     lines = ['# Inventário — Tradução Total (PT-BR)', '',
-             f"Alvos: {data['campaign']['targets']} | chaves: {data['campaign']['strings']}", '',
-             '| lote | folderId | packageId | mod | defs | keys | total | status |',
-             '|---|---|---|---|---:|---:|---:|---|']
+             f"Alvos: {data['campaign']['targets']} | chaves: {data['campaign']['strings']}", '']
+    if not data['batches']:
+        lines += ['Nenhuma pendência: todos os mods instalados com texto traduzível estão cobertos.', '']
+    lines += ['| lote | folderId | packageId | mod | defs | keys | total | status |',
+              '|---|---|---|---|---:|---:|---:|---|']
     for b, rows in data['batches'].items():
         for r in rows:
             lines.append(f"| {b} | {r['folderId'] or 'LOCAL'} | {r['packageId']} | {r['name']} | "

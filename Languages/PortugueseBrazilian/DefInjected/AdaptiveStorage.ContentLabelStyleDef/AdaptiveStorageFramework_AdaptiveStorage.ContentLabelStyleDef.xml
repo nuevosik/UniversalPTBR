@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Automatic.description>Escolhe automaticamente entre exibir os nomes dos itens com sua quantidade quando ocultos e apenas a quantidade quando houver conteúdos visíveis, seja diretamente ou pelo fato da construção aceitar apenas um tipo.</Automatic.description>
+  <Automatic.label>Automático</Automatic.label>
+  <Names.description>Exibe os nomes dos itens armazenados, uma entrada por linha</Names.description>
+  <Names.label>Nomes dos itens</Names.label>
+  <NamesOrNameCount.description>Exibe até 3 nomes dos itens armazenados, uma entrada por linha, ou a quantidade de nomes diferentes quando houver mais itens</NamesOrNameCount.description>
+  <NamesOrNameCount.label>Nomes dos itens ou contagem de nomes</NamesOrNameCount.label>
+  <NamesOrTotalCount.description>Exibe até 3 nomes dos itens armazenados, uma entrada por linha, ou a quantidade total quando houver mais itens</NamesOrTotalCount.description>
+  <NamesOrTotalCount.label>Nomes dos itens ou contagem total</NamesOrTotalCount.label>
+  <NamesWithCount.description>Exibe os nomes dos itens e sua quantidade no formato Item xY, uma entrada por linha</NamesWithCount.description>
+  <NamesWithCount.label>Nomes dos itens com quantidade</NamesWithCount.label>
+  <NamesWithCountOrTotalCount.description>Exibe até 3 nomes dos itens e sua quantidade no formato Item xY, uma entrada por linha, ou a contagem total quando houver mais itens</NamesWithCountOrTotalCount.description>
+  <NamesWithCountOrTotalCount.label>Nomes dos itens com quantidade ou contagem total</NamesWithCountOrTotalCount.label>
+  <None.description>Não exibe nenhum rótulo</None.description>
+  <None.label>Nenhum</None.label>
+  <TotalCount.description>Exibe a quantidade total de todos os itens no armazenamento no formato [ QUANTIDADE ]</TotalCount.description>
+  <TotalCount.label>Contagem total</TotalCount.label>
+  <Vanilla.description>Exibe a quantidade dos itens individualmente em cada item</Vanilla.description>
+  <Vanilla.label>Padrão</Vanilla.label>
+</LanguageData>

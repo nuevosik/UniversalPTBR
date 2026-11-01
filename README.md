@@ -13,7 +13,9 @@ Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni cora
 
 ## ✨ Mods Atualmente Traduzidos
 
-A tradução já abrange os seguintes módulos do Vanilla Expanded e mods universais curados. Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
+**Cobertura total (auditoria de 31/10/2026):** todos os mods instalados no RimWorld com texto traduzível estão cobertos — 215 mods ativos e 18 instalados desativados, somando 69.766 entradas em 2.292 arquivos XML. Inclui Vanilla Expanded, The Dead Man's Switch (e expansões), World Domination 2.0, Alpha Animals/Mechs/Implants, Aoba, submods do Combat Extended, Vanilla Vehicles e utilitários de QoL. O inventário de pendências e os comandos de validação ficam em [`docs/traducao-total/INVENTORY.md`](docs/traducao-total/INVENTORY.md) e [`docs/traducao-total/2026-10-31-campanha-completa.md`](docs/traducao-total/2026-10-31-campanha-completa.md).
+
+A tabela abaixo lista alguns dos módulos cobertos, com fidelidade à terminologia oficial do RimWorld.
 
 | Mod Traduzido | Descrição |
 | :--- | :--- |

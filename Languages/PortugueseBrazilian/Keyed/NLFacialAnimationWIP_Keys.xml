@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NL_FA_Animation_Settings>Configurações de Animação</NL_FA_Animation_Settings>
+  <NL_FA_Core_GeneSettings>Configurações de Partes Genéticas</NL_FA_Core_GeneSettings>
+  <NL_FA_Core_GeneralSettings>Configurações Gerais</NL_FA_Core_GeneralSettings>
+  <NL_FA_Core_RaceSelector>Selecionar uma raça</NL_FA_Core_RaceSelector>
+  <NL_FA_Core_RaceSelector_Hint>Se desativado, a animação facial não será aplicada à combinação de raças e xenótipos.</NL_FA_Core_RaceSelector_Hint>
+  <NL_FA_Core_RaceSettings>Configurações de Raça e Xenótipo</NL_FA_Core_RaceSettings>
+  <NL_FA_Core_RaceSettings_Hint>Para usuários que desejam desativar parcialmente as funções da animação facial.</NL_FA_Core_RaceSettings_Hint>
+  <NL_FA_Disable_Eye_Attachment>Ocultar Texturas Vanilla dos Olhos</NL_FA_Disable_Eye_Attachment>
+  <NL_FA_Disable_Eye_Attachment_Hint>Oculta texturas que cobrem os olhos da Animação Facial.</NL_FA_Disable_Eye_Attachment_Hint>
+  <NL_FA_Draw_Settings>Configurações de Desenho</NL_FA_Draw_Settings>
+  <NL_FA_Draw_face_type_for_genes>Ativar Partes Faciais Especiais para Genes</NL_FA_Draw_face_type_for_genes>
+  <NL_FA_Draw_face_type_for_genes_Hint>Quando ativado, partes faciais especiais para genes específicos serão adicionadas.</NL_FA_Draw_face_type_for_genes_Hint>
+  <NL_FA_Draw_the_Ears_parts>Orelhas</NL_FA_Draw_the_Ears_parts>
+  <NL_FA_Draw_the_Ears_parts_Hint>Desenhar partes genéticas (experimental)</NL_FA_Draw_the_Ears_parts_Hint>
+  <NL_FA_Draw_the_Eyes_parts>Olhos</NL_FA_Draw_the_Eyes_parts>
+  <NL_FA_Draw_the_Eyes_parts_Hint>Desenhar partes genéticas (experimental)</NL_FA_Draw_the_Eyes_parts_Hint>
+  <NL_FA_Draw_the_Headbone_parts>Osso da Cabeça</NL_FA_Draw_the_Headbone_parts>
+  <NL_FA_Draw_the_Headbone_parts_Hint>Desenhar partes genéticas (experimental)</NL_FA_Draw_the_Headbone_parts_Hint>
+  <NL_FA_Draw_the_Nose_parts>Nariz</NL_FA_Draw_the_Nose_parts>
+  <NL_FA_Draw_the_Nose_parts_Hint>Desenhar partes genéticas (experimental)</NL_FA_Draw_the_Nose_parts_Hint>
+  <NL_FA_Draw_the_eyebrows_above_the_hat>Desenhar sobrancelhas acima do chapéu</NL_FA_Draw_the_eyebrows_above_the_hat>
+  <NL_FA_Draw_the_eyebrows_above_the_hat_Hint>Desenhar sobrancelhas acima do chapéu</NL_FA_Draw_the_eyebrows_above_the_hat_Hint>
+  <NL_FA_Draw_the_gene_parts>Desenhar Partes Genéticas Vanilla (experimental)</NL_FA_Draw_the_gene_parts>
+  <NL_FA_Draw_the_gene_parts_Hint>Desenhar partes genéticas (experimental)</NL_FA_Draw_the_gene_parts_Hint>
+  <NL_FA_Enable_Facial_Animation_For_All_Pawns>Ativar Animação Facial para Todos os Colonos</NL_FA_Enable_Facial_Animation_For_All_Pawns>
+  <NL_FA_Enable_Facial_Animation_For_All_Pawns_Hint>Se desativado, todas as animações deixarão de ser aplicadas, reduzindo significativamente a carga computacional. Para jogadores que só querem alterar as partes faciais.</NL_FA_Enable_Facial_Animation_For_All_Pawns_Hint>
+  <NL_FA_Enable_Facial_Animation_For_Non_Colonists>Ativar Animação Facial para Não-Colonos</NL_FA_Enable_Facial_Animation_For_Non_Colonists>
+  <NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>Se desativado, as animações de não-colonos deixarão de ser aplicadas, reduzindo a carga da animação facial.</NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>
+  <NL_FA_Enable_Facial_Animation_in_Portraits>Ativar Animação Facial em Retratos</NL_FA_Enable_Facial_Animation_in_Portraits>
+  <NL_FA_Enable_Facial_Animation_in_Portraits_Hint>Se seu jogo estiver lento, aumente o intervalo de atualização ou desative este recurso.</NL_FA_Enable_Facial_Animation_in_Portraits_Hint>
+  <NL_FA_Enable_Female_Drawing>Aplicar Cabeças da Animação Facial a Mulheres</NL_FA_Enable_Female_Drawing>
+  <NL_FA_Enable_Female_Drawing_Hint>Aplicar Cabeças da Animação Facial a Mulheres</NL_FA_Enable_Female_Drawing_Hint>
+  <NL_FA_Enable_MainTab>Ativar Aba Principal</NL_FA_Enable_MainTab>
+  <NL_FA_Enable_MainTab_Hint>Se desativado, a interface na aba principal ficará oculta.</NL_FA_Enable_MainTab_Hint>
+  <NL_FA_Enable_Male_Drawing>Aplicar Cabeças da Animação Facial a Homens</NL_FA_Enable_Male_Drawing>
+  <NL_FA_Enable_Male_Drawing_Hint>Aplicar Cabeças da Animação Facial a Homens</NL_FA_Enable_Male_Drawing_Hint>
+  <NL_FA_Enable_Neither_Drawing>Aplicar Cabeças da Animação Facial a Raças Não-Binárias</NL_FA_Enable_Neither_Drawing>
+  <NL_FA_Enable_Neither_Drawing_Hint>Aplicar Cabeças da Animação Facial a Raças Não-Binárias</NL_FA_Enable_Neither_Drawing_Hint>
+  <NL_FA_Enable_dark_skin_shader>Ativar Correção de Tonalidade Vermelha para Peles Escuras</NL_FA_Enable_dark_skin_shader>
+  <NL_FA_Enable_dark_skin_shader_Hint>O sombreamento de pele padrão tem um problema onde tons de pele mais escuros parecem avermelhados. Ativar esta opção fará com que o processamento de tons de pele mais escuros seja o mesmo dos xeno-humanos. É necessário recarregar.</NL_FA_Enable_dark_skin_shader_Hint>
+  <NL_FA_Force_No-Cache>Forçar Sem Cache</NL_FA_Force_No-Cache>
+  <NL_FA_Force_No-Cache_Hint>Quando houver conflito com outros mods que forçam atualização, desative este recurso.</NL_FA_Force_No-Cache_Hint>
+  <NL_FA_Ignore_beard_mesh_and_offset>Corrigir desalinhamento da barba (experimental)</NL_FA_Ignore_beard_mesh_and_offset>
+  <NL_FA_Ignore_beard_mesh_and_offset_Hint>Quando ativado, ignora o tamanho e o deslocamento da malha da barba.</NL_FA_Ignore_beard_mesh_and_offset_Hint>
+  <NL_FA_Ignore_hair_mesh>Corrigir desalinhamento do cabelo (experimental)</NL_FA_Ignore_hair_mesh>
+  <NL_FA_Ignore_hair_mesh_Hint>Quando ativado, ignora os parâmetros de tamanho da malha do cabelo.</NL_FA_Ignore_hair_mesh_Hint>
+  <NL_FA_Odd_Eye_Probability>Probabilidade de olho diferente: {0} %</NL_FA_Odd_Eye_Probability>
+  <NL_FA_Remove_Eye_Hediff_Graphic>Remover todas as imagens acima dos olhos</NL_FA_Remove_Eye_Hediff_Graphic>
+  <NL_FA_Remove_Eye_Hediff_Graphic_Hint>Quando ativado, nada será exibido quando houver cegueira, sensores oculares ou olhos arquiotecnológicos.</NL_FA_Remove_Eye_Hediff_Graphic_Hint>
+  <NL_FA_Switch_Left_And_Right_Eyes>Inverter Olho Esquerdo e Direito</NL_FA_Switch_Left_And_Right_Eyes>
+  <NL_FA_Switch_Left_And_Right_Eyes_Hint>Corrige um problema onde as cicatrizes dos olhos esquerdo e direito estão trocadas.</NL_FA_Switch_Left_And_Right_Eyes_Hint>
+  <NL_FA_UI_AnimationController_Label>Controle de Animação</NL_FA_UI_AnimationController_Label>
+  <NL_FA_UI_BodyType_Label>Tipo Corporal</NL_FA_UI_BodyType_Label>
+  <NL_FA_UI_Brow_Label>Sobrancelhas</NL_FA_UI_Brow_Label>
+  <NL_FA_UI_Eyeball_Label>Olho</NL_FA_UI_Eyeball_Label>
+  <NL_FA_UI_HairType_Label>Cabelo</NL_FA_UI_HairType_Label>
+  <NL_FA_UI_HeadType_Label>Tipo de Cabeça</NL_FA_UI_HeadType_Label>
+  <NL_FA_UI_Head_Label>Cabeça</NL_FA_UI_Head_Label>
+  <NL_FA_UI_Lid_Label>Pálpebra</NL_FA_UI_Lid_Label>
+  <NL_FA_UI_Mouth_Label>Boca</NL_FA_UI_Mouth_Label>
+  <NL_FA_UI_Not_Support_Label>Não Suportado</NL_FA_UI_Not_Support_Label>
+  <NL_FA_UI_Skin_Label>Pele</NL_FA_UI_Skin_Label>
+  <NL_FA_UI_Status_Simulation_Label>Simulação de Status</NL_FA_UI_Status_Simulation_Label>
+  <NL_FA_UI_Support_Label>Suportado</NL_FA_UI_Support_Label>
+  <NL_FA_Update_Interval>Intervalo de Atualização: {0} Ciclos</NL_FA_Update_Interval>
+  <NL_FA_dark_skin_threshold>Limite de brilho: {0} %</NL_FA_dark_skin_threshold>
+</LanguageData>

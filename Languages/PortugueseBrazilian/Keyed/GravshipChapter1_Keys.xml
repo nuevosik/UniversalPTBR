@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TerrainTagSpace>espaço</TerrainTagSpace>
+  <VGE_ChooseAStartingGravship>Escolha uma gravinave inicial</VGE_ChooseAStartingGravship>
+  <VGE_ChooseAStartingGravshipDesc>Escolha com qual gravinave você gostaria de iniciar o cenário. Os recursos iniciais serão depositados nessa gravinave. Diferentes gravinaves podem iniciar com estruturas diferentes.</VGE_ChooseAStartingGravshipDesc>
+  <VGE_ColorPickerMenu>Selecionar qualquer cor usando um seletor de cores.</VGE_ColorPickerMenu>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Construir área de teto de barreira de vácuo</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Os colonos construirão tetos de barreira de vácuo nesta área.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Remover área de teto de barreira de vácuo</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Os colonos removerão tetos de barreira de vácuo nesta área.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+  <VGE_DesignatorEyeDropperDesc_Universal>Pegar uma cor de um teto de barreira de vácuo, edifício ou piso existente.</VGE_DesignatorEyeDropperDesc_Universal>
+  <VGE_DesignatorRecolorVacBarrierRoof>Recolorir tetos de barreira de vácuo...</VGE_DesignatorRecolorVacBarrierRoof>
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>Recolorir imediatamente quaisquer tetos de barreira de vácuo.</VGE_DesignatorRecolorVacBarrierRoofDesc>
+  <VGE_FuelTab_OtherFuel>combustível</VGE_FuelTab_OtherFuel>
+  <VGE_FuelTab_OtherFuelTitle>outro combustível</VGE_FuelTab_OtherFuelTitle>
+  <VGE_FuelTab_Range>alcance</VGE_FuelTab_Range>
+  <VGE_FuelTab_Thrusters>propulsores conectados</VGE_FuelTab_Thrusters>
+  <VGE_FuelTab_ThrustersTitle>Propulsores de {RESOURCE}</VGE_FuelTab_ThrustersTitle>
+  <VGE_FuelTab_UsagePerTile>consumo de combustível: {COST} {RESOURCE} por bloco</VGE_FuelTab_UsagePerTile>
+  <VGE_GrabBuildingColor>Pegar cor de {BUILDING_labelNoParenthesis}: {COLOR}</VGE_GrabBuildingColor>
+  <VGE_GrabFloorColor>Pegar cor do piso: {COLOR}</VGE_GrabFloorColor>
+  <VGE_GrabVacBarrierRoofColor>Pegar cor do teto de barreira de vácuo</VGE_GrabVacBarrierRoofColor>
+  <VGE_GravcoreTax>imposto de gravnúcleo</VGE_GravcoreTax>
+  <VGE_GravshipFuelTab>Combustível</VGE_GravshipFuelTab>
+  <VGE_GravshipRangeCurrentLayer>alcance da gravinave ({0})</VGE_GravshipRangeCurrentLayer>
+  <VGE_LaunchFuelInfo>Este lançamento consumirá o seguinte combustível:</VGE_LaunchFuelInfo>
+  <VGE_LaunchHeatUnitsInfo>Este lançamento gerará cerca de {0} unidades de calor, aumentando a temperatura em toda a gravinave.</VGE_LaunchHeatUnitsInfo>
+  <VGE_MaintenanceMultiplier>Multiplicador de perda de manutenção (maior = perda de manutenção mais rápida)</VGE_MaintenanceMultiplier>
+  <VGE_MaintenanceMultiplierDesc>A quantidade de manutenção perdida ao longo do tempo e ao viajar com a gravinave será multiplicada por esse número. Ou seja, 2 significa que você perderá manutenção duas vezes mais rápido. Adicionado porque Sam Streamer é um chorão insuportável.</VGE_MaintenanceMultiplierDesc>
+  <VGE_MustBeAimedViaEquippedTargeter>Deve ser mirado usando um dispositivo de mira equipado.</VGE_MustBeAimedViaEquippedTargeter>
+  <VGE_OtherFuel>outro combustível</VGE_OtherFuel>
+  <VGE_PermanentlyDisabled>Desativado permanentemente (computador de guerra destruído)</VGE_PermanentlyDisabled>
+  <VGE_PlayerOwnedOrbitalColonyDesc>Uma colônia orbital pertencente à facção do jogador.</VGE_PlayerOwnedOrbitalColonyDesc>
+  <VGE_ProtectingFromSpaceSolarFlare>Protegendo contra erupção solar espacial</VGE_ProtectingFromSpaceSolarFlare>
+  <VGE_ReportBeatAstrofire>apagando o astrofogo.</VGE_ReportBeatAstrofire>
+  <VGE_ReportExtinguishAstrofiresNearby>apagando astrofogos próximos.</VGE_ReportExtinguishAstrofiresNearby>
+  <VGE_ScannerCluster_LongRangeResource>{RESOURCE} de longo alcance</VGE_ScannerCluster_LongRangeResource>
+  <VGE_ScannerCluster_MissingResearchPrerequisite>Faltando pesquisa: {RESEARCH_label}</VGE_ScannerCluster_MissingResearchPrerequisite>
+  <VGE_ScannerCluster_RandomResource>Recurso profundo aleatório</VGE_ScannerCluster_RandomResource>
+  <VGE_ScannerCluster_TunedToNothing>Nada</VGE_ScannerCluster_TunedToNothing>
+  <VGE_ScannerCluster_TunedToOrbitalScanning>Escaneamento orbital passivo</VGE_ScannerCluster_TunedToOrbitalScanning>
+  <VGE_ScannerCluster_UndergroundResource>{RESOURCE} profundo</VGE_ScannerCluster_UndergroundResource>
+  <VGE_SelectColorFromTile>Selecionar cor específica do bloco</VGE_SelectColorFromTile>
+  <VGE_SourceMod>Fonte: {0}</VGE_SourceMod>
+  <VGE_TargetOutOfRange>Alvo fora do alcance.</VGE_TargetOutOfRange>
+  <VGE_ToggleMaintainBuilding>Manutenção automática</VGE_ToggleMaintainBuilding>
+  <VGE_ToggleMaintainBuildingDesc>Isso determina se os colonos farão a manutenção deste edifício automaticamente.</VGE_ToggleMaintainBuildingDesc>
+</LanguageData>

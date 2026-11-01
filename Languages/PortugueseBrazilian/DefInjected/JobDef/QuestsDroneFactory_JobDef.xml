@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VQE_CarryDroneToTransmitter.reportString>carregando TargetA até o transmissor.</VQE_CarryDroneToTransmitter.reportString>
+  <VQE_DecryptCore.reportString>descriptografando o núcleo do drone.</VQE_DecryptCore.reportString>
+  <VQE_EnterStandby.reportString>entrando em modo de espera.</VQE_EnterStandby.reportString>
+  <VQE_GotoPatrolDest.reportString>patrulhando.</VQE_GotoPatrolDest.reportString>
+  <VQE_ReactivateDrone.reportString>reativando TargetA.</VQE_ReactivateDrone.reportString>
+  <VQE_RepairDrone.reportString>reparando TargetA.</VQE_RepairDrone.reportString>
+  <VQE_ShutdownDrone.reportString>desativando TargetA.</VQE_ShutdownDrone.reportString>
+  <VQE_StandOutOfTransmitterRange.reportString>aguardando sinal do transmissor.</VQE_StandOutOfTransmitterRange.reportString>
+</LanguageData>

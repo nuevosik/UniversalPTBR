@@ -40,12 +40,6 @@
   <DMS_Mech_Killdozer.label>killdozer</DMS_Mech_Killdozer.label>
   <DMS_Mech_Falcon.label>falcão</DMS_Mech_Falcon.label>
   <DMS_Mech_Noctula.label>nóctula</DMS_Mech_Noctula.label>
-  <DMS_Machine_TrashBin.label>lixeira</DMS_Machine_TrashBin.label>
-  <DMS_Machine_VerlingBird.label>pássaro Verling</DMS_Machine_VerlingBird.label>
-  <DMS_Machine_VerlingBirdA.label>pássaro Verling</DMS_Machine_VerlingBirdA.label>
-  <DMS_Machine_Hound.label>sabujo</DMS_Machine_Hound.label>
-  <DMS_Machine_Hound_RC.label>sabujo de controle de motim</DMS_Machine_Hound_RC.label>
-  <DMS_Machine_Hound_FS.label>perseguidor</DMS_Machine_Hound_FS.label>
   <DMS_Mech_Arquebusier.label>arcabuzeiro</DMS_Mech_Arquebusier.label>
   <DMS_Mech_Jaeger.label>caçador</DMS_Mech_Jaeger.label>
   <DMS_Mech_Pioneer.label>pioneiro</DMS_Mech_Pioneer.label>
@@ -77,6 +71,33 @@
   <DMS_Drone_Hound.labelPlural>sabujos</DMS_Drone_Hound.labelPlural>
   <DMS_Drone_Trashpan.label>lixeira</DMS_Drone_Trashpan.label>
   <DMS_Drone_Trashpan.labelPlural>lixeiras</DMS_Drone_Trashpan.labelPlural>
+  <DMS_AMO_Beast.label>fera</DMS_AMO_Beast.label>
+  <DMS_CrewMember.label>tripulante</DMS_CrewMember.label>
+  <DMS_Deviant.label>desviante</DMS_Deviant.label>
+  <DMS_Drone_Erima.label>erima</DMS_Drone_Erima.label>
+  <DMS_Drone_Erima.labelPlural>erimas</DMS_Drone_Erima.labelPlural>
+  <DMS_Drone_Uca.label>uca</DMS_Drone_Uca.label>
+  <DMS_Drone_Uca.labelPlural>ucas</DMS_Drone_Uca.labelPlural>
+  <DMS_Drone_Wildfowl.label>ave selvagem</DMS_Drone_Wildfowl.label>
+  <DMS_Drone_Wildfowl.labelPlural>aves selvagens</DMS_Drone_Wildfowl.labelPlural>
+  <DMS_Mech_BullHound.label>cão de combate</DMS_Mech_BullHound.label>
+  <DMS_Mech_BullHound_Flamer.label>cão infernal</DMS_Mech_BullHound_Flamer.label>
+  <DMS_Mech_ClusterWeaver.label>tecelão de enxames</DMS_Mech_ClusterWeaver.label>
+  <DMS_Mech_Frogman.label>homem-rã</DMS_Mech_Frogman.label>
+  <DMS_Mech_Gravekeeper.label>guarda-túmulos</DMS_Mech_Gravekeeper.label>
+  <DMS_Mech_Gravekeeper_Enterrador.label>Enterrador</DMS_Mech_Gravekeeper_Enterrador.label>
+  <DMS_Mech_Gravekeeper_Sepulturero.label>Sepultador</DMS_Mech_Gravekeeper_Sepulturero.label>
+  <DMS_Mech_Gravekeeper_Stugna.label>Enterrador</DMS_Mech_Gravekeeper_Stugna.label>
+  <DMS_Mech_Gravekeeper_Velador.label>Vigia</DMS_Mech_Gravekeeper_Velador.label>
+  <DMS_Mech_Lanius.label>pássaro açougueiro</DMS_Mech_Lanius.label>
+  <DMS_Mech_Lanius_RR.label>pássaro canhão</DMS_Mech_Lanius_RR.label>
+  <DMS_PlayerColonist.label>colono</DMS_PlayerColonist.label>
+  <DMS_Machine_Hound.label>sabujo</DMS_Machine_Hound.label>
+  <DMS_Machine_Hound_FS.label>hetzen</DMS_Machine_Hound_FS.label>
+  <DMS_Machine_Hound_RC.label>cão de guarda</DMS_Machine_Hound_RC.label>
+  <DMS_Machine_TrashBin.label>lixeira</DMS_Machine_TrashBin.label>
+  <DMS_Machine_VerlingBird.label>pássaro Verling</DMS_Machine_VerlingBird.label>
+  <DMS_Machine_VerlingBirdA.label>pássaro Verling</DMS_Machine_VerlingBirdA.label>
   <DMS_Mech_Geochelone_b.label>jabuti</DMS_Mech_Geochelone_b.label>
   <DMS_Mech_Killdozer_b.label>killdozer</DMS_Mech_Killdozer_b.label>
 </LanguageData>

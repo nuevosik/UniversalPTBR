@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WG_Frame_Capture.helpText>É impossível prender o piloto de uma estrutura andadora, pois ele pode arrombar a porta com facilidade. Selecione seu colono e clique com o botão direito em uma estrutura andadora abatida para ordenar a desmontagem e remover o piloto dela.</WG_Frame_Capture.helpText>
+  <WG_Frame_Capture.label>capturar um piloto abatido</WG_Frame_Capture.label>
+  <WG_Frame_PilotSchedule.helpText>Você pode designar um colono para pilotar automaticamente definindo sua programação como "Pilotar" e atribuindo a ele um guindaste ou ponto de atracagem. Se um piloto não tiver a atribuição "Pilotar" nem "Qualquer", ele tentará atracar sua estrutura andadora em qualquer ponto ou guindaste disponível.</WG_Frame_PilotSchedule.helpText>
+  <WG_Frame_PilotSchedule.label>programação de pilotagem</WG_Frame_PilotSchedule.label>
+  <WG_Frame_Wreckage.helpText>Quando os pontos de estrutura se esgotarem, a estrutura andadora ficará totalmente inoperante e se transformará em destroços. Isso não significa que o piloto esteja morto: você ainda pode resgatá-lo ordenando que seu colono o abra.</WG_Frame_Wreckage.helpText>
+  <WG_Frame_Wreckage.label>estrutura andadora inoperante</WG_Frame_Wreckage.label>
+  <WG_Gantry_LinkBuilding.helpText>O guindaste só exibirá módulos das prateleiras de armazenamento de módulos conectadas. Certifique-se de ter pelo menos uma prateleira de armazenamento de módulos conectada antes de abrir o menu de personalização.</WG_Gantry_LinkBuilding.helpText>
+  <WG_Gantry_LinkBuilding.label>armazenamento de módulos</WG_Gantry_LinkBuilding.label>
+  <WG_Gantry_LoadModule.helpText>Ao clicar com o botão direito em um espaço, um menu flutuante mostrará o que está disponível para ele. Alguns espaços podem liberar outros espaços, enquanto outros podem desativar espaços diferentes.</WG_Gantry_LoadModule.helpText>
+  <WG_Gantry_LoadModule.label>instalação de módulos</WG_Gantry_LoadModule.label>
+  <WG_Gantry_Overloaded.helpText>Se o peso carregado for maior que o que a estrutura andadora suporta, ela ficará sobrecarregada. Ainda é possível pilotá-la, mas não haverá capacidade de carga e a velocidade de movimento será reduzida em 50%.</WG_Gantry_Overloaded.helpText>
+  <WG_Gantry_Overloaded.label>sobrecarregado</WG_Gantry_Overloaded.label>
+  <WG_Gantry_PayloadCapacity.helpText>Toda estrutura andadora principal tem uma quantidade máxima de energia de saída, também conhecida como capacidade de carga. Cada módulo montado consome parte dessa capacidade.</WG_Gantry_PayloadCapacity.helpText>
+  <WG_Gantry_PayloadCapacity.label>capacidade de carga</WG_Gantry_PayloadCapacity.label>
+  <WG_Gantry_Repair.helpText>Os colonos designados para trabalho artesanal repararão os módulos montados no guindaste caso o reparo automático esteja ativado, mas isso levará mais tempo.</WG_Gantry_Repair.helpText>
+  <WG_Gantry_Repair.label>reparo no guindaste</WG_Gantry_Repair.label>
+  <WG_ModuleItem.helpText>Parece que você adquiriu uma caixa de módulo. Esses itens só serão úteis se você tiver um guindaste para montá-los, mas também é possível reciclá-los em uma fundição caso não tenha tecnologia para utilizá-los.</WG_ModuleItem.helpText>
+  <WG_ModuleItem.label>módulo</WG_ModuleItem.label>
+  <WG_Module_Repair.helpText>Os colonos designados para trabalho artesanal consertarão os módulos danificados. A velocidade de reparo é afetada pela velocidade de trabalho do colono.</WG_Module_Repair.helpText>
+  <WG_Module_Repair.label>reparo de módulo</WG_Module_Repair.label>
+  <WG_ParkingSpot.helpText>Este é um ponto de estacionamento temporário para sua estrutura andadora. Enquanto estiver em um local de caravana, não há ferramentas para reparar peças danificadas, mas o piloto pode descansar adequadamente e receber tratamento médico.</WG_ParkingSpot.helpText>
+  <WG_ParkingSpot.label>ponto de estacionamento</WG_ParkingSpot.label>
+  <WG_WalkerFrame.helpText>Parece que você adquiriu a tecnologia para produzir um tipo de exotraje pesado. Esses exotrajes são diferentes dos comuns e exigem uma construção específica para serem montados, equipados ou desequipados.</WG_WalkerFrame.helpText>
+  <WG_WalkerFrame.label>estrutura andadora</WG_WalkerFrame.label>
+</LanguageData>

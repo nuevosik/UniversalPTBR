@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fluffy.WorkTab.ClearFavourite>Limpar favorito</Fluffy.WorkTab.ClearFavourite>
+  <Fluffy.WorkTab.CompactWorkTabSettingDisabledTip>Esta configuração está desativada. Configure-a em {0}.</Fluffy.WorkTab.CompactWorkTabSettingDisabledTip>
+  <Fluffy.WorkTab.CreateFavourite>Criar novo favorito</Fluffy.WorkTab.CreateFavourite>
+  <Fluffy.WorkTab.CreateFavouritesDialogTitle>Criar novo favorito</Fluffy.WorkTab.CreateFavouritesDialogTitle>
+  <Fluffy.WorkTab.DefaultFavouriteLabel>Favorito</Fluffy.WorkTab.DefaultFavouriteLabel>
+  <Fluffy.WorkTab.DeleteFavourite>Descarregar e excluir</Fluffy.WorkTab.DeleteFavourite>
+  <Fluffy.WorkTab.EditFavouritesDialogTitle>Editando "{0}"</Fluffy.WorkTab.EditFavouritesDialogTitle>
+  <Fluffy.WorkTab.FavouriteAlreadyExists>Já existe um favorito com esse nome</Fluffy.WorkTab.FavouriteAlreadyExists>
+  <Fluffy.WorkTab.FavouriteInvalidFilename>"{0}" não é um nome válido. Os nomes dos favoritos devem ser nomes de arquivo válidos</Fluffy.WorkTab.FavouriteInvalidFilename>
+  <Fluffy.WorkTab.FavouriteLabelCannotBeEmpty>O nome do favorito não pode estar vazio</Fluffy.WorkTab.FavouriteLabelCannotBeEmpty>
+  <Fluffy.WorkTab.LoadFavourite>Carregar favorito</Fluffy.WorkTab.LoadFavourite>
+  <Fluffy.WorkTab.NoStoredFavourites>Nenhum favorito armazenado</Fluffy.WorkTab.NoStoredFavourites>
+  <Fluffy.WorkTab.Priority.AboveNormal>Acima da prioridade normal</Fluffy.WorkTab.Priority.AboveNormal>
+  <Fluffy.WorkTab.Priority.BelowNormal>Abaixo da prioridade normal</Fluffy.WorkTab.Priority.BelowNormal>
+  <Fluffy.WorkTab.Priority.High>Prioridade alta</Fluffy.WorkTab.Priority.High>
+  <Fluffy.WorkTab.Priority.Low>Prioridade baixa</Fluffy.WorkTab.Priority.Low>
+  <Fluffy.WorkTab.Priority.Lowest>Prioridade mínima</Fluffy.WorkTab.Priority.Lowest>
+  <Fluffy.WorkTab.Priority.None>Não fará</Fluffy.WorkTab.Priority.None>
+  <Fluffy.WorkTab.Priority.Normal>Prioridade normal</Fluffy.WorkTab.Priority.Normal>
+  <Fluffy.WorkTab.Priority.Top>Prioridade máxima</Fluffy.WorkTab.Priority.Top>
+  <Fluffy.WorkTab.Priority.VeryHigh>Prioridade muito alta</Fluffy.WorkTab.Priority.VeryHigh>
+  <Fluffy.WorkTab.Priority.VeryLow>Prioridade muito baixa</Fluffy.WorkTab.Priority.VeryLow>
+  <Fluffy.WorkTab.UnloadFavourite>Descarregar</Fluffy.WorkTab.UnloadFavourite>
+  <WorkTab>Aba de Trabalho</WorkTab>
+  <WorkTab.24HourMode>Modo 24 horas</WorkTab.24HourMode>
+  <WorkTab.24HourModeTip>Os horários devem ser exibidos no formato 12h (ex.: meio-dia, 21h) ou 24h (ex.: 12:00, 21:00)?</WorkTab.24HourModeTip>
+  <WorkTab.ClickToFocus>Clique para centralizar</WorkTab.ClickToFocus>
+  <WorkTab.ClickToSelect>Clique para selecionar\nShift+clique para desselecionar todos os outros</WorkTab.ClickToSelect>
+  <WorkTab.CollapseAll>Clique para recolher todas as prioridades\nCtrl+clique nos cabeçalhos para alternar a expansão de prioridades individuais</WorkTab.CollapseAll>
+  <WorkTab.CollapseWorkgiversColumnTip>Ctrl + clique para recolher a lista de prioridades detalhadas</WorkTab.CollapseWorkgiversColumnTip>
+  <WorkTab.DefaultPriority>Prioridade padrão</WorkTab.DefaultPriority>
+  <WorkTab.DefaultPriorityTip>Prioridade padrão (padrão 3, limitado entre 1 e 9)</WorkTab.DefaultPriorityTip>
+  <WorkTab.DetailedColumnTip>Role para cima para aumentar as prioridades ou role para baixo para diminuí-las</WorkTab.DetailedColumnTip>
+  <WorkTab.DisableScrollwheel>Desativar roda do mouse</WorkTab.DisableScrollwheel>
+  <WorkTab.DisableScrollwheelTip>Desativa as funções da roda do mouse (ao passar o mouse sobre habilidades)</WorkTab.DisableScrollwheelTip>
+  <WorkTab.ExpandAll>Clique para expandir todas as prioridades\nCtrl+clique nos cabeçalhos para alternar a expansão de prioridades individuais</WorkTab.ExpandAll>
+  <WorkTab.ExpandWorkgiversColumnTip>Ctrl + clique para expandir a lista de prioridades detalhadas</WorkTab.ExpandWorkgiversColumnTip>
+  <WorkTab.HighlightActiveWorkCells>Destacar células de trabalho ativas</WorkTab.HighlightActiveWorkCells>
+  <WorkTab.HighlightActiveWorkCellsTip>Destaca os quadrados da grade na aba de trabalho quando o peão estiver realmente executando essa tarefa no momento.</WorkTab.HighlightActiveWorkCellsTip>
+  <WorkTab.LabelCellTip>Clique para ir até\nShift+clique esquerdo ou role para cima para aumentar as prioridades\nShift+clique direito ou role para baixo para diminuir as prioridades</WorkTab.LabelCellTip>
+  <WorkTab.MaxPriority>Níveis de prioridade</WorkTab.MaxPriority>
+  <WorkTab.MaxPriorityTip>Quantos níveis de prioridade devemos usar? (Limitado entre 4 e 9)</WorkTab.MaxPriorityTip>
+  <WorkTab.NotSelected>não selecionado</WorkTab.NotSelected>
+  <WorkTab.PrioritiesDetailed>Exibindo prioridades ativadas/desativadas\n\nClique para alternar para prioridades numéricas</WorkTab.PrioritiesDetailed>
+  <WorkTab.PrioritiesSimple>Exibindo prioridades numéricas\n\nClique para alternar para prioridades ativadas/desativadas</WorkTab.PrioritiesSimple>
+  <WorkTab.PrioritiesTimed>Exibindo prioridades o dia todo\n\nClique para alternar para prioridades agendadas</WorkTab.PrioritiesTimed>
+  <WorkTab.PrioritiesWholeDay>Exibindo prioridades agendadas\n\nClique para alternar para prioridades o dia todo</WorkTab.PrioritiesWholeDay>
+  <WorkTab.RightClickToDeselect>Clique com o botão direito para desselecionar</WorkTab.RightClickToDeselect>
+  <WorkTab.SchedulerHourTip>{0}-{1} está atualmente {2}\n\n{3}</WorkTab.SchedulerHourTip>
+  <WorkTab.SelectCurrentHourTip>Selecionar hora atual</WorkTab.SelectCurrentHourTip>
+  <WorkTab.SelectWholeDayTip>Selecionar dia inteiro</WorkTab.SelectWholeDayTip>
+  <WorkTab.Selected>selecionado</WorkTab.Selected>
+  <WorkTab.ToggleColumnTip>Role para cima para ativar as prioridades ou role para baixo para desativá-las</WorkTab.ToggleColumnTip>
+  <WorkTab.XIsAssignedToY>{0} está atribuído a {1}</WorkTab.XIsAssignedToY>
+  <midnight>meia-noite</midnight>
+  <noon>meio-dia</noon>
+</LanguageData>
