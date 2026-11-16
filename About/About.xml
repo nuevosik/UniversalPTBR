@@ -7,7 +7,12 @@
     <li>1.7</li>
   </supportedVersions>
   <packageId>GitHubVersion.TraducaoUniversal.PTBR</packageId>
-  <description>Tradução para Português Brasileiro — Vanilla Expanded + mods universais curados (The Dead Man's Switch, World Domination 2.0 e mais). Em constante atualização para abranger todo o conteúdo disponível.</description>
+  <url>https://github.com/nuevosik/UniversalPTBR</url>
+  <description>Tradução para português do Brasil de mods de RimWorld: série Vanilla Expanded e mods populares como The Dead Man's Switch, World Domination 2.0, Alpha Animals e Vehicle Framework.
+
+Pode ser usada com qualquer combinação desses mods; só traduz os que estiverem ativos.
+
+Erros de tradução: https://github.com/nuevosik/UniversalPTBR/issues</description>
 
   <modDependencies>
     <li>
@@ -17,73 +22,14 @@
   </modDependencies>
   
   <loadAfter>
-    <li>Ludeon.RimWorld</li>
-    <li>Ludeon.RimWorld.Royalty</li>
-    <li>Ludeon.RimWorld.Ideology</li>
-    <li>Ludeon.RimWorld.Biotech</li>
-    <li>Ludeon.RimWorld.Anomaly</li>
-    <li>Ludeon.RimWorld.Odyssey</li>
-    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
-    <li>OskarPotocki.VFE.Empire</li>
     <li>OskarPotocki.VFE.Pirates</li>
     <li>OskarPotocki.VFE.Insectoid2</li>
-    <li>OskarPotocki.VFE.Classical</li>
-    <li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
-    <li>OskarPotocki.VFE.Medieval2</li>
     <li>vanillaracesexpanded.sanguophage</li>
-    <li>vanillaracesexpanded.saurid</li>
-    <li>vanillaexpanded.gravship</li>
-    <li>vanillaracesexpanded.archon</li>
-    <li>vanillaracesexpanded.fungoid</li>
     <li>vanillaracesexpanded.starjack</li>
-    <li>vanillaracesexpanded.insector</li>
-    <li>vanillaracesexpanded.pigskin</li>
-    <li>vanillaracesexpanded.waster</li>
-    <li>vanillaracesexpanded.hussar</li>
-    <li>vanillaracesexpanded.phytokin</li>
-    <li>vanillaracesexpanded.genie</li>
-    <li>vanillaracesexpanded.lycanthrope</li>
-    <li>vanillaracesexpanded.android</li>
-    <li>VanillaExpanded.VFECore</li>
-    <li>VanillaExpanded.VFEFarming</li>
-    <li>VanillaExpanded.VFEMedical</li>
-    <li>VanillaExpanded.VFEArchitect</li>
-    <li>VanillaExpanded.VFEProduction</li>
-    <li>VanillaExpanded.VFESpacer</li>
-    <li>VanillaExpanded.VFEArt</li>
-    <li>VanillaExpanded.VFEPower</li>
-    <li>VanillaExpanded.VFESecurity</li>
+    <li>vanillaexpanded.gravship</li>
     <li>VanillaExpanded.VARME</li>
-    <li>VanillaExpanded.VNutrientE</li>
-    <li>VanillaExpanded.Temperature</li>
-    <li>VanillaExpanded.VPlantsE</li>
-    <li>VanillaExpanded.VanillaTraitsExpanded</li>
     <li>vanillaquestsexpanded.generator</li>
-    <li>vanillaquestsexpanded.ancients</li>
-    <li>vanillaquestsexpanded.deadlife</li>
     <li>vanillaquestsexpanded.cryptoforge</li>
-    <li>SmashPhil.VehicleFramework</li>
-    <li>OskarPotocki.VanillaVehiclesExpanded</li>
-    <li>OskarPotocki.VanillaVehiclesExpandedTier3</li>
-    <li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
-    <li>VanillaExpanded.VExplorationE</li>
-    <li>VanillaExpanded.VAnomalyEInsanity</li>
-    <li>sarg.alphaanimals</li>
-    <li>vanillaexpanded.vfefactory</li>
-    <li>vanillaexpanded.vcef</li>
-    <li>vanillaexpanded.vee</li>
-    <li>vanillaexpanded.vtexe</li>
-    <li>vanillaexpanded.vcooke</li>
-    <li>vanillaexpanded.vbrewe</li>
-    <li>vanillaexpanded.vpersonaweaponse</li>
-    <li>vanillaexpanded.vpsycastse</li>
-    <li>vanillaexpanded.vanillabackstoriesexpanded</li>
-    <li>vanillaexpanded.vanillaanimalsexpanded</li>
-    <li>vanillaexpanded.recycling</li>
-    <li>vanillaexpanded.vanillaaspirationsexpanded</li>
-    <li>vanillaexpanded.skills</li>
-    <li>Aoba.DeadMansSwitch</li>
-    <li>LikewiseHH.WorldDomination2</li>
     <li>BotchJob.medievalfantasyquestrewards</li>
     <li>BotchJob.medievalfantasythemedrelicquests</li>
   </loadAfter>

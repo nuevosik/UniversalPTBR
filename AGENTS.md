@@ -4,7 +4,7 @@ RimWorld translation mod. No build system or package manager; `tools/lint.py` is
 
 ## Structure
 
-- `About/About.xml` — mod metadata: `packageId=GitHubVersion.TraducaoUniversal.PTBR`, `supportedVersions` 1.6/1.7, `loadAfter` list (~70 entries). Changing load order can break patches.
+- `About/About.xml` — mod metadata: `packageId=GitHubVersion.TraducaoUniversal.PTBR`, `supportedVersions` 1.6/1.7, `loadAfter` = only the mods targeted by `Patches/` (languages load after all defs regardless of order). Adding a patch for a new mod means adding its packageId here.
 - `LoadFolders.xml` — `<v1.6>` and `<v1.7>` point to `/`: content loads from root.
 - `Languages/PortugueseBrazilian/` — all translation content:
   - `LanguageInfo.xml` — `LanguageWorker_Portuguese`, `canBeTiny=true`.
