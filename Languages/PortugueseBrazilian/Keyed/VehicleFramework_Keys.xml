@@ -4,7 +4,6 @@
   <VF_AutoTargeting>Miragem automática: {0}</VF_AutoTargeting>
   <VF_CantMoveDocked>Não há colonos suficientes para zarpar.</VF_CantMoveDocked>
   <VF_CargoCapacity>Capacidade de carga</VF_CargoCapacity>
-  <VF_CargoCapacityTooltip>TODO</VF_CargoCapacityTooltip>
   <VF_CommandDockShip>Atracar</VF_CommandDockShip>
   <VF_CommandDockShipDesc>Desembarque todos os passageiros e permita o comércio com o assentamento de {0}.</VF_CommandDockShipDesc>
   <VF_CommandDockShipDisembark>Atracar e desembarcar</VF_CommandDockShipDisembark>
@@ -25,9 +24,7 @@
   <VF_HideDisabledVehicles>Ocultar veículos desativados</VF_HideDisabledVehicles>
   <VF_HideDisabledVehiclesTooltip>Veículos desativados nas configurações do mod ficarão ocultos no menu Arquitetura.</VF_HideDisabledVehiclesTooltip>
   <VF_MaxArmor>Armadura</VF_MaxArmor>
-  <VF_MaxArmorTooltip>TODO</VF_MaxArmorTooltip>
   <VF_MaxSpeed>Velocidade</VF_MaxSpeed>
-  <VF_MaxSpeedTooltip>TODO</VF_MaxSpeedTooltip>
   <VF_OpportunisticTicking>Ticking oportunista</VF_OpportunisticTicking>
   <VF_OpportunisticTickingTooltip>Os componentes dos veículos só atualizam quando necessário, reduzindo o impacto no desempenho quando ociosos.</VF_OpportunisticTickingTooltip>
   <VF_RefuelFromInventory>Reabastecer do inventário</VF_RefuelFromInventory>

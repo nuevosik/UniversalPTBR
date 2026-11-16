@@ -1,31 +1,28 @@
-# AGENTS.md — Tradução Vanilla Expanded PT-BR
+# AGENTS.md — Tradução Universal PT-BR
 
-RimWorld translation mod. No build system, package manager, tests, or CI. 100% XML/text translation files.
+RimWorld translation mod. No build system or package manager; `tools/lint.py` is the repo check and runs in CI (`.github/workflows/lint.yml`).
 
 ## Structure
 
-- `About/About.xml` — mod metadata: `packageId=GitHubVersion.TraducaoUniversal.PTBR`, `supportedVersions` 1.4/1.5/1.6, `loadAfter` list (~70 entries). Changing load order can break patches.
-- `LoadFolders.xml` — `<v1.4>`, `<v1.5>` and `<v1.6>` all point to `/`: content loads from root on all supported versions.
+- `About/About.xml` — mod metadata: `packageId=GitHubVersion.TraducaoUniversal.PTBR`, `supportedVersions` 1.6/1.7, `loadAfter` list (~70 entries). Changing load order can break patches.
+- `LoadFolders.xml` — `<v1.6>` and `<v1.7>` point to `/`: content loads from root.
 - `Languages/PortugueseBrazilian/` — all translation content:
   - `LanguageInfo.xml` — `LanguageWorker_Portuguese`, `canBeTiny=true`.
   - `Keyed/*.xml` — `<LanguageData><Key>translated text</Key></LanguageData>` — UI, messages, dialogs.
-  - `DefInjected/<DefType>/*.xml` — `<LanguageData><DefName.field>text</DefName.field></LanguageData>` — def injections (ThingDef, GeneDef, HediffDef, etc.). ~150 DefType subdirs, ~919 XML files + 4 TXT total.
+  - `DefInjected/<DefType>/*.xml` — `<LanguageData><DefName.field>text</DefName.field></LanguageData>` — def injections (ThingDef, GeneDef, HediffDef, etc.). ~300 DefType subdirs, ~2.300 XML files.
   - `Strings/Words/Nouns/*.txt` — plain word lists for procedural generation (one term per line, UTF-8 with BOM).
-- `Patches/*.xml` — `PatchOperation` XPath overrides (not `LanguageData`). Contain Portuguese strings inline in `<value>` blocks. 11 files (e.g., `Patch_VRE_Starjack.xml`, `Patch_VGE_Chapter1.xml`).
+- `Patches/*.xml` — `PatchOperation` XPath overrides (not `LanguageData`). Only for text DefInjected cannot reach (rule packs, PipeNet resources, gizmo texts) and for small compatibility fixes. A field already covered by `DefInjected` must not be patched too: DefInjected is applied after patches and wins.
+- `tools/` — `lint.py` (repo-only checks), `coverage.py`/`campaign.py`/`extract_medieval.py`/`validate_medieval.py` (need the mods installed locally via Steam).
 
-## Validation (no test suite)
+## Validation
 
 ```bash
-# XML validity — primary check before any commit
-xmllint --noout Languages/PortugueseBrazilian/**/*.xml Patches/*.xml About/About.xml
-
-# Diff hygiene
+python3 tools/lint.py            # XML validity, duplicate keys, empty/TODO values, <color>/{} balance
+python3 tools/lint.py --selfcheck
 git diff --check
-git diff --stat
-git status --short   # check dirty state before staging
 ```
 
-`xmllint` (libxml 2.15.3) and `python3` are available. No `npm`/`dotnet`/`pytest`.
+A Keyed key must live in exactly one file; a duplicate makes the game keep one value and log an error.
 
 ## Translation Constraints
 
@@ -45,7 +42,7 @@ Global constraints for every translation edit:
 - `Keyed` keys are free-form but case-sensitive; fuzzy keys like `Generated_*.xml` are auto-generated IDs — still must match exactly.
 - `Patches/` uses `PatchOperationFindMod` + `PatchOperationReplace` with `Defs/GeneDef[defName="..."]/label` XPath — wrong `defName` or `packageId` alias does nothing.
 - `.vscode/settings.json` holds `cSpell.words` (~368 entries) for spell-check — add new domain terms there (e.g., `gravinave`, `hemogênio`, `criptoforja`) rather than ignoring warnings.
-- No `.gitignore` — untracked files show as `??`; check `git status` before adding.
+- `.gitignore` covers `tools/__pycache__/`, `.superpowers/`, `work/`.
 
 ## Working Efficiently
 

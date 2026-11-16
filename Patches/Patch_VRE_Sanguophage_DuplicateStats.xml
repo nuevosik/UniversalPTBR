@@ -7,21 +7,6 @@
     </mods>
     <match Class="PatchOperationSequence">
       <operations>
-        
-        <li Class="PatchOperationReplace"> 
-          <xpath>Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/label</xpath>
-          <value>
-            <label>pacote de hemogênio (cadáver)</label>     
-          </value>
-        </li>
-        
-        <li Class="PatchOperationReplace"> 
-          <xpath>Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/description</xpath>
-          <value>
-            <description>Hemogênio contaminado e em decomposição, extraído de um cadáver. Enfraquece drasticamente o portador deste tipo de hemogênio, mas aumenta significativamente sua capacidade de filtragem sanguínea.</description>     
-          </value>
-        </li>
-
         <li Class="PatchOperationReplace">
           <xpath>Defs/PipeSystem.PipeNetDef[defName="VRE_HemogenNet"]/resource</xpath>
           <value>

@@ -121,31 +121,16 @@
   <canTimeoutOrFlee>pode expirar ou fugir</canTimeoutOrFlee>
   <QuestNode_Add>QuestNode_Add</QuestNode_Add>
   <QuestNode_Divide>QuestNode_Divide</QuestNode_Divide>
-  <value1>valor1</value1>
-  <value2>valor2</value2>
-  <storeAs>guardar como</storeAs>
-  <myTypeShort>meu tipo abreviado</myTypeShort>
-  <selectionWeight>peso de seleção</selectionWeight>
   <QuestNode_MultiplyRange>QuestNode_MultiplyRange</QuestNode_MultiplyRange>
   <QuestNode_Equal>QuestNode_Equal</QuestNode_Equal>
   <QuestNode_EqualOrFail>QuestNode_EqualOrFail</QuestNode_EqualOrFail>
-  <compareAs>comparar como</compareAs>
-  <node>nó</node>
   <QuestNode_Greater>QuestNode_Greater</QuestNode_Greater>
-  <elseNode>nó alternativo</elseNode>
   <QuestNode_IsInList>QuestNode_IsInList</QuestNode_IsInList>
-  <value>valor</value>
   <QuestNode_IsSet>QuestNode_IsSet</QuestNode_IsSet>
-  <name>nome</name>
   <QuestNode_AddTag>QuestNode_AddTag</QuestNode_AddTag>
   <QuestNode_AllSignals>QuestNode_AllSignals</QuestNode_AllSignals>
   <QuestNode_AllSignalsActivable>QuestNode_AllSignalsActivable</QuestNode_AllSignalsActivable>
-  <inSignals>sinais de entrada</inSignals>
-  <outSignals>sinais de saída</outSignals>
-  <signalListenMode>modo de escuta de sinais</signalListenMode>
   <QuestNode_AnySignalActivable>QuestNode_AnySignalActivable</QuestNode_AnySignalActivable>
-  <inSignalEnable>sinal de entrada para ativar</inSignalEnable>
-  <inSignalDisable>sinal de entrada para desativar</inSignalDisable>
   <QuestNode_Chance>QuestNode_Chance</QuestNode_Chance>
   <chance>chance</chance>
   <QuestNode_Clamp>QuestNode_Clamp</QuestNode_Clamp>
@@ -162,45 +147,21 @@
   <outSignalsFormat>formato dos sinais de saída</outSignalsFormat>
   <outSignalsFormattedCount>contagem formatada dos sinais de saída</outSignalsFormattedCount>
   <QuestNode_Sequence>nó de missão: sequência</QuestNode_Sequence>
-  <nodes>nós</nodes>
   <QuestNode_Set>nó de missão: definir</QuestNode_Set>
   <convertTo>converter para</convertTo>
   <QuestNode_Signal>nó de missão: sinal</QuestNode_Signal>
   <QuestNode_Signal_Tip>Este nó é usado para receber sinais da missão e executar o comportamento do seu nó de sinal, além de emitir sinais de saída.\n    Obs.: o nó de sinal deve ter uma entrada de recebimento de sinal para funcionar corretamente. Caso contrário, não terá efeito normal.</QuestNode_Signal_Tip>
-  <inSignal>sinal de entrada</inSignal>
   <SignalNode>nó de disparo:</SignalNode>
   <QuestNode_SubScript>QuestNode_SubScript</QuestNode_SubScript>
-  <prefix>prefixo</prefix>
-  <allowNonPrefixedLookup>permitir busca sem prefixo</allowNonPrefixedLookup>
-  <parms>parâmetros</parms>
-  <returnVarNames>nomes das variáveis de retorno</returnVarNames>
   <QuestNode_Log>QuestNode_Log</QuestNode_Log>
   <QuestNode_RuntimeLog>QuestNode_RuntimeLog</QuestNode_RuntimeLog>
-  <message>mensagem:</message>
   <QuestNode_GenerateMonumentMarker>QuestNode_GenerateMonumentMarker</QuestNode_GenerateMonumentMarker>
   <sketch>esboço</sketch>
   <QuestNode_GenerateNonBuildableMonumentRequiredResources>QuestNode_GenerateNonBuildableMonumentRequiredResources</QuestNode_GenerateNonBuildableMonumentRequiredResources>
   <QuestNode_GeneratePawn>QuestNode_GeneratePawn</QuestNode_GeneratePawn>
-  <addToList>adicionar à lista</addToList>
   <QuestNode_GeneratePawnRandDevelopmentStage>QuestNode_GeneratePawnRandDevelopmentStage</QuestNode_GeneratePawnRandDevelopmentStage>
   <childChance>chance de criança</childChance>
   <adultChance>chance de adulto</adultChance>
-  <addToLists>adicionar às listas</addToLists>
-  <kindDef>def de tipo</kindDef>
-  <faction>facção</faction>
-  <forbidAnyTitle>proibir qualquer título</forbidAnyTitle>
-  <ensureNonNumericName>garantir nome não numérico</ensureNonNumericName>
-  <forcedTraits>traços forçados</forcedTraits>
-  <prohibitedTraits>traços proibidos</prohibitedTraits>
-  <extraPawnForExtraRelationChance>colono extra para chance de relação extra</extraPawnForExtraRelationChance>
-  <relationWithExtraPawnChanceFactor>fator de chance de relação com colono extra</relationWithExtraPawnChanceFactor>
-  <allowAddictions>permitir vícios</allowAddictions>
-  <biocodeWeaponChance>chance de arma com biocódigo</biocodeWeaponChance>
-  <biocodeApparelChance>chance de vestuário com biocódigo</biocodeApparelChance>
-  <mustBeCapableOfViolence>deve ser capaz de violência</mustBeCapableOfViolence>
-  <isChild>é criança</isChild>
-  <allowPregnant>permitir grávida</allowPregnant>
-  <fixedGender>gênero fixo</fixedGender>
   <QuestNode_GenerateShuttle>QuestNode_GenerateShuttle</QuestNode_GenerateShuttle>
   <requiredPawns>colonos necessários</requiredPawns>
   <requiredItems>itens necessários</requiredItems>
@@ -216,7 +177,6 @@
   <singleSitePartRules>regras de parte única do local</singleSitePartRules>
   <hiddenSitePartsPossible>partes ocultas do local possíveis</hiddenSitePartsPossible>
   <QuestNode_GenerateThing>QuestNode_GenerateThing</QuestNode_GenerateThing>
-  <def>def</def>
   <stackCount>quantidade na pilha</stackCount>
   <QuestNode_GenerateThingSet>QuestNode_GenerateThingSet</QuestNode_GenerateThingSet>
   <thingSetMaker>gerador de conjunto de objetos</thingSetMaker>
@@ -225,13 +185,9 @@
   <QuestNode_GenerateWorldObject>QuestNode_GenerateWorldObject</QuestNode_GenerateWorldObject>
   <QuestNode_GenerateTransportShip>QuestNode_GenerateTransportShip</QuestNode_GenerateTransportShip>
   <shipThing>objeto da nave</shipThing>
-  <contents>conteúdo</contents>
   <QuestNode_AddShipJob>QuestNode_AddShipJob</QuestNode_AddShipJob>
   <QuestNode_AddShipJob_Arrive>QuestNode_AddShipJob_Arrive</QuestNode_AddShipJob_Arrive>
   <landingCell>quadrado de pouso</landingCell>
-  <transportShip>nave de transporte</transportShip>
-  <jobDef>def de trabalho</jobDef>
-  <shipJobStartMode>modo de início da tarefa da nave</shipJobStartMode>
   <QuestNode_AddShipJob_Wait>QuestNode_AddShipJob_Wait</QuestNode_AddShipJob_Wait>
   <leaveImmediatelyWhenSatisfied>partir imediatamente quando satisfeito</leaveImmediatelyWhenSatisfied>
   <sendAwayIfAllDespawned>mandar embora se todos desaparecerem</sendAwayIfAllDespawned>
@@ -241,7 +197,6 @@
   <destination>destino</destination>
   <QuestNode_SendTransportShipAwayOnCleanup>QuestNode_SendTransportShipAwayOnCleanup</QuestNode_SendTransportShipAwayOnCleanup>
   <unloadContents>descarregar conteúdo</unloadContents>
-  <unsatisfiedDropMode>modo de descarga não atendida</unsatisfiedDropMode>
   <QuestNode_EvaluateSimpleCurve>QuestNode_EvaluateSimpleCurve</QuestNode_EvaluateSimpleCurve>
   <QuestNode_GetAnimalToHunt>QuestNode_GetAnimalToHunt</QuestNode_GetAnimalToHunt>
   <storeAnimalToHuntAs>guardar animal a caçar como</storeAnimalToHuntAs>
@@ -254,7 +209,6 @@
   <QuestNode_GetColonistCountFromColonyPercentage>QuestNode_GetColonistCountFromColonyPercentage</QuestNode_GetColonistCountFromColonyPercentage>
   <colonyPercentage>porcentagem da colônia</colonyPercentage>
   <mustHaveFreeColonistsAvailableCount>exigir quantidade de colonos livres disponíveis</mustHaveFreeColonistsAvailableCount>
-  <minAge>idade mín.</minAge>
   <QuestNode_GetFreeColonistsCount>QuestNode_GetFreeColonistsCount</QuestNode_GetFreeColonistsCount>
   <onlyThisMap>apenas este mapa</onlyThisMap>
   <QuestNode_GetDefaultSitePartsParams>QuestNode_GetDefaultSitePartsParams</QuestNode_GetDefaultSitePartsParams>
@@ -287,16 +241,13 @@
   <storeHediffAs>guardar condição de saúde como</storeHediffAs>
   <storePartsToAffectAs>guardar partes a afetar como</storePartsToAffectAs>
   <QuestNode_GetLargestClearArea>QuestNode_GetLargestClearArea</QuestNode_GetLargestClearArea>
-  <map>mapa</map>
   <failIfSmaller>falhar se menor</failIfSmaller>
-  <max>máx.</max>
   <QuestNode_GetMap>QuestNode_GetMap</QuestNode_GetMap>
   <mustBeInfestable>deve ser infestável</mustBeInfestable>
   <preferMapWithMinFreeColonists>preferir mapa com mín. de colonos livres</preferMapWithMinFreeColonists>
   <QuestNode_GetMapOf>QuestNode_GetMapOf</QuestNode_GetMapOf>
   <QuestNode_GetMarketValue>QuestNode_GetMarketValue</QuestNode_GetMarketValue>
   <QuestNode_GetMonumentRequiredResourcesString>QuestNode_GetMonumentRequiredResourcesString</QuestNode_GetMonumentRequiredResourcesString>
-  <monumentMarker>marcador de monumento</monumentMarker>
   <QuestNode_GetMonumentSketch>QuestNode_GetMonumentSketch</QuestNode_GetMonumentSketch>
   <useOnlyResourcesAvailableOnMap>usar apenas recursos disponíveis no mapa</useOnlyResourcesAvailableOnMap>
   <maxSize>tamanho máx.</maxSize>
@@ -307,7 +258,6 @@
   <maxTileDistance>distância máx. em blocos</maxTileDistance>
   <storeFactionLeaderAs>guardar líder da facção como</storeFactionLeaderAs>
   <QuestNode_GetNearestHomeMapOf>QuestNode_GetNearestHomeMapOf</QuestNode_GetNearestHomeMapOf>
-  <mapOf>mapa de</mapOf>
   <QuestNode_GetPawn>QuestNode_GetPawn</QuestNode_GetPawn>
   <mustBeFactionLeader>deve ser líder da facção</mustBeFactionLeader>
   <mustBeWorldPawn>deve ser colono do mundo</mustBeWorldPawn>
@@ -335,11 +285,8 @@
   <maxCountThreeStar>contagem máx. três estrelas</maxCountThreeStar>
   <pointsCurve>curva de pontos</pointsCurve>
   <chancesCurve>curva de chances</chancesCurve>
-  <roundRandom>arredondamento aleatório</roundRandom>
   <QuestNode_GetPawnKind>QuestNode_GetPawnKind</QuestNode_GetPawnKind>
-  <options>opções</options>
   <QuestNode_GetPawnsWithRoyalTitle>QuestNode_GetPawnsWithRoyalTitle</QuestNode_GetPawnsWithRoyalTitle>
-  <storeCountAs>guardar contagem como</storeCountAs>
   <storePawnsLabelAs>guardar rótulo dos colonos como</storePawnsLabelAs>
   <QuestNode_GetPlantPlayerCanHarvest>QuestNode_GetPlantPlayerCanHarvest</QuestNode_GetPlantPlayerCanHarvest>
   <storeHarvestItemDefAs>guardar def do item de colheita como</storeHarvestItemDefAs>
@@ -348,13 +295,8 @@
   <maxPlantGrowDays>máx. de dias de crescimento da planta</maxPlantGrowDays>
   <workRandomFactorRange>intervalo de fator aleatório de trabalho</workRandomFactorRange>
   <QuestNode_GetRandomByCurve>QuestNode_GetRandomByCurve</QuestNode_GetRandomByCurve>
-  <curve>curva</curve>
-  <min>mín.</min>
   <QuestNode_GetRandomFactionForSite>QuestNode_GetRandomFactionForSite</QuestNode_GetRandomFactionForSite>
-  <sitePartDefs>defs de partes do local</sitePartDefs>
-  <mustBeHostileToFactionOf>deve ser hostil à facção de</mustBeHostileToFactionOf>
   <QuestNode_GetRandomInRangeFloat>QuestNode_GetRandomInRangeFloat</QuestNode_GetRandomInRangeFloat>
-  <range>intervalo</range>
   <QuestNode_GetRandomInRangeForChallengeRating>QuestNode_GetRandomInRangeForChallengeRating</QuestNode_GetRandomInRangeForChallengeRating>
   <oneStarRange>intervalo uma estrela</oneStarRange>
   <twoStarRange>intervalo duas estrelas</twoStarRange>
@@ -369,10 +311,8 @@
   <nonRelatedLabelPlural>plural do rótulo de não relacionados</nonRelatedLabelPlural>
   <QuestNode_GetSitePartDefsByTagsAndFaction>QuestNode_GetSitePartDefsByTagsAndFaction</QuestNode_GetSitePartDefsByTagsAndFaction>
   <sitePartsTags>etiquetas das partes do local</sitePartsTags>
-  <storeFactionAs>guardar facção como</storeFactionAs>
   <QuestNode_GetSiteThreatPoints>QuestNode_GetSiteThreatPoints</QuestNode_GetSiteThreatPoints>
   <site>local</site>
-  <sitePartsParams>parâmetros das partes do local</sitePartsParams>
   <QuestNode_GetSiteTile>QuestNode_GetSiteTile</QuestNode_GetSiteTile>
   <preferCloserTiles>preferir blocos mais próximos</preferCloserTiles>
   <allowCaravans>permitir caravanas</allowCaravans>
@@ -382,7 +322,6 @@
   <storeProductionItemStuffAs>guardar material do item de produção como</storeProductionItemStuffAs>
   <storeProductionItemCountAs>guardar quantidade do item de produção como</storeProductionItemCountAs>
   <storeProductionItemLabelAs>guardar rótulo do item de produção como</storeProductionItemLabelAs>
-  <pointsToRequiredWorkCurve>curva de pontos para trabalho necessário</pointsToRequiredWorkCurve>
   <pointsToMaxItemMarketValueCurve>curva de pontos para valor máx. de mercado do item</pointsToMaxItemMarketValueCurve>
   <maxMarketValueFactor>fator máx. de valor de mercado</maxMarketValueFactor>
   <minStuffCommonality>comunalidade mín. de material</minStuffCommonality>
@@ -408,16 +347,11 @@
   <minFraction4>fração mín.4</minFraction4>
   <minFraction5>fração mín.5</minFraction5>
   <QuestNode_AssaultColony>QuestNode_AssaultColony</QuestNode_AssaultColony>
-  <pawns>colonos</pawns>
   <QuestNode_VisitColony>QuestNode_VisitColony</QuestNode_VisitColony>
   <QuestNode_HasRoyalTitleInCurrentFaction>QuestNode_HasRoyalTitleInCurrentFaction</QuestNode_HasRoyalTitleInCurrentFaction>
-  <pawn>colono</pawn>
   <QuestNode_IsFactionHostileToPlayer>QuestNode_IsFactionHostileToPlayer</QuestNode_IsFactionHostileToPlayer>
-  <factionOf>facção de</factionOf>
   <QuestNode_IsOfFaction>QuestNode_IsOfFaction</QuestNode_IsOfFaction>
-  <thing>objeto</thing>
   <QuestNode_ModIsActive>QuestNode_ModIsActive</QuestNode_ModIsActive>
-  <modID>ID do mod</modID>
   <QuestNode_AddContentsToShuttle>QuestNode_AddContentsToShuttle</QuestNode_AddContentsToShuttle>
   <QuestNode_AddHediff>QuestNode_AddHediff</QuestNode_AddHediff>
   <hediffDef>def de condição de saúde</hediffDef>
@@ -427,7 +361,6 @@
   <QuestNode_AddItemsReward>QuestNode_AddItemsReward</QuestNode_AddItemsReward>
   <QuestNode_AddMemoryThought>QuestNode_AddMemoryThought</QuestNode_AddMemoryThought>
   <QuestNode_AddPassageOffworldReward>QuestNode_AddPassageOffworldReward</QuestNode_AddPassageOffworldReward>
-  <inSignalChoiceUsed>sinal de entrada de escolha usada</inSignalChoiceUsed>
   <QuestNode_AddPawnReward>QuestNode_AddPawnReward</QuestNode_AddPawnReward>
   <QuestNode_AllowDecreesForLodger>QuestNode_AllowDecreesForLodger</QuestNode_AllowDecreesForLodger>
   <lodger>hóspede</lodger>
@@ -439,7 +372,6 @@
   <ensureHostile>garantir hostilidade</ensureHostile>
   <QuestNode_ChangeGoodwillForAlivePawnsMissingFromShuttle>QuestNode_ChangeGoodwillForAlivePawnsMissingFromShuttle</QuestNode_ChangeGoodwillForAlivePawnsMissingFromShuttle>
   <goodwillChange>mudança de boa vontade</goodwillChange>
-  <reason>motivo</reason>
   <QuestNode_ChangeHeir>QuestNode_ChangeHeir</QuestNode_ChangeHeir>
   <holder>detentor</holder>
   <heir>herdeiro</heir>
@@ -449,14 +381,12 @@
   <QuestNode_DamageUntilDowned>QuestNode_DamageUntilDowned</QuestNode_DamageUntilDowned>
   <allowBleedingWounds>permitir ferimentos sangrantes</allowBleedingWounds>
   <QuestNode_DestroyOrPassToWorld>QuestNode_DestroyOrPassToWorld</QuestNode_DestroyOrPassToWorld>
-  <things>objetos</things>
   <QuestNode_DestroyWorldObject>QuestNode_DestroyWorldObject</QuestNode_DestroyWorldObject>
   <QuestNode_DropMonumentMarkerCopy>QuestNode_DropMonumentMarkerCopy</QuestNode_DropMonumentMarkerCopy>
   <outSignalResult>sinal de saída de resultado</outSignalResult>
   <destroyOrPassToWorldOnCleanup>destruir ou passar ao mundo na limpeza</destroyOrPassToWorldOnCleanup>
   <QuestNode_DropPods>QuestNode_DropPods</QuestNode_DropPods>
   <useTradeDropSpot>usar ponto de entrega de comércio</useTradeDropSpot>
-  <sendStandardLetter>enviar carta padrão</sendStandardLetter>
   <thingsToExcludeFromHyperlinks>objetos a excluir dos hiperlinks</thingsToExcludeFromHyperlinks>
   <QuestNode_EndGame>QuestNode_EndGame</QuestNode_EndGame>
   <introText>texto de introdução</introText>
@@ -473,10 +403,7 @@
   <choices>escolhas</choices>
   <fallback>alternativa</fallback>
   <QuestNode_GiveNearPawn>QuestNode_GiveNearPawn</QuestNode_GiveNearPawn>
-  <contentsDefs>defs de conteúdo</contentsDefs>
   <nearPawn>colono próximo</nearPawn>
-  <joinPlayer>juntar-se ao jogador</joinPlayer>
-  <makePrisoners>tornar prisioneiros</makePrisoners>
   <customDropPodsLetterLabel>rótulo de carta de cápsulas de transporte personalizado</customDropPodsLetterLabel>
   <customDropPodsLetterText>texto de carta de cápsulas de transporte personalizado</customDropPodsLetterText>
   <customCaravanInventoryLetterLabel>rótulo de carta de inventário de caravana personalizado</customCaravanInventoryLetterLabel>
@@ -486,35 +413,21 @@
   <customCaravanInventoryLetterLabelRules>regras do rótulo de carta de inventário de caravana personalizado</customCaravanInventoryLetterLabelRules>
   <customCaravanInventoryLetterTextRules>regras do texto de carta de inventário de caravana personalizado</customCaravanInventoryLetterTextRules>
   <QuestNode_GiveRewards>QuestNode_GiveRewards</QuestNode_GiveRewards>
-  <customLetterLabel>rótulo de carta personalizado</customLetterLabel>
-  <customLetterText>texto de carta personalizado</customLetterText>
-  <customLetterLabelRules>regras do rótulo de carta personalizado</customLetterLabelRules>
-  <customLetterTextRules>regras do texto de carta personalizado</customLetterTextRules>
   <useDifficultyFactor>usar fator de dificuldade</useDifficultyFactor>
   <nodeIfChosenPawnSignalUsed>nó se sinal de colono escolhido usado</nodeIfChosenPawnSignalUsed>
   <variants>variantes</variants>
   <addCampLootReward>adicionar recompensa de pilhagem do acampamento</addCampLootReward>
   <QuestNode_GiveRoyalFavor>QuestNode_GiveRoyalFavor</QuestNode_GiveRoyalFavor>
   <QuestNode_GiveRoyalFavorAndDevelopmentPoints>QuestNode_GiveRoyalFavorAndDevelopmentPoints</QuestNode_GiveRoyalFavorAndDevelopmentPoints>
-  <giveTo>dar a</giveTo>
-  <giveToAccepter>dar ao aceitante</giveToAccepter>
-  <amount>quantidade</amount>
-  <isSingleReward>é recompensa única</isSingleReward>
   <QuestNode_GiveTechprints>QuestNode_GiveTechprints</QuestNode_GiveTechprints>
   <fixedProject>projeto fixo</fixedProject>
   <storeProjectAs>guardar projeto como</storeProjectAs>
   <QuestNode_GuardianShipDelay>QuestNode_GuardianShipDelay</QuestNode_GuardianShipDelay>
-  <outSignalComplete>sinal de saída de conclusão</outSignalComplete>
-  <delayTicks>ticks de atraso</delayTicks>
   <QuestNode_InspectString>QuestNode_InspectString</QuestNode_InspectString>
-  <targets>alvos</targets>
-  <inspectString>texto de inspeção</inspectString>
   <QuestNode_Leave>QuestNode_Leave</QuestNode_Leave>
-  <inSignalRemovePawn>sinal de entrada remover colono</inSignalRemovePawn>
   <leaveOnCleanup>partir na limpeza</leaveOnCleanup>
   <QuestNode_LendColonistsToFaction>QuestNode_LendColonistsToFaction</QuestNode_LendColonistsToFaction>
   <outSignalColonistsDied>sinal de saída colonos morreram</outSignalColonistsDied>
-  <shuttle>nave</shuttle>
   <lendColonistsToFactionOf>emprestar colonos à facção de</lendColonistsToFactionOf>
   <returnLentColonistsInTicks>devolver colonos emprestados em ticks</returnLentColonistsInTicks>
   <QuestNode_Letter>QuestNode_Letter</QuestNode_Letter>
@@ -534,52 +447,39 @@
   <storeLoopCounterAs>guardar contador do laço como</storeLoopCounterAs>
   <QuestNode_Message>nó: mensagem</QuestNode_Message>
   <messageType>tipo de mensagem:</messageType>
-  <lookTargets>alvos de visualização:</lookTargets>
   <QuestNode_MoodBelow>QuestNode_MoodBelow</QuestNode_MoodBelow>
-  <outSignal>sinal de saída</outSignal>
   <threshold>limite</threshold>
   <QuestNode_NoWorldObject>QuestNode_NoWorldObject</QuestNode_NoWorldObject>
-  <worldObject>objeto do mundo</worldObject>
   <QuestNode_Notify_PlayerRaidedSomeone>QuestNode_Notify_PlayerRaidedSomeone</QuestNode_Notify_PlayerRaidedSomeone>
   <getRaidersFromMap>obter invasores do mapa</getRaidersFromMap>
   <getRaidersFromMapParent>obter invasores do mapa pai</getRaidersFromMapParent>
   <QuestNode_PawnsArrive>QuestNode_PawnsArrive</QuestNode_PawnsArrive>
   <customLetterDef>def de carta personalizado</customLetterDef>
-  <rewardDetailsHidden>detalhes da recompensa ocultos</rewardDetailsHidden>
   <QuestNode_PawnsKilled>QuestNode_PawnsKilled</QuestNode_PawnsKilled>
   <outSignalPawnsNotAvailable>sinal de saída colonos indisponíveis</outSignalPawnsNotAvailable>
   <race>raça</race>
   <QuestNode_PlantsHarvested>QuestNode_PlantsHarvested</QuestNode_PlantsHarvested>
   <plant>planta</plant>
-  <count>quantidade</count>
   <QuestNode_QuestUnique>QuestNode_QuestUnique</QuestNode_QuestUnique>
-  <tag>etiqueta</tag>
   <storeProcessedTagAs>guardar etiqueta processada como</storeProcessedTagAs>
   <QuestNode_RecordHistoryEvent>QuestNode_RecordHistoryEvent</QuestNode_RecordHistoryEvent>
   <historyDef>def de histórico</historyDef>
   <QuestNode_RemoveMemoryThought>QuestNode_RemoveMemoryThought</QuestNode_RemoveMemoryThought>
-  <otherPawn>outro colono</otherPawn>
-  <addToLookTargets>adicionar aos alvos de visualização</addToLookTargets>
   <QuestNode_RequirementsToAcceptColonistWithTitle>QuestNode_RequirementsToAcceptColonistWithTitle</QuestNode_RequirementsToAcceptColonistWithTitle>
   <minimumTitle>título mínimo</minimumTitle>
   <QuestNode_SendShuttleAway>QuestNode_SendShuttleAway</QuestNode_SendShuttleAway>
   <QuestNode_SendShuttleAwayOnCleanup>QuestNode_SendShuttleAwayOnCleanup</QuestNode_SendShuttleAwayOnCleanup>
-  <dropEverything>largar tudo</dropEverything>
   <QuestNode_SetChallengeRating>QuestNode_SetChallengeRating</QuestNode_SetChallengeRating>
-  <challengeRating>classificação do desafio</challengeRating>
   <QuestNode_SetItemStashContents>QuestNode_SetItemStashContents</QuestNode_SetItemStashContents>
-  <items>itens</items>
   <categories>categorias</categories>
   <QuestNode_SetRoyalTitle>QuestNode_SetRoyalTitle</QuestNode_SetRoyalTitle>
   <royalTitle>título real</royalTitle>
   <QuestNode_SetTicksUntilAcceptanceExpiry>QuestNode_SetTicksUntilAcceptanceExpiry</QuestNode_SetTicksUntilAcceptanceExpiry>
-  <ticks>ticks</ticks>
   <QuestNode_ShuttleDelay>QuestNode_ShuttleDelay</QuestNode_ShuttleDelay>
   <lodgers>hóspedes</lodgers>
   <QuestNode_ShuttleLeaveDelay>QuestNode_ShuttleLeaveDelay</QuestNode_ShuttleLeaveDelay>
   <inSignalsDisable>sinais de entrada para desativar</inSignalsDisable>
   <QuestNode_SpawnMechCluster>QuestNode_SpawnMechCluster</QuestNode_SpawnMechCluster>
-  <dropSpot>ponto de entrega</dropSpot>
   <QuestNode_SpawnSkyfaller>QuestNode_SpawnSkyfaller</QuestNode_SpawnSkyfaller>
   <skyfallerDef>def de objeto cadente</skyfallerDef>
   <innerThings>objetos internos</innerThings>
@@ -598,12 +498,6 @@
   <disabledWorkTags>etiquetas de trabalho desativadas</disabledWorkTags>
   <QuestNode_WorldObjectTimeout>QuestNode_WorldObjectTimeout</QuestNode_WorldObjectTimeout>
   <destroyOnCleanup>destruir na limpeza</destroyOnCleanup>
-  <expiryInfoPart>parte de informação de expiração</expiryInfoPart>
-  <expiryInfoPartTip>dica da parte de informação de expiração</expiryInfoPartTip>
-  <inspectStringTargets>alvos do texto de inspeção</inspectStringTargets>
-  <delayTicksRange>intervalo de ticks de atraso</delayTicksRange>
-  <isQuestTimeout>é expiração da missão</isQuestTimeout>
-  <reactivatable>reativável</reactivatable>
   <QuestNode_Root_BestowingCeremony>QuestNode_Root_BestowingCeremony</QuestNode_Root_BestowingCeremony>
   <QuestNode_Root_RefugeeBetrayal>QuestNode_Root_RefugeeBetrayal</QuestNode_Root_RefugeeBetrayal>
   <FailureRecruitedSignal>sinal de falha ao recrutar</FailureRecruitedSignal>
@@ -635,16 +529,12 @@
   <QuestNode_TradeRequest_GetRequestedThing>QuestNode_TradeRequest_GetRequestedThing</QuestNode_TradeRequest_GetRequestedThing>
   <storeThingAs>guardar objeto como</storeThingAs>
   <storeThingCountAs>guardar quantidade do objeto como</storeThingCountAs>
-  <storeMarketValueAs>guardar valor de mercado como</storeMarketValueAs>
   <storeHasQualityAs>guardar se tem qualidade como</storeHasQualityAs>
   <dontRequest>não solicitar</dontRequest>
   <QuestNode_TradeRequest_RandomOfferDuration>QuestNode_TradeRequest_RandomOfferDuration</QuestNode_TradeRequest_RandomOfferDuration>
-  <settlement>assentamento</settlement>
   <storeEstimatedTravelTimeAs>guardar tempo estimado de viagem como</storeEstimatedTravelTimeAs>
   <QuestNode_ResolveQuestDescription>QuestNode_ResolveQuestDescription</QuestNode_ResolveQuestDescription>
-  <rules>regras</rules>
   <QuestNode_ResolveQuestName>QuestNode_ResolveQuestName</QuestNode_ResolveQuestName>
-  <TextRoot>raiz do texto</TextRoot>
   <QuestNode_ResolveTextNow>QuestNode_ResolveTextNow</QuestNode_ResolveTextNow>
   <root>raiz</root>
   <QuestNode_TextRules>QuestNode_TextRules</QuestNode_TextRules>
@@ -653,8 +543,6 @@
   <intervalTicks>ticks de intervalo</intervalTicks>
   <randomIncidents>incidentes aleatórios</randomIncidents>
   <startOffsetTicks>ticks de deslocamento inicial</startOffsetTicks>
-  <duration>duração</duration>
-  <points>pontos</points>
   <QuestNode_GameCondition>QuestNode_GameCondition</QuestNode_GameCondition>
   <gameCondition>condição de jogo</gameCondition>
   <targetWorld>mundo alvo</targetWorld>
@@ -663,16 +551,12 @@
   <storeThreatExampleAs>guardar exemplo de ameaça como</storeThreatExampleAs>
   <threatStartTicks>ticks de início da ameaça</threatStartTicks>
   <QuestNode_Incident>QuestNode_Incident</QuestNode_Incident>
-  <incidentDef>def de incidente</incidentDef>
   <QuestNode_Infestation>QuestNode_Infestation</QuestNode_Infestation>
   <hivesCount>quantidade de colmeias</hivesCount>
   <QuestNode_ManhunterPack>QuestNode_ManhunterPack</QuestNode_ManhunterPack>
-  <walkInSpot>ponto de entrada</walkInSpot>
   <animalCount>quantidade de animais</animalCount>
   <QuestNode_Raid>QuestNode_Raid</QuestNode_Raid>
-  <arrivalMode>modo de chegada</arrivalMode>
   <raidPawnKind>tipo de colono da incursão</raidPawnKind>
-  <canTimeoutOrFlee>pode expirar ou fugir</canTimeoutOrFlee>
   <inSignalLeave>sinal de entrada para partir</inSignalLeave>
   <QuestNode_RandomRaid>QuestNode_RandomRaid</QuestNode_RandomRaid>
   <useCurrentThreatPoints>usar pontos de ameaça atuais</useCurrentThreatPoints>

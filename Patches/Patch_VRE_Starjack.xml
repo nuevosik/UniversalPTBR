@@ -8,51 +8,6 @@
     <match Class="PatchOperationSequence">
       <operations>
         <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_Cryostasis"]/label</xpath>
-          <value><label>criostase biológica</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_Cryostasis"]/description</xpath>
-          <value><description>Os portadores deste gene são imunes à hipotermia fatal. Em vez de morrerem, seus corpos entram em um estado de dormência profunda quando expostos ao frio extremo, permitindo que despertem sem sequelas assim que forem reaquecidos.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_GravshipAffinity"]/label</xpath>
-          <value><label>afinidade com gravinaves</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_GravshipAffinity"]/description</xpath>
-          <value><description>Os portadores deste gene são naturalmente adaptados à vida a bordo de gravinaves. Sua composição genética aprimora a coordenação, a percepção e a aptidão técnica em ambientes de gravidade zero, tornando-os pilotos e tripulantes excepcionais.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_VacuumEfficiency"]/label</xpath>
-          <value><label>adaptação ao vácuo</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_VacuumEfficiency"]/description</xpath>
-          <value><description>Totalmente adaptados à ausência de atmosfera, estes indivíduos trabalham com velocidade e precisão superiores no espaço, mas tornam-se lentos e ineficientes em superfícies planetárias.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_VacuumResistance_Total"]/label</xpath>
-          <value><label>imunidade ao vácuo</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_VacuumResistance_Total"]/description</xpath>
-          <value><description>Sistemas circulatórios e respiratórios reforçados impedem que a hipóxia se acumule rapidamente, permitindo a sobrevivência prolongada no vácuo espacial.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_Gene_Randomizer"]/label</xpath>
-          <value><label>aleatorizador gênico</label></value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/GeneDef[defName="VREStarjack_Gene_Randomizer"]/description</xpath>
-          <value><description>Assim que um indivíduo recebe este gene, ele se transforma em 2 astrogenes aleatórios.</description></value>
-        </li>
-
-        <li Class="PatchOperationReplace">
           <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[1]/symbol</xpath>
           <value><symbol>salto</symbol></value>
         </li>

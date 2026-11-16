@@ -73,6 +73,8 @@ def check_file(path, source, keyed, failures):
             failures.append(f'chave órfã: {key}')
         elif not value.strip():
             failures.append(f'valor vazio: {key}')
+        elif value.strip() == 'TODO' or (value.strip() == src.strip() and len(src.split()) >= 3):
+            failures.append(f'não traduzido: {key}')
         elif token_problems(value, src):
             failures.append(f'placeholder divergente: {key}')
     return checked

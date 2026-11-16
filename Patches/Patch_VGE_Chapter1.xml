@@ -8,24 +8,6 @@
     <match Class="PatchOperationSequence">
       <operations>
         <li Class="PatchOperationReplace">
-          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questNameRules/rulesStrings</xpath>
-          <value>
-            <rulesStrings>
-              <li>questName->Asteroide Sólido de [resource]</li>
-            </rulesStrings>
-          </value>
-        </li>
-
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questDescriptionRules/rulesStrings</xpath>
-          <value>
-            <rulesStrings>
-              <li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua carcaça é de vacstone densa, mas em seu interior reside um núcleo de [resource] aguardando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este entrou em órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode chegar ao asteroide com cápsulas de transporte, naves de transporte ou uma gravinave. Equipe seus colonos com vestimenta orbital adequada antes de partir.</li>
-            </rulesStrings>
-          </value>
-        </li>
-
-        <li Class="PatchOperationReplace">
           <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/root/nodes/li[@Class="QuestNode_IsSet"]/elseNode[@Class="QuestNode_RandomNode"]/nodes/li[@Class="QuestNode_Set"]/value</xpath>
           <value>
             <value>Você descobriu</value>

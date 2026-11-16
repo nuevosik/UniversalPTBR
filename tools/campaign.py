@@ -5,8 +5,8 @@ import pathlib
 import re
 import sys
 
-from extract_medieval import (MODSCONFIG, REPO_LANG, WORKSHOP, XML_NAME, active_packages,
-                              escape, parse_xml, repo_index, scan_defs, scan_keyed)
+from extract_medieval import (REPO_LANG, WORKSHOP, XML_NAME, active_packages, repo_index,
+                              scan_defs, scan_keyed, write_skeleton)
 
 TARGETS = pathlib.Path(__file__).with_name('targets.json')
 ACTIVE = None
@@ -129,27 +129,6 @@ def clean(value):
     return re.sub(r'[ \t]+', ' ', value).strip()
 
 
-MARKUP = re.compile(r'</?(?:color|b|i|size|material|shader|a)(?:=[^>]*)?>')
-
-
-def write_language_file(path, pairs):
-    existing = []
-    if path.exists():
-        root = parse_xml(path)
-        if root is not None:
-            existing = [(el.tag, el.text or '') for el in root if el.tag != 'LanguageData']
-    have = {key for key, _ in existing}
-    merged = existing + [pair for pair in pairs if pair[0] not in have and pair[1]]
-    valid = [(k, v) for k, v in merged if XML_NAME.fullmatch(k)]
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open('w', encoding='utf-8', newline='\n') as fh:
-        fh.write('<?xml version="1.0" encoding="utf-8"?>\n<LanguageData>\n')
-        for key, value in valid:
-            fh.write(f'  <{key}>{escape(value)}</{key}>\n')
-        fh.write('</LanguageData>\n')
-    return len(pairs)
-
-
 def cmd_assemble(args):
     out = pathlib.Path(args.out)
     repo = pathlib.Path(args.repo)
@@ -181,8 +160,9 @@ def cmd_assemble(args):
                 path = repo / 'Keyed' / f'{prefix}_Keys.xml'
             else:
                 path = repo / 'DefInjected' / dtype / f'{prefix}_{dtype}.xml'
-            added = write_language_file(path, sorted(pairs.items()))
-            written[base.name] = written.get(base.name, 0) + added
+            filled = [pair for pair in sorted(pairs.items()) if pair[1]]
+            write_skeleton(path, filled)
+            written[base.name] = written.get(base.name, 0) + len(filled)
         if unknown:
             print(f'aviso: {prefix}: {unknown} chaves fora do alvo ignoradas', file=sys.stderr)
     print(f'arquivos gravados para {len(written)} mods | strings {sum(written.values())}')
@@ -190,21 +170,11 @@ def cmd_assemble(args):
 
 
 PLACEHOLDER = re.compile(r'\{[^}]+\}')
-NEWLINE = re.compile(r'\\n')
 
 
-def token_mismatch(src, value):
-    if sorted(PLACEHOLDER.findall(src)) != sorted(PLACEHOLDER.findall(value)):
-        return True
-    if src.count('<color') != value.count('<color') or src.count('</color>') != value.count('</color>'):
-        return True
-    if src.count('\\n') != value.count('\\n') + value.count('\n'):
-        return True
-    return False
-
-
-def video_problems(src, value):
+def translation_problems(src, value):
     return (not value.strip()
+            or (value.strip() == src.strip() and len(src.split()) >= 3)
             or sorted(PLACEHOLDER.findall(src)) != sorted(PLACEHOLDER.findall(value))
             or src.count('<color') != value.count('<color')
             or src.count('</color>') != value.count('</color>')
@@ -226,14 +196,14 @@ def cmd_check(args):
             for key, src in pairs.items():
                 total += 1
                 value = ((tr.get('defs') or {}).get(dtype) or {}).get(key, '')
-                if video_problems(src, value):
+                if translation_problems(src, value):
                     items.append(['defs', dtype, key, src])
                 else:
                     done += 1
         for key, src in (chunk.get('keyed') or {}).items():
             total += 1
             value = (tr.get('keyed') or {}).get(key, '')
-            if video_problems(src, value):
+            if translation_problems(src, value):
                 items.append(['keyed', '', key, src])
             else:
                 done += 1
