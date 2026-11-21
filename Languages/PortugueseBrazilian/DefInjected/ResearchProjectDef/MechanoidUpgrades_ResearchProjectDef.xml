@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MU_AdvancedArmor.description>Cria armaduras avançadas para mecanoides.</MU_AdvancedArmor.description>
+  <MU_AdvancedArmor.label>armadura avançada para mecanoides</MU_AdvancedArmor.label>
+  <MU_AdvancedChips.description>Cria chips avançados para mecanoides.</MU_AdvancedChips.description>
+  <MU_AdvancedChips.label>chips avançados para mecanoides</MU_AdvancedChips.label>
+  <MU_AdvancedModules.description>Cria módulos avançados para mecanoides.</MU_AdvancedModules.description>
+  <MU_AdvancedModules.label>módulos avançados para mecanoides</MU_AdvancedModules.label>
+  <MU_AdvancedShields.description>Cria escudos avançados para mecanoides.</MU_AdvancedShields.description>
+  <MU_AdvancedShields.label>escudos avançados para mecanoides</MU_AdvancedShields.label>
+  <MU_AdvancedUpgrades.description>Cria melhorias avançadas para mecanoides.</MU_AdvancedUpgrades.description>
+  <MU_AdvancedUpgrades.label>melhorias avançadas</MU_AdvancedUpgrades.label>
+  <MU_BasicArmor.description>Cria armaduras básicas para mecanoides.</MU_BasicArmor.description>
+  <MU_BasicArmor.label>armadura básica para mecanoides</MU_BasicArmor.label>
+  <MU_BasicChips.description>Cria chips básicos para mecanoides.</MU_BasicChips.description>
+  <MU_BasicChips.label>chips básicos para mecanoides</MU_BasicChips.label>
+  <MU_BasicModules.description>Cria módulos básicos para mecanoides.</MU_BasicModules.description>
+  <MU_BasicModules.label>módulos básicos para mecanoides</MU_BasicModules.label>
+  <MU_BasicShields.description>Cria escudos básicos para mecanoides.</MU_BasicShields.description>
+  <MU_BasicShields.label>escudos básicos para mecanoides</MU_BasicShields.label>
+  <MU_BasicUpgrades.description>Cria e instala melhorias básicas para mecanoides.</MU_BasicUpgrades.description>
+  <MU_BasicUpgrades.label>melhorias básicas</MU_BasicUpgrades.label>
+  <MU_Burners.description>Cria lança-chamas compactos para mecanoides.</MU_Burners.description>
+  <MU_Burners.label>queimadores embutidos</MU_Burners.label>
+  <MU_CommandExtenders.description>Cria dispositivos que retransmitem os comandos do mecanizador, criando áreas de controle adicionais.</MU_CommandExtenders.description>
+  <MU_CommandExtenders.label>repetidores de comando</MU_CommandExtenders.label>
+  <MU_Grenades.description>Cria granadas para mecanoides.</MU_Grenades.description>
+  <MU_Grenades.label>granadas para mecanoides</MU_Grenades.label>
+  <MU_JumpLauncher.description>Cria lançadores de salto simples para mecanoides.</MU_JumpLauncher.description>
+  <MU_JumpLauncher.label>lançador de salto</MU_JumpLauncher.label>
+  <MU_ShieldBooster.description>Cria reforços de escudo avançados que tornam o escudo muito mais resistente a danos por um curto período.</MU_ShieldBooster.description>
+  <MU_ShieldBooster.label>reforço de escudo</MU_ShieldBooster.label>
+  <MU_StandardArmor.description>Cria armaduras padrão para mecanoides.</MU_StandardArmor.description>
+  <MU_StandardArmor.label>armadura padrão para mecanoides</MU_StandardArmor.label>
+  <MU_StandardChips.description>Cria chips padrão para mecanoides.</MU_StandardChips.description>
+  <MU_StandardChips.label>chips padrão para mecanoides</MU_StandardChips.label>
+  <MU_StandardModules.description>Cria módulos padrão para mecanoides.</MU_StandardModules.description>
+  <MU_StandardModules.label>módulos padrão para mecanoides</MU_StandardModules.label>
+  <MU_StandardShields.description>Cria escudos padrão para mecanoides.</MU_StandardShields.description>
+  <MU_StandardShields.label>escudos padrão para mecanoides</MU_StandardShields.label>
+  <MU_StandardUpgrades.description>Cria melhorias padrão para mecanoides.</MU_StandardUpgrades.description>
+  <MU_StandardUpgrades.label>melhorias padrão</MU_StandardUpgrades.label>
+  <MU_SuperArmor.description>Trabalha com microeletrônica complexa. Isso desbloqueia a bancada de pesquisa de alta tecnologia e o console de comunicações.</MU_SuperArmor.description>
+  <MU_SuperArmor.label>armadura avançada para mecanoides</MU_SuperArmor.label>
+  <MU_SuperChips.description>Trabalha com microeletrônica complexa. Isso desbloqueia a bancada de pesquisa de alta tecnologia e o console de comunicações.</MU_SuperChips.description>
+  <MU_SuperChips.label>chips avançados para mecanoides</MU_SuperChips.label>
+  <MU_SuperModules.description>Cria módulos avançados para mecanoides.</MU_SuperModules.description>
+  <MU_SuperModules.label>módulos avançados para mecanoides</MU_SuperModules.label>
+  <MU_SuperShields.description>Cria escudos avançados para mecanoides.</MU_SuperShields.description>
+  <MU_SuperShields.label>escudos avançados para mecanoides</MU_SuperShields.label>
+  <MU_SuperUpgrades.description>Cria melhorias avançadas para mecanoides.</MU_SuperUpgrades.description>
+  <MU_SuperUpgrades.label>supermelhorias</MU_SuperUpgrades.label>
+  <MU_SystemMerger.description>Cria dispositivos que podem mesclar sistemas de mecanoides, aprimorando diversas características.</MU_SystemMerger.description>
+  <MU_SystemMerger.label>fusor de sistemas</MU_SystemMerger.label>
+  <MU_UpgradeFabricator.description>Cria dispositivos que podem fabricar melhorias de níveis inferiores em níveis superiores automaticamente.</MU_UpgradeFabricator.description>
+  <MU_UpgradeFabricator.label>fabricador de melhorias</MU_UpgradeFabricator.label>
+</LanguageData>

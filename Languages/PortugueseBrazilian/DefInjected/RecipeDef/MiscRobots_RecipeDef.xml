@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RPP_Production_Builder_I.description>Produza uma unidade capaz de construir, desconstruir, minerar e reparar com habilidade de trabalho 4.</RPP_Production_Builder_I.description>
+  <RPP_Production_Builder_I.label>fabricar robô construtor (Nível 1)</RPP_Production_Builder_I.label>
+  <RPP_Production_Builder_II.description>Produza uma unidade capaz de construir, desconstruir, minerar e reparar com habilidade de trabalho 8.</RPP_Production_Builder_II.description>
+  <RPP_Production_Builder_II.label>fabricar robô construtor (Nível 2)</RPP_Production_Builder_II.label>
+  <RPP_Production_Builder_III.description>Produza uma unidade capaz de construir, desconstruir, minerar e reparar com habilidade de trabalho 13.</RPP_Production_Builder_III.description>
+  <RPP_Production_Builder_III.label>fabricar robô construtor (Nível 3)</RPP_Production_Builder_III.label>
+  <RPP_Production_Builder_IV.description>Produza uma unidade capaz de construir, desconstruir, minerar e reparar com habilidade de trabalho 16.</RPP_Production_Builder_IV.description>
+  <RPP_Production_Builder_IV.label>fabricar robô construtor (Nível 4)</RPP_Production_Builder_IV.label>
+  <RPP_Production_Builder_V.description>Produza uma unidade capaz de construir, desconstruir, minerar e reparar com habilidade de trabalho 20.</RPP_Production_Builder_V.description>
+  <RPP_Production_Builder_V.label>fabricar robô construtor (Nível 5)</RPP_Production_Builder_V.label>
+  <RPP_Production_Cleaner_I.description>Produza uma unidade capaz de limpar.</RPP_Production_Cleaner_I.description>
+  <RPP_Production_Cleaner_I.label>fabricar robô limpador (Nível 1)</RPP_Production_Cleaner_I.label>
+  <RPP_Production_Cleaner_II.description>Produza uma unidade capaz de limpar.</RPP_Production_Cleaner_II.description>
+  <RPP_Production_Cleaner_II.label>fabricar robô limpador (Nível 2)</RPP_Production_Cleaner_II.label>
+  <RPP_Production_Cleaner_III.description>Produza uma unidade capaz de limpar.</RPP_Production_Cleaner_III.description>
+  <RPP_Production_Cleaner_III.label>fabricar robô limpador (Nível 3)</RPP_Production_Cleaner_III.label>
+  <RPP_Production_Cleaner_IV.description>Produza uma unidade capaz de limpar.</RPP_Production_Cleaner_IV.description>
+  <RPP_Production_Cleaner_IV.label>fabricar robô limpador (Nível 4)</RPP_Production_Cleaner_IV.label>
+  <RPP_Production_Cleaner_V.description>Produza uma unidade capaz de limpar.</RPP_Production_Cleaner_V.description>
+  <RPP_Production_Cleaner_V.label>fabricar robô limpador (Nível 5)</RPP_Production_Cleaner_V.label>
+  <RPP_Production_Component.description>Produza Componentes Robóticos, usados como circuitos lógicos dentro de uma Matriz Robótica.</RPP_Production_Component.description>
+  <RPP_Production_Component.label>fabricar componente robótico</RPP_Production_Component.label>
+  <RPP_Production_Component_Bulk.description>Produza Componentes Robóticos, usados como circuitos lógicos dentro de uma Matriz Robótica.</RPP_Production_Component_Bulk.description>
+  <RPP_Production_Component_Bulk.label>fabricar componente robótico x4</RPP_Production_Component_Bulk.label>
+  <RPP_Production_Crafter_I.description>Produza uma unidade capaz de fabricar, forjar e costurar com habilidade de trabalho 4.</RPP_Production_Crafter_I.description>
+  <RPP_Production_Crafter_I.label>fabricar robô fabricante (Nível 1)</RPP_Production_Crafter_I.label>
+  <RPP_Production_Crafter_II.description>Produza uma unidade capaz de fabricar, forjar e costurar com habilidade de trabalho 8.</RPP_Production_Crafter_II.description>
+  <RPP_Production_Crafter_II.label>fabricar robô fabricante (Nível 2)</RPP_Production_Crafter_II.label>
+  <RPP_Production_Crafter_III.description>Produza uma unidade capaz de fabricar, forjar e costurar com habilidade de trabalho 13.</RPP_Production_Crafter_III.description>
+  <RPP_Production_Crafter_III.label>fabricar robô fabricante (Nível 3)</RPP_Production_Crafter_III.label>
+  <RPP_Production_Crafter_IV.description>Produza uma unidade capaz de fabricar, forjar e costurar com habilidade de trabalho 16.</RPP_Production_Crafter_IV.description>
+  <RPP_Production_Crafter_IV.label>fabricar robô fabricante (Nível 4)</RPP_Production_Crafter_IV.label>
+  <RPP_Production_Crafter_V.description>Produza uma unidade capaz de fabricar, forjar e costurar com habilidade de trabalho 20.</RPP_Production_Crafter_V.description>
+  <RPP_Production_Crafter_V.label>fabricar robô fabricante (Nível 5)</RPP_Production_Crafter_V.label>
+  <RPP_Production_ER_I.description>Produza uma unidade capaz de tratar pacientes e combater incêndios com habilidade de trabalho 4.</RPP_Production_ER_I.description>
+  <RPP_Production_ER_I.label>fabricar robô RE (Nível 1)</RPP_Production_ER_I.label>
+  <RPP_Production_ER_II.description>Produza uma unidade capaz de tratar pacientes e combater incêndios com habilidade de trabalho 8.</RPP_Production_ER_II.description>
+  <RPP_Production_ER_II.label>fabricar robô RE (Nível 2)</RPP_Production_ER_II.label>
+  <RPP_Production_ER_III.description>Produza uma unidade capaz de tratar pacientes e combater incêndios com habilidade de trabalho 13.</RPP_Production_ER_III.description>
+  <RPP_Production_ER_III.label>fabricar robô RE (Nível 3)</RPP_Production_ER_III.label>
+  <RPP_Production_ER_IV.description>Produza uma unidade capaz de tratar pacientes e combater incêndios com habilidade de trabalho 16.</RPP_Production_ER_IV.description>
+  <RPP_Production_ER_IV.label>fabricar robô RE (Nível 4)</RPP_Production_ER_IV.label>
+  <RPP_Production_ER_V.description>Produza uma unidade capaz de tratar pacientes e combater incêndios com habilidade de trabalho 20.</RPP_Production_ER_V.description>
+  <RPP_Production_ER_V.label>fabricar robô RE (Nível 5)</RPP_Production_ER_V.label>
+  <RPP_Production_Hauler_I.description>Produza uma unidade capaz de transportar objetos.</RPP_Production_Hauler_I.description>
+  <RPP_Production_Hauler_I.label>fabricar robô transportador (Nível 1)</RPP_Production_Hauler_I.label>
+  <RPP_Production_Hauler_II.description>Produza uma unidade capaz de transportar objetos.</RPP_Production_Hauler_II.description>
+  <RPP_Production_Hauler_II.label>fabricar robô transportador (Nível 2)</RPP_Production_Hauler_II.label>
+  <RPP_Production_Hauler_III.description>Produza uma unidade capaz de transportar objetos.</RPP_Production_Hauler_III.description>
+  <RPP_Production_Hauler_III.label>fabricar robô transportador (Nível 3)</RPP_Production_Hauler_III.label>
+  <RPP_Production_Hauler_IV.description>Produza uma unidade capaz de transportar objetos.</RPP_Production_Hauler_IV.description>
+  <RPP_Production_Hauler_IV.label>fabricar robô transportador (Nível 4)</RPP_Production_Hauler_IV.label>
+  <RPP_Production_Hauler_V.description>Produza uma unidade capaz de transportar objetos.</RPP_Production_Hauler_V.description>
+  <RPP_Production_Hauler_V.label>fabricar robô transportador (Nível 5)</RPP_Production_Hauler_V.label>
+  <RPP_Production_Kitchen_I.description>Produza uma unidade capaz de cozinhar e cuidar de plantas com habilidade de trabalho 4.</RPP_Production_Kitchen_I.description>
+  <RPP_Production_Kitchen_I.label>fabricar robô de cozinha (Nível 1)</RPP_Production_Kitchen_I.label>
+  <RPP_Production_Kitchen_II.description>Produza uma unidade capaz de cozinhar e cuidar de plantas com habilidade de trabalho 8.</RPP_Production_Kitchen_II.description>
+  <RPP_Production_Kitchen_II.label>fabricar robô de cozinha (Nível 2)</RPP_Production_Kitchen_II.label>
+  <RPP_Production_Kitchen_III.description>Produza uma unidade capaz de cozinhar e cuidar de plantas com habilidade de trabalho 13.</RPP_Production_Kitchen_III.description>
+  <RPP_Production_Kitchen_III.label>fabricar robô de cozinha (Nível 3)</RPP_Production_Kitchen_III.label>
+  <RPP_Production_Kitchen_IV.description>Produza uma unidade capaz de cozinhar e cuidar de plantas com habilidade de trabalho 16.</RPP_Production_Kitchen_IV.description>
+  <RPP_Production_Kitchen_IV.label>fabricar robô de cozinha (Nível 4)</RPP_Production_Kitchen_IV.label>
+  <RPP_Production_Kitchen_V.description>Produza uma unidade capaz de cozinhar e cuidar de plantas com habilidade de trabalho 20.</RPP_Production_Kitchen_V.description>
+  <RPP_Production_Kitchen_V.label>fabricar robô de cozinha (Nível 5)</RPP_Production_Kitchen_V.label>
+  <RPP_Production_Matrix_I.description>Produza uma matriz lógica robótica de nível 1 para fabricar um robô com habilidade de trabalho 4.</RPP_Production_Matrix_I.description>
+  <RPP_Production_Matrix_I.label>fabricar matriz robótica (Simples)</RPP_Production_Matrix_I.label>
+  <RPP_Production_Matrix_II.description>Produza uma matriz lógica robótica de nível 2 para fabricar um robô com habilidade de trabalho 8.</RPP_Production_Matrix_II.description>
+  <RPP_Production_Matrix_II.label>fabricar matriz robótica (Básica)</RPP_Production_Matrix_II.label>
+  <RPP_Production_Matrix_III.description>Produza uma matriz lógica robótica de nível 3 para fabricar um robô com habilidade de trabalho 13.</RPP_Production_Matrix_III.description>
+  <RPP_Production_Matrix_III.label>fabricar matriz robótica (Intermediária)</RPP_Production_Matrix_III.label>
+  <RPP_Production_Matrix_IV.description>Produza uma matriz lógica robótica de nível 4 para fabricar um robô com habilidade de trabalho 16.</RPP_Production_Matrix_IV.description>
+  <RPP_Production_Matrix_IV.label>fabricar matriz robótica (Avançada)</RPP_Production_Matrix_IV.label>
+  <RPP_Production_Matrix_V.description>Produza uma Matriz Anti-Lógica de nível 5 para fabricar um robô com habilidade de trabalho 20.\nNP=P</RPP_Production_Matrix_V.description>
+  <RPP_Production_Matrix_V.label>fabricar matriz robótica (Anti-Lógica)</RPP_Production_Matrix_V.label>
+  <RPP_Production_Omni_I.description>Produza uma unidade capaz de realizar os trabalhos de todos os outros robôs com habilidade de trabalho 4.</RPP_Production_Omni_I.description>
+  <RPP_Production_Omni_I.label>fabricar Omni-robô (Nível 1)</RPP_Production_Omni_I.label>
+  <RPP_Production_Omni_II.description>Produza uma unidade capaz de realizar os trabalhos de todos os outros robôs com habilidade de trabalho 8.</RPP_Production_Omni_II.description>
+  <RPP_Production_Omni_II.label>fabricar Omni-robô (Nível 2)</RPP_Production_Omni_II.label>
+  <RPP_Production_Omni_III.description>Produza uma unidade capaz de realizar os trabalhos de todos os outros robôs com habilidade de trabalho 13.</RPP_Production_Omni_III.description>
+  <RPP_Production_Omni_III.label>fabricar Omni-robô (Nível 3)</RPP_Production_Omni_III.label>
+  <RPP_Production_Omni_IV.description>Produza uma unidade capaz de realizar os trabalhos de todos os outros robôs com habilidade de trabalho 16.</RPP_Production_Omni_IV.description>
+  <RPP_Production_Omni_IV.label>fabricar Omni-robô (Nível 4)</RPP_Production_Omni_IV.label>
+  <RPP_Production_Omni_V.description>Produza uma unidade capaz de realizar os trabalhos de todos os outros robôs com habilidade de trabalho 20.</RPP_Production_Omni_V.description>
+  <RPP_Production_Omni_V.label>fabricar Omni-robô (Nível 5)</RPP_Production_Omni_V.label>
+  <RPP_Recycle_Matrix.description>Use calor e eletroímãs fortes para decompor matrizes robóticas em componentes úteis.</RPP_Recycle_Matrix.description>
+  <RPP_Recycle_Matrix.label>reciclar matriz robótica</RPP_Recycle_Matrix.label>
+</LanguageData>

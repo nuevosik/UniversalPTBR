@@ -814,4 +814,102 @@
   <DMS_Exist>Visibilidade do mapa: {0}</DMS_Exist>
   <ScorerLaunch>Lançar míssil</ScorerLaunch>
   <ScorerLaunchDesc>Lança o míssil tático carregado. O míssil poderá atingir alvos fora do mapa-múndi em longo alcance e manterá a visibilidade do mapa por 3 dias para avaliar a eficácia do ataque. Relançar reinicia esse tempo.</ScorerLaunchDesc>
+  <DMSE.Artillery.EffectPoint>Ponto de impacto ({0}, {1}), próximo tiro dispersa {2} células</DMSE.Artillery.EffectPoint>
+  <DMSE.Artillery.MapNotSpawned>O mapa alvo não está carregado. A artilharia só pode bombardear um mapa que esteja ativo no momento.</DMSE.Artillery.MapNotSpawned>
+  <DMSE.Artillery.ModeDesc>Alternar modo de tiro. Registro: dispersão em torno do centro do mapa alvo; cada impacto é anotado como o ponto de fogo de efeito daquele mapa. Fogo de efeito: dispersão em torno do último impacto de registro anotado naquele mapa, compartilhado por todas as armas da mesma facção que o bombardeiam; cada tiro reduz a dispersão em um quarto da dispersão base (por arma, mínimo de 1 célula) e a guiagem por radar não é usada.</DMSE.Artillery.ModeDesc>
+  <DMSE.Artillery.ModeEffect>Modo de tiro: Fogo de efeito</DMSE.Artillery.ModeEffect>
+  <DMSE.Artillery.ModeRanging>Modo de tiro: Registro</DMSE.Artillery.ModeRanging>
+  <DMSE.Artillery.NoCrew>Precisa de um artilheiro: clique com o botão direito no morteiro e ordene a um colono operá-lo; o artilheiro carrega os projéteis automaticamente.</DMSE.Artillery.NoCrew>
+  <DMSE.Artillery.NoLoadedShell>Nenhum projétil carregado: peça a um artilheiro para carregar um projétil de morteiro antes de atirar.</DMSE.Artillery.NoLoadedShell>
+  <DMSE.Artillery.NoRegistration>Nenhum impacto de registro foi anotado neste mapa: dispare primeiro um tiro de registro.</DMSE.Artillery.NoRegistration>
+  <DMSE.Artillery.WaitingForShell>Aguardando o artilheiro recarregar: a missão está pausada.</DMSE.Artillery.WaitingForShell>
+  <DMSE.BVR.FireControlAltitude>Altitude de interceptação: {0} – {1}</DMSE.BVR.FireControlAltitude>
+  <DMSE.BVR.Settings.CiwsInterceptMultiplier>Taxa de interceptação CIWS: {0}</DMSE.BVR.Settings.CiwsInterceptMultiplier>
+  <DMSE.BVR.Settings.CiwsInterceptMultiplierDesc>Escala a chance de acerto de cada torreta de defesa de proximidade (CIWS). 100% mantém a taxa própria de cada torreta; 0% significa que elas nunca derrubam nada. Mísseis balísticos continuam muito difíceis de acertar, independentemente desta configuração.</DMSE.BVR.Settings.CiwsInterceptMultiplierDesc>
+  <DMSE.BVR.World.AltitudeDenied>Fora da altitude de interceptação</DMSE.BVR.World.AltitudeDenied>
+  <DMSE.BVR.World.TrackAltitude>Altitude de voo: {0}</DMSE.BVR.World.TrackAltitude>
+  <DMSE.EW.Alert.CommsJammed>Comunicações bloqueadas</DMSE.EW.Alert.CommsJammed>
+  <DMSE.EW.Alert.CommsJammedDesc>Um bloqueador está transmitindo neste mapa, então seus consoles de comunicação não podem ser usados. Coloque o bloqueador em espera ou desligue-o para restaurar as comunicações.</DMSE.EW.Alert.CommsJammedDesc>
+  <DMSE.EW.Console.NoOperator>Sem operador: sem bônus de habilidade</DMSE.EW.Console.NoOperator>
+  <DMSE.EW.Console.Operator>Operador: {0}</DMSE.EW.Console.Operator>
+  <DMSE.EW.Group.All>Todos</DMSE.EW.Group.All>
+  <DMSE.EW.Group.FireControlRadars>Radares de controle de tiro</DMSE.EW.Group.FireControlRadars>
+  <DMSE.EW.Group.Jammers>Bloqueadores</DMSE.EW.Group.Jammers>
+  <DMSE.EW.Group.SearchRadars>Radares de busca</DMSE.EW.Group.SearchRadars>
+  <DMSE.EW.Jammer.ArrivedInertial>Buscador bloqueado: o míssil está caindo em guiagem inercial.</DMSE.EW.Jammer.ArrivedInertial>
+  <DMSE.EW.Jammer.CommsBlocked>Os consoles de comunicação deste mapa ficam desativados durante o bloqueio.</DMSE.EW.Jammer.CommsBlocked>
+  <DMSE.EW.Jammer.CommsBlockedMessage>Um bloqueador está transmitindo: os consoles de comunicação deste mapa estão desativados.</DMSE.EW.Jammer.CommsBlockedMessage>
+  <DMSE.EW.Jammer.CommsBlockedReason>as comunicações estão sendo bloqueadas</DMSE.EW.Jammer.CommsBlockedReason>
+  <DMSE.EW.Jammer.GuidanceDenied>{0} perdeu o buscador por bloqueio e cairá em guiagem inercial.</DMSE.EW.Jammer.GuidanceDenied>
+  <DMSE.EW.Jammer.Inspect>Raio de bloqueio {0} blocos do mapa-múndi, intensidade {1}, cobrindo {2} rastros hostis</DMSE.EW.Jammer.Inspect>
+  <DMSE.EW.Jammer.JammedOut>{0} perdeu a guiagem por causa do bloqueio de {1} e caiu fora do mapa.</DMSE.EW.Jammer.JammedOut>
+  <DMSE.EW.Jammer.ShowRing>Mostrar anel de bloqueio</DMSE.EW.Jammer.ShowRing>
+  <DMSE.EW.Jammer.ShowRingDesc>Raio de bloqueio {0} blocos (anel vermelho no mapa-múndi). Ir para esta colônia no mapa-múndi.</DMSE.EW.Jammer.ShowRingDesc>
+  <DMSE.EW.Roe.AutoEngage>Engajamento automático</DMSE.EW.Roe.AutoEngage>
+  <DMSE.EW.Roe.AutoEngageDesc>Quando desativado, os alvos ainda são detectados e os alertas ainda disparam, mas os interceptadores não são lançados. As armas de proximidade continuam atirando.</DMSE.EW.Roe.AutoEngageDesc>
+  <DMSE.EW.Roe.CapUnlimited>Sem limite</DMSE.EW.Roe.CapUnlimited>
+  <DMSE.EW.Roe.ChannelCap>Limite de canais de defesa aérea</DMSE.EW.Roe.ChannelCap>
+  <DMSE.EW.Roe.ChannelCapDesc>Limita quantos canais de controle de tiro a defesa aérea pode manter, deixando o restante para artilharia e guiagem de ataques. Em 0, nenhum interceptador é lançado.</DMSE.EW.Roe.ChannelCapDesc>
+  <DMSE.EW.Roe.Class.Ballistic>Mísseis balísticos</DMSE.EW.Roe.Class.Ballistic>
+  <DMSE.EW.Roe.Class.DropPod>Cápsulas de queda</DMSE.EW.Roe.Class.DropPod>
+  <DMSE.EW.Roe.Class.Loitering>Munições de patrulha</DMSE.EW.Roe.Class.Loitering>
+  <DMSE.EW.Roe.Intercept>Interceptar</DMSE.EW.Roe.Intercept>
+  <DMSE.EW.Roe.Neutral>Atirar em facções neutras</DMSE.EW.Roe.Neutral>
+  <DMSE.EW.Roe.Policy>Escopo de engajamento</DMSE.EW.Roe.Policy>
+  <DMSE.EW.Roe.PolicyAll>Todos</DMSE.EW.Roe.PolicyAll>
+  <DMSE.EW.Roe.PolicyDesc>Autodefesa engaja apenas mísseis voltados a esta colônia ou a um aliado e ignora mísseis de passagem. A opção Todos também intercepta mísseis de passagem.</DMSE.EW.Roe.PolicyDesc>
+  <DMSE.EW.Roe.PolicySelfDefense>Autodefesa</DMSE.EW.Roe.PolicySelfDefense>
+  <DMSE.EW.Roe.Priority>Prioridade de alvo</DMSE.EW.Roe.Priority>
+  <DMSE.EW.Roe.PriorityDesc>Quando os canais ficam escassos, engaje primeiro o alvo que chega mais cedo ou a maior assinatura de radar.</DMSE.EW.Roe.PriorityDesc>
+  <DMSE.EW.Roe.PriorityFirstCome>Primeiro a chegar</DMSE.EW.Roe.PriorityFirstCome>
+  <DMSE.EW.Roe.PriorityLargest>Maior</DMSE.EW.Roe.PriorityLargest>
+  <DMSE.EW.Tab>Sala de guerra</DMSE.EW.Tab>
+  <DMSE.EW.Tab.Channels>Canais de defesa aérea</DMSE.EW.Tab.Channels>
+  <DMSE.EW.Tab.ChannelsDesc>Canais que a defesa aérea está usando / canais que pode usar agora. O segundo número exclui canais ocupados por artilharia e guiagem de ataques e aplica o limite de canais.</DMSE.EW.Tab.ChannelsDesc>
+  <DMSE.EW.Tab.GroupStatus>{0}/{1} ligados</DMSE.EW.Tab.GroupStatus>
+  <DMSE.EW.Tab.JammerRow>intensidade {0}, cobrindo {1} rastros</DMSE.EW.Tab.JammerRow>
+  <DMSE.EW.Tab.LocalJam>Bloqueio inimigo</DMSE.EW.Tab.LocalJam>
+  <DMSE.EW.Tab.NoPower>Sem energia: o controle remoto e as regras não podem ser alterados. As regras atuais permanecem em vigor.</DMSE.EW.Tab.NoPower>
+  <DMSE.EW.Tab.NotDeployed>Não implantado</DMSE.EW.Tab.NotDeployed>
+  <DMSE.EW.Tab.Operator>Bônus do operador</DMSE.EW.Tab.Operator>
+  <DMSE.EW.Tab.OperatorBonus>bônus</DMSE.EW.Tab.OperatorBonus>
+  <DMSE.EW.Tab.OperatorCooldown>Total de Tiro {0}/{1}: recarga do lançador × {2}</DMSE.EW.Tab.OperatorCooldown>
+  <DMSE.EW.Tab.OperatorPenalty>penalidade</DMSE.EW.Tab.OperatorPenalty>
+  <DMSE.EW.Tab.OperatorRange>Total de Intelectual {0}/{1}: alcance do radar × {2}</DMSE.EW.Tab.OperatorRange>
+  <DMSE.EW.Tab.Performance>Desempenho do dispositivo</DMSE.EW.Tab.Performance>
+  <DMSE.EW.Tab.PowerOff>Desligado</DMSE.EW.Tab.PowerOff>
+  <DMSE.EW.Tab.PowerOn>Ligado</DMSE.EW.Tab.PowerOn>
+  <DMSE.EW.Tab.RadarRange>{0} blocos</DMSE.EW.Tab.RadarRange>
+  <DMSE.EW.Tab.RadarRow>base {0} × potência {1} × operador {2}</DMSE.EW.Tab.RadarRow>
+  <DMSE.EW.Tab.RadarsOnline>Radares online</DMSE.EW.Tab.RadarsOnline>
+  <DMSE.EW.Tab.Remote>Controle remoto</DMSE.EW.Tab.Remote>
+  <DMSE.EW.Tab.Restore>Encerrar silêncio</DMSE.EW.Tab.Restore>
+  <DMSE.EW.Tab.RestoreDesc>Religue os dispositivos que estavam ligados antes do silêncio.</DMSE.EW.Tab.RestoreDesc>
+  <DMSE.EW.Tab.Roe>Regras de engajamento</DMSE.EW.Tab.Roe>
+  <DMSE.EW.Tab.Silence>Silêncio de emissões</DMSE.EW.Tab.Silence>
+  <DMSE.EW.Tab.SilenceDesc>Desligue todos os radares e bloqueadores que estão ligados. Você pode restaurá-los com um clique.</DMSE.EW.Tab.SilenceDesc>
+  <DMSE.EW.Tab.SilencedWarning>Silêncio de emissões ativo: radares e bloqueadores desligados.</DMSE.EW.Tab.SilencedWarning>
+  <DMSE.EW.Tab.StateAll>Auto, todos os alvos</DMSE.EW.Tab.StateAll>
+  <DMSE.EW.Tab.StateHold>Interceptadores retidos</DMSE.EW.Tab.StateHold>
+  <DMSE.EW.Tab.StateLabel>Defesa aérea</DMSE.EW.Tab.StateLabel>
+  <DMSE.EW.Tab.StateNoRadar>Nenhum radar online</DMSE.EW.Tab.StateNoRadar>
+  <DMSE.EW.Tab.StateSelfDefense>Auto, autodefesa</DMSE.EW.Tab.StateSelfDefense>
+  <DMSE.EW.Tab.StateSilenced>Silêncio de emissões</DMSE.EW.Tab.StateSilenced>
+  <DMSE.EW.Tab.ThrottleMixed>Misto</DMSE.EW.Tab.ThrottleMixed>
+  <DMSE.EW.Throttle.Gizmo>Potência: {0}</DMSE.EW.Throttle.Gizmo>
+  <DMSE.EW.Throttle.GizmoDesc>Defina o nível de potência. Menor potência reduz o alcance e enfraquece o efeito, mas consome menos e é mais difícil de ser detectado por mísseis antirradiação. Em espera, o dispositivo para completamente e ainda consome energia em repouso.</DMSE.EW.Throttle.GizmoDesc>
+  <DMSE.EW.Throttle.Inspect>Nível de potência: {0} ({1} W)</DMSE.EW.Throttle.Inspect>
+  <DMSE.EW.Throttle.Standby>Em espera</DMSE.EW.Throttle.Standby>
+  <DMSE.EarlyLaunchSite.ArrivedLetter>Seus colonos chegaram a uma posição de mísseis inimiga. Espelhos acústicos escutam aeronaves enquanto um radar de controle de tiro apontado manualmente e trilhos de lançamento enviam lentas munições de patrulha com pulsorreato. Destrua o radar de controle de tiro para neutralizá-la; o radar para de atirar se sua tripulação ou seus geradores a lenha forem perdidos. Se você recuar com um radar de controle de tiro ainda de pé, o inimigo reconstruirá suas defesas e você não poderá retornar por um tempo.</DMSE.EarlyLaunchSite.ArrivedLetter>
+  <DMSE.EarlyLaunchSite.SpawnedLetter>{0} estabeleceu uma posição de mísseis a {3} blocos {2} de {1}. Suas lentas munições de patrulha com pulsorreato podem atingir sua colônia, e ela não tem interceptadores próprios.\n\nDestrua o radar de controle de tiro para neutralizá-la.</DMSE.EarlyLaunchSite.SpawnedLetter>
+  <DMSE.Landfill.Cancel>Cancelar</DMSE.Landfill.Cancel>
+  <DMSE.Landfill.CancelDesc>Remover a marca.</DMSE.Landfill.CancelDesc>
+  <DMSE.Landfill.Fill>Preencher</DMSE.Landfill.Fill>
+  <DMSE.Landfill.FillDesc>Marque esta entrada para ser preenchida e depois clique com o botão direito com um colono para começar.\n\nO preenchimento destrói a sala selada. Qualquer pessoa ou coisa ainda dentro será perdida. A entrada preenchida pode ser desconstruída ou reaberta como uma sala nova e vazia.</DMSE.Landfill.FillDesc>
+  <DMSE.Landfill.Reopen>Reabrir</DMSE.Landfill.Reopen>
+  <DMSE.Landfill.ReopenDesc>Marque esta entrada preenchida para ser escavada novamente e depois clique com o botão direito com um colono para começar. A sala atrás dela será nova e vazia.</DMSE.Landfill.ReopenDesc>
+  <DMSE.MissileBase.ObjectivesAlert>Posição de mísseis: {0} radares de controle de tiro restantes</DMSE.MissileBase.ObjectivesAlert>
+  <DMSE.MissileBase.ObjectivesAlertDesc>Destrua todos os radares de controle de tiro para neutralizar esta posição ({0} restantes). Não é preciso destruir os lançadores nem os radares de busca.\n\nSe você recuar enquanto um radar de controle de tiro ainda estiver de pé, o inimigo se reagrupa: a posição permanece no mapa-múndi e continua atirando, seu retorno fica bloqueado por um tempo e ela é totalmente reconstruída na sua próxima visita.\n\nClique para alternar entre os alvos restantes.</DMSE.MissileBase.ObjectivesAlertDesc>
+  <DMSE.MissileBase.ReentryBlockStarted>{0}: seus radares de controle de tiro ainda estão de pé e o inimigo está se reagrupando. O acesso terrestre está bloqueado por {1}; a posição será totalmente reconstruída.</DMSE.MissileBase.ReentryBlockStarted>
+  <DMSE.MissileBase.TurretAmmoDrop>Lançamento aéreo de munição inimiga: {1} ×{0}</DMSE.MissileBase.TurretAmmoDrop>
 </LanguageData>

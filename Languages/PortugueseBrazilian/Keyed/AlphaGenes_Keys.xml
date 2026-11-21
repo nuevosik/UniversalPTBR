@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AG_AbilityDisabledNoMineral>{0_labelShort} não tem minerais suficientes.</AG_AbilityDisabledNoMineral>
+  <AG_AbilityDisabledNoMineralGene>{0_labelShort} não é um absorvedor de minerais.</AG_AbilityDisabledNoMineralGene>
+  <AG_AbilityMineralCost>Custo de minerais</AG_AbilityMineralCost>
+  <AG_AlreadyFourGenes>Este pacote de genes já tem a quantidade máxima possível de genes</AG_AlreadyFourGenes>
+  <AG_AsexualHatched>{0} se reproduziu assexuadamente.</AG_AsexualHatched>
+  <AG_CannotBeUsedAsWeapon>Esta habilidade não pode ser usada como arma de uso único em um colono hostil</AG_CannotBeUsedAsWeapon>
+  <AG_CannotBeUsedOnAndroids>Androides são imunes a implantações parasitárias</AG_CannotBeUsedOnAndroids>
+  <AG_CannotBeUsedOnDeathless>Pessoas imortais são imunes a implantações parasitárias</AG_CannotBeUsedOnDeathless>
+  <AG_CantSpawnThere>Não é possível criar um nó temporário ali</AG_CantSpawnThere>
+  <AG_CantTeleportItemsOutOfPocketPlane>Itens não podem ser transferidos para fora de um plano de bolso.</AG_CantTeleportItemsOutOfPocketPlane>
+  <AG_ChooseEndogeneToConvert>Escolha o endogene para transformar em xenogene</AG_ChooseEndogeneToConvert>
+  <AG_ChooseGeneToRemove>Escolha o gene a remover</AG_ChooseGeneToRemove>
+  <AG_ChooseXenogeneToConvert>Escolha o xenogene para transformar em endogene</AG_ChooseXenogeneToConvert>
+  <AG_DeathIn>Morte em {0}</AG_DeathIn>
+  <AG_DisableMutationsMessage>Desativar mensagem de mutações instáveis</AG_DisableMutationsMessage>
+  <AG_DisableMutationsMessage_Description>Por padrão, os três genes de "mutações instáveis" exibem uma mensagem pop-up informando quais genes foram adquiridos por cada colono. Isso é bom se você tiver um colono, mas não tanto se tiver 20... Com esta opção você pode remover essas mensagens.</AG_DisableMutationsMessage_Description>
+  <AG_DisableQuests>Desativar missões do Laboratório de Biotecnologia Abandonado</AG_DisableQuests>
+  <AG_DisableQuests_Description>Desativa o gatilho das missões do Laboratório de Biotecnologia Abandonado. Lembre-se de que essas missões são independentes de quaisquer outras missões ou eventos do contador de histórias (incursões, caçadores enlouquecidos, etc.). AVISO: desativar isto fará com que a maioria dos genes alfa e ferramentas genéticas fiquem indisponíveis durante o jogo normal.</AG_DisableQuests_Description>
+  <AG_DisableThalassophobiaMessage>Desativar mensagem de talassofobia</AG_DisableThalassophobiaMessage>
+  <AG_DisableThalassophobiaMessage_Description>Por padrão, sempre que um colono com o gene de talassofobia foge da água, o jogo gera uma carta informando o jogador. Isso pode ser um pouco demais se você tiver muitos colonos fugindo com frequência, então você pode desativar com esta opção. Lembre-se de que os colonos continuarão fugindo; você apenas NÃO será informado.</AG_DisableThalassophobiaMessage_Description>
+  <AG_DownedOrLyingInBed>O alvo precisa estar caído ou deitado na cama para que esta habilidade funcione</AG_DownedOrLyingInBed>
+  <AG_FleshbeastTooBig>{0} é grande demais para ser afetado por esta habilidade!</AG_FleshbeastTooBig>
+  <AG_GeneRemovalComa>Ferramentas genéticas causam coma por remoção de genes</AG_GeneRemovalComa>
+  <AG_GeneRemovalComa_Description>Usar qualquer ferramenta genética causa um coma por remoção de genes que dura 3 dias, deixando o colono inconsciente, e nenhuma outra ferramenta pode ser usada nesse período. Isso está ATIVADO por padrão para equilíbrio.</AG_GeneRemovalComa_Description>
+  <AG_GeneSyphoned>{0} sugou o gene {1}!</AG_GeneSyphoned>
+  <AG_Hybrid>Híbrido</AG_Hybrid>
+  <AG_MechsImmuneToInsanityBlast>Mecanoides não são afetados por rajada de loucura!</AG_MechsImmuneToInsanityBlast>
+  <AG_NeedToTargetCaster>Esta habilidade precisa ter seu conjurador como alvo</AG_NeedToTargetCaster>
+  <AG_NeedsForsakenKnowledge>Só pode ser construído por alguém com o gene de Conhecimento Abandonado</AG_NeedsForsakenKnowledge>
+  <AG_NeedsForsakenKnowledgeToWield>Só pode ser usado por alguém com o gene de Conhecimento Abandonado</AG_NeedsForsakenKnowledgeToWield>
+  <AG_NeedsMoreThanTwoGenes>O disruptor não funciona se o pacote de genes tiver apenas um gene restante</AG_NeedsMoreThanTwoGenes>
+  <AG_NoEndogenes>O alvo não tem endogenes</AG_NoEndogenes>
+  <AG_NoGenesAtAll>O alvo não tem nenhum gene</AG_NoGenesAtAll>
+  <AG_NoXenogenes>O alvo não tem xenogenes</AG_NoXenogenes>
+  <AG_NotOnAndroids>Esta habilidade não funciona em androides</AG_NotOnAndroids>
+  <AG_OnlyOnFleshbeasts>{0} não é uma besta de carne!</AG_OnlyOnFleshbeasts>
+  <AG_OnlyOnFriendlyMechs>{0} não é um mecanoide da colônia; isto só funciona em mecanoides pertencentes ao jogador</AG_OnlyOnFriendlyMechs>
+  <AG_OverdriveOff>Desativar sobrecarga</AG_OverdriveOff>
+  <AG_OverdriveOn>Ativar sobrecarga</AG_OverdriveOn>
+  <AG_ParasitesHatched>Um recém-nascido, {0}, eclodiu de um hospedeiro, matando-o no processo</AG_ParasitesHatched>
+  <AG_ParasitesHatchedLabel>Explosão torácica!</AG_ParasitesHatchedLabel>
+  <AG_PawnCantCollapsePocket>{0} não pode colapsar um plano de bolso enquanto está dentro dele!</AG_PawnCantCollapsePocket>
+  <AG_PawnWithoutBrain>O alvo não tem cérebro. Infelizmente, isso é bem comum no mundo</AG_PawnWithoutBrain>
+  <AG_PocketPlaneMapNotActive>O plano de bolso não está aberto no momento</AG_PocketPlaneMapNotActive>
+  <AG_PregnancyFaster>Gene de gestação rápida: +25% de velocidade de gestação</AG_PregnancyFaster>
+  <AG_PregnancySlower>Gene de gestação lenta: -25% de velocidade de gestação</AG_PregnancySlower>
+  <AG_PsychicAbsorptionNoMoods>{0} não tem memórias negativas que possam ser absorvidas</AG_PsychicAbsorptionNoMoods>
+  <AG_QuestRate>Multiplicador de Laboratórios de Biotecnologia Abandonados (menor significa receber o evento com mais frequência)</AG_QuestRate>
+  <AG_QuestRateTooltip>A frequência com que a missão do Laboratório de Biotecnologia Abandonado é oferecida é multiplicada por este número (com multiplicador 1, ela é oferecida a cada 15 a 30 dias, aleatoriamente). Números abaixo de 1 diminuem o tempo, enquanto números acima aumentam. Observe que este evento não "substitui" as missões normais; ele funciona de forma independente.</AG_QuestRateTooltip>
+  <AG_RandomGenesGained>Mutação instável ganha por {0}: {1}</AG_RandomGenesGained>
+  <AG_RandomGenesToShamblers>Dar genes aleatórios exclusivos de trôpegos aos trôpegos</AG_RandomGenesToShamblers>
+  <AG_RandomGenesToShamblers_Description>Se ativo, qualquer trôpego que aparecer no mapa receberá um grupo (1 a 3) de genes aleatórios exclusivos de trôpegos.</AG_RandomGenesToShamblers_Description>
+  <AG_ReativeArmourOff>Desativar armadura</AG_ReativeArmourOff>
+  <AG_ReativeArmourOn>Ativar armadura</AG_ReativeArmourOn>
+  <AG_Reset>Redefinir</AG_Reset>
+  <AG_ResistedInsanityBlast>O alvo resistiu à rajada de loucura!</AG_ResistedInsanityBlast>
+  <AG_ShowAllAnimalSummonGenes>Mostrar TODOS os genes de convocação de animais (requer recarregar o jogo)</AG_ShowAllAnimalSummonGenes>
+  <AG_ShowAllAnimalSummonGenes_Description>Se selecionado, TODOS os genes de convocação de animais serão exibidos na tela de criação de xenótipos. Lembre-se de que esses genes sortearão entre todos os animais, do jogo base ou de mods, então isso pode sair do controle rápido! Por padrão, eles ficam ocultos, e três genes são exibidos, escolhendo um deles ao acaso.</AG_ShowAllAnimalSummonGenes_Description>
+  <AG_TargetTooBig>{0} é grande demais para um gancho (tamanho máximo de corpo {1})</AG_TargetTooBig>
+  <AG_TrappedForever>O local original não está mais disponível! {0} está preso para sempre neste plano de bolso!</AG_TrappedForever>
+  <AG_UnsummonedIn>Desconvocado em {0}</AG_UnsummonedIn>
+  <AM_NightlingDead>Ele está morto, Jim</AM_NightlingDead>
+  <AM_OnlyNightlings>Esta habilidade só funciona em Nightlings</AM_OnlyNightlings>
+  <AM_OnlyWildNightlings>Este Nightling não é um animal selvagem</AM_OnlyWildNightlings>
+  <VRE_OneScorpionPerColonist>Só pode existir um atirador ocular por colono com o gene de afinidade ocular</VRE_OneScorpionPerColonist>
+  <VRE_UnlockedByGeneOcular>Desbloqueado pelo gene de Afinidade Ocular</VRE_UnlockedByGeneOcular>
+</LanguageData>

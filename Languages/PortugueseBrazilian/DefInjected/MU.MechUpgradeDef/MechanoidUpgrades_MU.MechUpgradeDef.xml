@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MU_CargoCell_Double.description>Duas pequenas células de carga que podem ser instaladas em um mecanoide. Aumentam o peso carregado, mas também afetam o consumo de energia.</MU_CargoCell_Double.description>
+  <MU_CargoCell_Double.label>célula de carga dupla</MU_CargoCell_Double.label>
+  <MU_CargoCell_Large.description>Célula de carga grande que pode ser instalada em um mecanoide. Aumenta o peso carregado, mas também afeta o consumo de energia.</MU_CargoCell_Large.description>
+  <MU_CargoCell_Large.label>célula de carga grande</MU_CargoCell_Large.label>
+  <MU_CargoCell_Small.description>Célula de carga pequena que pode ser instalada em um mecanoide. Aumenta o peso carregado, mas também afeta o consumo de energia.</MU_CargoCell_Small.description>
+  <MU_CargoCell_Small.label>célula de carga pequena</MU_CargoCell_Small.label>
+  <MU_ChemfuelBurner.description>Uma unidade queimador movida a combustível químico e que pode ser instalada em um mecanoide. Gera um jato de chamas a partir de combustível químico altamente inflamável, formando poços de fogo no chão. O queimador pode ser usado duas vezes antes de precisar de reabastecimento.</MU_ChemfuelBurner.description>
+  <MU_ChemfuelBurner.label>queimador</MU_ChemfuelBurner.label>
+  <MU_ChemfuelFlamethrower.description>Uma unidade lança-chamas movida a combustível químico e que pode ser instalada em um mecanoide. Gera um longo jato de chamas a partir de combustível químico altamente inflamável, formando poços de fogo no chão. O lança-chamas pode ser usado cinco vezes antes de precisar de reabastecimento.</MU_ChemfuelFlamethrower.description>
+  <MU_ChemfuelFlamethrower.label>lança-chamas</MU_ChemfuelFlamethrower.label>
+  <MU_ChemfuelMiniBurner.description>Uma mini-unidade queimador movida a combustível químico e que pode ser instalada em um mecanoide. Gera um jato de chamas a partir de combustível químico altamente inflamável, formando poços de fogo no chão. O mini-queimador precisa ser reabastecido após cada uso.</MU_ChemfuelMiniBurner.description>
+  <MU_ChemfuelMiniBurner.label>mini-queimador</MU_ChemfuelMiniBurner.label>
+  <MU_CommandPack.description>Um pacote utilitário para mecanoide que retransmite sinais de comando do mecanizador, criando uma área de controle adicional.</MU_CommandPack.description>
+  <MU_CommandPack.label>pacote de comando</MU_CommandPack.label>
+  <MU_EMPGrenades.description>Granadas de pulso eletromagnético que danificam equipamentos eletrônicos. Esta versão foi projetada para ser usada por mecanoides.</MU_EMPGrenades.description>
+  <MU_EMPGrenades.label>granadas EMP</MU_EMPGrenades.label>
+  <MU_FirefoamPopPack.description>Um pacote utilitário para mecanoide. Quando ativado, libera uma explosão de espuma retardante de fogo, cobrindo um amplo círculo ao redor de quem o usa.</MU_FirefoamPopPack.description>
+  <MU_FirefoamPopPack.label>pacote de espuma ignífuga</MU_FirefoamPopPack.label>
+  <MU_FragGrenades.description>Granadas de fragmentação. Esta versão foi projetada para ser usada por mecanoides.</MU_FragGrenades.description>
+  <MU_FragGrenades.label>granadas de fragmentação</MU_FragGrenades.label>
+  <MU_FrequencyAmplifier.description>Amplificador para o gerador de graser de mecanoide. Aumenta a densidade do feixe e a velocidade de foco, mas consome uma quantidade significativa de energia adicional.</MU_FrequencyAmplifier.description>
+  <MU_FrequencyAmplifier.label>amplificador de frequência</MU_FrequencyAmplifier.label>
+  <MU_IncendiaryGrenades.description>Granadas incendiárias. Esta versão foi projetada para ser usada por mecanoides.</MU_IncendiaryGrenades.description>
+  <MU_IncendiaryGrenades.label>granadas incendiárias</MU_IncendiaryGrenades.label>
+  <MU_JumpLauncher.description>Lançador de salto que permite pular para um local distante.</MU_JumpLauncher.description>
+  <MU_JumpLauncher.label>lançador de salto</MU_JumpLauncher.label>
+  <MU_LegActuators.description>Atuadores de perna reforçados para mecanoide ultrapesado. Aumentam bastante a velocidade de movimento.</MU_LegActuators.description>
+  <MU_LegActuators.label>atuadores de perna reforçados</MU_LegActuators.label>
+  <MU_MechArmor_Large_A.description>Armadura universal para um mecanoide grande. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_Large_A.description>
+  <MU_MechArmor_Large_A.label>armadura de mecanoide grande nível A</MU_MechArmor_Large_A.label>
+  <MU_MechArmor_Large_B.description>Armadura universal para um mecanoide grande. Aumenta moderadamente a proteção contra dano perfurante e esmagador.</MU_MechArmor_Large_B.description>
+  <MU_MechArmor_Large_B.label>armadura de mecanoide grande nível B</MU_MechArmor_Large_B.label>
+  <MU_MechArmor_Large_C.description>Armadura universal para um mecanoide grande. Aumenta ligeiramente a proteção contra dano perfurante e esmagador.</MU_MechArmor_Large_C.description>
+  <MU_MechArmor_Large_C.label>armadura de mecanoide grande nível C</MU_MechArmor_Large_C.label>
+  <MU_MechArmor_Large_S.description>Armadura universal para um mecanoide grande. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_Large_S.description>
+  <MU_MechArmor_Large_S.label>armadura de mecanoide grande nível S</MU_MechArmor_Large_S.label>
+  <MU_MechArmor_Medium_A.description>Armadura universal para um mecanoide médio. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_Medium_A.description>
+  <MU_MechArmor_Medium_A.label>armadura de mecanoide médio nível A</MU_MechArmor_Medium_A.label>
+  <MU_MechArmor_Medium_B.description>Armadura universal para um mecanoide médio. Aumenta moderadamente a proteção contra dano perfurante e esmagador.</MU_MechArmor_Medium_B.description>
+  <MU_MechArmor_Medium_B.label>armadura de mecanoide médio nível B</MU_MechArmor_Medium_B.label>
+  <MU_MechArmor_Medium_C.description>Armadura universal para um mecanoide médio. Aumenta ligeiramente a proteção contra dano perfurante e esmagador.</MU_MechArmor_Medium_C.description>
+  <MU_MechArmor_Medium_C.label>armadura de mecanoide médio nível C</MU_MechArmor_Medium_C.label>
+  <MU_MechArmor_Medium_S.description>Armadura universal para um mecanoide médio. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_Medium_S.description>
+  <MU_MechArmor_Medium_S.label>armadura de mecanoide médio nível S</MU_MechArmor_Medium_S.label>
+  <MU_MechArmor_Small_A.description>Armadura universal para um mecanoide pequeno. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_Small_A.description>
+  <MU_MechArmor_Small_A.label>armadura de mecanoide pequeno nível A</MU_MechArmor_Small_A.label>
+  <MU_MechArmor_Small_B.description>Armadura universal para um mecanoide pequeno. Aumenta moderadamente a proteção contra dano perfurante e esmagador.</MU_MechArmor_Small_B.description>
+  <MU_MechArmor_Small_B.label>armadura de mecanoide pequeno nível B</MU_MechArmor_Small_B.label>
+  <MU_MechArmor_Small_C.description>Armadura universal para um mecanoide pequeno. Aumenta ligeiramente a proteção contra dano perfurante e esmagador.</MU_MechArmor_Small_C.description>
+  <MU_MechArmor_Small_C.label>armadura de mecanoide pequeno nível C</MU_MechArmor_Small_C.label>
+  <MU_MechArmor_Small_S.description>Armadura universal para um mecanoide pequeno. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_Small_S.description>
+  <MU_MechArmor_Small_S.label>armadura de mecanoide pequeno nível S</MU_MechArmor_Small_S.label>
+  <MU_MechArmor_UltraLarge_A.description>Armadura universal para um mecanoide ultra grande. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_UltraLarge_A.description>
+  <MU_MechArmor_UltraLarge_A.label>armadura de mecanoide ultra grande nível A</MU_MechArmor_UltraLarge_A.label>
+  <MU_MechArmor_UltraLarge_B.description>Armadura universal para um mecanoide ultra grande. Aumenta moderadamente a proteção contra dano perfurante e esmagador.</MU_MechArmor_UltraLarge_B.description>
+  <MU_MechArmor_UltraLarge_B.label>armadura de mecanoide ultra grande nível B</MU_MechArmor_UltraLarge_B.label>
+  <MU_MechArmor_UltraLarge_C.description>Armadura universal para um mecanoide ultra grande. Aumenta ligeiramente a proteção contra dano perfurante e esmagador.</MU_MechArmor_UltraLarge_C.description>
+  <MU_MechArmor_UltraLarge_C.label>armadura de mecanoide ultra grande nível C</MU_MechArmor_UltraLarge_C.label>
+  <MU_MechArmor_UltraLarge_S.description>Armadura universal para um mecanoide ultra grande. Aumenta bastante a proteção contra dano perfurante e esmagador.\n\nA tecnologia de armadura padrão permite reduzir até mesmo o dano não refletido.</MU_MechArmor_UltraLarge_S.description>
+  <MU_MechArmor_UltraLarge_S.label>armadura de mecanoide ultra grande nível S</MU_MechArmor_UltraLarge_S.label>
+  <MU_MechChip_Aiming_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a velocidade de mira.</MU_MechChip_Aiming_A.description>
+  <MU_MechChip_Aiming_A.label>chip de mira nível A</MU_MechChip_Aiming_A.label>
+  <MU_MechChip_Aiming_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta moderadamente a velocidade de mira.</MU_MechChip_Aiming_B.description>
+  <MU_MechChip_Aiming_B.label>chip de mira nível B</MU_MechChip_Aiming_B.label>
+  <MU_MechChip_Aiming_C.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta ligeiramente a velocidade de mira.</MU_MechChip_Aiming_C.description>
+  <MU_MechChip_Aiming_C.label>chip de mira nível C</MU_MechChip_Aiming_C.label>
+  <MU_MechChip_Aiming_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a velocidade de mira.</MU_MechChip_Aiming_S.description>
+  <MU_MechChip_Aiming_S.label>chip de mira nível S</MU_MechChip_Aiming_S.label>
+  <MU_MechChip_Dodge_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a chance de esquiva em combate corporal.</MU_MechChip_Dodge_A.description>
+  <MU_MechChip_Dodge_A.label>chip de esquiva nível A</MU_MechChip_Dodge_A.label>
+  <MU_MechChip_Dodge_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta moderadamente a chance de esquiva em combate corporal.</MU_MechChip_Dodge_B.description>
+  <MU_MechChip_Dodge_B.label>chip de esquiva nível B</MU_MechChip_Dodge_B.label>
+  <MU_MechChip_Dodge_C.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta ligeiramente a chance de esquiva em combate corporal.</MU_MechChip_Dodge_C.description>
+  <MU_MechChip_Dodge_C.label>chip de esquiva nível C</MU_MechChip_Dodge_C.label>
+  <MU_MechChip_Dodge_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a chance de esquiva em combate corporal.</MU_MechChip_Dodge_S.description>
+  <MU_MechChip_Dodge_S.label>chip de esquiva nível S</MU_MechChip_Dodge_S.label>
+  <MU_MechChip_Energy_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Reduz bastante o consumo de energia.</MU_MechChip_Energy_A.description>
+  <MU_MechChip_Energy_A.label>chip de energia nível A</MU_MechChip_Energy_A.label>
+  <MU_MechChip_Energy_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Reduz moderadamente o consumo de energia.</MU_MechChip_Energy_B.description>
+  <MU_MechChip_Energy_B.label>chip de energia nível B</MU_MechChip_Energy_B.label>
+  <MU_MechChip_Energy_C.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Reduz consideravelmente o consumo de energia.</MU_MechChip_Energy_C.description>
+  <MU_MechChip_Energy_C.label>chip de energia nível C</MU_MechChip_Energy_C.label>
+  <MU_MechChip_Energy_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Reduz bastante o consumo de energia.</MU_MechChip_Energy_S.description>
+  <MU_MechChip_Energy_S.label>chip de energia nível S</MU_MechChip_Energy_S.label>
+  <MU_MechChip_GastroAnalize_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta a velocidade de cozimento e previne intoxicação alimentar.</MU_MechChip_GastroAnalize_A.description>
+  <MU_MechChip_GastroAnalize_A.label>chip gastroanalítico nível A</MU_MechChip_GastroAnalize_A.label>
+  <MU_MechChip_GastroAnalize_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta a velocidade de cozimento e reduz a chance de intoxicação alimentar.</MU_MechChip_GastroAnalize_B.description>
+  <MU_MechChip_GastroAnalize_B.label>chip gastroanalítico nível B</MU_MechChip_GastroAnalize_B.label>
+  <MU_MechChip_GastroAnalize_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta a velocidade de cozimento e previne intoxicação alimentar.</MU_MechChip_GastroAnalize_S.description>
+  <MU_MechChip_GastroAnalize_S.label>chip gastroanalítico nível S</MU_MechChip_GastroAnalize_S.label>
+  <MU_MechChip_Medical_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante todas as características médicas.</MU_MechChip_Medical_A.description>
+  <MU_MechChip_Medical_A.label>chip médico nível A</MU_MechChip_Medical_A.label>
+  <MU_MechChip_Medical_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta moderadamente todas as características médicas.</MU_MechChip_Medical_B.description>
+  <MU_MechChip_Medical_B.label>chip médico nível B</MU_MechChip_Medical_B.label>
+  <MU_MechChip_Medical_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante todas as características médicas.</MU_MechChip_Medical_S.description>
+  <MU_MechChip_Medical_S.label>chip médico nível S</MU_MechChip_Medical_S.label>
+  <MU_MechChip_Melee_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a chance de acertar em combate corporal.</MU_MechChip_Melee_A.description>
+  <MU_MechChip_Melee_A.label>chip de corpo a corpo nível A</MU_MechChip_Melee_A.label>
+  <MU_MechChip_Melee_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta moderadamente a chance de acertar em combate corporal.</MU_MechChip_Melee_B.description>
+  <MU_MechChip_Melee_B.label>chip de corpo a corpo nível B</MU_MechChip_Melee_B.label>
+  <MU_MechChip_Melee_C.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta ligeiramente a chance de acertar em combate corporal.</MU_MechChip_Melee_C.description>
+  <MU_MechChip_Melee_C.label>chip de corpo a corpo nível C</MU_MechChip_Melee_C.label>
+  <MU_MechChip_Melee_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a chance de acertar em combate corporal.</MU_MechChip_Melee_S.description>
+  <MU_MechChip_Melee_S.label>chip de corpo a corpo nível S</MU_MechChip_Melee_S.label>
+  <MU_MechChip_Production_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta a velocidade de trabalho e a qualidade dos itens criados pelo mecanoide.</MU_MechChip_Production_A.description>
+  <MU_MechChip_Production_A.label>chip de produção nível A</MU_MechChip_Production_A.label>
+  <MU_MechChip_Production_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta a velocidade de trabalho.</MU_MechChip_Production_B.description>
+  <MU_MechChip_Production_B.label>chip de produção nível B</MU_MechChip_Production_B.label>
+  <MU_MechChip_Production_S.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta a velocidade de trabalho e a qualidade dos itens criados pelo mecanoide.</MU_MechChip_Production_S.description>
+  <MU_MechChip_Production_S.label>chip de produção nível S</MU_MechChip_Production_S.label>
+  <MU_MechChip_Range_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante o alcance de armas à distância.</MU_MechChip_Range_A.description>
+  <MU_MechChip_Range_A.label>chip de aumento de alcance nível A</MU_MechChip_Range_A.label>
+  <MU_MechChip_Range_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta moderadamente o alcance de armas à distância.</MU_MechChip_Range_B.description>
+  <MU_MechChip_Range_B.label>chip de aumento de alcance nível B</MU_MechChip_Range_B.label>
+  <MU_MechChip_Range_C.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta ligeiramente o alcance de armas à distância.</MU_MechChip_Range_C.description>
+  <MU_MechChip_Range_C.label>chip de aumento de alcance nível C</MU_MechChip_Range_C.label>
+  <MU_MechChip_Ranged_A.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta bastante a precisão de tiro.</MU_MechChip_Ranged_A.description>
+  <MU_MechChip_Ranged_A.label>chip de precisão nível A</MU_MechChip_Ranged_A.label>
+  <MU_MechChip_Ranged_B.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta moderadamente a precisão de tiro.</MU_MechChip_Ranged_B.description>
+  <MU_MechChip_Ranged_B.label>chip de precisão nível B</MU_MechChip_Ranged_B.label>
+  <MU_MechChip_Ranged_C.description>Um pequeno chip que pode ser instalado no cérebro de um mecanoide. Aumenta ligeiramente a precisão de tiro.</MU_MechChip_Ranged_C.description>
+  <MU_MechChip_Ranged_C.label>chip de precisão nível C</MU_MechChip_Ranged_C.label>
+  <MU_MechChip_Ranged_S.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a precisão de tiro.</MU_MechChip_Ranged_S.description>
+  <MU_MechChip_Ranged_S.label>chip de precisão nível S</MU_MechChip_Ranged_S.label>
+  <MU_MechChip_Reload_A.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a velocidade de recarga.</MU_MechChip_Reload_A.description>
+  <MU_MechChip_Reload_A.label>chip de recarga nível A</MU_MechChip_Reload_A.label>
+  <MU_MechChip_Reload_B.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta moderadamente a velocidade de recarga.</MU_MechChip_Reload_B.description>
+  <MU_MechChip_Reload_B.label>chip de recarga nível B</MU_MechChip_Reload_B.label>
+  <MU_MechChip_Reload_C.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta levemente a velocidade de recarga.</MU_MechChip_Reload_C.description>
+  <MU_MechChip_Reload_C.label>chip de recarga nível C</MU_MechChip_Reload_C.label>
+  <MU_MechChip_Reload_S.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a velocidade de recarga.</MU_MechChip_Reload_S.description>
+  <MU_MechChip_Reload_S.label>chip de recarga nível S</MU_MechChip_Reload_S.label>
+  <MU_MechChip_Speed_A.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a velocidade de movimento.</MU_MechChip_Speed_A.description>
+  <MU_MechChip_Speed_A.label>chip de velocidade nível A</MU_MechChip_Speed_A.label>
+  <MU_MechChip_Speed_B.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta moderadamente a velocidade de movimento.</MU_MechChip_Speed_B.description>
+  <MU_MechChip_Speed_B.label>chip de velocidade nível B</MU_MechChip_Speed_B.label>
+  <MU_MechChip_Speed_C.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta levemente a velocidade de movimento.</MU_MechChip_Speed_C.description>
+  <MU_MechChip_Speed_C.label>chip de velocidade nível C</MU_MechChip_Speed_C.label>
+  <MU_MechChip_Speed_S.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a velocidade de movimento.</MU_MechChip_Speed_S.description>
+  <MU_MechChip_Speed_S.label>chip de velocidade nível S</MU_MechChip_Speed_S.label>
+  <MU_MechChip_Work_A.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a velocidade de trabalho.</MU_MechChip_Work_A.description>
+  <MU_MechChip_Work_A.label>chip de trabalho nível A</MU_MechChip_Work_A.label>
+  <MU_MechChip_Work_B.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta moderadamente a velocidade de trabalho.</MU_MechChip_Work_B.description>
+  <MU_MechChip_Work_B.label>chip de trabalho nível B</MU_MechChip_Work_B.label>
+  <MU_MechChip_Work_C.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta levemente a velocidade de trabalho.</MU_MechChip_Work_C.description>
+  <MU_MechChip_Work_C.label>chip de trabalho nível C</MU_MechChip_Work_C.label>
+  <MU_MechChip_Work_S.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. Aumenta bastante a velocidade de trabalho.</MU_MechChip_Work_S.description>
+  <MU_MechChip_Work_S.label>chip de trabalho nível S</MU_MechChip_Work_S.label>
+  <MU_MedicineKit.description>Um kit de primeiros socorros que pode ser instalado no mecanoide. Pode ser usado para tratar criaturas vivas.</MU_MedicineKit.description>
+  <MU_MedicineKit.label>kit médico</MU_MedicineKit.label>
+  <MU_MiniTurret.description>Pequena torreta de defesa que pode ser montada no mecanoide. Tem menor alcance e precisão do que as variantes estacionárias.</MU_MiniTurret.description>
+  <MU_MiniTurret.label>mini-torreta</MU_MiniTurret.label>
+  <MU_Module_Melee_A.description>Um módulo especial, que pode ser instalado no mecanoide, aumentando bastante o dano corpo a corpo.</MU_Module_Melee_A.description>
+  <MU_Module_Melee_A.label>módulo de dano corpo a corpo nível A</MU_Module_Melee_A.label>
+  <MU_Module_Melee_B.description>Um módulo especial, que pode ser instalado no mecanoide, aumentando moderadamente o dano corpo a corpo.</MU_Module_Melee_B.description>
+  <MU_Module_Melee_B.label>módulo de dano corpo a corpo nível B</MU_Module_Melee_B.label>
+  <MU_Module_Melee_C.description>Um módulo especial, que pode ser instalado no mecanoide, aumentando levemente o dano corpo a corpo.</MU_Module_Melee_C.description>
+  <MU_Module_Melee_C.label>módulo de dano corpo a corpo nível C</MU_Module_Melee_C.label>
+  <MU_Module_Melee_S.description>Um módulo especial, que pode ser instalado no mecanoide, aumentando bastante o dano corpo a corpo.</MU_Module_Melee_S.description>
+  <MU_Module_Melee_S.label>módulo de dano corpo a corpo nível S</MU_Module_Melee_S.label>
+  <MU_Module_Ranged_A.description>Um módulo especial, que pode ser instalado no sistema de controle de munição do mecanoide, aumentando bastante o dano à distância.</MU_Module_Ranged_A.description>
+  <MU_Module_Ranged_A.label>módulo de dano à distância nível A</MU_Module_Ranged_A.label>
+  <MU_Module_Ranged_B.description>Um módulo especial, que pode ser instalado no sistema de controle de munição do mecanoide, aumentando moderadamente o dano à distância.</MU_Module_Ranged_B.description>
+  <MU_Module_Ranged_B.label>módulo de dano à distância nível B</MU_Module_Ranged_B.label>
+  <MU_Module_Ranged_C.description>Um módulo especial, que pode ser instalado no sistema de controle de munição do mecanoide, aumentando levemente o dano à distância.</MU_Module_Ranged_C.description>
+  <MU_Module_Ranged_C.label>módulo de dano à distância nível C</MU_Module_Ranged_C.label>
+  <MU_Module_Ranged_S.description>Um módulo especial, que pode ser instalado no sistema de controle de munição do mecanoide, aumentando bastante o dano à distância.</MU_Module_Ranged_S.description>
+  <MU_Module_Ranged_S.label>módulo de dano à distância nível S</MU_Module_Ranged_S.label>
+  <MU_Module_Repair_A.description>Um módulo especial, que pode ser instalado no sistema de reparo do mecanoide, tornando-o mais eficiente.</MU_Module_Repair_A.description>
+  <MU_Module_Repair_A.label>módulo de reparo nível A</MU_Module_Repair_A.label>
+  <MU_Module_Repair_B.description>Um módulo especial, que pode ser instalado no sistema de reparo do mecanoide, tornando-o mais eficiente.</MU_Module_Repair_B.description>
+  <MU_Module_Repair_B.label>módulo de reparo nível B</MU_Module_Repair_B.label>
+  <MU_Module_Repair_C.description>Um módulo especial, que pode ser instalado no sistema de reparo do mecanoide, tornando-o mais eficiente.</MU_Module_Repair_C.description>
+  <MU_Module_Repair_C.label>módulo de reparo nível C</MU_Module_Repair_C.label>
+  <MU_Module_Repair_S.description>Um módulo especial, que pode ser instalado no sistema de reparo do mecanoide, tornando-o mais eficiente.</MU_Module_Repair_S.description>
+  <MU_Module_Repair_S.label>módulo de reparo nível S</MU_Module_Repair_S.label>
+  <MU_Module_Robust.description>Um módulo especial, que pode ser instalado no mecanoide, aumentando sua durabilidade.</MU_Module_Robust.description>
+  <MU_Module_Robust.label>módulo de durabilidade</MU_Module_Robust.label>
+  <MU_Module_Shield_A.description>Um módulo especial, que pode ser instalado no núcleo de escudo do mecanoide, aumentando bastante a energia máxima.</MU_Module_Shield_A.description>
+  <MU_Module_Shield_A.label>módulo de escudo nível A</MU_Module_Shield_A.label>
+  <MU_Module_Shield_B.description>Um módulo especial, que pode ser instalado no núcleo de escudo do mecanoide, aumentando moderadamente a energia máxima.</MU_Module_Shield_B.description>
+  <MU_Module_Shield_B.label>módulo de escudo nível B</MU_Module_Shield_B.label>
+  <MU_Module_Shield_C.description>Um módulo especial, que pode ser instalado no núcleo de escudo do mecanoide, aumentando levemente a energia máxima.</MU_Module_Shield_C.description>
+  <MU_Module_Shield_C.label>módulo de escudo nível C</MU_Module_Shield_C.label>
+  <MU_Module_Shield_S.description>Um módulo especial, que pode ser instalado no núcleo de escudo do mecanoide, aumentando bastante a energia máxima.</MU_Module_Shield_S.description>
+  <MU_Module_Shield_S.label>módulo de escudo nível S</MU_Module_Shield_S.label>
+  <MU_PropulsorAmplifier.description>Amplificador para o motor de propulsão do mecanoide. Aumenta a velocidade e a massa transportada, mas também consome energia adicional.</MU_PropulsorAmplifier.description>
+  <MU_PropulsorAmplifier.label>amplificador de propulsão</MU_PropulsorAmplifier.label>
+  <MU_RemoteControlChip.description>Um chip pequeno, que pode ser instalado no cérebro do mecanoide. O mecanoide com ele pode ser controlado mesmo fora do alcance de comando do mecanizador.</MU_RemoteControlChip.description>
+  <MU_RemoteControlChip.label>chip de controle remoto</MU_RemoteControlChip.label>
+  <MU_ShieldBooster.description>Um dispositivo descargador avançado que permite conduzir grande quantidade de energia no sistema de escudo, tornando-o muito mais resistente a danos por um curto período.\n\nO condutor principal entra em sobrecarga quando o dispositivo está ativo, portanto requer componentes para recarregar.\n\nO efeito escala com o tamanho corporal do mecanoide.</MU_ShieldBooster.description>
+  <MU_ShieldBooster.label>reforço de escudo</MU_ShieldBooster.label>
+  <MU_Shield_Large_A.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Large_A.description>
+  <MU_Shield_Large_A.label>escudo grande nível A</MU_Shield_Large_A.label>
+  <MU_Shield_Large_B.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Large_B.description>
+  <MU_Shield_Large_B.label>escudo grande nível B</MU_Shield_Large_B.label>
+  <MU_Shield_Large_C.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Large_C.description>
+  <MU_Shield_Large_C.label>escudo grande nível C</MU_Shield_Large_C.label>
+  <MU_Shield_Large_S.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Large_S.description>
+  <MU_Shield_Large_S.label>escudo grande nível S</MU_Shield_Large_S.label>
+  <MU_Shield_Medium_A.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Medium_A.description>
+  <MU_Shield_Medium_A.label>escudo médio nível A</MU_Shield_Medium_A.label>
+  <MU_Shield_Medium_B.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Medium_B.description>
+  <MU_Shield_Medium_B.label>escudo médio nível B</MU_Shield_Medium_B.label>
+  <MU_Shield_Medium_C.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Medium_C.description>
+  <MU_Shield_Medium_C.label>escudo médio nível C</MU_Shield_Medium_C.label>
+  <MU_Shield_Medium_S.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Medium_S.description>
+  <MU_Shield_Medium_S.label>escudo médio nível S</MU_Shield_Medium_S.label>
+  <MU_Shield_Small_A.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Small_A.description>
+  <MU_Shield_Small_A.label>escudo pequeno nível A</MU_Shield_Small_A.label>
+  <MU_Shield_Small_B.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Small_B.description>
+  <MU_Shield_Small_B.label>escudo pequeno nível B</MU_Shield_Small_B.label>
+  <MU_Shield_Small_C.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Small_C.description>
+  <MU_Shield_Small_C.label>escudo pequeno nível C</MU_Shield_Small_C.label>
+  <MU_Shield_Small_S.description>Um dispositivo de repulsão de projéteis que pode ser instalado no mecanoide. Tentará interceptar projéteis ou estilhaços, mas não faz nada contra ataques corpo a corpo. Desliga-se instantaneamente se atingido por EMP.</MU_Shield_Small_S.description>
+  <MU_Shield_Small_S.label>escudo pequeno nível S</MU_Shield_Small_S.label>
+  <MU_SmokePopPack.description>Um pacote utilitário para mecanoide. Quando ativado, libera uma nuvem de fumaça, obscurecendo os disparos recebidos e impedindo que as torretas travem no alvo.</MU_SmokePopPack.description>
+  <MU_SmokePopPack.label>pacote de espuma ignífuga</MU_SmokePopPack.label>
+  <MU_SystemMerger.description>Um dispositivo especial que pode ser instalado no mecanoide, permitindo conectar e mesclar sistemas com outro mecanoide, impulsionando seu processamento de dados e mobilidade, enquanto reduz o dano recebido ao atuar como reserva para subsistemas críticos. Se a conexão terminar prematuramente com a morte do transmissor, o receptor sofrerá uma grave disrupção de sistema.</MU_SystemMerger.description>
+  <MU_SystemMerger.label>fusor de sistemas</MU_SystemMerger.label>
+  <MU_UpgradePack_Militor.description>Pacote com diferentes melhorias para militor.\nTambém contém módulo de controle remoto que permite controlá-lo fora do alcance de comando do mecanizador.</MU_UpgradePack_Militor.description>
+  <MU_UpgradePack_Militor.label>pacote de melhorias para militor</MU_UpgradePack_Militor.label>
+  <MU_UpgradePack_Scyther.description>Pacote com diferentes melhorias para scyther.\nTambém contém módulo de controle remoto que permite controlá-lo fora do alcance de comando do mecanizador.</MU_UpgradePack_Scyther.description>
+  <MU_UpgradePack_Scyther.label>pacote de melhorias para scyther</MU_UpgradePack_Scyther.label>
+  <MU_UpgradePack_Tesseron.description>Pacote com diferentes melhorias para tesseron.\nTambém contém módulo de controle remoto que permite controlá-lo fora do alcance de comando do mecanizador.</MU_UpgradePack_Tesseron.description>
+  <MU_UpgradePack_Tesseron.label>pacote de melhorias para tesseron</MU_UpgradePack_Tesseron.label>
+  <MU_UrchinSpawner.description>Uma unidade mini-gestadora que pode criar ouriços de guerra. Requer aço para a gestação.</MU_UrchinSpawner.description>
+  <MU_UrchinSpawner.label>mini-gestador de ouriços</MU_UrchinSpawner.label>
+</LanguageData>

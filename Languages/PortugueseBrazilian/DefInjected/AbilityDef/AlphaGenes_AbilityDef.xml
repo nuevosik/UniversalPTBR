@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AG_AcidicDetonation.description>Faz com que uma torrente de ácido pressurizado seja expelida por todos os poros desta pessoa, criando uma explosão ácida que ferirá todos por perto. Não afetará o conjurador.</AG_AcidicDetonation.description>
+  <AG_AcidicDetonation.label>detonação ácida</AG_AcidicDetonation.label>
+  <AG_AdaptiveBiology.description>Remove um traço aleatório e adiciona um novo, também aleatório.</AG_AdaptiveBiology.description>
+  <AG_AdaptiveBiology.label>biologia adaptativa</AG_AdaptiveBiology.label>
+  <AG_BandwidthLoop.description>Cria psiquicamente um laço de realimentação na conexão de um mecanoide, sobrecarregando sua banda-larga e fazendo-o explodir, destruindo-se. Essa explosão danificará tudo por perto, com o alcance dependendo da banda-larga do mecanoide.</AG_BandwidthLoop.description>
+  <AG_BandwidthLoop.label>laço de banda-larga</AG_BandwidthLoop.label>
+  <AG_BansheeScream.description>Faz com que os alvos afetados sejam tomados pelo medo, reduzindo sua precisão de ataque e defesa por um curto período.</AG_BansheeScream.description>
+  <AG_BansheeScream.label>grito de banshee</AG_BansheeScream.label>
+  <AG_DestroyPocketPlane.description>Destrói o plano-bolso e tudo o que há dentro dele. AVISO: você pode abrir um novo plano-bolso, mas o original estará perdido para sempre.</AG_DestroyPocketPlane.description>
+  <AG_DestroyPocketPlane.label>destruir plano-bolso</AG_DestroyPocketPlane.label>
+  <AG_Detonation.description>Libera os gases aquecidos produzidos pelos processos internos desta pessoa. Isso cria uma onda de ar superaquecido que afetará os quadrados ao redor. Não afetará o conjurador.</AG_Detonation.description>
+  <AG_Detonation.label>detonação</AG_Detonation.label>
+  <AG_DevourBrains.description>Devora o cérebro de uma pessoa incapacitada, mas viva, absorvendo parte de sua inteligência e ganhando um benefício que depende da maior habilidade do cérebro devorado. Isso obviamente mata o alvo.\n\nApenas um benefício de "devorar" pode estar ativo por vez. Usar a habilidade antes que o contador de 2 dias se esgote atualiza o benefício e sua duração.</AG_DevourBrains.description>
+  <AG_DevourBrains.label>devorar cérebros</AG_DevourBrains.label>
+  <AG_EyeProjectile.description>É melhor não pensar muito nisso.</AG_EyeProjectile.description>
+  <AG_EyeProjectile.label>olho</AG_EyeProjectile.label>
+  <AG_FleshBulb.description>Lança um bulbo de carne luminoso que atua como um sinalizador de disrupção.</AG_FleshBulb.description>
+  <AG_FleshBulb.label>bulbo de carne</AG_FleshBulb.label>
+  <AG_FleshSack.description>Absorve uma besta de carne, destruindo-a e fortalecendo o conjurador por um curto período, além de curar parte de seus ferimentos.</AG_FleshSack.description>
+  <AG_FleshSack.label>absorver besta de carne</AG_FleshSack.label>
+  <AG_FreezingBreath.description>Expelha grandes quantidades de um fluido criogênico. Esse líquido congela tudo o que toca, causando queimaduras de frio e hipotermia.</AG_FreezingBreath.description>
+  <AG_FreezingBreath.label>hálito congelante</AG_FreezingBreath.label>
+  <AG_GeneSyphon.description>Extrai à força um gene de uma pessoa incapacitada, mas viva, incorporando-o ao xenótipo do conjurador como um xenogene. O gene é escolhido ao acaso. Isso matará o alvo.</AG_GeneSyphon.description>
+  <AG_GeneSyphon.label>sifão de genes</AG_GeneSyphon.label>
+  <AG_GreaterAcidicVomit.description>Regurgita ácidos estomacais especialmente fortes, pulverizando uma ampla área com seu conteúdo. Esses ácidos causarão ferimentos horríveis que pioram progressivamente à medida que consomem os tecidos subjacentes.</AG_GreaterAcidicVomit.description>
+  <AG_GreaterAcidicVomit.label>vômito ácido maior</AG_GreaterAcidicVomit.label>
+  <AG_GreaterFireSpew.description>Expelha bile inflamável gerada por um órgão especial no pescoço. A bile se inflama imediatamente em contato com o oxigênio, criando um incêndio perigoso que ateia fogo a tudo em seu caminho.</AG_GreaterFireSpew.description>
+  <AG_GreaterFireSpew.label>jato de fogo superior</AG_GreaterFireSpew.label>
+  <AG_GreyPocketPlane.description>Abre um link para um espaço extradimensional que só o conjurador pode acessar. Se lançado dentro do plano-bolso, trará o conjurador de volta ao mapa original, na mesma posição em que saiu ao entrar no plano-bolso.</AG_GreyPocketPlane.description>
+  <AG_GreyPocketPlane.label>plano-bolso cinza</AG_GreyPocketPlane.label>
+  <AG_HealingTouch.description>Reaproveita tumores existentes para curar outras pessoas, consumindo as massas cancerosas no processo.</AG_HealingTouch.description>
+  <AG_HealingTouch.label>toque curativo</AG_HealingTouch.label>
+  <AG_InsanityBlast.description>Ataca psiquicamente a mente de outras pessoas, fazendo com que enlouqueçam e ataquem todos ao redor sem distinção. Esta habilidade pode ser resistida por alvos com baixa sensibilidade psíquica.</AG_InsanityBlast.description>
+  <AG_InsanityBlast.label>rajada de loucura</AG_InsanityBlast.label>
+  <AG_InsectRally.description>Secreta uma nuvem de compostos feromoniais irresistíveis para todos os insetos. Eles se sentirão revigorados e fortalecidos quando perto do portador.</AG_InsectRally.description>
+  <AG_InsectRally.label>táticas de matilha</AG_InsectRally.label>
+  <AG_InsectStinger.description>Implanta os xenogenes desta pessoa em qualquer sujeito usando um ferrão injetor nojento.\n\nAo ser implantado, um xenogerme substituirá os xenogenes do alvo. Os genes germinativos não serão afetados.</AG_InsectStinger.description>
+  <AG_InsectStinger.label>picada de xenogenes</AG_InsectStinger.label>
+  <AG_InsectStingerEndogenes.description>Implanta os endogenes desta pessoa em qualquer sujeito usando um ferrão injetor nojento.\n\nAo ser implantada, uma linhagem germinativa substituirá os endogenes do alvo. Os xenogenes não serão afetados.</AG_InsectStingerEndogenes.description>
+  <AG_InsectStingerEndogenes.label>picada de endogenes</AG_InsectStingerEndogenes.label>
+  <AG_Invisibility.description>Altera psiquicamente os tons da pele para camuflagem em praticamente qualquer ambiente.</AG_Invisibility.description>
+  <AG_Invisibility.label>invisibilidade psíquica</AG_Invisibility.label>
+  <AG_MajorSummon.description>Invoca uma criatura que ficará por perto por um curto período. Será hostil a qualquer alvo hostil ao conjurador.</AG_MajorSummon.description>
+  <AG_MajorSummon.label>invocação maior</AG_MajorSummon.label>
+  <AG_MechConversion.description>Invasão remota dos sensores IFF de um mecanoide para trocar temporariamente sua lealdade. Isso durará um dia, após o qual o mecanoide voltará à sua lealdade anterior e atacará sem distinção.</AG_MechConversion.description>
+  <AG_MechConversion.label>embaralhador IFF de mecanoide</AG_MechConversion.label>
+  <AG_MineralOverdriveA.description>Drena minerais para aumentar a eficiência de trabalho do usuário.</AG_MineralOverdriveA.description>
+  <AG_MineralOverdriveA.label>sobrecarga mineral</AG_MineralOverdriveA.label>
+  <AG_MineralShock.description>Usa os minerais armazenados para atirar um torrão de solo concentrado. Isso causará trauma contundente no alvo.</AG_MineralShock.description>
+  <AG_MineralShock.label>choque mineral</AG_MineralShock.label>
+  <AG_MinorSummon.description>Invoca uma criatura que ficará por perto por um curto período. Será hostil a qualquer alvo hostil ao conjurador.</AG_MinorSummon.description>
+  <AG_MinorSummon.label>invocação menor</AG_MinorSummon.label>
+  <AG_NereidPocketPlane.description>Abre um link para um espaço extradimensional que só o conjurador pode acessar. Se lançado dentro do plano-bolso, trará o conjurador de volta ao mapa original, na mesma posição em que saiu ao entrar no plano-bolso.</AG_NereidPocketPlane.description>
+  <AG_NereidPocketPlane.label>plano-bolso nereid</AG_NereidPocketPlane.label>
+  <AG_NightlingAffinity.description>Doma instantaneamente um nightling. Sem comida, sem perguntas.</AG_NightlingAffinity.description>
+  <AG_NightlingAffinity.label>afinidade com nightling</AG_NightlingAffinity.label>
+  <AG_NoxiousBreath.description>Exala uma nuvem de vapores tóxicos que envolve os inimigos em um miasma sufocante. O fedor horrível força os alvos afetados a vomitar sem controle.</AG_NoxiousBreath.description>
+  <AG_NoxiousBreath.label>hálito tóxico</AG_NoxiousBreath.label>
+  <AG_OcularConversionAlphaAnimals.description>Converte a flora de uma área em versões oculares.</AG_OcularConversionAlphaAnimals.description>
+  <AG_OcularConversionAlphaAnimals.label>conversão ocular</AG_OcularConversionAlphaAnimals.label>
+  <AG_OcularConversionAlphaBiomes.description>Converte a flora de uma área em versões oculares.</AG_OcularConversionAlphaBiomes.description>
+  <AG_OcularConversionAlphaBiomes.label>conversão ocular</AG_OcularConversionAlphaBiomes.label>
+  <AG_ParasiticStinger.description>Implanta ovos com os xenogenes desta pessoa em qualquer sujeito usando um ferrão injetor nojento.\n\nAo serem implantados, os ovos começarão a crescer dentro do alvo e, eventualmente, irromperão e o matarão.</AG_ParasiticStinger.description>
+  <AG_ParasiticStinger.label>picada de ovos parasitas</AG_ParasiticStinger.label>
+  <AG_ParasiticStingerEndogenes.description>Implanta ovos com os endogenes desta pessoa em qualquer sujeito usando um ferrão injetor nojento.\n\nAo serem implantados, os ovos começarão a crescer dentro do alvo e, eventualmente, irromperão e o matarão.</AG_ParasiticStingerEndogenes.description>
+  <AG_ParasiticStingerEndogenes.label>picada de ovos parasitas endógenos</AG_ParasiticStingerEndogenes.label>
+  <AG_PetrifyingGaze.description>Dirige um olhar perigoso que tem o poder de transformar a vítima em pedra. Blá blá de mecanitos, sei lá. Olha, é ciência.</AG_PetrifyingGaze.description>
+  <AG_PetrifyingGaze.label>olhar petrificante</AG_PetrifyingGaze.label>
+  <AG_PsychicAbsorption.description>O conjurador absorve uma memória negativa de um alvo, até o limite de -40.\n\nA habilidade funciona com memórias, que são pensamentos que expiram com o tempo. Pensamentos situacionais, como "estar com dor terrível", não funcionam.</AG_PsychicAbsorption.description>
+  <AG_PsychicAbsorption.label>absorção psíquica</AG_PsychicAbsorption.label>
+  <AG_ReactiveArmourA.description>Consome minerais para endurecer o corpo do usuário contra ataques perfurantes e cortantes.</AG_ReactiveArmourA.description>
+  <AG_ReactiveArmourA.label>armadura reativa</AG_ReactiveArmourA.label>
+  <AG_SelfSkip.description>Teletransporta para uma posição desejada não muito distante do ponto de partida.</AG_SelfSkip.description>
+  <AG_SelfSkip.label>auto-salto</AG_SelfSkip.label>
+  <AG_SpeedBurst.description>Faz o conjurador se mover mais rápido por um curto período.</AG_SpeedBurst.description>
+  <AG_SpeedBurst.label>rajada de velocidade</AG_SpeedBurst.label>
+  <AG_SterilizingBreath.description>Expelha grandes quantidades de um líquido esterilizante. Isso destrói a praga das plantas, além de aumentar a taxa de ganho de imunidade às custas da fertilidade.</AG_SterilizingBreath.description>
+  <AG_SterilizingBreath.label>hálito esterilizante</AG_SterilizingBreath.label>
+  <AG_Summon.description>Invoca uma criatura que ficará por perto por um curto período. Será hostil a qualquer alvo hostil ao conjurador.</AG_Summon.description>
+  <AG_Summon.label>invocar</AG_Summon.label>
+  <AG_SummonCentipede.description>Invoca um mecanoide Centipede Blaster. Ele fará parte da colônia por um período de 1 dia e desaparecerá depois disso. O portador precisará de pelo menos 4 de banda-larga para usar esta habilidade.</AG_SummonCentipede.description>
+  <AG_SummonCentipede.label>invocar centopéia</AG_SummonCentipede.label>
+  <AG_SummonMilitor.description>Invoca um mecanoide Militor. Ele fará parte da colônia por um período de 1 dia e desaparecerá depois disso. O portador precisará de pelo menos 1 de banda-larga para usar esta habilidade.</AG_SummonMilitor.description>
+  <AG_SummonMilitor.label>invocar militor</AG_SummonMilitor.label>
+  <AG_SummonTempBandwidth.description>Invoca um nó de banda temporário que aumentará a banda-larga do conjurador em 10 por uma semana inteira.</AG_SummonTempBandwidth.description>
+  <AG_SummonTempBandwidth.label>invocar nó de banda</AG_SummonTempBandwidth.label>
+  <AG_SummonTesseron.description>Invoca um mecanoide Tesseron. Ele fará parte da colônia por um período de 1 dia e desaparecerá depois disso. O portador precisará de pelo menos 3 de banda-larga para usar esta habilidade.</AG_SummonTesseron.description>
+  <AG_SummonTesseron.label>invocar tesseron</AG_SummonTesseron.label>
+  <AG_SuperAdaptiveBiology.description>Remove cinco traços aleatórios e adiciona cinco novos, também aleatórios.</AG_SuperAdaptiveBiology.description>
+  <AG_SuperAdaptiveBiology.label>biologia superadaptativa</AG_SuperAdaptiveBiology.label>
+  <AG_TailGrapple.description>Ataca um alvo com uma cauda preênsil, agarrando-o e imobilizando-o por um curto período.</AG_TailGrapple.description>
+  <AG_TailGrapple.label>agarre com a cauda</AG_TailGrapple.label>
+  <AG_TeleportItemsPocketPlane.description>Transfere itens para o plano-bolso. Os itens podem ser transportados para um plano-bolso, mas não podem ser retirados dele!</AG_TeleportItemsPocketPlane.description>
+  <AG_TeleportItemsPocketPlane.label>transferir para plano-bolso</AG_TeleportItemsPocketPlane.label>
+  <AG_TentacleGrapple.description>Ataca um alvo com um tentáculo preênsil, agarrando-o e imobilizando-o por um curto período.</AG_TentacleGrapple.description>
+  <AG_TentacleGrapple.label>agarre com tentáculo</AG_TentacleGrapple.label>
+  <AG_TeratogenicBurst.description>Transfere tumores existentes para outras pessoas, o que costuma ser tão doloroso e perigoso quanto parece. Pode ser usado como ferramenta ofensiva ou como forma de transferir tumores para outros colonos.</AG_TeratogenicBurst.description>
+  <AG_TeratogenicBurst.label>toque teratogênico</AG_TeratogenicBurst.label>
+  <AG_TeratogenicHealing.description>Reaproveita tumores existentes para curar o alvo, consumindo as massas cancerosas no processo.</AG_TeratogenicHealing.description>
+  <AG_TeratogenicHealing.label>cura teratogênica</AG_TeratogenicHealing.label>
+  <AG_TeratogenicManipulation.description>Reaproveita tumores existentes para dar um enorme impulso à manipulação e à destreza.</AG_TeratogenicManipulation.description>
+  <AG_TeratogenicManipulation.label>coordenação teratogênica</AG_TeratogenicManipulation.label>
+  <AG_TeratogenicStamina.description>Reaproveita tumores existentes para dar um enorme impulso ao sistema imunológico e à resistência geral.</AG_TeratogenicStamina.description>
+  <AG_TeratogenicStamina.label>resistência teratogênica</AG_TeratogenicStamina.label>
+  <AG_TeratogenicSwiftness.description>Reaproveita tumores existentes para dar um enorme impulso à velocidade de movimento e de trabalho.</AG_TeratogenicSwiftness.description>
+  <AG_TeratogenicSwiftness.label>rapidez teratogênica</AG_TeratogenicSwiftness.label>
+  <AG_UnstableMind.description>Ataca psiquicamente as mentes de outras pessoas, causando instabilidade mental que as torna mais propensas a crises e aumentando muito sua sensibilidade psíquica. Este efeito dura três horas e pode ser usado em alvos hostis e amigáveis.</AG_UnstableMind.description>
+  <AG_UnstableMind.label>mente instável</AG_UnstableMind.label>
+  <AG_UnstableMutation.description>Força uma mutação instável no corpo do conjurador. Essa mutação ativará um novo gene aleatório por 12 horas. Após esse período, o gene será desativado.</AG_UnstableMutation.description>
+  <AG_UnstableMutation.label>mutação instável</AG_UnstableMutation.label>
+  <AG_UnstableRegeneration.description>Cura todos os ferimentos não permanentes, mas envelhece o usuário em 7 anos a cada uso. Se o usuário envelhecer além de sua expectativa de vida com esta habilidade, ele morrerá.</AG_UnstableRegeneration.description>
+  <AG_UnstableRegeneration.label>regeneração instável</AG_UnstableRegeneration.label>
+  <AG_Web.description>Produz fios de seda pegajosa nos pulsos e lança essas teias à vontade, atordoando os inimigos.</AG_Web.description>
+  <AG_Web.label>teia</AG_Web.label>
+  <AG_WingPoweredJump.description>Bate as asas para dar um salto curto.</AG_WingPoweredJump.description>
+  <AG_WingPoweredJump.label>salto com asas</AG_WingPoweredJump.label>
+  <AG_Zap.description>Acumula energia e a libera em uma poderosa descarga elétrica que eletrocuta o alvo.</AG_Zap.description>
+  <AG_Zap.label>descarga elétrica</AG_Zap.label>
+  <VRE_StrikeEyes.description>Faz psiquicamente com que o humor vítreo dos olhos do alvo aqueça até o ponto de ebulição, destruindo-os e deixando a pobre vítima cega para sempre.</VRE_StrikeEyes.description>
+  <VRE_StrikeEyes.label>atingir olhos</VRE_StrikeEyes.label>
+  <VRE_SummonOcularSlinger.description>Invoca um ocular slinger sob o controle do conjurador. Este animal é um animal permanente da colônia e pode ser alistado. Um novo escorpião pode ser invocado se o anterior for morto.</VRE_SummonOcularSlinger.description>
+  <VRE_SummonOcularSlinger.label>invocar ocular slinger</VRE_SummonOcularSlinger.label>
+</LanguageData>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AB_AnimalSporesAllergy.description>Este animal desenvolveu uma forte alergia a esporos transportados pelo ar e/ou pólen de plantas. Essa alergia dificulta a respiração, mas vai passar (por enquanto) se tratada adequadamente.</AB_AnimalSporesAllergy.description>
+  <AB_AnimalSporesAllergy.label>alergia</AB_AnimalSporesAllergy.label>
+  <AB_AnimalSporesAllergy.stages.0.label>leve</AB_AnimalSporesAllergy.stages.0.label>
+  <AB_AnimalSporesAllergy.stages.1.label>grave</AB_AnimalSporesAllergy.stages.1.label>
+  <AB_AnimalSporesAllergy.stages.2.label>extremo</AB_AnimalSporesAllergy.stages.2.label>
+  <AB_AnimalTentacle.description>Um tentáculo de carne eldritch de animal instalado. Um tentáculo carnoso e musculoso que se assemelha a uma transformação parcial em uma besta de carne.</AB_AnimalTentacle.description>
+  <AB_AnimalTentacle.label>tentáculo de carne eldritch animal</AB_AnimalTentacle.label>
+  <AB_AnimalTentacle.labelNoun>um tentáculo de carne eldritch animal</AB_AnimalTentacle.labelNoun>
+  <AB_BacterialGangrene.description>Uma doença bacteriana de crescimento rápido que causa gangrena, com a pele escurecendo e caindo progressivamente. Se tratada adequadamente, será curada em 3-4 dias. Mesmo com tratamento, o colono pode perder um ou dois dedos do pé ou da mão.</AB_BacterialGangrene.description>
+  <AB_BacterialGangrene.label>gangrena bacteriana</AB_BacterialGangrene.label>
+  <AB_BacterialGangrene.stages.0.label>leve</AB_BacterialGangrene.stages.0.label>
+  <AB_BacterialGangrene.stages.1.label>grave</AB_BacterialGangrene.stages.1.label>
+  <AB_BacterialGangrene.stages.2.label>extremo</AB_BacterialGangrene.stages.2.label>
+  <AB_CandySandInEyes.description>Areia de biscoito nos olhos. Prejudica a visão, mas pode ser removida em alguns instantes.</AB_CandySandInEyes.description>
+  <AB_CandySandInEyes.label>areia de biscoito</AB_CandySandInEyes.label>
+  <AB_CandySandInEyes.labelNoun>areia de biscoito</AB_CandySandInEyes.labelNoun>
+  <AB_ChocolateInEyes.description>Chocolate nos olhos. Prejudica a visão, mas pode ser removido em alguns instantes.</AB_ChocolateInEyes.description>
+  <AB_ChocolateInEyes.label>chocolate</AB_ChocolateInEyes.label>
+  <AB_ChocolateInEyes.labelNoun>chocolate</AB_ChocolateInEyes.labelNoun>
+  <AB_CreamInEyes.description>Creme batido nos olhos. Prejudica a visão, mas pode ser removido em alguns instantes.</AB_CreamInEyes.description>
+  <AB_CreamInEyes.label>creme batido</AB_CreamInEyes.label>
+  <AB_CreamInEyes.labelNoun>creme batido</AB_CreamInEyes.labelNoun>
+  <AB_Exploder.description>Nódulos de combustível químico farão esta criatura explodir quando morta.</AB_Exploder.description>
+  <AB_Exploder.label>nódulos de combustível químico</AB_Exploder.label>
+  <AB_Gangrene.description>Morte de tecido corporal por falta de fluxo sanguíneo ou por uma infecção bacteriana grave.</AB_Gangrene.description>
+  <AB_Gangrene.label>gangrena</AB_Gangrene.label>
+  <AB_MalevolentEye.description>Um olho malévolo e avermelhado está emergindo desta ferida, piscando e olhando ao redor de forma desvairada. Sem tratamento, causará apodrecimento do tecido local e, eventualmente, envenenamento do sangue e morte. No entanto, ele permitirá que o afetado veja através dele.</AB_MalevolentEye.description>
+  <AB_MalevolentEye.label>olho malévolo</AB_MalevolentEye.label>
+  <AB_MalevolentEye.labelNoun>um olho malévolo</AB_MalevolentEye.labelNoun>
+  <AB_MalevolentEye.stages.0.label>leve</AB_MalevolentEye.stages.0.label>
+  <AB_MalevolentEye.stages.1.label>grave</AB_MalevolentEye.stages.1.label>
+  <AB_MalevolentEye.stages.2.label>extremo</AB_MalevolentEye.stages.2.label>
+  <AB_MalevolentEye.stages.3.label>extremo</AB_MalevolentEye.stages.3.label>
+  <AB_Paralysis.description>Uma neurotoxina de ação rápida corre pelas veias desta criatura, paralisando seus músculos. O efeito passará depois de um tempo.</AB_Paralysis.description>
+  <AB_Paralysis.label>paralisia por neurotoxina</AB_Paralysis.label>
+  <AB_Paralysis.stages.0.label>inicial</AB_Paralysis.stages.0.label>
+  <AB_Paralysis.stages.1.label>atordoado</AB_Paralysis.stages.1.label>
+  <AB_Paralysis.stages.2.label>muito atordoado</AB_Paralysis.stages.2.label>
+  <AB_Paralysis.stages.3.label>paralisado</AB_Paralysis.stages.3.label>
+  <AB_PsychotropicFungusAddiction.description>Vício químico em fungo psicotrópico. O uso prolongado de fungo psicotrópico causou adaptações neurológicas no nível celular, de modo que o cérebro já não consegue funcionar adequadamente sem a droga.\n\nSem doses regulares de fungo psicotrópico, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</AB_PsychotropicFungusAddiction.description>
+  <AB_PsychotropicFungusAddiction.label>vício em fungo psicotrópico</AB_PsychotropicFungusAddiction.label>
+  <AB_PsychotropicFungusAddiction.stages.1.label>abstinência</AB_PsychotropicFungusAddiction.stages.1.label>
+  <AB_PsychotropicFungusHigh.description>Fungo psicotrópico ativo na corrente sanguínea. Ele melhora a consciência e reduz a necessidade de descanso.</AB_PsychotropicFungusHigh.description>
+  <AB_PsychotropicFungusHigh.label>euforia por fungo psicotrópico</AB_PsychotropicFungusHigh.label>
+  <AB_PsychotropicFungusTolerance.description>Tolerância acumulada ao fungo psicotrópico. Quanto mais grave essa tolerância, mais fungo psicotrópico é necessário para obter o mesmo efeito.</AB_PsychotropicFungusTolerance.description>
+  <AB_PsychotropicFungusTolerance.label>tolerância ao fungo psicotrópico</AB_PsychotropicFungusTolerance.label>
+  <AB_Quicksand.description>Movendo-se pela areia movediça. Reduz muito a velocidade de movimento.</AB_Quicksand.description>
+  <AB_Quicksand.label>atravessando areia movediça</AB_Quicksand.label>
+  <AB_RavagingIntestinalParasites.description>Uma tênia geneticamente modificada e devastadora infectou esta pessoa.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt; A gravidade aumentará se não houver tratamento. Desaparecerá após uma qualidade total de cuidados de 3.</AB_RavagingIntestinalParasites.description>
+  <AB_RavagingIntestinalParasites.label>parasitas intestinais devastadores</AB_RavagingIntestinalParasites.label>
+  <AB_RavagingIntestinalParasites.stages.0.label>leve</AB_RavagingIntestinalParasites.stages.0.label>
+  <AB_RavagingIntestinalParasites.stages.1.label>grave</AB_RavagingIntestinalParasites.stages.1.label>
+  <AB_RavagingIntestinalParasites.stages.2.label>extremo</AB_RavagingIntestinalParasites.stages.2.label>
+  <AB_RawRimeNodulesHigh.description>Nódulos de geada crus estão cheios de um composto de propano processado naturalmente que é levemente eufórico para humanos, semelhante ao etanol. Quimicamente falando, isso é improvável, sugerindo uma origem não natural para esta estranha flora.</AB_RawRimeNodulesHigh.description>
+  <AB_RawRimeNodulesHigh.label>euforia por nódulos de geada crus</AB_RawRimeNodulesHigh.label>
+  <AB_ResonanceSoothe.description>O colono é afetado subconscientemente pelas harmônicas de baixa frequência do receptor de ressonância mecanoide. Os sinais de estresse no cérebro são atenuados, aumentando a concentração e a estabilidade emocional.</AB_ResonanceSoothe.description>
+  <AB_ResonanceSoothe.label>acalmamento por ressonância</AB_ResonanceSoothe.label>
+  <AB_SlimeInEyes.description>O limo nos olhos deixa você cego por um tempo. Além disso, é nojento.</AB_SlimeInEyes.description>
+  <AB_SlimeInEyes.label>limo</AB_SlimeInEyes.label>
+  <AB_SlimeInEyes.labelNoun>limo</AB_SlimeInEyes.labelNoun>
+  <AB_SporesAllergy.description>Esta pessoa desenvolveu uma forte alergia a esporos transportados pelo ar e/ou pólen de plantas. Essa alergia dificulta a respiração, mas vai passar (por enquanto) se tratada adequadamente.</AB_SporesAllergy.description>
+  <AB_SporesAllergy.label>alergia</AB_SporesAllergy.label>
+  <AB_SporesAllergy.stages.0.label>leve</AB_SporesAllergy.stages.0.label>
+  <AB_SporesAllergy.stages.1.label>grave</AB_SporesAllergy.stages.1.label>
+  <AB_SporesAllergy.stages.2.label>extremo</AB_SporesAllergy.stages.2.label>
+  <AB_SporesAllergy_Heightened.description>Esta pessoa desenvolveu uma alergia muito forte a esporos transportados pelo ar e/ou pólen de plantas. Essa alergia dificulta a respiração, mas vai passar (por enquanto) se tratada adequadamente.</AB_SporesAllergy_Heightened.description>
+  <AB_SporesAllergy_Heightened.label>alergia agravada</AB_SporesAllergy_Heightened.label>
+  <AB_SporesAllergy_Heightened.stages.0.label>leve</AB_SporesAllergy_Heightened.stages.0.label>
+  <AB_SporesAllergy_Heightened.stages.1.label>grave</AB_SporesAllergy_Heightened.stages.1.label>
+  <AB_SporesAllergy_Heightened.stages.2.label>extremo</AB_SporesAllergy_Heightened.stages.2.label>
+  <AB_StrawberryInEyes.description>Sorvete de morango nos olhos. Prejudica a visão, mas pode ser removido em alguns instantes.</AB_StrawberryInEyes.description>
+  <AB_StrawberryInEyes.label>morango</AB_StrawberryInEyes.label>
+  <AB_StrawberryInEyes.labelNoun>morango</AB_StrawberryInEyes.labelNoun>
+  <AB_ViralAbasia.description>Muito provavelmente criado artificialmente como arma biológica, este vírus perverso ataca o córtex motor da vítima, acabando por deixar a pessoa imobilizada.\n\n&lt;color=#E5E54C&gt;Efeito de jogabilidade:&lt;/color&gt; Doença tratável e imunizável.</AB_ViralAbasia.description>
+  <AB_ViralAbasia.label>abasia viral</AB_ViralAbasia.label>
+  <AB_ViralAbasia.stages.0.label>leve</AB_ViralAbasia.stages.0.label>
+  <AB_ViralAbasia.stages.1.label>leve</AB_ViralAbasia.stages.1.label>
+  <AB_ViralAbasia.stages.2.label>grave</AB_ViralAbasia.stages.2.label>
+  <AB_ViralAbasia.stages.3.label>extremo</AB_ViralAbasia.stages.3.label>
+</LanguageData>

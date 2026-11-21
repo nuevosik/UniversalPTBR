@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdvancedAgrihand>agrihand avançado</AdvancedAgrihand>
+  <AdvancedCleansweeper>cleansweeper avançado</AdvancedCleansweeper>
+  <AdvancedConstructoid>constructoid avançado</AdvancedConstructoid>
+  <AdvancedFabricor>fabricor avançado</AdvancedFabricor>
+  <AdvancedLifter>lifter avançado</AdvancedLifter>
+  <AdvancedMechanoids>Mecanoides Avançados</AdvancedMechanoids>
+  <AdvancedMilitor>militor avançado</AdvancedMilitor>
+  <AdvancedParamedic>paramedic avançado</AdvancedParamedic>
+  <AdvancedTunneler>tunneler avançado</AdvancedTunneler>
+  <Bandwidth_Desc>A quantidade de banda-larga necessária para manter o {mech}. Os pacotes de resíduos gerados são multiplicados por 5x esse valor.\n\nPadrão: {default}</Bandwidth_Desc>
+  <Bandwidth_Title>Banda-larga</Bandwidth_Title>
+  <BasicMechtech>mecanotecnologia básica</BasicMechtech>
+  <CanHunt_Desc>Ativa tarefas de caça para o {mech}.\n\nPadrão: {default}</CanHunt_Desc>
+  <CanHunt_Title>Ativar tarefas de caça</CanHunt_Title>
+  <CarryCapacityMult_Desc>Multiplica a capacidade de carga do {mech} em relação à sua variante regular.\n\nPadrão: {default}</CarryCapacityMult_Desc>
+  <CarryCapacityMult_Title>Multiplicador de capacidade de carga</CarryCapacityMult_Title>
+  <CleaningSpeed_Desc>A velocidade de limpeza do {mech}. Esse valor é multiplicado pela velocidade global de trabalho.\n\nPadrão: {default}</CleaningSpeed_Desc>
+  <CleaningSpeed_Title>Velocidade de limpeza</CleaningSpeed_Title>
+  <ConstructionSpeed_Desc>A velocidade de construção do {mech}. Esse valor é multiplicado pela velocidade global de trabalho.\n\nPadrão: {default}</ConstructionSpeed_Desc>
+  <ConstructionSpeed_Title>Velocidade de construção</ConstructionSpeed_Title>
+  <Cost_ComponentIndustrial>Componente</Cost_ComponentIndustrial>
+  <Cost_ComponentSpacer>Componente avançado</Cost_ComponentSpacer>
+  <Cost_Plasteel>Plastiaço</Cost_Plasteel>
+  <Cost_Steel>Aço</Cost_Steel>
+  <Cost_SubcoreBasic>Subnúcleo básico</Cost_SubcoreBasic>
+  <Cost_SubcoreHigh>Subnúcleo avançado</Cost_SubcoreHigh>
+  <Cost_SubcoreRegular>Subnúcleo padrão</Cost_SubcoreRegular>
+  <FixedSkillLevel_Desc>O nível de habilidade do {mech}. Esta estatística não afeta a velocidade de trabalho.\n\nPadrão: {default}</FixedSkillLevel_Desc>
+  <FixedSkillLevel_Title>Nível de habilidade</FixedSkillLevel_Title>
+  <GestationCycles_Desc>A quantidade de ciclos de gestação necessários para gestar o {mech}.\n\nPadrão: {default}</GestationCycles_Desc>
+  <GestationCycles_Title>Ciclos de gestação</GestationCycles_Title>
+  <GlobalTechPrerequisite_Desc>A tecnologia de pesquisa necessária para gestar mecanoides avançados.\n\nPadrão: {default}.</GlobalTechPrerequisite_Desc>
+  <GlobalTechPrerequisite_Title>Tecnologia pré-requisito global</GlobalTechPrerequisite_Title>
+  <GlobalWorkSpeed_Desc>A velocidade global de trabalho do {mech}.\n\nPadrão: {default}</GlobalWorkSpeed_Desc>
+  <GlobalWorkSpeed_Title>Velocidade global de trabalho</GlobalWorkSpeed_Title>
+  <Header_AdvancedAgrihand>Agrihand avançado</Header_AdvancedAgrihand>
+  <Header_AdvancedCleansweeper>Cleansweeper avançado</Header_AdvancedCleansweeper>
+  <Header_AdvancedConstructoid>Constructoid avançado</Header_AdvancedConstructoid>
+  <Header_AdvancedFabricor>Fabricor avançado</Header_AdvancedFabricor>
+  <Header_AdvancedLifter>Lifter avançado</Header_AdvancedLifter>
+  <Header_AdvancedMilitor>Militor avançado</Header_AdvancedMilitor>
+  <Header_AdvancedParamedic>Paramedic avançado</Header_AdvancedParamedic>
+  <Header_AdvancedTunneler>Tunneler avançado</Header_AdvancedTunneler>
+  <Header_SpeedSublink>Subconexão de velocidade</Header_SpeedSublink>
+  <Header_UpgradeSublink>Subconexão de melhoria</Header_UpgradeSublink>
+  <HighMechtech>mecanotecnologia avançada</HighMechtech>
+  <MarketPriceMult_Desc>Multiplica o valor de mercado dos mecanoides avançados em relação às suas variantes regulares.\n\nPadrão: {default}.</MarketPriceMult_Desc>
+  <MarketPriceMult_Title>Multiplicador global de preço de mercado</MarketPriceMult_Title>
+  <Mechtech_BasicMechtech>mecanotecnologia básica</Mechtech_BasicMechtech>
+  <Mechtech_HighMechtech>mecanotecnologia avançada</Mechtech_HighMechtech>
+  <Mechtech_StandardMechtech>mecanotecnologia padrão</Mechtech_StandardMechtech>
+  <Mechtech_UltraMechtech>mecanotecnologia ultra</Mechtech_UltraMechtech>
+  <Mechtech_UseGlobalSetting>Usar configuração global</Mechtech_UseGlobalSetting>
+  <MedicalTendSpeed_Desc>A velocidade de tratamento médico do {mech}. Esse valor é multiplicado pela velocidade global de trabalho.\n\nPadrão: {default}</MedicalTendSpeed_Desc>
+  <MedicalTendSpeed_Title>Velocidade de tratamento médico</MedicalTendSpeed_Title>
+  <MiningSpeed_Desc>A velocidade de mineração (e a velocidade de perfuração profunda, se aplicável) do {mech}. Esse valor é multiplicado pela velocidade global de trabalho.\n\nPadrão: {default}</MiningSpeed_Desc>
+  <MiningSpeed_Title>Velocidade de mineração</MiningSpeed_Title>
+  <MoveSpeedMult_Desc>Multiplica a velocidade de movimento do {mech} em relação à sua variante regular.\n\nPadrão: {default}.</MoveSpeedMult_Desc>
+  <MoveSpeedMult_Title>Multiplicador de velocidade de movimento</MoveSpeedMult_Title>
+  <PlantWorkSpeed_Desc>A velocidade de trabalho com plantas do {mech}. Esse valor é multiplicado pela velocidade global de trabalho.\n\nPadrão: {default}</PlantWorkSpeed_Desc>
+  <PlantWorkSpeed_Title>Velocidade de trabalho com plantas</PlantWorkSpeed_Title>
+  <Recipe>Receita</Recipe>
+  <ResetDefaults>Restaurar padrões</ResetDefaults>
+  <ResetDefaults_Confirm>Tem certeza de que deseja redefinir todas as opções de Mecanoides Avançados aos valores padrão?</ResetDefaults_Confirm>
+  <ResetDefaults_Desc>Pressione isto para redefinir todas as opções aos seus valores padrão.</ResetDefaults_Desc>
+  <ShowRecipes_Desc>Mostrar configurações detalhadas das receitas dos mecanoides avançados.\n</ShowRecipes_Desc>
+  <ShowRecipes_Title>Mostrar configurações de receitas</ShowRecipes_Title>
+  <SpeedSublink>subconexão de velocidade</SpeedSublink>
+  <StandardMechtech>mecanotecnologia padrão</StandardMechtech>
+  <TechPrerequisite_Desc>A tecnologia que desbloqueia o {mech}.\n\nPadrão: {default}.\nAlterar isto requer reiniciar o jogo.</TechPrerequisite_Desc>
+  <TechPrerequisite_Title>Tecnologia pré-requisito</TechPrerequisite_Title>
+  <UltraMechtech>mecanotecnologia ultra</UltraMechtech>
+  <UpgradeSublink>subconexão de melhoria</UpgradeSublink>
+  <UseGlobalSetting>Usar configuração global</UseGlobalSetting>
+  <Wastepacks_Desc>A quantidade de pacotes de resíduos gerados pelo {mech}, multiplicada pela banda-larga.\n\nPadrão: {default}</Wastepacks_Desc>
+  <Wastepacks_Title>Pacotes de resíduos por banda-larga</Wastepacks_Title>
+</LanguageData>

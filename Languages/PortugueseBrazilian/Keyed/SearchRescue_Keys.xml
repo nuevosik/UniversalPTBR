@@ -22,7 +22,7 @@
   <SAR_Command_All>Tudo: captura + tratamento + resgate</SAR_Command_All>
   <SAR_ClearAllOrders>Limpar todas as ordens de Busca e Resgate ({0})</SAR_ClearAllOrders>
   <SAR_Treat_Label>Tratamento de campo</SAR_Treat_Label>
-  <SAR_Treat_Desc>Monitora colonos e animais não hostis para os cuidados de campo. Ferimentos com risco de vida são estabilizados primeiro; os demais usam uma faixa inferior dentro do Resgate de Campo. A aba Trabalho controla a ordem entre Resgate de Campo e Médico; o Resgate de Campo vence quando as prioridades configuradas coincidem. Combinado com o resgate, o monitoramento continua até a entrega segura e pode interromper o transporte se a vítima piorar. Mecanoides da colônia reparáveis recebem reparos nativos de mecanitores com Resgate de Campo e Metalurgia ativos, seguindo o controle de reparo automático.</SAR_Treat_Desc>
+  <SAR_Treat_Desc>Monitora colonos e animais não hostis para os cuidados de campo. Ferimentos com risco de vida são estabilizados primeiro; os demais usam uma faixa inferior dentro do Resgate de Campo. A aba Trabalho controla a ordem entre Resgate de Campo e Médico; o Resgate de Campo vence quando as prioridades configuradas coincidem. Combinado com o resgate, o monitoramento continua até a entrega segura e pode interromper o transporte se a vítima piorar. Mecanoides da colônia reparáveis recebem reparos nativos de mecanizadores com Resgate de Campo e Metalurgia ativos, seguindo o controle de reparo automático.</SAR_Treat_Desc>
   <SAR_Rescue_Label>Resgate de campo</SAR_Rescue_Label>
   <SAR_Rescue_Desc>Marca colonos caídos e animais não hostis para evacuação depois que as etapas marcadas anteriores terminarem. Usa uma cama adequada, incluindo camas de animais, ou o ponto de resgate definido no menu de clique direito desta ferramenta. Mecanoides da colônia caídos são entregues ao ponto de resgate.</SAR_Rescue_Desc>
   <SAR_Capture_Label>Capturar aqui</SAR_Capture_Label>
@@ -153,7 +153,7 @@
   <SAR_Compatibility_DmsMobileDragoon>Pilotos humanos usam tratamento e resgate normais. A manutenção do exotraje fica com o Exosuit Framework; combinações de equipamento aguardam testes focados.</SAR_Compatibility_DmsMobileDragoon>
   <SAR_Compatibility_DmsAncientCorps>Unidades reparáveis do jogador usam as regras de pacientes mecanoides. Automatroides de combate grandes e combinações de equipamento aguardam testes focados.</SAR_Compatibility_DmsAncientCorps>
   <SAR_Compatibility_DmsMotorized>Veículos estacionados do jogador expõem carga médica por meio do Vehicle Framework. Manutenção, embarque e tratamento a bordo do veículo usam os sistemas do veículo.</SAR_Compatibility_DmsMotorized>
-  <SAR_Compatibility_DmsJointOperations>Tarefas dedicadas de reparo de campo participam da posse de tratamento. O agendamento de trabalho nativo atribui reparos ao Tinker; o SAR atribui mecanitores a automatroides elegíveis de propriedade do jogador.</SAR_Compatibility_DmsJointOperations>
+  <SAR_Compatibility_DmsJointOperations>Tarefas dedicadas de reparo de campo participam da posse de tratamento. O agendamento de trabalho nativo atribui reparos ao Tinker; o SAR atribui mecanizadores a automatroides elegíveis de propriedade do jogador.</SAR_Compatibility_DmsJointOperations>
   <SAR_Compatibility_ComplexJobs>Lê a prioridade de trabalho de Enfermagem para os modos de resgate e cuidados de apoio. O tratamento comum usa Médico.</SAR_Compatibility_ComplexJobs>
   <SAR_Compatibility_SleekWorkPriorities>Lê as configurações por trabalho habilitadas do Sleek para o SAR e tarefas médicas nativas. Resgate em Campo e o tipo de trabalho do provedor mantêm suas permissões; as prioridades estendidas participam da correspondência.</SAR_Compatibility_SleekWorkPriorities>
   <SAR_Compatibility_YaOpt>Os lotes de seleção de trabalho que contêm tarefas do SAR são executados em série para preservar as atribuições de resgate e a propriedade dos recursos. Outros lotes de trabalho mantêm a verificação paralela.</SAR_Compatibility_YaOpt>
@@ -165,4 +165,6 @@
   <SAR_RescueAll_Hostile>Todos os inimigos caídos ({0})</SAR_RescueAll_Hostile>
   <SAR_RescueAll_Label>Resgatar todos</SAR_RescueAll_Label>
   <SAR_RescueAll_Result>Busca e Resgate: {0} colonos marcados.</SAR_RescueAll_Result>
+  <SAR_Compatibility_AsAboveSoBelow2>As estimativas de deslocamento para resgate e tratamento usam rotas pelas escadas entre os níveis.</SAR_Compatibility_AsAboveSoBelow2>
+  <SAR_Compatibility_Strata>Socorristas podem se deslocar até feridos em outro andar e carregá-los pelas escadas até uma cama.</SAR_Compatibility_Strata>
 </LanguageData>

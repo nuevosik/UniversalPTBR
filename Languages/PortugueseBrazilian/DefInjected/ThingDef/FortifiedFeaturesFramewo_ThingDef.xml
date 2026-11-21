@@ -29,4 +29,22 @@
   <FFF_ExportTool_ManTurret.label>ferramenta de torreta tripulada</FFF_ExportTool_ManTurret.label>
   <FFF_FlareShell.label>projétil sinalizador</FFF_FlareShell.label>
   <FFF_MinifiedTurret.comps.CompUsable.useLabel>Pegar {0_label}</FFF_MinifiedTurret.comps.CompUsable.useLabel>
+  <FFF_Example_Bullet_TurretAP.label>projétil de torreta perfurante de armadura</FFF_Example_Bullet_TurretAP.label>
+  <FFF_Example_Bullet_TurretShot.label>chumbo grosso de torreta</FFF_Example_Bullet_TurretShot.label>
+  <FFF_Example_Gun_AmmoSwitchTurret.description>Arma de torreta de exemplo com munição alternável.</FFF_Example_Gun_AmmoSwitchTurret.description>
+  <FFF_Example_Gun_AmmoSwitchTurret.label>arma de torreta com troca de munição</FFF_Example_Gun_AmmoSwitchTurret.label>
+  <FFF_Example_Turret_AmmoSwitch.description>Torreta de exemplo cuja arma pode alternar entre tipos de munição. Apenas para criação pelo desenvolvedor.</FFF_Example_Turret_AmmoSwitch.description>
+  <FFF_Example_Turret_AmmoSwitch.label>torreta com troca de munição (exemplo)</FFF_Example_Turret_AmmoSwitch.label>
+  <FFF_WallStructure_Corner.description>Um bloco com chanfro que preenche o canto onde duas paredes se encontram, suavizando o ângulo reto em uma diagonal limpa. Intransponível, como as paredes que une.</FFF_WallStructure_Corner.description>
+  <FFF_WallStructure_Corner.label>canto de parede com chanfro</FFF_WallStructure_Corner.label>
+  <FFF_WallStructure_CurveCornerL.description>Um bloco curvo e amplo que arredonda o canto de uma parede, voltando à esquerda. Intransponível, como as paredes que une.</FFF_WallStructure_CurveCornerL.description>
+  <FFF_WallStructure_CurveCornerL.label>canto de parede curvo (esquerda)</FFF_WallStructure_CurveCornerL.label>
+  <FFF_WallStructure_CurveCornerR.description>Um bloco curvo e amplo que arredonda o canto de uma parede, voltando à direita. Intransponível, como as paredes que une.</FFF_WallStructure_CurveCornerR.description>
+  <FFF_WallStructure_CurveCornerR.label>canto de parede curvo (direita)</FFF_WallStructure_CurveCornerR.label>
+  <FFF_WallStructure_OctaEnd.description>Uma tampa larga com chanfro que finaliza a ponta de uma parede com perfil octagonal. Intransponível, como as paredes que une.</FFF_WallStructure_OctaEnd.description>
+  <FFF_WallStructure_OctaEnd.label>ponta de parede octagonal</FFF_WallStructure_OctaEnd.label>
+  <FFF_WallStructure_SpikeEnd.description>Uma tampa afunilada que finaliza a ponta de uma parede com uma extremidade cada vez mais estreita. Intransponível, como as paredes que une.</FFF_WallStructure_SpikeEnd.description>
+  <FFF_WallStructure_SpikeEnd.label>ponta de parede afunilada</FFF_WallStructure_SpikeEnd.label>
+  <FFF_WallStructure_SpikeWideEnd.description>Uma tampa afunilada de duas unidades de largura que finaliza a ponta de uma parede dupla com uma extremidade cada vez mais estreita. Intransponível, como as paredes que une.</FFF_WallStructure_SpikeWideEnd.description>
+  <FFF_WallStructure_SpikeWideEnd.label>ponta de parede afunilada larga</FFF_WallStructure_SpikeWideEnd.label>
 </LanguageData>

@@ -29,4 +29,6 @@
   <VRE_SpecializedGene>Gene especializado</VRE_SpecializedGene>
   <VRE_SpecializedGeneDesc>Este gene só é herdado por filhos cujo feratipo contenha um gene desta família.</VRE_SpecializedGeneDesc>
   <VGE_StatsReport_InGreatPain>em dor intensa (&gt;20%)</VGE_StatsReport_InGreatPain>
+  <VRE_PreventSlaughter>Impedir abate</VRE_PreventSlaughter>
+  <VRE_PreventSlaughterDesc>Impede que este animal seja abatido pela designação de abate e pelo sistema de abate automático.</VRE_PreventSlaughterDesc>
 </LanguageData>

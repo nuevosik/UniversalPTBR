@@ -381,4 +381,95 @@
   <R3D_Settings_WeatherSizeTip>Tamanho dos flocos e gotas na tela. Eles não aumentam mais ao aproximar a câmera.</R3D_Settings_WeatherSizeTip>
   <R3D_Settings_WorkAnimations>Animações de trabalho com ferramentas</R3D_Settings_WorkAnimations>
   <R3D_Settings_WorkAnimationsTip>Machados, picaretas, martelos, foices, enxadas e vassouras enquanto os colonos trabalham.</R3D_Settings_WorkAnimationsTip>
+  <R3D_Binder_FaceAllSides>Aplicar às laterais</R3D_Binder_FaceAllSides>
+  <R3D_Binder_FaceEast>Leste</R3D_Binder_FaceEast>
+  <R3D_Binder_FaceMirror>Espelhar</R3D_Binder_FaceMirror>
+  <R3D_Binder_FaceModeEdge>Borda</R3D_Binder_FaceModeEdge>
+  <R3D_Binder_FaceModeMeanColour>Cor média</R3D_Binder_FaceModeMeanColour>
+  <R3D_Binder_FaceModeNone>Nenhum</R3D_Binder_FaceModeNone>
+  <R3D_Binder_FaceModeSprite>Sprite</R3D_Binder_FaceModeSprite>
+  <R3D_Binder_FaceModeSpriteEast>Sprite leste</R3D_Binder_FaceModeSpriteEast>
+  <R3D_Binder_FaceModeSpriteNorth>Sprite norte</R3D_Binder_FaceModeSpriteNorth>
+  <R3D_Binder_FaceModeSpriteSouth>Sprite sul</R3D_Binder_FaceModeSpriteSouth>
+  <R3D_Binder_FaceModeSpriteWest>Sprite oeste</R3D_Binder_FaceModeSpriteWest>
+  <R3D_Binder_FaceNorth>Norte</R3D_Binder_FaceNorth>
+  <R3D_Binder_FaceSouth>Sul</R3D_Binder_FaceSouth>
+  <R3D_Binder_FaceTagEast>E</R3D_Binder_FaceTagEast>
+  <R3D_Binder_FaceTagNorth>N</R3D_Binder_FaceTagNorth>
+  <R3D_Binder_FaceTagSouth>S</R3D_Binder_FaceTagSouth>
+  <R3D_Binder_FaceTagTop>T</R3D_Binder_FaceTagTop>
+  <R3D_Binder_FaceTagWest>W</R3D_Binder_FaceTagWest>
+  <R3D_Binder_FaceTop>Topo</R3D_Binder_FaceTop>
+  <R3D_Binder_FaceWest>Oeste</R3D_Binder_FaceWest>
+  <R3D_Binder_Faces>Faces</R3D_Binder_Faces>
+  <R3D_Binder_Height>Altura</R3D_Binder_Height>
+  <R3D_Binder_Shape>Formato</R3D_Binder_Shape>
+  <R3D_Binder_ShapeBox>Caixa</R3D_Binder_ShapeBox>
+  <R3D_Binder_ShapeCard>Cartão</R3D_Binder_ShapeCard>
+  <R3D_Binder_ShapeModel>Modelo</R3D_Binder_ShapeModel>
+  <R3D_Binder_ShapeRaised>Elevado</R3D_Binder_ShapeRaised>
+  <R3D_Binder_SpriteTint>Cor do sprite</R3D_Binder_SpriteTint>
+  <R3D_Binder_Template_barrel>Barril</R3D_Binder_Template_barrel>
+  <R3D_Binder_Template_cabinet>Armário</R3D_Binder_Template_cabinet>
+  <R3D_Binder_Template_cone>Cone</R3D_Binder_Template_cone>
+  <R3D_Binder_Template_console>Console</R3D_Binder_Template_console>
+  <R3D_Binder_Template_crate>Caixote</R3D_Binder_Template_crate>
+  <R3D_Binder_Template_cylinder>Cilindro</R3D_Binder_Template_cylinder>
+  <R3D_Binder_Template_dome>Cúpula</R3D_Binder_Template_dome>
+  <R3D_Binder_Template_lamp>Lâmpada</R3D_Binder_Template_lamp>
+  <R3D_Binder_Template_machine>Máquina</R3D_Binder_Template_machine>
+  <R3D_Binder_Template_pillar>Pilar</R3D_Binder_Template_pillar>
+  <R3D_Binder_Template_pipe>Tubo</R3D_Binder_Template_pipe>
+  <R3D_Binder_Template_pyramid>Pirâmide</R3D_Binder_Template_pyramid>
+  <R3D_Binder_Template_shelf>Prateleira</R3D_Binder_Template_shelf>
+  <R3D_Binder_Template_slab>Laje</R3D_Binder_Template_slab>
+  <R3D_Binder_Template_sphere>Esfera</R3D_Binder_Template_sphere>
+  <R3D_Binder_Template_stool>Banqueta</R3D_Binder_Template_stool>
+  <R3D_Binder_Template_table>Mesa</R3D_Binder_Template_table>
+  <R3D_Binder_Template_tank>Tanque</R3D_Binder_Template_tank>
+  <R3D_Binder_Template_vat>Tina</R3D_Binder_Template_vat>
+  <R3D_Binder_Template_wedge>Cunha</R3D_Binder_Template_wedge>
+  <R3D_Binder_Templates>Predefinições</R3D_Binder_Templates>
+  <R3D_Binder_TopInset>Recuo superior</R3D_Binder_TopInset>
+  <R3D_Settings_AO>Oclusão ambiente</R3D_Settings_AO>
+  <R3D_Settings_AOSmooth>Suave</R3D_Settings_AOSmooth>
+  <R3D_Settings_AOSteps>Tons</R3D_Settings_AOSteps>
+  <R3D_Settings_AOStepsTip>Suave, ou 2 ou 3 tons chapados como a iluminação em degraus.</R3D_Settings_AOStepsTip>
+  <R3D_Settings_AOStrength>Intensidade</R3D_Settings_AOStrength>
+  <R3D_Settings_AOTip>Sombra suave nos cantos, na base das paredes e onde os objetos encostam nas paredes.</R3D_Settings_AOTip>
+  <R3D_Settings_AOUnavailable>Não disponível com esta versão do jogo.</R3D_Settings_AOUnavailable>
+  <R3D_Settings_Bridges3D>Pontes 3D</R3D_Settings_Bridges3D>
+  <R3D_Settings_Bridges3DTip>Os tabuleiros das pontes ficam um pouco acima da água, sobre estacas. Desativado: desenhadas como no vanilla.</R3D_Settings_Bridges3DTip>
+  <R3D_Settings_Crops3D>Cultivos</R3D_Settings_Crops3D>
+  <R3D_Settings_Explosions3D>Explosões 3D</R3D_Settings_Explosions3D>
+  <R3D_Settings_FoodModels3D>Comidas, bebidas e drogas como modelos 3D</R3D_Settings_FoodModels3D>
+  <R3D_Settings_FoodModels3DTip>Refeições, cerveja, chá, ração, geleia de inseto e drogas como go-juice. Desativado: feitos sólidos a partir dos sprites do jogo.</R3D_Settings_FoodModels3DTip>
+  <R3D_Settings_KeyPanSpeed>Velocidade de movimento com teclas</R3D_Settings_KeyPanSpeed>
+  <R3D_Settings_KeyPanSpeedTip>A rapidez com que {0} movem a câmera em 3D. ×1 é a velocidade do jogo.</R3D_Settings_KeyPanSpeedTip>
+  <R3D_Settings_LabelHeight>Altura do rótulo</R3D_Settings_LabelHeight>
+  <R3D_Settings_LabelsAboveHeads>Rótulos acima das cabeças</R3D_Settings_LabelsAboveHeads>
+  <R3D_Settings_LabelsAboveHeadsTip>Nomes dos colonos sobre a cabeça em vez dos pés.</R3D_Settings_LabelsAboveHeadsTip>
+  <R3D_Settings_LookMiddleOnly>Câmera livre: botão do meio (sem tecla)</R3D_Settings_LookMiddleOnly>
+  <R3D_Settings_LookMiddleOnlyTip>Arraste com o botão do meio. Mova o mapa com {0}.</R3D_Settings_LookMiddleOnlyTip>
+  <R3D_Settings_OtherItemModels3D>Outros itens como modelos 3D</R3D_Settings_OtherItemModels3D>
+  <R3D_Settings_OtherItemModels3DTip>Biônicos, órgãos, neurotreinadores, itens psíquicos, projetos técnicos e semelhantes. Desativado: feitos sólidos a partir dos sprites do jogo.</R3D_Settings_OtherItemModels3DTip>
+  <R3D_Settings_PlaceGrid>Grade de posicionamento</R3D_Settings_PlaceGrid>
+  <R3D_Settings_PlaceGridRange>Alcance da grade (quadrados)</R3D_Settings_PlaceGridRange>
+  <R3D_Settings_PlaceGridTip>Linhas de grade ao redor do cursor ao posicionar um edifício ou piso.</R3D_Settings_PlaceGridTip>
+  <R3D_Settings_RimLight>Luz de contorno nos modelos</R3D_Settings_RimLight>
+  <R3D_Settings_RimLightTip>Uma borda de luz sutil no lado sombreado, para que pessoas e objetos se destaquem do chão.</R3D_Settings_RimLightTip>
+  <R3D_Settings_RimStrength>Intensidade</R3D_Settings_RimStrength>
+  <R3D_Settings_SSS>Sombras em espaço de tela</R3D_Settings_SSS>
+  <R3D_Settings_SSSStrength>Intensidade</R3D_Settings_SSSStrength>
+  <R3D_Settings_SSSTip>Sombras solares da cena 3D, no chão, paredes, móveis e figuras.</R3D_Settings_SSSTip>
+  <R3D_Settings_SelectionRings>Anéis de seleção</R3D_Settings_SelectionRings>
+  <R3D_Settings_SelectionRingsTip>Um anel colorido no chão sob os colonos selecionados.</R3D_Settings_SelectionRingsTip>
+  <R3D_Settings_ShipRoofLights>Luzes no teto da gravinave</R3D_Settings_ShipRoofLights>
+  <R3D_Settings_ShipRoofLightsTip>Os tetos das gravinaves exibem um padrão de circuitos brilhante e uma faixa de luz ao longo da borda do casco.</R3D_Settings_ShipRoofLightsTip>
+  <R3D_Settings_SteppedBands>Tons</R3D_Settings_SteppedBands>
+  <R3D_Settings_SteppedBandsTip>2 para um visual marcante, 3 para formas mais suaves.</R3D_Settings_SteppedBandsTip>
+  <R3D_Settings_SteppedLight>Iluminação em degraus nos modelos</R3D_Settings_SteppedLight>
+  <R3D_Settings_SteppedLightTip>Luz solar nos modelos em alguns tons chapados, como a arte do jogo.</R3D_Settings_SteppedLightTip>
+  <R3D_Settings_TargetBox>Caixa de alvo</R3D_Settings_TargetBox>
+  <R3D_Settings_TargetBoxTip>Uma caixa 3D marca o que você mira ou designa.</R3D_Settings_TargetBoxTip>
 </LanguageData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AArmoury_AdrenalRush.description>Esta pessoa está se movendo mais rápido e evitando ataques corpo a corpo e à distância por causa de uma descarga de adrenalina.</AArmoury_AdrenalRush.description>
+  <AArmoury_AdrenalRush.label>descarga de adrenalina</AArmoury_AdrenalRush.label>
+  <AArmoury_Chemburster.description>Combustível químico no corpo. Esta pessoa ou animal explodirá violentamente ao morrer.</AArmoury_Chemburster.description>
+  <AArmoury_Chemburster.label>explosão química</AArmoury_Chemburster.label>
+  <AArmoury_Electric.description>Um choque elétrico perigoso. Pode danificar o coração, e intensidades maiores aumentam a chance de um ataque cardíaco.</AArmoury_Electric.description>
+  <AArmoury_Electric.label>choque elétrico</AArmoury_Electric.label>
+  <AArmoury_Electric.stages.0.label>inicial</AArmoury_Electric.stages.0.label>
+  <AArmoury_Electric.stages.1.label>em choque</AArmoury_Electric.stages.1.label>
+  <AArmoury_Electric.stages.2.label>muito em choque</AArmoury_Electric.stages.2.label>
+  <AArmoury_Electric.stages.3.label>paralisado</AArmoury_Electric.stages.3.label>
+  <AArmoury_Flux.description>O dano de fluxo desestabilizou o campo bioelétrico desta pessoa ou animal, causando uma descarga de energia de curto alcance que prejudica criaturas próximas.</AArmoury_Flux.description>
+  <AArmoury_Flux.label>carregado de fluxo</AArmoury_Flux.label>
+  <AArmoury_Invisibility.description>Esta pessoa alterou psiquicamente os tons de sua pele para se camuflar em quase qualquer ambiente.</AArmoury_Invisibility.description>
+  <AArmoury_Invisibility.label>invisibilidade psíquica</AArmoury_Invisibility.label>
+  <AArmoury_MeleeCooldown.description>A arma segura por esta pessoa tem um ataque corpo a corpo muito mais rápido que o normal.</AArmoury_MeleeCooldown.description>
+  <AArmoury_MeleeCooldown.label>intervalo de corpo a corpo</AArmoury_MeleeCooldown.label>
+  <AArmoury_NetHediff.description>A vítima ficou presa em uma rede, dificultando muito o movimento. Esta condição é reversível e se dissipará naturalmente após alguns minutos.</AArmoury_NetHediff.description>
+  <AArmoury_NetHediff.label>rede</AArmoury_NetHediff.label>
+  <AArmoury_NetHediff.stages.0.label>preso</AArmoury_NetHediff.stages.0.label>
+  <AArmoury_NetHediff.stages.1.label>enredado</AArmoury_NetHediff.stages.1.label>
+  <AArmoury_NetHediff.stages.2.label>emaranhado</AArmoury_NetHediff.stages.2.label>
+  <AArmoury_NetHediff.stages.3.label>imobilizado</AArmoury_NetHediff.stages.3.label>
+  <AArmoury_Orgasmatron.description>Esta pessoa ou animal foi alvejado por um núcleo orgasmatron, ficando atordoado, corado e estranhamente satisfeito.</AArmoury_Orgasmatron.description>
+  <AArmoury_Orgasmatron.label>energia eufórica</AArmoury_Orgasmatron.label>
+  <AArmoury_Orgasmatron.stages.0.label>tontinho</AArmoury_Orgasmatron.stages.0.label>
+  <AArmoury_Paralysis.description>Uma toxina de ação rápida circula pelas veias desta criatura, paralisando seus músculos. O efeito passará depois de um tempo.</AArmoury_Paralysis.description>
+  <AArmoury_Paralysis.label>paralisia</AArmoury_Paralysis.label>
+  <AArmoury_Paralysis.stages.0.label>inicial</AArmoury_Paralysis.stages.0.label>
+  <AArmoury_Paralysis.stages.1.label>atordoado</AArmoury_Paralysis.stages.1.label>
+  <AArmoury_Paralysis.stages.2.label>muito atordoado</AArmoury_Paralysis.stages.2.label>
+  <AArmoury_Paralysis.stages.3.label>paralisado</AArmoury_Paralysis.stages.3.label>
+  <AArmoury_PsychicDamage.description>Dano psíquico causado por transferência de calor neural.</AArmoury_PsychicDamage.description>
+  <AArmoury_PsychicDamage.label>dano psíquico</AArmoury_PsychicDamage.label>
+  <AArmoury_ReducedHunger.description>Uma arma empunhada está suprimindo psiquicamente o apetite desta pessoa.</AArmoury_ReducedHunger.description>
+  <AArmoury_ReducedHunger.label>fome reduzida</AArmoury_ReducedHunger.label>
+  <AArmoury_SharpshootersFocus.description>Esta arma é tão fácil de manusear e empunhar que aumenta a habilidade de tiro de quem a segura apenas por estar equipada.</AArmoury_SharpshootersFocus.description>
+  <AArmoury_SharpshootersFocus.label>foco do atirador de elite</AArmoury_SharpshootersFocus.label>
+  <AArmoury_TargetLocator.description>Esta pessoa ou animal foi marcado com um localizador de alvo e receberá dano aumentado.</AArmoury_TargetLocator.description>
+  <AArmoury_TargetLocator.label>marcado por um localizador de alvo</AArmoury_TargetLocator.label>
+  <AArmoury_TargetLocator.stages.0.label>recebendo dano aumentado</AArmoury_TargetLocator.stages.0.label>
+</LanguageData>

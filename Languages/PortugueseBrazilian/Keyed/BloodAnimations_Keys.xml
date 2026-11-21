@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodAnimations_BleedRate>Quantidade de partículas de sangramento (sangramento animado com base na taxa de sangramento do colono)</BloodAnimations_BleedRate>
+  <BloodAnimations_BloodMultiplier>Quantidade de partículas de sangue (partículas voantes provenientes de dano direto em colonos)</BloodAnimations_BloodMultiplier>
+  <BloodAnimations_BloodTime>Tempo até as partículas desaparecerem</BloodAnimations_BloodTime>
+  <BloodAnimations_BulletCasingFilthToggle>Ativar sujeira deixada por balas (chance de tiros deixarem estojos que os colonos precisam limpar)</BloodAnimations_BulletCasingFilthToggle>
+  <BloodAnimations_BulletCasingToggle>Ativar estojos de bala (animação de ejeção de estojos ao disparar armas de fogo)</BloodAnimations_BulletCasingToggle>
+  <BloodAnimations_DebrisMultiplier>Quantidade de partículas de detritos (partículas voantes provenientes de dano direto em estruturas)</BloodAnimations_DebrisMultiplier>
+  <BloodAnimations_FilthMultiplier>Sujeira deixada pelas partículas (percentual de partículas que deixam sujeira de sangue/detritos que os colonos precisam limpar)</BloodAnimations_FilthMultiplier>
+  <BloodAnimations_GroundImpactToggle>Ativar partículas de impacto no solo (balas que atingem o solo criam pedaços de terra voadores)</BloodAnimations_GroundImpactToggle>
+  <BloodAnimations_ResetAll>Redefinir tudo</BloodAnimations_ResetAll>
+  <BloodAnimations_Title>Blood Animations</BloodAnimations_Title>
+  <BloodAnimations_Warning>*Valores altos podem afetar o desempenho</BloodAnimations_Warning>
+</LanguageData>

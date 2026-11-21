@@ -786,4 +786,487 @@
   <TSA_WD_WorldSetup_ToolAdvBuilding>Colocar construção avançada</TSA_WD_WorldSetup_ToolAdvBuilding>
   <TSA_WD_WorldSetup_ToolDestroyBridge>Destruir ponte</TSA_WD_WorldSetup_ToolDestroyBridge>
   <TSA_WD_WorldSetup_ToolPlaceBridge>Colocar ponte</TSA_WD_WorldSetup_ToolPlaceBridge>
+  <TSA_AutoUpdateNote_Power>\n\nRecalcula quando postos avançados ou configurações de energia mudam (com uma verificação silenciosa de impressão digital a cada pulso de energia).</TSA_AutoUpdateNote_Power>
+  <TSA_IncomingPowerSupplyLines>Recebendo eletricidade de:</TSA_IncomingPowerSupplyLines>
+  <TSA_LogisticsPane_Electricity>Eletricidade</TSA_LogisticsPane_Electricity>
+  <TSA_LogisticsPane_Food>Comida</TSA_LogisticsPane_Food>
+  <TSA_Logistics_IsolatedPowerConsumer>Nenhuma usina de energia ao alcance para abastecer este {0}.</TSA_Logistics_IsolatedPowerConsumer>
+  <TSA_Logistics_IsolatedPowerProducer>Nenhum posto avançado ao alcance que este {0} possa abastecer com energia.</TSA_Logistics_IsolatedPowerProducer>
+  <TSA_Logistics_KeepHereColony>Manter (colônia)</TSA_Logistics_KeepHereColony>
+  <TSA_Logistics_KeepHereColonyTip>Sobra após a demanda local e as conexões entregues alimentarem a rede elétrica da colônia.</TSA_Logistics_KeepHereColonyTip>
+  <TSA_Logistics_ResetAllocationTip_Power>Mude para Manual e limpe toda a energia enviada desta usina para outros postos avançados. O Manter residual ainda alimenta a colônia.</TSA_Logistics_ResetAllocationTip_Power>
+  <TSA_Logistics_SectionOtherOutposts_Power>Distribuir energia excedente aos postos avançados ao alcance:</TSA_Logistics_SectionOtherOutposts_Power>
+  <TSA_PowerDeficitTooltip>1) Cubra cada posto avançado alcançável até atender toda a demanda (piores escassezes primeiro), usando o excedente de todas as usinas de energia inteligentes ao alcance em conjunto.\n2) A geração restante permanece como Manter e alimenta a rede elétrica da colônia.</TSA_PowerDeficitTooltip>
+  <TSA_WD_ATIntel_Headline>Informações: {0}</TSA_WD_ATIntel_Headline>
+  <TSA_WD_ATIntel_TabLabel>Informações</TSA_WD_ATIntel_TabLabel>
+  <TSA_WD_AT_TurretTierTooltip_NoStrength>Dias est.: {1}</TSA_WD_AT_TurretTierTooltip_NoStrength>
+  <TSA_WD_Alert_OutpostUnpowered>WD: Posto avançado sem energia</TSA_WD_Alert_OutpostUnpowered>
+  <TSA_WD_Alert_OutpostUnpoweredDescHeader>Estes postos avançados precisam de energia de uma usina configurada para abastecer postos avançados:</TSA_WD_Alert_OutpostUnpoweredDescHeader>
+  <TSA_WD_Alert_OutpostUnpoweredDescLine>- {0}</TSA_WD_Alert_OutpostUnpoweredDescLine>
+  <TSA_WD_AllyRadius_BreakdownLeader>Penalidade de Líder Mundial: raio de atração de aliados {0}</TSA_WD_AllyRadius_BreakdownLeader>
+  <TSA_WD_AllyRadius_BreakdownNimble>Bônus Ágil: raio de atração de aliados {0}</TSA_WD_AllyRadius_BreakdownNimble>
+  <TSA_WD_Armory_Equipment>Equipamento</TSA_WD_Armory_Equipment>
+  <TSA_WD_Armory_EquipmentTip>As ações se aplicam apenas aos colonos selecionados e ao equipamento selecionado no estoque. Marque as linhas de ocupantes e de estoque, depois retire o equipamento usado ou o inventário, ou atribua automaticamente armas, roupas e drogas marcadas.</TSA_WD_Armory_EquipmentTip>
+  <TSA_WD_Armory_Equipment_AutoAssign>Atribuir Equipamento Automaticamente</TSA_WD_Armory_Equipment_AutoAssign>
+  <TSA_WD_Armory_Equipment_AutoAssignDrugs>Atribuir Drogas Automaticamente</TSA_WD_Armory_Equipment_AutoAssignDrugs>
+  <TSA_WD_Armory_Equipment_AutoAssignDrugsDone>Atribuídos {0} item(ns) de droga do estoque do Arsenal.</TSA_WD_Armory_Equipment_AutoAssignDrugsDone>
+  <TSA_WD_Armory_Equipment_AutoAssignDrugsNone>Nenhuma droga atribuída. O estoque pode estar vazio, os colonos selecionados podem ser abstêmios ou não podem carregar mais.</TSA_WD_Armory_Equipment_AutoAssignDrugsNone>
+  <TSA_WD_Armory_Equipment_AutoAssignDrugsTip>Distribui as drogas do Arsenal igualmente entre os ocupantes selecionados (até 5 itens cada). Ignora colonos com o traço Abstêmio. Apenas colonos marcados recebem drogas.</TSA_WD_Armory_Equipment_AutoAssignDrugsTip>
+  <TSA_WD_Armory_Equipment_AutoAssignTip>Usa a maior entre Corpo a Corpo e Atirar: essa habilidade define a prioridade e o tipo de arma (Atirar maior → à distância, Corpo a Corpo maior → corpo a corpo). Dentro desse tipo, o equipamento selecionado mais caro em prata vai primeiro para os ocupantes com maior habilidade. Recorre ao outro tipo de arma apenas se não restar nenhum do tipo preferido. Também preenche camadas de roupa livres com armaduras e roupas selecionadas (maior valor em prata primeiro). Não retira nem substitui o equipamento usado. Apenas colonos marcados e equipamento de estoque marcado são usados.</TSA_WD_Armory_Equipment_AutoAssignTip>
+  <TSA_WD_Armory_Equipment_EquipDone>Equipadas {0} arma(s) e {1} peça(s) de roupa.</TSA_WD_Armory_Equipment_EquipDone>
+  <TSA_WD_Armory_Equipment_EquipNone>Nada equipado. Os ocupantes podem já estar armados e vestidos, ou nenhum espaço livre corresponde ao equipamento de estoque selecionado.</TSA_WD_Armory_Equipment_EquipNone>
+  <TSA_WD_Armory_Equipment_StripApparel>Retirar roupas</TSA_WD_Armory_Equipment_StripApparel>
+  <TSA_WD_Armory_Equipment_StripApparelDone>Movidas {0} peça(s) de roupa para o Arsenal.</TSA_WD_Armory_Equipment_StripApparelDone>
+  <TSA_WD_Armory_Equipment_StripApparelNone>Nenhuma roupa que não seja armadura para retirar dos colonos marcados.</TSA_WD_Armory_Equipment_StripApparelNone>
+  <TSA_WD_Armory_Equipment_StripApparelTip>Move roupas usadas que não são armadura dos ocupantes selecionados para o Arsenal. Apenas colonos marcados são afetados.</TSA_WD_Armory_Equipment_StripApparelTip>
+  <TSA_WD_Armory_Equipment_StripArmor>Retirar armadura</TSA_WD_Armory_Equipment_StripArmor>
+  <TSA_WD_Armory_Equipment_StripArmorDone>Movidas {0} peça(s) de armadura para o Arsenal.</TSA_WD_Armory_Equipment_StripArmorDone>
+  <TSA_WD_Armory_Equipment_StripArmorNone>Nenhuma armadura usada para retirar dos colonos marcados.</TSA_WD_Armory_Equipment_StripArmorNone>
+  <TSA_WD_Armory_Equipment_StripArmorTip>Move a armadura usada dos ocupantes selecionados para o Arsenal. Apenas colonos marcados são afetados.</TSA_WD_Armory_Equipment_StripArmorTip>
+  <TSA_WD_Armory_Equipment_StripDrugs>Retirar drogas</TSA_WD_Armory_Equipment_StripDrugs>
+  <TSA_WD_Armory_Equipment_StripDrugsDone>Movidas {0} pilha(s) de drogas para o Arsenal.</TSA_WD_Armory_Equipment_StripDrugsDone>
+  <TSA_WD_Armory_Equipment_StripDrugsNone>Nenhuma droga para retirar dos colonos marcados.</TSA_WD_Armory_Equipment_StripDrugsNone>
+  <TSA_WD_Armory_Equipment_StripDrugsTip>Move drogas dos ocupantes selecionados para o Arsenal. Apenas colonos marcados são afetados.</TSA_WD_Armory_Equipment_StripDrugsTip>
+  <TSA_WD_Armory_Equipment_StripOtherInventory>Retirar outro inventário</TSA_WD_Armory_Equipment_StripOtherInventory>
+  <TSA_WD_Armory_Equipment_StripOtherInventoryDone>Movidas {0} pilha(s) de outro inventário para o Arsenal.</TSA_WD_Armory_Equipment_StripOtherInventoryDone>
+  <TSA_WD_Armory_Equipment_StripOtherInventoryNone>Nenhum item de Outro Inventário para retirar dos colonos marcados.</TSA_WD_Armory_Equipment_StripOtherInventoryNone>
+  <TSA_WD_Armory_Equipment_StripOtherInventoryTip>Move itens do grupo Outro Inventário dos ocupantes selecionados para o Arsenal (não comida, drogas, munição ou medicamentos). Apenas colonos marcados são afetados.</TSA_WD_Armory_Equipment_StripOtherInventoryTip>
+  <TSA_WD_Armory_Equipment_StripWeapons>Retirar armas</TSA_WD_Armory_Equipment_StripWeapons>
+  <TSA_WD_Armory_Equipment_StripWeaponsDone>Movidas {0} arma(s) para o Arsenal.</TSA_WD_Armory_Equipment_StripWeaponsDone>
+  <TSA_WD_Armory_Equipment_StripWeaponsNone>Nenhuma arma equipada para retirar dos colonos marcados.</TSA_WD_Armory_Equipment_StripWeaponsNone>
+  <TSA_WD_Armory_Equipment_StripWeaponsTip>Move as armas equipadas dos ocupantes selecionados para o Arsenal. Apenas colonos marcados são afetados.</TSA_WD_Armory_Equipment_StripWeaponsTip>
+  <TSA_WD_Armory_StoresMoreTypes>e mais {0} tipo(s) de item</TSA_WD_Armory_StoresMoreTypes>
+  <TSA_WD_BtnBuildingProjects>Projetos de Construção</TSA_WD_BtnBuildingProjects>
+  <TSA_WD_BtnIntelLos>Informações e Linha de Visão</TSA_WD_BtnIntelLos>
+  <TSA_WD_BtnQuests>Missões</TSA_WD_BtnQuests>
+  <TSA_WD_BuildTrench>Construir Trincheira</TSA_WD_BuildTrench>
+  <TSA_WD_BuildTrenchDesc>Cava braços exclusivos de trincheira a partir deste posto avançado (raios polilineares, máx. {0} blocos). Custa {1} madeira por segmento. Clique na ponta de uma trincheira existente para estender esse braço, Shift+clique para pontos de passagem e depois clique em um bloco vazio para concluir. Colunas hostis que pisam nas suas trincheiras abrem uma escolha de defesa.</TSA_WD_BuildTrenchDesc>
+  <TSA_WD_BuildingProjects_BuildTimeMult>Multiplicador de tempo de construção</TSA_WD_BuildingProjects_BuildTimeMult>
+  <TSA_WD_BuildingProjects_BuildTimeMultTip>Escala quanto tempo leva a preparação de construções no mundo para construir e limpar/desconstruir. Os controles deslizantes de Trabalho por tipo abaixo são valores base; isto multiplica a duração. A 0%, a preparação é instantânea. Não afeta melhorias de posto avançado.</TSA_WD_BuildingProjects_BuildTimeMultTip>
+  <TSA_WD_BuildingProjects_CostMultHeader>Multiplicadores de Custo</TSA_WD_BuildingProjects_CostMultHeader>
+  <TSA_WD_BuildingProjects_MaterialCostMult>Multiplicador de custo de materiais</TSA_WD_BuildingProjects_MaterialCostMult>
+  <TSA_WD_BuildingProjects_MaterialCostMultTip>Escala as quantidades de materiais para construções no mundo (madeira, componentes, blocos de pedra etc.). Limpeza/desconstrução permanecem sem custo de materiais. Não afeta melhorias de posto avançado. A 0%, os materiais são gratuitos e ficam ocultos no menu de construção.</TSA_WD_BuildingProjects_MaterialCostMultTip>
+  <TSA_WD_BuildingProjects_StrengthCostMult>Multiplicador de custo de força</TSA_WD_BuildingProjects_StrengthCostMult>
+  <TSA_WD_BuildingProjects_StrengthCostMultTip>Escala a força do posto avançado gasta para enviar equipes de construção e limpeza/desconstrução (estradas, pontes, trincheiras, bloqueios de estrada, armadilhas, torretas AT, descontaminação). Os controles deslizantes de Força por tipo abaixo são valores base; isto os multiplica. A 0%, a força é gratuita e fica oculta no menu de construção.</TSA_WD_BuildingProjects_StrengthCostMultTip>
+  <TSA_WD_CancelTrench>Cancelar Escavação de Trincheira</TSA_WD_CancelTrench>
+  <TSA_WD_CancelTrenchDesc>Abortar o projeto de trincheira ativo e recolher a equipe.</TSA_WD_CancelTrenchDesc>
+  <TSA_WD_CancelTrenchRemoval>Cancelar Remoção de Trincheira</TSA_WD_CancelTrenchRemoval>
+  <TSA_WD_Caravans_HeaderTraderInfra>Infraestrutura de comerciantes (no limite)</TSA_WD_Caravans_HeaderTraderInfra>
+  <TSA_WD_Caravans_InfraT1>Chance de infraestrutura (T1)</TSA_WD_Caravans_InfraT1>
+  <TSA_WD_Caravans_InfraT1Tip>Adicional à subida de nível. Após uma troca WD bem-sucedida no teto de força T1, esta chance coloca instantaneamente um edifício avançado do nível correspondente, ou uma torreta AT Leve se nenhum puder ser colocado. Sorteia independentemente da promoção de nível.</TSA_WD_Caravans_InfraT1Tip>
+  <TSA_WD_Caravans_InfraT2>Chance de infraestrutura (T2)</TSA_WD_Caravans_InfraT2>
+  <TSA_WD_Caravans_InfraT2Tip>Igual à infraestrutura T1, para assentamentos no teto de força T2 (recuo para torreta AT Leve).</TSA_WD_Caravans_InfraT2Tip>
+  <TSA_WD_Caravans_InfraT3>Chance de infraestrutura (T3)</TSA_WD_Caravans_InfraT3>
+  <TSA_WD_Caravans_InfraT3Tip>Igual à infraestrutura T1, para assentamentos no teto de força T3 (recuo para torreta AT Média).</TSA_WD_Caravans_InfraT3Tip>
+  <TSA_WD_Dash_EscalationTip_InvasionOff>Invasão: facções distantes podem atacá-lo com várias incursões coordenadas além do alcance normal de ataque: desativado</TSA_WD_Dash_EscalationTip_InvasionOff>
+  <TSA_WD_Dash_EscalationTip_InvasionOn>Invasão: facções distantes podem atacá-lo com várias incursões coordenadas além do alcance normal de ataque: ativado</TSA_WD_Dash_EscalationTip_InvasionOn>
+  <TSA_WD_Dash_EscalationTip_VanguardOff>Vanguarda: facções distantes podem deslocar assentamentos e se entrincheirar perto da sua frente: desativado</TSA_WD_Dash_EscalationTip_VanguardOff>
+  <TSA_WD_Dash_EscalationTip_VanguardOn>Vanguarda: facções distantes podem deslocar assentamentos e se entrincheirar perto da sua frente: ativado</TSA_WD_Dash_EscalationTip_VanguardOn>
+  <TSA_WD_DecontaminationTooltip_NoStrength>Trabalho: {0}\nDepuração de poluição: -{1}pp\nDias est./bloco: {2}\nConstrução mín.: {3}</TSA_WD_DecontaminationTooltip_NoStrength>
+  <TSA_WD_DescBuildingProjects>Configurações de Projetos de Construção que podem ser executados por Postos Avançados do jogador e, em grande parte, também pela Colônia e por assentamentos NPC. Multiplicadores globais de custo (força, materiais, tempo de construção); estradas, pontes, trincheiras, bloqueios de estrada, armadilhas, torretas AT (construção e combate) e descontaminação. Alternativas de movimento rodoviário quando o Roads of the Rim está desativado.</TSA_WD_DescBuildingProjects>
+  <TSA_WD_DescIntelLos>Névoa de guerra branda: descoberta, anéis de MaxLOS, batedores, Expansão Estratégica e cautela de Tomou um Prejuízo.</TSA_WD_DescIntelLos>
+  <TSA_WD_DescQuests>Ative ou desative as ofertas de missões da WD (primeiro posto avançado, operações de espionagem, fortificação, inimigo comum, ligação de estrada da colônia e vitória de Domínio Mundial).</TSA_WD_DescQuests>
+  <TSA_WD_Diplo_RevoltMinEligible>Mín. de assentamentos elegíveis para revolta</TSA_WD_Diplo_RevoltMinEligible>
+  <TSA_WD_Diplo_RevoltMinEligibleTooltip>Bloqueio rígido: a facção vítima principal (maior império, ou a facção semente em depuração) deve ter pelo menos esse número de assentamentos elegíveis de NPC, ou a revolta não ocorre. Elegível significa assentamentos da WD que não estão protegidos e não pertencem ao jogador. Não pode ser maior que Assentamentos alvo (mín.). Assentamentos protegidos e possessões do jogador nunca são contados ou tomados.</TSA_WD_Diplo_RevoltMinEligibleTooltip>
+  <TSA_WD_Diplo_RevoltSettlementsMax>Assentamentos alvo (máx.)</TSA_WD_Diplo_RevoltSettlementsMax>
+  <TSA_WD_Diplo_RevoltSettlementsMaxTooltip>Extremo superior do alvo de captura sorteado quando uma revolta ocorre. Deve ser pelo menos Assentamentos alvo (mín.). O preenchimento gradual e a preferência por agrupamentos ainda se aplicam apenas entre os principais impérios.</TSA_WD_Diplo_RevoltSettlementsMaxTooltip>
+  <TSA_WD_Diplo_RevoltSettlementsMin>Assentamentos alvo (mín.)</TSA_WD_Diplo_RevoltSettlementsMin>
+  <TSA_WD_Diplo_RevoltSettlementsMinTooltip>Extremo inferior do alvo de captura sorteado quando uma revolta ocorre. Não é um piso garantido: após passar pelo bloqueio de elegibilidade, a revolta prefere agrupamentos próximos entre os principais impérios e depois preenche gradualmente até o alvo sorteado. Facções minúsculas não são capturadas. Prefere níveis inferiores.</TSA_WD_Diplo_RevoltSettlementsMinTooltip>
+  <TSA_WD_Establish_NeedLakeOrRiver>Postos avançados de pesca precisam de costa, lago ou rio no bloco.</TSA_WD_Establish_NeedLakeOrRiver>
+  <TSA_WD_Experimental_EnableOutpostPower>Exigir energia do posto avançado</TSA_WD_Experimental_EnableOutpostPower>
+  <TSA_WD_Experimental_EnableOutpostPowerTip>Quando ativado, postos avançados com demanda de energia precisam de watts de Usinas de Energia configuradas para abastecer postos avançados (dentro do alcance de fornecimento). Postos sem energia reduzem a produção pelo seu fator XML e encolhem os alcances (comércio, recrutamento, embaixada, morteiro, AA, Resposta Rápida, aura do armazém). O modo medieval força a desativação. Ativado por padrão.</TSA_WD_Experimental_EnableOutpostPowerTip>
+  <TSA_WD_Experimental_EnableOutpostPower_MedievalLocked>Bloqueado enquanto o modo medieval está ativado (a energia do posto avançado é forçada a desligar).</TSA_WD_Experimental_EnableOutpostPower_MedievalLocked>
+  <TSA_WD_Experimental_EnableTrenches>Experimental: defesas de trincheira</TSA_WD_Experimental_EnableTrenches>
+  <TSA_WD_Experimental_EnableTrenchesTip>Quando ativado, postos avançados do jogador podem cavar braços exclusivos de trincheira (custo de madeira, remoção da ponta ao centro). Colunas hostis que pisam nas suas trincheiras recebem Lutar / Auto / Deixar passar. Desativar isso apaga todas as trincheiras do jogador e cancela os projetos de trincheira.</TSA_WD_Experimental_EnableTrenchesTip>
+  <TSA_WD_Experimental_HeaderOutpostPower>Energia do posto avançado</TSA_WD_Experimental_HeaderOutpostPower>
+  <TSA_WD_Experimental_PowerSupplyRange>Alcance de fornecimento de energia</TSA_WD_Experimental_PowerSupplyRange>
+  <TSA_WD_Experimental_PowerSupplyRangeTip>Distância máxima em blocos que uma Usina de Energia configurada para abastecer postos avançados pode alimentar outros postos. Independente do alcance da logística de comida. Padrão 20.</TSA_WD_Experimental_PowerSupplyRangeTip>
+  <TSA_WD_Experimental_RetainOutpostEquipmentColor>Manter a cor do equipamento do Posto Avançado</TSA_WD_Experimental_RetainOutpostEquipmentColor>
+  <TSA_WD_Experimental_RetainOutpostEquipmentColorTip>Quando ativado, equipamentos tingidos e com estilo de Ideologia mantêm a aparência ao serem armazenados no arsenal ou armazém, ou recuperados após uma defesa. Tintura e estilo iguais empilham juntos. Quando desativado, novos depósitos se reduzem a def/material/qualidade e perdem cor e estilo na reconstrução. Ativado por padrão.</TSA_WD_Experimental_RetainOutpostEquipmentColorTip>
+  <TSA_WD_Experimental_UnpoweredRangeFactor>Fator de alcance sem energia</TSA_WD_Experimental_UnpoweredRangeFactor>
+  <TSA_WD_Experimental_UnpoweredRangeFactorTip>Multiplica os alcances de comércio, recrutamento, embaixada, morteiro, antiaéreo, interceptação de Resposta Rápida e aura do armazém enquanto o posto avançado está sem energia. Padrão 0,70.</TSA_WD_Experimental_UnpoweredRangeFactorTip>
+  <TSA_WD_FactionColor_DisabledTip>Facções derrotadas não podem mudar de cor.</TSA_WD_FactionColor_DisabledTip>
+  <TSA_WD_FactionColor_Tip>Clique com o botão esquerdo para escolher a cor desta facção (mapa-múndi, ícones, viajantes). Clique com o botão direito para restaurar a cor padrão do espectro.</TSA_WD_FactionColor_Tip>
+  <TSA_WD_FortifyQuest_LetterLabelExpired>Missão expirada: [resolvedQuestName]</TSA_WD_FortifyQuest_LetterLabelExpired>
+  <TSA_WD_FortifyQuest_LetterLabelFailed>Missão falhou: [resolvedQuestName]</TSA_WD_FortifyQuest_LetterLabelFailed>
+  <TSA_WD_FortifyQuest_LetterLabelTargetGone>Missão falhou: {0}</TSA_WD_FortifyQuest_LetterLabelTargetGone>
+  <TSA_WD_FortifyQuest_LetterTextExpired>O prazo do pedido de [faction_name] para fortificar [allySettlement_label] se esgotou.</TSA_WD_FortifyQuest_LetterTextExpired>
+  <TSA_WD_FortifyQuest_LetterTextHostile>[faction_name] tornou-se hostil. O pedido de fortificação falhou.</TSA_WD_FortifyQuest_LetterTextHostile>
+  <TSA_WD_FortifyQuest_LetterTextTargetGone>{0} queria que você fortificasse {1}, mas essa cidade desapareceu. O pedido falhou.</TSA_WD_FortifyQuest_LetterTextTargetGone>
+  <TSA_WD_Gizmo_ShowPowerSupplyRadius>Raio de Fornecimento de Energia</TSA_WD_Gizmo_ShowPowerSupplyRadius>
+  <TSA_WD_Gizmo_ShowPowerSupplyRadiusDesc>Alternar alcance de fornecimento de energia ({0} blocos) para todas as usinas de energia.</TSA_WD_Gizmo_ShowPowerSupplyRadiusDesc>
+  <TSA_WD_Gizmo_ShowSightRadius>Mostrar linha de visão</TSA_WD_Gizmo_ShowSightRadius>
+  <TSA_WD_Gizmo_ShowSightRadiusDesc>Desenha o preenchimento dourado de MaxLOS com faixas de descoberta por tamanho de alvo ao redor deste objeto. Alvos pequenos apenas dentro do anel interno; médios mais afastados; grandes até a borda externa.\n\nAlcance: {0}</TSA_WD_Gizmo_ShowSightRadiusDesc>
+  <TSA_WD_Gizmo_ShowSightRadiusDescPlayer>Desenha o preenchimento dourado de MaxLOS com faixas de descoberta por tamanho de alvo. O jogador sempre vê tudo durante o jogo; isso apenas alimenta a visualização de informações.\n\nAlcance: {0}</TSA_WD_Gizmo_ShowSightRadiusDescPlayer>
+  <TSA_WD_Gizmo_SightRadiusBandsLegend>Faixas de cor (tamanho de alvo descobrível):\nVermelho = 0–{0}% do MaxLOS. Todos os tamanhos (pequeno / médio / grande).\nLaranja = {0}–{1}% do MaxLOS. Apenas médio e grande.\nAmarelo = {1}–{2}% do MaxLOS. Apenas alvos grandes (MaxLOS externo).</TSA_WD_Gizmo_SightRadiusBandsLegend>
+  <TSA_WD_GlitterRoad_MinTech>Estradas de tecnobrilho: nível tecnológico mínimo dos NPCs</TSA_WD_GlitterRoad_MinTech>
+  <TSA_WD_GlitterRoad_MinTechTip>Apenas facções não jogadoras neste nível tecnológico ou superior podem construir automaticamente Estradas de Tecnobrilho ou receber ordem de construí-las (também requer um assentamento T4). Espacial é o padrão. Postos avançados do jogador usam a pesquisa Fabricação Avançada e seus materiais.</TSA_WD_GlitterRoad_MinTechTip>
+  <TSA_WD_HediffFilter_And>E</TSA_WD_HediffFilter_And>
+  <TSA_WD_HediffFilter_AndTip>Corresponde a colonos com todos os ferimentos ou condições de saúde selecionados.</TSA_WD_HediffFilter_AndTip>
+  <TSA_WD_HediffFilter_ButtonTip>Filtrar linhas por ferimento ou condição de saúde. Só se aplica enquanto a coluna Ferimentos estiver visível.</TSA_WD_HediffFilter_ButtonTip>
+  <TSA_WD_HediffFilter_Clear>Limpar seleção</TSA_WD_HediffFilter_Clear>
+  <TSA_WD_HediffFilter_CountPct>{0} ({1}%)</TSA_WD_HediffFilter_CountPct>
+  <TSA_WD_HediffFilter_CountTip>{0} colonos têm esta condição de saúde. Isso é {1}% da sua população.</TSA_WD_HediffFilter_CountTip>
+  <TSA_WD_HediffFilter_FoundHeader>{0} ferimentos em {1} colonos</TSA_WD_HediffFilter_FoundHeader>
+  <TSA_WD_HediffFilter_FoundTip>Ferimentos/condições de saúde visíveis presentes em pelo menos um humanoide do jogador.</TSA_WD_HediffFilter_FoundTip>
+  <TSA_WD_HediffFilter_Logic>Lógica do filtro:</TSA_WD_HediffFilter_Logic>
+  <TSA_WD_HediffFilter_Or>Ou</TSA_WD_HediffFilter_Or>
+  <TSA_WD_HediffFilter_OrTip>Corresponde a colonos com qualquer ferimento ou condição de saúde selecionado.</TSA_WD_HediffFilter_OrTip>
+  <TSA_WD_HediffFilter_Search>Buscar ferimentos...</TSA_WD_HediffFilter_Search>
+  <TSA_WD_HediffFilter_Subtitle>Oculta linhas da lista que não correspondem. As contagens incluem todos os humanoides do jogador (colônia, postos avançados, caravanas, prisioneiros). Apenas ferimentos/condições de saúde atualmente presentes nesses colonos são listados.</TSA_WD_HediffFilter_Subtitle>
+  <TSA_WD_HediffFilter_Title>Filtrar por ferimentos</TSA_WD_HediffFilter_Title>
+  <TSA_WD_Inspect_TrenchClearStatus>Removendo trincheiras em direção a {0}: {1}%</TSA_WD_Inspect_TrenchClearStatus>
+  <TSA_WD_Inspect_TrenchClearStatus_InTransit>Status: equipe de remoção de trincheira em trânsito para {0} (prep {1}%)...</TSA_WD_Inspect_TrenchClearStatus_InTransit>
+  <TSA_WD_Inspect_TrenchStatus>Escavação de trincheira: {0}% em direção a {1}</TSA_WD_Inspect_TrenchStatus>
+  <TSA_WD_Inspect_TrenchStatus_InTransit>Status: equipe de trincheira em trânsito para {0} (prep {1}%)...</TSA_WD_Inspect_TrenchStatus_InTransit>
+  <TSA_WD_Intel_BurnTriggerRatio>Proporção de gatilho do Tomou Prejuízo</TSA_WD_Intel_BurnTriggerRatio>
+  <TSA_WD_Intel_BurnTriggerRatioTip>Se a força real dos defensores exceder a avaliação com névoa nesta proporção, aplica-se o selo Tomou Prejuízo ao atacante.</TSA_WD_Intel_BurnTriggerRatioTip>
+  <TSA_WD_Intel_BurnedHiddenPct>Inflação de força oculta do TomouPrejuízo</TSA_WD_Intel_BurnedHiddenPct>
+  <TSA_WD_Intel_BurnedHiddenPctTip>Após uma incursão subestimar os defensores, a próxima avaliação contra aquele alvo infla a força conhecida dos defensores nesta porcentagem (apenas cautela; sem descoberta gratuita de vizinhos).</TSA_WD_Intel_BurnedHiddenPctTip>
+  <TSA_WD_Intel_GateSettlementIntelTip>Nunca = funcionalidade desativada (informação perfeita, sem batedores, sem gizmo Ver). Sempre / A partir do Meio / A partir do Fim: descoberta e batedores desde o dia 0; a névoa na avaliação de incursão começa quando esse estágio é atingido.</TSA_WD_Intel_GateSettlementIntelTip>
+  <TSA_WD_Intel_GotBurnedDays>Duração do Tomou Prejuízo (dias)</TSA_WD_Intel_GotBurnedDays>
+  <TSA_WD_Intel_GotBurnedDaysTip>Quanto tempo o selo de cautela Tomou Prejuízo permanece num alvo principal antes de expirar.</TSA_WD_Intel_GotBurnedDaysTip>
+  <TSA_WD_Intel_HeaderFeatureGate>Bloqueio de funcionalidade</TSA_WD_Intel_HeaderFeatureGate>
+  <TSA_WD_Intel_HeaderFeatureGateTip>Nunca desativa a funcionalidade completamente. Qualquer outro valor inicia descoberta e batedores no dia 0 e aplica névoa à lógica de incursão quando o estágio é atingido.</TSA_WD_Intel_HeaderFeatureGateTip>
+  <TSA_WD_Intel_HeaderGotBurned>Tomou um Prejuízo</TSA_WD_Intel_HeaderGotBurned>
+  <TSA_WD_Intel_HeaderGotBurnedTip>Após uma incursão subestimar os defensores, a próxima avaliação contra aquele alvo infla a força conhecida dos defensores (apenas cautela).</TSA_WD_Intel_HeaderGotBurnedTip>
+  <TSA_WD_Intel_HeaderScoutsStrategic>Batedores e Expansão Estratégica</TSA_WD_Intel_HeaderScoutsStrategic>
+  <TSA_WD_Intel_HeaderScoutsStrategicTip>Batedores são lançados sempre que o bloqueio está configurado (início de jogo). Expansão Estratégica apenas quando a névoa da lógica de incursão está ativa.</TSA_WD_Intel_HeaderScoutsStrategicTip>
+  <TSA_WD_Intel_HeaderSettlementLos>Linha de visão do assentamento</TSA_WD_Intel_HeaderSettlementLos>
+  <TSA_WD_Intel_HeaderSettlementLosTip>A visão base é a linha de base do alcance de ataque do nível. Ela cresce com a idade do assentamento e o estágio do jogo até o multiplicador de MaxLOS, e ignora zelo e bônus de alcance de ataque.</TSA_WD_Intel_HeaderSettlementLosTip>
+  <TSA_WD_Intel_HeaderTargetRings>Anéis de tamanho de alvo</TSA_WD_Intel_HeaderTargetRings>
+  <TSA_WD_Intel_HeaderTargetRingsTip>Fração do MaxLOS de um observador na qual cada classe de alvo é avistada. Alvos grandes usam a borda externa; alvos pequenos, apenas os anéis internos. Compartilhado por assentamentos, viajantes e batedores.</TSA_WD_Intel_HeaderTargetRingsTip>
+  <TSA_WD_Intel_HeaderTravelerLos>Linha de visão do viajante</TSA_WD_Intel_HeaderTravelerLos>
+  <TSA_WD_Intel_HeaderTravelerLosTip>O MaxLOS e a classe do viajante vêm da força de partida (initialStrength). O atrito nunca muda a classe.</TSA_WD_Intel_HeaderTravelerLosTip>
+  <TSA_WD_Intel_PlayerCaravanMaxLos>MaxLOS da caravana do jogador (blocos)</TSA_WD_Intel_PlayerCaravanMaxLos>
+  <TSA_WD_Intel_PlayerCaravanMaxLosTip>Até onde uma caravana real do jogador pode avistar locais hostis para o conjunto de descoberta do jogador (preparação da névoa de guerra). O jogador sempre tem informação perfeita de jogo.</TSA_WD_Intel_PlayerCaravanMaxLosTip>
+  <TSA_WD_Intel_RingFracT1>Anel de alvo T1 (fração do MaxLOS)</TSA_WD_Intel_RingFracT1>
+  <TSA_WD_Intel_RingFracT1Tip>Locais menores, viajantes fracos, torretas AT e edifícios avançados. Avistados apenas dentro desta fração do MaxLOS.</TSA_WD_Intel_RingFracT1Tip>
+  <TSA_WD_Intel_RingFracT2>Anel de alvo T2 (fração do MaxLOS)</TSA_WD_Intel_RingFracT2>
+  <TSA_WD_Intel_RingFracT2Tip>Locais médios e viajantes da classe T2.</TSA_WD_Intel_RingFracT2Tip>
+  <TSA_WD_Intel_RingFracT3>Anel de alvo T3 (fração do MaxLOS)</TSA_WD_Intel_RingFracT3>
+  <TSA_WD_Intel_RingFracT3Tip>Locais grandes e viajantes da classe T3.</TSA_WD_Intel_RingFracT3Tip>
+  <TSA_WD_Intel_RingFracT4>Anel de alvo T4 (fração do MaxLOS)</TSA_WD_Intel_RingFracT4>
+  <TSA_WD_Intel_RingFracT4Tip>Locais maiores e viajantes da classe T4. Geralmente igual ao MaxLOS.</TSA_WD_Intel_RingFracT4Tip>
+  <TSA_WD_Intel_ScoutBearingAvoid>Rumo evitado pelo batedor (graus)</TSA_WD_Intel_ScoutBearingAvoid>
+  <TSA_WD_Intel_ScoutBearingAvoidTip>Batedores evitam lançar em rumos que já tenham um hostil conhecido dentro deste cone.</TSA_WD_Intel_ScoutBearingAvoidTip>
+  <TSA_WD_Intel_ScoutClearWeightMult>Mult. de peso de batedor em área limpa</TSA_WD_Intel_ScoutClearWeightMult>
+  <TSA_WD_Intel_ScoutClearWeightMultTip>Quando o anel de ataque do assentamento não tem hostis conhecidos, o peso do batedor é multiplicado por isto.</TSA_WD_Intel_ScoutClearWeightMultTip>
+  <TSA_WD_Intel_ScoutCooldownDays>Recarga do batedor (dias)</TSA_WD_Intel_ScoutCooldownDays>
+  <TSA_WD_Intel_ScoutCooldownDaysTip>Recarga por assentamento após lançar um batedor.</TSA_WD_Intel_ScoutCooldownDaysTip>
+  <TSA_WD_Intel_ScoutCrackFall>Chance de queda do batedor</TSA_WD_Intel_ScoutCrackFall>
+  <TSA_WD_Intel_ScoutCrackFallTip>Chance de um interceptor NPC tratar um batedor como em queda e deixá-lo passar. Interceptações do jogador não mudam.</TSA_WD_Intel_ScoutCrackFallTip>
+  <TSA_WD_Intel_ScoutMaxLos>MaxLOS do batedor (blocos)</TSA_WD_Intel_ScoutMaxLos>
+  <TSA_WD_Intel_ScoutMaxLosTip>MaxLOS fixo para missões de batedor, independente da força do batedor. Com os anéis padrão, alvos T1 são vistos na metade deste alcance.</TSA_WD_Intel_ScoutMaxLosTip>
+  <TSA_WD_Intel_ScoutStrengthMax>Força máxima do batedor</TSA_WD_Intel_ScoutStrengthMax>
+  <TSA_WD_Intel_ScoutStrengthMaxTip>Força de partida máxima para um batedor.</TSA_WD_Intel_ScoutStrengthMaxTip>
+  <TSA_WD_Intel_ScoutStrengthMin>Força mínima do batedor</TSA_WD_Intel_ScoutStrengthMin>
+  <TSA_WD_Intel_ScoutStrengthMinTip>Força de partida mínima para um batedor. Mantida no limite da classe T2 ou acima, para que batedores continuem elegíveis para AT de longo alcance.</TSA_WD_Intel_ScoutStrengthMinTip>
+  <TSA_WD_Intel_SettlementLosMaxMult>Multiplicador de MaxLOS do assentamento (final + idade máxima)</TSA_WD_Intel_SettlementLosMaxMult>
+  <TSA_WD_Intel_SettlementLosMaxMultTip>No estágio Final e na idade máxima do assentamento, o MaxLOS atinge a linha de base multiplicada por este valor. Metade do crescimento vem da idade, metade do estágio Meio/Final. Não usa zelo nem bônus de alcance de ataque.</TSA_WD_Intel_SettlementLosMaxMultTip>
+  <TSA_WD_Intel_ShowFogOfWar>Mostrar névoa de guerra</TSA_WD_Intel_ShowFogOfWar>
+  <TSA_WD_Intel_ShowFogOfWarTip>Quando ativado, Ver Mundo como escurece blocos não vistos, deixa cinza os blocos explorados fora da linha de visão e oculta locais não descobertos e nomes de acidentes geográficos. Quando desativado, a facção selecionada permanece lembrada, mas o mapa é desenhado totalmente visível. Ativado por padrão. Apenas para a sessão.</TSA_WD_Intel_ShowFogOfWarTip>
+  <TSA_WD_Intel_StrategicExpandSamples>Amostras da Expansão Estratégica</TSA_WD_Intel_StrategicExpandSamples>
+  <TSA_WD_Intel_StrategicExpandSamplesTip>Quantos blocos candidatos a Expansão Estratégica amostra antes de escolher o local afastado mais seguro.</TSA_WD_Intel_StrategicExpandSamplesTip>
+  <TSA_WD_Intel_TravelerMaxLosT1>MaxLOS do viajante T1 (blocos)</TSA_WD_Intel_TravelerMaxLosT1>
+  <TSA_WD_Intel_TravelerMaxLosT1Tip>Visão máxima para a classe de viajante mais fraca.</TSA_WD_Intel_TravelerMaxLosT1Tip>
+  <TSA_WD_Intel_TravelerMaxLosT2>MaxLOS do viajante T2 (blocos)</TSA_WD_Intel_TravelerMaxLosT2>
+  <TSA_WD_Intel_TravelerMaxLosT2Tip>Visão máxima para viajantes da classe T2.</TSA_WD_Intel_TravelerMaxLosT2Tip>
+  <TSA_WD_Intel_TravelerMaxLosT3>MaxLOS do viajante T3 (blocos)</TSA_WD_Intel_TravelerMaxLosT3>
+  <TSA_WD_Intel_TravelerMaxLosT3Tip>Visão máxima para viajantes da classe T3.</TSA_WD_Intel_TravelerMaxLosT3Tip>
+  <TSA_WD_Intel_TravelerMaxLosT4>MaxLOS do viajante T4 (blocos)</TSA_WD_Intel_TravelerMaxLosT4>
+  <TSA_WD_Intel_TravelerMaxLosT4Tip>Visão máxima para a classe de viajante mais forte.</TSA_WD_Intel_TravelerMaxLosT4Tip>
+  <TSA_WD_Intel_TravelerStrengthT2>Classe T2 a partir da força de partida</TSA_WD_Intel_TravelerStrengthT2>
+  <TSA_WD_Intel_TravelerStrengthT2Tip>Viajantes com força de partida igual ou superior a esta são da classe T2. Também é o limiar de tiro de longo alcance AT (faixa externa de precisão).</TSA_WD_Intel_TravelerStrengthT2Tip>
+  <TSA_WD_Intel_TravelerStrengthT3>Classe T3 a partir da força de partida</TSA_WD_Intel_TravelerStrengthT3>
+  <TSA_WD_Intel_TravelerStrengthT3Tip>Viajantes com força de partida igual ou superior a esta são da classe T3.</TSA_WD_Intel_TravelerStrengthT3Tip>
+  <TSA_WD_Intel_TravelerStrengthT4>Classe T4 a partir da força de partida</TSA_WD_Intel_TravelerStrengthT4>
+  <TSA_WD_Intel_TravelerStrengthT4Tip>Viajantes com força de partida igual ou superior a esta são da classe T4.</TSA_WD_Intel_TravelerStrengthT4Tip>
+  <TSA_WD_Intel_ViewAsFactionDefeated>{0} (derrotado)</TSA_WD_Intel_ViewAsFactionDefeated>
+  <TSA_WD_Intel_ViewAsFactionSelected>{0} (selecionado)</TSA_WD_Intel_ViewAsFactionSelected>
+  <TSA_WD_Intel_ViewAsGateOff>O bloqueio de informações está em Nunca (funcionalidade desativada)</TSA_WD_Intel_ViewAsGateOff>
+  <TSA_WD_Intel_ViewAsPlayerSelected>{0} (selecionado)</TSA_WD_Intel_ViewAsPlayerSelected>
+  <TSA_WD_Intel_ViewAsPlayerShort>Jogador</TSA_WD_Intel_ViewAsPlayerShort>
+  <TSA_WD_Intel_ViewAsPlayerTip>A visão do Jogador mostra o mapa-múndi completo (tudo visível). Jogo normal.</TSA_WD_Intel_ViewAsPlayerTip>
+  <TSA_WD_Intel_ViewAsTip>Sobreposição do mapa-múndi válida apenas para a sessão. Oculta locais e colunas que a facção não descobriu. Escurece locais conhecidos fora da linha de visão atual. Não altera a névoa de jogo nem os cálculos de incursão. Escolha Jogador para restaurar o mapa completo.</TSA_WD_Intel_ViewAsTip>
+  <TSA_WD_Intel_ViewWorldAs>Ver Mundo como: {0}</TSA_WD_Intel_ViewWorldAs>
+  <TSA_WD_Intel_WeightScout>Peso da ação de batedor</TSA_WD_Intel_WeightScout>
+  <TSA_WD_Intel_WeightScoutTip>Peso de ação diária para lançar batedores de anel. Na mesma faixa de Comerciante por padrão.</TSA_WD_Intel_WeightScoutTip>
+  <TSA_WD_Intel_WeightStrategicExpand>Peso da Expansão Estratégica</TSA_WD_Intel_WeightStrategicExpand>
+  <TSA_WD_Intel_WeightStrategicExpandTip>Peso de ação diária da Expansão Estratégica. A fundação prefere blocos seguros e afastados: fora da visão de inimigos próximos, longe de corredores geodésicos até os hostis mais próximos e não em direção ao jogador. Usa conhecimento perfeito dos hostis próximos (não depende da névoa da lógica de incursão).</TSA_WD_Intel_WeightStrategicExpandTip>
+  <TSA_WD_KeyUnbound>Nenhuma</TSA_WD_KeyUnbound>
+  <TSA_WD_Letter_RoadCancelledByTrench_Label>Projeto de estrada cancelado</TSA_WD_Letter_RoadCancelledByTrench_Label>
+  <TSA_WD_Letter_RoadCancelledByTrench_Text>{0} cancelou sua missão de construção de estrada porque o traçado seguia uma vala de trincheira ou não conseguia atravessá-la limpidamente.</TSA_WD_Letter_RoadCancelledByTrench_Text>
+  <TSA_WD_Letter_SettlementDestroyedByPollution_Label>Assentamento destruído pela poluição</TSA_WD_Letter_SettlementDestroyedByPollution_Label>
+  <TSA_WD_Letter_SettlementDestroyedByPollution_Text>{0} desabou. A poluição nas proximidades reduziu sua força a zero. Edifícios avançados e fortificações desapareceram. Ruínas permanecem por um tempo.</TSA_WD_Letter_SettlementDestroyedByPollution_Text>
+  <TSA_WD_Letter_TrenchCancelledByRoad_Label>Projeto de trincheira cancelado</TSA_WD_Letter_TrenchCancelledByRoad_Label>
+  <TSA_WD_Letter_TrenchCancelledByRoad_Text>{0} cancelou a escavação da trincheira porque o traçado seguia uma estrada ou não conseguia atravessá-la limpidamente.</TSA_WD_Letter_TrenchCancelledByRoad_Text>
+  <TSA_WD_Log_Intel_Discovered>INFORMAÇÕES: {0} descobriu {1}.</TSA_WD_Log_Intel_Discovered>
+  <TSA_WD_Log_OutpostUpgradeBatchApplied>MELHORIA DE POSTO AVANÇADO: {0} concluiu {1} melhorias ({2}).</TSA_WD_Log_OutpostUpgradeBatchApplied>
+  <TSA_WD_Log_OutpostUpgradeBatchLaunched>MELHORIA DE POSTO AVANÇADO: Caravana lançada de {0} para {1} levando {2} melhorias ({3}).</TSA_WD_Log_OutpostUpgradeBatchLaunched>
+  <TSA_WD_Log_ScoutLaunched>BATEDOR: {0} enviou {1} caravana(s) de batedor.</TSA_WD_Log_ScoutLaunched>
+  <TSA_WD_Log_StrategicExpeditionLaunched>EXPANSÃO ESTRATÉGICA: {0} enviou colonos para uma fronteira mais segura.</TSA_WD_Log_StrategicExpeditionLaunched>
+  <TSA_WD_Log_TraderTrade_OutcomeWithInfra>{0} Também colocou {1}.</TSA_WD_Log_TraderTrade_OutcomeWithInfra>
+  <TSA_WD_Msg_AlliedRaidUnknownTarget>{0} não conhece {1}. Ordem de incursão aliada cancelada.</TSA_WD_Msg_AlliedRaidUnknownTarget>
+  <TSA_WD_Notify_OutpostUnpowered>Alerta: posto avançado sem energia</TSA_WD_Notify_OutpostUnpowered>
+  <TSA_WD_Notify_OutpostUnpoweredTip>Mostrar um alerta no lado direito quando um posto avançado do jogador precisa de energia e não está totalmente abastecido.</TSA_WD_Notify_OutpostUnpoweredTip>
+  <TSA_WD_Notify_RoadCancelledByTrench>Carta: estrada cancelada por trincheira</TSA_WD_Notify_RoadCancelledByTrench>
+  <TSA_WD_Notify_RoadCancelledByTrenchTooltip>Quando uma equipe de estrada não pode pavimentar porque o traçado encontra uma trincheira existente, cancela o projeto e mostra uma carta azul de NeutralEvent. Desativado = o projeto ainda é cancelado silenciosamente.</TSA_WD_Notify_RoadCancelledByTrenchTooltip>
+  <TSA_WD_Notify_SettlementDestroyedByPollution>Carta: assentamento destruído pela poluição</TSA_WD_Notify_SettlementDestroyedByPollution>
+  <TSA_WD_Notify_SettlementDestroyedByPollutionTooltip>Quando um assentamento NPC é eliminado porque a poluição próxima reduziu sua força a zero (dentro do raio de carta próximo). Ruínas permanecem por um tempo.</TSA_WD_Notify_SettlementDestroyedByPollutionTooltip>
+  <TSA_WD_Notify_TrenchCancelledByRoad>Carta: trincheira cancelada por estrada</TSA_WD_Notify_TrenchCancelledByRoad>
+  <TSA_WD_Notify_TrenchCancelledByRoadTooltip>Quando uma equipe de trincheira não pode cavar porque o traçado encontra uma estrada existente, cancela o projeto e mostra uma carta azul de NeutralEvent. Desativado = o projeto ainda é cancelado silenciosamente.</TSA_WD_Notify_TrenchCancelledByRoadTooltip>
+  <TSA_WD_OutpostDefense_DeploySection_Support>{0} (Posto Avançado de Apoio)</TSA_WD_OutpostDefense_DeploySection_Support>
+  <TSA_WD_OutpostDefense_DeploySection_Target>{0} (Alvo do Atacante)</TSA_WD_OutpostDefense_DeploySection_Target>
+  <TSA_WD_OutpostDefense_DeploySupportBanner>Colonos de {0} posto(s) avançado(s) próximo(s) podem ser trazidos para dar apoio.</TSA_WD_OutpostDefense_DeploySupportBanner>
+  <TSA_WD_OutpostDefense_DeselectAll>Desmarcar todos</TSA_WD_OutpostDefense_DeselectAll>
+  <TSA_WD_OutpostDefense_DeselectAllTip>Limpar a seleção de implantação de cada posto avançado.</TSA_WD_OutpostDefense_DeselectAllTip>
+  <TSA_WD_OutpostDefense_LootStored>{0} item(ns) recuperado(s) foram armazenados no arsenal de {1}.</TSA_WD_OutpostDefense_LootStored>
+  <TSA_WD_OutpostDefense_OutpostsLabel>Postos avançados</TSA_WD_OutpostDefense_OutpostsLabel>
+  <TSA_WD_OutpostDefense_SkipTrench>Deixá-los passar</TSA_WD_OutpostDefense_SkipTrench>
+  <TSA_WD_OutpostDefense_SmartSelect>Seleção Inteligente</TSA_WD_OutpostDefense_SmartSelect>
+  <TSA_WD_OutpostDefense_SmartSelectTip>Selecione os colonos mais fortes em todos os postos avançados listados até que o orçamento de cada posto esteja cheio.</TSA_WD_OutpostDefense_SmartSelectTip>
+  <TSA_WD_OutpostDefense_TrenchText>Uma caravana hostil de {1} cruzou a linha de trincheiras de {0}. Você pode escolher lutar nas trincheiras ou deixá-los passar. Deixá-los passar significa que não terá outra oportunidade de luta quando pisarem em outro bloco de trincheira do mesmo posto avançado.</TSA_WD_OutpostDefense_TrenchText>
+  <TSA_WD_OutpostDefense_TrenchTitle>Inimigo nas suas trincheiras</TSA_WD_OutpostDefense_TrenchTitle>
+  <TSA_WD_OutpostOverview_HdrPower>Energia</TSA_WD_OutpostOverview_HdrPower>
+  <TSA_WD_OutpostPower_InspectPartial>Energia: {0} / {1} (parcial)</TSA_WD_OutpostPower_InspectPartial>
+  <TSA_WD_OutpostPower_InspectPowered>Energia: {0} / {1} (abastecido)</TSA_WD_OutpostPower_InspectPowered>
+  <TSA_WD_OutpostPower_InspectUnpowered>Energia: {0} / {1} (sem energia)</TSA_WD_OutpostPower_InspectUnpowered>
+  <TSA_WD_OutpostPower_StatusPartial>Parcial</TSA_WD_OutpostPower_StatusPartial>
+  <TSA_WD_OutpostPower_StatusPowered>Abastecido</TSA_WD_OutpostPower_StatusPowered>
+  <TSA_WD_OutpostPower_StatusUnpowered>Sem energia</TSA_WD_OutpostPower_StatusUnpowered>
+  <TSA_WD_OutpostPower_Tip_BaseDemand>Demanda base: {0}</TSA_WD_OutpostPower_Tip_BaseDemand>
+  <TSA_WD_OutpostPower_Tip_KeepColony>Manter (colônia): {0}</TSA_WD_OutpostPower_Tip_KeepColony>
+  <TSA_WD_OutpostPower_Tip_LocalReserve>Reservado para este posto avançado: {0}</TSA_WD_OutpostPower_Tip_LocalReserve>
+  <TSA_WD_OutpostPower_Tip_PlantGen>Gerando {0}</TSA_WD_OutpostPower_Tip_PlantGen>
+  <TSA_WD_OutpostPower_Tip_Supplied>Fornecido: {0}</TSA_WD_OutpostPower_Tip_Supplied>
+  <TSA_WD_OutpostPower_Tip_ToOutpost>→ {0}: {1}</TSA_WD_OutpostPower_Tip_ToOutpost>
+  <TSA_WD_OutpostPower_Tip_TotalDemand>Demanda total: {0}</TSA_WD_OutpostPower_Tip_TotalDemand>
+  <TSA_WD_OutpostPower_Tip_UpgradeDemand>Melhoria {0} ×{1}: {2}</TSA_WD_OutpostPower_Tip_UpgradeDemand>
+  <TSA_WD_OutpostStats_Row_PowerDemand>Demanda Local</TSA_WD_OutpostStats_Row_PowerDemand>
+  <TSA_WD_OutpostStats_Row_PowerDemandTip>Watts que este posto avançado precisa para seus próprios edifícios e melhorias. As usinas de energia cobrem isso com sua própria geração.</TSA_WD_OutpostStats_Row_PowerDemandTip>
+  <TSA_WD_OutpostStats_Row_PowerGeneration>Geração</TSA_WD_OutpostStats_Row_PowerGeneration>
+  <TSA_WD_OutpostStats_Row_PowerGenerationTip>Watts que esta usina gera antes do roteamento por função.</TSA_WD_OutpostStats_Row_PowerGenerationTip>
+  <TSA_WD_OutpostStats_Row_PowerKeepColony>Energia enviada à Colônia</TSA_WD_OutpostStats_Row_PowerKeepColony>
+  <TSA_WD_OutpostStats_Row_PowerKeepColonyTip>Geração restante após a demanda local e as conexões de postos avançados entregues, alimentando as redes elétricas da colônia.</TSA_WD_OutpostStats_Row_PowerKeepColonyTip>
+  <TSA_WD_OutpostStats_Row_PowerRole>Alocação</TSA_WD_OutpostStats_Row_PowerRole>
+  <TSA_WD_OutpostStats_Row_PowerRoleColony>Colônia</TSA_WD_OutpostStats_Row_PowerRoleColony>
+  <TSA_WD_OutpostStats_Row_PowerRoleOutposts>Postos avançados</TSA_WD_OutpostStats_Row_PowerRoleOutposts>
+  <TSA_WD_OutpostStats_Row_PowerRoleTip>Inteligente preenche primeiro a demanda dos postos avançados. Manual permite definir conexões de watts. Manter alimenta a colônia com o resíduo.</TSA_WD_OutpostStats_Row_PowerRoleTip>
+  <TSA_WD_OutpostStats_Row_PowerSentOutposts>Energia enviada a outros Postos Avançados</TSA_WD_OutpostStats_Row_PowerSentOutposts>
+  <TSA_WD_OutpostStats_Row_PowerSentOutpostsTip>Watts efetivamente entregues a outros postos avançados por esta usina.</TSA_WD_OutpostStats_Row_PowerSentOutpostsTip>
+  <TSA_WD_OutpostStats_Row_PowerStatus>Status</TSA_WD_OutpostStats_Row_PowerStatus>
+  <TSA_WD_OutpostStats_Row_PowerStatusTip>Totalmente abastecido apenas quando os watts fornecidos atendem à demanda. Fornecimento parcial não escala a produção.</TSA_WD_OutpostStats_Row_PowerStatusTip>
+  <TSA_WD_OutpostStats_Row_PowerSupplied>Fornecimento Local</TSA_WD_OutpostStats_Row_PowerSupplied>
+  <TSA_WD_OutpostStats_Row_PowerSuppliedTip>Watts cobrindo atualmente a demanda local deste posto avançado (de usinas conectadas ou da própria geração em usinas de energia).</TSA_WD_OutpostStats_Row_PowerSuppliedTip>
+  <TSA_WD_OutpostStats_Row_PowerSurplus>Excedente</TSA_WD_OutpostStats_Row_PowerSurplus>
+  <TSA_WD_OutpostStats_Row_PowerSurplusTip>Geração menos a demanda local desta usina — watts disponíveis para enviar aos postos avançados ou à colônia.</TSA_WD_OutpostStats_Row_PowerSurplusTip>
+  <TSA_WD_OutpostStats_Row_RoadTimeGlitter>Tempo por segmento de tecnobrilho</TSA_WD_OutpostStats_Row_RoadTimeGlitter>
+  <TSA_WD_OutpostStats_Row_RoadTimeGlitterTip>Dias estimados para preparar um segmento de estrada de tecnobrilho com a habilidade de Construção cumulativa atual (apenas preenchimento da barra de progresso; exclui viagem da caravana).</TSA_WD_OutpostStats_Row_RoadTimeGlitterTip>
+  <TSA_WD_OutpostStats_Row_ScavengingYieldMath>{0} × {1} prata/colono = {2} de valor de mercado alvo base por ciclo.</TSA_WD_OutpostStats_Row_ScavengingYieldMath>
+  <TSA_WD_OutpostStats_Row_ScavengingYieldValue>{0} colonos na guarnição → ~{1} de valor ({2})</TSA_WD_OutpostStats_Row_ScavengingYieldValue>
+  <TSA_WD_OutpostStats_Row_UnpoweredFactor>Produção sem energia</TSA_WD_OutpostStats_Row_UnpoweredFactor>
+  <TSA_WD_OutpostStats_Row_UnpoweredFactorTip>Produção e pesquisa multiplicam por isso enquanto sem energia (do XML do posto avançado).</TSA_WD_OutpostStats_Row_UnpoweredFactorTip>
+  <TSA_WD_OutpostStats_Section_Power>Energia</TSA_WD_OutpostStats_Section_Power>
+  <TSA_WD_OutpostUpgradeImpact_PowerDemand>Demanda de energia</TSA_WD_OutpostUpgradeImpact_PowerDemand>
+  <TSA_WD_OutpostUpgradeImpact_TrenchDefenseTurrets>Torretas de Defesa de Trincheira</TSA_WD_OutpostUpgradeImpact_TrenchDefenseTurrets>
+  <TSA_WD_OutpostUpgrades_BatchConfirm>Confirmar</TSA_WD_OutpostUpgrades_BatchConfirm>
+  <TSA_WD_OutpostUpgrades_BatchCostHeader>Custo</TSA_WD_OutpostUpgrades_BatchCostHeader>
+  <TSA_WD_OutpostUpgrades_BatchListHeader>Melhorias</TSA_WD_OutpostUpgrades_BatchListHeader>
+  <TSA_WD_OutpostUpgrades_BatchNeedSelection>Selecione uma ou mais melhorias construíveis.</TSA_WD_OutpostUpgrades_BatchNeedSelection>
+  <TSA_WD_OutpostUpgrades_BatchPodCost>Componentes x{0}</TSA_WD_OutpostUpgrades_BatchPodCost>
+  <TSA_WD_OutpostUpgrades_BatchPodHeader>Cápsulas de transporte</TSA_WD_OutpostUpgrades_BatchPodHeader>
+  <TSA_WD_OutpostUpgrades_BatchPodLaunches>Lançamentos de cápsula de queda: {0}</TSA_WD_OutpostUpgrades_BatchPodLaunches>
+  <TSA_WD_OutpostUpgrades_BatchPodTitle>Transporte por cápsula de queda</TSA_WD_OutpostUpgrades_BatchPodTitle>
+  <TSA_WD_OutpostUpgrades_BatchSameLineDropped>Seleções da mesma linha descartadas (mantido o nível mais alto): {0}</TSA_WD_OutpostUpgrades_BatchSameLineDropped>
+  <TSA_WD_OutpostUpgrades_BatchTitle>{0}: Construir melhorias selecionadas</TSA_WD_OutpostUpgrades_BatchTitle>
+  <TSA_WD_OutpostUpgrades_BatchTotalHeader>Custo total</TSA_WD_OutpostUpgrades_BatchTotalHeader>
+  <TSA_WD_OutpostUpgrades_BenefitPowerDemand>Demanda de energia +{0}</TSA_WD_OutpostUpgrades_BenefitPowerDemand>
+  <TSA_WD_OutpostUpgrades_BenefitTrenchDefenseTurrets>Adiciona torretas aos mapas de defesa de trincheira</TSA_WD_OutpostUpgrades_BenefitTrenchDefenseTurrets>
+  <TSA_WD_OutpostUpgrades_BuildSelected>Construir selecionados ({0})</TSA_WD_OutpostUpgrades_BuildSelected>
+  <TSA_WD_OutpostUpgrades_BuildSelectedTip>Confirme e lance um viajante levando {0} melhoria(s) selecionada(s).</TSA_WD_OutpostUpgrades_BuildSelectedTip>
+  <TSA_WD_OutpostUpgrades_ComponentsLabel>Componentes</TSA_WD_OutpostUpgrades_ComponentsLabel>
+  <TSA_WD_OutpostUpgrades_CostPowerDemand>Demanda de energia +{0}</TSA_WD_OutpostUpgrades_CostPowerDemand>
+  <TSA_WD_OutpostUpgrades_CostPowerDemandTip>Eletricidade contínua que esta melhoria adiciona à demanda de energia do posto avançado (fornecida por usinas de energia).</TSA_WD_OutpostUpgrades_CostPowerDemandTip>
+  <TSA_WD_OutpostUpgrades_DeselectTip>Remover esta melhoria da seleção de construção.</TSA_WD_OutpostUpgrades_DeselectTip>
+  <TSA_WD_OutpostUpgrades_FilterAllBonuses>Todos os bônus</TSA_WD_OutpostUpgrades_FilterAllBonuses>
+  <TSA_WD_OutpostUpgrades_PendingCount>{0} melhorias em trânsito</TSA_WD_OutpostUpgrades_PendingCount>
+  <TSA_WD_OutpostUpgrades_SelectDisabled>Não é possível selecionar esta melhoria agora.</TSA_WD_OutpostUpgrades_SelectDisabled>
+  <TSA_WD_OutpostUpgrades_SelectDisabledPending>Não é possível alterar a seleção enquanto há melhorias em trânsito.</TSA_WD_OutpostUpgrades_SelectDisabledPending>
+  <TSA_WD_OutpostUpgrades_SelectDisabledSameLine>Não é possível selecionar várias melhorias da mesma linha de melhoria.</TSA_WD_OutpostUpgrades_SelectDisabledSameLine>
+  <TSA_WD_OutpostUpgrades_SelectTip>Incluir esta melhoria na próxima ordem de construção.</TSA_WD_OutpostUpgrades_SelectTip>
+  <TSA_WD_PawnCol_RelevantSkillXpPerDayTip>{0} XP/dia em {1} para cada colono enquanto a produção está ativa (paixões e fator de aprendizado se aplicam; para no nível de habilidade {2}). Dias ociosos, pausados ou bloqueados não concedem nada.</TSA_WD_PawnCol_RelevantSkillXpPerDayTip>
+  <TSA_WD_PawnDropPod_UnescortedFreed>{0} prisioneiro(s)/escravo(s) libertado(s): o destino desapareceu antes da chegada.</TSA_WD_PawnDropPod_UnescortedFreed>
+  <TSA_WD_PawnDropPod_UnescortedLostFreedBoth>{0} prisioneiro(s)/escravo(s) libertado(s) e {1} mecanoides perdidos: o destino desapareceu antes da chegada.</TSA_WD_PawnDropPod_UnescortedLostFreedBoth>
+  <TSA_WD_PawnDropPod_UnescortedLostLabel>Cápsulas de queda sem escolta perdidas</TSA_WD_PawnDropPod_UnescortedLostLabel>
+  <TSA_WD_PawnDropPod_UnescortedLostMechs>{0} mecanoides perdidos: o destino desapareceu antes da chegada.</TSA_WD_PawnDropPod_UnescortedLostMechs>
+  <TSA_WD_PawnDropPod_UnescortedSelectTip>Cápsula de queda para um posto avançado ou colônia do jogador: não é necessário escolta colono livre para prisioneiros, escravos ou mecanoides.</TSA_WD_PawnDropPod_UnescortedSelectTip>
+  <TSA_WD_PawnRoster_ColHediffs>Ferimentos</TSA_WD_PawnRoster_ColHediffs>
+  <TSA_WD_PowerPlant_Gizmo_RoleColony>Função de energia: Colônia</TSA_WD_PowerPlant_Gizmo_RoleColony>
+  <TSA_WD_PowerPlant_Gizmo_RoleColonyDesc>Esta usina alimenta as redes elétricas da sua colônia. Clique para mudá-la e abastecer os postos avançados próximos.</TSA_WD_PowerPlant_Gizmo_RoleColonyDesc>
+  <TSA_WD_PowerPlant_Gizmo_RoleOutposts>Função de energia: Postos avançados</TSA_WD_PowerPlant_Gizmo_RoleOutposts>
+  <TSA_WD_PowerPlant_Gizmo_RoleOutpostsDesc>Esta usina alimenta a rede elétrica dos postos avançados dentro do alcance de fornecimento. Clique para mudá-la e abastecer a colônia.</TSA_WD_PowerPlant_Gizmo_RoleOutpostsDesc>
+  <TSA_WD_PowerPlant_InspectGenerated>{0} gerada</TSA_WD_PowerPlant_InspectGenerated>
+  <TSA_WD_PowerPlant_InspectSupplyOutposts>Fornece {0} aos postos avançados próximos (não à colônia).</TSA_WD_PowerPlant_InspectSupplyOutposts>
+  <TSA_WD_PowerPlant_OverviewProductOutposts>{0} para postos avançados</TSA_WD_PowerPlant_OverviewProductOutposts>
+  <TSA_WD_PowerPlant_OverviewProductSplit>{0} ({1} postos avançados / {2} colônia)</TSA_WD_PowerPlant_OverviewProductSplit>
+  <TSA_WD_Production_Formula_Power>(Energia)</TSA_WD_Production_Formula_Power>
+  <TSA_WD_Production_Formula_Unpowered>(Sem energia)</TSA_WD_Production_Formula_Unpowered>
+  <TSA_WD_ProjectNoun_Bridge>ponte</TSA_WD_ProjectNoun_Bridge>
+  <TSA_WD_ProjectNoun_Trench>trincheira</TSA_WD_ProjectNoun_Trench>
+  <TSA_WD_Quest_EnableFortifySettlement>Missão de fortificar assentamento</TSA_WD_Quest_EnableFortifySettlement>
+  <TSA_WD_Quest_EnableFortifySettlementTip>Após o término da introdução das operações de espionagem (ou se essa missão estiver desativada), um aliado ou neutro pode pedir que você Fortifique uma de suas cidades com uma caravana do jogador a partir de um bloco adjacente (Artesanato; adiciona força defensiva). Oferecida apenas uma vez. Desativar interrompe a oferta; uma missão ativa ainda pode ser concluída.</TSA_WD_Quest_EnableFortifySettlementTip>
+  <TSA_WD_Quest_EnableSpyOpsSettlement>Missão de assentamento de operações de espionagem</TSA_WD_Quest_EnableSpyOpsSettlement>
+  <TSA_WD_Quest_EnableSpyOpsSettlementTip>Uma vez após os dias 10 a 16, um aliado (ou neutro) pode pedir que você enfraqueça uma cidade de inimigo compartilhado por meio de Espalhar Desinformação (Social) ou Sabotagem (Artesanato) com uma caravana do jogador a partir de um bloco adjacente. Destruir a cidade não é necessário. Oferecida apenas uma vez. Desativar interrompe a oferta; uma missão ativa ainda pode ser concluída.</TSA_WD_Quest_EnableSpyOpsSettlementTip>
+  <TSA_WD_RapidResponse_DropPodsUnpowered>Cápsulas de queda precisam de energia neste posto avançado.</TSA_WD_RapidResponse_DropPodsUnpowered>
+  <TSA_WD_RemoveTrench>Remover Trincheira</TSA_WD_RemoveTrench>
+  <TSA_WD_RemoveTrenchDesc>Remove braços de trincheira apenas da ponta para o centro (ponta mais externa primeiro).</TSA_WD_RemoveTrenchDesc>
+  <TSA_WD_Req_Tooltip_FishingNeedLakeOrRiver>Pesca precisa de costa, lago ou rio no bloco.</TSA_WD_Req_Tooltip_FishingNeedLakeOrRiver>
+  <TSA_WD_RoadBlockKindTooltip_NoStrength>Trabalho: {0}\nPenalidade de custo: +{1}\nDias est./bloco: {2}\nHP máx.: {3}</TSA_WD_RoadBlockKindTooltip_NoStrength>
+  <TSA_WD_RoadBlockedByTrench>Esse traçado de estrada segue uma vala de trincheira ou se funde a ela de forma rasa demais. Atravesse apenas em ângulo quase reto sobre um bloco compartilhado, ou retire a trincheira / escolha outra rota.</TSA_WD_RoadBlockedByTrench>
+  <TSA_WD_RoadBuilding_GlitterRoad>Estrada de tecnobrilho</TSA_WD_RoadBuilding_GlitterRoad>
+  <TSA_WD_RoadGlitter>Estrada de Tecnobrilho</TSA_WD_RoadGlitter>
+  <TSA_WD_RoadGlitter_Disabled>Estrada de Tecnobrilho (Requer {1} de habilidade de Construção, atual: {0})</TSA_WD_RoadGlitter_Disabled>
+  <TSA_WD_RoadKindTooltip_NoStrength>Trabalho: {0}\nMult. de custo: {1}\nDias est./segmento: {2}</TSA_WD_RoadKindTooltip_NoStrength>
+  <TSA_WD_ScoutCaravan>Caravana de Batedores</TSA_WD_ScoutCaravan>
+  <TSA_WD_SettingsPreset_ApplyTip>Clique para aplicar a predefinição de configurações selecionada</TSA_WD_SettingsPreset_ApplyTip>
+  <TSA_WD_Settings_HelpEmpty>Passe o cursor sobre uma configuração para ver detalhes.</TSA_WD_Settings_HelpEmpty>
+  <TSA_WD_Settings_NavOverview>Visão geral</TSA_WD_Settings_NavOverview>
+  <TSA_WD_Settings_NavOverviewDesc>Predefinições, modo medieval, alternância avançada, redefinir tudo e notas de atualização.</TSA_WD_Settings_NavOverviewDesc>
+  <TSA_WD_Settings_OverviewHint>Escolha uma página à esquerda. Use a busca acima da lista para encontrar qualquer configuração em todas as páginas.</TSA_WD_Settings_OverviewHint>
+  <TSA_WD_Settings_SearchNoResults>Nenhuma configuração encontrada.</TSA_WD_Settings_SearchNoResults>
+  <TSA_WD_Settings_SearchPlaceholder>Buscar em todas as configurações…</TSA_WD_Settings_SearchPlaceholder>
+  <TSA_WD_Settings_SearchTipGlobal>Busque em todas as páginas de configurações por rótulo ou dica. Clique num resultado para ir até lá.</TSA_WD_Settings_SearchTipGlobal>
+  <TSA_WD_SettlementIntel_CaravanInSightTip>Caravana do jogador {0} ({1}). Distância {2} blocos (dentro do alcance de visão do assentamento R = {3}). Caravanas do jogador usam a visibilidade padrão para seleção de alvo; esta linha é apenas contexto de linha de visão.</TSA_WD_SettlementIntel_CaravanInSightTip>
+  <TSA_WD_SettlementIntel_DefeatedSuffix>[derrotado]</TSA_WD_SettlementIntel_DefeatedSuffix>
+  <TSA_WD_SettlementIntel_GotBurnedNoneTip>Nenhuma facção tem atualmente um selo de cautela Tomou um Prejuízo contra este local. Esse selo aparece após uma incursão que subestimou os defensores.</TSA_WD_SettlementIntel_GotBurnedNoneTip>
+  <TSA_WD_SettlementIntel_GotBurnedRowTip>{0} tomou um prejuízo ao atacar este local. Por mais {1} dia(s), sua próxima avaliação contra este alvo infla a força conhecida dos defensores (apenas cautela; sem descoberta gratuita de vizinhos).</TSA_WD_SettlementIntel_GotBurnedRowTip>
+  <TSA_WD_SettlementIntel_Headline>Informações ({0})</TSA_WD_SettlementIntel_Headline>
+  <TSA_WD_SettlementIntel_KindOutpost>Posto avançado</TSA_WD_SettlementIntel_KindOutpost>
+  <TSA_WD_SettlementIntel_KindSettlement>Assentamento</TSA_WD_SettlementIntel_KindSettlement>
+  <TSA_WD_SettlementIntel_KnownFactionAlwaysTip>{0} conhece este local porque colônias do jogador são sempre conhecidas.</TSA_WD_SettlementIntel_KnownFactionAlwaysTip>
+  <TSA_WD_SettlementIntel_KnownFactionNoTip>{0} ainda não conhece este local. A descoberta vem de linha de visão, batedores ou combate.</TSA_WD_SettlementIntel_KnownFactionNoTip>
+  <TSA_WD_SettlementIntel_KnownFactionOwnerTip>{0} possui este local, portanto sempre o conhece.</TSA_WD_SettlementIntel_KnownFactionOwnerTip>
+  <TSA_WD_SettlementIntel_KnownFactionYesTip>{0} conhece este local (pode considerá-lo para incursões de NPC e sistemas relacionados enquanto as informações estão ativas).</TSA_WD_SettlementIntel_KnownFactionYesTip>
+  <TSA_WD_SettlementIntel_No>Não</TSA_WD_SettlementIntel_No>
+  <TSA_WD_SettlementIntel_Refresh>Atualizar</TSA_WD_SettlementIntel_Refresh>
+  <TSA_WD_SettlementIntel_RefreshTooltip>Reconstruir agora a exibição de informações desta aba.</TSA_WD_SettlementIntel_RefreshTooltip>
+  <TSA_WD_SettlementIntel_Row_Active>Informações usadas na Lógica de Incursão?</TSA_WD_SettlementIntel_Row_Active>
+  <TSA_WD_SettlementIntel_Row_ActiveTip>Se o conhecimento é usado na avaliação de incursão com névoa. Requer que o estágio configurado seja atingido. Configuração atual: "{0}".</TSA_WD_SettlementIntel_Row_ActiveTip>
+  <TSA_WD_SettlementIntel_Row_AlwaysKnown>Sempre conhecido (colônia do jogador)</TSA_WD_SettlementIntel_Row_AlwaysKnown>
+  <TSA_WD_SettlementIntel_Row_AlwaysKnownTip>Colônias do jogador com mapa são sempre conhecidas por toda facção. Informações brandas não podem ocultá-las.</TSA_WD_SettlementIntel_Row_AlwaysKnownTip>
+  <TSA_WD_SettlementIntel_Row_BandT1>Anel de visão T1</TSA_WD_SettlementIntel_Row_BandT1>
+  <TSA_WD_SettlementIntel_Row_BandT1Tip>Distância máxima de descoberta de um alvo da classe T1 a partir daqui: MaxLOS × {0}. Também cobre torretas AT e edifícios avançados.</TSA_WD_SettlementIntel_Row_BandT1Tip>
+  <TSA_WD_SettlementIntel_Row_BandT2>Anel de visão T2</TSA_WD_SettlementIntel_Row_BandT2>
+  <TSA_WD_SettlementIntel_Row_BandT2Tip>Distância máxima de descoberta de um alvo da classe T2 a partir daqui: MaxLOS × {0}.</TSA_WD_SettlementIntel_Row_BandT2Tip>
+  <TSA_WD_SettlementIntel_Row_BandT3>Anel de visão T3</TSA_WD_SettlementIntel_Row_BandT3>
+  <TSA_WD_SettlementIntel_Row_BandT3Tip>Distância máxima de descoberta de um alvo da classe T3 a partir daqui: MaxLOS × {0}.</TSA_WD_SettlementIntel_Row_BandT3Tip>
+  <TSA_WD_SettlementIntel_Row_BandT4>Anel de visão T4</TSA_WD_SettlementIntel_Row_BandT4>
+  <TSA_WD_SettlementIntel_Row_BandT4Tip>Distância máxima de descoberta de um alvo da classe T4 a partir daqui: MaxLOS × {0}. Os alvos maiores são visíveis a maior distância.</TSA_WD_SettlementIntel_Row_BandT4Tip>
+  <TSA_WD_SettlementIntel_Row_BaselineR>Linha de base do nível</TSA_WD_SettlementIntel_Row_BaselineR>
+  <TSA_WD_SettlementIntel_Row_BaselineRTip>Linha de base do alcance de ataque do nível deste assentamento. O MaxLOS cresce a partir daqui com a idade e o estágio do jogo (sem zelo, sem bônus de alcance de ataque).</TSA_WD_SettlementIntel_Row_BaselineRTip>
+  <TSA_WD_SettlementIntel_Row_DaysLeft>{0} dia(s) restante(s)</TSA_WD_SettlementIntel_Row_DaysLeft>
+  <TSA_WD_SettlementIntel_Row_MaxLos>MaxLOS</TSA_WD_SettlementIntel_Row_MaxLos>
+  <TSA_WD_SettlementIntel_Row_MaxLosTip>Linha de visão máxima atual. Alvos grandes podem ser vistos até esta borda; alvos pequenos apenas dentro dos anéis internos.</TSA_WD_SettlementIntel_Row_MaxLosTip>
+  <TSA_WD_SettlementIntel_Row_None>Nenhum</TSA_WD_SettlementIntel_Row_None>
+  <TSA_WD_SettlementIntel_Row_NoneTip>Nada a listar aqui.</TSA_WD_SettlementIntel_Row_NoneTip>
+  <TSA_WD_SettlementIntel_Row_StickyOutpost>Posto avançado persistente</TSA_WD_SettlementIntel_Row_StickyOutpost>
+  <TSA_WD_SettlementIntel_Row_StickyOutpostTip>Depois que uma facção descobre este posto avançado, ele permanece conhecido mesmo que a defesa local depois caia para uma faixa de visão mais fraca.</TSA_WD_SettlementIntel_Row_StickyOutpostTip>
+  <TSA_WD_SettlementIntel_Row_Tracking>Descoberta e batedores ativos?</TSA_WD_SettlementIntel_Row_Tracking>
+  <TSA_WD_SettlementIntel_Row_TrackingTip>Se descoberta, batedores e o gizmo Ver estão ativos. Começa quando o bloqueio está configurado (não Nunca). Configuração atual: "{0}".</TSA_WD_SettlementIntel_Row_TrackingTip>
+  <TSA_WD_SettlementIntel_Section_GotBurned>Tomou um Prejuízo</TSA_WD_SettlementIntel_Section_GotBurned>
+  <TSA_WD_SettlementIntel_Section_KnownTo>Conhecido por</TSA_WD_SettlementIntel_Section_KnownTo>
+  <TSA_WD_SettlementIntel_Section_Los>Linha de visão</TSA_WD_SettlementIntel_Section_Los>
+  <TSA_WD_SettlementIntel_Section_SitesInSight>Assentamentos/Postos avançados à vista</TSA_WD_SettlementIntel_Section_SitesInSight>
+  <TSA_WD_SettlementIntel_Section_TravelersInSight>Viajantes à vista</TSA_WD_SettlementIntel_Section_TravelersInSight>
+  <TSA_WD_SettlementIntel_SiteInSightTip>{0}: {1} ({2}). Distância {3} blocos (limite de visão para sua classe: {4}, faixa {5}). Conhecido pela facção deste local: {6}.</TSA_WD_SettlementIntel_SiteInSightTip>
+  <TSA_WD_SettlementIntel_SiteValue>{0}, {1} blocos</TSA_WD_SettlementIntel_SiteValue>
+  <TSA_WD_SettlementIntel_SitesInSightNoneTip>Nenhum assentamento ou posto avançado estrangeiro está atualmente dentro das faixas de visão escaladas por nível deste assentamento.</TSA_WD_SettlementIntel_SitesInSightNoneTip>
+  <TSA_WD_SettlementIntel_StickyNote>Uma vez descoberto, permanece conhecido</TSA_WD_SettlementIntel_StickyNote>
+  <TSA_WD_SettlementIntel_TabLabel>Informações</TSA_WD_SettlementIntel_TabLabel>
+  <TSA_WD_SettlementIntel_TravelerInSightTip>Viajante da WD {0} ({1}). Distância {2} blocos (alcance de avistamento R = {3}). Já conhecido pela facção deste assentamento: {4}.</TSA_WD_SettlementIntel_TravelerInSightTip>
+  <TSA_WD_SettlementIntel_TravelersInSightNoneTip>Nenhum viajante da WD estrangeiro ou caravana do jogador está atualmente dentro dos anéis de alvo MaxLOS deste assentamento.</TSA_WD_SettlementIntel_TravelersInSightNoneTip>
+  <TSA_WD_SettlementIntel_UnknownFaction>Desconhecida</TSA_WD_SettlementIntel_UnknownFaction>
+  <TSA_WD_SettlementIntel_Yes>Sim</TSA_WD_SettlementIntel_Yes>
+  <TSA_WD_SpikeTrapKindTooltip_NoStrength>Trabalho: {0}\nDano: {1}\nDias est./bloco: {2}\nHP máx.: {3}</TSA_WD_SpikeTrapKindTooltip_NoStrength>
+  <TSA_WD_SpyOps_LetterLabelExpired>Missão expirada: [resolvedQuestName]</TSA_WD_SpyOps_LetterLabelExpired>
+  <TSA_WD_SpyOps_LetterLabelFailed>Missão falhou: [resolvedQuestName]</TSA_WD_SpyOps_LetterLabelFailed>
+  <TSA_WD_SpyOps_LetterLabelTargetGone>Missão falhou: {0}</TSA_WD_SpyOps_LetterLabelTargetGone>
+  <TSA_WD_SpyOps_LetterTextExpired>O prazo do pedido de [faction_name] para enfraquecer [enemySettlement_label] se esgotou.</TSA_WD_SpyOps_LetterTextExpired>
+  <TSA_WD_SpyOps_LetterTextHostile>[faction_name] tornou-se hostil. O pedido de operações de espionagem falhou.</TSA_WD_SpyOps_LetterTextHostile>
+  <TSA_WD_SpyOps_LetterTextTargetGone>{0} queria que você enfraquecesse {1}, mas essa cidade desapareceu. O pedido falhou.</TSA_WD_SpyOps_LetterTextTargetGone>
+  <TSA_WD_StatsPane_Intel>Informações</TSA_WD_StatsPane_Intel>
+  <TSA_WD_StatsPane_Main>Estatísticas Principais</TSA_WD_StatsPane_Main>
+  <TSA_WD_StatsPane_MainEmptyAt>Os detalhes de combate desta torreta AT estão na string de inspeção do mundo. Use o painel Informações para descoberta.</TSA_WD_StatsPane_MainEmptyAt>
+  <TSA_WD_StrengthBudget_DeployStoredTip>Veículos, animais e mecanoides começam desmarcados. Marque-os para gastar força ofensiva e trazê-los para a luta.</TSA_WD_StrengthBudget_DeployStoredTip>
+  <TSA_WD_Target_NotHostile>Alvo inválido. Apenas hostis podem ser selecionados.</TSA_WD_Target_NotHostile>
+  <TSA_WD_TileProductivity_FishNeedLakeOrRiver>Sem costa, lago ou rio neste bloco.</TSA_WD_TileProductivity_FishNeedLakeOrRiver>
+  <TSA_WD_TravelerInventory_UpgradeBatchHeader>Melhorias neste envio ({0}):</TSA_WD_TravelerInventory_UpgradeBatchHeader>
+  <TSA_WD_Trench_AlreadyTrench>Esse bloco já tem uma trincheira.</TSA_WD_Trench_AlreadyTrench>
+  <TSA_WD_Trench_ArmTooClose>Deixe pelo menos um bloco vazio entre braços de trincheira separados.</TSA_WD_Trench_ArmTooClose>
+  <TSA_WD_Trench_BadEdge>Borda de trincheira inválida.</TSA_WD_Trench_BadEdge>
+  <TSA_WD_Trench_BlockedByBridge>Não é possível cavar uma trincheira num bloco de ponte.</TSA_WD_Trench_BlockedByBridge>
+  <TSA_WD_Trench_BlockedByFort>Retire as fortificações antes de cavar uma trincheira.</TSA_WD_Trench_BlockedByFort>
+  <TSA_WD_Trench_BlockedByRoad>Não é possível cavar ao longo de uma estrada nem se fundir a ela de forma rasa demais. Atravesse apenas em ângulo quase reto sobre um bloco compartilhado.</TSA_WD_Trench_BlockedByRoad>
+  <TSA_WD_Trench_BlockedByWorldObject>Bloqueado por {0}.</TSA_WD_Trench_BlockedByWorldObject>
+  <TSA_WD_Trench_BuildComplete>Trincheira concluída em {0}.</TSA_WD_Trench_BuildComplete>
+  <TSA_WD_Trench_BuildStarted>Escavação de trincheira iniciada em {0}.</TSA_WD_Trench_BuildStarted>
+  <TSA_WD_Trench_Cancelled>Projeto de trincheira cancelado em {0}.</TSA_WD_Trench_Cancelled>
+  <TSA_WD_Trench_ClearComplete>Remoção de trincheira concluída em {0}.</TSA_WD_Trench_ClearComplete>
+  <TSA_WD_Trench_Disabled>Trincheiras estão desativadas nas configurações Experimentais.</TSA_WD_Trench_Disabled>
+  <TSA_WD_Trench_ForeignNetwork>Essa trincheira pertence a outro local.</TSA_WD_Trench_ForeignNetwork>
+  <TSA_WD_Trench_InvalidPath>Não foi possível planejar um traçado válido de trincheira (terreno, exclusividade, espaçamento ou limites de junção).</TSA_WD_Trench_InvalidPath>
+  <TSA_WD_Trench_MaxDegree>Essa junção já tem três braços (não há junções em X).</TSA_WD_Trench_MaxDegree>
+  <TSA_WD_Trench_MovementExplanation>Trincheira (+{0})</TSA_WD_Trench_MovementExplanation>
+  <TSA_WD_Trench_MustTouchHub>Novos braços de trincheira devem começar com o primeiro segmento a partir deste local.</TSA_WD_Trench_MustTouchHub>
+  <TSA_WD_Trench_NeedNewDig>Escolha um bloco vazio além de uma ponta ou do meio do braço para estender/ramificar, ou cave um novo braço a partir do posto avançado.</TSA_WD_Trench_NeedNewDig>
+  <TSA_WD_Trench_NeedPassableLand>Trincheiras exigem terreno passável (sem água ou intransitável).</TSA_WD_Trench_NeedPassableLand>
+  <TSA_WD_Trench_NoBranch>Não é possível cavar a partir desse bloco de trincheira.</TSA_WD_Trench_NoBranch>
+  <TSA_WD_Trench_NoLoop>Trincheiras não podem formar laços nem revisit um bloco.</TSA_WD_Trench_NoLoop>
+  <TSA_WD_Trench_NoMerge>Trincheiras não podem se fundir nem formar laços.</TSA_WD_Trench_NoMerge>
+  <TSA_WD_Trench_NoOverlap>Trincheiras não podem se sobrepor nem se fundir a outro braço de trincheira.</TSA_WD_Trench_NoOverlap>
+  <TSA_WD_Trench_NoOwner>Nenhum proprietário válido para a trincheira.</TSA_WD_Trench_NoOwner>
+  <TSA_WD_Trench_NoTrench>Não há trincheira ali.</TSA_WD_Trench_NoTrench>
+  <TSA_WD_Trench_NoneOwned>Este local não possui trincheiras.</TSA_WD_Trench_NoneOwned>
+  <TSA_WD_Trench_NotNeighbors>Segmentos de trincheira devem conectar blocos vizinhos.</TSA_WD_Trench_NotNeighbors>
+  <TSA_WD_Trench_NotOnHub>O bloco do centro não pode ser uma trincheira.</TSA_WD_Trench_NotOnHub>
+  <TSA_WD_Trench_OutOfRange>Trincheiras devem permanecer dentro de {0} blocos do centro.</TSA_WD_Trench_OutOfRange>
+  <TSA_WD_Trench_OutpostOnly>Trincheiras só podem ser construídas a partir de postos avançados do jogador.</TSA_WD_Trench_OutpostOnly>
+  <TSA_WD_Trench_RemovalStarted>Remoção de trincheira iniciada em {0}.</TSA_WD_Trench_RemovalStarted>
+  <TSA_WD_Trench_RemoveTipOnly>Remova apenas da ponta de um braço em direção ao centro.</TSA_WD_Trench_RemoveTipOnly>
+  <TSA_WD_Trench_TileInspect>Possui trincheira pertencente a {0}</TSA_WD_Trench_TileInspect>
+  <TSA_WD_Trench_TileReserved>Este bloco está reservado por uma trincheira.</TSA_WD_Trench_TileReserved>
+  <TSA_WD_Trench_TipSelected>Ponto da trincheira selecionado: clique em um bloco vazio para estender ou ramificar (T).</TSA_WD_Trench_TipSelected>
+  <TSA_WD_Trench_WaypointAdded>Ponto de passagem {0} adicionado. Shift+clique para mais, ou clique para confirmar o destino.</TSA_WD_Trench_WaypointAdded>
+  <TSA_WD_Trench_WaypointLabel>Pontos de passagem: {0} (Shift+clique para adicionar, clique para concluir)</TSA_WD_Trench_WaypointLabel>
+  <TSA_WD_Trench_WaypointTip>Clique numa ponta ou no meio do braço para estender / ramificar · Shift+clique para pontos de passagem · Clique em bloco vazio para cavar</TSA_WD_Trench_WaypointTip>
+  <TSA_WD_Update_2_3_65_Body>&lt;size=16&gt;&lt;b&gt;2.3.65 - Necessidades de energia dos postos avançados, melhor defesa de posto avançado e mais&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 1º de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: postos avançados precisam de energia para operar com eficiência total. Apenas postos avançados de Usina de Energia ao alcance podem fornecê-la. A demanda e a penalidade por falta de energia variam conforme o tipo de posto avançado. Melhorias de posto avançado podem aumentar a demanda. A aba Comida do posto avançado agora é Logística, com sub-abas Comida e Eletricidade. Configurável em Dificuldade Econômica (ativada por padrão; o predefinido de dificuldade Fácil a desativa). A demanda por posto avançado e melhoria é baseada em XML, para que você possa alterá-la por patch.\n\n• Nova funcionalidade: ao defender manualmente um posto avançado (sem resolução automática), você pode trazer colonos de postos avançados próximos da mesma forma que a força virtual é somada na resolução automática. Ao escolher quem participa, você pode abrir o arsenal de cada posto avançado participante para alterar os equipamentos.\n\n• Nova funcionalidade: tabelas de colonos (Colonos do Posto Avançado, Todos os Colonos do Jogador, Prisioneiros e o restante dessa família) podem exibir uma coluna Ferimentos. Ela lista os ferimentos/condições de saúde visíveis encontrados nos seus colonos e serve principalmente para filtragem (por exemplo, membros faltando ou outros ferimentos graves). Oculta por padrão; ative-a por Colunas ou Filtragem Avançada.\n\n• Limpeza geral e correções de bugs.\n</TSA_WD_Update_2_3_65_Body>
+  <TSA_WD_Update_2_3_65_Title>Necessidades de energia dos postos avançados, melhor defesa de posto avançado e mais</TSA_WD_Update_2_3_65_Title>
+  <TSA_WD_Update_2_3_66_Body>&lt;size=16&gt;&lt;b&gt;2.3.66 - Grande atualização: Trincheiras!&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 3 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: postos avançados podem cavar braços exclusivos de trincheira. As trincheiras pertencem ao posto avançado que as construiu. Quando uma coluna hostil pisa nelas, você pode Lutar nas trincheiras, Resolver automaticamente ou Deixá-las passar.\n\n• Visualmente, as trincheiras se beneficiam muito do mod Oomby's Trenches e do Vehicles Expanded (armadilhas para tanques). Muito recomendados, mas não obrigatórios.\n\n• Mais uma vez, obrigado ao jogador Pesky pelos ícones de trincheira!\n\n• Trincheiras podem se ramificar, mas braços de postos avançados diferentes não podem se conectar. Você não pode construir estradas, bloqueios de estrada nem nada semelhante em blocos de trincheira. Estabelecer um posto avançado sobre uma trincheira a remove; quaisquer segmentos desconectados também são destruídos.\n\n• Com a melhoria Torretas Automáticas (ou um nível superior) no posto avançado proprietário, os mapas de confronto em trincheira recebem torretas automáticas. Com o Combat Extended, isso inclui metralhadoras M240 estáticas.\n\n• No modo medieval, os mapas de trincheira ignoram defesas modernas e usam espinhos de cavalaria. Conte-me no Discord como isso parece!\n\n• O modo medieval também oculta dicas de interface relacionadas à eletricidade.\n\n• Com o Medieval Overhaul, postos avançados de Caça devem produzir couros processados em vez de peles brutas, e os componentes corretos do Medieval Overhaul devem ser usados nos postos avançados.\n\n• Armas e outros equipamentos de arsenal abandonados num mapa de defesa de posto avançado ou trincheira agora vão para o arsenal daquele posto avançado.\n</TSA_WD_Update_2_3_66_Body>
+  <TSA_WD_Update_2_3_66_Title>Grande atualização: Trincheiras!</TSA_WD_Update_2_3_66_Title>
+  <TSA_WD_Update_2_3_67_Body>&lt;size=16&gt;&lt;b&gt;2.3.67 - Reforma do menu de configurações e revolta&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 4 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• O menu de configurações foi reformulado. Agora está com uma aparência muito mais limpa e, principalmente, conta com uma busca global.\n\n• A revolta foi ajustada (o evento que permite que facções derrotadas voltem ao cenário). Agora elas devem preferir tomar vários assentamentos num agrupamento para aumentar a sobrevivência. Em Diplomacia, Bônus e Penalidades você pode configurar o mínimo e o máximo de assentamentos que uma revolta pode capturar.\n\n• Ampliado o suporte para facções de mods semelhantes a wasters. Essas facções não sofrem mais dano de poluição no mapa-múndi e não enviam mais caravanas de descontaminação para limpar a poluição.\n</TSA_WD_Update_2_3_67_Body>
+  <TSA_WD_Update_2_3_67_Title>Reforma do menu de configurações e revolta</TSA_WD_Update_2_3_67_Title>
+  <TSA_WD_Update_2_3_68_Body>&lt;size=16&gt;&lt;b&gt;2.3.68 - Pequena atualização. Modificadores de custo de Projetos de Construção&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 5 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• No menu de configurações do mod Projetos de Construção, você agora pode modificar o tempo para construir coisas como estradas, trincheiras, torretas AT etc., além do custo de material e de força por meio de controles deslizantes individuais.\n\n• Como solicitado por um jogador via Discord (não deixe de entrar!).\n</TSA_WD_Update_2_3_68_Body>
+  <TSA_WD_Update_2_3_68_Title>Pequena atualização. Modificadores de custo de Projetos de Construção</TSA_WD_Update_2_3_68_Title>
+  <TSA_WD_Update_2_3_69_Body>&lt;size=16&gt;&lt;b&gt;2.3.69 - Pequena atualização. Equipamento tingido e pesquisa medieval&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 6 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Ao ativar o modo medieval, estradas de pedra, pontes e espinhos de cavalo não ficam mais bloqueados pela pesquisa de Usinagem, mas pela pesquisa do Medieval Overhaul "Engenharia".\n\n• Equipamentos tingidos e de ideologia agora devem manter sua identidade ao serem adicionados ao arsenal do posto avançado.\n\n• O limitador de força agora pode ser alternado individualmente para Defesas da Colônia, Defesas de Posto Avançado e Trincheira e Confrontos de Caravana no mapa-múndi.\n</TSA_WD_Update_2_3_69_Body>
+  <TSA_WD_Update_2_3_69_Title>Pequena atualização. Equipamento tingido e pesquisa medieval</TSA_WD_Update_2_3_69_Title>
+  <TSA_WD_Update_2_3_70_Body>&lt;size=16&gt;&lt;b&gt;2.3.70 - Melhorias de Posto Avançado em lote e mais&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 9 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: você agora pode enviar várias melhorias de posto avançado com uma única caravana. Selecione múltiplas melhorias desejadas na caixa de diálogo existente. Essa caixa ficou mais bonita e mais estruturada, separando grupos de itens com espaçadores horizontais.\n\n• Nova funcionalidade: postos avançados de pesca agora também podem ser colocados em blocos de rio e lago. Antes, ficavam limitados apenas a blocos de costa.\n\n• Correção de bug: o algoritmo inteligente de alocação de eletricidade do posto avançado Usina de Energia não funcionava de forma confiável. Deve estar corrigido agora.\n\n• Correção de bug: equipamento enviado via Todo o Equipamento do Jogador não era enviado por cápsula de queda, embora essa opção estivesse selecionada. Deve estar corrigido agora.\n</TSA_WD_Update_2_3_70_Body>
+  <TSA_WD_Update_2_3_70_Title>Melhorias de Posto Avançado em lote e mais</TSA_WD_Update_2_3_70_Title>
+  <TSA_WD_Update_2_3_71_Body>&lt;size=16&gt;&lt;b&gt;2.3.71 - Seletor de cores para facções&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 10 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: vá à Aba Principal da WD &gt; Configurar Escopo. Lá você pode alterar a cor de cada facção pelo seletor de cores. Armazenado por jogo salvo.\n</TSA_WD_Update_2_3_71_Body>
+  <TSA_WD_Update_2_3_71_Title>Seletor de cores para facções</TSA_WD_Update_2_3_71_Title>
+  <TSA_WD_Update_2_3_72_Body>&lt;size=16&gt;&lt;b&gt;2.3.72 - Névoa de guerra dos NPCs, Estradas de Tecnobrilho, melhorias no Arsenal&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 15 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: linha de visão e grafo de conhecimento dos NPCs. Requer ativação manual nas configurações do mod, no novo menu "Informações". Quando ativado, as facções NPC deixarão de saber tudo o que acontece no mapa-múndi e precisam descobrir os inimigos primeiro. Assentamentos e caravanas têm linhas de visão diferentes, que podem ser alternadas por gizmo. Apenas alvos descobertos podem ser alvo de incursões. Limitações conhecidas: quando um assentamento é destruído ou muda de dono, as facções sabem disso automaticamente (para que, por exemplo, morteiros não atirem num aliado por engano).\n\n• Nova funcionalidade: Expansão Estratégica. As facções NPC agora podem escolher com mais inteligência um bloco para se expandir, evitando a linha de visão dos inimigos.\n\n• Nova funcionalidade: caravanas de batedor. Agora elas serão enviadas para encontrar assentamentos e caravanas inimigas.\n\n• Observação: a facção do jogador ainda sabe e vê tudo por enquanto. Envie seu feedback via Discord. O objetivo principal aqui é permitir que pequenos assentamentos T1 no meio do nada sobrevivam, já que eram simplesmente "não vistos/não encontrados" por causa do tamanho reduzido.\n\n• Nova funcionalidade: no arsenal você agora pode selecionar colonos e itens específicos. Novas ações em massa para remover todas as armas e o inventário dos colonos selecionados e, da mesma forma, atribuir automaticamente armas e drogas etc. (para vocês que têm toneladas de colonos nos postos avançados).\n\n• Nova funcionalidade: prisioneiros, escravos e mecanoides agora podem ser enviados por cápsulas de queda sem precisar ser escoltados por colonos comuns (como solicitado via Discord).\n\n• Nova funcionalidade: adicionado um tipo de estrada para o fim de jogo, a "Estrada de Tecnobrilho". Ainda melhor que estradas de asfalto, especialmente para mitigar a penalidade de movimento do inverno. Mas custa plastiaço.\n\n• A missão em que você deve destruir um assentamento inimigo agora também é vencida se você destruir o assentamento por uma ação de sabotagem ou desinformação, ou se, por exemplo, atirar nele com artilharia ou míssil de um mod de terceiros (como relatado via Discord).\n\n• Já lançado no início desta semana via hotfix: colonos agora ganham XP em postos avançados diariamente, e não apenas no fim de um ciclo de produção.\n\n• Já lançado no início desta semana via hotfix: o controle deslizante das configurações do mod para o intervalo de drenagem da boa vontade não funcionava. Corrigido agora.\n</TSA_WD_Update_2_3_72_Body>
+  <TSA_WD_Update_2_3_72_Title>Névoa de guerra dos NPCs, Estradas de Tecnobrilho, melhorias no Arsenal</TSA_WD_Update_2_3_72_Title>
+  <TSA_WD_Update_2_3_73_Body>&lt;size=16&gt;&lt;b&gt;2.3.73 - Ver mapa-múndi como Facção e correções de bugs&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 16 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: ver o mapa-múndi como facção. Com o novo sistema simples de névoa de guerra, você pode ver o mundo como uma facção específica. Isso oculta assentamentos, torretas AT, edifícios avançados e viajantes da WD que eles ainda não descobriram.\n\n• Correção de bug: as novas Estradas de Tecnobrilho podiam aparecer na geração inicial do mundo. Corrigido.\n\n• Correção de bug: corrigido um problema raro em que, num mapa de emboscada/confronto da WD, os inimigos surgiam num bloco de onde não conseguiam alcançar o jogador.\n</TSA_WD_Update_2_3_73_Body>
+  <TSA_WD_Update_2_3_73_Title>Ver mapa-múndi como Facção e correções de bugs</TSA_WD_Update_2_3_73_Title>
+  <TSA_WD_Update_2_3_74_Body>&lt;size=16&gt;&lt;b&gt;2.3.74 - Correções de bugs e melhorias de qualidade de vida&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 18 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Nova funcionalidade: qualquer posto avançado agora pode armazenar qualquer item. Isso permite também retirar itens de colonos ou adicioná-los a eles na aba Arsenal. A aba Arsenal agora também lista animais, mecanoides e veículos do Vehicles Expanded, pois eles podem carregar itens que você quer descarregar (ou carregar).\n\n• Correção de bug: o código para mover prisioneiros de posto avançado para posto avançado via cápsula de queda sem escolta de colono comum já existia. A interface ainda não tinha como fazer isso. Corrigido agora.\n\n• Correção de bug: a tecla de atalho para alternar ações da WD (padrão Alt Esquerdo) agora pode ser completamente desatribuída. Outras teclas como Shift Direito também funcionam corretamente.\n\n• Correção de bug: retratos de animais agora devem ser coloridos corretamente em todas as janelas da WD.\n\n• A maioria dessas alterações foi sinalizada ou solicitada via Discord. Não deixe de entrar no servidor.\n</TSA_WD_Update_2_3_74_Body>
+  <TSA_WD_Update_2_3_74_Title>Correções de bugs e melhorias de qualidade de vida</TSA_WD_Update_2_3_74_Title>
+  <TSA_WD_Update_2_3_75_Body>&lt;size=16&gt;&lt;b&gt;2.3.75 - Expansão estratégica, travessia estrada&lt;&gt;trincheira, novas missões&lt;/b&gt;&lt;/size&gt;\n\n&lt;color=#00FFFFFF&gt;Data de lançamento: 19 de novembro de 2026&lt;/color&gt;\n\n------------------------------\n\n!!!Alterações válidas apenas para a versão 1.7!!!\n\n• Expansão Estratégica aprimorada: as facções agora encontram com mais facilidade um local afastado para um novo assentamento fora do alcance inimigo.\n\n• Nova funcionalidade: poucos jogadores sabiam que você pode enviar um colono com Social elevado ao lado de um assentamento inimigo no mapa-múndi para Espalhar Desinformação (reduz a força do assentamento e pode até destruí-lo). A mesma ideia funciona com um colono com Artesanato elevado para Sabotagem contra inimigos, e Fortificação em assentamentos neutros ou aliados. Adicionadas missões de introdução únicas nos primeiros 10 a 20 dias que concedem boa vontade quando você realiza essas ações.\n\n• Correção de bug: a missão Construir Estrada podia falhar ao contabilizar pontes, ou ser oferecida para um assentamento já conectado por estrada. Corrigido.\n\n• Em uma troca bem-sucedida, as caravanas de comércio agora também podem receber um edifício avançado (estábulo, silo etc.) ou uma torreta AT.\n\n• Estradas agora podem cruzar trincheiras em ângulo quase reto sobre um bloco de mundo compartilhado.\n\n• Correção de bug: remover todos os colonos de um posto avançado via cápsula de queda agora destrói corretamente o posto vazio, da mesma forma que a rota por terra.\n</TSA_WD_Update_2_3_75_Body>
+  <TSA_WD_Update_2_3_75_Title>Expansão estratégica, travessia estrada&lt;&gt;trincheira, novas missões</TSA_WD_Update_2_3_75_Title>
+  <TSA_WD_WorldSetup_RoadGlitter>Estrada de tecnobrilho</TSA_WD_WorldSetup_RoadGlitter>
+  <TS_WD_RaidClamp_ForColony>Limitar pontos de incursão para incursões na colônia</TS_WD_RaidClamp_ForColony>
+  <TS_WD_RaidClamp_ForColonyTooltip>Quando ativado, incursões na sua colônia ficam dentro do piso e teto do narrador abaixo. Quando desativado, a força do atacante é usada como pontos de incursão, sem faixa.</TS_WD_RaidClamp_ForColonyTooltip>
+  <TS_WD_RaidClamp_ForOpenMapClashes>Limitar pontos de incursão para confrontos em mapa aberto</TS_WD_RaidClamp_ForOpenMapClashes>
+  <TS_WD_RaidClamp_ForOpenMapClashesTooltip>Quando ativado, emboscadas, lutas em pontes e confrontos em acampamento ficam dentro do piso e teto abaixo. Quando desativado, a força do viajante é usada como pontos de incursão, sem faixa. Encontros com comerciantes ainda usam guardas de comerciante normais.</TS_WD_RaidClamp_ForOpenMapClashesTooltip>
+  <TS_WD_RaidClamp_ForOutpostAndTrenches>Limitar pontos de incursão para defesa de posto avançado e lutas em trincheira</TS_WD_RaidClamp_ForOutpostAndTrenches>
+  <TS_WD_RaidClamp_ForOutpostAndTrenchesTooltip>Quando ativado, mapas de defesa de posto avançado e lutas em corredor de trincheira ficam dentro do piso e teto abaixo. Quando desativado, a força do viajante é usada como pontos de incursão, sem faixa.</TS_WD_RaidClamp_ForOutpostAndTrenchesTooltip>
 </LanguageData>

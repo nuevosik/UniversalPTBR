@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <APM_Apparel_ArmorHelmetMechamancerHelmet.description>Um capacete pesado de trama de plastiaço integrado a sistemas de coordenação mecanoide. Aumenta o controle geral do usuário sobre mecanoides aliados, ampliando a banda-larga e os grupos de controle do mecanizador, enquanto fornece proteção moderada.</APM_Apparel_ArmorHelmetMechamancerHelmet.description>
+  <APM_Apparel_ArmorHelmetMechamancerHelmet.label>capacete de mecanomante</APM_Apparel_ArmorHelmetMechamancerHelmet.label>
+  <APM_Apparel_MechamancerPack.comps.CompApparelReloadable.chargeNoun>satélite</APM_Apparel_MechamancerPack.comps.CompApparelReloadable.chargeNoun>
+  <APM_Apparel_MechamancerPack.comps.CompApparelReloadable.cooldownGerund>recarregando</APM_Apparel_MechamancerPack.comps.CompApparelReloadable.cooldownGerund>
+  <APM_Apparel_MechamancerPack.description>Uma mochila contendo um computador avançado de expansão de banda-larga e uma antena. Aumenta a banda-larga total máxima e os grupos de controle de um mecanizador. Quando alimentada com aço, pode construir pequenos mecanoides que operam de forma independente sem consumir banda-larga. Cada mecanizador pode implantar até dois mecanoides satélites simultaneamente.</APM_Apparel_MechamancerPack.description>
+  <APM_Apparel_MechamancerPack.label>Mochila de Mecanomante</APM_Apparel_MechamancerPack.label>
+  <APM_Apparel_MechamancerPack.verbs.summon_satellite.label>invocar satélite</APM_Apparel_MechamancerPack.verbs.summon_satellite.label>
+  <APM_Apparel_MechamancerSuit.description>Uma armadura motorizada repleta de equipamentos de assistência ao mecanizador. O traje de mecanomante amplifica drasticamente a banda-larga do mecanizador, fornecendo um escudo de energia pessoal e resistência a dano comparáveis a uma armadura de energia dedicada.</APM_Apparel_MechamancerSuit.description>
+  <APM_Apparel_MechamancerSuit.label>traje de mecanomante</APM_Apparel_MechamancerSuit.label>
+  <APM_ArtilleryProjectile.label>tiro de artilharia de plasma</APM_ArtilleryProjectile.label>
+  <APM_Building_ToxicPurifier.description>O recuperador de poluição é uma solução imperfeita para um problema desastroso. Ele limpa a poluição de uma grande área ao redor de si, além de vaporizar pacotes de resíduos tóxicos. Seu funcionamento é imperfeito devido à taxa extrema em que opera, e há uma chance constante de causar diversos eventos ecológicos graves, como os seguintes: liberar resíduos tóxicos no ar, causando uma chuva tóxica; gerar uma névoa tóxica na área local, abrangendo até vários blocos do mapa-múndi ao redor de onde foi colocado; e deteriorar as relações ao longo do tempo com as facções vizinhas locais. Embora funcione bem, ecologistas e mecanizadores ainda discutem se os efeitos colaterais valem o transtorno.</APM_Building_ToxicPurifier.description>
+  <APM_Building_ToxicPurifier.label>estação purificadora</APM_Building_ToxicPurifier.label>
+  <APM_Bullet_ChargeCarbine.label>tiro de carabina de carga</APM_Bullet_ChargeCarbine.label>
+  <APM_Bullet_ChargeSwordRifle.label>tiro de carga</APM_Bullet_ChargeSwordRifle.label>
+  <APM_Bullet_MaulBlaster.label>tiro de rajada de carga pesada</APM_Bullet_MaulBlaster.label>
+  <APM_Bullet_SatelliteBlaster.label>tiro de rajada de carga leve</APM_Bullet_SatelliteBlaster.label>
+  <APM_CE_Bullet_MaulBlaster.label>projétil de blaster de malho pesado</APM_CE_Bullet_MaulBlaster.label>
+  <APM_CasketBandwidthAmplifier.description>Um módulo de expansão auxiliar projetado para aumentar o caixão de comando usando o poder de processamento bruto de subnúcleos superiores. Ao integrar subnúcleos de alto nível diretamente à rede neural auxiliar do caixão, este dispositivo amplifica significativamente a saída mental do mecanizador. Ele expande o limite de banda-larga disponível, permitindo que o operador controle com segurança uma legião de mecanoides muito maior e mais complexa sem sobrecarregar seu próprio enlace neurológico.</APM_CasketBandwidthAmplifier.description>
+  <APM_CasketBandwidthAmplifier.label>amplificador de sinal de subnúcleo</APM_CasketBandwidthAmplifier.label>
+  <APM_DuelSpot.comps.CompDestroyAfterDelay.countdownLabel>Terminar em</APM_DuelSpot.comps.CompDestroyAfterDelay.countdownLabel>
+  <APM_DuelSpot.description>Um alvo é escolhido para um duelo e um escudo é gerado ao redor dos duelistas. Durante o duelo, ataques à distância, habilidades e dano recebido são aumentados. Além disso, se o duelo não terminar dentro de um determinado prazo, os duelistas recebem um debuff severo. Se qualquer um dos combatentes morrer ou for derrubado, o vencedor recebe um poderoso buff temporário.</APM_DuelSpot.description>
+  <APM_DuelSpot.label>local de duelo</APM_DuelSpot.label>
+  <APM_DuelSpot_Boss.comps.CompDestroyAfterDelay.countdownLabel>Terminar em</APM_DuelSpot_Boss.comps.CompDestroyAfterDelay.countdownLabel>
+  <APM_DuelSpot_Boss.description>Um alvo é escolhido para um duelo e um escudo é gerado ao redor dos duelistas. Durante o duelo, ataques à distância, habilidades e dano recebido são aumentados. Além disso, se o duelo não terminar dentro de um determinado prazo, os duelistas recebem um debuff severo. Se qualquer um dos combatentes morrer ou for derrubado, o vencedor recebe um poderoso buff temporário.</APM_DuelSpot_Boss.description>
+  <APM_DuelSpot_Boss.label>local de duelo</APM_DuelSpot_Boss.label>
+  <APM_DynamoPoweredGenerator.description>Produz energia consumindo urânio. Deve ser reabastecido manualmente de tempos em tempos.</APM_DynamoPoweredGenerator.description>
+  <APM_DynamoPoweredGenerator.label>gerador movido a dínamo</APM_DynamoPoweredGenerator.label>
+  <APM_ExtraChip.comps.CompAnalyzableUnlockResearch.activateDescString>Analisar o chip.</APM_ExtraChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <APM_ExtraChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Analisar...</APM_ExtraChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <APM_ExtraChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Escolha quem deve analisar isto</APM_ExtraChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <APM_ExtraChip.comps.CompAnalyzableUnlockResearch.inspectString>Pode ser analisado por um colono.</APM_ExtraChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <APM_ExtraChip.comps.CompAnalyzableUnlockResearch.jobString>analisar chip</APM_ExtraChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <APM_ExtraChip.description>Um micro-organismo mecanoide tecelão de emoções, projetado para amplificar e regular a força mental extrassensorial. Amplifica artificialmente as emoções e a energia psíquica resultante, limitando ao mesmo tempo o dano à mente. É necessário para produzir certos tipos avançados de mecanoides e equipamentos. Um mecanizador pode estudar este chip para ajudar a desbloquear níveis superiores de pesquisa em tecnologia mecanoide.</APM_ExtraChip.description>
+  <APM_ExtraChip.label>chip de amplificação extrassensorial</APM_ExtraChip.label>
+  <APM_GazerEmplacement.description>Uma instalação de laser fixa e reforçada, construída em torno de um emissor ocular de Gazer recuperado. Não consegue se deslocar após a implantação. Quando mirado manualmente dentro de seu arco de tiro frontal, libera o mesmo feixe devastador de Raio Solar usado por um Gazer e queima tudo em seu caminho, a um custo de energia extremo.</APM_GazerEmplacement.description>
+  <APM_GazerEmplacement.label>instalação de gazer</APM_GazerEmplacement.label>
+  <APM_Gazer_Laser.description>Um laser mais fraco do olho do Gazer</APM_Gazer_Laser.description>
+  <APM_Gazer_Laser.label>laser</APM_Gazer_Laser.label>
+  <APM_GestatorAmplifier.description>Tecnologia bélica roubada da colmeia mecanoide fez com que a tecnologia deste amplificador de gestação caísse nas mãos de orgânicos. Ele aumenta a velocidade de gestação de mecanoides de qualquer gestador mecanoide adjacente a ele.</APM_GestatorAmplifier.description>
+  <APM_GestatorAmplifier.label>amplificador de gestador mecanoide</APM_GestatorAmplifier.label>
+  <APM_Gun_Conqueror_AR.description>Um fuzil de assalto de propósito geral carregado por pulsos, projetado para combates de médio alcance. Altamente confiável em todos os cenários de combate, com cadência de tiro e precisão equilibradas.</APM_Gun_Conqueror_AR.description>
+  <APM_Gun_Conqueror_AR.label>blaster de carga</APM_Gun_Conqueror_AR.label>
+  <APM_Gun_Conqueror_AR.tools.0.label>coronha</APM_Gun_Conqueror_AR.tools.0.label>
+  <APM_Gun_Conqueror_AR.tools.1.label>cano</APM_Gun_Conqueror_AR.tools.1.label>
+  <APM_Gun_Conqueror_AR.tools.barrel.label>Boca do cano</APM_Gun_Conqueror_AR.tools.barrel.label>
+  <APM_Gun_Conqueror_AR.tools.stock.label>Cano</APM_Gun_Conqueror_AR.tools.stock.label>
+  <APM_Gun_Conqueror_DMR.description>Um fuzil de atirador designado que usa tecnologia de carga por pulso. Causa menos dano estrutural por tiro do que uma Lança de Carga completa, mas dispara bem mais rápido e se destaca a médio e longo alcance.</APM_Gun_Conqueror_DMR.description>
+  <APM_Gun_Conqueror_DMR.label>carabina de carga</APM_Gun_Conqueror_DMR.label>
+  <APM_Gun_Conqueror_DMR.tools.0.label>cano</APM_Gun_Conqueror_DMR.tools.0.label>
+  <APM_Gun_Conqueror_DMR.tools.barrel.label>Boca do cano</APM_Gun_Conqueror_DMR.tools.barrel.label>
+  <APM_Gun_Conqueror_SMG.description>Uma submetralhadora compacta de alta cadência de tiro. Extremamente letal em combate próximo, mas sofre forte perda de precisão com a distância.</APM_Gun_Conqueror_SMG.description>
+  <APM_Gun_Conqueror_SMG.label>cuspidor de carga</APM_Gun_Conqueror_SMG.label>
+  <APM_Gun_Conqueror_SMG.tools.0.label>empunhadura</APM_Gun_Conqueror_SMG.tools.0.label>
+  <APM_Gun_Conqueror_SMG.tools.grip.label>Boca do cano</APM_Gun_Conqueror_SMG.tools.grip.label>
+  <APM_Gun_EMP_Impactor.description>Um lançador de granadas eletromagnético de grau mecanoide, com melhor precisão, maior alcance e explosão maior do que variantes mais comuns do mesmo tipo. A vida orgânica tem muitas fraquezas evidentes, e ainda assim os exércitos continuam usando essas ameaças em seus arsenais. A colmeia mecanoide não é diferente.</APM_Gun_EMP_Impactor.description>
+  <APM_Gun_EMP_Impactor.label>impactador EMP</APM_Gun_EMP_Impactor.label>
+  <APM_Gun_EMP_Impactor.tools.0.label>coronha</APM_Gun_EMP_Impactor.tools.0.label>
+  <APM_Gun_EMP_Impactor.tools.1.label>cano</APM_Gun_EMP_Impactor.tools.1.label>
+  <APM_Gun_EMP_Impactor.tools.barrel.label>bobina</APM_Gun_EMP_Impactor.tools.barrel.label>
+  <APM_Gun_EMP_Impactor.tools.stock.label>coronha</APM_Gun_EMP_Impactor.tools.stock.label>
+  <APM_Gun_JavelinRocketLauncher.description>Uma plataforma de mísseis guiados mecanoide. Cada foguete sai do tubo com uma trajetória fixa antes que seu buscador assuma o controle, de modo que o lançador não pode atingir nada que esteja perto o suficiente para ser sobrevoado antes de o míssil virar. O buscador registra o perfil de dano de cada criatura e máquina que encontra, e cada foguete que a reencontra é calibrado para morder mais fundo que o anterior. Estruturas não lhe dão nada para ler, e são atingidas a uma taxa fixa.</APM_Gun_JavelinRocketLauncher.description>
+  <APM_Gun_JavelinRocketLauncher.label>lançador de foguetes javelin</APM_Gun_JavelinRocketLauncher.label>
+  <APM_Gun_JavelinRocketLauncher.tools.0.label>coronha</APM_Gun_JavelinRocketLauncher.tools.0.label>
+  <APM_Gun_JavelinRocketLauncher.tools.1.label>cano</APM_Gun_JavelinRocketLauncher.tools.1.label>
+  <APM_Gun_JavelinRocketLauncher.tools.barrel.label>cano</APM_Gun_JavelinRocketLauncher.tools.barrel.label>
+  <APM_Gun_JavelinRocketLauncher.tools.stock.label>coronha</APM_Gun_JavelinRocketLauncher.tools.stock.label>
+  <APM_Gun_Maul.description>Uma metralhadora pesada aprimorada, carregada por pulsos e de tiro rápido, construída com um martelo cinético integrado à sua estrutura para espancamento devastador em combate próximo. O resfriamento pesado permite rajadas longas e letais, enquanto tecnologias adicionais de interface permitem que certos portadores mecanoides façam overclock e superaquecimento contínuos da saída da arma, levando a efeitos potencialmente desastrosos tanto para o usuário quanto para tudo à frente do cano.</APM_Gun_Maul.description>
+  <APM_Gun_Maul.label>blaster de malho pesado</APM_Gun_Maul.label>
+  <APM_Gun_Maul.tools.0.label>culatra</APM_Gun_Maul.tools.0.label>
+  <APM_Gun_Maul.tools.1.label>malho</APM_Gun_Maul.tools.1.label>
+  <APM_Gun_Maul.tools.butt.label>culatra</APM_Gun_Maul.tools.butt.label>
+  <APM_Gun_Maul.tools.sledge_hammer.label>malho</APM_Gun_Maul.tools.sledge_hammer.label>
+  <APM_Gun_Pulse_Shotgun.description>Combate corpo a corpo contra inimigos mecanizados nunca é uma boa ideia, e a introdução da escopeta de carga transforma essa ideia num desejo de morte. Esta escopeta usa munições de pulso e o resultado é uma excelente ferramenta para abrir brechas em instalações. As forças inimigas costumam ter menos armadura do que instalações de defesa, e até mesmo um militor poderia decidir o resultado desse confronto.</APM_Gun_Pulse_Shotgun.description>
+  <APM_Gun_Pulse_Shotgun.label>Disparo Espalhado de Carga</APM_Gun_Pulse_Shotgun.label>
+  <APM_Gun_Pulse_Shotgun.tools.0.label>cano</APM_Gun_Pulse_Shotgun.tools.0.label>
+  <APM_Gun_Pulse_Shotgun.tools.barrel.label>cano</APM_Gun_Pulse_Shotgun.tools.barrel.label>
+  <APM_Gun_Satellite.description>Um blaster compacto de tiro rápido carregado por pulso, para fogo de supressão de área em espaços apertados. Ainda melhor que seu irmão maior e mais comum, o blaster de carga pesada, em negação de área, ao custo de alcance e dano.</APM_Gun_Satellite.description>
+  <APM_Gun_Satellite.label>supressor de carga leve</APM_Gun_Satellite.label>
+  <APM_Gun_Satellite.tools.0.label>cano</APM_Gun_Satellite.tools.0.label>
+  <APM_Gun_Satellite.tools.barrel.label>cano</APM_Gun_Satellite.tools.barrel.label>
+  <APM_Gun_Vassal_SwordRifle.description>Um fuzil-espada de tiro carregado. Mais fraco que um fuzil de carga, porém mais preciso e capaz de combate corpo a corpo.</APM_Gun_Vassal_SwordRifle.description>
+  <APM_Gun_Vassal_SwordRifle.label>fuzil-espada de carga</APM_Gun_Vassal_SwordRifle.label>
+  <APM_Gun_Vassal_SwordRifle.tools.0.label>coronha</APM_Gun_Vassal_SwordRifle.tools.0.label>
+  <APM_Gun_Vassal_SwordRifle.tools.1.label>ponta</APM_Gun_Vassal_SwordRifle.tools.1.label>
+  <APM_Gun_Vassal_SwordRifle.tools.2.label>lâmina</APM_Gun_Vassal_SwordRifle.tools.2.label>
+  <APM_Gun_Vassal_SwordRifle.tools.blade.label>gume</APM_Gun_Vassal_SwordRifle.tools.blade.label>
+  <APM_Gun_Vassal_SwordRifle.tools.point.label>lâmina</APM_Gun_Vassal_SwordRifle.tools.point.label>
+  <APM_Gun_Vassal_SwordRifle.tools.stock.label>coronha</APM_Gun_Vassal_SwordRifle.tools.stock.label>
+  <APM_HazeToxicPuddle.label>resíduo ácido</APM_HazeToxicPuddle.label>
+  <APM_Haze_BeamGun.description>Um emissor de feixe de tesseron torcido numa máquina que cospe resíduos tóxicos além de plasma; os produtos deste canhão são monstrosamente perigosos para a vida orgânica. O medo é apenas mais um ponto de apoio da superinteligência mecanoide.</APM_Haze_BeamGun.description>
+  <APM_Haze_BeamGun.label>Murchador de Feixe</APM_Haze_BeamGun.label>
+  <APM_Haze_BeamGun.tools.0.label>cano</APM_Haze_BeamGun.tools.0.label>
+  <APM_Haze_BeamGun.tools.barrel.label>cano</APM_Haze_BeamGun.tools.barrel.label>
+  <APM_MechCommandCasket.comps.CompRemoteMechCasketAbilities.labelShort>Caixão</APM_MechCommandCasket.comps.CompRemoteMechCasketAbilities.labelShort>
+  <APM_MechCommandCasket.description>O ápice da engenharia de mecanizadores, um sarcófago monumental que encarna poder absoluto e majestade tecnológica. Fundindo tecnologias de meca-conexão e bioescultura, permite que o usuário nele contido comande suas legiões em absoluta segurança. Porém, seu verdadeiro poder está dentro: uma réplica altamente complexa de um cérebro 'Cerebrex' está integrada ao seu núcleo. Isso permite que o caixão atravesse interferências atmosféricas e se conecte diretamente à rede mecanoide global em órbita. Ao sequestrar o poder de processamento desses sistemas orbitais, o mecanizador pode transmitir seus comandos por distâncias colossais, controlando seus mecanoides mesmo quando estão a blocos de distância no mapa-múndi.</APM_MechCommandCasket.description>
+  <APM_MechCommandCasket.label>caixão de comando</APM_MechCommandCasket.label>
+  <APM_MechCommandCasket_Ancient.description>O ápice da engenharia de mecanizadores, um sarcófago monumental que encarna poder absoluto e majestade tecnológica. Fundindo tecnologias de meca-conexão e bioescultura, permite que o usuário nele contido comande suas legiões em absoluta segurança. Porém, seu verdadeiro poder está dentro: uma réplica altamente complexa de um cérebro 'Cerebrex' está integrada ao seu núcleo. Isso permite que o caixão atravesse interferências atmosféricas e se conecte diretamente à rede mecanoide global em órbita. Ao sequestrar o poder de processamento desses sistemas orbitais, o mecanizador pode transmitir seus comandos por distâncias colossais, controlando seus mecanoides mesmo quando estão a blocos de distância no mapa-múndi.</APM_MechCommandCasket_Ancient.description>
+  <APM_MechCommandCasket_Ancient.label>caixão de comando</APM_MechCommandCasket_Ancient.label>
+  <APM_Mech_Aegis.description>O Aegis é um mecanoide poderoso que sacrifica capacidades ofensivas em prol da maestria defensiva. A frase 'a melhor defesa é um bom ataque' faz todo sentido com os escudos duplos do Aegis.</APM_Mech_Aegis.description>
+  <APM_Mech_Aegis.label>Aegis</APM_Mech_Aegis.label>
+  <APM_Mech_Aegis.tools.0.label>escudo esquerdo</APM_Mech_Aegis.tools.0.label>
+  <APM_Mech_Aegis.tools.1.label>escudo direito</APM_Mech_Aegis.tools.1.label>
+  <APM_Mech_Celerus.description>Três tipos poderosos de mecanoides foram criados por uma mente arquotecnológica numa tentativa de criar um comandante central de todas as forças mecanoides. Influenciado pela região da Velha Terra chamada Japão durante seu período Sengoku, o ágil e furtivo Celerus não é mais fraco por causa de sua velocidade. Ele tem a capacidade de dar saltos curtos ao redor de si, bem como criar uma cortina de fumaça para dificultar a percepção que os inimigos têm dele e de tudo ao redor, tornando-se ainda psiquicamente imperceptível nessa área. Além desses efeitos, os inimigos receberão periodicamente.</APM_Mech_Celerus.description>
+  <APM_Mech_Celerus.label>Celerus</APM_Mech_Celerus.label>
+  <APM_Mech_CelerusB.description>Três tipos poderosos de mecanoides foram criados por uma mente arquotecnológica numa tentativa de criar um comandante central de todas as forças mecanoides. Influenciado pela região da Velha Terra chamada Japão durante seu período Sengoku, o ágil e furtivo Celerus não é mais fraco por causa de sua velocidade. Ele tem a capacidade de dar saltos curtos ao redor de si, bem como criar uma cortina de fumaça para dificultar a percepção que os inimigos têm dele e de tudo ao redor, tornando-se ainda psiquicamente imperceptível nessa área. Além desses efeitos, os inimigos receberão periodicamente.</APM_Mech_CelerusB.description>
+  <APM_Mech_CelerusB.label>Celerus</APM_Mech_CelerusB.label>
+  <APM_Mech_Conqueror_AR.description>O conqueror é um mecanoide de infantaria completo, criado para equilibrar as especializações dos tipos existentes de scyther e lancer. Eles têm força extra em número, pois seus sistemas conseguem se conectar a outros conquerors aliados ao alcance, aumentando seu poder de processamento e, por consequência, sua eficácia em conjunto. Além disso, uma unidade do grupo pode escolher fazer overclock de sua unidade de processamento compartilhada, dando aos conquerors próximos um impulso maior, ao custo de queimar completamente os componentes físicos da unidade overclockada.\nEste está armado com um poderoso Blaster de Carga.</APM_Mech_Conqueror_AR.description>
+  <APM_Mech_Conqueror_AR.label>Conqueror blaster</APM_Mech_Conqueror_AR.label>
+  <APM_Mech_Conqueror_DMR.description>O conqueror é um mecanoide de infantaria completo, criado para equilibrar as especializações dos tipos existentes de scyther e lancer. Eles têm força extra em número, pois seus sistemas conseguem se conectar a outros conquerors aliados ao alcance, aumentando seu poder de processamento e, por consequência, sua eficácia em conjunto. Além disso, uma unidade do grupo pode escolher fazer overclock de sua unidade de processamento compartilhada, dando aos conquerors próximos um impulso maior, ao custo de queimar completamente os componentes físicos da unidade overclockada.\nEste está armado com uma Carabina de Carga de alta potência.</APM_Mech_Conqueror_DMR.description>
+  <APM_Mech_Conqueror_DMR.label>Conqueror DMR</APM_Mech_Conqueror_DMR.label>
+  <APM_Mech_Conqueror_SMG.description>O conqueror é um mecanoide de infantaria completo, criado para equilibrar as especializações dos tipos existentes de scyther e lancer. Eles têm força extra em número, pois seus sistemas conseguem se conectar a outros conquerors aliados ao alcance, aumentando seu poder de processamento e, por consequência, sua eficácia em conjunto. Além disso, uma unidade do grupo pode escolher fazer overclock de sua unidade de processamento compartilhada, dando aos conquerors próximos um impulso maior, ao custo de queimar completamente os componentes físicos da unidade overclockada.\nEste está armado com um poderoso Cuspidor de Carga.</APM_Mech_Conqueror_SMG.description>
+  <APM_Mech_Conqueror_SMG.label>Conqueror SMG</APM_Mech_Conqueror_SMG.label>
+  <APM_Mech_Dominus.description>Três tipos poderosos de mecanoides foram criados por uma mente arquotecnológica numa tentativa de criar um comandante central de todas as forças mecanoides. Influenciado pela nação da Velha Terra chamada Roma, o Dominus concede buffs consideráveis aos aliados próximos e desafia pessoalmente ameaças percebidas em combate corpo a corpo de 1 contra 1. A força pura de sua determinação se manifesta num redemoinho psíquico que se forma ao redor daqueles que ele desafia, invocando um gerador de escudo e aumentando o dano recebido até que um saia vitorioso ou ele esgote sua vontade após certo tempo. Se isso ocorrer, ambos os duelistas ficarão significativamente enfraquecidos por um período. Se surgir um vencedor, ocorrerá o oposto. Ele pode, como alternativa, canalizar sua vontade numa onda de energia temporária para seus aliados. Além disso, mecanizadores podem estender seu alcance de comando num raio ao redor deste mecanoide se estiver sob seu controle.</APM_Mech_Dominus.description>
+  <APM_Mech_Dominus.label>Dominus</APM_Mech_Dominus.label>
+  <APM_Mech_DominusB.description>Três tipos poderosos de mecanoides foram criados por uma mente arquotecnológica numa tentativa de criar um comandante central de todas as forças mecanoides. Influenciado pela nação da Velha Terra chamada Roma, o Dominus concede buffs consideráveis aos aliados próximos e desafia pessoalmente ameaças percebidas em combate corpo a corpo de 1 contra 1. A força pura de sua determinação se manifesta num redemoinho psíquico que se forma ao redor daqueles que ele desafia, invocando um gerador de escudo e aumentando o dano recebido até que um saia vitorioso ou ele esgote sua vontade após certo tempo. Se isso ocorrer, ambos os duelistas ficarão significativamente enfraquecidos por um período. Se surgir um vencedor, ocorrerá o oposto. Ele pode, como alternativa, canalizar sua vontade numa onda de energia temporária para seus aliados. Além disso, mecanizadores podem estender seu alcance de comando num raio ao redor deste mecanoide se estiver sob seu controle.</APM_Mech_DominusB.description>
+  <APM_Mech_DominusB.label>Dominus</APM_Mech_DominusB.label>
+  <APM_Mech_Dynamo.description>Um híbrido de mecanoide e infraestrutura da colmeia mecanoide, o dynamo é equipado com um reator interno superdimensionado. As desvantagens de sua maior produção de energia significam que os meios vanométricos não bastam para alimentar este reator, sendo necessário urânio para mantê-lo ativo. Ele tem a capacidade de se ancorar no solo e se conectar a uma rede elétrica existente, além de usar sua energia para atuar como um gerador de escudo móvel, podendo processar urânio excedente para regenerar a durabilidade de seu escudo. O Dynamo também concede uma aura na qual todos os mecanoides aliados se recarregam gradualmente.</APM_Mech_Dynamo.description>
+  <APM_Mech_Dynamo.label>dynamo</APM_Mech_Dynamo.label>
+  <APM_Mech_Dynamo.tools.0.label>cabeça</APM_Mech_Dynamo.tools.0.label>
+  <APM_Mech_Frostivus.description>Um mecanoide muito único, o frostivus é uma câmara criogênica móvel. Ele consome material orgânico, como alimentos, para armazenar, congelar e dispensar mediante solicitação. Pode receber a ordem de selar um colono-alvo dentro de si para guardá-lo e ser posteriormente utilizado pela colmeia mecanoide em suas torcidas maquinações.</APM_Mech_Frostivus.description>
+  <APM_Mech_Frostivus.label>Frostivus</APM_Mech_Frostivus.label>
+  <APM_Mech_Frostivus.tools.0.label>perna dianteira esquerda</APM_Mech_Frostivus.tools.0.label>
+  <APM_Mech_Frostivus.tools.1.label>perna dianteira direita</APM_Mech_Frostivus.tools.1.label>
+  <APM_Mech_Frostivus.tools.2.label>cabeça</APM_Mech_Frostivus.tools.2.label>
+  <APM_Mech_Gazer.description>Uma aplicação diferente da tecnologia de hellsphere resultou no Gazer, um mecanoide claramente identificado por seu emissor de feixe ocular principal. Esta arma é tão forte que o Gazer precisa se travar no lugar e desviar todas as funções motoras para se estabilizar ao disparar. Mesmo assim, é necessário um tempo considerável de carga. O feixe resultante pode aniquilar qualquer coisa à sua frente, chegando a causar dano considerável a estruturas. Quando pressionado em combate próximo, o Gazer pode, em vez disso, descarregar a energia acumulada para fora como uma onda de choque violenta que arremessa atacantes para trás e desestabiliza alvos mecanizados próximos.</APM_Mech_Gazer.description>
+  <APM_Mech_Gazer.label>Gazer</APM_Mech_Gazer.label>
+  <APM_Mech_Gazer.tools.0.label>cabeça</APM_Mech_Gazer.tools.0.label>
+  <APM_Mech_Gazer.tools.1.label>pata dianteira esquerda</APM_Mech_Gazer.tools.1.label>
+  <APM_Mech_Gazer.tools.2.label>pata dianteira direita</APM_Mech_Gazer.tools.2.label>
+  <APM_Mech_Haze.description>Uma experiência mecanoide em negação de área orgânica, a haze pode bombear gás tóxico para a área ao redor de si. Seus tiros são especialmente letais, causando acúmulo de toxinas ao acertar. A inteligência da colmeia mecanoide não conhece limites, chegando a reaproveitar seus próprios resíduos para avançar seus objetivos.</APM_Mech_Haze.description>
+  <APM_Mech_Haze.label>Haze</APM_Mech_Haze.label>
+  <APM_Mech_Haze.tools.0.label>cabeça</APM_Mech_Haze.tools.0.label>
+  <APM_Mech_Haze.tools.1.label>pata dianteira esquerda</APM_Mech_Haze.tools.1.label>
+  <APM_Mech_Haze.tools.2.label>pata dianteira direita</APM_Mech_Haze.tools.2.label>
+  <APM_Mech_Ingestor.description>Embora dispositivos de tecnologia mecanoide normalmente dependam de células de energia internas, eletricidade e combustível incendiário ainda são necessários. O ingestor vasculha os restos de campos de batalha em busca de sobreviventes para eliminar e de material orgânico, incluindo cadáveres, para refinar automaticamente em combustível químico dentro de seu chassi.</APM_Mech_Ingestor.description>
+  <APM_Mech_Ingestor.label>Ingestor</APM_Mech_Ingestor.label>
+  <APM_Mech_Ingestor.tools.0.label>cabeça</APM_Mech_Ingestor.tools.0.label>
+  <APM_Mech_Ingestor.tools.1.label>cabeça</APM_Mech_Ingestor.tools.1.label>
+  <APM_Mech_Javelin.description>Embora mecanoides padrão dependam de impactos balísticos diretos, o Javelin atua como um lançador de mísseis móvel usando mecânica de micro-mísseis semiautônomos. Em vez de uma carga útil convencional, ele dispara minúsculos mísseis-mecanoides autoguiados que cruzam lentamente em direção ao alvo com orientação integrada.\n\nO Javelin está equipado com um sistema de mísseis alternável; enquanto seus foguetes básicos aplicam um ferimento de vulnerabilidade acumulável a cada acerto consecutivo contra armadura pesada, ogivas especializadas exigem urânio bruto para disparar — permitindo-lhe desencadear explosões de alto explosivo devastadoras, explosões incendiárias de ampla área ou pulsos EMP incapacitantes, dependendo da situação tática.</APM_Mech_Javelin.description>
+  <APM_Mech_Javelin.label>javelin</APM_Mech_Javelin.label>
+  <APM_Mech_Javelin.tools.0.label>cabeça</APM_Mech_Javelin.tools.0.label>
+  <APM_Mech_Lasher.description>Empunhando um chicote carregado de plasma, este mecanoide foi originalmente projetado para combate pesado e destruição de grupos inimigos na linha de frente, como parte das forças centrais da colmeia. Porém, mecanizadores reconfiguraram suas matrizes comportamentais para revertê-lo ao manejo avançado de animais, domagem e treinamento. Além de sua utilidade agropecuária, sua função principal de combate ainda usa este chicote de plasma em escaramuças de curto alcance, permitindo-lhe derrubar inimigos e causar dano EMP com chance de ativar.</APM_Mech_Lasher.description>
+  <APM_Mech_Lasher.label>Lasher</APM_Mech_Lasher.label>
+  <APM_Mech_Lasher.tools.0.label>punho esquerdo</APM_Mech_Lasher.tools.0.label>
+  <APM_Mech_Lasher.tools.1.label>punho direito</APM_Mech_Lasher.tools.1.label>
+  <APM_Mech_Lasher.tools.2.label>cabeça</APM_Mech_Lasher.tools.2.label>
+  <APM_Mech_Mantis.description>Descendente do conhecido e temido mecanoide scyther, a mantis foi construída para rasgar inimigos em combate corpo a corpo. Combinando componentes mecanoides e músculos artificiais sintetizados, placas de armadura flexíveis porém duráveis e um par de garras de corte de plastiaço ressonantes, este mecanoide supera em muito seus predecessores. Para alvos que ficam além de seu alcance, ela consegue avançar rapidamente num arranco de velocidade, desferindo um golpe veloz. Se suas capacidades físicas já eram temíveis o bastante, ela analisa ativamente o campo de batalha ao redor e escolhe o momento oportuno para ativar seu enxame de mecanitas reparadores instalado, curando-se e potencializando suas habilidades depois de eliminar uma quantidade suficiente de alvos.</APM_Mech_Mantis.description>
+  <APM_Mech_Mantis.label>Mantis</APM_Mech_Mantis.label>
+  <APM_Mech_Mantis.tools.0.label>cabeça</APM_Mech_Mantis.tools.0.label>
+  <APM_Mech_Maul.description>O maul é o princípio central da colmeia mecanoide feito máquina: esmagar e sobrepujar. Impermeável a armas leves, este mecanoide é o flagelo da infantaria, de veículos leves e de instalações de defesa externas. Ele é inteligente o suficiente para saber quando não está levando vantagem, e continuará fazendo overclock e superaquecendo sua arma até o serviço terminar, conforme recebe dano.</APM_Mech_Maul.description>
+  <APM_Mech_Maul.label>Maul</APM_Mech_Maul.label>
+  <APM_Mech_Maul.tools.0.label>punho esquerdo</APM_Mech_Maul.tools.0.label>
+  <APM_Mech_Maul.tools.1.label>punho direito</APM_Mech_Maul.tools.1.label>
+  <APM_Mech_Maul.tools.2.label>cabeça</APM_Mech_Maul.tools.2.label>
+  <APM_Mech_Pulse.description>A mais recente tática de guerra urbana mecanoide é o mecanoide pulse. Projetado para pegar os inimigos de surpresa rompendo estruturas, ele pode então descarregar sua habilidade característica. Os impulsos disparados pelas montagens de ombro deste mecanoide não apenas explodem com um som ensurdecedor, como também cegam oponentes próximos com luz intensa. Um alvo privado dos sentidos não tem chance contra o avanço incessante da colmeia mecanoide. Para os que ainda permanecem de pé, um pacote de salto instalado envia rapidamente este mecanoide ao seu próximo alvo.</APM_Mech_Pulse.description>
+  <APM_Mech_Pulse.label>pulse</APM_Mech_Pulse.label>
+  <APM_Mech_Pulse.tools.0.label>cabeça</APM_Mech_Pulse.tools.0.label>
+  <APM_Mech_Ravager.description>O temido morteiro automático não bastava para saciar a fome de destruição dos mecanoides. A solução? O ravager, uma instalação de artilharia móvel. Capaz de carregar energia excedente em suas células de reserva, ele pode sobrecarregar temporariamente seu canhão e lançar um projétil que se divide em três explosões destrutivas ainda em voo.</APM_Mech_Ravager.description>
+  <APM_Mech_Ravager.label>Ravager</APM_Mech_Ravager.label>
+  <APM_Mech_Ravager.tools.0.label>cabeça</APM_Mech_Ravager.tools.0.label>
+  <APM_Mech_Satellite.description>Equipado com um pacote de levitação, este mecanoide de assalto consegue navegar pela maior parte dos terrenos com facilidade. O satellite pode ser visto sendo invocado por uma mochila de mecanomante para auxiliar aliados ou escoltar comandantes mecanoides em batalha.</APM_Mech_Satellite.description>
+  <APM_Mech_Satellite.label>Satellite</APM_Mech_Satellite.label>
+  <APM_Mech_Satellite.tools.0.label>punho esquerdo</APM_Mech_Satellite.tools.0.label>
+  <APM_Mech_Satellite.tools.1.label>punho direito</APM_Mech_Satellite.tools.1.label>
+  <APM_Mech_Satellite.tools.2.label>cabeça</APM_Mech_Satellite.tools.2.label>
+  <APM_Mech_Siren.description>Aproveitando o fato de que mecanoides têm presença psíquica, o mecanoide siren tem a capacidade de atrair colonos até si, expondo-os ao calor da batalha. Quando controlado por um mecanizador, este mecanoide pode conceder um reforço de humor e recreação aos que estão por perto. Graças às suas habilidades sociais, a siren consegue interagir com prisioneiros.</APM_Mech_Siren.description>
+  <APM_Mech_Siren.label>Siren</APM_Mech_Siren.label>
+  <APM_Mech_Siren.tools.0.label>punho esquerdo</APM_Mech_Siren.tools.0.label>
+  <APM_Mech_Siren.tools.1.label>punho direito</APM_Mech_Siren.tools.1.label>
+  <APM_Mech_Siren.tools.2.label>cabeça</APM_Mech_Siren.tools.2.label>
+  <APM_Mech_Terminus.description>Três tipos poderosos de mecanoides foram criados por uma mente arquotecnológica numa tentativa de criar um comandante central de todas as forças mecanoides. Influenciado pela região da Velha Terra chamada Europa na Idade Média, o Terminus abre caminho através de ondas de inimigos, e nem a distância consegue mitigar sua ira. Sua arma tem a capacidade de varrer uma grande área à sua frente. O Terminus também pode focar sua influência psíquica para dentro, aumentando seu dano e sua resistência a cambaleios. Para inimigos que escapam de seu alcance, ele também está equipado com um gancho de agarre para puxar adversários de longe e finalizá-los. Além disso, mecanizadores podem estender seu alcance de comando num raio ao redor deste mecanoide se estiver sob seu controle.</APM_Mech_Terminus.description>
+  <APM_Mech_Terminus.label>Terminus</APM_Mech_Terminus.label>
+  <APM_Mech_TerminusB.description>Três tipos poderosos de mecanoides foram criados por uma mente arquotecnológica numa tentativa de criar um comandante central de todas as forças mecanoides. Influenciado pela região da Velha Terra chamada Europa na Idade Média, o Terminus abre caminho através de ondas de inimigos, e nem a distância consegue mitigar sua ira. Sua arma tem a capacidade de varrer uma grande área à sua frente. O Terminus também pode focar sua influência psíquica para dentro, aumentando seu dano e sua resistência a cambaleios. Para inimigos que escapam de seu alcance, ele também está equipado com um gancho de agarre para puxar adversários de longe e finalizá-los. Além disso, mecanizadores podem estender seu alcance de comando num raio ao redor deste mecanoide se estiver sob seu controle.</APM_Mech_TerminusB.description>
+  <APM_Mech_TerminusB.label>Terminus</APM_Mech_TerminusB.label>
+  <APM_Mech_Tinker.description>O tinker é um mecanoide de suporte construído para reparar construções e mecanoides da mesma facção. Ele não consegue construir novas estruturas, mas pode projetar uma matriz defensiva sobre aliados e cegar inimigos com um laser direcionado.</APM_Mech_Tinker.description>
+  <APM_Mech_Tinker.label>Tinker</APM_Mech_Tinker.label>
+  <APM_Mech_Tinker.tools.0.label>punho esquerdo</APM_Mech_Tinker.tools.0.label>
+  <APM_Mech_Tinker.tools.1.label>punho direito</APM_Mech_Tinker.tools.1.label>
+  <APM_Mech_Tinker.tools.2.label>cabeça</APM_Mech_Tinker.tools.2.label>
+  <APM_Mech_Vassal.description>A mente da colmeia mecanoide não é um abismo repleto de raiva contra a vida orgânica; ela é cruel e calculista. Ela reconhece a necessidade de coordenação entre suas forças, e é aí que reside o propósito do vassal. Ele concede aos aliados ao redor um impulso de velocidade de movimento e de trabalho. Para aqueles que conseguiram gestar seu próprio vassal livre das garras da colmeia, ele também atua em sinergia com sistemas de comunicação locais, dando aos aliados um reforço de humor e um limiar de colapso mental reduzido. Além disso, mecanizadores podem estender seu alcance de comando num raio ao redor deste mecanoide. Graças à sua inteligência avançada, ele pode se dedicar à fabricação.</APM_Mech_Vassal.description>
+  <APM_Mech_Vassal.label>Vassal</APM_Mech_Vassal.label>
+  <APM_Mech_Vassal.tools.0.label>punho esquerdo</APM_Mech_Vassal.tools.0.label>
+  <APM_Mech_Vassal.tools.1.label>punho direito</APM_Mech_Vassal.tools.1.label>
+  <APM_Mech_Vassal.tools.2.label>cabeça</APM_Mech_Vassal.tools.2.label>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>Instruir o mecanoide a entrar em estase.</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>Escolher mecanoide</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activateDescString>Vai invadir o contêiner para reprogramar o mecanoide dentro.</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activateDescString>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activateLabelString>Invadir</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activateLabelString>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activatingString>invadindo {0}: {1}s</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activatingString>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activatingStringPending>invadindo {0}</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.activatingStringPending>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.guiLabelString>Escolha quem deve invadir isto.</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.guiLabelString>
+  <APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.jobString>invadir contêiner</APM_MechanoidContainer_Ancient.comps.Comp_MechanoidContainerControlled.jobString>
+  <APM_MechanoidContainer_Ancient.description>Um contêiner de estase feito por mãos humanas, deixado funcionando por tanto tempo que quem o construiu já não está mais por perto para dizer o que há dentro. O compartimento de armazenamento indica estar ocupado e o ciclo de preservação ainda gira sobre as últimas reservas. Quebrar o selo acordará seja o que for que está ali dentro, e o enlace neural ao qual ele antes respondia está morto há muito tempo, então um mecanizador deveria conseguir reivindicá-lo.</APM_MechanoidContainer_Ancient.description>
+  <APM_MechanoidContainer_Ancient.label>contêiner de estase mecanoide abandonado</APM_MechanoidContainer_Ancient.label>
+  <APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activateDescString>Vai invadir o contêiner para reprogramar o mecanoide dentro.</APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activateDescString>
+  <APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activateLabelString>Invadir</APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activateLabelString>
+  <APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activatingString>invadindo {0}: {1}s</APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activatingString>
+  <APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activatingStringPending>invadindo {0}</APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.activatingStringPending>
+  <APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.guiLabelString>Escolha quem deve invadir isto.</APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.guiLabelString>
+  <APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.jobString>invadir contêiner</APM_MechanoidContainer_Cluster.comps.Comp_MechanoidContainer.jobString>
+  <APM_MechanoidContainer_Cluster.description>Um contêiner pesado equipado com sistemas autônomos de manutenção de atividade e telas de telemetria arcaicas. Pelos sensores internos, o mecanoide selado dentro foi isolado da mente coletiva logo após sua criação. O dispositivo está em modo de preservação profunda. Seus mecanismos não respondem a códigos de acesso externos, mas o isolamento salvou a máquina da desativação forçada. Ao arrombar este contêiner, pode-se tentar assumir o controle do mecanoide esquecido contido nele.</APM_MechanoidContainer_Cluster.description>
+  <APM_MechanoidContainer_Cluster.label>contêiner de estase mecanoide antigo</APM_MechanoidContainer_Cluster.label>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>Instruir o mecanoide a entrar em estase.</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>Escolher mecanoide</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activateDescString>Vai invadir o contêiner para reprogramar o mecanoide dentro.</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activateDescString>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activateLabelString>Invadir</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activateLabelString>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activatingString>invadindo {0}: {1}s</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activatingString>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activatingStringPending>invadindo {0}</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.activatingStringPending>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.guiLabelString>Escolha quem deve invadir isto.</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.guiLabelString>
+  <APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.jobString>invadir contêiner</APM_MechanoidContainer_Legacy_Lasher.comps.Comp_MechanoidContainerControlled.jobString>
+  <APM_MechanoidContainer_Legacy_Lasher.description>Um dos contêineres de estase da própria guarnição do domínio, ainda selado e ainda girando seu ciclo de preservação sobre as últimas reservas. O mecanizador que o preencheu está morto há muito tempo e o enlace neural ao qual ele respondia morreu com ele, então quem quer que quebre o selo pode reivindicar o que sair.</APM_MechanoidContainer_Legacy_Lasher.description>
+  <APM_MechanoidContainer_Legacy_Lasher.label>contêiner de estase mecanoide selado</APM_MechanoidContainer_Legacy_Lasher.label>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>Instruir o mecanoide a entrar em estase.</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>Escolher mecanoide</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activateDescString>Vai invadir o contêiner para reprogramar o mecanoide dentro.</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activateDescString>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activateLabelString>Invadir</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activateLabelString>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activatingString>invadindo {0}: {1}s</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activatingString>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activatingStringPending>invadindo {0}</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.activatingStringPending>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.guiLabelString>Escolha quem deve invadir isto.</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.guiLabelString>
+  <APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.jobString>invadir contêiner</APM_MechanoidContainer_Legacy_Tinker.comps.Comp_MechanoidContainerControlled.jobString>
+  <APM_MechanoidContainer_Legacy_Tinker.description>Um dos contêineres de estase da própria guarnição do domínio, ainda selado e ainda girando seu ciclo de preservação sobre as últimas reservas. O mecanizador que o preencheu está morto há muito tempo e o enlace neural ao qual ele respondia morreu com ele, então quem quer que quebre o selo pode reivindicar o que sair.</APM_MechanoidContainer_Legacy_Tinker.description>
+  <APM_MechanoidContainer_Legacy_Tinker.label>contêiner de estase mecanoide selado</APM_MechanoidContainer_Legacy_Tinker.label>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>Instruir o mecanoide a entrar em estase.</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>Escolher mecanoide</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activateDescString>Vai invadir o contêiner para reprogramar o mecanoide dentro.</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activateDescString>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activateLabelString>Invadir</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activateLabelString>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activatingString>invadindo {0}: {1}s</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activatingString>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activatingStringPending>invadindo {0}</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.activatingStringPending>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.guiLabelString>Escolha quem deve invadir isto.</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.guiLabelString>
+  <APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.jobString>invadir contêiner</APM_MechanoidContainer_Legacy_Vassal.comps.Comp_MechanoidContainerControlled.jobString>
+  <APM_MechanoidContainer_Legacy_Vassal.description>Um dos contêineres de estase da própria guarnição do domínio, ainda selado e ainda girando seu ciclo de preservação sobre as últimas reservas. O mecanizador que o preencheu está morto há muito tempo e o enlace neural ao qual ele respondia morreu com ele, então quem quer que quebre o selo pode reivindicar o que sair.</APM_MechanoidContainer_Legacy_Vassal.description>
+  <APM_MechanoidContainer_Legacy_Vassal.label>contêiner de estase mecanoide selado</APM_MechanoidContainer_Legacy_Vassal.label>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>Instruir o mecanoide a entrar em estase.</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.ChooseMechDesc>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>Escolher mecanoide</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.ChooseMechLabel>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activateDescString>Extrair o mecanoide do contêiner de estase.</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activateDescString>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activateLabelString>Extrair</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activateLabelString>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activatingString>extraindo de {0}: {1}s</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activatingString>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activatingStringPending>extraindo de {0}</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.activatingStringPending>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.guiLabelString>Escolha quem deve abrir isto.</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.guiLabelString>
+  <APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.jobString>extrair</APM_MechanoidContainer_Player.comps.Comp_MechanoidContainerControlled.jobString>
+  <APM_MechanoidContainer_Player.description>Um contêiner de estase especializado, projetado para o armazenamento seguro de mecanoides. Colocar um mecanoide dentro corta completamente seu enlace neural ativo com o mecanizador e coloca seus sistemas em animação suspensa profunda. Nesse estado, a máquina não consome energia nem ocupa a banda-larga do mecanizador, liberando recursos valiosos da rede. O contêiner permite manter um esquadrão de assalto ou de trabalho em reserva, pronto para implantação a qualquer momento sem risco de sobrecarga da rede.</APM_MechanoidContainer_Player.description>
+  <APM_MechanoidContainer_Player.label>contêiner de estase mecanoide</APM_MechanoidContainer_Player.label>
+  <APM_MechbandAntenna_Celerus.comps.CompUsable.useLabel>Invocar ameaça celerus</APM_MechbandAntenna_Celerus.comps.CompUsable.useLabel>
+  <APM_MechbandAntenna_Celerus.description>Um dispositivo de sinalização de banda-mecanoide mais poderoso que o nó de banda-mecanoide. Quando ativado, emite um pulso de sinal mecanoide de nível ápice, que atrairá um Celerus para atacar com seus acompanhantes. Se você derrotá-lo, poderá coletar tecnologia especial de seu cadáver. O pulso de sinal queima a antena, então esta construção só pode ser usada uma vez.</APM_MechbandAntenna_Celerus.description>
+  <APM_MechbandAntenna_Celerus.label>Pilar de banda-mecanoide</APM_MechbandAntenna_Celerus.label>
+  <APM_MechbandAntenna_Dominus.comps.CompUsable.useLabel>Invocar ameaça dominus</APM_MechbandAntenna_Dominus.comps.CompUsable.useLabel>
+  <APM_MechbandAntenna_Dominus.description>Um dispositivo de sinalização de banda-mecanoide mais poderoso que o arranjo de banda-mecanoide. Quando ativado, emite um pulso de sinal mecanoide de nível ápice, que atrairá um Dominus para atacar com seus acompanhantes. Se você derrotá-lo, poderá coletar tecnologia especial de seu cadáver. O pulso de sinal queima a antena, então esta construção só pode ser usada uma vez.</APM_MechbandAntenna_Dominus.description>
+  <APM_MechbandAntenna_Dominus.label>Nó de banda-mecanoide</APM_MechbandAntenna_Dominus.label>
+  <APM_MechbandAntenna_Gazer.comps.CompUsable.useLabel>Invocar ameaça gazer</APM_MechbandAntenna_Gazer.comps.CompUsable.useLabel>
+  <APM_MechbandAntenna_Gazer.description>Um dispositivo de sinalização de banda-mecanoide mais poderoso que o nó de banda-mecanoide. Quando ativado, emite um pulso de sinal mecanoide de nível ápice, que atrairá um Gazer para atacar com seus acompanhantes. Se você derrotá-lo, poderá coletar tecnologia especial de seu cadáver. O pulso de sinal queima a antena, então esta construção só pode ser usada uma vez.</APM_MechbandAntenna_Gazer.description>
+  <APM_MechbandAntenna_Gazer.label>Arranjo de banda-mecanoide</APM_MechbandAntenna_Gazer.label>
+  <APM_MechbandAntenna_Terminus.comps.CompUsable.useLabel>Invocar ameaça terminus</APM_MechbandAntenna_Terminus.comps.CompUsable.useLabel>
+  <APM_MechbandAntenna_Terminus.description>Um dispositivo de sinalização de banda-mecanoide mais poderoso que o arranjo de banda-mecanoide. Quando ativado, emite um pulso de sinal mecanoide de nível ápice, que atrairá um Terminus para atacar com seus acompanhantes. Se você derrotá-lo, poderá coletar tecnologia especial de seu cadáver. O pulso de sinal queima a antena, então esta construção só pode ser usada uma vez.</APM_MechbandAntenna_Terminus.description>
+  <APM_MechbandAntenna_Terminus.label>Conduíte de banda-mecanoide</APM_MechbandAntenna_Terminus.label>
+  <APM_MechbandAntenna_United.comps.CompUsable.useLabel>Invocar ameaça dos Três Senhores</APM_MechbandAntenna_United.comps.CompUsable.useLabel>
+  <APM_MechbandAntenna_United.comps.CompUseEffect_CallMulBossgroup.leaderName>Três Senhores</APM_MechbandAntenna_United.comps.CompUseEffect_CallMulBossgroup.leaderName>
+  <APM_MechbandAntenna_United.description>Um dispositivo de sinalização de banda-mecanoide mais poderoso que o arranjo de banda-mecanoide. Quando ativado, emite um pulso de sinal mecanoide de nível ápice triplo, que atrairá 3 comandantes mecanoides para atacar com seus acompanhantes. Se você derrotá-los, poderá coletar tecnologia especial de seus cadáveres. O pulso de sinal queima a antena, então esta construção só pode ser usada uma vez. Este dispositivo de banda-mecanoide em particular envia 3 sinais simultâneos; esteja avisado.</APM_MechbandAntenna_United.description>
+  <APM_MechbandAntenna_United.label>Invocador de banda-mecanoide</APM_MechbandAntenna_United.label>
+  <APM_OcularChip.comps.CompAnalyzableUnlockResearch.activateDescString>Analisar o chip.</APM_OcularChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <APM_OcularChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Analisar...</APM_OcularChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <APM_OcularChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Escolha quem deve analisar isto</APM_OcularChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <APM_OcularChip.comps.CompAnalyzableUnlockResearch.inspectString>Pode ser analisado por um colono.</APM_OcularChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <APM_OcularChip.comps.CompAnalyzableUnlockResearch.jobString>analisar chip</APM_OcularChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <APM_OcularChip.description>Uma matriz de estabilização que sincroniza a turbulência da hellsphere num padrão de tiro coerente. Sem uma delas, qualquer plataforma de feixe ocular se desintegraria. É necessário para produzir certos tipos avançados de mecanoides e equipamentos. Um mecanizador pode estudar este chip para ajudar a desbloquear níveis superiores de pesquisa em tecnologia mecanoide.</APM_OcularChip.description>
+  <APM_OcularChip.label>chip harmonizador ocular</APM_OcularChip.label>
+  <APM_PawnFlyer_Hooked.label>voando</APM_PawnFlyer_Hooked.label>
+  <APM_PawnFlyer_ShockwaveThrown.label>voando</APM_PawnFlyer_ShockwaveThrown.label>
+  <APM_Proj_EMP_Impactor.label>projétil impactador EMP</APM_Proj_EMP_Impactor.label>
+  <APM_Proj_HazeToxicRepeater.label>feixe ácido de haze</APM_Proj_HazeToxicRepeater.label>
+  <APM_Proj_JavelinMissile.label>míssil javelin</APM_Proj_JavelinMissile.label>
+  <APM_Proj_JavelinMissile_EMP.label>míssil EMP javelin</APM_Proj_JavelinMissile_EMP.label>
+  <APM_Proj_JavelinMissile_HighExplosive.label>míssil de alto explosivo javelin</APM_Proj_JavelinMissile_HighExplosive.label>
+  <APM_Proj_JavelinMissile_Incendiary.label>míssil incendiário javelin</APM_Proj_JavelinMissile_Incendiary.label>
+  <APM_Proj_SirenChargeEmitter.label>pulso sônico</APM_Proj_SirenChargeEmitter.label>
+  <APM_Projectile_Hook.label>gancho</APM_Projectile_Hook.label>
+  <APM_PsionicChip.comps.CompAnalyzableUnlockResearch.activateDescString>Analisar o chip.</APM_PsionicChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <APM_PsionicChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Analisar...</APM_PsionicChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <APM_PsionicChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Escolha quem deve analisar isto</APM_PsionicChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <APM_PsionicChip.comps.CompAnalyzableUnlockResearch.inspectString>Pode ser analisado por um colono.</APM_PsionicChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <APM_PsionicChip.comps.CompAnalyzableUnlockResearch.jobString>analisar chip</APM_PsionicChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <APM_PsionicChip.description>Um micro-organismo mecanoide de comando psíquico infundido com um eco arquotecnológico de autoridade marcial. Gera campos de comando localizados, amplificando a eficácia dos aliados. É necessário para produzir certos tipos avançados de mecanoides e equipamentos. Um mecanizador pode estudar este chip para ajudar a desbloquear níveis superiores de pesquisa em tecnologia mecanoide.</APM_PsionicChip.description>
+  <APM_PsionicChip.label>chip de coordenação psiónica</APM_PsionicChip.label>
+  <APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.activateDescString>Analisar o chip.</APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Analisar...</APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Escolha quem deve analisar isto</APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.inspectString>Pode ser analisado por um colono.</APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.jobString>analisar chip</APM_PsyfluxChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <APM_PsyfluxChip.description>Um micro-organismo mecanoide que distorce a percepção e regula o deslocamento rápido, as emissões de partículas carregadas e breves períodos de imperceptibilidade psíquica. É necessário para produzir certos tipos avançados de mecanoides e equipamentos. Um mecanizador pode estudar este chip para ajudar a desbloquear níveis superiores de pesquisa em tecnologia mecanoide.</APM_PsyfluxChip.description>
+  <APM_PsyfluxChip.label>chip de projeção psyflux</APM_PsyfluxChip.label>
+  <APM_PulseWaveBlindFlash.label>clarão da onda de pulso</APM_PulseWaveBlindFlash.label>
+  <APM_Pulse_Proj.label>bala de pulso</APM_Pulse_Proj.label>
+  <APM_Ravager_Artillery.description>Um morteiro automático móvel com tecnologia adjacente de hellsphere integrada, esta arma de cerco mecanoide foi pensada para ser instalada em estruturas mecanoides maiores. Quase é possível sentir o ódio da colmeia mecanoide em cada disparo do canhão.</APM_Ravager_Artillery.description>
+  <APM_Ravager_Artillery.label>Starspewer</APM_Ravager_Artillery.label>
+  <APM_Ravager_Artillery.tools.0.label>coronha</APM_Ravager_Artillery.tools.0.label>
+  <APM_Ravager_Artillery.tools.1.label>cano</APM_Ravager_Artillery.tools.1.label>
+  <APM_RepairStation_Advanced.description>Uma estação que repara mecanoides grandes. O mecanoide entra na estação para passar pelo reparo.</APM_RepairStation_Advanced.description>
+  <APM_RepairStation_Advanced.label>estação de reparo de mecanoides avançada</APM_RepairStation_Advanced.label>
+  <APM_RepairStation_Small.description>Uma estação que repara mecanoides pequenos e médios. O mecanoide entra na estação para passar pelo reparo.</APM_RepairStation_Small.description>
+  <APM_RepairStation_Small.label>estação de reparo de mecanoides</APM_RepairStation_Small.label>
+  <APM_ShockwaveFlash.label>clarão da onda de choque</APM_ShockwaveFlash.label>
+  <APM_Siren_ChargeEmitter.description>Um dispositivo emissor de ondas que dispara rajadas focadas de vibração de alta frequência contra alvos. Ele é capaz de ignorar armaduras, pois, com emissões intensas o suficiente, qualquer coisa no caminho desta arma inevitavelmente se torna outro meio de transmissão.</APM_Siren_ChargeEmitter.description>
+  <APM_Siren_ChargeEmitter.label>emissor de carga</APM_Siren_ChargeEmitter.label>
+  <APM_Siren_ChargeEmitter.tools.0.label>cano</APM_Siren_ChargeEmitter.tools.0.label>
+  <APM_Smokescreen.label>gás de cortina de fumaça</APM_Smokescreen.label>
+  <APM_Smokescreen_Boss.label>gás de cortina de fumaça</APM_Smokescreen_Boss.label>
+  <APM_Solus.description>Um emissor de raios gama reforçado, capaz de produzir uma densa e concentrada bola de energia destrutiva. Ao passar pelos alvos, a bola se descarrega neles e incendeia as redondezas. É uma arma particularmente devastadora contra grupos de inimigos. A enorme saída de energia exige protocolos de estabilização para evitar dano a si mesmo.</APM_Solus.description>
+  <APM_Solus.label>solus</APM_Solus.label>
+  <APM_Solus.tools.0.label>coronha</APM_Solus.tools.0.label>
+  <APM_Solus.tools.1.label>cano</APM_Solus.tools.1.label>
+  <APM_SolusOrb.label>orbe solus</APM_SolusOrb.label>
+  <APM_StarfallCarrier.label>tiro de queda de estrelas</APM_StarfallCarrier.label>
+  <APM_StarfallSplitProjectile.label>submunição de queda de estrelas</APM_StarfallSplitProjectile.label>
+  <APM_Weapon_CelerusApexVoltana.description>Esta arma está imbuída de mecanitas mantenedoras de afiação semelhantes às vistas no monotech imperial. Uma tecnologia assim, sendo usada pela colmeia mecanoide, permite que a colmeia a aplique em usos maiores e mais complexos, como esta arma letal. A lâmina crepita com uma forma de eletricidade tão intensa que brilha num violeta selvagem, cor impossível resultante dos caprichos do Celerus.</APM_Weapon_CelerusApexVoltana.description>
+  <APM_Weapon_CelerusApexVoltana.label>Voltana ápice de Celerus</APM_Weapon_CelerusApexVoltana.label>
+  <APM_Weapon_CelerusApexVoltana.tools.blade.label>lâmina</APM_Weapon_CelerusApexVoltana.tools.blade.label>
+  <APM_Weapon_CelerusApexVoltana.tools.handle.label>empunhadura</APM_Weapon_CelerusApexVoltana.tools.handle.label>
+  <APM_Weapon_CelerusApexVoltana.tools.tip.label>ponta</APM_Weapon_CelerusApexVoltana.tools.tip.label>
+  <APM_Weapon_CelerusVoltana.description>Esta arma está imbuída de mecanitas mantenedoras de afiação semelhantes às vistas no monotech imperial. Uma tecnologia assim, sendo usada pela colmeia mecanoide, permite que a colmeia a aplique em usos maiores e mais complexos, como esta arma letal.</APM_Weapon_CelerusVoltana.description>
+  <APM_Weapon_CelerusVoltana.label>Voltana de Celerus</APM_Weapon_CelerusVoltana.label>
+  <APM_Weapon_CelerusVoltana.tools.blade.label>lâmina</APM_Weapon_CelerusVoltana.tools.blade.label>
+  <APM_Weapon_CelerusVoltana.tools.handle.label>empunhadura</APM_Weapon_CelerusVoltana.tools.handle.label>
+  <APM_Weapon_CelerusVoltana.tools.tip.label>ponta</APM_Weapon_CelerusVoltana.tools.tip.label>
+  <APM_Weapon_DominusApexMechlance.description>Esta arma está imbuída de mecanitas mantenedoras de afiação semelhantes às vistas no monotech imperial. Uma tecnologia assim, sendo usada pela colmeia mecanoide, permite que a colmeia a aplique em usos maiores e mais complexos, como esta arma letal. Nesta proximidade tão grande do Dominus, as mecanitas desta lança mecanoide foram influenciadas por sua presença psíquica, a ponto de sangrar num tom avermelhado.</APM_Weapon_DominusApexMechlance.description>
+  <APM_Weapon_DominusApexMechlance.label>lança mecanoide ápice do Dominus</APM_Weapon_DominusApexMechlance.label>
+  <APM_Weapon_DominusApexMechlance.tools.edge.label>gume</APM_Weapon_DominusApexMechlance.tools.edge.label>
+  <APM_Weapon_DominusApexMechlance.tools.handle.label>empunhadura</APM_Weapon_DominusApexMechlance.tools.handle.label>
+  <APM_Weapon_DominusApexMechlance.tools.point.label>lâmina</APM_Weapon_DominusApexMechlance.tools.point.label>
+  <APM_Weapon_DominusMechlance.description>Esta arma está imbuída de mecanitas mantenedoras de afiação semelhantes às vistas no monotech imperial. Uma tecnologia assim, sendo usada pela colmeia mecanoide, permite que a colmeia a aplique em usos maiores e mais complexos, como esta arma letal.</APM_Weapon_DominusMechlance.description>
+  <APM_Weapon_DominusMechlance.label>lança mecanoide do Dominus</APM_Weapon_DominusMechlance.label>
+  <APM_Weapon_DominusMechlance.tools.edge.label>gume</APM_Weapon_DominusMechlance.tools.edge.label>
+  <APM_Weapon_DominusMechlance.tools.handle.label>empunhadura</APM_Weapon_DominusMechlance.tools.handle.label>
+  <APM_Weapon_DominusMechlance.tools.point.label>lâmina</APM_Weapon_DominusMechlance.tools.point.label>
+  <APM_Weapon_DuelistsPsySpear.description>Uma lança reforçada, imbuída de circuitaria psíquica derivada do Dominus. Permite ao portador desafiar um único oponente para um duelo psíquico, criando um redemoinho focado que amplifica os ataques em seu interior. A lança canaliza a vontade do portador, projetando um escudo ao redor do duelo e aumentando o dano dentro do raio do duelo.</APM_Weapon_DuelistsPsySpear.description>
+  <APM_Weapon_DuelistsPsySpear.label>lança psíquica de domínio</APM_Weapon_DuelistsPsySpear.label>
+  <APM_Weapon_DuelistsPsySpear.tools.0.label>empunhadura</APM_Weapon_DuelistsPsySpear.tools.0.label>
+  <APM_Weapon_DuelistsPsySpear.tools.1.label>ponta</APM_Weapon_DuelistsPsySpear.tools.1.label>
+  <APM_Weapon_DuelistsPsySpear.tools.2.label>lâmina</APM_Weapon_DuelistsPsySpear.tools.2.label>
+  <APM_Weapon_DuelistsPsySpear.tools.edge.label>gume</APM_Weapon_DuelistsPsySpear.tools.edge.label>
+  <APM_Weapon_DuelistsPsySpear.tools.handle.label>empunhadura</APM_Weapon_DuelistsPsySpear.tools.handle.label>
+  <APM_Weapon_DuelistsPsySpear.tools.point.label>lâmina</APM_Weapon_DuelistsPsySpear.tools.point.label>
+  <APM_Weapon_MechWhip.description>O chicote mecanoide pode causar dano pesado e atordoar vários alvos bem próximos ao usuário. Parece que a colmeia mecanoide enxerga a vida orgânica senciente como nós enxergamos o gado, e nos trata como tal.</APM_Weapon_MechWhip.description>
+  <APM_Weapon_MechWhip.label>chicote mecanoide</APM_Weapon_MechWhip.label>
+  <APM_Weapon_MechWhip.tools.0.label>gume</APM_Weapon_MechWhip.tools.0.label>
+  <APM_Weapon_MechWhip.tools.edge.label>chicote</APM_Weapon_MechWhip.tools.edge.label>
+  <APM_Weapon_PlasmaWhip.description>Inspirado no chicote empunhado pelo mecanoide Lasher, o chicote de plasma pode causar dano e atordoar vários alvos de uma vez, tornando-se uma boa ferramenta para conter grupos de inimigos a curta distância.</APM_Weapon_PlasmaWhip.description>
+  <APM_Weapon_PlasmaWhip.label>chicote de plasma</APM_Weapon_PlasmaWhip.label>
+  <APM_Weapon_PlasmaWhip.tools.0.label>gume</APM_Weapon_PlasmaWhip.tools.0.label>
+  <APM_Weapon_PlasmaWhip.tools.edge.label>chicote</APM_Weapon_PlasmaWhip.tools.edge.label>
+  <APM_Weapon_SeveringBlade.description>Uma lâmina de combate pesada integrada com matrizes de controle derivadas do Terminus. Permite ao portador canalizar energia psíquica em amplos golpes varredores, cortando vários inimigos de uma vez.</APM_Weapon_SeveringBlade.description>
+  <APM_Weapon_SeveringBlade.label>lâmina decepante</APM_Weapon_SeveringBlade.label>
+  <APM_Weapon_SeveringBlade.tools.0.label>empunhadura</APM_Weapon_SeveringBlade.tools.0.label>
+  <APM_Weapon_SeveringBlade.tools.1.label>ponta</APM_Weapon_SeveringBlade.tools.1.label>
+  <APM_Weapon_SeveringBlade.tools.2.label>lâmina</APM_Weapon_SeveringBlade.tools.2.label>
+  <APM_Weapon_SeveringBlade.tools.blade.label>gume</APM_Weapon_SeveringBlade.tools.blade.label>
+  <APM_Weapon_SeveringBlade.tools.handle.label>empunhadura</APM_Weapon_SeveringBlade.tools.handle.label>
+  <APM_Weapon_SeveringBlade.tools.point.label>lâmina</APM_Weapon_SeveringBlade.tools.point.label>
+  <APM_Weapon_Skipblade.description>Uma katana de alta frequência integrada com tecnologia de deslocamento derivada do Celerus. Permite ao portador 'saltar' psiquicamente curtas distâncias a cada golpe, fechando espaços instantaneamente ou evitando contra-ataques.</APM_Weapon_Skipblade.description>
+  <APM_Weapon_Skipblade.label>lâmina de salto</APM_Weapon_Skipblade.label>
+  <APM_Weapon_Skipblade.tools.0.label>empunhadura</APM_Weapon_Skipblade.tools.0.label>
+  <APM_Weapon_Skipblade.tools.1.label>ponta</APM_Weapon_Skipblade.tools.1.label>
+  <APM_Weapon_Skipblade.tools.2.label>lâmina</APM_Weapon_Skipblade.tools.2.label>
+  <APM_Weapon_Skipblade.tools.blade.label>gume</APM_Weapon_Skipblade.tools.blade.label>
+  <APM_Weapon_Skipblade.tools.handle.label>empunhadura</APM_Weapon_Skipblade.tools.handle.label>
+  <APM_Weapon_Skipblade.tools.point.label>lâmina</APM_Weapon_Skipblade.tools.point.label>
+  <APM_Weapon_TerminusApexExoblade.description>Esta arma está imbuída de mecanitas mantenedoras de afiação semelhantes às vistas no monotech imperial. Uma tecnologia assim, sendo usada pela colmeia mecanoide, permite que a colmeia a aplique em usos maiores e mais complexos, como esta arma letal.</APM_Weapon_TerminusApexExoblade.description>
+  <APM_Weapon_TerminusApexExoblade.label>exolâmina ápice do Terminus</APM_Weapon_TerminusApexExoblade.label>
+  <APM_Weapon_TerminusApexExoblade.tools.blade.label>lâmina</APM_Weapon_TerminusApexExoblade.tools.blade.label>
+  <APM_Weapon_TerminusApexExoblade.tools.handle.label>empunhadura</APM_Weapon_TerminusApexExoblade.tools.handle.label>
+  <APM_Weapon_TerminusApexExoblade.tools.point.label>ponta</APM_Weapon_TerminusApexExoblade.tools.point.label>
+  <APM_Weapon_TerminusExoblade.description>Esta arma está imbuída de mecanitas mantenedoras de afiação semelhantes às vistas no monotech imperial. Uma tecnologia assim, sendo usada pela colmeia mecanoide, permite que a colmeia a aplique em usos maiores e mais complexos, como esta arma letal. Esta exolâmina em particular vibra com energia psíquica, sobrecarregada pelo Terminus que a empunha.</APM_Weapon_TerminusExoblade.description>
+  <APM_Weapon_TerminusExoblade.label>exolâmina do Terminus</APM_Weapon_TerminusExoblade.label>
+  <APM_Weapon_TerminusExoblade.tools.blade.label>lâmina</APM_Weapon_TerminusExoblade.tools.blade.label>
+  <APM_Weapon_TerminusExoblade.tools.handle.label>empunhadura</APM_Weapon_TerminusExoblade.tools.handle.label>
+  <APM_Weapon_TerminusExoblade.tools.point.label>ponta</APM_Weapon_TerminusExoblade.tools.point.label>
+  <ApexMechanoids_DashingPawn.label>em disparada</ApexMechanoids_DashingPawn.label>
+  <Bullet_ChargeSpitter.label>tiro de cuspidor de carga</Bullet_ChargeSpitter.label>
+</LanguageData>

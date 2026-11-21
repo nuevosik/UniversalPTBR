@@ -30,4 +30,21 @@
   <VF_RefuelFromInventory>Reabastecer do inventário</VF_RefuelFromInventory>
   <VF_VehicleDamageMultipliers>Dano de veículo</VF_VehicleDamageMultipliers>
   <VF_VehicleFuelCapacity>Capacidade de combustível</VF_VehicleFuelCapacity>
+  <VF_BurstDisabledFromCrash>O RimWorld travou ao tentar carregar a biblioteca externa Burst do Vehicle Framework. Ela foi desativada para evitar novas falhas, mas pode ser reativada nas configurações do mod. Isso não afeta a jogabilidade; a biblioteca externa Burst serve apenas para melhorar o desempenho.</VF_BurstDisabledFromCrash>
+  <VF_CantLoadInVehicle>Não é possível carregar {0_labelShort} em {1_labelShort}</VF_CantLoadInVehicle>
+  <VF_CaravanCantReachExit>Não foi possível alcançar a borda do mapa.</VF_CaravanCantReachExit>
+  <VF_CargoCapacityTooltip>Capacidade máxima de carga do veículo.</VF_CargoCapacityTooltip>
+  <VF_CarryToVehicle>Carregar {0_labelShort} até {1_labelShort}</VF_CarryToVehicle>
+  <VF_FishingInVehicle>Pescando a partir de {0}.</VF_FishingInVehicle>
+  <VF_MaxArmorTooltip>Blindagem máxima do veículo.</VF_MaxArmorTooltip>
+  <VF_MaxSpeedTooltip>Velocidade máxima do veículo.</VF_MaxSpeedTooltip>
+  <VF_MultiplierFromOffRoad>Multiplicador fora de estrada: {0}</VF_MultiplierFromOffRoad>
+  <VF_MultiplierFromRoad>Multiplicador de estrada: {0}</VF_MultiplierFromRoad>
+  <VF_NoRoleAvailable>Nenhum assento disponível.</VF_NoRoleAvailable>
+  <VF_NotEnoughCrewFor>Não há colonos suficientes em {0_labelShort} para operar {1}.</VF_NotEnoughCrewFor>
+  <VF_RescueToVehicle>Resgatar {0_labelShort} até {1_labelShort}</VF_RescueToVehicle>
+  <VF_UseBurstLib>Usar Burst</VF_UseBurstLib>
+  <VF_UseBurstLibTooltip>Carregar a biblioteca externa Burst para melhor desempenho.</VF_UseBurstLibTooltip>
+  <VF_UseHandBrakes>Usar freios de mão</VF_UseHandBrakes>
+  <VF_UseHandBrakesTooltip>Os veículos acionarão os freios de mão quando receberem o sinal de parar, desacelerando mais rápido às custas de um pouco de saúde.</VF_UseHandBrakesTooltip>
 </LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BM.ColorTemplates>Predefinições de cor</BM.ColorTemplates>
+  <BM.DefaultTexture>Padrão</BM.DefaultTexture>
+  <BM.Delete>Excluir...</BM.Delete>
+  <BM.DeleteTemplateConfirm>Excluir a predefinição "{0}"?</BM.DeleteTemplateConfirm>
+  <BM.Hue>Matiz: {0}</BM.Hue>
+  <BM.Load>Carregar...</BM.Load>
+  <BM.LoadColorTemplateConfirm>Carregar predefinição de cor "{0}"?\nIsso vai substituir suas configurações de cor atuais.</BM.LoadColorTemplateConfirm>
+  <BM.LoadTextureTemplateConfirm>Carregar predefinição de textura "{0}"?\nIsso vai substituir suas configurações de textura atuais.</BM.LoadTextureTemplateConfirm>
+  <BM.ModdedOres>Minérios de mods</BM.ModdedOres>
+  <BM.ModdedRocks>Rochas de mods</BM.ModdedRocks>
+  <BM.NoUserTemplates>Nenhuma predefinição de usuário para excluir.</BM.NoUserTemplates>
+  <BM.OreVeinColor>Cor do veio de minério</BM.OreVeinColor>
+  <BM.ReservedTemplateName>"{0}" é um nome de predefinição reservado. Escolha outro.</BM.ReservedTemplateName>
+  <BM.RockBaseColor>Cor base da rocha</BM.RockBaseColor>
+  <BM.RockColor>Cor da rocha</BM.RockColor>
+  <BM.RocksAndOres>Rochas e minérios</BM.RocksAndOres>
+  <BM.Saturation>Saturação: {0}</BM.Saturation>
+  <BM.Save>Salvar...</BM.Save>
+  <BM.SaveColorTemplate>Salvar predefinição de cor</BM.SaveColorTemplate>
+  <BM.SaveTextureTemplate>Salvar predefinição de textura</BM.SaveTextureTemplate>
+  <BM.SettingsTitle>Better Mountains</BM.SettingsTitle>
+  <BM.TemplateNameEmpty>O nome da predefinição não pode ficar vazio.</BM.TemplateNameEmpty>
+  <BM.Template_Vanilla>Vanilla</BM.Template_Vanilla>
+  <BM.Template_VanillaIntegratedOres>Vanilla com minérios integrados</BM.Template_VanillaIntegratedOres>
+  <BM.TextureButton>Textura: {0}</BM.TextureButton>
+  <BM.TextureTemplates>Predefinições de textura</BM.TextureTemplates>
+  <BM.UnknownTexture>Desconhecida</BM.UnknownTexture>
+  <BM.UseSurroundingRockColor>Usar a cor da rocha ao redor</BM.UseSurroundingRockColor>
+  <BM.UseSurroundingRockColor_Desc>Este minério usa a cor da pedra ao redor como base, em vez da cor base da rocha abaixo.</BM.UseSurroundingRockColor_Desc>
+  <BM.UserTemplate>Usuário: {0}</BM.UserTemplate>
+  <BM.Value>Valor: {0}</BM.Value>
+  <BM.VanillaOres>Minérios vanilla</BM.VanillaOres>
+  <BM.VanillaRocks>Rochas vanilla</BM.VanillaRocks>
+</LanguageData>

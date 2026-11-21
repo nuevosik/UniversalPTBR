@@ -348,4 +348,14 @@
   <DMS_ZeroPointReactor_Total>Tempo total de operação: {0}</DMS_ZeroPointReactor_Total>
   <LetterLabelDocsArrived>Documentos entregues</LetterLabelDocsArrived>
   <LetterTextDocsArrived>Os documentos sigilosos de [asker_nameFull] chegaram. Eles foram deixados perto dos seus faróis comerciais ou do centro da colônia.</LetterTextDocsArrived>
+  <DMS_DeviantExtradition_DoneTextKept>Um transporte orbital da frota levou {DEVIANT_nameFull} embora, junto com o arquivo criptografado. {FLEET} reconheceu nossa cooperação.\n\nEm troca, a frota nos entregou um dos arquivos restaurados:\n\n{GRANTED}\n\nNinguém sabe o que espera {DEVIANT_objective} agora.</DMS_DeviantExtradition_DoneTextKept>
+  <DMS_DeviantExtradition_RewardKept>- {FLEET} nos entregará um dos arquivos restaurados, escolhido aleatoriamente</DMS_DeviantExtradition_RewardKept>
+  <DMS_DeviantHunt_AwayLabel>Caçada suspensa: {DEVIANT_nameDef}</DMS_DeviantHunt_AwayLabel>
+  <DMS_DeviantHunt_AwayText>{DEVIANT_nameFull} não está mais em mãos da colônia. {FLEET} parou de enviar caçadores atrás de nós por enquanto, mas o desertor não foi riscado de seus registros: vivo, {DEVIANT_pronoun} ainda é procurado.\n\nSe {DEVIANT_nameDef} retornar à colônia, a caçada será retomada. Quando {DEVIANT_pronoun} sair do mapa, a frota levará {DEVIANT_objective} para fora dele.</DMS_DeviantHunt_AwayText>
+  <DMS_DeviantHunt_CapturedLabel>Desertor capturado: {DEVIANT_nameDef}</DMS_DeviantHunt_CapturedLabel>
+  <DMS_DeviantHunt_CapturedText>{FLEET} informa que {DEVIANT_nameFull} foi capturado. Fora do nosso alcance e da nossa vista, {DEVIANT_pronoun} foi presa fácil para os rastreadores da frota; {DEVIANT_nameDef} está agora sob custódia da frota e responderá a um tribunal militar.\n\nA caçada terminou. A hostilidade com a frota não termina com ela.</DMS_DeviantHunt_CapturedText>
+  <DMS_DeviantHunt_ReturnedLabel>Caçada retomada: {DEVIANT_nameDef}</DMS_DeviantHunt_ReturnedLabel>
+  <DMS_DeviantHunt_ReturnedText>{DEVIANT_nameFull} voltou para a colônia, e {FLEET} sabe disso. A caçada foi retomada: espere caçadores novamente.\n\nAs relações com a frota permanecem hostis enquanto abrigarmos {DEVIANT_objective}.</DMS_DeviantHunt_ReturnedText>
+  <DMS_DeviantHunt_RevivedLabel>Caçada reaberta: {DEVIANT_nameDef}</DMS_DeviantHunt_RevivedLabel>
+  <DMS_DeviantHunt_RevivedText>{DEVIANT_nameFull} voltou dos mortos. {FLEET} queria prova de um corpo e já não a tem: o desertor voltou aos seus registros e a caçada começa novamente.</DMS_DeviantHunt_RevivedText>
 </LanguageData>

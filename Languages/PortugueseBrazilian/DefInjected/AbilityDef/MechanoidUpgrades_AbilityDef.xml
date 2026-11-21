@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MU_ChemfuelBurner.description>Use o queimador embutido para expelir um jato de combustível em chamas. Incendeia qualquer coisa ou qualquer um que atinja e também forma poços flamejantes no chão.</MU_ChemfuelBurner.description>
+  <MU_ChemfuelBurner.label>queimador</MU_ChemfuelBurner.label>
+  <MU_ChemfuelFlamethrower.description>Use o lança-chamas embutido para expelir um longo jato de combustível em chamas. Incendeia qualquer coisa ou qualquer um que atinja e também forma poços flamejantes no chão.</MU_ChemfuelFlamethrower.description>
+  <MU_ChemfuelFlamethrower.label>lança-chamas</MU_ChemfuelFlamethrower.label>
+  <MU_ChemfuelMiniBurner.description>Use o mini-queimador embutido para expelir um jato de combustível em chamas. Incendeia qualquer coisa ou qualquer um que atinja e também forma poços flamejantes no chão.</MU_ChemfuelMiniBurner.description>
+  <MU_ChemfuelMiniBurner.label>mini-queimador</MU_ChemfuelMiniBurner.label>
+  <MU_EMPGrenades.description>Arremessar granada de EMP.</MU_EMPGrenades.description>
+  <MU_EMPGrenades.label>arremessar granada de EMP</MU_EMPGrenades.label>
+  <MU_FirefoamPopPack.description>Libera espuma retardante de fogo em uma área circular.</MU_FirefoamPopPack.description>
+  <MU_FirefoamPopPack.label>liberação de espuma ignífuga</MU_FirefoamPopPack.label>
+  <MU_FragGrenades.description>Arremessar granada de fragmentação.</MU_FragGrenades.description>
+  <MU_FragGrenades.label>arremessar granada de fragmentação</MU_FragGrenades.label>
+  <MU_IncendiaryGrenades.description>Arremessar granada incendiária.</MU_IncendiaryGrenades.description>
+  <MU_IncendiaryGrenades.label>arremessar granada incendiária</MU_IncendiaryGrenades.label>
+  <MU_JumpLauncher.description>Salta para um local distante usando um lançador de salto.</MU_JumpLauncher.description>
+  <MU_JumpLauncher.label>lançador de salto</MU_JumpLauncher.label>
+  <MU_MedicineKit.description>Use o kit médico instalado para tratar ferimentos de criaturas vivas.</MU_MedicineKit.description>
+  <MU_MedicineKit.label>usar kit médico</MU_MedicineKit.label>
+  <MU_ShieldBoost.description>Use o reforço de escudo para aprimorar o escudo do mecanoide, tornando-o muito mais resistente por um curto período.\n\nO efeito escala com o tamanho corporal do mecanoide.</MU_ShieldBoost.description>
+  <MU_ShieldBoost.label>reforço de escudo</MU_ShieldBoost.label>
+  <MU_SmokePopPack.description>Libera fumaça comprimida por saídas ocultas. A fumaça reduz a precisão de qualquer disparo feito através dela e impede completamente que as torretas travem no alvo.</MU_SmokePopPack.description>
+  <MU_SmokePopPack.label>liberação de fumaça</MU_SmokePopPack.label>
+  <MU_SystemMerge.description>Conecta e mescla sistemas com outro mecanoide, impulsionando seu processamento de dados e mobilidade, enquanto reduz o dano recebido ao atuar como reserva para subsistemas críticos. Se a conexão terminar prematuramente com a morte do transmissor, o receptor sofrerá uma grave disrupção de sistema.</MU_SystemMerge.description>
+  <MU_SystemMerge.label>fusão de sistemas</MU_SystemMerge.label>
+</LanguageData>

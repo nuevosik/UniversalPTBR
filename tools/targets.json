@@ -10,9 +10,9 @@
    "local": false,
    "name": "Combat Extended",
    "packageId": "CETeam.CombatExtended",
-   "missingDefs": 10978,
+   "missingDefs": 10976,
    "missingKeys": 531,
-   "total": 11509,
+   "total": 11507,
    "ptOwn": true,
    "skip": ""
   },
@@ -61,6 +61,17 @@
    "skip": ""
   },
   {
+   "folderId": "2800857642",
+   "local": false,
+   "name": "Map Preview",
+   "packageId": "m00nl1ght.MapPreview",
+   "missingDefs": 0,
+   "missingKeys": 89,
+   "total": 89,
+   "ptOwn": true,
+   "skip": ""
+  },
+  {
    "folderId": "818773962",
    "local": false,
    "name": "HugsLib",
@@ -72,13 +83,13 @@
    "skip": ""
   },
   {
-   "folderId": "2800857642",
+   "folderId": "724602224",
    "local": false,
-   "name": "Map Preview",
-   "packageId": "m00nl1ght.MapPreview",
-   "missingDefs": 0,
-   "missingKeys": 79,
-   "total": 79,
+   "name": "Misc. Robots",
+   "packageId": "Haplo.Miscellaneous.Robots",
+   "missingDefs": 39,
+   "missingKeys": 38,
+   "total": 77,
    "ptOwn": true,
    "skip": ""
   },

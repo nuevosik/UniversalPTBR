@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BT.CaveVariant>{0} (variante de caverna)</BT.CaveVariant>
+  <BT.Delete>Excluir...</BT.Delete>
+  <BT.DeleteTemplateConfirm>Excluir a predefinição "{0}"?</BT.DeleteTemplateConfirm>
+  <BT.EveryFrame>A cada quadro (mais suave)</BT.EveryFrame>
+  <BT.EveryNFrames>A cada {0} quadros (mais eficiente)</BT.EveryNFrames>
+  <BT.GhostAllTrees>Tornar todas as árvores do mapa transparentes</BT.GhostAllTrees>
+  <BT.GhostAllTrees_Desc>Deixa todas as árvores do mapa atual transparentes, ignorando o raio.</BT.GhostAllTrees_Desc>
+  <BT.GlobalScale>Multiplicador de escala global: {0}x</BT.GlobalScale>
+  <BT.GlobalScale_Desc>Deixa todas as árvores maiores ou menores de uma vez.</BT.GlobalScale_Desc>
+  <BT.Load>Carregar...</BT.Load>
+  <BT.LoadScaleTemplateConfirm>Carregar predefinição de escala "{0}"?</BT.LoadScaleTemplateConfirm>
+  <BT.LoadTextureTemplateConfirm>Carregar predefinição de textura "{0}"?</BT.LoadTextureTemplateConfirm>
+  <BT.ModdedTrees>Árvores de mods</BT.ModdedTrees>
+  <BT.NoUserTemplates>Nenhuma predefinição de usuário para excluir.</BT.NoUserTemplates>
+  <BT.Opacity>Opacidade: {0}</BT.Opacity>
+  <BT.Opacity_Desc>Quão visíveis as árvores transparentes ficam. As texturas são regeneradas quando você fecha esta janela.</BT.Opacity_Desc>
+  <BT.Radius>Raio: {0} quadrados</BT.Radius>
+  <BT.Radius_Desc>O tamanho da área transparente ao redor do cursor.</BT.Radius_Desc>
+  <BT.RenderOverPawns>Renderizar árvores sobre os colonos (melhora a imersão)</BT.RenderOverPawns>
+  <BT.RenderOverPawns_Desc>As copas das árvores são desenhadas sobre os colonos, fazendo parecer que eles andam atrás das árvores.</BT.RenderOverPawns_Desc>
+  <BT.ReservedTemplateName>"{0}" é um nome de predefinição reservado. Escolha outro.</BT.ReservedTemplateName>
+  <BT.ResetDefaults>Restaurar padrões</BT.ResetDefaults>
+  <BT.Save>Salvar...</BT.Save>
+  <BT.SaveScaleTemplate>Salvar predefinição de escala</BT.SaveScaleTemplate>
+  <BT.SaveTextureTemplate>Salvar predefinição de textura</BT.SaveTextureTemplate>
+  <BT.ScaleRange>Faixa de escala: {0}x - {1}x</BT.ScaleRange>
+  <BT.ScaleTemplates>Predefinições de escala</BT.ScaleTemplates>
+  <BT.SettingsTitle>Better Trees</BT.SettingsTitle>
+  <BT.TemplateNameEmpty>O nome da predefinição não pode ficar vazio.</BT.TemplateNameEmpty>
+  <BT.Template_All2x>Tudo 2x</BT.Template_All2x>
+  <BT.Template_AllVanilla>Tudo vanilla</BT.Template_AllVanilla>
+  <BT.Template_Vanilla>Vanilla</BT.Template_Vanilla>
+  <BT.TextureButton>Textura: {0}</BT.TextureButton>
+  <BT.TextureTemplates>Predefinições de textura</BT.TextureTemplates>
+  <BT.TransparencySettings>Configurações de transparência das árvores</BT.TransparencySettings>
+  <BT.TransparencyToggle_Tip>Deixa as árvores perto do cursor transparentes.\n\nClique esquerdo ou {0} para alternar.\nClique direito para as configurações de transparência.</BT.TransparencyToggle_Tip>
+  <BT.UpdateRate>Taxa de atualização: {0}</BT.UpdateRate>
+  <BT.UpdateRate_Desc>Com que frequência verificar as árvores sob o cursor. Números maiores melhoram o desempenho se o mouse ficar lento sobre florestas.</BT.UpdateRate_Desc>
+  <BT.UserTemplate>Usuário: {0}</BT.UserTemplate>
+  <BT.VanillaTexture>Vanilla</BT.VanillaTexture>
+  <BT.VanillaTrees>Árvores vanilla</BT.VanillaTrees>
+  <BT.Variant_Animushroom>Animushroom</BT.Variant_Animushroom>
+  <BT.Variant_GauranlenMushroom>Cogumelo gauranlen</BT.Variant_GauranlenMushroom>
+  <BT.Variant_PoluxShroom>Cogumelo Polux</BT.Variant_PoluxShroom>
+</LanguageData>

@@ -28,4 +28,8 @@
   <DMSE_StrategicSystems.label>engenharia avançada de mísseis</DMSE_StrategicSystems.label>
   <DMSE_VacuumMaterial.description>A produção de materiais no vácuo evita efetivamente a interferência de gases comuns, como nitrogênio e oxigênio, durante reações químicas. Pesquisar a ciência dos materiais fora da atmosfera é especialmente valioso para materiais especiais, como o tantasaço, que são propensos à oxidação quando processados em condições atmosféricas.\n\nEsta pesquisa desbloqueia a produção de tantasaço em fornos de caixa e fornos de sinterização compatíveis com vácuo.</DMSE_VacuumMaterial.description>
   <DMSE_VacuumMaterial.label>processo em vácuo</DMSE_VacuumMaterial.label>
+  <DMSE_ElectronicAttack.description>Desbloqueia a estação de bloqueio eletrônico. Inutiliza os buscadores de mísseis hostis dentro de um anel de 8 blocos no mapa-múndi e suprime radares inimigos, ao preço de 6000 W em potência máxima e um console de comunicação silenciado em seu mapa.</DMSE_ElectronicAttack.description>
+  <DMSE_ElectronicAttack.label>ataque eletrônico</DMSE_ElectronicAttack.label>
+  <DMSE_ElectronicWarfare.description>Desbloqueia o console da sala de guerra, que define regras de engajamento e controla remotamente radares e bloqueadores, e o radar de alerta de longo alcance, que troca resolução e todos os canais de controle de tiro por 40 blocos de aviso antecipado.</DMSE_ElectronicWarfare.description>
+  <DMSE_ElectronicWarfare.label>guerra eletrônica</DMSE_ElectronicWarfare.label>
 </LanguageData>

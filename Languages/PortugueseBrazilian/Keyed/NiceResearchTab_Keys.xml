@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NRT_AddToQueue>adicionar à fila</NRT_AddToQueue>
+  <NRT_AllNodesInOneSpace>Todas as pesquisas em um único espaço</NRT_AllNodesInOneSpace>
+  <NRT_AllNodesInOneSpaceTip>Alguns mods podem ser integrados a outras abas</NRT_AllNodesInOneSpaceTip>
+  <NRT_AnomalyAdvancedKnowledge>Conhecimento avançado</NRT_AnomalyAdvancedKnowledge>
+  <NRT_Building>Construção</NRT_Building>
+  <NRT_CombineAnomalyQueues>Unir as filas de Anomaly em uma só</NRT_CombineAnomalyQueues>
+  <NRT_DelayedNodeCulling>Remoção tardia de nós</NRT_DelayedNodeCulling>
+  <NRT_FilterTip>Filtrar por nome. Você também pode filtrar por mod ou DLC digitando # antes da palavra (sem espaço)</NRT_FilterTip>
+  <NRT_Fullscreen>Tela cheia</NRT_Fullscreen>
+  <NRT_Height>Altura</NRT_Height>
+  <NRT_HiTechBenchShort>Mesa de pesquisa de alta tecnologia</NRT_HiTechBenchShort>
+  <NRT_LinksCanCrossNodes>Linhas de conexão podem cruzar projetos</NRT_LinksCanCrossNodes>
+  <NRT_ModGrouping>Agrupamento por mod</NRT_ModGrouping>
+  <NRT_Packer>Empacotador</NRT_Packer>
+  <NRT_ProjectUnlocksCountPerRow>Quantidade de desbloqueios de projetos por linha</NRT_ProjectUnlocksCountPerRow>
+  <NRT_Rebuild>Reconstruir</NRT_Rebuild>
+  <NRT_Recipe>Receita</NRT_Recipe>
+  <NRT_RequiresGravdata>Requer gravdados</NRT_RequiresGravdata>
+  <NRT_Research>Pesquisa</NRT_Research>
+  <NRT_ResearchFinishedLetterLabel>Pesquisa concluída</NRT_ResearchFinishedLetterLabel>
+  <NRT_ResearchFinishedLetterText>A pesquisa "{0}" foi concluída. Clique para abrir a mensagem.</NRT_ResearchFinishedLetterText>
+  <NRT_SettingsCommonTab>Comum</NRT_SettingsCommonTab>
+  <NRT_SettingsPackerTab>Empacotador</NRT_SettingsPackerTab>
+  <NRT_SettingsPerformanceTab>Desempenho</NRT_SettingsPerformanceTab>
+  <NRT_ShowConnectionLinks>Mostrar links de conexão</NRT_ShowConnectionLinks>
+  <NRT_ShowEdging>Mostrar bordas</NRT_ShowEdging>
+  <NRT_ShowFancyBackground>Mostrar plano de fundo animado elaborado</NRT_ShowFancyBackground>
+  <NRT_ShowRequiredFacilityIcon>Mostrar ícone de instalação necessária</NRT_ShowRequiredFacilityIcon>
+  <NRT_ShowRequiredTechprintsIcon>Mostrar ícone de projetos técnicos necessários</NRT_ShowRequiredTechprintsIcon>
+  <NRT_ShowTechLevelBackground>Mostrar plano de fundo do nível tecnológico</NRT_ShowTechLevelBackground>
+  <NRT_SingleThread>Thread única</NRT_SingleThread>
+  <NRT_StopResearch>Parar pesquisa</NRT_StopResearch>
+  <NRT_VanillaResearchFinishMessage>Janela de conclusão de pesquisa do jogo base</NRT_VanillaResearchFinishMessage>
+  <NRT_WASDPanSpeed>Velocidade de movimentação WASD</NRT_WASDPanSpeed>
+  <NRT_Width>Largura</NRT_Width>
+  <NRT_YouMustBeInGameToPreview>A prévia só está disponível durante o jogo</NRT_YouMustBeInGameToPreview>
+  <NiceResearchTabEnabled>Mod ativado</NiceResearchTabEnabled>
+  <RequiresGravtech>Requer gravtecnologia</RequiresGravtech>
+  <ResearchQueue>Fila de pesquisa</ResearchQueue>
+</LanguageData>

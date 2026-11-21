@@ -100,4 +100,8 @@
   <VMF_BeginToSink>{0} está começando a afundar.</VMF_BeginToSink>
   <VMF_ForceOnExpandableCell>Não pode ser colocado em um local que não seja uma célula expansível.</VMF_ForceOnExpandableCell>
   <VMF_Settings.MapSizePerTile>Escala da renderização do mundo na visualização do mapa de veículos. (tamanho da célula do mapa / tamanho do bloco)</VMF_Settings.MapSizePerTile>
+  <VMF_Settings.CrossMapJoySearch>Busca de lazer entre mapas.</VMF_Settings.CrossMapJoySearch>
+  <VMF_Settings.CrossMapJoySearch.Tooltip>Buscar lazer em outros mapas.</VMF_Settings.CrossMapJoySearch.Tooltip>
+  <VMF_Settings.TreatAsPlayerHome>Tratar mapas de veículos como mapas da colônia do jogador.</VMF_Settings.TreatAsPlayerHome>
+  <VMF_Settings.TreatAsPlayerHome.Tooltip>Isso se relaciona principalmente ao acionamento de missões.</VMF_Settings.TreatAsPlayerHome.Tooltip>
 </LanguageData>

@@ -9,4 +9,12 @@
   <EEG_Eaves_RestoreOldTip>Os beirais agora são colocados diretamente sobre o bloco da parede. Em uma colônia construída antes desta atualização, os beirais ainda ficam à frente da parede, então parecerão deslocados em um bloco. Ative esta opção para desenhá-los da maneira antiga e continuar jogando sem reconstruir nada.</EEG_Eaves_RestoreOldTip>
   <EEG_Eaves_Restored>Os beirais agora são desenhados da maneira antiga.</EEG_Eaves_Restored>
   <EEG_Eaves_ShowNoticeAgain>Mostrar este aviso novamente</EEG_Eaves_ShowNoticeAgain>
+  <EEG_AutoEaves_ChooseFirst>Escolha primeiro o estilo e o material do beiral.</EEG_AutoEaves_ChooseFirst>
+  <EEG_AutoEaves_ClickWall>Clique numa parede.</EEG_AutoEaves_ClickWall>
+  <EEG_AutoEaves_Desc>Escolha o estilo e o material do beiral, depois clique numa parede. Os projetos dos beirais são colocados ao redor de todo o edifício, com cantos correspondentes e cantos pequenos a cada quadrado. As paredes internas não recebem beiral.</EEG_AutoEaves_Desc>
+  <EEG_AutoEaves_Done>{0} beirais planejados, {1} lugares ocupados.</EEG_AutoEaves_Done>
+  <EEG_AutoEaves_Label>Beirais automáticos</EEG_AutoEaves_Label>
+  <EEG_AutoEaves_Simple>Simples</EEG_AutoEaves_Simple>
+  <EEG_AutoEaves_Stony>De pedra</EEG_AutoEaves_Stony>
+  <EEG_AutoEaves_Woody>De madeira</EEG_AutoEaves_Woody>
 </LanguageData>

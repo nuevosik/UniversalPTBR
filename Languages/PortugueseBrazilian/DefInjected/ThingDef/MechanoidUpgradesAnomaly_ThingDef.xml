@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MU_AcidSpitter.description>Um pequeno tanque com sistema de tubulações que pode ser instalado em um mecanoide. Permite criar, armazenar e expelir ácido. Requer carne retorcida para a síntese do ácido.</MU_AcidSpitter.description>
+  <MU_AcidSpitter.label>cuspidor de ácido</MU_AcidSpitter.label>
+  <MU_AcidSynthesizer.description>Um tanque com sistema de tubulações que pode ser instalado em um mecanoide. Permite criar, armazenar e expelir ácido. Requer carne retorcida para a síntese do ácido.</MU_AcidSynthesizer.description>
+  <MU_AcidSynthesizer.label>sintetizador de ácido</MU_AcidSynthesizer.label>
+  <MU_BioferriteBurner.description>Uma unidade queimadora alimentada por bioferrita que pode ser instalada em um mecanoide. Gera uma explosão de chamas a partir de cargas de bioferrita pressurizadas. A unidade pode ser usada duas vezes antes de precisar ser recarregada.</MU_BioferriteBurner.description>
+  <MU_BioferriteBurner.label>queimador (bioferrita)</MU_BioferriteBurner.label>
+  <MU_BioferriteFlamethrower.description>Uma unidade lança-chamas alimentada por bioferrita que pode ser instalada em um mecanoide. Gera uma explosão de chamas a partir de cargas de bioferrita pressurizadas. A unidade pode ser usada cinco vezes antes de precisar ser recarregada.</MU_BioferriteFlamethrower.description>
+  <MU_BioferriteFlamethrower.label>lança-chamas (bioferrita)</MU_BioferriteFlamethrower.label>
+  <MU_BioferriteMiniBurner.description>Uma miniunidade queimadora alimentada por bioferrita que pode ser instalada em um mecanoide. Gera uma explosão de chamas a partir de cargas de bioferrita pressurizadas. A miniunidade precisa ser recarregada após cada uso.</MU_BioferriteMiniBurner.description>
+  <MU_BioferriteMiniBurner.label>mini-queimador (bioferrita)</MU_BioferriteMiniBurner.label>
+  <MU_DeadlifePack.description>Um pacote utilitário que lança uma cápsula que explode em poeira mortal. A poeira anima cadáveres humanos e animais como trôpegos que atacarão apenas seus inimigos.\n\nA poeira mortal é composta por arquitetos microscópicos semelhantes a máquinas que flutuam no ar. Onde tocam um cadáver, induzem uma ressurreição caótica e violenta.</MU_DeadlifePack.description>
+  <MU_DeadlifePack.label>pacote de poeira mortal</MU_DeadlifePack.label>
+  <MU_DisruptorFlares.description>Um pacote utilitário que dispara sinalizadores disruptor. Ao impactar, o sinalizador queima uma cápsula de bioferrita, criando um clarão intenso e uma perturbação psíquica local. Isso atordoa criaturas sensíveis ao psiquismo, revela as que estão invisíveis e reduz sua consciência e velocidade de movimento por um curto período. Depois disso, o sinalizador continua queimando, iluminando uma ampla área por algum tempo.</MU_DisruptorFlares.description>
+  <MU_DisruptorFlares.label>pacote de sinalizadores disruptor</MU_DisruptorFlares.label>
+  <MU_InvisibilityModule.description>Um módulo especial que pode ser instalado em um mecanoide e concede a habilidade de ficar invisível. O módulo usa a espinha de revenante para manipular os centros visuais dos que estão por perto, permitindo que o usuário passe despercebido.</MU_InvisibilityModule.description>
+  <MU_InvisibilityModule.label>módulo de invisibilidade</MU_InvisibilityModule.label>
+</LanguageData>

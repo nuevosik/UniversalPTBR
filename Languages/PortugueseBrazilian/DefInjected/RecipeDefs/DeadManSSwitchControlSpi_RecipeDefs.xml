@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RKCS_RemoveControlSpine.description>Remova a coluna de controle presa à coluna vertebral do paciente.</RKCS_RemoveControlSpine.description>
+  <RKCS_RemoveControlSpine.description.HediffDef>coluna de controle</RKCS_RemoveControlSpine.description.HediffDef>
+  <RKCS_RemoveControlSpine.description.ThingDef>coluna de controle</RKCS_RemoveControlSpine.description.ThingDef>
+  <RKCS_RemoveControlSpine.jobString>Removendo coluna de controle</RKCS_RemoveControlSpine.jobString>
+  <RKCS_RemoveControlSpine.label>remover coluna de controle</RKCS_RemoveControlSpine.label>
+  <RKCS_RemoveControlSpine.successfullyRemovedHediffMessage>{0} removeu a coluna de controle de {1}.</RKCS_RemoveControlSpine.successfullyRemovedHediffMessage>
+</LanguageData>

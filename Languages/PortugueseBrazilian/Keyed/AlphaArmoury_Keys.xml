@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AArmoury_AddKitsToMoreMercs>Adicionar kits de armas a mais Mercenários Anciões</AArmoury_AddKitsToMoreMercs>
+  <AArmoury_AddKitsToMoreMercsDesc>Por padrão, o líder de um bando de mercenários deixará cair de 2 a 4 kits de ajuste de armas. Com esta configuração, você pode fazer com que TODOS os mercenários da missão deixem cair um kit adicional!</AArmoury_AddKitsToMoreMercsDesc>
+  <AArmoury_AddUniquesToMUR>Adicionar armas únicas como saques em Ancient Urban Ruins (requer recarregar o jogo)</AArmoury_AddUniquesToMUR>
+  <AArmoury_AddUniquesToMURDesc>Se você tiver o mod Ancient Urban Ruins, esta opção adicionará todas as armas únicas como possíveis saques nos caixotes de armas lá. Requer recarregar o jogo para entrar em vigor.</AArmoury_AddUniquesToMURDesc>
+  <AArmoury_AddWeaponsToAllRaids>Adicionar armas únicas a todas as incursões</AArmoury_AddWeaponsToAllRaids>
+  <AArmoury_AddWeaponsToAllRaidsDesc>Incursões normalmente não surgem com armas únicas, mas você pode mudar isso com esta opção do mod. Aproveite o caos absoluto!</AArmoury_AddWeaponsToAllRaidsDesc>
+  <AArmoury_AddWeaponsToMoreMercs>Adicionar armas únicas a mais Mercenários Anciões</AArmoury_AddWeaponsToMoreMercs>
+  <AArmoury_AddWeaponsToMoreMercsDesc>Por padrão, apenas o líder de um bando de mercenários terá uma arma única. Com esta configuração, você pode fazer com que TODOS os mercenários da missão carreguem uma!</AArmoury_AddWeaponsToMoreMercsDesc>
+  <AArmoury_CantAcceptCategory>A arma não aceita essa categoria de característica.</AArmoury_CantAcceptCategory>
+  <AArmoury_CantApply>Não é possível aplicar "{0}" a {1}. {2}</AArmoury_CantApply>
+  <AArmoury_CantGenerateAlone>Essa característica não pode ser gerada sozinha.</AArmoury_CantGenerateAlone>
+  <AArmoury_FiestaDelivered>Cápsulas de queda carregadas com armas únicas foram entregues à colônia!</AArmoury_FiestaDelivered>
+  <AArmoury_FiestaDeliveredLabel>FESTA de armas!</AArmoury_FiestaDeliveredLabel>
+  <AArmoury_GunsSupportingTrait>Armas que podem usar esta característica:</AArmoury_GunsSupportingTrait>
+  <AArmoury_MakeMoreCommonAsQuestRewards>Tornar armas únicas mais comuns como recompensas de missão (requer recarregar o jogo)</AArmoury_MakeMoreCommonAsQuestRewards>
+  <AArmoury_MakeMoreCommonAsQuestRewardsDesc>Por padrão, armas únicas são classificadas como RewardStandardLowFreq. Com esta opção do mod, elas passam a ser classificadas como RewardStandardHighFreq, então aparecerão com mais frequência como recompensas de missão. Requer recarregar o jogo para entrar em vigor.</AArmoury_MakeMoreCommonAsQuestRewardsDesc>
+  <AArmoury_MakeRaidWeaponsBiocoded>...mas faça com que todas sejam biocodificadas</AArmoury_MakeRaidWeaponsBiocoded>
+  <AArmoury_MakeRaidWeaponsBiocodedDesc>Armas que aparecem em incursões serão biocodificadas, então o jogador terá que enfrentar incursões MUITO mais difíceis e não receberá armas únicas como recompensa!</AArmoury_MakeRaidWeaponsBiocodedDesc>
+  <AArmoury_MakeRaidWeaponsDestroyedOnDrop>...mas faça com que todas sejam destruídas ao serem deixadas cair</AArmoury_MakeRaidWeaponsDestroyedOnDrop>
+  <AArmoury_MakeRaidWeaponsDestroyedOnDropDesc>Por padrão, mesmo que as armas sejam biocodificadas, elas ainda podem ser usadas pelo invasor se você o capturar. Com esta opção do mod, as armas se autodestroem ao serem deixadas cair, tornando as incursões apenas um pouco mais difíceis.</AArmoury_MakeRaidWeaponsDestroyedOnDropDesc>
+  <AArmoury_MaxWeaponTraits>Características máximas de arma</AArmoury_MaxWeaponTraits>
+  <AArmoury_MaxWeaponTraitsDesc>Por padrão, armas únicas têm no máximo 3 características de arma. Alterações nisso afetarão apenas armas recém-criadas, não as existentes.</AArmoury_MaxWeaponTraitsDesc>
+  <AArmoury_MinWeaponTraits>Características mínimas de arma</AArmoury_MinWeaponTraits>
+  <AArmoury_MinWeaponTraitsDesc>Por padrão, armas únicas têm no mínimo 1 característica de arma. Alterações nisso afetarão apenas armas recém-criadas, não as existentes.</AArmoury_MinWeaponTraitsDesc>
+  <AArmoury_NeedToTargetCaster>Esta habilidade precisa mirar em seu conjurador</AArmoury_NeedToTargetCaster>
+  <AArmoury_NeedToTargetNotCaster>Esta habilidade precisa mirar em alguém além de seu conjurador</AArmoury_NeedToTargetNotCaster>
+  <AArmoury_NoTraits>{0} não tem nenhuma característica para remover.</AArmoury_NoTraits>
+  <AArmoury_NoUniqueEquivalent>{0} parece não ter uma arma única equivalente.</AArmoury_NoUniqueEquivalent>
+  <AArmoury_NotForThisGun>Este é um kit de conversão para {0}. Não funcionará em outras armas.</AArmoury_NotForThisGun>
+  <AArmoury_RemovedTrait>A característica de arma "{0}" foi removida de {1}. Foi-se, Jim.</AArmoury_RemovedTrait>
+  <AArmoury_Reset>Redefinir</AArmoury_Reset>
+  <AArmoury_SendWeaponPods>Enviar cápsulas de armas únicas a cada quadrum! (FESTA de armas!)</AArmoury_SendWeaponPods>
+  <AArmoury_SendWeaponPodsDesc>Com esta opção, desativada por padrão, você pode receber de 1 a 3 cápsulas de queda carregadas com armas únicas aleatórias a cada 15 dias. Note que isso pode ser muito OP... ou muito decepcionante. Se houver uma caravana no local, as armas serão entregues lá.</AArmoury_SendWeaponPodsDesc>
+  <AArmoury_StatsReport_InPollution>Arma em terreno poluído</AArmoury_StatsReport_InPollution>
+  <AArmoury_StatsReport_InSpace>Arma no espaço</AArmoury_StatsReport_InSpace>
+  <AArmoury_StatsReport_InSunlight>Arma sob a luz do sol</AArmoury_StatsReport_InSunlight>
+  <AArmoury_StatsReport_NotInSpace>Arma na superfície do planeta</AArmoury_StatsReport_NotInSpace>
+  <AArmoury_StatsReport_NotInSunlight>Arma fora da luz do sol</AArmoury_StatsReport_NotInSunlight>
+  <AArmoury_Trait>Característica de arma neste kit: "{0}"</AArmoury_Trait>
+  <AArmoury_TraitConflicts>A característica entra em conflito com a característica existente "{0}".</AArmoury_TraitConflicts>
+  <AArmoury_Weapon>Conversão de arma para: "{0}"</AArmoury_Weapon>
+</LanguageData>

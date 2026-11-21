@@ -18,4 +18,7 @@
   <RKCS_NanoBlade.description>Coloque o facão de autômato base e os materiais adicionais na prensa mecânica, em seguida insira o componente de estampagem. Uma vez definido o processo de fabricação, o sistema realizará automaticamente forjamento a frio repetido. É essencial integrar a interface de autenticação necessária para a Coluna de Controle ao componente de estampagem, caso contrário, o equipamento acionará um mecanismo de rejeição semelhante a uma falha de autenticação de código biológico. Além disso, para se adequar ao perfil de usuário pretendido e maximizar a eficácia da arma branca, a interface para uso por autômatos foi intencionalmente omitida.</RKCS_NanoBlade.description>
   <RKCS_NanoBlade.jobString>Reforjando a lâmina cortante nano...</RKCS_NanoBlade.jobString>
   <RKCS_NanoBlade.label>fabricar lâmina cortante nano</RKCS_NanoBlade.label>
+  <RKCS_RemoveControlSpine.description>Remova a coluna de controle presa à coluna vertebral do paciente.</RKCS_RemoveControlSpine.description>
+  <RKCS_RemoveControlSpine.jobString>Removendo coluna de controle</RKCS_RemoveControlSpine.jobString>
+  <RKCS_RemoveControlSpine.label>remover coluna de controle</RKCS_RemoveControlSpine.label>
 </LanguageData>

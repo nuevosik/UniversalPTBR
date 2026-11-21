@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AArmoury_AcidGrenade.label>granada de ácido</AArmoury_AcidGrenade.label>
+  <AArmoury_AntiToxGrenade.label>granada anti-toxina</AArmoury_AntiToxGrenade.label>
+  <AArmoury_BarricadeProjectile.label>barricada</AArmoury_BarricadeProjectile.label>
+  <AArmoury_BeamGraphic.label>feixe laser</AArmoury_BeamGraphic.label>
+  <AArmoury_BeeBeeGun.label>abelha</AArmoury_BeeBeeGun.label>
+  <AArmoury_BubbleBurster.label>bolha de ácido</AArmoury_BubbleBurster.label>
+  <AArmoury_Bullet_LaserRifle.description>Um feixe laser focado.</AArmoury_Bullet_LaserRifle.description>
+  <AArmoury_Bullet_LaserRifle.label>tiro de laser</AArmoury_Bullet_LaserRifle.label>
+  <AArmoury_Bullet_Shrapnel.label>estilhaço</AArmoury_Bullet_Shrapnel.label>
+  <AArmoury_Bullet_Shrapnel_Lesser.label>estilhaço</AArmoury_Bullet_Shrapnel_Lesser.label>
+  <AArmoury_Bullet_Tesla.label>raio tesla em cadeia</AArmoury_Bullet_Tesla.label>
+  <AArmoury_CaltropProjectile.label>cravos</AArmoury_CaltropProjectile.label>
+  <AArmoury_Caltrops.description>Grupos espalhados de espinhos afiados feitos para ferir e retardar invasores. Eles se degradam em pouco tempo.</AArmoury_Caltrops.description>
+  <AArmoury_Caltrops.label>cravos</AArmoury_Caltrops.label>
+  <AArmoury_Chakram.label>chakram</AArmoury_Chakram.label>
+  <AArmoury_DehydratorGrenade.label>granada desidratadora</AArmoury_DehydratorGrenade.label>
+  <AArmoury_Egg.label>ovo</AArmoury_Egg.label>
+  <AArmoury_Egg_Releaser.description>Apenas um ovo inocente.</AArmoury_Egg_Releaser.description>
+  <AArmoury_Egg_Releaser.label>ovo</AArmoury_Egg_Releaser.label>
+  <AArmoury_Electric.label>potencial elétrico</AArmoury_Electric.label>
+  <AArmoury_EntropyRounds_Arrow.label>flecha de entropia</AArmoury_EntropyRounds_Arrow.label>
+  <AArmoury_EntropyRounds_Assault.label>bala de fuzil de assalto de entropia</AArmoury_EntropyRounds_Assault.label>
+  <AArmoury_EntropyRounds_Bolt.label>bala de fuzil de ação por ferrolho de entropia</AArmoury_EntropyRounds_Bolt.label>
+  <AArmoury_EntropyRounds_Charge.label>tiro de carga de entropia</AArmoury_EntropyRounds_Charge.label>
+  <AArmoury_EntropyRounds_HeavySMG.label>bala de submetralhadora pesada de entropia</AArmoury_EntropyRounds_HeavySMG.label>
+  <AArmoury_EntropyRounds_Hellcat.label>bala de fuzil hellcat de entropia</AArmoury_EntropyRounds_Hellcat.label>
+  <AArmoury_EntropyRounds_LMG.label>bala de metralhadora leve de entropia</AArmoury_EntropyRounds_LMG.label>
+  <AArmoury_EntropyRounds_Lance.label>tiro de lança de carga de entropia</AArmoury_EntropyRounds_Lance.label>
+  <AArmoury_EntropyRounds_Launcher.label>projétil de lançador de fumaça de entropia</AArmoury_EntropyRounds_Launcher.label>
+  <AArmoury_EntropyRounds_Minigun.label>bala de minigun de entropia</AArmoury_EntropyRounds_Minigun.label>
+  <AArmoury_EntropyRounds_Revolver.label>bala de revólver de entropia</AArmoury_EntropyRounds_Revolver.label>
+  <AArmoury_EntropyRounds_Shotgun.label>tiro de escopeta de entropia</AArmoury_EntropyRounds_Shotgun.label>
+  <AArmoury_EntropyRounds_Sniper.label>bala de fuzil de precisão de entropia</AArmoury_EntropyRounds_Sniper.label>
+  <AArmoury_FertilizerShot.label>recipiente de fertilizante</AArmoury_FertilizerShot.label>
+  <AArmoury_FirefoamGrenade.label>granada de espuma contra incêndio</AArmoury_FirefoamGrenade.label>
+  <AArmoury_Flux_Arrow.label>flecha de fluxo</AArmoury_Flux_Arrow.label>
+  <AArmoury_Flux_Assault.label>bala de fuzil de assalto de fluxo</AArmoury_Flux_Assault.label>
+  <AArmoury_Flux_Bolt.label>bala de fuzil de ação por ferrolho de fluxo</AArmoury_Flux_Bolt.label>
+  <AArmoury_Flux_Charge.label>tiro de carga de fluxo</AArmoury_Flux_Charge.label>
+  <AArmoury_Flux_HeavySMG.label>bala de submetralhadora pesada de fluxo</AArmoury_Flux_HeavySMG.label>
+  <AArmoury_Flux_Hellcat.label>bala de fuzil hellcat de fluxo</AArmoury_Flux_Hellcat.label>
+  <AArmoury_Flux_LMG.label>bala de metralhadora leve de fluxo</AArmoury_Flux_LMG.label>
+  <AArmoury_Flux_Lance.label>tiro de lança de carga de fluxo</AArmoury_Flux_Lance.label>
+  <AArmoury_Flux_Launcher.label>projétil de lançador de fumaça de fluxo</AArmoury_Flux_Launcher.label>
+  <AArmoury_Flux_Minigun.label>bala de minigun de fluxo</AArmoury_Flux_Minigun.label>
+  <AArmoury_Flux_Revolver.label>bala de revólver de fluxo</AArmoury_Flux_Revolver.label>
+  <AArmoury_Flux_Secondary.label>descarga de energia</AArmoury_Flux_Secondary.label>
+  <AArmoury_Flux_Shotgun.label>tiro de escopeta de fluxo</AArmoury_Flux_Shotgun.label>
+  <AArmoury_Flux_Sniper.label>bala de fuzil de precisão de fluxo</AArmoury_Flux_Sniper.label>
+  <AArmoury_FrostRay.label>raio criogênico</AArmoury_FrostRay.label>
+  <AArmoury_Frost_Arrow.label>flecha de geada</AArmoury_Frost_Arrow.label>
+  <AArmoury_Frost_Assault.label>bala de fuzil de assalto de geada</AArmoury_Frost_Assault.label>
+  <AArmoury_Frost_Bolt.label>bala de fuzil de ação por ferrolho de geada</AArmoury_Frost_Bolt.label>
+  <AArmoury_Frost_Charge.label>tiro de carga de geada</AArmoury_Frost_Charge.label>
+  <AArmoury_Frost_HeavySMG.label>bala de submetralhadora pesada de geada</AArmoury_Frost_HeavySMG.label>
+  <AArmoury_Frost_Hellcat.label>bala de fuzil hellcat de geada</AArmoury_Frost_Hellcat.label>
+  <AArmoury_Frost_LMG.label>bala de metralhadora leve de geada</AArmoury_Frost_LMG.label>
+  <AArmoury_Frost_Lance.label>tiro de lança de carga de geada</AArmoury_Frost_Lance.label>
+  <AArmoury_Frost_Minigun.label>bala de minigun de geada</AArmoury_Frost_Minigun.label>
+  <AArmoury_Frost_Revolver.label>bala de revólver de geada</AArmoury_Frost_Revolver.label>
+  <AArmoury_Frost_Shotgun.label>tiro de escopeta de geada</AArmoury_Frost_Shotgun.label>
+  <AArmoury_Frost_Sniper.label>bala de fuzil de precisão de geada</AArmoury_Frost_Sniper.label>
+  <AArmoury_GrappleGun.label>corrente de gancho</AArmoury_GrappleGun.label>
+  <AArmoury_GreenGas.label>névoa de ácido</AArmoury_GreenGas.label>
+  <AArmoury_Gun_Launcher_Unique.description>Um lançador de projéteis de cano largo personalizado. Por padrão, configurado para disparar projéteis de fumaça.</AArmoury_Gun_Launcher_Unique.description>
+  <AArmoury_Gun_Launcher_Unique.label>lançador único</AArmoury_Gun_Launcher_Unique.label>
+  <AArmoury_Gun_Launcher_Unique.tools.0.label>coronha</AArmoury_Gun_Launcher_Unique.tools.0.label>
+  <AArmoury_Gun_Launcher_Unique.tools.1.label>cano</AArmoury_Gun_Launcher_Unique.tools.1.label>
+  <AArmoury_HealingMinigun.label>projétil curativo</AArmoury_HealingMinigun.label>
+  <AArmoury_Hemovoric.label>bala hemovórica</AArmoury_Hemovoric.label>
+  <AArmoury_HemovoricRepeater.label>laser repetidor de feixe hemovórico</AArmoury_HemovoricRepeater.label>
+  <AArmoury_Hemovoric_Arrow.label>flecha hemovórica</AArmoury_Hemovoric_Arrow.label>
+  <AArmoury_Hemovoric_Charge.label>tiro de carga hemovórico</AArmoury_Hemovoric_Charge.label>
+  <AArmoury_Hemovoric_Charge_Greater.label>tiro de lança de carga hemovórico</AArmoury_Hemovoric_Charge_Greater.label>
+  <AArmoury_Hemovoric_Feedback.label>retroalimentação hemovórica</AArmoury_Hemovoric_Feedback.label>
+  <AArmoury_Hemovoric_Greater.label>bala hemovórica</AArmoury_Hemovoric_Greater.label>
+  <AArmoury_Hemovoric_Lesser.label>bala hemovórica</AArmoury_Hemovoric_Lesser.label>
+  <AArmoury_Holy.label>nanites de descoerência</AArmoury_Holy.label>
+  <AArmoury_HolyGrenade.label>granada de "mão santa"</AArmoury_HolyGrenade.label>
+  <AArmoury_Incendiary_Assault.label>bala de fuzil de assalto incendiária</AArmoury_Incendiary_Assault.label>
+  <AArmoury_Incendiary_Bolt.label>bala de fuzil de ação por ferrolho incendiária</AArmoury_Incendiary_Bolt.label>
+  <AArmoury_Incendiary_HeavySMG.label>bala de submetralhadora pesada incendiária</AArmoury_Incendiary_HeavySMG.label>
+  <AArmoury_Incendiary_Hellcat.label>bala de fuzil hellcat incendiária</AArmoury_Incendiary_Hellcat.label>
+  <AArmoury_Incendiary_LMG.label>bala de metralhadora leve incendiária</AArmoury_Incendiary_LMG.label>
+  <AArmoury_Incendiary_Minigun.label>bala de minigun incendiária</AArmoury_Incendiary_Minigun.label>
+  <AArmoury_Incendiary_Revolver.label>bala de revólver incendiária</AArmoury_Incendiary_Revolver.label>
+  <AArmoury_Incendiary_Shotgun.label>pelotas de escopeta incendiárias</AArmoury_Incendiary_Shotgun.label>
+  <AArmoury_Incendiary_Sniper.label>bala de fuzil de precisão incendiária</AArmoury_Incendiary_Sniper.label>
+  <AArmoury_LifestealFeedback.label>retroalimentação de roubo de vida</AArmoury_LifestealFeedback.label>
+  <AArmoury_Lifesteal_Arrow.label>flecha de roubo de vida</AArmoury_Lifesteal_Arrow.label>
+  <AArmoury_Lifesteal_Assault.label>bala de fuzil de assalto de roubo de vida</AArmoury_Lifesteal_Assault.label>
+  <AArmoury_Lifesteal_Bolt.label>bala de fuzil de ação por ferrolho de roubo de vida</AArmoury_Lifesteal_Bolt.label>
+  <AArmoury_Lifesteal_Charge.label>tiro de carga de roubo de vida</AArmoury_Lifesteal_Charge.label>
+  <AArmoury_Lifesteal_HeavySMG.label>bala de submetralhadora pesada de roubo de vida</AArmoury_Lifesteal_HeavySMG.label>
+  <AArmoury_Lifesteal_Hellcat.label>bala de fuzil hellcat de roubo de vida</AArmoury_Lifesteal_Hellcat.label>
+  <AArmoury_Lifesteal_LMG.label>bala de metralhadora leve de roubo de vida</AArmoury_Lifesteal_LMG.label>
+  <AArmoury_Lifesteal_Lance.label>tiro de lança de carga de roubo de vida</AArmoury_Lifesteal_Lance.label>
+  <AArmoury_Lifesteal_Minigun.label>bala de minigun de roubo de vida</AArmoury_Lifesteal_Minigun.label>
+  <AArmoury_Lifesteal_Revolver.label>bala de revólver de roubo de vida</AArmoury_Lifesteal_Revolver.label>
+  <AArmoury_Lifesteal_Shotgun.label>tiro de escopeta de roubo de vida</AArmoury_Lifesteal_Shotgun.label>
+  <AArmoury_Lifesteal_Sniper.label>bala de fuzil de precisão de roubo de vida</AArmoury_Lifesteal_Sniper.label>
+  <AArmoury_MagmaGrenade.label>granada de magma</AArmoury_MagmaGrenade.label>
+  <AArmoury_Mine.description>Uma mina antipessoal que detona ao contato.</AArmoury_Mine.description>
+  <AArmoury_Mine.label>mina</AArmoury_Mine.label>
+  <AArmoury_MineProjectile.label>mina</AArmoury_MineProjectile.label>
+  <AArmoury_MiniRocket.label>mini-foguete</AArmoury_MiniRocket.label>
+  <AArmoury_MiniRocketBolt.label>mini-foguete</AArmoury_MiniRocketBolt.label>
+  <AArmoury_MiniRocketSniper.label>mini-foguete</AArmoury_MiniRocketSniper.label>
+  <AArmoury_NeedleProjectiles_LMG.label>agulha</AArmoury_NeedleProjectiles_LMG.label>
+  <AArmoury_Net.label>rede</AArmoury_Net.label>
+  <AArmoury_PesticideCanistersProjectile.label>recipiente de pesticida</AArmoury_PesticideCanistersProjectile.label>
+  <AArmoury_PlasmaRay.label>raio de plasma</AArmoury_PlasmaRay.label>
+  <AArmoury_Poison_Assault.label>bala de fuzil de assalto envenenada</AArmoury_Poison_Assault.label>
+  <AArmoury_Poison_Bolt.label>bala de fuzil de ação por ferrolho envenenada</AArmoury_Poison_Bolt.label>
+  <AArmoury_Poison_HeavySMG.label>bala de submetralhadora pesada envenenada</AArmoury_Poison_HeavySMG.label>
+  <AArmoury_Poison_Hellcat.label>bala de fuzil hellcat envenenada</AArmoury_Poison_Hellcat.label>
+  <AArmoury_Poison_LMG.label>bala de metralhadora leve envenenada</AArmoury_Poison_LMG.label>
+  <AArmoury_Poison_Minigun.label>bala de minigun envenenada</AArmoury_Poison_Minigun.label>
+  <AArmoury_Poison_Revolver.label>bala de revólver envenenada</AArmoury_Poison_Revolver.label>
+  <AArmoury_Poison_Shotgun.label>pelotas de escopeta envenenadas</AArmoury_Poison_Shotgun.label>
+  <AArmoury_Poison_Sniper.label>bala de fuzil de precisão envenenada</AArmoury_Poison_Sniper.label>
+  <AArmoury_PotatoShot.label>batata</AArmoury_PotatoShot.label>
+  <AArmoury_Psychic.label>bala psíquica</AArmoury_Psychic.label>
+  <AArmoury_PsychicRepeater.label>laser repetidor de feixe psíquico</AArmoury_PsychicRepeater.label>
+  <AArmoury_Psychic_Arrow.label>flecha psíquica</AArmoury_Psychic_Arrow.label>
+  <AArmoury_Psychic_Charge.label>tiro de carga psíquico</AArmoury_Psychic_Charge.label>
+  <AArmoury_Psychic_Charge_Greater.label>tiro de lança de carga psíquico</AArmoury_Psychic_Charge_Greater.label>
+  <AArmoury_Psychic_Feedback.label>retroalimentação psíquica</AArmoury_Psychic_Feedback.label>
+  <AArmoury_Psychic_Greater.label>bala psíquica</AArmoury_Psychic_Greater.label>
+  <AArmoury_Psychic_Lesser.label>bala psíquica</AArmoury_Psychic_Lesser.label>
+  <AArmoury_PulseBullet.label>bala de revólver</AArmoury_PulseBullet.label>
+  <AArmoury_RepairGun.label>projétil de reparo</AArmoury_RepairGun.label>
+  <AArmoury_RotstinkGrenade.label>granada de podridão</AArmoury_RotstinkGrenade.label>
+  <AArmoury_ShatterPellets.label>pelotas estilhaçantes</AArmoury_ShatterPellets.label>
+  <AArmoury_ShatterRounds.label>cartucho estilhaçante</AArmoury_ShatterRounds.label>
+  <AArmoury_ShatterRounds_Lesser.label>cartucho estilhaçante</AArmoury_ShatterRounds_Lesser.label>
+  <AArmoury_Shield.label>escudo</AArmoury_Shield.label>
+  <AArmoury_ShrapnelGrenade.label>granada de estilhaços</AArmoury_ShrapnelGrenade.label>
+  <AArmoury_Sonic.label>explosão sônica</AArmoury_Sonic.label>
+  <AArmoury_Splitting_Arrow.label>flecha de arco grande dividida</AArmoury_Splitting_Arrow.label>
+  <AArmoury_Splitting_Arrow_Secondary.label>flecha de arco grande dividida</AArmoury_Splitting_Arrow_Secondary.label>
+  <AArmoury_Splitting_Assault.label>bala de fuzil de assalto dividida</AArmoury_Splitting_Assault.label>
+  <AArmoury_Splitting_Assault_Secondary.label>bala de fuzil de assalto dividida</AArmoury_Splitting_Assault_Secondary.label>
+  <AArmoury_Splitting_Bolt.label>bala de fuzil de ação por ferrolho dividida</AArmoury_Splitting_Bolt.label>
+  <AArmoury_Splitting_Bolt_Secondary.label>bala de fuzil de ação por ferrolho dividida</AArmoury_Splitting_Bolt_Secondary.label>
+  <AArmoury_Splitting_Charge.label>tiro de carga dividido</AArmoury_Splitting_Charge.label>
+  <AArmoury_Splitting_Charge_Secondary.label>tiro de carga dividido</AArmoury_Splitting_Charge_Secondary.label>
+  <AArmoury_Splitting_HeavySMG.label>bala de submetralhadora pesada dividida</AArmoury_Splitting_HeavySMG.label>
+  <AArmoury_Splitting_HeavySMG_Secondary.label>bala de submetralhadora pesada dividida</AArmoury_Splitting_HeavySMG_Secondary.label>
+  <AArmoury_Splitting_Hellcat.label>bala de fuzil hellcat dividida</AArmoury_Splitting_Hellcat.label>
+  <AArmoury_Splitting_Hellcat_Secondary.label>bala de fuzil hellcat dividida</AArmoury_Splitting_Hellcat_Secondary.label>
+  <AArmoury_Splitting_LMG.label>bala de metralhadora leve dividida</AArmoury_Splitting_LMG.label>
+  <AArmoury_Splitting_LMG_Secondary.label>bala de metralhadora leve dividida</AArmoury_Splitting_LMG_Secondary.label>
+  <AArmoury_Splitting_Lance.label>tiro de lança de carga dividido</AArmoury_Splitting_Lance.label>
+  <AArmoury_Splitting_Lance_Secondary.label>tiro de lança de carga dividido</AArmoury_Splitting_Lance_Secondary.label>
+  <AArmoury_Splitting_Minigun.label>bala de minigun dividida</AArmoury_Splitting_Minigun.label>
+  <AArmoury_Splitting_Minigun_Secondary.label>bala de minigun dividida</AArmoury_Splitting_Minigun_Secondary.label>
+  <AArmoury_Splitting_Revolver.label>bala de revólver dividida</AArmoury_Splitting_Revolver.label>
+  <AArmoury_Splitting_Revolver_Secondary.label>bala de revólver dividida</AArmoury_Splitting_Revolver_Secondary.label>
+  <AArmoury_Splitting_Shotgun.label>tiro de escopeta dividido</AArmoury_Splitting_Shotgun.label>
+  <AArmoury_Splitting_Shotgun_Secondary.label>tiro de escopeta dividido</AArmoury_Splitting_Shotgun_Secondary.label>
+  <AArmoury_Splitting_Sniper.label>bala de fuzil de precisão dividida</AArmoury_Splitting_Sniper.label>
+  <AArmoury_Splitting_Sniper_Secondary.label>bala de fuzil de precisão dividida</AArmoury_Splitting_Sniper_Secondary.label>
+  <AArmoury_SwarmRocket.label>foguete de enxame</AArmoury_SwarmRocket.label>
+  <AArmoury_Syringe.label>agulha</AArmoury_Syringe.label>
+  <AArmoury_TachyonicBeamRepeater.label>laser repetidor de feixe taquiônico</AArmoury_TachyonicBeamRepeater.label>
+  <AArmoury_TachyonicFeed.label>bala alimentada taquiônica</AArmoury_TachyonicFeed.label>
+  <AArmoury_TachyonicFeed_Arrow.label>flecha taquiônica</AArmoury_TachyonicFeed_Arrow.label>
+  <AArmoury_TachyonicFeed_Charge.label>tiro de carga taquiônico</AArmoury_TachyonicFeed_Charge.label>
+  <AArmoury_TachyonicFeed_Charge_Greater.label>tiro de lança de carga taquiônico</AArmoury_TachyonicFeed_Charge_Greater.label>
+  <AArmoury_TachyonicFeed_Greater.label>bala alimentada taquiônica</AArmoury_TachyonicFeed_Greater.label>
+  <AArmoury_TachyonicFeed_Lesser.label>bala alimentada taquiônica</AArmoury_TachyonicFeed_Lesser.label>
+  <AArmoury_TargetLocator.label>localizador de alvo</AArmoury_TargetLocator.label>
+  <AArmoury_ThermalBlasts.label>explosão térmica</AArmoury_ThermalBlasts.label>
+  <AArmoury_Voltaic_Launcher.label>projétil de lançador de fumaça voltaico</AArmoury_Voltaic_Launcher.label>
+  <AArmoury_WeaponKit.description>Um kit de armas para um modificador de arma específico. Pode ser usado em uma arma única para adicionar uma característica, desde que a arma a suporte.</AArmoury_WeaponKit.description>
+  <AArmoury_WeaponKit.label>kit de ajuste de armas</AArmoury_WeaponKit.label>
+  <AArmoury_WeaponKit_Converter.description>Um kit de conversão de armas para uma arma específica. Pode ser usado em uma arma desse tipo para convertê-la na arma única equivalente.</AArmoury_WeaponKit_Converter.description>
+  <AArmoury_WeaponKit_Converter.label>kit de conversão de armas</AArmoury_WeaponKit_Converter.label>
+  <AArmoury_WeaponKit_Remover.description>Um kit de armas para remover características de uma arma. Pode ser usado em uma arma única para remover uma característica aleatória.</AArmoury_WeaponKit_Remover.description>
+  <AArmoury_WeaponKit_Remover.label>kit de remoção de características de armas</AArmoury_WeaponKit_Remover.label>
+  <AArmoury_WeaponKit_TabulaRasa.description>Um kit de armas que remove todas as características de uma arma.</AArmoury_WeaponKit_TabulaRasa.description>
+  <AArmoury_WeaponKit_TabulaRasa.label>kit de armas tabula rasa</AArmoury_WeaponKit_TabulaRasa.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MU_CarriedMassOffset.description>Uma massa extra que esta criatura pode carregar.</MU_CarriedMassOffset.description>
+  <MU_CarriedMassOffset.label>modificador de massa transportada</MU_CarriedMassOffset.label>
+  <MU_RangedDamageFactor.description>Um multiplicador de dano aplicado aos projéteis disparados pela arma empunhada por esta criatura.</MU_RangedDamageFactor.description>
+  <MU_RangedDamageFactor.label>multiplicador de dano à distância</MU_RangedDamageFactor.label>
+  <MU_Upgradability.description>Quantidade de melhorias que podem ser adicionadas a este mecanoide.</MU_Upgradability.description>
+  <MU_Upgradability.label>capacidade de melhoria</MU_Upgradability.label>
+  <MU_UpgradeCreatingSpeed.description>A velocidade com que esta pessoa cria melhorias para mecanoides.</MU_UpgradeCreatingSpeed.description>
+  <MU_UpgradeCreatingSpeed.label>velocidade de criação de melhorias</MU_UpgradeCreatingSpeed.label>
+  <MU_UpgradeFabricationSpeed.description>A velocidade com que esta pessoa cria melhorias para mecanoides.</MU_UpgradeFabricationSpeed.description>
+  <MU_UpgradeFabricationSpeed.label>velocidade de criação de melhorias</MU_UpgradeFabricationSpeed.label>
+  <MU_WeaponRangeFactor.description>Um multiplicador de alcance aplicado à arma empunhada por esta criatura.</MU_WeaponRangeFactor.description>
+  <MU_WeaponRangeFactor.label>multiplicador de alcance de arma</MU_WeaponRangeFactor.label>
+</LanguageData>

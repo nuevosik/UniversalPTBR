@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AB_AlcyoniteSolarPanels>Melhorar painéis solares</AB_AlcyoniteSolarPanels>
+  <AB_AlcyoniteSolarPanelsDescription>Neste bioma, você pode converter painéis solares em painéis solares de alcionita, que funcionam 50% melhor sob o clima de névoa vermelha.</AB_AlcyoniteSolarPanelsDescription>
+  <AB_AlcyoniteSolarPanels_NotBuildable>Para construí-los, faça um painel solar e use o botão "Converter painel solar"</AB_AlcyoniteSolarPanels_NotBuildable>
+  <AB_AlphaAnimalsNotInstalled>Como Alpha Animals não está instalado, esta colmeia está inativa</AB_AlphaAnimalsNotInstalled>
+  <AB_AmbientRadiationDesc>Devido à radiação ambiente neste lugar, {0} recebeu a seguinte mutação: {1}</AB_AmbientRadiationDesc>
+  <AB_AmbientRadiationLabel>Mutação por radiação ambiente para {0}</AB_AmbientRadiationLabel>
+  <AB_AncientBloodRainVentActive>expelindo vapor vermelho-sangue.</AB_AncientBloodRainVentActive>
+  <AB_AncientBloodRainVentShutdown>Os dutos de chuva de sangue antigos estão parando.</AB_AncientBloodRainVentShutdown>
+  <AB_AncientBloodRainVentStartUp>Os dutos de chuva de sangue antigos foram ativados, expelindo um vapor espesso vermelho-sangue.</AB_AncientBloodRainVentStartUp>
+  <AB_AncientDeathPallVentActive>expelindo uma nuvem de arquites que reanimam cadáveres.</AB_AncientDeathPallVentActive>
+  <AB_AncientDeathPallVentShutdown>Os dutos de sudário da morte antigos estão parando.</AB_AncientDeathPallVentShutdown>
+  <AB_AncientDeathPallVentStartUp>Os dutos de sudário da morte antigos foram ativados, expelindo uma nuvem râncida de arquites que reanimam cadáveres.</AB_AncientDeathPallVentStartUp>
+  <AB_AncientFreezingVentActive>expelindo ar congelante.</AB_AncientFreezingVentActive>
+  <AB_AncientFreezingVentShutdown>Os dutos de congelamento antigos estão parando.</AB_AncientFreezingVentShutdown>
+  <AB_AncientFreezingVentStartUp>Os dutos de congelamento antigos foram ativados, reduzindo as temperaturas.</AB_AncientFreezingVentStartUp>
+  <AB_AncientGreyPallVentActive>expelindo fumaça de aparência doentia.</AB_AncientGreyPallVentActive>
+  <AB_AncientGreyPallVentShutdown>Os dutos de sudário cinzento antigos estão parando.</AB_AncientGreyPallVentShutdown>
+  <AB_AncientGreyPallVentStartUp>Os dutos de sudário cinzento antigos foram ativados, expelindo uma fumaça de aparência doentia.</AB_AncientGreyPallVentStartUp>
+  <AB_BiomeBuildings>construir estruturas do bioma</AB_BiomeBuildings>
+  <AB_BiomeBuildingsDesc>Abra um menu para construir edifícios específicos do bioma.</AB_BiomeBuildingsDesc>
+  <AB_BiomeCommonalities>Frequências dos biomas. Defina como 0 para impedir que o bioma seja gerado:</AB_BiomeCommonalities>
+  <AB_BiomeMultiplier>multiplicador de frequência de {0}</AB_BiomeMultiplier>
+  <AB_BrighterCrags>Penhascos Abandonados mais claros</AB_BrighterCrags>
+  <AB_BrighterCragsDescription>Torna os Penhascos Abandonados bem mais claros, para aqueles com uma tela de PC que deixa os Penhascos MUITO escuros. Essa mudança entra em vigor na próxima mudança de clima no mapa, ou ao recarregar o jogo salvo.</AB_BrighterCragsDescription>
+  <AB_ChooseMine>Escolha o tipo de pedaço a perfurar</AB_ChooseMine>
+  <AB_ChooseMineDesc>Escolha o tipo de pedaço a perfurar. Você pode escolher qualquer um dos tipos de rocha do jogo base, ou aleatório</AB_ChooseMineDesc>
+  <AB_ChunkGraniteMine>Perfurar para obter pedaços de granito</AB_ChunkGraniteMine>
+  <AB_ChunkLimestoneMine>Perfurar para obter pedaços de calcário</AB_ChunkLimestoneMine>
+  <AB_ChunkMarbleMine>Perfurar para obter pedaços de mármore</AB_ChunkMarbleMine>
+  <AB_ChunkRandomMine>Perfurar para obter pedaços aleatórios</AB_ChunkRandomMine>
+  <AB_ChunkSandstoneMine>Perfurar para obter pedaços de arenito</AB_ChunkSandstoneMine>
+  <AB_ChunkSlateMine>Perfurar para obter pedaços de ardósia</AB_ChunkSlateMine>
+  <AB_ConvertToAlcyonite>Converter painel solar</AB_ConvertToAlcyonite>
+  <AB_ConvertToAlcyoniteDesc>Converta este painel solar em um painel solar de alcionita, que funciona 50% melhor sob o clima de névoa vermelha.</AB_ConvertToAlcyoniteDesc>
+  <AB_Distance_Generic_Fifteen>Este edifício precisa estar a pelo menos 15 quadrados de distância de um edifício similar</AB_Distance_Generic_Fifteen>
+  <AB_Distance_Propane>Bombas de propano precisam estar a pelo menos 12 quadrados de distância uma da outra</AB_Distance_Propane>
+  <AB_DrillingStoneType>Tipo de pedra a perfurar:</AB_DrillingStoneType>
+  <AB_DrillingStoneTypeRandom>Tipo de pedra a perfurar: Aleatório</AB_DrillingStoneTypeRandom>
+  <AB_ExtractPropane>Extrair 150 de propano</AB_ExtractPropane>
+  <AB_ExtractPropaneDesc>Extrai 150 de propano do tanque. Um colono virá fazer a extração.</AB_ExtractPropaneDesc>
+  <AB_FeaturesInThisTile>Elementos neste quadrado:</AB_FeaturesInThisTile>
+  <AB_LandmarkMutatorMultiplier>Frequência de elementos de ponto de referência (requer novo mundo)</AB_LandmarkMutatorMultiplier>
+  <AB_LandmarkMutatorMultiplierTooltip>A frequência de elementos do mapa em mapas de pontos de referência será multiplicada por este número (20 significa que um determinado elemento de ponto de referência será 20 vezes mais comum). Requer criar um novo planeta!</AB_LandmarkMutatorMultiplierTooltip>
+  <AB_MessageWarningTooHighFertility>Necessário terreno menos fértil.</AB_MessageWarningTooHighFertility>
+  <AB_MultiplierTooltip>Este multiplicador afetará as chances de aparição (frequência) de {0} ao criar um mundo. Tenha em mente que as frequências nos biomas não são lineares, então você terá que experimentar e ajustar até obter uma densidade de bioma que atenda às suas necessidades. Lembre-se também de que isso pode ser afetado por outros mods que adicionam novos biomas ou modificam a forma como o jogo cria um mundo.</AB_MultiplierTooltip>
+  <AB_MustPlaceOnTarPit>A bomba deve ser construída sobre lama alcatroada ou um buraco de alcatrão</AB_MustPlaceOnTarPit>
+  <AB_MutatorMultiplier>Frequência de elementos do mapa (requer novo mundo)</AB_MutatorMultiplier>
+  <AB_MutatorMultiplierTooltip>A frequência de elementos do mapa em um mapa sem ponto de referência será multiplicada por este número (20 significa que um determinado elemento do mapa será 20 vezes mais comum). Requer criar um novo planeta!</AB_MutatorMultiplierTooltip>
+  <AB_NotReallyAPlant>Isto é apenas uma poça nojenta de alcatrão fedorento</AB_NotReallyAPlant>
+  <AB_OcularForestOnly>Este dispositivo só funciona em uma floresta ocular</AB_OcularForestOnly>
+  <AB_ProgressToNextPortion>Progresso até o próximo pedaço</AB_ProgressToNextPortion>
+  <AB_PropaneValve>Liga/desliga o fluxo de propano.</AB_PropaneValve>
+  <AB_PropaneValveDesc>Liga/desliga o fluxo de propano. Um colono virá abrir/fechar a válvula.</AB_PropaneValveDesc>
+  <AB_RemoveOdysseyBiomes>Remover todos os biomas de Odyssey</AB_RemoveOdysseyBiomes>
+  <AB_RemoveOdysseyBiomesDesc>Ao ativar esta opção, você pode remover os biomas de Odyssey.</AB_RemoveOdysseyBiomesDesc>
+  <AB_RemoveVanillaBiomes>Remover todos os biomas do jogo base</AB_RemoveVanillaBiomes>
+  <AB_RemoveVanillaBiomesDesc>Ao ativar esta opção, você pode gerar um planeta completamente alienígena, usando apenas biomas de mods.</AB_RemoveVanillaBiomesDesc>
+  <AB_ResearchNeeded>Não pode ser construído até que {0} tenha sido pesquisado pela colônia</AB_ResearchNeeded>
+  <AB_Reset>Redefinir {0}</AB_Reset>
+  <AB_Reset_Plain>Redefinir</AB_Reset_Plain>
+  <AB_ShowBuildingsButton>Mostrar botão "estruturas do bioma" em Móveis</AB_ShowBuildingsButton>
+  <AB_ShowBuildingsButtonDescription>Por padrão, haverá um botão "construir estruturas do bioma" no menu Arquitetura, aba Móveis. Você pode usá-lo para construir edifícios específicos do bioma. Mas também pode escondê-lo, porque reeeeee inchaço, e então você não o verá. Também não poderá construí-los. Esse é o preço a pagar.\n\nRequer recarregar o jogo.</AB_ShowBuildingsButtonDescription>
+  <AB_SlimeCompressorNotWorking>Este compressor de limo não está funcionando no momento</AB_SlimeCompressorNotWorking>
+  <AB_SpawnBiome>Criar {0} na geração do planeta</AB_SpawnBiome>
+  <AB_SpawningNextBumbledrone>Gerando um novo Bumbledrone em {0}</AB_SpawningNextBumbledrone>
+  <AB_SpecificMutatorCommonalities>Frequências específicas de elementos:</AB_SpecificMutatorCommonalities>
+  <AB_TabImage>Imagem</AB_TabImage>
+  <AB_TerrainCannotSupport_Propane>A bomba precisa ser construída sobre solo sólido de propano</AB_TerrainCannotSupport_Propane>
+  <AB_UseAgariluxParticles>Agarilux Prime produz gás nocivo</AB_UseAgariluxParticles>
+  <AB_UseAgariluxParticlesDesc>O cogumelo Agarilux Prime na Selva Micótica produz uma nuvem de esporos brutalmente nocivos que danificam tudo. Se você não gosta dessa mecânica, pode desativá-la com esta opção.</AB_UseAgariluxParticlesDesc>
+  <AB_WarningLowEfficiency>Bomba operando em modo de baixa eficiência devido à ausência de Buraco de Alcatrão</AB_WarningLowEfficiency>
+  <AM_AvailableStructures>Estruturas disponíveis para este bioma:</AM_AvailableStructures>
+  <AM_CurrentBiome>Bioma atual:</AM_CurrentBiome>
+  <AM_None>Nenhuma</AM_None>
+</LanguageData>
