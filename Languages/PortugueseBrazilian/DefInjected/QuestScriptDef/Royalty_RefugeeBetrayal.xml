@@ -29,9 +29,9 @@
     <li>betrayalOfferRewardLetterLabel->Recompensa de traição: [factionOpponent_nameDef]</li>
     <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] prometeu uma recompensa se você matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso foi feito e está enviando o seguinte via cápsula de carga (valor total [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
     <li>betrayalOfferFailedBecauseRecruitedLetterLabel->Recompensa de traição retirada</li>
-    <li>betrayalOfferFailedBecauseRecruitedLetterText->[factionOpponent_nameDef] soube que todos os membros sobreviventes da [faction_name] se juntaram à sua facção! [factionOpponent_nameDef] queria que todos os membros da [faction_name] morressem e, portanto, retirou [factionOpponent_possessive] oferta.</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterText->[factionOpponent_nameDef] soube que todos os membros sobreviventes da [faction_name] se juntaram à sua facção! [factionOpponent_nameDef] queria que todos os membros da [faction_name] morressem e, portanto, retirou a oferta.</li>
     <li>betrayalOfferFailedLetterLabel->Recompensa de traição retirada</li>
-    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] soube que um dos membros da [faction_name] não está mais em [map_definite]. [factionOpponent_nameDef] queria que todos os membros da [faction_name] morressem e, portanto, retirou [factionOpponent_possessive] oferta.</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] soube que um dos membros da [faction_name] não está mais em [map_definite]. [factionOpponent_nameDef] queria que todos os membros da [faction_name] morressem e, portanto, retirou a oferta.</li>
     <li>otherLodgers(lodgerCount==1)-></li>
     <li>otherLodgers(lodgerCount==2)->e outro [lodgersLabel]</li>
     <li>otherLodgers(lodgerCount&gt;=3)->e vários [lodgersLabelPlural]</li>
