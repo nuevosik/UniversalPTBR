@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TSA_WD_WorldDominationVictory.questNameRules.rulesStrings>
+    <li>questName->Dominação Mundial</li>
+    <li>questName->Domine o planeta</li>
+    <li>questName->O mais forte do mapa</li>
+  </TSA_WD_WorldDominationVictory.questNameRules.rulesStrings>
+
+  <TSA_WD_WorldDominationVictory.questDescriptionRules.rulesStrings>
+    <li>questDescription->Torne-se a facção mais forte do World Domination e mantenha essa liderança por 15 dias consecutivos.\n\nSeu ranking usa apenas postos avançados do WD. Se você perder a liderança, a sequência zera. Não há limite de tempo.</li>
+  </TSA_WD_WorldDominationVictory.questDescriptionRules.rulesStrings>
+
+  <TSA_WD_ColonyRoadLink.questNameRules.rulesStrings>
+    <li>questName->Estrada até [askerSettlement_label]</li>
+    <li>questName->Ligação com [askerSettlement_label]</li>
+    <li>questName->Pedido de estrada de [faction_name]</li>
+  </TSA_WD_ColonyRoadLink.questNameRules.rulesStrings>
+
+  <TSA_WD_ColonyRoadLink.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] quer uma estrada entre sua colônia e [askerSettlement_label]. Conecte as duas cidades por estrada. Como a estrada é construída não importa.\n\nVocê tem 30 dias.</li>
+  </TSA_WD_ColonyRoadLink.questDescriptionRules.rulesStrings>
+
+  <TSA_WD_CommonEnemySettlement.questNameRules.rulesStrings>
+    <li>questName->Ataque a [enemySettlement_label]</li>
+    <li>questName->[faction_name] vs [enemySettlement_label]</li>
+    <li>questName->Inimigo comum: [enemySettlement_label]</li>
+  </TSA_WD_CommonEnemySettlement.questNameRules.rulesStrings>
+
+  <TSA_WD_CommonEnemySettlement.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] quer que você elimine ou conquiste [enemySettlement_label], um inimigo em comum. Faça você mesmo: ataque em pessoa, lance uma incursão a partir de um dos seus postos avançados do World Domination ou destrua a cidade por outros meios (sabotagem, bombardeio e similares).\n\nOrdens de incursão de assentamentos aliados e ataques de facções não relacionadas não contam. Você tem 8 dias.</li>
+  </TSA_WD_CommonEnemySettlement.questDescriptionRules.rulesStrings>
+
+  <TSA_WD_FirstOutpostIntro.questNameRules.rulesStrings>
+    <li>questName->Primeiro posto avançado para [faction_name]</li>
+    <li>questName->Pedido de posto avançado de [faction_name]</li>
+    <li>questName->Funde um posto avançado</li>
+  </TSA_WD_FirstOutpostIntro.questNameRules.rulesStrings>
+
+  <TSA_WD_FirstOutpostIntro.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] pede que você funde seu primeiro posto avançado do World Domination em qualquer lugar do mapa-múndi.\n\nO pedido fica aberto até você fundar um posto avançado. Ele falha se eles se tornarem hostis ou forem destruídos.</li>
+  </TSA_WD_FirstOutpostIntro.questDescriptionRules.rulesStrings>
+
+  <TSA_WD_FortifySettlement.questNameRules.rulesStrings>
+    <li>questName->Fortifique [allySettlement_label]</li>
+    <li>questName->Ajuda para [allySettlement_label]</li>
+    <li>questName->Reforce [allySettlement_label]</li>
+  </TSA_WD_FortifySettlement.questNameRules.rulesStrings>
+
+  <TSA_WD_FortifySettlement.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] quer que você reforce [allySettlement_label].\n\nEnvie uma caravana de colonos para um bloco adjacente e use Fortificar (escala com Fabricação; adiciona força defensiva). Você tem 8 dias.</li>
+  </TSA_WD_FortifySettlement.questDescriptionRules.rulesStrings>
+
+  <TSA_WD_ScoutWorldMap.questNameRules.rulesStrings>
+    <li>questName->Explore o mundo para [askerSettlement_label]</li>
+    <li>questName->Explore além de [askerSettlement_label]</li>
+    <li>questName->Batedores do mapa: [askerSettlement_label]</li>
+  </TSA_WD_ScoutWorldMap.questNameRules.rulesStrings>
+
+  <TSA_WD_ScoutWorldMap.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] em [askerSettlement_label] quer que você comece a explorar o mapa-múndi.\n\nUse Enviar batedor no menu Construir e Batedor da colônia ou de um posto avançado com o rastreamento de névoa de guerra ativo, depois confirme os pontos de passagem. Concluir aumenta o humor da colônia por alguns dias. Você tem 10 dias.</li>
+  </TSA_WD_ScoutWorldMap.questDescriptionRules.rulesStrings>
+
+  <TSA_WD_SpyOpsSettlement.questNameRules.rulesStrings>
+    <li>questName->Sussurros contra [enemySettlement_label]</li>
+    <li>questName->Enfraqueça [enemySettlement_label]</li>
+    <li>questName->Trabalho de espionagem: [enemySettlement_label]</li>
+  </TSA_WD_SpyOpsSettlement.questNameRules.rulesStrings>
+
+  <TSA_WD_SpyOpsSettlement.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] quer que você enfraqueça [enemySettlement_label], um inimigo em comum, sem precisar destruí-lo.\n\nEnvie uma caravana de colonos para um bloco adjacente e use Espalhar desinformação (escala com Social) ou Sabotagem (escala com Fabricação). Você tem 8 dias.</li>
+  </TSA_WD_SpyOpsSettlement.questDescriptionRules.rulesStrings>
+
+</LanguageData>

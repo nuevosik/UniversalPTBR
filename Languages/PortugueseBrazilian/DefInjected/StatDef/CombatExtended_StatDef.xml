@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AimingAccuracy.description>Quão bem um atirador consegue antecipar alvos em movimento e estimar o alcance em combinação com a eficiência de mira da arma.\n\nO modificador final é calculado pela seguinte fórmula:\n(1.5 - precisão de mira) / eficiência de mira\n\nO erro de antecipação é calculado multiplicando este fator pela distância total de antecipação em células. O erro de alcance é calculado multiplicando-o pela distância total até o alvo dividida por 4.\n\nA precisão de mira influencia a redução de oscilação durante disparos com mira. Por exemplo, com 75% de precisão de mira a oscilação será reduzida a 25%.</AimingAccuracy.description>
+  <AimingAccuracy.label>precisão de mira</AimingAccuracy.label>
+  <AmmoCaliber.description>As armas que aceitam este tipo de munição.</AmmoCaliber.description>
+  <AmmoCaliber.label>calibre</AmmoCaliber.label>
+  <AmmoGenPerMagOverride.description>Quantas unidades de munição por carregador especificadas em pawnKindDef um peão deve levar.\n\nUsado puramente na geração de peões. Você não deveria conseguir ler isto no jogo.</AmmoGenPerMagOverride.description>
+  <AmmoGenPerMagOverride.label>geração de munição por substituição de carregador</AmmoGenPerMagOverride.label>
+  <ArmorRating_Electric.description>Redução percentual do dano de eletricidade, como pulsos EMP e a parte EMP de projéteis EMP e de íons.\n\nO total de todas as fontes desta armadura é somado para uma parte protegida e então reduzido pelo valor de redução de armadura do ataque recebido. Se o valor resultante for 100% ou maior, as partes protegidas do peão serão imunes ao dano elétrico do ataque recebido naquela região do corpo.</ArmorRating_Electric.description>
+  <ArmorRating_Electric.label>armadura - Elétrica</ArmorRating_Electric.label>
+  <AverageSharpArmor.description>O valor médio da cobertura de armadura pelo corpo desta pessoa. Valores mais altos a deixarão mais confiante contra projéteis de baixa penetração.</AverageSharpArmor.description>
+  <AverageSharpArmor.label>cobertura de armadura</AverageSharpArmor.label>
+  <BipodStats.description>Atributos com o bipé estendido e recolhido.</BipodStats.description>
+  <BipodStats.label>estatísticas do bipé</BipodStats.label>
+  <BodyPartBluntArmor.label>mPa da parte do corpo</BodyPartBluntArmor.label>
+  <BodyPartSharpArmor.label>RHA da parte do corpo</BodyPartSharpArmor.label>
+  <Bulk.description>A quantidade de espaço de inventário que um item ocupa quando carregado em bolsa ou bolso.</Bulk.description>
+  <Bulk.label>volume</Bulk.label>
+  <BurstShotCount.description>Quantos projéteis esta arma lança em uma rajada.</BurstShotCount.description>
+  <BurstShotCount.label>quantidade de disparos da rajada</BurstShotCount.label>
+  <CE_RangedWeapon_RecoilMultiplier.description>Um multiplicador aplicado ao recuo desta arma.</CE_RangedWeapon_RecoilMultiplier.description>
+  <CE_RangedWeapon_RecoilMultiplier.label>multiplicador de recuo</CE_RangedWeapon_RecoilMultiplier.label>
+  <CE_RangedWeapon_ReloadFactor.description>Um multiplicador aplicado ao tempo de recarga desta arma.</CE_RangedWeapon_ReloadFactor.description>
+  <CE_RangedWeapon_ReloadFactor.label>multiplicador de tempo de recarga</CE_RangedWeapon_ReloadFactor.label>
+  <Caliber.description>Os tipos de munição que esta arma aceita.</Caliber.description>
+  <Caliber.label>calibre</Caliber.label>
+  <CarryBulk.description>O volume de itens que esta criatura pode carregar em bolsos, bolsas ou de outra forma preso ao corpo.</CarryBulk.description>
+  <CarryBulk.label>capacidade de volume</CarryBulk.label>
+  <CarryWeight.description>A quantidade de peso que esta criatura pode carregar em bolsos, bolsas ou de outra forma preso ao corpo.</CarryWeight.description>
+  <CarryWeight.label>peso carregado</CarryWeight.label>
+  <ElectricDamageMultiplier.description>Um multiplicador no dano de ataques do tipo elétrico para armas feitas deste material.</ElectricDamageMultiplier.description>
+  <ElectricDamageMultiplier.label>dano elétrico</ElectricDamageMultiplier.label>
+  <LongRange.description>O alcance do projétil no mapa do mundo.</LongRange.description>
+  <LongRange.label>alcance</LongRange.label>
+  <MagazineCapacity.description>Quantos projéteis o carregador desta arma comporta e quanto tempo leva para recarregá-lo.</MagazineCapacity.description>
+  <MagazineCapacity.label>capacidade do carregador</MagazineCapacity.label>
+  <MeleeArmorPenetration.description>Penetração de armadura em combate corpo a corpo. Determina quanto dano é perdido para a armadura do inimigo.</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.label>penetração de armadura corpo a corpo</MeleeArmorPenetration.label>
+  <MeleeCounterParryBonus.description>Ao atacar um oponente com esta arma, a chance de aparar do atacante é multiplicada por este valor mais um.</MeleeCounterParryBonus.description>
+  <MeleeCounterParryBonus.label>bônus de contra-aparar corpo a corpo</MeleeCounterParryBonus.label>
+  <MeleeCritChance.description>Chance base de acertar um golpe crítico com um ataque corpo a corpo. Golpes críticos forçam o dano máximo da variação de dano. Em um golpe crítico, ataques cortantes recebem penetração dobrada, enquanto ataques contundentes atordoam o alvo.\nA chance final depende da perícia crítica do oponente, e oponentes iguais sempre terão 10% de chance de crítico. A fórmula interna é:\n\nFinalCritChance = ClampBetweenZeroAndOne(0.1 + AttackerCritChance - DefenderCritChance)*100%</MeleeCritChance.description>
+  <MeleeCritChance.label>chance de crítico corpo a corpo</MeleeCritChance.label>
+  <MeleeDamage.description>Faixas de dano para cada uma das ferramentas desta arma.</MeleeDamage.description>
+  <MeleeDamage.label>dano corpo a corpo</MeleeDamage.label>
+  <MeleeParryChance.description>Chance base de aparar um ataque corpo a corpo. Ao aparar, a arma ou o escudo equipado sofre o dano em vez do portador. Se o peão que apara passar numa verificação de chance de crítico, ele automaticamente revidará o atacante.\nA chance final depende da perícia de aparar do oponente, e oponentes iguais sempre terão 20% de chance de aparar. A fórmula interna é:\n\nFinalParryChance = ClampBetweenZeroAndOne(0.2 + DefenderParryChance - AttackerParryChance * (1 + AttackerWeaponMeleeCounterParryBonus)*100%\n\nUm peão mais habilidoso em aparar sofre menos dano ao aparar desarmado e é melhor em reduzir o dano sofrido por sua arma ao aparar.</MeleeParryChance.description>
+  <MeleeParryChance.label>chance de aparar corpo a corpo</MeleeParryChance.label>
+  <MeleePenetrationFactor.description>Capacidade de penetrar armadura num golpe corpo a corpo. Este multiplicador é aplicado a todos os ataques corpo a corpo feitos com esta arma.\n\nO valor base é determinado pela ferramenta utilizada.</MeleePenetrationFactor.description>
+  <MeleePenetrationFactor.label>fator de penetração de armadura corpo a corpo</MeleePenetrationFactor.label>
+  <MuzzleFlash.description>Quão brilhante é o clarão do disparo.\n\nOs clarões do disparo iluminam a posição do atirador no escuro, expondo-o a um fogo de resposta mais preciso. Clarões do disparo mais brilhantes são mais fáceis de mirar.\n\nOs peões se lembrarão da posição do clarão do disparo por 5-10 segundos.</MuzzleFlash.description>
+  <MuzzleFlash.label>clarão do disparo</MuzzleFlash.label>
+  <NightVisionEfficiency.description>Uma medida da capacidade geral da criatura de superar os efeitos da escuridão para realizar ataques à distância, com base em vestimentas, implantes e suas habilidades naturais.</NightVisionEfficiency.description>
+  <NightVisionEfficiency.label>eficiência de visão noturna</NightVisionEfficiency.label>
+  <NightVisionEfficiency_Apparel.description>O efeito de itens de vestuário na capacidade de uma criatura de superar os efeitos da escuridão para realizar ataques à distância.</NightVisionEfficiency_Apparel.description>
+  <NightVisionEfficiency_Apparel.label>eficiência de visão noturna de vestimenta</NightVisionEfficiency_Apparel.label>
+  <NightVisionEfficiency_Implant.description>O efeito de implantes artificiais na capacidade de uma criatura de superar os efeitos da escuridão para realizar ataques à distância.</NightVisionEfficiency_Implant.description>
+  <NightVisionEfficiency_Implant.label>eficiência de visão noturna de implante</NightVisionEfficiency_Implant.label>
+  <NightVisionEfficiency_Weapon.description>O efeito da óptica de uma arma na capacidade do portador de superar os efeitos da escuridão para atirar com precisão.</NightVisionEfficiency_Weapon.description>
+  <NightVisionEfficiency_Weapon.label>eficiência de visão noturna da arma</NightVisionEfficiency_Weapon.label>
+  <OneHandedness.description>Se a arma pode ou não ser usada com escudos</OneHandedness.description>
+  <OneHandedness.label>arma de uma mão</OneHandedness.label>
+  <Recoil.description>Quanto recuo esta arma terá ao disparar.</Recoil.description>
+  <Recoil.label>quantidade de recuo</Recoil.label>
+  <ReloadSpeed.description>A velocidade com que as armas de fogo são recarregadas.</ReloadSpeed.description>
+  <ReloadSpeed.label>velocidade de recarga</ReloadSpeed.label>
+  <ReloadTime.description>Quanto tempo esta arma deve levar para recarregar.</ReloadTime.description>
+  <ReloadTime.label>tempo de recarga</ReloadTime.label>
+  <ShotSpread.description>Dispersão inerente do projétil. Representa a imprecisão inerente da arma e causa um desvio cônico aleatório que não é influenciado pela habilidade.</ShotSpread.description>
+  <ShotSpread.label>dispersão</ShotSpread.label>
+  <SightsEfficiency.description>Quão boas são as miras desta arma. Miras de qualidade reduzem erros de alcance e melhoram a antecipação do alvo. Isso é multiplicado pela precisão de mira do atirador para calcular a quantidade de erro de alcance e de antecipação.\n\nO modificador final é calculado por esta fórmula:\n(1.5 - precisão de mira) / eficiência de mira\n\nO erro de antecipação é calculado multiplicando este fator pela distância total de antecipação em células. O erro de alcance é calculado multiplicando-o pela distância total até o alvo dividida por 4.</SightsEfficiency.description>
+  <SightsEfficiency.label>eficiência das miras</SightsEfficiency.label>
+  <SmokeSensitivity.description>Multiplicador do impacto da inalação de fumaça nesta criatura.</SmokeSensitivity.description>
+  <SmokeSensitivity.label>sensibilidade à fumaça</SmokeSensitivity.label>
+  <StuffEffectMultiplierToughness.label>robustez - multiplicador de efeito do material</StuffEffectMultiplierToughness.label>
+  <StuffPower_Armor_Electric.description>Armadura contra dano elétrico, como EMPs.</StuffPower_Armor_Electric.description>
+  <StuffPower_Armor_Electric.label>armadura - Elétrica</StuffPower_Armor_Electric.label>
+  <Suppressability.description>O quão suscetível esta pessoa é à supressão. Perda de consciência e certas drogas podem reduzir este valor, tornando mais difícil suprimir esta pessoa.</Suppressability.description>
+  <Suppressability.label>suscetibilidade à supressão</Suppressability.label>
+  <SwayFactor.description>Quão difícil é manter a arma firme. \n\nA oscilação total é calculada como:\n(4.5 - precisão de tiro) * fator de oscilação da arma\n\nA precisão de mira influencia a redução da oscilação durante tiros mirados. Por exemplo, com 75% de precisão de mira, a oscilação será reduzida para 25%.</SwayFactor.description>
+  <SwayFactor.label>oscilação da arma</SwayFactor.label>
+  <TicksBetweenBurstShots.description>A velocidade com que esta arma lança projéteis.</TicksBetweenBurstShots.description>
+  <TicksBetweenBurstShots.label>cadência de tiro</TicksBetweenBurstShots.label>
+  <ToughnessRating.description>Efeito de mitigação sobre o dano recebido por uma arma quando ela é usada para aparar um ataque.\n\nContra ataques contundentes, este valor é multiplicado por 1,5 e é considerado como o valor de armadura contundente; caso contrário, é usado como está como valor de armadura cortante. Este valor é comparado com a penetração de armadura do ataque, então o dano é reduzido pela proporção entre a penetração restante e a inicial e por um fator fixo de 50% (ex: se uma arma com rigidez de 8mm RHA for usada para aparar um ataque contundente de 15 MPa, a arma receberá 10% do dano).\n\nEste atributo é afetado pela habilidade do usuário.\n\nSugerimos ler a descrição dos valores de armadura cortante e contundente para obter informações mais detalhadas sobre como o dano é afetado.</ToughnessRating.description>
+  <ToughnessRating.label>robustez</ToughnessRating.label>
+  <UBGLInfo.description>Informações sobre armas montadas sob/sobre o cano ou de outra forma.</UBGLInfo.description>
+  <UBGLInfo.label>informações adicionais da arma</UBGLInfo.label>
+  <UnarmedDamage.description>Dano adicional causado em combate desarmado.</UnarmedDamage.description>
+  <UnarmedDamage.label>bônus de dano desarmado</UnarmedDamage.label>
+  <WornBulk.description>Quão volumosa é esta vestimenta ao ser usada.</WornBulk.description>
+  <WornBulk.label>volume vestido</WornBulk.label>
+  <ammoConsumedPerShotCount.description>Quantas unidades de munição esta arma consome para cada disparo individual.\n\nIsto se aplica a armas com vários canos que disparam simultaneamente a cada puxada do gatilho, ou a armas de energia exóticas que consomem quantidades diferentes de energia de uma célula de energia.</ammoConsumedPerShotCount.description>
+  <ammoConsumedPerShotCount.label>munição consumida por disparo</ammoConsumedPerShotCount.label>
+</LanguageData>

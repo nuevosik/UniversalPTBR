@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_AddAmmoFor>Adicionar munição para {0}</CE_AddAmmoFor>
+  <CE_AdjustedForWeapon>Ajustado para a arma</CE_AdjustedForWeapon>
+  <CE_AimedBurstCount>Número de disparos da rajada</CE_AimedBurstCount>
+  <CE_AimedShotLabel>Tiro mirado</CE_AimedShotLabel>
+  <CE_AmmoAmount>Quantidade de munição a fornecer:</CE_AmmoAmount>
+  <CE_AmmoSet>Calibre</CE_AmmoSet>
+  <CE_Apply>Aplicar</CE_Apply>
+  <CE_ArcOfFire>Arco de tiro:{0}~{1}</CE_ArcOfFire>
+  <CE_ArcOfFireAdjDesc>Ajuste o arco de tiro permitido desta torreta. \n\nClique com o botão direito para salvar as alterações\nClique com o botão esquerdo para cancelar as alterações\nClique com o botão do meio para editar a extensão do AOF\nSegure {0} durante o ajuste para mostrar os quadrados que podem ser alvejados.</CE_ArcOfFireAdjDesc>
+  <CE_ArcOfFireAdjLabel>Ajustar arco de tiro</CE_ArcOfFireAdjLabel>
+  <CE_ArcOfFireCopyDesc>Copiar a configuração do arco de tiro desta torreta.</CE_ArcOfFireCopyDesc>
+  <CE_ArcOfFireCopyLabel>Copiar configuração do arco de tiro</CE_ArcOfFireCopyLabel>
+  <CE_ArcOfFirePasteDesc>Cole a configuração de arco de tiro nesta torreta. Se a configuração colada estiver fora dos limites desta torreta, ela será limitada.</CE_ArcOfFirePasteDesc>
+  <CE_ArcOfFirePasteLabel>Colar configuração de arco de tiro</CE_ArcOfFirePasteLabel>
+  <CE_ArcOfFireReset>Segure {0} e clique para redefinir as configurações de arco de tiro desta torreta.</CE_ArcOfFireReset>
+  <CE_ArcOfFireToggle>Segure {0} e clique para liberar temporariamente o arco de tiro desta torreta.</CE_ArcOfFireToggle>
+  <CE_ArmorDurability>Durabilidade da armadura:</CE_ArmorDurability>
+  <CE_ArmorDurability_CannonRepairNoResource>Não é possível reparar armadura natural, sem recursos</CE_ArmorDurability_CannonRepairNoResource>
+  <CE_ArmorDurability_CannotRepairUndamaged>Não é possível reparar armadura natural, a armadura não está danificada</CE_ArmorDurability_CannotRepairUndamaged>
+  <CE_ArtilleryTargetDesc>Atacar um tile do mundo. Se o tile selecionado contiver um mapa, você pode selecionar o alvo do ataque dentro desse mapa.</CE_ArtilleryTargetDesc>
+  <CE_ArtilleryTargetLabel>Atacar tile do mundo</CE_ArtilleryTargetLabel>
+  <CE_ArtilleryTarget_AlreadyDestroyed>O alvo selecionado já foi destruído</CE_ArtilleryTarget_AlreadyDestroyed>
+  <CE_ArtilleryTarget_AttackingAllies>Tem certeza de que deseja atacar {0} ({1})?\n\nIsso tornará {1} hostil a você, e eles podem retaliar com ataques e fogo de artilharia contra sua colônia!</CE_ArtilleryTarget_AttackingAllies>
+  <CE_ArtilleryTarget_ClickToOrderAttack>Alvo:</CE_ArtilleryTarget_ClickToOrderAttack>
+  <CE_ArtilleryTarget_DestinationBeyondMaximumRange>O alvo está além do alcance máximo</CE_ArtilleryTarget_DestinationBeyondMaximumRange>
+  <CE_ArtilleryTarget_Distance>Distância: {0}/{1} blocos</CE_ArtilleryTarget_Distance>
+  <CE_ArtilleryTarget_Distance_Selections>Distância: {0} blocos\nseleções no alcance: {1}/{2}</CE_ArtilleryTarget_Distance_Selections>
+  <CE_ArtilleryTarget_InvalidTarget>Alvo inválido</CE_ArtilleryTarget_InvalidTarget>
+  <CE_ArtilleryTarget_MarkerHoverHeader>Mirar a artilharia nesta posição melhorará a precisão em:</CE_ArtilleryTarget_MarkerHoverHeader>
+  <CE_ArtilleryTarget_MustTargetMark>Só é possível mirar em uma marca de artilharia</CE_ArtilleryTarget_MustTargetMark>
+  <CE_AttachmentSlot_Muzzle>Saída do cano</CE_AttachmentSlot_Muzzle>
+  <CE_AttachmentSlot_Sight>Óptica</CE_AttachmentSlot_Sight>
+  <CE_AttachmentSlot_Stock>Coronha</CE_AttachmentSlot_Stock>
+  <CE_AttachmentSlot_Underbarrel>sob o cano</CE_AttachmentSlot_Underbarrel>
+  <CE_Attachments>Anexos</CE_Attachments>
+  <CE_AttachmentsAdditions>Adições na fila</CE_AttachmentsAdditions>
+  <CE_AttachmentsAvailable>Anexos disponíveis</CE_AttachmentsAvailable>
+  <CE_AttachmentsClearLoadout>Limpar configuração de anexos</CE_AttachmentsClearLoadout>
+  <CE_AttachmentsEdit>Editar perfil</CE_AttachmentsEdit>
+  <CE_AttachmentsEditLoadout>Editar configuração de anexos</CE_AttachmentsEditLoadout>
+  <CE_AttachmentsRemovals>Anexos disponíveis</CE_AttachmentsRemovals>
+  <CE_Attachments_Cost>Custo</CE_Attachments_Cost>
+  <CE_Attachments_Cost_Tip>O custo das alterações atuais</CE_Attachments_Cost_Tip>
+  <CE_Attachments_Information>Informação</CE_Attachments_Information>
+  <CE_Attachments_Information_Tip>Aqui você pode ver informações gerais relacionadas à sua configuração atual.</CE_Attachments_Information_Tip>
+  <CE_Attachments_Options>Opções</CE_Attachments_Options>
+  <CE_Attachments_Options_Tip>Aqui você pode selecionar quais anexos você quer que esta arma tenha.</CE_Attachments_Options_Tip>
+  <CE_AttackedBy>Atacado por {1_labelShort}</CE_AttackedBy>
+  <CE_AutoFireLabel>Automático</CE_AutoFireLabel>
+  <CE_AutoLoaderBusy>O carregador automático está recarregando ou sendo recarregado.</CE_AutoLoaderBusy>
+  <CE_AutoLoader_DropAmmo>Descarregar conteúdo</CE_AutoLoader_DropAmmo>
+  <CE_AutoLoader_DropAmmoDesc>Descarregar o conteúdo deste carregador automático no chão.</CE_AutoLoader_DropAmmoDesc>
+  <CE_AutoLoader_ForceReload>Recarregar torretas</CE_AutoLoader_ForceReload>
+  <CE_AutoLoader_ForceReloadDesc>Recarregar torretas adjacentes imediatamente. Torretas proibidas e torretas atualmente disparando serão ignoradas.</CE_AutoLoader_ForceReloadDesc>
+  <CE_AutoLoader_ManningRequired>Requer tripulação para operar</CE_AutoLoader_ManningRequired>
+  <CE_AutoLoader_NoTurretToReload>{0} não consegue encontrar nenhuma torreta {1} disponível adjacente.</CE_AutoLoader_NoTurretToReload>
+  <CE_AutoLoader_ReloadTime>Tempo de recarga restante: {0} segundos</CE_AutoLoader_ReloadTime>
+  <CE_AutoLoader_ShouldReplace>Substituição de tipo de munição: {0}</CE_AutoLoader_ShouldReplace>
+  <CE_AutoLoader_ToggleReplaceDescOff>O carregador automático só recarregará a torreta com o mesmo tipo de munição presente no carregador automático.</CE_AutoLoader_ToggleReplaceDescOff>
+  <CE_AutoLoader_ToggleReplaceDescOn>O carregador automático substituirá a munição atual da torreta pelo tipo de munição presente no carregador automático.</CE_AutoLoader_ToggleReplaceDescOn>
+  <CE_AutoLoader_ToggleReplaceOff>Substituição de munição: desativada</CE_AutoLoader_ToggleReplaceOff>
+  <CE_AutoLoader_ToggleReplaceOn>Substituição de munição: ativada</CE_AutoLoader_ToggleReplaceOn>
+  <CE_AutoLoader_Unmanned>{0} precisa ser tripulado por um operador para funcionar.</CE_AutoLoader_Unmanned>
+  <CE_AutoLoader_Unpowered>{0} precisa de energia para funcionar.</CE_AutoLoader_Unpowered>
+  <CE_AutoTurret>Torreta automática</CE_AutoTurret>
+  <CE_BipodAutoSetupMode>Monta automaticamente no modo de tiro:</CE_BipodAutoSetupMode>
+  <CE_BipodHoverOverStat>Passe o mouse para exibir</CE_BipodHoverOverStat>
+  <CE_BipodSetupTime>Tempo para montar o bipé:</CE_BipodSetupTime>
+  <CE_BipodStatRange>Alcance</CE_BipodStatRange>
+  <CE_BipodStatWarmUp>Preparação</CE_BipodStatWarmUp>
+  <CE_BipodStatWhenNotSetUp>Estatísticas quando NÃO montado:</CE_BipodStatWhenNotSetUp>
+  <CE_BipodStatWhenSetUp>Estatísticas quando montado:</CE_BipodStatWhenSetUp>
+  <CE_Bipod_Not_Set_Up>O bipé NÃO está montado</CE_Bipod_Not_Set_Up>
+  <CE_Bipod_Set_Up>O bipé está montado</CE_Bipod_Set_Up>
+  <CE_BlockChance>Chance de bloqueio</CE_BlockChance>
+  <CE_BlockedMaxRange>Fora de alcance</CE_BlockedMaxRange>
+  <CE_BlockedMinRange>Dentro do alcance mínimo</CE_BlockedMinRange>
+  <CE_BlockedRoof>Bloqueado por teto</CE_BlockedRoof>
+  <CE_BlockedShield>Disparo impedido por</CE_BlockedShield>
+  <CE_Bulk>Volume</CE_Bulk>
+  <CE_BulkEffect>Volume carregado:</CE_BulkEffect>
+  <CE_BurstFireLabel>Rajada</CE_BurstFireLabel>
+  <CE_CannotChangeEquipment>Esta pessoa se recusa a trocar de equipamento.</CE_CannotChangeEquipment>
+  <CE_CannotDropThing>Não é possível largar</CE_CannotDropThing>
+  <CE_CannotDropThingHaul>Não é possível largar e transportar</CE_CannotDropThingHaul>
+  <CE_CannotPickUp>Não é possível pegar</CE_CannotPickUp>
+  <CE_CannotPutAway>Não é possível guardar {0}</CE_CannotPutAway>
+  <CE_CannotStabilize>Não é possível estabilizar</CE_CannotStabilize>
+  <CE_CarriedBulk>Volume carregado</CE_CarriedBulk>
+  <CE_CarriedWeight>Peso carregado</CE_CarriedWeight>
+  <CE_Chance>chance</CE_Chance>
+  <CE_ChanceFactor>Fator de chance</CE_ChanceFactor>
+  <CE_ClearParentLoadout>(limpar)</CE_ClearParentLoadout>
+  <CE_Close>Fechar</CE_Close>
+  <CE_Close_Bipod>Recolher bipé</CE_Close_Bipod>
+  <CE_ColonistHasShieldAndTwoHandedWeapon>O colono tem escudo e arma de duas mãos</CE_ColonistHasShieldAndTwoHandedWeapon>
+  <CE_ColonistHasShieldAndTwoHandedWeaponDesc>Um dos seus colonos está carregando um escudo e tem uma arma de duas mãos equipada. Ele não conseguirá atacar a menos que remova o escudo ou troque para outra arma.</CE_ColonistHasShieldAndTwoHandedWeaponDesc>
+  <CE_ContinueAnyway>Continuar mesmo assim</CE_ContinueAnyway>
+  <CE_CookingOff>Disparo por superaquecimento</CE_CookingOff>
+  <CE_CopyLoadout>Copiar configuração</CE_CopyLoadout>
+  <CE_CountFieldTip>Quantidade: {0}</CE_CountFieldTip>
+  <CE_CounterParryBonus>Bônus de contra-aparar</CE_CounterParryBonus>
+  <CE_CounterShellingLabel>Contra-bombardeio</CE_CounterShellingLabel>
+  <CE_CoverHeight>Altura da cobertura</CE_CoverHeight>
+  <CE_CoverHeightExplanation>Altura de colisão deste objeto. Interrompe disparos até esta altura, e humanoides geralmente se agacham até esse nível para atirar por cima dela.\n\nSe for mais alta que a altura de tiro de um atirador, não é possível atirar por cima. Se for mais alta que a altura do corpo, obstrui totalmente. Para humanos adultos de referência, isso significa 1.5m de altura de tiro/1.75m de altura do corpo, respectivamente.</CE_CoverHeightExplanation>
+  <CE_CritChance>Chance de crítico</CE_CritChance>
+  <CE_CrouchWalking>Suprimido (andando agachado)</CE_CrouchWalking>
+  <CE_Crouched>(Agachado)</CE_Crouched>
+  <CE_CurrentLoadout>Configuração atual</CE_CurrentLoadout>
+  <CE_DPS>Dano por segundo</CE_DPS>
+  <CE_DamageVariation>Variação de dano</CE_DamageVariation>
+  <CE_DefaultLoadoutName>Configuração</CE_DefaultLoadoutName>
+  <CE_DeflectedChance>Chance de deflexão</CE_DeflectedChance>
+  <CE_DeflectionType>Tipo de deflexão</CE_DeflectionType>
+  <CE_DeleteFilter>Excluir</CE_DeleteFilter>
+  <CE_DeleteLoadout>Excluir configuração...</CE_DeleteLoadout>
+  <CE_Deploy_Bipod>Desdobrar bipé</CE_Deploy_Bipod>
+  <CE_DescAmbientPenetration>Redução de armadura</CE_DescAmbientPenetration>
+  <CE_DescArmorPenetration>Penetração de armadura</CE_DescArmorPenetration>
+  <CE_DescBaseDamage>Dano base</CE_DescBaseDamage>
+  <CE_DescBluntPenetration>Penetração contundente</CE_DescBluntPenetration>
+  <CE_DescDamage>Dano</CE_DescDamage>
+  <CE_DescDeteriorationHP>Deterioração da arma</CE_DescDeteriorationHP>
+  <CE_DescEffectiveRangeMult>Fator de alcance efetivo</CE_DescEffectiveRangeMult>
+  <CE_DescEffectiveRangeOffset>Deslocamento de alcance efetivo</CE_DescEffectiveRangeOffset>
+  <CE_DescExplosionRadius>Raio de explosão</CE_DescExplosionRadius>
+  <CE_DescFragments>Fragmentos</CE_DescFragments>
+  <CE_DescMuzzleFlasMult>Fator de escala do clarão da boca do cano</CE_DescMuzzleFlasMult>
+  <CE_DescMuzzleFlashOffset>Deslocamento de escala do clarão da boca do cano</CE_DescMuzzleFlashOffset>
+  <CE_DescPelletCount>Contagem de bagos</CE_DescPelletCount>
+  <CE_DescRecoilMult>Fator de recuo</CE_DescRecoilMult>
+  <CE_DescRecoilOffset>Deslocamento de recuo</CE_DescRecoilOffset>
+  <CE_DescReloadTimeMult>Fator de tempo de recarga</CE_DescReloadTimeMult>
+  <CE_DescSecondaryExplosion>Explosão secundária</CE_DescSecondaryExplosion>
+  <CE_DescSharpPenetration>Penetração cortante</CE_DescSharpPenetration>
+  <CE_DescSpreadMult>Fator de dispersão</CE_DescSpreadMult>
+  <CE_DescWarmupMult>Fator de tempo de preparação</CE_DescWarmupMult>
+  <CE_DescWarmupOffset>Deslocamento do tempo de preparação</CE_DescWarmupOffset>
+  <CE_DetailedBaseBulkTip>Volume atual: {1}\nCapacidade base: {0}\n\nFator de velocidade de trabalho: {2}\nFator de chance de acerto corpo a corpo: {3}\nFator de chance de esquiva corpo a corpo: {4}</CE_DetailedBaseBulkTip>
+  <CE_DetailedBaseWeightTip>Peso atual: {1}\nCapacidade base: {0}\n\nFator de velocidade de movimento: {2}\nFator de chance de esquiva corpo a corpo: {3}\nPenalidade de sobrecarga: {4}</CE_DetailedBaseWeightTip>
+  <CE_DetailedBulkTip>Volume atual: {1}\nCapacidade: {0}\n\nFator de velocidade de trabalho: {2}\nFator de chance de acerto corpo a corpo: {3}\nFator de chance de esquiva corpo a corpo: {4}</CE_DetailedBulkTip>
+  <CE_DetailedWeightTip>Peso atual: {1}\nCapacidade: {0}\n\nFator de velocidade de movimento: {2}\nFator de chance de esquiva corpo a corpo: {3}\nPenalidade de sobrecarga: {4}</CE_DetailedWeightTip>
+  <CE_DragToReorder>Arraste a alça para reordenar</CE_DragToReorder>
+  <CE_DropExcess>Descartar excesso</CE_DropExcess>
+  <CE_DropThingHaul>Largar e transportar</CE_DropThingHaul>
+  <CE_Drugs>Drogas</CE_Drugs>
+  <CE_Eat>Consumir</CE_Eat>
+  <CE_EditAttachments>Editar anexos</CE_EditAttachments>
+  <CE_EditAttachmentsCost>Custo</CE_EditAttachmentsCost>
+  <CE_EditAttachmentsStats>Estatísticas</CE_EditAttachmentsStats>
+  <CE_EditX>Editar {0}</CE_EditX>
+  <CE_EmptyLoadoutName>Nada</CE_EmptyLoadoutName>
+  <CE_EnableTutorDisable>Estou ciente do risco</CE_EnableTutorDisable>
+  <CE_EnableTutorEnable>Ativar assistente de aprendizado</CE_EnableTutorEnable>
+  <CE_EnableTutorText>O CE adiciona várias entradas de tutorial sobre assuntos como o funcionamento das mecânicas de armadura e como não morrer para Centopeias. Recomenda-se que jogadores de primeira viagem habilitem o assistente de aprendizado.</CE_EnableTutorText>
+  <CE_Encumbered>Sobrecarregado</CE_Encumbered>
+  <CE_EnemyInfluenced>Influenciado pelo inimigo</CE_EnemyInfluenced>
+  <CE_EstimatedHitChance>Chance de acerto estimada</CE_EstimatedHitChance>
+  <CE_FactionRecord_Explanation_Effects>Efeitos:</CE_FactionRecord_Explanation_Effects>
+  <CE_FactionRecord_Explanation_EnemyWeakened>Fortalecido depois que um inimigo de {0} foi enfraquecido</CE_FactionRecord_Explanation_EnemyWeakened>
+  <CE_FactionRecord_Explanation_LeaderKilled>O líder de {0} morreu em um grande golpe</CE_FactionRecord_Explanation_LeaderKilled>
+  <CE_FactionRecord_Explanation_None>{0} sofreu influência de uma causa desconhecida</CE_FactionRecord_Explanation_None>
+  <CE_FactionRecord_Explanation_RaidEmbargo>Incursões impedidas por {0} dias</CE_FactionRecord_Explanation_RaidEmbargo>
+  <CE_FactionRecord_Explanation_SettlementDestroyed>Assentamento pertencente a {0} foi destruído</CE_FactionRecord_Explanation_SettlementDestroyed>
+  <CE_FactionRecord_Explanation_SiteDestroyed>Local pertencente a {0} foi destruído</CE_FactionRecord_Explanation_SiteDestroyed>
+  <CE_FactionRecord_Explanation_Strength>Força afetada por x{0} durante {1} dias</CE_FactionRecord_Explanation_Strength>
+  <CE_FinalAverageDamage>Dano médio final</CE_FinalAverageDamage>
+  <CE_FinalModifier>Modificador final</CE_FinalModifier>
+  <CE_FinalToHitChance>Chance de acerto</CE_FinalToHitChance>
+  <CE_FireModes>Modos de disparo</CE_FireModes>
+  <CE_ForcedHold>Retenção forçada</CE_ForcedHold>
+  <CE_GenericBullet>projétil</CE_GenericBullet>
+  <CE_Generic_Ammo>Qualquer munição para {0}</CE_Generic_Ammo>
+  <CE_Generic_Divider>/</CE_Generic_Divider>
+  <CE_Generic_Drugs>Quaisquer drogas</CE_Generic_Drugs>
+  <CE_Generic_Meal>Qualquer refeição perecível</CE_Generic_Meal>
+  <CE_Generic_Medicine>Qualquer medicamento</CE_Generic_Medicine>
+  <CE_Generic_RawFood>Qualquer alimento cru</CE_Generic_RawFood>
+  <CE_GetCompiledDevBuild>Obter instantâneo de desenvolvimento</CE_GetCompiledDevBuild>
+  <CE_Give>Dar</CE_Give>
+  <CE_GiveAmmoToThing>Dar munição para {0}</CE_GiveAmmoToThing>
+  <CE_HoldFireLabel>Segurar fogo</CE_HoldFireLabel>
+  <CE_HoldTrackerForget>Parar de segurar</CE_HoldTrackerForget>
+  <CE_HunkeringMote>Abaixando!</CE_HunkeringMote>
+  <CE_IndirectFire>Tiro indireto</CE_IndirectFire>
+  <CE_InventoryFull>O inventário está cheio</CE_InventoryFull>
+  <CE_InventoryFull_TameFail>Não tem espaço suficiente no inventário para pegar a comida necessária para domar.</CE_InventoryFull_TameFail>
+  <CE_LeadError>Erro de antecipação</CE_LeadError>
+  <CE_LimbParryBonus>Membro(s) atacante(s): +{0}% ({1} membro(s) intacto(s))</CE_LimbParryBonus>
+  <CE_LimbParryBonusChance>Bônus de aparar não humano: + {0}%</CE_LimbParryBonusChance>
+  <CE_LoadLoadout>Carregar configuração...</CE_LoadLoadout>
+  <CE_LoadOut_AdHoc>Improvisado</CE_LoadOut_AdHoc>
+  <CE_LoadOut_AdHoc_Desc>Incluir automaticamente a arma equipada do peão e a munição para ela, caso ainda não estejam na configuração.</CE_LoadOut_AdHoc_Desc>
+  <CE_LoadOut_Bulk_Desc>Limita o volume máximo de munição a ser carregado. Limite desativado se definido como 0.</CE_LoadOut_Bulk_Desc>
+  <CE_LoadOut_DropUndefined>Largar indefinidos</CE_LoadOut_DropUndefined>
+  <CE_LoadOut_DropUndefined_Desc>Descarte quaisquer itens não forçados que não façam parte da configuração.</CE_LoadOut_DropUndefined_Desc>
+  <CE_LoadOut_Mags>Carregadores</CE_LoadOut_Mags>
+  <CE_LoadOut_Mags_Desc>Define o número desejado de carregadores a transportar.</CE_LoadOut_Mags_Desc>
+  <CE_LoadOut_Weight_Desc>Limita o peso máximo de munição a ser carregado. Limite desativado se definido como 0.</CE_LoadOut_Weight_Desc>
+  <CE_Loadouts>Configurações</CE_Loadouts>
+  <CE_LongEvent_AmmoGeneralizer>Generalizando munição</CE_LongEvent_AmmoGeneralizer>
+  <CE_LongEvent_AmmoInjector>Injetando munição</CE_LongEvent_AmmoInjector>
+  <CE_LongEvent_BoundingBoxes>Gerando caixas delimitadoras do CombatExtended</CE_LongEvent_BoundingBoxes>
+  <CE_LongEvent_CE_InitTabs>Traduzindo menu</CE_LongEvent_CE_InitTabs>
+  <CE_LongEvent_CompatibilityPatches>Aplicando patches de compatibilidade</CE_LongEvent_CompatibilityPatches>
+  <CE_LongEvent_DefUtility>Armazenando dados de def em cache</CE_LongEvent_DefUtility>
+  <CE_LongEvent_LoadoutProperties>Preparando geradores de configuração do CombatExtended</CE_LongEvent_LoadoutProperties>
+  <CE_LongEvent_LogUnpatchedTools>Registrando ferramentas sem patch</CE_LongEvent_LogUnpatchedTools>
+  <CE_LongEvent_TutorialPopup>Carregando pop-up do tutorial</CE_LongEvent_TutorialPopup>
+  <CE_Long_Range_Radio>Rádio de longo alcance</CE_Long_Range_Radio>
+  <CE_Long_Range_Radio_Desc>Define se este item pode ser usado para ajustar fogo de artilharia entre mapas.</CE_Long_Range_Radio_Desc>
+  <CE_MPa>MPa</CE_MPa>
+  <CE_MagazineSize>Tamanho do carregador</CE_MagazineSize>
+  <CE_MakeLoadout>Criar configuração</CE_MakeLoadout>
+  <CE_ManageLoadouts>Gerenciar configurações</CE_ManageLoadouts>
+  <CE_MannedTurret>Torreta tripulada</CE_MannedTurret>
+  <CE_MarkedForArtillery>Marcado para artilharia, expira em</CE_MarkedForArtillery>
+  <CE_MarkingUnavailableReason>O peão não pode marcar alvos para artilharia porque está em um mapa sem artilharia local e precisa de um pacote de rádio para se comunicar com a equipe de artilharia.\n\nA marcação de alvos fica desativada quando não há artilharia disponível no mapa local e o peão não tem acesso a rádios de longo alcance.</CE_MarkingUnavailableReason>
+  <CE_MassEffect>Peso carregado:</CE_MassEffect>
+  <CE_MaxArcOfFireDeviation>Arco de tiro máximo</CE_MaxArcOfFireDeviation>
+  <CE_MaxArcOfFireDeviationDesc>O arco de tiro máximo a partir da orientação da torreta.</CE_MaxArcOfFireDeviationDesc>
+  <CE_MaxArcOfFireSpan>Amplitude do arco de tiro livre</CE_MaxArcOfFireSpan>
+  <CE_MaxArcOfFireSpanDesc>O arco de tiro máximo e mínimo a partir de uma linha central dada.</CE_MaxArcOfFireSpanDesc>
+  <CE_MechWarningLabel>Sinais estranhos</CE_MechWarningLabel>
+  <CE_MechWarningText>Você interceptou vários sinais eletrônicos estranhos nas proximidades. Embora inofensivos por si só, tais sinais costumam ser um indicador de atividade de mecanoides na área.\n\nAlguns dos mecanoides maiores têm armadura pesada que desviará facilmente todo o fogo de fuzil. {0} diz que você precisará de algo capaz de vencer pelo menos {1}mm de RHA, coquetéis molotov que podem infiltrar-se pelas aberturas e superaquecer os componentes internos, ou armas EMP que podem destruir seus circuitos.</CE_MechWarningText>
+  <CE_MechWarningText_UnnamedColonist>Um de seus colonos</CE_MechWarningText_UnnamedColonist>
+  <CE_MeleeTargetting>Mira em área</CE_MeleeTargetting>
+  <CE_MeleeTargetting_CurHeight>Área de ataque corpo a corpo</CE_MeleeTargetting_CurHeight>
+  <CE_MeleeTargetting_CurPart>Parte do corpo visada:</CE_MeleeTargetting_CurPart>
+  <CE_Message_ArtilleryBadLayer>Não é possível disparar em um bloco de camada diferente com esta peça de artilharia.</CE_Message_ArtilleryBadLayer>
+  <CE_Message_CounterRaid>Um grupo de {0} está planejando atacar {1} em {2} em breve, em retaliação por eventos recentes.</CE_Message_CounterRaid>
+  <CE_Message_CounterRaid_Desc>Um grupo de combatentes de {0} chegou às proximidades.\n\nEles estão se preparando para atacar em retaliação ao bombardeio de {1}.</CE_Message_CounterRaid_Desc>
+  <CE_Message_CounterRaid_Label>Retaliação: {0}</CE_Message_CounterRaid_Label>
+  <CE_Message_CounterShelling>Fogo de artilharia vindo de {0} ({1}).</CE_Message_CounterShelling>
+  <CE_Message_SettlementDestroyed_Description>O assentamento {0} foi destruído.</CE_Message_SettlementDestroyed_Description>
+  <CE_Message_SettlementDestroyed_Description_Responsibility>{0} destruiu o assentamento de {1}, pertencente a {2}.</CE_Message_SettlementDestroyed_Description_Responsibility>
+  <CE_Message_SettlementDestroyed_Faction_Description>O assentamento de {0} foi destruído.</CE_Message_SettlementDestroyed_Faction_Description>
+  <CE_Message_SettlementDestroyed_Label>Assentamento destruído</CE_Message_SettlementDestroyed_Label>
+  <CE_Message_SiteDestroyed>O local {0} foi destruído.</CE_Message_SiteDestroyed>
+  <CE_Message_SiteDestroyed_Faction>O local {0} pertencente a {1} foi destruído.</CE_Message_SiteDestroyed_Faction>
+  <CE_MissChance>Chance de erro</CE_MissChance>
+  <CE_MissRadius>Raio de erro</CE_MissRadius>
+  <CE_MissinGunsmithingBench>Requer bancada de armeiro</CE_MissinGunsmithingBench>
+  <CE_MissingLoadoutSlots>Os seguintes espaços de configuração não puderam ser carregados, pois estes itens não existem neste mundo: {0}</CE_MissingLoadoutSlots>
+  <CE_Multiplier>Multiplicador:</CE_Multiplier>
+  <CE_NewLoadout>Nova configuração</CE_NewLoadout>
+  <CE_No>Não</CE_No>
+  <CE_NoAmmoAvailable>Nenhuma munição viável encontrada por perto</CE_NoAmmoAvailable>
+  <CE_NoAmmoToGive>Nenhuma munição compatível</CE_NoAmmoToGive>
+  <CE_NoBP>Nenhum</CE_NoBP>
+  <CE_NoLoS>Sem linha de visão</CE_NoLoS>
+  <CE_NoLoadoutSelected>Nenhuma configuração selecionada</CE_NoLoadoutSelected>
+  <CE_NoLoadouts>Nenhuma configuração</CE_NoLoadouts>
+  <CE_NoMedicine>{0} não está carregando nenhum remédio no inventário</CE_NoMedicine>
+  <CE_NoSelfTarget>Não é possível mirar em si mesmo</CE_NoSelfTarget>
+  <CE_NonSnapTurretSpeed>Velocidade de giro da torreta</CE_NonSnapTurretSpeed>
+  <CE_OutOfAmmo>Sem munição</CE_OutOfAmmo>
+  <CE_OutOfBounds>Fora dos limites</CE_OutOfBounds>
+  <CE_Outfits>Trajes</CE_Outfits>
+  <CE_ParentLoadout>Configuração pai...</CE_ParentLoadout>
+  <CE_ParryChance>Chance de aparar</CE_ParryChance>
+  <CE_PickUp>Pegar</CE_PickUp>
+  <CE_PickUpHalf>Pegar metade</CE_PickUpHalf>
+  <CE_PickupMissingAndDropExcess>Pegar o que falta e descartar o excesso</CE_PickupMissingAndDropExcess>
+  <CE_PutAway>Guardar {0}</CE_PutAway>
+  <CE_RangeError>Erro de alcance</CE_RangeError>
+  <CE_RangedDamageMultiplier>Multiplicador de dano do projétil</CE_RangedDamageMultiplier>
+  <CE_RangedPenMultiplier>Multiplicador de penetração do projétil</CE_RangedPenMultiplier>
+  <CE_ReloadApparel>Recarregar {0} com {1}</CE_ReloadApparel>
+  <CE_ReloadDesc>Recarrega esta arma.</CE_ReloadDesc>
+  <CE_ReloadLabel>Recarregar</CE_ReloadLabel>
+  <CE_ReloadTime>Tempo de recarga</CE_ReloadTime>
+  <CE_ReloadingEquipment>Equipado</CE_ReloadingEquipment>
+  <CE_ReloadingGenericAmmo>munição</CE_ReloadingGenericAmmo>
+  <CE_ReloadingInventory>Armazenado</CE_ReloadingInventory>
+  <CE_ReloadingMote>Recarregando {0}!</CE_ReloadingMote>
+  <CE_ReloadingTurretMote>Recarregando torreta {0}.</CE_ReloadingTurretMote>
+  <CE_RepairArmorDurability>Reparar armadura</CE_RepairArmorDurability>
+  <CE_ResetToDefault>Redefinir página para o padrão</CE_ResetToDefault>
+  <CE_RiposteChance>Chance de riposte</CE_RiposteChance>
+  <CE_SaveLoadout>Salvar configuração...</CE_SaveLoadout>
+  <CE_SelectAmmoSet>Selecionar conjunto de munição</CE_SelectAmmoSet>
+  <CE_SelectAmmoSetDesc>Selecione um conjunto de munição para preencher o carregador automático.</CE_SelectAmmoSetDesc>
+  <CE_SelectLoadout>Selecionar configuração...</CE_SelectLoadout>
+  <CE_SetValPartial>Valor:</CE_SetValPartial>
+  <CE_Settings_AcceptRestart>Reiniciar agora</CE_Settings_AcceptRestart>
+  <CE_Settings_AllowMeleeHunting_Desc>Caçadores ainda poderão caçar se estiverem equipados com uma arma corpo a corpo.</CE_Settings_AllowMeleeHunting_Desc>
+  <CE_Settings_AllowMeleeHunting_Title>Permitir caçar com armas corpo a corpo</CE_Settings_AllowMeleeHunting_Title>
+  <CE_Settings_ApparelAutopatcher_Desc>Tenta aplicar uma predefinição de vestuário apropriada aos valores de armadura de vestuários não corrigidos.</CE_Settings_ApparelAutopatcher_Desc>
+  <CE_Settings_ApparelAutopatcher_Title>Ativar autopatcher de vestuário</CE_Settings_ApparelAutopatcher_Title>
+  <CE_Settings_AutoReloadOnChangeAmmo_Desc>Os peões recarregarão automaticamente quando um novo tipo de munição for selecionado.</CE_Settings_AutoReloadOnChangeAmmo_Desc>
+  <CE_Settings_AutoReloadOnChangeAmmo_Title>Recarregar automaticamente ao selecionar munição</CE_Settings_AutoReloadOnChangeAmmo_Title>
+  <CE_Settings_AutoTakeAmmo_Desc>Peões sem configuração atribuída pegarão automaticamente munição para a arma equipada.</CE_Settings_AutoTakeAmmo_Desc>
+  <CE_Settings_AutoTakeAmmo_Title>Equipar munição automaticamente</CE_Settings_AutoTakeAmmo_Title>
+  <CE_Settings_BipodAutoSetUp_Desc>Armas com bipés começarão a se montar automaticamente quando não estiverem definidas como tiro rápido.</CE_Settings_BipodAutoSetUp_Desc>
+  <CE_Settings_BipodAutoSetUp_Title>Alternar montagem automática do bipé</CE_Settings_BipodAutoSetUp_Title>
+  <CE_Settings_BipodMechanics_Desc>Algumas armas serão equipadas com bipés, concedendo penalidades quando não montados e leves bônus quando montados.</CE_Settings_BipodMechanics_Desc>
+  <CE_Settings_BipodMechanics_Title>Usar mecânica de bipé</CE_Settings_BipodMechanics_Title>
+  <CE_Settings_BipodSettings>Configurações do bipé</CE_Settings_BipodSettings>
+  <CE_Settings_CreateCasingsFilth_Desc>Disparar armas criará sujeira limpável de estojos descartados.</CE_Settings_CreateCasingsFilth_Desc>
+  <CE_Settings_CreateCasingsFilth_Title>Criar sujeira de estojos de munição</CE_Settings_CreateCasingsFilth_Title>
+  <CE_Settings_DeclineRestart>Continuar</CE_Settings_DeclineRestart>
+  <CE_Settings_DetailedMeleeTooltip_Desc>Ativa informações extras sobre aparar, esquivar e outros modificadores de chance de ataque na dica de corpo a corpo.</CE_Settings_DetailedMeleeTooltip_Desc>
+  <CE_Settings_DetailedMeleeTooltip_Title>Mostrar dica detalhada corpo a corpo</CE_Settings_DetailedMeleeTooltip_Title>
+  <CE_Settings_EnableAmmoSystem_Desc>As armas exigem munição para recarregar e podem usar vários tipos de munição especializados.\n\nAVISO: alterar esta configuração em uma colônia existente pode causar erros e instabilidade; faça isso por sua conta e risco.</CE_Settings_EnableAmmoSystem_Desc>
+  <CE_Settings_EnableAmmoSystem_Title>Ativar sistema de munição</CE_Settings_EnableAmmoSystem_Title>
+  <CE_Settings_EnableArcOfFire_Desc>Quando ativado, os arcos de tiro da torreta são ajustáveis pelo jogador. Algumas torretas podem ter arco de tiro máximo limitado.\nAs torretas também girarão em vez de apontar instantaneamente para o seu alvo.</CE_Settings_EnableArcOfFire_Desc>
+  <CE_Settings_EnableArcOfFire_Title>Giro da torreta e arco de tiro</CE_Settings_EnableArcOfFire_Title>
+  <CE_Settings_EnableCIWS>Ativar CIWS</CE_Settings_EnableCIWS>
+  <CE_Settings_EnableCIWS_Desc>Permite que algumas torretas funcionem como sistemas de armas de proximidade (CIWS), capazes de interceptar projéteis hostis e/ou cápsulas de lançamento que se aproximam.</CE_Settings_EnableCIWS_Desc>
+  <CE_Settings_EnableExtraEffects_Desc>Projéteis e outros disparos exibirão efeitos adicionais, como projéteis levantando poeira ou incendiários soltando faíscas. Apenas cosmético, não afeta a jogabilidade.</CE_Settings_EnableExtraEffects_Desc>
+  <CE_Settings_EnableExtraEffects_Title>Mostrar efeitos visuais adicionais dos projéteis</CE_Settings_EnableExtraEffects_Title>
+  <CE_Settings_ExplosionDamageFalloffFactor_Desc>Escala as taxas de queda do dano de explosão. A taxa é aplicada à distância do epicentro antes dos demais cálculos</CE_Settings_ExplosionDamageFalloffFactor_Desc>
+  <CE_Settings_ExplosionDamageFalloffFactor_Title>Taxa de atenuação da explosão</CE_Settings_ExplosionDamageFalloffFactor_Title>
+  <CE_Settings_ExplosionPenMultiplier_Desc>Escala todo o dano e a penetração das explosões por este valor</CE_Settings_ExplosionPenMultiplier_Desc>
+  <CE_Settings_ExplosionPenMultiplier_Title>Multiplicador de potência da explosão</CE_Settings_ExplosionPenMultiplier_Title>
+  <CE_Settings_ExplosionSettings>Configurações de explosão</CE_Settings_ExplosionSettings>
+  <CE_Settings_FasterRepeatShots_Desc>Quando ativado, disparos subsequentes no mesmo alvo, ou em alvos próximos, são mais rápidos.</CE_Settings_FasterRepeatShots_Desc>
+  <CE_Settings_FasterRepeatShots_Title>Disparos subsequentes mais rápidos</CE_Settings_FasterRepeatShots_Title>
+  <CE_Settings_ForbiddenNeolithicProjectiles_Desc>Projéteis neolíticos gerados serão automaticamente proibidos.</CE_Settings_ForbiddenNeolithicProjectiles_Desc>
+  <CE_Settings_ForbiddenNeolithicProjectiles_Title>Proibir automaticamente projéteis neolíticos</CE_Settings_ForbiddenNeolithicProjectiles_Title>
+  <CE_Settings_FragmentsFromVehicles_Desc>Quando um projétil sobrepenetra um veículo, gera fragmentos no lado oposto.</CE_Settings_FragmentsFromVehicles_Desc>
+  <CE_Settings_FragmentsFromVehicles_Title>Fragmentos de veículos</CE_Settings_FragmentsFromVehicles_Title>
+  <CE_Settings_FragmentsFromWallsIntensity_Desc>Controla quantos fragmentos de parede aparecerão e qual será o tamanho deles.</CE_Settings_FragmentsFromWallsIntensity_Desc>
+  <CE_Settings_FragmentsFromWallsIntensity_Title>Intensidade de fragmentos de paredes</CE_Settings_FragmentsFromWallsIntensity_Title>
+  <CE_Settings_FragmentsFromWallsReflected_Desc>Quando ativado, alguns dos fragmentos das paredes podem ricochetear de volta no atirador.</CE_Settings_FragmentsFromWallsReflected_Desc>
+  <CE_Settings_FragmentsFromWallsReflected_Title>Fragmentos refletidos de paredes</CE_Settings_FragmentsFromWallsReflected_Title>
+  <CE_Settings_FragmentsFromWalls_Desc>Quando ativado, danificar paredes pode gerar fragmentos.</CE_Settings_FragmentsFromWalls_Desc>
+  <CE_Settings_FragmentsFromWalls_Title>Fragmentos de paredes</CE_Settings_FragmentsFromWalls_Title>
+  <CE_Settings_GenericAmmo>Usar sistema de munição genérica</CE_Settings_GenericAmmo>
+  <CE_Settings_GenericAmmo_Desc>Em vez de usar o sistema completo de calibres, use vários calibres genéricos, mantendo os tipos de munição e o sistema de munição. (requer reinício do jogo)</CE_Settings_GenericAmmo_Desc>
+  <CE_Settings_GenericRestartPopup>Alternar o modo de munição genérica exige uma reinicialização completa para entrar em vigor.\n\nDeseja reiniciar agora?</CE_Settings_GenericRestartPopup>
+  <CE_Settings_HeaderAmmo>Munição</CE_Settings_HeaderAmmo>
+  <CE_Settings_HeaderAutopatcher>Autopatcher</CE_Settings_HeaderAutopatcher>
+  <CE_Settings_HeaderGeneral>Geral</CE_Settings_HeaderGeneral>
+  <CE_Settings_HeaderGraphic>Gráficos</CE_Settings_HeaderGraphic>
+  <CE_Settings_HeaderMechanics>Mecânicas</CE_Settings_HeaderMechanics>
+  <CE_Settings_HeaderMisc>Diversos</CE_Settings_HeaderMisc>
+  <CE_Settings_HitRandomVehicleComponents_Desc>Quando um veículo está com pouca integridade, os projéteis que não encontram nenhum componente sobrevivente danificam, em vez disso, um componente aleatório.\n\nIsso impede que veículos muito danificados permaneçam intactos por causa de componentes pequenos e difíceis de acertar.</CE_Settings_HitRandomVehicleComponents_Desc>
+  <CE_Settings_HitRandomVehicleComponents_Title>Atingir qualquer componente</CE_Settings_HitRandomVehicleComponents_Title>
+  <CE_Settings_LogUnpatchedDefs_Desc>Quando ativado, ferramentas de corpo a corpo sem patch serão registradas na inicialização.\n\nIsso não tem efeito na jogabilidade, mas pode ser uma ferramenta útil para criar patches de compatibilidade.</CE_Settings_LogUnpatchedDefs_Desc>
+  <CE_Settings_LogUnpatchedDefs_Title>Registrar ferramentas sem patch</CE_Settings_LogUnpatchedDefs_Title>
+  <CE_Settings_MedicineSearchRadius_Desc>Define a distância em que remédios serão procurados para estabilizar um peão.</CE_Settings_MedicineSearchRadius_Desc>
+  <CE_Settings_MedicineSearchRadius_Title>Raio de busca de medicamentos</CE_Settings_MedicineSearchRadius_Title>
+  <CE_Settings_MergeExplosions_Desc>Explosões próximas são mescladas entre si, melhorando significativamente o desempenho durante uma grande detonação em cadeia de explosivos. Recomenda-se fortemente manter ativado.</CE_Settings_MergeExplosions_Desc>
+  <CE_Settings_MergeExplosions_Title>Mesclar explosões</CE_Settings_MergeExplosions_Title>
+  <CE_Settings_MidBurstRetarget_Desc>Quando ativado, os atiradores mudarão para um novo alvo quando seu alvo primário for abatido no meio da rajada.</CE_Settings_MidBurstRetarget_Desc>
+  <CE_Settings_MidBurstRetarget_Title>Redirecionar alvo no meio da rajada</CE_Settings_MidBurstRetarget_Title>
+  <CE_Settings_NonPlayerMeleeTooltip_Desc>Ativa a dica de corpo a corpo para todos os peões, incluindo animais selvagens, aliados e saqueadores.</CE_Settings_NonPlayerMeleeTooltip_Desc>
+  <CE_Settings_NonPlayerMeleeTooltip_Title>Mostrar dica corpo a corpo para todos os peões</CE_Settings_NonPlayerMeleeTooltip_Title>
+  <CE_Settings_OpportunisticReload_Any>Qualquer</CE_Settings_OpportunisticReload_Any>
+  <CE_Settings_OpportunisticReload_Desc>Os peões recarregarão oportunisticamente se o carregador estiver abaixo do limite definido e for seguro fazê-lo.</CE_Settings_OpportunisticReload_Desc>
+  <CE_Settings_OpportunisticReload_DraftedOnly>Apenas convocados</CE_Settings_OpportunisticReload_DraftedOnly>
+  <CE_Settings_OpportunisticReload_Off>Desativado</CE_Settings_OpportunisticReload_Off>
+  <CE_Settings_OpportunisticReload_SafeDistance_Desc>Distância mínima em células até o peão hostil mais próximo (sem necessidade de linha de visão) para um peão recarregar oportunisticamente.</CE_Settings_OpportunisticReload_SafeDistance_Desc>
+  <CE_Settings_OpportunisticReload_SafeDistance_Title>Distância segura para recarregar: {0}</CE_Settings_OpportunisticReload_SafeDistance_Title>
+  <CE_Settings_OpportunisticReload_SecondsAfterFight_Desc>Atraso entre um peão estar em combate e recarregar oportunisticamente.</CE_Settings_OpportunisticReload_SecondsAfterFight_Desc>
+  <CE_Settings_OpportunisticReload_SecondsAfterFight_Title>Tempo de espera após combate: {0} s.</CE_Settings_OpportunisticReload_SecondsAfterFight_Title>
+  <CE_Settings_OpportunisticReload_Title>Recarga oportunista</CE_Settings_OpportunisticReload_Title>
+  <CE_Settings_PartialStats_Desc>Quando ativado, algumas armaduras podem ter atributos diferentes em partes do corpo diferentes.</CE_Settings_PartialStats_Desc>
+  <CE_Settings_PartialStats_Title>Ativar armadura parcial</CE_Settings_PartialStats_Title>
+  <CE_Settings_PatchArmorDamage_Desc>A armadura de veículo reduz o dano com base em valores relativos, mas pode ser penetrada por ataques com alta AP.</CE_Settings_PatchArmorDamage_Desc>
+  <CE_Settings_PatchArmorDamage_Title>Usar nova armadura de veículo</CE_Settings_PatchArmorDamage_Title>
+  <CE_Settings_PawnkindAutopatcher_Desc>Concede uma pequena quantidade de munição a tipos de peão não corrigidos equipados com uma arma à distância corrigida.</CE_Settings_PawnkindAutopatcher_Desc>
+  <CE_Settings_PawnkindAutopatcher_Title>Ativar autopatcher de tipos de peão</CE_Settings_PawnkindAutopatcher_Title>
+  <CE_Settings_RaceAutopatcher_Desc>O aplicador automático de patches aplicará uma predefinição a raças sem patches para permitir funcionalidade básica.</CE_Settings_RaceAutopatcher_Desc>
+  <CE_Settings_RaceAutopatcher_Title>Ativar autopatcher de raças</CE_Settings_RaceAutopatcher_Title>
+  <CE_Settings_RealWeaponNames_Desc>Quando ativado, as armas do jogo base, assim como parte do conteúdo adicional oficial, usarão seus nomes reais.\n\nRequer reinicialização para entrar em vigor.</CE_Settings_RealWeaponNames_Desc>
+  <CE_Settings_RealWeaponNames_Title>Usar nomes reais de armas</CE_Settings_RealWeaponNames_Title>
+  <CE_Settings_RealisticCookOff_Desc>Pilhas de munição não gerarão projéteis danosos ao detonar por superaquecimento.</CE_Settings_RealisticCookOff_Desc>
+  <CE_Settings_RealisticCookOff_Title>Autoignição realista</CE_Settings_RealisticCookOff_Title>
+  <CE_Settings_RecoilAnim_Desc>Quando ativado, armas à distância e torretas exibirão animações de recuo ao disparar.</CE_Settings_RecoilAnim_Desc>
+  <CE_Settings_RecoilAnim_Title>Mostrar animações de recuo</CE_Settings_RecoilAnim_Title>
+  <CE_Settings_Rendering_Desc>Configurações experimentais para renderização de vestuário</CE_Settings_Rendering_Desc>
+  <CE_Settings_Rendering_Title>Configurações de renderização</CE_Settings_Rendering_Title>
+  <CE_Settings_RequireArtilleryMarkerForOffMapArtillery_Desc>Quando ativado, a artilharia fora do mapa só poderá mirar em marcadores de artilharia. Desative para mirar em células sem marcação com a penalidade total de precisão de alvo não avistado.</CE_Settings_RequireArtilleryMarkerForOffMapArtillery_Desc>
+  <CE_Settings_RequireArtilleryMarkerForOffMapArtillery_Title>Requer marcador para artilharia fora do mapa</CE_Settings_RequireArtilleryMarkerForOffMapArtillery_Title>
+  <CE_Settings_RestartTitle>A configuração de munição genérica mudou</CE_Settings_RestartTitle>
+  <CE_Settings_ReuseNeolithicProjectiles_Desc>Projéteis neolíticos terão a chance de cair no chão ao impactar.</CE_Settings_ReuseNeolithicProjectiles_Desc>
+  <CE_Settings_ReuseNeolithicProjectiles_Title>Reutilizar projéteis neolíticos</CE_Settings_ReuseNeolithicProjectiles_Title>
+  <CE_Settings_RightClickAmmoSelect_Desc>Clicar com o botão direito no botão de recarregar abre o menu de seleção de munição.</CE_Settings_RightClickAmmoSelect_Desc>
+  <CE_Settings_RightClickAmmoSelect_Title>Seleção de munição com clique direito</CE_Settings_RightClickAmmoSelect_Title>
+  <CE_Settings_ShowBackpacks_Desc>Ativa / desativa a renderização de mochilas (todos os peões)</CE_Settings_ShowBackpacks_Desc>
+  <CE_Settings_ShowBackpacks_Title>Mostrar mochilas</CE_Settings_ShowBackpacks_Title>
+  <CE_Settings_ShowCaliberOnGuns_Desc>Armas que usam munição terão seu calibre adicionado após o nome.</CE_Settings_ShowCaliberOnGuns_Desc>
+  <CE_Settings_ShowCaliberOnGuns_Title>Exibir calibre da arma</CE_Settings_ShowCaliberOnGuns_Title>
+  <CE_Settings_ShowCasings_Desc>Disparar armas exibirá um efeito de estojo descartado.</CE_Settings_ShowCasings_Desc>
+  <CE_Settings_ShowCasings_Title>Mostrar estojos de munição</CE_Settings_ShowCasings_Title>
+  <CE_Settings_ShowExtraStats_Desc>Ativa atributos extras (internos, redundantes ou confusos) em alguns cartões de informação.</CE_Settings_ShowExtraStats_Desc>
+  <CE_Settings_ShowExtraStats_Title>Mostrar estatísticas extras</CE_Settings_ShowExtraStats_Title>
+  <CE_Settings_ShowExtraTooltips_Desc>Ativa dicas extras para a célula sob o ponteiro do mouse (segure Shift esquerdo para visualizar).</CE_Settings_ShowExtraTooltips_Desc>
+  <CE_Settings_ShowExtraTooltips_Title>Mostrar dicas extras</CE_Settings_ShowExtraTooltips_Title>
+  <CE_Settings_ShowTaunts_Desc>Os peões exibirão provocações em texto durante o combate.</CE_Settings_ShowTaunts_Desc>
+  <CE_Settings_ShowTaunts_Title>Mostrar provocações de combate</CE_Settings_ShowTaunts_Title>
+  <CE_Settings_ShowWebbing_Desc>Ativa / desativa a renderização de coletes táticos (todos os peões)</CE_Settings_ShowWebbing_Desc>
+  <CE_Settings_ShowWebbing_Title>Mostrar coletes táticos</CE_Settings_ShowWebbing_Title>
+  <CE_Settings_SmokeEffects_Desc>O fogo gera nuvens perigosas de fumaça preta, causando complicações de saúde a qualquer um que não esteja usando equipamento de proteção.</CE_Settings_SmokeEffects_Desc>
+  <CE_Settings_SmokeEffects_Title>Alternar sistema de fumaça preta</CE_Settings_SmokeEffects_Title>
+  <CE_Settings_StabilizationSettings>Configurações de estabilização de ferimentos</CE_Settings_StabilizationSettings>
+  <CE_Settings_StuckArrowsAsFlecks_Desc>Certos projéteis, como flechas, criarão um efeito visual temporário no chão onde impactarem.</CE_Settings_StuckArrowsAsFlecks_Desc>
+  <CE_Settings_StuckArrowsAsFlecks_Title>Criar partículas de projéteis impactados</CE_Settings_StuckArrowsAsFlecks_Title>
+  <CE_Settings_SuppressionCausesRunning_Desc>Quando ativado, peões sob supressão leve (amarela) interromperão o que estão fazendo para procurar cobertura. Peões sob supressão pesada (laranja) ainda se abaixarão.</CE_Settings_SuppressionCausesRunning_Desc>
+  <CE_Settings_SuppressionCausesRunning_Title>Peões suprimidos buscam cobertura</CE_Settings_SuppressionCausesRunning_Title>
+  <CE_Settings_ToughnessAutopatcher_Desc>Aplica um atributo de robustez calculado automaticamente às armas, que afeta quanto dano elas recebem quando usadas em corpo a corpo.</CE_Settings_ToughnessAutopatcher_Desc>
+  <CE_Settings_ToughnessAutopatcher_Title>Ativar autopatcher de resistência de armas</CE_Settings_ToughnessAutopatcher_Title>
+  <CE_Settings_TurretsBreakShields_Desc>Quando ativado, os cintos de escudo serão desativados enquanto os colonos estiverem operando torretas. Se desativado, os cintos de escudo permanecerão ativos, oferecendo proteção adicional.</CE_Settings_TurretsBreakShields_Desc>
+  <CE_Settings_TurretsBreakShields_Title>Desativar cintos de escudo ao operar torretas</CE_Settings_TurretsBreakShields_Title>
+  <CE_Settings_Value_Tweaks_Desc>Ajuste vários atributos e multiplicadores que afetam a jogabilidade e o equilíbrio de combate.</CE_Settings_Value_Tweaks_Desc>
+  <CE_Settings_Value_Tweaks_Title>Equilíbrio de jogabilidade</CE_Settings_Value_Tweaks_Title>
+  <CE_Settings_VariedHumanHeight_Desc>Quando ativado, certos humanos, como crianças ou xenotipos altos, terão sua altura e largura ajustadas de acordo com o tamanho do corpo.\n\nIsso pode significar que peões pequenos talvez não consigam atirar por cima de coberturas altas, e alguns peões altos ficarão menos protegidos por coberturas e mais fáceis de acertar com armas de longo alcance.\n\nQuando desativado, todos os humanos terão 1.75 m de altura, independentemente do tamanho do corpo.</CE_Settings_VariedHumanHeight_Desc>
+  <CE_Settings_VariedHumanHeight_Title>Ativar altura humana variada</CE_Settings_VariedHumanHeight_Title>
+  <CE_Settings_Vehicles>Configurações de veículos</CE_Settings_Vehicles>
+  <CE_Settings_VerboseAutopatcher_Desc>Isto ativará o registro detalhado do autopatcher</CE_Settings_VerboseAutopatcher_Desc>
+  <CE_Settings_VerboseAutopatcher_Title>Ativar registro detalhado do autopatcher</CE_Settings_VerboseAutopatcher_Title>
+  <CE_Settings_WeaponAutopatcher_Desc>Tenta aplicar uma predefinição de arma apropriada a armas à distância não corrigidas.</CE_Settings_WeaponAutopatcher_Desc>
+  <CE_Settings_WeaponAutopatcher_Title>Ativar autopatcher de armas</CE_Settings_WeaponAutopatcher_Title>
+  <CE_Shield_Coverage>Cobertura do escudo</CE_Shield_Coverage>
+  <CE_Shield_Coverage_Desc>Partes do corpo protegidas pelo escudo contra ataques à distância e corpo a corpo.</CE_Shield_Coverage_Desc>
+  <CE_SingleFireLabel>Único</CE_SingleFireLabel>
+  <CE_SmokeDensity>fumaça</CE_SmokeDensity>
+  <CE_SnapshotLabel>Instantâneo</CE_SnapshotLabel>
+  <CE_SourceAllTip>Selecionar tudo</CE_SourceAllTip>
+  <CE_SourceAmmoTip>Selecionar munição</CE_SourceAmmoTip>
+  <CE_SourceFilterTip>Seleção de filtro</CE_SourceFilterTip>
+  <CE_SourceGenericTip>Selecionar genérico</CE_SourceGenericTip>
+  <CE_SourceMeleeTip>Selecionar armas corpo a corpo</CE_SourceMeleeTip>
+  <CE_SourceMinifiedTip>Selecionar miniaturizados</CE_SourceMinifiedTip>
+  <CE_SourceRangedTip>Selecionar armas de longo alcance</CE_SourceRangedTip>
+  <CE_Spread>Dispersão</CE_Spread>
+  <CE_Stabilize>Estabilizar {0}</CE_Stabilize>
+  <CE_StabilizeHediffDescription>Ferimento estabilizado - taxa de sangramento multiplicada por {0}. O efeito de estabilização expirará completamente em {1} horas.</CE_StabilizeHediffDescription>
+  <CE_StatPart_MaximaExplanation>Escolhe o maior valor disponível</CE_StatPart_MaximaExplanation>
+  <CE_StatPart_MinimaExplanation>Escolhe o menor valor disponível</CE_StatPart_MinimaExplanation>
+  <CE_StatWorker_ArmorGeneral>Valor geral:</CE_StatWorker_ArmorGeneral>
+  <CE_StatWorker_ArmorSpecific>Valor especial para partes do corpo:</CE_StatWorker_ArmorSpecific>
+  <CE_StatsReport_BaseValue>Valor base</CE_StatsReport_BaseValue>
+  <CE_StatsReport_FlammabilityApparelCoverage>Cobertura da vestimenta</CE_StatsReport_FlammabilityApparelCoverage>
+  <CE_StatsReport_FlammabilityApparelFactor>Inflamabilidade da vestimenta</CE_StatsReport_FlammabilityApparelFactor>
+  <CE_StatsReport_FlammabilityPrecipitation>Multiplicador para precipitação</CE_StatsReport_FlammabilityPrecipitation>
+  <CE_StatsReport_LoadedAmmo>Munição carregada</CE_StatsReport_LoadedAmmo>
+  <CE_StatsReport_WeaponToughness_HolderEffect>Efeito da habilidade do portador:</CE_StatsReport_WeaponToughness_HolderEffect>
+  <CE_StatsReport_WeaponToughness_StuffEffect>Multiplicador adicional de resistência do material:</CE_StatsReport_WeaponToughness_StuffEffect>
+  <CE_SuppressFireLabel>Suprimir</CE_SuppressFireLabel>
+  <CE_SuppressedMote>Suprimido!</CE_SuppressedMote>
+  <CE_Sway>Oscilação</CE_Sway>
+  <CE_SwitchAmmmoSetToNormalRifle>Trocar para arma padrão</CE_SwitchAmmmoSetToNormalRifle>
+  <CE_SwitchAmmmoSetToUnderBarrel>Trocar para arma sob o cano</CE_SwitchAmmmoSetToUnderBarrel>
+  <CE_TakeFromOther_Equipping>Equipando</CE_TakeFromOther_Equipping>
+  <CE_TakeFromOther_Taking>Pegando</CE_TakeFromOther_Taking>
+  <CE_TamerInventoryFull>Não é possível fazer a tarefa de domar porque o inventário está cheio.</CE_TamerInventoryFull>
+  <CE_TargetDodgeChance>Chance de esquiva do alvo</CE_TargetDodgeChance>
+  <CE_TargetHeight>Altura do alvo</CE_TargetHeight>
+  <CE_TargetInventoryFull>O inventário do peão alvo está cheio</CE_TargetInventoryFull>
+  <CE_TargetWidth>Largura do alvo</CE_TargetWidth>
+  <CE_TextMote_Blocked>Bloqueado!</CE_TextMote_Blocked>
+  <CE_TextMote_CriticalHit>Acerto crítico!</CE_TextMote_CriticalHit>
+  <CE_TextMote_Knockdown>Derrubado!</CE_TextMote_Knockdown>
+  <CE_TextMote_Parried>Aparado!</CE_TextMote_Parried>
+  <CE_TextMote_Riposted>Ripostou!</CE_TextMote_Riposted>
+  <CE_ToggleAimModeDesc>Alternar modo de mira.</CE_ToggleAimModeDesc>
+  <CE_ToggleFireModeDesc>Alternar modo de disparo.</CE_ToggleFireModeDesc>
+  <CE_TravelingShell_Description>Lançado de {0} ({1}) para {2} ({3})</CE_TravelingShell_Description>
+  <CE_TryReloadAmmoTooltip>O peão recarregará oportunistamente com {0} cartuchos restantes.</CE_TryReloadAmmoTooltip>
+  <CE_TurretAlreadyReloading>já recarregando a torreta</CE_TurretAlreadyReloading>
+  <CE_TurretFull>O carregador da torreta está totalmente carregado</CE_TurretFull>
+  <CE_TurretIsBurning>A torreta está em chamas</CE_TurretIsBurning>
+  <CE_TurretNonAllied>A torreta pertence a uma facção hostil</CE_TurretNonAllied>
+  <CE_TurretReloading>Recarregando</CE_TurretReloading>
+  <CE_UBGLStats>Estatísticas da arma sob o cano:</CE_UBGLStats>
+  <CE_UBGLStats_Title>Clique ou passe o cursor sobre</CE_UBGLStats_Title>
+  <CE_UncompiledDevBuild>Versão de desenvolvimento do CE não compilada\n\nVocê está executando uma versão de desenvolvimento do Combat Extended que não se destina a fins de jogo; isso gerará uma grande quantidade de erros se você tentar jogar com uma colônia.\n\nBaixe uma versão oficial do CE na seção Releases do GitHub ou, se precisar do snapshot de desenvolvimento mais recente para fins de teste, obtenha-o no link abaixo.</CE_UncompiledDevBuild>
+  <CE_UnloadLabel>Descarregar</CE_UnloadLabel>
+  <CE_UnpatchedWeapon>Esta arma ainda não foi adaptada para o CE; embora funcione do modo vanilla como alternativa, entre em contato com um criador de patches para patches de compatibilidade.</CE_UnpatchedWeapon>
+  <CE_UnpatchedWeaponShort>Não corrigido para CE</CE_UnpatchedWeaponShort>
+  <CE_UpdateLoadoutNow>Rearmar</CE_UpdateLoadoutNow>
+  <CE_UsedBy>Usado por</CE_UsedBy>
+  <CE_VisibilityError>Erro de visibilidade</CE_VisibilityError>
+  <CE_WeaponPenetrationFactor>Fator de penetração da arma</CE_WeaponPenetrationFactor>
+  <CE_WeaponPenetrationOtherFactors>Outros fatores</CE_WeaponPenetrationOtherFactors>
+  <CE_WeaponPenetrationSkillFactor>Fator de habilidade</CE_WeaponPenetrationSkillFactor>
+  <CE_Weight>Massa</CE_Weight>
+  <CE_WielderSkillLevel>Nível de habilidade do portador</CE_WielderSkillLevel>
+  <CE_Wind_Beaufort0>Calmo</CE_Wind_Beaufort0>
+  <CE_Wind_Beaufort1>Brisa leve</CE_Wind_Beaufort1>
+  <CE_Wind_Beaufort10>Tempestade</CE_Wind_Beaufort10>
+  <CE_Wind_Beaufort11>Tempestade violenta</CE_Wind_Beaufort11>
+  <CE_Wind_Beaufort12>Furacão</CE_Wind_Beaufort12>
+  <CE_Wind_Beaufort2>Brisa moderada</CE_Wind_Beaufort2>
+  <CE_Wind_Beaufort3>Brisa forte</CE_Wind_Beaufort3>
+  <CE_Wind_Beaufort4>Vento leve</CE_Wind_Beaufort4>
+  <CE_Wind_Beaufort5>Vento moderado</CE_Wind_Beaufort5>
+  <CE_Wind_Beaufort6>Vento forte</CE_Wind_Beaufort6>
+  <CE_Wind_Beaufort7>Quase vendaval</CE_Wind_Beaufort7>
+  <CE_Wind_Beaufort8>Vendaval</CE_Wind_Beaufort8>
+  <CE_Wind_Beaufort9>Vendaval forte</CE_Wind_Beaufort9>
+  <CE_Wind_Direction_E>Rumo ao Leste</CE_Wind_Direction_E>
+  <CE_Wind_Direction_N>Rumo ao Norte</CE_Wind_Direction_N>
+  <CE_Wind_Direction_NE>Rumo ao Nordeste</CE_Wind_Direction_NE>
+  <CE_Wind_Direction_NW>Rumo ao Noroeste</CE_Wind_Direction_NW>
+  <CE_Wind_Direction_S>Rumo ao Sul</CE_Wind_Direction_S>
+  <CE_Wind_Direction_SE>Rumo ao Sudeste</CE_Wind_Direction_SE>
+  <CE_Wind_Direction_SW>Rumo ao Sudoeste</CE_Wind_Direction_SW>
+  <CE_Wind_Direction_W>Rumo ao Oeste</CE_Wind_Direction_W>
+  <CE_Wind_Tooltip>Velocidade e direção atuais do vento.\n\nO vento afeta o padrão de propagação do fogo e pode variar de brisas leves a vendavais fortes.</CE_Wind_Tooltip>
+  <CE_Yes>Sim</CE_Yes>
+  <CE_cells>c</CE_cells>
+  <CE_degrees>°</CE_degrees>
+  <CE_drugs>Política de drogas</CE_drugs>
+  <CE_loadout>Configuração</CE_loadout>
+  <CE_meters>m</CE_meters>
+  <CE_mmRHA>mm RHA</CE_mmRHA>
+  <CE_outfit>Traje</CE_outfit>
+  <CIWSSettings_AvailableTargets>Alvos disponíveis</CIWSSettings_AvailableTargets>
+  <CIWSSettings_Copy>Copiar</CIWSSettings_Copy>
+  <CIWSSettings_IgnoredTargets>Alvos ignorados</CIWSSettings_IgnoredTargets>
+  <CIWSSettings_Paste>Colar</CIWSSettings_Paste>
+  <Dialog_ManageCIWS>Configurar CIWS</Dialog_ManageCIWS>
+  <Dialog_ManageCIWSDesc>Alterar alvos disponíveis e ignorados para a CIWS selecionada</Dialog_ManageCIWSDesc>
+  <DormantCompAmmoBeacon>Pronto para reabastecer torretas</DormantCompAmmoBeacon>
+  <HoldCloseInProjectilesFire>Segurar fogo - projéteis</HoldCloseInProjectilesFire>
+  <HoldCloseInProjectilesFireDesc>Ignorar projéteis recebidos</HoldCloseInProjectilesFireDesc>
+  <HoldCloseInSkyfallersFire>Segurar fogo - skyfallers</HoldCloseInSkyfallersFire>
+  <HoldCloseInSkyfallersFireDesc>Ignorar skyfallers e cápsulas de queda em pouso</HoldCloseInSkyfallersFireDesc>
+  <MTA_CannotSetLoadoutForMultipleEquipment>Não é possível definir a configuração para mecanoides com armas diferentes. Tente selecionar vários mecanoides semelhantes.</MTA_CannotSetLoadoutForMultipleEquipment>
+  <MTA_MagCount>Contagem de carregadores:</MTA_MagCount>
+  <MTA_MagazinePrefix>Cada unidade é um carregador, {0} cartuchos.</MTA_MagazinePrefix>
+  <MTA_NoNeedAmmo>Não precisa reabastecer munição</MTA_NoNeedAmmo>
+  <MTA_SetMagCount>Definir quantidade de carregadores</MTA_SetMagCount>
+  <MTA_Shot>disparo</MTA_Shot>
+  <MTA_TakeAmmoNow>Pegar munição agora</MTA_TakeAmmoNow>
+  <TabAttachments>Anex.</TabAttachments>
+</LanguageData>

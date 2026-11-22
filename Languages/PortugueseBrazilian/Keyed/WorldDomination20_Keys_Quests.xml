@@ -42,4 +42,12 @@
   <TSA_WD_Victory_CreditsIntro>Seus assentamentos e postos avançados são os mais fortes do planeta.</TSA_WD_Victory_CreditsIntro>
   <TSA_WD_Victory_CreditsEnding>O World Domination é seu. A história continua se você quiser.</TSA_WD_Victory_CreditsEnding>
   <TSA_WD_Victory_HoldProgress>Sequência de liderança: {0} / {1} dias</TSA_WD_Victory_HoldProgress>
+  <TSA_WD_Quest_EnableScoutWorldMap>Missão de explorar o mapa-múndi</TSA_WD_Quest_EnableScoutWorldMap>
+  <TSA_WD_Quest_EnableScoutWorldMapTip>Com o rastreamento de névoa de guerra ativo, após 1–5 dias a cidade aliada ou neutra mais próxima pode pedir que você lance um batedor a partir da colônia ou de um posto avançado. Concluir concede +5 de humor por 5 dias. Oferecida uma única vez (ignorada se você já tiver lançado um batedor). Desativar interrompe novas ofertas; uma missão ativa ainda pode ser concluída.</TSA_WD_Quest_EnableScoutWorldMapTip>
+  <TSA_WD_ScoutWorldMap_LetterLabelFailed>Missão falhou: [resolvedQuestName]</TSA_WD_ScoutWorldMap_LetterLabelFailed>
+  <TSA_WD_ScoutWorldMap_LetterTextHostile>[faction_name] tornou-se hostil. O pedido de exploração falhou.</TSA_WD_ScoutWorldMap_LetterTextHostile>
+  <TSA_WD_ScoutWorldMap_LetterLabelExpired>Missão expirada: [resolvedQuestName]</TSA_WD_ScoutWorldMap_LetterLabelExpired>
+  <TSA_WD_ScoutWorldMap_LetterTextExpired>O tempo do pedido de [faction_name] em [askerSettlement_label] para começar a explorar o mapa-múndi acabou.</TSA_WD_ScoutWorldMap_LetterTextExpired>
+  <TSA_WD_ScoutWorldMap_LetterLabelAskerGone>Missão falhou: {0}</TSA_WD_ScoutWorldMap_LetterLabelAskerGone>
+  <TSA_WD_ScoutWorldMap_LetterTextAskerGone>{0} queria que você começasse a explorar perto de {1}, mas essa cidade desapareceu. O pedido falhou.</TSA_WD_ScoutWorldMap_LetterTextAskerGone>
 </LanguageData>

@@ -10,12 +10,12 @@
   <AB_Agarilux.label>agarilux</AB_Agarilux.label>
   <AB_AgariluxPrime.description>Um exemplar de Agarilux de tamanho inacreditável. Esta colônia fúngica se adaptou perfeitamente ao seu ambiente, liberando grandes nuvens de esporos extremamente perigosos que preenchem o ar ao redor. Esses esporos atacam tanto outros fungos quanto animais errantes, e depois que estes inevitavelmente sufocam, o Agarilux Prime estende hifas preênseis para se alimentar de seus corpos em decomposição.\n\nO Agarilux Prime pode ser cortado como qualquer outra planta, mas a menos que quem o corte esteja perfeitamente protegido contra os esporos tóxicos, provavelmente será uma missão sem volta. Ou morteiros... acho que morteiros também funcionarão.</AB_AgariluxPrime.description>
   <AB_AgariluxPrime.label>Agarilux Prime</AB_AgariluxPrime.label>
-  <AB_AlcyoniteChunk.description>Alcyonite é uma variação muito rara da gema almandita. Realmente forte, capaz de cortar aço facilmente, e ainda maleável com propriedades piezoelétricas interessantes.</AB_AlcyoniteChunk.description>
-  <AB_AlcyoniteChunk.label>pedaço de alcyonite</AB_AlcyoniteChunk.label>
-  <AB_AlcyoniteSolar.description>Usa células solares de alcyonite para extrair eletricidade do sol. Produz eletricidade extra se houver tempo de névoa vermelha. Não funciona no escuro nem sob luz artificial.</AB_AlcyoniteSolar.description>
-  <AB_AlcyoniteSolar.label>gerador solar de alcyonite</AB_AlcyoniteSolar.label>
-  <AB_AlcyoniteSolar_Advanced.description>Usa células solares de alcyonite para extrair eletricidade do sol. Produz eletricidade extra se houver tempo de névoa vermelha. Não funciona no escuro nem sob luz artificial.</AB_AlcyoniteSolar_Advanced.description>
-  <AB_AlcyoniteSolar_Advanced.label>gerador solar de alcyonite avançado</AB_AlcyoniteSolar_Advanced.label>
+  <AB_AlcyoniteChunk.description>Alcionita é uma variação muito rara da gema almandita. Realmente forte, capaz de cortar aço facilmente, e ainda maleável com propriedades piezoelétricas interessantes.</AB_AlcyoniteChunk.description>
+  <AB_AlcyoniteChunk.label>pedaço de alcionita</AB_AlcyoniteChunk.label>
+  <AB_AlcyoniteSolar.description>Usa células solares de alcionita para extrair eletricidade do sol. Produz eletricidade extra se houver tempo de névoa vermelha. Não funciona no escuro nem sob luz artificial.</AB_AlcyoniteSolar.description>
+  <AB_AlcyoniteSolar.label>gerador solar de alcionita</AB_AlcyoniteSolar.label>
+  <AB_AlcyoniteSolar_Advanced.description>Usa células solares de alcionita para extrair eletricidade do sol. Produz eletricidade extra se houver tempo de névoa vermelha. Não funciona no escuro nem sob luz artificial.</AB_AlcyoniteSolar_Advanced.description>
+  <AB_AlcyoniteSolar_Advanced.label>gerador solar de alcionita avançado</AB_AlcyoniteSolar_Advanced.label>
   <AB_AlienComplianceCenter.description>Um dispositivo experimental que emana ondas estranhas e faz todos amarem o clima verdadeiramente alienígena.</AB_AlienComplianceCenter.description>
   <AB_AlienComplianceCenter.label>centro de conformidade ocular</AB_AlienComplianceCenter.label>
   <AB_AlienGrass.description>Esta grama é muito bizarra, provavelmente nem sequer é baseada em carbono a 100%. Não é muito comestível para criaturas terrestres.</AB_AlienGrass.description>
@@ -25,7 +25,7 @@
   <AB_AlienTree_Polluted.description>Esta árvore ocular foi afetada pela poluição e mutou de formas estranhas. Preocupantemente, parece estar realmente prosperando nestas condições.\n\nDetalhes da planta: Árvores oculares mutadas são uma planta silvestre, e precisam de fertilidade mínima do terreno de 0.05. Só podem crescer em terrenos poluídos. Podem ser colhidas para obter pequenas quantidades de Madeira Vermelha. Ideologias amantes de árvores não se importam muito com cortar estas árvores estranhas.</AB_AlienTree_Polluted.description>
   <AB_AlienTree_Polluted.label>árvore ocular mutada</AB_AlienTree_Polluted.label>
   <AB_AncientBloodRainVent.description>Um duto massivo que desce interminavelmente no solo. Regularmente expele enormes nuvens vermelhas de uma substância vaporizada semelhante a sangue, que se coalescem em uma chuva de sangue nojenta.</AB_AncientBloodRainVent.description>
-  <AB_AncientBloodRainVent.label>abertura antiga de chuva de sangue</AB_AncientBloodRainVent.label>
+  <AB_AncientBloodRainVent.label>duto de chuva de sangue</AB_AncientBloodRainVent.label>
   <AB_AncientBone.description>Este osso fossilizado pode ter pertencido a um Gallatross excepcionalmente grande. Pode ser desconstruído para obter ossos antigos.</AB_AncientBone.description>
   <AB_AncientBone.label>osso antigo</AB_AncientBone.label>
   <AB_AncientBone_Stuff.description>Um material de construção resistente feito dos restos de criaturas mortas há muito tempo. Embora envelhecido e quebradiço, pode ser trabalhado como madeira em estruturas e móveis.</AB_AncientBone_Stuff.description>
@@ -33,25 +33,25 @@
   <AB_AncientBrokenBone.description>Este osso fossilizado pode ter pertencido a um Gallatross excepcionalmente grande. Pode ser desconstruído para obter ossos antigos.</AB_AncientBrokenBone.description>
   <AB_AncientBrokenBone.label>osso antigo estilhaçado</AB_AncientBrokenBone.label>
   <AB_AncientDeathPallVent.description>Um duto massivo que desce interminavelmente no solo. Regularmente expele nuvens de arquites microscópicos autossuficientes que afetam os corpos, reanimando-os para criar uma imitação distorcida da vida.</AB_AncientDeathPallVent.description>
-  <AB_AncientDeathPallVent.label>abertura antiga da mortalha da morte</AB_AncientDeathPallVent.label>
+  <AB_AncientDeathPallVent.label>duto de sudário da morte</AB_AncientDeathPallVent.label>
   <AB_AncientFreezingVent.description>Um duto massivo que desce interminavelmente no solo. Regularmente expela ar congelante de uma megastrutura subterrânea, reduzindo drasticamente a temperatura da área ao redor.</AB_AncientFreezingVent.description>
-  <AB_AncientFreezingVent.label>abertura antiga de congelamento</AB_AncientFreezingVent.label>
+  <AB_AncientFreezingVent.label>duto de congelamento antigo</AB_AncientFreezingVent.label>
   <AB_AncientGallatrossSkull.description>Este crânio pertenceu a um Gallatross excepcionalmente enorme. Olhe o tamanho disto! Pode ser desconstruído para obter ossos antigos.</AB_AncientGallatrossSkull.description>
   <AB_AncientGallatrossSkull.label>crânio antigo de gallatross</AB_AncientGallatrossSkull.label>
   <AB_AncientGreyPallVent.description>Um duto massivo que desce interminavelmente no solo. Regularmente expela grandes quantidades de fumaça de aparência doentia que lança a área em uma escuridão sobrenatural.</AB_AncientGreyPallVent.description>
-  <AB_AncientGreyPallVent.label>abertura antiga da mortalha cinzenta</AB_AncientGreyPallVent.label>
+  <AB_AncientGreyPallVent.label>duto de sudário cinzento</AB_AncientGreyPallVent.label>
   <AB_AncientVerticalBone.description>Estes ossos fossilizados podem ter pertencido a um Gallatross excepcionalmente grande. Podem ser desconstruídos para obter ossos antigos.</AB_AncientVerticalBone.description>
   <AB_AncientVerticalBone.label>ossos antigos</AB_AncientVerticalBone.label>
   <AB_ArbuscularMycorrhiza.description>Uma micorriza é uma associação simbiótica entre um fungo e uma planta. Este organismo em particular é altamente avançado, e os dois simbiontes quase se fundiram em uma única criatura que mantém as estruturas de sustentação da árvore original (o tronco) e os chapéus e o micélio do fungo original. Uma pequena quantidade de madeira pode ser colhida de seu tronco.\n\nDetalhes da planta: A micorriza arbuscular é uma planta cultivada que também aparece na natureza, e precisa de fertilidade mínima do terreno de 0.95. Pode ser colhida para obter madeira normal.\n\nBaseado na arte de Aphrodite: https://www.artstation.com/artwork/3ol4AB</AB_ArbuscularMycorrhiza.description>
   <AB_ArbuscularMycorrhiza.label>micorriza arbuscular</AB_ArbuscularMycorrhiza.label>
   <AB_AsphaltBucket.description>Asfalto, ou betume, é um líquido ou semissólido pegajoso, preto e muito viscoso, composto quase inteiramente por petróleo. Está presente na maioria dos petróleos brutos e em alguns depósitos naturais, como os poços de alcatrão.\n\nO asfalto pode ser usado para construir estradas asfaltadas, aumentando bastante a locomoção em terrenos difíceis.</AB_AsphaltBucket.description>
   <AB_AsphaltBucket.label>balde de asfalto</AB_AsphaltBucket.label>
-  <AB_BlocksCragstone.description>Blocos de cragstone sólido.</AB_BlocksCragstone.description>
-  <AB_BlocksCragstone.label>blocos de cragstone</AB_BlocksCragstone.label>
-  <AB_BlocksMudstone.description>Blocos de mudstone sólido.</AB_BlocksMudstone.description>
-  <AB_BlocksMudstone.label>blocos de mudstone</AB_BlocksMudstone.label>
-  <AB_BlocksObsidian.description>Blocos de onyxglass sólido.</AB_BlocksObsidian.description>
-  <AB_BlocksObsidian.label>blocos de onyxglass</AB_BlocksObsidian.label>
+  <AB_BlocksCragstone.description>Blocos de pedra rochosa sólida.</AB_BlocksCragstone.description>
+  <AB_BlocksCragstone.label>blocos de pedra rochosa</AB_BlocksCragstone.label>
+  <AB_BlocksMudstone.description>Blocos de lamito sólido.</AB_BlocksMudstone.description>
+  <AB_BlocksMudstone.label>blocos de lamito</AB_BlocksMudstone.label>
+  <AB_BlocksObsidian.description>Blocos de vidro de ônix sólido.</AB_BlocksObsidian.description>
+  <AB_BlocksObsidian.label>blocos de vidro de ônix</AB_BlocksObsidian.label>
   <AB_BloodBouquet.description>Uma planta espinhosa com algum tipo de fruto pendendo do topo. O fruto parece ser tão duro quanto o próprio tronco, e igualmente coberto de espinhos.\n\nDetalhes da planta: O buquê de sangue é uma planta silvestre que não pode ser cultivada, e precisa de fertilidade mínima do terreno de 0.05. Pode ser colhido para obter buquê de sangue cru.</AB_BloodBouquet.description>
   <AB_BloodBouquet.label>buquê de sangue</AB_BloodBouquet.label>
   <AB_BloodGrass.description>Parece perigosa.</AB_BloodGrass.description>
@@ -75,11 +75,11 @@
   <AB_CalcifiedRemnant.label>remanescente calcificado</AB_CalcifiedRemnant.label>
   <AB_ChocolateTree.description>Uma combinação estranha de uma árvore, um cogumelo, creme batido, chocolate... confete... Ok, muito, muito estranho.\n\nDetalhes da planta: Árvores de chocolate são plantas silvestres, e precisam de fertilidade mínima do terreno de 0.7. Podem ser colhidas para obter madeira e chocolate.</AB_ChocolateTree.description>
   <AB_ChocolateTree.label>árvore de chocolate</AB_ChocolateTree.label>
-  <AB_ChunkCragstone.label>pedaço de cragstone</AB_ChunkCragstone.label>
-  <AB_ChunkMudstone.label>pedaço de mudstone</AB_ChunkMudstone.label>
-  <AB_ChunkObsidian.label>pedaço de onyxglass</AB_ChunkObsidian.label>
-  <AB_ChunkSlimeStone.description>Este é um pedaço de slime endurecido. Não é muito útil... Talvez possa ser desconstruído em pequenos pedaços de slime endurecido, e então... comido. Credo.</AB_ChunkSlimeStone.description>
-  <AB_ChunkSlimeStone.label>pedaço de slime endurecido</AB_ChunkSlimeStone.label>
+  <AB_ChunkCragstone.label>pedaço de pedra rochosa</AB_ChunkCragstone.label>
+  <AB_ChunkMudstone.label>pedaço de lamito</AB_ChunkMudstone.label>
+  <AB_ChunkObsidian.label>pedaço de vidro de ônix</AB_ChunkObsidian.label>
+  <AB_ChunkSlimeStone.description>Este é um pedaço de limo endurecido. Não é muito útil... Talvez possa ser desconstruído em pequenos pedaços de limo endurecido, e então... comido. Credo.</AB_ChunkSlimeStone.description>
+  <AB_ChunkSlimeStone.label>pedaço de limo endurecido</AB_ChunkSlimeStone.label>
   <AB_Clovers.description>Uma planta resistente de baixo crescimento com folhas lobadas distintivas que se espalha em tapetes densos e verdejantes pelo chão da floresta.</AB_Clovers.description>
   <AB_Clovers.label>trevos</AB_Clovers.label>
   <AB_CordaxResin.description>Pedaços secos de resina de cordax. Uma pasta viscosa de compostos orgânicos, este líquido semelhante a néctar é usado pela planta carnívora Keening Cordax para prender insetos. É extremamente pegajosa e pode ser usada como um vedante muito eficiente.</AB_CordaxResin.description>
@@ -87,7 +87,7 @@
   <AB_CoreSampleDrill.description>A broca de amostra de núcleo permite obter tipos padrão de rocha que normalmente não estão presentes em um determinado bioma. Para isso, precisa perfurar bem fundo e, por isso, custa bastante para ser construída.</AB_CoreSampleDrill.description>
   <AB_CoreSampleDrill.label>broca de amostra de núcleo</AB_CoreSampleDrill.label>
   <AB_Cragstone.description>Uma rocha metamórfica homogênea de tom escuro. Estas rochas parecem atrair a escuridão ao redor delas.</AB_Cragstone.description>
-  <AB_Cragstone.label>cragstone</AB_Cragstone.label>
+  <AB_Cragstone.label>pedra rochosa</AB_Cragstone.label>
   <AB_CrystalFlower.description>Uma flor alta e translúcida que parece ser parcialmente inorgânica.\n\nDetalhes da planta: Flores de cristal são uma planta silvestre que não pode ser cultivada, e precisa de fertilidade mínima do terreno de 0.25. Cresce em temperaturas baixas (acima de -65ºC, abaixo de 10ºC) e não precisa de luz. Pode ser colhida para obter madeira cristalina.</AB_CrystalFlower.description>
   <AB_CrystalFlower.label>flor de cristal</AB_CrystalFlower.label>
   <AB_CrystalHorn.description>Esta estranha flor parece ser apenas parcialmente orgânica. Parte de sua estrutura é claramente cristalina, e parece não ser afetada, ou até fortalecida, pelo clima extremamente frio. Talvez até seja comestível.\n\nDetalhes da planta: O chifre de cristal é uma planta silvestre que não pode ser cultivada, e precisa de fertilidade mínima do terreno de 0.25. Cresce em temperaturas baixas (acima de -65ºC, abaixo de 10ºC) e não precisa de luz. Pode ser colhido para obter chifre de cristal cru.</AB_CrystalHorn.description>
@@ -161,9 +161,9 @@
   <AB_Flowers.description>Um buquê de flores coloridas.</AB_Flowers.description>
   <AB_Flowers.label>flores</AB_Flowers.label>
   <AB_ForsakenAnglerfish.description>Este peixe tem uma isca bioluminescente.</AB_ForsakenAnglerfish.description>
-  <AB_ForsakenAnglerfish.label>peixe-pescador dos Forsakens</AB_ForsakenAnglerfish.label>
-  <AB_ForsakenAnglerfishChunks.description>Carne crua de um peixe-pescador dos Forsakens.\n\nO peixe não tem muita carne, e é um pouco fibrosa.</AB_ForsakenAnglerfishChunks.description>
-  <AB_ForsakenAnglerfishChunks.label>pedaços de peixe-pescador dos Forsakens</AB_ForsakenAnglerfishChunks.label>
+  <AB_ForsakenAnglerfish.label>peixe-lanterna dos Forsakens</AB_ForsakenAnglerfish.label>
+  <AB_ForsakenAnglerfishChunks.description>Carne crua de um peixe-lanterna dos Forsakens.\n\nO peixe não tem muita carne, e é um pouco fibrosa.</AB_ForsakenAnglerfishChunks.description>
+  <AB_ForsakenAnglerfishChunks.label>pedaços de peixe-lanterna dos Forsakens</AB_ForsakenAnglerfishChunks.label>
   <AB_FrostLeaf.description>Estas plantas translúcidas parecem capazes de crescer em quase qualquer lugar, até mesmo em algumas áreas cobertas de neve. Podem ser secas no fogo e usadas para alimentar animais herbívoros com eficiência. \n\nDetalhes da planta: A folha de geada é uma planta silvestre que não pode ser cultivada, e precisa de fertilidade mínima do terreno de 0. Cresce em temperaturas baixas (acima de -65ºC, abaixo de 10ºC) e não precisa de luz. Pode ser colhida para obter folha de geada crua.\n\nInspirado na arte de Desiree-m. A página no DeviantArt não existe mais :(</AB_FrostLeaf.description>
   <AB_FrostLeaf.label>folha de geada</AB_FrostLeaf.label>
   <AB_GallatrossBones.description>Esta caixa torácica pertenceu a um Gallatross vivo de tamanho verdadeiramente excepcional. Pode ser desconstruída para obter ossos antigos.</AB_GallatrossBones.description>
@@ -198,8 +198,8 @@
   <AB_GiantToxicFlower_Odyssey.label>flor tóxica gigante</AB_GiantToxicFlower_Odyssey.label>
   <AB_GiantToxicHornbloom.description>Uma flor gigante que floresce continuamente. Seu caule pode ser cortado e usado como substituto da madeira.\n\nDetalhes da planta: O hornbloom tóxico gigante é uma planta silvestre que não pode ser cultivada. Pode ser colhido para obter pequenas quantidades de madeira.</AB_GiantToxicHornbloom.description>
   <AB_GiantToxicHornbloom.label>hornbloom tóxico gigante</AB_GiantToxicHornbloom.label>
-  <AB_GiantTrumpetglory.description>Um aglomerado de grandes flores em forma de trompete que lembram glórias-da-manhã. Estas flores gigantes foram modificadas geneticamente por uma empresa de genética há muito esquecida. Parecem estar florescendo quase continuamente. Seus caules não são fortes o suficiente para serem usados como substituto da madeira, mas são incrivelmente bonitas.\n\nDetalhes da planta: A trumpetglory gigante é uma planta silvestre que não pode ser cultivada. Muito bonita.</AB_GiantTrumpetglory.description>
-  <AB_GiantTrumpetglory.label>trumpetglories gigantes</AB_GiantTrumpetglory.label>
+  <AB_GiantTrumpetglory.description>Um aglomerado de grandes flores em forma de trompete que lembram glórias-da-manhã. Estas flores gigantes foram modificadas geneticamente por uma empresa de genética há muito esquecida. Parecem estar florescendo quase continuamente. Seus caules não são fortes o suficiente para serem usados como substituto da madeira, mas são incrivelmente bonitas.\n\nDetalhes da planta: A glória-trombeta gigante é uma planta silvestre que não pode ser cultivada. Muito bonita.</AB_GiantTrumpetglory.description>
+  <AB_GiantTrumpetglory.label>glórias-trombeta gigantes</AB_GiantTrumpetglory.label>
   <AB_GiantTulip.description>Flores gigantes modificadas geneticamente por uma empresa de genética há muito esquecida usando o genoma de uma tulipa. Parecem estar florescendo quase continuamente. Seus caules são muito fortes e duráveis, então podem ser cortados e usados como substituto da madeira.\n\nDetalhes da planta: A tulipa gigante é uma planta cultivada que também aparece na natureza, e precisa de fertilidade mínima do terreno de 0.7. Pode ser colhida para obter madeira.\n\nBaseado em um tileset de Kokoro Reflections: https://kokororeflections.com/product/kr-flower-forest-tileset-for-rpgs/</AB_GiantTulip.description>
   <AB_GiantTulip.label>tulipas gigantes</AB_GiantTulip.label>
   <AB_GlobularPlant.description>Uma orbe rosa de aparência doentia sustentada por uma rede de galhos retorcidos. Uma seiva avermelhada escorre constantemente de sua madeira e parece manter os insetos afastados.\n\nDetalhes da planta: Aberrações globulares são uma planta silvestre que não pode ser cultivada, e precisa de fertilidade mínima do terreno de 0.05. Pode ser colhida para obter madeira vermelha.\n\nBaseado na arte de Rob Smyth, https://robsmythart.com/projects</AB_GlobularPlant.description>
@@ -242,8 +242,8 @@
   <AB_LargeSlimyTree.label>árvore grande e viscosa</AB_LargeSlimyTree.label>
   <AB_LilacBeacon.description>O farol lilás é um cogumelo alto com um chapéu roxo brilhante. É muito mais nutritivo do que outros fungos, mas tem maior risco de ser pesado para o estômago. Esta variante se adaptou à vida exterior, mas produz muito poucos chapéus comestíveis quando colhida.\n\nDetalhes da planta: O farol lilás é uma planta cultivada que também aparece na natureza, e precisa de fertilidade mínima do terreno de 0.95. Pode ser colhido para obter fungo roxo cru.</AB_LilacBeacon.description>
   <AB_LilacBeacon.label>farol lilás</AB_LilacBeacon.label>
-  <AB_LivingAlcyonite.description>Este organismo cristalino cresce e pulsa com fracas sinais de vida, seu corpo mineral mudando e se regenerando constantemente. Foram criados originalmente como uma solução bioengenheirada para a mineração de alcyonite, mas inevitavelmente se espalharam na natureza.\n\nDetalhes da planta: Alcyonites vivos são "plantas" silvestres, e precisam de fertilidade mínima do terreno de 0.7. Podem ser colhidos para obter pedaços de alcyonite.\n\nInspirado em No Man's Sky.</AB_LivingAlcyonite.description>
-  <AB_LivingAlcyonite.label>alcyonite vivo</AB_LivingAlcyonite.label>
+  <AB_LivingAlcyonite.description>Este organismo cristalino cresce e pulsa com fracos sinais de vida, seu corpo mineral mudando e se regenerando constantemente. Foi criado originalmente como uma solução bioengenheirada para a mineração de alcionita, mas inevitavelmente se espalhou na natureza.\n\nDetalhes da planta: Alcionitas vivas são "plantas" silvestres, e precisam de fertilidade mínima do terreno de 0.7. Podem ser colhidas para obter pedaços de alcionita.\n\nInspirado em No Man's Sky.</AB_LivingAlcyonite.description>
+  <AB_LivingAlcyonite.label>alcionita viva</AB_LivingAlcyonite.label>
   <AB_LuminescentTree.description>Uma sarça gigante semelhante a uma árvore que sustenta uma enorme esfera de seiva brilhante que projeta uma luz suave e colorida na escuridão. Seus galhos embalam a orbe como uma lanterna, e o líquido em seu interior gira suavemente com energia bioluminescente.\n\nDetalhes da planta: Árvores luminescentes são plantas silvestres, e precisam de fertilidade mínima do terreno de 0.7. Podem ser colhidas para obter madeira.\n\nInspirado na arte de Prajwal K Kumar https://www.artstation.com/prajwalkkumar</AB_LuminescentTree.description>
   <AB_LuminescentTree.label>árvore luminescente</AB_LuminescentTree.label>
   <AB_MagmaThermalPlant.description>Produz eletricidade a partir de gêiseres de vapor geotérmico superaquecido em uma zona rica em magma. Deve ser colocado sobre um gêiser de vapor.</AB_MagmaThermalPlant.description>
@@ -256,9 +256,9 @@
   <AB_MangrovePalm.label>palmeira do mangue</AB_MangrovePalm.label>
   <AB_MangroveTree.description>Uma árvore que cresce em água salina ou salobra. Possui um complexo sistema de filtragem de sal e um sistema radicular complexo para lidar com a imersão em água salgada, e está adaptada às condições de baixo oxigênio da lama encharcada.\n\nDetalhes da planta: Árvores de mangue são uma planta cultivada que também aparece na natureza, e precisam de fertilidade mínima do terreno de 1. Podem ser colhidas para obter madeira.</AB_MangroveTree.description>
   <AB_MangroveTree.label>árvore de mangue</AB_MangroveTree.label>
-  <AB_MechCorruption.description>Um arquotecnológico diferente daquele que transforma esta região iniciou uma tomada hostil, injetando nos mecanoides sesseis daqui um vírus de mecanita que os corrompe em criações retorcidas.\n\nDetalhes da planta: Corrupções mecanoides são plantas silvestres, e precisam de fertilidade mínima do terreno de 0.1. Podem ser colhidas para obter quantidades mínimas de madeira.\n\nInspirado em No Man's Sky.</AB_MechCorruption.description>
+  <AB_MechCorruption.description>Um arquotecnológico diferente daquele que transforma esta região iniciou uma tomada hostil, injetando nos mecanoides sésseis daqui um vírus de mecanita que os corrompe em criações retorcidas.\n\nDetalhes da planta: Corrupções mecanoides são plantas silvestres, e precisam de fertilidade mínima do terreno de 0.1. Podem ser colhidas para obter quantidades mínimas de madeira.\n\nInspirado em No Man's Sky.</AB_MechCorruption.description>
   <AB_MechCorruption.label>corrupção mecanoide</AB_MechCorruption.label>
-  <AB_MechNode.description>Um arquotecnológico diferente daquele que transforma esta região iniciou uma tomada hostil, injetando nos mecanoides sesseis daqui um vírus de mecanita que os corrompe em criações retorcidas.\n\nDetalhes da planta: Nós mecanoides corrompidos são plantas silvestres, e precisam de fertilidade mínima do terreno de 0.1. Podem ser colhidos para obter quantidades mínimas de madeira.\n\nInspirado em No Man's Sky.</AB_MechNode.description>
+  <AB_MechNode.description>Um arquotecnológico diferente daquele que transforma esta região iniciou uma tomada hostil, injetando nos mecanoides sésseis daqui um vírus de mecanita que os corrompe em criações retorcidas.\n\nDetalhes da planta: Nós mecanoides corrompidos são plantas silvestres, e precisam de fertilidade mínima do terreno de 0.1. Podem ser colhidos para obter quantidades mínimas de madeira.\n\nInspirado em No Man's Sky.</AB_MechNode.description>
   <AB_MechNode.label>nó mecanoide corrompido</AB_MechNode.label>
   <AB_Mech_RuinedActivator.description>Um ativador de proximidade mecanoide arruinado. Talvez alguns componentes possam ser resgatados deste.</AB_Mech_RuinedActivator.description>
   <AB_Mech_RuinedActivator.label>ativador de proximidade mecanoide arruinado</AB_Mech_RuinedActivator.label>
@@ -284,8 +284,8 @@
   <AB_MechanoidReceiver.label>receptor de ressonância mecanoide</AB_MechanoidReceiver.label>
   <AB_MineableChocolate.description>Pedaços de chocolate compactado.</AB_MineableChocolate.description>
   <AB_MineableChocolate.label>chocolate</AB_MineableChocolate.label>
-  <AB_Mudstone.description>O mudstone, um tipo de rocha de lama, é uma rocha sedimentar de grão fino cujos constituintes originais eram argilas ou lama. O mudstone se parece com argila endurecida e, dependendo das condições em que se formou, pode apresentar rachaduras ou fissuras, como um depósito de argila assado pelo sol.</AB_Mudstone.description>
-  <AB_Mudstone.label>mudstone</AB_Mudstone.label>
+  <AB_Mudstone.description>O lamito, um tipo de rocha de lama, é uma rocha sedimentar de grão fino cujos constituintes originais eram argilas ou lama. O lamito se parece com argila endurecida e, dependendo das condições em que se formou, pode apresentar rachaduras ou fissuras, como um depósito de argila assado pelo sol.</AB_Mudstone.description>
+  <AB_Mudstone.label>lamito</AB_Mudstone.label>
   <AB_MushroomWoodLog.description>Estes caules de cogumelo foram endurecidos pelo tempo a ponto de serem quase tão firmes quanto uma madeira de baixa qualidade. Muito inflamáveis e não muito resistentes.</AB_MushroomWoodLog.description>
   <AB_MushroomWoodLog.label>caules de cogumelo</AB_MushroomWoodLog.label>
   <AB_MushroomWoodLog.tools.0.label>caule de cogumelo</AB_MushroomWoodLog.tools.0.label>
@@ -296,8 +296,8 @@
   <AB_NeutroamineSynthetizer.label>sintetizador de neutroamina</AB_NeutroamineSynthetizer.label>
   <AB_ObsidianSpire.description>Uma grande agulha feita de obsidiana sólida.</AB_ObsidianSpire.description>
   <AB_ObsidianSpire.label>agulha de obsidiana</AB_ObsidianSpire.label>
-  <AB_Obsidianstone.description>O onyxglass é um vidro vulcânico raro formado quando a lava esfria rapidamente com impurezas vestigiais, dando-lhe um brilho profundo e uma aparência em camadas. Como a obsidiana, é duro, quebradiço e amorfo, fraturando-se em bordas excepcionalmente afiadas.</AB_Obsidianstone.description>
-  <AB_Obsidianstone.label>onyxglass</AB_Obsidianstone.label>
+  <AB_Obsidianstone.description>O vidro de ônix é um vidro vulcânico raro formado quando a lava esfria rapidamente com impurezas vestigiais, dando-lhe um brilho profundo e uma aparência em camadas. Como a obsidiana, é duro, quebradiço e amorfo, fraturando-se em bordas excepcionalmente afiadas.</AB_Obsidianstone.description>
+  <AB_Obsidianstone.label>vidro de ônix</AB_Obsidianstone.label>
   <AB_OcularFish.description>Este peixe está te olhando. Ou estaria, se estivesse vivo.</AB_OcularFish.description>
   <AB_OcularFish.label>peixe ocular</AB_OcularFish.label>
   <AB_OcularFishMeat.description>Carne crua de um peixe ocular.\n\nTem um gosto surpreendentemente suave.</AB_OcularFishMeat.description>
@@ -399,8 +399,8 @@
   <AB_RawRagadast.label>ragadast</AB_RawRagadast.label>
   <AB_RawRimeNodules.description>Os sacos de uma planta muito estranha, parcialmente inorgânica, que parece extrair propano da paisagem ao redor e armazená-lo como fonte de energia. Estes sacos podem ser consumidos como um eufórico muito leve.</AB_RawRimeNodules.description>
   <AB_RawRimeNodules.label>nódulos de geada crus</AB_RawRimeNodules.label>
-  <AB_RawSlime.description>Slime cru. Esta coisa é comestível. Mal.</AB_RawSlime.description>
-  <AB_RawSlime.label>slime</AB_RawSlime.label>
+  <AB_RawSlime.description>Limo cru. Esta coisa é comestível. Mal.</AB_RawSlime.description>
+  <AB_RawSlime.label>limo</AB_RawSlime.label>
   <AB_RawSugarFamewort.description>Estes bulbos macios são excepcionalmente doces, um tempero ideal para qualquer prato.</AB_RawSugarFamewort.description>
   <AB_RawSugarFamewort.label>famewort de açúcar</AB_RawSugarFamewort.label>
   <AB_RawTentacularFruit.description>Os nódulos azuis crescem na ponta de cada galho / tentáculo de uma planta tentacular, e produzem de tempos em tempos um chocalho sinistro.</AB_RawTentacularFruit.description>
@@ -424,18 +424,18 @@
   <AB_Shell_Tar.description>Um projétil preenchido com asfalto concentrado. Pode ser disparado por morteiros ou instalado como armadilha. Cria uma poça de alcatrão muito difícil de atravessar. Também é muito difícil de remover, e tende a remover outros pisos porque gruda neles e os arruína. Tudo bem considerado, eu não detonaria um destes na minha cozinha.</AB_Shell_Tar.description>
   <AB_Shell_Tar.label>projétil de alcatrão</AB_Shell_Tar.label>
   <AB_SlagRubble.label>escória espalhada</AB_SlagRubble.label>
-  <AB_SlimeCompressor.description>Uma máquina volumosa e agitada que tritura o slime orgânico e o comprime sob pressão imensa, transformando lentamente a gosma em arenito denso e utilizável.</AB_SlimeCompressor.description>
-  <AB_SlimeCompressor.label>compressor de slime</AB_SlimeCompressor.label>
-  <AB_SlimeMeal.description>Estes pedaços endurecidos de slime podem ser usados como alternativa de última instância à inanição. Mal comestíveis e absolutamente nojentos.</AB_SlimeMeal.description>
-  <AB_SlimeMeal.label>refeição de slime</AB_SlimeMeal.label>
-  <AB_SlimeStone.description>Este é um depósito de slime endurecido. Não é muito útil... Esta "rocha" produz pedaços, mas não podem ser transformados em blocos como outros tipos de rocha.</AB_SlimeStone.description>
-  <AB_SlimeStone.label>slime endurecido</AB_SlimeStone.label>
+  <AB_SlimeCompressor.description>Uma máquina volumosa e agitada que tritura o limo orgânico e o comprime sob pressão imensa, transformando lentamente a gosma em arenito denso e utilizável.</AB_SlimeCompressor.description>
+  <AB_SlimeCompressor.label>compressor de limo</AB_SlimeCompressor.label>
+  <AB_SlimeMeal.description>Estes pedaços endurecidos de limo podem ser usados como alternativa de última instância à inanição. Mal comestíveis e absolutamente nojentos.</AB_SlimeMeal.description>
+  <AB_SlimeMeal.label>refeição de limo</AB_SlimeMeal.label>
+  <AB_SlimeStone.description>Este é um depósito de limo endurecido. Não é muito útil... Esta "rocha" produz pedaços, mas não podem ser transformados em blocos como outros tipos de rocha.</AB_SlimeStone.description>
+  <AB_SlimeStone.label>limo endurecido</AB_SlimeStone.label>
   <AB_Slimecasia.description>Embora à primeira vista pareça ser uma planta independente, suas raízes estão intrincadamente interconectadas com o restante do superorganismo gelatinoso.</AB_Slimecasia.description>
   <AB_Slimecasia.label>slimecasia</AB_Slimecasia.label>
-  <AB_Slimefish.description>Este peixe parece ser parte slime. Nojento!</AB_Slimefish.description>
-  <AB_Slimefish.label>peixe-slime</AB_Slimefish.label>
-  <AB_SlimefishMeat.description>Carne crua de um peixe-slime.\n\nMassuda, gelatinosa e insípida. Semelhante à gelatina em textura.</AB_SlimefishMeat.description>
-  <AB_SlimefishMeat.label>filés de peixe-slime</AB_SlimefishMeat.label>
+  <AB_Slimefish.description>Este peixe parece ser parte limo. Nojento!</AB_Slimefish.description>
+  <AB_Slimefish.label>peixe-limo</AB_Slimefish.label>
+  <AB_SlimefishMeat.description>Carne crua de um peixe-limo.\n\nMassuda, gelatinosa e insípida. Semelhante à gelatina em textura.</AB_SlimefishMeat.description>
+  <AB_SlimefishMeat.label>filés de peixe-limo</AB_SlimefishMeat.label>
   <AB_SlimyFern.description>Embora à primeira vista pareça ser uma planta independente, suas raízes estão intrincadamente interconectadas com o restante do superorganismo gelatinoso.</AB_SlimyFern.description>
   <AB_SlimyFern.label>samambaia viscosa</AB_SlimyFern.label>
   <AB_SlimyPholiota.description>Um cogumelo azul-arroxeado que secreta uma substância viscosa que atrai insetos. Esta substância paralisa os insetos e, eventualmente, os mata, sendo usada pelo fungo como fertilizante. Estranhamente, a substância viscosa dá a este fungo um sabor muito rico, e ele pode até ser consumido cru.\n\nDetalhes da planta: A pholiota viscosa é uma planta cultivada que também aparece na natureza, e precisa de fertilidade mínima do terreno de 0.95. Pode ser colhida para obter fungo azul cru.\n\nBaseado na arte de Alex Konstad, http://www.alexkonstad.com/</AB_SlimyPholiota.description>
@@ -511,8 +511,8 @@
   <AB_UnshackledCompanionDryad.tools.3.label>cabeça</AB_UnshackledCompanionDryad.tools.3.label>
   <AB_WarpedStonePillar.description>Uma coluna de arenito deformada em uma forma não natural.</AB_WarpedStonePillar.description>
   <AB_WarpedStonePillar.label>pilar de pedra deformado</AB_WarpedStonePillar.label>
-  <AB_WeaponPoisonDart.description>Este pequeno dardo envenenado foi preenchido com a resina acre que flui de um cogumelo de tampa gotejante. É uma neurotoxina extremamente potente, causando paralisia imediata e, eventualmente, a morte.</AB_WeaponPoisonDart.description>
-  <AB_WeaponPoisonDart.label>dardo envenenado de tampa gotejante</AB_WeaponPoisonDart.label>
+  <AB_WeaponPoisonDart.description>Este pequeno dardo envenenado foi preenchido com a resina acre que flui de um cogumelo de chapéu gotejante. É uma neurotoxina extremamente potente, causando paralisia imediata e, eventualmente, a morte.</AB_WeaponPoisonDart.description>
+  <AB_WeaponPoisonDart.label>dardo envenenado de chapéu gotejante</AB_WeaponPoisonDart.label>
   <AB_WeaponPoisonDartProjectile.label>dardo envenenado</AB_WeaponPoisonDartProjectile.label>
   <AB_WeepingToxberry.description>Um arbusto baixo adaptado a toxinas, com frutas incrivelmente tóxicas a ponto de nenhum animal ousar consumi-las.\n\nDetalhes da planta:Difícil de atravessar, retarda qualquer pessoa que passe por ela. Só pode crescer em áreas poluídas.\n\nBaseado na arte de Rob Smyth, https://robsmythart.com/projects</AB_WeepingToxberry.description>
   <AB_WeepingToxberry.label>toxberry chorona</AB_WeepingToxberry.label>
@@ -525,6 +525,9 @@
   <GU_BlocksRoseQuartz.description>Blocos de quartzo rosa sólido.</GU_BlocksRoseQuartz.description>
   <GU_BlocksRoseQuartz.label>blocos de quartzo rosa</GU_BlocksRoseQuartz.label>
   <GU_ChunkRoseQuartz.label>pedaço de quartzo rosa</GU_ChunkRoseQuartz.label>
+  <GU_RedWood.description>Esta madeira tingida de vermelho é estranhamente forte e dela emana um aroma doce. Menos inflamável que a madeira terrestre, mas bastante feia.</GU_RedWood.description>
+  <GU_RedWood.label>madeira vermelha</GU_RedWood.label>
+  <GU_RedWood.tools.0.label>tronco de madeira vermelha</GU_RedWood.tools.0.label>
   <GU_RoseQuartz.description>Um depósito mineral duro e rosado.</GU_RoseQuartz.description>
   <GU_RoseQuartz.label>quartzo rosa</GU_RoseQuartz.label>
   <GU_SmoothedQuartz.description>Um depósito mineral duro e rosado. As camadas foram polidas até ficarem planas e lisas.</GU_SmoothedQuartz.description>
@@ -537,8 +540,8 @@
   <VCEF_BorealSardine.label>sardina boreal</VCEF_BorealSardine.label>
   <VCEF_DuskySprat.description>Espadilha escura crua. A espadilha escura é um peixe forrageiro marinho noturno, embora também possa ser encontrada em estuários de água doce. Como a maioria dos peixes forrageiros, as espadilhas escuras são muito ativas, pequenas e oleosas. Viajam em grandes cardumes com outros peixes e nadam continuamente durante a noite.</VCEF_DuskySprat.description>
   <VCEF_DuskySprat.label>espadilha escura</VCEF_DuskySprat.label>
-  <VCEF_ForsakenAnglerfish.description>Peixe-lanterna abandonado cru. Peixes-lanterna são peixes ósseos nomeados por seu modo característico de predação: uma isca bioluminescente que atrai e guia as presas até sua boca. Este peixe-lanterna tem uma tonalidade escura de escamas que permite camuflagem perfeita nas águas salobras escuras.</VCEF_ForsakenAnglerfish.description>
-  <VCEF_ForsakenAnglerfish.label>peixe-lanterna abandonado</VCEF_ForsakenAnglerfish.label>
+  <VCEF_ForsakenAnglerfish.description>Peixe-lanterna dos Forsakens cru. Peixes-lanterna são peixes ósseos nomeados por seu modo característico de predação: uma isca bioluminescente que atrai e guia as presas até sua boca. Este peixe-lanterna tem uma tonalidade escura de escamas que permite camuflagem perfeita nas águas salobras escuras.</VCEF_ForsakenAnglerfish.description>
+  <VCEF_ForsakenAnglerfish.label>peixe-lanterna dos Forsakens</VCEF_ForsakenAnglerfish.label>
   <VCEF_FrigidSwimmer.description>Nadador gélido cru. Uma espécie grande de peixe com apetite voraz. Adaptou-se a baixas temperaturas e se alimenta principalmente de outros peixes pequenos, como sardinhas boreais.</VCEF_FrigidSwimmer.description>
   <VCEF_FrigidSwimmer.label>nadador gélido</VCEF_FrigidSwimmer.label>
   <VCEF_GiantPolarPrawn.description>Camarão-polar gigante cru. Um crustáceo aquático de tamanho médio com exoesqueleto e dez pernas.</VCEF_GiantPolarPrawn.description>

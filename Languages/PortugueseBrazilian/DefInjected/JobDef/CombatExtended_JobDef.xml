@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EquipFromInventory.reportString>equipando TargetA.</EquipFromInventory.reportString>
+  <GiveAmmo.reportString>Dando TargetB para TargetA.</GiveAmmo.reportString>
+  <HunkerDown.reportString>Abaixando-se para se proteger.</HunkerDown.reportString>
+  <JobDef_SetUpBipod.reportString>Montando um bipé.</JobDef_SetUpBipod.reportString>
+  <MTA_TakeAmmo.reportString>recarregando TargetA.</MTA_TakeAmmo.reportString>
+  <MTA_UnloadAmmo.reportString>recarregando TargetA.</MTA_UnloadAmmo.reportString>
+  <ModifyWeapon.reportString>Aplicando modificações em TargetB em TargetA.</ModifyWeapon.reportString>
+  <OpportunisticAttack.reportString>atacando TargetC usando TargetA.</OpportunisticAttack.reportString>
+  <ReloadAutoLoader.reportString>Recarregando TargetA com TargetB.</ReloadAutoLoader.reportString>
+  <ReloadTurret.reportString>Recarregando TurretType TargetA com TargetB.</ReloadTurret.reportString>
+  <ReloadWeapon.reportString>Recarregando FlagSource TargetB com AmmoType.</ReloadWeapon.reportString>
+  <RepairNaturalArmor.reportString>Consertando a armadura natural de TargetA.</RepairNaturalArmor.reportString>
+  <RunForCover.reportString>Correndo para cobertura.</RunForCover.reportString>
+  <Stabilize.reportString>Estabilizando.</Stabilize.reportString>
+  <TakeFromOther.reportString>FlagC TargetA de TargetB.</TakeFromOther.reportString>
+  <TendSelf.reportString>cuidando de TargetA.</TendSelf.reportString>
+  <WaitKnockdown.reportString>Derrubado.</WaitKnockdown.reportString>
+</LanguageData>

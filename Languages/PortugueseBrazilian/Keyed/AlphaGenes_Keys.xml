@@ -28,8 +28,8 @@
   <AG_Hybrid>Híbrido</AG_Hybrid>
   <AG_MechsImmuneToInsanityBlast>Mecanoides não são afetados por rajada de loucura!</AG_MechsImmuneToInsanityBlast>
   <AG_NeedToTargetCaster>Esta habilidade precisa ter seu conjurador como alvo</AG_NeedToTargetCaster>
-  <AG_NeedsForsakenKnowledge>Só pode ser construído por alguém com o gene de Conhecimento Abandonado</AG_NeedsForsakenKnowledge>
-  <AG_NeedsForsakenKnowledgeToWield>Só pode ser usado por alguém com o gene de Conhecimento Abandonado</AG_NeedsForsakenKnowledgeToWield>
+  <AG_NeedsForsakenKnowledge>Só pode ser construído por alguém com o gene de conhecimento Forsaken</AG_NeedsForsakenKnowledge>
+  <AG_NeedsForsakenKnowledgeToWield>Só pode ser usado por alguém com o gene de conhecimento Forsaken</AG_NeedsForsakenKnowledgeToWield>
   <AG_NeedsMoreThanTwoGenes>O disruptor não funciona se o pacote de genes tiver apenas um gene restante</AG_NeedsMoreThanTwoGenes>
   <AG_NoEndogenes>O alvo não tem endogenes</AG_NoEndogenes>
   <AG_NoGenesAtAll>O alvo não tem nenhum gene</AG_NoGenesAtAll>
@@ -66,4 +66,9 @@
   <AM_OnlyWildNightlings>Este Nightling não é um animal selvagem</AM_OnlyWildNightlings>
   <VRE_OneScorpionPerColonist>Só pode existir um atirador ocular por colono com o gene de afinidade ocular</VRE_OneScorpionPerColonist>
   <VRE_UnlockedByGeneOcular>Desbloqueado pelo gene de Afinidade Ocular</VRE_UnlockedByGeneOcular>
+  <AM_CantUseOnNonMechs>Esta habilidade só funciona em mecanoides</AM_CantUseOnNonMechs>
+  <AM_OnlyMechanitorCanUse>Apenas um mecanizador pode usar esta habilidade</AM_OnlyMechanitorCanUse>
+  <AM_CantUseOnBossMechs>Mecanoides "chefe" têm um sistema IFF reforçado que não pode ser hackeado</AM_CantUseOnBossMechs>
+  <AM_NotEnoughBandwidth>O mecanizador não tem banda suficiente para usar esta habilidade em {0}</AM_NotEnoughBandwidth>
+  <AM_CantUseVEMechs>Este mecanoide está sendo controlado remotamente por um piloto humano e não pode ser hackeado</AM_CantUseVEMechs>
 </LanguageData>

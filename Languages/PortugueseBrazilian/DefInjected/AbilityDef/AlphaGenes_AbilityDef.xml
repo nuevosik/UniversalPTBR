@@ -80,8 +80,8 @@
   <AG_SterilizingBreath.label>hálito esterilizante</AG_SterilizingBreath.label>
   <AG_Summon.description>Invoca uma criatura que ficará por perto por um curto período. Será hostil a qualquer alvo hostil ao conjurador.</AG_Summon.description>
   <AG_Summon.label>invocar</AG_Summon.label>
-  <AG_SummonCentipede.description>Invoca um mecanoide Centipede Blaster. Ele fará parte da colônia por um período de 1 dia e desaparecerá depois disso. O portador precisará de pelo menos 4 de banda-larga para usar esta habilidade.</AG_SummonCentipede.description>
-  <AG_SummonCentipede.label>invocar centopéia</AG_SummonCentipede.label>
+  <AG_SummonCentipede.description>Invoca um mecanoide Centopeia Blaster. Ele fará parte da colônia por um período de 1 dia e desaparecerá depois disso. O portador precisará de pelo menos 4 de banda-larga para usar esta habilidade.</AG_SummonCentipede.description>
+  <AG_SummonCentipede.label>invocar centopeia</AG_SummonCentipede.label>
   <AG_SummonMilitor.description>Invoca um mecanoide Militor. Ele fará parte da colônia por um período de 1 dia e desaparecerá depois disso. O portador precisará de pelo menos 1 de banda-larga para usar esta habilidade.</AG_SummonMilitor.description>
   <AG_SummonMilitor.label>invocar militor</AG_SummonMilitor.label>
   <AG_SummonTempBandwidth.description>Invoca um nó de banda temporário que aumentará a banda-larga do conjurador em 10 por uma semana inteira.</AG_SummonTempBandwidth.description>
@@ -120,6 +120,6 @@
   <AG_Zap.label>descarga elétrica</AG_Zap.label>
   <VRE_StrikeEyes.description>Faz psiquicamente com que o humor vítreo dos olhos do alvo aqueça até o ponto de ebulição, destruindo-os e deixando a pobre vítima cega para sempre.</VRE_StrikeEyes.description>
   <VRE_StrikeEyes.label>atingir olhos</VRE_StrikeEyes.label>
-  <VRE_SummonOcularSlinger.description>Invoca um ocular slinger sob o controle do conjurador. Este animal é um animal permanente da colônia e pode ser alistado. Um novo escorpião pode ser invocado se o anterior for morto.</VRE_SummonOcularSlinger.description>
-  <VRE_SummonOcularSlinger.label>invocar ocular slinger</VRE_SummonOcularSlinger.label>
+  <VRE_SummonOcularSlinger.description>Invoca um atirador ocular sob o controle do conjurador. Este animal é um animal permanente da colônia e pode ser alistado. Um novo escorpião pode ser invocado se o anterior for morto.</VRE_SummonOcularSlinger.description>
+  <VRE_SummonOcularSlinger.label>invocar atirador ocular</VRE_SummonOcularSlinger.label>
 </LanguageData>

@@ -26,9 +26,9 @@
   <AG_AnimusEars.label>orelhas de animus vox</AG_AnimusEars.label>
   <AG_AntlerHorns.description>Os portadores deste gene crescem duas grandes galhadas que se projetam da testa. Não são puramente cosméticas, pois podem ser usadas para fins ofensivos.</AG_AntlerHorns.description>
   <AG_AntlerHorns.label>galhadas</AG_AntlerHorns.label>
-  <AG_ArmourMajor.description>Os portadores deste gene têm a pele fortalecida por uma nano-lattice de plastiaço. Isso confere uma grande quantidade de armadura natural.</AG_ArmourMajor.description>
+  <AG_ArmourMajor.description>Os portadores deste gene têm a pele fortalecida por uma nano-malha de plastiaço. Isso confere uma grande quantidade de armadura natural.</AG_ArmourMajor.description>
   <AG_ArmourMajor.label>pele de plastiaço</AG_ArmourMajor.label>
-  <AG_ArmourMedium.description>Os portadores deste gene têm a pele fortalecida por uma nano-lattice de compostos metálicos. Isso confere uma quantidade média de armadura natural.</AG_ArmourMedium.description>
+  <AG_ArmourMedium.description>Os portadores deste gene têm a pele fortalecida por uma nano-malha de compostos metálicos. Isso confere uma quantidade média de armadura natural.</AG_ArmourMedium.description>
   <AG_ArmourMedium.label>pele ferrosa</AG_ArmourMedium.label>
   <AG_ArmourMinor.description>Os portadores deste gene têm pele dura, semelhante a casca de árvore. Isso confere uma pequena quantidade de armadura natural.</AG_ArmourMinor.description>
   <AG_ArmourMinor.label>pele de casca</AG_ArmourMinor.label>
@@ -84,7 +84,7 @@
   <AG_CancerousBody.label>corpo canceroso</AG_CancerousBody.label>
   <AG_CancerousFace.description>Os portadores deste gene possuem uma cabeça com cristas, aparência cancerosa, pele frouxa e marcas de varíola.</AG_CancerousFace.description>
   <AG_CancerousFace.label>cabeça cancerosa</AG_CancerousFace.label>
-  <AG_ChainsawHands.description>Os portadores deste gene têm mãos de motosserra. "Akkkkssstualmente -você diz- isso seria melhor implementado como implantes, não como um gene!". Não, não, você entendeu errado: são mãos de motosserra biológicas, codificadas no DNA. Filhos de duas pessoas com mãos de motosserra terão mãos de motosserra minúsculas. É ciência.</AG_ChainsawHands.description>
+  <AG_ChainsawHands.description>Os portadores deste gene têm mãos de motosserra. "Na verdade — você diz — isso seria melhor implementado como implantes, não como um gene!". Não, não, você entendeu errado: são mãos de motosserra biológicas, codificadas no DNA. Filhos de duas pessoas com mãos de motosserra terão mãos de motosserra minúsculas. É ciência.</AG_ChainsawHands.description>
   <AG_ChainsawHands.label>mãos de motosserra</AG_ChainsawHands.label>
   <AG_ChameleonVision.description>Os portadores deste gene têm olhos protuberantes que proporcionam visão panorâmica, além de poderem se mover e focar de forma independente. Isso permite ao portador observar um objeto se aproximando enquanto examina o restante do ambiente.</AG_ChameleonVision.description>
   <AG_ChameleonVision.label>visão de camaleão</AG_ChameleonVision.label>
@@ -107,7 +107,7 @@
   <AG_ColdImmunity.description>Os portadores deste gene praticamente não são afetados pelo frio. Também não serão incomodados por queimaduras de frio.</AG_ColdImmunity.description>
   <AG_ColdImmunity.label>imunidade ao frio</AG_ColdImmunity.label>
   <AG_ColdRadiating.description>Os portadores deste gene absorvem grandes quantidades de calor do ambiente, congelando o ar ao redor.</AG_ColdRadiating.description>
-  <AG_ColdRadiating.label>radiação de frio</AG_ColdRadiating.label>
+  <AG_ColdRadiating.label>emissão de frio</AG_ColdRadiating.label>
   <AG_ColdSlowness.description>Os portadores deste gene se movem muito mais devagar em temperaturas abaixo de 0ºC.</AG_ColdSlowness.description>
   <AG_ColdSlowness.label>torpor de frio</AG_ColdSlowness.label>
   <AG_ColdSpeed.description>Os portadores deste gene se movem muito mais rápido em temperaturas abaixo de 0ºC.</AG_ColdSpeed.description>
@@ -122,8 +122,8 @@
   <AG_CryoBlood.label>sangue crio</AG_CryoBlood.label>
   <AG_DangerousRaidPresence.description>Os portadores deste gene são considerados muito poderosos quando se trata de incursões. Os invasores os verão como uma grande ameaça ao se prepararem para atacar a colônia, enviando mais invasores para o ataque.</AG_DangerousRaidPresence.description>
   <AG_DangerousRaidPresence.label>presença perigosa em incursões</AG_DangerousRaidPresence.label>
-  <AG_DeadlifeProducer.description>O portador deste gene exalará periodicamente nuvens de pó de deadlife que farão cadáveres próximos se erguerem como cambaleantes.</AG_DeadlifeProducer.description>
-  <AG_DeadlifeProducer.label>produtor de pó de deadlife</AG_DeadlifeProducer.label>
+  <AG_DeadlifeProducer.description>O portador deste gene exalará periodicamente nuvens de poeira mortal que farão com que cadáveres próximos se ergam como trôpegos.</AG_DeadlifeProducer.description>
+  <AG_DeadlifeProducer.label>produtor de poeira mortal</AG_DeadlifeProducer.label>
   <AG_DeadlyRaidPresence.description>Os portadores deste gene são considerados extremamente poderosos quando se trata de incursões. Os invasores os verão como uma ameaça absurda ao se prepararem para atacar a colônia, enviando MUITO mais invasores para o ataque.</AG_DeadlyRaidPresence.description>
   <AG_DeadlyRaidPresence.label>presença letal em incursões</AG_DeadlyRaidPresence.label>
   <AG_Deaf.description>Os portadores deste gene não têm audição alguma.</AG_Deaf.description>
@@ -167,7 +167,7 @@
   <AG_Drakonori_Tail.description>Os portadores deste gene crescem uma cauda dracônica grande que pode ser usada para agarrar e imobilizar um alvo.</AG_Drakonori_Tail.description>
   <AG_Drakonori_Tail.label>cauda drakonori</AG_Drakonori_Tail.label>
   <AG_DryThunderstormMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de aumentar drasticamente a energia eletrostática na atmosfera, causando a formação de uma violenta tempestade seca. Isso NÃO torna o portador imune a raios!</AG_DryThunderstormMaker.description>
-  <AG_DryThunderstormMaker.label>gerador de trovões</AG_DryThunderstormMaker.label>
+  <AG_DryThunderstormMaker.label>gerador de tempestade seca</AG_DryThunderstormMaker.label>
   <AG_EarWings.description>Os portadores deste gene crescerão orelhas grandes em forma de asa de morcego. São puramente cosméticas, não permitindo nenhum tipo de voo.</AG_EarWings.description>
   <AG_EarWings.label>orelhas aladas</AG_EarWings.label>
   <AG_EfficientMandibles.description>Os portadores deste gene têm dentes fortes e capazes, e têm pouca dificuldade em mastigar alimentos duros.</AG_EfficientMandibles.description>
@@ -223,16 +223,16 @@
   <AG_FleshSpitter.description>Os portadores deste gene têm um crescimento canceroso e grotesco no ombro que pode cuspir ácido por vontade própria.</AG_FleshSpitter.description>
   <AG_FleshSpitter.label>cuspidor de carne</AG_FleshSpitter.label>
   <AG_Fogger.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de influenciar os níveis de umidade da atmosfera ao redor, fazendo com que um nevoeiro profundo e denso se forme.</AG_Fogger.description>
-  <AG_Fogger.label>gerador de neblina</AG_Fogger.label>
+  <AG_Fogger.label>gerador de névoa</AG_Fogger.label>
   <AG_FoggyRainMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de reduzir drasticamente a pressão atmosférica ao redor, causando precipitação constante e a formação de um nevoeiro profundo e denso.</AG_FoggyRainMaker.description>
-  <AG_FoggyRainMaker.label>gerador de chuva com neblina</AG_FoggyRainMaker.label>
+  <AG_FoggyRainMaker.label>gerador de chuva com névoa</AG_FoggyRainMaker.label>
   <AG_Foodless.description>Os portadores deste gene têm arquitas no sangue que sustentarão seu metabolismo sem a necessidade de consumir alimentos.</AG_Foodless.description>
   <AG_Foodless.label>sem comida</AG_Foodless.label>
   <AG_FormicAntennas.description>Os portadores deste gene crescem duas grandes antenas de formiga que se projetam da cabeça.</AG_FormicAntennas.description>
   <AG_FormicAntennas.label>antenas de formiga</AG_FormicAntennas.label>
   <AG_ForsakenBlood.description>Os portadores deste gene têm sangue amarelo.</AG_ForsakenBlood.description>
   <AG_ForsakenBlood.label>sangue amarelo</AG_ForsakenBlood.label>
-  <AG_ForsakenBody.description>Os portadores deste gene têm um corpo que parece ter vales profundos ao redor e costelas visíveis sob a pele em alguns lugares, mas que de resto é saudável em aparência. Isso resulta em um peso um pouco menor e um corpo bem mais frágil.</AG_ForsakenBody.description>
+  <AG_ForsakenBody.description>Os portadores deste gene têm um corpo que parece ter sulcos profundos ao redor e costelas visíveis sob a pele em alguns lugares, mas que de resto é saudável em aparência. Isso resulta em um peso um pouco menor e um corpo bem mais frágil.</AG_ForsakenBody.description>
   <AG_ForsakenBody.label>corpo Forsaken</AG_ForsakenBody.label>
   <AG_ForsakenBodyEmblem.description>Os portadores deste gene têm um emblema amarelo associado aos Forsaken no abdômen. Isso traz diversos benefícios físicos.</AG_ForsakenBodyEmblem.description>
   <AG_ForsakenBodyEmblem.label>emblema corporal Forsaken</AG_ForsakenBodyEmblem.label>
@@ -256,7 +256,7 @@
   <AG_ForsakenHornsSheep.label>chifres de carneiro Forsaken</AG_ForsakenHornsSheep.label>
   <AG_ForsakenKnowledge.description>Os portadores deste gene têm conhecimento genético relacionado às técnicas e equipamentos Forsaken. Serão capazes de construir estruturas Forsaken e vestir roupas e armaduras Forsaken.</AG_ForsakenKnowledge.description>
   <AG_ForsakenKnowledge.label>conhecimento Forsaken</AG_ForsakenKnowledge.label>
-  <AG_ForsakenNightMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de cobrir quase completamente o sol, causando climas de noite Forsaken constantes.</AG_ForsakenNightMaker.description>
+  <AG_ForsakenNightMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de cobrir quase completamente o sol, causando noites Forsaken constantes.</AG_ForsakenNightMaker.description>
   <AG_ForsakenNightMaker.label>gerador de noite</AG_ForsakenNightMaker.label>
   <AG_ForsakenQuadruple.description>Os portadores deste gene crescem quatro chifres torcidos com pontas amarelas que se projetam da testa. Não são puramente cosméticos, pois podem ser usados para fins ofensivos.</AG_ForsakenQuadruple.description>
   <AG_ForsakenQuadruple.label>quatro chifres Forsaken</AG_ForsakenQuadruple.label>
@@ -288,7 +288,7 @@
   <AG_FungalTentacles.label>tentáculos fúngicos</AG_FungalTentacles.label>
   <AG_GasBags.description>Portadores deste gene têm um órgão interno composto por bolsas de gás preenchidas com hidrogênio, que lhes permite pairar sobre o terreno, ao custo de serem bastante inflamáveis e explodirem ao morrer.</AG_GasBags.description>
   <AG_GasBags.label>bolsas de gás</AG_GasBags.label>
-  <AG_GauntBody.description>Portadores deste gene têm uma aparência macilenta e esvaziada no corpo.</AG_GauntBody.description>
+  <AG_GauntBody.description>Portadores deste gene têm um corpo macilento e encovado.</AG_GauntBody.description>
   <AG_GauntBody.label>corpo macilento</AG_GauntBody.label>
   <AG_GeneInfectionImmunity.description>Portadores deste gene são imunes a infecções genéticas.</AG_GeneInfectionImmunity.description>
   <AG_GeneInfectionImmunity.label>imunidade a infecções genéticas</AG_GeneInfectionImmunity.label>
@@ -321,7 +321,7 @@
   <AG_HeatImmunity.description>Portadores deste gene praticamente não são afetados pelo calor. Também não são incomodados por chamas e não podem pegar fogo.</AG_HeatImmunity.description>
   <AG_HeatImmunity.label>imunidade ao calor</AG_HeatImmunity.label>
   <AG_HeatRadiating.description>Portadores deste gene irradiam calor intenso.</AG_HeatRadiating.description>
-  <AG_HeatRadiating.label>radiação de calor</AG_HeatRadiating.label>
+  <AG_HeatRadiating.label>emissão de calor</AG_HeatRadiating.label>
   <AG_HeatSlowness.description>Portadores deste gene se movem muito mais devagar em temperaturas acima de 40 ºC.</AG_HeatSlowness.description>
   <AG_HeatSlowness.label>torpor térmico</AG_HeatSlowness.label>
   <AG_HeatSpeed.description>Portadores deste gene se movem muito mais rápido em temperaturas acima de 40 ºC.</AG_HeatSpeed.description>
@@ -420,7 +420,7 @@
   <AG_NeedlerollAffinity.label>afinidade com needleroll</AG_NeedlerollAffinity.label>
   <AG_NereidBody.description>Portadores deste gene têm uma aparência escamosa no corpo, com manchas bioluminescentes.</AG_NereidBody.description>
   <AG_NereidBody.label>corpo de nereida</AG_NereidBody.label>
-  <AG_NereidFins.description>Portadores deste gene desenvolvem orelhas alongadas em forma de nadadeira, terminando em ponta. Elas se estendem para os lados da cabeça, muito como as nadadeiras peitorais de um peixe.</AG_NereidFins.description>
+  <AG_NereidFins.description>Portadores deste gene desenvolvem orelhas alongadas em forma de nadadeira, terminando em ponta. Elas se estendem para os lados da cabeça, semelhantes às nadadeiras peitorais de um peixe.</AG_NereidFins.description>
   <AG_NereidFins.label>nadadeiras de nereida</AG_NereidFins.label>
   <AG_NereidGlowlure.description>Portadores deste gene desenvolvem um órgão bioluminescente único que emite luz, atraindo presas nas profundezas escuras do oceano de onde as nereidas vêm.</AG_NereidGlowlure.description>
   <AG_NereidGlowlure.label>isca luminosa de nereida</AG_NereidGlowlure.label>
@@ -470,13 +470,13 @@
   <AG_ParasiticStinger.label>implantador de ferrão parasita, xenogenes</AG_ParasiticStinger.label>
   <AG_ParasiticStingerEndogenes.description>Portadores deste gene podem injetar uma cópia de sua linhagem germinativa em outra pessoa por meio de um ferrão injetor muito nojento. Em vez de implantar seus genes no alvo, isso injeta ovos que crescerão lentamente dentro dele. Esses ovos acabarão chocando em um recém-nascido com os mesmos endogenes de seu progenitor. A habilidade não faz com que os genes do usuário precisem crescer novamente, mas não pode ser usada constantemente, precisando recarregar. Também danificará o alvo e causará uma bagunça ensanguentada. E o alvo obviamente morrerá quando os bebês nascerem. Ah, o ciclo da natureza!</AG_ParasiticStingerEndogenes.description>
   <AG_ParasiticStingerEndogenes.label>implantador de ferrão parasita, endogenes</AG_ParasiticStingerEndogenes.label>
-  <AG_PassiveRegenerator.description>Portadores deste gene liberam constantemente uma nuvem invisível de mecanitas especializados que periodicamente cuidam dos ferimentos de pessoas e animais próximos, regenerando-os sem qualquer necessidade de descanso.</AG_PassiveRegenerator.description>
+  <AG_PassiveRegenerator.description>Portadores deste gene liberam constantemente uma nuvem invisível de mecanitos especializados que periodicamente cuidam dos ferimentos de pessoas e animais próximos, regenerando-os sem qualquer necessidade de descanso.</AG_PassiveRegenerator.description>
   <AG_PassiveRegenerator.label>regenerador passivo</AG_PassiveRegenerator.label>
   <AG_PebbleBlood.description>Portadores deste gene têm sangue parcialmente cristalizado, que assume a forma de pequenas pedras assim que entra em contato com o ar. Esse sangue afeta muito menos a beleza e a limpeza do entorno, mas demora mais a desaparecer e exige mais trabalho para limpar.</AG_PebbleBlood.description>
   <AG_PebbleBlood.label>sangue de seixos</AG_PebbleBlood.label>
   <AG_PegasusWings.description>Portadores deste gene têm um par de asas gigantes emplumadas brotando das costas.</AG_PegasusWings.description>
   <AG_PegasusWings.label>asas de pégaso</AG_PegasusWings.label>
-  <AG_PetrifyingGaze.description>Os portadores podem dirigir um olhar perigoso à vontade, com o poder de transformar a vítima em pedra. Blá blá blá, mecanitas ou algo assim. Olha, é ciência.</AG_PetrifyingGaze.description>
+  <AG_PetrifyingGaze.description>Os portadores podem dirigir um olhar perigoso à vontade, com o poder de transformar a vítima em pedra. Blá blá blá, mecanitos ou algo assim. Olha, é ciência.</AG_PetrifyingGaze.description>
   <AG_PetrifyingGaze.label>olhar petrificante</AG_PetrifyingGaze.label>
   <AG_PincerMandibles.description>Portadores deste gene desenvolvem duas grandes mandíbulas em forma de pinça que saem do maxilar.</AG_PincerMandibles.description>
   <AG_PincerMandibles.label>mandíbulas em pinça</AG_PincerMandibles.label>
@@ -510,29 +510,29 @@
   <AG_PukeWater.label>vômito de água</AG_PukeWater.label>
   <AG_RadYakEars.description>Portadores deste gene desenvolverão orelhas pontudas de radyak.</AG_RadYakEars.description>
   <AG_RadYakEars.label>orelhas de radyak</AG_RadYakEars.label>
-  <AG_RainMaker.description>Uma nuvem distribuída de mecanitas está entrelaçada ao DNA do portador. Essas mecanitas têm a capacidade de reduzir drasticamente a pressão atmosférica ao redor, causando precipitação constante.</AG_RainMaker.description>
-  <AG_RainMaker.label>fazedor de chuva</AG_RainMaker.label>
+  <AG_RainMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de reduzir drasticamente a pressão atmosférica ao redor, causando precipitação constante.</AG_RainMaker.description>
+  <AG_RainMaker.label>gerador de chuva</AG_RainMaker.label>
   <AG_RainbowWings.description>Portadores deste gene têm um par de asas gigantes de lepidóptero brotando das costas.</AG_RainbowWings.description>
   <AG_RainbowWings.label>asas arco-íris</AG_RainbowWings.label>
-  <AG_RainyThunderstormMaker.description>Uma nuvem distribuída de mecanitas está entrelaçada ao DNA do portador. Essas mecanitas têm a capacidade de aumentar drasticamente a energia eletrostática e reduzir a pressão atmosférica, fazendo com que se forme uma violenta tempestade de raios com chuva.</AG_RainyThunderstormMaker.description>
-  <AG_RainyThunderstormMaker.label>fazedor de trovoadas chuvosas</AG_RainyThunderstormMaker.label>
+  <AG_RainyThunderstormMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de aumentar drasticamente a energia eletrostática e reduzir a pressão atmosférica, fazendo com que se forme uma violenta tempestade de raios com chuva.</AG_RainyThunderstormMaker.description>
+  <AG_RainyThunderstormMaker.label>gerador de tempestade chuvosa</AG_RainyThunderstormMaker.label>
   <AG_RatAffinity.description>Portadores deste gene atraem ratos, e uma horda domesticada dessas criaturas está sempre ao redor deles.</AG_RatAffinity.description>
   <AG_RatAffinity.label>afinidade com roedores</AG_RatAffinity.label>
-  <AG_RatVomit.description>Portadores deste gene vomitarão grumos de mecanitas que se coalescem em ratos pseudo-orgânicos. Isso é uma coisa tão incrivelmente cruel e nojenta que não fica claro se é o resultado de um experimento genético que saiu horrivelmente errado ou apenas uma brincadeira macabra de um geneticista verdadeiramente antiético.</AG_RatVomit.description>
+  <AG_RatVomit.description>Portadores deste gene vomitarão grumos de mecanitos que se coalescem em ratos pseudo-orgânicos. Isso é uma coisa tão incrivelmente cruel e nojenta que não fica claro se é o resultado de um experimento genético que saiu horrivelmente errado ou apenas uma brincadeira macabra de um geneticista verdadeiramente antiético.</AG_RatVomit.description>
   <AG_RatVomit.label>vômito de ratos</AG_RatVomit.label>
   <AG_RayHoundTentacles.description>Portadores deste gene desenvolvem dois grandes tentáculos de rayhound que saem do nariz.</AG_RayHoundTentacles.description>
   <AG_RayHoundTentacles.label>tentáculos de rayhound</AG_RayHoundTentacles.label>
   <AG_ReactiveArmour.description>Portadores deste gene podem ativar suas reservas minerais para endurecer a pele contra ataques cortantes e perfurantes. Manter essa armadura ativa consome minerais tanto passivamente quanto sempre que são atingidos por um ataque. A força dessa resistência é baseada na reserva mineral do portador.</AG_ReactiveArmour.description>
   <AG_ReactiveArmour.label>armadura reativa</AG_ReactiveArmour.label>
-  <AG_RedFogger.description>Uma nuvem distribuída de mecanitas está entrelaçada ao DNA do portador. Essas mecanitas têm a capacidade de distorcer o espaço por meio de um microburaco psíquico, fazendo com que uma névoa vermelha extradimensional se forme ao redor do portador.</AG_RedFogger.description>
-  <AG_RedFogger.label>nevoeiro vermelho</AG_RedFogger.label>
-  <AG_ReducedFertile.description>Portadores deste gene têm uma chance reduzida de engravidar ou de engravidar outras pessoas.</AG_ReducedFertile.description>
+  <AG_RedFogger.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de distorcer o espaço por meio de um microburaco psíquico, fazendo com que uma névoa vermelha extradimensional se forme ao redor do portador.</AG_RedFogger.description>
+  <AG_RedFogger.label>gerador de névoa vermelha</AG_RedFogger.label>
+  <AG_ReducedFertile.description>Portadores deste gene têm uma chance reduzida de engravidar ou impregnar outras pessoas.</AG_ReducedFertile.description>
   <AG_ReducedFertile.label>fertilidade reduzida</AG_ReducedFertile.label>
   <AG_ReducedRaidPresence.description>Portadores deste gene são considerados menos poderosos quando se trata de incursões. Os invasores não os consideram uma grande ameaça ao se prepararem para invadir a colônia, enviando menos invasores para atacar.</AG_ReducedRaidPresence.description>
   <AG_ReducedRaidPresence.label>presença reduzida em incursões</AG_ReducedRaidPresence.label>
-  <AG_Regeneration.description>Portadores deste gene têm uma rede distribuída de mecanitas especializados na corrente sanguínea que periodicamente cuidam de ferimentos internos, regenerando-os sem qualquer necessidade de descanso.</AG_Regeneration.description>
+  <AG_Regeneration.description>Portadores deste gene têm uma rede distribuída de mecanitos especializados na corrente sanguínea que periodicamente cuidam de ferimentos internos, regenerando-os sem qualquer necessidade de descanso.</AG_Regeneration.description>
   <AG_Regeneration.label>regeneração</AG_Regeneration.label>
-  <AG_RegenerationMinor.description>Portadores deste gene têm uma rede fraca e distribuída de mecanitas especializados na corrente sanguínea que periodicamente cuidam de ferimentos internos, regenerando-os sem qualquer necessidade de descanso.</AG_RegenerationMinor.description>
+  <AG_RegenerationMinor.description>Portadores deste gene têm uma rede fraca e distribuída de mecanitos especializados na corrente sanguínea que periodicamente cuidam de ferimentos internos, regenerando-os sem qualquer necessidade de descanso.</AG_RegenerationMinor.description>
   <AG_RegenerationMinor.label>regeneração, menor</AG_RegenerationMinor.label>
   <AG_RockSpurs.description>Portadores deste gene têm acúmulos de minerais na cabeça.</AG_RockSpurs.description>
   <AG_RockSpurs.label>cristas rochosas</AG_RockSpurs.label>
@@ -554,7 +554,7 @@
   <AG_RoyalJellyProduction.label>produção de geleia real</AG_RoyalJellyProduction.label>
   <AG_ScalyBody.description>Portadores deste gene têm escamas úmidas por todo o corpo.</AG_ScalyBody.description>
   <AG_ScalyBody.label>corpo escamoso</AG_ScalyBody.label>
-  <AG_ScytherHands.description>Portadores deste gene têm lâminas de scyther nos braços. Não são implantes, mas uma adaptação biomecânica que fundiu mecanitas ao DNA do portador para criar as lâminas a partir de seus próprios tecidos ósseos. Elas não substituem completamente as mãos, então o portador mantém suas capacidades de manipulação em grande parte intactas.</AG_ScytherHands.description>
+  <AG_ScytherHands.description>Portadores deste gene têm lâminas de scyther nos braços. Não são implantes, mas uma adaptação biomecânica que fundiu mecanitos ao DNA do portador para criar as lâminas a partir de seus próprios tecidos ósseos. Elas não substituem completamente as mãos, então o portador mantém suas capacidades de manipulação em grande parte intactas.</AG_ScytherHands.description>
   <AG_ScytherHands.label>lâminas de scyther</AG_ScytherHands.label>
   <AG_SelfSkip.description>Os portadores conseguem deslocar seu próprio corpo por curtas distâncias com um salto psíquico.</AG_SelfSkip.description>
   <AG_SelfSkip.label>auto-salto</AG_SelfSkip.label>
@@ -562,46 +562,46 @@
   <AG_Sensitivity_Lethal.label>sensibilidade letal à UV</AG_Sensitivity_Lethal.label>
   <AG_Sensitivity_Vicious.description>Portadores deste gene têm compostos biológicos na pele que reagem violentamente à radiação UV. São tão sensíveis à luz solar que ficar sob o sol os deixará inconscientes.</AG_Sensitivity_Vicious.description>
   <AG_Sensitivity_Vicious.label>sensibilidade severa à UV</AG_Sensitivity_Vicious.label>
-  <AG_Shambler_Acidic.description>Shamblers portadores deste gene são extremamente ácidos e sangrarão ácido, explodirão em uma explosão ácida ao serem destruídos e atacarão com suas presas ácidas.</AG_Shambler_Acidic.description>
-  <AG_Shambler_Acidic.label>shambler ácido</AG_Shambler_Acidic.label>
-  <AG_Shambler_Armoured.description>Shamblers portadores deste gene serão mais fortes e maiores que o normal.</AG_Shambler_Armoured.description>
-  <AG_Shambler_Armoured.label>shambler blindado</AG_Shambler_Armoured.label>
-  <AG_Shambler_DeadlifeBelcher.description>Shamblers portadores deste gene exalarão periodicamente nuvens de pó de vida morta que erguerão os cadáveres próximos como shamblers.</AG_Shambler_DeadlifeBelcher.description>
-  <AG_Shambler_DeadlifeBelcher.label>shambler exalador de vida morta</AG_Shambler_DeadlifeBelcher.label>
-  <AG_Shambler_Delicate.description>Shamblers portadores deste gene estão mais decompostos que o normal, recebendo mais dano.</AG_Shambler_Delicate.description>
-  <AG_Shambler_Delicate.label>shambler apodrecido</AG_Shambler_Delicate.label>
-  <AG_Shambler_Exploding.description>Shamblers portadores deste gene têm nódulos de combustível químico no corpo e explodem ao serem destruídos.</AG_Shambler_Exploding.description>
-  <AG_Shambler_Exploding.label>shambler explosivo</AG_Shambler_Exploding.label>
-  <AG_Shambler_HighMelee.description>Shamblers portadores deste gene são mais agressivos que o normal, causando mais dano em combate corpo a corpo.</AG_Shambler_HighMelee.description>
-  <AG_Shambler_HighMelee.label>shambler agressivo</AG_Shambler_HighMelee.label>
-  <AG_Shambler_LightningFast.description>Shamblers portadores deste gene se movem com grande velocidade.</AG_Shambler_LightningFast.description>
-  <AG_Shambler_LightningFast.label>shambler veloz como raio</AG_Shambler_LightningFast.label>
-  <AG_Shambler_LowMelee.description>Shamblers portadores deste gene são mais fracos que o normal, causando menos dano em combate corpo a corpo.</AG_Shambler_LowMelee.description>
-  <AG_Shambler_LowMelee.label>shambler fraco</AG_Shambler_LowMelee.label>
-  <AG_Shambler_Photosynthetic.description>Shamblers portadores deste gene serão fortalecidos pela luz solar.</AG_Shambler_Photosynthetic.description>
-  <AG_Shambler_Photosynthetic.label>shambler fotossintético</AG_Shambler_Photosynthetic.label>
-  <AG_Shambler_Plagued.description>Shamblers portadores deste gene infectarão suas vítimas com uma praga de shambler que as transformará em shamblers ao morrerem.</AG_Shambler_Plagued.description>
-  <AG_Shambler_Plagued.label>shambler pestilento</AG_Shambler_Plagued.label>
-  <AG_Shambler_Polluter.description>Shamblers portadores deste gene poluirão constantemente o terreno ao redor, acabando por transformar a paisagem em um deserto desolado.</AG_Shambler_Polluter.description>
-  <AG_Shambler_Polluter.label>shambler poluidor</AG_Shambler_Polluter.label>
-  <AG_Shambler_Spiked.description>Shamblers portadores deste gene têm um ataque de espinhos à distância semelhante ao do Gorehulk.</AG_Shambler_Spiked.description>
-  <AG_Shambler_Spiked.label>shambler espinhoso</AG_Shambler_Spiked.label>
-  <AG_Shambler_Stinker.description>Shamblers portadores deste gene exalarão periodicamente nuvens de fedor de podridão. Nojento!</AG_Shambler_Stinker.description>
-  <AG_Shambler_Stinker.label>shambler fedorento</AG_Shambler_Stinker.label>
-  <AG_Shambler_Timeless.description>Shamblers portadores deste gene durarão muito mais que 4 a 5 dias.</AG_Shambler_Timeless.description>
-  <AG_Shambler_Timeless.label>shambler atemporal</AG_Shambler_Timeless.label>
-  <AG_Shambler_Tinderskin.description>Shamblers portadores deste gene são mais inflamáveis que o normal.</AG_Shambler_Tinderskin.description>
-  <AG_Shambler_Tinderskin.label>shambler de pele inflamável</AG_Shambler_Tinderskin.label>
-  <AG_Shambler_Tough.description>Shamblers portadores deste gene são mais resistentes que o normal, recebendo menos dano.</AG_Shambler_Tough.description>
-  <AG_Shambler_Tough.label>shambler resistente</AG_Shambler_Tough.label>
-  <AG_Shambler_Toxic.description>Shamblers portadores deste gene exalarão periodicamente nuvens de gás tóxico.</AG_Shambler_Toxic.description>
-  <AG_Shambler_Toxic.label>shambler tóxico</AG_Shambler_Toxic.label>
-  <AG_Shambler_UVSensitive.description>Shamblers portadores deste gene são afetados pela luz solar, entrando em um estado de torpor.</AG_Shambler_UVSensitive.description>
-  <AG_Shambler_UVSensitive.label>shambler sensível à UV</AG_Shambler_UVSensitive.label>
-  <AG_Shambler_VenomFangs.description>Shamblers portadores deste gene têm presas venenosas que usam em combate corpo a corpo.</AG_Shambler_VenomFangs.description>
-  <AG_Shambler_VenomFangs.label>shambler de presas venenosas</AG_Shambler_VenomFangs.label>
-  <AG_Shambler_VeryGaunt.description>Shamblers portadores deste gene têm uma aparência muito macilenta e apodrecida.</AG_Shambler_VeryGaunt.description>
-  <AG_Shambler_VeryGaunt.label>shambler macilento</AG_Shambler_VeryGaunt.label>
+  <AG_Shambler_Acidic.description>Trôpegos portadores deste gene são extremamente ácidos e sangrarão ácido, explodirão em uma explosão ácida ao serem destruídos e atacarão com suas presas ácidas.</AG_Shambler_Acidic.description>
+  <AG_Shambler_Acidic.label>trôpego ácido</AG_Shambler_Acidic.label>
+  <AG_Shambler_Armoured.description>Trôpegos portadores deste gene serão mais fortes e maiores que o normal.</AG_Shambler_Armoured.description>
+  <AG_Shambler_Armoured.label>trôpego blindado</AG_Shambler_Armoured.label>
+  <AG_Shambler_DeadlifeBelcher.description>Trôpegos portadores deste gene exalarão periodicamente nuvens de poeira mortal que erguerão os cadáveres próximos como trôpegos.</AG_Shambler_DeadlifeBelcher.description>
+  <AG_Shambler_DeadlifeBelcher.label>trôpego exalador de poeira mortal</AG_Shambler_DeadlifeBelcher.label>
+  <AG_Shambler_Delicate.description>Trôpegos portadores deste gene estão mais decompostos que o normal, recebendo mais dano.</AG_Shambler_Delicate.description>
+  <AG_Shambler_Delicate.label>trôpego apodrecido</AG_Shambler_Delicate.label>
+  <AG_Shambler_Exploding.description>Trôpegos portadores deste gene têm nódulos de combustível químico no corpo e explodem ao serem destruídos.</AG_Shambler_Exploding.description>
+  <AG_Shambler_Exploding.label>trôpego explosivo</AG_Shambler_Exploding.label>
+  <AG_Shambler_HighMelee.description>Trôpegos portadores deste gene são mais agressivos que o normal, causando mais dano em combate corpo a corpo.</AG_Shambler_HighMelee.description>
+  <AG_Shambler_HighMelee.label>trôpego agressivo</AG_Shambler_HighMelee.label>
+  <AG_Shambler_LightningFast.description>Trôpegos portadores deste gene se movem com grande velocidade.</AG_Shambler_LightningFast.description>
+  <AG_Shambler_LightningFast.label>trôpego veloz como raio</AG_Shambler_LightningFast.label>
+  <AG_Shambler_LowMelee.description>Trôpegos portadores deste gene são mais fracos que o normal, causando menos dano em combate corpo a corpo.</AG_Shambler_LowMelee.description>
+  <AG_Shambler_LowMelee.label>trôpego fraco</AG_Shambler_LowMelee.label>
+  <AG_Shambler_Photosynthetic.description>Trôpegos portadores deste gene serão fortalecidos pela luz solar.</AG_Shambler_Photosynthetic.description>
+  <AG_Shambler_Photosynthetic.label>trôpego fotossintético</AG_Shambler_Photosynthetic.label>
+  <AG_Shambler_Plagued.description>Trôpegos portadores deste gene infectarão suas vítimas com uma praga de trôpego que as transformará em trôpegos ao morrerem.</AG_Shambler_Plagued.description>
+  <AG_Shambler_Plagued.label>trôpego pestilento</AG_Shambler_Plagued.label>
+  <AG_Shambler_Polluter.description>Trôpegos portadores deste gene poluirão constantemente o terreno ao redor, acabando por transformar a paisagem em um deserto desolado.</AG_Shambler_Polluter.description>
+  <AG_Shambler_Polluter.label>trôpego poluidor</AG_Shambler_Polluter.label>
+  <AG_Shambler_Spiked.description>Trôpegos portadores deste gene têm um ataque de espinhos à distância semelhante ao do Gorehulk.</AG_Shambler_Spiked.description>
+  <AG_Shambler_Spiked.label>trôpego espinhoso</AG_Shambler_Spiked.label>
+  <AG_Shambler_Stinker.description>Trôpegos portadores deste gene exalarão periodicamente nuvens de fedor de podridão. Nojento!</AG_Shambler_Stinker.description>
+  <AG_Shambler_Stinker.label>trôpego fedorento</AG_Shambler_Stinker.label>
+  <AG_Shambler_Timeless.description>Trôpegos portadores deste gene durarão muito mais que 4 a 5 dias.</AG_Shambler_Timeless.description>
+  <AG_Shambler_Timeless.label>trôpego atemporal</AG_Shambler_Timeless.label>
+  <AG_Shambler_Tinderskin.description>Trôpegos portadores deste gene são mais inflamáveis que o normal.</AG_Shambler_Tinderskin.description>
+  <AG_Shambler_Tinderskin.label>trôpego de pele inflamável</AG_Shambler_Tinderskin.label>
+  <AG_Shambler_Tough.description>Trôpegos portadores deste gene são mais resistentes que o normal, recebendo menos dano.</AG_Shambler_Tough.description>
+  <AG_Shambler_Tough.label>trôpego resistente</AG_Shambler_Tough.label>
+  <AG_Shambler_Toxic.description>Trôpegos portadores deste gene exalarão periodicamente nuvens de gás tóxico.</AG_Shambler_Toxic.description>
+  <AG_Shambler_Toxic.label>trôpego tóxico</AG_Shambler_Toxic.label>
+  <AG_Shambler_UVSensitive.description>Trôpegos portadores deste gene são afetados pela luz solar, entrando em um estado de torpor.</AG_Shambler_UVSensitive.description>
+  <AG_Shambler_UVSensitive.label>trôpego sensível à UV</AG_Shambler_UVSensitive.label>
+  <AG_Shambler_VenomFangs.description>Trôpegos portadores deste gene têm presas venenosas que usam em combate corpo a corpo.</AG_Shambler_VenomFangs.description>
+  <AG_Shambler_VenomFangs.label>trôpego de presas venenosas</AG_Shambler_VenomFangs.label>
+  <AG_Shambler_VeryGaunt.description>Trôpegos portadores deste gene têm uma aparência muito macilenta e apodrecida.</AG_Shambler_VeryGaunt.description>
+  <AG_Shambler_VeryGaunt.label>trôpego macilento</AG_Shambler_VeryGaunt.label>
   <AG_SingleEar.description>Portadores deste gene desenvolverão uma única orelha deformada e caída.</AG_SingleEar.description>
   <AG_SingleEar.label>orelha única</AG_SingleEar.label>
   <AG_SingleWing.description>Portadores deste gene têm uma única asa atrofiada. Inútil para voar.</AG_SingleWing.description>
@@ -652,8 +652,8 @@
   <AG_SmallerBodySize.label>menor</AG_SmallerBodySize.label>
   <AG_SmokeProducer.description>O portador deste gene exalará periodicamente nuvens de fumaça densa, servindo como dissuasor de ataques à distância, tanto contra eles quanto por eles produzidos.</AG_SmokeProducer.description>
   <AG_SmokeProducer.label>produtor de fumaça</AG_SmokeProducer.label>
-  <AG_SnowMaker.description>Uma nuvem distribuída de mecanitas está entrelaçada ao DNA do portador. Essas mecanitas têm a capacidade de reduzir drasticamente a temperatura na alta atmosfera, fazendo com que caia neve.</AG_SnowMaker.description>
-  <AG_SnowMaker.label>fazedor de neve</AG_SnowMaker.label>
+  <AG_SnowMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de reduzir drasticamente a temperatura na alta atmosfera, fazendo com que caia neve.</AG_SnowMaker.description>
+  <AG_SnowMaker.label>gerador de neve</AG_SnowMaker.label>
   <AG_SpeedByTemperature.description>Portadores deste gene se movem rápido em altas temperaturas, ao custo de ficarem muito mais cansados. Baixas temperaturas reduzem seu metabolismo, tornando-os mais lentos, mas também fazendo com que gastem menos energia para permanecer acordados.</AG_SpeedByTemperature.description>
   <AG_SpeedByTemperature.label>velocidade térmica</AG_SpeedByTemperature.label>
   <AG_Spinnerets.description>Os portadores conseguem produzir fios de seda pegajosa nos pulsos e podem atirar essas teias à vontade, atordoando seus inimigos.</AG_Spinnerets.description>
@@ -700,7 +700,7 @@
   <AG_Thalassophobia.label>talassofobia</AG_Thalassophobia.label>
   <AG_ThirdEye.description>Portadores deste gene desenvolverão um terceiro olho na testa. Esse terceiro olho dá visão aprimorada e, por causa de suas, hmmm, propriedades psíquicas, não pode ser ferido por... outros... e... Olha, peças de Biotech não são partes do corpo reais e não podem ser danificadas em ataques, ok?</AG_ThirdEye.description>
   <AG_ThirdEye.label>terceiro olho</AG_ThirdEye.label>
-  <AG_ToughSinews.description>Portadores deste gene conseguem usar naturalmente armas pesadas ou armas de cestão de guerra sem a necessidade de armadura de apoio.</AG_ToughSinews.description>
+  <AG_ToughSinews.description>Portadores deste gene conseguem usar naturalmente armas pesadas ou armas de carcaça de guerra sem a necessidade de armadura de apoio.</AG_ToughSinews.description>
   <AG_ToughSinews.label>tendões resistentes</AG_ToughSinews.label>
   <AG_ToxGasProducer.description>O portador deste gene exalará periodicamente nuvens de gás tóxico.</AG_ToxGasProducer.description>
   <AG_ToxGasProducer.label>produtor de gás tóxico</AG_ToxGasProducer.label>
@@ -774,8 +774,8 @@
   <AG_VeryGauntHead.label>cabeça muito macilenta</AG_VeryGauntHead.label>
   <AG_VolatileMood.description>Portadores deste gene sofrem mudanças de humor aleatórias todos os dias.</AG_VolatileMood.description>
   <AG_VolatileMood.label>volátil</AG_VolatileMood.label>
-  <AG_VolcanicAshMaker.description>Uma nuvem distribuída de mecanitas está entrelaçada ao DNA do portador. Essas mecanitas têm a capacidade de atrair as cinzas de vulcões próximos, fazendo com que cinzas vulcânicas caiam, às vezes junto com chuva.</AG_VolcanicAshMaker.description>
-  <AG_VolcanicAshMaker.label>fazedor de cinzas</AG_VolcanicAshMaker.label>
+  <AG_VolcanicAshMaker.description>Uma nuvem distribuída de mecanitos está entrelaçada ao DNA do portador. Esses mecanitos têm a capacidade de atrair as cinzas de vulcões próximos, fazendo com que cinzas vulcânicas caiam, às vezes junto com chuva.</AG_VolcanicAshMaker.description>
+  <AG_VolcanicAshMaker.label>gerador de cinzas</AG_VolcanicAshMaker.label>
   <AG_WaspWings.description>Portadores deste gene têm dois pares de asas de vespa brotando das costas.</AG_WaspWings.description>
   <AG_WaspWings.label>asas de vespa</AG_WaspWings.label>
   <AG_WasteFlesh.description>Portadores deste gene têm carne corrompida e poluída. Consumir carne tóxica por eles é classificado como canibalismo.</AG_WasteFlesh.description>
@@ -794,8 +794,8 @@
   <AG_WoolLeather.label>couro de lã</AG_WoolLeather.label>
   <AG_Zap.description>Portadores deste gene podem acumular energia e liberá-la em um poderoso choque elétrico que eletrocuta o alvo.</AG_Zap.description>
   <AG_Zap.label>descarga elétrica</AG_Zap.label>
-  <AlphaGenes_Animal_SummonCentipede.description>O portador deste gene pode invocar um mecanoide Centopéia. Ele fará parte da colônia por um período de 1 dia, desaparecendo depois. O portador precisará de pelo menos 4 de banda-larga de mecanoides para usar esta habilidade.</AlphaGenes_Animal_SummonCentipede.description>
-  <AlphaGenes_Animal_SummonCentipede.label>invocar centopéia</AlphaGenes_Animal_SummonCentipede.label>
+  <AlphaGenes_Animal_SummonCentipede.description>O portador deste gene pode invocar um mecanoide Centopeia. Ele fará parte da colônia por um período de 1 dia, desaparecendo depois. O portador precisará de pelo menos 4 de banda-larga de mecanoides para usar esta habilidade.</AlphaGenes_Animal_SummonCentipede.description>
+  <AlphaGenes_Animal_SummonCentipede.label>invocar centopeia</AlphaGenes_Animal_SummonCentipede.label>
   <AlphaGenes_Animal_SummonMilitor.description>O portador deste gene pode invocar um mecanoide Militor. Ele fará parte da colônia por um período de 1 dia, desaparecendo depois. O portador precisará de pelo menos 1 de banda-larga de mecanoides para usar esta habilidade.</AlphaGenes_Animal_SummonMilitor.description>
   <AlphaGenes_Animal_SummonMilitor.label>invocar militor</AlphaGenes_Animal_SummonMilitor.label>
   <AlphaGenes_Animal_SummonTesseron.description>O portador deste gene pode invocar um mecanoide Tesseron. Ele fará parte da colônia por um período de 1 dia, desaparecendo depois. O portador precisará de pelo menos 3 de banda-larga de mecanoides para usar esta habilidade.</AlphaGenes_Animal_SummonTesseron.description>

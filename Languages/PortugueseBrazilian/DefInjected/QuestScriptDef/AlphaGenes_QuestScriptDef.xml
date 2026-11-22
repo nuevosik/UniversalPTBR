@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[biotechlab] [discovered]</li>
+    <li>biotechlab->Laboratório de biotecnologia</li>
+    <li>biotechlab->Laboratório de genética biotech</li>
+    <li>biotechlab->Laboratório de experimentos biotech</li>
+    <li>biotechlab->Laboratório de xenotipos biotech</li>
+    <li>biotechlab->Laboratório de genética humana biotech</li>
+    <li>discovered->descoberto</li>
+    <li>discovered->encontrado</li>
+    <li>discovered->localizado</li>
+    <li>discovered->revelado</li>
+    <li>discovered->rastreado</li>
+    <li>discovered->desenterrado</li>
+  </AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
+
+  <AG_OpportunitySite_AbandonedBiotechLab.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Um farol de rádio abandonado parece emitir sinais fracos com um rastreador de localização. Ao decifrar esses sinais, descobrimos que eles parecem levar a um antigo laboratório de biotecnologia não muito longe de [map_definite]. O local pode ter tecnologia genética recuperável, então pode ser uma boa ideia investigá-lo.\n\nDevemos estar bem preparados, pois o farol de rádio pode atrair uma presença hostil para o local do laboratório.</li>
+  </AG_OpportunitySite_AbandonedBiotechLab.questDescriptionRules.rulesStrings>
+
+  <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que o laboratório de biotecnologia abandonado foi saqueado por outros. A missão [resolvedQuestName] expirou.</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmmoSetMiho100mm_Incendiary.label>foguete 100mm</AmmoSetMiho100mm_Incendiary.label>
+  <AmmoSet_100x695mmRCannonShell.label>obuses de canhão 100x695mmR</AmmoSet_100x695mmRCannonShell.label>
+  <AmmoSet_1035mmOrdinanzaItaliana.label>10.35mm Ordinanza Italiana</AmmoSet_1035mmOrdinanzaItaliana.label>
+  <AmmoSet_105mmHowitzerShell.label>obuses de obuseiro 105mm</AmmoSet_105mmHowitzerShell.label>
+  <AmmoSet_105mmHowitzerShell_directfire.label>obuses de obuseiro 105mm</AmmoSet_105mmHowitzerShell_directfire.label>
+  <AmmoSet_105x155mmRCannonShell.label>obuses de obuseiro 105x155mmR</AmmoSet_105x155mmRCannonShell.label>
+  <AmmoSet_105x607mmRShell.label>obuses de fuzil sem recuo 105x607mmR</AmmoSet_105x607mmRShell.label>
+  <AmmoSet_105x617mmRCannonShell.label>obuses 105x617mmR</AmmoSet_105x617mmRCannonShell.label>
+  <AmmoSet_10Gauge.label>10 Gauge</AmmoSet_10Gauge.label>
+  <AmmoSet_10Gauge_HALT_ALT.label>10 Gauge</AmmoSet_10Gauge_HALT_ALT.label>
+  <AmmoSet_10Gauge_Slug.label>10 Gauge</AmmoSet_10Gauge_Slug.label>
+  <AmmoSet_10mmAuto.label>10mm Auto</AmmoSet_10mmAuto.label>
+  <AmmoSet_10mmRailgunOE.label>10mm railgun (OE)</AmmoSet_10mmRailgunOE.label>
+  <AmmoSet_10x18mmCMoyo.label>projétil 10x18mm Charged</AmmoSet_10x18mmCMoyo.label>
+  <AmmoSet_10x18mmCharged.label>10x18mm Charged</AmmoSet_10x18mmCharged.label>
+  <AmmoSet_120mmCannonShell.label>obuses de canhão 120x570mmR</AmmoSet_120mmCannonShell.label>
+  <AmmoSet_120mmMortarShell.label>obuses de morteiro 120mm</AmmoSet_120mmMortarShell.label>
+  <AmmoSet_125x100Justice.label>12.5x100mm Justice</AmmoSet_125x100Justice.label>
+  <AmmoSet_127x108mm.label>12.7x108mm soviético</AmmoSet_127x108mm.label>
+  <AmmoSet_127x40mmUNSC.label>12.7x40mm</AmmoSet_127x40mmUNSC.label>
+  <AmmoSet_127x40mmUNSCLight.label>12.7x40mm</AmmoSet_127x40mmUNSCLight.label>
+  <AmmoSet_127x55mm.label>12.7x55mm</AmmoSet_127x55mm.label>
+  <AmmoSet_127x99mm.label>12.7x99mm</AmmoSet_127x99mm.label>
+  <AmmoSet_12Gauge.label>12 Gauge</AmmoSet_12Gauge.label>
+  <AmmoSet_12GaugeCharged.label>calibre 12 Charged</AmmoSet_12GaugeCharged.label>
+  <AmmoSet_12GaugeCharged_ForsakenShotGun.label>calibre 12 Charged</AmmoSet_12GaugeCharged_ForsakenShotGun.label>
+  <AmmoSet_12GaugeCharged_NagaShotgun.label>calibre 12 Charged</AmmoSet_12GaugeCharged_NagaShotgun.label>
+  <AmmoSet_12GaugeHR.label>12 Gauge</AmmoSet_12GaugeHR.label>
+  <AmmoSet_12GaugePsychic.label>calibre 12 Psychic</AmmoSet_12GaugePsychic.label>
+  <AmmoSet_12GaugeTeseum.label>calibre 12 Ariadnan</AmmoSet_12GaugeTeseum.label>
+  <AmmoSet_12GaugeTeseumGeneric.label>cartucho de espingarda</AmmoSet_12GaugeTeseumGeneric.label>
+  <AmmoSet_12Gauge_CP_DOOM_SuperShotgun.label>12 Gauge</AmmoSet_12Gauge_CP_DOOM_SuperShotgun.label>
+  <AmmoSet_12Gauge_Eccentric_Militor_Double.label>12 Gauge</AmmoSet_12Gauge_Eccentric_Militor_Double.label>
+  <AmmoSet_12Gauge_Punched.label>Punched calibre 12</AmmoSet_12Gauge_Punched.label>
+  <AmmoSet_12Gauge_SB.label>12 Gauge</AmmoSet_12Gauge_SB.label>
+  <AmmoSet_12Gauge_Slug.label>12 Gauge</AmmoSet_12Gauge_Slug.label>
+  <AmmoSet_12Gauge_VQEDL.label>12 Gauge</AmmoSet_12Gauge_VQEDL.label>
+  <AmmoSet_12mmRailgun.label>12mm railgun</AmmoSet_12mmRailgun.label>
+  <AmmoSet_12mmRailgunIon_Blast.label>explosão de íons</AmmoSet_12mmRailgunIon_Blast.label>
+  <AmmoSet_12mmRailgunIon_Lance.label>12mm railgun Ion (Lance)</AmmoSet_12mmRailgunIon_Lance.label>
+  <AmmoSet_12mmRailgunOE.label>12mm railgun (OE)</AmmoSet_12mmRailgunOE.label>
+  <AmmoSet_12mmRailgunXCOM.label>12mm railgun</AmmoSet_12mmRailgunXCOM.label>
+  <AmmoSet_12mmautoRailgunOE.label>12mm railgun automática (OE)</AmmoSet_12mmautoRailgunOE.label>
+  <AmmoSet_12mmsubsonicRailgunOE.label>12mm railgun subsônica (OE)</AmmoSet_12mmsubsonicRailgunOE.label>
+  <AmmoSet_12x25Judgement.label>12x25mm Judgement</AmmoSet_12x25Judgement.label>
+  <AmmoSet_12x64mmCharged.label>12x64mm Charged</AmmoSet_12x64mmCharged.label>
+  <AmmoSet_12x64mmHyper.label>12x64mm Charged</AmmoSet_12x64mmHyper.label>
+  <AmmoSet_12x72mmCharged.label>12x72mm Charged</AmmoSet_12x72mmCharged.label>
+  <AmmoSet_12x72mmCharged_Demo.label>12x72mm Charged (Demolição)</AmmoSet_12x72mmCharged_Demo.label>
+  <AmmoSet_130mmType63.label>foguetes 130mm Tipo 63</AmmoSet_130mmType63.label>
+  <AmmoSet_130mmType63_SSM.label>foguetes 130mm Tipo 63</AmmoSet_130mmType63_SSM.label>
+  <AmmoSet_132Greydale.label>13.2x77mm GD</AmmoSet_132Greydale.label>
+  <AmmoSet_132mmM13.label>foguetes 132mm M13</AmmoSet_132mmM13.label>
+  <AmmoSet_132x92mmSRTuF.label>13.2x92mmSR TuF</AmmoSet_132x92mmSRTuF.label>
+  <AmmoSet_13mmGyrojet.label>13mm Gyrojet</AmmoSet_13mmGyrojet.label>
+  <AmmoSet_13x40Prez.label>13x40mm presidencial</AmmoSet_13x40Prez.label>
+  <AmmoSet_145x114mm.label>14.5x114mm</AmmoSet_145x114mm.label>
+  <AmmoSet_145x114mmUNSC.label>14.5x114mmUNSC</AmmoSet_145x114mmUNSC.label>
+  <AmmoSet_152mmHowitzerShell.label>obuses de obuseiro 152mm</AmmoSet_152mmHowitzerShell.label>
+  <AmmoSet_152mmHowitzerShell_directfire.label>obuses de obuseiro 152mm</AmmoSet_152mmHowitzerShell_directfire.label>
+  <AmmoSet_152x169mm.label>15.2x169mm</AmmoSet_152x169mm.label>
+  <AmmoSet_155mmHowitzerShell.label>obuses de obuseiro 155mm</AmmoSet_155mmHowitzerShell.label>
+  <AmmoSet_155mmHowitzerShell_directfire.label>obuses de obuseiro 155mm</AmmoSet_155mmHowitzerShell_directfire.label>
+  <AmmoSet_15cmNebelwerfer.label>foguetes 15cm Nebelwerfer</AmmoSet_15cmNebelwerfer.label>
+  <AmmoSet_15x65mmDiffusingCharged.label>15x65mm Diffusing Charged</AmmoSet_15x65mmDiffusingCharged.label>
+  <AmmoSet_164mmCannonBall.label>bala de canhão de 32 libras 164mm</AmmoSet_164mmCannonBall.label>
+  <AmmoSet_164mmCannonBallChamber.label>bala de canhão de 18 libras com câmara</AmmoSet_164mmCannonBallChamber.label>
+  <AmmoSet_164mmCannonBall_Mortar.label>bala de canhão de 24 libras</AmmoSet_164mmCannonBall_Mortar.label>
+  <AmmoSet_164mmCannonBall_MortarSmall.label>bala de canhão de 24 libras</AmmoSet_164mmCannonBall_MortarSmall.label>
+  <AmmoSet_164x284mmDemo.label>obus de demolição 164x284mm</AmmoSet_164x284mmDemo.label>
+  <AmmoSet_16Gauge.label>16 Gauge</AmmoSet_16Gauge.label>
+  <AmmoSet_16Gauge_Slug.label>16 Gauge</AmmoSet_16Gauge_Slug.label>
+  <AmmoSet_16x65mm.label>16x65mm</AmmoSet_16x65mm.label>
+  <AmmoSet_17HMR.label>.17 HMR</AmmoSet_17HMR.label>
+  <AmmoSet_203cmskCannonShell.label>obuses 203cmsk</AmmoSet_203cmskCannonShell.label>
+  <AmmoSet_20Gauge.label>calibre 20</AmmoSet_20Gauge.label>
+  <AmmoSet_20Gauge_Slug.label>calibre 20</AmmoSet_20Gauge_Slug.label>
+  <AmmoSet_20mmFliegerfaust.label>20mm Fliegerfaust</AmmoSet_20mmFliegerfaust.label>
+  <AmmoSet_20mmPhoenix.label>20mm Phoenix</AmmoSet_20mmPhoenix.label>
+  <AmmoSet_20x102mmNATO.label>20x102mm NATO</AmmoSet_20x102mmNATO.label>
+  <AmmoSet_20x105mmCharged.label>20x105mm Charged</AmmoSet_20x105mmCharged.label>
+  <AmmoSet_20x110mmHispano.label>20x110mm Hispano</AmmoSet_20x110mmHispano.label>
+  <AmmoSet_20x128mmOerlikon.label>20x128mm Oerlikon</AmmoSet_20x128mmOerlikon.label>
+  <AmmoSet_20x138mmB.label>20x138mmB</AmmoSet_20x138mmB.label>
+  <AmmoSet_20x139mm.label>20x139mm</AmmoSet_20x139mm.label>
+  <AmmoSet_20x42mmGrenade.label>granadas 20x42mm</AmmoSet_20x42mmGrenade.label>
+  <AmmoSet_20x82mmMauser.label>20x82mm Mauser</AmmoSet_20x82mmMauser.label>
+  <AmmoSet_20x99mmRShVAK.label>20x99mmR ShVAK</AmmoSet_20x99mmRShVAK.label>
+  <AmmoSet_22Hornet.label>.22 Hornet</AmmoSet_22Hornet.label>
+  <AmmoSet_22LR.label>.22 LR</AmmoSet_22LR.label>
+  <AmmoSet_22Short.label>.22 Short</AmmoSet_22Short.label>
+  <AmmoSet_22WMR.label>.22 WMR</AmmoSet_22WMR.label>
+  <AmmoSet_23x115mm.label>23x115mm</AmmoSet_23x115mm.label>
+  <AmmoSet_23x152mmB.label>23x152mmB</AmmoSet_23x152mmB.label>
+  <AmmoSet_23x75mmR.label>23x75mmR</AmmoSet_23x75mmR.label>
+  <AmmoSet_23x75mmR_Slug.label>23x75mmR</AmmoSet_23x75mmR_Slug.label>
+  <AmmoSet_243Winchester.label>.243 Winchester</AmmoSet_243Winchester.label>
+  <AmmoSet_25ACP.label>.25 ACP</AmmoSet_25ACP.label>
+  <AmmoSet_25ACPHR.label>.25 ACP</AmmoSet_25ACPHR.label>
+  <AmmoSet_25mmRocket.label>foguetes 25mm</AmmoSet_25mmRocket.label>
+  <AmmoSet_25x137mmNATO.label>25x137mm NATO</AmmoSet_25x137mmNATO.label>
+  <AmmoSet_25x40mmGrenade.label>granadas 25x40mm</AmmoSet_25x40mmGrenade.label>
+  <AmmoSet_25x59mmGrenade.label>granadas 25x59mm</AmmoSet_25x59mmGrenade.label>
+  <AmmoSet_277Fury.label>.277 Fury</AmmoSet_277Fury.label>
+  <AmmoSet_27x145mmMauser.label>27x145mm Mauser</AmmoSet_27x145mmMauser.label>
+  <AmmoSet_280British.label>.280 British</AmmoSet_280British.label>
+  <AmmoSet_28cmSpgrShell.label>obuses 28cm Spgr.</AmmoSet_28cmSpgrShell.label>
+  <AmmoSet_2Bore.label>calibre 2</AmmoSet_2Bore.label>
+  <AmmoSet_3006Springfield.label>.30-06 Springfield</AmmoSet_3006Springfield.label>
+  <AmmoSet_3006Springfield_BloodMoon.label>.30-06 Springfield</AmmoSet_3006Springfield_BloodMoon.label>
+  <AmmoSet_300AACBlackout.label>.300 AAC Blackout</AmmoSet_300AACBlackout.label>
+  <AmmoSet_300WinchesterMagnum.label>.300 Winchester Magnum</AmmoSet_300WinchesterMagnum.label>
+  <AmmoSet_3030Winchester.label>.30-30 Winchester</AmmoSet_3030Winchester.label>
+  <AmmoSet_3030Winchester_SB.label>.30-30 Winchester</AmmoSet_3030Winchester_SB.label>
+  <AmmoSet_303British.label>.303 British</AmmoSet_303British.label>
+  <AmmoSet_303British_Punched.label>.303 British (Punched)</AmmoSet_303British_Punched.label>
+  <AmmoSet_303British_SB.label>.303 British</AmmoSet_303British_SB.label>
+  <AmmoSet_30Carbine.label>.30 Carbine</AmmoSet_30Carbine.label>
+  <AmmoSet_30Carbine_SB.label>.30 Carbine</AmmoSet_30Carbine_SB.label>
+  <AmmoSet_30mmRifleGrenade.label>granadas de fuzil 30mm</AmmoSet_30mmRifleGrenade.label>
+  <AmmoSet_30x113mm.label>30x113mm</AmmoSet_30x113mm.label>
+  <AmmoSet_30x113mmB.label>30x113mmB</AmmoSet_30x113mmB.label>
+  <AmmoSet_30x165mm.label>30x165mm</AmmoSet_30x165mm.label>
+  <AmmoSet_30x170mm.label>30x170mm</AmmoSet_30x170mm.label>
+  <AmmoSet_30x173mmNATO.label>30x173mm NATO</AmmoSet_30x173mmNATO.label>
+  <AmmoSet_30x29mmGrenade.label>granadas 30x29mm</AmmoSet_30x29mmGrenade.label>
+  <AmmoSet_30x64mmFuel.label>célula de combustível 30x64mm</AmmoSet_30x64mmFuel.label>
+  <AmmoSet_30x64mmFuel_Punched.label>Punched 30x64mm célula de combustível</AmmoSet_30x64mmFuel_Punched.label>
+  <AmmoSet_30x64mmFuel_RSThump.label>célula de combustível 30x64mm (Thumper)</AmmoSet_30x64mmFuel_RSThump.label>
+  <AmmoSet_30x64mmFuel_Thermobaric.label>célula de combustível 30x64mm</AmmoSet_30x64mmFuel_Thermobaric.label>
+  <AmmoSet_32ACP.label>.32 ACP</AmmoSet_32ACP.label>
+  <AmmoSet_338Lapua.label>.338 Lapua Magnum</AmmoSet_338Lapua.label>
+  <AmmoSet_338Norma.label>.338 Norma Magnum</AmmoSet_338Norma.label>
+  <AmmoSet_357Magnum.label>.357 Magnum</AmmoSet_357Magnum.label>
+  <AmmoSet_357Magnum_HV.label>.357 Magnum</AmmoSet_357Magnum_HV.label>
+  <AmmoSet_357Magnum_Lever.label>.357 Magnum/.38 Special</AmmoSet_357Magnum_Lever.label>
+  <AmmoSet_357Magnum_Revolver.label>.357 Magnum/.38 Special</AmmoSet_357Magnum_Revolver.label>
+  <AmmoSet_357SIG.label>.357 SIG</AmmoSet_357SIG.label>
+  <AmmoSet_35x228mm.label>35x228mm NATO</AmmoSet_35x228mm.label>
+  <AmmoSet_35x32mmSRGrenade.label>granadas 35x32mmSR</AmmoSet_35x32mmSRGrenade.label>
+  <AmmoSet_37x223mmR.label>37x223mmR</AmmoSet_37x223mmR.label>
+  <AmmoSet_37x249mmR.label>37x249mmR</AmmoSet_37x249mmR.label>
+  <AmmoSet_380ACP.label>.380 ACP</AmmoSet_380ACP.label>
+  <AmmoSet_3855Winchester.label>.38-55 Winchester</AmmoSet_3855Winchester.label>
+  <AmmoSet_38ACP.label>.38 ACP</AmmoSet_38ACP.label>
+  <AmmoSet_38SW.label>.38 S&amp;W</AmmoSet_38SW.label>
+  <AmmoSet_38Special.label>.38 Special</AmmoSet_38Special.label>
+  <AmmoSet_38Super.label>.38 Super</AmmoSet_38Super.label>
+  <AmmoSet_408CheyenneTactical.label>.408 Cheyenne Tactical</AmmoSet_408CheyenneTactical.label>
+  <AmmoSet_40SW.label>.40 SW</AmmoSet_40SW.label>
+  <AmmoSet_40mmGrenade.label>granadas 40x46mm</AmmoSet_40mmGrenade.label>
+  <AmmoSet_40mmRocket.label>foguetes 40mm</AmmoSet_40mmRocket.label>
+  <AmmoSet_40x311mmR.label>40x311mmR</AmmoSet_40x311mmR.label>
+  <AmmoSet_40x365mmBofors.label>40x365mm Bofors</AmmoSet_40x365mmBofors.label>
+  <AmmoSet_40x46mmGrenade.label>granadas 40x46mm</AmmoSet_40x46mmGrenade.label>
+  <AmmoSet_40x46mmGrenadeNL.label>granadas 40x46mm</AmmoSet_40x46mmGrenadeNL.label>
+  <AmmoSet_40x46mmOnlyEMP.label>granadas 40x46mm</AmmoSet_40x46mmOnlyEMP.label>
+  <AmmoSet_40x47mmGrenade.label>granadas 40x47mm</AmmoSet_40x47mmGrenade.label>
+  <AmmoSet_40x53mmGrenade.label>granadas 40x53mm</AmmoSet_40x53mmGrenade.label>
+  <AmmoSet_40x53mmVOG25Grenade.label>granadas VOG-25 40x53mm</AmmoSet_40x53mmVOG25Grenade.label>
+  <AmmoSet_40x68mmDemo.label>célula Charged 40x68mm</AmmoSet_40x68mmDemo.label>
+  <AmmoSet_40x90mmGrenadeOE.label>granadas 40x90mm OE</AmmoSet_40x90mmGrenadeOE.label>
+  <AmmoSet_410Bore.label>.410 bore</AmmoSet_410Bore.label>
+  <AmmoSet_410Bore_SB.label>.410 bore</AmmoSet_410Bore_SB.label>
+  <AmmoSet_410Bore_Slug.label>.410 bore</AmmoSet_410Bore_Slug.label>
+  <AmmoSet_410Fletcher_Tox.label>dardo mini-Fletcher</AmmoSet_410Fletcher_Tox.label>
+  <AmmoSet_41Rimfire.label>.41 Rimfire</AmmoSet_41Rimfire.label>
+  <AmmoSet_41RimfireHR.label>.41 Rimfire</AmmoSet_41RimfireHR.label>
+  <AmmoSet_43cal_NL.label>projétil de borracha calibre .43</AmmoSet_43cal_NL.label>
+  <AmmoSet_44-40Winchester.label>.44-40 Winchester</AmmoSet_44-40Winchester.label>
+  <AmmoSet_44-40Winchester_SB.label>.44-40 Winchester</AmmoSet_44-40Winchester_SB.label>
+  <AmmoSet_44Magnum.label>.44 Magnum</AmmoSet_44Magnum.label>
+  <AmmoSet_44MagnumCharged.label>.44 Magnum Charged</AmmoSet_44MagnumCharged.label>
+  <AmmoSet_44MagnumHR.label>.44 Magnum</AmmoSet_44MagnumHR.label>
+  <AmmoSet_44Magnum_HV.label>.44 Magnum</AmmoSet_44Magnum_HV.label>
+  <AmmoSet_44Magnum_Lever.label>.44 Magnum/.44 Special</AmmoSet_44Magnum_Lever.label>
+  <AmmoSet_44Magnum_Punched.label>.44 Magnum (Punched)</AmmoSet_44Magnum_Punched.label>
+  <AmmoSet_44Magnum_Revolver.label>.44 Magnum/.44 Special</AmmoSet_44Magnum_Revolver.label>
+  <AmmoSet_44Magnum_Revolver_Cursed.label>projéteis de prata amaldiçoados</AmmoSet_44Magnum_Revolver_Cursed.label>
+  <AmmoSet_44SWSpecial.label>.44 Special</AmmoSet_44SWSpecial.label>
+  <AmmoSet_454Casull.label>.454 Casull/.45 Colt</AmmoSet_454Casull.label>
+  <AmmoSet_454Casull410Bore.label>.454 Casull/.45 Colt/.410 bore</AmmoSet_454Casull410Bore.label>
+  <AmmoSet_455Webley.label>.455 Webley</AmmoSet_455Webley.label>
+  <AmmoSet_4570Gov.label>.45-70 Government</AmmoSet_4570Gov.label>
+  <AmmoSet_4570GovHR.label>.45-70 Government</AmmoSet_4570GovHR.label>
+  <AmmoSet_4570Gov_SB.label>.45-70 Government</AmmoSet_4570Gov_SB.label>
+  <AmmoSet_458SOCOM.label>.458 SOCOM</AmmoSet_458SOCOM.label>
+  <AmmoSet_45ACP.label>.45 ACP</AmmoSet_45ACP.label>
+  <AmmoSet_45ACP410Bore_SB.label>.45 ACP/.410 bore</AmmoSet_45ACP410Bore_SB.label>
+  <AmmoSet_45ACP_Punched.label>Punched .45 ACP</AmmoSet_45ACP_Punched.label>
+  <AmmoSet_45Colt.label>.45 Colt</AmmoSet_45Colt.label>
+  <AmmoSet_45Colt410Bore.label>.45 Colt/.410 bore</AmmoSet_45Colt410Bore.label>
+  <AmmoSet_45Colt410Bore_SB.label>.45 Colt/.410 bore</AmmoSet_45Colt410Bore_SB.label>
+  <AmmoSet_45Colt_HV.label>.45 Colt</AmmoSet_45Colt_HV.label>
+  <AmmoSet_45Schofield.label>.45 Schofield</AmmoSet_45Schofield.label>
+  <AmmoSet_460SWMagnum.label>.460 S&amp;W Magnum</AmmoSet_460SWMagnum.label>
+  <AmmoSet_460SWMagnum_Revolver.label>.460 S&amp;W Magnum</AmmoSet_460SWMagnum_Revolver.label>
+  <AmmoSet_46x30mm.label>4.6x30mm</AmmoSet_46x30mm.label>
+  <AmmoSet_470NitroExpress.label>.470 Nitro Express</AmmoSet_470NitroExpress.label>
+  <AmmoSet_473x33mmCaseless.label>4.73x33mm sem estojo</AmmoSet_473x33mmCaseless.label>
+  <AmmoSet_47x398mmR.label>47x398mmR</AmmoSet_47x398mmR.label>
+  <AmmoSet_485x49mm.label>4.85x49mm</AmmoSet_485x49mm.label>
+  <AmmoSet_4mmRailgunIon.label>railgun iônico 4mm</AmmoSet_4mmRailgunIon.label>
+  <AmmoSet_4mmRailgunXCOM.label>railgun 4mm</AmmoSet_4mmRailgunXCOM.label>
+  <AmmoSet_500SWMagnum.label>.500 S&amp;W Magnum</AmmoSet_500SWMagnum.label>
+  <AmmoSet_50AE.label>.50 AE</AmmoSet_50AE.label>
+  <AmmoSet_50BMG.label>.50 BMG</AmmoSet_50BMG.label>
+  <AmmoSet_50Beowulf.label>.50 Beowulf</AmmoSet_50Beowulf.label>
+  <AmmoSet_50mmGS50Grenade.label>granadas GS-50 50mm</AmmoSet_50mmGS50Grenade.label>
+  <AmmoSet_50mmRocket.label>foguete 50mm</AmmoSet_50mmRocket.label>
+  <AmmoSet_50mmType89MortarShell.label>obuses de morteiro 50mm tipo 89</AmmoSet_50mmType89MortarShell.label>
+  <AmmoSet_545x39mmSoviet.label>5.45x39mm soviético</AmmoSet_545x39mmSoviet.label>
+  <AmmoSet_545x39mmSoviet_SB.label>5.45x39mm soviético</AmmoSet_545x39mmSoviet_SB.label>
+  <AmmoSet_556x45mmNATO.label>5.56x45mm NATO</AmmoSet_556x45mmNATO.label>
+  <AmmoSet_556x45mmNATO_Punched.label>Punched 5.56x45mm NATO</AmmoSet_556x45mmNATO_Punched.label>
+  <AmmoSet_556x45mmNATO_SB.label>5.56x45mm NATO</AmmoSet_556x45mmNATO_SB.label>
+  <AmmoSet_556x45mmNATO_Training.label>5.56x45mm NATO de treino</AmmoSet_556x45mmNATO_Training.label>
+  <AmmoSet_55Boys.label>.55 Boys</AmmoSet_55Boys.label>
+  <AmmoSet_55x50mmLiberty.label>5.5x50mm Liberty</AmmoSet_55x50mmLiberty.label>
+  <AmmoSet_5656Spencer.label>.56-56 Spencer de percussão anelar</AmmoSet_5656Spencer.label>
+  <AmmoSet_57mmMihoRocket_indirect.label>foguete 57mm</AmmoSet_57mmMihoRocket_indirect.label>
+  <AmmoSet_57mmRocket_direct.label>foguete 57mm</AmmoSet_57mmRocket_direct.label>
+  <AmmoSet_57mmRocket_indirect.label>foguete 57mm</AmmoSet_57mmRocket_indirect.label>
+  <AmmoSet_57x280mmR.label>57x280mmR</AmmoSet_57x280mmR.label>
+  <AmmoSet_57x307mmR.label>57x307mmR</AmmoSet_57x307mmR.label>
+  <AmmoSet_57x348mmSR.label>57x348mmSR</AmmoSet_57x348mmSR.label>
+  <AmmoSet_57x438mmBofors.label>57x438mm Bofors</AmmoSet_57x438mmBofors.label>
+  <AmmoSet_58x21mmDAP92.label>5.8x21mm DAP92</AmmoSet_58x21mmDAP92.label>
+  <AmmoSet_58x42mmDBP10.label>5.8x42mm DBP10</AmmoSet_58x42mmDBP10.label>
+  <AmmoSet_5mmMono.label>estilhaços monomoleculares</AmmoSet_5mmMono.label>
+  <AmmoSet_5x16mmCharged.label>5x16mm Charged</AmmoSet_5x16mmCharged.label>
+  <AmmoSet_5x23mmCaseless.label>5x23mm sem estojo</AmmoSet_5x23mmCaseless.label>
+  <AmmoSet_5x35mmCharged.label>5x35mm Charged</AmmoSet_5x35mmCharged.label>
+  <AmmoSet_5x35mmCharged_CGM.label>5x35mm Charged</AmmoSet_5x35mmCharged_CGM.label>
+  <AmmoSet_5x35mmCharged_ForsakenAR.label>5x35mm Charged</AmmoSet_5x35mmCharged_ForsakenAR.label>
+  <AmmoSet_5x35mmCharged_NagaRifle.label>5x35mm Charged</AmmoSet_5x35mmCharged_NagaRifle.label>
+  <AmmoSet_5x35mmRoyal.label>5x35mm Charged</AmmoSet_5x35mmRoyal.label>
+  <AmmoSet_5x50mmCaseless.label>5x50mm sem estojo</AmmoSet_5x50mmCaseless.label>
+  <AmmoSet_5x50mmCaselessAcidic.label>5x50mm sem estojo (ácido)</AmmoSet_5x50mmCaselessAcidic.label>
+  <AmmoSet_5x50mmCaselessToxic.label>5x50mm sem estojo (tóxico)</AmmoSet_5x50mmCaselessToxic.label>
+  <AmmoSet_5x50mmCaseless_HV.label>5x50mm sem estojo</AmmoSet_5x50mmCaseless_HV.label>
+  <AmmoSet_5x50mmCaseless_LV.label>5x50mm sem estojo</AmmoSet_5x50mmCaseless_LV.label>
+  <AmmoSet_600NitroExpress.label>.600 Nitro Express</AmmoSet_600NitroExpress.label>
+  <AmmoSet_60mmGrenade.label>granada 60mm</AmmoSet_60mmGrenade.label>
+  <AmmoSet_60mmMortarShell.label>obus de morteiro 60mm</AmmoSet_60mmMortarShell.label>
+  <AmmoSet_60x225mmGamma.label>obus Gamma 60x225mm</AmmoSet_60x225mmGamma.label>
+  <AmmoSet_65x48mmCreedmoor.label>6.5mm Creedmoor</AmmoSet_65x48mmCreedmoor.label>
+  <AmmoSet_65x50mmSRArisaka.label>6.5x50mmSR Arisaka</AmmoSet_65x50mmSRArisaka.label>
+  <AmmoSet_65x50mmSRArisaka_SB.label>6.5x50mmSR Arisaka</AmmoSet_65x50mmSRArisaka_SB.label>
+  <AmmoSet_65x52mmCarcano.label>6.5x52mm Carcano</AmmoSet_65x52mmCarcano.label>
+  <AmmoSet_66Greydale.label>6.6mm GD sem estojo</AmmoSet_66Greydale.label>
+  <AmmoSet_66Greydale_Hybrid.label>6.6mm GD sem estojo (híbrido)</AmmoSet_66Greydale_Hybrid.label>
+  <AmmoSet_66Greydale_Pistol.label>6.6mm GD sem estojo (pistola)</AmmoSet_66Greydale_Pistol.label>
+  <AmmoSet_66Greydale_SB.label>6.6mm GD sem estojo (cano curto)</AmmoSet_66Greydale_SB.label>
+  <AmmoSet_66mmThermalBolt.label>dardos térmicos 66mm</AmmoSet_66mmThermalBolt.label>
+  <AmmoSet_6mmEponaShock.label>6mm railgun</AmmoSet_6mmEponaShock.label>
+  <AmmoSet_6mmRailgun.label>6mm railgun</AmmoSet_6mmRailgun.label>
+  <AmmoSet_6mmRailgunIon.label>6mm railgun</AmmoSet_6mmRailgunIon.label>
+  <AmmoSet_6mmRailgunOE.label>6mm railgun OE</AmmoSet_6mmRailgunOE.label>
+  <AmmoSet_6mmRailgunXCOM.label>6mm railgun</AmmoSet_6mmRailgunXCOM.label>
+  <AmmoSet_6mmRailgun_CoilgunLance.label>6mm Coilgun</AmmoSet_6mmRailgun_CoilgunLance.label>
+  <AmmoSet_6mmRailgun_GaussMagnum.label>6mm railgun</AmmoSet_6mmRailgun_GaussMagnum.label>
+  <AmmoSet_6mmRailgun_GaussMagnum_HP.label>6mm railgun</AmmoSet_6mmRailgun_GaussMagnum_HP.label>
+  <AmmoSet_6mmRailgun_GaussRifle.label>6mm railgun</AmmoSet_6mmRailgun_GaussRifle.label>
+  <AmmoSet_6mmRailgun_GaussRifle_HP.label>6mm railgun</AmmoSet_6mmRailgun_GaussRifle_HP.label>
+  <AmmoSet_6mmSmartGyrojet.label>6mm inteligente</AmmoSet_6mmSmartGyrojet.label>
+  <AmmoSet_6x18mmCMoyo.label>projétil Charged 6x18mm</AmmoSet_6x18mmCMoyo.label>
+  <AmmoSet_6x18mmCharged.label>6x18mm Charged</AmmoSet_6x18mmCharged.label>
+  <AmmoSet_6x18mmCharged_NagaSMG.label>6x18mm Charged</AmmoSet_6x18mmCharged_NagaSMG.label>
+  <AmmoSet_6x18mmMoyo.label>projétil Charged 6x18mm</AmmoSet_6x18mmMoyo.label>
+  <AmmoSet_6x18mmPsychic.label>6x18mm psíquico</AmmoSet_6x18mmPsychic.label>
+  <AmmoSet_6x18mmSRS.label>projétil Charged 6x18mm (EHG)</AmmoSet_6x18mmSRS.label>
+  <AmmoSet_6x22mmCharged.label>6x22mm Charged</AmmoSet_6x22mmCharged.label>
+  <AmmoSet_6x24mmCMoyo.label>projétil Charged 6x24mm</AmmoSet_6x24mmCMoyo.label>
+  <AmmoSet_6x24mmCharged.label>6x24mm Charged</AmmoSet_6x24mmCharged.label>
+  <AmmoSet_6x24mmCharged_Punched.label>Punched 6x24mm Charged</AmmoSet_6x24mmCharged_Punched.label>
+  <AmmoSet_6x24mmCharged_Training.label>6x24mm Charged de treino</AmmoSet_6x24mmCharged_Training.label>
+  <AmmoSet_6x24mmHarmonyCharged.label>6x24mm Harmony Charged</AmmoSet_6x24mmHarmonyCharged.label>
+  <AmmoSet_6x24mmHarmonySupremacyCharged.label>6x24mm Harmony/Supremacy Charged</AmmoSet_6x24mmHarmonySupremacyCharged.label>
+  <AmmoSet_6x24mmMoyo.label>projétil Charged 6x24mm</AmmoSet_6x24mmMoyo.label>
+  <AmmoSet_6x24mmPolarisSF.label>projétil Charged 6x24mm (Canicula)</AmmoSet_6x24mmPolarisSF.label>
+  <AmmoSet_6x24mmPsychic.label>6x24mm psíquico</AmmoSet_6x24mmPsychic.label>
+  <AmmoSet_6x24mmPurityCharged.label>6x24mm Purity Charged</AmmoSet_6x24mmPurityCharged.label>
+  <AmmoSet_6x24mmPurityHarmonyCharged.label>6x24mm Purity/Harmony Charged</AmmoSet_6x24mmPurityHarmonyCharged.label>
+  <AmmoSet_6x24mmPuritySupremacyCharged.label>6x24mm Purity/Supremacy Charged</AmmoSet_6x24mmPuritySupremacyCharged.label>
+  <AmmoSet_6x24mmRoyal.label>6x24mm Charged</AmmoSet_6x24mmRoyal.label>
+  <AmmoSet_6x24mmSRS.label>projétil Charged 6x24mm (DLG)</AmmoSet_6x24mmSRS.label>
+  <AmmoSet_6x24mmStellicCharged.label>6x24mm Stellic Charged</AmmoSet_6x24mmStellicCharged.label>
+  <AmmoSet_6x24mmSupremacyCharged.label>6x24mm Supremacy Charged</AmmoSet_6x24mmSupremacyCharged.label>
+  <AmmoSet_6x28mmSpark.label>6x28mm Royal Spark</AmmoSet_6x28mmSpark.label>
+  <AmmoSet_70mmAPKWS.label>foguetes APKWS 70mm</AmmoSet_70mmAPKWS.label>
+  <AmmoSet_70mmMechanoidGrenade.label>granadas de mecanoides 70mm</AmmoSet_70mmMechanoidGrenade.label>
+  <AmmoSet_75FK.label>7.5 FK</AmmoSet_75FK.label>
+  <AmmoSet_75cmleIG18Shell.label>obus de canhão 7.5 cm</AmmoSet_75cmleIG18Shell.label>
+  <AmmoSet_75x350mmR.label>75x350mmR</AmmoSet_75x350mmR.label>
+  <AmmoSet_75x54mmFrench.label>7.5x54mm francês</AmmoSet_75x54mmFrench.label>
+  <AmmoSet_75x714mmRShell.label>obus 75x714mmR</AmmoSet_75x714mmRShell.label>
+  <AmmoSet_762x25mmTokarev.label>7.62x25mm Tokarev</AmmoSet_762x25mmTokarev.label>
+  <AmmoSet_762x385mmRCannonShell.label>obus de canhão 76.2x385mmR</AmmoSet_762x385mmRCannonShell.label>
+  <AmmoSet_762x38mmR.label>7.62x38mmR</AmmoSet_762x38mmR.label>
+  <AmmoSet_762x39mmSoviet.label>7.62x39 soviético</AmmoSet_762x39mmSoviet.label>
+  <AmmoSet_762x39mmSoviet_SB.label>7.62x39 soviético</AmmoSet_762x39mmSoviet_SB.label>
+  <AmmoSet_762x51mmExtra.label>7.62x51mm UNSC Extra</AmmoSet_762x51mmExtra.label>
+  <AmmoSet_762x51mmNATO.label>7.62x51mm NATO</AmmoSet_762x51mmNATO.label>
+  <AmmoSet_762x51mmNATO_NonLethal.label>7.62x51mm NATO (tranq.)</AmmoSet_762x51mmNATO_NonLethal.label>
+  <AmmoSet_762x51mmNATO_Punched.label>Punched 7.62x51mm NATO</AmmoSet_762x51mmNATO_Punched.label>
+  <AmmoSet_762x51mmNATO_SB.label>7.62x51mm NATO</AmmoSet_762x51mmNATO_SB.label>
+  <AmmoSet_762x51mmUNSC.label>7.62x51mm UNSC</AmmoSet_762x51mmUNSC.label>
+  <AmmoSet_762x51mmUNSC_DMR.label>7.62x51mm UNSC</AmmoSet_762x51mmUNSC_DMR.label>
+  <AmmoSet_762x539mmR.label>obus de canhão 76.2x539mmR</AmmoSet_762x539mmR.label>
+  <AmmoSet_762x54mmR.label>7.62x54mmR</AmmoSet_762x54mmR.label>
+  <AmmoSet_762x54mmR_Punched.label>Punched 7.62x54mmR</AmmoSet_762x54mmR_Punched.label>
+  <AmmoSet_762x54mmR_SB.label>7.62x54mmR</AmmoSet_762x54mmR_SB.label>
+  <AmmoSet_763x25mmMauser.label>7.63x25mm Mauser</AmmoSet_763x25mmMauser.label>
+  <AmmoSet_763x25mmMauserHR.label>7.63x25mm Mauser</AmmoSet_763x25mmMauserHR.label>
+  <AmmoSet_765x20mmLongue.label>7.65x20mm Longue</AmmoSet_765x20mmLongue.label>
+  <AmmoSet_77x230mmRCannonShell.label>obus de canhão 77x230mmR</AmmoSet_77x230mmRCannonShell.label>
+  <AmmoSet_77x58mmArisaka.label>7.7x58mm Arisaka</AmmoSet_77x58mmArisaka.label>
+  <AmmoSet_792x33mmKurz.label>7.92x33mm Kurz</AmmoSet_792x33mmKurz.label>
+  <AmmoSet_792x57mmMauser.label>7.92x57mm Mauser</AmmoSet_792x57mmMauser.label>
+  <AmmoSet_792x57mmMauser_VQEDL.label>7.92x57mm Mauser</AmmoSet_792x57mmMauser_VQEDL.label>
+  <AmmoSet_792x94mmPatronen.label>7.92x94mm Patronen</AmmoSet_792x94mmPatronen.label>
+  <AmmoSet_7mmMiniRailgun.label>7mm railgun</AmmoSet_7mmMiniRailgun.label>
+  <AmmoSet_80mmRocket_indirect.label>foguete S8 80mm</AmmoSet_80mmRocket_indirect.label>
+  <AmmoSet_80mmUltimatum.label>80mm Ultimatum</AmmoSet_80mmUltimatum.label>
+  <AmmoSet_80x256mmFuel.label>célula de combustível 80x256mm</AmmoSet_80x256mmFuel.label>
+  <AmmoSet_81mmMortarShell.label>obus de morteiro 81mm</AmmoSet_81mmMortarShell.label>
+  <AmmoSet_81mmMortarShellRimsenal.label>obus de morteiro 81mm</AmmoSet_81mmMortarShellRimsenal.label>
+  <AmmoSet_81mmMortarShell_GlitterTechAutoMortar.label>obus de morteiro 81mm</AmmoSet_81mmMortarShell_GlitterTechAutoMortar.label>
+  <AmmoSet_81mmMortarShell_GlitterTechClusterMortar.label>obus de morteiro 81mm</AmmoSet_81mmMortarShell_GlitterTechClusterMortar.label>
+  <AmmoSet_81mmMortarShell_GlitterTechEMPAMortar.label>obus de morteiro 81mm</AmmoSet_81mmMortarShell_GlitterTechEMPAMortar.label>
+  <AmmoSet_81mmMortarShell_Plasma.label>célula de energia de plasma</AmmoSet_81mmMortarShell_Plasma.label>
+  <AmmoSet_81mmMortarShell_Utilitydirectfire.label>obus de morteiro utilitário 81mm</AmmoSet_81mmMortarShell_Utilitydirectfire.label>
+  <AmmoSet_825mmLong.label>8.25mm longo</AmmoSet_825mmLong.label>
+  <AmmoSet_82mmMortarShell.label>obus de morteiro 82mm</AmmoSet_82mmMortarShell.label>
+  <AmmoSet_83mmPIATGrenade.label>granadas PIAT 83mm</AmmoSet_83mmPIATGrenade.label>
+  <AmmoSet_83mmSMAW.label>foguetes SMAW 83mm</AmmoSet_83mmSMAW.label>
+  <AmmoSet_84x246mmR.label>84x246mmR</AmmoSet_84x246mmR.label>
+  <AmmoSet_86x43mmBlackout.label>8.6mm Blackout</AmmoSet_86x43mmBlackout.label>
+  <AmmoSet_88mmRPzBRocket.label>foguetes 88mmRPzB</AmmoSet_88mmRPzBRocket.label>
+  <AmmoSet_8GaugeUNSC.label>calibre 8</AmmoSet_8GaugeUNSC.label>
+  <AmmoSet_8mmGauss_Galvanic.label>8mm gauss galvânico</AmmoSet_8mmGauss_Galvanic.label>
+  <AmmoSet_8mmGauss_Galvanic_Relic.label>8mm gauss galvânico</AmmoSet_8mmGauss_Galvanic_Relic.label>
+  <AmmoSet_8mmRailgun.label>8mm railgun</AmmoSet_8mmRailgun.label>
+  <AmmoSet_8mmRailgunIon.label>8mm railgun de íons</AmmoSet_8mmRailgunIon.label>
+  <AmmoSet_8mmRailgunOE.label>8mm railgun (OE)</AmmoSet_8mmRailgunOE.label>
+  <AmmoSet_8mmRailgunXCOM.label>8mm railgun</AmmoSet_8mmRailgunXCOM.label>
+  <AmmoSet_8mmRailgun_GaussLance.label>8mm railgun</AmmoSet_8mmRailgun_GaussLance.label>
+  <AmmoSet_8mmRailgun_GaussLance_HP.label>8mm railgun</AmmoSet_8mmRailgun_GaussLance_HP.label>
+  <AmmoSet_8x22mmNambu.label>8x22mm Nambu</AmmoSet_8x22mmNambu.label>
+  <AmmoSet_8x35mmCharged.label>8x35mm Charged</AmmoSet_8x35mmCharged.label>
+  <AmmoSet_8x35mmCharged_ForsakenSniper.label>8x35mm Charged</AmmoSet_8x35mmCharged_ForsakenSniper.label>
+  <AmmoSet_8x35mmCharged_NagaSniper.label>8x35mm Charged</AmmoSet_8x35mmCharged_NagaSniper.label>
+  <AmmoSet_8x35mmHarmonyCharged.label>munição 8x35mm Harmony Charged</AmmoSet_8x35mmHarmonyCharged.label>
+  <AmmoSet_8x35mmMoyo.label>projétil Charged 8x35mm</AmmoSet_8x35mmMoyo.label>
+  <AmmoSet_8x35mmPolarisSF.label>projétil Charged 8x35mm (Canicula)</AmmoSet_8x35mmPolarisSF.label>
+  <AmmoSet_8x35mmPurityCharged.label>munição 8x35mm Purity Charged</AmmoSet_8x35mmPurityCharged.label>
+  <AmmoSet_8x35mmSRS.label>projétil Charged 8x35mm (HLT)</AmmoSet_8x35mmSRS.label>
+  <AmmoSet_8x35mmSupremacyCharged.label>munição 8x35mm Supremacy Charged</AmmoSet_8x35mmSupremacyCharged.label>
+  <AmmoSet_8x40mmCharged.label>8x40mm Charged</AmmoSet_8x40mmCharged.label>
+  <AmmoSet_8x50mmCMoyo.label>projétil Charged 8x50mm</AmmoSet_8x50mmCMoyo.label>
+  <AmmoSet_8x50mmCharged.label>8x50mm Charged</AmmoSet_8x50mmCharged.label>
+  <AmmoSet_8x50mmMoyo.label>projétil Charged 8x50mm</AmmoSet_8x50mmMoyo.label>
+  <AmmoSet_8x50mmPsychic.label>8x50mm psíquico</AmmoSet_8x50mmPsychic.label>
+  <AmmoSet_8x50mmRLebel.label>8x50mmR Lebel</AmmoSet_8x50mmRLebel.label>
+  <AmmoSet_8x50mmRLebel_SB.label>8x50mmR Lebel</AmmoSet_8x50mmRLebel_SB.label>
+  <AmmoSet_8x50mmRMannlicher.label>8x50mmR Mannlicher</AmmoSet_8x50mmRMannlicher.label>
+  <AmmoSet_8x60mmConstitution.label>8x60mm Constitution</AmmoSet_8x60mmConstitution.label>
+  <AmmoSet_90mmCannonShell.label>obuses de canhão 90mm</AmmoSet_90mmCannonShell.label>
+  <AmmoSet_90mmRecoilless.label>foguetes sem recuo 90mm</AmmoSet_90mmRecoilless.label>
+  <AmmoSet_950JDJ.label>.950 JDJ</AmmoSet_950JDJ.label>
+  <AmmoSet_95x40mmUNSC.label>9.5x40mm UNSC</AmmoSet_95x40mmUNSC.label>
+  <AmmoSet_9x18mmMakarov.label>9x18mm Makarov</AmmoSet_9x18mmMakarov.label>
+  <AmmoSet_9x19mmPara.label>9x19mm Para</AmmoSet_9x19mmPara.label>
+  <AmmoSet_9x19mmParaSD.label>9x19mm Para</AmmoSet_9x19mmParaSD.label>
+  <AmmoSet_9x19mmParaTwin_Feral.label>9x19mm Para duplo</AmmoSet_9x19mmParaTwin_Feral.label>
+  <AmmoSet_9x19mmPara_NonLethal.label>munição 9x19mm Para (Tranq)</AmmoSet_9x19mmPara_NonLethal.label>
+  <AmmoSet_9x19mmPara_VQEDL.label>9x19mm Para</AmmoSet_9x19mmPara_VQEDL.label>
+  <AmmoSet_9x20mmRed.label>9x20mm Redemption</AmmoSet_9x20mmRed.label>
+  <AmmoSet_9x21mmGyurza.label>9x21mm Gyurza</AmmoSet_9x21mmGyurza.label>
+  <AmmoSet_9x39mmSoviet.label>9x39mm soviético</AmmoSet_9x39mmSoviet.label>
+  <AmmoSet_9x70mmDiligent.label>9x70mm Diligent</AmmoSet_9x70mmDiligent.label>
+  <AmmoSet_AAR.label>clipe térmico</AmmoSet_AAR.label>
+  <AmmoSet_AOCPowerCell.label>AOC POWER CELL</AmmoSet_AOCPowerCell.label>
+  <AmmoSet_ARL_127x39mmCharged.label>cartucho 127x39mm HE Charged</AmmoSet_ARL_127x39mmCharged.label>
+  <AmmoSet_ASR.label>clipe térmico</AmmoSet_ASR.label>
+  <AmmoSet_Abyssnail.label>prego de liga Moyo</AmmoSet_Abyssnail.label>
+  <AmmoSet_Acidgat.label>Acidgat</AmmoSet_Acidgat.label>
+  <AmmoSet_Acidgat_Punched.label>conjunto de munição Vitriolic Withering</AmmoSet_Acidgat_Punched.label>
+  <AmmoSet_Acolyte.label>clipe térmico</AmmoSet_Acolyte.label>
+  <AmmoSet_Aesa.label>células de energia exóticas</AmmoSet_Aesa.label>
+  <AmmoSet_AmbanDisintegrator.label>explosão desintegradora</AmmoSet_AmbanDisintegrator.label>
+  <AmmoSet_AntiMateriel.label>antimaterial</AmmoSet_AntiMateriel.label>
+  <AmmoSet_AntyAcidCrossbow.label>dardo ácido</AmmoSet_AntyAcidCrossbow.label>
+  <AmmoSet_AntyAcidGlue.label>chumbo ácido</AmmoSet_AntyAcidGlue.label>
+  <AmmoSet_AntyAcidLauncher.label>lançador de ácido</AmmoSet_AntyAcidLauncher.label>
+  <AmmoSet_AntyAcidRifle.label>chumbo ácido</AmmoSet_AntyAcidRifle.label>
+  <AmmoSet_AntyGlueLauncher.label>lançador de cola</AmmoSet_AntyGlueLauncher.label>
+  <AmmoSet_AntyRedAcidCluster.label>lançador de ácido</AmmoSet_AntyRedAcidCluster.label>
+  <AmmoSet_AntyRedAcidGas.label>lançador de gás Refleum</AmmoSet_AntyRedAcidGas.label>
+  <AmmoSet_AntyRedAcidLauncher.label>lançador de ácido</AmmoSet_AntyRedAcidLauncher.label>
+  <AmmoSet_AntyRedAcidLine.label>blaster de linha ácida</AmmoSet_AntyRedAcidLine.label>
+  <AmmoSet_ArchoBow_CE_L.label>carga Archo (letal)</AmmoSet_ArchoBow_CE_L.label>
+  <AmmoSet_ArchoBow_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoBow_CE_NL.label>
+  <AmmoSet_ArchoCrossbow_CE_L.label>carga Archo (letal)</AmmoSet_ArchoCrossbow_CE_L.label>
+  <AmmoSet_ArchoCrossbow_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoCrossbow_CE_NL.label>
+  <AmmoSet_ArchoMG_CE_L.label>carga Archo (letal)</AmmoSet_ArchoMG_CE_L.label>
+  <AmmoSet_ArchoMG_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoMG_CE_NL.label>
+  <AmmoSet_ArchoPistol_CE_L.label>carga Archo (letal)</AmmoSet_ArchoPistol_CE_L.label>
+  <AmmoSet_ArchoPistol_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoPistol_CE_NL.label>
+  <AmmoSet_ArchoRifle_CE_L.label>carga Archo (letal)</AmmoSet_ArchoRifle_CE_L.label>
+  <AmmoSet_ArchoRifle_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoRifle_CE_NL.label>
+  <AmmoSet_ArchoShotgun_CE_L.label>carga Archo (letal)</AmmoSet_ArchoShotgun_CE_L.label>
+  <AmmoSet_ArchoShotgun_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoShotgun_CE_NL.label>
+  <AmmoSet_ArchoSniper_CE_L.label>carga Archo (letal)</AmmoSet_ArchoSniper_CE_L.label>
+  <AmmoSet_ArchoSniper_CE_NL.label>carga Archo (não letal)</AmmoSet_ArchoSniper_CE_NL.label>
+  <AmmoSet_AriadnanChainGun.label>fuzil de corrente Ariadnan</AmmoSet_AriadnanChainGun.label>
+  <AmmoSet_AriadnanMicroMissile.label>micro-mísseis Ariadnan</AmmoSet_AriadnanMicroMissile.label>
+  <AmmoSet_Arrow.label>flechas</AmmoSet_Arrow.label>
+  <AmmoSet_ArrowKijinFlame.label>flechas de chama</AmmoSet_ArrowKijinFlame.label>
+  <AmmoSet_ArrowKijinVenom.label>flechas de veneno</AmmoSet_ArrowKijinVenom.label>
+  <AmmoSet_Arrow_Training.label>flechas de treino</AmmoSet_Arrow_Training.label>
+  <AmmoSet_ArtilleryShell.label>obus de artilharia</AmmoSet_ArtilleryShell.label>
+  <AmmoSet_AssaultRifle_SK.label>fuzil Silkiera</AmmoSet_AssaultRifle_SK.label>
+  <AmmoSet_Astroflamer.label>astrocombustível</AmmoSet_Astroflamer.label>
+  <AmmoSet_Astroflamer_Burst.label>astrocombustível</AmmoSet_Astroflamer_Burst.label>
+  <AmmoSet_Autocannon.label>obus de autocanhão</AmmoSet_Autocannon.label>
+  <AmmoSet_BASRHeavyCrossbowBolt.label>virotes de besta</AmmoSet_BASRHeavyCrossbowBolt.label>
+  <AmmoSet_BFG.label>célula de energia</AmmoSet_BFG.label>
+  <AmmoSet_BFaith.label>incinerador de plasma</AmmoSet_BFaith.label>
+  <AmmoSet_BGM71.label>152mm ATGM</AmmoSet_BGM71.label>
+  <AmmoSet_BG_AT.label>flechas Maru</AmmoSet_BG_AT.label>
+  <AmmoSet_BG_O.label>flechas Maru</AmmoSet_BG_O.label>
+  <AmmoSet_BTP_132mmM13.label>foguetes 132mm M13</AmmoSet_BTP_132mmM13.label>
+  <AmmoSet_BallistaJavelins.label>azagaias</AmmoSet_BallistaJavelins.label>
+  <AmmoSet_Ballistic_Blade.label>lâminas kniper</AmmoSet_Ballistic_Blade.label>
+  <AmmoSet_BeamRepeater.label>carga de laser</AmmoSet_BeamRepeater.label>
+  <AmmoSet_BigSmall_GiantArrow.label>flechas gigantes</AmmoSet_BigSmall_GiantArrow.label>
+  <AmmoSet_BlackWidow.label>clipe térmico</AmmoSet_BlackWidow.label>
+  <AmmoSet_BlackWidowArrow.label>flechas de viúva negra</AmmoSet_BlackWidowArrow.label>
+  <AmmoSet_Blowdart.label>dardos de zarabatana</AmmoSet_Blowdart.label>
+  <AmmoSet_Blowdart_AB.label>dardos de zarabatana</AmmoSet_Blowdart_AB.label>
+  <AmmoSet_BlunderShot.label>chumbo Blunder</AmmoSet_BlunderShot.label>
+  <AmmoSet_BlunderbussShot.label>chumbo de blunderbuss</AmmoSet_BlunderbussShot.label>
+  <AmmoSet_Blundergat.label>Blundergat</AmmoSet_Blundergat.label>
+  <AmmoSet_Blundergat_Punched.label>conjunto de munição da Sweeper</AmmoSet_Blundergat_Punched.label>
+  <AmmoSet_BoltXonus.label>dardo Xonus</AmmoSet_BoltXonus.label>
+  <AmmoSet_Bolter50.label>.50 Cal Bolter</AmmoSet_Bolter50.label>
+  <AmmoSet_Bolter75.label>.75 Cal Bolter</AmmoSet_Bolter75.label>
+  <AmmoSet_Bolter75_Relic.label>.75 Cal Bolter</AmmoSet_Bolter75_Relic.label>
+  <AmmoSet_Bolter998.label>.998 Cal Bolter</AmmoSet_Bolter998.label>
+  <AmmoSet_CPB_AO.label>flechas Maru</AmmoSet_CPB_AO.label>
+  <AmmoSet_CPB_AOT.label>flechas Maru</AmmoSet_CPB_AOT.label>
+  <AmmoSet_CPB_AT.label>flechas Maru</AmmoSet_CPB_AT.label>
+  <AmmoSet_CPB_ATT.label>flechas Maru</AmmoSet_CPB_ATT.label>
+  <AmmoSet_CPB_BO.label>flechas Maru</AmmoSet_CPB_BO.label>
+  <AmmoSet_CPB_BOT.label>flechas Maru</AmmoSet_CPB_BOT.label>
+  <AmmoSet_CPB_BT.label>flechas Maru</AmmoSet_CPB_BT.label>
+  <AmmoSet_CPB_BTT.label>flechas Maru</AmmoSet_CPB_BTT.label>
+  <AmmoSet_CPB_O.label>flechas Maru</AmmoSet_CPB_O.label>
+  <AmmoSet_CPB_OT.label>flechas Maru</AmmoSet_CPB_OT.label>
+  <AmmoSet_Cannibal.label>tecnologia Reaper</AmmoSet_Cannibal.label>
+  <AmmoSet_CannonBall.label>bala de canhão</AmmoSet_CannonBall.label>
+  <AmmoSet_CannonBall_Mortar.label>bala de canhão</AmmoSet_CannonBall_Mortar.label>
+  <AmmoSet_Catapult.label>munição de máquina de cerco</AmmoSet_Catapult.label>
+  <AmmoSet_Chakram.label>clipe térmico</AmmoSet_Chakram.label>
+  <AmmoSet_ChargedGreatArrow.label>flechas grandes de plasteel</AmmoSet_ChargedGreatArrow.label>
+  <AmmoSet_ChargedHeavy.label>carga pesada</AmmoSet_ChargedHeavy.label>
+  <AmmoSet_ChargedPistol.label>pistola de carga</AmmoSet_ChargedPistol.label>
+  <AmmoSet_ChargedRifle.label>fuzil de carga</AmmoSet_ChargedRifle.label>
+  <AmmoSet_ChargedRockets.label>foguetes Charged</AmmoSet_ChargedRockets.label>
+  <AmmoSet_ChargedShotgun.label>espingarda de carga</AmmoSet_ChargedShotgun.label>
+  <AmmoSet_ChemicalCompoundOE.label>composto de munição química OE</AmmoSet_ChemicalCompoundOE.label>
+  <AmmoSet_ChissMaser_Carbine.label>feixe maser de carabina</AmmoSet_ChissMaser_Carbine.label>
+  <AmmoSet_ChissMaser_Pistol.label>feixe maser de pistola</AmmoSet_ChissMaser_Pistol.label>
+  <AmmoSet_ChissMaser_Rifle.label>feixe maser de fuzil</AmmoSet_ChissMaser_Rifle.label>
+  <AmmoSet_CoilLance.label>8mm railgun</AmmoSet_CoilLance.label>
+  <AmmoSet_Collossus.label>tecnologia Reaper</AmmoSet_Collossus.label>
+  <AmmoSet_CompoundArrow.label>flechas compostas</AmmoSet_CompoundArrow.label>
+  <AmmoSet_CrossbowBolt.label>virotes de besta</AmmoSet_CrossbowBolt.label>
+  <AmmoSet_Crusader.label>clipe térmico</AmmoSet_Crusader.label>
+  <AmmoSet_CryoHarpoon.label>arpão criogênico pesado</AmmoSet_CryoHarpoon.label>
+  <AmmoSet_CryoRifle.label>célula criogênica Moyo</AmmoSet_CryoRifle.label>
+  <AmmoSet_Cryoblaster.label>célula criogênica Moyo</AmmoSet_Cryoblaster.label>
+  <AmmoSet_CryptoCannon.label>canhão Crypto</AmmoSet_CryptoCannon.label>
+  <AmmoSet_CryptoPistol.label>pistola Crypto</AmmoSet_CryptoPistol.label>
+  <AmmoSet_CryptoRifle.label>fuzil Crypto</AmmoSet_CryptoRifle.label>
+  <AmmoSet_CryptoShotgun.label>espingarda Crypto</AmmoSet_CryptoShotgun.label>
+  <AmmoSet_DV_PulseRifle.label>pacote de pulso</AmmoSet_DV_PulseRifle.label>
+  <AmmoSet_DV_PulseSMG.label>pacote de pulso</AmmoSet_DV_PulseSMG.label>
+  <AmmoSet_DV_PulseSuppressor.label>pacote de pulso</AmmoSet_DV_PulseSuppressor.label>
+  <AmmoSet_DankPyonArbalestBolt.label>virotes de besta</AmmoSet_DankPyonArbalestBolt.label>
+  <AmmoSet_DankPyonCrossbowBolt.label>virotes de besta</AmmoSet_DankPyonCrossbowBolt.label>
+  <AmmoSet_DartRifle_NonLethal.label>fuzil de dardos</AmmoSet_DartRifle_NonLethal.label>
+  <AmmoSet_DestructorLaser.label>carga de laser</AmmoSet_DestructorLaser.label>
+  <AmmoSet_Disciple.label>clipe térmico</AmmoSet_Disciple.label>
+  <AmmoSet_DisruptorFlare.label>obus de sinalizador disruptor</AmmoSet_DisruptorFlare.label>
+  <AmmoSet_Doom2016Bfg9000Gun.label>célula UAC BFG</AmmoSet_Doom2016Bfg9000Gun.label>
+  <AmmoSet_Doom2016EmgMkVPistol.label>célula UAC EMG</AmmoSet_Doom2016EmgMkVPistol.label>
+  <AmmoSet_Doom2016GaussCannon.label>célula de plasma UAC</AmmoSet_Doom2016GaussCannon.label>
+  <AmmoSet_Doom2016Hellshot.label>célula de plasma UAC</AmmoSet_Doom2016Hellshot.label>
+  <AmmoSet_Doom2016PlasmaGun.label>célula de plasma UAC</AmmoSet_Doom2016PlasmaGun.label>
+  <AmmoSet_Doom2016Rocket.label>foguete UAC Mk VI</AmmoSet_Doom2016Rocket.label>
+  <AmmoSet_Doom2016VortexRifle.label>célula de plasma UAC</AmmoSet_Doom2016VortexRifle.label>
+  <AmmoSet_DoomClassicBfg9000Gun.label>célula de energia UAC</AmmoSet_DoomClassicBfg9000Gun.label>
+  <AmmoSet_DoomClassicPlasmaGun.label>célula de energia UAC</AmmoSet_DoomClassicPlasmaGun.label>
+  <AmmoSet_DoomClassicRocket.label>foguete UAC Mk I</AmmoSet_DoomClassicRocket.label>
+  <AmmoSet_DragonFireArrow.label>flechas grandes</AmmoSet_DragonFireArrow.label>
+  <AmmoSet_Dragonator.label>espeto Dragonator</AmmoSet_Dragonator.label>
+  <AmmoSet_Eagle.label>clipe térmico</AmmoSet_Eagle.label>
+  <AmmoSet_Elemental_Staff_Fire.label>conjunto de cristal elemental de fogo</AmmoSet_Elemental_Staff_Fire.label>
+  <AmmoSet_Elemental_Staff_Fire_Punched.label>conjunto de cristal elemental de fogo potencializado</AmmoSet_Elemental_Staff_Fire_Punched.label>
+  <AmmoSet_Elemental_Staff_Ice.label>conjunto de cristal elemental de gelo</AmmoSet_Elemental_Staff_Ice.label>
+  <AmmoSet_Elemental_Staff_Ice_Punched.label>conjunto de cristal elemental de gelo potencializado</AmmoSet_Elemental_Staff_Ice_Punched.label>
+  <AmmoSet_Elemental_Staff_Lightning.label>conjunto de cristal elemental de raio</AmmoSet_Elemental_Staff_Lightning.label>
+  <AmmoSet_Elemental_Staff_Lightning_Punched.label>conjunto de cristal elemental de raio potencializado</AmmoSet_Elemental_Staff_Lightning_Punched.label>
+  <AmmoSet_Elemental_Staff_Wind.label>conjunto de cristal elemental de vento</AmmoSet_Elemental_Staff_Wind.label>
+  <AmmoSet_Elemental_Staff_Wind_Punched.label>conjunto de cristal elemental de vento potencializado</AmmoSet_Elemental_Staff_Wind_Punched.label>
+  <AmmoSet_EltexHeavy.label>Eltex (lança)</AmmoSet_EltexHeavy.label>
+  <AmmoSet_EltexLight.label>Eltex (pistola)</AmmoSet_EltexLight.label>
+  <AmmoSet_EltexMedium.label>Eltex (fuzil)</AmmoSet_EltexMedium.label>
+  <AmmoSet_Epona_Molten.label>pulso de plasma</AmmoSet_Epona_Molten.label>
+  <AmmoSet_Epona_Plasma.label>pulso de fragmento</AmmoSet_Epona_Plasma.label>
+  <AmmoSet_Epona_Shard.label>pulso de fragmento</AmmoSet_Epona_Shard.label>
+  <AmmoSet_Epona_Shock.label>pulso tóxico</AmmoSet_Epona_Shock.label>
+  <AmmoSet_Equilibrium.label>células de energia exóticas</AmmoSet_Equilibrium.label>
+  <AmmoSet_ExileAccelerated.label>célula de plasma pesada</AmmoSet_ExileAccelerated.label>
+  <AmmoSet_ExileLight.label>célula de plasma leve</AmmoSet_ExileLight.label>
+  <AmmoSet_ExileMid.label>célula de plasma de fuzil</AmmoSet_ExileMid.label>
+  <AmmoSet_ExileRifle.label>célula de plasma de fuzil (acelerada)</AmmoSet_ExileRifle.label>
+  <AmmoSet_FN57x28mm.label>FN 5.7x28mm</AmmoSet_FN57x28mm.label>
+  <AmmoSet_FastMusketBall.label>bala de mosquete</AmmoSet_FastMusketBall.label>
+  <AmmoSet_Feral_Nail.label>prego</AmmoSet_Feral_Nail.label>
+  <AmmoSet_Feral_Rivet.label>prego</AmmoSet_Feral_Rivet.label>
+  <AmmoSet_Feral_Scrap.label>sucata</AmmoSet_Feral_Scrap.label>
+  <AmmoSet_Flamethrower.label>combustível de lança-chamas</AmmoSet_Flamethrower.label>
+  <AmmoSet_Flare.label>obus de sinalizador</AmmoSet_Flare.label>
+  <AmmoSet_Flechette.label>flechete</AmmoSet_Flechette.label>
+  <AmmoSet_FletcherDart.label>dardo Fletcher</AmmoSet_FletcherDart.label>
+  <AmmoSet_FletchlingDart.label>dardo Fletchling</AmmoSet_FletchlingDart.label>
+  <AmmoSet_ForsakensArrows.label>flechas forsaken</AmmoSet_ForsakensArrows.label>
+  <AmmoSet_GarrisonCrossbowBolt.label>virotes de besta</AmmoSet_GarrisonCrossbowBolt.label>
+  <AmmoSet_GaussCannon.label>célula de energia</AmmoSet_GaussCannon.label>
+  <AmmoSet_GaussRepeater_HR.label>6mm railgun</AmmoSet_GaussRepeater_HR.label>
+  <AmmoSet_GaussRevolver_HR.label>6mm railgun</AmmoSet_GaussRevolver_HR.label>
+  <AmmoSet_GethRifle.label>clipe térmico Geth</AmmoSet_GethRifle.label>
+  <AmmoSet_GethSMG.label>clipe térmico Geth</AmmoSet_GethSMG.label>
+  <AmmoSet_GethShotgun.label>clipe térmico Geth</AmmoSet_GethShotgun.label>
+  <AmmoSet_GethSniper.label>clipe térmico Geth</AmmoSet_GethSniper.label>
+  <AmmoSet_GethSpitfire.label>clipe térmico Geth</AmmoSet_GethSpitfire.label>
+  <AmmoSet_GhostFlintlock_MusketBall.label>bala de mosquete</AmmoSet_GhostFlintlock_MusketBall.label>
+  <AmmoSet_GlacialSF.label>células de energia exóticas</AmmoSet_GlacialSF.label>
+  <AmmoSet_Goliath.label>tecnologia Reaper</AmmoSet_Goliath.label>
+  <AmmoSet_GravCell.label>célula de energia de gráviton</AmmoSet_GravCell.label>
+  <AmmoSet_GreatArrow.label>flechas grandes</AmmoSet_GreatArrow.label>
+  <AmmoSet_GreatArrowAntipode.label>flechas grandes</AmmoSet_GreatArrowAntipode.label>
+  <AmmoSet_GreatArrowNyaron.label>flechas grandes</AmmoSet_GreatArrowNyaron.label>
+  <AmmoSet_GreatArrowRoMThrumbo.label>flechas grandes</AmmoSet_GreatArrowRoMThrumbo.label>
+  <AmmoSet_GreatArrowWOW.label>flechas grandes</AmmoSet_GreatArrowWOW.label>
+  <AmmoSet_GrowthRay.label>célula de energia de raio de crescimento</AmmoSet_GrowthRay.label>
+  <AmmoSet_HandgonneShot.label>chumbo de handgonne</AmmoSet_HandgonneShot.label>
+  <AmmoSet_Headhunter.label>disparo instável</AmmoSet_Headhunter.label>
+  <AmmoSet_HeavyCannon.label>obus de canhão pesado</AmmoSet_HeavyCannon.label>
+  <AmmoSet_HeavyLaser.label>carga de laser pesada</AmmoSet_HeavyLaser.label>
+  <AmmoSet_Hellshot.label>célula de energia</AmmoSet_Hellshot.label>
+  <AmmoSet_HuntardArrow.label>flechas</AmmoSet_HuntardArrow.label>
+  <AmmoSet_HuntingArrow.label>flechas</AmmoSet_HuntingArrow.label>
+  <AmmoSet_Hurricane.label>clipe térmico</AmmoSet_Hurricane.label>
+  <AmmoSet_Hwacha.label>flechas de hwacha</AmmoSet_Hwacha.label>
+  <AmmoSet_Hydrashotty.label>clipe térmico</AmmoSet_Hydrashotty.label>
+  <AmmoSet_ImpactShellsBig.label>obuses de impacto (grande)</AmmoSet_ImpactShellsBig.label>
+  <AmmoSet_ImpactShellsBolter.label>obuses de impacto (Bolter)</AmmoSet_ImpactShellsBolter.label>
+  <AmmoSet_ImpactShellsShell.label>obuses de impacto (obus)</AmmoSet_ImpactShellsShell.label>
+  <AmmoSet_ImpactShellsSlugger.label>obuses de impacto (Slugger)</AmmoSet_ImpactShellsSlugger.label>
+  <AmmoSet_ImpactShellsSmall.label>obuses de impacto (pequeno)</AmmoSet_ImpactShellsSmall.label>
+  <AmmoSet_ImpactShellsSniper.label>obuses de impacto (atirador de elite)</AmmoSet_ImpactShellsSniper.label>
+  <AmmoSet_Incinerator_Burst.label>combustível de lança-chamas</AmmoSet_Incinerator_Burst.label>
+  <AmmoSet_JICarbine.label>balote fundido</AmmoSet_JICarbine.label>
+  <AmmoSet_JIRocket.label>arma de saraivada fundida</AmmoSet_JIRocket.label>
+  <AmmoSet_JISiege.label>canhão de cerco</AmmoSet_JISiege.label>
+  <AmmoSet_JISlag.label>cartucho semifundido</AmmoSet_JISlag.label>
+  <AmmoSet_JIStandard.label>balote fundido</AmmoSet_JIStandard.label>
+  <AmmoSet_JISuppressor.label>balote fundido</AmmoSet_JISuppressor.label>
+  <AmmoSet_JI_AMR.label>balote de liga de alta densidade</AmmoSet_JI_AMR.label>
+  <AmmoSet_Javelins.label>azagaias</AmmoSet_Javelins.label>
+  <AmmoSet_Judgment.label>obus cluster calibre 8</AmmoSet_Judgment.label>
+  <AmmoSet_K4GType74mmRocket.label>foguetes Type 74mm</AmmoSet_K4GType74mmRocket.label>
+  <AmmoSet_KIT_PlasmaPistol.label>célula de energia de pistola de plasma</AmmoSet_KIT_PlasmaPistol.label>
+  <AmmoSet_KIT_PlasmaRifle.label>célula de energia de fuzil de plasma</AmmoSet_KIT_PlasmaRifle.label>
+  <AmmoSet_KIT_PlasmaSMG.label>célula de energia de pistola de plasma</AmmoSet_KIT_PlasmaSMG.label>
+  <AmmoSet_KIT_PlasmaSniper.label>célula de energia de plasma pesada (atirador de elite)</AmmoSet_KIT_PlasmaSniper.label>
+  <AmmoSet_Katana.label>clipe térmico</AmmoSet_Katana.label>
+  <AmmoSet_Konkur.label>mísseis 9M113</AmmoSet_Konkur.label>
+  <AmmoSet_L89.label>clipe térmico</AmmoSet_L89.label>
+  <AmmoSet_LargeCannonBall.label>bala de canhão grande</AmmoSet_LargeCannonBall.label>
+  <AmmoSet_LaserEMP_FusterClucker.label>pacote de carga (EMP)</AmmoSet_LaserEMP_FusterClucker.label>
+  <AmmoSet_LaserEMP_Rimsenal.label>pacote de carga (EMP)</AmmoSet_LaserEMP_Rimsenal.label>
+  <AmmoSet_LaserMiniGun.label>carga de laser</AmmoSet_LaserMiniGun.label>
+  <AmmoSet_LaserPistol.label>carga de laser</AmmoSet_LaserPistol.label>
+  <AmmoSet_LaserRifle_VWE.label>carga de laser</AmmoSet_LaserRifle_VWE.label>
+  <AmmoSet_LaserSMG.label>carga de laser</AmmoSet_LaserSMG.label>
+  <AmmoSet_LaserShotgun.label>carga de laser</AmmoSet_LaserShotgun.label>
+  <AmmoSet_LaserSniperRifle.label>carga de laser</AmmoSet_LaserSniperRifle.label>
+  <AmmoSet_LaserTeslaGun.label>carga de laser</AmmoSet_LaserTeslaGun.label>
+  <AmmoSet_Laser_Carbine.label>carga de laser</AmmoSet_Laser_Carbine.label>
+  <AmmoSet_Laser_Handcannon.label>carga de laser</AmmoSet_Laser_Handcannon.label>
+  <AmmoSet_Laser_Scatterer.label>carga de laser</AmmoSet_Laser_Scatterer.label>
+  <AmmoSet_LaserpulseLongrifle.label>carga de laser</AmmoSet_LaserpulseLongrifle.label>
+  <AmmoSet_Lasgun_Cannon.label>pacote de energia de lasgun</AmmoSet_Lasgun_Cannon.label>
+  <AmmoSet_Lasgun_CannonDouble.label>pacote de energia de lasgun</AmmoSet_Lasgun_CannonDouble.label>
+  <AmmoSet_Lasgun_HellGun.label>pacote de energia de lasgun</AmmoSet_Lasgun_HellGun.label>
+  <AmmoSet_Lasgun_Pistol.label>pacote de energia de lasgun</AmmoSet_Lasgun_Pistol.label>
+  <AmmoSet_Lasgun_Rifle.label>pacote de energia de lasgun</AmmoSet_Lasgun_Rifle.label>
+  <AmmoSet_LauncherGrenade.label>granada de lançador</AmmoSet_LauncherGrenade.label>
+  <AmmoSet_Lens.label>disparo instável</AmmoSet_Lens.label>
+  <AmmoSet_LightCannon.label>obus de canhão leve</AmmoSet_LightCannon.label>
+  <AmmoSet_LightbowArrows.label>flechas de arco leve</AmmoSet_LightbowArrows.label>
+  <AmmoSet_Locust.label>clipe térmico</AmmoSet_Locust.label>
+  <AmmoSet_M15.label>clipe térmico</AmmoSet_M15.label>
+  <AmmoSet_M19.label>cilindro de plasma</AmmoSet_M19.label>
+  <AmmoSet_M29.label>clipe térmico</AmmoSet_M29.label>
+  <AmmoSet_M41Rocket.label>foguetes M41</AmmoSet_M41Rocket.label>
+  <AmmoSet_M6Rocket.label>foguetes M6</AmmoSet_M6Rocket.label>
+  <AmmoSet_M73.label>foguetes M73</AmmoSet_M73.label>
+  <AmmoSet_M74.label>foguetes M74</AmmoSet_M74.label>
+  <AmmoSet_M74_TC.label>foguetes M74</AmmoSet_M74_TC.label>
+  <AmmoSet_M8.label>clipe térmico</AmmoSet_M8.label>
+  <AmmoSet_M98.label>clipe térmico</AmmoSet_M98.label>
+  <AmmoSet_M98_Geth.label>clipe térmico Geth</AmmoSet_M98_Geth.label>
+  <AmmoSet_ME_Cannon.label>clipe térmico</AmmoSet_ME_Cannon.label>
+  <AmmoSet_ML77CE.label>míssil ML-77</AmmoSet_ML77CE.label>
+  <AmmoSet_MabyssalAccelerated.label>célula de plasma pesada</AmmoSet_MabyssalAccelerated.label>
+  <AmmoSet_MabyssalLight.label>célula de plasma leve</AmmoSet_MabyssalLight.label>
+  <AmmoSet_MabyssalMid.label>célula de plasma de fuzil</AmmoSet_MabyssalMid.label>
+  <AmmoSet_Magmagat.label>Magmagat</AmmoSet_Magmagat.label>
+  <AmmoSet_Magmagat_Punched.label>conjunto de munição Magmus Operandi</AmmoSet_Magmagat_Punched.label>
+  <AmmoSet_Mantis.label>clipe térmico</AmmoSet_Mantis.label>
+  <AmmoSet_MantoPoison.label>gel tóxico mantodeano</AmmoSet_MantoPoison.label>
+  <AmmoSet_Marauder.label>tecnologia Reaper</AmmoSet_Marauder.label>
+  <AmmoSet_MechCharged.label>munição de carga de mech</AmmoSet_MechCharged.label>
+  <AmmoSet_MechPsyRifle.label>chumbo psíquico</AmmoSet_MechPsyRifle.label>
+  <AmmoSet_MechPsyShot.label>chumbo psíquico</AmmoSet_MechPsyShot.label>
+  <AmmoSet_MechShell_Demo.label>obus de mech (Demo)</AmmoSet_MechShell_Demo.label>
+  <AmmoSet_MechShell_Incendiary.label>obus de mech (incendiário)</AmmoSet_MechShell_Incendiary.label>
+  <AmmoSet_MedievalFlamethrower.label>granadas lança-chamas medievais</AmmoSet_MedievalFlamethrower.label>
+  <AmmoSet_Medusa_M-47.label>9mm até .357 Magnum</AmmoSet_Medusa_M-47.label>
+  <AmmoSet_MeltaCharge.label>carga melta</AmmoSet_MeltaCharge.label>
+  <AmmoSet_MiGoCastingWeapon.label>munição de arma de conjuração MiGo</AmmoSet_MiGoCastingWeapon.label>
+  <AmmoSet_MihoMissile.label>míssil Miho</AmmoSet_MihoMissile.label>
+  <AmmoSet_MihoMissile_S.label>Miho AT RR</AmmoSet_MihoMissile_S.label>
+  <AmmoSet_MihoPlasma.label>célula de plasma de fuzil</AmmoSet_MihoPlasma.label>
+  <AmmoSet_MihoPlasmaSniper.label>célula de plasma de fuzil</AmmoSet_MihoPlasmaSniper.label>
+  <AmmoSet_MihoPlasmaThermo.label>termobárico</AmmoSet_MihoPlasmaThermo.label>
+  <AmmoSet_MiniCannonBall.label>bala de canhão mini</AmmoSet_MiniCannonBall.label>
+  <AmmoSet_MoltenShell.label>obus fundidos</AmmoSet_MoltenShell.label>
+  <AmmoSet_MonoArrow.label>flecha mono</AmmoSet_MonoArrow.label>
+  <AmmoSet_MortarGrenade.label>granadas de morteiro</AmmoSet_MortarGrenade.label>
+  <AmmoSet_MoyoBallista.label>virote de carga Moyo</AmmoSet_MoyoBallista.label>
+  <AmmoSet_Nail.label>prego</AmmoSet_Nail.label>
+  <AmmoSet_Nail_HV.label>prego</AmmoSet_Nail_HV.label>
+  <AmmoSet_NanobotsMicroTurret.label>nanorrobôs (MicroTurret)</AmmoSet_NanobotsMicroTurret.label>
+  <AmmoSet_NerveSpikerBolt.label>virotes de espetador nervoso</AmmoSet_NerveSpikerBolt.label>
+  <AmmoSet_NeutronCell.label>partícula de nêutron</AmmoSet_NeutronCell.label>
+  <AmmoSet_Nomad.label>disparo instável</AmmoSet_Nomad.label>
+  <AmmoSet_NordbergHarpoons.label>arpões</AmmoSet_NordbergHarpoons.label>
+  <AmmoSet_NuckelaveeShotgun.label>disparo térmico</AmmoSet_NuckelaveeShotgun.label>
+  <AmmoSet_NyaronCellBall.label>bola de energia</AmmoSet_NyaronCellBall.label>
+  <AmmoSet_NyaronCellBullet.label>bola de energia</AmmoSet_NyaronCellBullet.label>
+  <AmmoSet_NyaronCellLaser.label>bola de energia</AmmoSet_NyaronCellLaser.label>
+  <AmmoSet_NyaronFlakGrenade.label>granadas flak Nyaron</AmmoSet_NyaronFlakGrenade.label>
+  <AmmoSet_Nym.label>12 Gauge</AmmoSet_Nym.label>
+  <AmmoSet_Oberon.label>raios de energia tóxicos</AmmoSet_Oberon.label>
+  <AmmoSet_OrassanMissileShell.label>obuses de míssil Orassan</AmmoSet_OrassanMissileShell.label>
+  <AmmoSet_OuterRimMiniRockets.label>foguetes antipessoal</AmmoSet_OuterRimMiniRockets.label>
+  <AmmoSet_OuterRimRockets.label>foguetes RPS-6</AmmoSet_OuterRimRockets.label>
+  <AmmoSet_Paladin.label>luz sólida</AmmoSet_Paladin.label>
+  <AmmoSet_PanielHowitzerShell.label>obuses de obuseiro Paniel</AmmoSet_PanielHowitzerShell.label>
+  <AmmoSet_PanielLSWMulti.label>munições de lançador múltiplo Paniel</AmmoSet_PanielLSWMulti.label>
+  <AmmoSet_PanielRailShell.label>obuses de railgun Paniel</AmmoSet_PanielRailShell.label>
+  <AmmoSet_Phalanx.label>clipe térmico</AmmoSet_Phalanx.label>
+  <AmmoSet_PhotonBlaster.label>carga de fóton</AmmoSet_PhotonBlaster.label>
+  <AmmoSet_Piranha.label>clipe térmico</AmmoSet_Piranha.label>
+  <AmmoSet_Pistol.label>pistola</AmmoSet_Pistol.label>
+  <AmmoSet_PistolMagnum.label>pistola magnum</AmmoSet_PistolMagnum.label>
+  <AmmoSet_PistolYP.label>YP pequeno</AmmoSet_PistolYP.label>
+  <AmmoSet_PlasmaBlaster.label>célula de plasma quente</AmmoSet_PlasmaBlaster.label>
+  <AmmoSet_PlasmaCanister_Cannon.label>recipiente de plasma</AmmoSet_PlasmaCanister_Cannon.label>
+  <AmmoSet_PlasmaCanister_Destroyer.label>recipiente de plasma</AmmoSet_PlasmaCanister_Destroyer.label>
+  <AmmoSet_PlasmaCanister_Pistol.label>recipiente de plasma</AmmoSet_PlasmaCanister_Pistol.label>
+  <AmmoSet_PlasmaCanister_Pistol_Relic.label>recipiente de plasma</AmmoSet_PlasmaCanister_Pistol_Relic.label>
+  <AmmoSet_PlasmaCanister_Rifle.label>recipiente de plasma</AmmoSet_PlasmaCanister_Rifle.label>
+  <AmmoSet_PlasmaCanister_Rifle_Relic.label>recipiente de plasma</AmmoSet_PlasmaCanister_Rifle_Relic.label>
+  <AmmoSet_PlasmaCellHeavy.label>célula de energia de plasma pesada</AmmoSet_PlasmaCellHeavy.label>
+  <AmmoSet_PlasmaCellPistol.label>célula de energia de pistola de plasma</AmmoSet_PlasmaCellPistol.label>
+  <AmmoSet_PlasmaCellRifle.label>célula de energia de fuzil de plasma</AmmoSet_PlasmaCellRifle.label>
+  <AmmoSet_PlasmaCellShotgun_HRACA.label>célula de energia de espingarda de plasma</AmmoSet_PlasmaCellShotgun_HRACA.label>
+  <AmmoSet_PlasmaGasCartridgeBlue_Pistol.label>raios de blaster de pistola (azul)</AmmoSet_PlasmaGasCartridgeBlue_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeBlue_Rifle.label>raios de blaster de fuzil (azul)</AmmoSet_PlasmaGasCartridgeBlue_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeBlue_Sniper.label>raios de blaster pesados (azul)</AmmoSet_PlasmaGasCartridgeBlue_Sniper.label>
+  <AmmoSet_PlasmaGasCartridgeGreen_Pistol.label>raios de blaster de pistola (verde)</AmmoSet_PlasmaGasCartridgeGreen_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeGreen_Rifle.label>raios de blaster de fuzil (verde)</AmmoSet_PlasmaGasCartridgeGreen_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeGreen_Sniper.label>raios de blaster pesados (verde)</AmmoSet_PlasmaGasCartridgeGreen_Sniper.label>
+  <AmmoSet_PlasmaGasCartridgeIonOnly_Pistol.label>explosões de íons de pistola</AmmoSet_PlasmaGasCartridgeIonOnly_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeIonOnly_Rifle.label>rajadas de íons de fuzil</AmmoSet_PlasmaGasCartridgeIonOnly_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeIonOnly_Sniper.label>explosões de íons pesadas</AmmoSet_PlasmaGasCartridgeIonOnly_Sniper.label>
+  <AmmoSet_PlasmaGasCartridgeIon_Pistol.label>raios de blaster ionizados de pistola</AmmoSet_PlasmaGasCartridgeIon_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeIon_Rifle.label>raios de blaster ionizados de fuzil</AmmoSet_PlasmaGasCartridgeIon_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeIon_Sniper.label>raios de blaster ionizados pesados</AmmoSet_PlasmaGasCartridgeIon_Sniper.label>
+  <AmmoSet_PlasmaGasCartridgeRed_Pistol.label>raios de blaster de pistola (vermelho)</AmmoSet_PlasmaGasCartridgeRed_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeRed_Rifle.label>raios de blaster de fuzil (vermelho)</AmmoSet_PlasmaGasCartridgeRed_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeRed_Sniper.label>raios de blaster pesados (vermelho)</AmmoSet_PlasmaGasCartridgeRed_Sniper.label>
+  <AmmoSet_PlasmaGasCartridgeStun_Pistol.label>raios de blaster não letais de pistola</AmmoSet_PlasmaGasCartridgeStun_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeStun_Rifle.label>raios de blaster não letais de fuzil</AmmoSet_PlasmaGasCartridgeStun_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeStun_Sniper.label>raios de blaster não letais pesados</AmmoSet_PlasmaGasCartridgeStun_Sniper.label>
+  <AmmoSet_PlasmaGasCartridgeYellow_Pistol.label>raios de blaster de pistola (amarelo)</AmmoSet_PlasmaGasCartridgeYellow_Pistol.label>
+  <AmmoSet_PlasmaGasCartridgeYellow_Rifle.label>raios de blaster de fuzil (amarelo)</AmmoSet_PlasmaGasCartridgeYellow_Rifle.label>
+  <AmmoSet_PlasmaGasCartridgeYellow_Sniper.label>raios de blaster pesados (amarelo)</AmmoSet_PlasmaGasCartridgeYellow_Sniper.label>
+  <AmmoSet_PlasmaGasCartridge_DualShot.label>raios de blaster de disparo duplo (vermelho)</AmmoSet_PlasmaGasCartridge_DualShot.label>
+  <AmmoSet_PlasmaGasCartridge_Scatter.label>raios de Scatterblaster</AmmoSet_PlasmaGasCartridge_Scatter.label>
+  <AmmoSet_PlasmaHellgator.label>célula de plasma</AmmoSet_PlasmaHellgator.label>
+  <AmmoSet_PlasmaImmolator.label>célula de plasma</AmmoSet_PlasmaImmolator.label>
+  <AmmoSet_PlasmaRifle.label>célula de energia</AmmoSet_PlasmaRifle.label>
+  <AmmoSet_Predator.label>clipe térmico</AmmoSet_Predator.label>
+  <AmmoSet_ProfanedGreatbowArrow.label>flechas grandes</AmmoSet_ProfanedGreatbowArrow.label>
+  <AmmoSet_RM_5x35mmH.label>5x35mm Hyper</AmmoSet_RM_5x35mmH.label>
+  <AmmoSet_RM_5x35mmS.label>5x35mm Special</AmmoSet_RM_5x35mmS.label>
+  <AmmoSet_RM_CoilPistolGun.label>carga de bobina</AmmoSet_RM_CoilPistolGun.label>
+  <AmmoSet_RM_CoilRifleGun.label>carga de bobina</AmmoSet_RM_CoilRifleGun.label>
+  <AmmoSet_RM_TeslaGun.label>carga de bobina</AmmoSet_RM_TeslaGun.label>
+  <AmmoSet_RNPlasmaCharge.label>célula de energia de canhão de plasma</AmmoSet_RNPlasmaCharge.label>
+  <AmmoSet_RNTeslaCharge.label>célula de energia de bobina de Tesla</AmmoSet_RNTeslaCharge.label>
+  <AmmoSet_RPG16Grenade.label>granadas RPG-16</AmmoSet_RPG16Grenade.label>
+  <AmmoSet_RPG29.label>mísseis RPG29</AmmoSet_RPG29.label>
+  <AmmoSet_RPG32Rocket.label>foguetes RPG-32</AmmoSet_RPG32Rocket.label>
+  <AmmoSet_RPG7Grenade.label>granadas RPG-7</AmmoSet_RPG7Grenade.label>
+  <AmmoSet_RS422Railgun.label>dardo de railgun</AmmoSet_RS422Railgun.label>
+  <AmmoSet_RSBeamCarbine.label>carga de pastador</AmmoSet_RSBeamCarbine.label>
+  <AmmoSet_RSBeamPistol.label>carga de pastador</AmmoSet_RSBeamPistol.label>
+  <AmmoSet_RSBeamShotgun.label>carga de pastador</AmmoSet_RSBeamShotgun.label>
+  <AmmoSet_RSBeamSniper.label>carga de pastador</AmmoSet_RSBeamSniper.label>
+  <AmmoSet_Radium_Carbine.label>munição 8x35mm Radium Charged</AmmoSet_Radium_Carbine.label>
+  <AmmoSet_Radium_Pistol.label>10x18mm Radium Charged</AmmoSet_Radium_Pistol.label>
+  <AmmoSet_RailShellOE.label>cartuchos de espingarda de trilho (OE)</AmmoSet_RailShellOE.label>
+  <AmmoSet_Railgun_12gauge.label>tiro de trilho</AmmoSet_Railgun_12gauge.label>
+  <AmmoSet_Railgun_12gauge_HP.label>tiro de trilho (alta potência)</AmmoSet_Railgun_12gauge_HP.label>
+  <AmmoSet_Ravager.label>tecnologia Reaper</AmmoSet_Ravager.label>
+  <AmmoSet_Raygun.label>Raygun</AmmoSet_Raygun.label>
+  <AmmoSet_Raygun_Punched.label>conjunto de munição Raygun de Porter</AmmoSet_Raygun_Punched.label>
+  <AmmoSet_Raygun_three.label>Raygun Mk.3</AmmoSet_Raygun_three.label>
+  <AmmoSet_Raygun_three_GKZ.label>GKZ-45</AmmoSet_Raygun_three_GKZ.label>
+  <AmmoSet_Raygun_three_GKZ_Punched.label>cartucho Maelstorm</AmmoSet_Raygun_three_GKZ_Punched.label>
+  <AmmoSet_Raygun_three_Punched.label>cartucho Eris</AmmoSet_Raygun_three_Punched.label>
+  <AmmoSet_Raygun_two.label>cartucho Raygun Mk.2</AmmoSet_Raygun_two.label>
+  <AmmoSet_Raygun_two_Punched.label>conjunto de munição Raygun Mk.2 de Porter</AmmoSet_Raygun_two_Punched.label>
+  <AmmoSet_Raygun_two_v.label>cartucho Raygun Mk.2 V</AmmoSet_Raygun_two_v.label>
+  <AmmoSet_Raygun_two_v_Punched.label>conjunto de munição Raygun Mk.2 V de Porter</AmmoSet_Raygun_two_v_Punched.label>
+  <AmmoSet_Raygun_two_x.label>cartucho Raygun Mk.2 X</AmmoSet_Raygun_two_x.label>
+  <AmmoSet_Raygun_two_x_Punched.label>conjunto de munição Raygun Mk.2 X de Porter</AmmoSet_Raygun_two_x_Punched.label>
+  <AmmoSet_Raygun_two_y.label>cartucho Raygun Mk.2 Y</AmmoSet_Raygun_two_y.label>
+  <AmmoSet_Raygun_two_y_Punched.label>conjunto de munição Raygun Mk.2 Y de Porter</AmmoSet_Raygun_two_y_Punched.label>
+  <AmmoSet_Raygun_two_z.label>cartucho Raygun Mk.2 Z</AmmoSet_Raygun_two_z.label>
+  <AmmoSet_Raygun_two_z_Punched.label>conjunto de munição Raygun Mk.2 Z de Porter</AmmoSet_Raygun_two_z_Punched.label>
+  <AmmoSet_RepeatingCrossbowBolt.label>virotes de besta</AmmoSet_RepeatingCrossbowBolt.label>
+  <AmmoSet_RevolverShotgun.label>espingarda revólver</AmmoSet_RevolverShotgun.label>
+  <AmmoSet_Rifle.label>fuzil de potência total</AmmoSet_Rifle.label>
+  <AmmoSet_RifleIntermediate.label>fuzil intermediário</AmmoSet_RifleIntermediate.label>
+  <AmmoSet_RifleMagnum.label>fuzil magnum</AmmoSet_RifleMagnum.label>
+  <AmmoSet_RifleYP.label>YP leve</AmmoSet_RifleYP.label>
+  <AmmoSet_RotaryShrapnelcannonShell.label>obus de canhão de estilhaços rotativo</AmmoSet_RotaryShrapnelcannonShell.label>
+  <AmmoSet_SPG9Rocket.label>foguete SPG9</AmmoSet_SPG9Rocket.label>
+  <AmmoSet_SWBigPlasmaGasCartridge.label>cartuchos grandes de gás de plasma</AmmoSet_SWBigPlasmaGasCartridge.label>
+  <AmmoSet_SWPlasmaGasCartridge.label>cartuchos de gás de plasma</AmmoSet_SWPlasmaGasCartridge.label>
+  <AmmoSet_SWPlasmaGasCartridgeBlue.label>cartuchos de gás de plasma</AmmoSet_SWPlasmaGasCartridgeBlue.label>
+  <AmmoSet_SWPlasmaGasCartridgeJawa.label>cartuchos de gás de plasma</AmmoSet_SWPlasmaGasCartridgeJawa.label>
+  <AmmoSet_SWPlasmaGasCartridgeYellow.label>cartuchos de gás de plasma</AmmoSet_SWPlasmaGasCartridgeYellow.label>
+  <AmmoSet_SalvagedLaserEradicatorCE.label>carga de laser</AmmoSet_SalvagedLaserEradicatorCE.label>
+  <AmmoSet_SalvagedLaserHuntingRifle_HR.label>carga de laser</AmmoSet_SalvagedLaserHuntingRifle_HR.label>
+  <AmmoSet_SalvagedLaserPistol.label>carga de laser</AmmoSet_SalvagedLaserPistol.label>
+  <AmmoSet_SalvagedLaserRepeater_HR.label>carga de laser</AmmoSet_SalvagedLaserRepeater_HR.label>
+  <AmmoSet_SalvagedLaserRevolver_HR.label>carga de laser</AmmoSet_SalvagedLaserRevolver_HR.label>
+  <AmmoSet_SalvagedLaserRifle.label>carga de laser</AmmoSet_SalvagedLaserRifle.label>
+  <AmmoSet_SalvagedLaserShotgun.label>carga de laser</AmmoSet_SalvagedLaserShotgun.label>
+  <AmmoSet_SalvagedLaserSniperRifle.label>carga de laser</AmmoSet_SalvagedLaserSniperRifle.label>
+  <AmmoSet_SatyrFaunArrow.label>flechas</AmmoSet_SatyrFaunArrow.label>
+  <AmmoSet_ScatterRailgunXCOM.label>12 Gauge railgun de dispersão</AmmoSet_ScatterRailgunXCOM.label>
+  <AmmoSet_ScorpioBolt.label>virotes Scorpio</AmmoSet_ScorpioBolt.label>
+  <AmmoSet_ScorpionBolt.label>virotes de escorpião</AmmoSet_ScorpionBolt.label>
+  <AmmoSet_Sergal_LeadBall.label>bola de chumbo</AmmoSet_Sergal_LeadBall.label>
+  <AmmoSet_ShardLance.label>fragmento cristalino</AmmoSet_ShardLance.label>
+  <AmmoSet_ShardPistol.label>fragmento cristalino</AmmoSet_ShardPistol.label>
+  <AmmoSet_ShardSwarmer.label>fragmento cristalino</AmmoSet_ShardSwarmer.label>
+  <AmmoSet_Shiver.label>células de energia exóticas</AmmoSet_Shiver.label>
+  <AmmoSet_Shotgun.label>cartucho de espingarda</AmmoSet_Shotgun.label>
+  <AmmoSet_ShrinkRay.label>célula de energia do raio encolhedor</AmmoSet_ShrinkRay.label>
+  <AmmoSet_Slashfire.label>células de energia exóticas</AmmoSet_Slashfire.label>
+  <AmmoSet_SlingBullet.label>projéteis de funda</AmmoSet_SlingBullet.label>
+  <AmmoSet_SlowMusketBall.label>bala de mosquete</AmmoSet_SlowMusketBall.label>
+  <AmmoSet_SlugthrowerShell.label>obus de lançador de balotes</AmmoSet_SlugthrowerShell.label>
+  <AmmoSet_SpartanLaser.label>célula de bateria do laser Spartan</AmmoSet_SpartanLaser.label>
+  <AmmoSet_SpikeYP.label>YP pesado</AmmoSet_SpikeYP.label>
+  <AmmoSet_Stalker.label>disparo instável</AmmoSet_Stalker.label>
+  <AmmoSet_StreamlinedArrow.label>flechas</AmmoSet_StreamlinedArrow.label>
+  <AmmoSet_SwarmerYP.label>YP leve</AmmoSet_SwarmerYP.label>
+  <AmmoSet_TEConcentratedPowerCharge.label>carga de energia concentrada TE</AmmoSet_TEConcentratedPowerCharge.label>
+  <AmmoSet_TEEnergyCanister.label>recipiente de energia TE</AmmoSet_TEEnergyCanister.label>
+  <AmmoSet_TEPowerCharge.label>carga de energia TE</AmmoSet_TEPowerCharge.label>
+  <AmmoSet_TEPowerCore.label>núcleo de energia TE</AmmoSet_TEPowerCore.label>
+  <AmmoSet_TL50ConcussionBlast.label>explosão concussiva</AmmoSet_TL50ConcussionBlast.label>
+  <AmmoSet_TRHowitzerShell.label>obus de TRHowitzer</AmmoSet_TRHowitzerShell.label>
+  <AmmoSet_TRMortarGrenade.label>granadas de TRMortar</AmmoSet_TRMortarGrenade.label>
+  <AmmoSet_TRPAKShell.label>obus de TRPAK</AmmoSet_TRPAKShell.label>
+  <AmmoSet_Taser.label>cartucho de taser</AmmoSet_Taser.label>
+  <AmmoSet_Tempest.label>clipe térmico</AmmoSet_Tempest.label>
+  <AmmoSet_TeseumAutocannon.label>20x99mmR Ariadnan</AmmoSet_TeseumAutocannon.label>
+  <AmmoSet_TeseumAutocannonGeneric.label>obus de autocanhão</AmmoSet_TeseumAutocannonGeneric.label>
+  <AmmoSet_TeseumPistol.label>9x19mm Ariadnan</AmmoSet_TeseumPistol.label>
+  <AmmoSet_TeseumPistolGeneric.label>pistola</AmmoSet_TeseumPistolGeneric.label>
+  <AmmoSet_TeseumPistolMagnum.label>.44 Magnum Ariadnan</AmmoSet_TeseumPistolMagnum.label>
+  <AmmoSet_TeseumPistolMagnumGeneric.label>pistola magnum</AmmoSet_TeseumPistolMagnumGeneric.label>
+  <AmmoSet_TeseumRifleFullPower.label>7.62x54mm Ariadnan</AmmoSet_TeseumRifleFullPower.label>
+  <AmmoSet_TeseumRifleFullPowerGeneric.label>fuzil de potência total</AmmoSet_TeseumRifleFullPowerGeneric.label>
+  <AmmoSet_TeseumRifleIntermediate.label>5.45x39mm Ariadnan</AmmoSet_TeseumRifleIntermediate.label>
+  <AmmoSet_TeseumRifleIntermediateGeneric.label>fuzil intermediário</AmmoSet_TeseumRifleIntermediateGeneric.label>
+  <AmmoSet_Thunder.label>conjunto de munição da Thundergun</AmmoSet_Thunder.label>
+  <AmmoSet_Thunder_Punched.label>conjunto de munição do canhão Zeus</AmmoSet_Thunder_Punched.label>
+  <AmmoSet_TomahawkLAM.label>míssil Tomahawk</AmmoSet_TomahawkLAM.label>
+  <AmmoSet_Trebuchet.label>munição de máquina de cerco</AmmoSet_Trebuchet.label>
+  <AmmoSet_Tundra.label>Tundra</AmmoSet_Tundra.label>
+  <AmmoSet_Tundra_Punched.label>conjunto Boreas Blizzard</AmmoSet_Tundra_Punched.label>
+  <AmmoSet_Tusken.label>12 Gauge</AmmoSet_Tusken.label>
+  <AmmoSet_Typhoon.label>clipe térmico</AmmoSet_Typhoon.label>
+  <AmmoSet_UMW.label>módulo de arma universal</AmmoSet_UMW.label>
+  <AmmoSet_Unleashed.label>células de energia exóticas</AmmoSet_Unleashed.label>
+  <AmmoSet_VFEI_PlasmaCutter.label>célula de energia de pistola de plasma</AmmoSet_VFEI_PlasmaCutter.label>
+  <AmmoSet_VFEI_PlasmaPiercer.label>célula de energia de plasma pesada</AmmoSet_VFEI_PlasmaPiercer.label>
+  <AmmoSet_VFEI_PlasmaRifle.label>célula de energia de fuzil de plasma</AmmoSet_VFEI_PlasmaRifle.label>
+  <AmmoSet_VFEI_PlasmaScatter.label>célula de energia de plasma pesada (dispersão)</AmmoSet_VFEI_PlasmaScatter.label>
+  <AmmoSet_VFEM2ArbalestBolt.label>virotes de besta</AmmoSet_VFEM2ArbalestBolt.label>
+  <AmmoSet_VFEM2HandCannonShot.label>chumbo de canhão de mão</AmmoSet_VFEM2HandCannonShot.label>
+  <AmmoSet_VFEM2WarArrow.label>flechas grandes</AmmoSet_VFEM2WarArrow.label>
+  <AmmoSet_VFEM2WarArrow_Indirect.label>flechas grandes</AmmoSet_VFEM2WarArrow_Indirect.label>
+  <AmmoSet_VGE_MassLance.label>12mm railgun</AmmoSet_VGE_MassLance.label>
+  <AmmoSet_VQEC_CryptoBolt.label>virote crypto</AmmoSet_VQEC_CryptoBolt.label>
+  <AmmoSet_Valiant.label>clipe térmico</AmmoSet_Valiant.label>
+  <AmmoSet_Valkyrie.label>clipe térmico</AmmoSet_Valkyrie.label>
+  <AmmoSet_Vapor.label>disparo instável</AmmoSet_Vapor.label>
+  <AmmoSet_VectorYP.label>YP pesado</AmmoSet_VectorYP.label>
+  <AmmoSet_VerdantArrow.label>flechas verdejantes</AmmoSet_VerdantArrow.label>
+  <AmmoSet_VerdantMOArrow.label>flechas verdejantes</AmmoSet_VerdantMOArrow.label>
+  <AmmoSet_Viper.label>clipe térmico</AmmoSet_Viper.label>
+  <AmmoSet_Volk_Cannon.label>pacote de energia de lasgun</AmmoSet_Volk_Cannon.label>
+  <AmmoSet_Volk_HellGun.label>pacote de energia de lasgun</AmmoSet_Volk_HellGun.label>
+  <AmmoSet_Volk_Pistol.label>pacote de energia de lasgun</AmmoSet_Volk_Pistol.label>
+  <AmmoSet_Volk_Rifle.label>pacote de energia de lasgun</AmmoSet_Volk_Rifle.label>
+  <AmmoSet_VoltLaserCellHeavy.label>célula de laser volt (alta)</AmmoSet_VoltLaserCellHeavy.label>
+  <AmmoSet_VoltLaserCellLight.label>célula de laser volt (baixa)</AmmoSet_VoltLaserCellLight.label>
+  <AmmoSet_VoltLaserCellMedium.label>célula de laser volt</AmmoSet_VoltLaserCellMedium.label>
+  <AmmoSet_VoltLaserCellShotgun.label>célula de laser volt (dispersão)</AmmoSet_VoltLaserCellShotgun.label>
+  <AmmoSet_VortexRifle.label>célula de energia</AmmoSet_VortexRifle.label>
+  <AmmoSet_WarArrow.label>flechas grandes</AmmoSet_WarArrow.label>
+  <AmmoSet_WarBolter.label>foguetes WarBolter</AmmoSet_WarBolter.label>
+  <AmmoSet_Wavegun.label>Wavegun</AmmoSet_Wavegun.label>
+  <AmmoSet_Wavegun_Punched.label>conjunto de munição Max Wavegun</AmmoSet_Wavegun_Punched.label>
+  <AmmoSet_Winters.label>conjunto Winter's Howl</AmmoSet_Winters.label>
+  <AmmoSet_Winters_Punched.label>conjunto Winter's Fury</AmmoSet_Winters_Punched.label>
+  <AmmoSet_Wunder.label>conjunto de munição Wunderwaffe DG-2</AmmoSet_Wunder.label>
+  <AmmoSet_Wunder_Punched.label>conjunto de munição Wunderwaffe DG-3 JZ</AmmoSet_Wunder_Punched.label>
+  <AmmoSet_Wunder_s.label>conjunto de munição DG-Scharfschutze</AmmoSet_Wunder_s.label>
+  <AmmoSet_Wunder_s_Punched.label>conjunto de munição DG-Funkenschutze</AmmoSet_Wunder_s_Punched.label>
+  <AmmoSet_XCOMBoltCaster.label>.50 BMG</AmmoSet_XCOMBoltCaster.label>
+  <AmmoSet_XCOM_Gun_BeamPistol.label>plasma leve</AmmoSet_XCOM_Gun_BeamPistol.label>
+  <AmmoSet_XCOM_Gun_BeamRifle.label>plasma</AmmoSet_XCOM_Gun_BeamRifle.label>
+  <AmmoSet_XCOM_Gun_BeamShotgun.label>plasma pesado</AmmoSet_XCOM_Gun_BeamShotgun.label>
+  <AmmoSet_XCOM_Gun_BeamSniperRifle.label>plasma pesado</AmmoSet_XCOM_Gun_BeamSniperRifle.label>
+  <AmmoSet_XCOM_Gun_LaserCannon.label>laser</AmmoSet_XCOM_Gun_LaserCannon.label>
+  <AmmoSet_XCOM_Gun_LaserPistol.label>laser</AmmoSet_XCOM_Gun_LaserPistol.label>
+  <AmmoSet_XCOM_Gun_LaserRailgun.label>12mm railgun</AmmoSet_XCOM_Gun_LaserRailgun.label>
+  <AmmoSet_XCOM_Gun_LaserRifle.label>laser</AmmoSet_XCOM_Gun_LaserRifle.label>
+  <AmmoSet_XCOM_Gun_LaserShotgun.label>laser</AmmoSet_XCOM_Gun_LaserShotgun.label>
+  <AmmoSet_XCOM_Gun_LaserSniperRifle.label>laser</AmmoSet_XCOM_Gun_LaserSniperRifle.label>
+  <AmmoSet_XennFuel.label>célula de combustível Xenn</AmmoSet_XennFuel.label>
+  <AmmoSet_Ymir.label>clipe térmico</AmmoSet_Ymir.label>
+  <AmmoSet_Zapgun_Punched.label>conjunto de munição Zapgun X2 de Porter</AmmoSet_Zapgun_Punched.label>
+  <AmmoSet_Zapgun_blue.label>conjunto de munição Zapgun azul</AmmoSet_Zapgun_blue.label>
+  <AmmoSet_Zapgun_red.label>conjunto de munição da Zapgun vermelha</AmmoSet_Zapgun_red.label>
+  <AmmoSet_celsius.label>células de energia exóticas</AmmoSet_celsius.label>
+  <Bullet_DV_PulseRifle_UBGL_CE.label>pacote de pulso</Bullet_DV_PulseRifle_UBGL_CE.label>
+</LanguageData>

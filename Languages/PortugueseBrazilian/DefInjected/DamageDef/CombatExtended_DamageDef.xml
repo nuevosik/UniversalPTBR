@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BlackHiveExplosion.deathMessage>{0} morreu envenenado.</AA_BlackHiveExplosion.deathMessage>
+  <AA_BlackHiveExplosion.label>cuspe vil</AA_BlackHiveExplosion.label>
+  <AT_CEDamage_Gas.label>gás de refleum</AT_CEDamage_Gas.label>
+  <AprometheumFlame.label>chama acelerada de Prometheum</AprometheumFlame.label>
+  <Beanbag.deathMessage>{0} morreu atingido por saco de feijão.</Beanbag.deathMessage>
+  <Beanbag.label>saco de feijão</Beanbag.label>
+  <BioferriteFlame.label>chama de bioferrita</BioferriteFlame.label>
+  <BotchJob_CE_RotStabDamage.label>estocada pútrida</BotchJob_CE_RotStabDamage.label>
+  <CE_ArchoL.label>archonanites (letal)</CE_ArchoL.label>
+  <CE_ArchoNL.label>archonanites (não letal)</CE_ArchoNL.label>
+  <CE_Blaster_Damage.deathMessage>{0} morreu baleado.</CE_Blaster_Damage.deathMessage>
+  <CE_Blaster_Damage.label>raio de blaster</CE_Blaster_Damage.label>
+  <CE_Bullet_CryptoSlowdown.label>projétil cripto</CE_Bullet_CryptoSlowdown.label>
+  <CE_Cryptofuel.label>congelamento</CE_Cryptofuel.label>
+  <CE_Laser.deathMessage>{0} morreu queimado.</CE_Laser.deathMessage>
+  <CE_Laser.label>laser</CE_Laser.label>
+  <CE_Neutron.deathMessage>{0} morreu por irradiação.</CE_Neutron.deathMessage>
+  <CE_Neutron.label>partícula de nêutron</CE_Neutron.label>
+  <Electrical.deathMessage>{0} foi eletrocutado.</Electrical.deathMessage>
+  <Electrical.label>elétrico</Electrical.label>
+  <ExoticFlame.label>chama de Prometheum</ExoticFlame.label>
+  <Flame_Secondary.label>queimadura</Flame_Secondary.label>
+  <Flashbang.label>granada de luz</Flashbang.label>
+  <Fragment.deathMessage>{0} morreu retalhado.</Fragment.deathMessage>
+  <Fragment.label>estilhaço</Fragment.label>
+  <GrowthRay.deathMessage>{0} foi vaporizado por calor extremo.</GrowthRay.deathMessage>
+  <GrowthRay.label>vaporização</GrowthRay.label>
+  <HarmonyVenom.label>veneno</HarmonyVenom.label>
+  <ME_BigKill.deathMessage>{0} foi massacrado.</ME_BigKill.deathMessage>
+  <ME_BigKill.label>carnificina</ME_BigKill.label>
+  <ME_Blacked.deathMessage>{0} foi consumido pelo vazio.</ME_Blacked.deathMessage>
+  <ME_Blacked.label>buraco negro</ME_Blacked.label>
+  <ME_Cryo.deathMessage>{0} sucumbiu ao congelamento.</ME_Cryo.deathMessage>
+  <ME_Cryo.label>tiro criogênico</ME_Cryo.label>
+  <ME_SickBurn.label>queimadura de Prometheum</ME_SickBurn.label>
+  <ME_Toxin.deathMessage>{0} sucumbiu ao envenenamento por projétil.</ME_Toxin.deathMessage>
+  <ME_Toxin.label>tiro de toxina</ME_Toxin.label>
+  <Micromunition.label>micromunição</Micromunition.label>
+  <MicromunitionD.label>micromunição</MicromunitionD.label>
+  <MiningCo_Cannon.deathMessage>{0} morreu em uma explosão.</MiningCo_Cannon.deathMessage>
+  <MiningCo_Cannon.label>canhão automático</MiningCo_Cannon.label>
+  <MiningCo_Rocket.deathMessage>{0} morreu em uma explosão.</MiningCo_Rocket.deathMessage>
+  <MiningCo_Rocket.label>foguete</MiningCo_Rocket.label>
+  <Neuralizer.label>neuralizador</Neuralizer.label>
+  <Neuralizer_weak.label>neuralizador de baixa potência</Neuralizer_weak.label>
+  <PJ_BlasterDam.deathMessage>{0} foi atingido por uma explosão!</PJ_BlasterDam.deathMessage>
+  <PJ_BlasterDam.label>raio de blaster</PJ_BlasterDam.label>
+  <PW_Taser.deathMessage>{0} morreu por choque elétrico.</PW_Taser.deathMessage>
+  <PW_Taser.label>choque</PW_Taser.label>
+  <PrometheumFlame.label>chama de Prometheum</PrometheumFlame.label>
+  <SW_Stun_Damage.deathMessage>{0} morreu por choque elétrico.</SW_Stun_Damage.deathMessage>
+  <SW_Stun_Damage.label>atordoamento</SW_Stun_Damage.label>
+  <ShrinkRay.deathMessage>{0} foi vaporizado por calor extremo.</ShrinkRay.deathMessage>
+  <ShrinkRay.label>vaporização</ShrinkRay.label>
+  <Taser.deathMessage>{0} morreu atingido por um taser.</Taser.deathMessage>
+  <Taser.label>taser</Taser.label>
+  <Thermobaric.label>termobárico</Thermobaric.label>
+  <Tranquilizer.label>tranquilizante</Tranquilizer.label>
+  <UnleashedCE.deathMessage>{0} morreu em uma explosão.</UnleashedCE.deathMessage>
+  <UnleashedCE.label>tiro de blaster de carga</UnleashedCE.label>
+  <VFEI_PsychicDamage.label>psíquico</VFEI_PsychicDamage.label>
+  <VFEM2_Arrow_Indirect.label>flecha</VFEM2_Arrow_Indirect.label>
+  <Void_Arururu.deathMessage>{0} foi derretido.</Void_Arururu.deathMessage>
+  <Void_Arururu.label>fundido</Void_Arururu.label>
+  <Void_Bomb.deathMessage>{0} foi consumido pelo vazio.</Void_Bomb.deathMessage>
+  <Void_Bomb.label>o vazio</Void_Bomb.label>
+  <Void_Molten.deathMessage>{0} foi derretido.</Void_Molten.deathMessage>
+  <Void_Molten.label>fundido</Void_Molten.label>
+</LanguageData>

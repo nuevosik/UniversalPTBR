@@ -52,4 +52,6 @@
   <TSA_WD_BoxPallet_2a.label>palete de caixas</TSA_WD_BoxPallet_2a.label>
   <TSA_WD_BoxPallet_3a.description>Um palete com caixas de armazenamento industriais.</TSA_WD_BoxPallet_3a.description>
   <TSA_WD_BoxPallet_3a.label>palete de caixas</TSA_WD_BoxPallet_3a.label>
+  <TSA_WD_RemotePowerSpot.label>ponto de energia remota do WD</TSA_WD_RemotePowerSpot.label>
+  <TSA_WD_RemotePowerSpot.description>Define onde a energia remota dos postos avançados de usinas do World Domination deve entrar na rede elétrica da colônia. Conecte-o a uma rede elétrica. Se algum ponto estiver conectado, toda a energia "Manter (colônia)" da colônia vai para essas redes por proporção. Sem pontos conectados, a energia é dividida igualmente entre todas as redes.</TSA_WD_RemotePowerSpot.description>
 </LanguageData>

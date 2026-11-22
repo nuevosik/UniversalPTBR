@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ADP.description>O Pulso de Negação de Área (ADP) é uma versão mais nova e eficaz da carga EMP comum. Ele usa um direcionamento elétrico muito mais agressivo, contornando até os sistemas de adaptação mais avançados.\n\nEle torna os mecanoides imóveis em um raio maior, sem qualquer risco de ser anulado.</ADP.description>
+  <ADP.label>ADP</ADP.label>
+  <AENitrogen.description>Uma carga preenchida com cristal de gelo desestabilizado. Derrama nitrogênio congelante na detonação, retardando alvos e unindo criogenicamente componentes mecânicos.</AENitrogen.description>
+  <AENitrogen.label>nitrogênio</AENitrogen.label>
+  <AV_Deployment.description>Um obus contendo um warurchin dormente. Ele se ativará no impacto e atacará quaisquer criaturas próximas.</AV_Deployment.description>
+  <AV_Deployment.label>implantação Mech</AV_Deployment.label>
+  <AV_Toxic.description>Preenchido com gás tóxico, um agente cáustico que queima os pulmões e os olhos. A exposição contínua a ele resulta em acúmulo tóxico que pode ser letal.</AV_Toxic.description>
+  <AV_Toxic.label>tóxico</AV_Toxic.label>
+  <Acid.description>Preenchido com um ácido extremamente forte, capaz de queimar rapidamente tanto carne quanto metal.</Acid.description>
+  <Acid.label>gás corrosivo</Acid.label>
+  <AntiBug.description>Este obus é preenchido com um aerossol especial projetado especialmente para matar insectoides.</AntiBug.description>
+  <AntiBug.label>inseticida</AntiBug.label>
+  <AntiInsect.description>Preenchida com um aerossol especial projetado para matar insetoides.</AntiInsect.description>
+  <AntiInsect.label>inseticida</AntiInsect.label>
+  <Antigrain.description>Uma pequena ogiva de ultratecnologia geralmente usada por naves espaciais ou máquinas de guerra de mundos reluzentes. Alimentada por um grão de antimatéria, cria uma enorme explosão e inicia incêndios ao redor do alvo.</Antigrain.description>
+  <Antigrain.label>ogiva antigrain</Antigrain.label>
+  <AntyAcid.description>Anti-bioácido.</AntyAcid.description>
+  <AntyAcid.label>ácido</AntyAcid.label>
+  <AntyBolt.description>Virote ácido.</AntyBolt.description>
+  <AntyBolt.label>ácido</AntyBolt.label>
+  <AntyGlue.description>Anti-cola.</AntyGlue.description>
+  <AntyGlue.label>cola</AntyGlue.label>
+  <AntyRedAcid.description>Ácido vermelho.</AntyRedAcid.description>
+  <AntyRedAcid.label>ácido</AntyRedAcid.label>
+  <ArmorPiercing.description>Possui um núcleo perfurante de aço temperado para maior penetração de armadura.</ArmorPiercing.description>
+  <ArmorPiercing.label>perfurante de armadura</ArmorPiercing.label>
+  <ArrowBattery.description>Quando as armas acabam e você não consegue continuar.</ArrowBattery.description>
+  <ArrowBattery.label>Bowttery</ArrowBattery.label>
+  <ArrowEMP.description>Servos demoníacos de um deus adormecido, conheçam o 'parador de servo demoníaco de um deus adormecido'.</ArrowEMP.description>
+  <ArrowEMP.label>BowMP</ArrowEMP.label>
+  <ArrowGrenade.description>Puxe o pino e dispare a flecha imediatamente, ou então.</ArrowGrenade.description>
+  <ArrowGrenade.label>Bownade</ArrowGrenade.label>
+  <ArrowMolotov.description>Não há necessidade de precisão quando suas flechas explodem.</ArrowMolotov.description>
+  <ArrowMolotov.label>Bowlotov</ArrowMolotov.label>
+  <Astrofuel.description>Gel de astrocombustível catalisado com Prometheum, tão perigoso para você quanto para seus inimigos.</Astrofuel.description>
+  <Astrofuel.label>astrocombustível</Astrofuel.label>
+  <BallistaBolt.description>Uma ponta de aço presa a uma longa haste de madeira com penas, desferindo um golpe muito forte contra alvos pouco blindados.</BallistaBolt.description>
+  <BallistaBolt.label>viroto de balista</BallistaBolt.label>
+  <BallistaBoltArmorPiercing.description>Equipado com uma ponta de aço endurecido e aerodinâmica para perfurar alvos blindados.</BallistaBoltArmorPiercing.description>
+  <BallistaBoltArmorPiercing.label>viroto perfurante de balista</BallistaBoltArmorPiercing.label>
+  <BallistaBoltHeavy.description>Equipada com uma ponta pesada de aço para derrotar os alvos mais resistentes.</BallistaBoltHeavy.description>
+  <BallistaBoltHeavy.label>viroto de balista pesado</BallistaBoltHeavy.label>
+  <Beanbag.description>Cartucho de borracha não letal originalmente projetado para controle de distúrbios. Preciso apenas em curtas distâncias. Projetado para incapacitar temporariamente um alvo, não causa sangramento nem danos a órgãos internos.</Beanbag.description>
+  <Beanbag.label>saco de feijão</Beanbag.label>
+  <Bioferrite.description>Uma infusão de bioferrite cristalino ataca a matéria orgânica em nível celular, perturbando a regeneração e enfraquecendo o tecido.</Bioferrite.description>
+  <Bioferrite.label>bioferrite</Bioferrite.label>
+  <BirdShot.description>Preenchido com um grande número de bagos de chumbo bem pequenos que se espalham por uma grande área.</BirdShot.description>
+  <BirdShot.label>chumbo miúdo</BirdShot.label>
+  <BlasterAP.description>Raios de energia criados com gás tibanna. Causa perfurações limpas e queimaduras que tendem a carbonizar e chamuscar. Baixa chance de infecção de ferida. Girado a uma pressão mais alta para criar raios com penetração aprimorada, ao custo do potencial de ferir.</BlasterAP.description>
+  <BlasterAP.label>tibanna pressurizado</BlasterAP.label>
+  <BlasterIonized.description>Raios de energia criados com gás tibanna. Causa perfurações limpas e queimaduras que tendem a carbonizar e chamuscar. Baixa chance de infecção de ferida. Ionizado durante o processo de disparo para causar dano extra a droides e mecanoides, ao custo de menor letalidade contra orgânicos.</BlasterIonized.description>
+  <BlasterIonized.label>tibanna ionizado</BlasterIonized.label>
+  <BlasterStandard.description>Raios de energia criados com gás tibanna. Causa perfurações limpas e queimaduras que tendem a carbonizar e chamuscar. Baixa chance de infecção em ferimentos.</BlasterStandard.description>
+  <BlasterStandard.label>blaster</BlasterStandard.label>
+  <BlasterStun.description>Dardos de baixa energia criados com gás tibanna. Atordoa e incapacita temporariamente o alvo.</BlasterStun.description>
+  <BlasterStun.label>atordoamento</BlasterStun.label>
+  <BuckShot.description>Preenchida com vários bagos de chumbo que se espalham em um padrão compacto.</BuckShot.description>
+  <BuckShot.label>bagos de chumbo</BuckShot.label>
+  <BurstingShell.description>Um obus explosivo rudimentar consistindo em um projétil de metal oco preenchido com pólvora negra para ser disparado por primeiros canhões de cano liso.</BurstingShell.description>
+  <BurstingShell.label>obus explosivo</BurstingShell.label>
+  <CNGas.description>Preenchido com um agente químico não letal capaz de causar dor, irritação e cegueira temporária.</CNGas.description>
+  <CNGas.label>gás lacrimogêneo</CNGas.label>
+  <CannonBall.description>Uma esfera de metal maciço disparada por um canhão antigo de alma lisa.</CannonBall.description>
+  <CannonBall.label>bala sólida</CannonBall.label>
+  <CarbonCrystal.description>O núcleo de cristal de carbono se estilhaça em lascas cortantes que maximizam o dano à carne, mas produzem menor penetração de armadura.</CarbonCrystal.description>
+  <CarbonCrystal.label>cristal de carbono</CarbonCrystal.label>
+  <Catapult_Boulder.description>Um pedregulho grande e pesado.</Catapult_Boulder.description>
+  <Catapult_Boulder.label>pedregulho</Catapult_Boulder.label>
+  <Catapult_TarBoulder.description>Um pedregulho grande e pesado coberto de piche.</Catapult_TarBoulder.description>
+  <Catapult_TarBoulder.label>pedregulho alcatroado</Catapult_TarBoulder.label>
+  <Charged.description>O revestimento de partículas carregadas rompe armadura e tecido em igual medida.</Charged.description>
+  <Charged.label>carga</Charged.label>
+  <ChargedAP.description>Concentra partículas carregadas ao redor da ponta do núcleo para melhorar a penetração de armadura, às custas do poder de parada.</ChargedAP.description>
+  <ChargedAP.label>carga concentrada</ChargedAP.label>
+  <ChargedPsychic.description>Munição Charged que pode ser aprimorada pelas energias psíquicas do portador.\n\nGastar energias psíquicas aumenta o dano e a penetração de armadura em 50%.</ChargedPsychic.description>
+  <ChargedPsychic.label>psíquico</ChargedPsychic.label>
+  <ChargedPsychicFocus.description>Consome maiores quantidades de psicofoco para melhorar a penetração de armadura.\n\nGastar energias psíquicas aumenta o dano em 80% e a penetração de armadura em 60%.</ChargedPsychicFocus.description>
+  <ChargedPsychicFocus.label>foco</ChargedPsychicFocus.label>
+  <ChargedPsychicNeuro.description>Munição psíquica volátil aumenta a geração de calor neural e também melhora o poder de parada.\n\nGastar energias psíquicas aumenta o dano e a penetração de armadura em 50%.</ChargedPsychicNeuro.description>
+  <ChargedPsychicNeuro.label>neuro</ChargedPsychicNeuro.label>
+  <ChargedRocketBB.description>Uma carga termobárica projetada para destruir fortificações e estruturas.</ChargedRocketBB.description>
+  <ChargedRocketBB.label>destruidor de bunker</ChargedRocketBB.label>
+  <ChargedRocketHEC.description>Uma ogiva explosiva com uma carga adicional de íons.</ChargedRocketHEC.description>
+  <ChargedRocketHEC.label>alto-explosivo carregado</ChargedRocketHEC.label>
+  <ChargedRocketICP.description>Uma carga incendiária que cobre uma grande área com chamas de Prometheum. A ogiva de magnésio explode no impacto, lançando escória derretida e líquido em chamas em todas as direções.</ChargedRocketICP.description>
+  <ChargedRocketICP.label>prometheum incendiário</ChargedRocketICP.label>
+  <ChemicalMunitionCompoundAprometheum.description>Preenchida com uma mistura de uma versão potente, mas de curta duração, de prometheum.</ChemicalMunitionCompoundAprometheum.description>
+  <ChemicalMunitionCompoundAprometheum.label>prometheum gelatinizado acelerado</ChemicalMunitionCompoundAprometheum.label>
+  <ChemicalMunitionCompoundCryo.description>Preenchido com uma mistura de hidrogênio sólido e compostos instáveis que se vaporiza em contato com o ar.</ChemicalMunitionCompoundCryo.description>
+  <ChemicalMunitionCompoundCryo.label>crio</ChemicalMunitionCompoundCryo.label>
+  <ChemicalMunitionCompoundThermobaric.description>Preenchido com uma mistura que se dispersa e em seguida incendeia uma mistura explosiva de combustível e ar, criando uma poderosa explosão e potencialmente incendiando objetos inflamáveis.</ChemicalMunitionCompoundThermobaric.description>
+  <ChemicalMunitionCompoundThermobaric.label>termobárico</ChemicalMunitionCompoundThermobaric.label>
+  <CompositeRigidAP.description>Apresentando um núcleo de material duro de alta densidade rodeado por um revestimento de calibre pleno de um material mais leve para alcançar velocidades iniciais mais altas, aumentando muito a penetração de armadura.</CompositeRigidAP.description>
+  <CompositeRigidAP.label>perfurante de armadura composto-rígido</CompositeRigidAP.label>
+  <CryoHarpoon.description>Hastes de metal convertidas para uso em combate.</CryoHarpoon.description>
+  <CryoHarpoon.label>arpão criogênico</CryoHarpoon.label>
+  <CrystallineShard.description>O núcleo de fragmento cristalino se estilhaça em lascas cortantes que maximizam o dano à carne, mas produzem menor penetração de armadura.</CrystallineShard.description>
+  <CrystallineShard.label>fragmento cristalino</CrystallineShard.label>
+  <Deadlife.description>Preenchido com uma substância semelhante a pó que explode em uma nuvem e reanima cadáveres próximos.</Deadlife.description>
+  <Deadlife.label>vida-morta</Deadlife.label>
+  <Demolition.description>Cartucho especial baseado em um elemento de baixo explosivo, usado para destruir estruturas e fortificações.</Demolition.description>
+  <Demolition.label>demolição</Demolition.label>
+  <DirtyBomb.description>Uma bomba carregada com materiais radioativos perigosos, projetada para envenenar grandes áreas com radiação.</DirtyBomb.description>
+  <DirtyBomb.label>suja</DirtyBomb.label>
+  <DisruptorFlare.description>Uma cápsula de bioferrita envolta em estojo de espingarda usada para criar uma perturbação psíquica local. Isso atordoa criaturas psiquicamente sensíveis e revela as que são invisíveis.</DisruptorFlare.description>
+  <DisruptorFlare.label>sinalizador desruptor</DisruptorFlare.label>
+  <DragonatorSpike.description>Uma ponta de aço presa a uma longa haste pontiaguda e com penas, desferindo um golpe muito forte contra até os alvos mais blindados.</DragonatorSpike.description>
+  <DragonatorSpike.label>espeto Dragonator</DragonatorSpike.label>
+  <ElectroSlug.description>Projetado para combater mecanoides, o projétil é preciso apenas em curto alcance e libera um pulso eletromagnético no impacto, desativando eletrônicos temporariamente.</ElectroSlug.description>
+  <ElectroSlug.label>EMP</ElectroSlug.label>
+  <Eltex.description>Capacitores psíquicos de uso único, projetados para concentrar energia psíquica em uma explosão concentrada antes de serem disparados por armas eltex.</Eltex.description>
+  <Eltex.label>eltex</Eltex.label>
+  <Exotic_Buck.description>Bagos grandes de chumbo com a ponta revestida por uma pequena carga explosiva.</Exotic_Buck.description>
+  <Exotic_Buck.label>bagos de chumbo alto-explosivos</Exotic_Buck.label>
+  <Exotic_Cluster.description>Você deveria testá-la disparando dentro da sua base e ver o que ela faz.</Exotic_Cluster.description>
+  <Exotic_Cluster.label>chumbo de agrupamento</Exotic_Cluster.label>
+  <Exotic_Hipower.description>Sobrecarregar a célula de energia para aumentar sua potência, ao custo de torná-la instável e volátil. Seus efeitos dependem da arma e normalmente é também menos precisa que a versão normal.</Exotic_Hipower.description>
+  <Exotic_Hipower.label>célula de energia exótica sobrecarregada</Exotic_Hipower.label>
+  <Exotic_Mayhem.description>Mexa com isso e descubra.</Exotic_Mayhem.description>
+  <Exotic_Mayhem.label>chumbo Mayhem</Exotic_Mayhem.label>
+  <Exotic_Monoshard.description>Projéteis monomoleculares extremamente afiados e resistentes.</Exotic_Monoshard.description>
+  <Exotic_Monoshard.label>Monosteel</Exotic_Monoshard.label>
+  <Exotic_Monoshard2.description>Projéteis monomoleculares incrivelmente afiados e resistentes. Este é feito de plasteel.</Exotic_Monoshard2.description>
+  <Exotic_Monoshard2.label>mono-plasteel</Exotic_Monoshard2.label>
+  <Exotic_Monoshard3.description>Projéteis monomoleculares incrivelmente afiados e resistentes. Este possui um núcleo pesado de urânio empobrecido.</Exotic_Monoshard3.description>
+  <Exotic_Monoshard3.label>mono-urânio</Exotic_Monoshard3.label>
+  <Exotic_Normal.description>A célula de energia exótica faz uma gracinha.</Exotic_Normal.description>
+  <Exotic_Normal.label>célula de energia exótica</Exotic_Normal.label>
+  <ExplosiveAP.description>Preenchido com alto-explosivos que detonam no impacto para causar dano adicional.</ExplosiveAP.description>
+  <ExplosiveAP.label>perfurante de armadura alto-explosivo</ExplosiveAP.label>
+  <Fear.description>Preenchido com um agente aerotransportado especializado que induz um sentimento extremamente forte de pavor e terror.</Fear.description>
+  <Fear.label>gás do medo</Fear.label>
+  <FeralScrap.description>Pedaços de sucata de metal</FeralScrap.description>
+  <FeralScrap.label>sucata</FeralScrap.label>
+  <FireShell.description>Um obus incendiário simples consistindo em um projétil de metal oco preenchido com líquido altamente inflamável para ser disparado por primeiros canhões de cano liso.</FireShell.description>
+  <FireShell.label>obus de fogo</FireShell.label>
+  <FlameArrow.description>Ponta de flecha de aço em gaiola aberta contendo componentes incendiários para incendiar os alvos.</FlameArrow.description>
+  <FlameArrow.label>flecha de fogo</FlameArrow.label>
+  <FlameCrossbowBolt.description>Ponta de virote de aço em gaiola aberta contendo componentes incendiários para incendiar os alvos.</FlameCrossbowBolt.description>
+  <FlameCrossbowBolt.label>virote de besta de fogo</FlameCrossbowBolt.label>
+  <Flare.description>Cartucho especial baseado em um elemento incendiário de combustão intensa, usado para sinalização e iluminação.</Flare.description>
+  <Flare.label>sinalizador</Flare.label>
+  <Flechette.description>Letal para organismos e quase inútil contra não organismos, como mecanoides.</Flechette.description>
+  <Flechette.label>flechete</Flechette.label>
+  <FleshBreaker.description>Preenchida com gás contendo FleshBreaker.</FleshBreaker.description>
+  <FleshBreaker.label>quebra-carne</FleshBreaker.label>
+  <Fletcher.description>Dissolve o alvo por dentro. Letal para orgânicos e quase inútil contra não orgânicos, como mecanoides.</Fletcher.description>
+  <Fletcher.label>flecheiro</Fletcher.label>
+  <Flu.description>Preenchida com gás contendo o vírus da gripe.</Flu.description>
+  <Flu.label>gripe</Flu.label>
+  <FoamFuel.description>Cartucho especial projetado para fins civis de combate a incêndios. Preenchido com espuma retardante de chamas para suprimir incêndios em uma grande área.</FoamFuel.description>
+  <FoamFuel.label>espuma</FoamFuel.label>
+  <ForsakenArrow.description>Projetada para ser disparada por um arco abandonado.</ForsakenArrow.description>
+  <ForsakenArrow.label>flecha abandonada</ForsakenArrow.label>
+  <FullMetalJacket.description>O núcleo macio de chumbo é revestido por um metal mais duro, combinando uma quantidade média de poder de parada e penetração de armadura.</FullMetalJacket.description>
+  <FullMetalJacket.label>jaqueta metálica completa</FullMetalJacket.label>
+  <Fusion.description>Uma ogiva de fusão nuclear imensamente poderosa.</Fusion.description>
+  <Fusion.label>fusão</Fusion.label>
+  <GasAcid.description>Este obus contém um ácido extremamente forte, capaz de queimar rapidamente tanto a carne quanto o metal.</GasAcid.description>
+  <GasAcid.label>ácido</GasAcid.label>
+  <GasFear.description>Este obus contém um agente aerotransportado potente e especializado que induz um sentimento extremamente forte de pavor e terror.</GasFear.description>
+  <GasFear.label>gás do medo</GasFear.label>
+  <GasRage.description>Este obus contém um agente aerotransportado potente e especializado que induz uma fúria cega e incontrolável.</GasRage.description>
+  <GasRage.label>gás de fúria</GasRage.label>
+  <GasSleep.description>Este obus contém um sedativo potente, capaz de deixar inconsciente rapidamente qualquer um exposto a ele.</GasSleep.description>
+  <GasSleep.label>gás sonífero</GasSleep.label>
+  <GasTear.description>Este obus contém um agente aerotransportado potente e especializado que ataca as membranas sensíveis dos olhos e do nariz, dificultando a visão e a respiração.</GasTear.description>
+  <GasTear.label>gás lacrimogêneo</GasTear.label>
+  <GasToxic.description>Este obus contém um agente nervoso potente, nocivo para a maioria das formas complexas de vida orgânica.</GasToxic.description>
+  <GasToxic.label>gás tóxico</GasToxic.label>
+  <Grapeshot.description>Um recipiente repleto de numerosos pequenos projéteis, disparado por primeiros canhões de cano liso como arma antinfantaria.</Grapeshot.description>
+  <Grapeshot.label>metralha</Grapeshot.label>
+  <GrenadeEMP.description>Gera uma explosão eletromagnética no impacto, perturbando temporariamente sistemas eletrônicos e mecanoides.</GrenadeEMP.description>
+  <GrenadeEMP.label>EMP</GrenadeEMP.label>
+  <GrenadeHE.description>A carga alto-explosiva detona no impacto, espalhando estilhaços letais por uma grande área.</GrenadeHE.description>
+  <GrenadeHE.label>alto-explosivo</GrenadeHE.label>
+  <GrenadeHEAT.description>Granada com ogiva de carga moldada. Detona no impacto, criando um jato de metal que perfura a armadura inimiga.</GrenadeHEAT.description>
+  <GrenadeHEAT.label>alto-explosivo antitanque</GrenadeHEAT.label>
+  <GrenadeHEDP.description>Granada com ogiva de carga moldada. Detona no impacto, criando um jato superaquecido de metal fundido que perfura a armadura inimiga.</GrenadeHEDP.description>
+  <GrenadeHEDP.label>alto-explosivo de duplo propósito</GrenadeHEDP.label>
+  <GrenadeHETF.description>Granada com espoleta temporizada, projetada para detonar em pleno voo para máxima eficácia.</GrenadeHETF.description>
+  <GrenadeHETF.label>alto-explosivo de detonação aérea</GrenadeHETF.label>
+  <GrenadeIncendiary.description>Preenchido com agente incendiário. O agente é dispersado no impacto, cobrindo a área em chamas.</GrenadeIncendiary.description>
+  <GrenadeIncendiary.label>incendiário</GrenadeIncendiary.label>
+  <GrenadePsyMadness.description>Usa tecnologia psíquica para induzir uma fúria berserker contra alvos ao alcance.</GrenadePsyMadness.description>
+  <GrenadePsyMadness.label>loucura</GrenadePsyMadness.label>
+  <GrenadeRubber.description>Um balote de borracha com um núcleo de metal dentro. Menos letal que a munição comum, mas ainda pode mutilar ou matar alguém.</GrenadeRubber.description>
+  <GrenadeRubber.label>balote emborrachado</GrenadeRubber.label>
+  <GrenadeThermobaric.description>Dispersa e subsequentemente incendeia uma mistura explosiva de combustível e ar, criando uma poderosa explosão e potencialmente incendiando objetos inflamáveis.</GrenadeThermobaric.description>
+  <GrenadeThermobaric.label>termobárico</GrenadeThermobaric.label>
+  <HDSlug.description>Um balote de liga densa aquecido quase até o ponto de fusão, destinado a derrotar armaduras pesadas.</HDSlug.description>
+  <HDSlug.label>balote de liga de alta densidade</HDSlug.label>
+  <HarmonyCharged.description>O revestimento de partículas carregadas rompe armadura e tecido em igual medida. Infundido com Harmony.</HarmonyCharged.description>
+  <HarmonyCharged.label>harmonia</HarmonyCharged.label>
+  <HeavyJavelin.description>Um dardo pesado com haste alongada, tornando-o ideal para perfurar escudos e armaduras.</HeavyJavelin.description>
+  <HeavyJavelin.label>dardo pesado</HeavyJavelin.label>
+  <HollowPoint.description>Uma ponta oca faz o projétil se expandir no impacto, aumentando o dano aos tecidos ao custo da penetração de armadura.</HollowPoint.description>
+  <HollowPoint.label>ponta oca</HollowPoint.label>
+  <IncendiaryAP.description>Preenchido com um composto incendiário que se incendeia no impacto, causando dano adicional e aumentando a penetração de armadura.</IncendiaryAP.description>
+  <IncendiaryAP.label>perfurante de armadura incendiário</IncendiaryAP.label>
+  <IncendiaryFuel.description>Preenchida com agente incendiário que se incendeia após o impacto.</IncendiaryFuel.description>
+  <IncendiaryFuel.label>incendiário</IncendiaryFuel.label>
+  <IncendiaryMiho.description>Preenchido com um composto incendiário de alta intensidade que inflama no impacto, queimando o alvo, aumentando a penetração de armadura e comprometendo a estrutura do alvo.</IncendiaryMiho.description>
+  <IncendiaryMiho.label>perfurante de armadura incendiário (Miholic)</IncendiaryMiho.label>
+  <Inferno.description>Um projétil giroestabilizado cujo enchimento explosivo foi substituído por prometheum pegajoso e altamente inflamável.</Inferno.description>
+  <Inferno.label>inferno</Inferno.label>
+  <Ionized.description>Projetado para combater mecanoides, o cartucho cria uma corrente elétrica no impacto, perturbando temporariamente os sistemas eletrônicos.</Ionized.description>
+  <Ionized.label>carga iônica</Ionized.label>
+  <IronArrow.description>A ponta da flecha é feita de ferro, capaz de perfurar escudos e armaduras de couro.</IronArrow.description>
+  <IronArrow.label>flecha de ferro</IronArrow.label>
+  <IronCrossbowBolt.description>A ponta do virote é feita de ferro para aumentar a penetração de armadura.</IronCrossbowBolt.description>
+  <IronCrossbowBolt.label>virote de besta de ferro</IronCrossbowBolt.label>
+  <Javelin.description>Uma ponta de aço pesada presa a uma longa haste de madeira, desferindo um golpe muito forte contra alvos pouco blindados.</Javelin.description>
+  <Javelin.label>azagaia</Javelin.label>
+  <JelliedPrometheumFuel.description>Composto pirofórico avançado em forma de gel. Autoincendeia-se em contato com o ar, gruda na pele e penetra em aberturas, queimando até mecanoides.</JelliedPrometheumFuel.description>
+  <JelliedPrometheumFuel.label>prometheum gelatinoso</JelliedPrometheumFuel.label>
+  <KineticEnergy.description>Eletricidade ionizada especial do núcleo de energia é transformada em um amálgama de energia sólido na culatra da arma; o amálgama não queima como os projéteis de energia normais, mas causa dano contundente, daí o nome energia cinética.</KineticEnergy.description>
+  <KineticEnergy.label>energia cinética</KineticEnergy.label>
+  <KniperBlade.description>Uma lâmina de faca balística.</KniperBlade.description>
+  <KniperBlade.label>lâmina</KniperBlade.label>
+  <Kraken.description>Um projétil giroestabilizado com penetrador endurecido e carga explosiva 'kicker', projetado para perfurar armaduras pesadas.</Kraken.description>
+  <Kraken.label>Kraken</Kraken.label>
+  <Kunai.description>Originalmente um instrumento agrícola japonês, de uso semelhante a uma pá de mão, a kunai é uma ferramenta multiuso útil tanto em combate à distância quanto em combate corpo a corpo.</Kunai.description>
+  <Kunai.label>kunai</Kunai.label>
+  <LargeNuke.description>Um grande dispositivo de fissão nuclear.</LargeNuke.description>
+  <LargeNuke.label>bomba nuclear grande</LargeNuke.label>
+  <Laser.description>Um feixe ou raio concentrado de radiação, transmitindo energia disruptiva ao alvo.</Laser.description>
+  <Laser.label>laser</Laser.label>
+  <Laser_Mech.description>Um feixe ou raio concentrado de radiação, transmitindo energia disruptiva ao alvo.</Laser_Mech.description>
+  <Laser_Mech.label>laser (mecanoide)</Laser_Mech.label>
+  <LeadBall.description>Uma bola de metal de encaixe folgado. Bastante imprecisa devido à aerodinâmica ruim, mas inflige ferimentos grandes devido ao poder de impacto e ao grande diâmetro do projétil.</LeadBall.description>
+  <LeadBall.label>bola de chumbo</LeadBall.label>
+  <ME_AP.description>Possui um núcleo perfurante de carboneto de tungstênio temperado para maior penetração de armadura. Causa menos dano ao tecido interno.</ME_AP.description>
+  <ME_AP.label>balote acelerador perfurante</ME_AP.label>
+  <ME_Cryo.description>Preenchido com agentes criogênicos que congelam seus inimigos no lugar ao impacto.</ME_Cryo.description>
+  <ME_Cryo.label>balote acelerador criogênico</ME_Cryo.label>
+  <ME_FI.description>Preenchida com agente incendiário que se incendeia após o impacto.</ME_FI.description>
+  <ME_FI.label>incendiário</ME_FI.label>
+  <ME_FMJ.description>Pequenos balotes gerados a partir do bloco de munição interno de uma arma, que primeiro são reduzidos a uma quase ausência de peso por um campo de efeito de massa e então impelidos a velocidade letal por forças magnéticas.</ME_FMJ.description>
+  <ME_FMJ.label>balote acelerador</ME_FMJ.label>
+  <ME_HE.description>Preenchida com agente alto-explosivo que detona ao impactar.</ME_HE.description>
+  <ME_HE.label>balote acelerador alto-explosivo</ME_HE.label>
+  <ME_Ion.description>Projetado para combater mecanoides e escudos, o cartucho cria uma corrente elétrica no impacto, perturbando temporariamente os sistemas eletrônicos.</ME_Ion.description>
+  <ME_Ion.label>desruptor</ME_Ion.label>
+  <ME_Toxic.description>Projetado para combater alvos orgânicos, injeta uma neurotoxina dolorosa no alvo ao penetrar. Inflige náusea extrema e paralisia neural à vítima.</ME_Toxic.description>
+  <ME_Toxic.label>toxina</ME_Toxic.label>
+  <Malaria.description>Preenchida com gás contendo o patógeno da malária.</Malaria.description>
+  <Malaria.label>malária</Malaria.label>
+  <MantoPoisonAmmo.description>lodo incendiário</MantoPoisonAmmo.description>
+  <MantoPoisonAmmo.label>lodo incendiário</MantoPoisonAmmo.label>
+  <MaruArrow.description>Flechas avançadas com diversas modificações</MaruArrow.description>
+  <MaruArrow.label>flecha modificada</MaruArrow.label>
+  <MechVirus.description>Contém nanomáquinas projetadas para se fixar e causar estragos nos sistemas de mecanoides. Ineficaz contra vida orgânica.</MechVirus.description>
+  <MechVirus.label>nanomáquina</MechVirus.label>
+  <MechaniteMiho.description>Munições aprimoradas com mecanite e carregadas psiquicamente. Capazes de efeitos exóticos ou disruptivos em uma variedade de alvos.</MechaniteMiho.description>
+  <MechaniteMiho.label>Mechanite (Miholic)</MechaniteMiho.label>
+  <Melta.description>Um feixe concentrado de plasma escaldante, capaz de reduzir até a mais pesada das armaduras a escória derretida.</Melta.description>
+  <Melta.label>Melta</Melta.label>
+  <MetalStorm.description>Um projétil giroestabilizado equipado com espoleta de proximidade, projetado para cobrir alvos levemente blindados com uma devastadora chuva de estilhaços quando detona.</MetalStorm.description>
+  <MetalStorm.label>Metal Storm</MetalStorm.label>
+  <MiniRocketAPHEF.description>Projéteis explosivos estabilizados por aletas e assistidos por foguete, que penetram e então explodem. Letais tanto contra alvos duros quanto macios, com estilhaços secundários por uma ampla área.</MiniRocketAPHEF.description>
+  <MiniRocketAPHEF.label>perfurante de armadura alto-explosivo de estilhaços</MiniRocketAPHEF.label>
+  <MiniRocketEMP.description>Projéteis estabilizados por aletas e assistidos por foguete, com núcleo eletromagnético, que penetram e então sobrecarregam a eletrônica do alvo com um pulso eletromagnético concentrado. Devastadores contra alvos robóticos e escudos de energia.</MiniRocketEMP.description>
+  <MiniRocketEMP.label>perfurante de armadura eletromagnetizado</MiniRocketEMP.label>
+  <MiniRocketIncendiary.description>Projéteis explosivos estabilizados por aletas e auxiliados por foguete que penetram e então explodem em uma bola de fogo incendiária.</MiniRocketIncendiary.description>
+  <MiniRocketIncendiary.label>alto-explosivo incendiário</MiniRocketIncendiary.label>
+  <MiniRocketPierce.description>Projéteis estabilizados por aletas e auxiliados por foguete que penetram, sem explosão secundária. Para situações em que o dano em área não é desejável.</MiniRocketPierce.description>
+  <MiniRocketPierce.label>perfurante de armadura pesado</MiniRocketPierce.label>
+  <MoltenShell.description>Um obus de liga metálica aquecido quase até o ponto de fusão.</MoltenShell.description>
+  <MoltenShell.label>obus fundido</MoltenShell.label>
+  <MoltenSlug.description>Um balote de liga metálica aquecido quase até o ponto de fusão.</MoltenSlug.description>
+  <MoltenSlug.label>balote fundido</MoltenSlug.label>
+  <Mono-AP.description>Flechas bodkin de fio monomolecular afiado que podem penetrar armaduras grossas.</Mono-AP.description>
+  <Mono-AP.label>mono-bodkin</Mono-AP.label>
+  <Mono-Heavy.description>Flechas de ponta larga com fio monomolecular, que têm menor poder de penetração, mas causam mais dano quando conseguem penetrar.</Mono-Heavy.description>
+  <Mono-Heavy.label>mono-broadhead</Mono-Heavy.label>
+  <MoyoBolt.description>Virote carregado de alta velocidade.</MoyoBolt.description>
+  <MoyoBolt.label>raio iônico carregado</MoyoBolt.label>
+  <MoyoCryo.description>Célula de combustível criogênica.</MoyoCryo.description>
+  <MoyoCryo.label>célula criogênica</MoyoCryo.label>
+  <MoyoNail.description>Prego de liga metálica de alta velocidade.</MoyoNail.description>
+  <MoyoNail.label>prego</MoyoNail.label>
+  <MusketBall.description>Um projétil metálico arredondado disparado por uma arma de fogo antiga de pólvora negra.</MusketBall.description>
+  <MusketBall.label>bola</MusketBall.label>
+  <Nail.description>Pregos pontiagudos organizados em tiras.</Nail.description>
+  <Nail.label>prego</Nail.label>
+  <NanobotsMT.description>Os nanobôs dentro deste projétil criarão uma microtorreta perto do local do impacto.</NanobotsMT.description>
+  <NanobotsMT.label>nanorrobôs (MT)</NanobotsMT.label>
+  <NapalmFuel.description>Líquido altamente inflamável, queima com o tempo e incendeia objetos próximos.</NapalmFuel.description>
+  <NapalmFuel.label>chemfuel gelatinoso</NapalmFuel.label>
+  <Necroa.description>Preenchido com gás contendo Necroa archovirus, este archovirus transforma peões em cambaleantes após a morte</Necroa.description>
+  <Necroa.label>Necroa</Necroa.label>
+  <Nerve.description>O projétil é revestido com uma biotoxina potente à base de bioferrita que atordoa alvos orgânicos e interrompe a regeneração.</Nerve.description>
+  <Nerve.label>nervo</Nerve.label>
+  <Netchyshell.description>Libera uma enxurrada de geleia de netch fumegante que extingue o fogo.</Netchyshell.description>
+  <Netchyshell.label>espuma de Netch</Netchyshell.label>
+  <NeutronParticle.description>Uma partícula de nêutrons que queima a carne ao impactar.</NeutronParticle.description>
+  <NeutronParticle.label>partícula de nêutron</NeutronParticle.label>
+  <NordbergHarpoon.description>Um arpão de arremesso grande usado por caçadores do norte para ferir e sangrar presas maiores.</NordbergHarpoon.description>
+  <NordbergHarpoon.label>arpão</NordbergHarpoon.label>
+  <NyaronCell.description>Arma baseada em energia.</NyaronCell.description>
+  <NyaronCell.label>célula</NyaronCell.label>
+  <PhotonCell.description>Um raio concentrado de radiação, transmitindo energia disruptiva ao alvo.</PhotonCell.description>
+  <PhotonCell.label>dardo de fóton</PhotonCell.label>
+  <Plague.description>Preenchida com gás contendo a bactéria da peste.</Plague.description>
+  <Plague.label>praga</Plague.label>
+  <Plasma.description>Gás ionizado altamente energizado, capaz de causar efeitos de queimadura devastadores.</Plasma.description>
+  <Plasma.label>plasma</Plasma.label>
+  <PlasteelArrow.description>Equipada com uma ponta de plasteel para maximizar a penetração de armadura.</PlasteelArrow.description>
+  <PlasteelArrow.label>flecha de plasteel</PlasteelArrow.label>
+  <PlasteelCrossbowBolt.description>A ponta do virote é feita de plasteel para maximizar a penetração de armadura.</PlasteelCrossbowBolt.description>
+  <PlasteelCrossbowBolt.label>virote de besta de plasteel</PlasteelCrossbowBolt.label>
+  <PlasteelSlingBullet.description>Um projétil de funda altamente refinado feito de plasteel para maximizar a penetração.</PlasteelSlingBullet.description>
+  <PlasteelSlingBullet.label>bala de funda de plasteel</PlasteelSlingBullet.label>
+  <Profaned_RotStinkArrow.description>A ponta da flecha é feita de aço para aumentar a penetração de armadura. Presa a ela há carne apodrecida para infligir uma infecção perigosa.</Profaned_RotStinkArrow.description>
+  <Profaned_RotStinkArrow.label>flecha de fedor de podridão</Profaned_RotStinkArrow.label>
+  <PurityCharged.description>O revestimento de partículas carregadas rompe armadura e tecido em igual medida. Infundido com Purity.</PurityCharged.description>
+  <PurityCharged.label>pureza</PurityCharged.label>
+  <RadiationIonising.description>Contém radiação gama ionizante que prejudica significativamente a consciência, e é um carcinógeno.</RadiationIonising.description>
+  <RadiationIonising.label>radiação</RadiationIonising.label>
+  <Rage.description>Preenchido com um agente aerotransportado especializado que induz uma raiva cega e incontrolável.</Rage.description>
+  <Rage.label>gás de fúria</Rage.label>
+  <RailgunSabot.description>Usa um sabot descartável para disparar um projétil de calibre menor a velocidades iniciais mais altas, melhorando bastante a penetração de armadura.</RailgunSabot.description>
+  <RailgunSabot.label>sabot de railgun</RailgunSabot.label>
+  <RocketArrow.description>Ponta de flecha de aço com um tubo de pólvora sob ela para resultados explosivos.</RocketArrow.description>
+  <RocketArrow.label>flecha foguete hwacha</RocketArrow.label>
+  <RocketFrag.description>Projetado para explodir em uma nuvem de estilhaços letais, dilacerando alvos moles em uma grande área.</RocketFrag.description>
+  <RocketFrag.label>estilhaços</RocketFrag.label>
+  <RocketHE.description>Projetada para explodir, danificando alvos em uma grande área.</RocketHE.description>
+  <RocketHE.label>alto-explosivo</RocketHE.label>
+  <RocketHEAT.description>Ogiva de carga moldada. Detona no impacto, criando um jato superaquecido de metal fundido que perfura a armadura inimiga.</RocketHEAT.description>
+  <RocketHEAT.label>alto-explosivo anti-tanque</RocketHEAT.label>
+  <RocketThermobaric.description>Dispersa e subsequentemente incendeia uma mistura explosiva de combustível e ar, criando uma poderosa explosão e potencialmente incendiando objetos inflamáveis.</RocketThermobaric.description>
+  <RocketThermobaric.label>termobárico</RocketThermobaric.label>
+  <RubberBullet.description>Cartucho especial projetado para engajamentos não letais de alvos, destinado a causar ferimentos dolorosos, mas não fatais.</RubberBullet.description>
+  <RubberBullet.label>projétil de borracha</RubberBullet.label>
+  <SWRocketPlasma.description>Uma carga de plasma comprimido produz uma poderosa explosão de penetração de armadura, junto com uma explosão secundária concentrada. Não possui efeitos de estilhaços, diferentemente de projetos de ogiva anteriores, limitando o raio efetivo.</SWRocketPlasma.description>
+  <SWRocketPlasma.label>carga de plasma de alta energia</SWRocketPlasma.label>
+  <Sabot.description>Usa um sabot descartável para disparar um projétil de calibre menor a velocidades iniciais mais altas, melhorando bastante a penetração de armadura.</Sabot.description>
+  <Sabot.label>perfurante de armadura com sabot descartável</Sabot.label>
+  <Scaria.description>Preenchida com gás contendo o vírus Scaria.</Scaria.description>
+  <Scaria.label>Scaria</Scaria.label>
+  <Shredder.description>Fragmenta-se no impacto em muitos pequenos estilhaços, rasgando armaduras leves e "retalhando" os alvos em tiras. Aumenta o dano aos tecidos ao custo da penetração de armadura.</Shredder.description>
+  <Shredder.label>triturador</Shredder.label>
+  <SilverBullet.description>O corpo deste projétil é de prata, o que alguns acreditam lhe conferir propriedades sobrenaturais.</SilverBullet.description>
+  <SilverBullet.label>prata</SilverBullet.label>
+  <Slag.description>Fragmentos soltos de liga metálica incandescente.</Slag.description>
+  <Slag.label>cartucho de escória</Slag.label>
+  <Sleep.description>Preenchido com um sedativo poderoso, capaz de deixar inconsciente qualquer um exposto a ele.</Sleep.description>
+  <Sleep.label>gás soporífero</Sleep.label>
+  <SleepingSickness.description>Preenchida com gás contendo o parasita da doença do sono.</SleepingSickness.description>
+  <SleepingSickness.label>doença do sono</SleepingSickness.label>
+  <Slug.description>O único projétil grande oferece melhor potencial de dano e penetração de armadura em comparação com o chumbo comum, mas é impreciso a longas distâncias.</Slug.description>
+  <Slug.label>balote</Slug.label>
+  <SmallNuke.description>Um pequeno dispositivo de fissão nuclear.</SmallNuke.description>
+  <SmallNuke.label>bomba nuclear pequena</SmallNuke.label>
+  <Smoke.description>Preenchido com um agente produtor de fumaça. Explode no impacto para gerar uma cortina de fumaça espessa.</Smoke.description>
+  <Smoke.label>fumaça</Smoke.label>
+  <Standard.description>Um projétil giroestabilizado equipado com uma ponta endurecida para penetrar armaduras e carregado com uma pequena carga explosiva.</Standard.description>
+  <Standard.label>padrão</Standard.label>
+  <SteelArrow.description>A ponta da flecha é feita de aço para aumentar a penetração de armadura.</SteelArrow.description>
+  <SteelArrow.label>flecha de aço</SteelArrow.label>
+  <SteelCrossbowBolt.description>A ponta do virote é feita de aço para aumentar a penetração de armadura.</SteelCrossbowBolt.description>
+  <SteelCrossbowBolt.label>virote de besta de aço</SteelCrossbowBolt.label>
+  <SteelSlingBullet.description>Um projétil de funda refinado feito de aço para aumentar a penetração de armadura.</SteelSlingBullet.description>
+  <SteelSlingBullet.label>bala de funda de aço</SteelSlingBullet.label>
+  <StoneArrow.description>Uma pedra afiada é presa como ponta de flecha. Corta bem o tecido exposto, mas é ineficaz contra qualquer tipo de armadura.</StoneArrow.description>
+  <StoneArrow.label>flecha de pedra</StoneArrow.label>
+  <StoneCrossbowBolt.description>Uma pedra afiada é presa a uma haste de madeira. Corta bem o tecido exposto, mas não é muito eficaz contra armadura.</StoneCrossbowBolt.description>
+  <StoneCrossbowBolt.label>virote de besta de pedra</StoneCrossbowBolt.label>
+  <StoneSlingBullet.description>Uma pedra aerodinâmica projetada para voar longe e bater forte. Não é particularmente eficaz contra armadura.</StoneSlingBullet.description>
+  <StoneSlingBullet.label>bala de funda de pedra</StoneSlingBullet.label>
+  <SupremacyCharged.description>O revestimento de partículas carregadas rompe armadura e tecido em igual medida. Infundido com Supremacy</SupremacyCharged.description>
+  <SupremacyCharged.label>supremacia</SupremacyCharged.label>
+  <SwarmShell.description>Libera vários microscythers pré-programados ao impactar.</SwarmShell.description>
+  <SwarmShell.label>obus de enxame</SwarmShell.label>
+  <Tar.description>Libera um borrifo de uma substância negra e espessa.</Tar.description>
+  <Tar.label>alcatrão</Tar.label>
+  <Taser.description>Cartucho especial projetado para engajamentos não letais de alvos, aplicando uma corrente elétrica incapacitante.</Taser.description>
+  <Taser.label>taser</Taser.label>
+  <TearGas.description>Preenchido com um agente aerotransportado especializado que ataca as membranas sensíveis dos olhos e do nariz, dificultando a visão e a respiração.</TearGas.description>
+  <TearGas.label>gás lacrimogêneo</TearGas.label>
+  <Tempest.description>Um projétil giroestabilizado que carrega um gerador de choque de plasma eficaz contra máquinas.</Tempest.description>
+  <Tempest.label>tempestade</Tempest.label>
+  <Teseum.description>Este projétil revestido de teseum oferece mais penetração sem comprometer o potencial de dano. Só pode ser disparado de armas reforçadas com teseum.</Teseum.description>
+  <Teseum.label>teseum</Teseum.label>
+  <TeseumArrow.description>A ponta da flecha é feita de teseum.</TeseumArrow.description>
+  <TeseumArrow.label>flecha de teseum</TeseumArrow.label>
+  <ThermobaricFuel.description>Preenchido com aerossol alto-explosivo que causa uma grande explosão e incendeia materiais inflamáveis.</ThermobaricFuel.description>
+  <ThermobaricFuel.label>termobárico</ThermobaricFuel.label>
+  <TomahawkLAM.description>Míssil de cruzeiro subsônico, de longo alcance, para todas as condições climáticas, movido a jato e lançado da superfície, projetado para atacar alvos terrestres.</TomahawkLAM.description>
+  <TomahawkLAM.label>míssil Tomahawk</TomahawkLAM.label>
+  <Toxic.description>Preenchido com gás tóxico, um agente cáustico que queima os pulmões e os olhos. A exposição contínua a ele resulta em acúmulo tóxico que pode ser letal.</Toxic.description>
+  <Toxic.label>tóxico</Toxic.label>
+  <TranqNonLethal.description>Cartucho especial projetado para engajamentos não letais de alvos. Preenchido com sedativos de ação rápida e com a ponta de uma agulha hipodérmica.</TranqNonLethal.description>
+  <TranqNonLethal.label>tranquilizante</TranqNonLethal.label>
+  <VQEC_Crypto.description>Projéteis com núcleo de metal envoltos em uma tecnologia cripto instável, capazes de causar tanto dano balístico quanto dano de frio.</VQEC_Crypto.description>
+  <VQEC_Crypto.label>cripto</VQEC_Crypto.label>
+  <VenomArrow.description>A ponta da flecha é feita de aço e revestida com toxina.</VenomArrow.description>
+  <VenomArrow.label>flecha de veneno</VenomArrow.label>
+  <VenomCrossbowBolt.description>A ponta do virote de besta é feita de aço e revestida com toxina.</VenomCrossbowBolt.description>
+  <VenomCrossbowBolt.label>virote de besta de veneno</VenomCrossbowBolt.label>
+  <XCOM_Laser.description>Baterias e reagentes que podem alimentar um emissor de chemlaser. Os reagentes geram laser em comprimentos de onda visíveis.</XCOM_Laser.description>
+  <XCOM_Laser.label>laser</XCOM_Laser.label>
+  <XCOM_LaserEMP.description>Baterias e reagentes que podem alimentar um emissor de chemlaser. Os reagentes geram laser em comprimentos de onda de rádio, perturbando sistemas eletrônicos.</XCOM_LaserEMP.description>
+  <XCOM_LaserEMP.label>laser EM</XCOM_LaserEMP.label>
+  <XCOM_LaserHP.description>Baterias e reagentes que podem alimentar um emissor de laser químico. Os reagentes geram laser em comprimentos de onda ultravioleta, fornecendo mais energia e causando mais dano.</XCOM_LaserHP.description>
+  <XCOM_LaserHP.label>laser ultravioleta</XCOM_LaserHP.label>
+  <XCOM_LaserInc.description>Baterias e reagentes que podem alimentar um emissor de chemlaser. Os reagentes geram laser em comprimentos de onda infravermelhos, causando queimaduras e iniciando incêndios.</XCOM_LaserInc.description>
+  <XCOM_LaserInc.label>laser infravermelho</XCOM_LaserInc.label>
+  <XCOM_MAGShotgun.description>Usa um sabot descartável para disparar vários projéteis de calibre menor a velocidades iniciais mais altas, melhorando bastante a penetração de armadura.</XCOM_MAGShotgun.description>
+  <XCOM_MAGShotgun.label>railgun de dispersão</XCOM_MAGShotgun.label>
+  <XCOM_PlasmaDense.description>Gás ionizado altamente energizado, capaz de causar efeitos de queimadura devastadores.</XCOM_PlasmaDense.description>
+  <XCOM_PlasmaDense.label>plasma denso</XCOM_PlasmaDense.label>
+  <XCOM_PlasmaLight.description>Gás ionizado altamente energizado, capaz de causar efeitos de queimadura devastadores.</XCOM_PlasmaLight.description>
+  <XCOM_PlasmaLight.label>plasma leve</XCOM_PlasmaLight.label>
+  <XCOM_PlasmaUnstable.description>Gás ionizado altamente energizado, capaz de causar efeitos de queimadura devastadores.</XCOM_PlasmaUnstable.description>
+  <XCOM_PlasmaUnstable.label>plasma instável</XCOM_PlasmaUnstable.label>
+</LanguageData>

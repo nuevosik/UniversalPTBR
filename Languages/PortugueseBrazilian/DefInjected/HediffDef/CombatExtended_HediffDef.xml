@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_LowBleed.description>Esta criatura sangra muito pouco.</AA_LowBleed.description>
+  <AA_LowBleed.label>fator de regeneração</AA_LowBleed.label>
+  <AprometheumSoaked.description>Encharcado de Prometheum Acelerado</AprometheumSoaked.description>
+  <AprometheumSoaked.label>encharcado de Prometheum acelerado</AprometheumSoaked.label>
+  <AprometheumSoaked.stages.0.label>leve</AprometheumSoaked.stages.0.label>
+  <AprometheumSoaked.stages.1.label>gotejando</AprometheumSoaked.stages.1.label>
+  <AprometheumSoaked.stages.2.label>encharcado</AprometheumSoaked.stages.2.label>
+  <AprometheumSoaked.stages.3.label>encharcado</AprometheumSoaked.stages.3.label>
+  <AprometheumSoaked.stages.4.label>encharcado</AprometheumSoaked.stages.4.label>
+  <AprometheumSoaked.stages.5.label>encharcado</AprometheumSoaked.stages.5.label>
+  <AprometheumSoaked.stages.6.label>encharcado demais</AprometheumSoaked.stages.6.label>
+  <BioferriteToxicity.description>Devastado pelos efeitos da toxicidade de bioferrite.</BioferriteToxicity.description>
+  <BioferriteToxicity.label>toxicidade de bioferrita</BioferriteToxicity.label>
+  <BioferriteToxicity.stages.0.label>leve</BioferriteToxicity.stages.0.label>
+  <BioferriteToxicity.stages.1.label>moderado</BioferriteToxicity.stages.1.label>
+  <BioferriteToxicity.stages.2.label>grave</BioferriteToxicity.stages.2.label>
+  <BioferriteToxicity.stages.3.label>severo</BioferriteToxicity.stages.3.label>
+  <BioferriteToxicity.stages.4.label>extremo</BioferriteToxicity.stages.4.label>
+  <Blast.description>Destroçado</Blast.description>
+  <Blast.label>atingido por explosão</Blast.label>
+  <BruiseBeanbag.label>hematoma de balote</BruiseBeanbag.label>
+  <BruiseBeanbag.labelNoun>um hematoma de balote</BruiseBeanbag.labelNoun>
+  <CrackBeanbag.label>trinca de balote</CrackBeanbag.label>
+  <CrackBeanbag.labelNoun>uma trinca de balote</CrackBeanbag.labelNoun>
+  <ElectricalBurn.label>queimadura elétrica</ElectricalBurn.label>
+  <Flashbanged.description>Visão e audição temporariamente comprometidas por causa de um clarão intenso.</Flashbanged.description>
+  <Flashbanged.label>cegado por um clarão</Flashbanged.label>
+  <Flashbanged.stages.0.label>irritado</Flashbanged.stages.0.label>
+  <Flashbanged.stages.1.label>desorientado</Flashbanged.stages.1.label>
+  <Flashbanged.stages.2.label>cegado</Flashbanged.stages.2.label>
+  <HarmonyBullet.label>toxina de harmonia</HarmonyBullet.label>
+  <HarmonyBullet.labelNoun>toxina de harmonia</HarmonyBullet.labelNoun>
+  <JJ_LowBleed.description>Esta criatura sangra muito pouco.</JJ_LowBleed.description>
+  <JJ_LowBleed.label>fator de regeneração</JJ_LowBleed.label>
+  <ME_Freeze.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecido, a hipotermia piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida. Evite a hipotermia usando roupas quentes em ambientes frios.</ME_Freeze.description>
+  <ME_Freeze.label>congelamento</ME_Freeze.label>
+  <ME_Freeze.stages.0.label>tremendo</ME_Freeze.stages.0.label>
+  <ME_Freeze.stages.1.label>tremendo</ME_Freeze.stages.1.label>
+  <ME_Freeze.stages.2.label>leve</ME_Freeze.stages.2.label>
+  <ME_Freeze.stages.3.label>sério</ME_Freeze.stages.3.label>
+  <ME_Freeze.stages.4.label>extremo</ME_Freeze.stages.4.label>
+  <ME_Freeze.stages.5.label>congelado</ME_Freeze.stages.5.label>
+  <ME_PrometheumSoaked.description>Atingido por balote incendiário</ME_PrometheumSoaked.description>
+  <ME_PrometheumSoaked.label>agente incendiário</ME_PrometheumSoaked.label>
+  <ME_PrometheumSoaked.stages.0.label>leve</ME_PrometheumSoaked.stages.0.label>
+  <ME_PrometheumSoaked.stages.1.label>gotejando</ME_PrometheumSoaked.stages.1.label>
+  <ME_PrometheumSoaked.stages.2.label>encharcado</ME_PrometheumSoaked.stages.2.label>
+  <ME_PrometheumSoaked.stages.3.label>encharcado</ME_PrometheumSoaked.stages.3.label>
+  <ME_Toxic.description>Neurotoxina na corrente sanguínea. Causa náusea e degradação grave das funções neuromotoras.\n			\nEm doses altas, o acúmulo tóxico pode causar graves efeitos à saúde. Mesmo em doses baixas, pode gerar cânceres.\n			\nCriaturas que morrem com acúmulo tóxico não podem ser comidas.</ME_Toxic.description>
+  <ME_Toxic.label>cartucho de toxina</ME_Toxic.label>
+  <ME_Toxic.stages.0.label>inicial</ME_Toxic.stages.0.label>
+  <ME_Toxic.stages.1.label>inicial</ME_Toxic.stages.1.label>
+  <ME_Toxic.stages.2.label>leve</ME_Toxic.stages.2.label>
+  <ME_Toxic.stages.3.label>moderado</ME_Toxic.stages.3.label>
+  <ME_Toxic.stages.4.label>sério</ME_Toxic.stages.4.label>
+  <ME_Toxic.stages.5.label>extremo</ME_Toxic.stages.5.label>
+  <MuscleSpasms.description>Espasmos musculares</MuscleSpasms.description>
+  <MuscleSpasms.label>espasmos musculares</MuscleSpasms.label>
+  <MuscleSpasms.stages.0.label>trivial</MuscleSpasms.stages.0.label>
+  <MuscleSpasms.stages.1.label>leve</MuscleSpasms.stages.1.label>
+  <MuscleSpasms.stages.2.label>moderado</MuscleSpasms.stages.2.label>
+  <MuscleSpasms.stages.3.label>severo</MuscleSpasms.stages.3.label>
+  <MuscleSpasms.stages.4.label>extremo</MuscleSpasms.stages.4.label>
+  <Neuralizer.description>Atordoado por um pulso de energia poderoso, porém não letal, que perturba o sistema nervoso.</Neuralizer.description>
+  <Neuralizer.label>neuralizador</Neuralizer.label>
+  <Neuralizer_weak.description>Atingido por um pulso de energia não letal que perturba o sistema nervoso.</Neuralizer_weak.description>
+  <Neuralizer_weak.label>neuralizador</Neuralizer_weak.label>
+  <PlatypusVenom.label>ferroada de veneno de ornitorrinco</PlatypusVenom.label>
+  <PlatypusVenom.labelNoun>o veneno do esporão de um ornitorrinco</PlatypusVenom.labelNoun>
+  <PrometheumSoaked.description>Encharcado de Prometheum</PrometheumSoaked.description>
+  <PrometheumSoaked.label>encharcado de Prometheum</PrometheumSoaked.label>
+  <PrometheumSoaked.stages.0.label>leve</PrometheumSoaked.stages.0.label>
+  <PrometheumSoaked.stages.1.label>gotejando</PrometheumSoaked.stages.1.label>
+  <PrometheumSoaked.stages.2.label>encharcado</PrometheumSoaked.stages.2.label>
+  <PrometheumSoaked.stages.3.label>encharcado</PrometheumSoaked.stages.3.label>
+  <PsychoCrash.description>Um efeito colateral retardado muito desagradável da ingestão de psico.</PsychoCrash.description>
+  <PsychoCrash.label>queda de psico</PsychoCrash.label>
+  <PsychoCrash.labelNoun>uma queda de psico</PsychoCrash.labelNoun>
+  <PsychoCrash.stages.0.label>recuperando</PsychoCrash.stages.0.label>
+  <PsychoCrash.stages.1.label>grave</PsychoCrash.stages.1.label>
+  <PsychoCrash.stages.2.label>inicial</PsychoCrash.stages.2.label>
+  <PsychoHigh.description>Psico ativo na corrente sanguínea. Gera uma onda de euforia muito intensa.</PsychoHigh.description>
+  <PsychoHigh.label>sob efeito de psico</PsychoHigh.label>
+  <PsychoHigh.labelNoun>uma onda de psico</PsychoHigh.labelNoun>
+  <SW_Stun.description>Atordoado</SW_Stun.description>
+  <SW_Stun.label>atordoado</SW_Stun.label>
+  <SW_Stun.stages.0.label>trivial</SW_Stun.stages.0.label>
+  <SW_Stun.stages.1.label>leve</SW_Stun.stages.1.label>
+  <SW_Stun.stages.2.label>moderado</SW_Stun.stages.2.label>
+  <SW_Stun.stages.3.label>severo</SW_Stun.stages.3.label>
+  <SW_Stun.stages.4.label>extremo</SW_Stun.stages.4.label>
+  <ScorpionVenom.label>ferroada de veneno de escorpião</ScorpionVenom.label>
+  <ScorpionVenom.labelNoun>veneno de escorpião</ScorpionVenom.labelNoun>
+  <SmokeInhalation.description>Os efeitos de inalar fumaça negra tóxica, causando dificuldade para respirar e toxicidade sistêmica. Desaparece por conta própria após um tempo.</SmokeInhalation.description>
+  <SmokeInhalation.label>inalação de fumaça</SmokeInhalation.label>
+  <SmokeInhalation.stages.0.label>inicial</SmokeInhalation.stages.0.label>
+  <SmokeInhalation.stages.1.label>inicial</SmokeInhalation.stages.1.label>
+  <SmokeInhalation.stages.2.label>leve</SmokeInhalation.stages.2.label>
+  <SmokeInhalation.stages.3.label>moderado</SmokeInhalation.stages.3.label>
+  <SmokeInhalation.stages.4.label>sério</SmokeInhalation.stages.4.label>
+  <SmokeInhalation.stages.5.label>extremo</SmokeInhalation.stages.5.label>
+  <StunstickBurn.label>queimadura de bastão de choque</StunstickBurn.label>
+  <StunstickBurn.labelNoun>uma queimadura de bastão de choque</StunstickBurn.labelNoun>
+  <TaserStab.label>perfuração</TaserStab.label>
+  <TaserStab.labelNoun>um ferimento perfurante por farpas de taser</TaserStab.labelNoun>
+  <Tranquilizer.description>Os efeitos de um dardo tranquilizante</Tranquilizer.description>
+  <Tranquilizer.label>tranquilizante</Tranquilizer.label>
+  <VFEI_Berserk.description>.</VFEI_Berserk.description>
+  <VFEI_Berserk.label>fúria</VFEI_Berserk.label>
+  <VenomBuildup.description>Veneno se acumulando.\n\nO acúmulo continuará até que todos os ferimentos venenosos sejam tratados. A taxa de acúmulo proveniente de ferimentos tratados é reduzida pela qualidade do tratamento e cai ainda mais com o passar do tempo; ela acabará parando por completo, desde que a vítima sobreviva tanto tempo.</VenomBuildup.description>
+  <VenomBuildup.label>acúmulo de veneno</VenomBuildup.label>
+  <VenomBuildup.stages.0.label>inicial</VenomBuildup.stages.0.label>
+  <VenomBuildup.stages.1.label>inicial</VenomBuildup.stages.1.label>
+  <VenomBuildup.stages.2.label>leve</VenomBuildup.stages.2.label>
+  <VenomBuildup.stages.3.label>moderado</VenomBuildup.stages.3.label>
+  <VenomBuildup.stages.4.label>sério</VenomBuildup.stages.4.label>
+  <VenomBuildup.stages.5.label>extremo</VenomBuildup.stages.5.label>
+  <VenomousArrow.label>ferimento venenoso</VenomousArrow.label>
+  <VenomousArrow.labelNoun>um ferimento de flecha venenosa</VenomousArrow.labelNoun>
+  <VenomousBite.label>mordida venenosa</VenomousBite.label>
+  <VenomousBite.labelNoun>um ferimento de mordida venenosa</VenomousBite.labelNoun>
+  <VenomousScratch.label>arranhão venenoso</VenomousScratch.label>
+  <VenomousScratch.labelNoun>um ferimento de arranhão venenoso</VenomousScratch.labelNoun>
+  <WearingGasMask.description>Usando uma máscara de gás</WearingGasMask.description>
+  <WearingGasMask.label>máscara de gás</WearingGasMask.label>
+  <WearingGasMask.stages.0.label>usando</WearingGasMask.stages.0.label>
+</LanguageData>

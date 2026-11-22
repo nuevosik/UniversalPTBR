@@ -22,8 +22,8 @@
   <AB_BiomeBuildingsDesc>Abra um menu para construir edifícios específicos do bioma.</AB_BiomeBuildingsDesc>
   <AB_BiomeCommonalities>Frequências dos biomas. Defina como 0 para impedir que o bioma seja gerado:</AB_BiomeCommonalities>
   <AB_BiomeMultiplier>multiplicador de frequência de {0}</AB_BiomeMultiplier>
-  <AB_BrighterCrags>Penhascos Abandonados mais claros</AB_BrighterCrags>
-  <AB_BrighterCragsDescription>Torna os Penhascos Abandonados bem mais claros, para aqueles com uma tela de PC que deixa os Penhascos MUITO escuros. Essa mudança entra em vigor na próxima mudança de clima no mapa, ou ao recarregar o jogo salvo.</AB_BrighterCragsDescription>
+  <AB_BrighterCrags>Penhascos dos Forsakens mais claros</AB_BrighterCrags>
+  <AB_BrighterCragsDescription>Torna os Penhascos dos Forsakens bem mais claros, para aqueles com uma tela de PC que deixa os Penhascos MUITO escuros. Essa mudança entra em vigor na próxima mudança de clima no mapa, ou ao recarregar o jogo salvo.</AB_BrighterCragsDescription>
   <AB_ChooseMine>Escolha o tipo de pedaço a perfurar</AB_ChooseMine>
   <AB_ChooseMineDesc>Escolha o tipo de pedaço a perfurar. Você pode escolher qualquer um dos tipos de rocha do jogo base, ou aleatório</AB_ChooseMineDesc>
   <AB_ChunkGraniteMine>Perfurar para obter pedaços de granito</AB_ChunkGraniteMine>
@@ -38,8 +38,8 @@
   <AB_Distance_Propane>Bombas de propano precisam estar a pelo menos 12 quadrados de distância uma da outra</AB_Distance_Propane>
   <AB_DrillingStoneType>Tipo de pedra a perfurar:</AB_DrillingStoneType>
   <AB_DrillingStoneTypeRandom>Tipo de pedra a perfurar: Aleatório</AB_DrillingStoneTypeRandom>
-  <AB_ExtractPropane>Extrair 150 de propano</AB_ExtractPropane>
-  <AB_ExtractPropaneDesc>Extrai 150 de propano do tanque. Um colono virá fazer a extração.</AB_ExtractPropaneDesc>
+  <AB_ExtractPropane>Extrair 150 unidades de propano</AB_ExtractPropane>
+  <AB_ExtractPropaneDesc>Extrai 150 unidades de propano do tanque. Um colono virá fazer a extração.</AB_ExtractPropaneDesc>
   <AB_FeaturesInThisTile>Elementos neste quadrado:</AB_FeaturesInThisTile>
   <AB_LandmarkMutatorMultiplier>Frequência de elementos de ponto de referência (requer novo mundo)</AB_LandmarkMutatorMultiplier>
   <AB_LandmarkMutatorMultiplierTooltip>A frequência de elementos do mapa em mapas de pontos de referência será multiplicada por este número (20 significa que um determinado elemento de ponto de referência será 20 vezes mais comum). Requer criar um novo planeta!</AB_LandmarkMutatorMultiplierTooltip>
@@ -60,8 +60,8 @@
   <AB_ResearchNeeded>Não pode ser construído até que {0} tenha sido pesquisado pela colônia</AB_ResearchNeeded>
   <AB_Reset>Redefinir {0}</AB_Reset>
   <AB_Reset_Plain>Redefinir</AB_Reset_Plain>
-  <AB_ShowBuildingsButton>Mostrar botão "estruturas do bioma" em Móveis</AB_ShowBuildingsButton>
-  <AB_ShowBuildingsButtonDescription>Por padrão, haverá um botão "construir estruturas do bioma" no menu Arquitetura, aba Móveis. Você pode usá-lo para construir edifícios específicos do bioma. Mas também pode escondê-lo, porque reeeeee inchaço, e então você não o verá. Também não poderá construí-los. Esse é o preço a pagar.\n\nRequer recarregar o jogo.</AB_ShowBuildingsButtonDescription>
+  <AB_ShowBuildingsButton>Mostrar botão "estruturas do bioma" na aba Móveis</AB_ShowBuildingsButton>
+  <AB_ShowBuildingsButtonDescription>Por padrão, haverá um botão "construir estruturas do bioma" no menu Arquitetura, aba Móveis. Você pode usá-lo para construir edifícios específicos do bioma. Mas também pode escondê-lo, porque é muita coisa, e então você não o verá. Também não poderá construí-los. Esse é o preço a pagar.\n\nRequer recarregar o jogo.</AB_ShowBuildingsButtonDescription>
   <AB_SlimeCompressorNotWorking>Este compressor de limo não está funcionando no momento</AB_SlimeCompressorNotWorking>
   <AB_SpawnBiome>Criar {0} na geração do planeta</AB_SpawnBiome>
   <AB_SpawningNextBumbledrone>Gerando um novo Bumbledrone em {0}</AB_SpawningNextBumbledrone>
@@ -70,7 +70,7 @@
   <AB_TerrainCannotSupport_Propane>A bomba precisa ser construída sobre solo sólido de propano</AB_TerrainCannotSupport_Propane>
   <AB_UseAgariluxParticles>Agarilux Prime produz gás nocivo</AB_UseAgariluxParticles>
   <AB_UseAgariluxParticlesDesc>O cogumelo Agarilux Prime na Selva Micótica produz uma nuvem de esporos brutalmente nocivos que danificam tudo. Se você não gosta dessa mecânica, pode desativá-la com esta opção.</AB_UseAgariluxParticlesDesc>
-  <AB_WarningLowEfficiency>Bomba operando em modo de baixa eficiência devido à ausência de Buraco de Alcatrão</AB_WarningLowEfficiency>
+  <AB_WarningLowEfficiency>Bomba operando em modo de baixa eficiência devido à ausência de buraco de alcatrão</AB_WarningLowEfficiency>
   <AM_AvailableStructures>Estruturas disponíveis para este bioma:</AM_AvailableStructures>
   <AM_CurrentBiome>Bioma atual:</AM_CurrentBiome>
   <AM_None>Nenhuma</AM_None>

@@ -14,4 +14,12 @@
   <DMS_ProcessDocumentQuest.root.nodes.6.text>Documentos classificados de [asker_nameFull] chegaram. Eles foram deixados perto dos seus faróis comerciais ou do centro da colônia.</DMS_ProcessDocumentQuest.root.nodes.6.text>
   <DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.label>Documentos Destruídos</DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.label>
   <DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.text>Como os documentos foram destruídos, a missão falhou.</DMS_ProcessDocumentQuest.root.nodes.7.node.nodes.0.text>
+  <DMS_DeviantRefuge.questNameRules.rulesStrings>
+    <li>questName->O dissidente</li>
+    <li>questName->Refúgio do dissidente: [deviant_nameFull]</li>
+    <li>questName->Um desertor da frota</li>
+  </DMS_DeviantRefuge.questNameRules.rulesStrings>
+  <DMS_DeviantRefuge.questDescriptionRules.rulesStrings>
+    <li>questDescription->Alguém que se apresenta como [deviant_nameFull] está nos chamando em uma frequência privada. [deviant_pronoun] serviu nos quadros de [fleetName] até ver a frota deixar uma guerra que poderia ter sido evitada seguir seu curso em nome de suas regras, e então abandonou o posto. Agora a frota procura [deviant_objective], e [deviant_pronoun] pede para se estabelecer em [map_definite].\n\n[deviant_nameDef] carrega um arquivo criptografado copiado dos bancos de dados da frota. Em alguns dias, diz [deviant_pronoun], será possível restaurar seu conteúdo para nós.\n\nCuidado: no momento em que o arquivo for restaurado, [fleetName] saberá que estamos abrigando [deviant_nameDef] e exigirá [deviant_objective] de volta. Se recusarmos, a frota ficará hostil e continuará enviando caçadores atrás de [deviant_objective] até que [deviant_objective] morra ou deixe a colônia.\n\nSó aceite se estiver pronto para fazer um inimigo de [fleetName].</li>
+  </DMS_DeviantRefuge.questDescriptionRules.rulesStrings>
 </LanguageData>
